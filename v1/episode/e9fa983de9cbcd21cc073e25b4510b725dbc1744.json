@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "guid": "6a0d0a152193dd33138bc8bff0b37d40",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Deus Ex (SF 148)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1667189-m-79c57465177a9af364720410c9089834.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:44:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Deus Ex und das Erbe des Klassikers aus dem Jahr 2000.",
+  "kurzfassung": "Die Hosts analysieren den Immersive-Sim-Meilenstein Deus Ex aus dem Jahr 2000. Dabei beleuchten sie die Spielmechaniken, die Entstehungsgeschichte rund um Warren Spector und John Romero sowie die Frage, wie gut das Spiel seine Ambitionen bezüglich Entscheidungsfreiheit und Konsequenzen einlöst. Auch Kritikpunkte wie das teils unausgegorene Skillsystem und logische Brüche in der Erzählung werden ausführlich diskutiert.",
+  "stichpunkte": [
+    "Deus Ex gilt als prototypischer Vertreter und erster Namensgeber des Genres der Immersive Sim.",
+    "Das Spiel verbindet Elemente aus Ego-Shooter, Schleichspiel und Rollenspiel mit einer cyberpunkartigen Verschwörungserzählung.",
+    "Spieler haben die Freiheit, Missionen auf vielfältige Weise durch Schleichen, Kämpfen oder Hacking zu lösen.",
+    "Die Entwicklung unter Warren Spector bei Ion Storm Austin profitierte maßgeblich von der Unterstützung durch John Romero und der Unreal Engine.",
+    "Während die Atmosphäre und der spielerische Freiraum gelobt werden, kritisieren die Hosts Logiklücken in der Story und das wenig tiefgreifende Skillsystem.",
+    "Das Spiel leidet gelegentlich unter kognitiven Dissonanzen, da gewaltfreie Lösungswege oder Diebstähle kaum spürbare Konsequenzen haben.",
+    "Mit der Game of the Year Edition und Community-Mods wie der Revision-Mod lässt sich der Klassiker auch heute noch gut auf moderner Hardware spielen."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 23.0
+    },
+    {
+      "titel": "Das Abstimmungsergebnis",
+      "start": 198.0
+    },
+    {
+      "titel": "Was für ein Genre ist das?",
+      "start": 289.0
+    },
+    {
+      "titel": "Die Rahmenhandlung: Das Jahr 2052",
+      "start": 451.0
+    },
+    {
+      "titel": "Der Protagonist: JC Denton",
+      "start": 515.0
+    },
+    {
+      "titel": "Eine Reise um die Welt",
+      "start": 655.0
+    },
+    {
+      "titel": "Verschwörungstheorien",
+      "start": 748.0
+    },
+    {
+      "titel": "Ein hybrides Spiel",
+      "start": 836.0
+    },
+    {
+      "titel": "Das Rollenspiel-System",
+      "start": 996.0
+    },
+    {
+      "titel": "Augmentierungen",
+      "start": 1023.0
+    },
+    {
+      "titel": "Talente",
+      "start": 1057.0
+    },
+    {
+      "titel": "Charaktergenerierung",
+      "start": 1081.0
+    },
+    {
+      "titel": "Redundante Systeme und Möglichkeitsraum",
+      "start": 1117.0
+    },
+    {
+      "titel": "Wir optimieren eine Schrotflinte",
+      "start": 1320.0
+    },
+    {
+      "titel": "\"Wähle deinen eigenen Weg\"",
+      "start": 1417.0
+    },
+    {
+      "titel": "Eine Serie von Mikro-Entscheidungen",
+      "start": 1524.0
+    },
+    {
+      "titel": "Eine Beispielmission: Hong-Kong, China",
+      "start": 1632.0
+    },
+    {
+      "titel": "Vor dem Queen's Tower",
+      "start": 1762.0
+    },
+    {
+      "titel": "Gunnar: Der Action-Weg",
+      "start": 1785.0
+    },
+    {
+      "titel": "Gittertür aufsprengen",
+      "start": 1826.0
+    },
+    {
+      "titel": "Feuergefechte",
+      "start": 1849.0
+    },
+    {
+      "titel": "In Maggie Chows Labor",
+      "start": 1879.0
+    },
+    {
+      "titel": "Gunnar hackt die Aufbewahrungskammer",
+      "start": 1934.0
+    },
+    {
+      "titel": "Das Schwert gleich mal ausprobieren",
+      "start": 1954.0
+    },
+    {
+      "titel": "Chris: Der Heimlichkeits-Weg",
+      "start": 1996.0
+    },
+    {
+      "titel": "Im Aufzugsschacht",
+      "start": 2015.0
+    },
+    {
+      "titel": "Auf dem Dach",
+      "start": 2044.0
+    },
+    {
+      "titel": "Heimlich durch die Lichtschranke",
+      "start": 2065.0
+    },
+    {
+      "titel": "Gasgranate!",
+      "start": 2107.0
+    },
+    {
+      "titel": "Den Computer hacken",
+      "start": 2140.0
+    },
+    {
+      "titel": "Sprung vom Dach",
+      "start": 2165.0
+    },
+    {
+      "titel": "Fabian: Der Rollenspiel-Weg",
+      "start": 2197.0
+    },
+    {
+      "titel": "Die verdächtige Laterne",
+      "start": 2253.0
+    },
+    {
+      "titel": "Schwert holen und raus",
+      "start": 2291.0
+    },
+    {
+      "titel": "Spielmechanische Varianten",
+      "start": 2356.0
+    },
+    {
+      "titel": "Gegnertypen: Menschen, Roboter ...",
+      "start": 2525.0
+    },
+    {
+      "titel": "... und Kreaturen",
+      "start": 2539.0
+    },
+    {
+      "titel": "Rumballern: möglich, aber gefährlich",
+      "start": 2556.0
+    },
+    {
+      "titel": "Ein Hindernis-Spiel",
+      "start": 2608.0
+    },
+    {
+      "titel": "Erkundung wird belohnt",
+      "start": 2707.0
+    },
+    {
+      "titel": "Die Handlung",
+      "start": 2759.0
+    },
+    {
+      "titel": "Mysteriöse Männer in Schwarz",
+      "start": 2831.0
+    },
+    {
+      "titel": "Wer ist der Mann bei unserem Chef?",
+      "start": 2884.0
+    },
+    {
+      "titel": "Manderley hat schlechte Nachrichten",
+      "start": 2955.0
+    },
+    {
+      "titel": "Im Zellentrakt",
+      "start": 3009.0
+    },
+    {
+      "titel": "Schnüffeln in Annas E-Mails",
+      "start": 3067.0
+    },
+    {
+      "titel": "Geheimnisse über Geheimnisse",
+      "start": 3104.0
+    },
+    {
+      "titel": "Seitenwechsel",
+      "start": 3179.0
+    },
+    {
+      "titel": "Dialoge und ihre Variationen",
+      "start": 3249.0
+    },
+    {
+      "titel": "Hauptcharaktere können sterben",
+      "start": 3442.0
+    },
+    {
+      "titel": "Entdeckungsfreiheit am Beispiel Morgan Everett: Morpheus ...",
+      "start": 3481.0
+    },
+    {
+      "titel": "... Lucius DeBeers",
+      "start": 3544.0
+    },
+    {
+      "titel": "... und ein dubioser Mechaniker",
+      "start": 3595.0
+    },
+    {
+      "titel": "Dramatische Konsequenz",
+      "start": 3636.0
+    },
+    {
+      "titel": "Stimmungsvolle Musik",
+      "start": 3709.0
+    },
+    {
+      "titel": "Wiederspielwert",
+      "start": 3774.0
+    },
+    {
+      "titel": "Die Entstehungsgeschichte: Warren Spector bei Origin Systems",
+      "start": 3859.0
+    },
+    {
+      "titel": "Aus Spectors Team wird Ion Storm Austin",
+      "start": 3984.0
+    },
+    {
+      "titel": "Ein Aha-Moment durch Thief",
+      "start": 4107.0
+    },
+    {
+      "titel": "Inspiration GoldenEye 007",
+      "start": 4220.0
+    },
+    {
+      "titel": "Weitere Vorbilder",
+      "start": 4269.0
+    },
+    {
+      "titel": "Ein riskantes Spielkonzept",
+      "start": 4337.0
+    },
+    {
+      "titel": "Eine Design-Philosophie entsteht",
+      "start": 4510.0
+    },
+    {
+      "titel": "Zwei Kandidaten für die Leitungsrolle",
+      "start": 4706.0
+    },
+    {
+      "titel": "Harvey Smith",
+      "start": 4833.0
+    },
+    {
+      "titel": "Konflikte zwischen den Teams",
+      "start": 5116.0
+    },
+    {
+      "titel": "Wie das Spiel anfangs mal gedacht war",
+      "start": 5351.0
+    },
+    {
+      "titel": "Die Unreal-Engine und ihre Limitationen",
+      "start": 5534.0
+    },
+    {
+      "titel": "Promis testen das Spiel, sind nicht begeistert",
+      "start": 5780.0
+    },
+    {
+      "titel": "Späte Änderungen bei den Charakteren",
+      "start": 5837.0
+    },
+    {
+      "titel": "Harter Crunch",
+      "start": 5890.0
+    },
+    {
+      "titel": "Presse-Reaktionen",
+      "start": 5978.0
+    },
+    {
+      "titel": "Doch noch Multiplayer, per Patch",
+      "start": 6083.0
+    },
+    {
+      "titel": "Späte Playstation-2-Version",
+      "start": 6118.0
+    },
+    {
+      "titel": "Der Nachfolger, Deus Ex: Invisible War (2003)",
+      "start": 6205.0
+    },
+    {
+      "titel": "Deus Ex unter anderem Namen: Project Snowblind (2005)",
+      "start": 6327.0
+    },
+    {
+      "titel": "Deus Ex: Human Revolution (2011)",
+      "start": 6383.0
+    },
+    {
+      "titel": "Diskussion: Bedeutungsvolle Entscheidungen in der Spielweise ...",
+      "start": 6457.0
+    },
+    {
+      "titel": "... der Charakter-Progression ...",
+      "start": 6695.0
+    },
+    {
+      "titel": "... und der Handlung",
+      "start": 6968.0
+    },
+    {
+      "titel": "Lebedev erschießen?",
+      "start": 7150.0
+    },
+    {
+      "titel": "Was passiert, wenn ich niemanden töte?",
+      "start": 7250.0
+    },
+    {
+      "titel": "Ambition und Erinnerung",
+      "start": 7444.0
+    },
+    {
+      "titel": "Chris hadert mit der Story von Deus Ex",
+      "start": 7558.0
+    },
+    {
+      "titel": "Offene Enden",
+      "start": 7859.0
+    },
+    {
+      "titel": "Eine Fallstudie in \"Suspension of Disbelief\"",
+      "start": 8054.0
+    },
+    {
+      "titel": "Was erklärt den Ruhm von Deus Ex?",
+      "start": 8185.0
+    },
+    {
+      "titel": "Deus Ex heute spielen: Am besten mit Mods",
+      "start": 8326.0
+    },
+    {
+      "titel": "Gunnars Lieblings-Bug",
+      "start": 8443.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:44:08+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 8589,
+  "veroeffentlicht": "2024-11-10T10:11:21+00:00",
+  "beschreibung": "Choices and consequences\nIm Jahr 2000 veröffentlichte das Studio Ion Storm mit Deus Ex einen Titel, der ambitioniert die Grenzen zwischen Rollenspiel, Shooter und Schleichspiel verwischte – und dabei einen Meilenstein der Spielegeschichte setzte. In einer düsteren Cyberpunk-Zukunft übernimmt der Spieler die Rolle von JC Denton, einem biomechanisch augmentierten Agenten, und taucht ein in eine Spielwelt voller Gewalt, ethischer Dilemmata und... spielerischer Freiheit.\n\nChristian und Gunnar sprechen in dieser Folge über die Entstehung des Spiels unter der Leitung von Warren Spector, analysieren die Mechanik und diskutieren, wie richtungweisend Deus Ex damals war und wie es seine Versprechen einlöst. Ein Blick zurück auf ein hochdekoriertes Spiel, das trotz seines Alters immer noch als Maßstab für interaktives Storytelling gilt. (Hinweis: Wer uns auf Patreon/Steady unterstützt, erhält in Kürze noch eine zusätzliche Folge, in der eine Reihe von Sachen untergebracht ist, die hier nicht mehr reingepasst haben oder zu spät fertig wurden.)\n\nDiese Folge ist ein \"Remake\", wir haben 2011 in Folge 2 schon mal über Deus Ex gesprochen, in einem kurzen und, uh, launigen Anekdotengespräch, in dem es mehr um die Firma Ion Storm als um das Spiel ging. Stay Forever war damals ein ziemlich anderer Podcast... Egal, unsere Unterstützer(innen) haben sich eine Neuauflage gewünscht, hier ist sie.\n\nInfos zum Spiel:\n\nThema: Deus Ex\nErscheinungstermin: 23.6.2000\nPlattform: Windows\nEntwickler: Ion Storm Austin\nPublisher: Eidos Interactive\nGenre: Immersive Sim\nDesigner: Warren Spector, Harvey Smith, Chris Norden u.a.\nMusik: Alexander Brandon\n\nPodcast-Credits:\n\nSprecher: Christian Schmidt, Gunnar Lott\nAudioproduktion: Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro, Outro: Nino Kerl (Ansage); Chris Hülsbeck (Musik)\n\nUnterstützen: Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen Steady oder Patreon. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen Extra-Content. Mehr von uns: Diese Podcast-Folge gibt es auch auf Youtube, Spotify, als Audio-Datei im Feed und natürlich auf iTunes. Wir freuen uns über Reaktionen und Empfehlungen auf Twitfacegramcord oder wie das heißt. Wir haben auch einen schönen Merch-Shop namens Retro Shirty. Charity: SF ist Fördermitglied im Retrogames e.V. und bei der Hamburger Tafel e.V.",
+  "beschreibung_html": "Choices and consequences\n<p>Im Jahr 2000 veröffentlichte das Studio Ion Storm mit <strong>Deus Ex</strong> einen Titel, der ambitioniert die Grenzen zwischen Rollenspiel, Shooter und Schleichspiel verwischte – und dabei einen Meilenstein der Spielegeschichte setzte. In einer düsteren Cyberpunk-Zukunft übernimmt der Spieler die Rolle von JC Denton, einem biomechanisch augmentierten Agenten, und taucht ein in eine Spielwelt voller Gewalt, ethischer Dilemmata und... spielerischer Freiheit.</p>\n<p>Christian und Gunnar sprechen in dieser Folge über die Entstehung des Spiels unter der Leitung von Warren Spector, analysieren die Mechanik und diskutieren, wie richtungweisend Deus Ex damals war und wie es seine Versprechen einlöst. Ein Blick zurück auf ein hochdekoriertes Spiel, das trotz seines Alters immer noch als Maßstab für interaktives Storytelling gilt. (Hinweis: Wer uns auf Patreon/Steady unterstützt, erhält in Kürze noch eine zusätzliche Folge, in der eine Reihe von Sachen untergebracht ist, die hier nicht mehr reingepasst haben oder zu spät fertig wurden.)</p>\n<p>Diese Folge ist ein \"Remake\", wir haben 2011 in <a href=\"https://www.stayforever.de/2011/09/folge-2-ion-storm/\">Folge 2</a> schon mal über Deus Ex gesprochen, in einem kurzen und, uh, launigen Anekdotengespräch, in dem es mehr um die Firma Ion Storm als um das Spiel ging. Stay Forever war damals ein ziemlich anderer Podcast... Egal, unsere Unterstützer(innen) haben sich eine Neuauflage <a href=\"https://sendy.stayforever.de/w/bOU8JIKAzxK5C2UATFcYPw\">gewünscht</a>, hier ist sie.</p>\n<p></p></p>\n<hr />\n<p><strong>Infos zum Spiel:</strong></p>\n<p><strong>Thema:</strong> Deus Ex <br><strong>Erscheinungstermin:</strong> 23.6.2000<strong><br />Plattform:</strong> Windows<strong><br />Entwickler:</strong> Ion Storm Austin<strong><br />Publisher:</strong> Eidos Interactive<br /><strong> Genre:</strong> Immersive Sim<strong><br />Designer: </strong> Warren Spector, Harvey Smith, Chris Norden u.a.<br /><strong>Musik:</strong> Alexander Brandon<br /><br /></p></p>\n<!-- /wp:html -->\n<p><hr /><!-- wp:html --></p>\n<p><strong>Podcast-Credits:</strong></p>\n<!-- /wp:html -->\n<!-- wp:html -->\n<p><b>Sprecher:</b> Christian Schmidt, Gunnar Lott<br /><b>Audioproduktion:</b> Christian Schmidt<br /><b> Titelgrafik:</b> Paul Schmidt<br /><b> Intro, Outro:</b> Nino Kerl (Ansage); Chris Hülsbeck (Musik)</p>\n<hr />\n<p><strong>Unterstützen:</strong> Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> oder <a href=\"https://www.patreon.com/stayforever\">Patreon</a>. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen <strong>Extra-Content</strong>. <strong> Mehr von uns:</strong> Diese Podcast-Folge gibt es auch auf <a href=\"https://www.youtube.com/playlist?list=PLk81FXjsqZvcFtNnm0lzwJ_9EoD1q1td5\">Youtube</a>, <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, als Audio-Datei <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">im Feed</a> und natürlich auf <a href=\"https://itunes.apple.com/de/podcast/stay-forever/id461077931?mt=2\">iTunes</a>. Wir freuen uns über Reaktionen und Empfehlungen auf <a href=\"https://twitter.com/stayforeverDE\">Twit</a><a href=\"https://www.facebook.com/StayForeverPodcast/\">face</a><a href=\"https://www.instagram.com/stay_forever_podcast/\">gram</a><a href=\"https://stayforever.de/discord\">cord</a> oder wie das heißt. Wir haben auch einen schönen <a href=\"https://retroshirty.com\">Merch-Shop namens Retro Shirty</a>. <strong> Charity:</strong> SF ist Fördermitglied im <a href=\"https://www.retrogames.info/\">Retrogames e.V.</a> und bei der <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a></p>\n<hr />\n<p>&nbsp;</p>",
+  "untertitel": "Choices and consequences",
+  "bild_url": "https://images.podigee-cdn.net/0x,sshqFTd0qCHx10NW3movKZ6KSGstRDSUILN9Kd_kG064=/https://main.podigee-cdn.net/uploads/u4307/76dba1a0-2ad5-469d-b951-26c4ce6781ad.jpg",
+  "schlagworte": [
+    "Ion Storm",
+    "Warren Spector",
+    "Harvey Smith"
+  ],
+  "folgennummer": 429,
+  "kapitel_quelle": "betreiber"
+}

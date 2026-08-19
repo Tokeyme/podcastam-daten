@@ -1,0 +1,863 @@
+{
+  "schema_version": 1,
+  "show": "Stay Forever - Retrogames & Technik",
+  "apple_collection_id": null,
+  "erzeugt_am": "2026-08-19T23:42:29+00:00",
+  "folgen": [
+    {
+      "guid": "6fb7a1c3904bff28ed6e71a4e4233361",
+      "audio_url": "https://audio.podigee-cdn.net/2571888-m-cc7fbacb6a73ec47a1d8d7d06b276b8e.mp3?source=feed",
+      "pfad": "/v1/episode/6c9ef12344c6e68e33cebbe7d37b6b33dac7754b.json",
+      "titel": "Die Welt von Tomb Raider",
+      "veroeffentlicht": "2026-08-16T16:27:11+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "a31aebb83fbd354e3cef87c891b13b14",
+      "audio_url": "https://audio.podigee-cdn.net/2560486-m-094ebe1a05f81d95ec156859b8cfb690.mp3?source=feed",
+      "pfad": "/v1/episode/2f903db121bafd1eb10e255dd1490b9cb5259592.json",
+      "titel": "Starflight (SF 166)",
+      "veroeffentlicht": "2026-07-30T17:22:34+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "c317ccf837f87d0cae6c87634aa262a0",
+      "audio_url": "https://audio.podigee-cdn.net/2556189-m-7c1b52c4645933de75c2deeeff3cc6a5.mp3?source=feed",
+      "pfad": "/v1/episode/68de87d2c795ec8401fb8c89071768e4396e4218.json",
+      "titel": "Phoenix Wright: Ace Attorney (SSF 98)",
+      "veroeffentlicht": "2026-07-26T12:30:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "c67a79547afc73acd93d06cc4e3b62f5",
+      "audio_url": "https://audio.podigee-cdn.net/2547665-m-cbe24a21786152b2af1935021b42ab3e.mp3?source=feed",
+      "pfad": "/v1/episode/46a5be787fbc6b849be10678231e773043226600.json",
+      "titel": "Unser Megaprojekt: Launch-Update",
+      "veroeffentlicht": "2026-07-16T13:33:28+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "45fd0f0f7097a72e50c0920964ac7d78",
+      "audio_url": "https://audio.podigee-cdn.net/2544092-m-fa8773320b364c3cd144ae31e45e3d35.mp3?source=feed",
+      "pfad": "/v1/episode/d7bc03b1c44fd0429af1d538313e59e647789cc1.json",
+      "titel": "Quiz-Duell 2026",
+      "veroeffentlicht": "2026-07-12T10:00:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "1cb3b00dc1482e8c108c8303a65348d8",
+      "audio_url": "https://audio.podigee-cdn.net/2540091-m-ba4df785c25b2f38660b1bff71b24a27.mp3?source=feed",
+      "pfad": "/v1/episode/169c3f0fa635f2ee8f879e297407b2f225679d33.json",
+      "titel": "Unser Megaprojekt",
+      "veroeffentlicht": "2026-07-08T10:00:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "db8448bae97876dc746d57168197b8aa",
+      "audio_url": "https://audio.podigee-cdn.net/2538181-m-24733a7115f1a2ab6177889f2b9b49fc.mp3?source=feed",
+      "pfad": "/v1/episode/ce696f77baa72803e054b85ec1f7ecaf509b9cb5.json",
+      "titel": "TI-99/4 (SFT 22-2)",
+      "veroeffentlicht": "2026-07-05T13:08:53+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "923946f151ec45f034f21da6ce23b494",
+      "audio_url": "https://audio.podigee-cdn.net/2533638-m-165e379e3fccf975e2c895911bf445a0.mp3?source=feed",
+      "pfad": "/v1/episode/c62fe946966bc7c8fa6b2ecc81fa969702a1ba89.json",
+      "titel": "Darklands (SF 165)",
+      "veroeffentlicht": "2026-06-30T13:01:57+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "d56df81de7f71a65d7732840dee02f04",
+      "audio_url": "https://audio.podigee-cdn.net/2531865-m-43aca541cf32fd12653a2691cd97f371.mp3?source=feed",
+      "pfad": "/v1/episode/507300b8a09c5d680a8d0879dbf117b555ee106a.json",
+      "titel": "TI-99/4 (SFT 22-1)",
+      "veroeffentlicht": "2026-06-28T10:31:31+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "2f4646b245410862054ca845c16e6327",
+      "audio_url": "https://audio.podigee-cdn.net/2526294-m-cced0cc666ac0d67b1582f363955921d.mp3?source=feed",
+      "pfad": "/v1/episode/19fc24adc47d2de41c803fec43cf38c1d5bb6b7a.json",
+      "titel": "Sly Raccoon (SSF 97)",
+      "veroeffentlicht": "2026-06-21T11:39:43+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "7e69bebaa909560a10fceb31c9155a4d",
+      "audio_url": "https://audio.podigee-cdn.net/2520964-m-dfc948b316c50a9ecb3c2dd0a2e312be.mp3?source=feed",
+      "pfad": "/v1/episode/b6cf917bfbe8316901966661cea9c1f1e31623f6.json",
+      "titel": "Die Welt von Alien",
+      "veroeffentlicht": "2026-06-14T15:42:17+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "159857bd9e93fe64881e088b3eb2df48",
+      "audio_url": "https://audio.podigee-cdn.net/2509046-m-e1f720d00ad7644a84d8b4d1e7d5376d.mp3?source=feed",
+      "pfad": "/v1/episode/67eb72d71f46f8659af8981ff1c1a3594a649a03.json",
+      "titel": "Quake (SF 164)",
+      "veroeffentlicht": "2026-05-31T17:33:07+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "cc1db443201adc5df36ef7c79ea79379",
+      "audio_url": "https://audio.podigee-cdn.net/2503075-m-b062f667d12ae16354ecea37ad63ba59.mp3?source=feed",
+      "pfad": "/v1/episode/3a2b719b21fcf797d50bc9070f65bfd29d4057dc.json",
+      "titel": "Pixelkino Special: Michael Jackson's Moonwalker",
+      "veroeffentlicht": "2026-05-24T11:36:37+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "924d09c69c753dd6a177c323b0ada57c",
+      "audio_url": "https://audio.podigee-cdn.net/2499559-m-bf8ea5e9e9900baedbd0877eb8ac20c7.mp3?source=feed",
+      "pfad": "/v1/episode/47a8b9284208d71604e3c986d06308c0fc2698fb.json",
+      "titel": "Bomberman 94 (SSF 96)",
+      "veroeffentlicht": "2026-05-20T14:34:02+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "ab21988e883b75b6ef4a1ff2680a1df9",
+      "audio_url": "https://audio.podigee-cdn.net/2381229-m-51feba974e25acbf3cec981ffb2507b3.mp3?source=feed",
+      "pfad": "/v1/episode/87b00b25adddd2866c411043b9b6d880002601a2.json",
+      "titel": "Ausgefragt! -Folge 14",
+      "veroeffentlicht": "2026-05-12T07:18:52+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "de990a2873c61938104509aed157e57c",
+      "audio_url": "https://audio.podigee-cdn.net/2481753-m-3ee1b4ac0d24f862835795573849a24b.mp3?source=feed",
+      "pfad": "/v1/episode/ac23ec539eaf25da9a7a38ae1862679d08669ab4.json",
+      "titel": "Wo wir stehen: Frühjahr 2026",
+      "veroeffentlicht": "2026-05-05T18:44:50+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "0b26278c9ba2478ba539d527cd8afd4a",
+      "audio_url": "https://audio.podigee-cdn.net/2458527-m-d94c4094a86cae0c0ae812e48b5de7fa.mp3?source=feed",
+      "pfad": "/v1/episode/e3fb8762c38318d8d3d2eaa229308511536aab01.json",
+      "titel": "Final Fantasy 5 (SSF 95)",
+      "veroeffentlicht": "2026-04-19T15:59:32+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "cd4856a27402fec159d636af3e87467c",
+      "audio_url": "https://audio.podigee-cdn.net/2447579-m-e01997db69678d35b8dfc3b3b0b2d5a4.mp3?source=feed",
+      "pfad": "/v1/episode/3edbf904bda9ed91bcbe4c752b13cee9f574090f.json",
+      "titel": "Das Quiz - Runde 16",
+      "veroeffentlicht": "2026-04-12T12:27:13+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "c94e1106db382fb8e46ee6d5f78dff1e",
+      "audio_url": "https://audio.podigee-cdn.net/2431339-m-d2a153a9d906503cdce9157db4f26553.mp3?source=feed",
+      "pfad": "/v1/episode/fad3bb40dc76366f7660d748dc371579f3473415.json",
+      "titel": "Rainbow Six (SF 162)",
+      "veroeffentlicht": "2026-03-31T14:23:25+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "66ddbdc3e42a919de0ecf3314fcc045e",
+      "audio_url": "https://audio.podigee-cdn.net/2426524-m-8b77253ee9c0ee7134e42e0d03210753.mp3?source=feed",
+      "pfad": "/v1/episode/f96f11fa5031d3cf647937d0dc224d07ce246f18.json",
+      "titel": "PC-Netzwerke (SFT 21-2)",
+      "veroeffentlicht": "2026-03-29T11:42:31+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "3859c7e752ebcb44df42cece36b50d6e",
+      "audio_url": "https://audio.podigee-cdn.net/2412771-m-a3a46f151bd166376f1dfe5e4d5574b9.mp3?source=feed",
+      "pfad": "/v1/episode/c28ad26ff5645a88ac38ac1629c2611d156b8beb.json",
+      "titel": "PC-Netzwerke (SFT 21-1)",
+      "veroeffentlicht": "2026-03-22T15:12:55+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "774f98a68487839dff9d6d9d0725839e",
+      "audio_url": "https://audio.podigee-cdn.net/2401377-m-faf98cbfd4580823b3c9518e54acec82.mp3?source=feed",
+      "pfad": "/v1/episode/bf04ac336f577739e96672b09d559ad7c94a40a0.json",
+      "titel": "King's Field (SSF 94)",
+      "veroeffentlicht": "2026-03-15T10:49:21+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "43dd5a125b26232a35c47de127762cf1",
+      "audio_url": "https://audio.podigee-cdn.net/2329404-m-f0d656eb8a9628756ab5653962f4a24c.mp3?source=feed",
+      "pfad": "/v1/episode/1acb1b2272e08a27aaf55c810a793c0ca92d3695.json",
+      "titel": "Beneath a Steel Sky (SF 160)",
+      "veroeffentlicht": "2026-01-28T15:58:25+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "197177ef806d8ea009d21818b52ce2b1",
+      "audio_url": "https://audio.podigee-cdn.net/2322493-m-994044f495a82edc3837079d7610832d.mp3?source=feed",
+      "pfad": "/v1/episode/505cb968ef9dd24e5542bd98b0fc99ece0ee9082.json",
+      "titel": "Professor Layton und das geheimnisvolle Dorf (SSF 92)",
+      "veroeffentlicht": "2026-01-25T12:53:49+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "b031f7796595759f5ac326f071543c8c",
+      "audio_url": "https://audio.podigee-cdn.net/2310686-m-4abef3bab0478af7099b58884e61e849.mp3?source=feed",
+      "pfad": "/v1/episode/e90bf0c6085beed302ed55261ddcfcd6c0fb564d.json",
+      "titel": "Pixelkino: Terminator 2",
+      "veroeffentlicht": "2026-01-18T16:51:19+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "90bf41495489ec44aaf3de2ce6baa16e",
+      "audio_url": "https://audio.podigee-cdn.net/2302828-m-6fad282583c8c82d6515ab6e3c354cb8.mp3?source=feed",
+      "pfad": "/v1/episode/6d8ab9b64d49bc2cdbedd308c75e11d30a6f6056.json",
+      "titel": "Stay Forever - Musik #16",
+      "veroeffentlicht": "2026-01-13T16:19:45+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "40f6dbd88cb32539d4d01a5fac552e80",
+      "audio_url": "https://audio.podigee-cdn.net/2285161-m-34a524317941d980d06d33f102795014.mp3?source=feed",
+      "pfad": "/v1/episode/067a4f8807c57c923625269ac5401b38d80b81a2.json",
+      "titel": "Das Quiz, Folge 15",
+      "veroeffentlicht": "2025-12-31T08:56:54+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "6784830e3359a80a650b3292d0437e11",
+      "audio_url": "https://audio.podigee-cdn.net/2279491-m-fb00b45bce33b2ecf5ecbf43798b5215.mp3?source=feed",
+      "pfad": "/v1/episode/8dae3c94d9828cd2928bdedbc9edf808073c4a97.json",
+      "titel": "Die Welt von Elder Scrolls",
+      "veroeffentlicht": "2025-12-24T12:25:15+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "bfadca4bdf4bf157201524ef3a5d9069",
+      "audio_url": "https://audio.podigee-cdn.net/2279297-m-db247f71dc22ef83979352a187e9da5f.mp3?source=feed",
+      "pfad": "/v1/episode/a1e685b3ca88f709a6149e39a8554bdf765cf850.json",
+      "titel": "The Elder Scrolls: Morrowind (SF 159)",
+      "veroeffentlicht": "2025-12-24T08:33:13+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "87ccaa9898db2deb0d4929242fe5fd4e",
+      "audio_url": "https://audio.podigee-cdn.net/2264826-m-414ffc82a280534ef6b1b6ad54d5a9d7.mp3?source=feed",
+      "pfad": "/v1/episode/69a7ca1573660802919c5b2db31c81c6b84c0a89.json",
+      "titel": "WWF No Mercy (SSF 91)",
+      "veroeffentlicht": "2025-12-17T12:45:55+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "9cb9d1745c19645f7551f6d9172a7ea5",
+      "audio_url": "https://audio.podigee-cdn.net/2245693-m-05da85fecbc84284596bce58b77664ab.mp3?source=feed",
+      "pfad": "/v1/episode/5e03861ec9c459544fd56cc8faa40c6761aaf09d.json",
+      "titel": "Wo wir stehen: Winter 2025",
+      "veroeffentlicht": "2025-12-07T20:16:38+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "5fce10ba37dd54f011d0d5eda00b6993",
+      "audio_url": "https://audio.podigee-cdn.net/2238869-m-6556b4c85b1fab899ecfa5dfde875655.mp3?source=feed",
+      "pfad": "/v1/episode/7a1be38b425bbbf88682e7edd083f3cf787ed5f9.json",
+      "titel": "Star Fox Adventures (SSF 90)",
+      "veroeffentlicht": "2025-12-03T10:00:50+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "6505d1e871ad4d8742675d81887e064a",
+      "audio_url": "https://audio.podigee-cdn.net/2234225-m-448d42a8edb75bc14e02164abbcdecad.mp3?source=feed",
+      "pfad": "/v1/episode/638b9dbc0acaceb2e9fb7cbf7ec75eb26f3594a0.json",
+      "titel": "Commodore CDTV & CD32 (SFT 20) 2/2",
+      "veroeffentlicht": "2025-11-30T14:06:37+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "39ba5f9ee47d17a974a4a33efe9ea9ea",
+      "audio_url": "https://audio.podigee-cdn.net/2222905-m-e141f984d7481dc06d5f5b9bf10a57cc.mp3?source=feed",
+      "pfad": "/v1/episode/5230c08715b4ce2a740d891563a8d2b09f7725fb.json",
+      "titel": "Commodore CDTV & CD32 (SFT 20) 1/2",
+      "veroeffentlicht": "2025-11-23T14:34:20+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "9dbf5062f1468787f2f8bde277a4eae8",
+      "audio_url": "https://audio.podigee-cdn.net/2212401-m-cfe773c79ea11e2a750a04b66445fc26.mp3?source=feed",
+      "pfad": "/v1/episode/393aae3b4160e218c06cf6b2c8211993e8f4a1c3.json",
+      "titel": "Ausgefragt! #13",
+      "veroeffentlicht": "2025-11-16T14:55:59+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "1567c17a2f1b59ce3af238125ce8871c",
+      "audio_url": "https://audio.podigee-cdn.net/2185279-m-9b09ee723ed4a838fe54321070154043.mp3?source=feed",
+      "pfad": "/v1/episode/42aedfb7d13e0432786429d257772a87bf73e109.json",
+      "titel": "Sid Meier's Pirates! (SF 158)",
+      "veroeffentlicht": "2025-10-29T12:33:47+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "8b3c36df919e528b57a392dbf3609daa",
+      "audio_url": "https://audio.podigee-cdn.net/2167601-m-17a2f1fc18caf1351285eb921844aaf2.mp3?source=feed",
+      "pfad": "/v1/episode/8b70b5338956d7b1a36e6d4149ddee411297bfa8.json",
+      "titel": "Smash T.V. (SSF 89)",
+      "veroeffentlicht": "2025-10-19T11:51:03+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "da125a354b299669ba1d05305ce86a83",
+      "audio_url": "https://audio.podigee-cdn.net/2155999-m-fc428068f921d9623c96b6943092fc4e.mp3?source=feed",
+      "pfad": "/v1/episode/147b58190b65ce5c47f250434a4efbc9e7a53d72.json",
+      "titel": "Pixelkino: Rocky",
+      "veroeffentlicht": "2025-10-12T12:36:41+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "d9b7eb50288919f8779c1509f414874c",
+      "audio_url": "https://audio.podigee-cdn.net/2136985-m-d42cf442f7d2f6f3b7e2181e865848fb.mp3?source=feed",
+      "pfad": "/v1/episode/dfdc2eabf9597a84187e0e6a834e131710d32ae0.json",
+      "titel": "Ein Spiel und seine Geschichte: Guardians of Infinity",
+      "veroeffentlicht": "2025-09-30T13:03:41+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "f7bf31c97eed84cbde4a2a98623c8126",
+      "audio_url": "https://audio.podigee-cdn.net/2133655-m-bdb73a55f9c81b1f51fb847d77c5b6f1.mp3?source=feed",
+      "pfad": "/v1/episode/f13a59494801e2405f19bdda62fc8fffc1a06a89.json",
+      "titel": "Kid Icarus (SSF 88)",
+      "veroeffentlicht": "2025-09-28T18:25:42+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "edcf6a76263951d61d951d51b9d7d2c1",
+      "audio_url": "https://audio.podigee-cdn.net/2122144-m-8fcf1dd6706bbdd502a4f66259400e85.mp3?source=feed",
+      "pfad": "/v1/episode/d6214ba9b5582381c6716f0a56a3728446bd8b1f.json",
+      "titel": "Wo wir stehen: Herbst 2025",
+      "veroeffentlicht": "2025-09-21T14:15:24+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "bed82f3bdfbf5837ea7d77d0e191ee0f",
+      "audio_url": "https://audio.podigee-cdn.net/2077994-m-feccfee9cc5bb4e57e698585e38758d3.mp3?source=feed",
+      "pfad": "/v1/episode/d97cc0086c8c9ad9f253c33c6c6e9cb93d830d24.json",
+      "titel": "Die Welt von Die Simpsons",
+      "veroeffentlicht": "2025-08-24T13:11:35+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "ea64e551a9f1d2e4f16258a6966277bc",
+      "audio_url": "https://audio.podigee-cdn.net/2077891-m-38ab62134dc78bd72912138f752e7d4f.mp3?source=feed",
+      "pfad": "/v1/episode/75869294d55af4b9ce9836a79690723d26ef914d.json",
+      "titel": "The Simpsons: Hit & Run (SSF 87)",
+      "veroeffentlicht": "2025-08-24T12:49:17+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "0b451cc6166cd33950f0bbbade128a43",
+      "audio_url": "https://audio.podigee-cdn.net/2051848-m-a6fa753e817c8e143a55e74e42a7837f.mp3?source=feed",
+      "pfad": "/v1/episode/89b7f337b2e737533b056ae23938217ea7a921d5.json",
+      "titel": "Der Amiga (SFT 19.3)",
+      "veroeffentlicht": "2025-08-06T06:10:30+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "1c4439a80518fa0ad5a75dd7c21f1324",
+      "audio_url": "https://audio.podigee-cdn.net/2045533-m-71c5238db6934e06057a2c43be25461b.mp3?source=feed",
+      "pfad": "/v1/episode/c8481a0bebe19a0cfe15c6ad4feeeba594b61e7e.json",
+      "titel": "It Came from the Desert (SF 156) REUPLOAD",
+      "veroeffentlicht": "2025-08-01T15:47:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "7ead15bfcbfd0337f75aa9fe8f5d2397",
+      "audio_url": "https://audio.podigee-cdn.net/2040717-m-4702b6ef2498ae08eb7141ad1ab246d5.mp3?source=feed",
+      "pfad": "/v1/episode/6524cdd0fe0827579273c586661be263d15b7f8d.json",
+      "titel": "Der Amiga (SFT 19.2)",
+      "veroeffentlicht": "2025-07-30T05:34:40+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "24f34c6fbc6790fb69bd1cfee0bdcba3",
+      "audio_url": "https://audio.podigee-cdn.net/2031419-m-ecf634245c0178282a407c24d63fea34.mp3?source=feed",
+      "pfad": "/v1/episode/59d3d464776ee027e133fcac97f8184232f6e7a1.json",
+      "titel": "Der Amiga (SFT 19.1)",
+      "veroeffentlicht": "2025-07-23T17:16:59+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "bd08ff339ac94b3bf63557303b19debd",
+      "audio_url": "https://audio.podigee-cdn.net/2017727-m-6b3cd0d0c5c2037850723e74cc69f86f.mp3?source=feed",
+      "pfad": "/v1/episode/d517b84c893c3b52545a52e4ced6f0e27a0ab2f6.json",
+      "titel": "Quiz-Duell 2025",
+      "veroeffentlicht": "2025-07-16T12:09:52+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "8aa7fbd60cd54cfeb8e1b96307fa0b6f",
+      "audio_url": "https://audio.podigee-cdn.net/2014708-m-d294688d8476085572db47f86bfe4016.mp3?source=feed",
+      "pfad": "/v1/episode/a9fc8d7051ca68a57a0b3e7567d737712f9da403.json",
+      "titel": "Golden Axe  (SSF 86)",
+      "veroeffentlicht": "2025-07-14T14:54:24+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "acc671a25b189ad92c884de3a4fc32c5",
+      "audio_url": "https://audio.podigee-cdn.net/1993137-m-6be82f0771e4eab030e1054a71a6c2e5.mp3?source=feed",
+      "pfad": "/v1/episode/02d386dd52a52366454b481122aa7c77cf6249c4.json",
+      "titel": "King's Quest (SF 155)",
+      "veroeffentlicht": "2025-06-29T11:08:14+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "7210de2890d665530e0a416104636a42",
+      "audio_url": "https://audio.podigee-cdn.net/1983608-m-811a4750e952bb2ef00b91fac66a746e.mp3?source=feed",
+      "pfad": "/v1/episode/3ed11f7c9050876cb2c15cb3cdc310141c337d1a.json",
+      "titel": "Ein Spiel und seine Geschichte: Datestones of Ryn",
+      "veroeffentlicht": "2025-06-22T15:14:25+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "ed1ccfae6c1617c9d23e9771bb555b5e",
+      "audio_url": "https://audio.podigee-cdn.net/1962458-m-d837805f8779dd995c99ce3322311679.mp3?source=feed",
+      "pfad": "/v1/episode/0e65b444969fe02dd7d92f30356add998791bd45.json",
+      "titel": "Metal Gear Solid 2 (SSF 85)",
+      "veroeffentlicht": "2025-06-08T11:25:27+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "3d5e9ef0742cb92fc5bd338005f2fd89",
+      "audio_url": "https://audio.podigee-cdn.net/1952802-m-2383e4bdc96e6fefedc4071300fa130f.mp3?source=feed",
+      "pfad": "/v1/episode/118e0e6c4ffbb7aa7008651ef9c9c7332f687fb0.json",
+      "titel": "Die Welt von Shadowrun",
+      "veroeffentlicht": "2025-05-31T06:52:44+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "cc9cd06f46f51f73df53b391d8957131",
+      "audio_url": "https://audio.podigee-cdn.net/1943555-m-037ec12c789bc079b29953989680974c.mp3?source=feed",
+      "pfad": "/v1/episode/a84d159d8f4d484f89254c2c5d5ae89763112ea3.json",
+      "titel": "Incubation (SF 154)",
+      "veroeffentlicht": "2025-05-25T05:46:16+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "2b1f8e7e19176c209636e41bf4a3a326",
+      "audio_url": "https://audio.podigee-cdn.net/1905907-m-f356bcdf5770e482fb41672b3c03cb2a.mp3?source=feed",
+      "pfad": "/v1/episode/a85b7902e99596bf1fc70d7c8c29e4326455827b.json",
+      "titel": "Das Quiz, Folge 14",
+      "veroeffentlicht": "2025-04-30T13:13:02+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "db78c69a1539da16b5900528b97d5890",
+      "audio_url": "https://audio.podigee-cdn.net/1898018-m-aef28e0a90abc73c42d9688b7d76e2ec.mp3?source=feed",
+      "pfad": "/v1/episode/af0dc3cb7d31dcd5deda795a25b649226224ebcb.json",
+      "titel": "Medal of Honor (SSF 84)",
+      "veroeffentlicht": "2025-04-27T13:07:42+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "d7df188b30f9f75198c6ec7c152f6a27",
+      "audio_url": "https://audio.podigee-cdn.net/1881906-m-5112dc09116f6a7c08716f6e85a0811d.mp3?source=feed",
+      "pfad": "/v1/episode/0f6692fa1ed5fec84599797d6f739aacfa927f83.json",
+      "titel": "Black & White (SF 153)",
+      "veroeffentlicht": "2025-04-19T18:35:33+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "9292488e1f91397fcc6f55caec23a2f5",
+      "audio_url": "https://audio.podigee-cdn.net/1866487-m-18275272d1cfb42fa8236f930bb7db9d.mp3?source=feed",
+      "pfad": "/v1/episode/4e74aba4b9cb7308cd2af3903635057c566ab44d.json",
+      "titel": "Wo wir stehen: Frühling 2025",
+      "veroeffentlicht": "2025-04-09T15:10:19+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "72b8b4cb11a6816a812c2200e687dc49",
+      "audio_url": "https://audio.podigee-cdn.net/1854854-m-1514271cf95c94a5c4d18e9a98135ba4.mp3?source=feed",
+      "pfad": "/v1/episode/43a0bc436c71b62d653f2205828d8022ce55cbb5.json",
+      "titel": "Die Diskette (SFT 18)",
+      "veroeffentlicht": "2025-03-31T18:06:17+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "5ee7d7b784a0bf200c6c43700c612da4",
+      "audio_url": "https://audio.podigee-cdn.net/1846741-m-5e1b5dc740141daaef5e7a400c8e7066.mp3?source=feed",
+      "pfad": "/v1/episode/d6a39a15f12ae02447ba27b7329cc30b9d4d7570.json",
+      "titel": "F-Zero (SSF 83)",
+      "veroeffentlicht": "2025-03-26T07:40:01+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "37ab10c76c1db814896143c9a52fab27",
+      "audio_url": "https://audio.podigee-cdn.net/1835920-m-f593c6b60a60e6182dfd1cb292ab6d13.mp3?source=feed",
+      "pfad": "/v1/episode/a1f71520bfdea01499e015fbe86c58cc7a550772.json",
+      "titel": "Ein Spiel und seine Geschichte: Gubble 2",
+      "veroeffentlicht": "2025-03-17T20:50:35+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "24eafdf88221ecae4171ee51a2fab1a2",
+      "audio_url": "https://audio.podigee-cdn.net/1824301-m-c3c3a11bd6e783d76b08225b98b925b6.mp3?source=feed",
+      "pfad": "/v1/episode/e8580a9ffb2319a195f62c39baaa4aef14626985.json",
+      "titel": "Ausgefragt! - Folge 12",
+      "veroeffentlicht": "2025-03-09T07:01:29+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "c4c742a3216ceb1561c42e545a0d831a",
+      "audio_url": "https://audio.podigee-cdn.net/1804120-m-2d8cbf7e52d81a1bc5d00b5013ea1e9a.mp3?source=feed",
+      "pfad": "/v1/episode/173e4c1c74dcf776ac30ad5ece3cf8480463d585.json",
+      "titel": "Story of Thor (SSF 82)",
+      "veroeffentlicht": "2025-02-23T11:04:50+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "59130064854c89c241c16a9ce8812dc9",
+      "audio_url": "https://audio.podigee-cdn.net/1765373-m-92bfd7bfe1ded5154a04ff6832fd2a7b.mp3?source=feed",
+      "pfad": "/v1/episode/632fbf502aa83554c9057d736e9a2e0ffbed3398.json",
+      "titel": "Die Musik von Gothic",
+      "veroeffentlicht": "2025-01-26T07:00:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "8bc9a88209bde0bfa13318d564d6fb9c",
+      "audio_url": "https://audio.podigee-cdn.net/1730170-m-414732b3e515d5490b6e12883b67f106.mp3?source=feed",
+      "pfad": "/v1/episode/2f0943ebd8689733813e1fb86caef0627c7207b2.json",
+      "titel": "Gothic (SF 150)",
+      "veroeffentlicht": "2024-12-24T06:30:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "a1ab597287a11a365551fb14d164f766",
+      "audio_url": "https://audio.podigee-cdn.net/1727696-m-d62f25738e44577d2aa6a17c42e999ce.mp3?source=feed",
+      "pfad": "/v1/episode/67ba2ed3469573bdf1a5cd5b2b1f331b2980cbc4.json",
+      "titel": "Pikmin (SSF 80)",
+      "veroeffentlicht": "2024-12-22T05:55:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "bdf35a3d46d057f3297ab61714b1e5de",
+      "audio_url": "https://audio.podigee-cdn.net/1724384-m-abb798df3da67c481e7d268743596439.mp3?source=feed",
+      "pfad": "/v1/episode/0cd4fee8da0e089990d12dfb02404328d0384f6d.json",
+      "titel": "SFT Bits: Sega Nomad",
+      "veroeffentlicht": "2024-12-19T10:25:22+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "3a40d97ed753a4e2cb680a00c724b0b8",
+      "audio_url": "https://audio.podigee-cdn.net/1690773-m-fda0ed5ced4c73ff71a95e9a4f58ca5a.mp3?source=feed",
+      "pfad": "/v1/episode/dbbefcb326e8691a80534f27c823a648ad208b3e.json",
+      "titel": "Ascendancy (SF 149)",
+      "veroeffentlicht": "2024-11-25T18:50:29+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "6a0d0a152193dd33138bc8bff0b37d40",
+      "audio_url": "https://audio.podigee-cdn.net/1667189-m-79c57465177a9af364720410c9089834.mp3?source=feed",
+      "pfad": "/v1/episode/e9fa983de9cbcd21cc073e25b4510b725dbc1744.json",
+      "titel": "Deus Ex (SF 148)",
+      "veroeffentlicht": "2024-11-10T10:11:21+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "7aa031e799294160b560735c5a6c569f",
+      "audio_url": "https://audio.podigee-cdn.net/1621718-m-e999e3e8ce13d0326b6b9df2503379c3.mp3?source=feed",
+      "pfad": "/v1/episode/1072da2f07ecf5b33da5c6197598e9c3ce6c1e0a.json",
+      "titel": "Pixelkino #21: Robocop",
+      "veroeffentlicht": "2024-10-07T05:35:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "df77b19cb019bcea98bec007b0288267",
+      "audio_url": "https://audio.podigee-cdn.net/1611888-m-ef484a0427a4a92edebfdc725c6dbfa1.mp3?source=feed",
+      "pfad": "/v1/episode/468d015d8bb0b6dd4e1dd9b81c6b2d4346f20d80.json",
+      "titel": "Game&Watch (SFT 16)",
+      "veroeffentlicht": "2024-09-26T16:30:25+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "c67181f0a61cfb0c118c6640a5ff0c3c",
+      "audio_url": "https://audio.podigee-cdn.net/1605855-m-d576b16b9cb6ac5956d68b33d62132be.mp3?source=feed",
+      "pfad": "/v1/episode/c2d38068ee2fcb47ef9774c8e1a59fb6519a0fa3.json",
+      "titel": "Earthbound (SSF 77)",
+      "veroeffentlicht": "2024-09-22T14:33:27+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "1e4220b62bf9e3924224e19a4a507f9b",
+      "audio_url": "https://audio.podigee-cdn.net/1577417-m-454c8e8395bec8c28e7346137bebaca9.mp3?source=feed",
+      "pfad": "/v1/episode/0acd3bdbd315ccdd5c9446888de204fc54518319.json",
+      "titel": "Wet: The Sexy Empire (SF 146)",
+      "veroeffentlicht": "2024-08-28T08:31:03+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "4b8abf2ca6512e4c445d18b817c2bcb9",
+      "audio_url": "https://audio.podigee-cdn.net/1546615-m-72567ea3bf6d0e27d28aaa4d24347c58.mp3?source=feed",
+      "pfad": "/v1/episode/664534dc327d3c8a79e88741bb0ed5e6cba8ebcb.json",
+      "titel": "Secret Weapons of the Luftwaffe (SF 145)",
+      "veroeffentlicht": "2024-07-28T08:02:38+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "6ced650b6e2140632504602f3b074f61",
+      "audio_url": "https://audio.podigee-cdn.net/1539709-m-f93dc2d7ff14890d6f88bbbe5585dcc7.mp3?source=feed",
+      "pfad": "/v1/episode/98baf94a9f34de42e71b87ef3bba8b9d6b0b4b46.json",
+      "titel": "FIFA 98 (SSF 75)",
+      "veroeffentlicht": "2024-07-21T18:46:51+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "10d0dd628364626327587fa498dd4563",
+      "audio_url": "https://audio.podigee-cdn.net/1517968-m-7a8d25cd5933362397c866dbe6fa5ed8.mp3?source=feed",
+      "pfad": "/v1/episode/6879fbb77e8cbf1e4b69d4263fe77e4889817c55.json",
+      "titel": "Planetfall (SF 144)",
+      "veroeffentlicht": "2024-06-30T13:45:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "7fae52adb063a95a556406dbdc860534",
+      "audio_url": "https://audio.podigee-cdn.net/1510646-m-3be285fa15a3630f7e76da591d5ccff3.mp3?source=feed",
+      "pfad": "/v1/episode/77ea7710b4dd9ad77bd1ff1f5bcae0f0edbc2835.json",
+      "titel": "The Legend of Zelda: Ocarina of Time (SSF 74)",
+      "veroeffentlicht": "2024-06-23T10:48:49+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "4c2107cfa5de683f5db77b6a96e84816",
+      "audio_url": "https://audio.podigee-cdn.net/1481625-m-c512d3ee9663adfcfa1da9efd3eee368.mp3?source=feed",
+      "pfad": "/v1/episode/8232eb6901be6e48523ddeb3ba283b1d8182f13a.json",
+      "titel": "Das Quiz: Folge 11",
+      "veroeffentlicht": "2024-05-28T07:41:28+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "87c7ea69c80d2551af3c0fb40d058761",
+      "audio_url": "https://audio.podigee-cdn.net/1475034-m-4648ef0ccb46c937d1738cd7d062bd75.mp3?source=feed",
+      "pfad": "/v1/episode/9b7327f0dca3049f838edf23ea1870df8bccaf60.json",
+      "titel": "Die Welt von Warcraft",
+      "veroeffentlicht": "2024-05-21T16:08:40+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "5ed6c6af8c39012d2521920e6a6325e5",
+      "audio_url": "https://audio.podigee-cdn.net/1474902-m-b3f8ee340c835729f20a838e77eba07a.mp3?source=feed",
+      "pfad": "/v1/episode/88901ea9eb196c2d583a84e9b6be19c50eb1af28.json",
+      "titel": "Warcraft 2 (SF 143)",
+      "veroeffentlicht": "2024-05-21T15:45:58+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "cdf613aac6ccb8eefc81e75ad6e1727b",
+      "audio_url": "https://audio.podigee-cdn.net/1453794-m-25ab8ad4df78dcf794bad3e6259f29fd.mp3?source=feed",
+      "pfad": "/v1/episode/36eacf11dacab46ef493d49a3ea8187595deadc0.json",
+      "titel": "Sonic the Hedgehog (SSF 73)",
+      "veroeffentlicht": "2024-04-30T13:10:44+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "4092c69c039d686bce241e98ad0e91d7",
+      "audio_url": "https://audio.podigee-cdn.net/1428031-m-8dd2121cbe4f0c98c0be25c6b048f277.mp3?source=feed",
+      "pfad": "/v1/episode/9689eb40c8756e19e6bf114d6c7f9efcda33c407.json",
+      "titel": "DDR-Computer (SFT 14)",
+      "veroeffentlicht": "2024-04-07T15:30:40+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "2625b5cce6d90f3ee2bab24dc9f868b6",
+      "audio_url": "https://audio.podigee-cdn.net/1406669-m-1a7b6d0c5248a1bfe025de55893f342a.mp3?source=feed",
+      "pfad": "/v1/episode/514af8b51fa7d2d7eaaa4013b992d630aa0434e9.json",
+      "titel": "Freelancer (SF 142)",
+      "veroeffentlicht": "2024-03-27T19:15:08+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "41cf313bdbe0fa256a8686c411aa8a6d",
+      "audio_url": "https://audio.podigee-cdn.net/1406682-m-94ed35be4f5b2a557b046fcb8b6f38a1.mp3?source=feed",
+      "pfad": "/v1/episode/4fd2c891727b37b656bd448c616b4413c202a161.json",
+      "titel": "Dragon's Lair (SSF 72)",
+      "veroeffentlicht": "2024-03-18T08:10:38+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "09148b3d527dcf146e0a933188c4d387",
+      "audio_url": "https://audio.podigee-cdn.net/1385383-m-b2232ad55d7e9b38df52c8cbabf9ddb2.mp3?source=feed",
+      "pfad": "/v1/episode/25ba6b0d57f67c4c3f1cd69d15394eeebed6517a.json",
+      "titel": "Knights of the Old Republic (SSF 71)",
+      "veroeffentlicht": "2024-02-28T07:50:06+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "d0e5f5aab2d8c390802c3559b2472563",
+      "audio_url": "https://audio.podigee-cdn.net/1382048-m-4dbf54c436f30c25d0a5fa2e87f6cc12.mp3?source=feed",
+      "pfad": "/v1/episode/37014676e173be5ee9c4926f1cb3c8f0f9c127ee.json",
+      "titel": "Bruce Lee (SF 141)",
+      "veroeffentlicht": "2024-02-25T09:58:11+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "ec8dda80d7949e893f51198e8dda70da",
+      "audio_url": "https://audio.podigee-cdn.net/1352837-m-784f640a0cb14d9a23ce02626792c26b.mp3?source=feed",
+      "pfad": "/v1/episode/307a65b6b152269a3ba11250f1dc53582e7e0218.json",
+      "titel": "Lands of Lore: The Throne of Chaos (SF 140)",
+      "veroeffentlicht": "2024-01-28T11:34:10+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "da9014fc5bc92ab5327bedcba4a8f9a8",
+      "audio_url": "https://audio.podigee-cdn.net/1345290-m-6351eacce05e98211bf2751eec6a9b8f.mp3?source=feed",
+      "pfad": "/v1/episode/7829f3f033afb57fc8c960bb774b9a83e7abce35.json",
+      "titel": "Micro Machines (SSF 70)",
+      "veroeffentlicht": "2024-01-21T11:54:50+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "e119921bc06137e2f5b2e8eb4c4465e8",
+      "audio_url": "https://audio.podigee-cdn.net/1284066-m-44753365592b41c002210aa75ed650d9.mp3?source=feed",
+      "pfad": "/v1/episode/6c2440578a25829e1153d6862c167b9efcbefa2c.json",
+      "titel": "Super Metroid (SSF 69)",
+      "veroeffentlicht": "2023-12-31T09:11:56+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "b1a0382455cbb9045266dc32d190ec08",
+      "audio_url": "https://audio.podigee-cdn.net/1293927-m-74a4d1d87a1a9dbcefcb439d6c7d6cfe.mp3?source=feed",
+      "pfad": "/v1/episode/ab512d8f8ad08623d05a2342c8df6512004dea6c.json",
+      "titel": "Sensible Soccer (SF 138)",
+      "veroeffentlicht": "2023-11-28T09:48:03+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "5cdf69a04c9695cc3965502ec5c2df53",
+      "audio_url": "https://audio.podigee-cdn.net/1283964-m-47f39ba1a95140d771af8978265ef50f.mp3?source=feed",
+      "pfad": "/v1/episode/675aec7f899d61aeefed60d3d2304642e4e25602.json",
+      "titel": "Ratchet & Clank (SSF 68)",
+      "veroeffentlicht": "2023-11-19T11:43:39+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "ef77955919acc34532cbdb006aca2a0a",
+      "audio_url": "https://audio.podigee-cdn.net/1266512-m-ccdc1bbeeea1f5440b5d6707e3bffaa5.mp3?source=feed",
+      "pfad": "/v1/episode/f1a86de3a295955be186ca5da06be4850cf4ffc3.json",
+      "titel": "Civilization-Interview",
+      "veroeffentlicht": "2023-11-02T07:15:00+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "0f8fc1e2849f0358435f1618ae54c3f4",
+      "audio_url": "https://audio.podigee-cdn.net/1263182-m-89ce9e2cbe9ea995d5963b4a3e514a6f.mp3?source=feed",
+      "pfad": "/v1/episode/3005887f820434dd43e6061b6808ac80df0521de.json",
+      "titel": "Civilization (SF 137)",
+      "veroeffentlicht": "2023-10-29T15:17:10+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "4d7675991be4c34ade5cef76a86cad20",
+      "audio_url": "https://audio.podigee-cdn.net/1255823-m-3c782e3e7ea791f8aa4a32b1169498cb.mp3?source=feed",
+      "pfad": "/v1/episode/2598e10abefaab11c4b9bb98c590b644ee8be5f1.json",
+      "titel": "Contra (SSF 67)",
+      "veroeffentlicht": "2023-10-22T08:54:26+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "b84b7aabd819056acd7eab2ab0f46819",
+      "audio_url": "https://audio.podigee-cdn.net/50131-m-63f015adae463e4355d546477f706383.mp3?source=feed",
+      "pfad": "/v1/episode/62bcf88425dff9e1a3f7988fcdb99a1e6006b6e6.json",
+      "titel": "Defender of the Crown (SF 68)",
+      "veroeffentlicht": "2017-07-27T15:10:19+00:00",
+      "clips": false,
+      "kapitel": true
+    }
+  ]
+}

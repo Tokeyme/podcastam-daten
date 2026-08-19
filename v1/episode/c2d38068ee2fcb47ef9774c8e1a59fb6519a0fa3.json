@@ -1,0 +1,405 @@
+{
+  "schema_version": 1,
+  "guid": "c67181f0a61cfb0c118c6640a5ff0c3c",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Earthbound (SSF 77)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1605855-m-d576b16b9cb6ac5956d68b33d62132be.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:44:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Der SNES-Kultklassiker Earthbound verbindet konventionelle JRPGs mit schräger US-Satire.",
+  "kurzfassung": "Earthbound ist ein 1994 erschienenes Super-Nintendo-Rollenspiel, das im Westen als Kultklassiker gilt. Der Titel stammt federführend von dem japanischen Autor und Werbeprofi Shigesato Itoi. Spielerisch weitgehend konventionell gehalten, zeichnet sich das Spiel vor allem durch seine skurrile Tonalität und sein US-Gegenwartsszenario aus.",
+  "stichpunkte": [
+    "Entwickelt von Shigesato Itoi gemeinsam mit den Studios HAL Laboratories und Ape Inc.",
+    "Basiert auf dem in Japan als Mother 2 erschienenen Rollenspiel",
+    "Spielt in einer alternativen Version des Amerika der 90er-Jahre mit vier kindlichen Protagonisten",
+    "Erfordert das Sammeln von acht Melodien, um die außerirdische Bedrohung Giygas zu besiegen",
+    "Nutzt alltägliche Echtzeit-Mechaniken wie Geldautomaten, Telefone und Hotels",
+    "Fiel beim Erscheinen im Westen durch hohe Preise und ungewohnte Big-Boxen im Verkauf auf",
+    "Besitzt ein rundenbasiertes Kampfsystem mit psychedelischen Hintergründen und rückwärts laufenden Schadenszählern"
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 27.0
+    },
+    {
+      "titel": "Earthbound = Mother 2",
+      "start": 158.0
+    },
+    {
+      "titel": "Das Abstimmungs-Ergebnis",
+      "start": 219.0
+    },
+    {
+      "titel": "Ein konventionelles JRPG ... und trotzdem besonders",
+      "start": 321.0
+    },
+    {
+      "titel": "Die Ausgangslage",
+      "start": 407.0
+    },
+    {
+      "titel": "Personalisierung von Personen und Dingen",
+      "start": 502.0
+    },
+    {
+      "titel": "Der Spielstart: Ness wacht auf",
+      "start": 541.0
+    },
+    {
+      "titel": "Ness bekommt seine Aufgabe",
+      "start": 603.0
+    },
+    {
+      "titel": "Eine abstrakte Bedrohung",
+      "start": 713.0
+    },
+    {
+      "titel": "Zeitgenössisches Szenario: Fantasy-USA der 80er",
+      "start": 778.0
+    },
+    {
+      "titel": "Geld gibt's am Geldautomaten",
+      "start": 835.0
+    },
+    {
+      "titel": "Der Vater am Telefon: Geld",
+      "start": 864.0
+    },
+    {
+      "titel": "Die Mutter am Telefon: Trost",
+      "start": 924.0
+    },
+    {
+      "titel": "Die Schwester am Telefon: Escargot Express",
+      "start": 968.0
+    },
+    {
+      "titel": "Begrenzter Platz im Inventar",
+      "start": 1036.0
+    },
+    {
+      "titel": "Die Begleiter: Paula, Jeff und Poo",
+      "start": 1105.0
+    },
+    {
+      "titel": "Schnelle Charakter-Progression",
+      "start": 1256.0
+    },
+    {
+      "titel": "PSI-\"Zauber\"",
+      "start": 1377.0
+    },
+    {
+      "titel": "Poo, das Anhängsel - wozu ist er gut?",
+      "start": 1491.0
+    },
+    {
+      "titel": "Das Kampfsystem",
+      "start": 1757.0
+    },
+    {
+      "titel": "Der Kampfbildschirm",
+      "start": 1927.0
+    },
+    {
+      "titel": "Interessante Mechaniken: Automatischer Sieg ...",
+      "start": 2161.0
+    },
+    {
+      "titel": "... und ablaufende Lebensenergie",
+      "start": 2197.0
+    },
+    {
+      "titel": "Schwierigkeitsgrad-Spitzen",
+      "start": 2429.0
+    },
+    {
+      "titel": "Entführung im Einkaufszentrum",
+      "start": 2544.0
+    },
+    {
+      "titel": "Rettende Schmetterlinge und feige Feinde",
+      "start": 2617.0
+    },
+    {
+      "titel": "Es beginnt als Städtereise",
+      "start": 2763.0
+    },
+    {
+      "titel": "Hilfe von den Runaway Five",
+      "start": 2867.0
+    },
+    {
+      "titel": "Zombie-Panik in Threed",
+      "start": 2909.0
+    },
+    {
+      "titel": "Happy Happy Village",
+      "start": 2943.0
+    },
+    {
+      "titel": "Das Besondere an Earthbound: Ein Panoktikum der Skurrilitäten",
+      "start": 3008.0
+    },
+    {
+      "titel": "Der kaputte Spielautomat",
+      "start": 3129.0
+    },
+    {
+      "titel": "Attraktion Ausgrabung",
+      "start": 3154.0
+    },
+    {
+      "titel": "Radiergummis für Statuen",
+      "start": 3249.0
+    },
+    {
+      "titel": "Zombies fängt man mit Zombiepapier",
+      "start": 3290.0
+    },
+    {
+      "titel": "Die Neon-Parallelwelt",
+      "start": 3331.0
+    },
+    {
+      "titel": "Master Belch, der rülpsende Kotzehaufen",
+      "start": 3357.0
+    },
+    {
+      "titel": "Aliens unter Stonehenge",
+      "start": 3375.0
+    },
+    {
+      "titel": "Teepause mit Text-Scroller",
+      "start": 3410.0
+    },
+    {
+      "titel": "Mr. Saturn",
+      "start": 3457.0
+    },
+    {
+      "titel": "Gegner: Angriffsschnecken, Eichenbäume, Kaffeetassen etc.",
+      "start": 3491.0
+    },
+    {
+      "titel": "Roboter-Zapfsäulen schmeißen Bomben",
+      "start": 3539.0
+    },
+    {
+      "titel": "Eine Kette von kuriosen Situationen",
+      "start": 3584.0
+    },
+    {
+      "titel": "Im unterirdischen Affen-Labyrinth",
+      "start": 3661.0
+    },
+    {
+      "titel": "Das Zu-Verkaufen-Schild",
+      "start": 3736.0
+    },
+    {
+      "titel": "Sinnlose Reichtümer",
+      "start": 3779.0
+    },
+    {
+      "titel": "Schräges Spiel, schräge Perspektive: Außenwelt ...",
+      "start": 3823.0
+    },
+    {
+      "titel": "... Innenräume ...",
+      "start": 3867.0
+    },
+    {
+      "titel": "... und Fourside",
+      "start": 3895.0
+    },
+    {
+      "titel": "Rausgezoomte Steinzeit-Welt",
+      "start": 3965.0
+    },
+    {
+      "titel": "Die Metropole Fourside",
+      "start": 4011.0
+    },
+    {
+      "titel": "Die Grafik: Mut zur Hässlichkeit?",
+      "start": 4106.0
+    },
+    {
+      "titel": "Psychedelische Hintergrundmuster im Kampf",
+      "start": 4262.0
+    },
+    {
+      "titel": "Die Musik",
+      "start": 4343.0
+    },
+    {
+      "titel": "Unterwegs im Skyrunner",
+      "start": 4512.0
+    },
+    {
+      "titel": "Die Blues-Musik der Runaway Five",
+      "start": 4582.0
+    },
+    {
+      "titel": "Die Entstehungsgeschichte: Es beginnt mit Shigesato Itoi",
+      "start": 4719.0
+    },
+    {
+      "titel": "Frühe Werke von Shigesato Itoi",
+      "start": 4942.0
+    },
+    {
+      "titel": "Itoi als TV-Moderator",
+      "start": 5000.0
+    },
+    {
+      "titel": "Itoi pitcht eine Idee an Shigeru Miyamoto",
+      "start": 5091.0
+    },
+    {
+      "titel": "Das Team wird gebaut",
+      "start": 5249.0
+    },
+    {
+      "titel": "Die Frühzeit der JRPGs",
+      "start": 5394.0
+    },
+    {
+      "titel": "Mother entsteht",
+      "start": 5530.0
+    },
+    {
+      "titel": "Shigesato Itois Ankündigung von Mother",
+      "start": 5594.0
+    },
+    {
+      "titel": "Was ist Ape Inc.?",
+      "start": 5708.0
+    },
+    {
+      "titel": "Erfolg in Japan, aber keine Version für den Westen",
+      "start": 5757.0
+    },
+    {
+      "titel": "Die (lange) Entwicklung von Mother 2",
+      "start": 5890.0
+    },
+    {
+      "titel": "HAL Laboratories kommt zur Rettung",
+      "start": 6041.0
+    },
+    {
+      "titel": "Mother 2 wird zu Earthbound",
+      "start": 6132.0
+    },
+    {
+      "titel": "Der Player's Guide",
+      "start": 6227.0
+    },
+    {
+      "titel": "Ähnlichkeiten zwischen Mother 1 und 2",
+      "start": 6306.0
+    },
+    {
+      "titel": "Der dritte Mother-Teil",
+      "start": 6348.0
+    },
+    {
+      "titel": "Wie Earthbound endet: Verwandlung in Roboter ...",
+      "start": 6494.0
+    },
+    {
+      "titel": "... und Endkampf gegen Giygas",
+      "start": 6550.0
+    },
+    {
+      "titel": "Spielende",
+      "start": 6609.0
+    },
+    {
+      "titel": "Die Credits",
+      "start": 6656.0
+    },
+    {
+      "titel": "Dramatik und Melancholie",
+      "start": 6673.0
+    },
+    {
+      "titel": "Paulas letztes Gebet: Bruch der vierten Wand",
+      "start": 6759.0
+    },
+    {
+      "titel": "Eigentümliche Stimmung beim Spielende",
+      "start": 6881.0
+    },
+    {
+      "titel": "Interpretation 1: Coming-of-Age-Geschichte",
+      "start": 6979.0
+    },
+    {
+      "titel": "Absurditäten der Erwachsenen-Welt",
+      "start": 7162.0
+    },
+    {
+      "titel": "Unschuld, Treue und Glauben",
+      "start": 7270.0
+    },
+    {
+      "titel": "Interpretation 2: Alles nur geträumt",
+      "start": 7377.0
+    },
+    {
+      "titel": "Poos Prüfung",
+      "start": 7446.0
+    },
+    {
+      "titel": "Nur Ness reagiert auf den Fotografen",
+      "start": 7495.0
+    },
+    {
+      "titel": "Eine dritte Möglichkeit",
+      "start": 7586.0
+    },
+    {
+      "titel": "Unser Fazit",
+      "start": 7741.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:44:24+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 7954,
+  "veroeffentlicht": "2024-09-22T14:33:27+00:00",
+  "beschreibung": "aka Mother 2\nEarthbound gilt als eines der kultigsten Konsolenrollenspiele der 90er Jahre: Ursprünglich 1994 für das Super Nintendo in Japan und ein Jahr später in den USA erschienen, ist Earthbound für seinen eigenwilligen Humor, seine charmante 2D-Optik und seine unkonventionelle Herangehensweise an das Genre bekannt. Doch was macht dieses Spiel wirklich so besonders? In dieser Episode reisen wir zurück in die Welt von Ness, Paula, Jeff und Poo, erkunden die skurrilen Städte, bizarren Gegner und die emotional tiefgründige Geschichte. Wir erzählen die Entstehungsgeschichte, analysieren die Spielmechaniken und sprechen darüber, wie Earthbound zunächst als kommerzieller Flop galt, aber mit der Zeit einen festen Platz im Herzen der Gaming-Community eingenommen hat.\n\nInfos zum Spiel:\n\nThema: Earthbound, 1994 (JP als \"Mother 2\"),\nPlattform: SNES, später Ports für 3DS, Wii, Switch\nEntwickler: APE, HAL Laboratory\nPublisher: Nintendo\nGenre: Rollenspiel\nDesigner: Shigesato Itoi, Satoru Iwata, Akihiko Miura u.a.\nMusik: Keiichi Suzuki, Hirokazu Tanaka\n\nPodcast-Credits:\n\nSprecher: Fabian Käufer, Christian Schmidt\nAudioproduktion: Johannes DuBois, Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro, Outro: Nino Kerl (Ansage); Chris Hülsbeck (Musik)\n\nPlattformen Steady oder Patreon. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen Extra-Content. Mehr von uns: Diese Podcast-Folge gibt es auch auf Youtube, Spotify, als Audio-Datei im Feed und natürlich auf iTunes. Wir freuen uns über Reaktionen und Empfehlungen auf Twitfacegramcord oder wie das heißt. Wir haben auch einen schönen Merch-Shop namens Retro Shirty. Charity: SF ist Fördermitglied im Retrogames e.V. und bei der Hamburger Tafel e.V.",
+  "beschreibung_html": "aka Mother 2\n<p><strong>Earthbound</strong> gilt als eines der kultigsten Konsolenrollenspiele der 90er Jahre: Ursprünglich 1994 für das Super Nintendo in Japan und ein Jahr später in den USA erschienen, ist Earthbound für seinen eigenwilligen Humor, seine charmante 2D-Optik und seine unkonventionelle Herangehensweise an das Genre bekannt. Doch was macht dieses Spiel wirklich so besonders? In dieser Episode reisen wir zurück in die Welt von Ness, Paula, Jeff und Poo, erkunden die skurrilen Städte, bizarren Gegner und die emotional tiefgründige Geschichte. Wir erzählen die Entstehungsgeschichte, analysieren die Spielmechaniken und sprechen darüber, wie Earthbound zunächst als kommerzieller Flop galt, aber mit der Zeit einen festen Platz im Herzen der Gaming-Community eingenommen hat.</p>\n<p><strong>Infos zum Spiel:</strong></p>\n<p><strong>Thema:</strong> Earthbound, 1994 (JP als \"Mother 2\"), <strong><br />Plattform:</strong> SNES, später Ports für 3DS, Wii, Switch<strong><br />Entwickler:</strong> APE, HAL Laboratory<strong><br />Publisher:</strong> Nintendo<br /><strong> Genre:</strong> Rollenspiel<strong><br />Designer: </strong>Shigesato Itoi, Satoru Iwata, Akihiko Miura u.a.<br /><strong>Musik:</strong> Keiichi Suzuki, Hirokazu Tanaka<br /><br /></p>\n<!-- /wp:html -->\n<p><hr /><!-- wp:html --></p>\n<p><strong>Podcast-Credits:</strong></p>\n<!-- /wp:html -->\n<!-- wp:html -->\n<p><b>Sprecher:</b> Fabian Käufer, Christian Schmidt<br /><b>Audioproduktion:</b> Johannes DuBois, Christian Schmidt<br /><b> Titelgrafik:</b> Paul Schmidt<br /><b> Intro, Outro:</b> Nino Kerl (Ansage); Chris Hülsbeck (Musik)</p>\n<hr />\n<p>Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> oder <a href=\"https://www.patreon.com/stayforever\">Patreon</a>. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen <strong>Extra-Content</strong>. <strong> Mehr von uns:</strong> Diese Podcast-Folge gibt es auch auf <a href=\"https://www.youtube.com/playlist?list=PLk81FXjsqZvcFtNnm0lzwJ_9EoD1q1td5\">Youtube</a>, <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, als Audio-Datei <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">im Feed</a> und natürlich auf <a href=\"https://itunes.apple.com/de/podcast/stay-forever/id461077931?mt=2\">iTunes</a>. Wir freuen uns über Reaktionen und Empfehlungen auf <a href=\"https://twitter.com/stayforeverDE\">Twit</a><a href=\"https://www.facebook.com/StayForeverPodcast/\">face</a><a href=\"https://www.instagram.com/stay_forever_podcast/\">gram</a><a href=\"https://stayforever.de/discord\">cord</a> oder wie das heißt. Wir haben auch einen schönen <a href=\"https://retroshirty.com\">Merch-Shop namens Retro Shirty</a>. <strong> Charity:</strong> SF ist Fördermitglied im <a href=\"https://www.retrogames.info/\">Retrogames e.V.</a> und bei der <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a></p></p>\n<hr />",
+  "untertitel": "aka Mother 2",
+  "bild_url": "https://images.podigee-cdn.net/0x,sK3D0a9BGmh41iw-_HwBQJGDU9k_guIErpJw9FOXEbtE=/https://main.podigee-cdn.net/uploads/u4307/eab8ac89-5d10-4f87-9232-9b17e2593d5f.jpg",
+  "schlagworte": [
+    "mother",
+    "SNES",
+    "HAL Laboratories",
+    "Shigesato Itoi"
+  ],
+  "folgennummer": 421,
+  "kapitel_quelle": "betreiber"
+}

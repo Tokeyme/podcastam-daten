@@ -1,0 +1,490 @@
+{
+  "schema_version": 1,
+  "guid": "43dd5a125b26232a35c47de127762cf1",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Beneath a Steel Sky (SF 160)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2329404-m-f0d656eb8a9628756ab5653962f4a24c.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:38:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Eine Retrospektive zum britischen Cyberpunk-Adventure Beneath a Steel Sky von 1994.",
+  "kurzfassung": "Der Podcast beleuchtet Entstehungsgeschichte, Rätseldesign und Atmosphäre des Sci-Fi-Adventures Beneath a Steel Sky von Revolution Software. Dabei kommen neben den beiden Hosts auch Gründer Charles Cecil, Programmierer Tony Warriner sowie Experten zu Wort. Im Fokus stehen das Zusammenspiel von Humor und Dystopie, die Zusammenarbeit mit Comiczeichner Dave Gibbons sowie die Entwicklung der zugrundeliegenden Virtual-Theater-Engine.",
+  "stichpunkte": [
+    "Besprechung des Klassikers Beneath a Steel Sky aus dem Jahr 1994 von Revolution Software",
+    "Ausführliche Einblicke in die Entstehungsgeschichte durch Interviews mit Charles Cecil und Tony Warriner",
+    "Rolle des Comiczeichners Dave Gibbons (Watchmen) für den Look und die Atmosphäre des Spiels",
+    "Analyse des Rätseldesigns, der Systemik und der Rolle des Roboter-Begleiters Joey",
+    "Vergleich der Sound- und Musikversionen zwischen DOS, Amiga und CD-ROM",
+    "Einordnung der humorvollen Elemente im Kontrast zur dystopischen Cyberpunk-Welt",
+    "Hintergrundgeschichte zur deutschen Lokalisierung ohne Kontext direkt aus dem Quelltext",
+    "Diskussion über das offene Ende und die Wirkung des Spiels im Vergleich zu LucasArts-Titeln"
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 0.0
+    },
+    {
+      "titel": "- 1994: Jahr der Grafikadventure-Flaute",
+      "start": 163.0
+    },
+    {
+      "titel": "- Die englische Adventure-Szene",
+      "start": 260.0
+    },
+    {
+      "titel": "- Wir sind im Cyberpunk ... oder so ähnlich",
+      "start": 321.0
+    },
+    {
+      "titel": "SPIELEINSTIEG",
+      "start": 417.0
+    },
+    {
+      "titel": "- Der Protagonist: Robert Foster",
+      "start": 499.0
+    },
+    {
+      "titel": "- Ein unangenehmer Besuch",
+      "start": 513.0
+    },
+    {
+      "titel": "- Der Stamm wird ausgelöscht",
+      "start": 544.0
+    },
+    {
+      "titel": "- Absturz in Union City",
+      "start": 563.0
+    },
+    {
+      "titel": "- Das Spiel beginnt",
+      "start": 635.0
+    },
+    {
+      "titel": "SPIELBESCHREIBUNG",
+      "start": 663.0
+    },
+    {
+      "titel": "- Eine vertikale, stratifizierte Stadt",
+      "start": 673.0
+    },
+    {
+      "titel": "- Etagenweise durch die Spielwelt",
+      "start": 834.0
+    },
+    {
+      "titel": "- Einfache Steuerung, aufklappendes Inventar",
+      "start": 924.0
+    },
+    {
+      "titel": "- Unser Begleiter: der Roboter Joey",
+      "start": 1011.0
+    },
+    {
+      "titel": "- Die Metallstange, dein Freund und Helfer",
+      "start": 1150.0
+    },
+    {
+      "titel": "- Joeys Charakter vs. Roberts Charakter",
+      "start": 1206.0
+    },
+    {
+      "titel": "EIN BEISPIELRÄTSEL",
+      "start": 1290.0
+    },
+    {
+      "titel": "- Der Raum des Todes",
+      "start": 1319.0
+    },
+    {
+      "titel": "- Joey wird zum Medizinroboter",
+      "start": 1365.0
+    },
+    {
+      "titel": "- Blick durchs Fenster",
+      "start": 1429.0
+    },
+    {
+      "titel": "- Im Heizungskeller",
+      "start": 1452.0
+    },
+    {
+      "titel": "- Anweisung an Joey",
+      "start": 1515.0
+    },
+    {
+      "titel": "- Das Ende des Androiden",
+      "start": 1552.0
+    },
+    {
+      "titel": "RÄTSELDESIGN",
+      "start": 1583.0
+    },
+    {
+      "titel": "- Probleme für Lösungen finden",
+      "start": 1674.0
+    },
+    {
+      "titel": "- Katze, Hund ... aber warum?",
+      "start": 1819.0
+    },
+    {
+      "titel": "- Timing-Rätsel",
+      "start": 1951.0
+    },
+    {
+      "titel": "- Anker bei Anker",
+      "start": 2043.0
+    },
+    {
+      "titel": "- Was die Hundekekse bewirken",
+      "start": 2137.0
+    },
+    {
+      "titel": "- Adventure-Pragmatismus",
+      "start": 2272.0
+    },
+    {
+      "titel": "SETTING, TON UND HUMOR",
+      "start": 2376.0
+    },
+    {
+      "titel": "- D-LINC Anita ...",
+      "start": 2482.0
+    },
+    {
+      "titel": "- ... und ihr überraschender Tod",
+      "start": 2576.0
+    },
+    {
+      "titel": "- Halbgare Gesellschaftskritik",
+      "start": 2659.0
+    },
+    {
+      "titel": "- Eine skurrile Gerichtsverhandlung",
+      "start": 2765.0
+    },
+    {
+      "titel": "- Heitere Dystopie",
+      "start": 2836.0
+    },
+    {
+      "titel": "- Unangenehmer Voyeurismus",
+      "start": 2961.0
+    },
+    {
+      "titel": "- Roberts Bärchenpulli",
+      "start": 2987.0
+    },
+    {
+      "titel": "- Der makabre Doktor",
+      "start": 3028.0
+    },
+    {
+      "titel": "- Gelungene Szene: Robert wird gefilzt",
+      "start": 3171.0
+    },
+    {
+      "titel": "DAVE GIBBONS UND DIE GRAFIK",
+      "start": 3340.0
+    },
+    {
+      "titel": "- Comic-Panels im Intro",
+      "start": 3408.0
+    },
+    {
+      "titel": "- Christian Beuster über Dave Gibbons",
+      "start": 3429.0
+    },
+    {
+      "titel": "- Wer ist Dave Gibbons?",
+      "start": 3474.0
+    },
+    {
+      "titel": "- Was ist besonders an Watchmen?",
+      "start": 3516.0
+    },
+    {
+      "titel": "- Dave Gibbons' Zeichenstil",
+      "start": 3670.0
+    },
+    {
+      "titel": "- Typische Gibbons-Figuren",
+      "start": 3924.0
+    },
+    {
+      "titel": "- Typische Gibbons-Bewegungen",
+      "start": 3996.0
+    },
+    {
+      "titel": "- Farbgebung und Stadtgestaltung",
+      "start": 4042.0
+    },
+    {
+      "titel": "- Eine Empfehlung: Give me Liberty",
+      "start": 4168.0
+    },
+    {
+      "titel": "- Tolle Szenen: Über der Stadt ...",
+      "start": 4217.0
+    },
+    {
+      "titel": "- ... und abgestürzter Hubschrauber",
+      "start": 4247.0
+    },
+    {
+      "titel": "- Recht konventionelle Innenräume",
+      "start": 4263.0
+    },
+    {
+      "titel": "- Spektakuläre Animationen",
+      "start": 4284.0
+    },
+    {
+      "titel": "- Commander Reich wird zerschnitten",
+      "start": 4320.0
+    },
+    {
+      "titel": "- Schwingen am Seilhaken",
+      "start": 4333.0
+    },
+    {
+      "titel": "- Schön animierte Katze",
+      "start": 4349.0
+    },
+    {
+      "titel": "SOUND UND MUSIK",
+      "start": 4365.0
+    },
+    {
+      "titel": "- Amiga vs. PC",
+      "start": 4404.0
+    },
+    {
+      "titel": "- Musik in der Remaster-Version",
+      "start": 4493.0
+    },
+    {
+      "titel": "- Musik auf der oberen Ebene ...",
+      "start": 4554.0
+    },
+    {
+      "titel": "- ... und in Belle Vue",
+      "start": 4591.0
+    },
+    {
+      "titel": "- Im Vergleich: Monkey Island 2",
+      "start": 4638.0
+    },
+    {
+      "titel": "- Orts- und situationsbezogene Musik",
+      "start": 4702.0
+    },
+    {
+      "titel": "- Untermalende Soundeffekte",
+      "start": 4802.0
+    },
+    {
+      "titel": "- Sprachausgabe in der CD-Version",
+      "start": 4876.0
+    },
+    {
+      "titel": "- Akzente als soziale Codierung",
+      "start": 4923.0
+    },
+    {
+      "titel": "- Die deutsche Version",
+      "start": 5252.0
+    },
+    {
+      "titel": "- Christian Weikert über die Übersetzung des Spiels",
+      "start": 5296.0
+    },
+    {
+      "titel": "ENTSTEHUNGSGESCHICHTE",
+      "start": 5532.0
+    },
+    {
+      "titel": "- Unsere Gesprächspartner: Charles Cecil und Tony Warriner",
+      "start": 5556.0
+    },
+    {
+      "titel": "- Charles Cecils frühe Textadventures",
+      "start": 5582.0
+    },
+    {
+      "titel": "- Tony Warriners erstes Spiel: Obsidian",
+      "start": 5635.0
+    },
+    {
+      "titel": "- Portierungsstudio Paragon Programming",
+      "start": 5702.0
+    },
+    {
+      "titel": "- Gründung von Revolution Software",
+      "start": 5758.0
+    },
+    {
+      "titel": "- Entwicklungsstart in Hull",
+      "start": 5866.0
+    },
+    {
+      "titel": "- Eine eigene Adventure-Engine: Virtual Theatre",
+      "start": 5976.0
+    },
+    {
+      "titel": "- Das erste Spiel: Lure of the Temptress",
+      "start": 6137.0
+    },
+    {
+      "titel": "- Revolution landet bei Virgin Interactive",
+      "start": 6182.0
+    },
+    {
+      "titel": "- Das Team wächst",
+      "start": 6226.0
+    },
+    {
+      "titel": "- Co-Autor: David Cummins",
+      "start": 6262.0
+    },
+    {
+      "titel": "- Lure of the Temptress erscheint",
+      "start": 6316.0
+    },
+    {
+      "titel": "- Nächstes Projekt: Irgendwas mit Science Fiction",
+      "start": 6358.0
+    },
+    {
+      "titel": "- King's Quest 6 für den Amiga",
+      "start": 6424.0
+    },
+    {
+      "titel": "- Das Konzept entsteht",
+      "start": 6437.0
+    },
+    {
+      "titel": "- Zeitgeist und die Industriestadt Hull",
+      "start": 6516.0
+    },
+    {
+      "titel": "- Dave Gibbons kommt ins Projekt",
+      "start": 6564.0
+    },
+    {
+      "titel": "- Der beiliegende Comic",
+      "start": 6671.0
+    },
+    {
+      "titel": "- Virtual Theatre, Version 2",
+      "start": 6751.0
+    },
+    {
+      "titel": "- Kreatives Patchwork",
+      "start": 6916.0
+    },
+    {
+      "titel": "- Ein Selbstplagiat",
+      "start": 7029.0
+    },
+    {
+      "titel": "- Sprachaufnahmen für die CD32-Version",
+      "start": 7068.0
+    },
+    {
+      "titel": "- Beneath a Steel Sky erscheint",
+      "start": 7112.0
+    },
+    {
+      "titel": "URTEIL",
+      "start": 7262.0
+    },
+    {
+      "titel": "- Das Ende des Spiels",
+      "start": 7275.0
+    },
+    {
+      "titel": "- Ist das gute Ende ein gutes Ende?",
+      "start": 7375.0
+    },
+    {
+      "titel": "- Beyond a Steel Sky (2020)",
+      "start": 7574.0
+    },
+    {
+      "titel": "- Sinnvolle Tode?",
+      "start": 7641.0
+    },
+    {
+      "titel": "- Joey als unausgegorener Charakter",
+      "start": 7807.0
+    },
+    {
+      "titel": "- Joeys Absturz",
+      "start": 7893.0
+    },
+    {
+      "titel": "- Joeys Opfer",
+      "start": 7907.0
+    },
+    {
+      "titel": "- Unbefriedigende Rätsel",
+      "start": 8107.0
+    },
+    {
+      "titel": "- Grafische Opulenz",
+      "start": 8162.0
+    },
+    {
+      "titel": "- Wenig Virtual Theatre",
+      "start": 8195.0
+    },
+    {
+      "titel": "- LINC Space",
+      "start": 8230.0
+    },
+    {
+      "titel": "- Fazit",
+      "start": 8405.0
+    },
+    {
+      "titel": "VERABSCHIEDUNG",
+      "start": 8530.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:38:50+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 8596,
+  "veroeffentlicht": "2026-01-28T15:58:25+00:00",
+  "beschreibung": "Cyberpunk-Adventure aus UK\nWorum geht's? Anfang der 1990er-Jahre, auf dem Höhepunkt des Point-&-Click-Adventures, erscheint mit Beneath a Steel Sky ein Spiel, das vertraute Mechaniken nutzt, aber thematisch eine andere Richtung einschlägt: In einer düsteren Science-Fiction-Stadt, beherrscht von Überwachung, Automatisierung und sozialer Kälte, entfaltet sich ein Abenteuer, das Humor und Dystopie eng miteinander verwebt. Die klare, von Comics geprägte Bildsprache, die reduzierte Interface-Philosophie und der trockene britische Tonfall verleihen dem Spiel eine unverwechselbare Identität.\n\nGunnar und Christian sprechen in dieser Folge über die Entstehung bei Revolution Software, über die Zusammenarbeit mit Comiczeichner Dave Gibbons, über Interface-Design und Rätselstruktur – und über die Frage, welchen Platz dieses Spiel im Adventure-Kanon einnimmt. Ein Blick auf einen Genreklassiker, der immer ein bisschen im Schatten seines direkten Nachfolger Baphomets Fluch steht.\n\nHinweis: Diese Folge enthält Einspieler aus einem Interview mit Charles Cecil und Tony Warriner, die wir ins Deutsche übertragen haben. Eine Version ohne deutsch übersetzte Einspieler findet ihr bei Patreon/Steady, ohne Paywall: klick. Unterstützende bekommen zeitnah noch eine Folge \"Wusstet ihr eigentlich …?\" zum Spiel.\n\nInfos zum Spiel:\n\nThema: Beneath a Steel Sky\n\nErscheinungstermin: März 1994\n\nPlattform: Amiga, MS-DOS (später u. a. iOS, Android)\n\nEntwickler: Revolution Software\n\nPublisher: Virgin Interactive\n\nGenre: Point-&-Click-Adventure\n\nDesigner: Charles Cecil, Tony Warriner, David Sykes, Dave Gibbons u.a.\n\nMusik: Geoff White\n\nProduktions-Credits:\n\nSprecher, Redaktion: Christian Schmidt, Gunnar Lott\n\nGäste in dieser Folge: Charles Cecil, Tony Warriner, Christian Weikert, Christian Beuster\n\nDeutsche Synchronstimmen: Dennis Richtarski, Tim Heinke\n\nAudioproduktion: Fabian Langer, Christian Schmidt\n\nTitelgrafik: Paul Schmidt\n\nIntro & Outro: Nino Kerl (Ansage); Chris Hülsbeck (Musik)\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon - einen Überblick über das Archiv an Folgen gibt es hier: klick.\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf www.stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützer. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv die Hamburger Tafel e.V., das Internet Archive und Wikipedia. Wir sind Mitglied beim Retrogames e.V. und Gaming in Niedersachsen e.V.",
+  "beschreibung_html": "Cyberpunk-Adventure aus UK\n<p><strong>Worum geht's?</strong> Anfang der 1990er-Jahre, auf dem Höhepunkt des Point-&amp;-Click-Adventures, erscheint mit <strong>Beneath a Steel Sky</strong> ein Spiel, das vertraute Mechaniken nutzt, aber thematisch eine andere Richtung einschlägt: In einer düsteren Science-Fiction-Stadt, beherrscht von Überwachung, Automatisierung und sozialer Kälte, entfaltet sich ein Abenteuer, das Humor und Dystopie eng miteinander verwebt. Die klare, von Comics geprägte Bildsprache, die reduzierte Interface-Philosophie und der trockene britische Tonfall verleihen dem Spiel eine unverwechselbare Identität.<br><br></p>\n<p>Gunnar und Christian sprechen in dieser Folge über die Entstehung bei Revolution Software, über die Zusammenarbeit mit Comiczeichner Dave Gibbons, über Interface-Design und Rätselstruktur – und über die Frage, welchen Platz dieses Spiel im Adventure-Kanon einnimmt. Ein Blick auf einen Genreklassiker, der immer ein bisschen im Schatten seines direkten Nachfolger Baphomets Fluch steht.</p>\n<p><br><br><strong>Hinweis:</strong> Diese Folge enthält Einspieler aus einem Interview mit Charles Cecil und Tony Warriner, die wir ins Deutsche übertragen haben. Eine Version ohne deutsch übersetzte Einspieler findet ihr bei Patreon/Steady, ohne Paywall:<a href=\"https://www.patreon.com/posts/beneath-steel-ot-149341817?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\"> klick</a>. Unterstützende bekommen zeitnah noch eine Folge \"Wusstet ihr eigentlich …?\" zum Spiel.</p>\n<hr />\n<p><strong>Infos zum Spiel:</strong>\n<br>\n<strong>Thema: </strong>Beneath a Steel Sky<br>\n<strong>Erscheinungstermin: </strong>März 1994<br>\n<strong>Plattform: </strong>Amiga, MS-DOS (später u. a. iOS, Android)<br>\n<strong>Entwickler:</strong> Revolution Software<br>\n<strong>Publisher:</strong> Virgin Interactive<br>\n<strong>Genre:</strong> Point-&amp;-Click-Adventure<br>\n<strong>Designer:</strong> Charles Cecil, Tony Warriner, David Sykes, Dave Gibbons u.a.<br>\n<strong>Musik:</strong> Geoff White<br></p>\n<!-- /wp:html -->\n<hr />\n<p><strong>Produktions-Credits:</strong><br>\n<strong>Sprecher, Redaktion: </strong>Christian Schmidt, Gunnar Lott<br>\n<strong>Gäste in dieser Folge:</strong> Charles Cecil, Tony Warriner, Christian Weikert, Christian Beuster<br>\n<strong>Deutsche Synchronstimmen: </strong>Dennis Richtarski, Tim Heinke<br>\n<strong>Audioproduktion:</strong> Fabian Langer, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Paul Schmidt<br>\n<strong>Intro &amp; Outro:</strong> Nino Kerl (Ansage); Chris Hülsbeck (Musik)<br></p>\n<hr />\n<p><b>Unterstützung &amp; Interaktion:</b><br><br></p>\n<p><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a> - einen Überblick über das Archiv an Folgen gibt es hier: <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">klick</a>.<br><br></p>\n<p><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"https://stayforever.de\">www.stayforever.de</a> sowie in jeder <a href=\"https://stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a><br><br></p>\n<p><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.<br><br></p>\n<p><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützer</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.<br><br></p>\n<p><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.<br><br></p>\n<p><b>Spenden:</b> Stay Forever unterstützt aktiv die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>. Wir sind Mitglied beim <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>. und <a href=\"https://gaming-niedersachsen.de/\">Gaming in Niedersachsen e.V.</a></p>",
+  "untertitel": "Cyberpunk-Adventure aus UK",
+  "bild_url": "https://images.podigee-cdn.net/0x,s8UX4k90PK97FhKaUiTxhmfsN5HbJH6xkinnme-Yp8wg=/https://main.podigee-cdn.net/uploads/u4307/9b607b90-36f1-4704-9035-2b04e0923d21.jpg",
+  "schlagworte": [
+    "Revolution Software",
+    "BASS",
+    "Tony Warriner",
+    "Charles Cecil"
+  ],
+  "folgennummer": 491,
+  "kapitel_quelle": "betreiber"
+}

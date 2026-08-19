@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "guid": "4d7675991be4c34ade5cef76a86cad20",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Contra (SSF 67)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1255823-m-3c782e3e7ea791f8aa4a32b1169498cb.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:47:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Alles über den Arcade-Klassiker Contra und die Geschichte der Run-and-Gun-Reihe",
+  "kurzfassung": "Der Podcast bespricht ausführlich das 1987 von Konami veröffentlichte Arcade-Spiel Contra und analysiert dessen Design, Hardware und Spielmechaniken. Dabei werden auch die Entstehungsgeschichte, wichtige Vorgänger wie Green Beret sowie die zahlreichen Fortsetzungen und Portierungen beleuchtet. Abschließend gibt der Host Tipps, auf welchen modernen Plattformen die Reihe heute noch spielbar ist.",
+  "stichpunkte": [
+    "Das Arcade-Original Contra von Konami aus dem Jahr 1987 setzte neue Maßstäbe im Run-and-Gun-Genre.",
+    "Das Spiel verbindet klassische Sidescrolling-Passagen mit innovativen Pseudo-3D-Basenabschnitten und vertikalen Leveln.",
+    "Bekannte Popkultur-Ikonen wie Sylvester Stallone und Arnold Schwarzenegger sowie der Alien-Film dienen als offensichtliche Inspirationsquellen.",
+    "Die berüchtigte Spreadgun gilt unter Spielerinnen und Spielern als die effektivste und beliebteste Waffe des Spiels.",
+    "Der kooperative Zweispieler-Modus erhöht den Wiederspielwert und bietet taktische Möglichkeiten bei Bosskämpfen.",
+    "Konami setzte für den Automaten eine maßgeschneiderte Hardware mit dem Hauptprozessor Hitachi 6309 und doppelten Custom-Grafikchips ein.",
+    "In Deutschland wurde das Spiel unter dem Namen Gryzor indiziert, was später zur Veröffentlichung der Roboter-Version Probotector führte.",
+    "Die Contra Anniversary Collection für moderne Plattformen bietet eine gute Möglichkeit, die alten Titel heute noch zu spielen."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "Gunnars Ersatz-Contra: Gryzor (C64)",
+      "start": 68.0
+    },
+    {
+      "titel": "Das Abstimmungs-Ergebnis",
+      "start": 104.0
+    },
+    {
+      "titel": "Die Rahmenhandlung von Contra",
+      "start": 128.0
+    },
+    {
+      "titel": "Was macht man im Spiel?",
+      "start": 206.0
+    },
+    {
+      "titel": "Level 1: Eine neue Waffe",
+      "start": 349.0
+    },
+    {
+      "titel": "Level 1: Die Brücke",
+      "start": 388.0
+    },
+    {
+      "titel": "Level 1: Geschütze",
+      "start": 434.0
+    },
+    {
+      "titel": "Level 1: Oben geht's weiter",
+      "start": 451.0
+    },
+    {
+      "titel": "Level 1: Auf dem Weg zum Boss",
+      "start": 488.0
+    },
+    {
+      "titel": "Level 1: Der erste Boss",
+      "start": 503.0
+    },
+    {
+      "titel": "Level 2: In der Basis in neuer Perspektive",
+      "start": 635.0
+    },
+    {
+      "titel": "Level 2: Es wird härter",
+      "start": 715.0
+    },
+    {
+      "titel": "Level 2: Der zweite Boss",
+      "start": 793.0
+    },
+    {
+      "titel": "Ein kurzes, schwieriges Spiel",
+      "start": 853.0
+    },
+    {
+      "titel": "Die 3D-Abschnitte",
+      "start": 987.0
+    },
+    {
+      "titel": "Kurzweiligkeit und Abwechslungsreichtum",
+      "start": 1143.0
+    },
+    {
+      "titel": "Hochformat vs. Querformat in den Portierungen",
+      "start": 1226.0
+    },
+    {
+      "titel": "Filmhaftigkeit: Denken in Szenen",
+      "start": 1367.0
+    },
+    {
+      "titel": "Football-Gegner?!",
+      "start": 1442.0
+    },
+    {
+      "titel": "Organische Alien-Höhle",
+      "start": 1467.0
+    },
+    {
+      "titel": "Verschiedene Waffen",
+      "start": 1551.0
+    },
+    {
+      "titel": "Kooperatives Spielen",
+      "start": 1912.0
+    },
+    {
+      "titel": "Bullet-Hell-Gefühl",
+      "start": 2093.0
+    },
+    {
+      "titel": "Abstürzen am Wasserfall",
+      "start": 2277.0
+    },
+    {
+      "titel": "Wenig gelungenes Sprunggefühl",
+      "start": 2305.0
+    },
+    {
+      "titel": "Vorbilder: Actionfilme der 80er",
+      "start": 2438.0
+    },
+    {
+      "titel": "Das Alien aus Alien",
+      "start": 2614.0
+    },
+    {
+      "titel": "Plastische Hintergründe",
+      "start": 2643.0
+    },
+    {
+      "titel": "Der Arcade-Automaten",
+      "start": 2776.0
+    },
+    {
+      "titel": "Die Contra-Platine",
+      "start": 2908.0
+    },
+    {
+      "titel": "Trick Trap (1987)",
+      "start": 3231.0
+    },
+    {
+      "titel": "Noch ein höherer Schwierigkeitsgrad?!",
+      "start": 3414.0
+    },
+    {
+      "titel": "Die Entstehungsgeschichte: Die Anfänge von Konami",
+      "start": 3677.0
+    },
+    {
+      "titel": "Erfolge in der Spielhalle",
+      "start": 3898.0
+    },
+    {
+      "titel": "Das hauseigene Vorbild: Green Beret (1985)",
+      "start": 3959.0
+    },
+    {
+      "titel": "TwinBee (1985)",
+      "start": 4241.0
+    },
+    {
+      "titel": "Jackal (1986)",
+      "start": 4286.0
+    },
+    {
+      "titel": "Anzeige für Jackal und Contra auf dem NES",
+      "start": 4364.0
+    },
+    {
+      "titel": "Wie Contra ursprünglich werden sollte",
+      "start": 4454.0
+    },
+    {
+      "titel": "Weitere Entscheidungen während der Entwicklung",
+      "start": 4624.0
+    },
+    {
+      "titel": "Der Name des Spiels",
+      "start": 4909.0
+    },
+    {
+      "titel": "In Europa: Gryzor",
+      "start": 5004.0
+    },
+    {
+      "titel": "Super Contra (1987)",
+      "start": 5059.0
+    },
+    {
+      "titel": "Heimcomputer-Umsetzungen aus Europa",
+      "start": 5191.0
+    },
+    {
+      "titel": "Die Entstehung der NES-Version (1987)",
+      "start": 5215.0
+    },
+    {
+      "titel": "Aus Contra wird Probotector",
+      "start": 5414.0
+    },
+    {
+      "titel": "Super C / Probotector 2",
+      "start": 5581.0
+    },
+    {
+      "titel": "Die weitere Seriengeschichte: Contra 3 / Super Probotector (1992)",
+      "start": 5607.0
+    },
+    {
+      "titel": "Contra: Hard Corps Uprising (1994)",
+      "start": 5669.0
+    },
+    {
+      "titel": "Contra auf der Playstation",
+      "start": 5692.0
+    },
+    {
+      "titel": "Contra: Shattered Soldier (2002)",
+      "start": 5731.0
+    },
+    {
+      "titel": "Contra 4 auf dem Nintendo DS (2007)",
+      "start": 5759.0
+    },
+    {
+      "titel": "Contra: Rebirth auf der Wii (2009)",
+      "start": 5816.0
+    },
+    {
+      "titel": "Neuere Spiele",
+      "start": 5863.0
+    },
+    {
+      "titel": "Contra: Rogue Corps (2019)",
+      "start": 5924.0
+    },
+    {
+      "titel": "Contra: Operationa Galuga (2024)",
+      "start": 6006.0
+    },
+    {
+      "titel": "Moderne Nachfolger",
+      "start": 6079.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:47:25+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 6144,
+  "veroeffentlicht": "2023-10-22T08:54:26+00:00",
+  "beschreibung": "bzw. Gryzor, bzw. Probotector\nDie japanische Firma **Konami** ist in den 80er-Jahren einer der fleißigsten Produzenten von Arcade-Spielen, jedes Jahr erscheinen mehrere neue Titel. 1987 ist mal wieder ein Juwel darunter: Ein Action-Titel für zwei Spieler, die sich springend und schießend durch eine ausgesprochen feindselige Insel ballern müssen. **Contra** heißt dieses Spiel, und wird zum Hit: Zur Blaupause für das junge Genre der **Run & Guns**.\n\nFabian und Gunnar spüren der Geschichte des Spielhallen-Automaten und seiner zahlreichen Umsetzungen nach. Warum wurde Contra so berühmt? Ist es wirklich so schwer, wie man immer hört? Und warum heißt das gleiche Spiel wahlweise **Contra**, **Gryzor** oder **Probotector**? Findet es mit uns heraus\n\nInfos zum Spiel:\n\nThema: Contra, 1987\nPlattform: Arcade, NES, C64, PC uvm.\nEntwickler: Konami\nPublisher: Konami\nGenre: Run & Gun\nDesigner: Koji Hiroshita\nMusik: Kazuki Muraoka\n\nPodcast-Credits:\n\nSprecher: Fabian Käufer, Gunnar Lott\nAudioproduktion: Johannes DuBois, Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro, Outro: Nino Kerl (Ansage); Trash80.com (Musik)\n\nUnterstützen: Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen Steady oder Patreon. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen Extra-Content. Mehr von uns: Diese Podcast-Folge gibt es auch auf Youtube, Spotify, als Audio-Datei im Feed und natürlich auf iTunes. Wir freuen uns über Reaktionen und Empfehlungen auf Twitfacegramcord oder wie das heißt. Wir haben auch einen schönen Merch-Shop namens Retro Shirty. Charity: SF ist Fördermitglied im Retrogames e.V. und bei der Hamburger Tafel e.V.",
+  "beschreibung_html": "bzw. Gryzor, bzw. Probotector\n<p>Die japanische Firma **Konami** ist in den 80er-Jahren einer der fleißigsten Produzenten von Arcade-Spielen, jedes Jahr erscheinen mehrere neue Titel. 1987 ist mal wieder ein Juwel darunter: Ein Action-Titel für zwei Spieler, die sich springend und schießend durch eine ausgesprochen feindselige Insel ballern müssen. **Contra** heißt dieses Spiel, und wird zum Hit: Zur Blaupause für das junge Genre der **Run & Guns**.<br><br>\n\nFabian und Gunnar spüren der Geschichte des Spielhallen-Automaten und seiner zahlreichen Umsetzungen nach. Warum wurde Contra so berühmt? Ist es wirklich so schwer, wie man immer hört? Und warum heißt das gleiche Spiel wahlweise **Contra**, **Gryzor** oder **Probotector**? Findet es mit uns heraus\n\n\n<hr />\n<strong>Infos zum Spiel:</strong><br /><br /></p>\n<p><strong>Thema:</strong> Contra, 1987<strong><br />Plattform:</strong> Arcade, NES, C64, PC uvm.<strong><br />Entwickler:</strong> Konami<strong><br />Publisher:</strong> Konami<br /><strong> Genre:</strong> Run & Gun<strong><br />Designer: </strong> Koji Hiroshita<br /><strong>Musik:</strong> Kazuki Muraoka<br /><br /></p>\n<!-- /wp:html -->\n<p><hr /><!-- wp:html --></p>\n<p><strong>Podcast-Credits:</strong></p>\n<!-- /wp:html -->\n<!-- wp:html -->\n<p><b>Sprecher:</b> Fabian Käufer, Gunnar Lott<br /><b>Audioproduktion:</b> Johannes DuBois, Christian Schmidt<br /><b> Titelgrafik:</b> Paul Schmidt<br /><b> Intro, Outro:</b> Nino Kerl (Ansage); Trash80.com (Musik)</p>\n<!-- wp:html -->\n<hr />\n<p><strong>Unterstützen:</strong> Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> oder <a href=\"https://www.patreon.com/stayforever\">Patreon</a>. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen <strong>Extra-Content</strong>. <strong> Mehr von uns:</strong> Diese Podcast-Folge gibt es auch auf <a href=\"https://www.youtube.com/playlist?list=PLk81FXjsqZvcFtNnm0lzwJ_9EoD1q1td5\">Youtube</a>, <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, als Audio-Datei <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">im Feed</a> und natürlich auf <a href=\"https://itunes.apple.com/de/podcast/stay-forever/id461077931?mt=2\">iTunes</a>. Wir freuen uns über Reaktionen und Empfehlungen auf <a href=\"https://twitter.com/stayforeverDE\">Twit</a><a href=\"https://www.facebook.com/StayForeverPodcast/\">face</a><a href=\"https://www.instagram.com/stay_forever_podcast/\">gram</a><a href=\"https://stayforever.de/discord\">cord</a> oder wie das heißt. Wir haben auch einen schönen <a href=\"https://retroshirty.com\">Merch-Shop namens Retro Shirty</a>. <strong> Charity:</strong> SF ist Fördermitglied im <a href=\"https://www.retrogames.info/\">Retrogames e.V.</a> und bei der <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a></p>\n<hr />",
+  "untertitel": "bzw. Gryzor, bzw. Probotector",
+  "bild_url": "https://images.podigee-cdn.net/0x,sNjJ6k8DrBoDk_FD8pcgX8cSr1BvRFBvFmyUMmTmn3qs=/https://main.podigee-cdn.net/uploads/u4307/908eb820-1efa-4a5c-a184-1fd72a1bb150.jpeg",
+  "folgennummer": 380,
+  "kapitel_quelle": "betreiber"
+}

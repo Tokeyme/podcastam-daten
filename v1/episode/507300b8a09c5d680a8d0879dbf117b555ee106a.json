@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "guid": "d56df81de7f71a65d7732840dee02f04",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "TI-99/4 (SFT 22-1)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2531865-m-43aca541cf32fd12653a2691cd97f371.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:37:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Die Geschichte des TI-99/4 und des Unternehmens Texas Instruments.",
+  "kurzfassung": "Der Podcast beleuchtet die Entwicklung des TI-99/4 und die Entstehungsgeschichte von Texas Instruments. Dabei werden die technischen Eigenheiten des 16-Bit-Computers sowie die internen Firmenstrukturen detailliert analysiert. Am Ende wird ein Ausblick auf den Marktstart und die Spiele des Geräts gegeben.",
+  "stichpunkte": [
+    "Texas Instruments hat seine Wurzeln im Jahr 1930 als Erdöl-Erkundungsfirma GSI.",
+    "Der Durchbruch gelingt TI in den 1950ern durch die Erfindung des integrierten Schaltkreises.",
+    "Mit dem TI 2500 Data Math steigt das Unternehmen erfolgreich in den Taschenrechner-Markt ein.",
+    "TI entwickelt 1976 mit dem TMS 9900 einen der ersten 16-Bit-Mikroprozessoren.",
+    "Die Architektur des Prozessors basiert auf Minicomputern und nutzt ein langsames Workspace-Pointer-System.",
+    "Interne Machtkämpfe zwischen den Firmenabteilungen behindern die Entwicklung des Heimcomputers.",
+    "Der TI-99/4 erscheint 1979 in den USA und kämpft mit hohen Kosten und strengen FCC-Normen.",
+    "Der Computer verfügt über einen leistungsstarken Grafikchip mit Sprites und eine Sprachsynthese."
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 0.0
+    },
+    {
+      "titel": "- Was ist der schönste Computer?",
+      "start": 22.0
+    },
+    {
+      "titel": "- Henners Favorit: Philips VG-8010",
+      "start": 88.0
+    },
+    {
+      "titel": "- Texas Instrument TI-99/4",
+      "start": 106.0
+    },
+    {
+      "titel": "TEXAS INSTRUMENTS",
+      "start": 169.0
+    },
+    {
+      "titel": "- Die Erfindung des Transistors",
+      "start": 287.0
+    },
+    {
+      "titel": "- Der integrierte Schaltkreis",
+      "start": 330.0
+    },
+    {
+      "titel": "- Texas Instruments wird groß im Chip-Geschäft",
+      "start": 378.0
+    },
+    {
+      "titel": "- Erste Computer bei TI",
+      "start": 463.0
+    },
+    {
+      "titel": "- Die ersten Taschenrechner",
+      "start": 640.0
+    },
+    {
+      "titel": "- TI rollt den Taschenrechner-Markt auf",
+      "start": 752.0
+    },
+    {
+      "titel": "- Erfolgreiche Mikrocontroller",
+      "start": 883.0
+    },
+    {
+      "titel": "- Spielzeuge mit TI-Technik",
+      "start": 980.0
+    },
+    {
+      "titel": "- Speak & Spell (1978)",
+      "start": 1048.0
+    },
+    {
+      "titel": "16-BIT-PROZESSOR: TMS-9900",
+      "start": 1107.0
+    },
+    {
+      "titel": "- Die Vorlage: TI 990",
+      "start": 1239.0
+    },
+    {
+      "titel": "- Der TMS-9900",
+      "start": 1282.0
+    },
+    {
+      "titel": "- Schwächen und eigenwillige Speicherstruktur",
+      "start": 1437.0
+    },
+    {
+      "titel": "- Einschätzung von Paul Urbanus und Karl Guttag",
+      "start": 1857.0
+    },
+    {
+      "titel": "- Kein Bedarf im Markt für den TMS-9900",
+      "start": 2052.0
+    },
+    {
+      "titel": "DER TI 99/4 ENTSTEHT",
+      "start": 2149.0
+    },
+    {
+      "titel": "- Die Heimcomputer-Revolution",
+      "start": 2210.0
+    },
+    {
+      "titel": "- Entwicklungsstart für mehrere Projekte",
+      "start": 2266.0
+    },
+    {
+      "titel": "- Umzug in die Provinz",
+      "start": 2487.0
+    },
+    {
+      "titel": "- Projekt \"Dimension 4\"",
+      "start": 2585.0
+    },
+    {
+      "titel": "- Chip-Fiasko: TMS-9985",
+      "start": 2624.0
+    },
+    {
+      "titel": "- Verhängnisvolle Prozessor-Wahl",
+      "start": 2900.0
+    },
+    {
+      "titel": "- Hauseigener Grafikchip: TMS-9918",
+      "start": 3197.0
+    },
+    {
+      "titel": "- Die FCC grätscht rein",
+      "start": 3481.0
+    },
+    {
+      "titel": "- ... und dann kommt noch Pech dazu",
+      "start": 3679.0
+    },
+    {
+      "titel": "- Markteinführung des TI-99/4",
+      "start": 3738.0
+    },
+    {
+      "titel": "- DER TI-99/4 IM DETAIL",
+      "start": 3949.0
+    },
+    {
+      "titel": "- Gehäuse und Tastatur",
+      "start": 3990.0
+    },
+    {
+      "titel": "- Anschlüsse",
+      "start": 4189.0
+    },
+    {
+      "titel": "- Weitere Anschlüsse auf der Rückseite",
+      "start": 4278.0
+    },
+    {
+      "titel": "- Die ursprünglich geplanten Joysticks",
+      "start": 4328.0
+    },
+    {
+      "titel": "- Der Modulschacht",
+      "start": 4373.0
+    },
+    {
+      "titel": "- Innenleben und Hauptspeicher",
+      "start": 4423.0
+    },
+    {
+      "titel": "- Das ROM",
+      "start": 4609.0
+    },
+    {
+      "titel": "- Wie der TI-99/4 seine Programme ausbremst",
+      "start": 4822.0
+    },
+    {
+      "titel": "- Die Grafikfähigkeiten",
+      "start": 4975.0
+    },
+    {
+      "titel": "- 1) Textmodus",
+      "start": 5009.0
+    },
+    {
+      "titel": "- 2) Multicolor-Modus",
+      "start": 5048.0
+    },
+    {
+      "titel": "- 3) Graphics-Modus",
+      "start": 5081.0
+    },
+    {
+      "titel": "- Hardware-Sprites",
+      "start": 5188.0
+    },
+    {
+      "titel": "- Soundchip TMS-9919 und seine Fähigkeiten",
+      "start": 5297.0
+    },
+    {
+      "titel": "- Erweiterungsfähigkeit",
+      "start": 5410.0
+    },
+    {
+      "titel": "- Der Speech Synthesizer",
+      "start": 5481.0
+    },
+    {
+      "titel": "AUSBLICK AUF FOLGE 2",
+      "start": 5668.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:37:03+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 5701,
+  "veroeffentlicht": "2026-06-28T10:31:31+00:00",
+  "beschreibung": "Teil 1 von 2: Der erste 16-Bit-Heimcomputer\nAchtung: Dies ist Folge 1 von 2, Teil 2 erscheint in einer Woche.\n\nWorum geht's? Worum geht's? Texas Instruments ist heute vor allem als Zulieferer von Halbleitern bekannt, doch Ende der 70er Jahre baute das Unternehmen aus Dallas einen eigenen Heimcomputer: den TI-99/4. Ein schwarz-silbernes Gerät mit 16-Bit-Prozessor, das schon 1979 auf den Markt kam und damit technisch seiner Zeit voraus war. Oder zumindest hätte sein können.\n\nHenner und Chris zeichnen nach, wie es dazu kamm und warum der Weg dorthin von Anfang an mit problematischen Entscheidungen gepflastert war. Sie beginnen bei den Ursprüngen von Texas Instruments, das als \"Geophysical Service Incorporated\" mit seismischen Messungen zur Erdölerkundung anfing und sich über die Halbleiterfertigung zum Technologiekonzern entwickelte. 1958 erfand Jack Kilby dort den integrierten Schaltkreis – eine der folgenreichsten Erfindungen der Technikgeschichte. TI baute darauf Taschenrechner, Sprachsynthesechips und 1978 den Speak & Spell, einen der ersten Consumer-Artikel mit digitaler Sprachausgabe.\n\nZu Wort kommt dabei auch der ehemalige TI-Ingenieur Karl Guttag, der damals an mehreren Mikrochips bei Texas Instruments gearbeitet hat und die verworrene Entstehungsgeschichte des Heimcomputers aus erster Hand kennt, inklusive der internen Rivalitäten zwischen den Abteilungen, dem gescheiterten Versuch einer eigenen Heimcomputer-CPU und der legendär schlechten Entscheidung, die gesamte Entwicklungsabteilung in die texanische Kleinstadt Lubbock zu verlegen.\n\nDies ist der erste Teil einer zweiteiligen Folge. Spiele, Marktgeschichte und das Ende von TIs Heimcomputer-Ambitionen folgen in Teil 2.\n\nProduktions-Credits:\n\nSprecher, Redaktion: Henner Thomsen, Christian Schmidt\n\nAudioproduktion: Johannes DuBois, Christian Schmidt\n\nTitelgrafik: Johannes DuBois\n\nVielen Dank an Karl Guttag und Paul Urbanus.\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon - einen Überblick über das Archiv an Folgen gibt es hier: klick.\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf www.stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützer. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv den Retrogames e.V., die Hamburger Tafel e.V., das Internet Archive und Wikipedia.",
+  "beschreibung_html": "Teil 1 von 2: Der erste 16-Bit-Heimcomputer \n<p>Achtung: <strong>Dies ist Folge 1 von 2</strong>, Teil 2 erscheint in einer Woche.</p>\n<p><strong>Worum geht's? </strong>Worum geht's? Texas Instruments ist heute vor allem als Zulieferer von Halbleitern bekannt,  doch Ende der 70er Jahre baute das Unternehmen aus Dallas einen eigenen Heimcomputer: den <strong>TI-99/4</strong>. Ein schwarz-silbernes Gerät mit 16-Bit-Prozessor, das schon 1979 auf den Markt kam und damit technisch seiner Zeit voraus war. Oder zumindest hätte sein können.</p>\n<p>Henner und Chris zeichnen nach, wie es dazu kamm und warum der Weg dorthin von Anfang an mit problematischen Entscheidungen gepflastert war. Sie beginnen bei den Ursprüngen von Texas Instruments, das als \"Geophysical Service Incorporated\" mit seismischen Messungen zur Erdölerkundung anfing und sich über die Halbleiterfertigung zum Technologiekonzern entwickelte. 1958 erfand Jack Kilby dort den integrierten Schaltkreis – eine der folgenreichsten Erfindungen der Technikgeschichte. TI baute darauf Taschenrechner, Sprachsynthesechips und 1978 den Speak &amp; Spell, einen der ersten Consumer-Artikel mit digitaler Sprachausgabe.</p>\n<p>Zu Wort kommt dabei auch der ehemalige TI-Ingenieur Karl Guttag, der damals an mehreren Mikrochips bei Texas Instruments gearbeitet hat und die verworrene Entstehungsgeschichte des Heimcomputers aus erster Hand kennt, inklusive der internen Rivalitäten zwischen den Abteilungen, dem gescheiterten Versuch einer eigenen Heimcomputer-CPU und der legendär schlechten Entscheidung, die gesamte Entwicklungsabteilung in die texanische Kleinstadt Lubbock zu verlegen.</p>\n<p>Dies ist der erste Teil einer zweiteiligen Folge. Spiele, Marktgeschichte und das Ende von TIs Heimcomputer-Ambitionen folgen in Teil 2.</p>\n<p><strong>Produktions-Credits:</strong><br><br></p>\n<p><strong>Sprecher, Redaktion: </strong>Henner Thomsen, Christian Schmidt<br>\n<strong>Audioproduktion:</strong> Johannes DuBois, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Johannes DuBois<br><br></p>\n<p>Vielen Dank an Karl Guttag und Paul Urbanus.</p>\n<hr />\n<p><b>Unterstützung &amp; Interaktion:</b></p>\n<p><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a> - einen Überblick über das Archiv an Folgen gibt es hier: <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">klick</a>.</p>\n<p><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"https://stayforever.de\">www.stayforever.de</a> sowie in jeder <a href=\"https://stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a></p>\n<p><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.</p>\n<p><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützer</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.</p>\n<p><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.</p>\n<p><b>Spenden:</b> Stay Forever unterstützt aktiv den <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>., die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>.</p>",
+  "untertitel": "Teil 1 von 2: Der erste 16-Bit-Heimcomputer",
+  "bild_url": "https://images.podigee-cdn.net/0x,ssHJS5k1b5ndf1ZcsmF78Xlb0UUVXjkidGf_ohJkQhC8=/https://main.podigee-cdn.net/uploads/u4307/b47c3f5f-8a11-40ec-9a21-dadd62f96aae.jpeg",
+  "schlagworte": [
+    "Texas Instruments",
+    "Karl Guttag",
+    "Paul Urbanus"
+  ],
+  "folgennummer": 511,
+  "kapitel_quelle": "betreiber"
+}

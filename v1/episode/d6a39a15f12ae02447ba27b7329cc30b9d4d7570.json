@@ -1,0 +1,317 @@
+{
+  "schema_version": 1,
+  "guid": "5ee7d7b784a0bf200c6c43700c612da4",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "F-Zero (SSF 83)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1846741-m-5e1b5dc740141daaef5e7a400c8e7066.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:43:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Die Entstehungsgeschichte, Technik und Faszination des SNES-Klassikers F-Zero",
+  "kurzfassung": "Das Nintendo-Entwicklerteam um Shigeru Miyamoto schuf mit dem SNES-Launch-Titel F-Zero ein pfeilschnelles futuristisches Rennspiel. Mithilfe der Mode-7-Grafiktechnik bot der Titel eine für die 16-Bit-Ära beeindruckende 3D-Illusion und 60 Bilder pro Sekunde. Trotz fehlendem Mehrspielermodus begründete das Spiel eine langlebige Reihe und diente als direkter Vorläufer von Super Mario Kart.",
+  "stichpunkte": [
+    "F-Zero erschien im November 1990 als Launch-Titel des Super Famicom in Japan und im August 1992 in Deutschland.",
+    "Nintendo reagierte mit dem futuristischen Rennspiel auf Segas aggressive Marketingkampagne für das Mega Drive.",
+    "Die technische Basis bildete der Modus-7, der eine rotierbare und skalierbare 2D-Fläche als Rennstrecke darstellte.",
+    "Das Spiel verzichtet auf Reifen und lässt futuristische Gleiter mit Geschwindigkeiten von über 400 km/h schweben.",
+    "Designer Takaya Imamura entwarf die Charaktere und das Universum rund um den Piloten Captain Falcon.",
+    "Aufgrund technischer Grenzen in der Frühphase des SNES musste das Spiel gänzlich auf einen Mehrspielermodus verzichten.",
+    "F-Zero wurde ein großer kommerzieller Erfolg und verkaufte sich weltweit rund 2,85 Millionen Mal.",
+    "Die spielerischen und technischen Erfahrungen flossen direkt in die Entwicklung von Super Mario Kart ein.",
+    "Nach jahrelanger Pause und Ablegern für N64, Game Boy Advance und GameCube erschien 2023 F-Zero 99 für die Switch."
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 0.0
+    },
+    {
+      "titel": "Mario vs. Sonic, SNES vs. Mega Drive",
+      "start": 138.0
+    },
+    {
+      "titel": "Das Mega Drive ist leistungsstärker ...",
+      "start": 474.0
+    },
+    {
+      "titel": "... aber das SNES hat F-Zero",
+      "start": 553.0
+    },
+    {
+      "titel": "F-Zero: Das Spiel",
+      "start": 674.0
+    },
+    {
+      "titel": "DIE ENTSTEHUNGSGESCHICHTE",
+      "start": 777.0
+    },
+    {
+      "titel": "Shigeru Miyamoto, R&D und IAD",
+      "start": 825.0
+    },
+    {
+      "titel": "Das Team hinter F-Zero",
+      "start": 937.0
+    },
+    {
+      "titel": "Ausgangspunkt: Famicom Grand Prix: F1 Race (1987)",
+      "start": 1064.0
+    },
+    {
+      "titel": "Batmobil und DeLorean",
+      "start": 1114.0
+    },
+    {
+      "titel": "- Was ist Mode 7?",
+      "start": 1164.0
+    },
+    {
+      "titel": "Einsatzmöglichkeiten des Mode 7",
+      "start": 1286.0
+    },
+    {
+      "titel": "Aus Autos werden Gleiter",
+      "start": 1358.0
+    },
+    {
+      "titel": "Schwebende, flache Kurse",
+      "start": 1409.0
+    },
+    {
+      "titel": "Sichtbarer Ausschnitt der Strecke",
+      "start": 1452.0
+    },
+    {
+      "titel": "\"Abgeschnittene\" Streckenenden am Horizont",
+      "start": 1500.0
+    },
+    {
+      "titel": "- Personifizierung durch Fahrer",
+      "start": 1601.0
+    },
+    {
+      "titel": "Der Comic in der Anleitung",
+      "start": 1785.0
+    },
+    {
+      "titel": "Comicbilder auf der Packungsrückseite",
+      "start": 1796.0
+    },
+    {
+      "titel": "Captain Falcon",
+      "start": 1838.0
+    },
+    {
+      "titel": "Nintendos Personifizierungs-Versuche",
+      "start": 1901.0
+    },
+    {
+      "titel": "Stunt Race FX",
+      "start": 1938.0
+    },
+    {
+      "titel": "Dr. Mario",
+      "start": 1959.0
+    },
+    {
+      "titel": "Mario Paint",
+      "start": 1989.0
+    },
+    {
+      "titel": "Charaktere im Pilotwings-Handbuch",
+      "start": 2029.0
+    },
+    {
+      "titel": "DAS SPIEL",
+      "start": 2068.0
+    },
+    {
+      "titel": "Der Wettbewerb",
+      "start": 2179.0
+    },
+    {
+      "titel": "- Ist das ein Rennspiel oder ein Geschicklichkeitsspiel?",
+      "start": 2246.0
+    },
+    {
+      "titel": "Fahrverhalten der Gegner",
+      "start": 2447.0
+    },
+    {
+      "titel": "Virtua Racing (1992)",
+      "start": 2542.0
+    },
+    {
+      "titel": "- Wie man die Gleiter steuert",
+      "start": 2574.0
+    },
+    {
+      "titel": "Kollisionen und die Power-Leiste",
+      "start": 2749.0
+    },
+    {
+      "titel": "Die Auflade-Zone",
+      "start": 2790.0
+    },
+    {
+      "titel": "Tödliche Sprünge",
+      "start": 2822.0
+    },
+    {
+      "titel": "Explosion statt Absturz",
+      "start": 2881.0
+    },
+    {
+      "titel": "Geschwindigkeitsgefühl",
+      "start": 2916.0
+    },
+    {
+      "titel": "- Abwechslung in den Strecken",
+      "start": 2972.0
+    },
+    {
+      "titel": "Strecke 1: Mute City 1",
+      "start": 2986.0
+    },
+    {
+      "titel": "Strecke 2: Big Blue",
+      "start": 3065.0
+    },
+    {
+      "titel": "Die Eiskurve",
+      "start": 3089.0
+    },
+    {
+      "titel": "Strecke 3: Sand Ocean",
+      "start": 3154.0
+    },
+    {
+      "titel": "Strecke 4: Death Wind",
+      "start": 3163.0
+    },
+    {
+      "titel": "Die Beschleunigungsstreifen",
+      "start": 3220.0
+    },
+    {
+      "titel": "Strecke 5: Silence",
+      "start": 3284.0
+    },
+    {
+      "titel": "Enge Kurve aus der Abkürzung raus",
+      "start": 3340.0
+    },
+    {
+      "titel": "Streckenvarianten",
+      "start": 3377.0
+    },
+    {
+      "titel": "- Was ändert sich durch die Schwierigkeitsgrade?",
+      "start": 3475.0
+    },
+    {
+      "titel": "Für Profis: Master-Modus",
+      "start": 3584.0
+    },
+    {
+      "titel": "Gummiband-KI",
+      "start": 3621.0
+    },
+    {
+      "titel": "- Wie man Bestzeiten erreicht",
+      "start": 3676.0
+    },
+    {
+      "titel": "Gunnar im Fire Stingray",
+      "start": 3736.0
+    },
+    {
+      "titel": "Der \"Start Bump\"",
+      "start": 3808.0
+    },
+    {
+      "titel": "- Musik und Sound",
+      "start": 4044.0
+    },
+    {
+      "titel": "Motivation: Highscores erreichen",
+      "start": 4250.0
+    },
+    {
+      "titel": "Endlich Multiplayer: Mario Kart (1992)",
+      "start": 4328.0
+    },
+    {
+      "titel": "ERFOLG UND NACHWIRKUNG",
+      "start": 4390.0
+    },
+    {
+      "titel": "Was sagte die Presse?",
+      "start": 4469.0
+    },
+    {
+      "titel": "Ausreißer: Play Time",
+      "start": 4516.0
+    },
+    {
+      "titel": "- Die weitere Seriengeschichte",
+      "start": 4584.0
+    },
+    {
+      "titel": "F-Zero für den Game Boy Advance: Maximum Velocity (2001) ...",
+      "start": 4664.0
+    },
+    {
+      "titel": "... F-Zero GP Legend (2003) ...",
+      "start": 4692.0
+    },
+    {
+      "titel": "... und F-Zero Climax (2004)",
+      "start": 4727.0
+    },
+    {
+      "titel": "F-Zero AX in der Spielhalle ....",
+      "start": 4776.0
+    },
+    {
+      "titel": "... und F-Zero GX auf dem GameCube",
+      "start": 4814.0
+    },
+    {
+      "titel": "* Rückkehr als Online-Spiel: F-Zero 99 (2023)",
+      "start": 4957.0
+    },
+    {
+      "titel": "FAZIT",
+      "start": 5112.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:43:03+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 5281,
+  "veroeffentlicht": "2025-03-26T07:40:01+00:00",
+  "beschreibung": "Das schnellste Spiel des SNES\nWorum geht’s? 1990 erscheint mit F-Zero ein Launch-Titel für das brandneue Super Nintendo, der nicht nur als technisches Schaufenster für das neue Mode-7-Scrolling dient, sondern auch ein neues Subgenre im Rennspielbereich definiert: futuristische High-Speed-Rennen mit schwebenden Gleitern auf halsbrecherischen Strecken. Als Spieler steuert man eines von vier Fahrzeugen durch Loopings, Schikanen und Energiezonen – begleitet von einem ikonischen Soundtrack und minimalistischem, aber prägnantem Design. Gunnar und Fabian sprechen in dieser Folge über die Entstehung des Spiels, die Bedeutung für Nintendos 16-Bit-Start und wie F-Zero mit Tempo, Stil und Präzision den Grundstein für eine langlebige Serie legte.\n\nInfos zum Spiel:\n\nThema: F-Zero\n\nErscheinungstermin: November 21, 1990 (Japan), USA 1991, EU 1992\n\nPlattform: SNES\n\nEntwickler: Nintendo EAD\n\nPublisher: Nintendo\n\nGenre: Rennspiel\n\nDesigner: Takaya Imamura, Shigeru Miyamoto u.a.\n\nMusic: Yumiko Kanki, Naoto Ishida\n\nProduktions-Credits:\n\nSprecher, Redaktion: Fabian Käufer, Gunnar Lott\n\nAudioproduktion: Sascha Blach, Christian Schmidt\n\nTitelgrafik: Paul Schmidt\n\nIntro & Outro: Nino Kerl (Ansage); trash80.com (Musik)\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützer. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv den Retrogames e.V., die Hamburger Tafel e.V., das Internet Archive und Wikipedia.",
+  "beschreibung_html": "Das schnellste Spiel des SNES\n<p><strong>Worum geht’s?</strong> 1990 erscheint mit <strong>F-Zero</strong> ein Launch-Titel für das brandneue Super Nintendo, der nicht nur als technisches Schaufenster für das neue Mode-7-Scrolling dient, sondern auch ein neues Subgenre im Rennspielbereich definiert: futuristische High-Speed-Rennen mit schwebenden Gleitern auf halsbrecherischen Strecken. Als Spieler steuert man eines von vier Fahrzeugen durch Loopings, Schikanen und Energiezonen – begleitet von einem ikonischen Soundtrack und minimalistischem, aber prägnantem Design. Gunnar und Fabian sprechen in dieser Folge über die Entstehung des Spiels, die Bedeutung für Nintendos 16-Bit-Start und wie F-Zero mit Tempo, Stil und Präzision den Grundstein für eine langlebige Serie legte.<br><br></p>\n<p><strong>Infos zum Spiel:</strong>\n<br><br>\n<strong>Thema:</strong> F-Zero<br>\n<strong>Erscheinungstermin:</strong> November 21, 1990 (Japan), USA 1991, EU 1992<strong><br>\nPlattform:</strong> SNES<strong><br>\nEntwickler:</strong> Nintendo EAD<strong><br>\nPublisher:</strong> Nintendo<br>\n<strong> Genre:</strong> Rennspiel<strong><br>\nDesigner: </strong>Takaya Imamura, Shigeru Miyamoto u.a.<br>\n<strong>Music:</strong> Yumiko Kanki, Naoto Ishida<br><br></p>\n<hr />\n<p><strong>Produktions-Credits:</strong><br><br></p>\n<p><strong>Sprecher, Redaktion: </strong>Fabian Käufer, Gunnar Lott<br>\n<strong>Audioproduktion:</strong> Sascha Blach, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Paul Schmidt<br>\n<strong>Intro &amp; Outro:</strong> Nino Kerl (Ansage); trash80.com (Musik)<br><br></p>\n<p><hr />\n<b>Unterstützung &amp; Interaktion:</b><br><br></p>\n<ul>\n     <li aria-level=\"1\"><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a></li><br>\n     <li aria-level=\"1\"><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"http://stayforever.de\">stayforever.de</a> sowie in jeder <a href=\"https://www.stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a></li><br>\n     <li aria-level=\"1\"><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.</li><br>\n     <li aria-level=\"1\"><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://www.stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://www.stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützer</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://www.stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.</li><br>\n     <li aria-level=\"1\"><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.</li><br>\n     <li aria-level=\"1\"><b>Spenden:</b> Stay Forever unterstützt aktiv den <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>., die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>.</li>\n</ul>",
+  "untertitel": "Das schnellste Spiel des SNES",
+  "bild_url": "https://images.podigee-cdn.net/0x,secJgQe4550O_Y-xa_F1mHTIScu3w2nwoy15SuD0AHj4=/https://main.podigee-cdn.net/uploads/u4307/6dc95bf3-911b-4681-a101-2540a8f8cf8a.jpg",
+  "folgennummer": 450,
+  "kapitel_quelle": "betreiber"
+}

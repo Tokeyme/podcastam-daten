@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "guid": "bfadca4bdf4bf157201524ef3a5d9069",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "The Elder Scrolls: Morrowind (SF 159)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2279297-m-db247f71dc22ef83979352a187e9da5f.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:39:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Eine ausführliche Retrospektive auf das epochale Rollenspiel The Elder Scrolls III…",
+  "kurzfassung": "Die Hosts beleuchten detailliert das 2002 erschienene Rollenspiel Morrowind und dessen Platz in der Elder Scrolls-Reihe. Sie diskutieren die mechanische Tiefe, die markante fremdartige Spielwelt und die schwierige Entstehungsgeschichte bei Bethesda. Dabei wird analysiert, wie das Spiel trotz technischer Mängel und mangelnder Inszenierung ein einzigartiges Gefühl von Freiheit und Selbstwirksamkeit erzeugt.",
+  "stichpunkte": [
+    "Morrowind gilt als das wegweisende Brückenspiel zwischen den rohen, prozedural generierten Systemen von Daggerfall und den zugänglicheren Nachfolgern.",
+    "Im Gegensatz zum mitteleuropäischen Fantasy-Einheitsbrei bietet Vardenfell eine bizarre, eigenständige Welt mit Vulkanen, Riesenpilzen und Knochenarchitektur.",
+    "Das klassenlose Charaktersystem und das 'Learning-by-Doing'-Prinzip belohnen jegliche Aktivität, verlangen Spielern jedoch Geduld ab.",
+    "Das Spiel verzichtet konsequent auf moderne Annehmlichkeiten wie Schnellreise zu beliebigen Punkten oder Questmarkierungen.",
+    "Das Text- und Dialogsystem ist stark veraltet und entkoppelt erzählerische Wendungen von der eigentlichen 3D-Spielwelt.",
+    "Die Entwicklung war von extremem Zeitdruck, kleinen Teams und dem Beinahe-Ruin von Bethesda Softworks überschattet.",
+    "Der finanzielle und kritische Erfolg, inklusive der wichtigen Xbox-Portierung, rettete das Studio und begründete den heutigen Erfolg der Bethesda Game Studios.",
+    "Morrowind wird als radikales 'Trotzdem-Spiel' gewürdigt, das dem Spieler totale Freiheit lässt, sich das Spielerlebnis im Guten wie im Schlechten selbst zu erarbeiten."
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 0.0
+    },
+    {
+      "titel": "- Die Daggerfall-Hypothek",
+      "start": 63.0
+    },
+    {
+      "titel": "- Rollenspiele in den frühen 2000ern",
+      "start": 224.0
+    },
+    {
+      "titel": "- Durchbruch der 3D-Rollenspiele",
+      "start": 304.0
+    },
+    {
+      "titel": "- Erzählspiele vs. Regelspiele",
+      "start": 376.0
+    },
+    {
+      "titel": "DIE VORGÄNGERSPIELE",
+      "start": 522.0
+    },
+    {
+      "titel": "- The Elder Scrolls: Arena (1994)",
+      "start": 536.0
+    },
+    {
+      "titel": "- The Elder Scrolls: Daggerfall (1996)",
+      "start": 602.0
+    },
+    {
+      "titel": "- Die Idee einer riesigen Rollenspiel-Simulation",
+      "start": 638.0
+    },
+    {
+      "titel": "- Hochspezifische Fähigkeiten wie z.B. Sprachen",
+      "start": 769.0
+    },
+    {
+      "titel": "- Fortschritt durch Einsatz von Fertigkeiten",
+      "start": 827.0
+    },
+    {
+      "titel": "THE ELDER SCROLLS: MORROWIND",
+      "start": 985.0
+    },
+    {
+      "titel": "- Die Spielwelt: Morrowinds Insel Vvardenfell",
+      "start": 996.0
+    },
+    {
+      "titel": "- Ankunft in Vvardenfell",
+      "start": 1096.0
+    },
+    {
+      "titel": "- Unser Auftrag",
+      "start": 1179.0
+    },
+    {
+      "titel": "EINE RUNDREISE DURCH VVARDENFELL",
+      "start": 1211.0
+    },
+    {
+      "titel": "- Hafenstadt Seyda Neen",
+      "start": 1263.0
+    },
+    {
+      "titel": "- Sumpfland",
+      "start": 1308.0
+    },
+    {
+      "titel": "- Schnellreise per Schlickschreiter",
+      "start": 1340.0
+    },
+    {
+      "titel": "- Balmora",
+      "start": 1367.0
+    },
+    {
+      "titel": "- Ald'ruhn, Stadt aus Knochen",
+      "start": 1447.0
+    },
+    {
+      "titel": "- Der Skar",
+      "start": 1506.0
+    },
+    {
+      "titel": "- Ein Aschesturm",
+      "start": 1518.0
+    },
+    {
+      "titel": "- Im Aschland",
+      "start": 1553.0
+    },
+    {
+      "titel": "- Dunmer-Festungen",
+      "start": 1582.0
+    },
+    {
+      "titel": "- Ruinen der Daedra-Schreine",
+      "start": 1607.0
+    },
+    {
+      "titel": "- Verlassene Dwemer-Anlagen",
+      "start": 1636.0
+    },
+    {
+      "titel": "- Sadrith Mora, Stadt aus Pilzen",
+      "start": 1683.0
+    },
+    {
+      "titel": "- Kaiserliche Festung Wolfenhalle",
+      "start": 1769.0
+    },
+    {
+      "titel": "- Weiterreise per Schiff",
+      "start": 1815.0
+    },
+    {
+      "titel": "- Die Ascadia-Inseln",
+      "start": 1834.0
+    },
+    {
+      "titel": "- Vivec, Stadt der Pyramiden",
+      "start": 1849.0
+    },
+    {
+      "titel": "- Im Fremdenviertel",
+      "start": 1888.0
+    },
+    {
+      "titel": "- Tempel des Tribunals",
+      "start": 1911.0
+    },
+    {
+      "titel": "- Zurück nach Seyda Neen",
+      "start": 1941.0
+    },
+    {
+      "titel": "DAS SPIEL",
+      "start": 1976.0
+    },
+    {
+      "titel": "- Allein in der Fremde",
+      "start": 2101.0
+    },
+    {
+      "titel": "- Der Magier, der aus dem Himmel fiel",
+      "start": 2244.0
+    },
+    {
+      "titel": "- Spielperspektive und Bewegung",
+      "start": 2290.0
+    },
+    {
+      "titel": "- Flexibles Rollenspielsystem",
+      "start": 2373.0
+    },
+    {
+      "titel": "- Fortwährende Verbesserung während des Spielens",
+      "start": 2533.0
+    },
+    {
+      "titel": "- Erkundung statt Questmarker",
+      "start": 2644.0
+    },
+    {
+      "titel": "- Die Hauptquest: Bedrohung aus dem Berg",
+      "start": 2868.0
+    },
+    {
+      "titel": "- Der Geisterwall",
+      "start": 2941.0
+    },
+    {
+      "titel": "- Wahnsinnig viel zu tun",
+      "start": 3029.0
+    },
+    {
+      "titel": "- Eine typische Quest: Die kaiserliche Legion",
+      "start": 3159.0
+    },
+    {
+      "titel": "- Die Eiermine",
+      "start": 3228.0
+    },
+    {
+      "titel": "- Ah, ein Geist!",
+      "start": 3310.0
+    },
+    {
+      "titel": "- Lugrub muss weg",
+      "start": 3343.0
+    },
+    {
+      "titel": "- Faszination Eiermine",
+      "start": 3437.0
+    },
+    {
+      "titel": "- Ein schizophrenes Spiel: Gebaute Welt vs erlebte Welt",
+      "start": 3553.0
+    },
+    {
+      "titel": "- Kennen wir uns ...?",
+      "start": 3696.0
+    },
+    {
+      "titel": "- \"Wo ist deine Uniform?!\"",
+      "start": 3723.0
+    },
+    {
+      "titel": "- Edle Kleider? Ab ins Wasser!",
+      "start": 3768.0
+    },
+    {
+      "titel": "- Ein Rollenspiel-Vergnügungspark",
+      "start": 3854.0
+    },
+    {
+      "titel": "- Abwesenheit von Inszenierung",
+      "start": 4122.0
+    },
+    {
+      "titel": "- Ein Bein in der 2D-Tradition, eins in der 3D-Zukunft",
+      "start": 4304.0
+    },
+    {
+      "titel": "- Morrowind macht schon Kompromisse gegenüber Daggerfall",
+      "start": 4498.0
+    },
+    {
+      "titel": "- Systeme in Morrowind: Beispiel Alchemie",
+      "start": 4594.0
+    },
+    {
+      "titel": "- Das Verzauberungs-Menü",
+      "start": 4869.0
+    },
+    {
+      "titel": "- Enormer, befriedigender Machtgewinn",
+      "start": 4956.0
+    },
+    {
+      "titel": "- Grafische Qualität",
+      "start": 5237.0
+    },
+    {
+      "titel": "- Detaillierte, fremdartige Architektur",
+      "start": 5334.0
+    },
+    {
+      "titel": "- Oh nein, er steht in der Tür ...!",
+      "start": 5440.0
+    },
+    {
+      "titel": "- Inspirationen für die Spielwelt",
+      "start": 5611.0
+    },
+    {
+      "titel": "ENTSTEHUNGSGESCHICHTE",
+      "start": 5716.0
+    },
+    {
+      "titel": "- Christopher Weaver und Bethesda Softworks",
+      "start": 5747.0
+    },
+    {
+      "titel": "- Gridiron (1986)",
+      "start": 5815.0
+    },
+    {
+      "titel": "- Wayne Gretzky Hockey (1988)",
+      "start": 5836.0
+    },
+    {
+      "titel": "- The Terminator (1991)",
+      "start": 5857.0
+    },
+    {
+      "titel": "- Julian Lefay, Vijay Lakshman und Ted Peterson",
+      "start": 5887.0
+    },
+    {
+      "titel": "- Das Konzept für Arena",
+      "start": 5970.0
+    },
+    {
+      "titel": "- Aus Arena wird ein Rollenspiel",
+      "start": 6042.0
+    },
+    {
+      "titel": "- Entscheidung 1: Ausgestaltung von Tamriel",
+      "start": 6098.0
+    },
+    {
+      "titel": "- Entscheidung 2: Generierte Städte und Dungeons",
+      "start": 6116.0
+    },
+    {
+      "titel": "- Entscheidung 3: Weaponmaker & Spellmaker",
+      "start": 6288.0
+    },
+    {
+      "titel": "- The Elder Scrolls: Arena wird ein Überraschungserfolg",
+      "start": 6378.0
+    },
+    {
+      "titel": "- Wo ist Todd Howard?",
+      "start": 6470.0
+    },
+    {
+      "titel": "- Große Ambitionen für Daggerfall",
+      "start": 6583.0
+    },
+    {
+      "titel": "- Ein neues Charaktersystem",
+      "start": 6715.0
+    },
+    {
+      "titel": "- Politik, Macht und Intrigen",
+      "start": 6773.0
+    },
+    {
+      "titel": "- Daggerfall ist ein Bug-Debakel",
+      "start": 6811.0
+    },
+    {
+      "titel": "- Verkaufserfolg in der Rollenspiel-Flaute",
+      "start": 6880.0
+    },
+    {
+      "titel": "- Die Marke wird ausgeweitet: Battlespire (1997) ...",
+      "start": 6938.0
+    },
+    {
+      "titel": "- ... und Redguard (1998)",
+      "start": 6994.0
+    },
+    {
+      "titel": "- 1999: Gründung von Zenimax",
+      "start": 7119.0
+    },
+    {
+      "titel": "- Todd Howard übernimmt Morrowind",
+      "start": 7186.0
+    },
+    {
+      "titel": "- Neue 3D-Engine: NetImmerse",
+      "start": 7264.0
+    },
+    {
+      "titel": "- Zeit für eine lange Konzeptphase",
+      "start": 7325.0
+    },
+    {
+      "titel": "- Crunchende Kellerkinder",
+      "start": 7534.0
+    },
+    {
+      "titel": "- Morrowind wird zum Erfolg",
+      "start": 7648.0
+    },
+    {
+      "titel": "- Fabian über die Xbox-Fassung von Morrowind",
+      "start": 7698.0
+    },
+    {
+      "titel": "- Wie gut funktioniert Morrowind auf der Xbox?",
+      "start": 7920.0
+    },
+    {
+      "titel": "- Die Bedeutung der Xbox-Version",
+      "start": 8122.0
+    },
+    {
+      "titel": "- Morrowind ist der Grundstein für Oblivion und Skyrim",
+      "start": 8217.0
+    },
+    {
+      "titel": "- Das Construction Set: Startschuss fürs Modding",
+      "start": 8249.0
+    },
+    {
+      "titel": "UNSER URTEIL ZU MORROWIND",
+      "start": 8289.0
+    },
+    {
+      "titel": "- Eine sehr pure Spielgestaltung",
+      "start": 8406.0
+    },
+    {
+      "titel": "- Sichtbares Ringen mit der 3D-Engine",
+      "start": 8590.0
+    },
+    {
+      "titel": "- Das Versprechen von Entfaltungsfreiheit",
+      "start": 8736.0
+    },
+    {
+      "titel": "- Eine eigene, ungewöhnliche Geschmacksrichtung",
+      "start": 8885.0
+    },
+    {
+      "titel": "- Kann man das heute noch spielen?",
+      "start": 8967.0
+    },
+    {
+      "titel": "VERABSCHIEDUNG",
+      "start": 9076.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:39:23+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 9137,
+  "veroeffentlicht": "2025-12-24T08:33:13+00:00",
+  "beschreibung": "Unterwegs in Vvardenfell\nWorum geht's? Anfang der 2000er-Jahre steht das westliche Rollenspiel an einem Wendepunkt – und mit The Elder Scrolls III: Morrowind erscheint ein Titel, der mit seinen Schauwerten einen ziemlichen Hype auslöst, dabei aber seltsam sperrig ist. Statt gefälliger Fantasy-Kulissen erwartet die Spieler(innen) eine vulkanische Insel, geprägt von Asche, Pilztürmen, Knochenarchitektur und widersprüchlichen Kulturen. Morrowind erklärt wenig und führt kaum; zum Spielen braucht man Aufmerksamkeit, Neugier und Geduld. Dafür belohnt der Titel der Erforschen mit einer großen, vielfältigen Welt.\n\nGunnar und Christian sprechen in dieser Folge über Morrowind als Brückenspiel zwischen alter 2D-Rollenspieltradition und moderner 3D-Open-World, über systemisches Spieldesign, Lernen durch Tun und das Gefühl, wirklich allein in einer fremden Welt zu sein. Es geht um Erkundung statt Wegweisung, um emergentes Storytelling, um sperrige Mechaniken und um die Frage, warum dieses Spiel für viele bis heute eine ganz eigene, unverwechselbare Geschmacksrichtung des Rollenspiels darstellt.\n\nHinweis: Parallel zu diesem Podcast ist eine Folge zur Lore der Elder Scrolls-Spiele erschienen.\n\nInfos zum Spiel:\n\nThema: The Elder Scrolls III: Morrowind\n\nErscheinungstermin: Mai 2002\n\nPlattform: PC (Windows), Xbox\n\nEntwickler: Bethesda Game Studios\n\nPublisher: Bethesda Softworks\n\nGenre: Rollenspiel\n\nDesigner: Todd Howard, Ken Rolston, Michael Kirkbride\n\nMusik: Jeremy Soule\n\nProduktions-Credits:\nSprecher, Redaktion: Christian Schmidt, Gunnar Lott\nAudioproduktion: Johannes DuBois, Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro & Outro: Nino Kerl (Ansage); Chris Hülsbeck (Musik)\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon - einen Überblick über das Archiv an Folgen gibt es hier: klick.\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf www.stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützer. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv die Hamburger Tafel e.V., das Internet Archive und Wikipedia. Wir sind Mitglied beim Retrogames e.V. und Gaming in Niedersachsen e.V.",
+  "beschreibung_html": "Unterwegs in Vvardenfell\n<p><strong>Worum geht's?</strong> Anfang der 2000er-Jahre steht das westliche Rollenspiel an einem Wendepunkt – und mit <strong>The Elder Scrolls III: Morrowind</strong> erscheint ein Titel, der mit seinen Schauwerten einen ziemlichen Hype auslöst, dabei aber seltsam sperrig ist. Statt gefälliger Fantasy-Kulissen erwartet die Spieler(innen) eine vulkanische Insel, geprägt von Asche, Pilztürmen, Knochenarchitektur und widersprüchlichen Kulturen. Morrowind erklärt wenig und führt kaum; zum Spielen braucht man Aufmerksamkeit, Neugier und Geduld. Dafür belohnt der Titel der Erforschen mit einer großen, vielfältigen Welt. <br><br></p>\n<p>Gunnar und Christian sprechen in dieser Folge über Morrowind als Brückenspiel zwischen alter 2D-Rollenspieltradition und moderner 3D-Open-World, über systemisches Spieldesign, Lernen durch Tun und das Gefühl, wirklich allein in einer fremden Welt zu sein. Es geht um Erkundung statt Wegweisung, um emergentes Storytelling, um sperrige Mechaniken und um die Frage, warum dieses Spiel für viele bis heute eine ganz eigene, unverwechselbare Geschmacksrichtung des Rollenspiels darstellt.</p>\n<p>Hinweis: Parallel zu diesem Podcast ist eine Folge zur <a href=\"https://www.stayforever.de/2025/12/die-welt-von-elder-scrolls/\">Lore der Elder Scrolls-Spiele</a> erschienen.</p>\n<hr />\n<p><strong>Infos zum Spiel:</strong>\n<br>\n<strong>Thema: </strong>The Elder Scrolls III: Morrowind<br>\n<strong>Erscheinungstermin: </strong>Mai 2002<br>\n<strong>Plattform: </strong>PC (Windows), Xbox<br>\n<strong>Entwickler:</strong> Bethesda Game Studios<br>\n<strong>Publisher:</strong> Bethesda Softworks<br>\n<strong>Genre:</strong> Rollenspiel<br>\n<strong>Designer:</strong> Todd Howard, Ken Rolston, Michael Kirkbride<br>\n<strong>Musik:</strong> Jeremy Soule<br></p>\n<!-- /wp:html -->\n<hr />\n<p><strong>Produktions-Credits:</strong>\n<strong>Sprecher, Redaktion: </strong>Christian Schmidt, Gunnar Lott\n<strong>Audioproduktion:</strong> Johannes DuBois, Christian Schmidt\n<strong>Titelgrafik:</strong> Paul Schmidt\n<strong>Intro &amp; Outro:</strong> Nino Kerl (Ansage); Chris Hülsbeck (Musik)</p>\n<hr />\n<p><b>Unterstützung &amp; Interaktion:</b></p>\n<p><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a> - einen Überblick über das Archiv an Folgen gibt es hier: <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">klick</a>.</p>\n<p><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"https://stayforever.de\">www.stayforever.de</a> sowie in jeder <a href=\"https://stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a></p>\n<p><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.</p>\n<p><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützer</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.</p>\n<p><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.</p>\n<p><b>Spenden:</b> Stay Forever unterstützt aktiv die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>. Wir sind Mitglied beim <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>. und <a href=\"https://gaming-niedersachsen.de/\">Gaming in Niedersachsen e.V.</a></p>",
+  "untertitel": "Unterwegs in Vvardenfell",
+  "bild_url": "https://images.podigee-cdn.net/0x,sLqQ5G0VT7dsqfh9CToThsHKvkuCMDc8xOARug5b2bCI=/https://main.podigee-cdn.net/uploads/u4307/651a2677-09e1-46bf-a634-a2310a13cadb.jpeg",
+  "schlagworte": [
+    "Bethesda",
+    "Todd Howard"
+  ],
+  "folgennummer": 485,
+  "kapitel_quelle": "betreiber"
+}

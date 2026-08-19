@@ -1,0 +1,382 @@
+{
+  "schema_version": 1,
+  "guid": "c317ccf837f87d0cae6c87634aa262a0",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Phoenix Wright: Ace Attorney (SSF 98)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2556189-m-7c1b52c4645933de75c2deeeff3cc6a5.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:36:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Rückblick auf den Kult-Klassiker Phoenix Wright: Ace Attorney und seine Spielmechanik",
+  "kurzfassung": "Die Hosts beleuchten das 2001 von Capcom veröffentlichte Adventure- und Visual-Novel-Hybrid Phoenix Wright: Ace Attorney. Dabei analysieren sie die Entstehungsgeschichte unter Game Director Shu Takumi und den typischen Gameplay-Loop aus Ermittlungsphasen und dramatischen Gerichtverhandlungen. Zudem diskutieren sie die japanischen Charakter-Archetypen, die Informationsökonomie des Spiels sowie den Erfolg der modernen Neuauflagen.",
+  "stichpunkte": [
+    "Das Spiel erschien 2001 in Japan für den Game Boy Advance und wurde 2005/2006 für den Nintendo DS weltweit veröffentlicht.",
+    "Entwickelt wurde der Titel von Capcom unter der Leitung von Shu Takumi als Herzensprojekt nach dem Erfolg von Dino Crisis 2.",
+    "Der Spielablauf teilt sich in Ermittlungsphasen zum Sammeln von Hinweisen und spannende Gerichtsverhandlungen auf.",
+    "Spieler schlüpfen in die Rolle des jungen Anwalts Phoenix Wright und müssen Widersprüche in Zeugenaussagen aufdecken.",
+    "Die Story zeichnet sich durch zahlreiche unerwartete Wendungen, skurrile Charaktere und eine stark stilisierte Anime-Ästhetik aus.",
+    "Der DS-Port und spätere HD-Trilogien brachten Komfortfunktionen und verhalfen dem Titel zu weltweitem Erfolg.",
+    "Spätere Ableger und geistige Nachfolgerspiele wie Ghost Trick bauten auf Takumis Fokus auf deduktive Rätselketten auf."
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 0.0
+    },
+    {
+      "titel": "- Das Spiel: Phoenix Wright - Ace Attorney",
+      "start": 204.0
+    },
+    {
+      "titel": "- Erstveröffentlichung in Japan (2001)",
+      "start": 262.0
+    },
+    {
+      "titel": "- Ergebnis der Abstimmung",
+      "start": 336.0
+    },
+    {
+      "titel": "- Die Plattform: Nintendo DS",
+      "start": 390.0
+    },
+    {
+      "titel": "WORUM GEHT ES IM SPIEL?",
+      "start": 487.0
+    },
+    {
+      "titel": "- Der Protagonist: Phoenix Wright",
+      "start": 522.0
+    },
+    {
+      "titel": "- Fälle ermitteln und verhandeln",
+      "start": 558.0
+    },
+    {
+      "titel": "- Rekonstuktion der Morde",
+      "start": 595.0
+    },
+    {
+      "titel": "- Gerichtsverhandlung",
+      "start": 618.0
+    },
+    {
+      "titel": "ENTSTEHUNGSGESCHICHTE",
+      "start": 723.0
+    },
+    {
+      "titel": "- Der Schöpfer: Shu Takumi",
+      "start": 732.0
+    },
+    {
+      "titel": "- Takumis erstes Spiel: Gakkou no Kowai Uwasa (1995)",
+      "start": 834.0
+    },
+    {
+      "titel": "- Arbeit an Resident Evil 1.5",
+      "start": 936.0
+    },
+    {
+      "titel": "- Erfolg mit Dino Crisis",
+      "start": 975.0
+    },
+    {
+      "titel": "- Eine Belohnung von Shinji Mikami",
+      "start": 1100.0
+    },
+    {
+      "titel": "- Entwicklung für den Game Boy Advance",
+      "start": 1175.0
+    },
+    {
+      "titel": "- Das Spiel entsteht",
+      "start": 1249.0
+    },
+    {
+      "titel": "- Moderater Erfolg in Japan",
+      "start": 1329.0
+    },
+    {
+      "titel": "- Sprung in den Westen",
+      "start": 1395.0
+    },
+    {
+      "titel": "EIN BEISPIELFALL",
+      "start": 1435.0
+    },
+    {
+      "titel": "- Mias Leiche in der Kanzlei",
+      "start": 1490.0
+    },
+    {
+      "titel": "- Eine Nachricht in Blut",
+      "start": 1516.0
+    },
+    {
+      "titel": "- Eine Zeugin!",
+      "start": 1541.0
+    },
+    {
+      "titel": "- Detective Gumshoe",
+      "start": 1551.0
+    },
+    {
+      "titel": "- Maya, das Medium",
+      "start": 1578.0
+    },
+    {
+      "titel": "- Warum hat die Zeugin eine Wanze?",
+      "start": 1618.0
+    },
+    {
+      "titel": "- Der Staatsanwalt: Miles Edgeworth",
+      "start": 1695.0
+    },
+    {
+      "titel": "- Aussage von Gumshoe",
+      "start": 1704.0
+    },
+    {
+      "titel": "- Tathergang laut Zeugin",
+      "start": 1784.0
+    },
+    {
+      "titel": "- Ertappt bei einer Lüge",
+      "start": 1797.0
+    },
+    {
+      "titel": "- Sprachnachhricht von Mia",
+      "start": 1840.0
+    },
+    {
+      "titel": "- Frau May unter Druck",
+      "start": 1873.0
+    },
+    {
+      "titel": "- Ihr Alibi",
+      "start": 1895.0
+    },
+    {
+      "titel": "- Die Aussage des Hotelpagen",
+      "start": 1915.0
+    },
+    {
+      "titel": "- Der zweite Ermittlungstag",
+      "start": 1969.0
+    },
+    {
+      "titel": "- Red White, der Erpresser",
+      "start": 2045.0
+    },
+    {
+      "titel": "- Überraschende Wendung",
+      "start": 2075.0
+    },
+    {
+      "titel": "- Red Whites als Zeuge",
+      "start": 2110.0
+    },
+    {
+      "titel": "- Whites Widersprüche",
+      "start": 2154.0
+    },
+    {
+      "titel": "- Grundriss als Beweismittel",
+      "start": 2195.0
+    },
+    {
+      "titel": "- Maya beschwört Mia",
+      "start": 2223.0
+    },
+    {
+      "titel": "- Der Fall ist gewonnen!",
+      "start": 2321.0
+    },
+    {
+      "titel": "SPIELESCHREIBUNG UND ANALYSE",
+      "start": 2410.0
+    },
+    {
+      "titel": "- Charakterzeichnung",
+      "start": 2490.0
+    },
+    {
+      "titel": "- Ausgestaltung der Fälle",
+      "start": 2705.0
+    },
+    {
+      "titel": "- Außenperspektive vor Gericht",
+      "start": 2757.0
+    },
+    {
+      "titel": "- Simple Menüsteuerung",
+      "start": 2770.0
+    },
+    {
+      "titel": "- Absuchen des Bildschirms",
+      "start": 2812.0
+    },
+    {
+      "titel": "- Details auf Fotos markieren",
+      "start": 2845.0
+    },
+    {
+      "titel": "- Dosierte Informationen",
+      "start": 2897.0
+    },
+    {
+      "titel": "- Der aufwändigere fünfte Fall",
+      "start": 2992.0
+    },
+    {
+      "titel": "- Inszenierungsschwächen",
+      "start": 3029.0
+    },
+    {
+      "titel": "- Warum macht ein Anwalt Detektivarbeit?",
+      "start": 3169.0
+    },
+    {
+      "titel": "- Absurditäten im Gerichtssaal",
+      "start": 3242.0
+    },
+    {
+      "titel": "- Papagei im Zeugenstand",
+      "start": 3258.0
+    },
+    {
+      "titel": "- Ermittlung an Tatorten",
+      "start": 3274.0
+    },
+    {
+      "titel": "- Ineffektive Polizei",
+      "start": 3457.0
+    },
+    {
+      "titel": "- Der Wert des Ermittlungsteils",
+      "start": 3519.0
+    },
+    {
+      "titel": "- Fokus auf die Erzählung",
+      "start": 3581.0
+    },
+    {
+      "titel": "- Verortung in Zeit und Raum",
+      "start": 3714.0
+    },
+    {
+      "titel": "- Überzeichnete Emotionen",
+      "start": 3907.0
+    },
+    {
+      "titel": "- Visuelle Gestaltung",
+      "start": 3923.0
+    },
+    {
+      "titel": "- Spielrhythmus",
+      "start": 3973.0
+    },
+    {
+      "titel": "- Expressive Gesichter",
+      "start": 4002.0
+    },
+    {
+      "titel": "- Soundsamples",
+      "start": 4037.0
+    },
+    {
+      "titel": "- Hammerschlag",
+      "start": 4099.0
+    },
+    {
+      "titel": "- Einspruch!",
+      "start": 4111.0
+    },
+    {
+      "titel": "- Zum Meme geworden",
+      "start": 4191.0
+    },
+    {
+      "titel": "- Stärken und Schwächen",
+      "start": 4240.0
+    },
+    {
+      "titel": "- Hohe Linearität, geringe Handlungsfreiheit",
+      "start": 4482.0
+    },
+    {
+      "titel": "ERFOLG UND FORTSETZUNGEN",
+      "start": 4669.0
+    },
+    {
+      "titel": "- Weitere Seriengeschichte",
+      "start": 4701.0
+    },
+    {
+      "titel": "- Rezeption im Westen",
+      "start": 4754.0
+    },
+    {
+      "titel": "- Teil 2 und 3",
+      "start": 4831.0
+    },
+    {
+      "titel": "- Neu: Mentale Schlösser",
+      "start": 4859.0
+    },
+    {
+      "titel": "- Rückblenden in Teil 3",
+      "start": 4890.0
+    },
+    {
+      "titel": "- Apollo Justice",
+      "start": 4953.0
+    },
+    {
+      "titel": "- Phoenix Wright Trilogy",
+      "start": 5009.0
+    },
+    {
+      "titel": "- Shu Takumis nächstes Spiel: Ghost Trick (2010)",
+      "start": 5196.0
+    },
+    {
+      "titel": "- Ein Beispiel aus dem Spielauftakt",
+      "start": 5330.0
+    },
+    {
+      "titel": "FAZIT",
+      "start": 5397.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:36:28+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 5719,
+  "veroeffentlicht": "2026-07-26T12:30:00+00:00",
+  "beschreibung": "EINSPRUCH, EUER EHREN!\nWorum geht's? Diesmal verhandeln Fabian und Gunnar vor dem Super Stay Forever-Gerichtshof den Fall Phoenix Wright: Ace Attorney, das Spiel von Capcom erschien 2001 in Japan für den Game Boy Advance und erreicht 2005 als überarbeitete Fassung für den Nintendo DS auch den Westen. In der Rolle des jungen Verteidigers Phoenix Wright ermitteln und plädieren die beiden durch fünf waschechte Mordfälle, die sich jeweils in Ermittlungsabschnitte und dramatische Gerichtsverhandlungen aufteilen. Dabei geht es um Zeugenaussagen, das Aufspüren von Widersprüchen und natürlich um den einen großen, unvergesslichen Ruf: Einspruch! Fabian und Gunnar diskutieren das Gameplay und sprechen darüber, wie Schöpfer Shu Takumi über Umwege bei Capcom landete, unter anderem über die verworfene Urversion von Resident Evil 2, und wie aus seinem Herzensprojekt eine der einflussreichsten Adventure-Reihen der letzten 25 Jahre wurde.\n\nCredits\n\nRedaktion, Sprecher: Gunnar Lott, Fabian Käufer\nAudioproduktion und -Schnitt: Johannes DuBois, Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro & Outro: Nino Kerl (Ansage); trash80.com (Musik)",
+  "beschreibung_html": "EINSPRUCH, EUER EHREN!\n<p><strong>Worum geht's?</strong> Diesmal verhandeln Fabian und Gunnar vor dem Super Stay Forever-Gerichtshof den Fall Phoenix Wright: Ace Attorney, das Spiel von Capcom erschien 2001 in Japan für den Game Boy Advance und erreicht 2005 als überarbeitete Fassung für den Nintendo DS auch den Westen. In der Rolle des jungen Verteidigers Phoenix Wright ermitteln und plädieren die beiden durch fünf waschechte Mordfälle, die sich jeweils in Ermittlungsabschnitte und dramatische Gerichtsverhandlungen aufteilen. Dabei geht es um Zeugenaussagen, das Aufspüren von Widersprüchen und natürlich um den einen großen, unvergesslichen Ruf: Einspruch! Fabian und Gunnar diskutieren das Gameplay und sprechen darüber, wie Schöpfer Shu Takumi über Umwege bei Capcom landete, unter anderem über die verworfene Urversion von Resident Evil 2, und wie aus seinem Herzensprojekt eine der einflussreichsten Adventure-Reihen der letzten 25 Jahre wurde.</p>\n<p>Credits</p>\n<pre><code>Redaktion, Sprecher: Gunnar Lott, Fabian Käufer\nAudioproduktion und -Schnitt: Johannes DuBois, Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro &amp; Outro: Nino Kerl (Ansage); trash80.com (Musik)\n</code></pre>",
+  "untertitel": "EINSPRUCH, EUER EHREN!",
+  "bild_url": "https://images.podigee-cdn.net/0x,sxnukSXBxrHcojVkkjOiCM-o1-K2oB8UH3x8Q7ka9nEA=/https://main.podigee-cdn.net/uploads/u4307/aa8502b7-6ad5-4384-b66f-60e78ff49e13.jpeg",
+  "schlagworte": [
+    "Capcom"
+  ],
+  "folgennummer": 517,
+  "kapitel_quelle": "betreiber"
+}

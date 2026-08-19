@@ -1,0 +1,511 @@
+{
+  "schema_version": 1,
+  "guid": "8bc9a88209bde0bfa13318d564d6fb9c",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Gothic (SF 150)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1730170-m-414732b3e515d5490b6e12883b67f106.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:43:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Mike Hoge und Tom Putzki über die Anfänge von Piranha Bytes und die Entstehung von Gothic.",
+  "kurzfassung": "Die Piranha-Bytes-Gründer Mike Hoge und Tom Putzki blicken auf die turbulente Entwicklung des Rollenspiel-Meisterwerks Gothic zurück. Sie erzählen von ihren Anfängen in der Spielebranche, der Pleite von Greenwood Entertainment und der Entstehung des Bochumer Entwicklerstudios. Dabei schildern sie offen den kreativen Chaosprozess, den enormen Zeitdruck und wie sie mit viel Pragmatismus und Vision einen echten Videospiel-Kultklassiker schufen.",
+  "stichpunkte": [
+    "Mike Hoge und Tom Putzki starteten ihre Laufbahn als Quereinsteiger bei der Bochumer Firma Greenwood Entertainment.",
+    "Nach der Auflösung von Greenwood gründeten sie Ende 1997 gemeinsam mit Stefan Juhl und Alex Brüggemann Piranha Bytes.",
+    "Die Entwicklung von Gothic basierte auf einer Engine der Oldenburger Programmierer („Mad Scientists“), die von Grund auf neu konzipiert wurde.",
+    "Das Design orientierte sich bewusst an der Spielwelt und den Tagesabläufen von Ultima, geprägt durch die raue Kultur des Ruhri-Milieus.",
+    "Erfolgreiche PR-Arbeit und frühe Medienkontakte (unter anderem zur GameStar) sicherten dem Team Aufmerksamkeit vor einem Publisher-Deal.",
+    "Der Deal mit Egmont Interactive im Februar 1999 brachte das nötige Geld, um das Team durch Quereinsteiger und den Komponisten Kai Rosenkranz zu vergrößern.",
+    "Der Entwicklungszeitraum dehnte sich von geplanten zwei auf über drei Jahre aus, begleitet von extremen Arbeitszeiten und Last-Minute-Änderungen.",
+    "Die Integration in die Phänomedia AG und der Börsengang prägten die geschäftliche Seite der Anfangsjahre.",
+    "Gothic wurde trotz technischer Mängel und extremer Hürden zu einem weltweiten Kultspiel, getragen durch Immersion, Handlungsfreiheit und das „Visivik“-Prinzip."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 24.0
+    },
+    {
+      "titel": "Der GameStar-Test von 2001",
+      "start": 165.0
+    },
+    {
+      "titel": "Der Spieleinstieg: König Rhobar II.",
+      "start": 305.0
+    },
+    {
+      "titel": "Krieg mit den Orks",
+      "start": 329.0
+    },
+    {
+      "titel": "Die magische Barriere",
+      "start": 382.0
+    },
+    {
+      "titel": "Neue Herren in der Barriere",
+      "start": 423.0
+    },
+    {
+      "titel": "Unser Protagonist",
+      "start": 491.0
+    },
+    {
+      "titel": "Hilfe von Diego",
+      "start": 566.0
+    },
+    {
+      "titel": "Rat von einem Gardisten",
+      "start": 606.0
+    },
+    {
+      "titel": "Unsere Aufgabe",
+      "start": 663.0
+    },
+    {
+      "titel": "Der Blick auf die Spielwelt",
+      "start": 803.0
+    },
+    {
+      "titel": "Ultima 9 und der Beginn der 3D-Ära",
+      "start": 946.0
+    },
+    {
+      "titel": "Ein Gegenmodell zu Baldur's Gate & Co.",
+      "start": 1081.0
+    },
+    {
+      "titel": "Eine kompakte, aber offene Spielwelt",
+      "start": 1167.0
+    },
+    {
+      "titel": "Geografie der Spielwelt",
+      "start": 1253.0
+    },
+    {
+      "titel": "Überreste des Orkkrieges",
+      "start": 1340.0
+    },
+    {
+      "titel": "Im Alten Lager",
+      "start": 1382.0
+    },
+    {
+      "titel": "Schutzgelderpressung",
+      "start": 1488.0
+    },
+    {
+      "titel": "Die Beziehungen der Lager untereinander",
+      "start": 1594.0
+    },
+    {
+      "titel": "Minecrawler",
+      "start": 1684.0
+    },
+    {
+      "titel": "Hierarchien innerhalb der Lager",
+      "start": 1715.0
+    },
+    {
+      "titel": "Die Ziele der drei Lager",
+      "start": 1772.0
+    },
+    {
+      "titel": "Kontrast zwischen Innen und Außen",
+      "start": 1895.0
+    },
+    {
+      "titel": "Eine kurze Reise: Start im Alten Lager",
+      "start": 1950.0
+    },
+    {
+      "titel": "Über die Brücke im Norden",
+      "start": 2004.0
+    },
+    {
+      "titel": "Im Wald",
+      "start": 2042.0
+    },
+    {
+      "titel": "Kampf gegen die Molerats",
+      "start": 2080.0
+    },
+    {
+      "titel": "Ein Hang mit Scavengern",
+      "start": 2112.0
+    },
+    {
+      "titel": "Eine Kuppelentladung",
+      "start": 2149.0
+    },
+    {
+      "titel": "Den Fluss entland in den See",
+      "start": 2177.0
+    },
+    {
+      "titel": "Die Reis-Terassen",
+      "start": 2199.0
+    },
+    {
+      "titel": "Eingang zum Gebiet des Neuen Lagers",
+      "start": 2220.0
+    },
+    {
+      "titel": "Ein Haus im See",
+      "start": 2252.0
+    },
+    {
+      "titel": "Das Neue Lager",
+      "start": 2286.0
+    },
+    {
+      "titel": "Der Bandit Shrike",
+      "start": 2316.0
+    },
+    {
+      "titel": "Ein Leben zählt was",
+      "start": 2379.0
+    },
+    {
+      "titel": "Regeln und Simulation",
+      "start": 2443.0
+    },
+    {
+      "titel": "Tag und Nacht",
+      "start": 2604.0
+    },
+    {
+      "titel": "Flüsse mit Strömung",
+      "start": 2636.0
+    },
+    {
+      "titel": "Tiere, die sich jagen",
+      "start": 2683.0
+    },
+    {
+      "titel": "Nachvollziehbar gebaute Welt",
+      "start": 2723.0
+    },
+    {
+      "titel": "Wo schlafe ich heute?",
+      "start": 2791.0
+    },
+    {
+      "titel": "Hier werden klare Worte gesprochen",
+      "start": 2859.0
+    },
+    {
+      "titel": "Gesellschaftsmodell",
+      "start": 3015.0
+    },
+    {
+      "titel": "Entscheidung für eines der Lager",
+      "start": 3280.0
+    },
+    {
+      "titel": "Das Charaktersystem",
+      "start": 3487.0
+    },
+    {
+      "titel": "Lernpunkte und Fähigkeiten",
+      "start": 3627.0
+    },
+    {
+      "titel": "Wie man Schlösser öffnet",
+      "start": 3766.0
+    },
+    {
+      "titel": "Stufenweiser Rüstungs-Aufstieg",
+      "start": 3888.0
+    },
+    {
+      "titel": "Blutfliegen: erst Angst, dann Amüsement",
+      "start": 4008.0
+    },
+    {
+      "titel": "Gunnar und die Wölfe",
+      "start": 4060.0
+    },
+    {
+      "titel": "Chris und der Ork-Krieger",
+      "start": 4238.0
+    },
+    {
+      "titel": "Probieren wir's mal anders!",
+      "start": 4324.0
+    },
+    {
+      "titel": "Tastatursteuerung",
+      "start": 4489.0
+    },
+    {
+      "titel": "Das Kampfsystem",
+      "start": 4630.0
+    },
+    {
+      "titel": "Problem: Crowd Control",
+      "start": 4724.0
+    },
+    {
+      "titel": "Unterbrechung des Schlages",
+      "start": 4871.0
+    },
+    {
+      "titel": "Gegner-Gating",
+      "start": 4974.0
+    },
+    {
+      "titel": "Die Macht des Payoff",
+      "start": 5061.0
+    },
+    {
+      "titel": "Highlights der Spielwelt: Der Wald",
+      "start": 5353.0
+    },
+    {
+      "titel": "Wald in Ultima 9 (1999)",
+      "start": 5428.0
+    },
+    {
+      "titel": "Waldgestaltung in Gothic",
+      "start": 5451.0
+    },
+    {
+      "titel": "Wald aus der Distanz",
+      "start": 5472.0
+    },
+    {
+      "titel": "Wald-Atmosphäre",
+      "start": 5495.0
+    },
+    {
+      "titel": "Eine Welt mit Charakter",
+      "start": 5614.0
+    },
+    {
+      "titel": "Highlights der Spielwelt: Höhlen und Minen",
+      "start": 5669.0
+    },
+    {
+      "titel": "Neues Lager",
+      "start": 5731.0
+    },
+    {
+      "titel": "Der Ork-Friedhof",
+      "start": 5751.0
+    },
+    {
+      "titel": "Hat Gothic Dungeons?",
+      "start": 5790.0
+    },
+    {
+      "titel": "Low Fantasy mit Fokus auf Menschen",
+      "start": 5878.0
+    },
+    {
+      "titel": "Stil und Farbarmut",
+      "start": 5936.0
+    },
+    {
+      "titel": "Den Ausblick genießen",
+      "start": 6006.0
+    },
+    {
+      "titel": "Schöne Grafik, schöne Effekte",
+      "start": 6066.0
+    },
+    {
+      "titel": "Untote vernichten",
+      "start": 6136.0
+    },
+    {
+      "titel": "Feuerregen",
+      "start": 6147.0
+    },
+    {
+      "titel": "Heilung",
+      "start": 6163.0
+    },
+    {
+      "titel": "Das Troll-Bild aus dem GameStar-Test",
+      "start": 6182.0
+    },
+    {
+      "titel": "Balancing-Probleme",
+      "start": 6218.0
+    },
+    {
+      "titel": "Chris' Lieblingszauber",
+      "start": 6265.0
+    },
+    {
+      "titel": "Gunnars Lieblingszauber",
+      "start": 6271.0
+    },
+    {
+      "titel": "Pragmatische Entscheidungen",
+      "start": 6410.0
+    },
+    {
+      "titel": "In Extremo",
+      "start": 6510.0
+    },
+    {
+      "titel": "Verwaiste Orte",
+      "start": 6609.0
+    },
+    {
+      "titel": "Bugs, Bugs, Bugs ...",
+      "start": 6650.0
+    },
+    {
+      "titel": "Die Entstehungsgeschichte: Es beginnt bei Greenwood",
+      "start": 6876.0
+    },
+    {
+      "titel": "Mike Hoge",
+      "start": 6942.0
+    },
+    {
+      "titel": "Tom Putzki",
+      "start": 7074.0
+    },
+    {
+      "titel": "3D-Projekte bei Greenwood",
+      "start": 7137.0
+    },
+    {
+      "titel": "Die \"Mad Scientists\"",
+      "start": 7169.0
+    },
+    {
+      "titel": "Die \"Finster\"-Demo (1996)",
+      "start": 7205.0
+    },
+    {
+      "titel": "Projekt Orpheus",
+      "start": 7391.0
+    },
+    {
+      "titel": "Ende von Greenwood und Gründung von Piranha Bytes",
+      "start": 7472.0
+    },
+    {
+      "titel": "Die vier Gründer",
+      "start": 7595.0
+    },
+    {
+      "titel": "Marktchance in der Rollenspiel-Flaute?",
+      "start": 7686.0
+    },
+    {
+      "titel": "Design-Grundpfeiler",
+      "start": 7816.0
+    },
+    {
+      "titel": "Das Team wächst",
+      "start": 8064.0
+    },
+    {
+      "titel": "Kai Rosenkranz",
+      "start": 8176.0
+    },
+    {
+      "titel": "Auf Publisher-Suche",
+      "start": 8271.0
+    },
+    {
+      "titel": "Arbeit am Spiel",
+      "start": 8377.0
+    },
+    {
+      "titel": "Phenomedia",
+      "start": 8442.0
+    },
+    {
+      "titel": "Experimente und Verschiebungen",
+      "start": 8505.0
+    },
+    {
+      "titel": "Vier Monate Endspurt-Crunch",
+      "start": 8827.0
+    },
+    {
+      "titel": "Das Spiel erscheint",
+      "start": 9075.0
+    },
+    {
+      "titel": "Reaktionen auf das Spiel",
+      "start": 9116.0
+    },
+    {
+      "titel": "Die US-Version von Gothic",
+      "start": 9231.0
+    },
+    {
+      "titel": "Kein Verkaufserfolg, auch nicht in Deutschland",
+      "start": 9303.0
+    },
+    {
+      "titel": "Wie geht's nach Gothic weiter?",
+      "start": 9330.0
+    },
+    {
+      "titel": "Was Gothic erreichen will",
+      "start": 9410.0
+    },
+    {
+      "titel": "Lesbarkeit",
+      "start": 9601.0
+    },
+    {
+      "titel": "Faszination der offenen Welt",
+      "start": 9731.0
+    },
+    {
+      "titel": "Die Idee eines Spielerlebnisses",
+      "start": 9889.0
+    },
+    {
+      "titel": "Die Orks als Kulturvolk",
+      "start": 10000.0
+    },
+    {
+      "titel": "Warum wurde Gothic kein größerer Erfolg?",
+      "start": 10204.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:43:46+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 5626,
+  "veroeffentlicht": "2024-12-24T06:30:00+00:00",
+  "beschreibung": "Volles Pfund aufs Maul\nHinweis: Wer von Gothic nicht genug bekommt, Unterstützer auf den Plattformen Steady und Patreon erhalten wie immer noch eine fette Extra-Folge zu Gothic mit weiteren Infos und Interviews (u.a. mit \"Mad Scientist\" Bert Speckels!)\n\nSo, wir haben ein kleines Jubiläum: 150 Folgen unseres Kernformats mit Chris und Gunnar. Wer hätte das gedacht, als wir im August 2011 mit der ersten Folge gestartet sind. Naja, und weil es ein besonderer Anlass ist, gibt es auch eine besondere Folge mit einem besonderen Thema: Gothic. Wir müssen es sicher nicht erwähnen, aber das ist ein PC-Rollenspiel von 2001, erschaffen vom Bochumer Studio Piranha Bytes.\n\nWir haben für diese Episode mit vielen Leuten gesprochen, darunter drei der Macher des Spiels: Mike Hoge, Tom Putzki, Kai Rosenkranz (Danke euch allen für eure Zeit!). Ihre Stimmen hört ihr auch im Podcast. Wir sind aber noch nicht mit dem Thema durch: Unterstützende erhalten noch eine \"Wusstet ihr eigentlich ...?\"-Folge, wir veröffentlichen zudem das Interview mit Tom und Mike. Und es kommt noch eine Folge zur Musik von Gothic mit Kai.\n\nInfos zum Spiel:\n\nThema: Gothic\nErscheinungstermin: 15. März 2001\nPlattform: Windows\nEntwickler: Piranha Bytes\nPublisher: Egmont Interactive\nGenre: Rollenspiel\nDesigner: Mike Hoge, Alexander Brüggemann, Tom Putzki, Stefan Nyul u.a\nMusik: Kai Rosenkranz\n\nPodcast-Credits:\n\nSprecher: Christian Schmidt, Gunnar Lott\nAudioproduktion: Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro, Outro: Nino Kerl (Ansage); Chris Hülsbeck (Musik)\n\nUnterstützen: Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen Steady oder Patreon. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen Extra-Content. Mehr von uns: Diese Podcast-Folge gibt es auch auf Youtube, Spotify, als Audio-Datei im Feed und natürlich auf iTunes. Wir freuen uns über Reaktionen und Empfehlungen auf Twitfacegramcord oder wie das heißt. Wir haben auch einen schönen Merch-Shop namens Retro Shirty. Charity: SF ist Fördermitglied im Retrogames e.V. und bei der Hamburger Tafel e.V.",
+  "beschreibung_html": "Volles Pfund aufs Maul\n<p><strong>Hinweis:</strong> Wer von Gothic nicht genug bekommt, Unterstützer auf den Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> und <a href=\"https://www.patreon.com/stayforever\">Patreon</a> erhalten wie immer noch eine fette Extra-Folge zu Gothic mit weiteren Infos und Interviews (u.a. mit \"Mad Scientist\" Bert Speckels!)</p>\n<p>So, wir haben ein kleines Jubiläum: 150 Folgen unseres Kernformats mit Chris und Gunnar. Wer hätte das gedacht, als wir im August 2011 mit der ersten Folge gestartet sind. Naja, und weil es ein besonderer Anlass ist, gibt es auch eine besondere Folge mit einem besonderen Thema: <strong>Gothic</strong>. Wir müssen es sicher nicht erwähnen, aber das ist ein PC-Rollenspiel von 2001, erschaffen vom Bochumer Studio Piranha Bytes.\n\nWir haben für diese Episode mit vielen Leuten gesprochen, darunter drei der Macher des Spiels: Mike Hoge, Tom Putzki, Kai Rosenkranz (Danke euch allen für eure Zeit!). Ihre Stimmen hört ihr auch im Podcast. Wir sind aber noch nicht mit dem Thema durch: Unterstützende erhalten noch eine \"Wusstet ihr eigentlich ...?\"-Folge, wir veröffentlichen zudem das Interview mit Tom und Mike. Und es kommt noch eine Folge zur Musik von Gothic mit Kai.</p>\n<hr>\n<p><strong>Infos zum Spiel:</strong></p>\n<p><strong>Thema:</strong> Gothic <br><strong>Erscheinungstermin:</strong> 15. März 2001<strong><br />Plattform:</strong> Windows<strong><br />Entwickler:</strong> Piranha Bytes<strong><br />Publisher:</strong> Egmont Interactive<br /><strong> Genre:</strong> Rollenspiel<strong><br />Designer:</strong> Mike Hoge, Alexander Brüggemann, Tom Putzki, Stefan Nyul u.a <br /><strong>Musik:</strong> Kai Rosenkranz<br /><br /></p>\n<!-- /wp:html -->\n<p><hr /><!-- wp:html --></p>\n<p><strong>Podcast-Credits:</strong></p>\n<!-- /wp:html -->\n<!-- wp:html -->\n<p><b>Sprecher:</b> Christian Schmidt, Gunnar Lott<br /><b>Audioproduktion:</b> Christian Schmidt<br /><b> Titelgrafik:</b> Paul Schmidt<br /><b> Intro, Outro:</b> Nino Kerl (Ansage); Chris Hülsbeck (Musik)</p>\n<hr>\n<p><strong>Unterstützen:</strong> Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> oder <a href=\"https://www.patreon.com/stayforever\">Patreon</a>. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen <strong>Extra-Content</strong>. <strong> Mehr von uns:</strong> Diese Podcast-Folge gibt es auch auf <a href=\"https://www.youtube.com/playlist?list=PLk81FXjsqZvcFtNnm0lzwJ_9EoD1q1td5\">Youtube</a>, <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, als Audio-Datei <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">im Feed</a> und natürlich auf <a href=\"https://itunes.apple.com/de/podcast/stay-forever/id461077931?mt=2\">iTunes</a>. Wir freuen uns über Reaktionen und Empfehlungen auf <a href=\"https://twitter.com/stayforeverDE\">Twit</a><a href=\"https://www.facebook.com/StayForeverPodcast/\">face</a><a href=\"https://www.instagram.com/stay_forever_podcast/\">gram</a><a href=\"https://stayforever.de/discord\">cord</a> oder wie das heißt. Wir haben auch einen schönen <a href=\"https://retroshirty.com\">Merch-Shop namens Retro Shirty</a>. <strong> Charity:</strong> SF ist Fördermitglied im <a href=\"https://www.retrogames.info/\">Retrogames e.V.</a> und bei der <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a></p>",
+  "untertitel": "Volles Pfund aufs Maul",
+  "bild_url": "https://images.podigee-cdn.net/0x,sqDf-GcOt6Q4xM3UTTiGODBPhl1TVfHUX__KJ7mwDatY=/https://main.podigee-cdn.net/uploads/u4307/587a6228-55fe-4a95-9d4e-f113de452a97.jpg",
+  "schlagworte": [
+    "Piranha Bytes",
+    "Tom Putzki",
+    "Kai Rosenkranz",
+    "Mike Hoge"
+  ],
+  "folgennummer": 438,
+  "kapitel_quelle": "betreiber"
+}

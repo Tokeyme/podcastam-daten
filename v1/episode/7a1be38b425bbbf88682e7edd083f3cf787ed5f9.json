@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "guid": "5fce10ba37dd54f011d0d5eda00b6993",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Star Fox Adventures (SSF 90)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2238869-m-6556b4c85b1fab899ecfa5dfde875655.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:39:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Eine Retro-Analyse des GameCube-Klassikers Star Fox Adventures von Rare und Nintendo.",
+  "kurzfassung": "Die Hosts besprechen das 2002 für den GameCube erschienene Action-Adventure Star Fox Adventures aus der Perspektive von Spielmechanik, Technik und seiner Entstehungsgeschichte. Dabei beleuchten sie den steinigen Weg von den ursprünglichen N64-Plänen als 'Dinosaur Planet' bis zur späten Verschmelzung mit der Star-Fox-Marke. Während Gunnar die technische Brillanz und den unkomplizierten Spielfluss lobt, kritisiert Fabian repetitive Passagen und ungenutzte Spielmechaniken.",
+  "stichpunkte": [
+    "Das Spiel erschien im Herbst 2002 für den Nintendo GameCube und markierte das letzte große Projekt von Rare für eine Nintendo-Plattform vor der Microsoft-Übernahme.",
+    "Das Projekt begann ursprünglich 1997 unter dem Arbeitstitel 'Dinosaur Planet' für das Nintendo 64 mit zwei eigenständigen Protagonisten namens Sabre und Crystal.",
+    "Auf Anregung von Shigeru Miyamoto wurde die Hauptfigur Sabre durch Fox McCloud ersetzt und das Spiel auf den GameCube portiert.",
+    "Die Kooperation zwischen Nintendo und Rare sorgte für kreative Reibungspunkte, darunter die Anpassung der Story und das Ersetzen von Schwertern durch den magischen Stab.",
+    "Das Gameplay orientiert sich stark an der Formel von 3D-Zelda-Spielen, kombiniert mit Bosskämpfen und kurzen, separat eingebundenen Arwing-Flugsequenzen.",
+    "Mit Begleiter Tricky und diversen Werkzeugen wie Zaubersprüchen und Items bietet das Spiel eine Reihe von Mechaniken, die im Verlauf teils selten eingesetzt werden.",
+    "Technisch und audiovisuell setzte der Titel dank der Komponisten-Arbeit von David Wise und detaillierter Charaktermodelle Maßstäbe für die Hardware.",
+    "Die Meinungen zu Wertungen und spielerischer Tiefe fielen sowohl bei Kritikern damals als auch bei den Hosts unterschiedlich aus."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 27.0
+    },
+    {
+      "titel": "Unterschätzte Spiele, die Kult werden: Earthbound (1994)",
+      "start": 65.0
+    },
+    {
+      "titel": "- Deadly Premonition (2010)",
+      "start": 100.0
+    },
+    {
+      "titel": "- Days Gone (2019)",
+      "start": 135.0
+    },
+    {
+      "titel": "Das Gegenteil: Heiß erwartete Spiele, die dann aus der Gunst fallen",
+      "start": 222.0
+    },
+    {
+      "titel": "Ergebnis der Abstimmung",
+      "start": 308.0
+    },
+    {
+      "titel": "KURZBESCHREIBUNG",
+      "start": 346.0
+    },
+    {
+      "titel": "Nintendo und Rare",
+      "start": 418.0
+    },
+    {
+      "titel": "Was ist das für ein Spiel?",
+      "start": 480.0
+    },
+    {
+      "titel": "- Erkunden",
+      "start": 568.0
+    },
+    {
+      "titel": "- Kämpfen",
+      "start": 596.0
+    },
+    {
+      "titel": "- Rätseln",
+      "start": 606.0
+    },
+    {
+      "titel": "- Ähnlichkeiten mit Ocarina of Time",
+      "start": 636.0
+    },
+    {
+      "titel": "- Raumflüge",
+      "start": 702.0
+    },
+    {
+      "titel": "- Spielstruktur und Aufgabe",
+      "start": 732.0
+    },
+    {
+      "titel": "DIE ENTSTEHUNGSGESCHICHTE",
+      "start": 820.0
+    },
+    {
+      "titel": "- Lee Schuneman",
+      "start": 916.0
+    },
+    {
+      "titel": "- Das geplante Spiel: Dinosaur Planet",
+      "start": 1045.0
+    },
+    {
+      "titel": "- Arbeit am Spiel",
+      "start": 1162.0
+    },
+    {
+      "titel": "- Währenddessen in Japan",
+      "start": 1239.0
+    },
+    {
+      "titel": "- Takaya Imamura",
+      "start": 1277.0
+    },
+    {
+      "titel": "- Geplante Fortsetzung von Starfox 64",
+      "start": 1411.0
+    },
+    {
+      "titel": "- Dinosaur Planet wird der Öffentlichkeit vorgestellt",
+      "start": 1560.0
+    },
+    {
+      "titel": "- Sprachausgabe im Prolog",
+      "start": 1603.0
+    },
+    {
+      "titel": "- Zusammenführung der Projekte",
+      "start": 1641.0
+    },
+    {
+      "titel": "- Übertragung vom N64 auf den Gamecube",
+      "start": 1778.0
+    },
+    {
+      "titel": "- Krystals Rolle wird reduziert",
+      "start": 1928.0
+    },
+    {
+      "titel": "- Welche Waffe bekommt Fox?",
+      "start": 2004.0
+    },
+    {
+      "titel": "- Es wird ein Stab",
+      "start": 2047.0
+    },
+    {
+      "titel": "- Tricky, der KI-Begleiter",
+      "start": 2104.0
+    },
+    {
+      "titel": "- Was ist mit dem Raumflug?",
+      "start": 2212.0
+    },
+    {
+      "titel": "SPIELBESCHREIBUNG UND ANALYSE",
+      "start": 2301.0
+    },
+    {
+      "titel": "- Der Prolog",
+      "start": 2377.0
+    },
+    {
+      "titel": "- Krystal verlieht ihren Kampfstab",
+      "start": 2474.0
+    },
+    {
+      "titel": "- Kampf gegen ein Piratenschiff",
+      "start": 2484.0
+    },
+    {
+      "titel": "- Wechsel zu Star Fox",
+      "start": 2569.0
+    },
+    {
+      "titel": "- Durchsage von General Pepper",
+      "start": 2604.0
+    },
+    {
+      "titel": "- Erster Flug im Arwing",
+      "start": 2641.0
+    },
+    {
+      "titel": "- Fox bekommt seine Aufgabe",
+      "start": 2683.0
+    },
+    {
+      "titel": "- Wunderschöne Grafik auf dem Planeten",
+      "start": 2748.0
+    },
+    {
+      "titel": "- Kämpfe gegen feindliche Echsen",
+      "start": 2782.0
+    },
+    {
+      "titel": "- Ist das ein Jump`n Run ...?",
+      "start": 2901.0
+    },
+    {
+      "titel": "- Kletterpassagen",
+      "start": 2947.0
+    },
+    {
+      "titel": "- Einkaufen im Basar",
+      "start": 3071.0
+    },
+    {
+      "titel": "- Dungeons und was man in ihnen macht",
+      "start": 3212.0
+    },
+    {
+      "titel": "- Stab-Magie",
+      "start": 3308.0
+    },
+    {
+      "titel": "- Tricky und die Dino-Sprache",
+      "start": 3378.0
+    },
+    {
+      "titel": "- Trickys Fertigkeiten",
+      "start": 3442.0
+    },
+    {
+      "titel": "- Tricky will Pilze",
+      "start": 3471.0
+    },
+    {
+      "titel": "- Fähigkeiten als Schlüssel, nicht zum Machtgewinn",
+      "start": 3507.0
+    },
+    {
+      "titel": "- Dinge, die eingeführt und dann kaum benutzt werden",
+      "start": 3644.0
+    },
+    {
+      "titel": "- Eine dunkle Höhle",
+      "start": 3733.0
+    },
+    {
+      "titel": "- Zoom fürs Fernglas",
+      "start": 3771.0
+    },
+    {
+      "titel": "- Überfluss und Vielseitigkeit ...",
+      "start": 3818.0
+    },
+    {
+      "titel": "- ... Wiederholung und Redundanz",
+      "start": 3891.0
+    },
+    {
+      "titel": "- Flug zu den Dungeon-Orten",
+      "start": 4028.0
+    },
+    {
+      "titel": "- Minispiel-Abschnitte wie das Gleiter-Rennen ...",
+      "start": 4102.0
+    },
+    {
+      "titel": "- ... und die Geister-Tests",
+      "start": 4160.0
+    },
+    {
+      "titel": "- Kreatives Design von Standard-Elementen",
+      "start": 4256.0
+    },
+    {
+      "titel": "- Zusammenhängende Spielwelt",
+      "start": 4313.0
+    },
+    {
+      "titel": "- Bosskämpfe",
+      "start": 4376.0
+    },
+    {
+      "titel": "- Boss 2: Drakor",
+      "start": 4470.0
+    },
+    {
+      "titel": "- Boss 3: King RedEye",
+      "start": 4507.0
+    },
+    {
+      "titel": "- Boss 4: Andros",
+      "start": 4621.0
+    },
+    {
+      "titel": "- Passt sich das gut in die Welt von Star Fox ein?",
+      "start": 4786.0
+    },
+    {
+      "titel": "- Fox findet Krystal ...",
+      "start": 4950.0
+    },
+    {
+      "titel": "- ... und ist begeistert",
+      "start": 4981.0
+    },
+    {
+      "titel": "- Gelungene Musikuntermalung",
+      "start": 5056.0
+    },
+    {
+      "titel": "- Eindrucksvolle Grafik",
+      "start": 5203.0
+    },
+    {
+      "titel": "- Reichtum an Animationen",
+      "start": 5291.0
+    },
+    {
+      "titel": "- Kameraführung",
+      "start": 5403.0
+    },
+    {
+      "titel": "ERFOLG UND NACHFOLGER",
+      "start": 5467.0
+    },
+    {
+      "titel": "- Letzte Rare-Spiele für Nintendo",
+      "start": 5619.0
+    },
+    {
+      "titel": "- Star Fox Assault (2005)",
+      "start": 5670.0
+    },
+    {
+      "titel": "- Krystal ist wieder mit dabei",
+      "start": 5700.0
+    },
+    {
+      "titel": "- Flug- und Bodenmissionen",
+      "start": 5713.0
+    },
+    {
+      "titel": "- Star Fox Command (2006)",
+      "start": 5768.0
+    },
+    {
+      "titel": "- Star Fox 64 für 3DS (2011) und Star Fox Zero für WiiU (2016)",
+      "start": 5851.0
+    },
+    {
+      "titel": "- Star Fox 2 (2017)",
+      "start": 5879.0
+    },
+    {
+      "titel": "URTEIL",
+      "start": 6006.0
+    },
+    {
+      "titel": "Verabschiedung",
+      "start": 6386.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:39:39+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 6424,
+  "veroeffentlicht": "2025-12-03T10:00:50+00:00",
+  "beschreibung": "Fox McCloud ohne Blaster\nWorum geht’s? Als der Nintendo GameCube 2002 auf dem Markt ist, fehlt ihm noch das eine große Abenteuer-Spiel – ein Titel, der zeigt, was die Hardware visuell leisten kann. Diese Lücke füllt Nintendo mit Star Fox Adventures von Rare, einem bemerkenswerten Bruch mit der Serie: Statt Arcade-Shooter gibt es ein waschechtes Action-Adventure, mit einer lebendigen Dinosaurierwelt, opulenten Effekten und vielfältigen Mechaniken.\n\nGunnar und Fabian sprechen in dieser Folge über die ungewöhnliche Entstehungsgeschichte, die eigentlich mit einem ganz anderen Projekt begann (Dinosaur Planet), über Rares technische Ambitionen, die Mechaniken und die Frage, warum das Spiel von manchen als „Zelda light“ bezeichnet wird.\n\nInfos zum Spiel:\n\nThema: Star Fox Adventures\n\nErscheinungstermin: September 2002\n\nPlattform: Nintendo GameCube\n\nEntwickler: Rare\n\nPublisher: Nintendo\n\nGenre: Action-Adventure\n\nDesigner: Lee Schuneman, Phil Tossell, Robert Harrison\n\nMusik: David Wise, Ben Cullum, James Hannigan\n\nProduktions-Credits:\n\nSprecher, Redaktion: Fabian Käufer, Gunnar Lott\n\nAudioproduktion: Matthias Kuhlmann, Christian Schmidt\n\nTitelgrafik: Paul Schmidt\n\nIntro & Outro: Nino Kerl (Ansage); Trash80.com (Musik)\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon - einen Überblick über das Archiv an Folgen gibt es hier: klick.\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf www.stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützende. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv den Retrogames e.V., die Hamburger Tafel e.V., das Internet Archive und Wikipedia.",
+  "beschreibung_html": "Fox McCloud ohne Blaster\n<p><strong>Worum geht’s?</strong> Als der Nintendo GameCube 2002 auf dem Markt ist, fehlt ihm noch das eine große Abenteuer-Spiel – ein Titel, der zeigt, was die Hardware visuell leisten kann. Diese Lücke füllt Nintendo mit <strong>Star Fox Adventures</strong> von Rare, einem bemerkenswerten Bruch mit der Serie: Statt Arcade-Shooter gibt es ein waschechtes Action-Adventure, mit einer lebendigen Dinosaurierwelt, opulenten Effekten und vielfältigen Mechaniken.<br><br></p>\n<p>Gunnar und Fabian sprechen in dieser Folge über die ungewöhnliche Entstehungsgeschichte, die eigentlich mit einem ganz anderen Projekt begann (Dinosaur Planet), über Rares technische Ambitionen, die Mechaniken und die Frage, warum das Spiel von manchen als „Zelda light“ bezeichnet wird.<br></p>\n<hr />\n<p><strong>Infos zum Spiel:</strong>\n<br>\n<strong>Thema: </strong>Star Fox Adventures<br>\n<strong>Erscheinungstermin: </strong>September 2002<br>\n<strong>Plattform: </strong>Nintendo GameCube<br>\n<strong>Entwickler:</strong> Rare<br>\n<strong>Publisher:</strong> Nintendo<br>\n<strong>Genre:</strong> Action-Adventure<br>\n<strong>Designer:</strong> Lee Schuneman, Phil Tossell, Robert Harrison<br>\n<strong>Musik:</strong> David Wise, Ben Cullum, James Hannigan<br></p>\n<!-- /wp:html -->\n<p><hr /><br><br></p>\n<p><strong>Produktions-Credits:</strong><br><br></p>\n<p><strong>Sprecher, Redaktion: </strong>Fabian Käufer, Gunnar Lott<br>\n<strong>Audioproduktion:</strong> Matthias Kuhlmann, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Paul Schmidt<br>\n<strong>Intro &amp; Outro:</strong> Nino Kerl (Ansage); Trash80.com (Musik)<br></p>\n<hr />\n<p><b>Unterstützung &amp; Interaktion:</b><br><br></p>\n<p><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a> - einen Überblick über das Archiv an Folgen gibt es hier: <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">klick</a>.<br></p>\n<p><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"https://stayforever.de\">www.stayforever.de</a> sowie in jeder <a href=\"https://stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a><br></p>\n<p><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.<br></p>\n<p><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützende</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.<br></p>\n<p><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.<br></p>\n<p><b>Spenden:</b> Stay Forever unterstützt aktiv den <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>., die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>.</p>",
+  "untertitel": "Fox McCloud ohne Blaster",
+  "bild_url": "https://images.podigee-cdn.net/0x,s6LI1-V20fao5MQtinrK0E5IBEgeCRmxgl9I11vGTtRI=/https://main.podigee-cdn.net/uploads/u4307/3f1df5f9-a3b3-4d20-914a-846a9b69ae5d.jpeg",
+  "schlagworte": [
+    "Nintendo",
+    "Rare"
+  ],
+  "folgennummer": 481,
+  "kapitel_quelle": "betreiber"
+}

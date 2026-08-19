@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "guid": "7ead15bfcbfd0337f75aa9fe8f5d2397",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Der Amiga (SFT 19.2)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2040717-m-4702b6ef2498ae08eb7141ad1ab246d5.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:41:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Technik und Geschichte des Amiga 1000, 500 und 2000 von der Premiere bis zum Markterfolg.",
+  "kurzfassung": "Nach der spektakulären Präsentation im Sommer 1985 setzt der Amiga 1000 mit seinem Custom-Chipsatz, 4096 Farben und präemptivem Multitasking neue technische Maßstäbe. Wegen Softwaremangel, Lieferengpässen und einer verfehlten Marktpositionierung bleibt der Rechner jedoch zunächst hinter den Absatzerwartungen zurück. Erst mit der Aufteilung der Plattform in den erweiterbaren Amiga 2000 und den günstigeren Heimcomputer Amiga 500 gelingt Commodore der Durchbruch zum populären Spieleklassiker.",
+  "stichpunkte": [
+    "Vorstellung des Amiga 1000 im New Yorker Lincoln Center 1985 mit einer Live-Grafikdemonstration von Andy Warhol",
+    "Hardware-Aufbau des Amiga 1000 mit Motorola-68000-Prozessor, externer Tastatur und Zwei-Tasten-Maus",
+    "Agnus-Chip mit Direct Memory Access (DMA), Copper-Coprozessor und Blitter für schnelle 2D-Grafikmanipulation",
+    "Denise-Grafikchip mit einer Palette von 4096 Farben und dem farbintensiven HAM-Modus",
+    "Paula-Soundchip für vierkanalige sample-basierte 8-Bit-Audiowiedergabe und Etablierung des Tracker-Formats",
+    "Betriebssystem AmigaOS bestehend aus Kickstart, AmigaDOS, Intuition und grafischer Workbench mit echtem präemptivem Multitasking",
+    "Schwieriger Marktstart 1985 durch fehlende Software, Zurückhaltung der Händler und zögerliche Marketingkampagnen",
+    "Strategische Neuausrichtung 1987 mit dem erweiterbaren Profi-Rechner Amiga 2000 und dem Tastaturcomputer Amiga 500",
+    "Kommerzieller Erfolg des Amiga 500 als dominierende Spieleplattform der späten 1980er-Jahre, befeuert durch Software-Bundles"
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "Die Einführungs-Show des Amiga (1985)",
+      "start": 33.0
+    },
+    {
+      "titel": "- Digitale Ballerina",
+      "start": 139.0
+    },
+    {
+      "titel": "- Andy Warhol und Debbie Harry",
+      "start": 159.0
+    },
+    {
+      "titel": "- Das Portraitbild",
+      "start": 214.0
+    },
+    {
+      "titel": "Wiederholung zum Deutschland-Start des Amiga",
+      "start": 337.0
+    },
+    {
+      "titel": "- Show-Act: Erich Zenker",
+      "start": 440.0
+    },
+    {
+      "titel": "Der Amiga 1000",
+      "start": 493.0
+    },
+    {
+      "titel": "- Das Gehäuse",
+      "start": 563.0
+    },
+    {
+      "titel": "- Anschlüsse",
+      "start": 620.0
+    },
+    {
+      "titel": "- Tastatur und Maus",
+      "start": 708.0
+    },
+    {
+      "titel": "- Joysticks mit mehreren Buttons",
+      "start": 805.0
+    },
+    {
+      "titel": "Die Technik des Amiga 1000",
+      "start": 1003.0
+    },
+    {
+      "titel": "- Erweiterbarer Speicher",
+      "start": 1091.0
+    },
+    {
+      "titel": "- DMA-Architektur",
+      "start": 1117.0
+    },
+    {
+      "titel": "- Der Chipsatz",
+      "start": 1179.0
+    },
+    {
+      "titel": "Agnus und die Grafikberechnung",
+      "start": 1226.0
+    },
+    {
+      "titel": "- Was macht der Copper?",
+      "start": 1267.0
+    },
+    {
+      "titel": "- Was macht der Blitter?",
+      "start": 1426.0
+    },
+    {
+      "titel": "Denise und die Grafikmodi",
+      "start": 1526.0
+    },
+    {
+      "titel": "- Farbvielfalt in Lionheart",
+      "start": 1588.0
+    },
+    {
+      "titel": "- 4.096 Farben im HAM-Modus",
+      "start": 1664.0
+    },
+    {
+      "titel": "- Digitale Fotos auf dem Bildschirm",
+      "start": 1820.0
+    },
+    {
+      "titel": "Paula und der Sound des Amiga",
+      "start": 1928.0
+    },
+    {
+      "titel": "- Tracker-Musik",
+      "start": 2220.0
+    },
+    {
+      "titel": "- Gesampelte Sounds und Sprache",
+      "start": 2259.0
+    },
+    {
+      "titel": "- donkey.bas",
+      "start": 2360.0
+    },
+    {
+      "titel": "Das Betriebssystem",
+      "start": 2383.0
+    },
+    {
+      "titel": "- Die Workbench",
+      "start": 2486.0
+    },
+    {
+      "titel": "- Hand mit Diskette",
+      "start": 2618.0
+    },
+    {
+      "titel": "- Multitasking",
+      "start": 2707.0
+    },
+    {
+      "titel": "Wie reagiert die Presse auf den Amiga?",
+      "start": 2912.0
+    },
+    {
+      "titel": "Markteinführung und Preisentwicklung",
+      "start": 3058.0
+    },
+    {
+      "titel": "- Konkurrenzsysteme",
+      "start": 3243.0
+    },
+    {
+      "titel": "- Beispiel für Scheitern im Markt: Mindset (1984)",
+      "start": 3315.0
+    },
+    {
+      "titel": "Probleme im US-Vertrieb",
+      "start": 3421.0
+    },
+    {
+      "titel": "- Die Software fehlt",
+      "start": 3669.0
+    },
+    {
+      "titel": "- Kaum Spiele für den Amiga",
+      "start": 3752.0
+    },
+    {
+      "titel": "- Schwieriges Marketing",
+      "start": 3897.0
+    },
+    {
+      "titel": "- Verwirrende Werbung",
+      "start": 4061.0
+    },
+    {
+      "titel": "Commodore geht die Kraft aus",
+      "start": 4196.0
+    },
+    {
+      "titel": "- Der Amiga \"verwelkt\"",
+      "start": 4309.0
+    },
+    {
+      "titel": "- Restrukturierung und Neustart",
+      "start": 4382.0
+    },
+    {
+      "titel": "Der Amiga 500",
+      "start": 4525.0
+    },
+    {
+      "titel": "- Was ändert sich am Amiga 500?",
+      "start": 4599.0
+    },
+    {
+      "titel": "Der Amiga 2000",
+      "start": 4796.0
+    },
+    {
+      "titel": "- Neu: Steckplätze für Erweiterungskarten",
+      "start": 4910.0
+    },
+    {
+      "titel": "- Dave Haynies Amiga 2000B",
+      "start": 4997.0
+    },
+    {
+      "titel": "Wie kommen die neuen Modelle an?",
+      "start": 5159.0
+    },
+    {
+      "titel": "Endlich Erfolg ... als Spielecomputer!",
+      "start": 5303.0
+    },
+    {
+      "titel": "Outro",
+      "start": 5459.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:41:19+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 5459,
+  "veroeffentlicht": "2025-07-30T05:34:40+00:00",
+  "beschreibung": "Folge 2: Technik & Erfolg\nMitte der 1980er brachte Commodore mit dem Amiga ein System auf den Markt, das der Konkurrenz technisch weit voraus war, Multitasking, brillante Grafik, realistischer Sound. Er war zu seiner Zeit die perfekte Multimedia-Maschine, bevor Multimedia ein Modebegriff wurde und der leistungsfähigste Spiele-Computer. Und hinterließ einen gewaltigen Fußabdruck in der Technikgeschichte.\n\nHenner und Gunnar sprechen im zweiten Teil der Amiga-Reihe über die Einführung des Amiga, die Rezeption auf dem Markt, seine Technologie, die ihn möglich gemacht haben und warum er schnell einen Neustart brauchte.\n\nProduktions-Credits:\n\nSprecher, Redaktion: Henner Thomsen, Gunnar Lott\n\nAudioproduktion: Fabian Langer, Christian Schmidt\n\nTitelgrafik: Johannes DuBois\n\nWir danken Joe Decuir, Ron Nicholson, R.J. Mical, Andrew Braybrook, Erik Simon\n\nBücher zum Amiga und Commodore:\n\nMeine Erinnerungen an Commodore und Amiga von Petro Tyschtschenko\n\nCommodore: The Inside Story: 30 unerzählte Geschichten über einen Computergiganten von David Pleasance\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon - einen Überblick über das Archiv an Folgen gibt es hier: klick.\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützer. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv den Retrogames e.V., die Hamburger Tafel e.V., das Internet Archive und Wikipedia.",
+  "beschreibung_html": "Folge 2: Technik & Erfolg\n<p>Mitte der 1980er brachte Commodore mit dem Amiga ein System auf den Markt, das der Konkurrenz technisch weit voraus war, Multitasking, brillante Grafik, realistischer Sound. Er war zu seiner Zeit die perfekte Multimedia-Maschine, bevor Multimedia ein Modebegriff wurde und der leistungsfähigste Spiele-Computer. Und hinterließ einen gewaltigen Fußabdruck in der Technikgeschichte.</p>\n<p>Henner und Gunnar sprechen im zweiten Teil der Amiga-Reihe über die Einführung des Amiga, die Rezeption auf dem Markt, seine Technologie, die ihn möglich gemacht haben und warum er schnell einen Neustart brauchte.<br></p>\n<hr />\n<p><strong>Produktions-Credits:</strong><br><br></p>\n<p><strong>Sprecher, Redaktion: </strong>Henner Thomsen, Gunnar Lott<br>\n<strong>Audioproduktion:</strong> Fabian Langer, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Johannes DuBois<br><br></p>\n<p>Wir danken Joe Decuir, Ron Nicholson, R.J. Mical, Andrew Braybrook, Erik Simon<br></p>\n<p><strong>Bücher zum Amiga und Commodore:</strong></p>\n<p><a href=\"https://retroshirty.com/products/meine-erinnerungen-an-commodore-und-amiga-von-petro-tyschtschenko\">Meine Erinnerungen an Commodore und Amiga von Petro Tyschtschenko</a></p>\n<p><a href=\"https://retroshirty.com/products/commodore-the-inside-story-30-unerzahlte-geschichten-uber-einen-computergiganten-versandkostenfrei\">Commodore: The Inside Story: 30 unerzählte Geschichten über einen Computergiganten von David Pleasance</a></p>\n<hr />\n<p><b>Unterstützung &amp; Interaktion:</b></p>\n<p><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a> - einen Überblick über das Archiv an Folgen gibt es hier: <a href=\"https://www.stayforever.de/alle-premium-formate-steady-patreon/\">klick</a>.</p>\n<p><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"http://stayforever.de\">stayforever.de</a> sowie in jeder <a href=\"https://www.stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a></p>\n<p><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.</p>\n<p><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://www.stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://www.stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützer</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://www.stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.</p>\n<p><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.</p>\n<p><b>Spenden:</b> Stay Forever unterstützt aktiv den <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>., die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>.</p>",
+  "untertitel": "Folge 2: Technik & Erfolg",
+  "bild_url": "https://images.podigee-cdn.net/0x,sQo3oxmtVsaJUQd1cnizDZgpadymyJ1EhSORYXPKQ7VQ=/https://main.podigee-cdn.net/uploads/u4307/73687681-fb57-4ea0-8c61-61ad7a16012e.jpg",
+  "schlagworte": [
+    "RJ Mical",
+    "Commodore"
+  ],
+  "folgennummer": 465,
+  "kapitel_quelle": "betreiber"
+}

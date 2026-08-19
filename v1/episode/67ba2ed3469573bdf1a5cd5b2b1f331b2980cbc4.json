@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "guid": "a1ab597287a11a365551fb14d164f766",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Pikmin (SSF 80)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1727696-m-d62f25738e44577d2aa6a17c42e999ce.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:43:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Die Geschichte von Pikmin: Von den chaotischen Anfängen bis zur erfolgreichen…",
+  "kurzfassung": "Die Hosts besprechen die Entstehungsgeschichte, Mechaniken und Rezeption des ersten Pikmin-Spiels für den Gamecube von 2001. Dabei beleuchten sie die Rolle von Shigeru Miyamoto, den besonderen Umgang mit Zeitdruck und Ressourcen sowie die Entwicklung der gesamten Spieleserie bis zu Pikmin 4.",
+  "stichpunkte": [
+    "Pikmin erschien 2001 kurz nach dem Gamecube-Launch und verbindet Echtzeitstrategie mit einer Miniaturwelt.",
+    "Captain Olimar stürzt auf einem fremden Planeten ab und muss in 30 Tagen verstreute Raumschiffteile bergen.",
+    "Die pflanzen-tierischen Pikmin gibt es in drei Farben (rot, gelb, blau) mit jeweils spezifischen Fähigkeiten.",
+    "Shigeru Miyamoto übernahm kurz vor der E3 selbst die Directorship, um das Konzept in einen funktionierenden Game Loop zu gießen.",
+    "Das strenge 30-Tage-Limit und der Verlust gestorbener Pikmin sorgen für ein ungewöhnlich stressiges und konsequentes Spielerlebnis.",
+    "Trotz hervorragender Kritiken (Metacritic 89) blieben die Verkaufszahlen der ersten Teile hinter anderen Nintendo-Hits zurück.",
+    "Die Reihe entwickelte sich über vier Hauptteile und diverse Ableger (unter anderem für Wii U, Switch und Mobile) schliesslich zum Millionenseller."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 27.0
+    },
+    {
+      "titel": "Gunnars Nintendo-VIP-Karte",
+      "start": 39.0
+    },
+    {
+      "titel": "Pikmin: \"Echtzeit-Strategie\" für den GameCube",
+      "start": 160.0
+    },
+    {
+      "titel": "Echtzeit-Strategie-Vorläufer: Herzog Zwei ...",
+      "start": 323.0
+    },
+    {
+      "titel": "... und PC-Portierungen wie Warcraft 2",
+      "start": 339.0
+    },
+    {
+      "titel": "Vorschuss-Vertrauen dank Shigeru Miyamoto",
+      "start": 373.0
+    },
+    {
+      "titel": "Die Rahmenhandlung",
+      "start": 433.0
+    },
+    {
+      "titel": "Die Spielwelt",
+      "start": 497.0
+    },
+    {
+      "titel": "Hilfe von den Pikmin",
+      "start": 572.0
+    },
+    {
+      "titel": "Die Gegner",
+      "start": 668.0
+    },
+    {
+      "titel": "Eine Miniatur-Welt",
+      "start": 700.0
+    },
+    {
+      "titel": "Olimars Blick auf die Welt",
+      "start": 771.0
+    },
+    {
+      "titel": "Die Kernaufgabe",
+      "start": 885.0
+    },
+    {
+      "titel": "Die Entstehungsgeschichte",
+      "start": 993.0
+    },
+    {
+      "titel": "\"Super Mario 128\"",
+      "start": 1148.0
+    },
+    {
+      "titel": "Die Pikmin-Väter: Masamichi Abe und Shigefumi Hino",
+      "start": 1251.0
+    },
+    {
+      "titel": "Erste Design-Experimente",
+      "start": 1308.0
+    },
+    {
+      "titel": "Das erste Design: Schwarze Pikmins",
+      "start": 1435.0
+    },
+    {
+      "titel": "Inspiration: La Planète Sauvage (1973)",
+      "start": 1499.0
+    },
+    {
+      "titel": "Die Pikmin werden bunt",
+      "start": 1579.0
+    },
+    {
+      "titel": "Wechsel auf den Gamecube",
+      "start": 1710.0
+    },
+    {
+      "titel": "Das Spiel entsteht",
+      "start": 1795.0
+    },
+    {
+      "titel": "Shigeru Miyamoto greift ein",
+      "start": 1985.0
+    },
+    {
+      "titel": "Miyamotos Designveränderungen",
+      "start": 2199.0
+    },
+    {
+      "titel": "Vorstellung auf der E3 2001",
+      "start": 2310.0
+    },
+    {
+      "titel": "Streichungen und Hinzufügungen",
+      "start": 2386.0
+    },
+    {
+      "titel": "Das Spiel beginnt",
+      "start": 2606.0
+    },
+    {
+      "titel": "Interaktion mit den Pikmin",
+      "start": 2685.0
+    },
+    {
+      "titel": "Das erste Raumschiffteil",
+      "start": 2837.0
+    },
+    {
+      "titel": "Der Zeitablauf",
+      "start": 2918.0
+    },
+    {
+      "titel": "Die Rolle von Captain Olimar",
+      "start": 2984.0
+    },
+    {
+      "titel": "Sehr rudimentäre Gruppenbildung",
+      "start": 3142.0
+    },
+    {
+      "titel": "Kämpfe gegen große Gegner",
+      "start": 3259.0
+    },
+    {
+      "titel": "Die Spielumgebungen",
+      "start": 3344.0
+    },
+    {
+      "titel": "Herausforderungen im Spielablauf",
+      "start": 3420.0
+    },
+    {
+      "titel": "Drei verschiedenen Pikmin-Arten: Rot ist feuerfest ...",
+      "start": 3500.0
+    },
+    {
+      "titel": "... Gelb kann Bomben werfen ...",
+      "start": 3534.0
+    },
+    {
+      "titel": "... und Blau kann schwimmen",
+      "start": 3575.0
+    },
+    {
+      "titel": "Zeitlimit und Einbruch der Dunkelheit",
+      "start": 3687.0
+    },
+    {
+      "titel": "Haushalten mit Zeit und Pikmin",
+      "start": 3821.0
+    },
+    {
+      "titel": "Pikmin als Verbrauchsressource",
+      "start": 4119.0
+    },
+    {
+      "titel": "Eine andere Definiton von \"Echtzeit\"",
+      "start": 4271.0
+    },
+    {
+      "titel": "Erkunden und Erschließen der Spielwelt",
+      "start": 4385.0
+    },
+    {
+      "titel": "Kameraprobleme",
+      "start": 4466.0
+    },
+    {
+      "titel": "Die Gegner: keine Fraktion, sondern Hindernisse",
+      "start": 4626.0
+    },
+    {
+      "titel": "Bossgegner",
+      "start": 4789.0
+    },
+    {
+      "titel": "KI-Probleme",
+      "start": 4866.0
+    },
+    {
+      "titel": "Präzisions- und Effizienzprobleme",
+      "start": 5001.0
+    },
+    {
+      "titel": "Hübsch und atmosphärisch",
+      "start": 5154.0
+    },
+    {
+      "titel": "Überschaubare Komplexität",
+      "start": 5433.0
+    },
+    {
+      "titel": "Optionale Bestandteile",
+      "start": 5538.0
+    },
+    {
+      "titel": "Die Enden",
+      "start": 5621.0
+    },
+    {
+      "titel": "Release und Marketing: Die Pikmin-Blume",
+      "start": 5859.0
+    },
+    {
+      "titel": "Der Pikmin-Song",
+      "start": 5924.0
+    },
+    {
+      "titel": "Pressestimmen: sehr positiv",
+      "start": 5966.0
+    },
+    {
+      "titel": "Kein besonderer Verkaufserfolg",
+      "start": 6062.0
+    },
+    {
+      "titel": "Pikmin 2 (2004)",
+      "start": 6101.0
+    },
+    {
+      "titel": "Direkte Fortsetzung der Handlung",
+      "start": 6153.0
+    },
+    {
+      "titel": "Olimar als Müllsammler",
+      "start": 6251.0
+    },
+    {
+      "titel": "Pikmin 3 (2013)",
+      "start": 6343.0
+    },
+    {
+      "titel": "Pikmin 4 (2023)",
+      "start": 6416.0
+    },
+    {
+      "titel": "Pikmin-Ableger: Hey! Pikmin ...",
+      "start": 6559.0
+    },
+    {
+      "titel": "... und Augmented-Reality-Spiele",
+      "start": 6578.0
+    },
+    {
+      "titel": "Neuauflagen für die Switch",
+      "start": 6624.0
+    },
+    {
+      "titel": "Fazit",
+      "start": 6709.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:43:51+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 6920,
+  "veroeffentlicht": "2024-12-22T05:55:00+00:00",
+  "beschreibung": "Strategie von Miyamoto\n2001 veröffentlicht Nintendo mit Pikmin ein ungewöhnliches Strategiespiel, das den Spieler in die Rolle von Captain Olimar versetzt, einem gestrandeten Weltraumreisenden, der auf einem fremden Planeten um sein Überleben kämpft. Mit Hilfe der titelgebenden Pikmin, kleinen pflanzenartigen Kreaturen, erkundet man die Umgebung, löst Rätsel und birgt Raumschiffteile, bevor die Zeit abläuft.\n\nGunnar und Fabian sprechen in dieser Folge über die Entstehung des Spiels (unter der Leitung von Shigeru Miyamoto), analysieren die innovativen Mechaniken und diskutieren, wie Pikmin trotz seines simplen Konzepts eine neue Art von strategischem Gameplay etabliert. Ein Blick auf ein charmantes Spiel, das bis heute eine einzigartige Nische im Nintendo-Universum besetzt.\n\nInfos zum Spiel:\n\nThema: Pikmin\nErscheinungstermin: 14.9.2004\nPlattform: Gamecube\nEntwickler: Nintendo\nPublisher: Nintendo\nGenre: Echtzeitstrategie\nDesigner: Shigeru Miyamoto, Masamichi Abe, Shigefumi Hino, Hiroaki Takenaka\nMusik: Hajime Wakai\n\nPodcast-Credits:\n\nSprecher: Fabian Käufer, Gunnar Lott\nAudioproduktion: Fabian Langer, Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro, Outro: Nino Kerl (Ansage); Chris Hülsbeck (Musik)\n\nReklame:\n\nDas hübsche Cover-Motiv hat wie immer exklusiv für uns der SF-Hausgrafiker Paul Schmidt gezeichnet. Wir bieten das Motiv in unserem Shop Retroshirty als Tasse, als Poster und als T-Shirt an. Auf jeden Fall ein Schmuck für das eigene Arbeitszimmer, das Penthouse oder die unterirdische Bergfestung.\n\nUnterstützen: Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen Steady oder Patreon. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen Extra-Content.\n\nMehr von uns: Diese Podcast-Folge gibt es auch auf Youtube, Spotify, als Audio-Datei im Feed und natürlich auf iTunes. Wir freuen uns über Reaktionen und Empfehlungen auf Bluefacegramcord oder wie das heißt. Wir haben auch einen schönen Merch-Shop namens Retro Shirty.\n\nCharity: SF ist Fördermitglied im Retrogames e.V. und bei der Hamburger Tafel e.V.",
+  "beschreibung_html": "Strategie von Miyamoto\n<p>2001 veröffentlicht Nintendo mit <strong>Pikmin</strong> ein ungewöhnliches Strategiespiel, das den Spieler in die Rolle von Captain Olimar versetzt, einem gestrandeten Weltraumreisenden, der auf einem fremden Planeten um sein Überleben kämpft. Mit Hilfe der titelgebenden Pikmin, kleinen pflanzenartigen Kreaturen, erkundet man die Umgebung, löst Rätsel und birgt Raumschiffteile, bevor die Zeit abläuft. <br /><br />Gunnar und Fabian sprechen in dieser Folge über die Entstehung des Spiels (unter der Leitung von Shigeru Miyamoto), analysieren die innovativen Mechaniken und diskutieren, wie <strong>Pikmin</strong> trotz seines simplen Konzepts eine neue Art von strategischem Gameplay etabliert. Ein Blick auf ein charmantes Spiel, das bis heute eine einzigartige Nische im Nintendo-Universum besetzt.\n\n</p>\n<hr />\n<p><strong>Infos zum Spiel:</strong></p>\n<p><strong>Thema:</strong> Pikmin<br /><strong>Erscheinungstermin:</strong> 14.9.2004<strong><br />Plattform:</strong> Gamecube<strong><br />Entwickler:</strong> Nintendo<strong><br />Publisher:</strong> Nintendo<br /><strong>Genre: </strong> Echtzeitstrategie<strong><br />Designer:</strong> Shigeru Miyamoto, Masamichi Abe, Shigefumi Hino, Hiroaki Takenaka<br /><strong>Musik:</strong> Hajime Wakai<br /><br /></p>\n<!-- /wp:html -->\n<p><hr /><!-- wp:html --></p>\n<p><strong>Podcast-Credits:</strong></p>\n<p><b>Sprecher:</b> Fabian Käufer, Gunnar Lott<br /><b>Audioproduktion:</b> Fabian Langer, Christian Schmidt<br /><b> Titelgrafik:</b> Paul Schmidt<br /><b> Intro, Outro:</b> Nino Kerl (Ansage); Chris Hülsbeck (Musik)</p>\n<hr />\n<p><strong>Reklame:</strong> <br /><br />Das hübsche Cover-Motiv hat wie immer exklusiv für uns der SF-Hausgrafiker Paul Schmidt gezeichnet. Wir bieten das Motiv in unserem Shop Retroshirty <a href=\"https://retroshirty.com/produkt/knospenwanderung-tasse-mit-farbiger-innenseite/\">als Tasse</a>, als <a href=\"https://retroshirty.com/produkt/knospenwanderung-poster/\">Poster</a> und als <a href=\"https://retroshirty.com/produkt/knospenwanderung-unisex-bio-baumwoll-t-shirt/\">T-Shirt</a> an. Auf jeden Fall ein Schmuck für das eigene Arbeitszimmer, das Penthouse oder die unterirdische Bergfestung.</p>\n<hr />\n<p><strong>Unterstützen:</strong> Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> oder <a href=\"https://www.patreon.com/stayforever\">Patreon</a>. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen <strong>Extra-Content</strong>. <br /><br /><strong> Mehr von uns:</strong> Diese Podcast-Folge gibt es auch auf <a href=\"https://www.youtube.com/playlist?list=PLk81FXjsqZvcFtNnm0lzwJ_9EoD1q1td5\">Youtube</a>, <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, als Audio-Datei <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">im Feed</a> und natürlich auf <a href=\"https://itunes.apple.com/de/podcast/stay-forever/id461077931?mt=2\">iTunes</a>. Wir freuen uns über Reaktionen und Empfehlungen auf <a href=\"https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://bsky.app/profile/stayforever.bsky.social\">Blue</a><a href=\"https://www.facebook.com/StayForeverPodcast/\">face</a><a href=\"https://www.instagram.com/stay_forever_podcast/\">gram</a><a href=\"https://stayforever.de/discord\">cord</a> oder wie das heißt. Wir haben auch einen schönen <a href=\"https://retroshirty.com\">Merch-Shop namens Retro Shirty</a>. <br /><br /><strong> Charity:</strong> SF ist Fördermitglied im <a href=\"https://www.retrogames.info/\">Retrogames e.V.</a> und bei der <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a></p>\n<hr />\n<p>&nbsp;</p>",
+  "untertitel": "Strategie von Miyamoto",
+  "bild_url": "https://images.podigee-cdn.net/0x,sB1KuG5sh0NbdbByLbPOD5PXSRnbvpBya7n23c9Np_Zk=/https://main.podigee-cdn.net/uploads/u4307/56ebdb5e-7461-4f94-911d-cdff34576cb5.jpg",
+  "schlagworte": [
+    "shigeru miyamoto",
+    "nintendo"
+  ],
+  "folgennummer": 436,
+  "kapitel_quelle": "betreiber"
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "guid": "c67a79547afc73acd93d06cc4e3b62f5",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Unser Megaprojekt: Launch-Update",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2547665-m-cbe24a21786152b2af1935021b42ab3e.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:36:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Relaunch-Update: Wie die neue Stay Forever Plattform nach einer Woche läuft",
+  "kurzfassung": "Christian und Gunnar ziehen eine extrem positive Bilanz nach dem Launch der neuen Stay Forever Plattform. Sie besprechen die überwältigend hohen Nutzerzahlen, gelöste technische Probleme bei den RSS-Feeds und kommende Verbesserungen. Zudem erklären sie Entscheidungen zu Zahlungsanbietern, der Ablehnung einer eigenen App und dem Umgang mit Community-Wünschen.",
+  "stichpunkte": [
+    "Über 3.100 angemeldete Accounts und 2.600 Abos innerhalb einer Woche nach dem Launch.",
+    "Das Jahresendziel wurde in unter einer Woche erreicht, das Monatsziel in den ersten 24 Stunden.",
+    "Kritischer Fehler bei iOS-Podcast-Apps durch fehlende MP3-Dateiendungen in den Feed-Links behoben.",
+    "Beibehaltung von Patreon und Steady für Hörer, die ihre Unterstützerfeeds über Spotify hören.",
+    "Keine eigene App geplant, um Abhängigkeiten vom Apple- und Google-Ökosystem sowie hohe Gebühren zu vermeiden.",
+    "Zahlungsabwicklung läuft vorerst weiter über Stripe, da europäische Alternativen wie Mollie unbefriedigend waren.",
+    "Community-Feedback wird aktiv in Foren-Threads und über ein Support-E-Mail-Ticketsystem bearbeitet."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "Der Launch in Zahlen",
+      "start": 298.0
+    },
+    {
+      "titel": "Launch-Probleme und Lösungen",
+      "start": 635.0
+    },
+    {
+      "titel": "Wünsche aus der Community",
+      "start": 932.0
+    },
+    {
+      "titel": "Fragen und Antworten",
+      "start": 1652.0
+    },
+    {
+      "titel": "1) Was passiert im Feed, wenn neue Formate dazukommen?",
+      "start": 1667.0
+    },
+    {
+      "titel": "2) Wo stehen eure Server?",
+      "start": 1760.0
+    },
+    {
+      "titel": "3) Zeigt ihr eure Unterstützerzahlen an?",
+      "start": 1852.0
+    },
+    {
+      "titel": "4) Wie wär's mit einer eigenen App?",
+      "start": 1924.0
+    },
+    {
+      "titel": "5) Könntet ihr Wero als Bezahlmethode anbieten?",
+      "start": 2092.0
+    },
+    {
+      "titel": "6) Werdet ihr diese Lösung auch anderen Podcasts anbieten?",
+      "start": 2160.0
+    },
+    {
+      "titel": "Ausblick und Verabschiedung",
+      "start": 2274.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:36:32+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2405,
+  "veroeffentlicht": "2026-07-16T13:33:28+00:00",
+  "beschreibung": "Was bisher passiert ist und wie es weiter geht\nLetzte Woche, am 8.7.2026 ist unsere neue Website live gegangen, unbescheiden \"das Megaprojekt\" genannt, weil sie Webseite, Forum, Membership-Plattform, Zahlungstool und Podcastauslieferung in einer Seite vereint. Wer davon gerade zum ersten Mal hört, Kontext dazu gibt es hier (in Podcast-Form) oder hier (als Video mit Gunnar und Chris).\n\nIn dieser Folge ziehen wir kurz Bilanz, nennen aktuelle Zahlen, adressieren gefixte und noch zu fixende Bugs und geben einen kleinen Ausblick auf die weitere Entwicklung.\n\nDer Mega-Projekt Mega-Thread: hier\nDas Mega-Projekt-Umzugs-FAQ: hier\n\nCredits\n\nSprecher, Redaktion: Christian Schmidt, Gunnar Lott\nAudioproduktion und -Schnitt: Christian Schmidt\nTitelgrafik: Johannes DuBois",
+  "beschreibung_html": "Was bisher passiert ist und wie es weiter geht\n<p>Letzte Woche, am 8.7.2026 ist unsere neue Website live gegangen, unbescheiden \"das Megaprojekt\" genannt, weil sie Webseite, Forum, Membership-Plattform, Zahlungstool und Podcastauslieferung in einer Seite vereint. Wer davon gerade zum ersten Mal hört, Kontext dazu gibt es hier (in <a href=\"https://www.stayforever.de/podcast/unser-megaprojekt\">Podcast-Form</a>) oder hier (als <a href=\"https://www.youtube.com/watch?v=2loJcD0bvII\">Video mit Gunnar und Chris</a>).</p>\n<p>In dieser Folge ziehen wir kurz Bilanz, nennen aktuelle Zahlen, adressieren gefixte und noch zu fixende Bugs und geben einen kleinen Ausblick auf die weitere Entwicklung.</p>\n<p>Der Mega-Projekt Mega-Thread: <a href=\"https://community.stayforever.de/t/unser-megaprojekt/8371/749\">hier</a>\nDas Mega-Projekt-Umzugs-FAQ: <a href=\"https://community.stayforever.de/t/neue-plattform-megaprojekt-umzugs-faq/8462\">hier\n</a></p>\n<p><strong>Credits</strong></p>\n<p>Sprecher, Redaktion: Christian Schmidt, Gunnar Lott\nAudioproduktion und -Schnitt: Christian Schmidt\nTitelgrafik: Johannes DuBois</p>",
+  "untertitel": "Was bisher passiert ist und wie es weiter geht",
+  "bild_url": "https://images.podigee-cdn.net/0x,s0F9HUYv1b_xAW3N8NCOn8ihOdjsYKQhPzMHfjDk_QrE=/https://main.podigee-cdn.net/uploads/u4307/5ad0e94d-d595-4c62-ad89-724321aeb58f.jpeg",
+  "folgennummer": 516,
+  "kapitel_quelle": "betreiber"
+}

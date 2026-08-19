@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "guid": "acc671a25b189ad92c884de3a4fc32c5",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "King's Quest (SF 155)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1993137-m-6be82f0771e4eab030e1054a71a6c2e5.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:41:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Rückblick auf King's Quest von 1984, das erste Grafik-Adventure der Videospielgeschichte.",
+  "kurzfassung": "King's Quest von Sierra aus dem Jahr 1984 gilt als das erste echte Grafik-Adventure und revolutionierte das Genre durch einen direkt steuerbaren Protagonisten in einer farbigen 3D-Welt. Das von Roberta Williams entworfene Spiel basiert auf Märchenmotiven und stellte trotz technischer und spielerischer Pionierleistungen die wirtschaftliche Existenz von Sierra durch den Flop des IBM PC Jr. zunächst auf die Probe. Durch spätere Portierungen, insbesondere auf den Tandy 1000, wurde es schließlich zu einem kommerziellen Erfolg und zum Grundstein für das gesamte Unternehmen.",
+  "stichpunkte": [
+    "King's Quest erschien 1984 als exklusiver Starttitel für den IBM PC Jr. und begründete das Genre der modernen Grafik-Adventures.",
+    "Die von Roberta Williams entworfene Spielwelt verbindet zahlreiche Märchen- und Mythenmotive aus der europäischen Sagenwelt.",
+    "Technisch setzte das Spiel mit der AGI-Engine, Vektorgrafiken und einem cleveren Prioritäten-System für den 3D-Effekt neue Maßstäbe.",
+    "Sir Graham ist als sichtbarer, steuerbarer Protagonist in Echtzeit unterwegs, was einen Paradigmenwechsel zu den bisherigen Text-Adventures darstellte.",
+    "Das Spiel bietet ungewöhnlich viele alternative Lösungswege und ein Punktesystem, bei dem man für unüberlegte Aktionen auch Punkte verlieren kann.",
+    "Der kommerzielle Misserfolg des IBM PC Jr. brachte den Entwickler Sierra an den Rand des Ruins.",
+    "Erst spätere Portierungen auf den normalen PC und insbesondere den Tandy 1000 machten das Spiel zum finanziellen Erfolg.",
+    "King's Quest legte den Grundstein für Sierras jahrzehntelange Erfolgsgeschichte und prägte zahlreiche nachfolgende Adventure-Reihen."
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 23.0
+    },
+    {
+      "titel": "- LucasArts vs. Sierra",
+      "start": 166.0
+    },
+    {
+      "titel": "- Chris' erstes Sierra-Spiel: Leisure Suit Larry (1987)",
+      "start": 326.0
+    },
+    {
+      "titel": "- Adventures im Jahr 1984",
+      "start": 495.0
+    },
+    {
+      "titel": "- \"Grafik\"-Adventures vor King's Quest",
+      "start": 541.0
+    },
+    {
+      "titel": "- Grafik in King's Quest",
+      "start": 622.0
+    },
+    {
+      "titel": "- Was ist King's Quest?",
+      "start": 675.0
+    },
+    {
+      "titel": "ENTSTEHUNGSGESCHICHTE, TEIL 1",
+      "start": 732.0
+    },
+    {
+      "titel": "- Ken und Roberta Williams und \"Mystery House\" (1980)",
+      "start": 742.0
+    },
+    {
+      "titel": "The Wizard and the Princess (1980)",
+      "start": 874.0
+    },
+    {
+      "titel": "- Sierras erfolgreichstes Textadventure",
+      "start": 1138.0
+    },
+    {
+      "titel": "- Enormes Wachstum in den ersten Jahren",
+      "start": 1186.0
+    },
+    {
+      "titel": "- Arcade-Spiele wie Jawbreaker (1981)",
+      "start": 1269.0
+    },
+    {
+      "titel": "- Der IBM-Deal",
+      "start": 1339.0
+    },
+    {
+      "titel": "- Adventure in Serenia (1982)",
+      "start": 1437.0
+    },
+    {
+      "titel": "- IBMs geplanter Apple-Killer: der PCjr",
+      "start": 1521.0
+    },
+    {
+      "titel": "- Geheimprojekt in Oakhurst",
+      "start": 1706.0
+    },
+    {
+      "titel": "- 1983: Sierra vor dem Ruin",
+      "start": 1949.0
+    },
+    {
+      "titel": "- Weitere Sierra-Projekte für IBM",
+      "start": 2156.0
+    },
+    {
+      "titel": "SPIELBESCHREIBUNG",
+      "start": 2216.0
+    },
+    {
+      "titel": "- Erkundung von Daventry",
+      "start": 2387.0
+    },
+    {
+      "titel": "- Ein völlig neuer Blick in die Welt",
+      "start": 2446.0
+    },
+    {
+      "titel": "- Keine Angst vor dem Bildschirmwechsel!",
+      "start": 2651.0
+    },
+    {
+      "titel": "- Was das erste Bild des Spiels leistet",
+      "start": 2725.0
+    },
+    {
+      "titel": "- 3D-Anmutung: Graham verschwindet hinter Objekten",
+      "start": 2813.0
+    },
+    {
+      "titel": "- Traditionelle Adventure-Kost ...",
+      "start": 2869.0
+    },
+    {
+      "titel": "- ... aber mit Nutzung von Raum und Zeit",
+      "start": 3009.0
+    },
+    {
+      "titel": "- Ein agiler Held",
+      "start": 3092.0
+    },
+    {
+      "titel": "- Erkundung der Spielwelt",
+      "start": 3125.0
+    },
+    {
+      "titel": "- (Zufalls-)Begegungen",
+      "start": 3259.0
+    },
+    {
+      "titel": "- Trollbrücken",
+      "start": 3276.0
+    },
+    {
+      "titel": "- Die Holzfällerhütte ...",
+      "start": 3297.0
+    },
+    {
+      "titel": "- ... und ihre Bewohner",
+      "start": 3313.0
+    },
+    {
+      "titel": "- Die gleiche Szene im Remake (1990)",
+      "start": 3330.0
+    },
+    {
+      "titel": "- Gegenstände finden und einsetzen",
+      "start": 3352.0
+    },
+    {
+      "titel": "- Eine Rätselkette: Der Zauberschild",
+      "start": 3384.0
+    },
+    {
+      "titel": "* Eine Riesenratte",
+      "start": 3441.0
+    },
+    {
+      "titel": "* Halle der Kobolde",
+      "start": 3465.0
+    },
+    {
+      "titel": "* Verkleinern mit dem Zauberpilz",
+      "start": 3502.0
+    },
+    {
+      "titel": "- Alles ist animiert",
+      "start": 3572.0
+    },
+    {
+      "titel": "- Kleine Slapstick-Elemente",
+      "start": 3699.0
+    },
+    {
+      "titel": "- Eine Cutscene in der Spiel-Engine",
+      "start": 3751.0
+    },
+    {
+      "titel": "- Ein originelles Rätsel: das Lebkuchenhaus",
+      "start": 3790.0
+    },
+    {
+      "titel": "- Versteckspiel mit der Hexe",
+      "start": 3864.0
+    },
+    {
+      "titel": "- Gegner-\"KI\"",
+      "start": 3979.0
+    },
+    {
+      "titel": "- Flucht vor der Hexe",
+      "start": 4022.0
+    },
+    {
+      "titel": "- Märchenmotive und Märchenwissen",
+      "start": 4066.0
+    },
+    {
+      "titel": "- Vorbild: Disney-Märchenfilme",
+      "start": 4337.0
+    },
+    {
+      "titel": "- Das Familien-Cover von King's Quest 5",
+      "start": 4468.0
+    },
+    {
+      "titel": "- Warum stirbt man hier überhaupt?",
+      "start": 4534.0
+    },
+    {
+      "titel": "- Graham kann schwimmen",
+      "start": 4613.0
+    },
+    {
+      "titel": "- Verschiedene Todesanimationen",
+      "start": 4668.0
+    },
+    {
+      "titel": "- Die gleiche Rätselkette nochmal, diesmal mit Käse",
+      "start": 4764.0
+    },
+    {
+      "titel": "- Eintopf für die Holzfäller",
+      "start": 4815.0
+    },
+    {
+      "titel": "- Das Szepter des Koboldkönigs",
+      "start": 4844.0
+    },
+    {
+      "titel": "- Wiederspielbarkeit durch verschiedene Lösungswege ...",
+      "start": 4886.0
+    },
+    {
+      "titel": "- ... und eine Punktewertung",
+      "start": 5020.0
+    },
+    {
+      "titel": "- Ein Spiel, das Freiheit gewährt, aber urteilt",
+      "start": 5130.0
+    },
+    {
+      "titel": "- Fairness durch Lösungsmöglichkeiten",
+      "start": 5288.0
+    },
+    {
+      "titel": "- Die Ziege!!!!",
+      "start": 5364.0
+    },
+    {
+      "titel": "- Warum das Rumpelstilzchen-Rätsel doch okay geht",
+      "start": 5434.0
+    },
+    {
+      "titel": "- Die vermaledeite (?) Bohnenranke",
+      "start": 5502.0
+    },
+    {
+      "titel": "- In den Wolken",
+      "start": 5648.0
+    },
+    {
+      "titel": "DIE GRAFIKTECHNIK",
+      "start": 5697.0
+    },
+    {
+      "titel": "- Ken & Doug MacNeill",
+      "start": 5797.0
+    },
+    {
+      "titel": "- 3D-Effekt durch Grafikschichten",
+      "start": 5896.0
+    },
+    {
+      "titel": "- Artikel in Compute 2/85",
+      "start": 5958.0
+    },
+    {
+      "titel": "- Vektorgrafiken",
+      "start": 6001.0
+    },
+    {
+      "titel": "- Der Malprozess: 1) Umrisse",
+      "start": 6116.0
+    },
+    {
+      "titel": "- 2) Füllung",
+      "start": 6137.0
+    },
+    {
+      "titel": "- 3) Details",
+      "start": 6148.0
+    },
+    {
+      "titel": "- 4) Animierte Objekte",
+      "start": 6166.0
+    },
+    {
+      "titel": "- Unsichtbare Objektkanten",
+      "start": 6210.0
+    },
+    {
+      "titel": "- Schiere Grafikpracht",
+      "start": 6289.0
+    },
+    {
+      "titel": "SPIELANALYSE",
+      "start": 6347.0
+    },
+    {
+      "titel": "- Ein erzählerischer Paradigmenwechsel",
+      "start": 6385.0
+    },
+    {
+      "titel": "- Viel \"show\", wenig \"tell\"",
+      "start": 6556.0
+    },
+    {
+      "titel": "- Gutmütiges Mythen-Potpourri",
+      "start": 6656.0
+    },
+    {
+      "titel": "- Experimentierfreude und neue Adventure-Blaupause",
+      "start": 6842.0
+    },
+    {
+      "titel": "ENTSTEHUNGSGESCHICHTE, TEIL 2",
+      "start": 7159.0
+    },
+    {
+      "titel": "- Die originale IBM-Packung: naja",
+      "start": 7416.0
+    },
+    {
+      "titel": "- Eine rettende Vertragsklausel",
+      "start": 7455.0
+    },
+    {
+      "titel": "- Die CGA-Version",
+      "start": 7602.0
+    },
+    {
+      "titel": "- Disney-Spiele mit der King's-Quest-Engine",
+      "start": 7638.0
+    },
+    {
+      "titel": "- Erfolg auf dem Tandy 1000",
+      "start": 7663.0
+    },
+    {
+      "titel": "- Weitere Portierungen",
+      "start": 7761.0
+    },
+    {
+      "titel": "- Die EGA-Version von 1986",
+      "start": 7791.0
+    },
+    {
+      "titel": "- Sierra wird zum Adventure-Riesen",
+      "start": 7875.0
+    },
+    {
+      "titel": "- Sieben Fortsetzungen für King's Quest",
+      "start": 7961.0
+    },
+    {
+      "titel": "- Wie kann man das heute spielen?",
+      "start": 8081.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:41:41+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 8142,
+  "veroeffentlicht": "2025-06-29T11:08:14+00:00",
+  "beschreibung": "Ein König, ein Wort – ein Parser\nWorum geht’s? 1983 erscheint mit King’s Quest ein Spiel, das den Grundstein für das grafische Adventure legt – ein Genre, das in den folgenden Jahren prägend für die Heimcomputer-Ära wird. Entwickelt von Roberta Williams und veröffentlicht von Sierra On-Line, verbindet King’s Quest erstmals Textparser-Eingaben mit frei begehbaren Bildschirmhintergründen in einer farbigen Fantasy-Welt. Als Sir Graham durchstreift man das Königreich Daventry, löst Rätsel, sammelt Gegenstände und begegnet allerlei märchenhaften Figuren. Christian und Gunnar sprechen in dieser Folge über die Entstehungsgeschichte des Spiels, die Bedeutung für Sierras Aufstieg und wie King’s Quest mit seiner Technik, Erzählweise und Präsentation neue Maßstäbe für interaktive Geschichten setzte. Ein Rückblick auf einen Klassiker, dem vielleicht sogar Sierra-Verächter Gunnar etwa abgewinnen kann?\n\nInfos zum Spiel:\n\nThema: King's Quest\n\nErscheinungstermin: 10.05.1984\n\nPlattform: IBM PCjr, später auch MS-DOS, Apple II, Amiga, Atari ST u.a.\n\nEntwickler: Sierra On-Line\n\nPublisher: Sierra On-Line, IBM\n\nGenre: Grafikadventure\n\nDesignerin: Roberta Williams\n\nProduktions-Credits:\n\nSprecher, Redaktion: Christian Schmidt, Gunnar Lott\n\nAudioproduktion: Johannes DuBois, Christian Schmidt\n\nTitelgrafik: Paul Schmidt\n\nIntro & Outro: Nino Kerl (Ansage); Chris Hülsbeck (Musik)\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon - einen Überblick über das Archiv an Folgen gibt es hier: klick.\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützer. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv den Retrogames e.V., die Hamburger Tafel e.V., das Internet Archive und Wikipedia.",
+  "beschreibung_html": "Ein König, ein Wort – ein Parser\n<p><strong>Worum geht’s?</strong> 1983 erscheint mit <strong>King’s Quest</strong> ein Spiel, das den Grundstein für das grafische Adventure legt – ein Genre, das in den folgenden Jahren prägend für die Heimcomputer-Ära wird. Entwickelt von Roberta Williams und veröffentlicht von Sierra On-Line, verbindet <strong>King’s Quest</strong> erstmals Textparser-Eingaben mit frei begehbaren Bildschirmhintergründen in einer farbigen Fantasy-Welt. Als Sir Graham durchstreift man das Königreich Daventry, löst Rätsel, sammelt Gegenstände und begegnet allerlei märchenhaften Figuren. Christian und Gunnar sprechen in dieser Folge über die Entstehungsgeschichte des Spiels, die Bedeutung für Sierras Aufstieg und wie <strong>King’s Quest</strong> mit seiner Technik, Erzählweise und Präsentation neue Maßstäbe für interaktive Geschichten setzte. Ein Rückblick auf einen Klassiker, dem vielleicht sogar Sierra-Verächter Gunnar etwa abgewinnen kann? </p>\n<hr />\n<p><strong>Infos zum Spiel:</strong></p>\n<p><strong>Thema:</strong> King's Quest<br />\n<strong>Erscheinungstermin:</strong> 10.05.1984<br />\n<strong>Plattform:</strong> IBM PCjr, später auch MS-DOS, Apple II, Amiga, Atari ST u.a.<br />\n<strong>Entwickler:</strong> Sierra On-Line<br />\n<strong>Publisher:</strong> Sierra On-Line, IBM<br />\n<strong>Genre:</strong> Grafikadventure<br />\n<strong>Designerin: </strong>Roberta Williams  </p>\n<!-- /wp:html -->\n<hr />\n<p><strong>Produktions-Credits:</strong></p>\n<p><strong>Sprecher, Redaktion: </strong>Christian Schmidt, Gunnar Lott<br>\n<strong>Audioproduktion:</strong> Johannes DuBois, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Paul Schmidt<br>\n<strong>Intro &amp; Outro:</strong> Nino Kerl (Ansage); Chris Hülsbeck (Musik)<br></p>\n<hr />\n<p><b>Unterstützung &amp; Interaktion:</b></p>\n<p><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a> - einen Überblick über das Archiv an Folgen gibt es hier: <a href=\"https://www.stayforever.de/alle-premium-formate-steady-patreon/\">klick</a>.</p>\n<p><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"http://stayforever.de\">stayforever.de</a> sowie in jeder <a href=\"https://www.stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a></p>\n<p><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/t/kings-quest-sf-155/6789\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.</p>\n<p><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://www.stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://www.stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützer</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://www.stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.</p>\n<p><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.</p>\n<p><b>Spenden:</b> Stay Forever unterstützt aktiv den <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>., die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>.</p>",
+  "untertitel": "Ein König, ein Wort – ein Parser",
+  "bild_url": "https://images.podigee-cdn.net/0x,sOqXpBeRC3I0X8aI8VPlrJF0-MHyNlt2dJFAqzbYexV4=/https://main.podigee-cdn.net/uploads/u4307/c091f22c-093d-469f-8296-045213b6d788.jpg",
+  "schlagworte": [
+    "Sierra On-Line",
+    "Robert Williams"
+  ],
+  "folgennummer": 461,
+  "kapitel_quelle": "betreiber"
+}

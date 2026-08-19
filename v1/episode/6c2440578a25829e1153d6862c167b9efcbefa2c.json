@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "guid": "e119921bc06137e2f5b2e8eb4c4465e8",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Super Metroid (SSF 69)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1284066-m-44753365592b41c002210aa75ed650d9.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:46:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Super Metroid: Der SNES-Klassiker und Ursprung des Metroidvania-Genres im Rückblick.",
+  "kurzfassung": "Super Metroid gilt bis heute als Meilenstein der 16-Bit-Ära und prägte maßgeblich das nach ihm benannte Metroidvania-Genre. Die Hosts beleuchten die bewegte Entwicklungsgeschichte bei Nintendo unter großem Termindruck, die atmosphärische Spielwelt und die motivierende Stärkeprogression. Dabei werden neben Stärken wie dem wortlosen Storytelling auch Frustmomente bei Steuerung und Rätseln nicht ausgespart.",
+  "stichpunkte": [
+    "Super Metroid ging als klarer Sieger aus einem Hörer-Voting gegen Castlevania-Titel hervor.",
+    "Die Entwicklung unter Yoshio Sakamoto war von enormem Crunch und Zeitdruck geprägt.",
+    "Das Spiel verzichtet nach einem filmhaften Intro komplett auf Text und erklärt Mechaniken wortlos über die Spielwelt.",
+    "Zentrales Gameplay-Element ist eine nicht-lineare Stärkeprogression durch neue Waffen, Anzüge und Bewegungsfähigkeiten.",
+    "Versteckte Spezialmanöver wie der Wandsprung oder der Scheinspark werden dem Spieler durch Beobachtung anderer Kreaturen vermittelt.",
+    "Die Spielwelt teilt sich in markante Areale wie Brinstar, Norfair oder das stimmungsvolle Schiffswrack auf.",
+    "Frustrierende Passagen wie der Treibsand in Meridia und präzise Steuerungsanforderungen trüben den ansonsten hervorragenden Eindruck stellenweise.",
+    "Ein tragisches Finale mit einem Metroid-Baby und einer adrenalingeladenen Fluchtsequenz runden das Abenteuer ab."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung: Das Ende von Metroid (1986)",
+      "start": 27.0
+    },
+    {
+      "titel": "Samus in Super Metroid",
+      "start": 132.0
+    },
+    {
+      "titel": "Das Abstimmungsergebnis",
+      "start": 165.0
+    },
+    {
+      "titel": "Super Metroid und die Metroidvania-Formel",
+      "start": 303.0
+    },
+    {
+      "titel": "Die Entstehungsgeschichte: Yoshio Sakamoto",
+      "start": 507.0
+    },
+    {
+      "titel": "Das erste Metroid entsteht",
+      "start": 673.0
+    },
+    {
+      "titel": "Metroid 2 für den Game Boy",
+      "start": 866.0
+    },
+    {
+      "titel": "Die Entscheidung für ein drittes Metroid",
+      "start": 908.0
+    },
+    {
+      "titel": "Wenig Erfahrung mit dem SNES",
+      "start": 1082.0
+    },
+    {
+      "titel": "Inspirationen für ein filmhaftes Spiel",
+      "start": 1188.0
+    },
+    {
+      "titel": "Harter Crunch",
+      "start": 1246.0
+    },
+    {
+      "titel": "Die Welt von Metroid",
+      "start": 1385.0
+    },
+    {
+      "titel": "Mother Brain",
+      "start": 1610.0
+    },
+    {
+      "titel": "Das Intro: Raumstation Ceres",
+      "start": 1658.0
+    },
+    {
+      "titel": "Alarm auf der Station",
+      "start": 1734.0
+    },
+    {
+      "titel": "Ridley greift an!",
+      "start": 1764.0
+    },
+    {
+      "titel": "Flucht aus der Station",
+      "start": 1799.0
+    },
+    {
+      "titel": "Zurück nach Zebes",
+      "start": 1838.0
+    },
+    {
+      "titel": "Filmhafte Inszenierung",
+      "start": 1889.0
+    },
+    {
+      "titel": "Ankunft auf Zebes",
+      "start": 2039.0
+    },
+    {
+      "titel": "Die Ruinen der Piratenfestung",
+      "start": 2211.0
+    },
+    {
+      "titel": "Der Morphball",
+      "start": 2293.0
+    },
+    {
+      "titel": "Die Festung erwacht",
+      "start": 2333.0
+    },
+    {
+      "titel": "Die ersten Gegner",
+      "start": 2361.0
+    },
+    {
+      "titel": "Die Raketen als Extrawaffe",
+      "start": 2520.0
+    },
+    {
+      "titel": "Erkundung, Orientierung und Fortschritt",
+      "start": 2591.0
+    },
+    {
+      "titel": "Samus' Ausrüstung und deren Bedeutung",
+      "start": 2819.0
+    },
+    {
+      "titel": "Fortschritt auf mehreren Ebenen",
+      "start": 3037.0
+    },
+    {
+      "titel": "Das Inventar",
+      "start": 3185.0
+    },
+    {
+      "titel": "Verschiedene Schutzschilde",
+      "start": 3244.0
+    },
+    {
+      "titel": "Wie das Spiel Spezialmanöver erklärt",
+      "start": 3335.0
+    },
+    {
+      "titel": "Spezialmanöver aus dem \"Attract Mode\"",
+      "start": 3596.0
+    },
+    {
+      "titel": "Visualisierter Fortschritt: Der Statuenraum",
+      "start": 3673.0
+    },
+    {
+      "titel": "Atmosphärisches Design: Das Raumschiff-Wrack",
+      "start": 3835.0
+    },
+    {
+      "titel": "Phantoon",
+      "start": 3919.0
+    },
+    {
+      "titel": "Chozo-Ruinen und Statuen",
+      "start": 3989.0
+    },
+    {
+      "titel": "Der Adventure-Anteil: Erinnern, Erkunden, Rätseln",
+      "start": 4034.0
+    },
+    {
+      "titel": "Das Problem mit der Bewegung",
+      "start": 4240.0
+    },
+    {
+      "titel": "Der Treibsand, dieser verfluchte Treibsand",
+      "start": 4549.0
+    },
+    {
+      "titel": "Der Weg zum Spring Ball",
+      "start": 4626.0
+    },
+    {
+      "titel": "Die Regionen von Zebes",
+      "start": 4752.0
+    },
+    {
+      "titel": "Ach Mensch, Maridia",
+      "start": 4780.0
+    },
+    {
+      "titel": "Fabians bessere Lösung für den Spring Ball",
+      "start": 4865.0
+    },
+    {
+      "titel": "Der sprengbare Glastunnel",
+      "start": 4975.0
+    },
+    {
+      "titel": "Die Bosskämpfe: Crocomire",
+      "start": 5148.0
+    },
+    {
+      "titel": "Ein Anflug von Horror: Crocomires grausames Ableben ...",
+      "start": 5210.0
+    },
+    {
+      "titel": "... und kurze Wiederkehr",
+      "start": 5277.0
+    },
+    {
+      "titel": "Bosskampf: Draygon",
+      "start": 5294.0
+    },
+    {
+      "titel": "Bosskampf: Ridley",
+      "start": 5359.0
+    },
+    {
+      "titel": "Wo ist die Metroid-Larve?",
+      "start": 5404.0
+    },
+    {
+      "titel": "Die Metroids sind zurück!",
+      "start": 5450.0
+    },
+    {
+      "titel": "Kampf gegen den Alpha Metroid",
+      "start": 5491.0
+    },
+    {
+      "titel": "Der Endkampf gegen Mother Brain",
+      "start": 5558.0
+    },
+    {
+      "titel": "Mother Brain vs. Alpha Metroid",
+      "start": 5612.0
+    },
+    {
+      "titel": "Unser Metroid opfert sich für uns",
+      "start": 5643.0
+    },
+    {
+      "titel": "Wir zersäbeln das Riesenhirn",
+      "start": 5690.0
+    },
+    {
+      "titel": "Flucht mit Zeitlimit",
+      "start": 5751.0
+    },
+    {
+      "titel": "In Europa: Big Box mit Spieleberater",
+      "start": 5908.0
+    },
+    {
+      "titel": "Wo geht's jetzt weiter?",
+      "start": 6033.0
+    },
+    {
+      "titel": "Unterschiede zu Castlevania: Symphony of the Night",
+      "start": 6078.0
+    },
+    {
+      "titel": "Heuschrecken-Piraten",
+      "start": 6219.0
+    },
+    {
+      "titel": "Die weitere Seriengeschichte: Metroid Fusion (2002) ...",
+      "start": 6317.0
+    },
+    {
+      "titel": "... und Metroid Prime (2002)",
+      "start": 6379.0
+    },
+    {
+      "titel": "Stärken und Schwächen von Metroid Fusion",
+      "start": 6407.0
+    },
+    {
+      "titel": "Metoid: Zero Mission (2004)",
+      "start": 6547.0
+    },
+    {
+      "titel": "Metroid Prime Pinball (2005)",
+      "start": 6574.0
+    },
+    {
+      "titel": "Metroid Prime: Hunters (2006)",
+      "start": 6598.0
+    },
+    {
+      "titel": "Metroid Prime 3 (2007)",
+      "start": 6607.0
+    },
+    {
+      "titel": "Metroid: Other M (2010)",
+      "start": 6622.0
+    },
+    {
+      "titel": "Metroid Prime: Federation Force (2016)",
+      "start": 6634.0
+    },
+    {
+      "titel": "Metroid: Samus Returns (2017)",
+      "start": 6646.0
+    },
+    {
+      "titel": "Metroid Dread (2021)",
+      "start": 6663.0
+    },
+    {
+      "titel": "Fazit",
+      "start": 6710.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:46:51+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 6884,
+  "veroeffentlicht": "2023-12-31T09:11:56+00:00",
+  "beschreibung": "Schon wieder ein Metroidvania - Ceres-ly?\nIn bisherigen Folgen haben die Podcaster bereits Castlevania: Symphony of the Night und Metroid Prime besprochen, aber Christian und Fabian hatten nochmal Lust, sich einen Vertreter des Metroidvania-Genres vorzunehmen. Welcher es sein sollte, haben die Unterstützer entschieden: Aus der Auswahl Super Metroid, Metroid, Super Castlevania, Castlevania III setzte sich Super Metroid durch, der Intelligent Systems' SNES-Titel von 1994, der maßgeblich dazu beitrug, die Regeln des Genres zu codifizieren.\n\nFabian und Chris besprechen das Gameplay, die Vorgeschichte und die Welt von Super Metroid. Reklame: Wir haben im Shop eine hübsche Tasse mit dem Folgenmotiv: https://retroshirty.com/produkt/samus-tasse/\n\nInfos zum Spiel:\n\nThema: Super Metroid, 1994\nPlattform: SNES\nEntwickler:Nintendo R&D1, Intelligent Systems\nPublisher: Nintendo\nGenre: Action-Adventure/Metroidvania\nDesigner: Yoshio Sakamoto, Tomomi Yamane, Makoto Kano\nMusik: Kenji Yamamoto\n\nPodcast-Credits:\n\nSprecher: Fabian Käufer, Christian Schmidt\nAudioproduktion: Johannes DuBois, Christian Schmidt\nTitelgrafik: Paul Schmidt\nIntro, Outro: Nino Kerl (Ansage); Trash80.com (Musik)\n\nUnterstützen: Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen Steady oder Patreon. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen Extra-Content. Mehr von uns: Diese Podcast-Folge gibt es auch auf Youtube, Spotify, als Audio-Datei im Feed und natürlich auf iTunes. Wir freuen uns über Reaktionen und Empfehlungen auf Twitfacegramcord oder wie das heißt. Wir haben auch einen schönen Merch-Shop namens Retro Shirty. Charity: SF ist Fördermitglied im Retrogames e.V. und bei der Hamburger Tafel e.V.",
+  "beschreibung_html": "Schon wieder ein Metroidvania - Ceres-ly?\n<p>In bisherigen Folgen haben die Podcaster bereits <a href=\"https://www.stayforever.de/2017/12/castlevania-super-stay-forever-4/\">Castlevania: Symphony of the Night</a> und <a href=\"https://www.stayforever.de/2020/03/metroid-prime-sf-27/\">Metroid Prime</a> besprochen, aber Christian und Fabian hatten nochmal Lust, sich einen Vertreter des Metroidvania-Genres vorzunehmen. Welcher es sein sollte, haben die Unterstützer entschieden: Aus der Auswahl Super Metroid, Metroid, Super Castlevania, Castlevania III setzte sich Super Metroid durch, der Intelligent Systems' SNES-Titel von 1994, der maßgeblich dazu beitrug, die Regeln des Genres zu codifizieren. </p>\n<p><br>\n<p>Fabian und Chris besprechen das Gameplay, die Vorgeschichte und die Welt von Super Metroid. Reklame: Wir haben im Shop eine hübsche Tasse mit dem Folgenmotiv: <a href=\"https://retroshirty.com/produkt/samus-tasse/\">https://retroshirty.com/produkt/samus-tasse/</a><p></p>\n<p>\n\n<hr />\n<strong>Infos zum Spiel:</strong><br /><br /></p>\n<p><strong>Thema:</strong> Super Metroid, 1994<strong><br />Plattform:</strong> SNES<strong><br />Entwickler:</strong>Nintendo R&D1, Intelligent Systems<strong><br />Publisher:</strong> Nintendo<br /><strong> Genre:</strong> Action-Adventure/Metroidvania<strong><br />Designer: </strong>Yoshio Sakamoto, Tomomi Yamane, Makoto Kano<br /><strong>Musik:</strong> Kenji Yamamoto<br /><br /></p>\n<!-- /wp:html -->\n<p><hr /><!-- wp:html --></p>\n<p><strong>Podcast-Credits:</strong></p>\n<!-- /wp:html -->\n<!-- wp:html -->\n<p><b>Sprecher:</b> Fabian Käufer, Christian Schmidt<br /><b>Audioproduktion:</b> Johannes DuBois, Christian Schmidt<br /><b> Titelgrafik:</b> Paul Schmidt<br /><b> Intro, Outro:</b> Nino Kerl (Ansage); Trash80.com (Musik)</p>\n<hr />\n<p><strong>Unterstützen:</strong> Die Entstehung dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> oder <a href=\"https://www.patreon.com/stayforever\">Patreon</a>. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen <strong>Extra-Content</strong>. <strong> Mehr von uns:</strong> Diese Podcast-Folge gibt es auch auf <a href=\"https://www.youtube.com/playlist?list=PLk81FXjsqZvcFtNnm0lzwJ_9EoD1q1td5\">Youtube</a>, <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, als Audio-Datei <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">im Feed</a> und natürlich auf <a href=\"https://itunes.apple.com/de/podcast/stay-forever/id461077931?mt=2\">iTunes</a>. Wir freuen uns über Reaktionen und Empfehlungen auf <a href=\"https://twitter.com/stayforeverDE\">Twit</a><a href=\"https://www.facebook.com/StayForeverPodcast/\">face</a><a href=\"https://www.instagram.com/stay_forever_podcast/\">gram</a><a href=\"https://stayforever.de/discord\">cord</a> oder wie das heißt. Wir haben auch einen schönen <a href=\"https://retroshirty.com\">Merch-Shop namens Retro Shirty</a>. <strong> Charity:</strong> SF ist Fördermitglied im <a href=\"https://www.retrogames.info/\">Retrogames e.V.</a> und bei der <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a></p>\n<hr />\n<p>&nbsp;</p>\n<!-- /wp:paragraph -->",
+  "untertitel": "Schon wieder ein Metroidvania - Ceres-ly?",
+  "bild_url": "https://images.podigee-cdn.net/0x,s0HtnvKbo3AmWRs5-bXGJmUmiGlME8zIDkwIHqd8yhmA=/https://main.podigee-cdn.net/uploads/u4307/dc73d94b-480f-488b-b729-80286e07138d.jpg",
+  "folgennummer": 385,
+  "kapitel_quelle": "betreiber"
+}

@@ -1,0 +1,15 @@
+# Erzeugt von werkzeuge/veroeffentlichen.py - nicht von Hand aendern.
+#
+# Eine Stunde auf den Verzeichnissen, weil dem App-Chat am 19.08.2026
+# zugesagt wurde, dass ein Betreiberwiderspruch binnen einer Stunde
+# wirkt: Widersprochen wird einer Show, und aus dem Verzeichnis
+# verschwindet sie. Die Folgendateien duerfen laenger liegen, sie
+# aendern sich seltener und sind ohne Verzeichnis nicht auffindbar.
+/v1/show/*
+  Cache-Control: public, max-age=3600
+
+/v1/index.json
+  Cache-Control: public, max-age=3600
+
+/v1/episode/*
+  Cache-Control: public, max-age=21600

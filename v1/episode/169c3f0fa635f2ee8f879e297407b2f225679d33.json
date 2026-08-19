@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "guid": "1cb3b00dc1482e8c108c8303a65348d8",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Unser Megaprojekt",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2540091-m-ba4df785c25b2f38660b1bff71b24a27.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:36:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Stay Forever startet eine eigene Plattform für mehr Unabhängigkeit von US-Diensten.",
+  "kurzfassung": "Der Podcast Stay Forever hat eine komplett neue, eigenentwickelte Webseite und Plattform gelauncht, um unabhängiger von Drittanbietern wie Patreon, Steady oder YouTube zu werden. Nutzerinnen und Nutzer können dort Podcasts hören, in einem flexiblen Feed-Builder eigene RSS-Feeds erstellen und unkompliziert Abos verwalten. Bisherige Abonnenten von Patreon und Steady können ohne finanzielle Nachteile auf die neue Plattform umziehen.",
+  "stichpunkte": [
+    "Relaunch der Plattform stayforever.de zur Steigerung von Unabhängigkeit und Datenschutz",
+    "Probleme mit Drittplattformen wie ungelöste Bugs, fehlende Features und Zensur bei Zitatrechten gaben den Anstoß",
+    "Neue Website bietet integrierten Player mit Zoom für Kapitelbilder, verbesserten Dark Mode und Daten-Hosting in Deutschland",
+    "Kostenloser Account ermöglicht den neuen 'Feed-Builder' für individuell zusammengestellte RSS-Feeds",
+    "Unterstützer-Abos können nahtlos auf die eigene Plattform migriert werden; bestehende Restlaufzeiten werden angerechnet",
+    "Technischer Stack basiert auf Svelte/SvelteKit, Redis, Postgres und S3-kompatiblem Object-Storage",
+    "Verzicht auf Cookie-Banner durch konsequente Vermeidung von externem Tracking",
+    "Patreon und Steady bleiben parallel bestehen, erhalten aber nicht alle neuen Features",
+    "Hausmeisterei: Das physische 'Stay Forever Journal' erscheint im Juli als exklusives Goodie für exzentrische Großmäzene"
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "Warum machen wir unsere eigene Plattform?",
+      "start": 92.0
+    },
+    {
+      "titel": "Das neue stayforever.de",
+      "start": 392.0
+    },
+    {
+      "titel": "1) Neue Funktionen für Webseiten-Besucher",
+      "start": 428.0
+    },
+    {
+      "titel": "2) Neue Funktionen mit dem kostenlosen Account",
+      "start": 593.0
+    },
+    {
+      "titel": "3) Unterstützer-Abo direkt über stayforever.de",
+      "start": 726.0
+    },
+    {
+      "titel": "Wer hat diese Plattform gebaut?",
+      "start": 947.0
+    },
+    {
+      "titel": "Was tun, falls ihr euer Abo umziehen wollt?",
+      "start": 1674.0
+    },
+    {
+      "titel": "Zwei Einschränkungen",
+      "start": 1928.0
+    },
+    {
+      "titel": "Wann geht's los? Jetzt!",
+      "start": 2021.0
+    },
+    {
+      "titel": "Unterstützer-Goodie im Juli: das SF-Journal",
+      "start": 2136.0
+    },
+    {
+      "titel": "Kommt vorbei: www.stayforever.de",
+      "start": 2422.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:36:41+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2448,
+  "veroeffentlicht": "2026-07-08T10:00:00+00:00",
+  "beschreibung": "Stay Forever wird unabhängig(er)!\nWenn ihr das hier lest, ist stayforever.de in neuem Glanz online. Die alte, schon auf dem letzten Loch pfeifende Wordpress-Seite ist Geschichte, nur das Forum ist übriggeblieben.\n\nDie neue Seite ist ein Eigenbau, kein vorgefertigtes CMS, von uns und für uns gebaut. Sie hat viele schöne Features, vor allem aber enthält sie unter der Haube eine komplette Membership-Plattform, sie kann Podcasts und andere Inhalte ausspielen, Mitgliedschaften und Abos verwalten, Paymentfunktionen übernehmen, und so weiter. Alles aus einer Hand, alles DSGVO-konform gehostet in Deutschland.\n\nWarum das nötig war, was am Ende den Ausschlag gab und wie ein Kaffeegespräch plötzlich zum Megaprojekt wurde, erzählen wir in dieser Folge – zusammen mit Jo und Paul, die die Plattform programmiert und designt haben.\n\nAchtung: Wir schalten die Mitgliedschaften auf Patreon, Steady und Youtube nicht ab, das ist alles weiterhin möglich. Wir schreiben euch nichts vor, aber wir glauben, dass wir mit der neuen Plattform ein besseres Angebot machen können. Wer sich für einen Wechsel entschließt, muss auch nichts aufgeben: Wir rechnen bereits bezahlte Zeit auf Patreon/Steady an, wenn ihr direkt zu uns wechselt.\n\nReinhören lohnt sich – vielleicht nicht nur für alle Stay-Forever-Fans und -Unterstützende, sondern für jeden, der wissen will, was es bedeutet, sein eigenes kleines Podcast-Imperium technisch neu aufzuziehen.\n\nMehr Infos auf stayforever.de",
+  "beschreibung_html": "Stay Forever wird unabhängig(er)!\n<p>Wenn ihr das hier lest, ist stayforever.de in neuem Glanz online. Die alte, schon auf dem letzten Loch pfeifende Wordpress-Seite ist Geschichte, nur das Forum ist übriggeblieben.</p>\n<p>Die neue Seite ist ein Eigenbau, kein vorgefertigtes CMS, von uns und für uns gebaut. Sie hat viele schöne Features, vor allem aber enthält sie unter der Haube eine komplette Membership-Plattform, sie kann Podcasts und andere Inhalte ausspielen, Mitgliedschaften und Abos verwalten, Paymentfunktionen übernehmen, und so weiter. Alles aus einer Hand, alles DSGVO-konform gehostet in Deutschland.</p>\n<p>Warum das nötig war, was am Ende den Ausschlag gab und wie ein Kaffeegespräch plötzlich zum Megaprojekt wurde, erzählen wir in dieser Folge – zusammen mit Jo und Paul, die die Plattform programmiert und designt haben.</p>\n<p>Achtung: Wir schalten die Mitgliedschaften auf Patreon, Steady und Youtube nicht ab, das ist alles weiterhin möglich. Wir schreiben euch nichts vor, aber wir glauben, dass wir mit der neuen Plattform ein besseres Angebot machen können. Wer sich für einen Wechsel entschließt, muss auch nichts aufgeben: Wir rechnen bereits bezahlte Zeit auf Patreon/Steady an, wenn ihr direkt zu uns wechselt.</p>\n<p>Reinhören lohnt sich – vielleicht nicht nur für alle Stay-Forever-Fans und -Unterstützende, sondern für jeden, der wissen will, was es bedeutet, sein eigenes kleines Podcast-Imperium technisch neu aufzuziehen.</p>\n<p>Mehr Infos auf stayforever.de</p>",
+  "untertitel": "Stay Forever wird unabhängig(er)!",
+  "bild_url": "https://images.podigee-cdn.net/0x,scHQ_o_88n3x-o9kul0R2FsYg6qzDnayOAWObeG8bNVs=/https://main.podigee-cdn.net/uploads/u4307/2c38e6cd-4572-41f8-9d34-bf9e3c8d31e0.jpeg",
+  "folgennummer": 514,
+  "kapitel_quelle": "betreiber"
+}

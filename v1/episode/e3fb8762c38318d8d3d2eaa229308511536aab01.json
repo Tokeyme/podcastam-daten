@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "guid": "0b26278c9ba2478ba539d527cd8afd4a",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Final Fantasy 5 (SSF 95)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2458527-m-d94c4094a86cae0c0ae812e48b5de7fa.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:37:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Rückblick auf Final Fantasy V und sein innovatives Job-System.",
+  "kurzfassung": "Die Hosts besprechen den Super-NES-Klassiker Final Fantasy V aus dem Jahr 1992, der trotz seines enormen Erfolgs damals nicht im Westen erschien. Im Mittelpunkt stehen das komplexe Job-System, das taktische Kampfsystem und die Erzählstruktur des Spiels. Dabei beleuchten sie sowohl die Stärken der mechanischen Vielfalt als auch den teils frustrierenden Schwierigkeitsgrad und das konventionelle Ende.",
+  "stichpunkte": [
+    "Final Fantasy V erschien Ende 1992 in Japan für das Super NES und kam wegen befürchteter Komplexität zunächst nicht in den Westen.",
+    "Das Kernmerkmal des Spiels ist das flexible Job-System, das den Charakteren klassenunabhängige Berufswechsel ermöglicht.",
+    "Das Active Time Battle System (ATB) sorgt für eine dynamische, taktische Komponente in den rundenbasierten Kämpfen.",
+    "Die Story dreht sich um eine Heldengruppe und die Zerstörung der Elementarkristalle durch den Antagonisten Exdeath.",
+    "Das Spiel fordert die Spielerschaft durch Bosskämpfe als taktische Rätsel heraus, die gezielte Vorbereitung erfordern.",
+    "Im Vergleich zum Vorgänger liegt ein stärkerer Fokus auf Inszenierung und Slapstick-Elementen.",
+    "Der Tod des Charakters Galuf und dessen Ersetzung durch seine Enkelin Krille markieren dramatische Wendepunkte.",
+    "Die Pixel-Remaster-Versionen bieten heute den zugänglichsten Weg, das Spiel auf modernen Plattformen nachzuholen."
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 27.0
+    },
+    {
+      "titel": "- Ein typisches 16-Bit-Rollenspiel?",
+      "start": 152.0
+    },
+    {
+      "titel": "- Erkundung und Erzählung ...",
+      "start": 223.0
+    },
+    {
+      "titel": "- ... und Taktikkämpfe",
+      "start": 264.0
+    },
+    {
+      "titel": "- Kristalle und Weltenrettung",
+      "start": 287.0
+    },
+    {
+      "titel": "ENTSTEHUNGSGESCHICHTE",
+      "start": 410.0
+    },
+    {
+      "titel": "- Final Fantasy (1987)",
+      "start": 545.0
+    },
+    {
+      "titel": "- Parallel-Entwicklung fürs Super Famicom",
+      "start": 581.0
+    },
+    {
+      "titel": "- Das NES-Spiel wird eingestellt",
+      "start": 688.0
+    },
+    {
+      "titel": "- Das Entwicklungsteam um Hironobi Sakaguchi",
+      "start": 829.0
+    },
+    {
+      "titel": "- Yoshinori Kitase kommt als Designer an Bord",
+      "start": 1040.0
+    },
+    {
+      "titel": "- Verschmelzung von Elementen aus Final Fantasy 3 und 4",
+      "start": 1233.0
+    },
+    {
+      "titel": "- Kostüme für jeden Job",
+      "start": 1432.0
+    },
+    {
+      "titel": "- Zahlreiche neue Magietypen",
+      "start": 1510.0
+    },
+    {
+      "titel": "- Musik von Nobuo Uematsu",
+      "start": 1578.0
+    },
+    {
+      "titel": "- Ein großer Erfolg in Japan",
+      "start": 1682.0
+    },
+    {
+      "titel": "- Final Fantasy Mystic Quest als Lückenfüller (1992)",
+      "start": 1869.0
+    },
+    {
+      "titel": "SZENARIO UND CHARAKTERE",
+      "start": 2023.0
+    },
+    {
+      "titel": "- Auftakt des Spiels",
+      "start": 2032.0
+    },
+    {
+      "titel": "- Kometeneinschlag!",
+      "start": 2059.0
+    },
+    {
+      "titel": "- Lenna",
+      "start": 2092.0
+    },
+    {
+      "titel": "- Galuf",
+      "start": 2137.0
+    },
+    {
+      "titel": "- Faris",
+      "start": 2166.0
+    },
+    {
+      "titel": "- Die Gruppe geht auf Reise",
+      "start": 2182.0
+    },
+    {
+      "titel": "- Fünfte Spielfigur: Krile",
+      "start": 2348.0
+    },
+    {
+      "titel": "- Rettet die Elementarkristalle!",
+      "start": 2455.0
+    },
+    {
+      "titel": "- Der Bösewicht: Exdeath",
+      "start": 2503.0
+    },
+    {
+      "titel": "- Die Macht der Kristallsplitter",
+      "start": 2566.0
+    },
+    {
+      "titel": "- Geheimnisse der Spielwelt und der Charaktere",
+      "start": 2727.0
+    },
+    {
+      "titel": "- Der Faris-Twist",
+      "start": 2848.0
+    },
+    {
+      "titel": "- Keine romantischen Beziehungen",
+      "start": 3083.0
+    },
+    {
+      "titel": "- Egalität und Flexibilität in den Charakterrollen",
+      "start": 3110.0
+    },
+    {
+      "titel": "ROLLENSPIELSYSTEM UND KÄMPFE",
+      "start": 3183.0
+    },
+    {
+      "titel": "- Das Jobsystem als zentrales taktisches Spielelement",
+      "start": 3322.0
+    },
+    {
+      "titel": "- Fülle von Jobs mit jeweiligen Entwicklungsstufen",
+      "start": 3476.0
+    },
+    {
+      "titel": "- Effekt und Bedeutung der Jobs",
+      "start": 3688.0
+    },
+    {
+      "titel": "- Der \"Freelancer\"-Job",
+      "start": 3862.0
+    },
+    {
+      "titel": "- Jobs lassen sich vermischen",
+      "start": 3911.0
+    },
+    {
+      "titel": "- Limitierungen bei der Ausrüstung",
+      "start": 4052.0
+    },
+    {
+      "titel": "- Das \"Active Time Battle\"-System",
+      "start": 4160.0
+    },
+    {
+      "titel": "- Kämpfe als Rätselherausforderungen",
+      "start": 4338.0
+    },
+    {
+      "titel": "- Untote Gegner",
+      "start": 4505.0
+    },
+    {
+      "titel": "- Das Schloss von Walse",
+      "start": 4529.0
+    },
+    {
+      "titel": "- Wie besiegt man einen Jackanape?",
+      "start": 4554.0
+    },
+    {
+      "titel": "- Wie besiegt man Purobolos?",
+      "start": 4708.0
+    },
+    {
+      "titel": "- Besondere Herausforderungen in Bosskämpfen",
+      "start": 4790.0
+    },
+    {
+      "titel": "- Enorme Gegnervielfalt",
+      "start": 4985.0
+    },
+    {
+      "titel": "- Micromanagement vs. Grind",
+      "start": 5035.0
+    },
+    {
+      "titel": "- Beispiele für starke Fähigkeiten: Beschwörungen ...",
+      "start": 5190.0
+    },
+    {
+      "titel": "- ... Zeitmagie ...",
+      "start": 5291.0
+    },
+    {
+      "titel": "- ... und Geld auf das Problem werfen",
+      "start": 5342.0
+    },
+    {
+      "titel": "- Einkaufen und Verkaufen",
+      "start": 5460.0
+    },
+    {
+      "titel": "- Blutschwert-Schnellschuss-Kombo",
+      "start": 5577.0
+    },
+    {
+      "titel": "ERZÄHLSTRUKTUR UND INSZENIERUNG",
+      "start": 5754.0
+    },
+    {
+      "titel": "- Die dritte Welt",
+      "start": 5818.0
+    },
+    {
+      "titel": "- Verschiedene Transportmittel",
+      "start": 5903.0
+    },
+    {
+      "titel": "- Wo geht's jetzt weiter ...?",
+      "start": 5959.0
+    },
+    {
+      "titel": "- Open World in Akt 3",
+      "start": 6010.0
+    },
+    {
+      "titel": "- Der knackige letzte Spielabschnitt",
+      "start": 6053.0
+    },
+    {
+      "titel": "- Brutaler Endkampf",
+      "start": 6168.0
+    },
+    {
+      "titel": "- Schnelle, flexible Reisemöglichkeiten",
+      "start": 6194.0
+    },
+    {
+      "titel": "- Slapstick und Situationskomik",
+      "start": 6299.0
+    },
+    {
+      "titel": "- Erzählszenen, die man verpassen kann",
+      "start": 6354.0
+    },
+    {
+      "titel": "- Actionreiche Inszenierung",
+      "start": 6405.0
+    },
+    {
+      "titel": "- Cartoonhafte Momente",
+      "start": 6494.0
+    },
+    {
+      "titel": "- Die Ballszene",
+      "start": 6531.0
+    },
+    {
+      "titel": "- Fang das Seil!",
+      "start": 6595.0
+    },
+    {
+      "titel": "- Geringe Erzähltiefe, wenig Charakterentwicklung",
+      "start": 6644.0
+    },
+    {
+      "titel": "- Galufs Todesszene",
+      "start": 6796.0
+    },
+    {
+      "titel": "- Galuf kämpft gegen Exdeath",
+      "start": 6851.0
+    },
+    {
+      "titel": "- Galufs Tod",
+      "start": 6902.0
+    },
+    {
+      "titel": "- Andere emotionale Momente",
+      "start": 7001.0
+    },
+    {
+      "titel": "- Das Ende: Alles wieder wie vorher",
+      "start": 7143.0
+    },
+    {
+      "titel": "FAZIT",
+      "start": 7334.0
+    },
+    {
+      "titel": "- Ein Experiment in maximaler Flexibilität",
+      "start": 7461.0
+    },
+    {
+      "titel": "- Verfestigung der Formel",
+      "start": 7651.0
+    },
+    {
+      "titel": "- Varianten von Final Fantasy 5 für den Westen",
+      "start": 7910.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:37:49+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 8065,
+  "veroeffentlicht": "2026-04-19T15:59:32+00:00",
+  "beschreibung": "Kri-le, Creil oder Crei-li?\nWorum geht's? Mit Final Fantasy V erscheint Ende 1992 auf dem SNES in Japan ein Rollenspiel, das in Europa und Nordamerika lange Zeit gar nicht offiziell erhältlich ist. Dabei steckt hinter der unscheinbaren 16-Bit-Oberfläche eines der komplexesten Kampfsysteme der Serie: das Job-System, das es den Spielerinnen und Spielern erlaubt, ihre vier Helden frei mit Klassen und Fähigkeiten auszustatten, vom Ritter über den Mystischen Ritter bis hin zum Tänzer oder Glücksspieler. Die Kombinationsmöglichkeiten sind enorm, die Herausforderungen entsprechend knackig.\n\nChris und Fabian sprechen in dieser Folge über die Entstehungsgeschichte des Spiels, über die schwierige Entscheidung, Final Fantasy V nicht in den Westen zu bringen, und über die turbulente Entwicklung unter der Doppelbelastung des Teams, das gleichzeitig an zwei Projekten arbeitete. Außerdem geht es um die Geschichte rund um Bartz, Lenna, Faris und Garloff, die gemeinsam die Elementarkristalle vor dem Bösewicht Exdeath schützen wollen, um die Stärken und Schwächen des Job-Systems in der Praxis – und um die Frage, warum das Spiel trotz seines spielerischen Reichtums erzählerisch an Grenzen stößt. Ein Blick auf einen oft unterschätzten Teil der Reihe, der zwischen zwei der bekanntesten Final-Fantasy-Spiele steht.\n\nInfos zum Spiel:\n\nThema: Final Fantasy V\n\nErscheinungstermin: Dezember 1992 (Japan)\n\nPlattform: SNES (später u.a. PlayStation, Game Boy Advance, Mobile, PC)\n\nEntwickler: Square\n\nPublisher: Square\n\nGenre: Rollenspiel\n\nDesigner: Hironobu Sakaguchi, Hiroyuki Ito u.a.\n\nMusik: Nobuo Uematsu\n\nProduktions-Credits:\n\nSprecher, Redaktion: Fabian Käufer, Christian Schmidt\n\nAudioproduktion: Fabian Langer, Christian Schmidt\n\nTitelgrafik: Paul Schmidt\n\nIntro & Outro: Nino Kerl (Ansage); Trash80.com (Musik)\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon - einen Überblick über das Archiv an Folgen gibt es hier: klick.\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf www.stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützende. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv den Retrogames e.V., die Hamburger Tafel e.V., das Internet Archive und Wikipedia.",
+  "beschreibung_html": "Kri-le, Creil oder Crei-li?\n<p><strong>Worum geht's?</strong> Mit <strong>Final Fantasy V</strong> erscheint Ende 1992 auf dem SNES in Japan ein Rollenspiel, das in Europa und Nordamerika lange Zeit gar nicht offiziell erhältlich ist. Dabei steckt hinter der unscheinbaren 16-Bit-Oberfläche eines der komplexesten Kampfsysteme der Serie: das Job-System, das es den Spielerinnen und Spielern erlaubt, ihre vier Helden frei mit Klassen und Fähigkeiten auszustatten, vom Ritter über den Mystischen Ritter bis hin zum Tänzer oder Glücksspieler. Die Kombinationsmöglichkeiten sind enorm, die Herausforderungen entsprechend knackig.\n<br>\nChris und Fabian sprechen in dieser Folge über die Entstehungsgeschichte des Spiels, über die schwierige Entscheidung, Final Fantasy V nicht in den Westen zu bringen, und über die turbulente Entwicklung unter der Doppelbelastung des Teams, das gleichzeitig an zwei Projekten arbeitete. Außerdem geht es um die Geschichte rund um Bartz, Lenna, Faris und Garloff, die gemeinsam die Elementarkristalle vor dem Bösewicht Exdeath schützen wollen, um die Stärken und Schwächen des Job-Systems in der Praxis – und um die Frage, warum das Spiel trotz seines spielerischen Reichtums erzählerisch an Grenzen stößt. Ein Blick auf einen oft unterschätzten Teil der Reihe, der zwischen zwei der bekanntesten Final-Fantasy-Spiele steht.</p>\n<hr />\n<p><strong>Infos zum Spiel:</strong>\n<br></p>\n<p><strong>Thema: </strong>Final Fantasy V<br>\n<strong>Erscheinungstermin: </strong>Dezember 1992 (Japan)<br>\n<strong>Plattform: </strong>SNES (später u.a. PlayStation, Game Boy Advance, Mobile, PC)<br>\n<strong>Entwickler:</strong> Square<br>\n<strong>Publisher:</strong> Square<br>\n<strong>Genre:</strong> Rollenspiel<br>\n<strong>Designer:</strong> Hironobu Sakaguchi, Hiroyuki Ito u.a.<br>\n<strong>Musik:</strong> Nobuo Uematsu<br></p>\n<hr />\n<p><strong>Produktions-Credits:</strong><br><br></p>\n<p><strong>Sprecher, Redaktion: </strong>Fabian Käufer, Christian Schmidt<br>\n<strong>Audioproduktion:</strong> Fabian Langer, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Paul Schmidt<br>\n<strong>Intro &amp; Outro:</strong> Nino Kerl (Ansage); Trash80.com (Musik)<br></p>\n<hr />\n<p><strong>Unterstützung &amp; Interaktion:</strong><br><br></p>\n<p><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.500 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a> - einen Überblick über das Archiv an Folgen gibt es hier: <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">klick</a>.<br></p>\n<p><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"https://stayforever.de\">www.stayforever.de</a> sowie in jeder <a href=\"https://stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a><br></p>\n<p><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.<br></p>\n<p><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützende</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.<br></p>\n<p><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.<br></p>\n<p><b>Spenden:</b> Stay Forever unterstützt aktiv den <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>., die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>.</p>",
+  "untertitel": "Kri-le, Creil oder Crei-li?",
+  "bild_url": "https://images.podigee-cdn.net/0x,sBesSsBv_a7M5QzgUqewNlnr93oAEJY3zVNsQKoKl17M=/https://main.podigee-cdn.net/uploads/u4307/45ca5fd9-e6ef-4e56-86fd-eacd9eeb37e6.jpeg",
+  "schlagworte": [
+    "Square",
+    "SNES",
+    "Nobuo Uematsu"
+  ],
+  "folgennummer": 502,
+  "kapitel_quelle": "betreiber"
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "guid": "59130064854c89c241c16a9ce8812dc9",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Die Musik von Gothic",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1765373-m-92bfd7bfe1ded5154a04ff6832fd2a7b.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:43:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Wie Kai Rosenkranz die Musik und Soundeffekte für den Rollenspiel-Klassiker Gothic schuf.",
+  "kurzfassung": "Der Komponist Kai Rosenkranz erzählt von der Entstehung des prägenden Soundtracks zum Rollenspiel Gothic. Er beschreibt seinen intuitiven Zugang zur Musik, die technischen Hürden mit Microsofts Direct Music Producer und die Zusammenarbeit mit dem Entwicklerstudio Piranha Bytes. Zudem erklärt er anhand konkreter Beispiele aus Minental, Altem und Neuem Lager den Aufbau der adaptiven Musik.",
+  "stichpunkte": [
+    "Kai Rosenkranz kam 1998 als 17-Sechzehnjähriger über frühe Programmierprojekte und einen Studiotermin zu Piranha Bytes.",
+    "Sein Zugang zur Musik ist rein intuitiv und autodidaktisch; klassische Musiktheorie und Noten nutzte er kaum.",
+    "Die Musik für Gothic entstand mit dem Direct Music Producer von Microsoft, einem unausgereiften Tool für interaktive Musik.",
+    "Das System funktionierte wie eine Live-Performance von MIDI-Daten, wodurch Stücke dynamisch und zufallsbasiert zusammengesetzt wurden.",
+    "Die Kompositionen verzichten auf laute Effekthascherei und setzen stattdessen auf eine Mischung aus Melancholie, Bedrohung und Weite.",
+    "Für die Instrumentierung kombinierte Kai ein stark eingeschränktes, 120 Megabyte großes virtuelles Orchester mit selbst eingespielten Samples.",
+    "Neben der Musik war Kai auch für etwa zehn Prozent der Soundeffekte und Kreaturengeräusche verantwortlich, für die er teils selbst ins Mikrofon brüllte."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "Kais Weg zur Musik",
+      "start": 127.0
+    },
+    {
+      "titel": "Start bei Piranha Bytes",
+      "start": 298.0
+    },
+    {
+      "titel": "Herangehensweise an die Musik von Gothic",
+      "start": 502.0
+    },
+    {
+      "titel": "Der DirectMusic Producer",
+      "start": 651.0
+    },
+    {
+      "titel": "Musikbeispiel #1: Das Minental",
+      "start": 843.0
+    },
+    {
+      "titel": "Übergänge zwischen Musikstücken",
+      "start": 1395.0
+    },
+    {
+      "titel": "In Extremo",
+      "start": 1623.0
+    },
+    {
+      "titel": "Musikbeispiel #2: Altes Lager",
+      "start": 1736.0
+    },
+    {
+      "titel": "Instrumente",
+      "start": 2083.0
+    },
+    {
+      "titel": "Wo ist die Mundkarmonika ...",
+      "start": 2200.0
+    },
+    {
+      "titel": "... und wo ist die Maultrommel?",
+      "start": 2242.0
+    },
+    {
+      "titel": "Soundeffekte",
+      "start": 2302.0
+    },
+    {
+      "titel": "Musikbeispiel #3: Neues Lager",
+      "start": 2407.0
+    },
+    {
+      "titel": "Stimmung von Musik und Spielwelt",
+      "start": 2608.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:43:41+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2875,
+  "veroeffentlicht": "2025-01-26T07:00:00+00:00",
+  "beschreibung": "mit Kai Rosenkranz\nIm Rahmen der Recherche zu Gothic haben wir ein Gespräch mit Kai Rosenkranz geführt, dessen interessante Erzählungen zu Musik und Sound des Spiels nicht mehr in die Hauptfolge gepasst haben. Wir haben diesen Teil daher in einem Feature aufgearbeitet, zu dem Kai dann netterweise noch Beispiel zur Musik beigetragen hat, angereichert mit detaillierten Erläuterungen. Das Resultat ist eine hochspannende Audio-Reise durch Produktion des Sounds von Gothic.\n\nPodcast-Credits:\nRedaktion: Christian Schmidt, Kai Rosenkranz\nSchnitt: Christian Schmidt\nGrafik: Johannes DuBois",
+  "beschreibung_html": "mit Kai Rosenkranz\n<p><p>Im Rahmen der Recherche zu Gothic haben wir ein Gespräch mit Kai Rosenkranz geführt, dessen interessante Erzählungen zu Musik und Sound des Spiels nicht mehr in die Hauptfolge gepasst haben. Wir haben diesen Teil daher in einem Feature aufgearbeitet, zu dem Kai dann netterweise noch Beispiel zur Musik beigetragen hat, angereichert mit detaillierten Erläuterungen. Das Resultat ist eine hochspannende Audio-Reise durch Produktion des Sounds von Gothic. </p>\n<hr />\n<p><strong>Podcast-Credits:</strong><br />Redaktion: Christian Schmidt, Kai Rosenkranz<br />Schnitt: Christian Schmidt<br />Grafik: Johannes DuBois<br /></p>",
+  "untertitel": "mit Kai Rosenkranz",
+  "bild_url": "https://images.podigee-cdn.net/0x,sV4a96EGTPdciKlVdQskWXt7wBbrHOqJ_44nDNGYgTQI=/https://main.podigee-cdn.net/uploads/u4307/405b47a0-f29d-4b74-8316-6f532429b7ea.jpg",
+  "schlagworte": [
+    "Piranha Bytes"
+  ],
+  "folgennummer": 443,
+  "kapitel_quelle": "betreiber"
+}

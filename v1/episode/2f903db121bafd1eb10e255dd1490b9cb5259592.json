@@ -1,0 +1,438 @@
+{
+  "schema_version": 1,
+  "guid": "a31aebb83fbd354e3cef87c891b13b14",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Starflight (SF 166)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2560486-m-094ebe1a05f81d95ec156859b8cfb690.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:36:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Rückblick auf das wegweisende Weltraum-Rollenspiel Starflight aus dem Jahr 1986.",
+  "kurzfassung": "Starflight ist ein komplexes Weltraum-Rollenspiel aus dem Jahr 1986 von Binary Systems und Electronic Arts, das die Spieler in eine offene Galaxie entlässt. Der Titel verbindet Ressourcenmanagement, Planetenbergbau und Echtzeitkämpfe mit einer fragmentierten Erzählung und detaillierten Alien-Kulturen. Im Podcast sprechen Gunnar Lott und Christian Schmidt ausführlich über das Gameplay und beleuchten die Entstehungsgeschichte in Interviews mit den Originalentwicklern.",
+  "stichpunkte": [
+    "Handlung: Die Bewohner von Arth entdecken die Überreste einer uralten Kolonie und starten Operation Starflight, um die Galaxie zu erkunden und eine tödliche Bedrohung für ihre Sonne abzuwenden.",
+    "Spielmechanik: Eine Mischung aus Weltraumsimulation, Rollenspiel und Adventure, bei der Spieler Planeten erkunden, Rohstoffe abbauen, Handelswaren sammeln und eine Crew ausbilden.",
+    "Steuerung und Perspektive: Das Spiel bietet ein Brücken-Interface mit Menüs für verschiedene Offiziere, dreidimensionale Planetenansichten im Orbit und fraktal erzeugte Planetenoberflächen.",
+    "Interkultureller Austausch: Die Begegnungen mit verschiedenen Alien-Spezies sind stark durch individuelle Sprachen, Kulturen und langfristige diplomatische Konsequenzen geprägt.",
+    "Entwicklungsgeschichte: Das Spiel wurde von Ambient Designs (später Binary Systems) entwickelt, von Electronic Arts veröffentlicht und litt unter einer langen, prekären Entwicklungszeit von dreieinhalb Jahren.",
+    "Technologie: Starflight nutzt die Programmiersprache Forth und erzeugt das Universum sowie die Planetenoberflächen prozedural aus Seed-Werten.",
+    "Schwierigkeiten und Besonderheiten: Das Spiel speichert den Fortschritt durch das direkte Überschreiben von Spieldateien, was das Erstellen von Backups erfordert, um den Verlust von Spielständen bei einem Tod zu verhindern."
+  ],
+  "kapitel": [
+    {
+      "titel": "EINLEITUNG",
+      "start": 0.0
+    },
+    {
+      "titel": "- Die Packungsrückseite",
+      "start": 36.0
+    },
+    {
+      "titel": "- Star Trek: 25th Anniversary (1992)",
+      "start": 76.0
+    },
+    {
+      "titel": "- Starflight (1986)",
+      "start": 122.0
+    },
+    {
+      "titel": "- Unsere Vorerfahrung mit Starflight",
+      "start": 230.0
+    },
+    {
+      "titel": "DAS SPIEL",
+      "start": 376.0
+    },
+    {
+      "titel": "- Die Ausgangslage im Spiel",
+      "start": 436.0
+    },
+    {
+      "titel": "- Acht Aufgaben",
+      "start": 676.0
+    },
+    {
+      "titel": "- Tödliches Universum",
+      "start": 744.0
+    },
+    {
+      "titel": "- Die Sternenbasis",
+      "start": 825.0
+    },
+    {
+      "titel": "- Crew anheuern und trainieren",
+      "start": 867.0
+    },
+    {
+      "titel": "- Unser Raumschiff",
+      "start": 887.0
+    },
+    {
+      "titel": "- Der News-Ticker",
+      "start": 903.0
+    },
+    {
+      "titel": "- In den Weiten des Weltraums",
+      "start": 922.0
+    },
+    {
+      "titel": "- Begegnung mit Außerirdischen",
+      "start": 951.0
+    },
+    {
+      "titel": "- Erkunden und Sammeln",
+      "start": 974.0
+    },
+    {
+      "titel": "- Blick in die Welt von oben ...",
+      "start": 1027.0
+    },
+    {
+      "titel": "- ... und in den 3D-Raum",
+      "start": 1059.0
+    },
+    {
+      "titel": "- Tastatursteuerung",
+      "start": 1094.0
+    },
+    {
+      "titel": "- Echtzeit-Ablauf",
+      "start": 1191.0
+    },
+    {
+      "titel": "- Bewohnbare Planeten finden",
+      "start": 1238.0
+    },
+    {
+      "titel": "- Was passiert mit den Sonnen?",
+      "start": 1283.0
+    },
+    {
+      "titel": "- Bedrohte Systeme, tote Systeme",
+      "start": 1350.0
+    },
+    {
+      "titel": "- Erste Entdeckungen",
+      "start": 1436.0
+    },
+    {
+      "titel": "- Gunnar trifft die Mechans",
+      "start": 1529.0
+    },
+    {
+      "titel": "- Ein paradisischer Planet",
+      "start": 1683.0
+    },
+    {
+      "titel": "- Notruf von einem Geisterschiff",
+      "start": 1735.0
+    },
+    {
+      "titel": "- Informationen von den Mechans",
+      "start": 1793.0
+    },
+    {
+      "titel": "- Wie die Kommunikation funktioniert",
+      "start": 1875.0
+    },
+    {
+      "titel": "- Chris und die Mechans sind sich nicht grün",
+      "start": 1973.0
+    },
+    {
+      "titel": "- Große Handlungsfreiheit",
+      "start": 2126.0
+    },
+    {
+      "titel": "- Thrynn und Elowan mögen sich nicht",
+      "start": 2168.0
+    },
+    {
+      "titel": "- Stärkeprogression ...",
+      "start": 2275.0
+    },
+    {
+      "titel": "- Räumliche Progression",
+      "start": 2343.0
+    },
+    {
+      "titel": "- Wissensprogression",
+      "start": 2378.0
+    },
+    {
+      "titel": "- Fragmentierte Erzählung",
+      "start": 2500.0
+    },
+    {
+      "titel": "- Deadline (1982)",
+      "start": 2627.0
+    },
+    {
+      "titel": "- Portal (1986)",
+      "start": 2639.0
+    },
+    {
+      "titel": "- Ultima 4 (1985)",
+      "start": 2651.0
+    },
+    {
+      "titel": "- Paradebeispiel einer interaktiven Erfahrung",
+      "start": 2675.0
+    },
+    {
+      "titel": "- Notizen sind unabdingbar",
+      "start": 2716.0
+    },
+    {
+      "titel": "- Absichtliche Reduzierung von Informationen",
+      "start": 2777.0
+    },
+    {
+      "titel": "- Fallstricke der Erkundung",
+      "start": 2950.0
+    },
+    {
+      "titel": "- Die Steuerungs-Idee: Captain auf der Brücke",
+      "start": 3017.0
+    },
+    {
+      "titel": "- Echtzeit-Raumkämpfe",
+      "start": 3147.0
+    },
+    {
+      "titel": "- Landen darf nur der Captain",
+      "start": 3210.0
+    },
+    {
+      "titel": "- Sprachliche Diversität",
+      "start": 3245.0
+    },
+    {
+      "titel": "- Fanatische Gazurtoids",
+      "start": 3310.0
+    },
+    {
+      "titel": "- Angepasstes Vorgehen",
+      "start": 3382.0
+    },
+    {
+      "titel": "- Die Spemin als Comic Relief",
+      "start": 3415.0
+    },
+    {
+      "titel": "- Ein generiertes Universum",
+      "start": 3545.0
+    },
+    {
+      "titel": "- Fraktale Planetenoberflächen",
+      "start": 3590.0
+    },
+    {
+      "titel": "- ... bis auf die Erde",
+      "start": 3629.0
+    },
+    {
+      "titel": "- Die fantastische Lande-Animation",
+      "start": 3649.0
+    },
+    {
+      "titel": "- Vielfältige Planetenoberflächen",
+      "start": 3744.0
+    },
+    {
+      "titel": "- Ein Bündel an Innovationen",
+      "start": 3807.0
+    },
+    {
+      "titel": "ENTSTEHUNGSGESCHICHTE",
+      "start": 3857.0
+    },
+    {
+      "titel": "- Das Team von Binary Systems",
+      "start": 3879.0
+    },
+    {
+      "titel": "- Es beginnt mit Jim Yarbrough",
+      "start": 3995.0
+    },
+    {
+      "titel": "- Alec Kercso kommt an Bord",
+      "start": 4153.0
+    },
+    {
+      "titel": "- Dave Boulton und die Fraktale",
+      "start": 4228.0
+    },
+    {
+      "titel": "- Ein weiterer Programmierer: Bob Gonsalves",
+      "start": 4274.0
+    },
+    {
+      "titel": "- Tim Lee und der Wechsel auf den PC",
+      "start": 4331.0
+    },
+    {
+      "titel": "- Hoffnungsträger PCjr.",
+      "start": 4401.0
+    },
+    {
+      "titel": "- Greg Johnson und ein Design-Coup",
+      "start": 4507.0
+    },
+    {
+      "titel": "- Warum dauert die Entwicklung so lang?",
+      "start": 4848.0
+    },
+    {
+      "titel": "- Tim Lee generiert das Universum",
+      "start": 4957.0
+    },
+    {
+      "titel": "- Ähnlichkeit zu Elite?",
+      "start": 4999.0
+    },
+    {
+      "titel": "- Zwei Linguisten und die Alien-Sprachen",
+      "start": 5041.0
+    },
+    {
+      "titel": "- Wie können die sich das leisten?",
+      "start": 5130.0
+    },
+    {
+      "titel": "- Rückhalt durch Joe Ybarra",
+      "start": 5338.0
+    },
+    {
+      "titel": "- Nachtschicht",
+      "start": 5480.0
+    },
+    {
+      "titel": "- Paul Reiche hilft ein bisschen",
+      "start": 5599.0
+    },
+    {
+      "titel": "- \"Postures\" aus Murder on the Zinderneuf",
+      "start": 5661.0
+    },
+    {
+      "titel": "- Kameradschaft und ein gemeinsames Ziel",
+      "start": 5675.0
+    },
+    {
+      "titel": "- Humor als Ventil",
+      "start": 5738.0
+    },
+    {
+      "titel": "- Das \"Ataraxia\"-Easter-Egg",
+      "start": 5814.0
+    },
+    {
+      "titel": "- Wer ist \"Leigh V. Malone\"?",
+      "start": 5852.0
+    },
+    {
+      "titel": "- Das Spiel erscheint",
+      "start": 5912.0
+    },
+    {
+      "titel": "- Original-CGA vs. Composite vs. EGA",
+      "start": 6019.0
+    },
+    {
+      "titel": "- Das Verhältnis zu EA kühlt ab",
+      "start": 6048.0
+    },
+    {
+      "titel": "- Starflight 2 (1989)",
+      "start": 6207.0
+    },
+    {
+      "titel": "- Erfolg und Nachwirkung",
+      "start": 6290.0
+    },
+    {
+      "titel": "BESONDERHEITEN",
+      "start": 6432.0
+    },
+    {
+      "titel": "- Interkulturelles Lernen",
+      "start": 6701.0
+    },
+    {
+      "titel": "- Selbstverständliche Kolonisierung",
+      "start": 6764.0
+    },
+    {
+      "titel": "- Wissen als Voraussetzung für erfolgreiche Kommunikation",
+      "start": 6800.0
+    },
+    {
+      "titel": "- Ein avantgardistisches Spiel",
+      "start": 6944.0
+    },
+    {
+      "titel": "- Das harsche Speichersystem",
+      "start": 7029.0
+    },
+    {
+      "titel": "- Schon die Anleitung sagt, wie man das umgeht",
+      "start": 7126.0
+    },
+    {
+      "titel": "- Kopierschutz über ein Codewheel",
+      "start": 7239.0
+    },
+    {
+      "titel": "- Fortsetzungsversuche",
+      "start": 7301.0
+    },
+    {
+      "titel": "- Star Control 2 (1992)",
+      "start": 7362.0
+    },
+    {
+      "titel": "- Protostar (1993)",
+      "start": 7368.0
+    },
+    {
+      "titel": "- Fehlende Interaktion mit den Crewmitgliedern",
+      "start": 7396.0
+    },
+    {
+      "titel": "- Auf keinen Fall mit Lösung spielen!",
+      "start": 7517.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:36:23+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 7644,
+  "veroeffentlicht": "2026-07-30T17:22:34+00:00",
+  "beschreibung": "Ein Spiel, das seiner Zeit Lichtjahre voraus war\nWorum geht's? 1986 erschien, nach langer Entwicklungsarbeit bei damals noch nicht so ganz allmächtigen Publisher Electronic Arts ein ungewöhnliches Spiel von einem neuen Team: Starflight, ein Weltraumrollenspiel mit einem gigantischen, frei erforschbaren All voller Geheimnisse und Aliens. Ein ambitioniertes Spiel, dessen Technik und spielerische Tiefe deutlich über das hinausgingen, was zu seiner Zeit machbar erschien. Chris und Gunnar analysieren das Spiel in gewohnter Manier und steigen tief in die Historie ein, wofür sie mit vier der ursprünglichen fünf Entwickler gesprochen haben. Herzlichen Dank an unsere Gesprächspartner für diese Folge: Rod McConnell, Alec Kercso, Greg Johnson und Bob Gonsalves.\n\nDiese Folge enthält englischsprachige Einspieler, die wir mit Synchrosprechern deutsch nachvertont haben.\n\nIn dieser Episode werden die folgenden Musikstücke verwendet, beide über Fesliyan Studios (www.fesliyanstudios.com)):\n\nAirlock (David Robinson), Galaxy's Endless Expanse (David Robinson)",
+  "beschreibung_html": "Ein Spiel, das seiner Zeit Lichtjahre voraus war\n<p>Worum geht's? 1986 erschien, nach langer Entwicklungsarbeit bei damals noch nicht so ganz allmächtigen Publisher Electronic Arts ein ungewöhnliches Spiel von einem neuen Team: Starflight, ein Weltraumrollenspiel mit einem gigantischen, frei erforschbaren All voller Geheimnisse und Aliens. Ein ambitioniertes Spiel, dessen Technik und spielerische Tiefe deutlich über das hinausgingen, was zu seiner Zeit machbar erschien. Chris und Gunnar analysieren das Spiel in gewohnter Manier und steigen tief in die Historie ein, wofür sie mit vier der ursprünglichen fünf Entwickler gesprochen haben. Herzlichen Dank an unsere Gesprächspartner für diese Folge: Rod McConnell, Alec Kercso, Greg Johnson und Bob Gonsalves.</p>\n<p>Diese Folge enthält englischsprachige Einspieler, die wir mit Synchrosprechern deutsch nachvertont haben.</p>\n<p>In dieser Episode werden die folgenden Musikstücke verwendet, beide über Fesliyan Studios (<a href=\"https://www.fesliyanstudios.com\">www.fesliyanstudios.com)</a>):</p>\n<p>Airlock (David Robinson), Galaxy's Endless Expanse (David Robinson)</p>",
+  "untertitel": "Ein Spiel, das seiner Zeit Lichtjahre voraus war",
+  "bild_url": "https://images.podigee-cdn.net/0x,sdu9oTQPstTIb7_ss8GWByt5I_7qKhHmUHuLwDxn8F6I=/https://main.podigee-cdn.net/uploads/u4307/1836a7ad-5327-4a30-94ed-f928293a5cf9.jpeg",
+  "schlagworte": [
+    "Electronic Arts"
+  ],
+  "folgennummer": 518,
+  "kapitel_quelle": "betreiber"
+}

@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "guid": "db8448bae97876dc746d57168197b8aa",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "TI-99/4 (SFT 22-2)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2538181-m-24733a7115f1a2ab6177889f2b9b49fc.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:36:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Der TI-99/4A und sein steiniger Weg im Schatten von Commodore und Atari.",
+  "kurzfassung": "Der Heimcomputer TI-99/4A von Texas Instruments kämpfte nach seiner Markteinführung mit hohen Preisen und mangelnder Software. Trotz später Preissenkungen und starker Verkaufszahlen führten ruinöse Preiskriege und interne Fehler zum Ausstieg von TI aus dem Computermarkt. Dennoch überlebten einige technische Komponenten wie Grafik- und Soundchips in anderen Systemen.",
+  "stichpunkte": [
+    "Hoher Startpreis und unklarer Nutzen des TI-99/4A schränkten den Erfolg zu Beginn ein.",
+    "Die Presse lobte die einfache Bedienung und das Sprachmodul, kritisierte jedoch die Tastatur und das eigenwillige Basic.",
+    "Eine überarbeitete Version (TI-99/4A) senkte den Preis, ließ aber die Kernprobleme des teuren Prozessors ungelöst.",
+    "Commodore startete einen harten Preiskrieg mit dem VC-20, woraufhin TI die Preise bis auf 100 Dollar senkte.",
+    "Eine restriktive Softwarepolitik mit Monopol auf Steckmodule schloss Drittentwickler lange Zeit aus.",
+    "Trotz starker Verkaufszahlen und zeitweiliger Marktführerschaft machte die Heim-Elektronik-Sparte massive Verluste.",
+    "Sicherheitsmängel an Netzteilen und eine drohende FCC-Problematik belasteten das Geschäft zusätzlich.",
+    "1983 zog sich Texas Instruments nach hundert Millionen Dollar Verlust offiziell aus dem Heimcomputermarkt zurück.",
+    "Die verbauten Grafik- und Soundchips hinterließen in anderen Systemen wie dem MSX oder dem Sega Master System ein bleibendes Erbe."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "DER TI-99/A IM MARKT",
+      "start": 35.0
+    },
+    {
+      "titel": "- Wie Texas Instruments den TI-99/A bewarb",
+      "start": 99.0
+    },
+    {
+      "titel": "- Wozu braucht man einen \"Heimcomputer\"?",
+      "start": 162.0
+    },
+    {
+      "titel": "- Presseecho",
+      "start": 282.0
+    },
+    {
+      "titel": "- Der TI-99/A floppt",
+      "start": 501.0
+    },
+    {
+      "titel": "DAS NACHFOLGEMODELL: TI-99/4A",
+      "start": 609.0
+    },
+    {
+      "titel": "- Markteinführung 1981",
+      "start": 769.0
+    },
+    {
+      "titel": "- Verbesserungen am Grafikchip",
+      "start": 895.0
+    },
+    {
+      "titel": "- Einfachere Erweiterbarkeit",
+      "start": 971.0
+    },
+    {
+      "titel": "- Pressestimmen",
+      "start": 1079.0
+    },
+    {
+      "titel": "PREISKRIEG MIT COMMODORE",
+      "start": 1139.0
+    },
+    {
+      "titel": "- Texas Instruments senkt die Preise",
+      "start": 1285.0
+    },
+    {
+      "titel": "- Vereinfachungen und Kosteneinsparung",
+      "start": 1346.0
+    },
+    {
+      "titel": "- Wo ist der Mehrwert?",
+      "start": 1440.0
+    },
+    {
+      "titel": "- Neue Vermarktungsstrategie",
+      "start": 1595.0
+    },
+    {
+      "titel": "- Die Rechnung geht auf ...",
+      "start": 1726.0
+    },
+    {
+      "titel": "- ... aber dann doch nicht",
+      "start": 1842.0
+    },
+    {
+      "titel": "DAS SOFTWARE-PROBLEM",
+      "start": 1981.0
+    },
+    {
+      "titel": "- TI sperrt Drittentwickler aus",
+      "start": 2195.0
+    },
+    {
+      "titel": "- Zu wenig hauseigene Software",
+      "start": 2511.0
+    },
+    {
+      "titel": "- Kurzfristiges Umdenken",
+      "start": 2544.0
+    },
+    {
+      "titel": "- Eine großzügige Beigabe: Tombstone City",
+      "start": 2613.0
+    },
+    {
+      "titel": "- Was wünschen sich die TI-99/4-Benutzer?",
+      "start": 2689.0
+    },
+    {
+      "titel": "- Geht das nicht auch ohne Module ...?",
+      "start": 2820.0
+    },
+    {
+      "titel": "- Schluss mit den Drittmodulen",
+      "start": 2908.0
+    },
+    {
+      "titel": "SPIELE FÜR DEN TI-99/4",
+      "start": 3117.0
+    },
+    {
+      "titel": "- Frühe Spiele von Texas Instruments",
+      "start": 3178.0
+    },
+    {
+      "titel": "- Klone von Arcade-Spielen",
+      "start": 3265.0
+    },
+    {
+      "titel": "- 1983: Mehr Spiele von Drittherstellern",
+      "start": 3326.0
+    },
+    {
+      "titel": "- Offizielle Arcade-Portierungen von Atari",
+      "start": 3399.0
+    },
+    {
+      "titel": "- Ein kleines, aber hochwertiges Portfolio",
+      "start": 3495.0
+    },
+    {
+      "titel": "- Highlight-Spiele: Parsec (1982) ...",
+      "start": 3594.0
+    },
+    {
+      "titel": "- ... und Tunnels of Doom (1982)",
+      "start": 3780.0
+    },
+    {
+      "titel": "- Perspektivwechsel",
+      "start": 3828.0
+    },
+    {
+      "titel": "- Weitere gelungene Spiele",
+      "start": 3888.0
+    },
+    {
+      "titel": "- Henners Geheimtipp: Slymoids",
+      "start": 3928.0
+    },
+    {
+      "titel": "- MB und die MBX-Erweiterung (1983)",
+      "start": 4005.0
+    },
+    {
+      "titel": "- Das MBX kommt zu spät",
+      "start": 4221.0
+    },
+    {
+      "titel": "SCHEITERN UND ENDE DER TI-HEIMCOMPUTER",
+      "start": 4245.0
+    },
+    {
+      "titel": "- Texas Instruments macht Verluste",
+      "start": 4387.0
+    },
+    {
+      "titel": "- Arbeiten an möglichen Nachfolgemodellen",
+      "start": 4491.0
+    },
+    {
+      "titel": "- Texas Instruments zieht sich zurück",
+      "start": 4826.0
+    },
+    {
+      "titel": "- Gründe für das Scheitern",
+      "start": 5023.0
+    },
+    {
+      "titel": "DAS VERMÄCHTNIS DES TI-99/4",
+      "start": 5290.0
+    },
+    {
+      "titel": "- Inoffizielle Nachfolger",
+      "start": 5330.0
+    },
+    {
+      "titel": "- 99/4-Chips in anderen Computern",
+      "start": 5473.0
+    },
+    {
+      "titel": "- TI lebt weiter als Chip-Hersteller",
+      "start": 5566.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:36:46+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 5646,
+  "veroeffentlicht": "2026-07-05T13:08:53+00:00",
+  "beschreibung": "Folge 2 von 2: Commodores Rache\nDies ist Folge 2 von 2. Folge 1 erschien vor einer Woche.\n\nWorum geht's? Nachdem der TI-99/4 endlich fertig entwickelt ist, muss er sich nun auf dem hart umkämpften Heimcomputermarkt beweisen – gegen Tandy, Atari und vor allem gegen Commodore. Henner und Chris erzählen, wie Texas Instruments seinen Rechner vermarktet, warum die Verpackung bewusst auf das technische Kürzel verzichtet und stattdessen groß „Home Computer“ verspricht, und wie sich der Nachfolger 99/4A entwickelt: mit besserer Tastatur, neuem Grafikmodus, aufgebohrter Sprite-Engine, aber auch gnadenlosem Rotstift bei Lautsprecher und Kopfhöreranschluss.\n\nEs geht um die Werbekampagne mit Bill Cosby, der in unzähligen Spots stets denselben Satz wiederholt: „This is the one.“ Um ein teures Rückrufproblem wegen potenziell gefährlicher Netzteile. Und um die immer verzweifeltere Suche nach Software für ein System, dessen exotische Prozessorarchitektur Entwicklerinnen und Entwickler eher abschreckt als einlädt – im Gegensatz etwa zum gut dokumentierten 6502 in Ataris Rechnern. Trotzdem entsteht nach und nach ein überraschend vielfältiges und teils hochwertiges Spieleangebot, nicht zuletzt dank der kreativen Freiheit, die TI seinen eigenen Entwicklerinnen und Entwicklern lässt, und dank externer Partner wie Milton Bradley mit ihrem kuriosen MBX-Erweiterungssystem.\n\nAm Ende dreht sich alles um den ruinösen Preiskampf mit Commodore, der TI schließlich einen Quartalsverlust von 100 Millionen Dollar beschert und die Aktie einbrechen lässt. Noch auf der Sommer-CES 1983 kündigt TI mit dem winzigen TI-99/2 und einem neuen Topmodell einen Neuanfang an – doch beide Projekte werden nie veröffentlicht. Stattdessen zieht sich Texas Instruments im selben Jahr komplett aus dem Heimcomputergeschäft zurück und verramscht die Restbestände für 50 Dollar das Stück. Was bleibt, sind rund 2,8 Millionen verkaufte Geräte weltweit – und ein paar Chips wie der Soundbaustein SN76489, die in vielen anderen Systemen noch lange weiterleben.\n\nProduktions-Credits:\n\nSprecher, Redaktion: Henner Thomsen, Christian Schmidt\n\nAudioproduktion: Johannes DuBois, Christian Schmidt\n\nTitelgrafik: Johannes DuBois\n\nVielen Dank an Karl Guttag und Paul Urbanus.",
+  "beschreibung_html": "Folge 2 von 2: Commodores Rache\n<p>Dies ist Folge 2 von 2. Folge 1 erschien vor einer Woche.</p>\n<p><strong>\nWorum geht's?</strong> Nachdem der TI-99/4 endlich fertig entwickelt ist, muss er sich nun auf dem hart umkämpften Heimcomputermarkt beweisen – gegen Tandy, Atari und vor allem gegen Commodore. Henner und Chris erzählen, wie Texas Instruments seinen Rechner vermarktet, warum die Verpackung bewusst auf das technische Kürzel verzichtet und stattdessen groß „Home Computer“ verspricht, und wie sich der Nachfolger 99/4A entwickelt: mit besserer Tastatur, neuem Grafikmodus, aufgebohrter Sprite-Engine, aber auch gnadenlosem Rotstift bei Lautsprecher und Kopfhöreranschluss.</p>\n<p>Es geht um die Werbekampagne mit Bill Cosby, der in unzähligen Spots stets denselben Satz wiederholt: „This is the one.“ Um ein teures Rückrufproblem wegen potenziell gefährlicher Netzteile. Und um die immer verzweifeltere Suche nach Software für ein System, dessen exotische Prozessorarchitektur Entwicklerinnen und Entwickler eher abschreckt als einlädt – im Gegensatz etwa zum gut dokumentierten 6502 in Ataris Rechnern. Trotzdem entsteht nach und nach ein überraschend vielfältiges und teils hochwertiges Spieleangebot, nicht zuletzt dank der kreativen Freiheit, die TI seinen eigenen Entwicklerinnen und Entwicklern lässt, und dank externer Partner wie Milton Bradley mit ihrem kuriosen MBX-Erweiterungssystem.</p>\n<p>Am Ende dreht sich alles um den ruinösen Preiskampf mit Commodore, der TI schließlich einen Quartalsverlust von 100 Millionen Dollar beschert und die Aktie einbrechen lässt. Noch auf der Sommer-CES 1983 kündigt TI mit dem winzigen TI-99/2 und einem neuen Topmodell einen Neuanfang an – doch beide Projekte werden nie veröffentlicht. Stattdessen zieht sich Texas Instruments im selben Jahr komplett aus dem Heimcomputergeschäft zurück und verramscht die Restbestände für 50 Dollar das Stück. Was bleibt, sind rund 2,8 Millionen verkaufte Geräte weltweit – und ein paar Chips wie der Soundbaustein SN76489, die in vielen anderen Systemen noch lange weiterleben.</p>\n<p><strong>Produktions-Credits:</strong><br><br></p>\n<p><strong>Sprecher, Redaktion: </strong>Henner Thomsen, Christian Schmidt<br>\n<strong>Audioproduktion:</strong> Johannes DuBois, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Johannes DuBois<br><br></p>\n<p>Vielen Dank an Karl Guttag und Paul Urbanus.</p>",
+  "untertitel": "Folge 2 von 2: Commodores Rache",
+  "bild_url": "https://images.podigee-cdn.net/0x,sfJZJu389KeYnZdWJHyvaNhX78UL3mKZQ6xryLEa4Uis=/https://main.podigee-cdn.net/uploads/u4307/a91e4a54-5963-4b4a-9760-a3f79b202395.jpeg",
+  "schlagworte": [
+    "texas instruments",
+    "heimcomputer"
+  ],
+  "folgennummer": 513,
+  "kapitel_quelle": "betreiber"
+}

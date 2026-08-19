@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "guid": "4092c69c039d686bce241e98ad0e91d7",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "DDR-Computer (SFT 14)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1428031-m-8dd2121cbe4f0c98c0be25c6b048f277.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:45:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Die faszinierende Geschichte der Heimcomputer aus der DDR von Robotron und…",
+  "kurzfassung": "Diese Episode beleuchtet die Geschichte der Computertechnik und Heimcomputer in der DDR. Dabei werden die Entwicklungen der Kombinate Robotron und Mikroelektronik sowie die Entstehung der legendären KC-Reihe und deren Spiele beleuchtet. Trotz Mangelwirtschaft und westlicher Embargos entstand so eine lebhafte Szene rund um Rechner wie den KC 85.",
+  "stichpunkte": [
+    "Zitat von Erich Honecker über Ochs und Esel im Zusammenhang mit DDR-Prozessoren",
+    "Historischer Kontext: Planwirtschaft, COCOM-Embargo und der Mangel an westlicher Halbleitertechnik",
+    "Frühe Computerprojekte und die Gründung der Kombinate Robotron in Dresden und Mikroelektronik in Erfurt",
+    "Honeckers Konsumgüterquote zwingt Industriebetriebe und Halbleiterwerke zum Bau von Heimcomputern",
+    "Entwicklung der Eigenbauten und der KC-Reihe (Kleinkomputer) als Bildungs- und Arbeitsmittel statt für den freien Handel",
+    "Die Rolle von Software, Hobbyentwicklern und Spielen wie Pengo, Digger oder Mad Breaking",
+    "Verbreitung von West-Computern wie C64 und Atari sowie der Zugang über Computerclubs und Computerkabinette",
+    "Späte Prestigeprojekte wie der Megabit-Chip und das Ende der DDR-Computerindustrie nach der Wende 1989"
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "Die DDR",
+      "start": 273.0
+    },
+    {
+      "titel": "41 Jahre DDR in 41 Sekunden",
+      "start": 337.0
+    },
+    {
+      "titel": "Die 80er-Jahre im Westen: C64 & Co",
+      "start": 389.0
+    },
+    {
+      "titel": "1947: Der Transistor startet das Computerzeitalter",
+      "start": 437.0
+    },
+    {
+      "titel": "Standortvorteil im Osten: Büromaschinen",
+      "start": 489.0
+    },
+    {
+      "titel": "Erster Digitalrechner: D4A",
+      "start": 661.0
+    },
+    {
+      "titel": "Der erste DDR-Großrechner: Oprema (1954)",
+      "start": 721.0
+    },
+    {
+      "titel": "Das CoCom-Embargo",
+      "start": 781.0
+    },
+    {
+      "titel": "Walter Ulbrichts Aufbrüche ins Digitale",
+      "start": 952.0
+    },
+    {
+      "titel": "Der nächste Großrechner: Robotron 300 (1967)",
+      "start": 1253.0
+    },
+    {
+      "titel": "1969: Das Kombinat Robotron wird gegründet",
+      "start": 1408.0
+    },
+    {
+      "titel": "Standort Dresden",
+      "start": 1534.0
+    },
+    {
+      "titel": "Das Kombinat Mikroelektronik (1978)",
+      "start": 1681.0
+    },
+    {
+      "titel": "Erich Honecker steuert um",
+      "start": 1738.0
+    },
+    {
+      "titel": "Honeckers Konsumgüterquote",
+      "start": 2053.0
+    },
+    {
+      "titel": "Späte 70er: Heimcomputer-Revolution im Westen",
+      "start": 2225.0
+    },
+    {
+      "titel": "DDR-Mikroprozessoren: U808 und U880",
+      "start": 2289.0
+    },
+    {
+      "titel": "Die ersten Mikrocomputer der DDR sind Bürorechner",
+      "start": 2466.0
+    },
+    {
+      "titel": "Dr. Werner Domschke",
+      "start": 2520.0
+    },
+    {
+      "titel": "Die Entwicklung des Z9001",
+      "start": 2618.0
+    },
+    {
+      "titel": "Mühlhausen: Start mit Taschenrechnern",
+      "start": 3111.0
+    },
+    {
+      "titel": "Der Mühlhausener Computer: HC 900",
+      "start": 3239.0
+    },
+    {
+      "titel": "Zwei Computer entstehen parallel",
+      "start": 3445.0
+    },
+    {
+      "titel": "1984: Z9001 und HC 900 kommen auf den Markt",
+      "start": 3648.0
+    },
+    {
+      "titel": "Ausrichtungs- und Namensänderung",
+      "start": 3853.0
+    },
+    {
+      "titel": "Der KC 85/1",
+      "start": 4047.0
+    },
+    {
+      "titel": "Die Technik im KC 85/1",
+      "start": 4169.0
+    },
+    {
+      "titel": "Zeichensatz-Grafik",
+      "start": 4199.0
+    },
+    {
+      "titel": "HC-BASIC",
+      "start": 4280.0
+    },
+    {
+      "titel": "Erweiterbarkeit und Preis",
+      "start": 4440.0
+    },
+    {
+      "titel": "Der Nachfolger: KC 87 (1987)",
+      "start": 4634.0
+    },
+    {
+      "titel": "Bildungscomputer Robotron A 5105 (1989)",
+      "start": 4784.0
+    },
+    {
+      "titel": "Der KC 85/2",
+      "start": 4852.0
+    },
+    {
+      "titel": "Die Technik im KC 85/2",
+      "start": 4919.0
+    },
+    {
+      "titel": "Grafik und Sound",
+      "start": 4950.0
+    },
+    {
+      "titel": "Das Betriebssystem: CAOS",
+      "start": 5071.0
+    },
+    {
+      "titel": "Einschränkungen für Spiele",
+      "start": 5145.0
+    },
+    {
+      "titel": "KC 85/3 (1986)",
+      "start": 5355.0
+    },
+    {
+      "titel": "KC 85/4 (1989)",
+      "start": 5599.0
+    },
+    {
+      "titel": "Verkauf im Westen",
+      "start": 5736.0
+    },
+    {
+      "titel": "KC Compact (1989)",
+      "start": 5894.0
+    },
+    {
+      "titel": "Presse-Reaktionen im Osten ...",
+      "start": 6231.0
+    },
+    {
+      "titel": "... und im Westen",
+      "start": 6497.0
+    },
+    {
+      "titel": "Die Alternative: Computer-Bausätze",
+      "start": 6569.0
+    },
+    {
+      "titel": "Bausatz Z1013 (1985)",
+      "start": 6683.0
+    },
+    {
+      "titel": "Ein Volk lernt programmieren",
+      "start": 6751.0
+    },
+    {
+      "titel": "Die wichtigste Spieleplattform der DDR",
+      "start": 6860.0
+    },
+    {
+      "titel": "René Mayers Buch \"Computer in der DDR\" (2019)",
+      "start": 6970.0
+    },
+    {
+      "titel": "Die Hobby-Entwicklerszene",
+      "start": 7055.0
+    },
+    {
+      "titel": "Kommerzielle Spiele",
+      "start": 7475.0
+    },
+    {
+      "titel": "Das Spieleangebot für die KC-Serie",
+      "start": 7664.0
+    },
+    {
+      "titel": "Bildschirmspiel 01 (1979)",
+      "start": 7902.0
+    },
+    {
+      "titel": "Poly Play (1986)",
+      "start": 7939.0
+    },
+    {
+      "titel": "Online-Emulator: lanale.de",
+      "start": 7991.0
+    },
+    {
+      "titel": "3D-Darstellung in Mazes",
+      "start": 8075.0
+    },
+    {
+      "titel": "Scrolling in Gunship 3000",
+      "start": 8095.0
+    },
+    {
+      "titel": "Popkulturelle Zitate in \"Wüstenplanet\"",
+      "start": 8138.0
+    },
+    {
+      "titel": "Ideologie und Propaganda",
+      "start": 8202.0
+    },
+    {
+      "titel": "Jens Schröders Buch \"Auferstanden aus Platinen\"",
+      "start": 8355.0
+    },
+    {
+      "titel": "Perestroika (1991)",
+      "start": 8444.0
+    },
+    {
+      "titel": "Die besten Spiele: Bennion Geppy (1989)",
+      "start": 8556.0
+    },
+    {
+      "titel": "Digger (1988)",
+      "start": 8701.0
+    },
+    {
+      "titel": "Jungle (1989)",
+      "start": 8796.0
+    },
+    {
+      "titel": "Mad Breaking (1990)",
+      "start": 8865.0
+    },
+    {
+      "titel": "Video Chess Master (1984)",
+      "start": 9034.0
+    },
+    {
+      "titel": "Die Computerszene der DDR",
+      "start": 9133.0
+    },
+    {
+      "titel": "(Computer-)Geschenke aus der BRD",
+      "start": 9277.0
+    },
+    {
+      "titel": "Computerclubs",
+      "start": 9604.0
+    },
+    {
+      "titel": "Überwachung durch die Stasi",
+      "start": 9659.0
+    },
+    {
+      "titel": "Öffentlicher Zugang zu Computern",
+      "start": 9686.0
+    },
+    {
+      "titel": "Computer in DDR-Zeitschriften ...",
+      "start": 9936.0
+    },
+    {
+      "titel": "... und in der Tageszeitung ...",
+      "start": 9980.0
+    },
+    {
+      "titel": "... und in Radio und Fernsehen",
+      "start": 10015.0
+    },
+    {
+      "titel": "Der vierte Anlauf zur Microchip-Weltmacht",
+      "start": 10119.0
+    },
+    {
+      "titel": "Das \"Projekt Micron\"",
+      "start": 10515.0
+    },
+    {
+      "titel": "Der Megabit-Chip im Vergleich zum Rest der Welt",
+      "start": 10604.0
+    },
+    {
+      "titel": "Der 32-Bit-Prozessor",
+      "start": 10845.0
+    },
+    {
+      "titel": "Den Sozialismus in seinem Lauf ...",
+      "start": 10877.0
+    },
+    {
+      "titel": "Mauerfall und Ende der DDR-Computertechnik",
+      "start": 10912.0
+    },
+    {
+      "titel": "Fazit",
+      "start": 11017.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:45:44+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 11230,
+  "veroeffentlicht": "2024-04-07T15:30:40+00:00",
+  "beschreibung": "Die Geschichte der DDR-Heimcomputer\nWas passierte eigentlich hinter dem \"Eisernen Vorhang\", während im Westen die Computerrevolution auf Touren kam? Was benutzten die Jugendlichen in Erfurt oder Rostock, während in den Jugendzimmern in Fürth und Schenefeld die Commodore-Heimcomputer eine ganze Generation zum Spielen brachten?\n\nChristian und Henner nehmen sich im Gespräch der Historie der Computertechnik in der DDR an, leiten den historischen Kontext her und klären auch die Frage, was eigentlich die besten Spiele waren, die die DDR hervorgebracht hat.\n\nPodcast-Credits:\n\nSprecher/Redaktion: Henner Thomsen, Christian Schmidt\n\nAudioproduktion: Sascha Blach-Butte, Christian Schmidt\n\nTitelgrafik: Paul Schmidt\n\nWir danken Dr. Werner Domschke, André Weißflog, René Meyer, Paul Kautz und Thomas Langhanki, die uns bei der Recherche unterstützt haben.\n\nHinweis:\n\nUnterstützen: Die Produktion dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen Steady oder Patreon. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen Extra-Content.\n\nMehr von uns: Diese Podcast-Folge gibt es auch auf Youtube, Spotify, als Audio-Datei im Feed und natürlich auf iTunes. Wir freuen uns über Reaktionen und Empfehlungen auf Twitfacegramcord oder wie das heißt. Wir haben auch einen schönen Merch-Shop namens Retro Shirty.",
+  "beschreibung_html": "Die Geschichte der DDR-Heimcomputer\n<p>Was passierte eigentlich hinter dem \"Eisernen Vorhang\", während im Westen die Computerrevolution auf Touren kam? Was benutzten die Jugendlichen in Erfurt oder Rostock, während in den Jugendzimmern in Fürth und Schenefeld die Commodore-Heimcomputer eine ganze Generation zum Spielen brachten? </p>\n<p>Christian und Henner nehmen sich im Gespräch der Historie der Computertechnik in der DDR an, leiten den historischen Kontext her und klären auch die Frage, was eigentlich die besten Spiele waren, die die DDR hervorgebracht hat. </p>\n<hr />\n<p><strong>Podcast-Credits:</strong></p>\n<p>Sprecher/Redaktion: Henner Thomsen, Christian Schmidt<br>\nAudioproduktion: Sascha Blach-Butte, Christian Schmidt<br>\nTitelgrafik: Paul Schmidt<br></p>\n<p>Wir danken Dr. Werner Domschke, <a href=\"https://floooh.github.io/\">André Weißflog</a>, <a href=\"http://www.schreibfabrik.de/\">René Meyer</a>, <a href=\"https://gamenotover.de/\">Paul Kautz</a> und Thomas Langhanki, die uns bei der Recherche unterstützt haben.</p>\n<hr />\n<p><strong>Hinweis:</strong></p>\n<p><strong>Unterstützen:</strong> Die Produktion dieser Folge wurde finanziert durch die Unterstützung unser Hörer auf den Plattformen <a href=\"https://steadyhq.com/de/stayforever\">Steady</a> oder <a href=\"https://www.patreon.com/stayforever\">Patreon</a>. Wer uns ebenfalls unterstützen möchte, kann das am Besten durch ein Abo auf einer der Plattformen tun – da gibt es auch massig sensationellen <strong>Extra-Content</strong>.</p>\n<p><strong>Mehr von uns:</strong> Diese Podcast-Folge gibt es auch auf <a href=\"https://www.youtube.com/playlist?list=PLk81FXjsqZvcFtNnm0lzwJ_9EoD1q1td5\">Youtube</a>, <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, als Audio-Datei <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">im Feed</a> und natürlich auf <a href=\"https://itunes.apple.com/de/podcast/stay-forever/id461077931?mt=2\">iTunes</a>. Wir freuen uns über Reaktionen und Empfehlungen auf <a href=\"https://twitter.com/stayforeverDE\">Twit</a><a href=\"https://www.facebook.com/StayForeverPodcast/\">face</a><a href=\"https://www.instagram.com/stay_forever_podcast/\">gram</a><a href=\"https://stayforever.de/discord\">cord</a> oder wie das heißt. Wir haben auch einen schönen <a href=\"https://retroshirty.com/\">Merch-Shop namens Retro Shirty</a>.</p>",
+  "untertitel": "Die Geschichte der DDR-Heimcomputer",
+  "bild_url": "https://images.podigee-cdn.net/0x,sEqiWIFwaZli6AEHqAVxSWllJtnxi5OUkflrVOe6xbe4=/https://main.podigee-cdn.net/uploads/u4307/806b8fbe-3bf3-4556-be0f-f300bd069cb0.jpg",
+  "schlagworte": [
+    "Robotron"
+  ],
+  "folgennummer": 403,
+  "kapitel_quelle": "betreiber"
+}

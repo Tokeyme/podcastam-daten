@@ -1,0 +1,444 @@
+{
+  "schema_version": 1,
+  "guid": "72b8b4cb11a6816a812c2200e687dc49",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Die Diskette (SFT 18)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/1854854-m-1514271cf95c94a5c4d18e9a98135ba4.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T22:42:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Geschichte, Technik und kultureller Einfluss der Diskette von den 1960ern bis heute.",
+  "kurzfassung": "Die Diskette entstand Ende der 1960er Jahre bei IBM ursprünglich als kostengünstiges Medium zum Laden von Mikrocode für Großrechner. Über die Formate 8 Zoll, 5,25 Zoll und 3,5 Zoll entwickelte sie sich zum weltweiten Standard für Datenspeicherung, Softwarevertrieb und Gaming auf Heimcomputern sowie PCs. Trotz ihrer Verdrängung durch optische Medien, USB-Sticks und die Cloud bleibt die Diskette als prägender Kulturgegenstand und universelles Speichern-Symbol lebendig.",
+  "stichpunkte": [
+    "IBM entwickelte die Diskette ab 1967 im Projekt Minnow unter David Noble, um Mikrocode beim Systemstart in flüchtigen SRAM-Speicher von Großrechnern zu laden.",
+    "Die erste 8-Zoll-Diskette (IBM 23FD) erschien 1971 als reines Lesemedium, woraufhin Memorex 1972 mit dem Modell 650 das erste beschreibbare OEM-Laufwerk vorlegte.",
+    "Auf Wunsch des Textverarbeitungsherstellers Wang verkleinerte Shugart Associates die Technik 1976 zur 5,25-Zoll-Mini-Floppy.",
+    "Steve Wozniaks Disk-II-Laufwerk für den Apple II (1978) und die Veröffentlichung des IBM PC (1981) machten das 5,25-Zoll-Format zum Standard für Personal Computer.",
+    "Sony stellte 1981 die starre 3,5-Zoll-Mikrofloppy mit Metallschieber vor, die durch ein Industriekonsortium optimiert und von Macintosh, Amiga, Atari ST und PC übernommen wurde.",
+    "Die Diskette ermöglichte den kommerziellen Software- und Spielevertrieb, Dateiverwaltung und Spielstände, befeuerte aber auch Softwarepiraterie und Computerviren.",
+    "Wachsende Softwaregrößen führten in den 1990er Jahren zu extremen Diskettenmengen bei Spielen und Anwendungspaketen wie Office 97 mit bis zu 55 Datenträgern.",
+    "Spezielle Nachfolgeformate wie Iomegas Zip-Drive konnten sich nicht dauerhaft durchsetzen; stattdessen verdrängten CD-R, USB-Sticks und Cloud-Speicher die Floppy.",
+    "Restbestände an Disketten und intakten Laufwerken gehen weltweit zur Neige, während die Diskette als standardisiertes Speichern-Icon fortbesteht."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung",
+      "start": 0.0
+    },
+    {
+      "titel": "- Diskettenlyrik",
+      "start": 112.0
+    },
+    {
+      "titel": "ENTWICKLUNG DER DISKETTE",
+      "start": 316.0
+    },
+    {
+      "titel": "- Erstes Speichermedium: Die Lochkarte",
+      "start": 429.0
+    },
+    {
+      "titel": "- Das Magnetband",
+      "start": 527.0
+    },
+    {
+      "titel": "- Ein besseres Speichermedium: die Festplatte",
+      "start": 678.0
+    },
+    {
+      "titel": "- IBM 305 RAMAC (1956)",
+      "start": 870.0
+    },
+    {
+      "titel": "- Die \"Platter\"-Stapel des IBM 350",
+      "start": 911.0
+    },
+    {
+      "titel": "- IBM 1311: Das Wechselplatter-System (1962)",
+      "start": 1033.0
+    },
+    {
+      "titel": "- Disk Packs im Schutzbehälter",
+      "start": 1227.0
+    },
+    {
+      "titel": "- Ist Nakamatsu Yoshiro der Erfinder der Diskette?",
+      "start": 1411.0
+    },
+    {
+      "titel": "- Magnetspeicher-Pionier Allan Shugart",
+      "start": 1496.0
+    },
+    {
+      "titel": "- Fest verdrahtete Computer",
+      "start": 1552.0
+    },
+    {
+      "titel": "- IBM System 360 und der Microcode (1964)",
+      "start": 1660.0
+    },
+    {
+      "titel": "- Lochkarten für den Microcode",
+      "start": 1760.0
+    },
+    {
+      "titel": "- Wiederbeschreibbarer Speicher",
+      "start": 1827.0
+    },
+    {
+      "titel": "- Upgrade auf SRAM-Speicher",
+      "start": 1892.0
+    },
+    {
+      "titel": "- David Noble und Projekt Minnow",
+      "start": 2168.0
+    },
+    {
+      "titel": "- Die Diskette entsteht",
+      "start": 2314.0
+    },
+    {
+      "titel": "- Die Diskette bekommt ihrer Hülle",
+      "start": 2468.0
+    },
+    {
+      "titel": "- Al Shugart wechselt zu Memorex",
+      "start": 2666.0
+    },
+    {
+      "titel": "- IBM patentiert Diskette und Laufwerk (1972)",
+      "start": 2738.0
+    },
+    {
+      "titel": "DIE TECHNIK DER DISKETTE",
+      "start": 2807.0
+    },
+    {
+      "titel": "- Die Daten auf der Magnetscheibe",
+      "start": 2880.0
+    },
+    {
+      "titel": "- Bits auf der Magnetschicht",
+      "start": 2928.0
+    },
+    {
+      "titel": "- Das Diskettenlaufwerk",
+      "start": 2981.0
+    },
+    {
+      "titel": "- Der Umschlag als wahre Innovation",
+      "start": 3151.0
+    },
+    {
+      "titel": "- Technische Herausforderungen",
+      "start": 3352.0
+    },
+    {
+      "titel": "- Zone Bit Recording",
+      "start": 3501.0
+    },
+    {
+      "titel": "- Woher kommen die Namen \"Diskette\" und \"Floppy\"?",
+      "start": 3676.0
+    },
+    {
+      "titel": "DIE DISKETTE EROBERT DEN MARKT",
+      "start": 3880.0
+    },
+    {
+      "titel": "- Projekt \"Igar\": Wiederbeschreibbarkeit",
+      "start": 4040.0
+    },
+    {
+      "titel": "- Memorex zieht an IBM vorbei",
+      "start": 4184.0
+    },
+    {
+      "titel": "- Memorex 650 (1972)",
+      "start": 4310.0
+    },
+    {
+      "titel": "- Der Durchbruch für die Diskette",
+      "start": 4391.0
+    },
+    {
+      "titel": "- Der Personal Computer kommt",
+      "start": 4502.0
+    },
+    {
+      "titel": "- Elektronische Textverarbeitungssysteme",
+      "start": 4609.0
+    },
+    {
+      "titel": "- Shugart Associates",
+      "start": 4674.0
+    },
+    {
+      "titel": "- Wang Laboratories 2200",
+      "start": 4839.0
+    },
+    {
+      "titel": "- Wang Laboratories 2200 PCS-2",
+      "start": 4921.0
+    },
+    {
+      "titel": "- 5,25\": Die \"Mini-Floppy\"",
+      "start": 4951.0
+    },
+    {
+      "titel": "- Patrick Becher über die 5,25\"-Diskette",
+      "start": 5073.0
+    },
+    {
+      "titel": "- Die Technik der 5,25\"-Diskette",
+      "start": 5151.0
+    },
+    {
+      "titel": "- Das Laufwerk: Shugart SA 400",
+      "start": 5246.0
+    },
+    {
+      "titel": "- Der Apple 2 (1977) ...",
+      "start": 5332.0
+    },
+    {
+      "titel": "- ... und sein Disk-II-Laufwerk (1978)",
+      "start": 5390.0
+    },
+    {
+      "titel": "- Die PC-Trinität des Jahres 1977",
+      "start": 5472.0
+    },
+    {
+      "titel": "- Der IBM-PC schiebt die Disketten-Revolution an",
+      "start": 5612.0
+    },
+    {
+      "titel": "- donkey.bas",
+      "start": 5687.0
+    },
+    {
+      "titel": "- Laufwerke für alle Heimcomputer",
+      "start": 5734.0
+    },
+    {
+      "titel": "- Das lahme C64-Laufwerk 1541",
+      "start": 5815.0
+    },
+    {
+      "titel": "- Schnelllader: Hypra-Load (1984)",
+      "start": 5849.0
+    },
+    {
+      "titel": "- Kapazitäts-Tricks",
+      "start": 5935.0
+    },
+    {
+      "titel": "- Jörg Langer über Diskettenlocher",
+      "start": 6082.0
+    },
+    {
+      "titel": "- 3,5\": Die \"Micro-Floppy\"",
+      "start": 6272.0
+    },
+    {
+      "titel": "- Sony und das 3,5\"-Format (1981)",
+      "start": 6361.0
+    },
+    {
+      "titel": "- Der neue Standard",
+      "start": 6508.0
+    },
+    {
+      "titel": "- Diskettenkabel",
+      "start": 6673.0
+    },
+    {
+      "titel": "- Die Technik der 3,5\"-Diskette",
+      "start": 6782.0
+    },
+    {
+      "titel": "- Neue Laufwerksmechanik",
+      "start": 6933.0
+    },
+    {
+      "titel": "- Weitere Verbesserungen und Entwicklungen",
+      "start": 7020.0
+    },
+    {
+      "titel": "- Multiformat-Disketten",
+      "start": 7188.0
+    },
+    {
+      "titel": "- 3\"-Disketten auf dem Schneider CPC",
+      "start": 7322.0
+    },
+    {
+      "titel": "- Auch der Macintosh nutzt den 3,5\"-Standard",
+      "start": 7354.0
+    },
+    {
+      "titel": "- 3,5\" setzt sich durch",
+      "start": 7408.0
+    },
+    {
+      "titel": "DER EINFLUSS DER DISKETTE",
+      "start": 7564.0
+    },
+    {
+      "titel": "- Neue Vertriebsformen",
+      "start": 7752.0
+    },
+    {
+      "titel": "- Die ersten Computerviren",
+      "start": 7939.0
+    },
+    {
+      "titel": "- Raubkopieren wird leichter",
+      "start": 8007.0
+    },
+    {
+      "titel": "- \"Dont Copy That Floppy!\"",
+      "start": 8111.0
+    },
+    {
+      "titel": "- Kopierschutz und Kopierprogramme",
+      "start": 8164.0
+    },
+    {
+      "titel": "- Heinrich Lenhardt über Diskettenlabels",
+      "start": 8234.0
+    },
+    {
+      "titel": "- Erste Diskettenspiele",
+      "start": 8369.0
+    },
+    {
+      "titel": "- Erweiterte Möglichkeiten dank Diskette",
+      "start": 8472.0
+    },
+    {
+      "titel": "- Grenzen der Leistungsfähigkeit",
+      "start": 8685.0
+    },
+    {
+      "titel": "- Problem: Diskettenwechsel",
+      "start": 8817.0
+    },
+    {
+      "titel": "- Disketten-Rekord bei Office 97",
+      "start": 8896.0
+    },
+    {
+      "titel": "HÖHEPUNKT UND ABSTIEG",
+      "start": 9071.0
+    },
+    {
+      "titel": "- Paul über das Aufteilen von Dateien",
+      "start": 9179.0
+    },
+    {
+      "titel": "- PKZIP / PKUNZIP",
+      "start": 9304.0
+    },
+    {
+      "titel": "- Das Diskettenlaufwerk wird optional",
+      "start": 9349.0
+    },
+    {
+      "titel": "- Der iMac verzichtet auf Disketten (1998)",
+      "start": 9385.0
+    },
+    {
+      "titel": "- Versuch eines Nachfolgers: Iomega ZipDisk",
+      "start": 9470.0
+    },
+    {
+      "titel": "- Die Superdisk (1996)",
+      "start": 9626.0
+    },
+    {
+      "titel": "- Wachablösung durch die CD-ROM",
+      "start": 9776.0
+    },
+    {
+      "titel": "- CD-R: Die CD-ROM wird beschreibbar",
+      "start": 9886.0
+    },
+    {
+      "titel": "- Flash-Speicher im USB-Stick",
+      "start": 9986.0
+    },
+    {
+      "titel": "- Die Cloud: Ende des Datenträgers",
+      "start": 10137.0
+    },
+    {
+      "titel": "- Letzte Bastion: Treiberdiskette",
+      "start": 10244.0
+    },
+    {
+      "titel": "- Heutzutage: Disketten werden knapp",
+      "start": 10371.0
+    },
+    {
+      "titel": "- Wie lange halten Disketten?",
+      "start": 10575.0
+    },
+    {
+      "titel": "- Wo man heute noch Disketten findet",
+      "start": 10788.0
+    },
+    {
+      "titel": "- Floppy-Musik und Floppy-Kunst",
+      "start": 10833.0
+    },
+    {
+      "titel": "BEDEUTUNG UND NACHWIRKUNG",
+      "start": 10871.0
+    },
+    {
+      "titel": "- Praktische und kulturelle Wirkung der Diskette",
+      "start": 11096.0
+    },
+    {
+      "titel": "- Das Disketten-Icon überdauert",
+      "start": 11431.0
+    },
+    {
+      "titel": "* Fazit",
+      "start": 11579.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T22:42:58+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 11696,
+  "veroeffentlicht": "2025-03-31T18:06:17+00:00",
+  "beschreibung": "Der beste aller Datenträger\nDie Diskette – einst das Herzstück digitaler Datenträger – prägte eine ganze Computergeneration. Ob 8-Zoll, 5,25-Zoll oder das ikonische 3,5-Zoll-Format: Sie war in den 70ern, 80ern und frühen 90ern das Standardmedium für Software, Speicher und Austausch. Mit ihrer simplen, aber genialen Magnettechnik ermöglichte sie Heimcomputern und frühen PCs erstmals einen flexiblen Zugriff auf Programme und Daten – mobil, wiederbeschreibbar und vergleichsweise robust. Doch mit steigenden Speicherbedürfnissen und neuen Technologien begann ihr schleichender Abschied.\n\nHenner und Chris blicken zurück auf die Geschichte der Diskette, erklären Funktionsweise und Formate und würdigen ihren Beitrag zur digitalen Revolution – vom klobigen 8-Zöller bis zum letzten 1,44-Megabyte-Modell.\n\nProduktions-Credits:\n\nSprecher, Redaktion: Henner Thomsen, Christian Schmidt\n\nAudioproduktion: Fabian Langer, Christian Schmidt\n\nTitelgrafik: Paul Schmidt\n\nUnterstützung & Interaktion:\n\nUnterstützt Stay Forever: Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: Steady Patreon\n\nWo wir sind: Unsere kostenlosen Folgen gibt es auf stayforever.de sowie in jeder Podcast-App, auf Spotify, RTL+, Amazon Music, Deezer und Youtube. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: Stay-Forever-Podcast-Feed (RSS)\n\nCommunity: Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf community.stayforever.de oder im Stay Forever Discord. Wir sind auch auf Facebook, BlueSky, Instagram und Mastodon.\n\nSupport und Hilfe: Fragen gern per Mail an info@stayforever.de, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein generelles FAQ und ein spezielles FAQ für Unterstützer. Oder eine Liste aller Podcasts, ebenfalls unterteilt in öffentliche Folgen und Folgen für Unterstützer. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im Insider, unserem E-Mail-Magazin.\n\nSF-Mechandise: Wir haben einen eigenen Shop namens Retroshirty, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch Retrogames-Bücher und Geschenkgutscheine.\n\nSpenden: Stay Forever unterstützt aktiv den Retrogames e.V., die Hamburger Tafel e.V., das Internet Archive und Wikipedia.",
+  "beschreibung_html": "Der beste aller Datenträger\n<p>Die Diskette – einst das Herzstück digitaler Datenträger – prägte eine ganze Computergeneration. Ob 8-Zoll, 5,25-Zoll oder das ikonische 3,5-Zoll-Format: Sie war in den 70ern, 80ern und frühen 90ern das Standardmedium für Software, Speicher und Austausch. Mit ihrer simplen, aber genialen Magnettechnik ermöglichte sie Heimcomputern und frühen PCs erstmals einen flexiblen Zugriff auf Programme und Daten – mobil, wiederbeschreibbar und vergleichsweise robust. Doch mit steigenden Speicherbedürfnissen und neuen Technologien begann ihr schleichender Abschied.</p>\n<p>Henner und Chris blicken zurück auf die Geschichte der Diskette, erklären Funktionsweise und Formate und würdigen ihren Beitrag zur digitalen Revolution – vom klobigen 8-Zöller bis zum letzten 1,44-Megabyte-Modell.</p>\n<p><strong>Produktions-Credits:</strong><br><br></p>\n<p><strong>Sprecher, Redaktion: </strong>Henner Thomsen, Christian Schmidt<br>\n<strong>Audioproduktion:</strong> Fabian Langer, Christian Schmidt<br>\n<strong>Titelgrafik:</strong> Paul Schmidt<br></p>\n<hr />\n<p><b>Unterstützung &amp; Interaktion:</b><br><br></p>\n<ul>\n     <li aria-level=\"1\"><b>Unterstützt Stay Forever:</b> Ohne die Unterstützung von rund 7.000 Hörenden via Abo wäre dieser Podcast nicht möglich. Abos starten bei rund fünf Euro monatlich, jede/r Abonnent/in hat Zugang zum kompletten Archiv mit hunderten Extra-Folgen, zu denen jeden Monat 6-8 weitere dazukommen: <a href=\"https://steadyhq.com/de/stayforever/about\">Steady</a> <a href=\"https://www.patreon.com/c/stayforever\">Patreon</a></li><br>\n     <li aria-level=\"1\"><b>Wo wir sind</b>: Unsere kostenlosen Folgen gibt es auf <a href=\"http://stayforever.de\">stayforever.de</a> sowie in jeder <a href=\"https://www.stayforever.de/artikel/die-ultimative-liste-der-besten-podcast-apps-ios-android-windows-linux/\">Podcast-App</a>, auf <a href=\"https://open.spotify.com/show/0HrgGvhjzvg1Qd9yF0cJ2a\">Spotify</a>, <a href=\"https://plus.rtl.de/podcast/stay-forever-qgbee7gb8w05g\">RTL+</a>, <a href=\"https://music.amazon.de/podcasts/bb7d80f0-1683-49ef-b8d2-debce255f350/stay-forever\">Amazon Music</a>, <a href=\"https://www.deezer.com/de/show/722062\">Deezer</a> und <a href=\"https://www.youtube.com/@StayForeverDE\">Youtube</a>. Im Zweifel einfach “Stay Forever Podcast” suchen, damit findet man uns überall. Wer direkt den Feed braucht, hier: <a href=\"https://podcastd45a61.podigee.io/feed/mp3\">Stay-Forever-Podcast-Feed (RSS)</a></li><br>\n     <li aria-level=\"1\"><b>Community:</b> Teilt eure Gedanken, Erfahrungen, Lob und Kritik direkt im Folgen-Thread auf <a href=\"https://community.stayforever.de/\">community.stayforever.de</a> oder im <a href=\"https://discord.com/invite/Meavvw5VUk\">Stay Forever Discord</a>. Wir sind auch auf <a href=\"https://stayforever.de/facebook\">Facebook</a>, <a href=\"https://bsky.app/profile/stayforever.bsky.social\">BlueSky</a>, <a href=\"https://stayforever.de/Insta\">Instagram</a> und <a href=\"https://mastodon.social/@stayforever\">Mastodon</a>.</li><br>\n     <li aria-level=\"1\"><b>Support und Hilfe</b>: Fragen gern per Mail an <a href=\"mailto:info@stayforever.de\">info@stayforever.de</a>, wir haben aber auch strukturierte Infos zum Nachlesen, etwa ein <a href=\"https://community.stayforever.de/t/stay-forever-faq/2208\">generelles FAQ</a> und ein spezielles <a href=\"https://community.stayforever.de/t/das-grosse-unterstuetzer-faq-fuer-patreon-und-steady/2207/2\">FAQ für Unterstützer</a>. Oder eine Liste aller Podcasts, ebenfalls unterteilt in <a href=\"https://www.stayforever.de/alle-podcasts/\">öffentliche Folgen</a> und <a href=\"https://www.stayforever.de/alle-premium-formate-steady-patreon/\">Folgen für Unterstützer</a>. Eine Vorschau auf das kommende Programm gibt es an jedem 1. eines Monats im <a href=\"https://www.stayforever.de/newsletter-anmeldung/\">Insider, unserem E-Mail-Magazin</a>.</li><br>\n     <li aria-level=\"1\"><b>SF-Mechandise: </b>Wir haben einen eigenen Shop namens <a href=\"https://retroshirty.com/\">Retroshirty</a>, wo es allerlei schöne Sachen für Retronauten gibt, neben Shirts, Caps und Postern auch <a href=\"https://retroshirty.com/collections/bucher-uber-retro-games\">Retrogames-Bücher</a> und Geschenkgutscheine.</li><br>\n     <li aria-level=\"1\"><b>Spenden:</b> Stay Forever unterstützt aktiv den <a href=\"https://www.retrogames.info/\">Retrogames e.V</a>., die <a href=\"https://hamburger-tafel.de/\">Hamburger Tafel e.V.</a>, das <a href=\"https://archive.org/donate\">Internet Archive </a>und <a href=\"https://de.wikipedia.org/wiki/Wikipedia:Spenden\">Wikipedia</a>.</li>\n</ul>",
+  "untertitel": "Der beste aller Datenträger",
+  "bild_url": "https://images.podigee-cdn.net/0x,sF45ZI5Mp5hAAIMQ95FmUMRGwX2-nE2pvKY3SgqTLth0=/https://main.podigee-cdn.net/uploads/u4307/b8da470d-fcb8-4e80-869a-f6f9e4321c15.jpg",
+  "schlagworte": [
+    "heinrich lenhardt"
+  ],
+  "folgennummer": 451,
+  "kapitel_quelle": "betreiber"
+}
