@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "guid": "b698d3a50851b060761e34d393e8b5ea",
+  "apple_collection_id": null,
+  "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
+  "titel": "Märkte: Druck auf Anleihen und KI-Aktien / Sparkassenchefs: Verdienen und schweigen",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2567369-m-4f24d0a365cc92f68759482536b3ff92.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 11201849,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T02:25:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "grund": "Verdacht auf je Abruf neu zusammengesetzte Auslieferung (kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - im Zweifel keine Byte-Offsets und keine Sprungmarken"
+  },
+  "einzeiler": "Märkte unter Druck, intransparente Sparkassengehälter und Apples Einigung mit der EU.",
+  "kurzfassung": "Die globalen Finanzmärkte stehen wegen steigender Staatsverschuldung und Inflation unter Druck. Unterdessen sorgt die intransparente Vergütung von Sparkassenvorständen für Kritik. Zudem beilegt Apple einen jahrelangen Streit mit der Europäischen Kommission.",
+  "stichpunkte": [
+    "Steigende Staatsverschuldung und Inflation setzen Staatsanleihen und KI-Aktien unter Druck",
+    "Kritik an mangelnder Transparenz bei den Gehältern von Sparkassenvorständen",
+    "Debatte über mögliche finanzielle Konsequenzen im Länderfinanzausgleich bei einer Regierungsbeteiligung der AfD",
+    "Beschwerde von Umweltschutzorganisationen in Brüssel gegen das deutsche Stromversorgungsgesetz",
+    "Apple legt Streit mit der EU bei und passt Geschäftsbedingungen für App-Entwickler an",
+    "Zunehmender Einsatz von Künstlicher Intelligenz als Produktivitätsreserve in deutschen Kleinstunternehmen",
+    "Tipps zur privaten Schließung von Rentenlücken für den vorgezogenen Ruhestand"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-20T02:25:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 632,
+  "veroeffentlicht": "2026-08-19T03:54:08+00:00",
+  "beschreibung": "Langlaufende Staatsanleihen geraten bei Investoren unter Druck. Dahinter stehen die Furcht vor einer Überschuldung vieler Industriestaaten - und härtere Konkurrenz um Bond-Investoren.\n\nDas exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren\n\nWeitere Informationen zu Werbeeinblendungen",
+  "beschreibung_html": "<p>Langlaufende Staatsanleihen geraten bei Investoren unter Druck. Dahinter stehen die Furcht vor einer Überschuldung vieler Industriestaaten - und härtere Konkurrenz um Bond-Investoren.</p>\n<hr />\n<p>Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: <a href=\"https://www.handelsblatt.com/mehrerfahren\">https://www.handelsblatt.com/mehrerfahren</a></p>\n<p><a href=\"https://cmk.handelsblatt.com/cms/articles/15597/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\">Weitere Informationen zu Werbeeinblendungen</a></p>",
+  "schlagworte": [
+    "Börse",
+    "Sparkassen",
+    "Bundesländer",
+    "Energiepolitik",
+    "Tech",
+    "Künstliche Intelligenz",
+    "Rente"
+  ],
+  "folgennummer": 2180
+}

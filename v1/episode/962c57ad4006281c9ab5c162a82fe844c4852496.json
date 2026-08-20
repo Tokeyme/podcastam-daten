@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "guid": "f2c3a0895911805cbf338d35a35ec0be",
+  "apple_collection_id": null,
+  "show": "Psychologie to go!",
+  "titel": "Warum wir weinen - über echte Tränen, ungewollte Tränen und Krokodilstränen",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2565074-m-7ba2deefb4e9eb728f49cc58284c54e8.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 41828029,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T05:40:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Warum wir weinen: Kulturgeschichte, Neurobiologie und der Sinn von Tränen im Alltag.",
+  "kurzfassung": "Diese Episode beleuchtet die psychologischen und neurobiologischen Hintergründe des menschlichen Weinens. Dabei wird erklärt, warum Tränen nicht nur Stress abbauen, sondern vor allem den Übergang zur Entspannung signalisieren. Zudem wird besprochen, wie Fiktion und soziale Nähe unsere Tränendrüsen aktivieren und ob man echte Tränen von simulierten unterscheiden kann.",
+  "stichpunkte": [
+    "Tränen besitzen in Mythen und Märchen quer durch die Kulturgeschichte eine magische oder tief emotionale Bedeutung.",
+    "Das Krokodilstränensyndrom und das seltene Bogorath-Syndrom zeigen physische Ursachen für Tränenfluss abseits von Emotionen.",
+    "Das frühere psychologische Modell der Katharsis als reines Druckablass-Ventil ist wissenschaftlich überholt.",
+    "Neuere neurobiologische Erkenntnisse zeigen, dass Weinen den exakten Moment des Systemwechsels vom Sympathikus zum Parasympathikus markiert.",
+    "Emotionales Weinen ist ein exklusiv menschliches Signal, das beim Gegenüber Empathie und Schutzreflexe auslösen soll.",
+    "Fiktionales Leid im Kino oder Büchern löst im Gehirn dieselben neuronalen Netzwerke und hormonellen Reaktionen aus wie reale Erlebnisse.",
+    "Tränen aus Wut entstehen, wenn die Aktivierung des Sympathikus durch die Erkenntnis der eigenen Hilflosigkeit in den Parasympathikus kippt.",
+    "Echtes emotionales Weinen lässt sich von instrumentellem Weinen unter anderem durch vegetative Begleitersymptome und charakteristische Gesichtszüge unterscheiden."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-20T05:40:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2865,
+  "veroeffentlicht": "2026-08-16T05:00:00+00:00",
+  "beschreibung": "Warum weinen wir bei Trauer, Freude, Schmerz oder sogar Wut? Und das, obwohl wir es oft gar nicht\nwollen? In dieser Folge geht Christian der Frage nach, was Weinen eigentlich ist und warum Tränen so schwer zu kontrollieren sind. Was sind „Krokodilstränen“ und kann man Tränen willentlich kullern lassen? Wie machen das Schauspieler und warum kann Weinen auch wütend machen? Kann man sich ausweinen und geht es einem danach wirklich besser? Ein wilder Ritt durch Kulturgeschichte, Mythen, alte medizinische Vorstellungen\nund aktuelle neurobiologische Erkenntnisse. Und natürlich mit konkreten Tipps, u.a. wie man selbst Weinen verhindern und gespieltes Heulen entlarven kann.\n\nFrancas neues Buch: Die innere Oma — ab 4. September 2026: https://shop.autorenwelt.de/products/die-innere-oma-von-franca-cerutti\n\nAlle Tourdaten und Tickets für Dezember: https://www.190a.de/psychologie-to-go/\n\nUnterstütze uns auf Steady: https://steady.page/de/psychologie-to-go/about\n\nHinterlasse eine Frage oder einen Kommentar auf unserem Anrufbeantworter: https://www.speakpipe.com/Psychologietogo\n\nDu möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos & Rabatte!](https://linktr.ee/psychologietogo))\n\nDu möchtest Werbung in diesem Podcast schalten? Dann erfahre hier mehr über die Werbemöglichkeiten bei Seven.One Audio!",
+  "beschreibung_html": "<p>Warum weinen wir bei Trauer, Freude, Schmerz oder sogar Wut? Und das, obwohl wir es oft gar nicht\nwollen? In dieser Folge geht Christian der Frage nach, was Weinen eigentlich ist und warum Tränen so schwer zu kontrollieren sind. Was sind „Krokodilstränen“ und kann man Tränen willentlich kullern lassen? Wie machen das Schauspieler und warum kann Weinen auch wütend machen? Kann man sich ausweinen und geht es einem danach wirklich besser? Ein wilder Ritt durch Kulturgeschichte, Mythen, alte medizinische Vorstellungen\nund aktuelle neurobiologische Erkenntnisse. Und natürlich mit konkreten Tipps, u.a. wie man selbst Weinen verhindern und gespieltes Heulen entlarven kann.</p>\n<p>Francas neues Buch: Die innere Oma — ab 4. September 2026: <a href=\"https://shop.autorenwelt.de/products/die-innere-oma-von-franca-cerutti\">https://shop.autorenwelt.de/products/die-innere-oma-von-franca-cerutti</a></p>\n<p>Alle Tourdaten und Tickets für Dezember: <a href=\"https://www.190a.de/psychologie-to-go/\">https://www.190a.de/psychologie-to-go/</a></p>\n<p>Unterstütze uns auf Steady: <a href=\"https://steady.page/de/psychologie-to-go/about\">https://steady.page/de/psychologie-to-go/about</a></p>\n<p>Hinterlasse eine Frage oder einen Kommentar auf unserem Anrufbeantworter: <a href=\"https://www.speakpipe.com/Psychologietogo\">https://www.speakpipe.com/Psychologietogo</a></p>\n<p>Du möchtest mehr über unsere Werbepartner erfahren? <a href=\"[https://linktr.ee/psychologietogo\"><strong>Hier findest du alle Infos & Rabatte!</strong></a>](https://linktr.ee/psychologietogo))</p>\n<p>Du möchtest Werbung in diesem Podcast schalten? <a href=\"https://www.seven.one/portfolio/sevenone-audio\"><strong>Dann erfahre hier mehr über die Werbemöglichkeiten bei Seven.One Audio!</strong></a></p>",
+  "bild_url": "https://images.podigee-cdn.net/0x,s9Ef71AY9gTecgdM-rCXFF5ws3bIYXtb6jBeX4PXmC24=/https://main.podigee-cdn.net/uploads/u36493/7b8e38ff-7e90-4b50-9808-2b891ebb81f3.jpg",
+  "schlagworte": [
+    "psychologie",
+    "psychotherapie",
+    "coach",
+    "Franca Cerutti",
+    "Heilung",
+    "Tränen",
+    "Weinen",
+    "Schmerz",
+    "Wut",
+    "christian weiss"
+  ]
+}

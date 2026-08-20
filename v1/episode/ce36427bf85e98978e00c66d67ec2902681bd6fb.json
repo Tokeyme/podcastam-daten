@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "0f6991eb-1b91-4a61-b32c-797f6ee0a0b4",
+  "apple_collection_id": null,
+  "show": "Radiowissen",
+  "titel": "Die unglaubliche Widerstandskämpferin Milada Horákova (2/2) Von der Hölle zum Pranger",
+  "audio": {
+    "url": "https://media.neuland.br.de/file/2121367/c/feed/die-unglaubliche-widerstandskaempferin-milada-hor-kova-2-2-von-der-hoelle-zum-pranger.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 22254772,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T02:52:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 171 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Der Schauprozess gegen die tschechoslowakische Politikerin Milada Horáková im Jahr 1950.",
+  "kurzfassung": "Nach der Machtübernahme der Kommunisten in der Tschechoslowakei wurde die Politikerin Milada Horáková 1950 in einem inszenierten Schauprozess zum Tod verurteilt. Obwohl sie während des Zweiten Weltkriegs im NS-Widerstand aktiv gewesen war, konstruierte das Regime den Vorwurf einer Verschwörung. Im Juni 1950 wurde sie hingerichtet, ihre Abschiedsbriefe an die Familie jahrzehntelang zurückgehalten.",
+  "stichpunkte": [
+    "Die kommunistische Partei übernahm 1948 durch einen Staatsstreich die Alleinherrschaft in der Tschechoslowakei.",
+    "Milada Horáková, frühere Abgeordnete und NS-Widerstandskämpferin, wurde im September 1949 verhaftet.",
+    "Das Regime inszenierte einen stalinistischen Schauprozess mit geskripteten Vernehmungen und gefälschten Beweisen.",
+    "Die Propaganda stellte Horáková als westlich gesteuerte Terroristin und rücksichtslose Vaterlandsverräterin dar.",
+    "Trotz massiver Einschüchterung und Folter hielt sie in Ausschnitten an ihren demokratischen Idealen fest.",
+    "Am 27. Juni 1950 wurde Milada Horáková in Prag hingerichtet.",
+    "Ihre letzten Abschiedsbriefe an ihre Tochter und Familie wurden erst nach dem Sturz des Regimes übergeben."
+  ],
+  "kapitel": [
+    {
+      "titel": "Der Schauprozess in Prag",
+      "start": 2.46
+    },
+    {
+      "titel": "Die Entmachtung der Opposition",
+      "start": 101.98
+    },
+    {
+      "titel": "Die Vorbereitung der Inszenierung",
+      "start": 421.16
+    },
+    {
+      "titel": "Propaganda und Gerichtssaal",
+      "start": 600.0
+    },
+    {
+      "titel": "Urteil und Abschied",
+      "start": 1020.66
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Ein Todesurteil trotz internationaler Proteste",
+      "start": 70.848,
+      "ende": 100.944,
+      "laenge": 30.1,
+      "byte_start": 1294772,
+      "byte_ende": 1776307,
+      "bytes": 481536,
+      "range_header": "bytes=1294772-1776307",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 70.92,
+      "anker_sha256": "0741890adf8649a6660e7425414eeaad5902533427551757df6dbf4e903bfca5",
+      "einblendung_ms": 60,
+      "text": "Ich verlasse euch, ohne zu hassen, sagt Mila Dachorakova ein paar Wochen später. Da hat sie ihren Galgen bereits im Blick. Albert Einstein protestiert öffentlich gegen ihre Hinrichtung. Ebenso Winston Churchill, Eleanor Roosevelt, Bertrand Russell. Was sie einzigartig macht, ist, dass sie eigentlich bis zum Schluss ihren eigenen Ansichten loyal geblieben ist. Gute zwei Jahre vorher. Die kommunisti"
+    },
+    {
+      "hook": "Keine feste Einheit: Das Ziel war eine politische Lektion",
+      "start": 374.832,
+      "ende": 404.928,
+      "laenge": 30.1,
+      "byte_start": 6158516,
+      "byte_ende": 6640051,
+      "bytes": 481536,
+      "range_header": "bytes=6158516-6640051",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 374.904,
+      "anker_sha256": "35a1addfa19ecee5936139078502f093b1f832f5801855842ac86a68577cf7a1",
+      "einblendung_ms": 60,
+      "text": "Die Angeklagten, die 1950 als terroristische Gruppe vor Gericht gestellt werden, hatten keinen Aufstand im Blick. Sie bilden nicht einmal eine feste Einheit, wie die Forschung heute weist. Sie bilden nicht einmal eine feste Einheit, wie die Forschung heute weist. Sie bilden nicht einmal eine feste Einheit, wie die Forschung heute weist. Ziel des Prozesses war es, eine politische Lektion zu erteile"
+    },
+    {
+      "hook": "Kriegstreiberei und eine verdrehte Mutterrolle",
+      "start": 745.464,
+      "ende": 775.56,
+      "laenge": 30.1,
+      "byte_start": 12088628,
+      "byte_ende": 12570163,
+      "bytes": 481536,
+      "range_header": "bytes=12088628-12570163",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 745.536,
+      "anker_sha256": "d3be72a95986003e8c3ec3ceda74f58a483e22db5b48f2d98ba9ac2366de7930",
+      "einblendung_ms": 60,
+      "text": "Man unterstellt ihr Geltungssucht, Machtgier, Kriegstreiberei und den Wunsch, sich auf Kosten des Volkes zu bereichern. Ganz zum Schluss ihrer Zeugenaussage fragt der Staatsanwalt Milada Horako war, ob sie bedacht habe, dass im Falle eines Krieges auch Prag zum Ziel werden könne. Ist nicht ihre 16 Jahre alte Tochter in Prag? Und Milada Horako war, antwortet schließlich schlicht mit einem Ja. Auf d"
+    },
+    {
+      "hook": "Wiederentdeckte Originalaufnahmen nach Jahrzehnten",
+      "start": 959.064,
+      "ende": 987.288,
+      "laenge": 28.22,
+      "byte_start": 15506228,
+      "byte_ende": 15957811,
+      "bytes": 451584,
+      "range_header": "bytes=15506228-15957811",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 959.136,
+      "anker_sha256": "8b47ece3d4947029397013f5d6422dd6e1e21870e180e442260acf9d3134ade2",
+      "einblendung_ms": 60,
+      "text": "Das Regime lässt sie schnellstens herausschneiden und verschwenden. Von den Abweichungen weiß man heute, weil im Jahr 2005 unverfälschte Originalaufnahmen von Teilen des Prozesses wieder aufgetaucht sind. Wie sie die kommunistischen Zeiten überstanden haben, ist unklar. Milada Horakova. In alten Filmaufnahmen auf der Anklagebank erleben zu können, hat den Blick der in Prag lebenden Journalistin Em"
+    },
+    {
+      "hook": "Die Hinrichtung am Morgen des 27. Juni 1950",
+      "start": 1280.448,
+      "ende": 1308.0,
+      "laenge": 27.55,
+      "byte_start": 20648372,
+      "byte_ende": 21089203,
+      "bytes": 440832,
+      "range_header": "bytes=20648372-21089203",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 1280.52,
+      "anker_sha256": "d1365d484a41a61b53e31be774440664f80123e0898d6474f044285825fcddb7",
+      "einblendung_ms": 60,
+      "text": "Mila Dachorakova wird in den nächsten Jahren in den Morgenstunden des 27. Juni 1950 um kurz nach halb sechs gehängt Am Abend zuvor darf sie ihre Tochter für kurze Zeit sehen Eine letzte Umarmung wird vom Wärter verhindert Ihre Abschiedsbriefe werden ihrer Familie nicht übergeben Erst 40 Jahre später, nach dem endgültigen Ende des Regimes"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-20T02:52:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 1380,
+  "veroeffentlicht": "2026-08-20T03:05:00+02:00",
+  "beschreibung": "Zwei Diktaturen erklärten sie zur Feindin, doch Flucht kam für sie nie in Frage: Die Prager Demokratin und Frauenrechtlerin Milada Horáková überlebte knapp den Nationalsozialismus. 1950 wurde sie dann durch die Kommunisten in einem infamen Schauprozess hingerichtet. Was für eine Frau war die Pragerin Milada Horáková? Ein Podcast von Karin Becker (BR 2026)\nCredits:\nAutorin: Karin Becker\nRedaktion: Nicole Ruchlak\nRegie: Kirsten Böttcher\nTechnik: Andreas Lucke\nSprecher: Thomas Birnstiel, Shirin Lotze, Sophie Rogall, Friedrich Schloffer, Kirsten Böttcher\n\nPodcast-Tipp:\nAlles Geschichte - Der History-Podcast\nNS-TERROR - Die Fortsetzung der Weißen Rose\nNach der Hinrichtung von Hans und Sophie Scholl 1943 beschlossen der Student Hans Leipelt und seine Freundin Marie-Luise Jahn deren Widerstand gegen die NS-Diktatur fortzusetzen. Sie fanden Unterstützung in einem losen Netzwerk regimekritischer Freundes- und Familienkreise in Leipelts Heimatstadt Hamburg. Nur ein Teil von ihnen überlebte den NS-Terror. Von Renate Eichmeier (BR 2022)\n\nLiteratur:\n- Josette Baer: Seven Czech Women. 2015 – Beschäftigt sich im Kapitel über Milada Horáková ausführlich mit ihrer Biografie und Persönlichkeit, mit politischen Umbrüchen der Tschechoslowakei in der ersten Hälfte des 20. Jahrhunderts und der Kampagne rund um den Schauprozess 1950\n- Melissa Feinberg: Elusive Equality, Gender, Citizenship, and the Limits of Democracy in Czechoslovakia, 1918-1950. 2006 – Beleuchtet im Kapitel über Milada Horáková insbesondere deren Einsatz für ihr oft übersehenes, zentrales Lebensthema, die Gleichberechtigung von Mann und Frau.\n- Emily Thompson: Milada Horáková – The Tragic Destiny of a Czechoslovak Proto-Feminist. In: Hungarian Review. 2014. Umfassender, biografischer Artikel über die tschechische Nationalheldin Milada Horáková\n\nWir freuen uns über Feedback und Anregungen zur Sendung per Mail an\nradiowissen@br.de\n\nRadiowissen finden Sie auch in ARD Sounds\n\nDas Manuskript zur Folge gibt es hier\n\nWir freuen uns über eure Kommentare und Diskussionsbeiträge. Bitte beachtet unsere Netiquette und Tipps für Kommentare",
+  "beschreibung_html": "<p>Zwei Diktaturen erklärten sie zur Feindin, doch Flucht kam für sie nie in Frage: Die Prager Demokratin und Frauenrechtlerin Milada Horáková überlebte knapp den Nationalsozialismus. 1950 wurde sie dann durch die Kommunisten in einem infamen Schauprozess hingerichtet. Was für eine Frau war die Pragerin Milada Horáková? Ein Podcast von Karin Becker (BR 2026)</p><p>Credits:<br/>Autorin: Karin Becker<br/>Redaktion: Nicole Ruchlak<br/>Regie: Kirsten Böttcher<br/>Technik: Andreas Lucke<br/>Sprecher: Thomas Birnstiel, Shirin Lotze, Sophie Rogall, Friedrich Schloffer, Kirsten Böttcher</p>\n<p>Podcast-Tipp:<br/>Alles Geschichte - Der History-Podcast<br/><a href=\"https://www.ardsounds.de/episode/urn:ard:episode:dc22345a926f7332/\">NS-TERROR - Die Fortsetzung der Weißen Rose</a><br/>Nach der Hinrichtung von Hans und Sophie Scholl 1943 beschlossen der Student Hans Leipelt und seine Freundin Marie-Luise Jahn deren Widerstand gegen die NS-Diktatur fortzusetzen. Sie fanden Unterstützung in einem losen Netzwerk regimekritischer Freundes- und Familienkreise in Leipelts Heimatstadt Hamburg. Nur ein Teil von ihnen überlebte den NS-Terror. Von Renate Eichmeier (BR 2022)</p>\n<p>Literatur: <br/>- Josette Baer: Seven Czech Women. 2015 – Beschäftigt sich im Kapitel über Milada Horáková ausführlich mit ihrer Biografie und Persönlichkeit, mit politischen Umbrüchen der Tschechoslowakei in der ersten Hälfte des 20. Jahrhunderts und der Kampagne rund um den Schauprozess 1950<br/>- Melissa Feinberg: Elusive Equality, Gender, Citizenship, and the Limits of Democracy in Czechoslovakia, 1918-1950. 2006 – Beleuchtet im Kapitel über Milada Horáková insbesondere deren Einsatz für ihr oft übersehenes, zentrales Lebensthema, die Gleichberechtigung von Mann und Frau.<br/>- Emily Thompson: Milada Horáková – The Tragic Destiny of a Czechoslovak Proto-Feminist. In: Hungarian Review. 2014. Umfassender, biografischer Artikel über die tschechische Nationalheldin Milada Horáková</p>\n<p>Wir freuen uns über Feedback und Anregungen zur Sendung per Mail an<br/>radiowissen@br.de</p>\n<p>Radiowissen finden Sie auch in <a href=\"https://www.ardsounds.de/sendung/radiowissen/urn:ard:show:a5369fa8556fcd7b/\">ARD Sounds</a><br/> <br/>Das Manuskript zur Folge gibt es <a href=\"https://www.br.de/radio/bayern2/sendungen/radiowissen/manuskripte/index.html\">hier</a></p>\n<p>Wir freuen uns über eure Kommentare und Diskussionsbeiträge. Bitte beachtet <a href=\"https://www.br.de/service/kommentare-netiquette-richtlinien-110.html\">unsere Netiquette und Tipps für Kommentare</a></p>",
+  "bild_url": "https://img.br.de/7d18629f-940b-4b44-839b-05d4b06b6c9b.jpeg?w=1800",
+  "kapitel_quelle": "modell"
+}

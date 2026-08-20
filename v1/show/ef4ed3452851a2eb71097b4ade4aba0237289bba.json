@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "WDR Zeitzeichen",
   "apple_collection_id": null,
-  "erzeugt_am": "2026-08-20T01:08:07+00:00",
+  "erzeugt_am": "2026-08-20T07:16:13+00:00",
   "folgen": [
     {
       "guid": "/cf61b53f997d88c770eca65587d088e3",
@@ -11,7 +11,8 @@
       "titel": "Giftiges Gold: Wie Mutters kleiner Helfer krank machte",
       "veroeffentlicht": "2026-08-19T04:00:03+00:00",
       "clips": true,
-      "kapitel": true
+      "kapitel": true,
+      "einzeiler": "Die Geschichte des Kreislaufmittels Frauengold und seiner krebserregenden Inhaltsstoffe."
     }
   ]
 }

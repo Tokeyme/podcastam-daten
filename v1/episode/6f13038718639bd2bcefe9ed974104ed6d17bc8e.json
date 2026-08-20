@@ -9,7 +9,7 @@
     "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
     "groesse": 28619181,
     "format": "mp3",
-    "geprueft_am": "2026-08-20T01:07:01+00:00"
+    "geprueft_am": "2026-08-20T03:11:00+00:00"
   },
   "faehigkeiten": {
     "clips": true,
@@ -17,115 +17,119 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Wie mächtige Industrien systematisch Zweifel säen und Aktivistinnen instrumentalisieren.",
-  "kurzfassung": "Eine Reporterin reist zu einer Klimaskeptiker-Konferenz und stößt auf die jahrzehntealten Methoden einer professionellen PR-Maschine. Am Beispiel der Gründerin der Bewegung gegen Alkohol am Steuer zeigt der Podcast, wie Bürgerinitiativen von der Industrie gekapert werden. Das Ziel solcher Strategien ist es, Geschäftsmodelle wie fossile Energien oder Tabak vor politischer Regulierung zu schützen.",
+  "einzeiler": "Wie die PR-Industrie seit Jahrzehnten gezielt Zweifel sät, um fossile Geschäfte zu…",
+  "kurzfassung": "Der Podcast beleuchtet die Mechanismen hinter gelenkten PR-Kampagnen und Lobbyismus, die den wissenschaftlichen Konsens zur Klimakrise und anderen Themen attackieren. Ausgehend von einer Klimaleugner-Konferenz rekonstruiert die Episode die Geschichte von Candace Leitner, deren erfolgreiche Graswurzelbewegung gegen Alkohol am Steuer später von der Industrie vereinnahmt wurde. Dabei zeigt sich, wie PR-Strategen wie Rick Berman gezielt Front-Gruppen gründen, um Profitinteressen durch Desinformation abzusichern.",
   "stichpunkte": [
-    "Besuch einer EIKE-Klimaleugner-Konferenz in Deutschland mit spürbarer Hitze und optimistischen Skeptikern",
-    "Das Grundmuster von Klimaskepsis und PR-Kampagnen erinnert an historische Taktiken der Tabak- und Alkoholindustrie",
-    "Candace Leitner gründete in den 1980er Jahren nach dem Tod ihrer Tochter durch einen betrunkenen Fahrer die Organisation MADD",
-    "MADD wuchs zu einer enormen Graswurzelbewegung heran und erzwang 1984 das US-Mindestalter 21 für Alkohol durch Präsident Reagan",
-    "Die Alkohollobby konnte die unantastbare Gründerin anfangs nicht stoppen, da Angriffe auf Mütter als tabu galten",
-    "In den 1990er Jahren gründete der PR-Fachmann Richard Berman Scheingruppen wie BRAD, um strengere Alkoholregeln zu bekämpfen",
-    "Berman, oft als 'Dr. Evil' bezeichnet, perfektionierte die Strategie, durch verdeckte Front-Organisationen Zweifel zu säen",
-    "Schließlich gelang es Berman sogar, die MADD-Gründerin Candace Leitner für die Interessen seiner Industriekunden zu gewinnen"
+    "Besuch einer Klimaleugner-Konferenz in Deutschland, auf der CO2 als unschädlich und positiv dargestellt wird",
+    "Das Grundmuster von PR-Kampagnen beruht auf der systematischen Erzeugung von Zweifel, erprobt bei Tabak und Alkohol",
+    "Candace Leitner gründete 1980 nach dem Unfalltod ihrer Tochter die Bewegung MADD gegen Alkohol am Steuer",
+    "MADD wuchs zur mächtigen Graswurzelbewegung heran und erzwang 1984 das US-weite Alkohol-Mindestalter von 21 Jahren",
+    "Die Alkoholindustrie hielt sich anfangs zurück, da Angriffe auf Mütter und Moral aussichtslos schienen",
+    "In den 90er Jahren gründete der PR-Fachmann Rick Berman Tarnorganisationen, um MADD zu diskreditieren",
+    "Berman perfektionierte den Einsatz von Front-Groups, um Industrieginteressen zu verschleiern",
+    "Die Methoden zur Verzögerung von Regulierungen dienen heute als Vorbild für die Öl- und Gaslobby in der Klimapolitik"
   ],
   "kapitel": [
     {
-      "titel": "Auf der Klimaskeptiker-Konferenz",
+      "titel": "Auf der Klimaleugner-Konferenz",
       "start": 49.9
     },
     {
-      "titel": "Die Geschichte von Candace Leitner und MADD",
+      "titel": "Der Auftakt: Candace Leitners Kampf",
       "start": 465.65
     },
     {
-      "titel": "Der Triumph im Weißen Haus",
+      "titel": "Der Triumph mit Präsident Reagan",
       "start": 1040.56
     },
     {
-      "titel": "Die Gegenoffensive der Industrie und Richard Berman",
+      "titel": "Die Industrie schlägt zurück",
       "start": 1331.32
+    },
+    {
+      "titel": "Dr. Evil und das Playbook des Zweifels",
+      "start": 1433.18
     }
   ],
   "clips": [
     {
-      "hook": "Donald Trump und das schlechte Wetter",
-      "start": 101.304,
-      "ende": 131.4,
+      "hook": "Keine Regierung der Welt könne etwas gegen das Klima verändern.",
+      "start": 107.904,
+      "ende": 138.0,
       "laenge": 30.1,
-      "byte_start": 1621293,
-      "byte_ende": 2102828,
+      "byte_start": 1726893,
+      "byte_ende": 2208428,
       "bytes": 481536,
-      "range_header": "bytes=1621293-2102828",
+      "range_header": "bytes=1726893-2208428",
       "vorlauf_s": 0.072,
-      "inhalt_start": 101.376,
-      "anker_sha256": "6b47a23f9218069a20d31a7b14845a10bd9a65fc4dae59361212a84fc61dcda4",
+      "inhalt_start": 107.976,
+      "anker_sha256": "35781514fc83e435178369f6d9c791308dd6445d88f64a66855a1e227b8b690c",
       "einblendung_ms": 60,
-      "text": "But the media still blames Trump for bad weather, so forget CO2-Costing, bad weather. It's Donald Trump. Er setzt den Ton für die nächsten Tage. Trump sagt ja, werde ja mittlerweile sogar für schlechtes Wetter verantwortlich gemacht. Dabei sagt er, keine Regierung der Welt könne irgendetwas gegen die Klima verändern. So steht es auch auf den Konferenzschreibblöcken, die hier ausgegeben werden. Die"
+      "text": "Er setzt den Ton für die nächsten Tage. Trump sagt ja, werde ja mittlerweile sogar für schlechtes Wetter verantwortlich gemacht. Dabei sagt er, keine Regierung der Welt könne irgendetwas gegen die Klima verändern. So steht es auch auf den Konferenzschreibblöcken, die hier ausgegeben werden. Die Natur, nicht menschliche Aktivität bestimmt das Klima, steht da drauf. Und so langsam, das ist die Point"
     },
     {
-      "hook": "Keine Strafe für tödliche Trunkenheitsfahrt",
+      "hook": "Wie lange wird er in Gefängnis, um meine Tochter zu töten?",
       "start": 761.184,
-      "ende": 786.84,
-      "laenge": 25.66,
+      "ende": 781.272,
+      "laenge": 20.09,
       "byte_start": 12179373,
-      "byte_ende": 12589868,
-      "bytes": 410496,
-      "range_header": "bytes=12179373-12589868",
+      "byte_ende": 12500780,
+      "bytes": 321408,
+      "range_header": "bytes=12179373-12500780",
       "vorlauf_s": 0.072,
       "inhalt_start": 761.256,
       "anker_sha256": "c05349168e4390386e1addbb31e424669dae98cad731a282617a0aced15d8a8e",
       "einblendung_ms": 60,
-      "text": "Dann schaute ich auf sie und sagte, wie lange wird er in die Gefängnis? Wie lange wird er in die Gefängnis, um meine Tochter zu töten? Sie sagten, er wird nicht in die Gefängnis. Sie werden glücklich sein, wenn er eine Jailzeit bekommt, weil so funktioniert das System. Ins Gefängnis. Sie könne froh sein, wenn er überhaupt in Untersuchungshaft kommt. Fälle wie Carries gelten damals eher als bedauer"
+      "text": "Dann schaute ich auf sie und sagte, wie lange wird er in die Gefängnis? Wie lange wird er in die Gefängnis, um meine Tochter zu töten? Sie sagten, er wird nicht in die Gefängnis. Sie werden glücklich sein, wenn er eine Jailzeit bekommt, weil so funktioniert das System. Ins Gefängnis. Sie könne froh sein, wenn er überhaupt in Untersuchungshaft kommt."
     },
     {
-      "hook": "Hartnäckigkeit in der Hauptstadt",
-      "start": 906.696,
-      "ende": 931.872,
-      "laenge": 25.18,
-      "byte_start": 14507565,
-      "byte_ende": 14910380,
-      "bytes": 402816,
-      "range_header": "bytes=14507565-14910380",
+      "hook": "Das Mindestalter für Alkohol soll im ganzen Land vereinheitlicht werden.",
+      "start": 1089.456,
+      "ende": 1109.544,
+      "laenge": 20.09,
+      "byte_start": 17431725,
+      "byte_ende": 17753132,
+      "bytes": 321408,
+      "range_header": "bytes=17431725-17753132",
       "vorlauf_s": 0.072,
-      "inhalt_start": 906.768,
-      "anker_sha256": "6b460845fa7dc6e7cfddfb5d20a3c19f6aeba36b399c2ac87a17be97686c6abd",
+      "inhalt_start": 1089.528,
+      "anker_sha256": "9f33a273f008093f6f077f25a12b91e03168e72b13ad7a63e223704a06c88fdc",
       "einblendung_ms": 60,
-      "text": "Im August hält sie ihre erste Pressekonferenz. Nachbarn stellen Tische auf und sammeln Unterschriften für strengere Regeln für Alkohol am Steuer. Mit einer Freundin fährt sie nach Sacramento zum Büro von Kaliforniens Gouverneur, um ihn von ihrer Idee zu überzeugen. Der hat keine Zeit für sie. Aber statt aufzugeben, kommt sie einfach wieder und wieder. Fast jeden Tag fährt sie jetzt in die Hauptsta"
+      "text": "Das Mindestalter für Alkohol soll im ganzen Land vereinheitlicht werden. Auf 21 Jahre. Reagan ist eigentlich ein Gegner staatlicher Regulierung. Was diesen Tag umso erstaunlicher macht."
     },
     {
-      "hook": "Warum die Alkohollobby nicht eingriff",
-      "start": 1248.408,
-      "ende": 1278.504,
-      "laenge": 30.1,
-      "byte_start": 19974957,
-      "byte_ende": 20456492,
-      "bytes": 481536,
-      "range_header": "bytes=19974957-20456492",
+      "hook": "Candace Leitner will weniger Alkoholkonsum – und die Lobby sagt Okay.",
+      "start": 1280.136,
+      "ende": 1300.224,
+      "laenge": 20.09,
+      "byte_start": 20482605,
+      "byte_ende": 20804012,
+      "bytes": 321408,
+      "range_header": "bytes=20482605-20804012",
       "vorlauf_s": 0.072,
-      "inhalt_start": 1248.48,
-      "anker_sha256": "ef18cc00def195eb061d558ab766afa5b27e0ef6a935525d655409438734e0ec",
+      "inhalt_start": 1280.208,
+      "anker_sha256": "cdc4bc19b16d4649eeddc0f30fa4aba87334c0d7f8eb5758f7fdea4beea70049",
       "einblendung_ms": 60,
-      "text": "Und sie erzählt auch warum, mit einer Anekdote. Ganz am Anfang, da organisiert sie ein Treffen mit Leuten, die etwas gegen ihre Forderungen haben könnten. Vertreter aus der Alkoholindustrie oder von einer NGO, die für Freiheitsrechte kämpft. Sie erzählt ihnen ihre Geschichte, erklärt, was sie vorhat, fragt. Irgendwelche Einwände? Und niemand rührt sich. Candice Leitner sagt, ich will, dass Mensche"
+      "text": "Candice Leitner sagt, ich will, dass Menschen weniger Alkohol trinken. Und die Alkohollobby sagt so. Okay. Später erfährt sie, warum."
     },
     {
-      "hook": "Der König der Desinformation",
-      "start": 1508.04,
-      "ende": 1532.904,
-      "laenge": 24.86,
-      "byte_start": 24129069,
-      "byte_ende": 24526892,
-      "bytes": 397824,
-      "range_header": "bytes=24129069-24526892",
+      "hook": "Ein König der Desinformation, genannt Dr. Evil.",
+      "start": 1503.288,
+      "ende": 1525.08,
+      "laenge": 21.79,
+      "byte_start": 24053037,
+      "byte_ende": 24401708,
+      "bytes": 348672,
+      "range_header": "bytes=24053037-24401708",
       "vorlauf_s": 0.072,
-      "inhalt_start": 1508.112,
-      "anker_sha256": "a3ae98318d92c2af54c2649be99b9e726112c09988e8bfc06bb8a67c28995f72",
+      "inhalt_start": 1503.36,
+      "anker_sha256": "d193fe1f2a734635e740a11f3fd31b2c286aa7a0540ea086887ce3088ec6bd54",
       "einblendung_ms": 60,
-      "text": "Ein König der Desinformation, der Fake-Kampagnen und Fake-News verbreitet. Lange, bevor das uns überhaupt ein Begriff war. Seine Gegner nennen ihn deshalb auch Dr. Evil. Dr. Evil, ein Kerl, der seine ganze Karriere gemacht hat, um Front-Gruppen zu erschaffen, um sich von dir zu verletzen. Ein Mann, dessen größte Kunst darin besteht, zu verstecken, für wen er arbeitet. Und wessen Interessen er dien"
+      "text": "Und gefürchtet. Ein König der Desinformation, der Fake-Kampagnen und Fake-News verbreitet. Lange, bevor das uns überhaupt ein Begriff war. Seine Gegner nennen ihn deshalb auch Dr. Evil. Dr. Evil, ein Kerl, der seine ganze Karriere gemacht hat, um Front-Gruppen zu erschaffen, um sich von dir zu verletzen."
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T01:07:01+00:00",
+    "am": "2026-08-20T03:11:00+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",

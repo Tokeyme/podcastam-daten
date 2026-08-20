@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "443fde9f-0e16-49d4-ab7c-0b759d389088",
+  "apple_collection_id": null,
+  "show": "Verbrechen",
+  "titel": "Blut auf der Heimfahrt",
+  "audio": {
+    "url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/a18bb777-198c-4318-89d3-ad82f8b3a65a/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=a18bb777-198c-4318-89d3-ad82f8b3a65a&feed=dnJhzmyN",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 45656639,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T06:09:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Gewalt im Fußball: Wenn Fankultur in Schlägereien umschlägt",
+  "kurzfassung": "Nach einer brutalen Schlägerei in einer S-Bahn nach einem Fußballspiel in Berlin untersucht der Zeit-Chefreporter Stefan Willeke die Gewaltbereitschaft in Fankurven. Dabei zeigt sich eine ambivalente Mischung aus sozialem Engagement und rücksichtsloser Aggression bei organisierten Ultras. Die Recherche beleuchtet die Rolle der Vereine, die Dynamik von Gruppen und Parallelen zur zunehmenden Enthemmung in der gesamten Gesellschaft.",
+  "stichpunkte": [
+    "Ein privater Familienausflug zum Auswärtsspiel des FC Schalke in Berlin endet in einer brutalen S-Bahn-Prügelei zwischen Fans.",
+    "Der weit überwiegende Teil der Ultras ist friedlich, doch eine kleine Gruppe ist hochgradig gewaltbereit und sucht gezielt Auseinandersetzungen.",
+    "Die gewaltbereiten Fans zeichnen sich durch strikte Disziplin und absolute Loyalität zum Verein aus, stehen aber im Kontrast zu ihrem sozialen Engagement.",
+    "Statistiken der Zentralen Informationsstelle Sporteinsätze verdeutlichen die enorme Belastung für die Polizei durch den Profifußball.",
+    "Historische Vergleiche wie der Angriff auf den französischen Polizisten Daniel Nivel 1998 zeigen die Kontinuität organisierter Hooligan-Gewalt.",
+    "Viele Vereine tun sich schwer mit harten Stadionverboten, da die Ultras als akustische und optische Träger der Fankurve großen Einfluss besitzen.",
+    "Die Aggression im Fußball steht stellvertretend für eine breitere gesellschaftliche Enthemmung und Verrohung im öffentlichen Raum."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-20T06:09:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2853,
+  "veroeffentlicht": "2026-08-11T13:30:00+00:00",
+  "beschreibung": "Ein Fußballspiel in Berlin, 25.000 Auswärtsfans, gute Stimmung – bis während der Rückfahrt alles kippt: In einer S-Bahn geraten Hertha- und Schalke-Anhänger aneinander, Menschen werden geschlagen, Blut läuft. Stefan Willeke sitzt mit seinen Kindern mitten in der Szene; der Schock wird zum Startpunkt einer Recherche.\n\nIn Folge 394 erzählt der ZEIT-Chefreporter, wie Gewalt im Fußball funktioniert: von einer kleinen, hochmobilen Gruppe, die sich leicht entzünden lässt – und von Ultras, die gleichzeitig Spenden sammeln und nach Wegen suchen, sich abseits der Öffentlichkeit mit möglichst vielen Leuten zu prügeln. Anne Kunze und Daniel Müller sprechen mit Stefan Willeke über Gruppendynamik, verabredete Schlägereien, Polizeieinsätze in Millionenstunden, Stadionverbote – und über die größere Frage, ob der Fußball nur Bühne ist oder ein Frühwarnsystem für eine enthemmtere Gesellschaft.\n\nDer Text zur Folge (»Ein Mann verprügelt eine junge Frau. Das soll mein Fußball sein?«) von Stefan Willeke ist im Mai 2025 in der ZEIT erschienen.\n\nDie neue Ausgabe des Kriminalmagazins ZEIT Verbrechen liegt am Kiosk und ist hier online bestellbar.\n\nAb dem 15.1.2025 sind alle Folgen von \"Verbrechen\", die vor dem 31.3.2021 erschienen sind, nur noch exklusiv mit einem Digital- oder Podcastabo der ZEIT zu hören – auf zeit.de, auf Apple Podcasts und auf Spotify. Außerdem erhalten Sie mit einem Abo jeden Monat mindestens eine zusätzliche Folge von ZEIT Verbrechen. Ein kostenloses Probeabo können Sie hier abschließen. Zum Podcastabo geht es hier. Wie Sie Ihr Abo mit Spotify oder Apple Podcasts verbinden, lesen Sie hier.\n\n[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER.\n[ANZEIGE] Mehr hören? Dann testen Sie unser Podcastabo mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. Jetzt 4 Wochen kostenlos testen. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt 4 Wochen kostenlos DIE ZEIT. Hier geht's zum Angebot.\nUnd hier gibt es unser Angebot für alle unter 30 Jahren.",
+  "beschreibung_html": "<p>Ein Fußballspiel in Berlin, 25.000 Auswärtsfans, gute Stimmung – bis während der Rückfahrt alles kippt: In einer S-Bahn geraten Hertha- und Schalke-Anhänger aneinander, Menschen werden geschlagen, Blut läuft. Stefan Willeke sitzt mit seinen Kindern mitten in der Szene; der Schock wird zum Startpunkt einer Recherche.</p>\n<p>In Folge 394 erzählt der ZEIT-Chefreporter, wie Gewalt im Fußball funktioniert: von einer kleinen, hochmobilen Gruppe, die sich leicht entzünden lässt – und von Ultras, die gleichzeitig Spenden sammeln und nach Wegen suchen, sich abseits der Öffentlichkeit mit möglichst vielen Leuten zu prügeln. Anne Kunze und Daniel Müller sprechen mit Stefan Willeke über Gruppendynamik, verabredete Schlägereien, Polizeieinsätze in Millionenstunden, Stadionverbote – und über die größere Frage, ob der Fußball nur Bühne ist oder ein Frühwarnsystem für eine enthemmtere Gesellschaft.</p>\n<p>Der Text zur Folge (<a href=\"https://www.zeit.de/2025/20/gewalt-fussballfans-schalke-04-hertha-bsc-polizei\" rel=\"noopener noreferrer\">»Ein Mann verprügelt eine junge Frau. Das soll mein Fußball sein?«</a>) von Stefan Willeke ist im Mai 2025 in der ZEIT erschienen.</p>\n<p>Die neue Ausgabe des Kriminalmagazins ZEIT Verbrechen liegt am Kiosk und ist <a href=\"https://shop.zeit.de/sortiment/zeit-kiosk/zeit-magazine/zeit-verbrechen\" target=\"_blank\" rel=\"noopener noreferrer\">hier</a> online bestellbar.</p>\n<p><p>Ab dem 15.1.2025 sind alle Folgen von \"Verbrechen\", die vor dem 31.3.2021 erschienen sind, nur noch exklusiv mit einem Digital- oder Podcastabo der ZEIT zu hören – auf <a href=\"http://www.zeit.de/verbrechen\" target=\"_blank\">zeit.de</a><strong>, </strong>auf Apple Podcasts und auf Spotify. Außerdem erhalten Sie mit einem Abo jeden Monat mindestens eine zusätzliche Folge von ZEIT Verbrechen. Ein kostenloses Probeabo können Sie <a href=\"https://www.zeit.de/mehr-hoeren\" target=\"_blank\">hier</a> abschließen. Zum Podcastabo geht es <a href=\"https://www.zeit.de/podcastabo\"><strong>hier</strong></a><strong>. </strong>Wie Sie Ihr Abo mit Spotify oder Apple Podcasts verbinden, lesen Sie <a href=\"https://premium.zeit.de/faq/audio#Audio_Spotify\" target=\"_blank\">h<strong>ier</strong></a><strong>.</strong><br>&nbsp;</p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie&nbsp;HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcastabo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" target=\"_blank\">Jetzt 4 Wochen kostenlos tes<strong>ten</strong></a><strong>. </strong>Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&amp;utm_medium=audio&amp;utm_source=podcast&amp;utm_campaign=podcast_shownotes&amp;utm_content=01w0151k1100angaudall2312&amp;wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" target=\"_blank\">Hier geht's zum Ange<strong>bot</strong></a><strong>.&nbsp;</strong></p><p>Und <a href=\"https://abo.zeit.de/u30_audio/?icode=01w0557k1100angaudall2510&amp;utm_medium=audio&amp;utm_source=shownotes&amp;utm_campaign=podcast_shownotes&amp;utm_content=01w0557k1100angaudall2510&amp;wt_zmc=audall.Int.zabo.shownotes.podcast_shownotes.x\">hier</a> gibt es unser Angebot <strong>für alle unter 30 Jahren.</strong></p></p>",
+  "untertitel": "Ein Familienausflug ins Stadion endet in einer Prügelei in der S-Bahn. ZEIT-Chefreporter Stefan Willeke fragt: Warum eskaliert Gewalt – und warum immer wieder im Fußball?",
+  "bild_url": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/71889686-7481-413a-aa17-ba613705825d/3000x3000/verbrechen.jpg?aid=rss_feed",
+  "schlagworte": [
+    "fußball",
+    "true crime",
+    "gewalt"
+  ],
+  "folgennummer": 383
+}

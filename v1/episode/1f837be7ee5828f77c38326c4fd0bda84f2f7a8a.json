@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "guid": "59df355e-8323-4edb-b113-0468f5aeb451",
+  "apple_collection_id": null,
+  "show": "CheckPod - Der Podcast mit Checker Tobi",
+  "titel": "CheckPod Klassiker: Piraten | Haustiere an Bord und brennende Bärte",
+  "audio": {
+    "url": "https://media.neuland.br.de/file/2121222/c/feed/checkpod-klassiker-piraten-haustiere-an-bord-und-brennende-baerte.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 21081656,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T02:42:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Checker Tobi und Gast Leo gehen Mythen und Fakten rund um das Thema Piraten nach.",
+  "kurzfassung": "Checker Tobi und der zehnjährige Leo gehen gemeinsam mit Experten dem wahren Leben von Piraten auf den Grund. Dabei klären sie Fragen zu Haustieren, der Kapitänswahl und angeblichen Schatzverstecken. Zum Abschluss folgt eine knifflige Augenklappen-Challenge.",
+  "stichpunkte": [
+    "Das Bild von Piraten stammt meist aus Filmen; Papageien auf der Schulter waren beispielsweise eine Erfindung.",
+    "Statt echter Haustiere hatten Piraten oft Ziegen und Hühner für frische Lebensmittel sowie Ungeziefer wie Ratten an Bord.",
+    "Die Mannschaften wählten ihren Kapitän selbst und konnten ihn bei schlechter Leistung auch wieder absetzen.",
+    "Berühmte historische Figuren wie Blackbeard nutzten brennende Schnüre im Bart, um Gegner einzuschüchtern.",
+    "Neben männlichen Kapitänen gab es auch einflussreiche Frauen wie die chinesische Flottenanführerin Sheng Yi Zhao.",
+    "Piraten vergruben ihre Beute nicht, sondern verkauften erbeutete Handelswaren wie Gewürze oder Kakao direkt.",
+    "Auch moderne Piraten werden oft durch Armut zu Taten auf Schnellbooten anstelle von Segelschiffen getrieben.",
+    "Der deutsche Seeräuber Klaus Störtebecker verdankt seinen Namen der Legende, vier Liter Wein in einem Zug austrinken zu können."
+  ],
+  "kapitel": [
+    {
+      "titel": "Begrüßung und die erste Checkerfrage zu Haustieren",
+      "start": 78.88
+    },
+    {
+      "titel": "Die zweite Checkerfrage zur Wahl des Kapitäns",
+      "start": 364.42
+    },
+    {
+      "titel": "Die dritte Checkerfrage zu Schätzen und Schatzkarten",
+      "start": 788.42
+    },
+    {
+      "titel": "Piraten heute und die Augenklappen-Challenge",
+      "start": 893.12
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Hatten Piraten wirklich Papageien als Haustiere?",
+      "start": 297.072,
+      "ende": 321.6,
+      "laenge": 24.53,
+      "byte_start": 4972728,
+      "byte_ende": 5365175,
+      "bytes": 392448,
+      "range_header": "bytes=4972728-5365175",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 297.144,
+      "anker_sha256": "547700ce71fcda4ecc1b465b86d6e8353a83d513d0d1e6da44060fca5c8bd512",
+      "einblendung_ms": 60,
+      "text": "Das Bild von Piraten, wie wir sie uns vorstellen, stammt allerdings aus Filmen und Büchern. Sie haben zwar hin und wieder mit exotischen Tieren gehandelt, aber die Idee mit dem Papagei auf der Schulter ist nur erfunden. Allerdings hatten Piraten oft Ziegen und Hühner dabei, um frische Lebensmittel an Bord zu haben, also Milch oder Eier. Und es gab jede Menge anderer Tiere. Ratten unter Deck, Maden"
+    },
+    {
+      "hook": "Wie wurde man früher eigentlich Piratenkapitän?",
+      "start": 525.888,
+      "ende": 546.0,
+      "laenge": 20.11,
+      "byte_start": 8633784,
+      "byte_ende": 8955575,
+      "bytes": 321792,
+      "range_header": "bytes=8633784-8955575",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 525.96,
+      "anker_sha256": "b1c3d2671b5dadf8eeef6ec1dd2fe1ffa3c2c1fd3b54c953269c77611a689138",
+      "einblendung_ms": 60,
+      "text": "Und zwar, wie wurde man denn eigentlich Piraten-Kapitän? Die Piraten-Mannschaft hat darüber abgestimmt, wer der Kapitän sein soll. Und meistens wurde natürlich der gewählt, der sich gut in der Navigation auskannte. Und er musste natürlich auch gut kämpfen können. Mutig sollte er natürlich auch sein."
+    },
+    {
+      "hook": "Eine chinesische Piratenanführerin mit 20.000 Schiffen",
+      "start": 662.664,
+      "ende": 682.752,
+      "laenge": 20.09,
+      "byte_start": 10822200,
+      "byte_ende": 11143607,
+      "bytes": 321408,
+      "range_header": "bytes=10822200-11143607",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 662.736,
+      "anker_sha256": "95db027223db40dcbd32a67e62921651cac630dc248d0d86fed8a51d41034018",
+      "einblendung_ms": 60,
+      "text": "Und dann hat sie eben dieses riesige Piratenheer, kann man schon fast sagen, über 20.000 Schiffe befehlt. 20.000? 20.000, riesig. Wow. Wie hieß die? Die klingt super cool. Sheng Yi Zhao. Sheng Yi Zhao."
+    },
+    {
+      "hook": "Haben Piraten wirklich ihre Schätze vergraben?",
+      "start": 879.504,
+      "ende": 899.616,
+      "laenge": 20.11,
+      "byte_start": 14291640,
+      "byte_ende": 14613431,
+      "bytes": 321792,
+      "range_header": "bytes=14291640-14613431",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 879.576,
+      "anker_sha256": "7a4ae70c375592b621da12966e18dcd500ae6dadfe5c8562772e324a21387ddf",
+      "einblendung_ms": 60,
+      "text": "Piraten vergruben ihre Schätze nicht und zeichneten auch keine Schatzkarten. Sie verkauften ihre Beute und gaben das Geld dann aus. Für ihre Familien, ihre nächste Fahrt oder für eine wilde Piratenparty in der Hafenkneipe. Gecheckt!"
+    },
+    {
+      "hook": "Warum eine Augenklappe das Einschätzen von Entfernungen erschwert",
+      "start": 1057.704,
+      "ende": 1077.792,
+      "laenge": 20.09,
+      "byte_start": 17142840,
+      "byte_ende": 17464247,
+      "bytes": 321408,
+      "range_header": "bytes=17142840-17464247",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 1057.776,
+      "anker_sha256": "fd633945edb0ef0dba8e69a821d6272630258d34cb753813c00d01b70a9ee587",
+      "einblendung_ms": 60,
+      "text": "Denn es geht ja genau darum. Wenn man eine Augenklappe auf hat, dann sieht man logischerweise nur noch mit einem Auge. Aber um Entfernungen und Abstände einschätzen zu können, braucht man zwei Augen. Und deshalb sind eben solche Fitzelsachen, wie das, was wir jetzt alle gemeinsam machen, richtig schwierig. Also. Augenklappe auf. Oder Auge mit einer Hand zuhalten."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-20T02:42:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 1303,
+  "veroeffentlicht": "2026-08-14T06:00:00+02:00",
+  "beschreibung": "Hier sind sie wieder und verkürzen euch die Sommerpause: Die Folgen der ersten Staffel CheckPod. Hier wird gecheckt, ob Piraten Haustiere hatten? Wie man Piratenkapitän wurde und ob sie tatsächlich ihre Beute vergraben und Schatzkarten gezeichnet haben? (Autorin: Michaela Bold)\nHier geht es zum Podcast-Tipp Die Tigerenten-Hörspiel-Show\n\nPsst … wir haben noch einen Tipp für dich: In ARD Sounds hörst du jetzt schon die allerneueste Folge vom Checkpod: Checkpod, der Podcast mit Checker Tobi\n\nÜbrigens: Wir haben noch mehr tolle Kinder-Podcasts - hör doch mal rein:\n\nWie ein Detektiv kannst du hier spannende Rätselfälle aus der Welt der Musik lösen bei: Das Geheimnis – Musikalische Rätsel und Krimis zum Mitraten\n\nGeschichten vom Meister Eder und seinem Kobold hört ihr bei: Pumuckl - Der Hörspiel-Klassiker!\n\nNoch mehr vom Bayerischen Rundfunk für Kinder: BR Kinder, die Internetseite mit Wissenswertem aus und über alle unsere Sendungen",
+  "beschreibung_html": "<p>Hier sind sie wieder und verkürzen euch die Sommerpause: Die Folgen der ersten Staffel CheckPod. Hier wird gecheckt, ob Piraten Haustiere hatten? Wie man Piratenkapitän wurde und ob sie tatsächlich ihre Beute vergraben und Schatzkarten gezeichnet haben? (Autorin: Michaela Bold)</p><p>Hier geht es zum Podcast-Tipp <a href=\"https://www.ardaudiothek.de/sendung/tigerenten-club-die-hoer-spiel-show/13325511\">Die Tigerenten-Hörspiel-Show</a></p>\n\n<p><strong>Psst … wir haben noch einen Tipp für dich: In ARD Sounds hörst du jetzt schon die allerneueste Folge vom Checkpod: </strong><a href=\"https://1.ard.de/checkpod-checker-tobi\">Checkpod, der Podcast mit Checker Tobi </a></p>\n\n<p><strong>Übrigens: Wir haben noch mehr tolle Kinder-Podcasts - hör doch mal rein:</strong></p>\n<p>Wie ein Detektiv kannst du hier spannende Rätselfälle aus der Welt der Musik lösen bei: <a href=\"https://1.ard.de/das-geheimnis\">Das Geheimnis – Musikalische Rätsel und Krimis zum Mitraten</a></p>\n<p> </p>\n<p>Geschichten vom Meister Eder und seinem Kobold hört ihr bei: <a href=\"https://1.ard.de/pumuckl-der-hoerspiel-klassiker\">Pumuckl - Der Hörspiel-Klassiker!</a></p>\n<p>Noch mehr vom Bayerischen Rundfunk für Kinder: <a href=\"https://www.br.de/kinder/index.html\">BR Kinder, die Internetseite mit Wissenswertem aus und über alle unsere Sendungen</a></p>",
+  "bild_url": "https://img.br.de/36add796-7976-44c3-ae0e-a87b3108be3a.jpeg?w=1800",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Der KI-Podcast",
+  "apple_collection_id": null,
+  "erzeugt_am": "2026-08-20T07:16:13+00:00",
+  "folgen": [
+    {
+      "guid": "e227c17a-c9c5-46a7-b66b-3bfce33023aa",
+      "audio_url": "https://media.neuland.br.de/file/2121316/c/feed/hacken-kis-jetzt-einfach-alles-staendig-ueberall.mp3",
+      "pfad": "/v1/episode/dda4776c36ca092fa3db1fa091e03bd468732cd1.json",
+      "titel": "Hacken KIs jetzt einfach ALLES, STÄNDIG, ÜBERALL?",
+      "veroeffentlicht": "2026-08-18T04:00:00+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Wenn KIs sich gegenseitig hacken und Agenten unerlaubt Kurse buchen"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "guid": "4e69b87ce05372aed0409d2681a3b6cb",
+  "apple_collection_id": null,
+  "show": "Geschichten aus der Geschichte",
+  "titel": "GAG569: HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2568143-m-aa97b53b6e442068fbfa50c55e80e9a4.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 64596438,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T07:01:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Zwei historische Geschichten über die Piratin Zheng Yisao und eine deutsche Kolonie in…",
+  "kurzfassung": "Diese Hörbuchfolge präsentiert zwei Kapitel aus dem Buch der Hosts. Im Mittelpunkt stehen die chinesische Piratenkommandantin Zheng Yisao aus dem 19. Jahrhundert und die beschwerliche Auswanderung deutschsprachiger Siedler nach Posuso in Peru. Dabei werden sowohl die Entstehung einer mächtigen Piratenföderation als auch die Entstehung einer abgelegenen Sprachinsel im Amazonasgebiet beleuchtet.",
+  "stichpunkte": [
+    "Vorstellung der Hörbuchfolge Nummer 8 mit zwei selbst eingelesenen Geschichten aus dem Buch der Hosts",
+    "Die chinesische Piratin Zheng Yisao kommandierte im 19. Jahrhundert bis zu 70.000 Mann und 1.200 Schiffe",
+    "Nach dem Tod ihres Mannes Zheng Yi übernahm sie die Führung und heiratete später ihren Adoptivsohn Zhang Baozai",
+    "Die Piratenföderation etablierte eine strenge Bürokratie mit Schutzgeldern und festen Regeln",
+    "Zheng Yisao handelte 1810 mit der chinesischen Regierung die Straffreiheit für sich und ihre Anhänger aus und ging in Pension",
+    "Die zweite Geschichte behandelt die Auswanderung von Siedlern aus dem Rheinland und Tirol nach Peru im Jahr 1857",
+    "Initiiert durch den Agenten Kuno Damian Freiherr von Schütz zu Holzhausen, scheiterten viele anfängliche Versprechen",
+    "Nach extremen Strapazen über die Anden und unter der Führung von Pfarrer Josef Eck gründeten die verbliebenen Siedler 1859 das abgelegene Dorf Posuso",
+    "Bis heute existiert in Posuso eine einmalige deutsch-österreichische Sprachinsel mit dem Dialekt Tiroles"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-20T07:01:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 3190,
+  "veroeffentlicht": "2026-08-19T06:00:00+00:00",
+  "beschreibung": "Zwei Hörbuchgeschichten über eine der mächtigsten Piratinnen der Geschichte und eine deutschsprachige Kolonie in Südamerika\nIn dieser Folge gibt's wieder zwei Hörbuchgeschichten aus unserem ersten Buch: Daniel liest Richards Geschichte über die Piratin Zheng Yisao, die zeitweise an die 70.000 Mann befehligte. Richard liest Daniels Geschichte über ein Siedlungsprojekt in Südamerika, das zwar, wie so viele solcher Unterfangen, nicht besonders gut geht, aber wohl eines der eigentümlichsten der Geschichte ist.\n\nLiteratur\n\nDie Piratin, die in den Ruhestand ging\n\nPeter Lehr. \"Pirates: A New History, from Vikings to Somali Raiders\" New Haven 2015.\n\nRheinland oder Tirol, Hauptsache Peru\n\nWilfried Schabus. \"Pozuzo. Auswanderer aus Tirol und Deutschland am Rand Amazoniens in Peru\" Innsbruck 2016.\n\nDas Episodenbild zeigt eine chinesische Piratenflotte vor der Küste Lantaus und deutsch- und tirolstämmige Bewohnerinnen und Bewohner der peruanischen Siedlung Pozuzo im Jahr 1926.\n\nAUS UNSERER WERBUNG\n\nDu möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos & Rabatte!\n\nGeschichten aus der Geschichte jetzt auch als Brettspiel! Werkelt mit uns am Flickerlteppich! Gibt es dort, wo es auch Becher, T-Shirts oder Hoodies zu kaufen gibt: https://geschichte.shop\n\nWir sind jetzt auch bei CampfireFM! Wer direkt in Folgen kommentieren will, Zusatzmaterial und Blicke hinter die Kulissen sehen will: einfach die App installieren und unserer Community beitreten:\nhttps://www.joincampfire.fm/podcasts/22\n\nWir haben auch ein Buch geschrieben: Wer es erwerben will, es ist überall im Handel, aber auch direkt über den Verlag zu erwerben: https://www.piper.de/buecher/geschichten-aus-der-geschichte-isbn-978-3-492-06363-0\n\nWer unsere Folgen lieber ohne Werbung anhören will, kann das über eine kleine Unterstützung auf Steady oder ein Abo des GeschichteFM-Plus Kanals auf Apple Podcasts tun.\n\nWir freuen uns, wenn ihr den Podcast bei Apple Podcasts oder grundsätzlich wo immer dies möglich ist rezensiert oder bewertet.\n\nWir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!\n\nDu möchtest Werbung in diesem Podcast schalten? Dann erfahre hier mehr über die Werbemöglichkeiten bei Seven.One Audio!",
+  "beschreibung_html": "Zwei Hörbuchgeschichten über eine der mächtigsten Piratinnen der Geschichte und eine deutschsprachige Kolonie in Südamerika\n<p>In dieser Folge gibt's wieder zwei Hörbuchgeschichten aus unserem ersten Buch: Daniel liest Richards Geschichte über die Piratin Zheng Yisao, die zeitweise an die 70.000 Mann befehligte. Richard liest Daniels Geschichte über ein Siedlungsprojekt in Südamerika, das zwar, wie so viele solcher Unterfangen, nicht besonders gut geht, aber wohl eines der eigentümlichsten der Geschichte ist.</p>\n<h2 id=\"literatur\">Literatur</h2>\n<h3 id=\"diepiratindieindenruhestandging\">Die Piratin, die in den Ruhestand ging</h3>\n<ul>\n<li>Peter Lehr. \"Pirates: A New History, from Vikings to Somali Raiders\" New Haven 2015.</li>\n</ul>\n<h3 id=\"rheinlandodertirolhauptsacheperu\">Rheinland oder Tirol, Hauptsache Peru</h3>\n<ul>\n<li>Wilfried Schabus. \"Pozuzo. Auswanderer aus Tirol und Deutschland am Rand Amazoniens in Peru\" Innsbruck 2016.</li>\n</ul>\n<p>Das Episodenbild zeigt eine <a href=\"https://commons.wikimedia.org/wiki/File:%E9%9D%96%E6%B5%B7%E5%85%A8%E5%9C%96_%E5%A4%A7%E5%B6%BC%E5%9B%B0%E8%B3%8A.jpg\">chinesische Piratenflotte vor der Küste Lantaus</a> und <a href=\"https://commons.wikimedia.org/wiki/File:%28CCC_No._19._1926%29_-_La_Colonia_Alemana_del_Pozuzo_%282%29.png\">deutsch- und tirolstämmige Bewohnerinnen und Bewohner der peruanischen Siedlung Pozuzo im Jahr 1926</a>.</p>\n<p><strong>AUS UNSERER WERBUNG</strong></p>\n<p>Du möchtest mehr über unsere Werbepartner erfahren? <a href=\"https://linktr.ee/GeschichtenausderGeschichte\"><strong>Hier findest du alle Infos & Rabatte!</strong></a></p>\n<p><strong>Geschichten aus der Geschichte jetzt auch als Brettspiel!</strong> Werkelt mit uns am Flickerlteppich! Gibt es dort, wo es auch Becher, T-Shirts oder Hoodies zu kaufen gibt: <a href=\"https://geschichte.shop\">https://geschichte.shop</a></p>\n<p><strong>Wir sind jetzt auch bei CampfireFM!</strong> Wer direkt in Folgen kommentieren will, Zusatzmaterial und Blicke hinter die Kulissen sehen will: einfach die App installieren und unserer Community beitreten:\n<a href=\"https://www.joincampfire.fm/podcasts/22\">https://www.joincampfire.fm/podcasts/22</a></p>\n<p><strong>Wir haben auch ein Buch geschrieben:</strong> Wer es erwerben will, es ist überall im Handel, aber auch direkt über den Verlag zu erwerben: <a href=\"https://www.piper.de/buecher/geschichten-aus-der-geschichte-isbn-978-3-492-06363-0\">https://www.piper.de/buecher/geschichten-aus-der-geschichte-isbn-978-3-492-06363-0</a></p>\n<p><strong>Wer unsere Folgen lieber ohne Werbung anhören will, kann das über eine kleine Unterstützung auf <a href=\"https://steadyhq.com/geschichtefm\">Steady</a> oder ein Abo des GeschichteFM-Plus Kanals auf Apple Podcasts tun.</strong></p>\n<p><strong>Wir freuen uns, wenn ihr den Podcast bei <a href=\"https://podcasts.apple.com/de/podcast/geschichten-aus-der-geschichte/id1044844618\">Apple Podcasts</a> oder grundsätzlich wo immer dies möglich ist rezensiert oder bewertet.</strong></p>\n<p><strong>Wir freuen uns auch immer, wenn ihr euren Freundinnen und Freunden, Kolleginnen und Kollegen oder sogar Nachbarinnen und Nachbarn von uns erzählt!</strong></p>\n<p>Du möchtest Werbung in diesem Podcast schalten? <a href=\"https://www.seven.one/portfolio/sevenone-audio\"><strong>Dann erfahre hier mehr über die Werbemöglichkeiten bei Seven.One Audio!</strong></a></p>",
+  "untertitel": "Zwei Hörbuchgeschichten über eine der mächtigsten Piratinnen der Geschichte und eine deutschsprachige Kolonie in Südamerika",
+  "bild_url": "https://images.podigee-cdn.net/0x,sPU0__DCm2skWQ2TYgniiuPpdc6XNhHTVYxHVQ1NipoU=/https://main.podigee-cdn.net/uploads/u32411/e37405eb-3ac4-4f4c-b81f-a0201a93801d.jpg",
+  "schlagworte": [
+    "geschichten aus der geschichte",
+    "Erzählung",
+    "History",
+    "richard hemmer",
+    "daniel meßner"
+  ],
+  "folgennummer": 569
+}

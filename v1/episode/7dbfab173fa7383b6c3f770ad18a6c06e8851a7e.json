@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "guid": "e4bb6d56-df1c-435e-8467-4f98f5f9e5a8",
+  "apple_collection_id": null,
+  "show": "Aktenzeichen XY… Unvergessene Verbrechen",
+  "titel": "#113 Explosion im Möbelhaus",
+  "audio": {
+    "url": "https://cdn.julephosting.de/podcasts/1353-aktenzeichen-xy-unvergessene-verbrechen/247944-new-episode.mp3?v=2",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 37510373,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T04:52:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Eine Sprengstoffserie erschüttert Möbelhäuser in ganz Europa – die Spur führt nach Polen.",
+  "kurzfassung": "Im Juni 2011 explodiert ein selbstgebauter Sprengsatz in einer Dresdner Möbelhausfiliale und verletzt zwei Menschen schwer. Ermittlungen enthüllen eine europaweite Anschlagsserie in vier Ländern ohne zunächst bekannte Motive. Erst nach monatelanger internationaler Zusammenarbeit und einem weiteren Vorfall in Prag übergeben die deutschen Behörden den Fall an Polen, wo die Täter schließlich gefasst werden.",
+  "stichpunkte": [
+    "Explosion eines selbstgebauten Sprengsatzes in einer Dresdner Möbelhausfiliale am 10. Juni 2011",
+    "Zwei Mitarbeiter der Semperoper erleiden als Kunden ein schweres Knalltrauma",
+    "Ähnliche Anschläge in Belgien, Frankreich und den Niederlanden zeigen eine europaweite Serie",
+    "Gründung einer besonderen Aufbauorganisation (BAO) durch das LKA Sachsen für die Ermittlungen",
+    "Frühzeitige Einbindung von Europol zur internationalen Koordination und zum Spurenvergleich",
+    "Einsatz von Mantrailer-Hunden führt die Ermittler im Juli 2011 bis an die polnische Grenze",
+    "Ein weiterer, entschärfter Sprengsatz in Prag im September 2011 bringt die Erpresser mit einer Lösegeldforderung über 6 Millionen Euro in Verbindung",
+    "Polnische Behörden übernehmen die Ermittlungen, überwachen die Verdächtigen und nehmen sie am 5. Oktober 2011 fest",
+    "Gerichtliche Verurteilung der beiden Täter in Polen zu Freiheitsstrafen von viereinhalb und dreieinhalb Jahren im August 2012"
+  ],
+  "kapitel": [
+    {
+      "titel": "Die Explosion in Dresden",
+      "start": 14.535
+    },
+    {
+      "titel": "Ermittlungen und internationale Verbindungen",
+      "start": 590.144
+    },
+    {
+      "titel": "Spurensuche und Mantrailer-Einsatz",
+      "start": 1742.194
+    },
+    {
+      "titel": "Festnahme der Täter in Polen",
+      "start": 2042.171
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Was ist eine Besondere Aufbauorganisation?",
+      "start": 184.764,
+      "ende": 204.878,
+      "laenge": 20.11,
+      "byte_start": 2663653,
+      "byte_ende": 2945252,
+      "bytes": 281600,
+      "range_header": "bytes=2663653-2945252",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 184.842,
+      "anker_sha256": "6805d411eb2f5572a62cf7304b7d59d1ab1f270ea396722f2be87b986781c9bc",
+      "einblendung_ms": 60,
+      "text": "Ja, eine besondere Aufbauorganisation ist die Abkürzung dafür. Das wird bei besonderen Lagen eingerichtet, die man im normalen Polizeieintag so nicht bewältigen könnte. Man kann sich das vorstellen wie eine eigenständige Dienststelle für nur einen Fall."
+    },
+    {
+      "hook": "Das auffällige Verhalten des Verdächtigen",
+      "start": 509.78,
+      "ende": 529.868,
+      "laenge": 20.09,
+      "byte_start": 7213870,
+      "byte_ende": 7495103,
+      "bytes": 281234,
+      "range_header": "bytes=7213870-7495103",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 509.858,
+      "anker_sha256": "9b6c50c9931d2e37dcba211d02b28e6981fde506cf26f76c7545759184e63694",
+      "einblendung_ms": 60,
+      "text": "Er ging als Einziger sehr zügig vom Explosionsort weg, mit eingezogenem Kopf und ohne sich umzuschauen. Er war außerdem auffällig gekleidet, hatte in Basecap auf dem Kopf eine große Brille mit lila Gläsern und eine eingerollte Zeitung in der Hand."
+    },
+    {
+      "hook": "Wie Handydaten die Spur nach Polen lenkten",
+      "start": 1397.002,
+      "ende": 1417.117,
+      "laenge": 20.11,
+      "byte_start": 19634990,
+      "byte_ende": 19916589,
+      "bytes": 281600,
+      "range_header": "bytes=19634990-19916589",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1397.081,
+      "anker_sha256": "ffbc1f534044c0873c5300cf860915715ea4a50e705453fd3777638094f9b71d",
+      "einblendung_ms": 60,
+      "text": "wir über den Provider der SIM-Karte diese Daten weiter ermitteln konnten. Über den Provider lässt sich unter anderem herausfinden, wo sich ein Handy mit dem Netz verbindet, bei Anrufen oder über mobile Daten. Welche Informationen haben Sie jetzt dazu bekommen? Wir haben herausgefunden, dass die erste Verbindung am Tag der Tat in einer"
+    },
+    {
+      "hook": "Zweifel an den sogenannten Wunderhunden",
+      "start": 1789.127,
+      "ende": 1809.241,
+      "laenge": 20.11,
+      "byte_start": 25124727,
+      "byte_ende": 25406326,
+      "bytes": 281600,
+      "range_header": "bytes=25124727-25406326",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1789.205,
+      "anker_sha256": "a24b86fc270d9d79a75ffcfb266779eedf4ba65613ad2d83bf62df74d235be30",
+      "einblendung_ms": 60,
+      "text": "Das erinnerte mich so ein bisschen an einen Hollywood-Film. Und man muss ja auch dazu sagen, die Studienlage, die ist dünn und bis heute ist nicht wissenschaftlich belegt. Ob das wirklich funktioniert, oder Herr Mertens? Naja, es gab also durchaus kritische Bemerkungen in den eigenen Reihen."
+    },
+    {
+      "hook": "Milliardenschäden durch Cyberangriffe in Deutschland",
+      "start": 2215.68,
+      "ende": 2238.25,
+      "laenge": 22.57,
+      "byte_start": 31096476,
+      "byte_ende": 31412452,
+      "bytes": 315977,
+      "range_header": "bytes=31096476-31412452",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2215.758,
+      "anker_sha256": "28665556c457cb5c00fe27911a99e17158126ccfed2f458dce296035fa8e6234",
+      "einblendung_ms": 60,
+      "text": "Zeit der Cyberangriffe und das ist wirklich absolut das Schlimmste. Nur eine Zahl. Die Cyberangriffe verursachen jedes Jahr einen Schaden allein in Deutschland von über 200 Milliarden. Trotzdem sind diese Zahlen mit Vorbehalt zu genießen, weil die Dunkelziffer extrem hoch ist."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-20T04:52:14+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2659,
+  "veroeffentlicht": "2026-08-19T18:00:00+02:00",
+  "beschreibung": "Im Juni 2011 detoniert in der Dresdner Filiale einer Möbelhauskette ein selbstgebauter Sprengsatz. Zwei Kunden werden verletzt, bei den Anwesenden herrscht Aufruhr. Nur ein Mann verlässt zügig den Tatort. Mitarbeiter verfolgen ihn – doch bevor die Polizei eintrifft, ist er verschwunden.\n\nUnter Hochdruck sucht das LKA Sachsen nach Hinweisen zum Täter. Schnell wird klar: Die Explosion ist nicht die erste dieser Art. Bereits zehn Tage zuvor wurden in Filialen desselben Möbelhauses in Belgien, Frankreich und den Niederlanden Sprengsätze gefunden. Was außerdem fehlt, ist ein Motiv. Es gibt kein Bekennerschreiben, keine Geldforderung. Die Ermittlerinnen und Ermittler müssen mit weiteren Anschlägen rechnen. Die Frage ist nur, in welchem der hunderten europaweiten Geschäfte des Konzerns.\n\nZu Gast bei Rudi Cerne und Conny Neumeyer: Kriminaldirektor Andreas Schrader und Erster Kriminalhauptkommissar Raiko Märtins vom LKA Sachsen. Sie berichten vom Einsatz der Mantrailer-Hunde Wochen nach der Tat und den Herausforderungen der internationalen Zusammenarbeit. Außerdem im Interview: Krisenberater Jörg Trauboth. Er erklärt, wie sich Unternehmen auf Bombendrohungen und Erpressungen vorbereiten können, was im Ernstfall entscheidend ist und ob sie Geldforderungen nachkommen sollten.\n\n***\n\nWeitere Fälle gibt es jetzt auch im Kanal „ZDF Tue Crime“ auf YouTube: https://www.youtube.com/@ZDFTrueCrime\n\n***\n\nModeration: Rudi Cerne, Conny Neumeyer\nGäste: KD Andreas Schrader & EKHK Raiko Märtins, LKA Sachsen\nExperte: Jörg H. Trauboth, Krisenmanager und Autor\nAutorin dieser Folge: Carolin Rückl\nAudioproduktion & Technik: Florian Oswald, Lalita Hillgärtner\nLeitung Postproduktion: Stephan Gossen\nProduktionsleitung Securitel: Marion Biefeld\nProduktionsleitung Bumm Film: Melanie Graf, Nina Kuhn\nProduktionsmanagement ZDF: Julian Best\nLeitung Digitale Redaktion Securitel: Nicola Haenisch-Korus\nProduzent Securitel: René Carl\nProduzent Bumm Film: Nico Krappweis\nRedaktion Securitel: Katharina Jakob, Zoë Jungblut\nRedaktion ZDF: Sonja Roy, Kirsten Zielonka\nRegie Bumm Film: Alexa Waschkau",
+  "beschreibung_html": "<p>Im Juni 2011 detoniert in der Dresdner Filiale einer Möbelhauskette ein selbstgebauter Sprengsatz. Zwei Kunden werden verletzt, bei den Anwesenden herrscht Aufruhr. Nur ein Mann verlässt zügig den Tatort. Mitarbeiter verfolgen ihn – doch bevor die Polizei eintrifft, ist er verschwunden.&nbsp;</p><br/><p>Unter Hochdruck sucht das LKA Sachsen nach Hinweisen zum Täter. Schnell wird klar: Die Explosion ist nicht die erste dieser Art. Bereits zehn Tage zuvor wurden in Filialen desselben Möbelhauses in Belgien, Frankreich und den Niederlanden Sprengsätze gefunden. Was außerdem fehlt, ist ein Motiv. Es gibt kein Bekennerschreiben, keine Geldforderung. Die Ermittlerinnen und Ermittler müssen mit weiteren Anschlägen rechnen. Die Frage ist nur, in welchem der hunderten europaweiten Geschäfte des Konzerns.</p><br/><p>Zu Gast bei Rudi Cerne und Conny Neumeyer: Kriminaldirektor Andreas Schrader und Erster Kriminalhauptkommissar Raiko Märtins vom LKA Sachsen. Sie berichten vom Einsatz der Mantrailer-Hunde Wochen nach der Tat und den Herausforderungen der internationalen Zusammenarbeit. Außerdem im Interview: Krisenberater Jörg Trauboth. Er erklärt, wie sich Unternehmen auf Bombendrohungen und Erpressungen vorbereiten können, was im Ernstfall entscheidend ist und ob sie Geldforderungen nachkommen sollten.</p><br/><p>***</p><br/><p>Weitere Fälle gibt es jetzt auch im Kanal „ZDF Tue Crime“ auf YouTube: <a href=\"https://www.youtube.com/@ZDFTrueCrime\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.youtube.com/@ZDFTrueCrime</a></p><br/><p>***</p><br/><p>Moderation: Rudi Cerne, Conny Neumeyer&nbsp;&nbsp;</p><p>Gäste: KD Andreas Schrader &amp; EKHK Raiko Märtins, LKA Sachsen</p><p>Experte: Jörg H. Trauboth, Krisenmanager und Autor</p><p>Autorin dieser Folge: Carolin Rückl</p><p>Audioproduktion &amp; Technik: Florian Oswald, Lalita Hillgärtner</p><p>Leitung Postproduktion: Stephan Gossen</p><p>Produktionsleitung Securitel: Marion Biefeld&nbsp;</p><p>Produktionsleitung Bumm Film: Melanie Graf, Nina Kuhn&nbsp;</p><p>Produktionsmanagement ZDF: Julian Best</p><p>Leitung Digitale Redaktion Securitel: Nicola Haenisch-Korus&nbsp;&nbsp;</p><p>Produzent Securitel: René Carl&nbsp;</p><p>Produzent Bumm Film: Nico Krappweis&nbsp;&nbsp;</p><p>Redaktion Securitel: Katharina Jakob, Zoë Jungblut</p><p>Redaktion ZDF: Sonja Roy, Kirsten Zielonka&nbsp;</p><p>Regie Bumm Film: Alexa Waschkau</p>",
+  "bild_url": "https://cdn.julephosting.de/podcasts/1353-aktenzeichen-xy-unvergessene-verbrechen/1353_247944_cover.jpg?v=3",
+  "schlagworte": [
+    "#aktenzeichen xy",
+    "#verbrechen",
+    "#true crime",
+    "#zdf",
+    "#crime",
+    "#rudi cerne",
+    "#sprengstoff",
+    "#erpressung",
+    "#bombe",
+    "#möbelhaus"
+  ],
+  "kapitel_quelle": "modell"
+}

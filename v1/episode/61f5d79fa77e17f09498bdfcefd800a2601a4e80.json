@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "2a4cbb711cd116fc2a0fb134a3da1cda",
+  "apple_collection_id": null,
+  "show": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
+  "titel": "Firmensterben in Deutschland | Droht der Verlust des Triple-A Status ? | Mut zum Zehn-Meter-Sprung",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2573772-m-2b0fe688c3157327f10c6f4e00cbdf65.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 24502833,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T03:01:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Unternehmenspleiten auf Rekordhoch, wackelndes Triple-A und die Angst an den…",
+  "kurzfassung": "Deutschland verzeichnet so viele Unternehmensschließungen wie seit zwei Jahrzehnten nicht mehr, wobei vermehrt auch rentable Betriebe aufgeben müssen. Parallel geraten das deutsche Triple-A-Rating und die weltweiten Anleihemärkte durch massive Staatsschulden und geopolitische Risiken unter Druck. Zum Abschluss beleuchtet die Sendung eine schwedische Kurzfilmidee über den mutigen Sprung vom Zehn-Meter-Turm.",
+  "stichpunkte": [
+    "Rund 187.000 Unternehmensschließungen im vergangenen Jahr in Deutschland, zehn Prozent mehr als im Vorjahr.",
+    "Laut Kreditreform müssen zunehmend auch Betriebe mit guter Bonität und funktionierenden Geschäftsmodellen aufgeben.",
+    "Sinkende Innovationskraft und der Verlust von Know-how belasten die volkswirtschaftliche Substanz nachhaltig.",
+    "An den Anleihemärkten wächst die Nervosität durch hohe Staatsverschuldung und geopolitische Krisen.",
+    "Die massive Neuverschuldung lässt das deutsche Triple-A-Bonitätsrating und dessen Refinanzierungskosten infrage stellen.",
+    "Große KI-Investoren und Softwarekonzerne drängen als neue Konkurrenten auf den Markt für Anleihen.",
+    "Eine geplante Aufstockung der deutschen NATO-Brigade in Litauen soll die Ostflanke absichern.",
+    "Ein schwedischer Kurzfilm über Sprünge vom Zehn-Meter-Turm veranschaulicht den Wert von Überwindung."
+  ],
+  "kapitel": [
+    {
+      "titel": "Firmensterben und die Folgen für Deutschland",
+      "start": 17.0
+    },
+    {
+      "titel": "Themenüberblick",
+      "start": 472.0
+    },
+    {
+      "titel": "Interview mit Thomas Mayer",
+      "start": 520.0
+    },
+    {
+      "titel": "The Pioneer Expedition nach Estland und Litauen",
+      "start": 1229.0
+    },
+    {
+      "titel": "Was Gabor überrascht hat",
+      "start": 1378.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "187.000 Unternehmensschließungen in Deutschland",
+      "start": 137.639,
+      "ende": 157.727,
+      "laenge": 20.09,
+      "byte_start": 2541167,
+      "byte_ende": 2862577,
+      "bytes": 321411,
+      "range_header": "bytes=2541167-2862577",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 137.718,
+      "anker_sha256": "6fc8cfa6f11bedd3b14a5ae3e4351e783aaf5ed37d959dcf2cbb98047feae275",
+      "einblendung_ms": 60,
+      "text": "187.000. 187.000 Unternehmensschließungen. So viel waren es im vergangenen Jahr. 10% mehr als im Vorjahr. Und damit der schlechteste Wert seit 2 Dekaden."
+    },
+    {
+      "hook": "Rentable Firmen müssen aufgeben",
+      "start": 339.958,
+      "ende": 360.072,
+      "laenge": 20.11,
+      "byte_start": 5778261,
+      "byte_ende": 6100089,
+      "bytes": 321829,
+      "range_header": "bytes=5778261-6100089",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 340.036,
+      "anker_sha256": "370ec097ebeb2526bfde2241f4d9bcaf8ae77ce31b33be1cfd6ed7715901bf24",
+      "einblendung_ms": 60,
+      "text": "Jetzt sehen wir Unternehmen, die eigentlich auf dem Papier noch rentabel sind. Wir sehen Unternehmen, die eigentlich ein funktionierendes Geschäftsmodell haben und trotzdem den Markt entweder verlassen müssen oder verlassen, weil sie keine Alternativen haben."
+    },
+    {
+      "hook": "Zentralbanken mit gefesselten Händen",
+      "start": 716.696,
+      "ende": 736.784,
+      "laenge": 20.09,
+      "byte_start": 11806069,
+      "byte_ende": 12127478,
+      "bytes": 321410,
+      "range_header": "bytes=11806069-12127478",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 716.774,
+      "anker_sha256": "029d4807b70f534f85d87f05b77792993ba08f96d2ea6ca3e782f7420c2bc753",
+      "einblendung_ms": 60,
+      "text": "Die bekämpfen diesen Drachen der Inflation mit einer Hand auf dem Rücken gefesselt. Weil wenn die Zinsen zu hoch steigen, wenn sie den Politikzins zu hoch setzen, dann hat der Staat Schwierigkeiten, sich zu finanzieren."
+    },
+    {
+      "hook": "Deutschland ist ein bisschen italienisch geworden",
+      "start": 1025.776,
+      "ende": 1045.891,
+      "laenge": 20.11,
+      "byte_start": 16751362,
+      "byte_ende": 17073189,
+      "bytes": 321828,
+      "range_header": "bytes=16751362-17073189",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1025.855,
+      "anker_sha256": "fa93923b033377720d4325cf58716d72d0d9e7e383ba25d8bda227c2a2fbcf74",
+      "einblendung_ms": 60,
+      "text": "Okay, und das hat sich jetzt genähert, weil wir auch so ein bisschen italienisch geworden sind. Absolut. Ja, wir schließen uns jetzt praktisch den anderen an. Und deshalb ist auch das AAA-Rating, muss man mit einem Fragezeichen versehen."
+    },
+    {
+      "hook": "1,5 Sekunden Überwindung gegen tagelanges Angeben",
+      "start": 1457.972,
+      "ende": 1478.06,
+      "laenge": 20.09,
+      "byte_start": 23666496,
+      "byte_ende": 23987906,
+      "bytes": 321411,
+      "range_header": "bytes=23666496-23987906",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1458.051,
+      "anker_sha256": "a0afc96a7fccff425fe4a14091ed7c2f8a91ad8c1ee61f7d85a65c89250d1524",
+      "einblendung_ms": 60,
+      "text": "Der Sprung selber dauert, na, raten Sie kurz, der Sprung selber dauert nur 1,5 Sekunden. Also 1,5 Sekunden. Überwindung gegen dann, tagelanges Angeben. Ich glaube, das ist ein ganz guter Deal."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-20T03:01:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 1510,
+  "veroeffentlicht": "2026-08-19T03:00:00+00:00",
+  "beschreibung": "Gabor Steingart präsentiert das Morning Briefing.\n\"The Pioneer Briefing\" kostenlos als Newsletter abonnieren: http://bit.ly/4m8Dxyg\nDie wirtschaftliche Krise Deutschlands, die Sicherheit im Baltikum und der Sprung vom Zehn-Meter-Brett — darum geht es in dieser Ausgabe.\n187.000 Unternehmen haben im vergangenen Jahr in Deutschland aufgegeben – so viele wie seit rund 20 Jahren nicht mehr. Besonders betroffen ist die Gastronomie, aber auch Industrie und Mittelstand stehen unter Druck. Patrik-Ludwig Hantzsch, Leiter der Wirtschaftsforschung bei Creditreform, spricht mit Christian Schlesiger über die Gründe für das Firmensterben und die Folgen für den Wirtschaftsstandort Deutschland.\nTickets für den Late Night Briefing Live Podcast im Admiralspalast mit Till Brönner gibt es hier.\nAuch um die Kreditwürdigkeit Deutschlands geht es: Das lange als selbstverständlich geltende Triple-A-Rating gerät angesichts steigender Schulden und Zinslasten unter Druck. Thomas Mayer, ehemaliger Chefvolkswirt der Deutschen Bank und Gründungsdirektor des Flossbach von Storch Research Institute, erklärt, was ein Verlust der Bestnote für Deutschland und die Kapitalmärkte bedeuten würde.\nAlle Informationen rund um die Pioneer Baltikum Reise mit Generalleutnant a.D. von Sandrart und Chelsea Spieker finden Sie hier.\nAn dieser Podcast-Folge haben redaktionell mitgewirkt: Markus Pfander, Stefan Rupp und Eleanor Cwik.\nProduktion: Thomas Güthaus.\nNews statt Noise. Inspirierend, unabhängig und 100 % werbefrei. Wir wollen nicht missionieren, sondern informieren. Die Meinung des Anderen gehört zelebriert.\n\n1. 00:00:17 | Firmensterben und die Folgen für Deutschland 2. 00:07:52 | Themenüberblick 3. 00:08:40 | Interview mit Thomas Mayer 4. 00:20:29 | The Pioneer Expedition nach Estland und Litauen 5. 00:22:58 | Was Gabor überrascht hat ID:{185YoAYMUqrGuSrK4Tom6C}",
+  "beschreibung_html": "Gabor Steingart präsentiert das Morning Briefing.\n\"The Pioneer Briefing\" kostenlos als Newsletter abonnieren: <a href=\"http://bit.ly/4m8Dxyg\">http://bit.ly/4m8Dxyg</a> <br /> <p>Die wirtschaftliche Krise Deutschlands, die Sicherheit im Baltikum und der Sprung vom Zehn-Meter-Brett — darum geht es in dieser Ausgabe.</p><p><b>187.000 Unternehmen</b> haben im vergangenen Jahr in Deutschland aufgegeben – so viele wie seit rund 20 Jahren nicht mehr. Besonders betroffen ist die Gastronomie, aber auch Industrie und Mittelstand stehen unter Druck. <b>Patrik-Ludwig Hantzsch</b>, Leiter der Wirtschaftsforschung bei Creditreform, spricht mit <b>Christian Schlesiger</b> über die Gründe für das Firmensterben und die Folgen für den Wirtschaftsstandort Deutschland.</p><p><a href=\"https://tour.thepioneer.de/?utm_campaign=20260819&utm_content=full&utm_medium=podcast_podigee&utm_source=thepioneer-briefing-business-class-edition&utm_term=185YoAYMUqrGuSrK4Tom6C\"><u>Tickets für den Late Night Briefing Live Podcast im Admiralspalast mit Till Brönner gibt es hier.</u></a></p><p>Auch um die Kreditwürdigkeit Deutschlands geht es: Das lange als selbstverständlich geltende <b>Triple-A-Rating</b> gerät angesichts steigender Schulden und Zinslasten unter Druck. <b>Thomas Mayer</b>, ehemaliger Chefvolkswirt der Deutschen Bank und Gründungsdirektor des Flossbach von Storch Research Institute, erklärt, was ein Verlust der Bestnote für Deutschland und die Kapitalmärkte bedeuten würde.</p><p><a href=\"https://expedition.thepioneer.de/estland-litauen?_gl=1*ggzjl4*_ga*ODEyMjUwNTgyLjE3NTI1OTUwNTk.*_ga_MD997DQ15F*czE3ODcwNjA3NTMkbzI4NCRnMSR0MTc4NzA2MDc1NiRqNTckbDAkaDA.&utm_campaign=20260819&utm_content=full&utm_medium=podcast_podigee&utm_source=thepioneer-briefing-business-class-edition&utm_term=185YoAYMUqrGuSrK4Tom6C\"><u>Alle Informationen rund um die Pioneer Baltikum Reise mit Generalleutnant a.D. von Sandrart und Chelsea Spieker finden Sie hier. </u></a></p><p>An dieser Podcast-Folge haben redaktionell mitgewirkt: <b>Markus Pfander, Stefan Rupp und Eleanor Cwik. </b></p><p>Produktion: <b>Thomas Güthaus.</b></p><p>News statt Noise. Inspirierend, unabhängig und 100 % werbefrei. Wir wollen nicht missionieren, sondern informieren. Die Meinung des Anderen gehört zelebriert. </p><p>\n</p><p></p> </br> 1. 00:00:17 | Firmensterben und die Folgen für Deutschland </br> 2. 00:07:52 | Themenüberblick </br> 3. 00:08:40 | Interview mit Thomas Mayer </br> 4. 00:20:29 | The Pioneer Expedition nach Estland und Litauen </br> 5. 00:22:58 | Was Gabor überrascht hat </br> </br> ID:{185YoAYMUqrGuSrK4Tom6C}",
+  "untertitel": "Gabor Steingart präsentiert das Morning Briefing.",
+  "bild_url": "https://images.podigee-cdn.net/0x,sgacnUFVjWhy5Q3_O_mOs3vW6BZZxyCKz4M7nQE_ZRQg=/https://main.podigee-cdn.net/uploads/u3309/5b88471e-4cf1-47ff-844e-a1a1de6ce815.jpg",
+  "folgennummer": 3668,
+  "kapitel_quelle": "betreiber"
+}

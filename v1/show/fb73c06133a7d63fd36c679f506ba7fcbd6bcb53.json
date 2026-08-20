@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
   "apple_collection_id": null,
-  "erzeugt_am": "2026-08-20T01:08:07+00:00",
+  "erzeugt_am": "2026-08-20T07:16:13+00:00",
   "folgen": [
     {
       "guid": "ard_15minuten_ED18AF95",
@@ -11,7 +11,8 @@
       "titel": "Ernte im Hitzesommer nicht gut / Forschungszentrum gegen Drohnen / Bäckerei ohne Nachtarbeit",
       "veroeffentlicht": "2026-08-19T06:00:04+02:00",
       "clips": true,
-      "kapitel": true
+      "kapitel": true,
+      "einzeiler": "Schlechte Ernte bei Kartoffeln und Getreide, neues Drohnenforschungszentrum und Bäcker…"
     }
   ]
 }

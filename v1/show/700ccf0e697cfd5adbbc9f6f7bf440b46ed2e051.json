@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "CheckPod - Der Podcast mit Checker Tobi",
+  "apple_collection_id": null,
+  "erzeugt_am": "2026-08-20T07:16:13+00:00",
+  "folgen": [
+    {
+      "guid": "59df355e-8323-4edb-b113-0468f5aeb451",
+      "audio_url": "https://media.neuland.br.de/file/2121222/c/feed/checkpod-klassiker-piraten-haustiere-an-bord-und-brennende-baerte.mp3",
+      "pfad": "/v1/episode/1f837be7ee5828f77c38326c4fd0bda84f2f7a8a.json",
+      "titel": "CheckPod Klassiker: Piraten | Haustiere an Bord und brennende Bärte",
+      "veroeffentlicht": "2026-08-14T06:00:00+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Checker Tobi und Gast Leo gehen Mythen und Fakten rund um das Thema Piraten nach."
+    }
+  ]
+}

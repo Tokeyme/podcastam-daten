@@ -9,7 +9,7 @@
     "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
     "groesse": 14469555,
     "format": "mp3",
-    "geprueft_am": "2026-08-20T00:52:03+00:00"
+    "geprueft_am": "2026-08-20T02:29:21+00:00"
   },
   "faehigkeiten": {
     "clips": true,
@@ -17,89 +17,86 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Die Geschichte von Frauengold: Wie ein Kräutertonikum mit Alkohol und Gift getarnt wurde.",
-  "kurzfassung": "Das in den 1950er bis 1970er Jahren populäre Kreislaufmittel Frauengold war im Kern ein alkoholischer Südwein, der traditionelle Frauenbilder stützte und den Alltag frustrierter Hausfrauen betäubte. Neben dem hohen Alkoholgehalt enthielt das Tonikum die giftige und krebserregende Pflanze Osterluzei. Erst 1981 wurde das Produkt im Zuge eines neuen Arzneimittelgesetzes und nach alarmierenden Tierversuchen verboten.",
+  "einzeiler": "Die Geschichte des Kreislaufmittels Frauengold und seiner krebserregenden Inhaltsstoffe.",
+  "kurzfassung": "Das millionenfach verkaufte Kreislaufmittel Frauengold war in der Nachkriegszeit ein populäres Beruhigungsmittel für Hausfrauen und verbarg hinter Kräutern vor allem 16,5 Prozent Alkohol. Erst 1981 wurde das tonikumähnliche Produkt verboten, nachdem Tierversuche eine stark krebserregende Wirkung der enthaltenen Aristolochiasäure nachgewiesen hatten. Das Verbot markierte nicht nur das Ende eines fragwürdigen Gesundheitsprodukts, sondern fiel auch in eine Zeit des gesellschaftlichen Wandels der Frauenrolle.",
   "stichpunkte": [
-    "Das Kreislaufmittel Frauengold war ein in den 1950er Jahren stark beworbenes Kräutertonikum auf Weinbasis mit 16,5 Prozent Alkohol.",
-    "Die Werbung spiegelte das traditionelle Versorger-Hausfrau-Modell der Adenauer-Ära wider und gab Frauen ein vermeintliches Mittel zur Bewältigung ihres Alltags an die Hand.",
-    "Neben der willkommenen Möglichkeit zum sozial legitimierten Alkoholkonsum enthielt Frauengold die Pflanze Osterluzei, die bereits in den 50er Jahren als nierenschädlich bekannt war.",
-    "In Tierversuchen mit dem Inhaltsstoff Aristolochiasäure erkrankten Ratten nach kurzer Zeit an Krebs, was sich als extrem krebserregend erwies.",
-    "Das neu geschaffene Bundesgesundheitsamt und das reformierte Arzneimittelgesetz schufen 1976 erstmals die rechtlichen Grundlagen für strikte Marktrücknahmen.",
-    "Am 19. August 1981 wurde Frauengold gemeinsam mit Hunderten anderen aristolochia-haltigen Präparaten endgültig vom Markt genommen."
+    "Das Kreislaufmittel Frauengold wurde in den 1950er- und 60er-Jahren aggressiv beworben, um das traditionelle Hausfrauen- und Versorger-Modell zu stützen.",
+    "Hinter dem Kräutertonikum verbarg sich im Wesentlichen ein Südwein mit 16,5 Prozent Alkohol, der den Frauen in einer oft konfliktreichen Nachkriegsgesellschaft als legale Alltagsdroge diente.",
+    "Pharmazeutisch enthielt Frauengold neben harmlosen Kräutern auch die Pflanze Osterluzei, deren Inhaltsstoff Aristolochiasäure stark nierenschädlich und krebserregend ist.",
+    "Bis zum neuen Arzneimittelgesetz von 1976 benötigten viele solcher Präparate kein behördliches Zulassungsverfahren und mussten ihre Wirksamkeit oder Unbedenklichkeit nicht nachweisen.",
+    "Durch Tierversuche mit dem Wirkstoff im Rahmen anderer Studien entdeckten Forscher zufällig das extreme krebserzeugende Potenzial der Aristolochiasäure.",
+    "Das Bundesgesundheitsamt reagierte 1981 mit dem endgültigen Verbot von Frauengold und hunderten anderen astrolochiahaltingen Medikamenten über ein neu geschaffenes Stufenplanverfahren.",
+    "Wie vielen Frauen durch den regelmäßigen Konsum des Tonikums gesundheitlich geschadet wurde, lässt sich im Nachhinein kaum noch nachweisen."
   ],
   "kapitel": [
     {
-      "titel": "Das Versorger-Hausfrau-Modell und Frauengold",
+      "titel": "Das Versorger-Modell und der Griff zum Fläschchen",
       "start": 27.74
     },
     {
-      "titel": "Alkohol im Gewand der Medizin",
+      "titel": "Die wahre Wirkung: Alkohol und fragwürdige Kräuter",
       "start": 264.9
     },
     {
-      "titel": "Die giftige Zutat Osterluzei",
-      "start": 375.64
-    },
-    {
-      "titel": "Das Verbot und das Ende einer Ära",
-      "start": 653.58
+      "titel": "Toxische Tierversuche und das schließliche Verbot",
+      "start": 495.98
     }
   ],
   "clips": [
     {
-      "hook": "Das bisschen Haushalt und der tägliche Griff zu Frauengold",
-      "start": 156.192,
-      "ende": 186.288,
+      "hook": "Frauengold als Bewältigungsstrategie für den Hausfrauen-Alltag",
+      "start": 120.384,
+      "ende": 150.48,
       "laenge": 30.1,
-      "byte_start": 2727603,
-      "byte_ende": 3209138,
+      "byte_start": 2154675,
+      "byte_ende": 2636210,
       "bytes": 481536,
-      "range_header": "bytes=2727603-3209138",
+      "range_header": "bytes=2154675-2636210",
       "vorlauf_s": 0.072,
-      "inhalt_start": 156.264,
-      "anker_sha256": "39490749043ecf775f13b0a108d34539a07c63b0944dad6fb71898c7aea1fa94",
+      "inhalt_start": 120.456,
+      "anker_sha256": "811517013ab75a580101aa7d2c5e21cc41a5c2682b6b1a196cb0e76e49a772e8",
       "einblendung_ms": 60,
-      "text": "Das bisschen Haushalt macht sich von allein, sagt mein Mann. In den 50ern haben wir eben noch ein sehr hierarchisches Versorger-Hausfrau-Modell. Das äußerte sich etwa auch darin, dass Frauen bis 1958 gar nicht ohne die Erlaubnis des Mannes arbeiten gehen durften. Bis 1976, 77 sogar nur. Sofern sie ihre häuslichen Wünsche nicht hatten. Und ihre häuslichen Pflichten nicht vernachlässigten. Die Karls"
+      "text": "Statt an den gesellschaftlichen Verhältnissen zu rütteln, nehmen frustrierte Ehefrauen damals lieber einen großen Schluck Frauengold. Eine Mischung von Kräutern auf Weinbasis mit 16,5 Prozent Alkohol. Und als dann die Männer vom Krieg heimkehrten, kam es zu der Situation, dass die Frauen im Alltag viel kompetenter waren. Sich zum Beispiel auskannten mit dem Lebensmittelmarkensystem, den Haushaltma"
     },
     {
-      "hook": "Frauengold: So ist Frau den ganzen Monat gut drauf",
-      "start": 212.64,
-      "ende": 237.072,
-      "laenge": 24.43,
-      "byte_start": 3630771,
-      "byte_ende": 4021682,
-      "bytes": 390912,
-      "range_header": "bytes=3630771-4021682",
-      "vorlauf_s": 0.072,
-      "inhalt_start": 212.712,
-      "anker_sha256": "e58ddab3a77cb29f1a5d9ef4b88834a7acc50979e74b2aef7fb5c314e41193b2",
-      "einblendung_ms": 60,
-      "text": "Ja, Frauengold nehmen. Und man kann über den Dingen stehen und objektiver urteilen. Es war mein Fehler, Herr Direktor. Ich hatte nicht aufgepasst. Und ich möchte mich dafür entschuldigen. So ist Frau den ganzen Monat gut drauf. Frauengold schafft Wohlbehagen. Wohlbemerkt an allen Tagen. Oder besser gesagt den ganzen Monat drauf."
-    },
-    {
-      "hook": "Ein hilfloses Seelenpflaster für fehlende Gleichberechtigung",
-      "start": 313.08,
-      "ende": 343.176,
+      "hook": "Sozial legitimierter Alkoholismus im Nachkriegsdeutschland",
+      "start": 237.288,
+      "ende": 267.384,
       "laenge": 30.1,
-      "byte_start": 5237811,
-      "byte_ende": 5719346,
+      "byte_start": 4025139,
+      "byte_ende": 4506674,
       "bytes": 481536,
-      "range_header": "bytes=5237811-5719346",
+      "range_header": "bytes=4025139-4506674",
       "vorlauf_s": 0.072,
-      "inhalt_start": 313.152,
-      "anker_sha256": "7b7161fe12c44b5006476949ae39381db5d85789acf32a5c5ddd076326dec732",
+      "inhalt_start": 237.36,
+      "anker_sha256": "ec7db60140beb6f53b325dc2f2ef06baa0c726ad26f2c043233f8856b9f4f231",
       "einblendung_ms": 60,
-      "text": "So wie Digestiv besser klingt als Schnaps, ist Frauengold der schönere Name für Südwein und adelt damit ein hilfloses Seelenpflaster, um den Schmerz zu betäuben. Den Schmerz darüber nicht mitbestimmen zu dürfen und nicht gleichberechtigt zu sein. Und auch das gab es auf Rezept. Mothers Little Helpers, Benzodiazepine Vivalium. Die Rolling Stones haben von der Gefahr gesungen, die von diesen Ruhigst"
+      "text": "Es bestand darin natürlich auch die Möglichkeit, Alkohol zu konsumieren in einem sozial legitimierten Rahmen. Also jetzt einfach in die Kneipe zu gehen und da flaschenweise Bier oder Wein zu trinken, war schwierig. Schon früh sollen Frauen deshalb auf Klosterfrau Melissengeist ausgewichen sein. Mit nahezu 80 Volumenprozent Alkohol. Und es wird unterstellt, dass manche öfter mal einen Schluck kölni"
     },
     {
-      "hook": "Tödlicher Zufallsbefund: Warum Ratten Krebs bekamen",
+      "hook": "Die giftige Pflanze im Kräutertonikum",
+      "start": 375.552,
+      "ende": 405.192,
+      "laenge": 29.64,
+      "byte_start": 6237363,
+      "byte_ende": 6711602,
+      "bytes": 474240,
+      "range_header": "bytes=6237363-6711602",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 375.624,
+      "anker_sha256": "8d37d6eca3d92c5b6e363474d9ca7bd0d0cd0806c7fb2a5a0a5f6c70faa5fc3f",
+      "einblendung_ms": 60,
+      "text": "Ein Tonikum ist per Definition ein zumeist alkoholisches Stärkungsmittel mit Pflanzenextrakten. In Frauengold ist neben harmlosen Kräutern wie Bittergras, Frauenwurzel, Tigerlilie, Goldkraut und Pfeffer, auch ein Pfeffer. In der Nierenschädlichkeit, die in den 50er Jahren bekannt war, war die Pflanze auch die Osterluzei, lateinisch Aristolochia clematitis, eine Pflanze, die es in sich hat. Die Nie"
+    },
+    {
+      "hook": "Das Erschreckende Ergebnis aus dem Tierversuch",
       "start": 512.784,
-      "ende": 542.88,
-      "laenge": 30.1,
+      "ende": 537.624,
+      "laenge": 24.84,
       "byte_start": 8433075,
-      "byte_ende": 8914610,
-      "bytes": 481536,
-      "range_header": "bytes=8433075-8914610",
+      "byte_ende": 8830514,
+      "bytes": 397440,
+      "range_header": "bytes=8433075-8830514",
       "vorlauf_s": 0.072,
       "inhalt_start": 512.856,
       "anker_sha256": "39d0301f1574ddbfa03522f0dfcf681afd9b761a990ad2879c23348efc8daa5e",
@@ -107,7 +104,7 @@
       "text": "Dr. Madaus, ein anderer Hersteller, forschte am Mittel Tardolyt aus reiner Aristolochiasäure und gab Ratten in einem Standardtest drei Monate lang täglich davon. Erst ging es den Ratten gut, aber am Ende hatten die Krebs. Und dann haben sie die Versuche fortgesetzt und haben gesagt, wir haben Standardtest. Das ist ein starker Hinweis darauf, dass es eines der stärksten bekannten krebserzeugenden M"
     },
     {
-      "hook": "Das schlagartige Verbot von Frauengold im August 1981",
+      "hook": "Das endgültige Verbot von Frauengold im August 1981",
       "start": 694.104,
       "ende": 724.2,
       "laenge": 30.1,
@@ -123,7 +120,7 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T00:52:03+00:00",
+    "am": "2026-08-20T02:29:21+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",

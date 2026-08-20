@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "guid": "pod-5bfbee9862386247099148",
+  "apple_collection_id": null,
+  "show": "Edeltalk - mit Dominik & Kevin",
+  "titel": "Anwälte und andere Alpträume",
+  "audio": {
+    "url": "https://podcast.nexx.cloud/1251/audio/W2NHGFRRNVX88SO-001.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 45699282,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T06:26:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Kevin und Dominik starten ihren Podcast mit wilden Storys über Träume und Einbrecher.",
+  "kurzfassung": "Kevin und Dominik starten ihren gemeinsamen Podcast ganz ohne festes Konzept und plaudern über Gott und die Welt. Dabei driften sie von skurrilen TV-Gerichtsshows über wilde, detailreiche Träume bis hin zu extrem peinlichen WG-Geschichten ab. Am Ende kündigen sie an, künftig wöchentlich neue Episoden zu veröffentlichen.",
+  "stichpunkte": [
+    "Start des neuen Podcasts ohne fixes Thema mit wöchentlichem Rhythmus",
+    "Ausflug in die Nostalgie von TV-Gerichtsshows wie Barbara Salisch und Ingo Lenzen",
+    "Kevins detaillierter und absurder Traum mit Tieren, einem Fuchs und Schildkröten",
+    "Diskussion über luzides Träumen und die damit verbundenen Risiken",
+    "Nächtliche Schlafparalysen und gruselige Begegnungen im Halbschlaf",
+    "Die Story über einen vermeintlichen Einbruch, der sich als herannahender Lkw entpuppt",
+    "Der legendäre Moment, als Mitbewohner DK unvorbereitet in Kevins nacktes Schlafzimmer blickt"
+  ],
+  "kapitel": [
+    {
+      "titel": "Der Start des neuen Podcasts",
+      "start": 0.0
+    },
+    {
+      "titel": "Exkurs zu TV-Gerichtsshows und echten Anwälten",
+      "start": 201.8
+    },
+    {
+      "titel": "Skurrile Träume und luzides Träumen",
+      "start": 439.04
+    },
+    {
+      "titel": "Schlafparalysen und Kindheitsängste",
+      "start": 1232.54
+    },
+    {
+      "titel": "Der Fehlalarm durch den Lkw",
+      "start": 1923.42
+    },
+    {
+      "titel": "Der Moment im nackten Adamskostüm",
+      "start": 2336.68
+    },
+    {
+      "titel": "Ausklang und Verabschiedung",
+      "start": 2813.5
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Mein Job ist ein echter Job!",
+      "start": 128.418,
+      "ende": 148.532,
+      "laenge": 20.11,
+      "byte_start": 2055148,
+      "byte_ende": 2376975,
+      "bytes": 321828,
+      "range_header": "bytes=2055148-2376975",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 128.496,
+      "anker_sha256": "4d8887fd7b3ff175e5f5762be31f73976ce395396fdef9c646db8276b87d024d",
+      "einblendung_ms": 60,
+      "text": "Mate, mein Job ist auch ein richtiger Job. WTF? Was soll das jetzt heißen? Ich bin Online-Mail-Entertainer. Entspann dich. Also sozusagen, also ich habe auf jeden Fall oft noch ein bisschen, glaube ich, eine andere Perspektive. Aber das ist ja genau das, was sich wahrscheinlich ergänzen wird."
+    },
+    {
+      "hook": "Zwei Schildkröten beim Akt",
+      "start": 741.642,
+      "ende": 761.757,
+      "laenge": 20.11,
+      "byte_start": 11866740,
+      "byte_ende": 12188567,
+      "bytes": 321828,
+      "range_header": "bytes=11866740-12188567",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 741.721,
+      "anker_sha256": "51b61eefbcce27336151f242547e3389fd7b874f6dec020f6899addd8a02bac2",
+      "einblendung_ms": 60,
+      "text": "hab in das Badezimmer geguckt. Und dann waren da einfach legit zwei Schildkröten, die gebumst haben. No joke. Du willst mich doch verarschen. Nein, nein, nein, ich schwöre es dir. Ich schwöre auf alles, was ich hab."
+    },
+    {
+      "hook": "Bitte sprechen Sie lauter mit dem Einbrecher",
+      "start": 2064.98,
+      "ende": 2085.068,
+      "laenge": 20.09,
+      "byte_start": 33040134,
+      "byte_ende": 33361544,
+      "bytes": 321411,
+      "range_header": "bytes=33040134-33361544",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2065.058,
+      "anker_sha256": "5ac64c0bc00d56561de7006381771a8f333e28540782bde2d2f4435a5c630c4c",
+      "einblendung_ms": 60,
+      "text": "Da ist der aber ganz schnell in deinem Raum, und gibt dir eine. Ich hoffe, der Einbrecher, komm, kommt jetzt nicht zu mir, in 6. OG, ins Schlafzimmer. Auf jeden Fall hat sie quasi mit dieser Frau geredet."
+    },
+    {
+      "hook": "Der vermeintliche Einbruch war ein Lkw",
+      "start": 2208.47,
+      "ende": 2228.584,
+      "laenge": 20.11,
+      "byte_start": 35335984,
+      "byte_ende": 35657811,
+      "bytes": 321828,
+      "range_header": "bytes=35335984-35657811",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2208.549,
+      "anker_sha256": "8be14de2455fed6217eb5d7e4ab3c0225e9cf4ea8a70dbf4f8bb729bdbd3c610",
+      "einblendung_ms": 60,
+      "text": "ich habe davon nichts mitbekommen. Meine Mutter hat mich zurück in mein Bett gebracht, ich bin nächsten Morgen aufgewacht und sie meinte, sie meinte, gestern haben wir die Polizei hier, ich dachte, hier wäre jemand eingebrochen. Hat mir diese ganze Story erzählt, ich dachte mir so."
+    },
+    {
+      "hook": "Der Blick direkt auf den Adamskostüm-Dödel",
+      "start": 2588.552,
+      "ende": 2608.666,
+      "laenge": 20.11,
+      "byte_start": 41417290,
+      "byte_ende": 41739117,
+      "bytes": 321828,
+      "range_header": "bytes=41417290-41739117",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2588.63,
+      "anker_sha256": "2c98e66d9a9151b7ad0e1557c039440390c843742333c0865eccf05eb7b39107",
+      "einblendung_ms": 60,
+      "text": "Weil das war halt wirklich einfach so straight. Du kamst aus dem Klo raus, hast so hochgeguckt und hast dann einfach direkt, weil DK im selben Moment die Tür zu meinem Schlafzimmer aufgemacht hat, meinen Dick gesehen. Und es war wirklich, als hätte man so die Props, als wäre es so ein Prop, das man so hingelegt hätte. Weil es war wirklich straight in meiner Blickachse. So Gary Smott einfach so hin"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-20T06:26:36+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2856,
+  "veroeffentlicht": "2018-11-26T06:00:00+00:00",
+  "beschreibung": "Das hier ist die erste Ausgabe vom Edeltalk-Podcast mit Dominik und Kevin. In dieser Ausgabe reden die zwei gut aussehenden Jungunternehmer darüber was sie von Anwaltsserien halten & was für verwirrte Träume sie schon hatten. Viel Spaß! Folgt uns auf Twitter und Instagram: @edeltalk.",
+  "beschreibung_html": "Das hier ist die erste Ausgabe vom Edeltalk-Podcast mit Dominik und Kevin. In dieser Ausgabe reden die zwei gut aussehenden Jungunternehmer darüber was sie von Anwaltsserien halten & was für verwirrte Träume sie schon hatten. Viel Spaß! Folgt uns auf Twitter und Instagram: @edeltalk.",
+  "bild_url": "https://assets.nexx.cloud/media/72/44/27/72D86CS7KK0GA7Mx3.jpg",
+  "kapitel_quelle": "modell"
+}

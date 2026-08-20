@@ -1,12 +1,103 @@
 {
   "schema_version": 1,
-  "erzeugt_am": "2026-08-20T01:08:07+00:00",
+  "erzeugt_am": "2026-08-20T07:16:13+00:00",
   "shows": [
+    {
+      "show": "0630 - der News-Podcast",
+      "apple_collection_id": null,
+      "feed": "https://www1.wdr.de/mediathek/audio/wdr/0630bywdraktuell/0630bywdraktuell-100.podcast",
+      "pfad": "/v1/show/46ba69b3fb039b56ffd52937c96f04c168ec77c1.json",
+      "folgen": 1
+    },
     {
       "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
       "apple_collection_id": null,
       "feed": "https://www.tagesschau.de/multimedia/podcast/15-minuten/index~podcast.xml",
       "pfad": "/v1/show/fb73c06133a7d63fd36c679f506ba7fcbd6bcb53.json",
+      "folgen": 1
+    },
+    {
+      "show": "Aktenzeichen XY… Unvergessene Verbrechen",
+      "apple_collection_id": null,
+      "feed": "https://cdn.julephosting.de/podcasts/1353-aktenzeichen-xy-unvergessene-verbrechen/feed.rss",
+      "pfad": "/v1/show/0f6277fa6067e8d0358d954a2f06a141b252edd5.json",
+      "folgen": 1
+    },
+    {
+      "show": "Alles auf Aktien – Die täglichen Finanzen-News",
+      "apple_collection_id": null,
+      "feed": "https://allesaufaktien.podigee.io/feed/mp3",
+      "pfad": "/v1/show/e91dd8cb7108fdd1df911a58bff9c81e60f9a818.json",
+      "folgen": 1
+    },
+    {
+      "show": "CheckPod - Der Podcast mit Checker Tobi",
+      "apple_collection_id": null,
+      "feed": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
+      "pfad": "/v1/show/700ccf0e697cfd5adbbc9f6f7bf440b46ed2e051.json",
+      "folgen": 1
+    },
+    {
+      "show": "DRINNIES",
+      "apple_collection_id": null,
+      "feed": "https://feeds.acast.com/public/shows/686e98a6-24b8-4ca4-98bb-16ef4ade7aed",
+      "pfad": "/v1/show/ecd322327f03ace51a5b8bcf9b1b5f2437e01b44.json",
+      "folgen": 1
+    },
+    {
+      "show": "Der KI-Podcast",
+      "apple_collection_id": null,
+      "feed": "https://feeds.br.de/der-ki-podcast/feed.xml",
+      "pfad": "/v1/show/892476b7a8426c01eb3a431df116ef5bae326889.json",
+      "folgen": 1
+    },
+    {
+      "show": "Die OpenAI Story",
+      "apple_collection_id": null,
+      "feed": "https://www.deutschlandfunk.de/die-peter-thiel-story-100.xml",
+      "pfad": "/v1/show/50f34bc8c8fb57dd5b2a488649e1fe0fcc93976f.json",
+      "folgen": 1
+    },
+    {
+      "show": "Edeltalk - mit Dominik & Kevin",
+      "apple_collection_id": null,
+      "feed": "https://feeds.nexx.cloud/12381/PNPAN7FYIU0ZBFW",
+      "pfad": "/v1/show/6ccfa660a4c16ac99d834ce93c4348afa3775e15.json",
+      "folgen": 1
+    },
+    {
+      "show": "Eine Stunde History - Deutschlandfunk Nova",
+      "apple_collection_id": null,
+      "feed": "https://www.deutschlandfunknova.de/podcast/eine-stunde-history",
+      "pfad": "/v1/show/fbdebec5ea92b2c2d2ebba10dfa83e35e66b994a.json",
+      "folgen": 1
+    },
+    {
+      "show": "Geschichten aus der Geschichte",
+      "apple_collection_id": null,
+      "feed": "https://geschichten-aus-der-geschichte.podigee.io/feed/mp3",
+      "pfad": "/v1/show/ea9c09aca27b4454f1837fb6a3f9c4742e0dbc54.json",
+      "folgen": 1
+    },
+    {
+      "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
+      "apple_collection_id": null,
+      "feed": "https://handelsblatt-morningbriefing.podigee.io/feed/mp3",
+      "pfad": "/v1/show/090689601a996533dafa88a04629332f5bedbf7e.json",
+      "folgen": 1
+    },
+    {
+      "show": "Machtwechsel",
+      "apple_collection_id": null,
+      "feed": "https://machtwechsel.podigee.io/feed/mp3",
+      "pfad": "/v1/show/537d8dd49f012c4bf6d7737f1c508e6e16b61b00.json",
+      "folgen": 1
+    },
+    {
+      "show": "Psychologie to go!",
+      "apple_collection_id": null,
+      "feed": "https://psychologie-to-go.podigee.io/feed/mp3",
+      "pfad": "/v1/show/ac314d9c98ba928042a1aefb07f4bc30f92b0af1.json",
       "folgen": 1
     },
     {
@@ -17,6 +108,41 @@
       "folgen": 1
     },
     {
+      "show": "RONZHEIMER.",
+      "apple_collection_id": null,
+      "feed": "https://ronzheimer.podigee.io/feed/mp3",
+      "pfad": "/v1/show/987e2f2ee64fee834d71d6f5652e967b74431fe8.json",
+      "folgen": 1
+    },
+    {
+      "show": "Radiowissen",
+      "apple_collection_id": null,
+      "feed": "https://feeds.br.de/radiowissen/feed.xml",
+      "pfad": "/v1/show/610d853091b747bcd1505c4051f8a6a7a0b361a5.json",
+      "folgen": 1
+    },
+    {
+      "show": "Schwarze Akte - True Crime",
+      "apple_collection_id": null,
+      "feed": "https://cdn.julephosting.de/podcasts/70-schwarze-akte-true-crime/feed.rss",
+      "pfad": "/v1/show/6bee74a43f8f0c5ae2d820724675907734cc274d.json",
+      "folgen": 1
+    },
+    {
+      "show": "Springerstiefel – Alpha oder Opfer?",
+      "apple_collection_id": null,
+      "feed": "https://www.mdr.de/sputnik/podcasts/springerstiefel/springerstiefel-fascho-oder-punk-100.xml",
+      "pfad": "/v1/show/32b64f02a4224d0da567cf0c9e203614ed1c12e9.json",
+      "folgen": 1
+    },
+    {
+      "show": "Stammplatz – Fußball News täglich",
+      "apple_collection_id": null,
+      "feed": "https://stammplatz.podigee.io/feed/mp3",
+      "pfad": "/v1/show/6ca0d86b1f07be7856c3d3dd2eabe4a6c2e451a0.json",
+      "folgen": 1
+    },
+    {
       "show": "Stay Forever - Retrogames & Technik",
       "apple_collection_id": null,
       "feed": "https://podcastd45a61.podigee.io/feed/mp3",
@@ -24,10 +150,52 @@
       "folgen": 100
     },
     {
+      "show": "Table Today – mit Michael Bröcker und Helene Bubrowski",
+      "apple_collection_id": null,
+      "feed": "https://feeds.acast.com/public/shows/658d5f3c514889001711a470",
+      "pfad": "/v1/show/147bdd256f46475d61d2763adfe4f8e5a135994b.json",
+      "folgen": 1
+    },
+    {
+      "show": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
+      "apple_collection_id": null,
+      "feed": "https://dasmorningbriefing.podigee.io/feed/mp3",
+      "pfad": "/v1/show/3524260751520d1b92778e2d793fbec2b981c521.json",
+      "folgen": 1
+    },
+    {
+      "show": "Verbrechen",
+      "apple_collection_id": null,
+      "feed": "https://feeds.simplecast.com/dnJhzmyN",
+      "pfad": "/v1/show/47f71c0a2e3c0f8d401dfe6452b3e79dbac45fac.json",
+      "folgen": 1
+    },
+    {
       "show": "WDR Zeitzeichen",
       "apple_collection_id": null,
       "feed": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.podcast",
       "pfad": "/v1/show/ef4ed3452851a2eb71097b4ade4aba0237289bba.json",
+      "folgen": 1
+    },
+    {
+      "show": "Was jetzt?",
+      "apple_collection_id": null,
+      "feed": "https://feeds.simplecast.com/Xtqjn37O",
+      "pfad": "/v1/show/d8550d2cacd17ad4ca78aa391b7fa096be389e45.json",
+      "folgen": 1
+    },
+    {
+      "show": "Wild Wild Web - Geschichten aus dem Internet",
+      "apple_collection_id": null,
+      "feed": "https://feeds.br.de/wild-wild-web/feed.xml",
+      "pfad": "/v1/show/4b042f56fcb8875f608038f3ba26c344ac0804d1.json",
+      "folgen": 1
+    },
+    {
+      "show": "Wissen mit Johnny",
+      "apple_collection_id": null,
+      "feed": "https://anchor.fm/s/f8b3e284/podcast/rss",
+      "pfad": "/v1/show/7dae70cf06ca143b5cba87d1f6ab4576b5212783.json",
       "folgen": 1
     }
   ]
