@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "139893a4ae83fa923a28aa0466b40a1b",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Deus Ex! (SF 2)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/49218-m-01fa2b32760c0c42450dadc7f57101a1.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 36581043,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T23:51:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Der Retro-Podcast ueber den Shooter-Meilenstein Deus Ex und Studioentwickler Warren…",
+  "kurzfassung": "Christian Schmidt und Gunnar Lott diskutieren in dieser Folge ueber den Shooter-Meilenstein Deus Ex, dessen historische Einordnung und Schwaechen. Sie beleuchten die Entstehungsgeschichte des Entwicklerstudios Iron Storm, das Umfeld von Warren Spector sowie die popkulturellen Einfluesse des Spiels. Ausserdem besprechen sie die verschiedenen Handlungsstraenge, das Worldbuilding und das umstrittene Erbe des Titels.",
+  "stichpunkte": [
+    "Deus Ex kombiniert Ego-Shooter- und Rollenspielelemente mit einer offenen Welt und einer komplexen Verschwörungsstory.",
+    "Das Spiel leidet unter linearen Passagen, KI-Schwaechen und recycelten Levels, gilt aber historisch als ambitionierter Meilenstein.",
+    "Warren Spector und Harvey Smith leiteten die Entwicklung bei Iron Storm Austin, während das Hauptstudio in Dallas für Skandale sorgte.",
+    "Daikatana und Dominion von Iron Storm gelten als prominente Fehlschläge der Spielebranche in den späten Neunzigern.",
+    "Deus Ex griff mit Verschwörungstheorien und KIs Themen auf, die das Spiel zu einem frühen Werk für intelligente Nerds machten.",
+    "Die Spieler haben am Ende drei verschiedene Entscheidungen, die erst im Nachfolger kontextualisiert werden."
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung und aktueller Bezug zu Deus Ex Human Revolution",
+      "start": 0.0
+    },
+    {
+      "titel": "Spielmechaniken, Illusion einer offenen Welt und Kritik",
+      "start": 138.52
+    },
+    {
+      "titel": "Die historische Rezeption und der Einfluss des New Games Journalism",
+      "start": 392.6
+    },
+    {
+      "titel": "Handlung, Setting und Verschwörungstheorien im Jahr 2052",
+      "start": 766.7
+    },
+    {
+      "titel": "Die Geschichte des Entwicklers Iron Storm und Skandale in Dallas",
+      "start": 1522.7
+    },
+    {
+      "titel": "Ego-Shooter als neue Erzählform und die verschiedenen Enden von Deus Ex",
+      "start": 2280.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T23:51:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 2602,
+  "veroeffentlicht": "2011-09-09T22:33:27+00:00",
+  "beschreibung": "Wir erwähnen, ausführlich oder nebenbei, folgende Spiele: die Deus Ex-Serie, Martian Dreams, Daikatana, Half-Life, Bioshock, Mass Effect, Dominion: Storm over Gift 3, Ultima Underworld, System Shock, Anachronox, Baphomets Fluch, Savage Empire, Thief: Deadly Shadows, Unreal Tournament.",
+  "beschreibung_html": "<p>Wir erwähnen, ausführlich oder nebenbei, folgende Spiele: die Deus Ex-Serie, Martian Dreams, Daikatana, Half-Life, Bioshock, Mass Effect, Dominion: Storm over Gift 3, Ultima Underworld, System Shock, Anachronox, Baphomets Fluch, Savage Empire, Thief: Deadly Shadows, Unreal Tournament.</p>",
+  "bild_url": "https://images.podigee-cdn.net/0x,sJyEHDNOVEFyCL2MEKiz8YpQO-1A-c1HEKN97top26uQ=/https://main.podigee-cdn.net/uploads/u4307/986bdc78-0431-4b07-80f0-1c6c27039a67.jpg",
+  "schlagworte": [
+    "DEUS EX ION STORM JOHN ROMERO WARREN SPECTOR"
+  ],
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

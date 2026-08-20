@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "5c5f274caf47d771d9cc8b8bf5d2c34b",
+  "apple_collection_id": null,
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Vampire! (SF 3)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/49219-m-f319171b745e07bbc2db0234b3c23980.mp3?source=feed",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 53364669,
+    "format": "mp3",
+    "geprueft_am": "2026-08-19T23:36:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+  },
+  "einzeiler": "Gunnar Lott und Christian Schmidt sprechen über Vampire: The Masquerade und das RPG…",
+  "kurzfassung": "Gunnar Lott und Christian Schmidt widmen sich in dieser Episode den Vampir-Rollenspielen aus der World of Darkness. Sie beleuchten ausführlich den Vorgänger Redemption und die Stärken des Kultspiels Vampire: The Masquerade – Bloodlines von Troika Games. Dabei diskutieren sie Atmosphäre, Dialogsysteme, Clanklassen und die technische Seite der Titel.",
+  "stichpunkte": [
+    "Besprechung der Spiele Vampire: The Masquerade – Redemption und Bloodlines sowie des dahinterstehenden Troika-Studios",
+    "Vergleich mit anderen seltenen Vampirspielen wie Legacy of Kain und Bloodnet",
+    "Kritik an Redemptions Speichersystem, den unfairen Kämpfen und den Logiklücken bei der Gegnermasse",
+    "Rückblick auf die Entstehung von Troika Games durch die ehemaligen Fallout-Entwickler Boyarsky, Kaine und Anderson",
+    "Würdigung der exzellenten Atmosphäre, der Sprecher und der detailverliebten Dialoge in Bloodlines",
+    "Erklärung der tiefgreifenden Unterschiede beim Spielen verschiedener Clans wie Nosferatu und Malkavianer",
+    "Thematisierung des berüchtigten Community-Patch-Kriegs rund um die Bugfixes für Bloodlines",
+    "Diskussion über das erwachsene Szenario, die Maskerade-Mechanik und die Inszenierung von Sex im Spiel"
+  ],
+  "kapitel": [
+    {
+      "titel": "Einleitung und Vampirspiele",
+      "start": 31.08
+    },
+    {
+      "titel": "Vampire: The Masquerade – Redemption",
+      "start": 348.92
+    },
+    {
+      "titel": "Das Entwicklerstudio Troika Games",
+      "start": 1300.36
+    },
+    {
+      "titel": "Vampire: The Masquerade – Bloodlines",
+      "start": 1758.12
+    },
+    {
+      "titel": "Technik, Patches und Community",
+      "start": 2832.56
+    },
+    {
+      "titel": "Erwachsene Themen und Fazit",
+      "start": 3076.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-19T23:36:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 3749,
+  "veroeffentlicht": "2011-10-09T15:38:57+00:00",
+  "beschreibung": "Diesmal geht's um die Spiele der \"Vampire: The Masquerade\"-Serie, um die Firma Troika, den Designer Leonard Boyarsky -- und um Sex mit Vampiren.",
+  "beschreibung_html": "Diesmal geht's um die Spiele der \"Vampire: The Masquerade\"-Serie, um die Firma Troika, den Designer Leonard Boyarsky -- und um Sex mit Vampiren.",
+  "bild_url": "https://images.podigee-cdn.net/0x,s1jvOu9lwf5n_aabc6tSOlxtllZsG6LpIrwgxzWBcBxg=/https://main.podigee-cdn.net/uploads/u4307/507b8fa4-1584-47da-bd9b-8a99223ae929.jpg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

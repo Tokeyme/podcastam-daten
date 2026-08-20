@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Stay Forever - Retrogames & Technik",
   "apple_collection_id": null,
-  "erzeugt_am": "2026-08-19T23:42:29+00:00",
+  "erzeugt_am": "2026-08-20T01:08:07+00:00",
   "folgen": [
     {
       "guid": "6fb7a1c3904bff28ed6e71a4e4233361",
@@ -856,6 +856,51 @@
       "pfad": "/v1/episode/62bcf88425dff9e1a3f7988fcdb99a1e6006b6e6.json",
       "titel": "Defender of the Crown (SF 68)",
       "veroeffentlicht": "2017-07-27T15:10:19+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "2bc9f7ddebc709798197f2e93492815b",
+      "audio_url": "https://audio.podigee-cdn.net/49223-m-b9e6a88bd509b0cd9be44850fef3cf53.mp3?source=feed",
+      "pfad": "/v1/episode/ff52c3b7dc9a0ee34a3c2bd99937a0df860b03c7.json",
+      "titel": "Syndicate! (SF 4)",
+      "veroeffentlicht": "2011-10-26T08:20:51+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "5c5f274caf47d771d9cc8b8bf5d2c34b",
+      "audio_url": "https://audio.podigee-cdn.net/49219-m-f319171b745e07bbc2db0234b3c23980.mp3?source=feed",
+      "pfad": "/v1/episode/5c334ad6e8cdc654628202f2f960b951bba58b8f.json",
+      "titel": "Vampire! (SF 3)",
+      "veroeffentlicht": "2011-10-09T15:38:57+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "139893a4ae83fa923a28aa0466b40a1b",
+      "audio_url": "https://audio.podigee-cdn.net/49218-m-01fa2b32760c0c42450dadc7f57101a1.mp3?source=feed",
+      "pfad": "/v1/episode/40c1ace0580fb138d9fb10a977212f91de54bc3d.json",
+      "titel": "Deus Ex! (SF 2)",
+      "veroeffentlicht": "2011-09-09T22:33:27+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "e9c9efed20ed4580f88e54f955082dbb",
+      "audio_url": "https://audio.podigee-cdn.net/49217-m-025e81312de730e57f5ad2738ee419f4.mp3?source=feed",
+      "pfad": "/v1/episode/b37190c04c37f676cfcaffa3c1bfbdc7627dea64.json",
+      "titel": "Revolution! (SF 1 Classic)",
+      "veroeffentlicht": "2011-08-29T19:51:48+00:00",
+      "clips": false,
+      "kapitel": true
+    },
+    {
+      "guid": "b68f0199b5092974e8f663cbaedab0f5",
+      "audio_url": "https://audio.podigee-cdn.net/69273-m-a5c0d2bcfa0dc8dfaeca3801d0d1291f.mp3?source=feed",
+      "pfad": "/v1/episode/e30a89dc929b1e95a2904f6363f52e0ac1606dca.json",
+      "titel": "Baphomets Fluch (SF 1 REMAKE)",
+      "veroeffentlicht": "2011-08-28T10:20:00+00:00",
       "clips": false,
       "kapitel": true
     }

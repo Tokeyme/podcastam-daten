@@ -1,13 +1,34 @@
 {
   "schema_version": 1,
-  "erzeugt_am": "2026-08-19T23:42:29+00:00",
+  "erzeugt_am": "2026-08-20T01:08:07+00:00",
   "shows": [
+    {
+      "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
+      "apple_collection_id": null,
+      "feed": "https://www.tagesschau.de/multimedia/podcast/15-minuten/index~podcast.xml",
+      "pfad": "/v1/show/fb73c06133a7d63fd36c679f506ba7fcbd6bcb53.json",
+      "folgen": 1
+    },
+    {
+      "show": "REICH – Das Geschäft mit dem Zweifel",
+      "apple_collection_id": null,
+      "feed": "https://www.mdr.de/wissen/podcast/reich/reich-126.xml",
+      "pfad": "/v1/show/067ad218d9340b87787288c01e7ded1676d7535b.json",
+      "folgen": 1
+    },
     {
       "show": "Stay Forever - Retrogames & Technik",
       "apple_collection_id": null,
       "feed": "https://podcastd45a61.podigee.io/feed/mp3",
       "pfad": "/v1/show/976d6e080fdd0831dc856d9d11ad33ed1966e8b5.json",
-      "folgen": 95
+      "folgen": 100
+    },
+    {
+      "show": "WDR Zeitzeichen",
+      "apple_collection_id": null,
+      "feed": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.podcast",
+      "pfad": "/v1/show/ef4ed3452851a2eb71097b4ade4aba0237289bba.json",
+      "folgen": 1
     }
   ]
 }

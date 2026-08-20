@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "guid": "ard_15minuten_ED18AF95",
+  "apple_collection_id": null,
+  "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
+  "titel": "Ernte im Hitzesommer nicht gut / Forschungszentrum gegen Drohnen / Bäckerei ohne Nachtarbeit",
+  "audio": {
+    "url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/08/19/8a57ce77-0fed-44b2-85d2-715842cf9f15/8a57ce77-0fed-44b2-85d2-715842cf9f15_MP3-128.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 14243599,
+    "format": "mp3",
+    "geprueft_am": "2026-08-20T00:57:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Schlechte Ernte, Drohnenabwehr im Test und neue Arbeitsmodelle in Bäckereien.",
+  "kurzfassung": "Der Deutsche Bauernverband meldet nach Hitze und Trockenheit eine unterdurchschnittliche Ernte bei Getreide und Kartoffeln. In Sachsen-Anhalt wurde ein neues Forschungszentrum für die Drohnenabwehr eröffnet, um auf hybride Bedrohungen zu reagieren. Zudem zeigen Handwerksbäckereien, wie sich durch spätere Öffnungszeiten und veränderte Schichten familienfreundlichere Arbeitszeiten realisieren lassen.",
+  "stichpunkte": [
+    "Bauernverband meldet unterdurchschnittliche Ernte bei Kartoffeln und Getreide durch Trockenheit und Hitze",
+    "Preise für Verbraucher bleiben vorerst stabil, da Getreide global gehandelt wird und nur einen Bruchteil des Produktpreises ausmacht",
+    "Bauernverband fordert angesichts steigender Kosten und schlechter Ernten ein politisches Sofortprogramm",
+    "Neues Forschungszentrum am Flughafen Magdeburg-Kochstedt testet und entwickelt Drohnenabwehrsysteme",
+    "Brandeinsatz im belgischen Naturschutzgebiet Hohen Venn dauert wegen tief liegender Glutnester weiter an",
+    "Unionsgeführte Bundesländer fordern ein Sonderprogramm für Hitzeschutz in Städten mit 500 Millionen Euro",
+    "Bäckerei in Niedersachsen bricht mit Nachtschichten und öffnet erst am Nachmittag",
+    "Hörer-Reaktionen zu Aggressivität im Straßenverkehr und Telematik-Tarife als Kfz-Versicherungsrabatt"
+  ],
+  "kapitel": [
+    {
+      "titel": "Schwierige Ernte im Sommer",
+      "start": 52.54
+    },
+    {
+      "titel": "Neues Forschungszentrum für Drohnenabwehr",
+      "start": 273.56
+    },
+    {
+      "titel": "Kurznachrichten",
+      "start": 452.7
+    },
+    {
+      "titel": "Bäckerei mitarbeiterfreundlich umgestellt",
+      "start": 548.48
+    },
+    {
+      "titel": "Hörerpost zum Straßenverkehr",
+      "start": 788.36
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Kartoffeln mit Sonnencreme eincremen?",
+      "start": 65.28,
+      "ende": 85.368,
+      "laenge": 20.09,
+      "byte_start": 1045135,
+      "byte_ende": 1366542,
+      "bytes": 321408,
+      "range_header": "bytes=1045135-1366542",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 65.352,
+      "anker_sha256": "cf280e1ebf888d17f6cd8848b36cc6071a105e59bc01eaae38b488b0844f3585",
+      "einblendung_ms": 60,
+      "text": "Ich kann die Kartoffeln nicht mit Sonnencreme einkremen und gleichzeitig warmer Wind aus Westen. Das haben die Kartoffeln halt nicht gut gefunden und dementsprechend sind sie jetzt relativ frühzeitig schon abgereift, abgestorben. Die Ertragsmenge darunter lässt sehr zu wünschen übrig."
+    },
+    {
+      "hook": "Drohnen mit Sprengstoff an deutschen Flughäfen",
+      "start": 273.48,
+      "ende": 293.568,
+      "laenge": 20.09,
+      "byte_start": 4376335,
+      "byte_ende": 4697742,
+      "bytes": 321408,
+      "range_header": "bytes=4376335-4697742",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 273.552,
+      "anker_sha256": "9dfd9e344082f6e1b77030e4249bc38850ba2842256601982dd790f095be65bd",
+      "einblendung_ms": 60,
+      "text": "Deutschland ist jeden Tag Zielscheiber von hybrider Bedrohung. So sagt es der Bundesinnenminister und er meint damit auch Drohnen, die hier bei uns Industrie- oder Militäranlagen ausspähen oder sogar versuchen anzugreifen. Haben wir gerade vor zwei Wochen am Flughafen in Leipzig erlebt, wo eine Drohne gefunden wurde, die mit Sprengstoff ausgestattet war."
+    },
+    {
+      "hook": "Zombie-Feuer unter der Erde",
+      "start": 475.584,
+      "ende": 495.696,
+      "laenge": 20.11,
+      "byte_start": 7609999,
+      "byte_ende": 7931790,
+      "bytes": 321792,
+      "range_header": "bytes=7609999-7931790",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 475.656,
+      "anker_sha256": "2e96e153f67bc00207661369856d86858d22dedfcf94191c2767f75b3cebc032",
+      "einblendung_ms": 60,
+      "text": "Die werden auch Zombie-Feuer genannt und die können tatsächlich auch Jahre später noch ausbrechen. Und ökologisch sind solche Brände wirklich eine Katastrophe, weil Moorgebiet vernichtet wird, das eigentlich CO2 speichert. Wie kann man die Menschen in Deutschland besser vor Hitze schützen?"
+    },
+    {
+      "hook": "Keinen Bock auf Nachtschichten",
+      "start": 613.176,
+      "ende": 633.792,
+      "laenge": 20.62,
+      "byte_start": 9811471,
+      "byte_ende": 10141326,
+      "bytes": 329856,
+      "range_header": "bytes=9811471-10141326",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 613.248,
+      "anker_sha256": "384cb63ecbdfcf924520b96f019bf53b41683e4dc692f366e50d482d5baec84a",
+      "einblendung_ms": 60,
+      "text": "Ich hatte halt keinen Bock auf die Nachtschichten. Und dann war mein Ziel, wenn ich mich selbstständig mache, dann mache ich es halt so, wie es für mich am angenehmsten ist. Und das ist dann eben durch die sozialfreundlichen, familienfreundlichen Arbeitszeiten eben ab 5 Uhr und nicht eben von 17, 18 Uhr bis 3 Uhr nachts. Und das hat mir immer nicht so gepasst, auch in der Ausbildung nicht. Da muss"
+    },
+    {
+      "hook": "Mittelspurschleicher und Verkehrsregeln",
+      "start": 803.616,
+      "ende": 823.704,
+      "laenge": 20.09,
+      "byte_start": 12858511,
+      "byte_ende": 13179918,
+      "bytes": 321408,
+      "range_header": "bytes=12858511-13179918",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 803.688,
+      "anker_sha256": "0e16d407d565f12df7c36a9a4e6d274c5d3ea4e43806d7dd5273b9dd807228d8",
+      "einblendung_ms": 60,
+      "text": "Er findet nämlich, dass die Verkehrsregeln dabei ja auch eine wichtige Rolle spielen, Er nennt als Beispiel das Rechtsfahrgebot auf Autobahnen. Und seiner Meinung nach wird das viel zu oft ignoriert. Und Mittelspurschleicher, wie er sie nennt, werden einfach nie kontrolliert."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-20T00:57:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 890,
+  "veroeffentlicht": "2026-08-19T06:00:04+02:00",
+  "beschreibung": "Unsere Infos heute\n\n(00:00:00) Themenübersicht\n\n(00:00:35) Bald kürzere Pommes?\nWeil es so heiß und trocken war in den letzten Wochen, fallen die Ernten in Deutschland für viele Landwirte dieses Jahr enttäuschend aus. Der Bauernverband geht aktuell von sieben Prozent weniger Getreide dieses Jahr aus. In unseren Nachrichten erfahrt Ihr, dass auch Pommes kürzer werden können, weil viele Kartoffeln nicht gut gewachsen sind. Laut Bauernpräsident Rukwied sind gleichzeitig aber die Kosten sehr stark gestiegen. Deshalb fordert er finanzielle Unterstützung für die Bauern.\n\n(00:04:34) Neues Forschungszentrum für Drohnen\nDie Bundesregierung hat in Sachsen-Anhalt ein neues Drohnenforschungszentrum eröffnet. Es ist beim Deutschen Zentrum für Luft- und Raumfahrt angesiedelt und soll vor allem erforschen, wie Drohnen besser erkannt und abgewehrt werden können. Das soll am Flughafen Magdeburg-Cochstedt unter realistischen Bedingungen getestet werden.\n\n(00:09:08) Bäckerei ohne Frühaufsteher\nEin junger Bäckermeister aus Niedersachsen bricht mit der traditionellen Nachtarbeit im Handwerk und öffnet seinen Laden erst am Mittag. Durch lange Teigreifung und veränderte Vertriebswege zeigt der Betrieb, wie moderne Arbeitszeiten in Bäckereien funktionieren können. Das Modell ist vielleicht ein Lösungsansatz, um dem Fachkräftemangel in der Branche entgegenzuwirken.\n\n💬 KONTAKT Wir wollen wissen: Wie hat euch die Folge gefallen? Schreibt uns gerne an 15minuten@tagesschau.de. Bei WhatsApp erreicht ihr uns unter 0172 2598665. Da freuen wir uns auch über Sprachnachrichten.\n\nHosts dieser Folge: Julia Barth und Magdalena Bienert\nMitgewirkt haben: Martin Adolphs, Lisa Breuer, Claudia Potocki und Janina Werner",
+  "beschreibung_html": "Unsere Infos heute<br><br>(00:00:00) Themenübersicht<br><br>(00:00:35) Bald kürzere Pommes?<br>Weil es so heiß und trocken war in den letzten Wochen, fallen die Ernten in Deutschland für viele Landwirte dieses Jahr enttäuschend aus. Der Bauernverband geht aktuell von sieben Prozent weniger Getreide dieses Jahr aus. In unseren Nachrichten erfahrt Ihr, dass auch Pommes kürzer werden können, weil viele Kartoffeln nicht gut gewachsen sind. Laut Bauernpräsident Rukwied sind gleichzeitig aber die Kosten sehr stark gestiegen. Deshalb fordert er finanzielle Unterstützung für die Bauern.<br><br>(00:04:34) Neues Forschungszentrum für Drohnen<br>Die Bundesregierung hat in Sachsen-Anhalt ein neues Drohnenforschungszentrum eröffnet. Es ist beim Deutschen Zentrum für Luft- und Raumfahrt angesiedelt und soll vor allem erforschen, wie Drohnen besser erkannt und abgewehrt werden können. Das soll am Flughafen Magdeburg-Cochstedt unter realistischen Bedingungen getestet werden.<br><br>(00:09:08) Bäckerei ohne Frühaufsteher<br>Ein junger Bäckermeister aus Niedersachsen bricht mit der traditionellen Nachtarbeit im Handwerk und öffnet seinen Laden erst am Mittag. Durch lange Teigreifung und veränderte Vertriebswege zeigt der Betrieb, wie moderne Arbeitszeiten in Bäckereien funktionieren können. Das Modell ist vielleicht ein Lösungsansatz, um dem Fachkräftemangel in der Branche entgegenzuwirken.<br><br>💬 KONTAKT Wir wollen wissen: Wie hat euch die Folge gefallen? Schreibt uns gerne an 15minuten@tagesschau.de. Bei WhatsApp erreicht ihr uns unter 0172 2598665. Da freuen wir uns auch über Sprachnachrichten.<br><br>Hosts dieser Folge: Julia Barth und Magdalena Bienert<br>Mitgewirkt haben: Martin Adolphs, Lisa Breuer, Claudia Potocki und Janina Werner",
+  "bild_url": "https://images.tagesschau.de/image/ae354552-b8be-416b-a8ac-8cccf9cb9d67/AAABnE1pFQQ/AAABnSStX0g/1x1-big/15-minuten-episodenbild-julia-magda-100.jpg?overlay=77061ae9-fcc1-47c7-a934-8fc60c5f2977&overlayModificationDate=AAABl3iUe8k&width=3000",
+  "schlagworte": [
+    "Erntebilanz",
+    "Drohnenabwehr",
+    "Bäcker"
+  ],
+  "kapitel_quelle": "modell"
+}
