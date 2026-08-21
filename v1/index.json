@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "erzeugt_am": "2026-08-21T12:07:17+00:00",
+  "erzeugt_am": "2026-08-21T16:19:46+00:00",
   "shows": [
     {
       "show": "0630 - der News-Podcast",
@@ -28,6 +28,13 @@
       "apple_collection_id": null,
       "feed": "https://allesaufaktien.podigee.io/feed/mp3",
       "pfad": "/v1/show/e91dd8cb7108fdd1df911a58bff9c81e60f9a818.json",
+      "folgen": 1
+    },
+    {
+      "show": "Alles gesagt?",
+      "apple_collection_id": null,
+      "feed": "https://feeds.simplecast.com/Y_bRXaw2",
+      "pfad": "/v1/show/759490526861bf2d9ef973582639e94497bc7e79.json",
       "folgen": 1
     },
     {
@@ -178,6 +185,13 @@
       "folgen": 1
     },
     {
+      "show": "Was bisher geschah - Geschichtspodcast",
+      "apple_collection_id": null,
+      "feed": "https://feeds.acast.com/public/shows/68935df5eef665d629ba5e4c",
+      "pfad": "/v1/show/491337ef35bcd5117b67f035209923a8999a75a0.json",
+      "folgen": 1
+    },
+    {
       "show": "Was jetzt?",
       "apple_collection_id": null,
       "feed": "https://feeds.simplecast.com/Xtqjn37O",
@@ -203,6 +217,13 @@
       "apple_collection_id": null,
       "feed": "https://feeds.megaphone.fm/zwischendenzeilen",
       "pfad": "/v1/show/fe772482355a51e3de045cc0ccc2de05252a0248.json",
+      "folgen": 1
+    },
+    {
+      "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
+      "apple_collection_id": null,
+      "feed": "https://feeds.megaphone.fm/UNGESKRIPTETMEDIAGMBH9200557996",
+      "pfad": "/v1/show/dd4d4d2805956b868ff3ea0809b85e0f07461046.json",
       "folgen": 1
     }
   ]
