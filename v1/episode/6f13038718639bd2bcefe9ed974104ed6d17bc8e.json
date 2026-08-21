@@ -17,38 +17,34 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Wie die PR-Industrie seit Jahrzehnten gezielt Zweifel sät, um fossile Geschäfte zu…",
-  "kurzfassung": "Der Podcast beleuchtet die Mechanismen hinter gelenkten PR-Kampagnen und Lobbyismus, die den wissenschaftlichen Konsens zur Klimakrise und anderen Themen attackieren. Ausgehend von einer Klimaleugner-Konferenz rekonstruiert die Episode die Geschichte von Candace Leitner, deren erfolgreiche Graswurzelbewegung gegen Alkohol am Steuer später von der Industrie vereinnahmt wurde. Dabei zeigt sich, wie PR-Strategen wie Rick Berman gezielt Front-Gruppen gründen, um Profitinteressen durch Desinformation abzusichern.",
+  "einzeiler": "Wie eine traurige Mutter gegen die Alkohollobby kämpfte und das Geschäft mit Zweifeln…",
+  "kurzfassung": "Nach dem Unfalltod ihrer Tochter gründete Candace Leitner die Bewegung MADD und erreichte ein landesweites Mindestalter von 21 Jahren für Alkohol. Später wurde ihre Bewegung von PR-Strategen wie Richard Berman unterwandert, die ähnliche Methoden wie die Tabak- und Erdölindustrie anwendeten. Der Podcast beleuchtet die Mechanismen hinter organisierten PR-Kampagnen und dem systematischen Schüren von Zweifeln.",
   "stichpunkte": [
-    "Besuch einer Klimaleugner-Konferenz in Deutschland, auf der CO2 als unschädlich und positiv dargestellt wird",
-    "Das Grundmuster von PR-Kampagnen beruht auf der systematischen Erzeugung von Zweifel, erprobt bei Tabak und Alkohol",
-    "Candace Leitner gründete 1980 nach dem Unfalltod ihrer Tochter die Bewegung MADD gegen Alkohol am Steuer",
-    "MADD wuchs zur mächtigen Graswurzelbewegung heran und erzwang 1984 das US-weite Alkohol-Mindestalter von 21 Jahren",
-    "Die Alkoholindustrie hielt sich anfangs zurück, da Angriffe auf Mütter und Moral aussichtslos schienen",
-    "In den 90er Jahren gründete der PR-Fachmann Rick Berman Tarnorganisationen, um MADD zu diskreditieren",
-    "Berman perfektionierte den Einsatz von Front-Groups, um Industrieginteressen zu verschleiern",
-    "Die Methoden zur Verzögerung von Regulierungen dienen heute als Vorbild für die Öl- und Gaslobby in der Klimapolitik"
+    "Besuch einer EIKE-Klimaleugnerkonferenz in Deutschland als Einstieg in das Thema organisierter Zweifel",
+    "Vorstellung von Candace Leitner, die nach dem Tod ihrer 13-jährigen Tochter durch einen betrunkenen Fahrer die Organisation MADD gründete",
+    "Candace Leitners juristischer Kampf und ihr Treffen mit Präsident Ronald Reagan 1984 zur Durchsetzung des Alkoholverbots ab 21 Jahren",
+    "Die Strategie der Alkohollobby, die Bewegung jahrelang unangetastet zu lassen, da Angriffe auf Mütter und Apfelkuchen aussichtslos schienen",
+    "Gründung von Scheingruppen wie BRAD und dem American Beverage Institute durch den PR-Fachmann Richard Berman",
+    "Richard Bermans Rolle als Meister der verdeckten Interessenvertretung und der Desinformation",
+    "Die Übertragung dieser PR-Taktiken auf andere Branchen wie die Tabakindustrie und fossile Energiekonzerne",
+    "Einordnung der Methoden als jahrzehntelang erprobtes Playbook zur Verlängerung von Geschäftsmodellen"
   ],
   "kapitel": [
     {
-      "titel": "Auf der Klimaleugner-Konferenz",
-      "start": 49.9
+      "titel": "Einstieg bei einer Klimaleugner-Konferenz",
+      "start": 2.56
     },
     {
-      "titel": "Der Auftakt: Candace Leitners Kampf",
-      "start": 465.65
+      "titel": "Die Geschichte von Candace Leitner und MADD",
+      "start": 449.87
     },
     {
-      "titel": "Der Triumph mit Präsident Reagan",
+      "titel": "Der Triumph im Weißen Haus",
       "start": 1040.56
     },
     {
-      "titel": "Die Industrie schlägt zurück",
-      "start": 1331.32
-    },
-    {
-      "titel": "Dr. Evil und das Playbook des Zweifels",
-      "start": 1433.18
+      "titel": "Die Gegenstrategie der Lobby und Richard Berman",
+      "start": 1221.82
     }
   ],
   "clips": [
@@ -129,11 +125,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T03:11:00+00:00",
+    "am": "2026-08-21T11:54:08+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,16 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Wie id Software mit Quake den Ego-Shooter revolutionierte und daran fast zerbrach.",
-  "kurzfassung": "Quake revolutionierte 1996 die PC-Spielewelt durch eine vollwertige 3D-Engine und wegweisenden Multiplayer, begründete aber auch das Ende des legendären Entwicklerteams von id Software. Während die Technik mit Prefrocessing und schnellem Gameplay Maßstäbe setzte, litt die Singleplayer-Kampagne unter Zeitnot und gestrichenen Ideen. Insbesondere der Multiplayer und die Modifizierbarkeit machten den Titel zu einem historischen Meilenstein der E-Sport-Geschichte.",
+  "einzeiler": "Rückblick auf den Ego-Shooter-Meilenstein Quake von id Software aus dem Jahr 1996.",
+  "kurzfassung": "Quake revolutionierte 1996 mit einer echten 3D-Engine und schnellem Multiplayer das Shooter-Genre. Die Entwicklung war jedoch von internen Krisen und dem Bruch zwischen John Carmack und John Romero geprägt. Heute gilt das Spiel vor allem wegen seines Einflusses auf Technik und E-Sport als Klassiker.",
   "stichpunkte": [
-    "Erschienen im Sommer 1996 als technischer Meilenstein mit echten 3D-Polygonen statt Raycasting.",
-    "John Carmacks Engine setzte auf aufwendiges Pre-Processing wie BSP-Bäume, Lightmaps und PVS-Listen.",
-    "Assembler-Optimierungen von Michael Abrash verdoppelten die Bildrate auf damaligen PCs.",
-    "Die Entwicklung war von massiven internen Konflikten und dem Bruch zwischen John Carmack und John Romero geprägt.",
-    "Romeros ursprüngliche Vision eines mittelalterlichen Action-Rollenspiels wurde verworfen und Quake stattdessen als Shooter fertiggestellt.",
-    "Der Soundtrack stammte von Trent Reznor von Nine Inch Nails und prägte die düstere Cthulhu-Atmosphäre.",
-    "Dank stabilem Netcode und dedizierten Maps wurde Quake zum Urvater moderner Multiplayer-Clans und E-Sports."
+    "Erschienen im Sommer 1996 als technischer und spielerischer Nachfolger von Doom",
+    "Erste vollstufige Echtzeit-3D-Engine von John Carmack mit ausgeklügeltem Pre-Processing und BSP-Bäumen",
+    "Starkes Multiplayer-Fokus mit innovativem Netzcode, der den Grundstein für moderne Clans und E-Sport legte",
+    "Entwicklung geprägt von starkem Druck, unklaren Konzepten und dem Bruch im Gründerteam um John Romero",
+    "Musikalische Untermalung durch einen düsteren Ambient-Soundtrack von Trent Reznor (Nine Inch Nails)",
+    "Die Kampagne bietet eine dichte, düstere Horror-Atmosphäre, leidet aber unter recht abstrakten und austauschbaren Levelstrukturen",
+    "Technischer Meilenstein, der trotz anfänglich fehlender 3D-Beschleuniger und Standard-Mauslook Maßstäbe setzte"
   ],
   "kapitel": [
     {
@@ -408,11 +408,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:25+00:00",
+    "am": "2026-08-21T11:58:51+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte und Spielmechanik des Strategie-Meilensteins Civilization.",
-  "kurzfassung": "Der Podcast beleuchtet die Entstehungsgeschichte des 1991 erschienenen Strategie-Klassikers Civilization von Sid Meier und Bruce Shelley. Es werden die Entwicklung bei Microprose, die kreativen Einflüsse von Brettspielen sowie die zentralen Spielmechaniken von Forschung bis Diplomatie analysiert. Dabei diskutieren die Hosts auch die historische Abstraktion des Spiels und seine wegweisende Bedeutung für das Genre.",
+  "einzeiler": "Die Entstehungsgeschichte und Spielmechanik des Strategie-Klassikers Civilization.",
+  "kurzfassung": "Die Hosts analysieren den Strategie-Meilenstein Civilization, der 1991 von Sid Meier und Bruce Shelley entwickelt wurde. Sie beleuchten die Entstehungsgeschichte bei Microprose, die spielmechanischen Innovationen wie den Technologiebaum sowie die Bedeutung der visuellen Darstellung. Dabei diskutieren sie kontrovers über die historische Abstraktion und die Langzeitwirkung des Titels.",
   "stichpunkte": [
-    "Das rundenbasierte Strategiespiel Civilization erschien Ende 1991 bei Microprose.",
-    "Sid Meier entwickelte den Prototypen parallel zu anderen Projekten, maßgeblich unterstützt von dem Brettspieldesigner Bruce Shelley.",
-    "Das Spiel verbindet Wirtschaftsmanagement, Städtebau, technologischen Fortschritt und militärische Konflikte.",
-    "Der eingeführte Technologiebaum ist ein prägendes Element für das gesamte Genre.",
-    "Die grafische Präsentation und das Informationsdesign galten 1991 für ein Strategiespiel als vorbildlich.",
-    "Das Spiel bietet zwei wesentliche Siegoptionen: die Welteroberung oder den Raumschiffflug nach Alpha Centauri.",
-    "Kritikpunkte am Spiel sind unter anderem vereinfachte historische Darstellungen und mechanische Unzulänglichkeiten beim Siedler-Management."
+    "Entwicklung durch Sid Meier und Bruce Shelley bei Microprose als inoffizielles Team.",
+    "Einfluss von Brettspielen wie Civilization und 1830 sowie Railroad Tycoon auf das Design.",
+    "Die Rolle von Civilization als Wegbereiter für das Genre der Rundenstrategie im Mainstream.",
+    "Diskussion über die Abstraktion von Geschichte und das technozentrische Weltbild des Spiels.",
+    "Bedeutung der visuellen Aufbereitung und der 'Selbstwirksamkeit' für den Erfolg des Titels.",
+    "Herausforderungen bei der Verwaltung des Reiches, insbesondere durch die Siedler-Mechanik.",
+    "Die Bedeutung der 'Civilopedia' als wegweisendes Hilfesystem für komplexe Strategietitel.",
+    "Trennung der Wege von Meier und Shelley nach dem Erfolg des Spiels."
   ],
   "kapitel": [
     {
@@ -360,11 +361,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:47:20+00:00",
+    "am": "2026-08-21T11:49:41+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

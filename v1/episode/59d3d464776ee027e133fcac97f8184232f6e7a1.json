@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die turbulente Entstehungsgeschichte des Commodore Amiga zwischen Atari und Pleitegefahr.",
-  "kurzfassung": "Der Amiga entstand Anfang der 1980er Jahre als ambitioniertes Projekt ehemaliger Atari-Ingenieure, die eine leistungsstarke 16-Bit-Plattform erschaffen wollten. Nach schweren finanziellen Krisen und einem harten Verteilungskampf mit Atari rettete Commodore das Start-up durch eine Übernahme im Jahr 1984. Das Gerät entwickelte sich von einer geplanten Spielkonsole über einen Hybrid zu einem innovativen Multimedia-Computer, dessen revolutionäre Technik schließlich im Sommer 1985 auf den Markt kam.",
+  "einzeiler": "Die spannende und bewegte Entstehungsgeschichte des Commodore Amiga von 1979 bis 1985.",
+  "kurzfassung": "Der Amiga entstand nicht bei Commodore, sondern geht auf ehemalige Atari-Ingenieure wie Jay Miner zurück, die eine leistungsstarke 16-Bit-Konsole entwickeln wollten. Nach Finanzkrisen und harten Übernahmekämpfen zwischen Atari und Commodore kam die revolutionäre Maschine 1985 schließlich als Computer auf den Markt. Die Entwicklung war geprägt von zahlreichen Richtungswechseln, Technik-Innovationen und dramatischen Rettungsaktionen.",
   "stichpunkte": [
-    "Jay Miner und Joe DeCure entwarfen nach ihrer Zeit bei Atari 1979 die Vision eines leistungsstarken 16-Bit-Entertainment-Computers.",
-    "Das Startup startete 1982 unter dem Namen Hightoro (später Amiga Inc.) zunächst mit der Entwicklung von Controllern wie dem Joyboard für das Atari 2600.",
-    "Nach dem Videospiel-Crash von 1983 strich das Team die Konsolenpläne und fokussierte sich auf einen flexiblen Heimcomputer mit eigenem Chipsatz.",
-    "Der Chipsatz bestand aus den drei spezialisierten Custom-Chips Agnus, Denise und Paula, die DMA-Zugriffe und fortschrittliche Grafik- sowie Soundfunktionen ermöglichten.",
-    "Die legendäre 'Boeing-Demo' überzeugte 1984 auf der CES in Las Vegas die Fachpresse und potenzielle Investoren.",
-    "Atari sicherte das überlastete Unternehmen im März 1984 durch ein risikoreiches Darlehen ab, das beinahe zur kompletten Übernahme der Technik geführt hätte.",
-    "Commodore kaufte Amiga im Sommer 1984 für 24 Millionen Dollar frei und verhinderte damit den Zugriff durch den ehemaligen Commodore-Chef Jack Tramiel.",
-    "RJ Michael entwickelte 1985 im Alleingang die grafische Benutzeroberfläche Intuition, während das Design an Standards von Bürorechnern angepasst wurde."
+    "Wurzeln bei Atari: Die Ingenieure Joe DeCure und Jay Miner entwickelten bereits 1979 die Vision eines leistungsstarken 16-Bit-Systems, die vom Atari-Management abgelehnt wurde.",
+    "Gründung als Hightoro: Nach dem Verlassen von Atari gründeten die Entwickler mit Investoren ein neues Startup, das zunächst Konsolen und Zubehör wie das Joyboard produzierte.",
+    "Der Videospiele-Crash: Der Einbruch des US-Konsolenmarktes 1983 zwang das Team zum Strategiewechsel hin zu einem vollwertigen Computerprojekt namens Lorraine.",
+    "Der revolutionäre Chipsatz: Das System nutzte einen modernen Custom-Chipsatz aus den drei Spezialchips Agnus, Denise und Paula, unterstützt durch einen Hardware-Blitter.",
+    "Die Atari-Krise: Ein Rettungskredit von Atari im März 1984 führte fast zur feindlichen Übernahme der Technik durch den ehemaligen Arbeitgeber.",
+    "Rettung durch Commodore: Im Juni 1984 kaufte Commodore das Startup für 24 Millionen Dollar frei und sicherte so das Überleben der Plattform.",
+    "Die grafische Benutzeroberfläche Intuition: Entwickler RJ Michael erschuf 1985 in einer intensiven Crunch-Phase das grafische Betriebssystem.",
+    "Markteinführung 1985: Nach mehreren konzeptionellen Neuausrichtungen und zahlreichen Prototypen erschien der Amiga im Juli 1985 schließlich auf dem Markt."
   ],
   "kapitel": [
     {
@@ -217,11 +217,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:41:25+00:00",
+    "am": "2026-08-21T11:51:11+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

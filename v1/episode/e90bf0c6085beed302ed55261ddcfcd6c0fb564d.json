@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Der Retro-Plattformer Terminator 2D: No Fate im Doppelpass mit dem Filmklassiker.",
-  "kurzfassung": "Der Podcast beleuchtet den Actionfilm-Meilenstein Terminator 2 aus dem Jahr 1991 sowie das späte, im Retro-Stil gehaltene Spiel Terminator 2D: No Fate. Die Hosts diskutieren die Entstehungsgeschichte des Blockbusters, die Wirkung der analogen und digitalen Effekte und vergleichen die Stärken und Schwächen der modernen Spieladaption. Abgerundet wird die Episode durch die traditionelle Bewertung im System The Good, The Bad and The Ugly.",
+  "einzeiler": "Eine Analyse des Action-Klassikers Terminator 2 und des modernen Retro-Spiels No Fate.",
+  "kurzfassung": "Die Hosts besprechen den 1991 erschienenen Science-Fiction-Meilenstein Terminator 2 und dessen Entstehungsgeschichte. Im Fokus steht dabei auch das neue, offiziell lizenzierte Spiel Terminator 2D: No Fate, das sich spielerisch an 16-Bit-Klassikern orientiert. Abschließend bewerten sie beide Werke in ihrem bewährten System.",
   "stichpunkte": [
-    "Besprechung des Filmklassikers Terminator 2: Tag der Abrechnung von James Cameron aus dem Jahr 1991.",
-    "Thematisierung der schwierigen Rechte-Lage und des enormen Budgets von rund 100 Millionen Dollar.",
-    "Wandel der Rolle von Arnold Schwarzenegger vom unbarmherzigen Killer zum beschützenden Ersatzvater.",
-    "Pionierarbeit bei den visuellen Effekten durch ILM (T-1000 aus Flüssigmetall) und Stan Winston.",
-    "Rückblick auf frühere, oft durchwachsene Videospielumsetzungen wie die von Ocean.",
-    "Ausführliche Analyse des modernen Retro-Spiels Terminator 2D: No Fate von Bitmap Bureau und Reef Entertainment.",
-    "Lob für die detailverliebte Umsetzung, das gelungene Leveldesign und den variablen Schwierigkeitsgrad.",
-    "Traditionelle Bewertung der Werke in der Kategorie The Good, The Bad and The Ugly anhand von Terminator-Modellen."
+    "Rückblick auf die turbulente Produktion von Terminator 2 und James Camerons Regiearbeit.",
+    "Diskussion über die innovative Nutzung von Computergrafik und praktischen Effekten.",
+    "Einordnung der schauspielerischen Leistungen von Arnold Schwarzenegger, Linda Hamilton und Robert Patrick.",
+    "Vorstellung des modernen Spiels Terminator 2D: No Fate vom Entwickler Bitmap Bureau.",
+    "Analyse der spielerischen Hommagen an 16-Bit-Titel wie Contra und Elevator Action.",
+    "Vergleich der Spielmechaniken und des Schwierigkeitsgrades mit zeitgenössischen Filmumsetzungen.",
+    "Bewertung von Film und Spiel im System The Good, The Bad and The Ugly.",
+    "Reflektion über die zeitlose Qualität des Films und den Charme der Retro-Adaption."
   ],
   "kapitel": [
     {
@@ -205,11 +205,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:00+00:00",
+    "am": "2026-08-21T11:58:42+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

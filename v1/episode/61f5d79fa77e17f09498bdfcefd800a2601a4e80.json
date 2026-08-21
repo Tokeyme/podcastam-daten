@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Unternehmenspleiten auf Rekordhoch, wackelndes Triple-A und die Angst an den…",
-  "kurzfassung": "Deutschland verzeichnet so viele Unternehmensschließungen wie seit zwei Jahrzehnten nicht mehr, wobei vermehrt auch rentable Betriebe aufgeben müssen. Parallel geraten das deutsche Triple-A-Rating und die weltweiten Anleihemärkte durch massive Staatsschulden und geopolitische Risiken unter Druck. Zum Abschluss beleuchtet die Sendung eine schwedische Kurzfilmidee über den mutigen Sprung vom Zehn-Meter-Turm.",
+  "einzeiler": "Unternehmenssterben in Deutschland, wackelndes Triple-A-Rating und die Lage im Baltikum",
+  "kurzfassung": "Deutschland verzeichnet so viele Unternehmensschließungen wie seit zwei Jahrzehnten nicht mehr, während gleichzeitig der deutsche Top-Bonitätsstatus durch steigende Staatsschulden ins Wanken gerät. Im Gespräch mit dem ehemaligen Chefvolkswirt der Deutschen Bank, Thomas Meyer, analysiert der Podcast die Nervosität an den Anleihemärkten und den Einfluss globaler Krisen. Zudem geht es um die Stärkung der Nato-Ostflanke durch die deutsche Panzerbrigade in Litauen.",
   "stichpunkte": [
-    "Rund 187.000 Unternehmensschließungen im vergangenen Jahr in Deutschland, zehn Prozent mehr als im Vorjahr.",
-    "Laut Kreditreform müssen zunehmend auch Betriebe mit guter Bonität und funktionierenden Geschäftsmodellen aufgeben.",
-    "Sinkende Innovationskraft und der Verlust von Know-how belasten die volkswirtschaftliche Substanz nachhaltig.",
-    "An den Anleihemärkten wächst die Nervosität durch hohe Staatsverschuldung und geopolitische Krisen.",
-    "Die massive Neuverschuldung lässt das deutsche Triple-A-Bonitätsrating und dessen Refinanzierungskosten infrage stellen.",
-    "Große KI-Investoren und Softwarekonzerne drängen als neue Konkurrenten auf den Markt für Anleihen.",
-    "Eine geplante Aufstockung der deutschen NATO-Brigade in Litauen soll die Ostflanke absichern.",
-    "Ein schwedischer Kurzfilm über Sprünge vom Zehn-Meter-Turm veranschaulicht den Wert von Überwindung."
+    "Rund 187.000 Unternehmensschließungen in Deutschland im vergangenen Jahr, besonders hart trifft es die Gastronomie",
+    "Immer mehr Betriebe mit guter Bonität müssen trotz rentabler Geschäftsmodelle aufgeben",
+    "Experte Patrick Ludwig Hansch warnt vor dem Verlust wirtschaftlicher Substanz und wertvollem Know-how",
+    "Deutschlands Top-Bonitätsstatus (Triple A) gerät durch steigende Staatsschulden und eine Quote in Richtung 80 Prozent ins Wanken",
+    "Anleihemärkte zeigen sich nervös durch hohe US-Schuldenlast, Inflation und Konkurrenz durch KI-Großinvestitionen",
+    "Ökonom Thomas Meyer empfiehlt Anlegern bei technologischer Unsicherheit langfristiges Durchhaltevermögen",
+    "Ausbau der deutschen Panzerbrigade in Litauen auf 5.000 Soldaten bis 2027 zur Absicherung der Nato-Ostflanke"
   ],
   "kapitel": [
     {
@@ -129,11 +128,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T03:01:59+00:00",
+    "am": "2026-08-21T11:55:35+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

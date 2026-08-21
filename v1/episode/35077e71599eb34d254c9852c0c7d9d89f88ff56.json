@@ -17,21 +17,21 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
   },
-  "einzeiler": "Die Geschichte der Hindenburg vom Bau über den Luxusbetrieb bis zur Katastrophe",
-  "kurzfassung": "Die Hindenburg war das größte Luftschiff der Welt und bot Passagieren in den 1930er Jahren luxuriösen Komfort auf Transatlantikflügen. Wegen politischer und wirtschaftlicher Spannungen wurde das Luftschiff statt mit sicherem Helium mit hochentzündlichem Wasserstoff befüllt. Am 6. Mai 1937 geriet die Hindenburg bei der Landung in Lakehurst in Brand und stürzte ab, was das Ende der Passagier-Zeppeline besiegelte.",
+  "einzeiler": "Die Geschichte der Hindenburg von ihrem Bau bis zur verheerenden Katastrophe.",
+  "kurzfassung": "Die Episode beleuchtet die Geschichte des gigantischen Luftschiffs Hindenburg, das in den 1930er Jahren als fliegendes Luxushotel den Atlantik überquerte. Wegen politischer Spannungen und des US-Embargos auf Helium musste das Luftschiff mit hochexplosivem Wasserstoff gefüllt werden. Die Folge schildert den Ablauf der Fahrten und rekonstruiert die tragische Katastrophe bei der Landung in Lakehurst am 6. Mai 1937.",
   "stichpunkte": [
-    "In den 1930er Jahren suchte Deutschland nach Wegen, den Atlantik schneller als per Ozeandampfer zu überqueren.",
-    "Wegen der Weigerung der USA, Helium zu liefern, wurde die Hindenburg mit Wasserstoff befüllt.",
-    "Das Luftschiff bot Platz für knapp 100 Menschen und galt als fliegendes Luxushotel mit Speisesaal und Kabinen.",
-    "Die Hindenburg wurde vom NS-Regime als Propagandamittel eingesetzt und trug Hakenkreuze am Heck.",
-    "Am 6. Mai 1937 näherte sich die Hindenburg nach dreitägiger Atlantiküberquerung dem Landeplatz in Lakehurst.",
-    "Bei der Landung während eines Gewitters geriet das Luftschiff in Brand, nachdem Wasserstoff austrat.",
-    "Innerhalb von rund 30 Sekunden brannte die Hindenburg völlig aus.",
-    "Bei dem Unglück starben 35 Passagiere und ein Crewmitglied, während 62 Menschen überlebten."
+    "Historischer Kontext: Die Weltwirtschaftskrise in Deutschland 1931 und die Suche nach prestigeträchtigen technischen Innovationen.",
+    "Der Bau des LZ 129 als Antwort auf die langen Überfahrten von Ozeandampfern und die Grenzen früher Flugzeuge.",
+    "Das Helium-Problem: Wegen des US-Exportverbots wird die Hindenburg mit brennbarem Wasserstoff statt dem sicheren Edelgas gefüllt.",
+    "Das NS-Regime nutzt das Luftschiff als propagandistisches Werkzeug mit großen Hakenkreuzen am Heck.",
+    "Einblicke in den Bordalltag: Luxuriöse Ausstattung, Speisesäle, Schlafkabinen und ein trotz Sicherheitsvorkehrungen umstrittenes Rauchzimmer.",
+    "Die Atlantiküberquerung dauert lediglich zweieinhalb bis drei Tage statt über einer Woche auf einem Schiff.",
+    "Der 6. Mai 1937: Die Hindenburg nähert sich nach stundenlangem Warten wegen eines Gewitters dem Flugplatz in Lakehurst.",
+    "Die Katastrophe: Ein Funke, ausgelöst durch statische Aufladung beim Auswerfen der Halteseile, bringt den Wasserstoff zur Explosion; das Luftschiff brennt innerhalb von Sekunden vollständig aus."
   ],
   "kapitel": [
     {
-      "titel": "1931",
+      "titel": "1931: Die Krise und der Plan",
       "start": 149.8
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "titel": "Das fliegende Luxushotel",
-      "start": 846.06
+      "start": 847.78
     },
     {
       "titel": "Willkommen an Bord",
@@ -57,11 +57,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T06:41:16+00:00",
+    "am": "2026-08-21T11:47:38+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

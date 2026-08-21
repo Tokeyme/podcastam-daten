@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Bruce Shelley über die Entstehung von Civilization und die Zusammenarbeit mit Sid Meier.",
-  "kurzfassung": "Spieledesigner Bruce Shelley blickt auf seinen Werdegang von komplexen Brettspielen bei Avalon Hill bis hin zu seiner Rolle bei MicroProse zurück. Im täglichen Austausch mit Sid Meier begleitete er als wichtigster Tester und Feedbackgeber die Entwicklung von Klassikern wie Railroad Tycoon und Civilization. Neben internen Produktionsabläufen und Designentscheidungen erläutert Shelley auch die wirtschaftlichen Gründe für seinen späteren Abschied von MicroProse.",
+  "einzeiler": "Bruce Shelley über seine Arbeit mit Sid Meier an Civilization und seine Karriere",
+  "kurzfassung": "Bruce Shelley spricht im Interview über seine Anfänge in der Brettspiel-Branche und seinen Wechsel zu MicroProse. Er beleuchtet seine enge Zusammenarbeit mit Sid Meier als Co-Designer und Tester bei der Entstehung von Civilization. Zudem erklärt er, warum er das Studio nach dem Erfolg des Strategieklassikers verließ.",
   "stichpunkte": [
-    "Bruce Shelleys Einstieg in die Spielebranche über Wargames und Brettspielanpassungen bei Avalon Hill",
-    "Wechsel zu MicroProse im Jahr 1988 als Designer und Producer ohne Programmierhintergrund",
-    "Die enge Zusammenarbeit mit Sid Meier nach dem Prinzip des täglichen Prototypens und Testens",
-    "Entstehung und Entwicklung von Meilensteinen wie Railroad Tycoon, Covert Action und Civilization",
-    "Shelleys Rolle als repräsentativer Feedbackgeber und Sparringspartner für Spielentscheidungen",
-    "Gestaltungsprozesse rund um Spieldesign, Grafik und Benutzeroberfläche von Civilization",
-    "Interne Hürden und Ressourcenverteilung bei MicroProse unter Studioleiter Bill Stealey",
-    "Shelleys Ausstieg bei MicroProse aus finanziellen Gründen und der Übergang zu Ensemble Studios"
+    "Wechsel vom Brettspiel-Entwickler bei Avalon Hill zu MicroProse",
+    "Arbeit als Co-Designer und Sparringspartner an der Seite von Sid Meier",
+    "Täglicher Prototypen- und Feedback-Zyklus während der Entwicklung von Civilization",
+    "Bedeutung von Brettspielerfahrungen für die Konzeption von Civilization und Railroad Tycoon",
+    "Interne Reaktionen im Studio und die anfänglichen Schwierigkeiten bei der Ressourcenzuweisung",
+    "Unterschätzte Bedeutung von Grafik und Informationdesign für den Erfolg des Spiels",
+    "Wirtschaftliche Gründe für den Weggang von MicroProse und den Umzug nach Chicago"
   ],
   "kapitel": [
     {
@@ -137,11 +136,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:47:15+00:00",
+    "am": "2026-08-21T11:49:17+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

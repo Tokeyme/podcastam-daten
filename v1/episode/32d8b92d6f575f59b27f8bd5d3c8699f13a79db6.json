@@ -17,25 +17,25 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Sahra Wagenknechts BSW vor den Landtagswahlen in Sachsen-Anhalt unter Druck",
-  "kurzfassung": "Sahra Wagenknecht bringt ihr BSW mit radikalen Kurswechseln und möglichen Koalitionsoptionen mit der AfD in Bedrängnis. Im Podcast analysiert Journalistin Andrea Maurer die Hintergründe, interne Konflikte in Thüringen und die schwindenden Umfragewerte der Partei. Dabei stehen Wagenknechts Strategie, der Einfluss von Oskar Lafontaine und die bevorstehenden Wahlen im Fokus.",
+  "einzeiler": "Sahra Wagenknecht und die Risiken des BSW in Sachsen-Anhalt und Thüringen.",
+  "kurzfassung": "Sahra Wagenknecht bringt das BSW durch ihren Kurs in Sachsen-Anhalt in Bedrängnis, wo sie eine AfD-Minderheitsregierung tolerieren will. Gleichzeitig führt sie in Thüringen einen offenen Machtkampf gegen die eigene Regierungsfraktion unter Katja Wolf. Journalistin Andrea Maurer analysiert im Gespräch die Hintergründe dieser Strategie und die drohende Bedeutungslosigkeit der Partei.",
   "stichpunkte": [
-    "Das BSW scheiterte bei der Bundestagswahl an der Fünfprozent-Hürde und kämpft in den ostdeutschen Ländern mit stark sinkenden Umfragewerten.",
-    "Sahra Wagenknecht schließt in Sachsen-Anhalt nicht aus, durch Stimmenthaltung im dritten Wahlgang einen AfD-Ministerpräsidenten zu ermöglichen.",
-    "In Thüringen rebelliert der BSW-Landesverband um Katja Wolf offen gegen Wagenknechts Anweisungen und setzt die Regierungsarbeit mit der CDU fort.",
-    "Oskar Lafontaine prägt als politischer Partner im Hintergrund den populistischeren Kurs von Sahra Wagenknecht.",
-    "Björn Höcke forderte den Rücktritt des thüringischen CDU-Ministerpräsidenten Vogt, woraufhin sich Wagenknecht der Forderung anschloss.",
-    "Wagenknecht fordert die AfD öffentlich zu TV-Duellen heraus, um im Wahlkampf maximale Aufmerksamkeit zu generieren.",
-    "Die BSW-Basis und die Wählerschaft sind über den Umgang mit der AfD und die Ausrichtung der Partei tief gespalten."
+    "Das BSW scheiterte bei der Bundestagswahl an der Fünfprozent-Hürde und kämpft in den ostdeutschen Ländern um den Einzug.",
+    "Sahra Wagenknecht schließt in Sachsen-Anhalt nicht aus, einen AfD-Spitzenkandidaten im dritten Wahlgang per Enthaltung zum Ministerpräsidenten zu machen.",
+    "In Thüringen rebelliert die BSW-Landtagsfraktion um Katja Wolf offen gegen Wagenknechts Anweisung, den CDU-Ministerpräsidenten Mario Vogt nicht mehr zu stützen.",
+    "Oskar Lafontaine prägt den Kurs des BSW im Hintergrund als politischer Partner und treibt den populistischen Kurs mit voran.",
+    "Ein von Björn Höcke angebotenes Bündnis wurde als Falle bezeichnet, die zu internen Machtkämpfen und dem Bruch mit dem Thüringer Landesverband führte.",
+    "Das BSW leidet unter stark sinkenden Umfragewerten und internen Richtungsstreitigkeiten zwischen Protestkurs und Regierungsverantwortung.",
+    "Wagenknechts Strategie zielt vor allem auf maximale mediale Aufmerksamkeit und bundespolitische Einflussnahme ab, riskiert dabei jedoch die Zerstörung ihrer eigenen Partei."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T04:52:18+00:00",
+    "am": "2026-08-21T12:01:55+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

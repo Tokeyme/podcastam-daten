@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Geschichte von Nintendos legendären Game & Watch Handhelds.",
-  "kurzfassung": "Die Podcast-Hosts beleuchten die Entstehungsgeschichte und den weltweiten Erfolg der Game & Watch-Handhelds von Nintendo. Dabei schlagen sie einen Bogen von Nintendos Wurzeln im 17. Jahrhundert als Spielkartenhersteller bis zu den technischen Innovationen der LCD-Geräte. Ausserdem analysieren sie ikonische Spiele, das revolutionäre D-Pad und den massgeblichen Einfluss der Handhelds auf Nintendos Unternehmensgeschichte.",
+  "einzeiler": "Nintendos Game & Watch: Die Geschichte der legendären LCD-Handhelds.",
+  "kurzfassung": "Die Podcast-Hosts beleuchten die Entstehungsgeschichte und den weltweiten Erfolg von Nintendos Game & Watch. Dabei wird die weitreichende Historie des Unternehmens von den Anfängen im 17. Jahrhundert bis zu Gunpei Yokois Erfindung des Steuerkreuzes und der LCD-Handhelds nachgezeichnet. Abschließend besprechen sie die verschiedenen Gerätegenerationen, Designprinzipien und den nachhaltigen Einfluss auf die Videospielindustrie.",
   "stichpunkte": [
-    "Historische Wurzeln von Nintendo: Gründung im 19. Jahrhundert als Hersteller von Hanafuda-Spielkarten und der Wandel zum Spielwarenhersteller",
-    "Der Aufstieg von Gunpei Yokoi und die Erfindung der Ultra Hand als erster grosser Spielwarenerfolg",
-    "Technologische Grundlage: Die Nutzung günstiger Taschenrechner- und LCD-Technik für tragbare Spiele",
-    "Die Geburt des Game & Watch: Wie eine Beobachtung im Shinkansen und die Kombination mit einer Uhr das Konzept prägten",
-    "Design-Philosophie: »Lateral Thinking of Withered Technology« als Erfolgsrezept für kreative Nutzung einfacher Technik",
-    "Das Line-up und Formfaktoren: Von klassischen Silver- und Gold-Serien über Widescreens bis hin zu Multiscreen-Geräten",
-    "Der Meilenstein Donkey Kong: Die Einführung des D-Pads (Steuerkreuz) als Standard für die Videospielsteuerung",
-    "Wirtschaftlicher Erfolg: Wie die Millionenverkäufe der Handhelds Nintendo aus den Schulden der 1970er-Jahre retteten"
+    "Historischer Rückblick auf Nintendo: Von den Anfängen mit Hanafuda-Spielkarten im 19. Jahrhundert bis zur Diversifizierung unter Hiroshi Yamauchi.",
+    "Gunpei Yokois Erfindungen: Von der mechanischen Ultra Hand bis hin zur Konzeption der Game & Watch als diskrete Handhelds für Erwachsene.",
+    "Technische Grundlagen: Nutzung günstiger 4-Bit-Prozessoren von Sharp, extrem geringer Stromverbrauch und das Funktionsprinzip unbeleuchteter LCD-Displays.",
+    "Entwicklung des Namens: Der Einbau einer Uhr führte nach steuerlichen Hürden zum ikonischen Namen Game & Watch.",
+    "Das erste Modell 'Ball': Ein extrem minimalistisches Geschicklichkeitsspiel, das den Grundstein für den Welterfolg legte.",
+    "Modellvielfalt: Verschiedene Produktserien wie Silver, Gold, Widescreen, Multiscreen-Modelle und vermeintliche Farbdisplay-Varianten.",
+    "Der Meilenstein Donkey Kong: Die Einführung des D-Pads (Steuerkreuz) revolutionierte die Steuerung von Handheld- und Konsolenspielen.",
+    "Wirtschaftlicher Erfolg und Krise: Nach gewaltigen Verkaufszahlen in den frühen 1980er Jahren sorgte eine Marktsättigung für den Rückgang der Reihe zugunsten des Famicom."
   ],
   "kapitel": [
     {
@@ -429,11 +429,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:20+00:00",
+    "am": "2026-08-21T11:55:46+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

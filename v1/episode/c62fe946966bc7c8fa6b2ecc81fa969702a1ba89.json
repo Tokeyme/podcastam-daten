@@ -17,18 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Das Rollenspiel Darklands verbindet Spätmittelalter mit zeitgenössischem Aberglauben.",
-  "kurzfassung": "Microproses Rollenspiel Darklands aus dem Jahr 1992 versetzt eine vierköpfige Abenteurergruppe in das Heilige Römische Reich des 15. Jahrhunderts. Neben historischer Geografie und Gesellschaftsordnung sind auch zeitgenössische Mythen wie Hexen, Alchemie und Heiligenwunder real im Spiel verankert. Die Entwicklung unter Designer Arnold Hendrick litt unter starkem Zeitdruck, weshalb das ambitionierte Werk in unfertigem Zustand erschien.",
+  "einzeiler": "Ein historisches Rollenspiel im Mittelalter verbindet Realismus mit Mythologie.",
+  "kurzfassung": "Darklands von Microprose versetzt Spieler in ein historisch akribisches, aber mythologisch erweitertes 15. Jahrhundert im Heiligen Römischen Reich. Ohne klassische Klassen oder lineares Questdesign steuern Spieler eine Vierergruppe, die durch Reisen, Kämpfe und Handeln zu Ruhm gelangt. Das ungewöhnliche Spiel setzt auf Echtzeitkämpfe mit Ausdauer- und Stärkewerten sowie auf ein komplexes System aus Alchemie und Heiligenanrufungen.",
   "stichpunkte": [
-    "Historisches Setting im spätmittelalterlichen Mitteleuropa, kombiniert mit zeitgenössischen Mythen und religiösen Vorstellungen",
-    "Charaktererstellung über Lebenspfade und Berufsabschnitte nach dem Vorbild des Pen-and-Paper-Systems Traveller",
-    "Fertigkeiten-Progression durch Anwendung nach Vorbild von RuneQuest statt klassischer Charakterstufen und Erfahrungspunkte",
-    "Pausierbares Echtzeit-Kampfsystem mit getrennter Berechnung von Ausdauererschöpfung und permanenten Stärkeverlusten durch Wunden",
-    "Verzweigte Reise- und Stadtereignisse im Choose-Your-Own-Adventure-Stil mit vielseitigen Lösungsansätzen",
-    "Historische Einordnung der politischen und religiösen Verhältnisse des 15. Jahrhunderts durch Historiker Dr. Matthias von Hellfeld",
-    "Turbulente Entwicklungsgeschichte bei Microprose unter Designer Arnold Hendrick mit nur rund zehn Monaten Vollproduktion",
-    "Verfrühter Verkaufsstart mit gravierenden Programmfehlern führte zu zahlreichen Retouren und verhinderte kommerziellen Erfolg",
-    "Einfluss des Titels auf spätere Rollenspiele wie Baldur's Gate und moderne Sandbox-Konzepte"
+    "Historisches und mythologisches Setting im Heiligen Römischen Reich des 15. Jahrhunderts",
+    "Einzigartige Charaktererstellung über Lebenspfade und Berufungen statt simpler Attributswürfel",
+    "Offene Spielwelt ohne klassische Levelsysteme oder starre Handlungsstränge",
+    "Echtzeit-Kampfsystem mit Pausenfunktion, bei dem Ausdauerverlust und permanente Stärkewunden simuliert werden",
+    "Zwei zentrale Magiesysteme: Alchemie zum Trankebrauen und göttliche Gnade durch die Anrufung von Heiligen",
+    "Lange Entwicklungsgeschichte mit chaotischem Projektmanagement und verbuggtem Release im Jahr 1992",
+    "Starkes lokales Kolorit mit historisch korrekten Städten, Regionen, Währungen und Handelsstrukturen"
   ],
   "kapitel": [
     {
@@ -402,11 +400,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:36:58+00:00",
+    "am": "2026-08-21T11:49:54+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

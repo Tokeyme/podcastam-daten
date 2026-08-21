@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die turbulente Entwicklungsgeschichte des skurrilen Arcade-Spiels Gubble und seines…",
-  "kurzfassung": "Christian und Gunnar beleuchten die Entstehungsgeschichte des 1997 veröffentlichten Geschicklichkeitsspiels Gubble. Im Zentrum steht der Atari-Veteran Franz Lanzinger, der nach Erfolgen wie Crystal Castles mit seinem eigenen Studio Actual Entertainment versuchte, im Wandel der 90er-Jahre zu bestehen. Trotz kompetenten Gameplays scheiterten Gubble und seine Fortsetzungen oft an unglücklichen Verlagsdeals, fragwürdigem Marketing und dem Image eines simplen Kinderspiels.",
+  "einzeiler": "Die fast unbekannte Geschichte hinter dem skurrilen Arcade-Spiel Gubble 2 von 1998.",
+  "kurzfassung": "Die Podcaster beleuchten die Entstehungsgeschichte des 1998 erschienenen Arcade-Spiels Gubble 2 und seines Schöpfers Franz Lanzinger. Dabei blicken sie auf Lanzingers Karriere von Atari über das Studio Bitmasters bis hin zu Actual Entertainment zurück. Zudem analysieren sie die skurrilen Marketing- und Lizenzwege des Titels, darunter eine Kinderüberraschung-Version.",
   "stichpunkte": [
-    "Christian stellt das Spiel Gubble 2 von Actual Entertainment aus dem Jahr 1998 vor.",
-    "Entwickler Franz Lanzinger wanderte in den 1970er-Jahren aus Österreich in die USA aus.",
-    "Lanzinger programmierte 1983 das bekannte Atari-Arcadespiel Crystal Castles mit Bentley Bear.",
-    "Mitgründer von Actual Entertainment sind ehemalige professionelle Arcade-Spieler wie Eric Ginner.",
-    "Das erste Gubble erschien 1997 und bot isometrische Action kombiniert mit Werkzeug-Mechaniken.",
-    "Ein Vertriebsdeal mit RandomSoft erwies sich für den US-Release des ersten Teils als kostspieliger Fehlschlag.",
-    "Gubble 2 und spätere Rebrandings wie ein Kinderüberschweigen-Werbespiel blieben weitgehend erfolglos.",
-    "Nach dem Ende des Studios wechselte Lanzinger zu einer Karriere als Musiklehrer und Konzertpianist."
+    "Das Spiel Gubble 2 und seine ungewöhnliche Verpackung stehen am Anfang einer tiefen Recherche der Hosts.",
+    "Entwickler Franz Lanzinger wanderte in seiner Jugend aus Österreich in die USA aus.",
+    "Lanzinger startete seine Karriere bei Atari, wo er 1983 das erfolgreiche Arcade-Spiel Crystal Castles programmierte.",
+    "Nach Stationen bei Tengen gründete Lanzinger mit Partnern das Entwicklungsstudio Bitmasters und später Actual Entertainment.",
+    "Gubble kombiniert isometrisches Leveldesign im Stil von Crystal Castles mit humorvollen Werkzeug-Mechaniken.",
+    "Die Vermarktung über den US-Publisher RandomSoft verlief für das Studio enttäuschend und kostspielig.",
+    "Spätere Ableger führten zu kuriosen Rebrandings wie einer Kinderüberraschung-Variante in Großbritannien.",
+    "Nach dem Ende von Actual Entertainment schlug Lanzinger eine zweite Karriere als Konzertpianist und Musiklehrer ein."
   ],
   "kapitel": [
     {
@@ -165,11 +165,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:43:08+00:00",
+    "am": "2026-08-21T11:54:44+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Der Arcade-Klassiker Smash TV und sein Einfluss auf das Twin-Stick-Shooter-Genre.",
-  "kurzfassung": "Smash TV erschien 1990 in den Spielhallen und etablierte das Prinzip des Twin-Stick-Shooters mit einem zynischen Gameshow-Setting. Entwickelt von Eugene Jarvis und Mark Turmel bei Williams Electronics, setzte der Automat auf extreme Gewalt und einen immensen Schwierigkeitsgrad. Das Spiel markierte den wirtschaftlichen Übergang vom rein fähigkeitsbasierten Highscore-Modell zum Pay-in-Prinzip mit Continues.",
+  "einzeiler": "Rückblick auf den Arcade-Klassiker Smash TV und die Ära der Twin-Stick-Shooter.",
+  "kurzfassung": "Das 1990 von Williams Electronics veröffentlichte Arcade-Spiel Smash TV verband das Genre der Twin-Stick-Shooter mit einer satirischen dystopischen Gameshow. Entwickelt unter anderem von Eugene Jarvis und Mark Turmel, setzte der Titel auf komhektische Action, blutige Inszenierung und ein stark auf Monetarisierung ausgelegtes Pay-In-Modell. Neben der Automatenversion gab es zahlreiche Umsetzungen für Heimkonsolen und Heimcomputer, die das Spielprinzip mit teils ungewöhnlichen Steuerungslösungen adaptierten.",
   "stichpunkte": [
-    "Historischer Hintergrund der Firma Williams Electronics von Flipperautomaten bis zu Arcade-Hits wie Defender und Robotron 2084.",
-    "Karriere und Spieldesign-Philosophie von Entwicklerlegende Eugene Jarvis.",
-    "Spielmechanik von Smash TV mit Steuerung über zwei Joysticks ohne Aktionstasten.",
-    "Dystopisches TV-Show-Setting, inspiriert von Filmen wie The Running Man und RoboCop.",
-    "Hoher Schwierigkeitsgrad und Insta-Kill-Mechanik zur Forcierung des Pay-in-Modells mit Continues.",
-    "Die Anekdote um den versprochenen, aber zunächst nicht programmierten Pleasure Dome.",
-    "Umsetzungen für Heimcomputer und Konsolen wie das SNES sowie Behelfslösungen für die Steuerung.",
-    "Nachfolger Total Carnage und der spätere Erfolg der Teammitglieder mit Marken wie NBA Jam und Mortal Kombat.",
-    "Einfluss auf spätere Twin-Stick-Shooter wie Geometry Wars, Hotline Miami und Helldivers."
+    "Erschienen im April 1990 als Arcade-Automat von Williams Electronics unter maßgeblicher Beteiligung von Eugene Jarvis und Mark Turmel.",
+    "Spielprinzip basiert auf dem spirituellen Vorgänger Robotron 2084 und nutzt eine prägende Twin-Stick-Steuerung für gleichzeitiges Gehen und Schießen.",
+    "Das Setting versetzt den Spieler in eine dystopische Gameshow des Jahres 1999, in der man sich wellenartig durch verbundene Räume kämpft.",
+    "Hoher Gewaltgrad und exzessiver Einsatz von digitalisierten Sprites und Gore-Effekten, stark inspiriert durch Filme wie The Running Man.",
+    "Wegbereiter des Pay-In-Modells in Spielhallen, bei dem Continues und ständige Geldeinwürfe den Fortschritt sichern statt reiner Skill.",
+    "Notwendigkeit von Spezialwaffen und power-ups zum Überleben und für die harten Bosskämpfe, darunter Mutoid Man und riesige Kobras.",
+    "Umsetzungen für diverse Heimcomputer (C64, Amiga) und Konsolen (NES, Super Nintendo), wobei das SNES dank seiner Tastenbelegung besonders gut funktionierte.",
+    "Nachfolgespiel Total Carnage erschien 1992, bot aber ein verändertes Gameplay mit Scrolling statt Einzelerräumen und blieb hinter den Erwartungen zurück."
   ],
   "kapitel": [
     {
@@ -298,11 +297,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:17+00:00",
+    "am": "2026-08-21T12:00:06+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

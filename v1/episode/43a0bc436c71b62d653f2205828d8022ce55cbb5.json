@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Geschichte, Technik und kultureller Einfluss der Diskette von den 1960ern bis heute.",
-  "kurzfassung": "Die Diskette entstand Ende der 1960er Jahre bei IBM ursprünglich als kostengünstiges Medium zum Laden von Mikrocode für Großrechner. Über die Formate 8 Zoll, 5,25 Zoll und 3,5 Zoll entwickelte sie sich zum weltweiten Standard für Datenspeicherung, Softwarevertrieb und Gaming auf Heimcomputern sowie PCs. Trotz ihrer Verdrängung durch optische Medien, USB-Sticks und die Cloud bleibt die Diskette als prägender Kulturgegenstand und universelles Speichern-Symbol lebendig.",
+  "einzeiler": "Die Geschichte der Diskette: Vom IBM-Mikrocode-Speicher zum Kultobjekt.",
+  "kurzfassung": "Die Diskette wurde in den 1960er Jahren bei IBM als Lade-Medium für Mikrocode entwickelt und war rund 20 Jahre lang das wichtigste Datenträgerformat für Computer. Sie ermöglichte den Siegeszug des Heimcomputermarkts und kommerzieller Software, ehe sie durch CDs und USB-Sticks verdrängt wurde. Bis heute lebt sie als universelles Speichersymbol fort.",
   "stichpunkte": [
-    "IBM entwickelte die Diskette ab 1967 im Projekt Minnow unter David Noble, um Mikrocode beim Systemstart in flüchtigen SRAM-Speicher von Großrechnern zu laden.",
-    "Die erste 8-Zoll-Diskette (IBM 23FD) erschien 1971 als reines Lesemedium, woraufhin Memorex 1972 mit dem Modell 650 das erste beschreibbare OEM-Laufwerk vorlegte.",
-    "Auf Wunsch des Textverarbeitungsherstellers Wang verkleinerte Shugart Associates die Technik 1976 zur 5,25-Zoll-Mini-Floppy.",
-    "Steve Wozniaks Disk-II-Laufwerk für den Apple II (1978) und die Veröffentlichung des IBM PC (1981) machten das 5,25-Zoll-Format zum Standard für Personal Computer.",
-    "Sony stellte 1981 die starre 3,5-Zoll-Mikrofloppy mit Metallschieber vor, die durch ein Industriekonsortium optimiert und von Macintosh, Amiga, Atari ST und PC übernommen wurde.",
-    "Die Diskette ermöglichte den kommerziellen Software- und Spielevertrieb, Dateiverwaltung und Spielstände, befeuerte aber auch Softwarepiraterie und Computerviren.",
-    "Wachsende Softwaregrößen führten in den 1990er Jahren zu extremen Diskettenmengen bei Spielen und Anwendungspaketen wie Office 97 mit bis zu 55 Datenträgern.",
-    "Spezielle Nachfolgeformate wie Iomegas Zip-Drive konnten sich nicht dauerhaft durchsetzen; stattdessen verdrängten CD-R, USB-Sticks und Cloud-Speicher die Floppy.",
-    "Restbestände an Disketten und intakten Laufwerken gehen weltweit zur Neige, während die Diskette als standardisiertes Speichern-Icon fortbesteht."
+    "Entwicklung bei IBM ab den 1960er Jahren als flexibler Ersatz für Lochkarten zum Laden von Mikrocode.",
+    "Die Festplatte war technisch rund 15 Jahre älter als die Diskette.",
+    "Al Shugart und David Noble gehören zu den prägenden Figuren bei der Entwicklung und Marktreife.",
+    "Einführung der 8-Zoll-Diskette bei IBM im Jahr 1971, gefolgt von der robusteren 5,25-Zoll-Mini-Floppy durch Shugart Associates.",
+    "Sony etablierte 1981 das moderne, starre 3,5-Zoll-Format mit automatischer Schutzblende.",
+    "Wichtiger Beschleuniger für Heimcomputer (C64, Apple II, IBM PC) und den Vertrieb von kommerzieller Software und Spielen.",
+    "Massive Verbreitung von Raubkopien und Schadsoftware durch die einfache, fehlerfreie Vervielfältigbarkeit digitaler Daten.",
+    "Ablösung ab den späten 1990er Jahren durch beschreibbare CDs und USB-Sticks, während die Produktion um 2011 weitgehend eingestellt wurde."
   ],
   "kapitel": [
     {
@@ -422,11 +421,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:42:58+00:00",
+    "am": "2026-08-21T11:52:08+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

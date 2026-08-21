@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Spiele-Quiz-Duell: GameStar gegen Powerplay",
-  "kurzfassung": "In einer besonderen Team-Ausgabe des Podcasts treten die Spieleveteranen von GameStar (Christian Schmidt und Gunnar Lott) und Powerplay (Heinrich Lehnhardt und Boris Schneider-Johne) in einem Retro-Spiele-Quiz gegeneinander an. Neben klassischen Multiple-Choice-Fragen zu Spielegeschichte und Heften gibt es auch Runden zu verbotenen Begriffen (Tabu), Sound-Rätsel und Trivial Pursuit. Am Ende gewinnen knapp die GameStars.",
+  "einzeiler": "Retro-Quizduell: Team GameStar gegen Team Power Play",
+  "kurzfassung": "In einer besonderen Team-Ausgabe des Stay Forever Quiz treten die Teams GameStar (Christian Schmidt und Gunnar Lott) und Power Play (Heinrich Lehnhardt und Boris Schneider-Johne) gegeneinander an. In verschiedenen Runden mit Fragen zu Spieleklassikern, Heften und Sound-Schnipseln kämpfen beide Seiten um den Sieg. Am Ende sichern sich die GameStars knapp den Gesamtsieg.",
   "stichpunkte": [
-    "Prominente Gäste: Heinrich Lehnhardt und Boris Schneider-Johne bilden das Team Powerplay.",
-    "Gastgeber: Christian Schmidt und Gunnar Lott treten für das Team GameStar an.",
-    "Regeln: Bei einer falschen Antwort darf das gegnerische Team mit Einschränkungen übernehmen, Joker gibt es keine.",
-    "Themen: Fragen zur Spiele- und Redaktionsgeschichte von Powerplay, GameStar und Klassikern wie Might & Magic.",
-    "Tabu-Runde: Beide Teams müssen Spieletitel unter bestimmten Wortverboten erklären.",
-    "Sound-Battle: Erkennen von markanten Spielesounds und Sprachausgaben aus Strategiespielen und Shootern.",
-    "Klassische Quiz-Kategorien: Zum Abschluss wird eine Frage aus einer historischen Trivial-Pursuit-Edition beantwortet.",
-    "Endstand: Das Team GameStar gewinnt das knappes Duell am Ende gegen die Powerplayers."
+    "Das Stay Forever Quiz kehrt mit einem Team-Duell zurück: Team GameStar gegen Team Power Play.",
+    "Heinrich Lehnhardt und Boris Schneider-Johne vertreten das Team Power Play.",
+    "Christian Schmidt und Gunnar Lott gehen für das Team GameStar an den Start.",
+    "In mehreren Runden werden Fragen zu Spielegeschichte, Magazin-Anekdoten und Redaktionsinterna gestellt.",
+    "Eine Tabu-Runde fordert die Teams beim Erklären von Videospielen ohne verbotene Begriffe heraus.",
+    "Beim Soundbattle müssen ikonische Soundeffekte und Musikstücke erraten werden.",
+    "Das Finale bildet eine traditionelle Trivial-Pursuit-Frage aus dem Jahr 1989.",
+    "Team GameStar entscheidet das Quizduell am Ende knapp für sich."
   ],
   "kapitel": [
     {
@@ -209,11 +209,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:36:37+00:00",
+    "am": "2026-08-21T11:58:57+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

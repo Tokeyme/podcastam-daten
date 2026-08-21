@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf die legendäre Weltkriegs-Flugsimulation Secret Weapons of the Luftwaffe",
-  "kurzfassung": "Secret Weapons of the Luftwaffe von Lucasfilm Games markiert den Höhepunkt einer Trilogie historischer Flugsimulationen. Das Spiel lässt die Spieler sowohl die alliierte Bomberoffensive als auch die deutsche Luftwaffe mit ihren experimentellen Düsenjägern erleben. Neben dem zugänglichen Gameplay und den detaillierten Handbüchern prägt vor allem das herausfordernde Piloten-Roster mit Permadeath das Spielerlebnis.",
+  "einzeiler": "Lucasfilm Games' letzte Weltkriegs-Flugsimulation über den Luftkrieg 1943-1945.",
+  "kurzfassung": "Secret Weapons of the Luftwaffe ist eine historisch ambitionierte Flugsimulation, die den Luftkrieg über Deutschland aus der Perspektive beider Kriegsparteien beleuchtet. Das Spiel zeichnet sich durch seine Bitmap-Grafik, den Fokus auf Luftkämpfe und ein umfangreiches Handbuch aus. Es markiert den Abschluss der Simulations-Trilogie von Lawrence Holland bei Lucasfilm Games.",
   "stichpunkte": [
-    "Entwickelt von Lawrence Holland als Kulminationspunkt nach Battlehawks 1942 und Their Finest Hour",
-    "Erschienen 1981 für IBM-PCs als letztes Spiel unter dem Namen Lucasfilm Games",
-    "Bietet spielbare Kampagnen für beide Kriegsparteien: die 8. US-Luftwaffe und die deutsche Luftwaffe",
-    "Führt neben konventionellen Propellermaschinen auch experimentelle Geheimwaffen und Düsenjäger wie die Me 262 ein",
-    "Setzt auf Pixelgrafiken statt Polygone für detaillierte Flugzeugdarstellungen und flüssige Animationen",
-    "Beinhaltet ein Rollenspiel-ähnliches Roster-System für Piloten mit echtem Permadeath bei Verlust",
-    "Verbindet Action-Luftkämpfe mit strategischen Elementen und einem historisch fundierten Kontext",
-    "Begründet den Übergang von Lawrence Hollands Team zu den späteren Star-Wars-Weltraumsimulationen wie X-Wing"
+    "Entwickelt von Lawrence Holland als Abschluss einer Trilogie nach Battlehawks 1942 und Their Finest Hour.",
+    "Spieler können sowohl die 8. US-Luftwaffe als auch die deutsche Luftwaffe wählen.",
+    "Fokus auf den Luftkrieg über Deutschland zwischen 1943 und 1945.",
+    "Einsatz von experimentellen Flugzeugen wie der Me 262 und der Go 229.",
+    "Innovative Bitmap-Grafik statt Polygonen für detailliertere Flugzeugdarstellungen.",
+    "Umfangreiche Kampagnen und ein 'Tour of Duty'-Modus mit Permadeath für Piloten.",
+    "Das Spiel bietet ein historisch fundiertes Handbuch, das als Sachbuch-Ersatz dient.",
+    "Die Simulation verzichtet auf komplexe Cockpit-Bedienung zugunsten von Luftkampf-Choreografie."
   ],
   "kapitel": [
     {
@@ -365,11 +365,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:35+00:00",
+    "am": "2026-08-21T11:59:51+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

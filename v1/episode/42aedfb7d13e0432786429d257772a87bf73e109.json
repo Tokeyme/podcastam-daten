@@ -17,18 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Analyse und Entstehungsgeschichte des Klassikers Sid Meier's Pirates! von 1987.",
-  "kurzfassung": "1987 erschien mit Sid Meier's Pirates! bei Microprose ein wegweisender Genremix aus Action, Simulation und Strategie. Das Spiel verknüpft eine historische Karibik-Simulation mit romantisierten Piratenklischees und lässt Spielende eine eigene Karriere über Beutezüge, Seekämpfe und Fechtduelle aufbauen. Die Folge beleuchtet Spielmechaniken, Entwicklungsgeschichte sowie den historischen Realitätsgehalt und ordnet den Titel als Meilenstein des modernen Spieldesigns ein.",
+  "einzeiler": "Rückblick auf den Spielegeschichts-Meilenstein Sid Meier's Pirates!",
+  "kurzfassung": "Die Hosts beleuchten den Klassiker Sid Meier's Pirates! von 1987. Sie analysieren die Mischung aus offener Spielwelt, Echtzeit-Seeschlägen und Management. Dabei werden auch historische Hintergründe mit einer Expertin besprochen.",
   "stichpunkte": [
-    "Sid Meier's Pirates! erschien 1987 zunächst für den Commodore 64 und etablierte ein offenes Sandbox-Gameplay in der Karibik.",
-    "Das Spiel kombiniert freies Segeln, Kaperfahrten und Handel mit drei zentralen Minispielen: Seekampf, Fechten und taktischem Landkampf.",
-    "Wählbare historische Epochen zwischen 1560 und 1680 bestimmen die politischen Machtverhältnisse der Kolonialmächte sowie verfügbare Schiffstypen.",
-    "Die zentrale Ressource ist die verstreichende Zeit: Der Kapitän altert, und Beutezüge müssen vor eintretender Meuterei zur Beuteteilung in Häfen beendet werden.",
-    "Historikerin Dr. Tanja Zagschewski ordnet im Interview die historische Realität von Silberflotte, Piratenkodex, Milizen und Sklavenhandel ein.",
-    "Sid Meier entwickelte das Projekt gegen anfängliche Bedenken von Studiomitgründer Bill Steeley, der auf klassische Militärflugsimulationen setzte.",
-    "Ein von Randall Don Mastella entwickeltes Kachelsystem umging die Speicherlimits des C64 für die detaillierten Menüillustrationen.",
-    "Mit Portierungen und Remakes wie Pirates! Gold (1993) und Pirates! (2004) blieb das Spielprinzip über Jahrzehnte hinweg weitgehend unverändert erhalten.",
-    "Das systemische Spieldesign und die starke Handlungsfreiheit legten das Fundament für Meiers spätere Meilensteine wie Civilization."
+    "Das Spiel verbindet Open-World-Erkundung, Schiffs- und Landkämpfe sowie Wirtschaftselemente.",
+    "Der Wind und die Geografie der Karibik bestimmen maßgeblich die Reise- und Kampfmechanik.",
+    "Anstelle eines Game Overs führt Scheitern zu Zeitverlust und beeinflusst den Ruhestand.",
+    "Das Spielprinzip lässt sich als Matroschka-Puppe aus Runs beschreiben.",
+    "Historische Authentizität und popkulturelle Piratenklischees greifen ineinander.",
+    "Die Entstehungsgeschichte beleuchtet die Rolle von Sid Meier und Microprose.",
+    "Verschiedene Versionen, Remakes und die Wirkungsgeschichte des Klassikers."
   ],
   "kapitel": [
     {
@@ -398,11 +396,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:10+00:00",
+    "am": "2026-08-21T12:00:00+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Geschichte des Amiga CD32, der ersten 32-Bit-CD-Konsole von Commodore.",
-  "kurzfassung": "Das Amiga CD32 war die erste 32-Bit-CD-Konsole mit AGA-Chipsatz und sollte das klamme Unternehmen Commodore im Jahr 1993 retten. Wegen gravierender finanzieller Probleme, eines verfrühten Starts und vor allem fehlender exklusiver Software floppte das Gerät jedoch. Nur wenige Monate nach der Markteinführung ging Commodore im April 1994 bankrott.",
+  "einzeiler": "Rückblick auf das Amiga CD32, Commodores letzte und glücklose Spielkonsole von 1993.",
+  "kurzfassung": "Das Amiga CD32 war die weltweit erste 32-Bit-CD-Konsole mit Amiga-Technik, erschien im Sommer 1993 in Europa und sollte die klamme Firma Commodore retten. Wegen massiver Finanzprobleme, fehlender exklusiver Software und starker Konkurrenz floppte das Gerät jedoch und überlebte die Pleite des Mutterkonzerns im April 1994 nicht. Trotz mäßiger Verkaufszahlen bot die Plattform zahlreiche umgesetzte Amiga-Klassiker und führte das Konzept der Multimedia-Konsole fort.",
   "stichpunkte": [
-    "Das Amiga CD32 erschien im September 1993 als weltweit erste 32-Bit-Konsole mit CD-Laufwerk in Europa.",
-    "Technisch basierte das CD32 im Wesentlichen auf der Architektur des Heimcomputers Amiga 1200.",
-    "Der integrierte Akiko-Chip enthielt unter anderem einen Hardware-Beschleuniger für die Konvertierung von Chunky- zu Planar-Grafik, um PC-Portierungen zu erleichtern.",
-    "Commodore zog die Markteinführung vor dem Weihnachtsgeschäft 1993 vor, um dringend benötigte Einnahmen zu generieren.",
-    "Ein Rechtsstreit verhinderte die offizielle Einführung der Konsole auf dem US-Markt gänzlich.",
-    "Das Spieleangebot litt massiv unter mangelnder Anpassung; die allermeisten Titel waren schlichte Portierungen alter 16-Bit-Amiga-Spiele mit CD-Audio-Soundtrack.",
-    "Ein optionales MPEG-Videomodul zur Wiedergabe von Video-CDs erschien Anfang 1994, konnte sich aber nicht durchsetzen.",
-    "Nach nur rund 100.000 bis 166.000 verkauften Einheiten und dem Bankrott von Commodore im April 1994 wurde die Produktion nach nur acht Monaten eingestellt."
+    "Das Amiga CD32 wurde als reine Spielkonsole auf Basis der Amiga-1200-Technologie konzipiert, um Commodores sinkende Computerverkäufe auszugleichen.",
+    "Der spezielle Akiko-Chip enthielt unter anderem einen Hardware-Konverter zur Beschleunigung von Chunky- auf Planar-Grafiken.",
+    "Commodore zog den Marktstart im Juli 1993 in London vor, um dem Konkurrenten 3DO zuvorzukommen und dringend frisches Geld zu generieren.",
+    "Ein Rechtsstreit mit CatTrack verhinderte die offizielle Markteinführung des CD32 in den USA.",
+    "Mit dem optionalen MPEG-Videomodul versuchte Commodore den Video-CD-Standard zu etablieren, der sich jedoch nicht durchsetzte.",
+    "Das Spieleangebot litt unter dem Mangel an exklusiven Titeln; die meisten der rund 170 veröffentlichten Spiele waren schlichte Amiga-Portierungen mit CD-Soundtrack.",
+    "Ein zu kleiner interner Speicher (1 Kilobyte) für Spielstände schränkte komplexe Titel wie Strategiespiele ein.",
+    "Commodore International ging im April 1994 bankrott, wodurch die Produktion des CD32 nach nur rund acht Monaten und etwa 100.000 bis 166.000 verkauften Einheiten endete."
   ],
   "kapitel": [
     {
@@ -269,11 +269,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:44+00:00",
+    "am": "2026-08-21T11:49:48+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

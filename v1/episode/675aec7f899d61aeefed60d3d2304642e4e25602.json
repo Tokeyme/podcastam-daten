@@ -17,17 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf das erste Ratchet & Clank aus dem Jahr 2002 für die PlayStation 2.",
-  "kurzfassung": "Die Hosts besprechen das 2002 für die PlayStation 2 erschienene Actionspiel Ratchet & Clank von Insomniac Games. Sie beleuchten die Entstehungsgeschichte des Entwicklerstudios unter Ted Price sowie die Besonderheiten des Gameplays und der Figuren. Dabei thematisieren sie die gelungene Mischung aus Plattforming, Waffenauswahl und dem humorvollen Welten-Design.",
+  "einzeiler": "Ein Blick auf das 2002 erschienene Action-Adventure Ratchet & Clank für PlayStation 2.",
+  "kurzfassung": "Die Hosts besprechen das erste Ratchet & Clank aus dem Jahr 2002. Sie analysieren die Spielmechanik, die den Fokus von klassischen Jump'n'Runs auf Action und Waffenprogression verschiebt. Zudem beleuchten sie die Entstehungsgeschichte des Entwicklerstudios Insomniac Games.",
   "stichpunkte": [
-    "Das erste Ratchet & Clank erschien 2002 exklusiv von Insomniac Games für die PlayStation 2.",
-    "Das Spiel verbindet klassische Plattformer-Elemente mit einem starken Fokus auf Action und Schusswaffen.",
-    "Die Handlung folgt dem Lombax Ratchet und dem Roboter Clank, die den bösen Vorsitzenden Drek aufhalten müssen.",
-    "Firmengründer Ted Price startete das Studio nach einer Karriere im Finanzbereich und ersten Schritten mit dem Shooter Disruptor.",
-    "Nach mäßigem Erfolg mit Disruptor und der erfolgreichen Spyro-Trilogie wandte sich Insomniac dem Action-Genre zu.",
-    "Das Spiel zeichnet sich durch große Abwechslung mit Raumschlachten, Hoverboard-Rennen und Gadgets aus.",
-    "Die Fortsetzungen der Reihe erstreckten sich über mehrere Konsolengenerationen bis hin zu modernen Ablegern.",
-    "Das 2016 veröffentlichte Remake bietet einen optimalen Einstieg in die Serie für heutige Spieler."
+    "Das Spielprinzip kombiniert Action-Elemente mit Plattforming und Gadget-Einsatz.",
+    "Ratchet und Clank bilden ein ungleiches Duo mit unterschiedlichen spielerischen Schwerpunkten.",
+    "Die Geschichte beginnt mit einem bizarren Plan des Antagonisten Drek, Planeten zu zerstören.",
+    "Insomniac Games wurde 1994 von Ted Price gegründet, der zuvor im Gesundheitswesen tätig war.",
+    "Die Entwicklung von Disruptor war der erste Schritt des Studios unter der Mentorschaft von Mark Cerny.",
+    "Die räumliche Nähe zu Naughty Dog auf dem Universal-Gelände förderte den Austausch von Know-how.",
+    "Ratchet & Clank markierte eine Abkehr von der düsteren Sci-Fi-Ausrichtung hin zu einer frischeren Formel.",
+    "Die Kameraführung und das Radialmenü für Waffen gelten als leichte Schwachpunkte des Titels.",
+    "Das Spiel gilt als wegweisend für den Übergang zu actionorientierten Charakter-Titeln auf der PlayStation 2."
   ],
   "kapitel": [
     {
@@ -253,11 +254,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:47:04+00:00",
+    "am": "2026-08-21T11:59:15+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

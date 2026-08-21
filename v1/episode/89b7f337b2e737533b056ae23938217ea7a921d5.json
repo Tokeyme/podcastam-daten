@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Der Aufstieg und Fall des Amiga: Vom revolutionären Multimedia-Pionier zur Pleite.",
-  "kurzfassung": "Der Amiga prägte Ende der 1980er und Anfang der 1990er Jahre als Spiele- und Multimediamaschine die Computerwelt. Fehlentscheidungen des Managements, Sparmaßnahmen bei Forschung und Entwicklung sowie verspätete Nachfolger führten jedoch zum Niedergang von Commodore. Trotz des Konkurses 1994 bleibt der Amiga vor allem durch seine wegbringende Kreativsoftware und zahlreiche Kultspiele unvergessen.",
+  "einzeiler": "Der Amiga: Der Siegeszug als Spiele- und Multimedia-Plattform und sein Niedergang.",
+  "kurzfassung": "Der Amiga stieg in den späten 80ern zum ultimativen Heimcomputer und zur Multimedia-Maschine auf, was Commodore zunächst aus der Krise führte. Fehlende Innovationen, verpasste Nachfolger und die Übermacht der IBM-kompatiblen PCs besiegelten jedoch 1994 das Ende des Unternehmens. Trotz des wirtschaftlichen Scheiterns prägte der Amiga mit Grafik, Multitasking und kreativen Anwendungen die Computergeschichte nachhaltig.",
   "stichpunkte": [
-    "Der Amiga 500 und Amiga 2000 brachten Commodore in den späten 80ern dank starker Verkaufszahlen die Profitabilität zurück.",
-    "Wichtige Multimedia-Anwendungen wie Deluxe Paint, Digiview und der Videotoaster machten den Amiga zum unverzichtbaren Werkzeug für Kreative.",
-    "Der Vorstandsvorsitzende Irving Gould fuhr die Forschung und Entwicklung drastisch zurück und setzte einseitig auf Vertrieb und Einsparungen.",
-    "Konkurrenten wie Atari, Apple und insbesondere IBM-PC-Klone zogen technisch und preislich in den Folgejahren vorbei.",
-    "Marketingkampagnen in den USA und neue Modelle wie der Amiga 600 blieben hinter den Erwartungen zurück oder floppten.",
-    "Späte Modelle wie der Amiga 1200 kamen zu spät und litten unter massiven Lieferproblemen im wichtigen Weihnachtsgeschäft.",
-    "Technologisch geriet der Amiga ins Hintertreffen, da sein auf Bitplanes basierender Chipsatz bei modernen 3D-Spielen ineffizient arbeitete.",
-    "Am 29. April 1994 meldete Commodore Insolvenz an; nachfolgende Besitzer versuchten erfolglos, die Marke und Hardware wiederzubeleben."
+    "Der Amiga 500 und Amiga 2000 machten die Plattform ab 1987 zum erfolgreichen Heimcomputer und zur Multimedia-Maschine.",
+    "Killer-Applikationen wie Deluxe Paint, Digiview und der Videotoaster etablierten den Amiga bei Kreativschaffenden und im Fernsehen.",
+    "Der durch den Amiga 500 getriebene Erfolg rettete Commodore 1987 vor der Pleite und ließ die Umsätze steigen.",
+    "Ab 1987 fuhr Commodore unter Irving Gould die Forschung und Entwicklung drastisch zurück, was moderne Nachfolger verhinderte.",
+    "Konkurrenten wie Atari, Apple und insbesondere der IBM-PC zogen technisch und preislich davon; Letzterer verdrängte den Amiga auch bei Spielen.",
+    "Der späte Amiga 1200 war zwar ein gelungener Nachfolger, kam aber wegen Lieferproblemen zu spät für das wichtige Weihnachtsgeschäft 1992.",
+    "Am 29. April 1994 meldete Commodore Insolvenz an, gefolgt von erfolglosen Rettungsversuchen verschiedener Käufer wie Escom und Gateway.",
+    "Lemmings wurde von den befragten Experten und Redaktionen zum besten Amiga-Spiel aller Zeiten gewählt."
   ],
   "kapitel": [
     {
@@ -293,11 +293,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:53+00:00",
+    "am": "2026-08-21T11:51:53+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

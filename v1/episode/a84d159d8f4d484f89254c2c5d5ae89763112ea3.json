@@ -17,17 +17,19 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte des rundenbasierten Taktikspiels Incubation von Blue Byte.",
-  "kurzfassung": "Die Podcaster blicken gemeinsam mit Gast Wolfgang Walk auf die Entstehung des 1997 erschienenen Taktik-Klassikers Incubation von Blue Byte zurück. Sie beleuchten das an Space Hulk angelehnte Spieldesign, die Herausforderungen der frühen 3D-Grafik und die enge Zusammenarbeit im kleinen Team. Dabei teilen auch der Entwickler Andreas Nitsche und der Soundtrack-Komponist ihre Erinnerungen an die unkonventionelle Entwicklung.",
+  "einzeiler": "Rückblick auf das taktische Sci-Fi-Spiel Incubation von Blue Byte aus dem Jahr 1997.",
+  "kurzfassung": "Die Hosts besprechen das rundenbasierte Taktikspiel Incubation, das 1997 als Ableger der Battle-Isle-Serie erschien. Gemeinsam mit Gast Wolfgang Walk beleuchten sie die Entstehungsgeschichte, die technische Pionierleistung der 3D-Engine und das klaustrophobische Spielprinzip. Dabei wird deutlich, wie das kleine Team bei Blue Byte ein atmosphärisches und herausforderndes Erlebnis schuf.",
   "stichpunkte": [
-    "Incubation (Battle Isle: Phase 4) ist ein taktisches, rundenbasiertes Science-Fiction-Spiel von Blue Byte aus dem Jahr 1997.",
-    "Das Spiel zeichnet sich durch klaustrophobische Enge, ein prägendes Overwatch-System und knappe Ressourcen wie Munition aus.",
-    "Die Entwicklung begann zunächst als 2D-Projekt von Programmierer Andreas Nitsche und Grafiker Uwe Meier.",
-    "Auf Anordnung von Thomas Hertzler wurde das Spiel auf die neue 16-Bit-3D-Engine von Blue Byte umgestellt.",
-    "Projektleiter und Autor Wolfgang Walk prägte das Setting, das sich stilistisch an ein Vietnamkriegsszenario anlehnt.",
-    "Die in Echtzeit berechneten In-Engine-Cutscenes und der unkonventionelle Soundtrack sorgten für eine dichte, düstere Atmosphäre.",
-    "Trotz hoher Wertungen und guter Kritiken blieben die Verkaufszahlen hinter den Erwartungen zurück, unter anderem wegen starker Raubkopien.",
-    "Bis heute gilt Incubation als ein innovativer und stilprägender Meilenstein der deutschen Spieleentwicklung."
+    "Einordnung von Incubation als rundenbasiertes Squad-Taktikspiel im Battle-Isle-Universum.",
+    "Die klaustrophobische Atmosphäre und das taktische Overwatch-System als Kernelemente.",
+    "Herausforderungen durch begrenzte Ressourcen wie Munition und Aktionspunkte.",
+    "Die Rolle von Wolfgang Walk und Andreas Nitsche als Projektleiter bei Blue Byte.",
+    "Technische Besonderheiten: Einsatz einer 16-Bit-3D-Engine und Echtzeit-Cutscenes.",
+    "Einflüsse durch das Brettspiel Space Hulk und die Chaos-Theorie von Jurassic Park.",
+    "Die schwierige wirtschaftliche Situation bei Blue Byte während der Entwicklung.",
+    "Das Fehlen eines klassischen Metagames zugunsten einer fokussierten Spielerfahrung.",
+    "Die Bedeutung der atmosphärischen Soundkulisse für das Spielgefühl.",
+    "Reflektion über das offene Ende und das Erbe des Titels als Kultspiel."
   ],
   "kapitel": [
     {
@@ -381,11 +383,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:42:21+00:00",
+    "am": "2026-08-21T11:56:35+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Stay-Forever-Hosts beantworten Hörerfragen zu Alltag, Gaming-Vergangenheit und…",
-  "kurzfassung": "In diesem Q&A-Format beantworten Christian Schmidt, Gunnar Lott und Fabian Käufer eingesendete Hörerfragen. Dabei sprechen sie über ihre täglichen Routinen und Rituale, die Wandlung ihres Spielegeschmacks sowie nützliche Fähigkeiten abseits des Gamings. Weitere Themen sind elterliche Reaktionen auf ihr Hobby in der Jugend, der Umgang mit dem Führerschein, kreative analoge Huldigungen von Spielen sowie historische Gaming-Momente, die sie gerne miterlebt hätten.",
+  "einzeiler": "Christian Schmidt und Gunnar Lott beantworten Hörerfragen zu Alltag, Skills und Spielen.",
+  "kurzfassung": "Die Podcaster beantworten in diesem Q&A-Format zahlreiche eingeschickte Hörerfragen. Dabei sprechen sie über ihre täglichen Arbeitsabläufe und Rituale, die Veränderung ihres Spielegeschmacks im Laufe der Zeit sowie ihre realen Fähigkeiten im Alltag. Zudem blicken sie auf die Einstellung ihrer Eltern zu ihrem frühen Hobby und schildern, bei welchen historischen Videospiel-Entwicklungen sie gerne live dabei gewesen wären.",
   "stichpunkte": [
-    "Die Hosts diskutieren ihre tagesstrukturierenden Elemente wie feste Aufstehzeiten, Familienpflichten und Kaffee-Rituale.",
-    "Der Spielegeschmack hat sich gewandelt: Früher wurde quer durch alle Genres gespielt, heute dominieren bei Gunnar Rogue-Likes und bei Christian eine gewisse Ungeduld gegenüber Adventures und Wirtschaftssimulationen.",
-    "Bei den Alltagsfähigkeiten abseits des Gamings erwähnen sie handwerkliches Geschick, Gartenarbeit und Kochroutinen.",
-    "Eltern und Verwandte standen dem Gaming in der Jugend meist offen oder tolerant gegenüber, teils wurden Computer und Konsolen aber auch blockiert.",
-    "Die Erinnerungen an Fahrschule und die ersten eigenen Autos reichen von verschwitzten Prüfungen bis hin zu Getriebeschäden.",
-    "Auf die Frage nach kreativen Projekten zu Ehren von Videospielen scherzen die Hosts über musikalische und zeichnerische Ambitionen.",
-    "Beim privaten Pile of Shame geht es um aufgeschobene Projekte wie ausgelagerte Spielesammlungen oder Gartenarbeiten.",
-    "Als historische Momente für Zeitreisen nennen sie unter anderem die Entstehung von Klassikern wie Chrono Trigger und legendäre Entwicklerstudios."
+    "Beantwortung von Hörerfragen zu Alltag, Gewohnheiten, Fähigkeiten und Videospiel-Historie",
+    "Diskussion über strukturierte Arbeitstage, feste Routinen und den Konsum großer Mengen Kaffee",
+    "Veränderung des Spielegeschmacks von der frühen Alles-Spieler-Phase hin zu fokussierten Genres",
+    "Einschätzung eigener realer Alltagsskills jenseits des Gaming, von Handwerken bis Kochen",
+    "Erinnerungen an die elterliche Haltung gegenüber dem frühen Hobby und erste Computer",
+    "Anekdoten rund um Fahrschulen, verpatzte Prüfungen und frühe Autos",
+    "Gedankenspiele über analoge Medien wie Musik oder Malerei zur Huldigung von Lieblingsspielen",
+    "Wünsche für Zeitreisen zu legendären Computerspiel-Entwicklungen wie Chrono Trigger oder Doom"
   ],
   "kapitel": [
     {
@@ -73,11 +73,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:40+00:00",
+    "am": "2026-08-21T11:48:25+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

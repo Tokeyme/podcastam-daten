@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Commodores CDTV sollte das Wohnzimmer erobern, scheiterte aber als teurer Flop.",
-  "kurzfassung": "Mit dem CDTV brachte Commodore 1991 einen Amiga als Multimedia-Player für das Wohnzimmer auf den Markt. Das Gerät litt jedoch unter einem hohen Preis, unklarer Zielgruppen und fehlender Killer-Apps. Letztendlich floppte der ambitionierte Vorläufer der heutigen Multimediakonsolen am Markt.",
+  "einzeiler": "Commodores CDTV sollte 1991 das Wohnzimmer erobern, scheiterte aber als teurer Flop.",
+  "kurzfassung": "Commodore brachte 1991 das CDTV auf den Markt, einen Amiga 500 im Hi-Fi-Design mit CD-ROM-Laufwerk für das Wohnzimmer. Das Gerät litt unter hohen Kosten, unklarer Zielgruppenansprechung, einer schwammigen Infrarot-Steuerung und einem Mangel an exklusiver Software. Letztlich floppte das ambitionierte Multimedia-Gerät und wurde nach wenigen Jahren eingestellt.",
   "stichpunkte": [
-    "Commodore brachte 1991 das CDTV als Multimedia-Player im Hi-Fi-Format heraus, basierend auf dem Amiga 500.",
-    "Das Gerät zielte auf das Wohnzimmer ab und sollte Computerphobie abbauen sowie CDs und Lernsoftware abspielen.",
-    "Mit einem Preis von 1000 US-Dollar beziehungsweise 1600 Mark war das CDTV extrem teuer.",
-    "Es fehlten klassische Joystick-Anschlüsse am Gerät; die Steuerung erfolgte über eine Infrarot-Fernbedienung.",
-    "Das Softwareangebot blieb dünn, da kaum exklusive Titel erschienen und viele Spiele nur alte Amiga-Portierungen waren.",
-    "Unklare Vermarktung und die Frage nach der eigentlichen Zielgruppe führten zu schwachen Verkaufszahlen von unter 80.000 Einheiten.",
-    "Commodore stellte die Produktion der Platinen bereits nach einem halben Jahr ein und das Projekt wurde 1993 endgültig eingestellt."
+    "Das CDTV basierte auf der Technik des Amiga 500 und wurde als Multimedia-Player im Hi-Fi-Format für das Wohnzimmer konzipiert.",
+    "Die Entwicklung begann Ende 1989 unter dem Codenamen BABY und stand unter Zeitdruck, um das Weihnachtsgeschäft 1990 zu erreichen, was jedoch misslang.",
+    "Das teure CD-ROM-Laufwerk und umfangreiche Zusatzfunktionen trieben den Preis auf 1000 US-Dollar beziehungsweise 1600 Mark.",
+    "Zur Steuerung lag eine kabellose Infrarot-Fernbedienung im Gamepad-Format bei, die sich jedoch als unpräzise erwies.",
+    "Das Softwareangebot bestand zum Großteil aus älteren Amiga-Portierungen sowie schwachen Lern- und Nachschlagewerken.",
+    "Commodore vermarktete das Gerät unklar, und auch der Handel wusste nicht, ob das CDTV bei Computern oder Fernsehern einzuordnen ist.",
+    "Mit weltweit unter 80.000 produzierten Exemplaren blieb das CDTV weit hinter den Erwartungen zurück und wurde schließlich zum Ladenhüter.",
+    "Ein späterer Versuch mit einer kostenreduzierten Variante (CDTVCR) wurde kurz vor der Serienproduktion gestoppt."
   ],
   "kapitel": [
     {
@@ -228,11 +229,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:49+00:00",
+    "am": "2026-08-21T11:49:45+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

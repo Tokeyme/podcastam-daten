@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Eine Reise in die Frühzeit der Computerspiele mit dem 1979er Rollenspiel Date Stones of…",
-  "kurzfassung": "Die Moderatoren besprechen das historische Computerspiel Date Stones of Rin von Epyx aus dem Jahr 1979. Dabei analysieren sie die physische Originalverpackung, die Kassettenversionen und die Entstehungsgeschichte der Firma Automated Simulations. Im Anschluss beleuchten sie die ungewöhnliche Spielmechanik und den Einfluss dieses frühen Rollenspiels auf die Spielegeschichte.",
+  "einzeiler": "Ein Blick auf das obskure Rollenspiel-Experiment Datestones of Ryn von Epyx.",
+  "kurzfassung": "Die Hosts analysieren das 1979 erschienene Spiel Datestones of Ryn, ein ungewöhnliches Experiment der Firma Epyx. Dabei beleuchten sie die Entstehungsgeschichte des Entwicklerstudios, die Tücken der damaligen Kassetten-Vertriebswege und die kuriose Spielmechanik. Das Spiel wird als ein früher, wenn auch spielerisch fragwürdiger Versuch eingeordnet, Rollenspiele für ein breiteres Publikum zugänglich zu machen.",
   "stichpunkte": [
-    "Vorstellung des historischen Spiels Date Stones of Rin für TRS-80 und Atari 400-800 von der Firma Epyx",
-    "Rückblick auf die kuriose Entstehung von Automated Simulations, gegründet in den späten 1970er Jahren vor allem aus steuerlichen Gründen",
-    "Die Gründer John Freeman und Jim Connelly entwickelten mit Starfleet Orion und Temple of Apshai wegweisende Titel",
-    "Charakterisierung der frühen Rollenspiele als textlastige Simulationen von Pen-and-Paper-Runden mit umständlicher Befehlseingabe",
-    "Besonderheiten der Verpackung und des Zubehörs, darunter Kassetten mit unterschiedlichen Versionen auf Vorder- und Rückseite",
-    "Einordnung von Date Stones of Rin als verkürztes MicroQuest-Abenteuer mit Echtzeit-Zeitlimit für den schnellen Spieldurchlauf",
-    "Vergleich mit modernen Spieletiteln und Anagramm-Abkürzungen am Ende der Episode"
+    "Vorstellung von Datestones of Ryn als Teil der Dungeon-Quest-Reihe von Epyx.",
+    "Hintergrund zur Firmengründung von Automated Simulations durch Jim Connelly und John Freeman.",
+    "Die Rolle von Steuervorteilen bei der Entscheidung, Computerspiele zu entwickeln.",
+    "Herausforderungen beim Vertrieb von Spielen auf Kassetten in den späten 70ern.",
+    "Die Bedeutung von John Freeman als Autor für die atmosphärischen Handbücher.",
+    "Vergleich der komplexen Temple of Apshai-Reihe mit dem simplifizierten Microquest-System.",
+    "Analyse der ungewöhnlichen Echtzeit-Komponente und des Zeitlimits von 20 Minuten.",
+    "Diskussion über die spielerische Qualität und die Einordnung als historisches Kuriosum."
   ],
   "kapitel": [
     {
@@ -196,11 +197,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:41:46+00:00",
+    "am": "2026-08-21T11:54:31+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

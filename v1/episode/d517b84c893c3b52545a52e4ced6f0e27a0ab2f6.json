@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Stay Forever tritt gegen Retro Gamer im epischen Retro-Spiele-Quiz an.",
-  "kurzfassung": "Stay Forever und die Gäste von Retro Gamer liefern sich ein enges Quiz-Duell rund um Videospielgeschichte, Klänge und Trivia. Nach mehreren Runden mit Fragen, Tabu-Spielen und Sound-Battles entscheidet sich das Match erst ganz am Ende. Am Ende gewinnen Fabian Käufer und Christian Schmidt von Stay Forever knapp vor Jörg Langer und Hardy Heßdörfer.",
+  "einzeiler": "Episches Retro-Quiz: Stay Forever gegen das Team von Retro Gamer.",
+  "kurzfassung": "In einem spannenden Retro-Quiz treten Fabian Käufer und Christian Schmidt von Stay Forever gegen Jörg Langer und Hardy Heßdörfer vom Magazin Retro Gamer an. In mehreren Runden inklusive Spezialfragen, Tabu und Sound-Battles müssen die Teams ihr Wissen über Computerspiele, Konsolen und Spielegeschichte unter Beweis stellen. Am Ende gelingt dem Team Stay Forever ein knapper Sieg in einem packenden Stechen.",
   "stichpunkte": [
-    "Das Team Stay Forever tritt gegen die Gäste von Retro Gamer (Jörg Langer und Hardy Heßdörfer) im Quiz an.",
-    "Das Duell umfasst reguläre Fragen zu Videospielen, Hardware und Magazingeschichte.",
-    "In Tabu-Runden müssen Begriffe rund um klassische Spiele ohne bestimmte verbotene Wörter erklärt werden.",
-    "Mehrere Sound-Battles fordern das Erraten von Spielen und Plattformen anhand von kurzen Audio-Schnipseln heraus.",
-    "Zahlreiche Gast-Fragesteller wie Heinrich Lenhardt, Roland Austinat und Boris Schneider-Johne steuern spezifische Fragen bei.",
-    "Vor der finalen Runde liegt das Gastteam leicht vorn, doch Stay Forever holt auf.",
-    "Trivial-Pursuit-Geschichtsfragen bilden das Finale, in dem beide Teams ihre Fragen richtig beantworten.",
-    "Das Team Stay Forever gewinnt das Quiz knapp mit 12 zu 11 Punkten."
+    "Das Team Stay Forever tritt im Retro-Quiz gegen die Gäste von Retro Gamer an.",
+    "Gespielt wird in Teams mit abwechselnden Fragen zu Videospielgeschichte, Magazinen und Hardware.",
+    "Zusätzliche Punkte werden in Tabu-Runden und mehreren Sound-Battles vergeben.",
+    "Die Teams müssen Fragen zu Klassikern wie E3-Messen, Lucasfilm-Spielen und Spielemusik lösen.",
+    "Besondere Einspieler und Fragen von bekannten Branchenkollegen ergänzen das Quiz.",
+    "Vor der finalen Trivial-Pursuit-Frage liegt das Gastteam knapp vorne.",
+    "Stay Forever entscheidet das Duell im Stechen mit einer geschichtlichen Frage für sich."
   ],
   "kapitel": [
     {
@@ -297,11 +296,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:41:30+00:00",
+    "am": "2026-08-21T11:58:54+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

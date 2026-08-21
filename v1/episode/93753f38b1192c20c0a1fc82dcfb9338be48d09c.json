@@ -17,26 +17,24 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "In der SPD brodelt es: Krise der Parteiführung und mögliche Szenarien für einen Wechsel.",
-  "kurzfassung": "Die SPD befindet sich in einer tiefen Krise, da Umfragewerte einbrechen und Kernversprechen wie die Rente mit 63 unter Druck geraten. An der Parteibasis wächst der Unmut über Lars Klingbeil und Bärbel Baas, was zu offenen Forderungen nach einem Neustart führt. In der Partei kursieren verschiedene Szenarien für einen Führungswechsel, darunter die Einbindung von Manuela Schwesig.",
+  "einzeiler": "Die SPD kriselt: Brandbriefe, Umfrageschwächen und Szenarien für einen Führungswechsel.",
+  "kurzfassung": "Die SPD befindet sich in einer tiefen Krise, da Umfragewerte sinken und die Basis gegen die Parteiführung rebelliert. Grund dafür sind unter anderem der Streit um die Rente mit 63 und das Aufweichen sozialdemokratischer Kernprojekte in der Koalition. In der Partei kursieren bereits verschiedene Szenarien für einen möglichen Wechsel an der Parteispitze.",
   "stichpunkte": [
-    "Brandbriefe und Forderungen nach einem Sonderparteitag zeigen den wachsenden Unmut an der SPD-Basis.",
-    "Bisherige Parteigrundlagen wie die Reformerzählung und die Rolle als Korrektiv in der Koalition gelten als gescheitert.",
-    "Die Hamburger SPD kritisiert öffentlich die Finanz- und Steuerpolitik der Bundesregierung.",
-    "Das 'Schwesig-Sofort-Szenario' bringt Manuela Schwesig als neue Parteivorsitzende nach den Landtagswahlen ins Gespräch.",
-    "Ein alternatives 'Blitzableiter-Szenario' setzt auf kontrollierten Frustabbau durch Parteikonvente ohne Personalwechsel.",
-    "Das 'Schwesig-Total-Szenario' sieht einen umfassenden Umbau inklusive Regierungsämtern nach der NRW-Wahl vor.",
-    "Interne E-Mails belegen, dass das Kanzleramt den umstrittenen Steuererhöhungen für Vereine zuvor zugestimmt hatte.",
-    "Reaktionen auf vorherige Sendungen zeigen eine polarisierte Debatte über den Einfluss neurechter Ideologien."
+    "Kritik an Lars Klingbeil und Bärbel Baas wächst an der Parteibasis durch Brandbriefe und Forderungen nach einem Sonderparteitag.",
+    "Bislang zentrale Erzählungen der SPD – wie die Reformpartei und das staatstragende Korrektiv – gelten als gescheitert.",
+    "Widerstand regt sich vor allem gegen die Aufweichung der Rente mit 63 und die Finanzpolitik.",
+    "In der SPD kursieren drei Szenarien für die Zeit nach den ostdeutschen Landtagswahlen: das Schwesig-Sofort-Szenario, das Blitzableiter-Szenario und das Schwesig-Total-Szenario.",
+    "Eine interne E-Mail belegt, dass das Kanzleramt den umstrittenen Steuererhöhungen für Vereine zuvor zugestimmt hatte.",
+    "Reaktionen auf eine vorherige Podcast-Folge zeigen heftige Debatten über neurechte Denkmuster und deren Einfluss auf den Mainstream."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T05:08:52+00:00",
+    "am": "2026-08-21T11:48:28+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

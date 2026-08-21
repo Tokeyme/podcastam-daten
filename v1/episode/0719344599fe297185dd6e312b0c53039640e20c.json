@@ -17,25 +17,26 @@
     "kapitel": false,
     "grund": "Verdacht auf je Abruf neu zusammengesetzte Auslieferung (kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - im Zweifel keine Byte-Offsets und keine Sprungmarken"
   },
-  "einzeiler": "Märkte unter Druck, intransparente Sparkassengehälter und Apples Einigung mit der EU.",
-  "kurzfassung": "Die globalen Finanzmärkte stehen wegen steigender Staatsverschuldung und Inflation unter Druck. Unterdessen sorgt die intransparente Vergütung von Sparkassenvorständen für Kritik. Zudem beilegt Apple einen jahrelangen Streit mit der Europäischen Kommission.",
+  "einzeiler": "Märkte unter Druck: Staatsanleihen und Tech-Aktien, Sparkassen-Gehälter und…",
+  "kurzfassung": "Die globalen Finanzmärkte standen unter Druck, da steigende Staatsverschuldung, Inflation und hohe Unternehmensanleihen die Renditen nach oben trieben. Gleichzeitig legte Apple einen langjährigen Streit mit der EU-Kommission bei und passte sein Geschäftsmodell an. Zudem wächst die Nutzung von Künstlicher Intelligenz in deutschen Kleinunternehmen spürbar.",
   "stichpunkte": [
-    "Steigende Staatsverschuldung und Inflation setzen Staatsanleihen und KI-Aktien unter Druck",
-    "Kritik an mangelnder Transparenz bei den Gehältern von Sparkassenvorständen",
-    "Debatte über mögliche finanzielle Konsequenzen im Länderfinanzausgleich bei einer Regierungsbeteiligung der AfD",
-    "Beschwerde von Umweltschutzorganisationen in Brüssel gegen das deutsche Stromversorgungsgesetz",
-    "Apple legt Streit mit der EU bei und passt Geschäftsbedingungen für App-Entwickler an",
-    "Zunehmender Einsatz von Künstlicher Intelligenz als Produktivitätsreserve in deutschen Kleinstunternehmen",
-    "Tipps zur privaten Schließung von Rentenlücken für den vorgezogenen Ruhestand"
+    "Steigende Staatsverschuldung und Inflation setzen globale Staatsanleihen und KI-Tech-Aktien unter Druck.",
+    "Renditen 30-jähriger Staatsanleihen erreichen Höchststände, unter anderem in den USA und Deutschland.",
+    "Details zur Bezahlung von Sparkassenvorständen bleiben trotz öffentlicher Eigentümerschaft intransparent.",
+    "Baden-württembergischer Finanzminister diskutiert mögliche finanzielle Konsequenzen für Sachsen-Anhalt bei einer AfD-Regierungsbeteiligung.",
+    "Umweltschutzorganisationen legen Beschwerde in Brüssel gegen das deutsche Stromversorgungsgesetz ein.",
+    "Apple einigt sich mit der EU-Kommission und passt App-Store-Bedingungen an.",
+    "Künstliche Intelligenz entwickelt sich zur unterschätzten Produktivitätsreserve in deutschen Kleinbetrieben.",
+    "Wege zur Rente mit 63 umfassen den Kauf von Rentenpunkten oder private Geldanlagen."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T02:25:35+00:00",
+    "am": "2026-08-21T11:57:29+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,45 +17,37 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Wie der Tech-Milliardär Peter Thiel die amerikanische Politik und das Silicon Valley…",
-  "kurzfassung": "Der Podcast beleuchtet den Aufstieg des Tech-Milliardärs Peter Thiel als intellektueller und finanzieller Drahtzieher hinter dem heutigen politischen Rechtsruck in den USA. Beginnend mit Trumps Amtseinführung und Thiels engem Netzwerk aus früheren Weggefährten zeigt die Episode, wie seine radikalen Ansichten bereits in seiner Studienzeit an der Stanford University geformt wurden. Im Anschluss wird der Bogen zur Gründung von PayPal und dem Beginn seiner Verbindung zu Elon Musk geschlagen.",
+  "einzeiler": "Der Architekt des neuen US-Rechtsrucks: Wer ist der Tech-Milliardär Peter Thiel?",
+  "kurzfassung": "Der Podcast beleuchtet den Aufstieg des Tech-Milliardärs Peter Thiel als zentralen Strippenzieher hinter der aktuellen politischen Wende in den USA. Ausgehend von der Amtseinführung Donald Trumps im Jahr 2025 zeichnet die Episode Thiels Weg von seiner Kindheit und Jugend über seine Studienzeit in Stanford bis zur Gründung von PayPal nach. Dabei wird sein enges Netzwerk aus Verbündeten und sein früher Kampf gegen die sogenannte Political Correctness analysiert.",
   "stichpunkte": [
-    "Bei der Amtseinführung von Donald Trump 2025 sitzt die amerikanische Tech-Elite in vorderster Reihe, mit Peter Thiel als ideologischem Drahtzieher im Hintergrund.",
-    "Unmittelbar nach der Wahl zeigt sich ein massiver politischer und kultureller Vibe-Shift nach rechts, den Beobachter fast vollständig auf Thiels langjährigen Einfluss zurückführen.",
-    "Konzerne wie Meta verabschieden sich von Faktenchecks und Diversitätsprogrammen, während Vertraute aus Thiels engstem Kreis wichtige Regierungsposten übernehmen.",
-    "Thiel baut seit seiner Studienzeit an der Stanford University ein machtvolles Netzwerk aus gleichgesinnten Intellektuellen und Unternehmern auf.",
-    "Bereits in den 1990er Jahren gründet Thiel mit Weggefährten wie David Sacks die Studentenzeitung The Stanford Review als Bollwerk gegen linke Einflüsse und Political Correctness.",
-    "Ein prominenter Fall aus dieser Zeit ist Keith Rabois, der nach einer homophoben und menschenverachtenden Tirade auf dem Campus von Thiel als Märtyrer der Meinungsfreiheit stilisiert wird.",
-    "Thiel verarbeitet diese Ideologie gemeinsam mit Sacks in dem Buch The Diversity Myth und kultiviert gezielt einen Typ junger, provokanter Männer für sein Netzwerk.",
-    "Nach dem Scheitern seiner juristischen Karriere gründet Thiel während des Dotcom-Booms das Bezahlnetzwerk PayPal mit, dessen frühes Büro im selben Gebäude wie Elon Musks X.com liegt."
+    "Tech-Größen wie Elon Musk und Mark Zuckerberg sitzen bei Donald Trumps Amtseinführung 2025 in der ersten Reihe, während Peter Thiel als der ideologische Drahtzieher dahinter gilt.",
+    "Thiel prägt mit seinem weitreichenden Netzwerk aus ehemaligen Weggefährten wie J.D. Vance und David Sacks die neue US-Regierung maßgeblich.",
+    "Geboren in Frankfurt am Main, verbringt Thiel seine Kindheit unter anderem in den USA, Südafrika und Namibia, bevor er in Stanford studiert.",
+    "Bereits in den späten 1980er Jahren kritisiert Thiel an der Universität scharf die dortige progressive Kultur und den Begriff der Political Correctness.",
+    "Gemeinsam mit David Sacks gründet Thiel die konservative Studentenzeitung The Stanford Review als Bollwerk gegen linke Dominanz.",
+    "Sein Mitstreiter Keith Reboy sorgt 1992 auf dem Campus mit homophoben und rassistischen Provokationen für einen Skandal, den Thiel als Angriff auf die Meinungsfreiheit wertet.",
+    "Thiel verarbeitet diese Zeit und seine Kritik am Multikulturalismus in dem Buch The Diversity Myth.",
+    "Nach dem Studium startet Thiel seine unternehmerische Karriere und gründet 1998 mit Confinity und PayPal die Basis für sein heutiges Imperium, Tür an Tür mit Elon Musks X.com."
   ],
   "kapitel": [
     {
-      "titel": "Intro: Das Thiel-Verse",
+      "titel": "Der Vibe-Shift im Silicon Valley und Peter Thiels Netzwerk",
       "start": 6.42
     },
     {
-      "titel": "Der Vibe-Shift in Amerika",
-      "start": 283.68
-    },
-    {
-      "titel": "Im Hintergrund: Das Treffen mit dem Biografen",
-      "start": 500.04
-    },
-    {
-      "titel": "Kindheit und Jugend",
+      "titel": "Kindheit zwischen Deutschland, den USA und Südafrika",
       "start": 853.38
     },
     {
-      "titel": "Stanford und die Keimzelle des Netzwerks",
+      "titel": "Die Studienzeit in Stanford und der Kulturkampf",
       "start": 984.36
     },
     {
-      "titel": "Der Skandal um Keith Rabois",
-      "start": 1484.3
+      "titel": "The Stanford Review und die Methoden der Provokation",
+      "start": 1346.02
     },
     {
-      "titel": "PayPal-Gründung und das Treffen mit Elon Musk",
+      "titel": "Vom anti-woken Studenten zum PayPal-Gründer",
       "start": 1731.32
     }
   ],
@@ -137,11 +129,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T03:21:08+00:00",
+    "am": "2026-08-21T11:52:14+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

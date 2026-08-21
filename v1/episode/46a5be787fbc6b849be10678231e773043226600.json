@@ -17,16 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Relaunch-Update: Wie die neue Stay Forever Plattform nach einer Woche läuft",
-  "kurzfassung": "Christian und Gunnar ziehen eine extrem positive Bilanz nach dem Launch der neuen Stay Forever Plattform. Sie besprechen die überwältigend hohen Nutzerzahlen, gelöste technische Probleme bei den RSS-Feeds und kommende Verbesserungen. Zudem erklären sie Entscheidungen zu Zahlungsanbietern, der Ablehnung einer eigenen App und dem Umgang mit Community-Wünschen.",
+  "einzeiler": "Relaunch-Update: Einblicke in Zahlen, Community-Feedback und geplante Verbesserungen",
+  "kurzfassung": "Nach einer Woche blicken Christian und Gunnar auf einen extrem erfolgreichen Launch der neuen Plattform stayforever.de zurück. Sie besprechen die übertroffenen Erwartungen bei den Anmeldezahlen, gelöste technische Hürden sowie zahlreiche Community-Wünsche. Zudem erläutern sie künftige Pläne zu Zahlungsarten, Apps und dem Umgang mit Plattformunabhängigkeit.",
   "stichpunkte": [
-    "Über 3.100 angemeldete Accounts und 2.600 Abos innerhalb einer Woche nach dem Launch.",
-    "Das Jahresendziel wurde in unter einer Woche erreicht, das Monatsziel in den ersten 24 Stunden.",
-    "Kritischer Fehler bei iOS-Podcast-Apps durch fehlende MP3-Dateiendungen in den Feed-Links behoben.",
-    "Beibehaltung von Patreon und Steady für Hörer, die ihre Unterstützerfeeds über Spotify hören.",
-    "Keine eigene App geplant, um Abhängigkeiten vom Apple- und Google-Ökosystem sowie hohe Gebühren zu vermeiden.",
-    "Zahlungsabwicklung läuft vorerst weiter über Stripe, da europäische Alternativen wie Mollie unbefriedigend waren.",
-    "Community-Feedback wird aktiv in Foren-Threads und über ein Support-E-Mail-Ticketsystem bearbeitet."
+    "Über 3.100 angemeldete Accounts und 2.600 Abos innerhalb der ersten Woche nach dem Launch.",
+    "Behebung des schwerwiegendsten Feed-Problems durch Umbenennung von Serverlinks in MP3-Endungen für iOS.",
+    "Klarstellung bezüglich exklusiver Unterstützer-Feeds auf Spotify, die weiterhin über Patreon und Steady laufen.",
+    "Geplante Überarbeitung der Feed-Logik, um Originalton-Folgen sauber zu integrieren statt sie doppelt anzuzeigen.",
+    "Keine eigene native App geplant, um die Unabhängigkeit zu wahren und App-Store-Gebühren zu vermeiden.",
+    "Zahlungsabwicklung läuft vorerst weiter über Stripe, da europäische Alternativen wie Mollie unzureichend und Vero noch nicht integriert sind.",
+    "Keine Ambitionen, eine kommerzielle Gegenplattform für andere Creator aufzubauen, aber evtl. spätere White-Label-Lösungen."
   ],
   "kapitel": [
     {
@@ -80,11 +80,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:36:32+00:00",
+    "am": "2026-08-21T12:01:49+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

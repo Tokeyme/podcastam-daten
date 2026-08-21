@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf King's Quest von 1984, das erste Grafik-Adventure der Videospielgeschichte.",
-  "kurzfassung": "King's Quest von Sierra aus dem Jahr 1984 gilt als das erste echte Grafik-Adventure und revolutionierte das Genre durch einen direkt steuerbaren Protagonisten in einer farbigen 3D-Welt. Das von Roberta Williams entworfene Spiel basiert auf Märchenmotiven und stellte trotz technischer und spielerischer Pionierleistungen die wirtschaftliche Existenz von Sierra durch den Flop des IBM PC Jr. zunächst auf die Probe. Durch spätere Portierungen, insbesondere auf den Tandy 1000, wurde es schließlich zu einem kommerziellen Erfolg und zum Grundstein für das gesamte Unternehmen.",
+  "einzeiler": "King's Quest: Wie Sierra 1984 das Grafik-Adventure erfand",
+  "kurzfassung": "King's Quest, das 1984 für den IBM PCjr erschien, begründete als erstes echtes Grafik-Adventure das Genre. Roberta Williams schuf eine farbige, animierte Märchenwelt mit Parser-Steuerung und räumlicher Tiefe. Trotz technischer und wirtschaftlicher Hürden beim Start wurde das Spiel zum Fundament für Sierras Erfolg.",
   "stichpunkte": [
-    "King's Quest erschien 1984 als exklusiver Starttitel für den IBM PC Jr. und begründete das Genre der modernen Grafik-Adventures.",
-    "Die von Roberta Williams entworfene Spielwelt verbindet zahlreiche Märchen- und Mythenmotive aus der europäischen Sagenwelt.",
-    "Technisch setzte das Spiel mit der AGI-Engine, Vektorgrafiken und einem cleveren Prioritäten-System für den 3D-Effekt neue Maßstäbe.",
-    "Sir Graham ist als sichtbarer, steuerbarer Protagonist in Echtzeit unterwegs, was einen Paradigmenwechsel zu den bisherigen Text-Adventures darstellte.",
-    "Das Spiel bietet ungewöhnlich viele alternative Lösungswege und ein Punktesystem, bei dem man für unüberlegte Aktionen auch Punkte verlieren kann.",
-    "Der kommerzielle Misserfolg des IBM PC Jr. brachte den Entwickler Sierra an den Rand des Ruins.",
-    "Erst spätere Portierungen auf den normalen PC und insbesondere den Tandy 1000 machten das Spiel zum finanziellen Erfolg.",
-    "King's Quest legte den Grundstein für Sierras jahrzehntelange Erfolgsgeschichte und prägte zahlreiche nachfolgende Adventure-Reihen."
+    "1984 von Roberta Williams und Ken Williams bei Sierra entwickelt, ursprünglich als Vorzeigeprodukt für den IBM PCjr.",
+    "Erstes Grafik-Adventure mit steuerbarer Spielfigur, Echtzeit-Elementen und dreidimensionalem Raumgefühl.",
+    "Einführung der AGI-Engine mit vektorbasierten Hintergründen und Prioritätsebenen für den 3D-Effekt.",
+    "Offene Spielwelt mit zahlreichen Märchen- und Mythenmotiven in einer Collage-Struktur.",
+    "Besonderheit des Spiels sind multiple Lösungswege und ein Score-System, das auch Punkteabzüge für unheldenhaftes Verhalten verteilt.",
+    "Der PCjr-Flop stürzte Sierra in eine Krise, die erst durch plattformübergreifende Ports und vor allem die Partnerschaft mit Tandy gerettet wurde.",
+    "Der kommerzielle Erfolg von King's Quest legte den Grundstein für Sierras jahrzehntelange Dominanz im Adventure-Genre."
   ],
   "kapitel": [
     {
@@ -393,11 +392,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:41:41+00:00",
+    "am": "2026-08-21T11:56:48+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

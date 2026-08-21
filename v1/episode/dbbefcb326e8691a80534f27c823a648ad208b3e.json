@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf den Weltraumstrategie-Klassiker Ascendancy von 1995 und The Logic Factory.",
-  "kurzfassung": "Ascendancy erschien 1995 als ambitionierter und optisch eigenständiger Genre-Herausforderer im Bereich der rundenbasierten Weltraumstrategie. Das von Ehemaligen bei Origin gegründete Studio The Logic Factory setzte auf ein minimalistisches Interface, bizarre Alien-Spezies und den Verzicht auf klassische Zahlenwerte. Trotz starker Präsentation, stimmungsvoller Musik und kommerziellen Erfolgs litt das Spiel unter einer schwachen KI und einem unzureichenden Kampfsystem.",
+  "einzeiler": "Rückblick auf das 1995 erschienene 4X-Weltraumstrategiespiel Ascendancy von The Logic…",
+  "kurzfassung": "Ascendancy erschien 1995 als ambitioniertes 4X-Strategiepiel von The Logic Factory und hob sich durch ein ungewöhnliches 3D-Design, bizarre Alien-Spezies und den atmosphärischen Soundtrack ab. Trotz guter Verkaufszahlen und innovativer Ansätze litten Spielverlauf und Kämpfe stark unter einer schwachen KI und hohem Mikromanagement. Nach weiteren Projekten zog sich das Entwicklerstudio schließlich ganz aus der Öffentlichkeit zurück.",
   "stichpunkte": [
-    "Gründung von The Logic Factory im Juli 1993 durch Jason Templeman nach seiner Arbeit an Strike Commander bei Origin",
-    "Inspiration für das Spiel stammte unter anderem aus Carl Sagans Dokumentarserie Kosmos",
-    "Veröffentlichung von Ascendancy im Herbst 1995 mit dem Vertriebspartner Broderbund",
-    "Das Spiel bietet 21 bizarre Alien-Spezies mit individuellen Spezialfähigkeiten, aber identischer Kernmechanik",
-    "Besondere Designmerkmale waren die dreidimensionale Sternenkarte mit Sternenstraßen und das weitgehende Vermeiden von Zahlenwerten",
-    "Kritikpunkte am Spiel betrafen vor allem die schwache Gegner-KI und das stark vereinfachte, rundenbasierte Kampfsystem",
-    "Kommerzieller Erfolg mit schätzungsweise über 100.000 verkauften Einheiten und guten internationalen Testwertungen",
-    "Keine Fortsetzung aufgrund des Wunsches nach kreativer Neuentfindung, gefolgt von erfolglosen späteren Projekten"
+    "Entstehung bei The Logic Factory durch ehemalige Origin-Mitarbeiter um Jason Templeman nach Abschluss von Strike Commander",
+    "Ausrichtung auf ein mysteriöses Universum mit 21 eigenwilligen Spezies und Verzicht auf menschliche Figuren",
+    "Dreidimensionale Sternenkarte und ein durch Sternenstraßen begrenztes, taktisches Netz von Galaxien",
+    "Einführung von Brettspiel-Elementen wie farbigen Planetenfeldern und einem rundenbasierten System",
+    "Kritikpunkte am Spiel sind vor allem die schwache Gegner-KI und das stark limitierte, oft undurchsichtige Kampfsystem",
+    "Hoher Bekanntheitsgrad des atmosphärischen Soundtracks von Komponist Nenad Vukrinek",
+    "Kommerzieller Erfolg nach der Veröffentlichung im Herbst 1995 durch Publisher Broderbund",
+    "Keine Fortsetzung trotz Nachfrage, stattdessen experimentierte das Studio mit The Tone Rebellion und weiteren unvollendeten Projekten"
   ],
   "kapitel": [
     {
@@ -257,11 +257,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:02+00:00",
+    "am": "2026-08-21T11:48:05+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

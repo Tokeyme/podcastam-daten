@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Analyse von Zelda: Ocarina of Time, dem wegweisenden 3D-Action-Adventure von Nintendo.",
-  "kurzfassung": "Zelda: Ocarina of Time gilt als Meilenstein, der das Action-Adventure-Genre erfolgreich in die dritte Dimension überführte. Das Spiel besticht durch innovatives Z-Targeting, eine dichte Atmosphäre und ein durchdachtes Dungeon-Design. Trotz technischer Alterung bleibt es aufgrund seiner spielerischen Eleganz ein einflussreicher Klassiker.",
+  "einzeiler": "Wie Nintendos Meisterwerk The Legend of Zelda: Ocarina of Time 3D-Spiele prägte.",
+  "kurzfassung": "The Legend of Zelda: Ocarina of Time setzte 1998 mit dem Wechsel in die 3D-Welt neue Maßstäbe für das Action-Adventure-Genre. Durch innovative Mechaniken wie das Z-Targeting, kontextsensitive Aktionen und eine Zeitreise-Handlung definierte Nintendo grundlegende Spielregeln neu. Die Dungeons, der dynamische Soundtrack und das einprägsame Charakterdesign machten das Spiel zu einem Meilenstein der Videospielgeschichte.",
   "stichpunkte": [
-    "Erfolgreiche Transformation der Zelda-Reihe von 2D in eine 3D-Spielwelt.",
-    "Einführung des Z-Targeting-Systems als Standard für 3D-Kämpfe.",
-    "Entwicklungsprozess mit einem der größten Teams der damaligen Zeit unter Miyamoto.",
-    "Strukturierung der Welt durch eine zentrale Steppe als Hub-Areal.",
-    "Komplexes Dungeon-Design mit Fokus auf Vertikalität und Item-Progression.",
-    "Einsatz der Ocarina als zentrales, atmosphärisches Spielelement.",
-    "Kontroverse um das Design einiger Nebencharaktere und die langsame Textausgabe.",
-    "Herausforderungen durch die technische Limitierung der N64-Hardware.",
-    "Bedeutung der 3DS-Neuauflage als technisch verbesserte und zugänglichere Version."
+    "The Legend of Zelda: Ocarina of Time markierte 1998 für Nintendo den erfolgreichen Übergang der Reihe von 2D in die 3D-Welt.",
+    "Das erfahrene Entwicklerteam unter Shigeru Miyamoto schuf innovative Standards wie das Z-Targeting und die kontextsensitive Tastenbelegung.",
+    "Die Struktur verknüpft eine offene Steppe als zentralen Knotenpunkt mit abgetrennten Dörfern, Ortschaften und Dungeons.",
+    "Das Ziehen des Master-Schwerts führt zu einem Zeitsprung von sieben Jahren, wodurch Link zwischen kindlicher und erwachsener Form wechselt.",
+    "Mit der Okarina erlernt die Spielfigur Melodien, die als Werkzeuge für Teleportation, Umweltveränderungen und Rätsel dienen.",
+    "Das Dungeon-Design besticht durch Vertikalität und Raumzusammenhänge, während der Wassertempel für seine Komplexität und Menülastigkeit berüchtigt ist.",
+    "Nebenfiguren und Feen wurden bewusst auffällig und expressiv gestaltet, um in der frühen 3D-Grafik im Gedächtnis zu bleiben.",
+    "Mit 7,6 Millionen verkauften Einheiten auf dem N64 und historischen Höchstwertungen zählt das Spiel zu den einflussreichsten Titeln der Branche."
   ],
   "kapitel": [
     {
@@ -318,11 +317,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:45:05+00:00",
+    "am": "2026-08-21T12:01:32+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-3.1-flash-lite",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

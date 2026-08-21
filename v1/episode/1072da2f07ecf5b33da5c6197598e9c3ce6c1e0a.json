@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Christian Genzel und Heinrich Lenhardt besprechen Film und C64-Spiel zu RoboCop.",
-  "kurzfassung": "Paul Verhoevens dystopischer Actionklassiker RoboCop von 1987 verband drastische Gewaltdarstellung mit bissiger Gesellschaftssatire auf den amerikanischen Kapitalismus. Die zeitnahe Videospiel-Umsetzung von Ocean Software für Heimcomputer und Spielhallen erlangte trotz enormer Verkaufszahlen einen zweifelhaften Ruf wegen ihres brutalen Schwierigkeitsgrads. Auf dem C64 machten vor allem zwei gravierende Programmfehler das reguläre Durchspielen des Titels praktisch unmöglich.",
+  "einzeiler": "Christian Genzel und Heinrich Lenhardt besprechen den Film und das C64-Spiel von Robocop.",
+  "kurzfassung": "Der Podcast Pixelkino startet seine dritte Staffel exklusiv bei Stay Forever und widmet sich in dieser Folge dem 80er-Jahre-Actionklassiker Robocop von Paul Verhoeven. Neben den Hintergründen des Films, der Entstehung und dem Regiestil analysieren die Hosts auch die Umsetzung als Computerspiel für den C64 und andere Heimcomputer. Dabei geht es um brachiale Action, Satire, Designentscheidungen und ärgerliche Programmierfehler.",
   "stichpunkte": [
-    "Das Format Pixelkino startet seine dritte Staffel als Kooperation exklusiv im Unterstützerprogramm von Stay Forever.",
-    "Regisseur Paul Verhoeven wechselte nach Kontroversen in den Niederlanden nach Hollywood und schuf mit RoboCop eine zynische Cyberpunk-Satire.",
-    "Der Film nutzt extreme Gewaltexzesse und Mediensatiren, um Themen wie Privatisierung und Polizeigewalt zu verhandeln.",
-    "Ocean Software sicherte sich frühzeitig für einen vergleichsweise geringen Betrag die weltweiten Spiellizenzen am Film.",
-    "Das Spielprinzip kombiniert klassische Run-and-Gun-Passagen mit kleineren Minispielen wie Schießständen oder Phantombild-Rätseln.",
-    "Auf dem C64 führten ein zu knappes Zeitlimit in Level 5 und ein nachfolgender Grafikbug dazu, dass das Spiel ohne Ausnutzen von Glitches unschaffbar war.",
-    "Die Amiga-Version bot eine bessere audiovisuelle Präsentation inklusive digitalisierter Sprache und Filmmusik, litt aber ebenfalls unter hoher Schwierigkeit.",
-    "Im abschließenden Fazit erhält der Film die Bestnote RoboCop, während die fehlerbehaftete C64-Fassung und die Amiga-Version als durchwachsen eingestuft werden."
+    "Das Pixelkino-Format wechselt für seine dritte Staffel exklusiv in das Programm von Stay Forever.",
+    "Der 1987 veröffentlichte Actionfilm Robocop von Paul Verhoeven verbindet Cyberpunk, bissige Konsum-Satire und extreme Körperlichkeit.",
+    "Regisseur Paul Verhoeven ging nach Konflikten mit der niederländischen Filmförderung in die USA und etablierte dort seinen provokanten Stil.",
+    "Das C64-Spiel von Ocean Software folgte 1988 und verkaufte sich als erster großer Millionenseller der Firma extrem gut.",
+    "Die C64-Version leidet unter massiven Designproblemen wie einem unmachbaren Zeitlimit im Warenhaus-Level und einem schweren Grafikbug im Folgelevel.",
+    "Neben dem C64 existieren Versionen für Amiga, Atari ST und den ZX Spectrum sowie ein Arcade-Automat von Data East.",
+    "In der abschließenden Bewertung nach dem Schema Good, Bad and Ugly erhalten der Film die Höchstnote und das Spiel gemischte Wertungen zwischen Ed 209 und Robocop 2."
   ],
   "kapitel": [
     {
@@ -57,11 +56,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:14+00:00",
+    "am": "2026-08-21T11:58:01+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

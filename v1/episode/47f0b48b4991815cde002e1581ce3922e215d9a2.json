@@ -17,25 +17,26 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Jamal Musialas Diagnose, BVB-Transfergerüchte und Werder-Millionen",
-  "kurzfassung": "Jamal Musiala leidet unter neurologisch bedingten Absenzen, will aber nach Rücksprache mit Ärzten und dem FC Bayern weiterspielen. Borussia Dortmund sucht weiter nach einem Rechtsverteidiger und hat Barça-Spieler Julian Araujo im Blick. Borussia Mönchengladbach holt Ko Itakura für 3,5 Millionen Euro zurück, während Werder Bremen Keke Topp für rund 20 Millionen Euro an Racing Straßburg abgibt.",
+  "einzeiler": "Neueste Details zu Jamal Musiala, BVB-Interesse an Barcelona-Verteidiger und Transfers",
+  "kurzfassung": "Jamal Musiala leidet unter kurzzeitigen Absenzen durch eine neurologische Dysfunktion, will aber nach Genesung auf altem Niveau weiterspielen. Borussia Dortmund zeigt starkes Interesse an einer Verpflichtung des Barcelona-Verteidigers. Borussia Mönchengladbach holt Ko Itakura für 3,5 Millionen Euro Ablöse von Ajax Amsterdam zurück.",
   "stichpunkte": [
-    "Jamal Musiala leidet seit einigen Monaten unter kurzzeitigen Absenzen durch eine neurologische Dysfunktion.",
-    "Nach einem erneuten Zusammenbruch im Training oder Spiel am Samstag wurde beschlossen, die Symptome öffentlich zu machen.",
-    "Musiala will seine Karriere auf altem Niveau fortsetzen und wird von Bayern München bedingungslos unterstützt.",
-    "Borussia Dortmund ist auf der Suche nach einem Rechtsverteidiger an Barcelonas Julian Araujo interessiert.",
+    "Jamal Musiala ist in den letzten Tagen zweimal auf dem Platz zusammengebrochen und leidet unter kurztemperierten Absenzen durch eine neurologische Dysfunktion.",
+    "Musiala, die Mitspieler und der FC Bayern wussten Bescheid; nach dem Leipzig-Vorfall wurde beschlossen, die Symptome öffentlich zu machen.",
+    "Musiala und behandelte Ärzte sind überzeugt, dass er beschwerdefrei wird und seine Karriere fortsetzen kann; Bayern will ihn bedingungslos unterstützen.",
+    "Borussia Dortmund sucht nach Verstärkung für die Rechtsverteidigung und hat den Verteidiger von Barcelona als heißen Kandidaten im Blick.",
+    "Ein direkter 20-Millionen-Euro-Transfer ist für den BVB aktuell schwierig, weshalb eine Leihe oder eine andere Lösung mit Barcelona geprüft wird.",
     "Borussia Mönchengladbach verpflichtet Ko Itakura für 3,5 Millionen Euro Ablöse von Ajax Amsterdam zurück.",
-    "Werder Bremen verkauft Keke Topp für rund 20 Millionen Euro an Racing Straßburg.",
-    "Union Berlin verpflichtet den Schweizer WM-Teilnehmer Michel Aebischer für rund drei Millionen Euro von Pisa."
+    "Karamoko Cisse wechselt von Werder Bremen zu Racing Straßburg, während Union Berlin den Schweizer WM-Teilnehmer Michael Aebischer verpflichtet.",
+    "Das klassische Tippspiel wird eingestellt, stattdessen werden Hörerprognosen und Sprachnachrichten zu den anstehenden Pokalspielen in den Podcast integriert."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T02:29:07+00:00",
+    "am": "2026-08-21T11:57:45+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

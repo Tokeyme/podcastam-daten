@@ -17,15 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Das Stay Forever Quiz mit Christian Schmidt, Fabian Käufer und Gunnar Lott.",
-  "kurzfassung": "Christian Schmidt, Fabian Käufer und Gunnar Lott stellen sich in sechs Quiz-Themenblöcken Fragen rund um Retro-Gaming, Konsolen und Spiele-Trivia. Dabei wechseln sich gewusstes Expertenwissen und wagemutiges Raten ab. Am Ende entscheidet ein Stechen über den Sieg im Podcast-Quiz.",
+  "einzeiler": "Christian Schmidt, Fabian Käufer und Gunnar Lott stellen sich dem Stay Forever Quiz.",
+  "kurzfassung": "Christian Schmidt, Fabian Käufer und Gunnar Lott treten in einer neuen Ausgabe des Stay Forever Quiz gegeneinander an. In sechs Blöcken voller Retro-Gaming-Fragen, Musikrätsel und Anekdoten wird ihr Halbwissen auf die Probe gestellt. Am Ende setzt sich Gunnar Lott im Stechen durch und gewinnt das Quiz.",
   "stichpunkte": [
-    "Christian Schmidt, Fabian Käufer und Gunnar Lott treten im Stay Forever Quiz an.",
-    "Das Quiz umfasst sechs Themenblöcke mit Fragen zu Videospielgeschichte, Werbung und Musik.",
-    "Spieler auf dem letzten Platz erhalten jeweils einen Joker, um Antworten zu ändern.",
-    "Zahlreiche klassische Titel wie Tetris, Super Mario Land 2, Simon the Sorcerer und Monkey Island sind vertreten.",
-    "Hörer steuern über Einsendungen und Gastauftritte knifflige Sonderfragen bei.",
-    "Gunnar Lott gewinnt das Quiz schließlich nach einem knappen Stechen vor Christian Schmidt."
+    "Das Stay Forever Quiz geht in die 14. Folge mit den Kandidaten Christian Schmidt, Fabian Käufer und Gunnar Lott.",
+    "Gespielt wird in sechs Themenblöcken mit verdeckten Antworten, Begründungen und Wechseljokern.",
+    "Zahlreiche Fragen drehen sich um Konsolengeschichte, Werbung, Handbücher und Klassiker wie Tetris, Simon the Sorcerer und Monkey Island.",
+    "Gunnar Lott zeigt Schwächen bei umgedrehten Musikfragen, gleicht dies jedoch durch Expertenwissen aus.",
+    "Ein automatischer Quiz-Ersatz-Robot sorgt zwischendurch mit einer absurden Dune-Frage für Abwechslung.",
+    "Das Finale entscheidet sich in einer Runde Trivial Pursuit.",
+    "Gunnar Lott gewinnt das Quiz knapp vor Christian Schmidt, gefolgt von Fabian Käufer."
   ],
   "kapitel": [
     {
@@ -283,11 +284,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:42:27+00:00",
+    "am": "2026-08-21T11:50:00+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

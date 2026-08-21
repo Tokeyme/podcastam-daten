@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte des Videospielklassikers Bruce Lee und der Firma Datasoft.",
-  "kurzfassung": "Die Hosts besprechen den 1984 erschienenen Klassiker Bruce Lee und beleuchten dessen Entstehungsgeschichte. Dabei analysieren sie das Gameplay, das Jump'n'Run- und Puzzle-Elemente mit Martial-Arts-Kämpfen verbindet. Zudem wird die Geschichte des Entwicklers Datasoft von den Anfängen bis zum Niedergang nachgezeichnet.",
+  "einzeiler": "Die Geschichte des Computerspiels Bruce Lee und seines Entwicklers Datasoft",
+  "kurzfassung": "Der Klassiker Bruce Lee aus dem Jahr 1984 verbindet Jump-and-Run-Elemente mit Martial-Arts-Kämpfen und einem überraschenden Mehrspielermodus. Die Hosts beleuchten die Entstehungsgeschichte des Spiels, die Historie der Firma Datasoft sowie den kulturellen Hintergrund von Bruce Lee. Dabei zeigt sich, warum das Spiel bis heute eine treue Fangemeinde besitzt und trotz seines Alters spielbar geblieben ist.",
   "stichpunkte": [
-    "Besprechung des Jump'n'Run-Klassikers Bruce Lee aus dem Jahr 1984 für Atari 8-Bit und C64",
-    "Das Spiel verbindet Bildschirmerkundung und Puzzles mit einem simplen, aber wirkungsvollen Nahkampfsystem",
-    "Optionaler Multiplayer-Modus, in dem ein Spieler einen der Gegner steuern kann",
-    "Experte Christian Gensel beleuchtet im Interview die Filmkarriere und den Mythos von Bruce Lee",
-    "Detaillierte Hintergrundgeschichte der US-Firma Datasoft und ihres Gründers Patrick Ketchum",
-    "Datasofts Geschäftsmodell basierte stark auf Arcade-Umsetzungen und bekannten Lizenzen",
-    "Finanzielle Probleme und Fehleinschätzungen führten schließlich zur Pleite von Datasoft",
-    "Bis heute existieren verschiedene Fan-Projekte und Homebrew-Fortsetzungen des Spiels"
+    "Das Spiel Bruce Lee erschien 1984 für Atari 8-Bit und C64 und wurde später auf zahlreiche Plattformen portiert.",
+    "Die Steuerung kombiniert geschicktes Timing, Bewegungselemente und einfache Nahkampf-Moves wie den charakteristischen Sprungtritt.",
+    "Ein ungewöhnliches Feature ist der optionale Mehrspielermodus, bei dem ein Spieler die Kontrolle über einen der computergesteuerten Gegner übernimmt.",
+    "Die Rahmenhandlung aus dem Handbuch schickt Bruce Lee auf Diebestour in das Schloss eines Zauberers, wobei das eigentliche Spiel durch konsequente Raumnavigation überzeugt.",
+    "Die Firma Datasoft wurde 1980 gegründet, expandierte stark unter Patrick Ketchum und setzte früh auf bekannte Arcade- und Medienlizenzen.",
+    "Nach finanziellen Problemen und dem Einstieg sowie Ausstieg von Gillette ging Datasoft in den Konkurs und die Markenrechte wurden weiterverkauft.",
+    "Die Entwickler Ron Fortier und Kelly Day schufen mit begrenzten Hardware-Ressourcen der Atari- und C64-Systeme eine technisch beachtliche und flüssige Umsetzung.",
+    "Bis heute lebt das Spiel in Form von Fan-Projekten, Homebrew-Fortsetzungen und einer aktiven Community weiter."
   ],
   "kapitel": [
     {
@@ -317,11 +317,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:46:32+00:00",
+    "am": "2026-08-21T11:49:11+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

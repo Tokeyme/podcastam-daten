@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Eine ausführliche Retrospektive auf das epochale Rollenspiel The Elder Scrolls III…",
-  "kurzfassung": "Die Hosts beleuchten detailliert das 2002 erschienene Rollenspiel Morrowind und dessen Platz in der Elder Scrolls-Reihe. Sie diskutieren die mechanische Tiefe, die markante fremdartige Spielwelt und die schwierige Entstehungsgeschichte bei Bethesda. Dabei wird analysiert, wie das Spiel trotz technischer Mängel und mangelnder Inszenierung ein einzigartiges Gefühl von Freiheit und Selbstwirksamkeit erzeugt.",
+  "einzeiler": "Rückblick auf The Elder Scrolls III: Morrowind und dessen Bedeutung für die Serie.",
+  "kurzfassung": "The Elder Scrolls: Morrowind gilt als faszinierendes Brückenspiel zwischen den radikalen Systemen des Vorgängers Daggerfall und den zugänglicheren Nachfolgern. Die Hosts beleuchten die einzigartige, handgebaute Vulkanwelt von Vvardenfell, die Mechaniken sowie die turbulente Entwicklungsgeschichte bei Bethesda. Dabei wird sowohl die enorme erzählerische und spielerische Freiheit als auch die spürbare Sperrigkeit des Klassikers aus dem Jahr 2002 analysiert.",
   "stichpunkte": [
-    "Morrowind gilt als das wegweisende Brückenspiel zwischen den rohen, prozedural generierten Systemen von Daggerfall und den zugänglicheren Nachfolgern.",
-    "Im Gegensatz zum mitteleuropäischen Fantasy-Einheitsbrei bietet Vardenfell eine bizarre, eigenständige Welt mit Vulkanen, Riesenpilzen und Knochenarchitektur.",
-    "Das klassenlose Charaktersystem und das 'Learning-by-Doing'-Prinzip belohnen jegliche Aktivität, verlangen Spielern jedoch Geduld ab.",
-    "Das Spiel verzichtet konsequent auf moderne Annehmlichkeiten wie Schnellreise zu beliebigen Punkten oder Questmarkierungen.",
-    "Das Text- und Dialogsystem ist stark veraltet und entkoppelt erzählerische Wendungen von der eigentlichen 3D-Spielwelt.",
-    "Die Entwicklung war von extremem Zeitdruck, kleinen Teams und dem Beinahe-Ruin von Bethesda Softworks überschattet.",
-    "Der finanzielle und kritische Erfolg, inklusive der wichtigen Xbox-Portierung, rettete das Studio und begründete den heutigen Erfolg der Bethesda Game Studios.",
-    "Morrowind wird als radikales 'Trotzdem-Spiel' gewürdigt, das dem Spieler totale Freiheit lässt, sich das Spielerlebnis im Guten wie im Schlechten selbst zu erarbeiten."
+    "Morrowind als Brückenspiel zwischen Daggerfall und modernen Teilen der Serie",
+    "Gegensatz zwischen dem erzählenden Ansatz von Spielen wie Gothic und dem systemischen Ansatz von Bethesda",
+    "Die handgebaute, bizarre Spielwelt auf der Vulkaninsel Vvardenfell mit ihrer alienartigen Architektur",
+    "Charaktererstellung, klassenloses Skillsystem und das Prinzip des 'Learning by Doing'",
+    "Verzicht auf Questmarker und automatisierte Schnellreisen zugunsten diegetischer Navigation",
+    "Schwächen in der Inszenierung, starre NPCs und unzureichende Einbindung von Textdialogen",
+    "Entstehungsgeschichte: Wie Morrowind das Studio Bethesda nach finanziellen Flops vor der Pleite rettete",
+    "Die erfolgreiche Portierung auf die Xbox als Meilenstein für westliche Rollenspiele auf Konsolen"
   ],
   "kapitel": [
     {
@@ -445,11 +445,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:23+00:00",
+    "am": "2026-08-21T12:01:23+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

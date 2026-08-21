@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Gunnar Lott, Christian Schmidt und Fabian Käufer quizzen über Alkohol in Spielen.",
-  "kurzfassung": "In dieser Quizrunde stellen sich Gunnar Lott, Christian Schmidt und Fabian Käufer Hörerfragen rund um das Thema Rauschmittel und Alkohol in Videospielen. Die Bandbreite reicht von Werbespielen und LucasArts-Klassikern über Rollenspiele bis hin zu Kuriosem auf verschiedenen Konsolen. Am Ende entscheidet eine knappe Trivial-Pursuit-Runde über den Gesamtsieg.",
+  "einzeiler": "Gunnar Lott, Christian Schmidt und Fabian Käufer stellen sich einem alkoholischen Quiz.",
+  "kurzfassung": "In dieser Quiz-Ausgabe dreht sich alles um Rauschmittel in Videospielen. Die drei Podcaster Gunnar Lott, Christian Schmidt und Fabian Käufer stellen sich kniffligen Fragen zu Klassikern wie Monkey Island, Conker's Bad Fur Day und Fallout. Am Ende sichert sich Gunnar Lott den Sieg in einer unterhaltsamen Runde.",
   "stichpunkte": [
-    "Das Schwerpunktthema der Quizrunde dreht sich um Alkohol und Rauschmittel in Videospielen, basierend auf Einsendungen der Community.",
-    "Im ersten Block stehen Arcade-Klassiker wie Tapper, Werbespiele wie das Oettinger Bierspiel sowie das Gewicht verschiedener PC-Spielepackungen im Fokus.",
-    "Der zweite Themenblock widmet sich LucasArts-Adventures, darunter Grim Fandango und diverse Grog-Variationen aus Monkey Island.",
-    "Im Konsolen-Block geht es unter anderem um Conker's Bad Fur Day, angebliche Drogenreferenzen in Yoshi's Island und Modulgewichte.",
-    "Der Rollenspielblock behandelt Quests und Rauschmittel in Titeln wie Oblivion, Disco Elysium, Ultima 7 und Wizardry 8.",
-    "Weitere Fragen thematisieren Anpassungen beim Braufest in World of Warcraft, Drogen in Fallout sowie Getränke in der Anno-Reihe.",
-    "Im finalen Trivial-Pursuit-Stechen scheitern alle Kandidaten an ihren Unterhaltungsfragen, wodurch Gunnar Lott knapp gewinnt."
+    "Thematischer Schwerpunkt: Rauschmittel und Alkohol in Videospielen.",
+    "Quiz-Regeln: Sechs Blöcke mit je fünf Fragen, Wechseljoker bei Punkterückstand.",
+    "Fragen zu Arcade-Klassikern wie Tapper und Werbespielen wie dem Oettinger Bierspiel.",
+    "Diskussion über die leichteste Spieleverpackung (Moorhuhnjagd vs. Falcon 4.0).",
+    "Rätsel zu LucasArts-Adventures wie Monkey Island und Grim Fandango.",
+    "Konsolen-Block mit Conker's Bad Fur Day und Illusion of Time.",
+    "Rollenspiel-Fragen zu Titeln wie The Witcher, Disco Elysium und Ultima 7.",
+    "Abschluss mit einer Trivial-Pursuit-Runde und der Verlosung einer Borderlands-Edition von Ballantines Whisky."
   ],
   "kapitel": [
     {
@@ -280,11 +281,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:55+00:00",
+    "am": "2026-08-21T11:50:10+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

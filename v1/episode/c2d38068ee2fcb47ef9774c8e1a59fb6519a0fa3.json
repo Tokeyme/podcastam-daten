@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Der SNES-Kultklassiker Earthbound verbindet konventionelle JRPGs mit schräger US-Satire.",
-  "kurzfassung": "Earthbound ist ein 1994 erschienenes Super-Nintendo-Rollenspiel, das im Westen als Kultklassiker gilt. Der Titel stammt federführend von dem japanischen Autor und Werbeprofi Shigesato Itoi. Spielerisch weitgehend konventionell gehalten, zeichnet sich das Spiel vor allem durch seine skurrile Tonalität und sein US-Gegenwartsszenario aus.",
+  "einzeiler": "Rückblick auf den SNES-Kultklassiker Earthbound und seine Entstehungsgeschichte in Japan.",
+  "kurzfassung": "Earthbound ist ein 1994 erschienenes Super-Nintendo-Rollenspiel, das trotz konventioneller Spielmechaniken durch sein skurriles Gegenwartsszenario, surreale Gegner und eine einzigartige Tonalität zu einem Kultklassiker wurde. Die Hosts besprechen die spielerischen Eigenheiten, die unkonventionelle Ästhetik sowie die Entstehungsgeschichte rund um den japanischen Werbeprofi Shigesato Itoi. Trotz anfänglicher kommerzieller Misserfolge im Westen wird das Spiel heute für seine kreative und eigenwillige Atmosphäre geschätzt.",
   "stichpunkte": [
-    "Entwickelt von Shigesato Itoi gemeinsam mit den Studios HAL Laboratories und Ape Inc.",
-    "Basiert auf dem in Japan als Mother 2 erschienenen Rollenspiel",
-    "Spielt in einer alternativen Version des Amerika der 90er-Jahre mit vier kindlichen Protagonisten",
-    "Erfordert das Sammeln von acht Melodien, um die außerirdische Bedrohung Giygas zu besiegen",
-    "Nutzt alltägliche Echtzeit-Mechaniken wie Geldautomaten, Telefone und Hotels",
-    "Fiel beim Erscheinen im Westen durch hohe Preise und ungewohnte Big-Boxen im Verkauf auf",
-    "Besitzt ein rundenbasiertes Kampfsystem mit psychedelischen Hintergründen und rückwärts laufenden Schadenszählern"
+    "Das Spiel ist 1994 in Japan und 1995 in den USA unter dem Namen Earthbound (in Japan Mother 2) erschienen, wurde in Europa jedoch erst viel später veröffentlicht.",
+    "Die Spielmechanik ist weitgehend konventionell und stark von Dragon Quest inspiriert, wobei das rundenbasierte Kampfsystem durch eher anspruchslose Standardkämpfe auffällt.",
+    "Das Setting bricht mit klassischen Fantasy-JRPGs, da es in einer alternativen US-Gegenwart der 90er Jahre spielt und Alltagsmechaniken wie Geldautomaten, Telefone und Hotels nutzt.",
+    "Geprägt ist das Spiel durch eine Fülle an Skurrilitäten, absurden Situationen und surrealen Gegnern wie lebenden Kaffeetassen oder kotzenden Monsterhaufen.",
+    "Die vierköpfige Kinderparty besteht aus Ness, Paula, Jeff und Pooh, die im Laufe der linearen Handlung acht magische Melodien sammeln müssen, um das Alien Giygas zu besiegen.",
+    "Die Entwicklung wurde vom japanischen Copywriter und Medienstar Shigesato Itoi geleitet, der das Projekt als spielgewordenes Spielberg-Szenario konzipierte.",
+    "Nach jahrelanger und schwieriger Entwicklung, die unter anderem durch Satoru Iwata von HAL Laboratories gerettet wurde, floppte das Spiel in den USA zunächst als teure Big-Box-Veröffentlichung.",
+    "Im Nachhinein avancierte Earthbound vor allem in den 2000er Jahren zu einem gefeierten Kultklassiker mit einer treuen Fangemeinde."
   ],
   "kapitel": [
     {
@@ -380,11 +381,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:24+00:00",
+    "am": "2026-08-21T11:54:12+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,25 +17,26 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Gewalt im Fußball: Wenn Fankultur in Schlägereien umschlägt",
-  "kurzfassung": "Nach einer brutalen Schlägerei in einer S-Bahn nach einem Fußballspiel in Berlin untersucht der Zeit-Chefreporter Stefan Willeke die Gewaltbereitschaft in Fankurven. Dabei zeigt sich eine ambivalente Mischung aus sozialem Engagement und rücksichtsloser Aggression bei organisierten Ultras. Die Recherche beleuchtet die Rolle der Vereine, die Dynamik von Gruppen und Parallelen zur zunehmenden Enthemmung in der gesamten Gesellschaft.",
+  "einzeiler": "Ein Familienausflug endet in einer brutalen Prügelei in einer S-Bahn nach einem…",
+  "kurzfassung": "Nach einem Fußballspiel in Berlin geraten Fans in einer S-Bahn in eine brutale Schlägerei, bei der auch Frauen ins Gesicht geschlagen werden. ZEIT-Chefreporter Stefan Willeke nimmt diesen persönlichen Vorfall zum Anlass, über die gewaltbereiten Strukturen innerhalb der Ultraszene zu recherchieren. Dabei zeigt sich eine widersprüchliche Mischung aus sozialem Engagement und organisierter Gewalt, die oft von der Öffentlichkeit und den Vereinen hingenommen wird.",
   "stichpunkte": [
-    "Ein privater Familienausflug zum Auswärtsspiel des FC Schalke in Berlin endet in einer brutalen S-Bahn-Prügelei zwischen Fans.",
-    "Der weit überwiegende Teil der Ultras ist friedlich, doch eine kleine Gruppe ist hochgradig gewaltbereit und sucht gezielt Auseinandersetzungen.",
-    "Die gewaltbereiten Fans zeichnen sich durch strikte Disziplin und absolute Loyalität zum Verein aus, stehen aber im Kontrast zu ihrem sozialen Engagement.",
-    "Statistiken der Zentralen Informationsstelle Sporteinsätze verdeutlichen die enorme Belastung für die Polizei durch den Profifußball.",
-    "Historische Vergleiche wie der Angriff auf den französischen Polizisten Daniel Nivel 1998 zeigen die Kontinuität organisierter Hooligan-Gewalt.",
-    "Viele Vereine tun sich schwer mit harten Stadionverboten, da die Ultras als akustische und optische Träger der Fankurve großen Einfluss besitzen.",
-    "Die Aggression im Fußball steht stellvertretend für eine breitere gesellschaftliche Enthemmung und Verrohung im öffentlichen Raum."
+    "Ein Familienausflug nach einem Schalke-Spiel in Berlin endet für ZEIT-Chefreporter Stefan Willeke und seine Kinder in einer gewalttätigen S-Bahn-Auseinandersetzung.",
+    "Unbeteiligte Fans und Frauen werden vor den Augen der Passagiere mitvölliger Wucht ins Gesicht geschlagen, während die Polizei erst nach dem Ziehen der Notbremse eingreift.",
+    "Willekes Recherche widmet sich der Frage, wie sich die gewaltbereiten Teile der Ultraszene zusammensetzen, die trotz bürgerlicher Berufe eine hohe Gewaltbereitschaft zeigen.",
+    "Statistiken der Zentralen Informationsstelle Sporteinsätze belegen millionenfache Arbeitsstunden der Polizei und tausende Strafverfahren im Umfeld des Fußballs.",
+    "Organisierte Schlägereien zwischen verfeindeten Fangruppen ähneln konspirativen Fight Clubs und finden oft fernab der Stadien statt.",
+    "Historische Fälle wie die Prügelattacke auf den Polizisten Daniel Nivell im Jahr 1998 zeigen, dass sich manche Täter über Jahre hinweg radikalisieren.",
+    "Die Macht der Ultras in den Stadien ist groß, da sie durch Choreografien und Gesänge für die in Europa geschätzte Stimmung sorgen, weshalb Vereine selten hart durchgreifen.",
+    "Die Mehrheit der friedlichen Fans distanziert sich im Stadion kaum hörbar oder sichtbar von den gewalttätigen Minderheiten in den eigenen Reihen."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T06:09:22+00:00",
+    "am": "2026-08-21T11:49:04+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

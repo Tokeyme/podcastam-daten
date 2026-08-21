@@ -17,17 +17,15 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Fabian Käufer, Christian Schmidt und Gunnar Lott messen sich im Videospiel-Quiz.",
-  "kurzfassung": "Im Stay Forever Quiz stellen sich Fabian Käufer, Christian Schmidt und Gunnar Lott kniffligen Fragen rund um klassische Computer- und Videospiele. Neben Schätz- und Multiple-Choice-Fragen präsentieren die Teilnehmer persönliche Sammlerstücke und müssen unter Zeitdruck Spielinhalte aufzählen. Nach einem Punktabzug für Schimpfwörter fällt die Entscheidung über den Gesamtsieg erst im Tiebreaker.",
+  "einzeiler": "Gunnar Lott, Christian Schmidt und Fabian Käufer kämpfen im Nerd-Quiz um die Krone.",
+  "kurzfassung": "Drei Podcaster treten in einer neuen Ausgabe des Stay Forever Quiz an, um ihr umfangreiches Gaming-Wissen unter Beweis zu stellen. Neben kniffligen Fragen zu Spieleklassikern, Soundtracks und Easter Eggs präsentieren die Kandidaten auch persönliche Sammlerstücke. Am Ende entscheidet ein Stechen über den Sieg.",
   "stichpunkte": [
-    "Wissensfragen zu PS2-Starttürmen, Sound-Samples in Worms und Datenträgern früher Abenteuerspiele eröffnen die Runder.",
-    "In einer Zeitrunde scheitert Christian Schmidt daran, Bossgegner aus Mega Man 3 korrekt zu benennen.",
-    "Gunnar Lott sichert sich Extrapunkte durch das Aufzählen diverser Veröffentlichungsplattformen von Ultima 4.",
-    "Die Kandidaten präsentieren kuriose Gegenstände aus ihrem Besitz, darunter Scripture Chess und ein von Shigeru Miyamoto signiertes Spiel.",
-    "Weitere Fragen behandeln Charakterzählungen in Gothic 1, Namensanagramme in Yoshi's Island sowie kuriose Doom-Portierungen.",
-    "Fragen der Down-to-the-Detail-Podcaster zu Gabriel Knight 2 und Blair Witch fordern das Detailwissen der Teilnehmer.",
-    "Aufgrund von Punktabzügen für Schimpfwörter kommt es zum Gleichstand zwischen Gunnar Lott und Fabian Käufer.",
-    "Gunnar Lott gewinnt das Quiz im Stechen über Inventargegenstände aus Monkey Island 2."
+    "Drei Kandidaten treten im Stay Forever Quiz an: Fabian aus Hamburg, Christian aus Nürnberg und Gunnar aus Karlsruhe.",
+    "Fragen zu Hardware und Klassikern decken unter anderem Details zur PS2, zu Anstoß 2 und zu den Spieljahren von Handelssimulationen auf.",
+    "Ein spaßiger Rückblick beleuchtet skurrile Details wie die Keks-Datei in Anstoß 2 und die Simpsons-Samples im ersten Worms.",
+    "Die Teilnehmer stellen jeweils einen besonderen Gegenstand vor, darunter ein christliches Schachspiel, eine signierte Mario-Collection und ein Todeswürfel.",
+    "In Schnellraterunden müssen Bossgegner aus Mega Man 3 und Systeme für Ultima 4 genannt werden.",
+    "Das Finale bringt Fragen zu Gothic, Doom-Portierungen und Monkey Island, bevor ein Stechen über den Sieg entscheidet."
   ],
   "kapitel": [
     {
@@ -193,11 +191,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:45:21+00:00",
+    "am": "2026-08-21T11:49:57+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,16 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte und Bedeutung des Kult-Fußballspiels Sensible Soccer.",
-  "kurzfassung": "Der Podcast beleuchtet die Entstehungsgeschichte von Sensible Soccer und seines Entwicklers Sensible Software in den 1980er und 1990er Jahren. Dabei werden die Einflüsse von Vorbildern wie Techan World Cup und MicroProse Soccer sowie die technischen und spielerischen Besonderheiten analysiert. Schließlich wird erörtert, warum das Spiel trotz seiner minimalistischen Optik als revolutionäre Fußballsimulation gilt.",
+  "einzeiler": "Die Entstehungsgeschichte des Kultspiels Sensible Soccer und der Weg von Sensible Software",
+  "kurzfassung": "Der Podcast beleuchtet die Entstehungsgeschichte des legendären Fußballspiels Sensible Soccer aus dem Jahr 1992. Dabei wird die Historie des Entwicklerstudios Sensible Software von den Anfängen bis zu den Nachfolgern nachgezeichnet. Zudem analysieren die Hosts die Spielmechanik, die Taktik und den Einfluss des Titels im Vergleich zur damaligen Konkurrenz.",
   "stichpunkte": [
-    "Gründung von Sensible Software durch Jon Hare und Chris Yates nach unfairen Bedingungen bei frühen Aufträgen.",
-    "Erste Erfolge mit C64-Spielen wie Parallax und Whizball sowie die enge Zusammenarbeit mit Musiklegende Martin Galway.",
-    "Finanzielle Schwierigkeiten nach der Pleite des Publishers Mirrorsoft, die durch den Konkurs des Chefs Robert Maxwell ausgelöst wurden.",
-    "Durchbruch mit Sensible Soccer (1992) für Amiga und Atari ST als Reaktion auf den Konkurrenten Kick Off 2.",
-    "Verwendung einer neuartigen Perspektive und des 'Fächersystems' zur Simulation von Spieler- und Ballverhalten.",
-    "Bedeutung der authentischen Spielerdatenbank, erstellt in Zusammenarbeit mit dem Experten Mike Hammond.",
-    "Der Aufstieg zu einem der meistverkauften Fußballspiele vor der FIFA-Ära und die Beliebtheit von Sensible World of Soccer (SWOS)."
+    "Vorgeschichte der Entwickler Jon Hare und Chris Yates mit ihrer Band und ersten kleineren Programmierarbeiten",
+    "Gründung von Sensible Software und frühe C64-Hits wie Parallax und Wizball",
+    "Wechsel auf den Amiga und der Erfolg des Götterstrategie-Spiels Megalomania",
+    "Der Konkurs des Publishers Mirrorsoft gefährdet fast die Fertigstellung von Sensible Soccer",
+    "Release von Sensible Soccer im Jahr 1992 und der Aufstieg zu einem der beliebtesten Fußballspiele",
+    "Bedeutung von Sensible World of Soccer und die spätere Weiterentwicklung der Serie",
+    "Vergleich mit dem Konkurrenten Kick Off 2 und Besonderheiten der Spielmechanik sowie der KI"
   ],
   "kapitel": [
     {
@@ -252,11 +252,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:46:57+00:00",
+    "am": "2026-08-21T11:59:54+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

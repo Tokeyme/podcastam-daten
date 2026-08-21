@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die faszinierende Geschichte der Heimcomputer aus der DDR von Robotron und…",
-  "kurzfassung": "Diese Episode beleuchtet die Geschichte der Computertechnik und Heimcomputer in der DDR. Dabei werden die Entwicklungen der Kombinate Robotron und Mikroelektronik sowie die Entstehung der legendären KC-Reihe und deren Spiele beleuchtet. Trotz Mangelwirtschaft und westlicher Embargos entstand so eine lebhafte Szene rund um Rechner wie den KC 85.",
+  "einzeiler": "Die Geschichte der DDR-Heimcomputer zwischen Mangelwirtschaft und technischem…",
+  "kurzfassung": "Trotz schwieriger Bedingungen und Embargos entwickelte die DDR eine eigene Computerindustrie. Heimcomputer wie die KC-Reihe dienten dabei primär als Bildungsinstrumente in staatlichen Einrichtungen statt als Konsumgüter für Privathaushalte. Die Szene prägte eine ganze Generation von Entwicklern, die trotz technischer Rückstände eine lebhafte Spielkultur schufen.",
   "stichpunkte": [
-    "Zitat von Erich Honecker über Ochs und Esel im Zusammenhang mit DDR-Prozessoren",
-    "Historischer Kontext: Planwirtschaft, COCOM-Embargo und der Mangel an westlicher Halbleitertechnik",
-    "Frühe Computerprojekte und die Gründung der Kombinate Robotron in Dresden und Mikroelektronik in Erfurt",
-    "Honeckers Konsumgüterquote zwingt Industriebetriebe und Halbleiterwerke zum Bau von Heimcomputern",
-    "Entwicklung der Eigenbauten und der KC-Reihe (Kleinkomputer) als Bildungs- und Arbeitsmittel statt für den freien Handel",
-    "Die Rolle von Software, Hobbyentwicklern und Spielen wie Pengo, Digger oder Mad Breaking",
-    "Verbreitung von West-Computern wie C64 und Atari sowie der Zugang über Computerclubs und Computerkabinette",
-    "Späte Prestigeprojekte wie der Megabit-Chip und das Ende der DDR-Computerindustrie nach der Wende 1989"
+    "Die DDR-Computerindustrie war eng mit der staatlichen Planwirtschaft und Kombinaten wie Robotron verknüpft.",
+    "Westliche Embargos (COCOM) zwangen die DDR zur Eigenentwicklung und zum Klonen westlicher Hardware.",
+    "Die Konsumgüterquote zwang Betriebe zur Herstellung von Heimcomputern, die jedoch kaum den freien Handel erreichten.",
+    "Die KC-Reihe aus Mühlhausen entwickelte sich zur wichtigsten Spieleplattform der DDR.",
+    "Der KC-Kompakt war ein später Klon des Schneider CPC, der jedoch durch die Wende keine Rolle mehr spielte.",
+    "Spieleentwicklung war in der DDR eine reine Hobby-Szene ohne kommerzielle Interessen oder Urheberrechtsschutz.",
+    "Computerkabinette und Jugendclubs ermöglichten einen breiten, öffentlichen Zugang zur Technik.",
+    "Prestigeprojekte wie der Megabit-Speicherchip konnten trotz Milliardeninvestitionen nicht mit dem Weltmarkt konkurrieren."
   ],
   "kapitel": [
     {
@@ -357,11 +357,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:45:44+00:00",
+    "am": "2026-08-21T11:50:41+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

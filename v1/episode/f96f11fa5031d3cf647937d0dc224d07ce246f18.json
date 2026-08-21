@@ -17,17 +17,15 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Eine Reise durch die Geschichte der LAN-Party: Von den Anfängen bis zum Kultphänomen.",
-  "kurzfassung": "Die Folge beleuchtet die Entwicklung des gemeinsamen Spielens im lokalen Netzwerk, von frühen Experimenten in den 70ern bis zur goldenen Ära der LAN-Partys in den 90ern. Dabei werden technische Hürden, die soziale Bedeutung für Jugendliche und die Gründe für den Rückgang dieses Phänomens analysiert. Abschließend wird die LAN-Party als prägende Ära gewürdigt, die weit mehr als nur eine Spielform war.",
+  "einzeiler": "Die Geschichte der LAN-Party: Von frühen Netzwerkexperimenten bis zum goldenen Zeitalter.",
+  "kurzfassung": "Diese Episode widmet sich der Geschichte und Kultur von LAN-Partys. Die Hosts beleuchten die technischen Anfänge von vernetzten Computerspielen in den 1970er und 1980er Jahren sowie den Durchbruch durch Standards und Spiele in den 1990ern. Zudem analysieren sie die sozialen Aspekte, typische Probleme beim Aufbau und die Gründe für den Rückgang des Phänomens.",
   "stichpunkte": [
-    "Frühe Multiplayer-Ansätze: Von Teletype-Terminals bis zu Maze War in den 70ern.",
-    "Die technische Evolution: Vom Null-Modem-Kabel über BNC-Netzwerke bis zu Ethernet.",
-    "Der Einfluss von Doom: Wie id Software 1993 den LAN-Boom auslöste.",
-    "Herausforderungen: Die logistischen und technischen Probleme beim Aufbau privater LANs.",
-    "Soziale Dynamik: Warum LAN-Partys mehr als nur kompetitives Spielen waren.",
-    "Die goldene Ära: Warum die Zeit zwischen 1998 und 2005 den Höhepunkt markierte.",
-    "Das Ende der Ära: Warum Breitband-Internet und Online-Gaming die LAN-Party verdrängten.",
-    "Kulturelles Erbe: Welche Soft-Skills und Freundschaften aus der LAN-Szene hervorgingen."
+    "Frühe Netzwerkspiele wie Tennis for Two, Spasim und Maze War legten den Grundstein.",
+    "Modems, Null-Modem-Kabel und MIDI-Schnittstellen ermöglichten erste Verbindungen zu Hause.",
+    "Doom und Ethernet-Verkabelung lösten in den 1990ern den LAN-Party-Boom aus.",
+    "Typische Herausforderungen umfassten schwere Röhrenmonitore, T-Stücke und unsichtbare Netzwerke.",
+    "Shooter und Echtzeitstrategie dominierten die beliebtesten LAN-Spiele wie Quake 3 Arena.",
+    "Private LAN-Partys dienten neben dem Spielen vor allem als sozialer Raum und Jugendbewegung."
   ],
   "kapitel": [
     {
@@ -221,11 +219,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:38:35+00:00",
+    "am": "2026-08-21T11:57:52+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-3.1-flash-lite",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

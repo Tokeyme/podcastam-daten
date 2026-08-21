@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf Final Fantasy V und sein innovatives Job-System.",
-  "kurzfassung": "Die Hosts besprechen den Super-NES-Klassiker Final Fantasy V aus dem Jahr 1992, der trotz seines enormen Erfolgs damals nicht im Westen erschien. Im Mittelpunkt stehen das komplexe Job-System, das taktische Kampfsystem und die Erzählstruktur des Spiels. Dabei beleuchten sie sowohl die Stärken der mechanischen Vielfalt als auch den teils frustrierenden Schwierigkeitsgrad und das konventionelle Ende.",
+  "einzeiler": "Rückblick auf Final Fantasy V, den oft übersehenen 16-Bit-Klassiker mit dem Jobsystem.",
+  "kurzfassung": "Final Fantasy V erschien 1989 für das Super NES und gilt als Außenseiter der Reihe, der damals nicht in den Westen kam. Im Zentrum des Spiels steht ein flexibles Jobsystem, das den Charakteren verschiedene Berufe und Fähigkeiten zuweist. Trotz einer eher simplen Geschichte um Elementarkristalle und den Bösewicht Ex-Death bietet das Spiel taktisch anspruchsvolle Bosskämpfe.",
   "stichpunkte": [
-    "Final Fantasy V erschien Ende 1992 in Japan für das Super NES und kam wegen befürchteter Komplexität zunächst nicht in den Westen.",
-    "Das Kernmerkmal des Spiels ist das flexible Job-System, das den Charakteren klassenunabhängige Berufswechsel ermöglicht.",
-    "Das Active Time Battle System (ATB) sorgt für eine dynamische, taktische Komponente in den rundenbasierten Kämpfen.",
-    "Die Story dreht sich um eine Heldengruppe und die Zerstörung der Elementarkristalle durch den Antagonisten Exdeath.",
-    "Das Spiel fordert die Spielerschaft durch Bosskämpfe als taktische Rätsel heraus, die gezielte Vorbereitung erfordern.",
-    "Im Vergleich zum Vorgänger liegt ein stärkerer Fokus auf Inszenierung und Slapstick-Elementen.",
-    "Der Tod des Charakters Galuf und dessen Ersetzung durch seine Enkelin Krille markieren dramatische Wendepunkte.",
-    "Die Pixel-Remaster-Versionen bieten heute den zugänglichsten Weg, das Spiel auf modernen Plattformen nachzuholen."
+    "Ursprünglich 1992 in Japan für das Super NES erschienen und lange Zeit nicht im Westen veröffentlicht",
+    "Führt das flexible Jobsystem aus Teil 3 mit über 20 Berufen und individuellen Kostümen fort",
+    "Verwendet das Active Time Battle System (ATB) für rundenbasierte Echtzeitkämpfe",
+    "Handlung dreht sich um vier Helden, die vier Elementarkristalle vor der Zerstörung durch Ex-Death bewahren müssen",
+    "Hoher strategischer Anspruch durch komplexe Bosskämpfe, die spezifische Ausrüstung und Jobkombinationen erfordern",
+    "Geprägt von Nobuo Uematsues umfangreichem Soundtrack mit über 50 Musikstücken",
+    "Erhielt erst Jahre später westliche Veröffentlichungen, unter anderem als moderne Pixel Remaster"
   ],
   "kapitel": [
     {
@@ -341,11 +340,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:49+00:00",
+    "am": "2026-08-21T11:55:32+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

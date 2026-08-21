@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte und das Gameplay des PlayStation-Klassikers Kingsfield von From…",
-  "kurzfassung": "Der Podcast beleuchtet die Entstehungsgeschichte des ersten von From Software veröffentlichten Spiels Kingsfield für die PlayStation und ordnet es als Keimzelle der späteren Souls-Reihe ein. Dabei analysieren die Hosts die schwierigen Entwicklungsbedingungen unter starkem Zeitdruck, die technischen Besonderheiten sowie das kompromisslose Gameplay rund um Echtzeitkämpfe und Ressourcenmanagement. Abschließend wird die Rezeption der Spieleserie betrachtet und der Bogen zu modernen Hits wie Dark Souls und Elden Ring gespannt.",
+  "einzeiler": "Die Entstehungsgeschichte des ersten From-Software-Spiels Kingsfield und seine Wurzeln.",
+  "kurzfassung": "Kingsfield gilt als die Keimzelle des späteren Souls-Erfolgs von From Software und erschien 1994 für die PlayStation. Das Action-Rollenspiel aus der Ego-Perspektive verlangt Spielern mit langsamen Kämpfen, knappen Ressourcen und einer verwirrenden Spielwelt einiges ab. Trotz technischer Einschränkungen und hoher Frustration prägte das Spiel viele Designelemente der späteren Hits des Studios.",
   "stichpunkte": [
-    "From Software wurde 1986 nach einem Motorradunfall als Business-Software-Entwickler gegründet.",
-    "Nachdem die japanische Wirtschaftsblase platzt, wechselt das Studio ins Spielesegment und scheitert zunächst am ambitionierten Projekt ZAMS-K3.",
-    "Mit der Ankündigung der PlayStation wendet sich das Studio der neuen Konsole zu und entwickelt innerhalb von nur knapp neun Monaten das 3D-Rollenspiel Kingsfield.",
-    "Kingsfield erscheint im Dezember 1994, kurz nach dem PlayStation-Launch in Japan, und setzt auf eine EGA-Perspektive ohne Ladezeiten.",
-    "Das Spiel zeichnet sich durch einen harten, taktischen Schwierigkeitsgrad, ein langsames Kampfsystem und den Verzicht auf Quests oder Tutorials aus.",
-    "Ein zentrales und zugleich restriktives Element der Exploration sind die sogenannten Rombus-Keys, die Türen hinter dem Spieler verschließen.",
-    "Das Spiel wird in Japan ein Überraschungserfolg, während westliche Fassungen (im Westen als Teil 1 veröffentlicht, in Japan Teil 2) stark verzögert erscheinen.",
-    "Die Reihe wird über die Jahre fortgeführt, bevor From Software nach einer längeren Phase mit wechselnden Projekten 2009 mit Demon's Souls den endgültigen Durchbruch feiert."
+    "From Software startete 1986 als Entwickler von Unternehmens- und Agrarsoftware.",
+    "Nachdem ein früher 3D-Prototyp scheiterte, nutzte das Studio die neue PlayStation von Sony für den Richtungswechsel zu Spielen.",
+    "Kingsfield erschien im Dezember 1994 kurz nach dem Konsolenstart in Japan als reines 3D-Polygon-Spiel.",
+    "Die im Westen als Kingsfield veröffentlichte Version entspricht inhaltlich dem japanischen zweiten Teil der Reihe.",
+    "Das Spiel verzichtet auf Ladebildschirme, setzt aber auf eine düstere Atmosphäre mit stark eingeschränkter Sichtweite und Nebel.",
+    "Das langsame Kampfsystem erfordert präzises Timing, Ausdauermanagement und taktischen Rückzug.",
+    "Ein herausforderndes Inventar- und Schlüsselmanagement (wie die Rombus-Keys) erschwert die Erkundung und kann zu Sackgassen führen.",
+    "Die Reihe erwies sich als wirtschaftliches Fundament, bereitete den Weg für spätere Erfolge wie Demon's Souls und Dark Souls."
   ],
   "kapitel": [
     {
@@ -361,11 +361,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:38:45+00:00",
+    "am": "2026-08-21T11:56:45+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

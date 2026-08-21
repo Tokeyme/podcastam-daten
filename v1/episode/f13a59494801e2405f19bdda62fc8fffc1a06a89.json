@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Super Stay Forever beleuchtet den NES-Klassiker Kid Icarus aus dem Jahr 1986.",
-  "kurzfassung": "Die Hosts besprechen das 1986 veröffentlichte NES-Spiel Kid Icarus und dessen Mischung aus Jump'n'Run, Shooter und Rollenspiel. Sie beleuchten die stressige Entwicklungsgeschichte unter Game-Designer Toru Osawa sowie die Mechaniken und den berüchtigten Schwierigkeitsgrad. Zudem werden Nachfolger, Portierungen und der anhaltende Status der Reihe im Nintendo-Universum beleuchtet.",
+  "einzeiler": "Der NES-Klassiker Kid Icarus zwischen griechischer Mythologie, Innovation und Frust",
+  "kurzfassung": "Kid Icarus ist ein ambitionierter Nintendo-Klassiker aus dem Jahr 1986, der Jump'n'Run-, Shooter- und Rollenspielelemente verbindet. Trotz faszinierender Spielmechaniken gilt das NES-Spiel bis heute wegen seines hohen Schwierigkeitsgrades und unfairen Passagen als anstrengend. Die Hosts beleuchten die Entstehungsgeschichte, den schwierigen Nachfolger und die Einordnung der Marke.",
   "stichpunkte": [
-    "Kid Icarus erschien 1986 in Japan für das Famicom Disk System und im Folgejahr im Westen für das NES.",
-    "Das Spiel von Entwicklerabteilung R&D 1 kombiniert Plattformer-Elemente, Shooter-Sequenzen und Rollenspiel-Mechaniken.",
-    "Der junge Engel Pit muss in einer griechisch inspirierten Mythologie-Welt drei heilige Schätze finden und Göttin Palutena retten.",
-    "Die Entwicklung unter Toru Osawa war von starkem Zeitdruck und Crunch geprägt.",
-    "Das Spiel ist berüchtigt für seinen extremen Schwierigkeitsgrad und unbarmherzige Gegner wie Auberginen-Zauberer und Sensenmänner.",
-    "Da das Famicom Disk System im Westen nicht erschien, wurde das Speichersystem durch ein komplexes Passwortverfahren ersetzt.",
-    "Im Spielverlauf wächst Pit in seiner Stärke und seinen Attributen, was die späteren Level spürbar erleichtert.",
-    "Mit Kid Icarus Uprising erhielt die Reihe 2012 einen modernen 3DS-Ableger, blieb insgesamt jedoch eher eine Nischenmarke von Nintendo."
+    "Kid Icarus erschien Ende 1986 in Japan für das Famicom Disk System und im darauffolgenden Jahr im Westen auf NES-Modulen.",
+    "Das Spiel mixt Elemente aus Jump'n'Runs, Shootern und Rollenspielen und setzt auf eine anspruchsvolle Progression des Helden Pit.",
+    "Die Entwicklung unter Game-Designer Toru Osawa war von extremem Zeitdruck und Crunch geprägt.",
+    "Wegen fehlender Speicherbatterien in der westlichen Version nutzt das Spiel ein komplexes 24-stellige Passwörter-System.",
+    "Der Schwierigkeitsgrad ist insbesondere in den vertikalen Kletterpassagen der Unterwelt extrem hoch und fehlerverzeihend.",
+    "Ab Welt zwei wandelt sich das Spiel zum horizontalen Platformer, was das Durchkommen spürbar erleichtert.",
+    "Die finale vierte Welt wechselt komplett das Genre und lässt den Helden als Horizontalshooter fliegen.",
+    "Die Reihe blieb im Vergleich zu Zelda oder Metroid eine zweite Reihe bei Nintendo und erhielt über die Jahrzehnte nur wenige Fortsetzungen."
   ],
   "kapitel": [
     {
@@ -337,11 +337,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:32+00:00",
+    "am": "2026-08-21T11:56:42+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

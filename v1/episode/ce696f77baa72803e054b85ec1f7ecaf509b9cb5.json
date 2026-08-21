@@ -17,18 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Der TI-99/4A und sein steiniger Weg im Schatten von Commodore und Atari.",
-  "kurzfassung": "Der Heimcomputer TI-99/4A von Texas Instruments kämpfte nach seiner Markteinführung mit hohen Preisen und mangelnder Software. Trotz später Preissenkungen und starker Verkaufszahlen führten ruinöse Preiskriege und interne Fehler zum Ausstieg von TI aus dem Computermarkt. Dennoch überlebten einige technische Komponenten wie Grafik- und Soundchips in anderen Systemen.",
+  "einzeiler": "Die Geschichte des TI-99/4A von Texas Instruments und sein Scheitern im…",
+  "kurzfassung": "Texas Instruments bringt mit dem TI-99/4A einen technisch fortgeschrittenen Heimcomputer auf den Markt, der jedoch unter einem hohen Preis und mangelnder Software leidet. Ein ruinöser Preiskrieg mit Commodore und interne Fehlentscheidungen führen schließlich zu massiven Verlusten und dem Ausstieg aus dem Computermarkt. Dennoch überleben viele Bauteile und prägen andere Systeme der Epoche.",
   "stichpunkte": [
-    "Hoher Startpreis und unklarer Nutzen des TI-99/4A schränkten den Erfolg zu Beginn ein.",
-    "Die Presse lobte die einfache Bedienung und das Sprachmodul, kritisierte jedoch die Tastatur und das eigenwillige Basic.",
-    "Eine überarbeitete Version (TI-99/4A) senkte den Preis, ließ aber die Kernprobleme des teuren Prozessors ungelöst.",
-    "Commodore startete einen harten Preiskrieg mit dem VC-20, woraufhin TI die Preise bis auf 100 Dollar senkte.",
-    "Eine restriktive Softwarepolitik mit Monopol auf Steckmodule schloss Drittentwickler lange Zeit aus.",
-    "Trotz starker Verkaufszahlen und zeitweiliger Marktführerschaft machte die Heim-Elektronik-Sparte massive Verluste.",
-    "Sicherheitsmängel an Netzteilen und eine drohende FCC-Problematik belasteten das Geschäft zusätzlich.",
-    "1983 zog sich Texas Instruments nach hundert Millionen Dollar Verlust offiziell aus dem Heimcomputermarkt zurück.",
-    "Die verbauten Grafik- und Soundchips hinterließen in anderen Systemen wie dem MSX oder dem Sega Master System ein bleibendes Erbe."
+    "Hohe Erwartungen und positive Presse zum Start des TI-99/4A aufgrund des Rufs von Texas Instruments.",
+    "Hoher Preis und unklarer Nutzen des Geräts schrecken die Kundschaft zunächst ab.",
+    "Der Nachfolger TI-99/4A bringt eine Schreibmaschinentastatur und einen günstigeren Einstiegspreis ohne Monitor.",
+    "Commodore startet einen aggressiven Preiskrieg, bei dem TI jeden Preissenkungsschritt mitgeht.",
+    "Eine restriktive Softwarepolitik mit strenger Kontrolle über Steckmodule hemmt die Entwicklung eines blühenden Softwaremarkts.",
+    "Trotz stark steigender Absatzzahlen nach massiven Preissenkungen auf unter 100 Dollar macht TI hunderte Millionen Dollar Verlust.",
+    "Sicherheitsmängel beim Netzteil und fehlerhafte Nachfolgemodelle belasten den Ruf zusätzlich.",
+    "Im Oktober 1983 kündigt Texas Instruments den Rückzug aus dem Heimcomputermarkt an und verramscht die Restbestände.",
+    "Die entwickelten Chips wie der TMS-Grafikchip und der Soundchip überleben und prägen zahlreiche andere Systeme."
   ],
   "kapitel": [
     {
@@ -226,11 +226,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:36:46+00:00",
+    "am": "2026-08-21T12:01:42+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

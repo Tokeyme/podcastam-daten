@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte, Technik und Faszination des SNES-Klassikers F-Zero",
-  "kurzfassung": "Das Nintendo-Entwicklerteam um Shigeru Miyamoto schuf mit dem SNES-Launch-Titel F-Zero ein pfeilschnelles futuristisches Rennspiel. Mithilfe der Mode-7-Grafiktechnik bot der Titel eine für die 16-Bit-Ära beeindruckende 3D-Illusion und 60 Bilder pro Sekunde. Trotz fehlendem Mehrspielermodus begründete das Spiel eine langlebige Reihe und diente als direkter Vorläufer von Super Mario Kart.",
+  "einzeiler": "Wie das SNES-Launch-Spiel F-Zero die Grenzen der Technik sprengte.",
+  "kurzfassung": "F-Zero erschien 1990 als technischer Launch-Titel für das Super Nintendo und revolutionierte mit der Mode-7-Grafik das Rennspiel-Genre. Das futuristische Gleiter-Rennen setzte statt auf Waffen auf pure Geschwindigkeit, präzise Steuerung und ein hohes Tempo von 60 Bildern pro Sekunde. Trotz seines Erfolgs und späterer Fortsetzungen ließ Nintendo die Marke danach lange ruhen.",
   "stichpunkte": [
-    "F-Zero erschien im November 1990 als Launch-Titel des Super Famicom in Japan und im August 1992 in Deutschland.",
-    "Nintendo reagierte mit dem futuristischen Rennspiel auf Segas aggressive Marketingkampagne für das Mega Drive.",
-    "Die technische Basis bildete der Modus-7, der eine rotierbare und skalierbare 2D-Fläche als Rennstrecke darstellte.",
-    "Das Spiel verzichtet auf Reifen und lässt futuristische Gleiter mit Geschwindigkeiten von über 400 km/h schweben.",
-    "Designer Takaya Imamura entwarf die Charaktere und das Universum rund um den Piloten Captain Falcon.",
-    "Aufgrund technischer Grenzen in der Frühphase des SNES musste das Spiel gänzlich auf einen Mehrspielermodus verzichten.",
-    "F-Zero wurde ein großer kommerzieller Erfolg und verkaufte sich weltweit rund 2,85 Millionen Mal.",
-    "Die spielerischen und technischen Erfahrungen flossen direkt in die Entwicklung von Super Mario Kart ein.",
-    "Nach jahrelanger Pause und Ablegern für N64, Game Boy Advance und GameCube erschien 2023 F-Zero 99 für die Switch."
+    "Erschien 1990 in Japan und 1992 in Deutschland als Launch-Titel für das Super Nintendo.",
+    "Nutzt die Mode-7-Hardware des SNES für die Illusion einer skalierten und rotierten 3D-Umgebung.",
+    "Bietet futuristische Gleiter mit Geschwindigkeiten jenseits von 400 km/h anstelle traditioneller Autos.",
+    "Konzentriert sich rein auf fahrerisches Können, Streckenkenntnis und Bestzeiten statt auf Waffen oder Items.",
+    "Besitzt keinen Mehrspieler-Modus, was primär technischen Einschränkungen geschuldet war.",
+    "Enthält 15 Strecken in drei Schwierigkeitsgraden (plus Master-Modus) und speichert Bestzeiten per Batterie.",
+    "Wurde mit rund 2,85 Millionen verkauften Einheiten ein großer kommerzieller Erfolg.",
+    "Diente indirekt als konzeptionelle Basis für das spätere Super Mario Kart."
   ],
   "kapitel": [
     {
@@ -298,11 +297,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:43:03+00:00",
+    "am": "2026-08-21T11:54:55+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

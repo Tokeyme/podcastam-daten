@@ -17,18 +17,19 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Quartalsupdate von Stay Forever: Hörerumfrage, Team-Tagung und geplante Neuerungen.",
-  "kurzfassung": "Stay Forever zieht in diesem Quartalsupdate Bilanz zu einer großen Hörerumfrage mit über 2750 Teilnehmern. Dabei werden diverse Anpassungen bei Formaten wie „Die Welt von“ und „Stay Forever Technik“ sowie neue Prozesse im Team und Merchandise-Bereich vorgestellt. Zudem gibt das Team einen Ausblick auf kommende Conventions und den Start eines Livestreamings.",
+  "einzeiler": "Stay Forever: Einblicke in die Hörerumfrage, Team-Tagung und zukünftige Projektpläne.",
+  "kurzfassung": "Gunnar und Christian reflektieren über die Ergebnisse der großen Hörerumfrage 2025 und die erste interne Team-Tagung in Hannover. Dabei werden Anpassungen an Formaten wie „Die Welt von“ und „Stay Forever Technik“ sowie organisatorische Professionalisierungsschritte erläutert. Zudem geben die Hosts einen Ausblick auf kommende Conventions und die Weiterentwicklung des Unterstützerangebots.",
   "stichpunkte": [
-    "Das Projekt Stay Forever wächst weiter positiv; die Unterstützerzahlen nähern sich der Marke von 7.500, und die Preise bleiben stabil.",
-    "Das Team hielt im März in Hannover seine erste interne Klausurtagung ab, um die Umfrageergebnisse und interne Prozesse zu besprechen.",
-    "Die Hörerumfrage vom Februar 2025 mit 2.750 Teilnehmern zeigt eine sehr hohe Zufriedenheit, einen leichten Anstieg des Höreralters auf 42 Jahre und starke Werte für Smartphone- und Podcatcher-Nutzung.",
-    "Das Format „Die Welt von“ erhält einen Relaunch mit Mayri als fester Co-Host an der Seite von Rahel.",
-    "„Stay Forever Technik“ wird ab Juni in Miniserien aus ein bis anderthalb Stunden langen Teilen aufgeteilt.",
-    "Das Quiz-Format wird wegen hoher Nachfrage um eine zusätzliche Teamvergleichsfolge aufgestockt.",
-    "Der Merchandise-Versand läuft künftig über einen externen Fulfillment-Dienstleister, was Gunnar stark entlastet.",
-    "Stay Forever ist neu in der MA Podcast vertreten und belegt im Februar mit 248.000 validen Downloads Platz 76.",
-    "Die Conventions im Süden (Karlsruhe) und Norden (Hannover) stehen an, wobei für Karlsruhe erstmals ein kostenpflichtiges Livestreaming angeboten wird."
+    "Das Projekt verzeichnet ein stabiles Wachstum bei Unterstützenden und Hörerzahlen.",
+    "Die Preise für Unterstützungsstufen bleiben trotz allgemeiner Inflation unverändert.",
+    "Die erste interne Team-Tagung in Hannover diente der Prozessoptimierung und Strategieentwicklung.",
+    "Die Hörerumfrage zeigt eine hohe Zufriedenheit und bestätigt die Beliebtheit der Kernformate.",
+    "„Die Welt von“ erhält mit Mairi eine neue Stammbesetzung, um das Format zu stärken.",
+    "„Stay Forever Technik“ wird künftig in kürzere, wöchentlich erscheinende Episoden aufgeteilt.",
+    "Das Quiz-Format wird aufgrund hoher Nachfrage um eine Team-Variante erweitert.",
+    "Die Logistik für Merchandise wurde durch einen Fulfillment-Dienstleister professionalisiert.",
+    "Experimente mit neuen Cover-Bildern in Podcatchern sollen die Auffindbarkeit verbessern.",
+    "Die Stay Forever Convention wird 2025 in Karlsruhe und Hannover stattfinden."
   ],
   "kapitel": [
     {
@@ -206,11 +207,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:42:43+00:00",
+    "am": "2026-08-21T12:02:34+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,35 +17,36 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 158 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts"
   },
-  "einzeiler": "Wie Palantirs Software für umstrittene Massenabschiebungen in den USA genutzt wird.",
-  "kurzfassung": "Die Einwanderungsbehörde ICE führt in den USA massenhafte Verhaftungen durch, gestützt auf eine App namens 'Elite' von Palantir. Obwohl CEO Alex Karp sich stets als Gegner von Autokraten inszeniert hat, zeigt die Recherche eine weitreichende Verknüpfung von Bürgerdaten. Ehemalige Mitarbeiter werfen dem Unternehmen deshalb vor, seine eigenen ethischen Ideale verraten zu haben.",
+  "einzeiler": "Wie Palantirs Software bei US-Massenabschiebungen durch die Einwanderungsbehörde ICE…",
+  "kurzfassung": "Die Verhaftung der aus Guatemala stammenden Juanita durch die US-Einwanderungsbehörde ICE in Oregon führt zu einer Sammelklage und bringt die Rolle von Palantir ans Licht. Vor Gericht und durch geleakte Dokumente wird bekannt, dass die von Palantir entwickelte App „Elite“ von ICE als zielgerichtetes Werkzeug für Festnahmen genutzt wird. Dies steht im Widerspruch zum früheren Selbstverständnis von Palantir-Chef Alex Karp, keine autokratischen Systeme zu unterstützen, und sorgt für heftige interne Kritik.",
   "stichpunkte": [
-    "Juanita wird morgens in Oregon von verdeckten ICE-Beamten festgenommen, obwohl sie eine Green Card besitzt.",
-    "Palantir-CEO Alex Karp lehnte Donald Trump 2015 ab und betonte stets, keine Geschäfte mit Autokraten machen zu wollen.",
-    "Trotz interner Proteste von Mitarbeitern lehnte es Palantir ab, vertragliche Klauseln gegen die Nutzung der Software für Abschiebungen einzufügen.",
-    "Eine Sammelklage und Gerichtsprotokolle bringen ans Licht, dass die von ICE genutzte Überwachungs-App 'Elite' von Palantir stammt.",
-    "Die App verknüpft zahlreiche Datenquellen wie Steuer-, Gesundheits- und Standortdaten, um Zielpersonen zu finden.",
-    "Kritiker und ehemalige Palantir-Mitarbeiter werfen dem Unternehmen vor, mit der Software ein System für Racial Profiling und Massenverhaftungen zu stützen."
+    "Juanita wird in Oregon von ICE-Beamten festgenommen, später freigelassen und schließt sich einer Sammelklage an.",
+    "Ein internes Video aus dem Jahr 2015 zeigt Alex Karp, wie er sich gegen Donald Trump positioniert und behauptet, Palantir wolle das Richtige tun.",
+    "Palantir argumentiert stets, keine eigenen Daten zu sammeln, sondern nur bestehende Datenstrukturen für Kunden wie Behörden zu verknüpfen und abzusichern.",
+    "Nach Donald Trumps Amtsantritt drängt die US-Regierung darauf, Palantirs Software auch für Abschiebungen zu nutzen, was intern bei Mitarbeitern zu erbittertem Widerstand führt.",
+    "Alex Karp verteidigt die Zusammenarbeit mit demokratisch gewählten Regierungen und lehnt es ab, vertragliche Schutzmauern gegen Abschiebungen einzuziehen.",
+    "Gerichtsakten und geleakte Handbücher enthüllen die Existenz der App „Elite“, die wie ein digitales Schleppnetz funktioniert und auch Personen ohne Abschiebebescheid ins Visier nimmt.",
+    "Ein offener Brief von 13 ehemaligen Palantir-Mitarbeitern wirft dem Unternehmen vor, seine Ideale verraten und ein autoritäres System unterstützt zu haben."
   ],
   "kapitel": [
     {
-      "titel": "Juanitas Festnahme",
+      "titel": "Juanitas Festnahme durch ICE",
       "start": 4.6
     },
     {
-      "titel": "Alex Karps Widersprüche",
+      "titel": "Alex Karps politische Haltung und Palantirs Gründungsidee",
       "start": 426.04
     },
     {
-      "titel": "Der ICE-Vertrag und interne Proteste",
-      "start": 1073.14
+      "titel": "Der Druck der Trump-Regierung und der Ausbau der ICE-Zusammenarbeit",
+      "start": 923.82
     },
     {
-      "titel": "Die Entdeckung der Elite-App",
-      "start": 1584.24
+      "titel": "Die Enthüllung der Palantir-App „Elite“ vor Gericht",
+      "start": 1637.62
     },
     {
-      "titel": "Kritik von ehemaligen Mitarbeitern",
+      "titel": "Kritik von Ehemaligen und der offene Brief an Palantir",
       "start": 2258.02
     }
   ],
@@ -127,11 +128,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T04:50:17+00:00",
+    "am": "2026-08-21T11:47:53+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Wie Infocoms Textadventure Planetfall 1983 Spielegeschichte und Emotionen schrieb.",
-  "kurzfassung": "Das 1983 von Infocom veröffentlichte Textadventure Planetfall von Steve Meretzky verband Science-Fiction-Rätsel mit frühen Survival-Mechaniken. Besondere Bekanntheit erlangte das Spiel durch den charmanten Roboterbegleiter Floyd, dessen emotionale Selbstopferung bewies, dass Computerspiele zu Tränen rühren können. Die Analyse beleuchtet das Spieldesign, die Hintergründe der Entwicklung sowie den Nachfolger Stationfall.",
+  "einzeiler": "Rückblick auf Infocoms Science-Fiction-Klassiker Planetfall und seinen berühmten Roboter…",
+  "kurzfassung": "Die Podcaster analysieren das wegweisende Textadventure Planetfall von Infocom aus dem Jahr 1983. Sie beleuchten die Survival-Mechaniken, die Spielwelt sowie den beliebten Roboterbegleiter Floyd. Zudem wird die Entstehungsgeschichte des Designers Steve Meretzky und der Nachfolger besprochen.",
   "stichpunkte": [
-    "Historischer Kontext von 1983: Infocom als Vorreiter der Interactive Fiction und die Frage, ob Computerspiele Emotionen wecken können",
-    "Handlung und Prämisse: Ein einfacher Rekrut strandet nach einer Raumschiffexplosion auf einer verlassenen Welt und erforscht eine menschenleere Anlage",
-    "Frühes Survival-Design: Das Spiel fordert regelmäßiges Essen und Schlafen und setzt den Spieler durch eine schleichende Krankheit unter Zeitdruck",
-    "Roboter Floyd als Sidekick: Aufbau einer emotionalen Bindung durch kindliche Züge, Reaktivität und spielerische Interaktion",
-    "Die Opferszene im Biolabor: Floyds tragischer Tod liefert den Beweis, dass Spiele tief berühren und Spieler zum Weinen bringen können",
-    "Das umstrittene Happy End: Die nachträgliche Wiederbelebung Floyds am Spielende schwächt die dramatische Wirkung der Opferszene ab",
-    "Steve Meretzkys Werdegang: Vom Zork-Tester ohne Programmierhintergrund zum gefeierten Infocom-Autor",
-    "Designphilosophie: Fokus auf Wirklichkeitsnähe, funktionale Gebäudestrukturen und gezielt platzierte falsche Fährten (Red Herrings)",
-    "Der Nachfolger Stationfall (1987) sowie das spätere, letztlich eingestellte Grafikadventure-Projekt Planetfall 2"
+    "Veröffentlichung von Planetfall im August 1983 durch Infocom als science-fiction-basiertes Textadventure",
+    "Protagonist ist ein niedrigrangiger Fähnrich der Sternenpatrouille, der nach einer Schiffsexplosion auf einem Wasserplaneten strandet",
+    "Einführung früher Survival-Mechaniken wie Nahrungsaufnahme, Schlaf und ein fester Tagesrhythmus",
+    "Der fröhliche Roboterbegleiter Floyd wächst Spielern durch seine kindliche Persönlichkeit ans Herz",
+    "Eine dramatische Opferszene von Floyd sorgt für starke emotionale Reaktionen und gilt als Meilenstein der Spielegeschichte",
+    "Steve Meretzky entwickelte das Spiel als Quereinsteiger nach seiner Testertätigkeit für Zork und Deadline",
+    "Die Spielwelt zeichnet sich durch logisches Worldbuilding, aber auch durch absichtliche Red Herrings und Sackgassen aus",
+    "Der Nachfolger Stationfall erschien 1987 und griff die bewährten Mechaniken und den Charakter Floyd wieder auf"
   ],
   "kapitel": [
     {
@@ -234,11 +233,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:54+00:00",
+    "am": "2026-08-21T11:58:45+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

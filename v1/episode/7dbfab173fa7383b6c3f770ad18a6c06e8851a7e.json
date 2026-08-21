@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Eine Sprengstoffserie erschüttert Möbelhäuser in ganz Europa – die Spur führt nach Polen.",
-  "kurzfassung": "Im Juni 2011 explodiert ein selbstgebauter Sprengsatz in einer Dresdner Möbelhausfiliale und verletzt zwei Menschen schwer. Ermittlungen enthüllen eine europaweite Anschlagsserie in vier Ländern ohne zunächst bekannte Motive. Erst nach monatelanger internationaler Zusammenarbeit und einem weiteren Vorfall in Prag übergeben die deutschen Behörden den Fall an Polen, wo die Täter schließlich gefasst werden.",
+  "einzeiler": "Eine Sprengstoffserie in europäischen Möbelhäusern führt zu internationaler Fahndung.",
+  "kurzfassung": "Im Juni 2011 explodiert in einem Dresdner Möbelhaus ein selbstgebauter Sprengsatz und verletzt zwei Menschen. Ermittlungen zeigen schnell Parallelen zu ähnlichen Taten in Belgien, Frankreich und den Niederlanden. Erst nach einem weiteren Anschlag in Prag und einer intensiven Zusammenarbeit mit Europol und der polnischen Polizei können die beiden Täter im Oktober 2011 gefasst werden.",
   "stichpunkte": [
-    "Explosion eines selbstgebauten Sprengsatzes in einer Dresdner Möbelhausfiliale am 10. Juni 2011",
-    "Zwei Mitarbeiter der Semperoper erleiden als Kunden ein schweres Knalltrauma",
-    "Ähnliche Anschläge in Belgien, Frankreich und den Niederlanden zeigen eine europaweite Serie",
-    "Gründung einer besonderen Aufbauorganisation (BAO) durch das LKA Sachsen für die Ermittlungen",
-    "Frühzeitige Einbindung von Europol zur internationalen Koordination und zum Spurenvergleich",
-    "Einsatz von Mantrailer-Hunden führt die Ermittler im Juli 2011 bis an die polnische Grenze",
-    "Ein weiterer, entschärfter Sprengsatz in Prag im September 2011 bringt die Erpresser mit einer Lösegeldforderung über 6 Millionen Euro in Verbindung",
-    "Polnische Behörden übernehmen die Ermittlungen, überwachen die Verdächtigen und nehmen sie am 5. Oktober 2011 fest",
-    "Gerichtliche Verurteilung der beiden Täter in Polen zu Freiheitsstrafen von viereinhalb und dreieinhalb Jahren im August 2012"
+    "Am 10. Juni 2011 detoniert in der Dresdner Filiale einer Möbelhauskette eine unkonventionelle Spreng- und Brandvorrichtung (USBV).",
+    "Zwei Kunden erleiden ein Knalltrauma; der Täter kann trotz sofortiger Zeugenverfolgung zunächst flüchten.",
+    "Das Bundeskriminalamt meldet zeitgleiche, ähnliche Vorfälle in Möbelhäusern in Belgien, Frankreich und den Niederlanden Ende Mai 2011.",
+    "Das Landeskriminalamt Sachsen gründet die Besondere Aufbauorganisation (BAO) „Dresden“, unterstützt durch Europol zur internationalen Vernetzung.",
+    "Kriminaltechnische Untersuchungen ergeben, dass die Sprengsätze aus illegalen Feuerwerkskörpern und polnischen Prepaid-Handys gebaut wurden.",
+    "Anfang September 2011 wird vor einer Filiale in Prag ein weiterer, größerer Sprengsatz gefunden, gefolgt von einer Erpressermail mit einer Forderung von sechs Millionen Euro.",
+    "Polnische Behörden überwachen die Verdächtigen nach Hinweisen und verhaften Marek T. und Piotr D. am 5. Oktober 2011.",
+    "Die Täter werden im August 2012 in Polen zu Freiheitsstrafen von dreieinhalb Jahren verurteilt."
   ],
   "kapitel": [
     {
@@ -36,16 +35,20 @@
       "start": 14.535
     },
     {
-      "titel": "Ermittlungen und internationale Verbindungen",
-      "start": 590.144
+      "titel": "Die internationale Dimension und der Krisenmanagement-Experte",
+      "start": 641.354
     },
     {
-      "titel": "Spurensuche und Mantrailer-Einsatz",
-      "start": 1742.194
+      "titel": "Spurensicherung und der Einsatz von Mantrailer-Hunden",
+      "start": 935.729
     },
     {
-      "titel": "Festnahme der Täter in Polen",
+      "titel": "Der Anschlag in Prag und die Erpressung",
       "start": 2042.171
+    },
+    {
+      "titel": "Festnahme der Täter und Urteil",
+      "start": 2306.816
     }
   ],
   "clips": [
@@ -126,11 +129,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T04:52:14+00:00",
+    "am": "2026-08-21T11:47:56+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Mike Hoge und Tom Putzki über die Anfänge von Piranha Bytes und die Entstehung von Gothic.",
-  "kurzfassung": "Die Piranha-Bytes-Gründer Mike Hoge und Tom Putzki blicken auf die turbulente Entwicklung des Rollenspiel-Meisterwerks Gothic zurück. Sie erzählen von ihren Anfängen in der Spielebranche, der Pleite von Greenwood Entertainment und der Entstehung des Bochumer Entwicklerstudios. Dabei schildern sie offen den kreativen Chaosprozess, den enormen Zeitdruck und wie sie mit viel Pragmatismus und Vision einen echten Videospiel-Kultklassiker schufen.",
+  "einzeiler": "Mike Hoge und Tom Putzki über die chaotische und legendäre Entstehung von Gothic.",
+  "kurzfassung": "Mike Hoge und Tom Putzki blicken auf die Gründung von Piranha Bytes und die aufwendige Entwicklung des Rollenspiel-Meilensteins Gothic zurück. Dabei schildern sie die Anfänge in der Games-Branche, kreative und personelle Hürden sowie den harten Weg bis zur Fertigstellung des Klassikers. Zudem beleuchten sie die Rolle des Publishers Egmont Interactive und die Besonderheiten der Spielwelt.",
   "stichpunkte": [
-    "Mike Hoge und Tom Putzki starteten ihre Laufbahn als Quereinsteiger bei der Bochumer Firma Greenwood Entertainment.",
-    "Nach der Auflösung von Greenwood gründeten sie Ende 1997 gemeinsam mit Stefan Juhl und Alex Brüggemann Piranha Bytes.",
-    "Die Entwicklung von Gothic basierte auf einer Engine der Oldenburger Programmierer („Mad Scientists“), die von Grund auf neu konzipiert wurde.",
-    "Das Design orientierte sich bewusst an der Spielwelt und den Tagesabläufen von Ultima, geprägt durch die raue Kultur des Ruhri-Milieus.",
-    "Erfolgreiche PR-Arbeit und frühe Medienkontakte (unter anderem zur GameStar) sicherten dem Team Aufmerksamkeit vor einem Publisher-Deal.",
-    "Der Deal mit Egmont Interactive im Februar 1999 brachte das nötige Geld, um das Team durch Quereinsteiger und den Komponisten Kai Rosenkranz zu vergrößern.",
-    "Der Entwicklungszeitraum dehnte sich von geplanten zwei auf über drei Jahre aus, begleitet von extremen Arbeitszeiten und Last-Minute-Änderungen.",
-    "Die Integration in die Phänomedia AG und der Börsengang prägten die geschäftliche Seite der Anfangsjahre.",
-    "Gothic wurde trotz technischer Mängel und extremer Hürden zu einem weltweiten Kultspiel, getragen durch Immersion, Handlungsfreiheit und das „Visivik“-Prinzip."
+    "Mike Hoge und Tom Putzki stiegen über Quereinsteiger-Jobs bei Firmen wie GDG und Greenwood Entertainment in die Spielebranche ein.",
+    "Nach dem Zusammenbruch von Greenwood gründeten sie Ende 1997 gemeinsam mit Stefan Juhl und Alex Brüggemann das Studio Piranha Bytes.",
+    "Das Projekt basierte auf der von den sogenannten 'Mad Scientists' aus Oldenburg mitgebrachten Engine, die von Grund auf für ein Third-Person-Rollenspiel angepasst wurde.",
+    "Inhaltlich ließen sich die Entwickler von Spielen wie Ultima, Filmen wie Die Klapperschlange sowie ihren Erfahrungen als Pen-and-Paper-Rollenspieler inspirieren.",
+    "Im Februar 1999 sicherte sich der Verlag Egmont Interactive die Publishing-Rechte und finanzierte die verbleibende Entwicklungszeit.",
+    "Das Team unterschätzte den Aufwand massiv, was zu extremen Überstunden, verworfenen Konzepten und einer erst kurz vor Schluss integrierten Maussteuerung führte.",
+    "Trotz technischer Hürden und enormem Zeitdruck erschien Gothic im März 2001 und entwickelte sich zu einem Kultspiel mit einer lebendigen, glaubwürdigen Spielwelt.",
+    "Ein geplantes Add-on wurde schließlich unter dem Druck der Phänomedia-Muttergesellschaft in das erfolgreiche Gothic 2 überführt."
   ],
   "kapitel": [
     {
@@ -486,11 +485,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:43:46+00:00",
+    "am": "2026-08-21T11:56:13+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

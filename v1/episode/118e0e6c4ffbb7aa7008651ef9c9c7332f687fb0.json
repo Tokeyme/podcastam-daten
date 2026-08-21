@@ -17,18 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Ein tiefer Einblick in die düstere, magisch-technologische Welt von Shadowrun.",
-  "kurzfassung": "Die Hosts erkunden gemeinsam mit Gast Gunnar die komplexe Welt von Shadowrun, die Cyberpunk-Elemente mit Fantasy-Wesen verbindet. Dabei beleuchten sie die Entstehungsgeschichte, die düstere Historie der sechsten Welt und die Rolle der Megakonzerne. Abschließend gibt Andreas Schroth exklusive Einblicke in die redaktionelle Arbeit am deutschen Rollenspiel.",
+  "einzeiler": "Ein tiefer Einblick in das Cyberpunk- und Fantasy-Rollenspieluniversum von Shadowrun.",
+  "kurzfassung": "Diese Folge beleuchtet das Pen-and-Paper-Rollenspiel Shadowrun, das Cyberpunk und High Fantasy miteinander verbindet. Mháire Stritter und Rahel Schmitz erkunden gemeinsam mit Gästen wie Gunnar Lott und Andreas Schroth die Videospielgeschichte, das Worldbuilding und die Entwicklung des Franchises. Dabei werden zentrale Konzepte wie die Erwachte Welt, Megakonzerne und die Matrix detailliert besprochen.",
   "stichpunkte": [
-    "Shadowrun verbindet Cyberpunk-Dystopie mit Fantasy-Elementen wie Magie, Drachen und Elfen.",
-    "Die Welt spielt etwa 60 Jahre in der Zukunft und ist von hyperkapitalistischen Megakonzernen geprägt.",
-    "Die Geschichte der Spielwelt ist durch Katastrophen wie das VITAS-Virus und den Matrix-Crash gezeichnet.",
-    "Die Rückkehr der Magie im Jahr 2012 markiert den Beginn der sogenannten sechsten Welt.",
-    "Die Matrix dient als allgegenwärtiges, virtuelles Netzwerk, das oft durch Augmented Reality den Alltag bestimmt.",
-    "Megakonzerne wie Säder-Krupp oder Aztechnology agieren als mächtige, exterritoriale Akteure.",
-    "Die deutsche Ausgabe des Rollenspiels bietet mit der Allianz Deutscher Länder ein eigenständiges, detailliertes Setting.",
-    "Technomancer und die mysteriöse Resonanz stellen eine technologisch-magische Schnittstelle dar.",
-    "Die Entwicklung des Spiels wird stark durch die Vorgaben des US-Verlags Catalyst Game Labs geprägt."
+    "Shadowrun verbindet Cyberpunk-Ästhetik mit magischen Elementen wie Elfen, Trollen und Drachen.",
+    "Die Welt spielt rund 60 Jahre in der Zukunft und ist von Hyperkapitalismus und mächtigen Megakonzernen geprägt.",
+    "Im Jahr 2011 kehrt die Magie in die Welt zurück, wodurch die sechste Welt und gravierende globale Veränderungen beginnen.",
+    "Die Videospielgeschichte umfasst Klassiker wie das SNES-Spiel von 1993 sowie die Trilogie von Hairbrained Schemes.",
+    "Die Matrix dient als zentrale Cyber- und virtuelle Realitätsebene, die sich über die Editionen hinweg stark gewandelt hat.",
+    "Drachen sind als hochintelligente, magische und politische Akteure die mächtigsten Strippenzieher im Hintergrund.",
+    "Die deutsche Lokalisierung und die Allianz Deutscher Länder (ADL) nehmen im weltweiten Setting eine bedeutende Sonderrolle ein."
   ],
   "kapitel": [
     {
@@ -238,11 +236,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:42:16+00:00",
+    "am": "2026-08-21T11:53:55+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-3.1-flash-lite",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

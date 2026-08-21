@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entwicklungsgeschichte, das Gameplay und die Bedeutung von Segas erstem…",
-  "kurzfassung": "Sonic the Hedgehog erschien im Juni 1991 für das Sega Mega Drive und etablierte sich schnell als Kult-Maskottchen und Gegenentwurf zu Nintendos Mario. Das Spiel zeichnet sich durch hohes Tempo, markantes Charakterdesign und flüssiges Level-Design mit unebenem Terrain aus. Neben der Entstehungsgeschichte beleuchtet die Folge auch spätere Sequels und die popkulturelle Relevanz der Reihe.",
+  "einzeiler": "Die Geschichte von Sonic the Hedgehog, Segas rasantem Maskottchen und Mega-Drive-Hit.",
+  "kurzfassung": "Sonic the Hedgehog erschien 1991 für das Sega Mega Drive und etablierte sich rasch als Popkultur-Ikone sowie Gegenentwurf zu Nintendos Mario. Das von einem kleinen Team entwickelte Jump'n'Run zeichnet sich durch hohes Tempo, organische Levelstrukturen und das innovative Ring-System aus. Trotz eines anfänglich verhaltenen Echos in Japan wurde das Spiel weltweit ein riesiger Erfolg.",
   "stichpunkte": [
-    "Erschienen im Juni 1991 exklusiv für das Sega Mega Drive, später portiert auf Master System und Game Gear.",
-    "Entwickelt von einem kleinen internen Team um Programmierer Yuji Naka, Designer Hirokazu Yasuhara und Grafiker Naoto Oshima.",
-    "Inspirationsquelle für das unebene Level-Design war Capcoms Arcade-Port von Ghouls 'n' Ghosts.",
-    "Das ikonische blaue Design basiert auf dem Sega-Firmenlogo, während die weißen Handschuhe von klassischen Cartoon-Figuren stammen.",
-    "Die Musik steuerte das japanische Pop-Duo Dreams Come True (Masato Nakamura) bei.",
-    "Die goldenen Ringe fungieren nicht nur als Sammelobjekte, sondern dienen als Energiesystem und Unverwundbarkeitsschutz.",
-    "Starke Vermarktung durch Sega of America (Al Nielsen, Tom Kalinsky) machte Sonic zeitweise bekannter als Mickey Mouse.",
-    "Weltweiter Verkaufs- und Kritikererfolg, der die Plattform maßgeblich prägte und zahlreiche Fortsetzungen nach sich zog."
+    "Erschienen im Juni 1991 exklusiv für das 16-Bit-Mega Drive von Sega",
+    "Entwickelt von einer internen Home-Division unter anderem mit Yuji Naka und Naoto Oshima",
+    "Das Design der Hauptfigur verbindet klassische Cartoon-Elemente mit der blauen Farbe des Sega-Logos",
+    "Die Musik wurde vom japanischen Pop-Duo Dreams Come True komponiert",
+    "Das namensgebende Tempo wird mit flüssigem Scrolling und unebenen, gewellten Landschaften kombiniert",
+    "Goldene Ringe dienen als Schutzmechanik vor Gegnern statt herkömmlicher Trefferpunkte",
+    "Durch aggressive Marketingkampagnen und Bundle-Verkäufe wurde das Spiel weltweit ein Millionenerfolg",
+    "In Japan verlief der Start im Gegensatz zum westlichen Markt vergleichsweise verhalten"
   ],
   "kapitel": [
     {
@@ -305,11 +305,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:45:37+00:00",
+    "am": "2026-08-21T12:00:09+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

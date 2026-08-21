@@ -17,26 +17,25 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Halbleiterminus, Klarna-Sturz, Meta-Gerichtsstart und die Billionen-These für Siemens.",
-  "kurzfassung": "An der Wall Street und im DAX gerieten Halbleiterwerte nach stark gestiegenen Anleiherenditen unter Druck. Klarna verzeichnete trotz guter Quartalszahlen einen massiven Kurssturz wegen einer enttäuschenden Prognose und dem Abgang des Finanzchefs. Meta sieht sich in den USA einem historischen Gerichtsverfahren wegen Kindersicherheit und Produktdesign ausgesetzt.",
+  "einzeiler": "Meta kämpft im US-Prozess um Milliarden und Siemens will in den Billionen-Club aufsteigen.",
+  "kurzfassung": "Metas milliardenschwerer US-Prozess wegen Vorwürfen zur Kindersicherheit erinnert Beobachter an einen Tabakskandal und drückt auf den Aktienkurs. Gleichzeitig peilt der deutsche Industrieriese Siemens mit einem neuen Strategiekonzept und industrieller KI langfristig die Billionen-Grenze an. An den Märkten sorgt derweil eine deutliche Zinsangst für anhaltende Umschichtungen.",
   "stichpunkte": [
-    "Wall Street und DAX mit Kursverlusten, angetrieben durch eine Sektor-Rotation weg von KI-Halbleitern.",
-    "Rendite 30-jähriger US-Staatsanleihen steigt vorübergehend auf 5,33 Prozent – Höchststand seit 2007.",
-    "Klarna bricht um 22,8 Prozent ein, da der Ausblick für das dritte Quartal weit unter den Analystenerwartungen liegt.",
-    "Baidu verzeichnet den fünften Quartalsrückgang in Folge und leidet unter starker Konkurrenz im Werbegeschäft und bei KI-Modellen.",
-    "Bank of America Fondsmanager-Umfrage zeigt extrem bullische Stimmung ('No-Landing'-Konsens), was historisch als Kontraindikator gilt.",
-    "Meta startet in einen US-Prozess von 29 Bundesstaaten wegen süchtig machendem Produktdesign für Minderjährige mit Risikosummen von bis zu 1,4 Billionen Dollar.",
-    "Siemens will sich am 1. Oktober als 'One Tech Company' präsentieren; Analysten und das Management diskutieren die langfristige Vision eines Billionen-Börsenwerts.",
-    "Hörerfeedback kritisiert die Zunahme und Platzierung von Werbung im Podcast, woraufhin die Moderatoren Besserung in Absprache mit den Verantwortlichen in Aussicht stellen."
+    "Wall Street im Minus: Tech- und Halbleiterwerte geraten durch Zinsängste und steigende Anleiherenditen unter Druck.",
+    "Klarna bricht ein: Gute Quartalszahlen werden von einer enttäuschenden Prognose und dem Abgang des Finanzchefs überrschattet.",
+    "BofA-Umfrage zeigt extreme Euphorie: Die Cashquote sinkt auf ein Mehrjahrestief, während globale Halbleiter als überdehnter Trade gelten.",
+    "Meta vor Gericht: 29 US-Bundesstaaten klagen wegen süchtig machenden Produktdesigns auf eine Risikosumme von bis zu 1,4 Billionen Dollar.",
+    "Juristische Parallelen: Der Fall weckt Vergleiche mit Tabakkonzernen, unterscheidet sich jedoch durch rechtliche Schutzschilde und Produktdesign-Fokus.",
+    "Siemens-Strategie: Konzernchef Roland Busch setzt ab Oktober voll auf die 'One Tech Company' und will industrielle KI als Wachstumstreiber etablieren.",
+    "Billionen-Ziel für Siemens: Um die angestrebte Bewertung zu rechtfertigen, muss der Konzern konkrete finanzielle KI-Erfolge nachweisen."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T02:52:29+00:00",
+    "am": "2026-08-21T11:48:55+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

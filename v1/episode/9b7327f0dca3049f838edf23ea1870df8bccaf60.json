@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Eine Reise durch die komplexe Lore und Geschichte des Warcraft-Universums.",
-  "kurzfassung": "Der Podcast beleuchtet die umfassende Geschichte und den Weltenbau von Warcraft von den Anfängen der Echtzeitstrategie bis zum MMORPG. Dabei sprechen die Hosts über kosmologische Mächte, zentrale Völker, Portale und prägende Charaktere wie Arthas und Thrall. Zudem geht es um die Entwicklung des Storytellings bei Blizzard und die Bedeutung von Retcons.",
+  "einzeiler": "Eine Reise durch die komplexe Geschichte und Mythologie des Warcraft-Universums.",
+  "kurzfassung": "Der Host spricht mit dem Warcraft-Experten Oliver über die Entwicklung der Spielreihe von den Anfängen als Echtzeitstrategie bis zum MMORPG. Dabei beleuchten sie die historische Handlung von Warcraft 1 bis 3, den umfassenden Schöpfungsmythos sowie zentrale Völker und Figuren. Zudem diskutieren sie die Stärken und Schwächen des Storytellings und den Umgang mit Kontinuität über die Jahrzehnte.",
   "stichpunkte": [
-    "Warcraft begann in den 1990ern als schlichtes Echtzeitstrategiespiel mit einer klaren Gut-gegen-Böse-Erzählung zwischen Menschen und Orks.",
-    "Im Laufe der Jahrzehnte wuchs das Universum durch Fortsetzungen, Romane und Bücher wie die 'Chronicles' zu einem riesigen Kosmos heran.",
-    "Die Kosmologie von Warcraft basiert auf sechs Grundkräften wie Licht, Leere und Ordnung, aus denen Titanen und alte Götter hervorgingen.",
-    "Wichtige historische Ereignisse umfassen die Öffnung des Dunklen Portals, die Kriege zwischen Allianz und Horde sowie die Invasion der brennenden Legion.",
-    "Zentrale Figuren wie Arthas (der gefallene Prinz und Lichkönig) und Thrall (der edle Kriegshäuptling der Horde) prägen die emotionale Handlung maßgeblich.",
-    "Die Spielwelt Azeroth ist Heimat zahlreicher Völker wie Menschen, Orks, Nachtelfen, Trolle und Tauren, die jeweils eigene evolutionäre Hintergründe besitzen.",
-    "Das Storytelling hat sich von spärlichen Quest-Texten zu inszenierten Cinematics und vertonten Dialogen weiterentwickelt.",
-    "Nachträgliche Story-Änderungen (Retcons) und komplexe kosmologische Verstrickungen in jüngeren Erweiterungen sind unter Fans umstritten."
+    "Die Entwicklung von Warcraft vom simplen Echtzeitstrategiespiel zum komplexen MMO-RPG-Giganten",
+    "Der erste und zweite Krieg zwischen der Allianz und den orkischen Invasoren durch das dunkle Portal",
+    "Die Ereignisse in Warcraft 3, einschließlich der Rolle von Thrall, Arthas und dem Aufstieg des Lichtkönigs",
+    "Der kosmische Schöpfungsmythos von Licht, Leere und den Titanen sowie der Einfluss des gefallenen Titanen Sargeras",
+    "Die Entstehung und Geschichte wichtiger Völker wie Menschen, Orks, Nachtelfen und Naga",
+    "Die zentrale Bedeutung prägender Charaktere wie Sylvanas Windläufer und Jaina Prachtmeer",
+    "Kritische Betrachtung des Storytellings, des Weltenbaus und des Umgangs mit Retcons durch Blizzard"
   ],
   "kapitel": [
     {
@@ -149,11 +148,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:45:27+00:00",
+    "am": "2026-08-21T11:54:02+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte des Rennspiel-Klassikers Micro Machines.",
-  "kurzfassung": "Die Podcaster beleuchten die Geschichte des NES-Rennspiels Micro Machines und dessen Entwickler Codemasters. Dabei analysieren sie die Entstehung der Spielzeugvorbilder von Galoop Toys sowie das innovative, auf Duell-Mechaniken basierende Multiplayer-Prinzip. Zudem wird auf die Firmenhistorie und spätere Ableger der Serie eingegangen.",
+  "einzeiler": "Die Entstehungsgeschichte und das Gameplay des NES-Rennspiels Micro Machines.",
+  "kurzfassung": "Die Hosts beleuchten die Entstehungsgeschichte des NES-Klassikers Micro Machines und die Historie des Entwicklers Codemasters sowie des Lizenzgebers Galoop Toys. Dabei analysieren sie das einzigartige Spielprinzip des Top-Down-Racers, der besonders im Multiplayer-Modus glänzt. Zudem kommen Zeitzeugen wie der ehemalige PR-Manager Fabian Döhler zu Wort.",
   "stichpunkte": [
-    "Das Spiel basiert auf den miniaturisierten Spielzeugfahrzeugen von Galoop Toys aus den USA.",
-    "Codemasters wurde von den Brüdern Richard und David Darling sowie ihrem Vater in England gegründet.",
-    "Nach Budget-Spielen und Simulatoren wagte Codemasters mit Micro Machines den Schritt auf den Konsolenmarkt.",
-    "Das NES-Original besticht durch Alltagsszenarien wie Frühstückstische oder Billardtische als Rennstrecken.",
-    "Im Gegensatz zum frustrierenden Einzelspielermodus glänzt das Spiel besonders im rasanten Multiplayer-Duell.",
-    "Der Bildschirm scrollt dynamisch mit und bestraft abgehängte Spieler sofort mit Punkten für den Gegner.",
-    "Spätere Sequels wie Micro Machines V3 auf der PlayStation brachten 3D-Grafik und Sprachausgabe.",
-    "Codemasters entwickelte sich im Laufe der Jahre zu einem großen Rennspielstudio und gehört heute zu EA."
+    "Das NES-Spiel Micro Machines basiert auf den extrem kleinen Miniaturen des Spielzeugherstellers Galoop Toys.",
+    "Die Steuerung aus der Pilotenperspektive und das Fehlen klassischer Rennstrecken prägen den Charme des Spiels.",
+    "Der Multiplayer-Modus setzt auf ein innovatives Eliminierungsprinzip mit dynamischer Bildschirmführung statt geteiltem Bildschirm.",
+    "Der Einzelspielermodus leidet unter einer unbarmherzigen KI und wenigen Leben ohne Passwörter.",
+    "Codemasters wurde von den Darling-Brüdern gegründet und startete mit erfolgreichen Budget- und Simulator-Spielen.",
+    "Die Darling-Brüder bauten Codemasters von einem kleinen Familienunternehmen zu einem bedeutenden Studio aus.",
+    "Nintendo versuchte unlizenzierte NES-Produkte und Peripheriegeräte wie das Game Genie rechtlich zu bekämpfen.",
+    "Die Micro-Machines-Reihe entwickelte sich in den 90ern mit Nachfolgern auf zahlreichen Plattformen zu einem großen Erfolg."
   ],
   "kapitel": [
     {
@@ -249,11 +249,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:46:45+00:00",
+    "am": "2026-08-21T11:57:43+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

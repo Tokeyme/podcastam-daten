@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "erzeugt_am": "2026-08-20T07:16:13+00:00",
+  "erzeugt_am": "2026-08-21T12:07:17+00:00",
   "shows": [
     {
       "show": "0630 - der News-Podcast",
@@ -196,6 +196,13 @@
       "apple_collection_id": null,
       "feed": "https://anchor.fm/s/f8b3e284/podcast/rss",
       "pfad": "/v1/show/7dae70cf06ca143b5cba87d1f6ab4576b5212783.json",
+      "folgen": 1
+    },
+    {
+      "show": "Zwischen den Zeilen",
+      "apple_collection_id": null,
+      "feed": "https://feeds.megaphone.fm/zwischendenzeilen",
+      "pfad": "/v1/show/fe772482355a51e3de045cc0ccc2de05252a0248.json",
       "folgen": 1
     }
   ]

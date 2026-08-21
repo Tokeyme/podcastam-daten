@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "WWF No Mercy auf dem N64 gilt als das perfekte Wrestling-Spiel der Attitude-Ära.",
-  "kurzfassung": "WWF No Mercy ist das 2000 für das Nintendo 64 erschienene Wrestling-Meisterwerk des Studios Aki. Es verbindet eine komplexe, kontextsensitive Steuerung und ein neuartiges Dynamik-System mit der detailgetreuen Atmosphäre der wilden Attitude-Ära. Bis heute besitzt das Spiel dank seines umfangreichen Editors und einer aktiven Modding-Szene eine treue Fangemeinde.",
+  "einzeiler": "WWF No Mercy auf dem N64 und die Geschichte der AKI-Wrestling-Spiele.",
+  "kurzfassung": "Die Hosts beleuchten das legendäre Wrestling-Spiel WWF No Mercy für das Nintendo 64. Sie analysieren die Spielmechaniken, das Erbe des Entwicklers AKI und die popkulturelle Ära der späten 90er. Dabei betrachten sie auch die Evolution des Genres von frühen 2D-Titeln bis hin zu modernen Ablegern.",
   "stichpunkte": [
-    "Das japanische Studio Aki entwickelte mit Virtual Pro Wrestling und WCW-Titeln das Grundgerüst für die späteren N64-Hits.",
-    "Die Steuerung setzt auf kontextabhängige Aktionen, ein intuitives Grappling-System und präzises Timing.",
-    "Das Attitude-Meter ersetzt klassische Lebensenergiebalken und sorgt für ein dynamisches Hin und Her im Kampfverlauf.",
-    "Der Titel fängt die WWF-Atmosphäre der späten 90er mit ihrer rohen Tonalität, den Waffen und dem Star-Aufgebot ein.",
-    "Der umfangreiche Championship-Modus bietet verzweigte Storylines mit überraschenden Wendungen und Rebellions-Strängen.",
-    "Zahlreiche Match-Varianten wie Käfigkämpfe, Leitermatches und der Royal Rumble sorgen für abwechslungsreiche Duelle.",
-    "Der Entwickler Aki verlor nach No Mercy die Lizenz an THQ, hinterließ jedoch mit Spielen wie Def Jam Vendetta das Vermächtnis des Gameplays.",
-    "Bis heute existiert eine große Modding-Community, die das Spiel per Emulator mit aktuellen Rostern oder Legenden versorgt."
+    "Definition und Grundlagen von Pro Wrestling als gescriptetes Sports Entertainment",
+    "Historischer Rückblick auf frühe Wrestling-Spiele von NES bis zu Arcade-Automaten",
+    "Die Entwicklungsgeschichte des japanischen Studios AKI und ihrer 3D-Spiele",
+    "Die Blütezeit der WWF und WCW sowie der prägende Einfluss der Attitude-Ära",
+    "Das innovative Gameplay von WWF No Mercy mit dem Attitude-Meter und Grappling-System",
+    "Die detailreiche und verzweigte Kampagne des Championship-Modus",
+    "Technische Limitationen des N64-Moduls bei Einzügen und Performance",
+    "Das Nachleben des Klassikers durch aktive Modding-Szenen und anhaltende Beliebtheit"
   ],
   "kapitel": [
     {
@@ -337,11 +337,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:29+00:00",
+    "am": "2026-08-21T12:02:44+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Alles über den Arcade-Klassiker Contra und die Geschichte der Run-and-Gun-Reihe",
-  "kurzfassung": "Der Podcast bespricht ausführlich das 1987 von Konami veröffentlichte Arcade-Spiel Contra und analysiert dessen Design, Hardware und Spielmechaniken. Dabei werden auch die Entstehungsgeschichte, wichtige Vorgänger wie Green Beret sowie die zahlreichen Fortsetzungen und Portierungen beleuchtet. Abschließend gibt der Host Tipps, auf welchen modernen Plattformen die Reihe heute noch spielbar ist.",
+  "einzeiler": "Gunnar und Fabian besprechen den Run-and-Gun-Klassiker Contra von 1987.",
+  "kurzfassung": "Contra ist ein prägender Run-and-Gun-Arcade-Klassiker von Konami aus dem Jahr 1987, der das Genre maßgeblich beeinflusste. Die Hosts besprechen die Spielmechaniken, die wechselvolle Geschichte der Portierungen und Zensuren wie Probotector sowie die Hardware des Automaten. Zudem geben sie einen Überblick über die Entwicklung der Spieleserie von den Anfängen bis zu modernen Ablegern.",
   "stichpunkte": [
-    "Das Arcade-Original Contra von Konami aus dem Jahr 1987 setzte neue Maßstäbe im Run-and-Gun-Genre.",
-    "Das Spiel verbindet klassische Sidescrolling-Passagen mit innovativen Pseudo-3D-Basenabschnitten und vertikalen Leveln.",
-    "Bekannte Popkultur-Ikonen wie Sylvester Stallone und Arnold Schwarzenegger sowie der Alien-Film dienen als offensichtliche Inspirationsquellen.",
-    "Die berüchtigte Spreadgun gilt unter Spielerinnen und Spielern als die effektivste und beliebteste Waffe des Spiels.",
-    "Der kooperative Zweispieler-Modus erhöht den Wiederspielwert und bietet taktische Möglichkeiten bei Bosskämpfen.",
-    "Konami setzte für den Automaten eine maßgeschneiderte Hardware mit dem Hauptprozessor Hitachi 6309 und doppelten Custom-Grafikchips ein.",
-    "In Deutschland wurde das Spiel unter dem Namen Gryzor indiziert, was später zur Veröffentlichung der Roboter-Version Probotector führte.",
-    "Die Contra Anniversary Collection für moderne Plattformen bietet eine gute Möglichkeit, die alten Titel heute noch zu spielen."
+    "Contra erschien 1987 als Arcade-Automat von Konami und gewann eine Hörerabstimmung gegen Titel wie Frogger und Track and Field.",
+    "Das Spielgeschehen im Jahr 2633 führt die Supersoldaten Bill Reiser und Lance Bean gegen die Organisation Red Falcon und einen Alien-Twist.",
+    "Der Automat nutzte einen hochkant ausgerichteten Bildschirm und ein spezielles, für das Spiel entwickeltes Mainboard von Konami.",
+    "Waffen wie die beliebte Spread-Gun spielen eine zentrale Rolle beim Bewältigen der fordernden Level.",
+    "Der kooperative Zweispieler-Modus erlaubt gemeinsames Vorgehen gegen die harten Gegnerhorden.",
+    "In Europa erschien der Automat unter dem Namen Gryzor und wurde in Deutschland indiziert.",
+    "Auf dem NES folgte 1990 die zensierte und als Roboter-Action umgesetzte deutsche Fassung unter dem Titel Probotector.",
+    "Die Hosts geben einen Überblick über die gesamte Serienhistorie inklusive späterer Fortsetzungen und Sammlungen."
   ],
   "kapitel": [
     {
@@ -265,11 +265,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:47:25+00:00",
+    "am": "2026-08-21T11:49:51+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

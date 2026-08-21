@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Alles über die Simpsons: Entstehung, Figuren, Springfield und popkultureller Einfluss.",
-  "kurzfassung": "Diese Folge beleuchtet die Geschichte, Entstehung und kulturelle Bedeutung der Kultserie Die Simpsons. Die Hosts Mairi und Rahel analysieren die Kernfamilie, die skurrilen Nebenfiguren und den charakteristischen Humor der Stadt Springfield. Zudem werden Themen wie die Entwicklung der Serie, Kontroversen und der Einfluss auf die Popkultur besprochen.",
+  "einzeiler": "Eine umfassende Rückschau auf die Entstehung, Figuren und den Kulturstatus der Simpsons.",
+  "kurzfassung": "Die Simpsons haben seit Ende der 80er Jahre die Popkultur als animierte Sitcom nachhaltig geprägt. Der Podcast beleuchtet die Entstehungsgeschichte der Serie durch Matt Groening, die skurrilen Bewohner von Springfield und den Wandel der Tonalität über Jahrzehnte. Dabei werden sowohl die Stärken des Formats als auch problematische Stereotypen und Kontroversen diskutiert.",
   "stichpunkte": [
-    "Die Simpsons starteten 1989 als kurze Sketche in der Tracy Ullman Show.",
-    "Die Serie zeigt das satirische Leben der US-Mittelschicht in der fiktiven Stadt Springfield.",
-    "Die Kernfamilie besteht aus Homer, Marge, Bart, Lisa und Maggie sowie den Haustieren.",
-    "Zahlreiche prägende Nebenfiguren wie Mr. Burns, Ned Flanders und Moe verleihen Springfield Tiefe.",
-    "Die Simpsons gelten als am längsten laufende gescriptete Primetime-Serie der USA.",
-    "Die Halloween-Spezials (Treehouse of Horror) sind eine feste, beliebte Anthologie-Tradition.",
-    "Die Serie prägte die Popkultur nachhaltig und inspirierte zahlreiche Nachfolgeformate.",
-    "Kritik gibt es unter anderem für stereotype Darstellungen von Randgruppen, etwa bei der Figur Apu."
+    "Die Simpsons starteten 1989 zunächst als kurze Sketche in der Tracy Ullman Show, bevor sie eine eigene Serie wurden.",
+    "Die Serie persifliert die amerikanische Mittelklasse und das Leben in der fiktiven Kleinstadt Springfield.",
+    "Die Kernfamilie besteht aus Homer, Marge, Bart, Lisa und Maggie sowie den Haustieren Knecht Ruprecht und Snowball.",
+    "Zahlreiche prägende Nebenfiguren wie Mr. Burns, Ned Flanders und Mo gaben Springfield ein unverwechselbares Profil.",
+    "Ein Vertrag mit Fox sicherte den Machern kreative Freiheit, wodurch bissige Gesellschaftskritik möglich wurde.",
+    "Die Serie durchlief im Laufe von über 30 Staffeln einen Wandel von bodenständiger Familiensitcom zu experimentellerem Humor.",
+    "Kritik an der Darstellung marginalisierter Gruppen, wie etwa der Figur Apu, führte in späteren Jahren zu spürbaren Veränderungen.",
+    "Die jährlichen Halloween-Folgen (Treehouse of Horror) wurden als eigenständige Anthologien zu absoluten Kult-Klassikern."
   ],
   "kapitel": [
     {
@@ -321,11 +321,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:43+00:00",
+    "am": "2026-08-21T11:53:13+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

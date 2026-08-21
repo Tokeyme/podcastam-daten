@@ -17,25 +17,25 @@
     "kapitel": false,
     "grund": "Verdacht auf je Abruf neu zusammengesetzte Auslieferung (kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst ads.julephosting) - im Zweifel keine Byte-Offsets und keine Sprungmarken"
   },
-  "einzeiler": "Der brutale Mord an einer Frau in Namibia 1998 erschüttert das Land und zieht einen…",
-  "kurzfassung": "Im Juni 1998 wird in Namibia die zweifache Mutter Monika ermordet. Ihr Ehemann Thomas zerstückelt die Leiche im gemeinsamen Haus, versteckt Überreste auf dem Dachboden und will mit den Kindern nach Deutschland fliehen. Durch den Fund geschützter Wildtiere im Umzugscontainer wird Thomas kurz vor der Ausreise verhaftet, später wegen Mordes zu lebenslanger Haft verurteilt und scheitert in den Folgejahren mit diversen Berufungen und Bewährungsanträgen.",
+  "einzeiler": "Der brutale Mord an einer Auswanderin in Namibia und seine juristischen Folgen",
+  "kurzfassung": "Im Juni 1998 wird in Namibia die deutsche Auswanderin Monika von ihrem Ehemann Thomas getötet und im Haus grausam zerteilt. Aufmerksame Freunde schlagen Alarm, woraufhin die Polizei den flüchtigen Täter dank illegaler Wildtierprodukte im Frachtcontainer stoppt. Thomas wird schließlich zu lebenslanger Haft verurteilt und scheitert jahrelang mit juristischen Versuchen auf Bewährung.",
   "stichpunkte": [
-    "Juni 1998: Die Polizei in Namibia entdeckt im Hafen von Walvis Bay in einem Umzugscontainer nach Deutschland blutige Kleidung und geschützte Wildtiere.",
-    "Nach dem Hinweis einer Freundin durchsucht die Polizei das Haus des deutschen Auswanderers Thomas in Swakopmund und findet menschliche Knochen sowie massive Blutspuren.",
-    "Thomas wird kurz vor seiner geplanten Flucht nach Deutschland am Flughafen festgenommen und wegen Mordes an seiner Ehefrau Monika angeklagt.",
-    "Der Fall löst in Namibia eine gesellschaftliche Debatte über häusliche Gewalt aus, begleitet von großen Protesten vor dem Gericht.",
-    "1999 wird Thomas vom Obergericht in Windhoek zu lebenslanger Haft verurteilt, da er seine Frau mit einem Hammer erschlug und den Körper zerstückelte.",
-    "Ein jahrelanger juristischer Streit folgt, da Thomas mehrfach versucht, über Gesetzesänderungen und Ausländer-Argumente eine vorzeitige Haftentlassung zu erwirken.",
-    "Während der Sohn dem Vater im Laufe der Jahre verzeiht und den Kontakt sucht, bricht die Tochter jeden Kontakt ab und lehnt eine Entlassung strikt ab."
+    "Juni 1998: Die Polizei in Namibia entdeckt im Hafen von Walvis Bay einen Frachtcontainer mit blutigen Kleidungsstücken und geschmuggelten Wildtieren.",
+    "Eine Freundin der vermissten Monika schöpft Verdacht, weil Thomas behauptet, seine Frau sei nach Kapstadt abgehauen.",
+    "Bei einer Durchsuchung des Hauses in Swakopmund findet die Polizei menschliche Knochen auf dem Dachboden und massive Blutspuren.",
+    "Thomas hat seine Frau erschlagen, den Körper zerteilt, in einem Topf gekocht und die Knochen im Ofen getrocknet.",
+    "Zahlreiche Frauen demonstrieren in Swakopmund gegen häusliche Gewalt und fordern strenge Strafen.",
+    "Im Dezember 1999 wird Thomas vom Obergericht in Windhoek zu lebenslanger Haft verurteilt.",
+    "Jahre später gesteht Thomas die Tat in einem Eilantrag, scheitert jedoch mehrfach mit Anträgen auf Haftverkürzung und Bewährung."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T07:02:04+00:00",
+    "am": "2026-08-21T11:47:59+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

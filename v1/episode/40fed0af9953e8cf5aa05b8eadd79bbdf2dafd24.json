@@ -17,29 +17,33 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Die Geschichte des Kreislaufmittels Frauengold und seiner krebserregenden Inhaltsstoffe.",
-  "kurzfassung": "Das millionenfach verkaufte Kreislaufmittel Frauengold war in der Nachkriegszeit ein populäres Beruhigungsmittel für Hausfrauen und verbarg hinter Kräutern vor allem 16,5 Prozent Alkohol. Erst 1981 wurde das tonikumähnliche Produkt verboten, nachdem Tierversuche eine stark krebserregende Wirkung der enthaltenen Aristolochiasäure nachgewiesen hatten. Das Verbot markierte nicht nur das Ende eines fragwürdigen Gesundheitsprodukts, sondern fiel auch in eine Zeit des gesellschaftlichen Wandels der Frauenrolle.",
+  "einzeiler": "Wie das umstrittene Kreislaufmittel Frauengold jahrzehntelang Frauen betäubte.",
+  "kurzfassung": "Das Kreislaufmittel Frauengold war in der Bundesrepublik jahrzehntelang ein populäres, alkoholhaltiges Tonikum, das ein starres Frauenbild stützte. Erst 1981 wurde das Mittel verboten, nachdem Tierversuche eine stark krebserzeugende Wirkung der enthaltenen Aristolochiasäure offenbart hatten. Bis heute lässt sich kaum noch nachvollziehen, wie stark die Gesundheit zahlreicher Anwenderinnen dadurch geschädigt wurde.",
   "stichpunkte": [
-    "Das Kreislaufmittel Frauengold wurde in den 1950er- und 60er-Jahren aggressiv beworben, um das traditionelle Hausfrauen- und Versorger-Modell zu stützen.",
-    "Hinter dem Kräutertonikum verbarg sich im Wesentlichen ein Südwein mit 16,5 Prozent Alkohol, der den Frauen in einer oft konfliktreichen Nachkriegsgesellschaft als legale Alltagsdroge diente.",
-    "Pharmazeutisch enthielt Frauengold neben harmlosen Kräutern auch die Pflanze Osterluzei, deren Inhaltsstoff Aristolochiasäure stark nierenschädlich und krebserregend ist.",
-    "Bis zum neuen Arzneimittelgesetz von 1976 benötigten viele solcher Präparate kein behördliches Zulassungsverfahren und mussten ihre Wirksamkeit oder Unbedenklichkeit nicht nachweisen.",
-    "Durch Tierversuche mit dem Wirkstoff im Rahmen anderer Studien entdeckten Forscher zufällig das extreme krebserzeugende Potenzial der Aristolochiasäure.",
-    "Das Bundesgesundheitsamt reagierte 1981 mit dem endgültigen Verbot von Frauengold und hunderten anderen astrolochiahaltingen Medikamenten über ein neu geschaffenes Stufenplanverfahren.",
-    "Wie vielen Frauen durch den regelmäßigen Konsum des Tonikums gesundheitlich geschadet wurde, lässt sich im Nachhinein kaum noch nachweisen."
+    "Das Kreislaufmittel Frauengold wurde in den 1950er-Jahren aggressiv beworben und bediente ein traditionelles Hausfrauen- und Mütterideal.",
+    "Hinter dem Kräutertonikum verbarg sich vor allem ein hochprozentiger Wein, der Frauen im Alltag als sozial legitimierter Alkoholersatz diente.",
+    "Bis zum Inkrafttreten strengerer Gesetze konnten zahlreiche Präparate ohne behördliche Wirksamkeits- oder Sicherheitsnachweise verkauft werden.",
+    "Eine von dem Hersteller Madaus durchgeführte Tierstudie mit der im Tonikum enthaltenen Pflanze Osterluzei lieferte erschreckende Krebsbefunde.",
+    "Die Aristolochiasäure erwies sich in Tests als eines der stärksten bekannten krebserzeugenden Mittel.",
+    "Das neu geschaffene Bundesgesundheitsamt entzog Frauengold und hunderten anderen osterluzeihaltigen Präparaten im August 1981 die Zulassung.",
+    "Ein systematisches Nebenwirkungsregister gab es damals nicht, weshalb sich das Ausmaß der gesundheitlichen Schäden bei Anwenderinnen im Nachhinein kaum beziffern lässt."
   ],
   "kapitel": [
     {
-      "titel": "Das Versorger-Modell und der Griff zum Fläschchen",
+      "titel": "Das Versorger-Hausfrauen-Modell und die Vermarktung von Frauengold",
       "start": 27.74
     },
     {
-      "titel": "Die wahre Wirkung: Alkohol und fragwürdige Kräuter",
-      "start": 264.9
+      "titel": "Alkohol als legalisiertes Seelenpflaster im Alltag",
+      "start": 237.38
     },
     {
-      "titel": "Toxische Tierversuche und das schließliche Verbot",
-      "start": 495.98
+      "titel": "Die giftige Pflanze Osterluzei und fehlende Arzneimittelkontrollen",
+      "start": 375.64
+    },
+    {
+      "titel": "Schockierende Tierversuche und das behördliche Verbot im Jahr 1981",
+      "start": 503.58
     }
   ],
   "clips": [
@@ -120,11 +124,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T02:29:21+00:00",
+    "am": "2026-08-21T11:55:49+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

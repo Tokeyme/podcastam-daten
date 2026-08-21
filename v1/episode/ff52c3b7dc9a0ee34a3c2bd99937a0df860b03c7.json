@@ -17,71 +17,54 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Gunnar Lott und Christian Schmidt sprechen über den Taktik-Klassiker Syndicate von…",
-  "kurzfassung": "Der Podcast beleuchtet den 1993 erschienenen Echtzeit-Taktik-Klassiker Syndicate von Bullfrog und Peter Molyneux. Die Hosts diskutieren das düstere Cyberpunk-Szenario, die Mechaniken und Schwächen des Spiels sowie den Einfluss und die Besonderheiten von Peter Molyneux. Dabei teilen sie persönliche Erinnerungen an das Gameplay, die Hardware jener Zeit und Begegnungen mit dem Entwickler.",
+  "einzeiler": "Gunnar Lott und Christian Schmidt besprechen den Taktik-Klassiker Syndicate von Bullfrog.",
+  "kurzfassung": "Der Podcast beleuchtet den 1993 erschienenen Echtzeit-Taktik-Klassiker Syndicate von Bullfrog und Peter Molyneux. Die Hosts diskutieren das düstere Cyberpunk-Szenario, die Mechaniken rund um Agenten und den Flammenwerfer sowie die historische Einordnung. Zudem wird auf die Faszination und die Besonderheiten des Designers Peter Molyneux eingegangen.",
   "stichpunkte": [
-    "Das Spiel Syndicate von Bullfrog und Peter Molyneux erschien 1993 als Echtzeit-Taktikspiel mit starkem Cyberpunk-Szenario.",
-    "Die dystopische Welt wird von skrupellosen Megakonzernen beherrscht, für die der Spieler ein Team kybernetisch verbesserter Agenten steuert.",
-    "Das Intro zeigt drastisch die Rekrutierung und den Umbau von Passanten zu Superkriegern in Render-Grafik.",
-    "Das Spiel bietet eine detaillierte isometrische Stadt- und Wirtschaftssimulation, leidet aber unter schwacher Gegner-KI und problematischer Wegfindung.",
-    "In der Praxis lassen sich viele Missionen sehr einfach lösen, indem man Agenten mit weitreichenden Waffen oder dem Flammenwerfer an Hausecken positioniert.",
-    "Spezialgegenstände wie das Persuadertron und eingebettete Sprengsätze für Selbstmordattentate unterstreichen den zynischen Ton des Spiels.",
-    "Das Add-on American Revolt erhöht den Schwierigkeitsgrad drastisch durch strenge Zeitlimits und unbarmherzige Angriffe.",
-    "Peter Molyneux gilt als charismatischer, visionärer Entwickler mit einem einzigartigen Talent für Inszenierung und Selbstironie."
+    "Syndicate verbindet ein pessimistisches Cyberpunk-Szenario mit Echtzeit-Taktik.",
+    "Das Intro zeigt in Render-Grafik die rücksichtslose Rekrutierung kybernetischer Agenten.",
+    "Trotz des Anspruchs als Taktikspiel lässt sich die Kampagne oft durch passive Positionierung und starke Waffen wie den Flammenwerfer lösen.",
+    "Spielmechanisch prägen unter anderem das Forschungsmenü, automatisierte Tore und das Persuadertron das Geschehen.",
+    "Die faroarme VGA-Optik und die radikale, zynische Spielwelt passen perfekt zum dystopischen Grundton.",
+    "Peter Molyneux und Bullfrog schufen mit dem Spiel einen einzigartigen Meilenstein abseits gängiger Konventionen.",
+    "Das Add-on American Revolt zog den Schwierigkeitsgrad drastisch an und setzte stark auf getimte Abläufe."
   ],
   "kapitel": [
     {
-      "titel": "Einleitung und Aufnahmebedingungen",
+      "titel": "Einführung und das düstere Szenario von Syndicate",
       "start": 0.0
     },
     {
-      "titel": "Das Szenario: Cyberpunk und Megakonzerne",
-      "start": 175.3
-    },
-    {
-      "titel": "Grafik, Technik und Erinnerungen an 1993",
+      "titel": "Grafik, Technik und der faroarme Look",
       "start": 506.72
     },
     {
-      "titel": "Spielablauf, Forschung und der Flammenwerfer",
+      "titel": "Spielverlauf, Forschung und der Einsatz des Flammenwerfers",
       "start": 674.42
     },
     {
-      "titel": "Stadtsimulation, Tore und Taktik",
-      "start": 873.48
+      "titel": "Taktik, automatische Tore und das Persuadertron",
+      "start": 871.18
     },
     {
-      "titel": "Das Persuadertron und der Zynismus des Spiels",
-      "start": 1519.66
+      "titel": "Zeithistorischer Kontext und Cyberpunk in den 90ern",
+      "start": 1697.36
     },
     {
-      "titel": "Zeitgeschichtlicher Kontext und Dystopien",
-      "start": 1707.4
+      "titel": "Das Add-on American Revolt und das umstrittene Ende",
+      "start": 2315.84
     },
     {
-      "titel": "Zukunftsvisionen und Interfaces",
-      "start": 2057.4
-    },
-    {
-      "titel": "Das Ende des Hauptspiels und das schwere Add-on",
-      "start": 2248.54
-    },
-    {
-      "titel": "Warum Syndicate ein Klassiker ist und europäischer Spielegeschmack",
+      "titel": "Die Einzigartigkeit des Spiels und Erinnerungen an Peter Molyneux",
       "start": 2691.22
-    },
-    {
-      "titel": "Erinnerungen an Peter Molyneux",
-      "start": 3234.1
     }
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T23:14:28+00:00",
+    "am": "2026-08-21T12:01:19+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

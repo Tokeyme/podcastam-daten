@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte, Mechaniken und das Vermächtnis von Peter Molyneux' Götterspiel…",
-  "kurzfassung": "Black & White verknüpft eine ambitionierte Weltsimulation und Götterfantasie mit einer eigenwilligen Handsteuerung und einem aufwendigen Tamagotchi-Kreaturensystem. Das Spiel gilt bis heute als faszinierendes, aber oft mühsames und widersprüchliches Experiment des Spieledesigns. Die Hosts beleuchten ausführlich das Gameplay, die Entstehungsgeschichte bei Lionhead Studios und den langen Weg bis zum Release im Jahr 2001.",
+  "einzeiler": "Rueckblick auf Peter Molyneuxs Goetterspiel-Klassiker Black & White aus dem Jahr 2001.",
+  "kurzfassung": "Die Hosts besprechen Peter Molyneuxs Goetterspiel Black & White und beleuchten die ambivalente Rezeptionsgeschichte sowie die beruehmte GameStar-Wertung von 84 Prozent. Dabei analysieren sie die innovative, aber oft mühsame Steuerung per Hand, das Siedlungsmanagement und die komplexe, wenngleich in der Praxis eingeschränkte künstliche Intelligenz der Kreatur. Im zweiten Teil zeichnen sie anhand von Interviews und historischen Quellen die Entstehungsgeschichte bei den Lionhead Studios nach.",
   "stichpunkte": [
-    "Das Götterspiel Black & White erschien 2001 als Debütwerk von Peter Molyneux' neuem Studio Lionhead und wurde von Fachpresse und Community extrem unterschiedlich aufgenommen.",
-    "Spieler schlüpfen in die Rolle einer körperlosen Hand, die über eine Wasserwelt mit autonomen Stämmen schwebt und ihren Einflussbereich durch Wunder und Bekehrung ausweitet.",
-    "Das Spiel verzichtet weitgehend auf klassische Menüs und setzt stattdessen auf eine unmittelbare Steuerung und kontextbezogenes Feedback in der 3D-Spielwelt.",
-    "Ein zentrales Element ist die riesige Kreatur, die als Stellvertreter des Spielers dient und durch operante Konditionierung (Belohnung und Bestrafung) erzogen werden muss.",
-    "Die Kreaturenerziehung erweist sich im Spielverlauf oft als intransparent und zeitaufwendig, bietet jedoch abseits der eigentlichen Kampagne große spielerische Freiheiten.",
-    "Das Spiel entwirft ein binäres Moralsystem für gut und böse, das vor allem das Wohl der Dorfbewohner bewertet, aber spielerisch nur geringe Auswirkungen hat.",
-    "Die Entwicklung bei Lionhead war von enormem Crunch und einer stark wachsenden, informellen Teamkultur geprägt, wobei das Team ambitionierte Features wie ein lokales Wettersystem integrierte.",
-    "Nach dem großen kommerziellen und kritischen Erfolg folgten das Add-on Creature Isle sowie der Nachfolger Black & White 2, ehe die Serie eingestellt wurde."
+    "Black & White erschien 2001 als Debütwerk der Lionhead Studios unter der Leitung von Peter Molyneux und wurde international hoch gelobt, sorgte bei der GameStar jedoch für heftige Reaktionen wegen einer 'nur' 84-prozentigen Wertung.",
+    "Die Steuerung erfolgt unkonventionell über eine schwebende göttliche Hand und Gesten anstelle klassischer Menüs, was in der Praxis oft umständlich und fehleranfällig ist.",
+    "Das Spiel teilt sich spielmechanisch in zwei Bereiche: das triviale Siedlungsmanagement zur Ausdehnung des eigenen Einflussbereichs und die komplexe, aber weitgehend optionale Erziehung der Kreatur.",
+    "Die Kreatur fungiert als tierischer Stellvertreter, lernt durch Beobachtung, Bestrafung und Belohnung, leidet jedoch unter mangelndem praktischen Nutzen im Spielverlauf.",
+    "Die Spielwelt simuliert rudimentär Natur, Wetter und Stammesgesellschaften, deren Bewohner friedlich und autonom ohne den Spieler auskommen.",
+    "Das Moral-System unterscheidet binär zwischen gut und böse, wobei die Handlungen des Spielers kaum spielmechanische Konsequenzen haben, sondern primär durch Berater kommentiert werden.",
+    "Die Entwicklung bei Lionhead war von intensivem Crunch, einem kleinen Team von Branchenveteranen und dem anarchischen, familiären Arbeitsklima geprägt.",
+    "Mit dem Nachfolger Black & White 2 verabschiedete sich Lionhead von vielen unkonventionellen Elementen und setzte stärker auf klassische Aufbaustrategie und Kriegführung."
   ],
   "kapitel": [
     {
@@ -269,11 +269,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:42:37+00:00",
+    "am": "2026-08-21T11:49:00+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

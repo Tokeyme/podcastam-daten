@@ -17,18 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Stay Forever startet eine eigene Plattform für mehr Unabhängigkeit von US-Diensten.",
-  "kurzfassung": "Der Podcast Stay Forever hat eine komplett neue, eigenentwickelte Webseite und Plattform gelauncht, um unabhängiger von Drittanbietern wie Patreon, Steady oder YouTube zu werden. Nutzerinnen und Nutzer können dort Podcasts hören, in einem flexiblen Feed-Builder eigene RSS-Feeds erstellen und unkompliziert Abos verwalten. Bisherige Abonnenten von Patreon und Steady können ohne finanzielle Nachteile auf die neue Plattform umziehen.",
+  "einzeiler": "Stay Forever wird unabhängiger und stellt eine eigene Plattform mit vielen neuen…",
+  "kurzfassung": "Stay Forever hat eine eigene, neue Website und Plattform gestartet, um unabhängiger von Drittanbietern wie Patreon, Steady und YouTube zu werden. Die neue Plattform bietet einen integrierten Player mit vergrößerbaren Kapitelbildern, durchsuchbare Transkripte und einen flexiblen Feed-Builder. Bestehende Abonnenten von Patreon und Steady können unkompliziert und unter Anrechnung ihrer Restlaufzeit auf das neue System wechseln.",
   "stichpunkte": [
-    "Relaunch der Plattform stayforever.de zur Steigerung von Unabhängigkeit und Datenschutz",
-    "Probleme mit Drittplattformen wie ungelöste Bugs, fehlende Features und Zensur bei Zitatrechten gaben den Anstoß",
-    "Neue Website bietet integrierten Player mit Zoom für Kapitelbilder, verbesserten Dark Mode und Daten-Hosting in Deutschland",
-    "Kostenloser Account ermöglicht den neuen 'Feed-Builder' für individuell zusammengestellte RSS-Feeds",
-    "Unterstützer-Abos können nahtlos auf die eigene Plattform migriert werden; bestehende Restlaufzeiten werden angerechnet",
-    "Technischer Stack basiert auf Svelte/SvelteKit, Redis, Postgres und S3-kompatiblem Object-Storage",
-    "Verzicht auf Cookie-Banner durch konsequente Vermeidung von externem Tracking",
-    "Patreon und Steady bleiben parallel bestehen, erhalten aber nicht alle neuen Features",
-    "Hausmeisterei: Das physische 'Stay Forever Journal' erscheint im Juli als exklusives Goodie für exzentrische Großmäzene"
+    "Start der neuen Website stayforever.de für mehr Unabhängigkeit von Drittplattformen und US-Konzernen",
+    "Probleme mit Drittanbietern: Einschränkungen beim Zitatrecht bei YouTube, fehlende Features und Bugs bei Patreon und Steady",
+    "Drei Nutzungssituationen auf der neuen Plattform: offener Bereich, kostenloser Account und Premium-Abo",
+    "Neue Funktionen umfassen einen Feed-Builder für individuelle RSS-Feeds, Dark Mode und verbesserte mobile Optimierung",
+    "Integriertes Datenelement für Transkripte und vergrößerbare Kapitelbilder im eigenen Podcast-Player",
+    "Vollständiger Verzicht auf Cookie-Banner durch den Verzicht auf Tracking und Drittanbieter-Integrationen",
+    "Wechsel von Patreon und Steady zur neuen Plattform ist unter Anrechnung der restlichen Laufzeit und mit einem Extra-Monat möglich",
+    "Bestehende Konten bei Patreon und Steady bleiben parallel unverändert bestehen",
+    "Hausmeisterei: Das „Stay Forever Journal“ als physisches Spieletagebuch im Format B5 für exzentrische Großmäzene im Druck"
   ],
   "kapitel": [
     {
@@ -82,11 +82,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:36:41+00:00",
+    "am": "2026-08-21T12:01:45+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

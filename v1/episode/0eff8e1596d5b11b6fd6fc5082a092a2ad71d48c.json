@@ -17,27 +17,27 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Wie toxische Männlichkeit und Social Media junge Männer in MV prägen.",
-  "kurzfassung": "Die Auftaktfolge widmet sich dem Rollenbild junger Männer im Osten Deutschlands im Spannungsfeld zwischen Härte, Social-Media-Inhalten und rechtsextremen Einflüssen. Anhand von Interviews mit dem Studenten Konstantin und dessen Freund Leo wird aufgezeigt, wie früh Ausgrenzung und der Druck, nicht schwach zu wirken, das Denken prägen. Dabei geraten Jugendliche schnell an Online-Inhalte der sogenannten Manosphere und zweifelhafte Vorbilder.",
+  "einzeiler": "Wie junge Männer in Ostdeutschland mit toxischen Männlichkeitsbildern aufwachsen.",
+  "kurzfassung": "Die Auftaktepisode beleuchtet, wie toxische Männlichkeitsbilder und rechte Ideologien das Aufwachsen von Jugendlichen prägen. Anhand von Interviews in Mecklenburg-Vorpommern wird gezeigt, wie Druck, Ausgrenzung und Social-Media-Inhalte junge Männer beeinflussen. Dabei schildern Protagonisten ihre persönlichen Erfahrungen mit Mobbing, Gewalt und dem vermeintlichen Zwang, stark zu sein.",
   "stichpunkte": [
-    "Konstantin und Leo berichten über ihre Jugend in Mecklenburg-Vorpommern und den ständigen Druck, stark zu sein.",
-    "Konstantin erlebte in der Grundschule Ausgrenzung wegen der Herkunft seiner Eltern und lernte früh, sich physisch zu wehren.",
-    "Rechtsextreme Parolen und antisemitische Sticker in Chats und auf der Straße gehörten für die Jugendlichen zum Alltag.",
-    "Fitness, Kampfsport und Online-Algorithmen führen Jugendliche zu Idealen wie dem 'Alpha-Wolf' oder Inhalten von Andrew Tate.",
-    "Leo sieht bei umstrittenen Influencern wie Andrew Tate vor allem positive Werte wie Disziplin und blendet Vorwürfe aus.",
-    "Konstantin hat Schwerin inzwischen verlassen, studiert in Kiel und erlebt dort einen offeneren, weniger aggressiven Umgang unter Männern."
+    "Hendrik Bolz widmet sich in Mecklenburg-Vorpommern der Frage, was junge Männer heute bewegt und warum sie oft bei extremen Männlichkeitsbildern landen.",
+    "Der 20-jährige Student Konstantin erzählt von seiner Kindheit in Schwerin, wo er wegen der ukrainischen Herkunft seiner Eltern gehänselt wurde.",
+    "Konstantin beschreibt, wie er in seiner Jugend und im Netz mit rassistischen und antisemitischen Inhalten konfrontiert wurde und diese aus Furcht vor Ausgrenzung tolerierte.",
+    "Erst durch den Umzug zum Studieren nach Kiel spürt Konstantin den Druck weniger, Stärke zeigen zu müssen.",
+    "Der ebenfalls aus Schwerin stammende Leo berichtet von seiner Zeit bei der Bundeswehr und betont die Bedeutung von Struktur und Disziplin.",
+    "Leo konsumiert Inhalte von Influencern wie Andrew Tate, wobei er betont, sich lediglich positive Aspekte wie den Fokus auf Fitness herauszupicken."
   ],
   "kapitel": [
     {
-      "titel": "Einstieg und das Dilemma der Jugend",
+      "titel": "Einführung in das Thema Männlichkeit",
       "start": 3.42
     },
     {
-      "titel": "Konstantins Geschichte in Schwerin",
-      "start": 300.48
+      "titel": "Gespräch mit Konstantin in Schwerin",
+      "start": 295.76
     },
     {
-      "titel": "Lockdown, Zocken und rechte Symbole",
+      "titel": "Erfahrungen mit Lockdowns und Extremismus im Netz",
       "start": 830.84
     },
     {
@@ -45,8 +45,8 @@
       "start": 1270.2
     },
     {
-      "titel": "Gespräch mit Leo und der Einfluss von Social Media",
-      "start": 1410.72
+      "titel": "Treffen mit Leo und Blick auf Online-Einflüsse",
+      "start": 1403.28
     }
   ],
   "clips": [
@@ -127,11 +127,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T04:35:03+00:00",
+    "am": "2026-08-21T11:54:47+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

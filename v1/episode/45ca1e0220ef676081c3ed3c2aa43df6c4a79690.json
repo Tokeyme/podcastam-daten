@@ -17,37 +17,37 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Schlechte Ernte bei Kartoffeln und Getreide, neues Drohnenforschungszentrum und Bäcker…",
-  "kurzfassung": "Der Deutsche Bauernverband meldet wegen Dürre und Hitze eine unterdurchschnittliche Getreide- und Kartoffelernte. In Sachsen-Anhalt hat ein neues Forschungszentrum für die Abwehr von Drohnen eröffnet. Zudem stellen Handwerksbäckereien mit späteren Öffnungszeiten und veränderten Schichten auf familienfreundlichere Arbeitsmodelle um.",
+  "einzeiler": "Schwierige Ernte im Hitzesommer, Drohnen-Forschungszentrum und Bäckerei ohne Nachtschicht.",
+  "kurzfassung": "Der Deutsche Bauernverband zieht wegen extremer Hitze und Trockenheit eine negative Bilanz der diesjährigen Ernte. In Sachsen-Anhalt hat ein neues Forschungszentrum für Drohnenabwehr die Arbeit aufgenommen. Zudem zeigt das Beispiel einer niedersächsischen Bäckerei, wie Handwerksbetriebe ohne nächtliche Arbeitszeiten auskommen können.",
   "stichpunkte": [
-    "Bauernverband meldet schlechtere Ernte bei Kartoffeln und Getreide durch Trockenheit und Hitze",
-    "Preise für Verbraucher bleiben vorerst stabil, da Getreide global gehandelt wird und nur einen Bruchteil des Produktpreises ausmacht",
-    "Bauernverbandspräsident fordert angesichts steigender Kosten und geringerer Erträge ein Sofortprogramm von der Bundesregierung",
-    "Neues Drohnenforschungszentrum in Sachsen-Anhalt soll Abwehr von Drohnen verbessern",
-    "Forschungszentrum arbeitet mit Sicherheitsbehörden, Industrie und Startups an schnelleren Lösungen",
-    "Bäckerei in Niedersachsen öffnet erst am Nachmittag, um Nachtschichten und unatraktive Arbeitszeiten zu vermeiden",
-    "Moderne Kühltechnik und angepasste Sortimente ermöglichen auch anderen Bäckereien schöneres Arbeiten und bessere Vereinbarkeit von Beruf und Familie",
-    "Hörerfeedback greift Ursachen für Aggressivität im Straßenverkehr auf und diskutiert Telematik-Tarife für Kfz-Versicherungen"
+    "Dürre und Hitzewellen sorgen für eine unterdurchschnittliche Getreide- und Kartoffelernte in Deutschland.",
+    "Bauernverbandspräsident Joachim Rukwied fordert angesichts stark gestiegener Kosten ein politisches Sofortprogramm.",
+    "Die Bundesregierung eröffnet ein neues Forschungszentrum für Drohnenabwehr am Flughafen Magdeburg-Kochstedt.",
+    "Das Zentrum soll Sicherheitsbehörden, Forschung und Industrie bei der Erkennung und Abwehr von Drohnen vernetzen.",
+    "Im Naturschutzgebiet Hohen Venn in Belgien kämpfen Einsatzkräfte weiterhin gegen tief sitzende Torfbrände.",
+    "Bund und Länder diskutieren über zusätzliche Finanzhilfen und Hitzeschutzmaßnahmen für Städte.",
+    "Der israelische Minister Ben Gwir sorgt mit radikalen Äußerungen im Gaza-Krieg international für scharfe Kritik.",
+    "Eine Handwerksbäckerei in Niedersachsen verzichtet komplett auf Nachtschichten und setzt auf sozialverträglichere Arbeitszeiten ab fünf Uhr morgens."
   ],
   "kapitel": [
     {
-      "titel": "Schwierige Ernte für Kartoffeln und Getreide",
-      "start": 52.54
+      "titel": "Schwierige Ernte im Hitzesommer",
+      "start": 28.56
     },
     {
-      "titel": "Neues Drohnenforschungszentrum in Sachsen-Anhalt",
+      "titel": "Neues Forschungszentrum gegen Drohnen",
       "start": 273.56
     },
     {
-      "titel": "Kurznachrichten: Waldbrand in Belgien, Hitzeschutz und Aussagen aus Israel",
+      "titel": "Kurznachrichten",
       "start": 452.7
     },
     {
-      "titel": "Bäckerei gegen den Trend: Späte Arbeitszeiten für bessere Vereinbarkeit",
+      "titel": "Bäckerei ohne Nachtarbeit",
       "start": 548.48
     },
     {
-      "titel": "Hörerpost zu Aggressivität im Straßenverkehr",
+      "titel": "Reaktionen auf Aggression im Straßenverkehr",
       "start": 788.36
     }
   ],
@@ -129,11 +129,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T02:29:14+00:00",
+    "am": "2026-08-21T11:54:49+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

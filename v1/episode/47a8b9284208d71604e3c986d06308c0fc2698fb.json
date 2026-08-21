@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Geschichte von Hudson, der PC Engine und dem zeitlosen Klassiker Bomberman 94.",
-  "kurzfassung": "Die Hosts beleuchten die Entstehungsgeschichte von Hudson Soft und der japanischen Konsole PC Engine. Im Zentrum steht dabei die Evolution der Bomberman-Reihe, gipfelnd in einer detaillierten Analyse des Meisterwerks Bomberman 94. Zudem wird der spätere Weg der Franchise über verschiedene Konsolengeneration bis hin zu modernen Sammlungen nachgezeichnet.",
+  "einzeiler": "Die Entstehungsgeschichte von Bomberman 94 und der PC Engine.",
+  "kurzfassung": "Die Hosts beleuchten die Geschichte der Konsolenplattform PC Engine sowie die Entwicklung von Hudson Soft. Im Fokus steht dabei Bomberman 94 als Höhepunkt der Spieleserie. Dabei werden sowohl das simple Kernprinzip als auch spätere Nachfolger und Ableger analysiert.",
   "stichpunkte": [
-    "Gruendung von Hudson Soft 1973 in Sapporo durch die Kudo-Brueder als Funk- und Elektronikladen",
-    "Frühe Software- und Spieleschwemme sowie die Entwicklung früher Labyrinth- und Bombenspiele wie Eric and the Floaters",
-    "Partnerschaft mit NEC zur Entwicklung der 8-Bit-Konsole PC Engine mit starken Grafikchips und U-Cards als Speichermedium",
-    "Markteinführung der PC Engine 1987 in Japan mit großem Startserfolg, gefolgt von der internationalen Vermarktung als TurboGrafx-16",
-    "Einführung des Fünf-Spieler-Multiplayers bei Bomberman für die PC Engine mithilfe des NEC Multitap",
-    "Detaillierte Analyse von Bomberman 94 als Höhepunkt der Reihe mit verfeinertem Solo-Modus, Reittieren (Louys) und rasanten Multiplayer-Partien",
-    "Vergleich mit späteren Portierungen wie Mega Bomberman für das Mega Drive",
-    "Weiterentwicklung der Serie auf dem Super Nintendo, dem Saturn, modernen Download-Plattformen und schließliche Übernahme durch Konami"
+    "Gründung von Hudson Soft im Jahr 1973 in Sapporo als Funk- und Elektronikladen",
+    "Frühe Labyrinth-Spiele und die Wurzeln von Bomberman in den 1980er Jahren",
+    "Entwicklung und Veröffentlichung der PC Engine im Jahr 1987 in Zusammenarbeit mit NEC",
+    "Technische Einordnung der PC Engine und ihrer Grafikchips durch einen Experten",
+    "Einführung des Multiplayer-Modus und der Louys (Reittiere) in den Nachfolgern",
+    "Analyse des zeitlosen Kern-Gameplays und der Dramaturgie einer Bomberman-Runde",
+    "Rolle und Umfang des Solo-Modus mit seinen thematischen Welten und Bosskämpfen",
+    "Spätere Seriengeschichte über das Super Nintendo, Sega Saturn bis hin zu modernen Ports"
   ],
   "kapitel": [
     {
@@ -365,11 +365,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:35+00:00",
+    "am": "2026-08-21T11:49:07+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

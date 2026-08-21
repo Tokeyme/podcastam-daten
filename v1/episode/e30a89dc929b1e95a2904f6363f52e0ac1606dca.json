@@ -17,59 +17,63 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Gunnar Lott und Christian Schmidt sprechen über den Adventure-Klassiker Baphomets Fluch.",
-  "kurzfassung": "In dieser aktualisierten ersten Folge widmen sich Gunnar Lott und Christian Schmidt dem Adventure-Klassiker Baphomets Fluch von Revolution Software. Sie beleuchten die Entstehungsgeschichte, den einzigartigen Humor, die bodenständige Hauptfigur George Stobart und den Mythos der Tempelritter. Zudem diskutieren sie die Stärken und Schwächen der Rätsel, die deutsche Sprachausgabe sowie die Portierungen und späteren Serienteile.",
+  "einzeiler": "Gunnar Lott und Christian Schmidt besprechen das Adventure-Klassiker Baphomets Fluch.",
+  "kurzfassung": "Die Podcaster analysieren das 1996 erschienene Adventure Baphomets Fluch von Revolution Software. Sie beleuchten die Entstehungsgeschichte, den einzigartigen Humor, die technische Umsetzung und das prägende Rätseldesign. Dabei vergleichen sie das Original auch mit dem späteren Director's Cut und Nachfolgern.",
   "stichpunkte": [
-    "Das Spiel startet mit einem Bombenanschlag auf ein Pariser Café, den der amerikanische Tourist George Stobart zufällig beobachtet.",
-    "Die Handlung verknüpft einen aktuellen Kriminalfall mit dem historischen Mysterium und den Mythen um den Orden der Tempelritter.",
-    "Entwickler Charles Cecil und Hauptautor Dave Cummins schufen mit George Stobart einen normalen, nahbaren Protagonisten mit viel ironischem Humor.",
-    "Die deutsche Lokalisierung wird für ihre herausragende Sprecherleistung und passgenaue Übersetzung gelobt.",
-    "Bestimmte Rätsel wie das berüchtigte Ziegenrätsel oder das Schachbrett-Puzzle in Spanien sorgen für Frust und unnötige Hürden.",
-    "Das Spiel setzt stark auf Animationen und filmische Inszenierung, was damals wie heute zur dichten Atmosphäre beiträgt.",
-    "Durch erfolgreiche Konsolen-Portierungen (u.a. auf die PlayStation) und spätere Smartphone-Umsetzungen avancierte die Marke zum Dauerbrenner.",
-    "Der umstrittene Director's Cut fügt zwar neue Inhalte hinzu, wird vom Originalspiel aufgrund von Änderungen und gekürzten Animationen jedoch oft unterschieden."
+    "Neuaufnahme der ersten Stay-Forever-Folge über den Adventure-Klassiker Baphomets Fluch von 1996.",
+    "Handlung dreht sich um den US-Amerikaner George Stobart, der in Paris Zeuge eines Bombenanschlags durch einen Clown wird.",
+    "Verbindung von realem historischen Setting um die Tempelritter mit einer modernen Verschwörungsgeschichte.",
+    "Hervorhebung des bodenständigen Protagonisten George Stobart und der Journalistin Nico Collard als Begleiterin.",
+    "Hohe Qualität der deutschen Synchronisation und Übersetzung, besonders im Vergleich zur englischen Fassung.",
+    "Detaillierte, aufwändige Handanimationen als Kern des cineastischen Inszenierungsansatzes.",
+    "Diskussion bekannter Schwächen im Rätseldesign wie das berüchtigte Ziegenrätsel und das Schachbrett-Rätsel.",
+    "Rückblick auf die Serienentwicklung, Portierungen für Konsolen und den späteren Kickstarter-erfolgten fünften Teil."
   ],
   "kapitel": [
     {
-      "titel": "Einleitung und die Idee hinter der Neuaufnahme",
+      "titel": "Einleitung und Hintergründe zum Remake",
       "start": 0.0
     },
     {
-      "titel": "Die Story: Tempelritter und der Anschlag in Paris",
+      "titel": "Die Story und der Mythos der Tempelritter",
       "start": 600.1
     },
     {
-      "titel": "Die Entstehungsgeschichte und Charles Cecils Inspiration",
-      "start": 968.5
+      "titel": "Der Director's Cut im Vergleich zum Original",
+      "start": 1366.86
     },
     {
-      "titel": "George Stobart und die Rolle des nahbaren Protagonisten",
-      "start": 1180.38
+      "titel": "Protagonist George Stobart und der Humor",
+      "start": 1679.56
     },
     {
-      "titel": "Das Team hinter dem Spiel: Charles Cecil und Dave Cummins",
+      "titel": "Entstehungsgeschichte und Autoren",
       "start": 2156.5
     },
     {
-      "titel": "Animationen, Technik und der cineastische Ansatz",
-      "start": 3738.88
+      "titel": "Nico Collard und die deutsche Synchronisation",
+      "start": 2591.78
     },
     {
-      "titel": "Konsolen-Erfolg und die Rätsel-Qualität",
-      "start": 4457.34
+      "titel": "Grafik, Animationen und die Engine",
+      "start": 3735.54
     },
     {
-      "titel": "Der Director's Cut und die späteren Serienteile",
-      "start": 6655.44
+      "titel": "Rätseldesign und die berüchtigten Hänger",
+      "start": 4693.16
+    },
+    {
+      "titel": "Der Name des Spiels und spätere Serienteile",
+      "start": 5337.98
     }
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T00:45:18+00:00",
+    "am": "2026-08-21T12:03:17+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

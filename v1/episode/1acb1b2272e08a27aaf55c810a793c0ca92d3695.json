@@ -17,17 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Eine Retrospektive zum britischen Cyberpunk-Adventure Beneath a Steel Sky von 1994.",
-  "kurzfassung": "Der Podcast beleuchtet Entstehungsgeschichte, Rätseldesign und Atmosphäre des Sci-Fi-Adventures Beneath a Steel Sky von Revolution Software. Dabei kommen neben den beiden Hosts auch Gründer Charles Cecil, Programmierer Tony Warriner sowie Experten zu Wort. Im Fokus stehen das Zusammenspiel von Humor und Dystopie, die Zusammenarbeit mit Comiczeichner Dave Gibbons sowie die Entwicklung der zugrundeliegenden Virtual-Theater-Engine.",
+  "einzeiler": "Rückblick auf das Sci-Fi-Adventure Beneath a Steel Sky von Revolution Software",
+  "kurzfassung": "Der Podcast beleuchtet das 1994 erschienene Sci-Fi-Adventure Beneath a Steel Sky von Revolution Software. Dabei analysieren die Hosts Gameplay, Rätseldesign, Musik und die dystopische Spielwelt. Zusätzliche Einblicke liefern Interviews mit den Entwicklern Charles Cecil und Tony Warriner sowie Comic-Experten.",
   "stichpunkte": [
-    "Besprechung des Klassikers Beneath a Steel Sky aus dem Jahr 1994 von Revolution Software",
-    "Ausführliche Einblicke in die Entstehungsgeschichte durch Interviews mit Charles Cecil und Tony Warriner",
-    "Rolle des Comiczeichners Dave Gibbons (Watchmen) für den Look und die Atmosphäre des Spiels",
-    "Analyse des Rätseldesigns, der Systemik und der Rolle des Roboter-Begleiters Joey",
-    "Vergleich der Sound- und Musikversionen zwischen DOS, Amiga und CD-ROM",
-    "Einordnung der humorvollen Elemente im Kontrast zur dystopischen Cyberpunk-Welt",
-    "Hintergrundgeschichte zur deutschen Lokalisierung ohne Kontext direkt aus dem Quelltext",
-    "Diskussion über das offene Ende und die Wirkung des Spiels im Vergleich zu LucasArts-Titeln"
+    "Einordnung von Beneath a Steel Sky in das spärliche Adventure-Jahr 1994",
+    "Handlung: Robert Foster wird aus einem postapokalyptischen Ödland in die vertikale Megastadt Union City verschleppt",
+    "Das Begleitersystem und die Rolle des Roboters Joey, dessen Platine in verschiedene Gehäuse eingesetzt werden kann",
+    "Diskussion über das Rätseldesign, das oft systemisch funktioniert und spielerisches Ausprobieren erfordert",
+    "Die Tonalität des Spiels zwischen düsterem Setting und trockenem Humor",
+    "Einfluss des Comic-Zeichners Dave Gibbons (Watchmen) auf das Intro und die visuelle Gestaltung",
+    "Unterschiede zwischen den Musikfassungen auf PC (MIDI) und Amiga (gesampelt)",
+    "Entstehungsgeschichte der Entwicklerfirma Revolution Software und die Entstehung des Virtual Theater",
+    "Rückblick auf das offene Spielende und das Schicksal von Union City"
   ],
   "kapitel": [
     {
@@ -465,11 +466,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:38:50+00:00",
+    "am": "2026-08-21T11:48:52+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

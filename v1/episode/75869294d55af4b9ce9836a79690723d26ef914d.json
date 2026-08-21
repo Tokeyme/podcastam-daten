@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Entstehungsgeschichte und das Gameplay von The Simpsons: Hit & Run.",
-  "kurzfassung": "The Simpsons: Hit & Run gilt als das beste Spiel zur langlebigen Zeichentrickserie und verbindet Action-Adventure-Elemente mit Fahrmissionen. Entwickelt von Radical Entertainment, erschien das Spiel im Jahr 2003 und konnte sich trotz der historischen Last schlechter Lizenzspiele als Hit etablieren. Im Podcast beleuchten die Hosts die Entwicklung, sprechen mit dem ehemaligen Projektmanager Wolfgang Hamann und analysieren Stärken sowie Schwächen des Spiels.",
+  "einzeiler": "Rückblick auf The Simpsons: Hit & Run und die Entstehungsgeschichte des Kultspiels.",
+  "kurzfassung": "The Simpsons: Hit & Run gilt bis heute als das beste Videospiel zur langlebigen Animationsserie. Entwickelt von Radical Entertainment, verband es 2003 eine offene Spielwelt mit actionreichen Fahr- und Erkundungselementen. Im Podcast sprechen die Hosts über die Entstehungsgeschichte, das Gameplay und ein Interview mit Projektmanager Wolfgang Hamann.",
   "stichpunkte": [
-    "Das Simpsons-Universum und frühere, meist enttäuschende Videospiel-Adaptionen der 90er-Jahre.",
-    "Der Wandel von Lizenzspielen um das Jahr 2001, maßgeblich beeinflusst durch EA's Harry Potter und den Vorgänger Simpsons Road Rage.",
-    "Hintergrund und Entwicklung von The Simpsons: Hit & Run durch das kanadische Studio Radical Entertainment.",
-    "Einblicke vom damaligen Projektmanager und Sound-Department-Leiter Wolfgang Hamann im Interview.",
-    "Spielmechanik: Die Mischung aus zu Fuß erkunden, Geldsammeln und den fokussierten, oft anspruchsvollen Fahrmissionen.",
-    "Die detailreiche und kreativ wiederverwendete Spielwelt von Springfield in sieben Levels.",
-    "Authentischer Humor, Originalsprecher und passgenaue Musikkompositionen als starker Fanservice.",
-    "Großer kommerzieller Erfolg mit rund acht Millionen verkauften Einheiten innerhalb eines Jahres."
+    "Rückblick auf die Simpsons-Euphorie der 90er-Jahre und frühere, oft mangelhafte Lizenzspiele.",
+    "The Simpsons: Hit & Run erschien im Herbst 2003 für PlayStation 2, Xbox, GameCube und PC.",
+    "Entwickler Radical Entertainment verwarf das alte Arcade-Fahrgefühl zugunsten einer realistischeren Physik-Engine.",
+    "Das Spiel ist in sieben Level mit jeweils sieben Hauptmissionen und verschiedenen spielbaren Charakteren unterteilt.",
+    "Zusätzlich zu den Fahrmissionen erkunden die Spieler Springfield zu Fuß, um Münzen für Autos und Outfits zu sammeln.",
+    "Das Design der Spielwelt und die Audiogestaltung orientieren sich stark am Humor und Stil der TV-Serie.",
+    "Ein Interview mit Projektmanager Wolfgang Hamann gewährt Einblicke in den harten Entwicklungsalltag und den Crunch.",
+    "Mit acht Millionen verkauften Einheiten wurde das Spiel ein riesiger kommerzieller Erfolg und gilt als Klassiker."
   ],
   "kapitel": [
     {
@@ -281,11 +281,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:48+00:00",
+    "am": "2026-08-21T12:01:35+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

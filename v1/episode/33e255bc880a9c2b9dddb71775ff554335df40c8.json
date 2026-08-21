@@ -17,40 +17,45 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Wie Kaiser Konstantin das Christentum legalisierte und die Weichen für Europa stellte",
-  "kurzfassung": "Mit der konstantinischen Wende im 4. Jahrhundert stieg das Christentum von der verfolgten Minderheit zur rechtlich anerkannten Religion im Römischen Reich auf. Kaiser Konstantin öffnete durch Toleranzedikte den Weg und prägte die Verbindung von Kirche und staatlicher Macht maßgeblich. Historiker ordnen diesen Übergang jedoch als einen langen, komplexen Prozess und nicht als plötzlichen Bruch ein.",
+  "einzeiler": "Kaiser Konstantin und die konstantinische Wende sowie der Aufstieg des Christentums",
+  "kurzfassung": "Kaiser Konstantin beendete die Christenverfolgung und leitete mit der Legalisierung des Christentums die konstantinische Wende ein. Im Römischen Reich wandelte sich das Christentum durch politische Bündnisse und Konzilien von einer verfolgten Glaubensgemeinschaft zur reichsweiten Machtfaktor. Dennoch blieb die historische Entwicklung von theologischen Konflikten, Machtkämpfen und dem Fortbestehen anderer Kulte geprägt.",
   "stichpunkte": [
-    "Kaiser Konstantin regierte das Römische Reich von 306 bis 337 und legte den Grundstein für den Aufstieg des Christentums.",
-    "Die Mailänder Vereinbarung von 313 garantierte Religionsfreiheit im Reich und beendete die systematische Christenverfolgung.",
-    "Die berühmte Vision an der Milvischen Brücke im Jahr 312 verknüpfte Konstantins Herrschaftsanspruch mit dem christlichen Gott.",
-    "Das Konzil von Nizea im Jahr 325 sollte durch die Festlegung der Wesensgleichheit von Gott und Jesus für religiöse Einheit sorgen, löste aber neue theologische Konflikte aus.",
-    "Die Forschung bewertet die 'konstantinische Wende' heute weniger als plötzlichen Umbruch, sondern als einen langjährigen Prozess der Verknüpfung von Kirche und Staat.",
-    "Mit dem Drei-Kaiser-Edikt von 380 wurde der trinitarische Glaube zur alleinigen Staatsreligion erhoben und Andersgläubige als Häretiker verfolgt."
+    "Kaiser Konstantin regierte das Römische Reich von 306 bis 337 und prägte die europäische Geschichte maßgeblich.",
+    "Die Tetrarchie teilte die Verwaltung des Römischen Reiches in eine West- und eine Osthälfte, um Krisen zu bewältigen.",
+    "Das Toleranzedikt von 311 durch Kaiser Galerius und die Mailänder Vereinbarung von 313 garantierten Religionsfreiheit.",
+    "Die Schlacht an der Milvischen Brücke im Jahr 312 verhalf Konstantin zum Alleinherrscher im Westen.",
+    "Konzilien wie das von Nicäa (325) sollten theologische Streitigkeiten beenden, lösten jedoch neue Konflikte aus.",
+    "Das Drei-Kaiser-Edikt von 380 erhob den trinitarischen Glauben zur staatlich sanktionierten Pflichtreligion.",
+    "Die Christianisierung des Imperiums verlief als langer Prozess mit politischen und gesellschaftlichen Umbrüchen."
   ],
   "kapitel": [
     {
-      "titel": "Einführung und Kaiser Konstantin",
+      "titel": "Einführung zu Kaiser Konstantin",
       "start": 3.14
     },
     {
-      "titel": "History Jeopardy: Das Quiz zu Konstantin",
+      "titel": "History Jeopardy",
       "start": 334.66
     },
     {
-      "titel": "Gespräch mit Althistoriker Bruno Bleckmann",
+      "titel": "Gespräch mit Bruno Bleckmann",
       "start": 630.0
     },
     {
-      "titel": "Gespräch mit Theologin Katharina Heyden",
+      "titel": "Der römische Götterkult und die Christenverfolgung",
+      "start": 1077.96
+    },
+    {
+      "titel": "Gespräch mit Katharina Heyden",
       "start": 1200.0
     },
     {
-      "titel": "Konzile und die Durchsetzung der Religionseinheit",
+      "titel": "Konzilien und das Christentum im spätrömischen Reich",
       "start": 1951.08
     },
     {
-      "titel": "Gespräch mit Theologe Volker Drecoll",
-      "start": 2087.4
+      "titel": "Gespräch mit Volker Drecoll",
+      "start": 2084.58
     },
     {
       "titel": "Fazit und Ausblick auf die nächste Folge",
@@ -135,11 +140,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T05:25:02+00:00",
+    "am": "2026-08-21T11:29:44+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Der Arcade-Klassiker Golden Axe im Rückblick: Spielmechanik, Geschichte und Nachwirkung",
-  "kurzfassung": "Der Podcast beleuchtet Segas Beat'em-Up-Klassiker Golden Axe aus dem Jahr 1989. Dabei werden das ungewöhnliche Fantasy-Setting, die Steuerung mit Waffen und Magie sowie die Entstehungsgeschichte im Umfeld von Spielen wie Double Dragon analysiert. Zudem geht es um Portierungen, Sequels und den nachhaltigen Einfluss der Reihe auf das Genre.",
+  "einzeiler": "Echsenreiter und Axtkämpfer: Die Geschichte des Arcade-Klassikers Golden Axe.",
+  "kurzfassung": "Golden Axe prägte 1989 das Beat'em-Up-Genre durch ein unverwechselbares Fantasy-Szenario, bewaffnete Helden und neue Bewegungsmechaniken wie das Sprinten. Die Hosts beleuchten die Entstehungsgeschichte des Sega-Hits, vergleichen die verschiedenen Portierungen und blicken auf die lange Historie der Spielreihe. Dabei analysieren sie das Kampfsystem, die Magie-Mechaniken und die Einordnung des Titels im Vergleich zu Genre-Konkurrenten wie Double Dragon und Final Fight.",
   "stichpunkte": [
-    "Ursprünglich 1989 als Arcade-Automat von Sega veröffentlicht und von Makoto Ushida entwickelt",
-    "Bringt ein ungewöhnliches Fantasy-Setting mit Schwert, Axt und Magie in das von urbanen Brawlern dominierte Genre",
-    "Führt als Genre-Innovation wählbare Charaktere (Ax Battler, Tyris Flare, Gilius Thunderhead) und das Sprinten ein",
-    "Das Magiesystem fungiert als Smart Bomb und lässt sich mit gesammelten Fläschchen unterschiedlich stark aufladen",
-    "Die wichtigste Heimkonsolen-Portierung erschien für das Sega Mega Drive und wurde zu einem großen Hit",
-    "Kommerziell in den Spielhallen zwar hinter Titeln wie Final Fight oder Turtles zurück, begründete aber eine langlebige Franchise",
-    "Sequels wie Revenge of Death Adder (1992) bauten das Konzept mit größerem Umfang und mehr Spielern aus",
-    "Die spätere Entwicklung umfasste Flops in den 2000ern sowie angekündigte Comebacks und eine geplante Animationsserie"
+    "Golden Axe erschien im Januar 1989 in Japan als Arcade-Automat und wurde von Sega entwickelt.",
+    "Das Spiel hebt sich durch ein Fantasy-Szenario und standardmäßig bewaffnete Charaktere von urbanen Brawlern wie Double Dragon ab.",
+    "Spieler wählen zwischen drei Protagonisten: dem Zwerg Gilius Thunderhead, dem Barbaren Ax Battler und der Kriegerin Tyris Flare.",
+    "Das innovative Magie-System funktioniert über sammelbare Fläschchen als flächendeckende Smart Bombs mit unterschiedlichen Stufen.",
+    "Das Spiel führt neue Mechaniken wie das Sprinten und kontrollierbare Sprünge in das Genre ein.",
+    "Trotz erfolgreicher Heimversionen, insbesondere für das Mega Drive, blieb das Spiel in der Spielhalle hinter Konkurrenten wie Final Fight zurück.",
+    "Die Reihe erfuhr mehrere Fortsetzungen, darunter das Arcade-Sequel Revenge of Death Adder und das Mega-Drive-exklusive Golden Axe II.",
+    "Eine Neuauflage der Marke kündigte Sega im Rahmen kommender Projekte und einer geplanten Animationsserie an."
   ],
   "kapitel": [
     {
@@ -417,11 +417,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:41:35+00:00",
+    "am": "2026-08-21T11:55:53+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Stay-Forever-Hosts beantworten Hörerfragen zu Arcade-Automaten, Berufen und Alltag.",
-  "kurzfassung": "In dieser Folge beantworten Fabian, Chris und Gunnar eine Auswahl an Hörerfragen. Dabei geht es um die Faszination für Arcade-Automaten, alternative handwerkliche Berufe und die Bedeutung der Bildschirmgröße beim Spielen. Zudem geben sie Einblicke in ihre Arbeitsorganisation und ihren Umgang mit Haustieren.",
+  "einzeiler": "Die Podcaster beantworten Hörerfragen zu Arcade-Automaten, Handwerksberufen und…",
+  "kurzfassung": "Die Stay-Forever-Hosts beantworten in dieser Folge Fragen aus der Hörerschaft. Dabei geht es um Wunsch-Arcade-Automaten für das Wohnzimmer, hypothetische Handwerksberufe und die Rolle der Bildgröße bei der Spieleerfahrung. Zudem sprechen sie über den Austausch hinter den Kulissen der Games-Podcaster-Szene und ihren täglichen Arbeitsalltag.",
   "stichpunkte": [
-    "Wunsch-Arcade-Automaten für das Wohnzimmer: Toki, Tekken World Cup, Mortal Kombat und NBA Jam.",
-    "Diskussion über handwerkliche Talente und die Frage, ob man als Tischler oder Gärtner glücklich würde.",
-    "Einfluss der Bildschirmgröße auf das Spielerlebnis: Von OLED-TVs bis hin zu Laptops.",
-    "Einblicke in die Vernetzung der Games-Podcast-Szene und den Austausch hinter den Kulissen.",
-    "Strukturierung des Arbeitsalltags zwischen Recherche, Produktion und privaten Verpflichtungen.",
-    "Persönliche Erfahrungen mit Haustieren und die Rolle von Katzen im Alltag.",
-    "Gedankenspiel: Investition einer Million Euro in den Podcast (Stiftung, Studio, Japan-Korrespondent).",
-    "Technische Meilensteine der Spielegeschichte aus Sicht der Hosts.",
-    "Spiele, die trotz passender Kriterien bei den Hosts nicht zünden konnten."
+    "Gespräch über Wunsch-Arcade-Automaten fürs Wohnzimmer wie Toki oder NBA Jam",
+    "Überlegungen zu handwerklichen Berufen abseits des digitalen Alltags wie Dachdecker oder Tischler",
+    "Diskussion über die Bedeutung der Bildgröße beim Computerspielen von OLED bis zum Laptop-Monitor",
+    "Einblicke in den hintergründigen Austausch und die Vernetzung innerhalb der Games-Podcaster-Szene",
+    "Einordnung des täglichen und wöchentlichen Arbeitsalltags als selbstständige Podcaster",
+    "Fragen zu Wunsch-Haustieren und passenden Namen sowie Vorlieben bei Katzen",
+    "Gedanken zur Investition einer fiktiven Million Euro in den Podcast oder eine Archiv-Stiftung",
+    "Rückblick auf technische Meilensteine und Spiele, bei denen man trotz passenden Profils abgeprallt ist"
   ],
   "kapitel": [
     {
@@ -78,11 +77,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:43:31+00:00",
+    "am": "2026-08-21T11:48:22+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-3.1-flash-lite",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

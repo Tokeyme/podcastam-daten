@@ -17,17 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Umfassender Blick auf die Geschichte, Monster und den Einfluss des Alien-Franchises.",
-  "kurzfassung": "Die Episode beleuchtet umfassend das Alien-Universum von den Anfängen des ersten Films 1979 bis zu modernen Ablegern. Dabei werden die Chronologie der fiktiven Welt, die verschiedenen Xenomorph-Mutationen, Megakonzerne sowie die Entstehungsgeschichte der Filme im Detail besprochen. Im Gespräch mit Spielejournalist Felix Rigg wird zudem die Historie der Videospielumsetzungen beleuchtet.",
+  "einzeiler": "Um- und Ausblicke in das ikonische Franchise und die Welt von Alien.",
+  "kurzfassung": "Die Episode beleuchtet umfassend das Franchise von Alien und zeichnet die erzählte Geschichte von den Anfängen im 21. Jahrhundert bis in ferne Zukunftsepochen nach. Dabei werden zentrale Elemente wie die xenomorphen Lebensformen, Konzepte und Regierungen sowie die Entstehungsgeschichte der Filme und Computerspiele analysiert. Im Gespräch mit Spielejournalist Felix Rigg wird zudem die Bedeutung der Videospielumsetzungen für die Reihe beleuchtet.",
   "stichpunkte": [
-    "Überblick über das transmediale Alien-Franchise mit Filmen, Romanen, Comics und Spielen",
-    "Chronologie der fiktiven Welt von Peter Weylands Firmengründung 2012 bis ins 25. Jahrhundert",
-    "Der parasitäre Lebenszyklus der Xenomorphe und alternative Kreaturen wie Protomorphen und Neomorphen",
-    "Die Rolle der Megakonzerne wie Weyland-Yutani und skrupelloser künstlicher Intelligenzen",
-    "Sozialer Hintergrund und Lebensrealität der Menschen im Retrofuturismus des Weltraums",
-    "Entstehungsgeschichte des ersten Films durch Dan O'Bannon und den Künstler H.R. Giger",
-    "Interview mit Spielejournalist Felix Rigg über die Historie und Bedeutung der Alien-Videospiele",
-    "Thematische Schwerpunkte wie Kapitalismuskritik, Genderrollen und das Motiv der Mutterschaft"
+    "Das Universum von Alien erstreckt sich über sieben Filme, Romane, Comics und über 30 Videospiele im 22. Jahrhundert.",
+    "Die menschliche Geschichte und Raumfahrt sind stark von mächtigen Megakonzernen wie Weyland-Yutani geprägt.",
+    "Xenomorphe durchlaufen einen parasitären Lebenszyklus, der von HR Giger designt wurde.",
+    "Zahlreiche evolutionäre Seitenpfade und alternative Kreaturen wie Protomorphen oder Neomorphen erweitern den Kanon.",
+    "Die Filmreihe begründete den grungy Weltraumhorror und prägte die Popkultur nachhaltig.",
+    "Wichtige Figuren wie Ellen Ripley, Androiden wie Ash und David sowie die Konzerne treiben die Handlung voran.",
+    "Die Entstehung des ersten Films von Ridley Scott gilt als klassischer 'Lightning in a Bottle'-Effekt.",
+    "Videospiel-Klassiker wie Alien Isolation bereichern das Franchise und erzählen eigenständige Geschichten.",
+    "Thematisch verhandelt das Universum Kapitalismuskritik, den Konflikt zwischen Biologie und Technologie sowie Genderrollen."
   ],
   "kapitel": [
     {
@@ -397,11 +398,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:19+00:00",
+    "am": "2026-08-21T11:53:09+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

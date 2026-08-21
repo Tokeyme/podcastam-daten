@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rueckblick auf den PS1-Klassiker Medal of Honor und seine historische Bedeutung.",
-  "kurzfassung": "Der Podcast beleuchtet die Entstehungs- und Entwicklungsgeschichte des Ego-Shooters Medal of Honor für die PlayStation 1. Die Hosts analysieren Gameplay, Steuerung, Technik und die filmische Praegung durch Steven Spielberg. Dabei wird auch die historische Relevanz des Spiels fuer das Genre des Weltkriegsshooters gewuerdigt.",
+  "einzeiler": "Medal of Honor: Der filmische Ego-Shooter, der das Weltkriegs-Genre nachhaltig prägte.",
+  "kurzfassung": "Medal of Honor etablierte 1999 das Setting des Zweiten Weltkriegs als ernstzunehmendes Szenario für Ego-Shooter. Mit filmischer Inszenierung und einem Fokus auf Authentizität setzte das Spiel neue Maßstäbe für Konsolen-Shooter. Trotz technischer Limitierungen der PlayStation 1 überzeugt der Titel bis heute durch sein Sounddesign und abwechslungsreiches Gameplay.",
   "stichpunkte": [
-    "Medal of Honor erschien 1999 als von Steven Spielberg initiierter Ego-Shooter fuer die PlayStation 1.",
-    "Hinter dem Spiel stand das Studio DreamWorks Interactive, dessen Gruendungsgeschichte im Fokus steht.",
-    "Die Entwicklung war von internen Widerstaenden gegen das realistische Zweite-Weltkriegs-Setting und Kontroversen begleitet.",
-    "Spielerisch ueberzeugt der Titel durch eine gelungene Atmosphaere, filmische Musik und ein innovatives Animation-System.",
-    "Das Spiel bietet neben direkten Feuergefechten auch abwechslungsreiche Schleich- und Undercover-Passagen.",
-    "Technisch bedingt sind die Level schlauchig und kompakt aufgebaut, um die Hardware-Grenzen der Konsole zu umgehen.",
-    "Medal of Honor legte den Grundstein fuer nachfolgende Weltkriegsshooter und inspirierte indirekt auch die Entstehung von Call of Duty.",
-    "Die fruehere Indizierung in Deutschland wurde kuerzlich nach 25 Jahren aufgehoben."
+    "Steven Spielberg initiierte das Projekt, um den Zweiten Weltkrieg filmisch in Videospielen abzubilden.",
+    "Das Studio DreamWorks Interactive nutzte für die Entwicklung Militärberater, um eine authentische Atmosphäre zu schaffen.",
+    "Das Spiel bietet eine abwechslungsreiche Kampagne, die neben Schießereien auch Schleichpassagen und den Einsatz von Ausweisen umfasst.",
+    "Die Steuerung auf der PlayStation 1 war innovativ, auch wenn sie noch vor der Etablierung des modernen Dual-Stick-Standards lag.",
+    "Besonders hervorzuheben sind die Soundkulisse und der Soundtrack von Michael Ciacchino, die maßgeblich zur Immersion beitragen.",
+    "Die KI der Gegner beeindruckt durch Reaktionen auf Granaten und das sogenannte Pain-State-System bei Treffern.",
+    "Das Spiel legte den Grundstein für spätere Serien wie Call of Duty und beeinflusste das Genre nachhaltig.",
+    "Nach 25 Jahren wurde die Indizierung des Spiels in Deutschland kürzlich aufgehoben."
   ],
   "kapitel": [
     {
@@ -341,11 +341,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:42:31+00:00",
+    "am": "2026-08-21T11:57:36+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

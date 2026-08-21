@@ -17,51 +17,55 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Gunnar Lott und Christian Schmidt sprechen über Vampire: The Masquerade und das RPG…",
-  "kurzfassung": "Gunnar Lott und Christian Schmidt widmen sich in dieser Episode den Vampir-Rollenspielen aus der World of Darkness. Sie beleuchten ausführlich den Vorgänger Redemption und die Stärken des Kultspiels Vampire: The Masquerade – Bloodlines von Troika Games. Dabei diskutieren sie Atmosphäre, Dialogsysteme, Clanklassen und die technische Seite der Titel.",
+  "einzeiler": "Gunnar Lott und Christian Schmidt über Vampire: The Masquerade und die World of Darkness.",
+  "kurzfassung": "Gunnar Lott und Christian Schmidt widmen sich in dieser Folge den Vampir-Rollenspielen Vampire: The Masquerade – Redemption und Vampire: The Masquerade – Bloodlines. Sie beleuchten die Faszination der dahinterstehenden World-of-Darkness-Mythologie, die Besonderheiten der spielbaren Clans sowie die Stärken und technischen Mängel der Entwickler Troika und Nihilistic. Dabei schwelgen sie in Erinnerungen an klassische Pen-and-Paper-Runden und diskutieren die atmosphärische Dichte der Computerspiele.",
   "stichpunkte": [
-    "Besprechung der Spiele Vampire: The Masquerade – Redemption und Bloodlines sowie des dahinterstehenden Troika-Studios",
-    "Vergleich mit anderen seltenen Vampirspielen wie Legacy of Kain und Bloodnet",
-    "Kritik an Redemptions Speichersystem, den unfairen Kämpfen und den Logiklücken bei der Gegnermasse",
-    "Rückblick auf die Entstehung von Troika Games durch die ehemaligen Fallout-Entwickler Boyarsky, Kaine und Anderson",
-    "Würdigung der exzellenten Atmosphäre, der Sprecher und der detailverliebten Dialoge in Bloodlines",
-    "Erklärung der tiefgreifenden Unterschiede beim Spielen verschiedener Clans wie Nosferatu und Malkavianer",
-    "Thematisierung des berüchtigten Community-Patch-Kriegs rund um die Bugfixes für Bloodlines",
-    "Diskussion über das erwachsene Szenario, die Maskerade-Mechanik und die Inszenierung von Sex im Spiel"
+    "Seltenheit von Videospielen mit Vampiren als Hauptfiguren",
+    "Rückblick auf frühe Vampir-Spiele wie Dracula (Intellivision) und Bloodnet",
+    "Besprechung von Vampire: The Masquerade – Redemption und dem Entwickler Nihilistic",
+    "Die Mythologie der World of Darkness und das Konzept der Maskerade",
+    "Hintergründe zu Troika Games und deren Entwicklungsgeschichte",
+    "Ausführliche Analyse von Vampire: The Masquerade – Bloodlines und seiner Spielmechaniken",
+    "Die Bedeutung der verschiedenen Clans wie Malkavianer und Nosferatu für das Spielerlebnis",
+    "Die Kontroversen um die inoffiziellen Community-Patches für Bloodlines"
   ],
   "kapitel": [
     {
-      "titel": "Einleitung und Vampirspiele",
-      "start": 31.08
+      "titel": "Einleitung und frühe Vampir-Spiele",
+      "start": 0.0
     },
     {
       "titel": "Vampire: The Masquerade – Redemption",
       "start": 348.92
     },
     {
-      "titel": "Das Entwicklerstudio Troika Games",
-      "start": 1300.36
+      "titel": "Pen-and-Paper-Hintergrund und Troika Games",
+      "start": 719.14
     },
     {
       "titel": "Vampire: The Masquerade – Bloodlines",
-      "start": 1758.12
+      "start": 1760.14
     },
     {
-      "titel": "Technik, Patches und Community",
+      "titel": "Clans, Dialoge und Atmosphäre",
+      "start": 1909.16
+    },
+    {
+      "titel": "Technik, Patches und Community-Streitigkeiten",
       "start": 2832.56
     },
     {
-      "titel": "Erwachsene Themen und Fazit",
+      "titel": "Erwachseneninhalte und Fazit",
       "start": 3076.6
     }
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T23:36:31+00:00",
+    "am": "2026-08-21T12:01:52+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

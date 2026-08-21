@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Ein tiefgreifender Blick auf das legendäre Star-Wars-Rollenspiel Knights of the Old…",
-  "kurzfassung": "Gunnar und Fabian analysieren das 2003 veröffentlichte Rollenspiel Knights of the Old Republic. Sie beleuchten die Entwicklungsgeschichte bei BioWare, das innovative Kampfsystem und die Bedeutung des Titels für das Star-Wars-Universum. Dabei reflektieren sie sowohl ihre persönlichen Erfahrungen als auch die historische Relevanz des Spiels.",
+  "einzeiler": "Rückblick auf das legendäre Star-Wars-Rollenspiel Knights of the Old Republic von BioWare.",
+  "kurzfassung": "Die Podcaster blicken auf das 2003 veröffentlichte Rollenspiel Knights of the Old Republic von BioWare zurück. Sie beleuchten die Entwicklungsgeschichte, das auf dem D20-System basierende Gameplay sowie die Entstehung des Klassikers. Dabei teilen sie auch persönliche Spielerfahrungen und analysieren den großen Story-Twist der Handlung.",
   "stichpunkte": [
-    "Das Spiel als erstes großes westliches Rollenspiel auf Konsolen.",
-    "Entwicklung durch BioWare: Der Wechsel von PC-Expertise zu Star Wars.",
-    "Die Bedeutung des D20-Regelwerks für das Kampfsystem.",
-    "Die Entscheidung für ein 3D-Szenario statt der klassischen 2D-Infinity-Engine.",
-    "Die Wahl der Ära: 4000 Jahre vor den Filmen als kreative Freiheit.",
-    "Die Rolle von Bastila und der emotionale Twist auf der Leviathan.",
-    "Die Herausforderungen der Xbox-Steuerung und das Interface-Design.",
-    "Der Einfluss auf spätere BioWare-Titel wie Mass Effect."
+    "Das 2003 erschienene Knights of the Old Republic ist das erste große Rollenspiel im Star-Wars-Universum.",
+    "Entwickelt wurde das Spiel vom kanadischen Studio BioWare, das zuvor vor allem für Baldur's Gate bekannt war.",
+    "Die Handlung ist in der Alten Republik angesiedelt, rund 4000 Jahre vor den Ereignissen der originalen Filmtrilogie.",
+    "Das Spiel nutzt eine 3D-Engine und basiert auf dem D20-Regelsystem von Wizards of the Coast.",
+    "Der spielbare Charakter entwickelt sich im Laufe der Geschichte zum Jedi und baut sein eigenes Lichtschwert.",
+    "Zu Beginn bereist die Gruppe verschiedene Planeten, um Teile einer mysteriösen Sternenkarte zu finden.",
+    "Ein zentraler, überraschender Wendepunkt der Handlung enthüllt die wahre Identität des Hauptcharakters als den früheren Sith-Lord Darth Revan.",
+    "Das Spiel bietet umfangreiche Begleiter-Interaktionen, Gesinnungsentscheidungen und ein rundenbasiertes Echtzeit-Kampfsystem mit Pausenfunktion."
   ],
   "kapitel": [
     {
@@ -349,11 +349,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:46:26+00:00",
+    "am": "2026-08-21T11:56:52+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-3.1-flash-lite",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

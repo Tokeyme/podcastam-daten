@@ -17,16 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Westwoods 3D-Dungeon-Crawler Lands of Lore glänzt 1993 mit Schauwerten und Zugänglichkeit.",
-  "kurzfassung": "Lands of Lore von Westwood Studios ist ein actionorientierter Dungeon-Crawler aus dem Jahr 1993. Das Spiel verbindet die Echtzeit-Mechanik bekannter Genre-Vorgänger mit einer stark vereinfachten Bedienung und opulenter VGA-Grafik. Die Geschichte führt den Spieler durch verschiedene Landschaften, um die böse Hexe Scotia zu besiegen und den vergifteten König Richard zu retten.",
+  "einzeiler": "Westwoods zugänglicher Dungeoncrawler mit Fokus auf Schauwerte und flüssige Grafik.",
+  "kurzfassung": "Lands of Lore ist ein klassisches Rollenspiel in der Tradition von Dungeon Master, das sich durch eine für 1993 beeindruckende grafische Inszenierung auszeichnet. Im Gegensatz zu komplexen D&D-Titeln setzt Westwood auf ein vereinfachtes, zugängliches Spielsystem ohne Charaktergenerierung. Trotz spielerischer Schwächen bei der Balance und Intransparenz bleibt es durch seine Atmosphäre und den hohen Komfort ein bemerkenswerter Genre-Vertreter.",
   "stichpunkte": [
-    "Erschienen im August 1993 von Westwood Studios als geistiger Nachfolger der Eye-of-the-Beholder-Reihe.",
-    "Bietet vier vorgefertigte Helden und eine dreiköpfige Party, verzichtet jedoch auf komplexe D&D-Regeln und Charaktergenerierung.",
-    "Setzt stark auf Grafik und Inszenierung mit detailreicher Pixelart, animierten Zwischensequenzen und bekannten Sprechern wie Patrick Stewart in der CD-Version.",
-    "Nutzt ein echtzeitbasiertes Kampfsystem und zoomende Bewegungen in der 3D-Perspektive.",
-    "Besitzt eine integrierte, automatische Karte, die auch versteckte Schalter markiert.",
-    "Fällt stellenweise durch Intransparenz und schwierige Rätsel auf, die zum Experimentieren oder Nachschlagen zwingen.",
-    "Verkaufte sich rund 250.000 Mal und war damit ein großer finanzieller Erfolg für das Studio."
+    "Westwood Studios entwickelte Lands of Lore nach dem Ende der Zusammenarbeit mit SSI.",
+    "Das Spiel verzichtet auf komplexe D&D-Regeln zugunsten eines intuitiven, zugänglichen Systems.",
+    "Die grafische Qualität und die aufwendigen Zwischensequenzen setzten 1993 neue Maßstäbe.",
+    "Die Engine bietet flüssige Bewegungsillusionen durch Zoom- und Stretching-Effekte.",
+    "Das Spiel leidet unter Balancing-Problemen und einer teilweise intransparenten Rätselführung.",
+    "Die CD-ROM-Version bietet eine hochwertige Sprachausgabe mit Sir Patrick Stewart.",
+    "Die Party besteht aus vorgefertigten Charakteren, was die Identifikation mit der Geschichte stärkt.",
+    "Das Inventar- und Zaubersystem ist stark vereinfacht, um den Spielfluss zu beschleunigen.",
+    "Trotz technischer Brillanz wirkt das Spiel gegen Ende durch unfertige Areale etwas gehetzt."
   ],
   "kapitel": [
     {
@@ -388,11 +390,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:46:39+00:00",
+    "am": "2026-08-21T11:57:15+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

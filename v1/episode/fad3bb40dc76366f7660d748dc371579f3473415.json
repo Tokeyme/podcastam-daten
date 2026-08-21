@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Analyse des Taktik-Shooter-Klassikers Rainbow Six von 1998 und dessen Entstehung.",
-  "kurzfassung": "1998 begründete Rainbow Six das Genre der Taktik-Shooter durch die Kombination aus minutiöser Einsatzplanung und tödlicher Ego-Shooter-Action. Die Folge beleuchtet den Werdegang von Autor Tom Clancy, die Gründung des Studios Red Storm Entertainment sowie die technischen Hürden während der Entwicklung. Zudem wird analysiert, wie die fehleranfällige Begleiter-KI und das rigide Spielprinzip den späteren Wandel der Reihe prägten.",
+  "einzeiler": "Der Taktik-Shooter Rainbow Six von 1998 und seine Verbindung zu Tom Clancy",
+  "kurzfassung": "Die Podcaster beleuchten die Entstehung und Spielmechanik des einflussreichen Taktik-Shooters Rainbow Six von 1998. Dabei analysieren sie den historischen Kontext rund um den Autor Tom Clancy und die Entwicklung des modernen Spezialeinheiten-Genres. Im Gespräch bewerten sie die Mischung aus detaillierter Planungsphase, sterblichen Teammitgliedern und den Tücken der damaligen KI.",
   "stichpunkte": [
-    "1998 markiert die Entstehung des Taktik-Shooters als Gegenentwurf zu schnellen Action-Shootern wie Quake.",
-    "Tom Clancys literarische Entwicklung vom geopolitischen Kalter-Kriegs-Thriller hin zu Spezialeinheiten legte das Fundament für Rainbow Six.",
-    "Nach ersten Erfolgen mit Buchumsetzungen gründete Tom Clancy 1996 gemeinsam mit David Smith das Studio Red Storm Entertainment.",
-    "Das Spielkonzept entstand unabhängig vom Roman als Projekt über ein FBI-Geiselbefreiungsteam und wurde erst später mit Clancys Buchstoff synchronisiert.",
-    "Die Zweckentfremdung einer nicht für Spiele optimierten 3D-Engine führte zu massiven Performance-Problemen und monatelangem Crunch.",
-    "Das Spielprinzip kombiniert eine taktische 2D-Routenplanung inklusive Ausrüstungswahl mit einem extrem tödlichen Echtzeit-Einsatz samt Permadeath.",
-    "Schwere Mängel in der Wegfindung und Taktik der computergesteuerten Teammitglieder machten viele Einsätze zu iterativen Trial-and-Error-Durchläufen.",
-    "Die Kampagne verbindet scheinbar isolierte Anti-Terror-Einsätze zu einer zusammenhängenden Handlung über ein Virus-Komplott von Ökoterroristen.",
-    "Mit Nachfolgern wie Ghost Recon und der Übernahme durch Ubisoft wurde die statische Planungsphase zugunsten dynamischer Echtzeitbefehle und Konsolen-Fokus aufgegeben."
+    "Das transformatives Jahr 1998 markiert den Aufstieg des Taktik-Shooters als realistisches Subgenre.",
+    "Das Spiel basiert auf der gleichnamigen fiktiven Anti-Terror-Einheit aus dem Universum des Autors Tom Clancy.",
+    "Red Storm Entertainment entwickelte den Titel unter schwierigen Bedingungen mit einem kleinen Team ohne Shooter-Erfahrung.",
+    "Das zentrale Spielprinzip trennt eine strategische Planungsphase von der eigentlichen Action in der Ego-Perspektive.",
+    "Treffer sind in der Regel tödlich, wodurch präzises Vorgehen und Permadeath für Teammitglieder im Fokus stehen.",
+    "Die computergesteuerten Kameraden agieren oft starr und fehlerhaft, was die Taktik in der Praxis erschwert.",
+    "Die Kampagne verbindet zunächst lose Terrorismus-Fälle zu einer globalen Verschwörung um Ökoterroristen.",
+    "Das spielerische Erbe lebt in späteren Serienteilen fort, auch wenn sich die Reihe stark Richtung Multiplayer entwickelte."
   ],
   "kapitel": [
     {
@@ -446,11 +445,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:38:07+00:00",
+    "am": "2026-08-21T11:59:00+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

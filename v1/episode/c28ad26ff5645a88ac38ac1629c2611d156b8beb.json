@@ -17,19 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Geschichte der Computernetzwerke und die Entstehung von Ethernet.",
-  "kurzfassung": "Die Episode beleuchtet die technische Entwicklung der Computervernetzung von den Anfängen mit Grossrechnern bis zur Erfindung und Etablierung von Ethernet. Dabei spielen Pionierprojekte wie das ALOHAnet und die Arbeit von Robert Metcalfs bei Xerox PARC eine zentrale Rolle. Abschliessend wird der Konkurrenzkampf der Standards in den 1980er Jahren und die Einführung wichtiger Protokolle beschrieben.",
+  "einzeiler": "Die spannende Entstehungsgeschichte von Ethernet und den frühen Computer-Netzwerken.",
+  "kurzfassung": "Die Episode beleuchtet die technischen Anfänge der Computervernetzung von den ersten Großrechnern über das ARPANET bis hin zur Erfindung und Standardisierung von Ethernet durch Robert Metcalfe bei Xerox PARC. Dabei werden auch konkurrierende Ansätze wie Token Ring sowie die Rolle von Softwareprotokollen und frühen PC-Netzwerken ausführlich besprochen. Der Bogen spannt sich bis zu den Grundlagen, die schließlich den Weg für spätere LAN-Partys ebneten.",
   "stichpunkte": [
-    "Frühe Netze nutzten Terminals an Grossrechnern und erste Fernverbindungen über Modems.",
-    "Das NPL in London entwickelte 1969 das erste paketvermittelnde Computernetz (Packet Switching).",
-    "Das ARPANET verband ab 1969 US-Forschungsstätten über Telefonleitungen und machte die Paketvermittlung populär.",
-    "Das ALOHAnet in Hawaii führte 1971 das Prinzip eines geteilten Kommunikationsmediums (Shared Medium) per Funk ein.",
-    "Robert Metcalf entwickelte bei Xerox PARC das Ethernet, inspiriert durch das ALOHAnet und Koaxialkabel mit Vampiranzapfung.",
-    "Im Mai 1973 entstand die formale Ethernet-Spezifikation bei Xerox, geprägt durch den Begriff des Lichtäthers.",
-    "Die DICS-Allianz (DEC, Intel, Xerox) trieb Ethernet als offenen Industriestandard voran.",
-    "Das IEEE-Komitee 802 standardisierte in den 1980ern neben Ethernet auch Token Ring und Token Bus.",
-    "Firmengründungen wie Metcalfs 3Com brachten Ethernet-Hardware für den IBM-PC in den Massenmarkt.",
-    "Netzwerkbetriebssysteme wie Novell NetWare und Protokolle wie IPX/SPX dominierten die Praxis vor der breiten TCP/IP-Ära."
+    "Frühe Computer waren isolierte Rechenmaschinen; erste Vernetzungsansätze nutzten Terminals und Modems für Großrechner.",
+    "Das britische NPL und das US-amerikanische ARPANET etablierten in den späten 1960er Jahren die richtungsweisende Paketvermittlung (Packet Switching).",
+    "Das hawaiianische Aloanet führte die Idee eines geteilten Kommunikationsmediums (Shared Medium) über Funk ein.",
+    "Robert Metcalfe entwickelte bei Xerox PARC das Ethernet, indem er Konzepte des Aloanet auf Koaxialkabel und Bus-Topologien übertrug.",
+    "Die DICS-Allianz (DEC, Intel, Xerox) trieb Anfang der 1980er Jahre die Entwicklung von Ethernet zu einem offenen Industriestandard voran.",
+    "Das IEEE-Komitee 802 standardisierte neben Ethernet auch konkurrierende Technologien wie Token Ring und Token Bus.",
+    "Netzwerkbetriebssysteme wie Novell NetWare und Protokolle wie IPX/SPX sowie NetBIOS prägten die PC-Vernetzung der 1980er und 1990er Jahre.",
+    "Technische Weiterentwicklungen von Thicknet über Thinnet (10Base2) bis hin zu Twisted-Pair (10BaseT) machten Ethernet massentauglich."
   ],
   "kapitel": [
     {
@@ -199,11 +197,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:38:40+00:00",
+    "am": "2026-08-21T11:57:49+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

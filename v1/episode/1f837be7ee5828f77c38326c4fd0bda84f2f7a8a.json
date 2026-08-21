@@ -17,34 +17,33 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Checker Tobi und Gast Leo gehen Mythen und Fakten rund um das Thema Piraten nach.",
-  "kurzfassung": "Checker Tobi und der zehnjährige Leo gehen gemeinsam mit Experten dem wahren Leben von Piraten auf den Grund. Dabei klären sie Fragen zu Haustieren, der Kapitänswahl und angeblichen Schatzverstecken. Zum Abschluss folgt eine knifflige Augenklappen-Challenge.",
+  "einzeiler": "Was von echten Piraten stimmt und welche Mythen Filme erfunden haben.",
+  "kurzfassung": "Tobi und Gast Leo gehen in dieser Podcastfolge typischen Piratenklischees auf den Grund. Mithilfe von Experten und Datenbank-Recherchen klären sie, ob Piraten Haustiere hatten, wie Kapitäne gewählt wurden und was an vergrabenen Schätzen dran ist. Zum Abschluss gibt es eine knifflige Augenklappen-Challenge.",
   "stichpunkte": [
-    "Das Bild von Piraten stammt meist aus Filmen; Papageien auf der Schulter waren beispielsweise eine Erfindung.",
-    "Statt echter Haustiere hatten Piraten oft Ziegen und Hühner für frische Lebensmittel sowie Ungeziefer wie Ratten an Bord.",
-    "Die Mannschaften wählten ihren Kapitän selbst und konnten ihn bei schlechter Leistung auch wieder absetzen.",
-    "Berühmte historische Figuren wie Blackbeard nutzten brennende Schnüre im Bart, um Gegner einzuschüchtern.",
-    "Neben männlichen Kapitänen gab es auch einflussreiche Frauen wie die chinesische Flottenanführerin Sheng Yi Zhao.",
-    "Piraten vergruben ihre Beute nicht, sondern verkauften erbeutete Handelswaren wie Gewürze oder Kakao direkt.",
-    "Auch moderne Piraten werden oft durch Armut zu Taten auf Schnellbooten anstelle von Segelschiffen getrieben.",
-    "Der deutsche Seeräuber Klaus Störtebecker verdankt seinen Namen der Legende, vier Liter Wein in einem Zug austrinken zu können."
+    "Das Bild von Piraten stammt vor allem aus Filmen und Büchern; Papageien als Haustiere auf der Schulter sind frei erfunden.",
+    "Piraten hatten oft Nutztiere wie Ziegen und Hühner an Bord, dazu Ungeziefer wie Ratten, Maden und Läuse.",
+    "Die Mannschaft wählte ihren Kapitän selbst und konnte ihn bei Unzufriedenheit auch wieder absetzen.",
+    "Berühmte historische Persönlichkeiten waren unter anderem Blackbeard, der brennende Schnüre im Bart trug, und die chinesische Kapitänin Sheng Yi Zhao.",
+    "Piraten vergruben ihre Beute nicht und zeichneten keine Schatzkarten, sondern verkauften erbeutete Handelswaren direkt.",
+    "Der deutsche Pirat Störtebeker erbeutete laut Legenden Güter für die Ärmere Bevölkerung und soll viel Wein getrunken haben.",
+    "Piraten gibt es in Form von modernen Seeräubern bis heute, die Frachtschiffe für Lösegeld entern."
   ],
   "kapitel": [
     {
-      "titel": "Begrüßung und die erste Checkerfrage zu Haustieren",
+      "titel": "Einleitung und Haustiere",
       "start": 78.88
     },
     {
-      "titel": "Die zweite Checkerfrage zur Wahl des Kapitäns",
+      "titel": "Die Wahl zum Kapitän und berühmte Piraten",
       "start": 364.42
     },
     {
-      "titel": "Die dritte Checkerfrage zu Schätzen und Schatzkarten",
+      "titel": "Schätze, Schatzkarten und moderne Piraten",
       "start": 788.42
     },
     {
-      "titel": "Piraten heute und die Augenklappen-Challenge",
-      "start": 893.12
+      "titel": "Augenklappen-Challenge und Abschluss",
+      "start": 964.36
     }
   ],
   "clips": [
@@ -125,11 +124,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T02:42:02+00:00",
+    "am": "2026-08-21T11:49:14+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,25 +17,27 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Podcast aus dem Schweizer Gästezimmer über Brettspiele, kalten Hund und Freibad-Knigge",
-  "kurzfassung": "Die Hosts melden sich aus einem Gästezimmer in der Schweiz und sprechen über ihre Abenteuer. Dabei geht es um Chris' jahrelanges Dilemma mit ungewollten Portionen der Nachspeise kalter Hund. Zudem diskutieren sie die These, dass Croissants auf dem Land größer als in der Stadt sind.",
+  "einzeiler": "Chris und Julia reflektieren über soziale Erwartungen, kulinarische Missverständnisse…",
+  "kurzfassung": "Chris und Julia nehmen ihren Podcast aus der Schweiz auf und reflektieren über ihr Leben. Dabei thematisieren sie das soziale Dilemma, wenn man aus Höflichkeit jahrelang eine ungeliebte Nachspeise akzeptiert. Zudem diskutieren sie über das Versteckspiel-Phänomen Manhunt und geben Tipps für unangenehme soziale Situationen im Freibad.",
   "stichpunkte": [
-    "Aufnahme im umgebauten Gästezimmer in der Schweiz bei Chris' Eltern",
-    "Chris leidet unter einem jahrelangen Missverständnis bezüglich der Nachspeise kalter Hund",
-    "Frust über unpraktische runden Schüsseln im Kühlschrank und virale Lifehacks",
-    "These: Je kleiner der Ort, desto größer das Buttercroissant beim Bäcker",
-    "Diskussion über das Versteckspiel-Trend-Hobby Manhunt für Erwachsene",
-    "Supermarkt-Kassierer als heimliche Superstars im eigenen Viertel",
-    "Hörerfrage von Julie zu einer unangenehmen Sonnencreme-Bitte im Freibad"
+    "Chris leidet unter der sozialen Verpflichtung, bei Besuchen in Deutschland stets den ungeliebten 'Kalten Hund' essen zu müssen.",
+    "Die Hosts diskutieren Strategien, wie man aus dieser kulinarischen Falle ausbrechen kann, ohne die Gastgeber zu kränken.",
+    "Kritik an unpraktischen runden Küchenutensilien wie Drehtellern im Kühlschrank.",
+    "Die These: Je kleiner der Ort, desto größer das Croissant.",
+    "Vorstellung von 'Manhunt' als modernes, erwachsenes Versteckspiel.",
+    "Ein 'Introvert-Tipp' für Manhunt als soziale Aktivität, bei der man sich dennoch zurückziehen kann.",
+    "Diskussion über die vermeintliche Prominenz von Supermarkt-Kassierern im eigenen Viertel.",
+    "Die Hosts raten dazu, im Freibad bei ungefragten Eincreme-Anfragen konsequent abzulehnen oder Ausreden zu nutzen.",
+    "Kurze Erwähnung von Coop-Cornflakes-Schokolade als günstiger Snack-Tipp."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T04:19:02+00:00",
+    "am": "2026-08-21T11:57:27+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,54 +17,59 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Gunnar Lott und Christian Schmidt sprechen über Revolution Software und Baphomets Fluch.",
-  "kurzfassung": "Gunnar Lott und Christian Schmidt widmen sich in ihrer ersten Podcast-Folge dem Entwicklerstudio Revolution Software und insbesondere der Adventure-Reihe Baphomets Fluch. Sie diskutieren die Entstehung des ersten Teils im Jahr 1996, die Besonderheiten der Portierungen auf moderne Plattformen wie das iPad und den Werdegang von Designer Charles Cecil. Dabei beleuchten sie Stärken und Schwächen der verschiedenen Serienteile im Vergleich zu anderen Genre-Grössen.",
+  "einzeiler": "Gunnar Lott und Christian Schmidt besprechen die Adventure-Serie Baphomets Fluch.",
+  "kurzfassung": "In der ersten Folge ihres Podcasts widmen sich Gunnar Lott und Christian Schmidt der Adventure-Reihe Baphomets Fluch von Revolution Software. Sie diskutieren die Besonderheiten der Serie, die Rolle des Designers Charles Cecil und die Herausforderungen bei der Portierung klassischer Point-and-Click-Spiele auf moderne Plattformen wie das iPad. Dabei reflektieren sie auch über die Entwicklung des Adventure-Genres und ihre persönlichen Erfahrungen mit den verschiedenen Teilen der Reihe.",
   "stichpunkte": [
-    "Besprechung des Adventure-Klassikers Baphomets Fluch (Broken Sword) von Revolution Software aus dem Jahr 1996.",
-    "Diskussion über die gelungene Portierung des Spiels auf moderne Touchscreen-Plattformen wie das iPad.",
-    "Würdigung von Studio-Chef Charles Cecil als prägende, aber unkonventionelle Figur der Spielebranche.",
-    "Vergleich zwischen dem erfolgreichen ersten Teil, dem globaleren zweiten Teil und den problematischeren 3D-Nachfolgern.",
-    "Analyse der im Vergleich zu LucasArts-Spielen besser gealterten, erwachsenen Geschichte und Comic-Grafik.",
-    "Erinnerung an Design-Spezialitäten wie das berüchtigte Ziegenrätsel aus dem ersten Teil.",
-    "Einordnung des Markterfolgs durch die Wiederveröffentlichung über moderne App Stores."
+    "Die Besonderheiten der internationalen Namensgebung der Spieleserie.",
+    "Die Rolle von Charles Cecil als zentraler Kopf hinter Revolution Software.",
+    "Der technologische Wandel von klassischen Adventures hin zu 3D-Experimenten.",
+    "Die Bedeutung der Sprachausgabe und des Soundtracks für die Atmosphäre.",
+    "Warum Comic-Grafik im Vergleich zu realistischer Darstellung besser altert.",
+    "Das berüchtigte Ziegenrätsel als Beispiel für frustrierendes Spieldesign.",
+    "Die Vor- und Nachteile der Touch-Steuerung auf dem iPad gegenüber der Maus.",
+    "Die Bedeutung von Neuauflagen und Director's Cuts für das Überleben des Studios."
   ],
   "kapitel": [
     {
-      "titel": "Intro und die Namensgebung von Baphomets Fluch",
-      "start": 0.0
+      "titel": "Einführung und das Konzept des Podcasts",
+      "start": 6.4
     },
     {
-      "titel": "Steuerung auf dem iPad und Retro-Erinnerungen",
-      "start": 242.9
+      "titel": "Die Namensgebung von Baphomets Fluch",
+      "start": 144.98
     },
     {
-      "titel": "Charles Cecil und die Geschichte von Revolution Software",
-      "start": 785.24
+      "titel": "Erfahrungen mit Portierungen und iPad-Steuerung",
+      "start": 237.9
     },
     {
-      "titel": "Inhalt und Atmosphäre des ersten Teils",
-      "start": 965.72
+      "titel": "Die Geschichte von Revolution Software",
+      "start": 791.42
     },
     {
-      "titel": "Technischer Fortschritt, Sprachausgabe und das Altern der Spiele",
-      "start": 1131.82
+      "titel": "Inhalt und Atmosphäre von Baphomets Fluch",
+      "start": 967.3
     },
     {
-      "titel": "Die schwächeren Nachfolger und das Ziegenrätsel",
-      "start": 1805.3
+      "titel": "Technik und Sprachausgabe im Jahr 1996",
+      "start": 1127.52
     },
     {
-      "titel": "Ausblick und Fazit",
-      "start": 2351.1
+      "titel": "Die Entwicklung der Serie und das Ziegenrätsel",
+      "start": 1801.78
+    },
+    {
+      "titel": "Zukunftsaussichten und Fazit",
+      "start": 2420.92
     }
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T00:07:10+00:00",
+    "am": "2026-08-21T11:59:24+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

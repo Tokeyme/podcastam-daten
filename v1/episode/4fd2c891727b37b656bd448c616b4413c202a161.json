@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die Geschichte des wegweisenden Laserdisc-Spiels Dragon's Lair von 1983.",
-  "kurzfassung": "Dragon's Lair revolutionierte 1983 die Spielhallen durch seine für damalige Verhältnisse kinoreife Zeichentrickgrafik. Das Spielprinzip basiert auf schnellen Reaktionen und dem Auswendiglernen von Sequenzen, um den Ritter Dirk durch ein gefährliches Schloss zu steuern. Trotz technischer Probleme der Laserdisc-Hardware und einer kurzen Lebensdauer bleibt es ein Meilenstein der Videospielgeschichte.",
+  "einzeiler": "Die Entstehungsgeschichte, Technik und Faszination des Laserdisc-Klassikers Dragon's Lair",
+  "kurzfassung": "Der Arcade-Klassiker Dragon's Lair revolutionierte 1983 die Spielhallen durch den Einsatz der Laserdisc-Technologie und handgezeichnete Zeichentrickgrafiken von Don Bluth. Trotz technischer Hürden und der Natur als reines Gedächtnisspiel prägte das Projekt die Videospielkultur nachhaltig. In dieser Folge beleuchten die Hosts die abenteuerliche Entstehung, die Technik und die verschiedenen Portierungen des Spiels.",
   "stichpunkte": [
-    "Die Arcade-Branche steckte 1983 in einer tiefen Krise mit massiven Umsatzrückgängen.",
-    "Dragon's Lair nutzte Laserdisc-Technologie für interaktive Zeichentrickfilme in Arcade-Qualität.",
-    "Die Entwicklung war eine riskante Kooperation zwischen Cinematronics, AMS und Don Bluth Productions.",
-    "Das Spielprinzip ist ein frühes Beispiel für Quicktime-Events, bei denen der Spieler im richtigen Moment reagieren muss.",
-    "Die Produktion war mit geschätzten zwei Millionen Dollar für die damalige Zeit extrem kostspielig.",
-    "Trotz hoher Einnahmen litten die Automaten unter technischer Anfälligkeit der Laserdisc-Player.",
-    "Der Hype um Laserdisc-Spiele flachte nach kurzer Zeit aufgrund technischer Probleme und mangelnder Langzeitmotivation ab.",
-    "Dragon's Lair gilt als Pionier für visuelles Storytelling in Videospielen."
+    "Umsatzeinbrüche in den US-Spielhallen ab 1982 und der kurze Boom der Laserdisc-Automaten durch Dragon's Lair",
+    "Die Funktionsweise der Laserdisc als analoges optisches Speichermedium mit schnellem Direktzugriff",
+    "Das schlichte Spielprinzip von Dragon's Lair: Ein interaktiver Zeichentrickfilm mit Joystick- und Schwert-Eingaben zur Vermeidung tödlicher Fallen",
+    "Die unwahrscheinliche Gründerallianz aus Cinematronics, Rick Dyers AMS und Don Bluth Productions",
+    "Enorme Produktionskosten und die Verwendung teurer, runderneuerter Pioneer-Laserdisc-Player im Automaten",
+    "Massiver Erfolg in den Spielhallen im Sommer 1983, gefolgt von schnellen Nachahmern und raschem Abflauen des Hypes",
+    "Technische und wirtschaftliche Probleme im Dauerbetrieb der Spielhallen durch überhitzende und anfällige Player",
+    "Zahlreiche Portierungen auf Heimcomputer und Konsolen von den 1980ern bis zu modernen Trilogie-Veröffentlichungen"
   ],
   "kapitel": [
     {
@@ -417,11 +417,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:46:06+00:00",
+    "am": "2026-08-21T11:54:05+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-3.1-flash-lite",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

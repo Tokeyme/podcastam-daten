@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf das ambitionierte Weltraumspiel Freelancer von 2003.",
-  "kurzfassung": "Die Hosts beleuchten die lange und schwierige Entwicklungsgeschichte des Weltraum-Klassikers Freelancer von Chris Roberts. Sie analysieren die Mischung aus zugänglicher Steuerung, filmreifer Kampagne und offener Spielwelt. Zudem diskutieren sie, wie sich verbleibende Lücken im Spieldesign auf die Faszination dieses einzigartigen Titels auswirken.",
+  "einzeiler": "Rückblick auf Chris Roberts' ambitioniertes Weltraumspiel Freelancer aus dem Jahr 2003.",
+  "kurzfassung": "Freelancer erschien im März 2003 nach einer schwierigen, von Chris Roberts' Visionen und dem Microsoft-Kauf geprägten Entwicklungsgeschichte. Das Open-World-Spiel verbindet eine filmreif inszenierte Story-Kampagne mit der Erkundung des Sirius-Sektors und einer zugänglichen Maussteuerung. Trotz gestrichener Features und einer statischen Spielwelt bleibt es bis heute ein faszinierender Genre-Klassiker.",
   "stichpunkte": [
-    "Freelancer erschien im März 2003 und gewann knapp eine Community-Abstimmung der Hosts.",
-    "Chris Roberts gründete 1996 Digital Anvil, um Spiele und Filme wie den Wing-Commander-Film zu verbinden.",
-    "Nach finanziellen Problemen übernahm Microsoft das Studio im Jahr 2000 und trennte sich von mehreren Projekten.",
-    "Unter Leitung von Jörg Neumann strich das Team unrealistische Features wie den MMO-Überbau und das dynamische Wirtschaftssystem.",
-    "Das Spiel bricht mit Genre-Konventionen durch eine intuitive Maussteuerung ohne Joystick-Pflicht.",
-    "Die 13-missionige Kampagne führt den Spieler Edison Trent durch vier irdisch nachempfundene Nationen des Sirius-Sektors.",
-    "Abseits der Kampagne bietet das Spiel eine freie Erkundung von Systemen, Handelsrouten und versteckten Schiffwracks."
+    "Chris Roberts stellte Freelancer 1999 als ambitioniertes Online-MMO im Stil von Privateer vor.",
+    "Nach dem Flop des Wing Commander Films und von Starlancer kaufte Microsoft das Studio Digital Anvil im Jahr 2000.",
+    "Jörg Neumann übernahm die Leitung und strich das MMO sowie viele komplexe Features, um das Spiel fertigzustellen.",
+    "Freelancer erschien im März 2003 und erhielt von der Fachpresse, darunter 90 Punkte in der GameStar, Bestnoten.",
+    "Die Steuerung bricht mit Genre-Konventionen und setzt komplett auf eine innovative Maus- und Verfolgerperspektive statt auf Joysticks.",
+    "Die 13 Missionen umfassende Kampagne erzählt eine filmisch inszenierte Geschichte um eine Alien-Bedrohung.",
+    "Abseits der Story bietet der Sirius-Sektor mit vier Hauptfraktionen, Handelsrouten und verlassenen Wracks eine große offene Welt zum Erkunden.",
+    "Kritikpunkte am fertigen Spiel sind die statische Wirtschaft, fehlende reaktive Spielmechaniken und stark vereinfachte Raumkämpfe."
   ],
   "kapitel": [
     {
@@ -404,11 +405,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:45:49+00:00",
+    "am": "2026-08-21T11:55:39+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

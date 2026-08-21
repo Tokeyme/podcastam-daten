@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf das 1986er Amiga-Spiel Defender of the Crown und seine Entstehungsgeschichte",
-  "kurzfassung": "Die Hosts besprechen den Amiga-Klassiker Defender of the Crown von Cinemaware. Sie analysieren die bahnbrechende, filmische Grafik des Spiels und beleuchten die turbulente Entstehungsgeschichte unter Bob Jacob. Trotz erheblicher spielmechanischer Mängel und stark begrenzter Tiefe gilt das Spiel bis heute als stilbildender Meilenstein.",
+  "einzeiler": "Rückblick auf den Amiga-Klassiker Defender of the Crown und seine Entstehungsgeschichte.",
+  "kurzfassung": "Die Hosts besprechen den 1986 erschienenen Amiga-Klassiker Defender of the Crown von CinemaWare. Sie beleuchten die revolutionäre, von Hollywood-Filmen inspirierte Grafik und Inszenierung von James Sachs. Gleichzeitig analysieren sie die stark limitierten, oft frustrierenden Spielmechaniken und die turbulente Entwicklungsgeschichte.",
   "stichpunkte": [
-    "Defender of the Crown erschien 1986 als Aushängeschild für den Commodore Amiga.",
-    "Das Spiel verbindet eine einfache Risiko-Strategiekarte mit verschiedenen Action-Sequenzen.",
-    "Hinter Cinemaware stand Gründer Bob Jacob, der Spiele als interaktive Hollywood-Filme konzipierte.",
-    "Grafiker James Sachs schuf den wegweisenden, detailreichen Pixel-Art-Stil.",
-    "Programmierer RJ Mikal musste das Spiel in nur drei Monaten unter extremer Zeitnot zusammenbauen.",
-    "Wichtige Elemente wie das Tjosten oder der Schwertkampf gelten spielerisch als frustrierend und unausgereift.",
-    "Das Spiel verkaufte sich hervorragend und machte den Amiga als grafische Plattform bekannt.",
-    "Zahlreiche spätere Neuauflagen und Remakes blieben meist nah am ursprünglichen Konzept."
+    "Defender of the Crown erschien 1986 als Amiga-Titel von Master Designer Software (später CinemaWare).",
+    "Das Spiel verbindet eine einfache Risiko-Strategiekarte mit diversen Action-Sequenzen wie Tjosten, Schwertkampf und Katapultschießen.",
+    "Bob Jacob gründete CinemaWare mit der Vision, interaktive Filme basierend auf Hollywood-Genres zu erschaffen.",
+    "Der Grafiker James Sachs prägte den Look des Spiels maßgeblich durch hochdetaillierte Pixel-Art.",
+    "Zeitdruck und technische Probleme führten dazu, dass das Spiel in einer unvollständigen Rumpfversion auf den Markt kam.",
+    "Programmierer RJ Mikal musste das Spiel in nur drei Monaten aus den vorhandenen Assets zusammenbauen.",
+    "Trotz spielmechanischer Mängel und unfairer Minispiele genießt der Titel wegen seiner audiovisuellen Präsentation Kultstatus.",
+    "Das Spiel erhielt über die Jahre verschiedene Remakes und Neuauflagen, erreichte aber nie wieder die historische Strahlkraft des Originals."
   ],
   "kapitel": [
     {
@@ -229,11 +229,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:47:30+00:00",
+    "am": "2026-08-21T11:51:07+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf den Kult-Klassiker Phoenix Wright: Ace Attorney und seine Spielmechanik",
-  "kurzfassung": "Die Hosts beleuchten das 2001 von Capcom veröffentlichte Adventure- und Visual-Novel-Hybrid Phoenix Wright: Ace Attorney. Dabei analysieren sie die Entstehungsgeschichte unter Game Director Shu Takumi und den typischen Gameplay-Loop aus Ermittlungsphasen und dramatischen Gerichtverhandlungen. Zudem diskutieren sie die japanischen Charakter-Archetypen, die Informationsökonomie des Spiels sowie den Erfolg der modernen Neuauflagen.",
+  "einzeiler": "Rückblick auf den Kult-Hit Phoenix Wright: Ace Attorney und seine Entstehung.",
+  "kurzfassung": "Die Hosts besprechen den Capcom-Klassiker Phoenix Wright: Ace Attorney von 2001, der Adventure-Mechaniken mit einer Visual Novel verbindet. Im Zentrum stehen die Arbeit als Junganwalt, Ermittlungsphasen und dramatische Gerichtsverhandlungen voller Wendungen. Dabei beleuchten sie die Entstehungsgeschichte um Erfinder Shu Takumi, die Figuren, den Humor und die Portierung für den Nintendo DS.",
   "stichpunkte": [
-    "Das Spiel erschien 2001 in Japan für den Game Boy Advance und wurde 2005/2006 für den Nintendo DS weltweit veröffentlicht.",
-    "Entwickelt wurde der Titel von Capcom unter der Leitung von Shu Takumi als Herzensprojekt nach dem Erfolg von Dino Crisis 2.",
-    "Der Spielablauf teilt sich in Ermittlungsphasen zum Sammeln von Hinweisen und spannende Gerichtsverhandlungen auf.",
-    "Spieler schlüpfen in die Rolle des jungen Anwalts Phoenix Wright und müssen Widersprüche in Zeugenaussagen aufdecken.",
-    "Die Story zeichnet sich durch zahlreiche unerwartete Wendungen, skurrile Charaktere und eine stark stilisierte Anime-Ästhetik aus.",
-    "Der DS-Port und spätere HD-Trilogien brachten Komfortfunktionen und verhalfen dem Titel zu weltweitem Erfolg.",
-    "Spätere Ableger und geistige Nachfolgerspiele wie Ghost Trick bauten auf Takumis Fokus auf deduktive Rätselketten auf."
+    "Das Spiel verbindet Elemente einer Visual Novel mit Adventure- und Detektiv-Mechaniken.",
+    "Entwickelt wurde der Titel von Shu Takumi bei Capcom, der zuvor unter anderem an Dino Crisis arbeitete.",
+    "Das Spielgeschehen wechselt zwischen Ermittlungsphasen zum Sammeln von Beweisen und turbulenten Gerichtsverhandlungen.",
+    "Der 24-jährige Protagonist Phoenix Wright deckt in mehreren Morden die Wahrheit auf und stellt Widersprüche in Zeugenaussagen fest.",
+    "Die DS-Version machte das Spiel durch Touchscreen-Steuerung und ein Mikrofon-Gimmick populär.",
+    "Die streng lineare Informationsökonomie und der feste Handlungsverlauf lassen kaum spielerische Freiheit oder Wiederspielwert zu.",
+    "Gegenüber dem Original für den Game Boy Advance enthält die DS-Fassung einen exklusiven fünften Bonusfall.",
+    "Mit modernen HD-Remaster-Trilogie-Fassungen ist das Spiel auch heute noch auf gängigen Plattformen verfügbar."
   ],
   "kapitel": [
     {
@@ -360,11 +361,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:36:28+00:00",
+    "am": "2026-08-21T11:57:55+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Professor Layton und das geheimnisvolle Dorf und die Geschichte der Rätsel-Reihe",
-  "kurzfassung": "Die Hosts besprechen das 2007 erschienene DS-Spiel Professor Layton und das geheimnisvolle Dorf von Level 5. Sie beleuchten die Entstehungsgeschichte des Entwicklers, die Einbindung der Rätsel von Akira Tago sowie die Sherlock-Holmes-Anleihen. Zudem gehen sie auf die Nachfolger, den Kinofilm und das Crossover mit Phoenix Wright ein.",
+  "einzeiler": "Professor Layton und das geheimnisvolle Dorf: Der Nintendo-DS-Hit im Retro-Rückblick.",
+  "kurzfassung": "Professor Layton und das geheimnisvolle Dorf verbindet klassische Rätselheft-Knobeleien mit einer charmanten Detektivgeschichte im europäischen Retrostil. Als wegweisender Erfolg für den Nintendo DS prägte das Spiel eine ganze Generation von Handheld-Abenteuern. Die Hosts beleuchten Entstehungsgeschichte, Mechaniken und die Besonderheiten der berühmten Spieleserie.",
   "stichpunkte": [
-    "Das erfolgreiche DS-Spiel Professor Layton und das geheimnisvolle Dorf verbindet ein Adventure mit klassischen Denksportaufgaben.",
-    "Entwickler Level 5 wurde 1998 von Akihiro Hino gegründet und setzte nach Rollenspielen wie Dark Cloud und Dragon Quest VIII auf eigene Marken für den Nintendo DS.",
-    "Die Rätsel des Spiels basieren zu großen Teilen auf den populären Büchern des japanischen Psychologen Akira Tago.",
-    "Spielmechanisch setzt das Spiel auf eine strukturierte Rätselskette, Touchscreen-Steuerung und Hinweismünzen statt auf klassische Point-and-Click-Gegenstandsrätsel.",
-    "Erzählerisch und optisch bedient sich die Reihe stark an Sherlock-Holmes-Archetypen und einem von Studio Ghibli inspirierten Fantasy-Europa.",
-    "Der Soundtrack von Tomohito Nishiura prägt die melancholisch-verträumte Atmosphäre der Serie.",
-    "Die Reihe wurde über die Jahre um mehrere Fortsetzungen, ein Prequel, einen Kinofilm, ein Crossover mit Phoenix Wright und Mobile-Portierungen erweitert.",
-    "Im Jahr 2026 soll mit Professor Layton und die neue Welt des Dampfes ein neuer Serienteil für die Nintendo Switch erscheinen."
+    "Das erfolgreiche Nintendo-DS-Spiel erschien 2007 in Japan und 2008 in Europa.",
+    "Entwickler Level 5 und Publisher Nintendo schufen einen Hit für neue Zielgruppen.",
+    "Das Spielprinzip kombiniert Adventure-Elemente mit 120 klassischen Denksportaufgaben.",
+    "Die Welt orientiert sich an Sherlock Holmes und zeigt ein märchenhaftes, alternatives Europa.",
+    "Der japanische Psychologe Akira Tago entwarf als Rätselmeister die Vorlagen für die Knobeleien.",
+    "Das Studio schuf mit einem unverwechselbaren Grafik- und Musikstil einen warmen, einladenden Ton.",
+    "Die Serie umfasst sechs Hauptspiele sowie Spin-offs und Prequels für DS, 3DS und Mobile.",
+    "Ein neues Serienspiel für Nintendo Switch ist für 2026 angekündigt."
   ],
   "kapitel": [
     {
@@ -377,11 +377,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:38:56+00:00",
+    "am": "2026-08-21T11:58:48+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

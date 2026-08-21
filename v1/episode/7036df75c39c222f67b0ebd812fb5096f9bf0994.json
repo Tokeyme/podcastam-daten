@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "guid": "5091e640-9a50-11f1-a11c-b73317b05249",
+  "apple_collection_id": null,
+  "show": "Zwischen den Zeilen",
+  "titel": "Paula Lambert: Die Leute sollten sich schämen | 66",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/EARLYSTUDIOSGMBH6792403465.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 97568999,
+    "format": "mp3",
+    "geprueft_am": "2026-08-21T11:52:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Paula Lambert spricht über Beziehungen, Sexualität, ihre Kindheit und toxische…",
+  "kurzfassung": "Paula Lambert ist zu Gast und spricht über ihre Kindheit, ihren Weg vom Journalismus zur Sexualberatung und die Entwicklung von Beziehungen. Dabei diskutiert sie den Wandel der Geschlechterrollen, die Folgen von Dating-Apps und die Bedeutung von emotionaler Arbeit. Zudem gibt sie Einblicke in ihre anstehende Deutschland-Tour.",
+  "stichpunkte": [
+    "Paula Lambert wuchs bei Pflegeeltern auf, nachdem sie als Säugling von ihrer drogensüchtigen Mutter vernachlässigt worden war.",
+    "Der Wechsel vom Journalismus zur Sexual- und Beziehungsberatung war ungeplant, entstand aber aus dem Wunsch, über Sexualität zu normalisieren.",
+    "In jungen Jahren nutzte sie Sex als Mittel, um Zuneigung und Bestätigung zu erhalten, was sie in Lebenskrisen stürzte.",
+    "Dating-Apps und Social Media haben laut Lambert zu einer Wegwerfmentalität und starker Ungeduld bei der Partnersuche geführt.",
+    "Männer müssen in modernen Beziehungen Care- und Beziehungsarbeit leisten; die Weigerung dazu führt zu reaktionären Rollenbildern.",
+    "Lambert kündigt eine große Deutschland-Tour an, bei der sie ihr Coaching-Konzept live auf die Bühne bringt."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-21T11:52:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "dauer": 4062,
+  "veroeffentlicht": "2026-08-17T22:01:00+00:00",
+  "beschreibung": "Paula Lambert hat die besondere Gabe, unbefangen und kenntnisreich über Liebe, Intimität und Beziehungen zu sprechen. Bekannt aus erfolgreichen TV-Formaten und Bestsellern, ist sie für viele das Gesicht der modernen sexuellen Aufklärung in Deutschland. In dieser Folge von „Zwischen den Zeilen“ erzählt sie Bettina Böttinger, dass sie ursprünglich als klassische Journalistin für Magazine wie GEO in der Welt unterwegs war, bevor sich ihr Weg ungeplant in Richtung Beziehungsberatung entwickelte.\n\nEin tiefgründiges, ehrliches und sehr persönliches Gespräch über Paulas eigene traumatische Kindheit mit einer heroinsüchtigen Mutter und die spätere Rettung durch ihre Pflegeeltern. Sie reflektiert offen darüber, wie sie in jungen Jahren Sex als Mittel nutzte, um vermeintliche Liebe und Zuneigung zu bekommen, und wie wichtig die harte Arbeit an sich selbst war, um diese Muster zu durchbrechen. Außerdem analysieren die beiden die Tücken von Dating-Apps, die Absurdität rechter Männlichkeits-Trends und die dringende Notwendigkeit für Frauen, ihre Bedürfnisse im Bett endlich laut und deutlich zu kommunizieren.\n\nBettinas Gast: ⁠https://www.instagram.com/therealpaulalambert/\n\nDu möchtest mehr über meine Werbepartner erfahren? ⁠⁠⁠Hier findest du alle Informationen und Rabatte⁠ ⁠⁠\n\nDu hast Fragen oder Anregungen? Dann schreib uns hier: ⁠⁠zwischendenzeilen@earlystudios.com⁠⁠\n\nZwischen den Zeilen erscheint jeden Dienstag überall, wo es Podcasts gibt.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+  "beschreibung_html": "<p>Paula Lambert hat die besondere Gabe, unbefangen und kenntnisreich über Liebe, Intimität und Beziehungen zu sprechen. Bekannt aus erfolgreichen TV-Formaten und Bestsellern, ist sie für viele das Gesicht der modernen sexuellen Aufklärung in Deutschland. In dieser Folge von „Zwischen den Zeilen“ erzählt sie Bettina Böttinger, dass sie ursprünglich als klassische Journalistin für Magazine wie GEO in der Welt unterwegs war, bevor sich ihr Weg ungeplant in Richtung Beziehungsberatung entwickelte.  </p>\n<p>Ein tiefgründiges, ehrliches und sehr persönliches Gespräch über Paulas eigene traumatische Kindheit mit einer heroinsüchtigen Mutter und die spätere Rettung durch ihre Pflegeeltern. Sie reflektiert offen darüber, wie sie in jungen Jahren Sex als Mittel nutzte, um vermeintliche Liebe und Zuneigung zu bekommen, und wie wichtig die harte Arbeit an sich selbst war, um diese Muster zu durchbrechen. Außerdem analysieren die beiden die Tücken von Dating-Apps, die Absurdität rechter Männlichkeits-Trends und die dringende Notwendigkeit für Frauen, ihre Bedürfnisse im Bett endlich laut und deutlich zu kommunizieren.</p>\n<p>Bettinas Gast:&nbsp;⁠https://www.instagram.com/therealpaulalambert/</p>\n<p>Du möchtest mehr über meine Werbepartner erfahren? ⁠⁠⁠<a href=\"https://linktr.ee/zwischendenzeilenpodcast\">Hier findest du alle Informationen und Rabatte⁠&nbsp;⁠⁠</a></p>\n<p>Du hast Fragen oder Anregungen? Dann schreib uns hier:&nbsp;⁠⁠zwischendenzeilen@earlystudios.com⁠⁠</p>\n<p>Zwischen den Zeilen erscheint jeden Dienstag überall, wo es Podcasts gibt.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>"
+}

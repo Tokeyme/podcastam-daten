@@ -17,37 +17,34 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 171 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts"
   },
-  "einzeiler": "Der Schauprozess gegen die tschechoslowakische Politikerin Milada Horáková im Jahr 1950.",
-  "kurzfassung": "Nach der Machtübernahme der Kommunisten in der Tschechoslowakei wurde die Politikerin Milada Horáková 1950 in einem inszenierten Schauprozess zum Tod verurteilt. Obwohl sie während des Zweiten Weltkriegs im NS-Widerstand aktiv gewesen war, konstruierte das Regime den Vorwurf einer Verschwörung. Im Juni 1950 wurde sie hingerichtet, ihre Abschiedsbriefe an die Familie jahrzehntelang zurückgehalten.",
+  "einzeiler": "Der Schauprozess und die Hinrichtung der tschechoslowakischen Widerstandskämpferin…",
+  "kurzfassung": "Nach dem kommunistischen Staatsstreich in der Tschechoslowakei wird die Politikerin Milada Horáková 1950 in einem inszenierten Schauprozess zum Tod verurteilt. Das Regime nutzt den Prozess als politische Machtdemonstration und zeichnet ein verfälschtes Bild der Angeklagten. Bis zu ihrer Hinrichtung bleibt Horáková ihren demokratischen Idealen treu und verfasst bewegende Abschiedsbriefe an ihre Familie.",
   "stichpunkte": [
-    "Die kommunistische Partei übernahm 1948 durch einen Staatsstreich die Alleinherrschaft in der Tschechoslowakei.",
-    "Milada Horáková, frühere Abgeordnete und NS-Widerstandskämpferin, wurde im September 1949 verhaftet.",
-    "Das Regime inszenierte einen stalinistischen Schauprozess mit geskripteten Vernehmungen und gefälschten Beweisen.",
-    "Die Propaganda stellte Horáková als westlich gesteuerte Terroristin und rücksichtslose Vaterlandsverräterin dar.",
-    "Trotz massiver Einschüchterung und Folter hielt sie in Ausschnitten an ihren demokratischen Idealen fest.",
-    "Am 27. Juni 1950 wurde Milada Horáková in Prag hingerichtet.",
-    "Ihre letzten Abschiedsbriefe an ihre Tochter und Familie wurden erst nach dem Sturz des Regimes übergeben."
+    "Errichtung eines stalinistischen Systems und Verdrängung der Opposition nach dem Staatsstreich in der Tschechoslowakei",
+    "Verhaftung von Milada Horáková und Vorwurf einer westlich gesteuerten Verschwörung",
+    "Inszenierung eines Schauprozesses mit erpressten Geständnissen und strikter Medienkontrolle durch die Staatssicherheit",
+    "Gezielte Diffamierung Horákovas als angebliche Kriegstreiberin, um Mitleid mit der einzigen weiblichen Hauptangeklagten zu verhindern",
+    "Versteckte Abweichungen Horákovas vom Verhörskript, die erst 2005 durch wiederaufgetauchte Originalaufnahmen bekannt wurden",
+    "Todesurteil nach kurzer Verhandlungszeit als einschüchterndes Signal an die Bevölkerung",
+    "Verfassung elf emotionaler Abschiedsbriefe an Familie und Freunde im Gefängnis Pankrác vor der Hinrichtung",
+    "Hinrichtung Milada Horákovás am 27. Juni 1950 und jahrzehntelanges Vorenthalten ihrer Briefe an die Angehörigen"
   ],
   "kapitel": [
     {
-      "titel": "Der Schauprozess in Prag",
+      "titel": "Einleitung und politischer Hintergrund",
       "start": 2.46
     },
     {
-      "titel": "Die Entmachtung der Opposition",
-      "start": 101.98
+      "titel": "Der Schauprozess und die Inszenierung des Regimes",
+      "start": 261.86
     },
     {
-      "titel": "Die Vorbereitung der Inszenierung",
-      "start": 421.16
+      "titel": "Prozessverlauf, Abweichungen vom Skript und Urteil",
+      "start": 850.7
     },
     {
-      "titel": "Propaganda und Gerichtssaal",
-      "start": 600.0
-    },
-    {
-      "titel": "Urteil und Abschied",
-      "start": 1020.66
+      "titel": "Abschiedsbriefe, Hinrichtung und Nachwirkung",
+      "start": 1072.14
     }
   ],
   "clips": [
@@ -128,11 +125,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T02:52:22+00:00",
+    "am": "2026-08-21T11:52:17+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

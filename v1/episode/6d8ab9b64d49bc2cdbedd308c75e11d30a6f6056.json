@@ -17,21 +17,21 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "In dieser Musikfolge präsentieren und diskutieren die Hosts acht Stücke aus Videospielen.",
-  "kurzfassung": "Die Hosts präsentieren in ihrer 16. Musikfolge jeweils vier ausgewählte Stücke aus Computerspielen und Videospielen. Dabei besprechen sie abwechselnd Tracks aus verschiedenen Epochen, darunter Klassiker vom Super Nintendo, Amiga und aus Arcade-Spielen. Über die Auswahl wird mal harmonisch, mal kontrovers diskutiert.",
+  "einzeiler": "Gunnar, Chris und Fabian präsentieren und diskutieren je drei Musikstücke aus…",
+  "kurzfassung": "Die Host-Runde stellt in einer weiteren Musikfolge jeweils mehrere Musikstücke aus unterschiedlichen Videospielen vor. Dabei werden Tracks aus Klassikern wie Donkey Kong Country 2, Tetris, Dungeon Master 2 oder Policenauts angespielt und besprochen. Die Beteiligten diskutieren über den musikalischen Einsatz, Stilmittel und die Wirkung der Stücke im Spielkontext.",
   "stichpunkte": [
-    "Fabian startet die Folge mit dem atmosphärischen Stück «Welcome to Crocodile Isle» aus Donkey Kong Country 2.",
-    "Christian stellt den lizenzierten Trip-Hop-Song «Sandpaper Kisses» von Martina Topley Bird aus dem Spiel Fahrenheit vor.",
-    "Gunnar bringt mit «Last Theme Boss 2» aus dem Arcade-Klassiker Robocop kompromisslose Maschinenmusik mit.",
-    "Fabian präsentiert das rockige Intro von Formula One Grand Prix für den Amiga, das klangliche Ähnlichkeiten zu einer BBC-Sendung aufweist.",
-    "Christian widmet sich der Kammermusik und wählt das Hauptmenü-Stück mit Blockflöten aus Conquest of the New World.",
-    "Gunnar entscheidet sich für den düsteren Sci-Fi-Techno-Track aus dem Amiga-Actionspiel Alien Breed.",
-    "Fabian bringt das ikonische Tetris-Theme für den Game Boy mit, das auf einem russischen Volkslied basiert.",
-    "Christian stellt das Demo- und Cracker-Stück «Echoing» vor, das über Umwege mit Amiga-Spielen verbunden ist.",
-    "Gunnar präsentiert «Endless Rain» aus Dungeon Master 2 als entspannte Explorationsmusik.",
-    "Fabian stellt das bedrohliche Stück «Morgue» aus dem Super-Nintendo-Spiel Shadowrun vor.",
-    "Christian beendet die Runde mit dem funkigen «Vigilanti Shuffle» aus Interstate 76.",
-    "Gunnar schließt die Folge mit dem cineastischen Jazz-Abspann «End-Theme» aus Policenauts ab."
+    "Fabian startet mit «Welcome to Crocodile Isle» aus Donkey Kong Country 2 von David Wise.",
+    "Chris stellt den lizenzierten Trip-Hop-Song «Sandpaper Kisses» von Martina Topley Bird aus Fahrenheit vor.",
+    "Gunnar bringt das treibende Arcade-Boss-Theme aus Robocop von Data East mit.",
+    "Fabian präsentiert das rockige Intro von Formula One Grand Prix von Microprose mit Musik von David Lowe.",
+    "Chris wählt das stimmungsvolle Blockflöten-Stück im Hauptmenü von Conquest of the New World.",
+    "Gunnar stellt das düstere Sci-Fi-Techno-Stück aus Alien Breed von Team 17 vor.",
+    "Fabian spielt die bekannte A-Musik («Korobeiniki») aus der Game-Boy-Version von Tetris vor.",
+    "Chris bringt das atmosphärische Amiga-Mod-Stück «Echoing» von Christoph Mühlan aus einem Crack-Intro mit.",
+    "Gunnar wählt das ruhige Explorationsstück «Endless Rain» aus Dungeon Master 2.",
+    "Fabian stellt das düstere Cyberpunk-Stück «Morgue» mit Synthesizer-Flöten aus Shadowrun vor.",
+    "Chris präsentiert den funkigen «Vigilanti Shuffle» aus Interstate 76.",
+    "Gunnar schließt die Folge mit dem cineastischen Abspann-Theme aus Policenauts ab."
   ],
   "kapitel": [
     {
@@ -89,11 +89,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:06+00:00",
+    "am": "2026-08-21T12:01:10+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

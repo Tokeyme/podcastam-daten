@@ -17,44 +17,45 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Kevin und Dominik starten ihren Podcast mit wilden Storys über Träume und Einbrecher.",
-  "kurzfassung": "Kevin und Dominik starten ihren gemeinsamen Podcast ganz ohne festes Konzept und plaudern über Gott und die Welt. Dabei driften sie von skurrilen TV-Gerichtsshows über wilde, detailreiche Träume bis hin zu extrem peinlichen WG-Geschichten ab. Am Ende kündigen sie an, künftig wöchentlich neue Episoden zu veröffentlichen.",
+  "einzeiler": "Dominik und Kevin sprechen über Alltagserlebnisse, schräge Träume und Jugenderinnerungen.",
+  "kurzfassung": "Dominik und Kevin starten ihren neuen Podcast ohne festes Thema und sprechen in der Auftaktfolge über Gott und die Welt. Dabei tauschen sie sich über skurrile Träume, Kindheitsängste vor Einbrechern und peinliche Momente aus. Zum Abschluss kündigen sie an, den Podcast künftig wöchentlich fortzuführen.",
   "stichpunkte": [
-    "Start des neuen Podcasts ohne fixes Thema mit wöchentlichem Rhythmus",
-    "Ausflug in die Nostalgie von TV-Gerichtsshows wie Barbara Salisch und Ingo Lenzen",
-    "Kevins detaillierter und absurder Traum mit Tieren, einem Fuchs und Schildkröten",
-    "Diskussion über luzides Träumen und die damit verbundenen Risiken",
-    "Nächtliche Schlafparalysen und gruselige Begegnungen im Halbschlaf",
-    "Die Story über einen vermeintlichen Einbruch, der sich als herannahender Lkw entpuppt",
-    "Der legendäre Moment, als Mitbewohner DK unvorbereitet in Kevins nacktes Schlafzimmer blickt"
+    "Start der ersten Podcast-Folge von Edeltalk mit den Hosts Dominik und Kevin",
+    "Gespräch über Anwaltsserien, Richter im Fernsehen und Ingo Lenzen",
+    "Kevin teilt einen extrem absurden Traum mit Tieren, einem Fuchs und Schildkröten",
+    "Diskussion über luzides Träumen, Schlafparalysen und Kindheitsängste",
+    "Erzählung über einen vermeintlichen Einbruch, der sich als herannahender LKW entpuppte",
+    "Anekdote über eine peinliche Begegnung beim nackten Aufwachen vor Gästen",
+    "Erinnerungen an Schulsport, Umkleiden und Tanzen",
+    "Ausblick auf die wöchentliche Veröffentlichung weiterer Podcast-Folgen"
   ],
   "kapitel": [
     {
-      "titel": "Der Start des neuen Podcasts",
+      "titel": "Begrüßung und Start des Podcasts",
       "start": 0.0
     },
     {
-      "titel": "Exkurs zu TV-Gerichtsshows und echten Anwälten",
+      "titel": "Anwälte, Richter und TV-Serien",
       "start": 201.8
     },
     {
-      "titel": "Skurrile Träume und luzides Träumen",
+      "titel": "Schräge Träume und luzides Träumen",
       "start": 439.04
     },
     {
-      "titel": "Schlafparalysen und Kindheitsängste",
-      "start": 1232.54
+      "titel": "Schlafparalysen und gruselige Erlebnisse",
+      "start": 1230.32
     },
     {
-      "titel": "Der Fehlalarm durch den Lkw",
+      "titel": "Der Fehlalarm mit der Polizei",
       "start": 1923.42
     },
     {
-      "titel": "Der Moment im nackten Adamskostüm",
-      "start": 2336.68
+      "titel": "Peinliche Momente beim Aufwachen",
+      "start": 2289.76
     },
     {
-      "titel": "Ausklang und Verabschiedung",
+      "titel": "Abschied und Ausblick",
       "start": 2813.5
     }
   ],
@@ -136,11 +137,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T06:26:36+00:00",
+    "am": "2026-08-21T11:48:02+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,27 +17,26 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Zwei historische Geschichten über die Piratin Zheng Yisao und eine deutsche Kolonie in…",
-  "kurzfassung": "Diese Hörbuchfolge präsentiert zwei Kapitel aus dem Buch der Hosts. Im Mittelpunkt stehen die chinesische Piratenkommandantin Zheng Yisao aus dem 19. Jahrhundert und die beschwerliche Auswanderung deutschsprachiger Siedler nach Posuso in Peru. Dabei werden sowohl die Entstehung einer mächtigen Piratenföderation als auch die Entstehung einer abgelegenen Sprachinsel im Amazonasgebiet beleuchtet.",
+  "einzeiler": "Zwei Geschichten über Zheng Yisao als mächtigste Piratin und die Siedler von Posuso in…",
+  "kurzfassung": "Diese Hörbuchfolge beleuchtet zwei ungewöhnliche historische Kapitel aus dem Buch der Hosts. Im ersten Teil geht es um Zheng Yisao, die im 19. Jahrhundert als mächtigste Piratenkommandantin Chinas eine riesige Flotte anführte und sich schließlich in den Ruhestand verabschiedete. Der zweite Teil erzählt von Auswanderern aus dem Rheinland und Tirol, die 1857 nach Peru aufbrachen, um am Rande des Amazonas die bis heute existierende deutsch-österreichische Kolonie Posuso zu gründen.",
   "stichpunkte": [
-    "Vorstellung der Hörbuchfolge Nummer 8 mit zwei selbst eingelesenen Geschichten aus dem Buch der Hosts",
-    "Die chinesische Piratin Zheng Yisao kommandierte im 19. Jahrhundert bis zu 70.000 Mann und 1.200 Schiffe",
-    "Nach dem Tod ihres Mannes Zheng Yi übernahm sie die Führung und heiratete später ihren Adoptivsohn Zhang Baozai",
-    "Die Piratenföderation etablierte eine strenge Bürokratie mit Schutzgeldern und festen Regeln",
-    "Zheng Yisao handelte 1810 mit der chinesischen Regierung die Straffreiheit für sich und ihre Anhänger aus und ging in Pension",
-    "Die zweite Geschichte behandelt die Auswanderung von Siedlern aus dem Rheinland und Tirol nach Peru im Jahr 1857",
-    "Initiiert durch den Agenten Kuno Damian Freiherr von Schütz zu Holzhausen, scheiterten viele anfängliche Versprechen",
-    "Nach extremen Strapazen über die Anden und unter der Führung von Pfarrer Josef Eck gründeten die verbliebenen Siedler 1859 das abgelegene Dorf Posuso",
-    "Bis heute existiert in Posuso eine einmalige deutsch-österreichische Sprachinsel mit dem Dialekt Tiroles"
+    "Zheng Yisao führte im 19. Jahrhundert als Witwe und in Kooperation mit ihrem neuen Ehemann eine Föderation von bis zu 70.000 Piraten an.",
+    "Mit einem strengen Kodex, Schutzgeldzahlungen für den Salzhandel und klugen Bündnissen kontrollierte sie das südchinesische Meer.",
+    "Statt durch eine Niederlage endete ihre Piratenkarriere durch Verhandlungen mit der chinesischen Regierung, die ihr Straffreiheit und hohe Offiziersposten für die Crew einräumten.",
+    "Die zweite Geschichte behandelt die Auswanderung deutschsprachiger Siedler aus dem Rheinland und Tirol nach Peru im Jahr 1857.",
+    "Initiator des Kolonieprojekts war der Kolonist Kuno Damian Freiherr von Schütz zu Holzhausen, dessen Versprechungen sich vor Ort als utopisch erwiesen.",
+    "Nach einer beschwerlichen Überfahrt auf einem Guanoschiff und der gefährlichen Querung der Anden schrumpfte die Gruppe stark zusammen.",
+    "Angeführt von dem Tiroler Pfarrer Josef Eck gründeten die verbliebenen Siedler 1859 das bis heute isolierte Dorf Posuso.",
+    "Durch die jahrzehntelange Abgeschiedenheit entstand dort mit dem „Tiroles“ eine einzigartige Sprachinsel, die deutsche Dialekte mit Spanisch und Quechua vermischt."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T07:01:59+00:00",
+    "am": "2026-08-21T11:55:42+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

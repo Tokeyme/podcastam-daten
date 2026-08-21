@@ -17,16 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf das wegweisende Weltraum-Rollenspiel Starflight aus dem Jahr 1986.",
-  "kurzfassung": "Starflight ist ein komplexes Weltraum-Rollenspiel aus dem Jahr 1986 von Binary Systems und Electronic Arts, das die Spieler in eine offene Galaxie entlässt. Der Titel verbindet Ressourcenmanagement, Planetenbergbau und Echtzeitkämpfe mit einer fragmentierten Erzählung und detaillierten Alien-Kulturen. Im Podcast sprechen Gunnar Lott und Christian Schmidt ausführlich über das Gameplay und beleuchten die Entstehungsgeschichte in Interviews mit den Originalentwicklern.",
+  "einzeiler": "Ein wegweisendes Weltraum-Rollenspiel aus dem Jahr 1986 voller Erkundung und Geheimnisse",
+  "kurzfassung": "Starflight erschien 1986 für IBM-PCs und gilt als meisterhaftes, aber komplexes Weltraum-Abenteuer. Das Spiel verbindet Ressourcensuche, Echtzeitkämpfe und den Abbau von Rohstoffen mit einer offenen Galaxie. Durch fragmentiertes Storytelling und den Umgang mit verschiedenen Alien-Spezies entsteht ein einzigartiges Erlebnis.",
   "stichpunkte": [
-    "Handlung: Die Bewohner von Arth entdecken die Überreste einer uralten Kolonie und starten Operation Starflight, um die Galaxie zu erkunden und eine tödliche Bedrohung für ihre Sonne abzuwenden.",
-    "Spielmechanik: Eine Mischung aus Weltraumsimulation, Rollenspiel und Adventure, bei der Spieler Planeten erkunden, Rohstoffe abbauen, Handelswaren sammeln und eine Crew ausbilden.",
-    "Steuerung und Perspektive: Das Spiel bietet ein Brücken-Interface mit Menüs für verschiedene Offiziere, dreidimensionale Planetenansichten im Orbit und fraktal erzeugte Planetenoberflächen.",
-    "Interkultureller Austausch: Die Begegnungen mit verschiedenen Alien-Spezies sind stark durch individuelle Sprachen, Kulturen und langfristige diplomatische Konsequenzen geprägt.",
-    "Entwicklungsgeschichte: Das Spiel wurde von Ambient Designs (später Binary Systems) entwickelt, von Electronic Arts veröffentlicht und litt unter einer langen, prekären Entwicklungszeit von dreieinhalb Jahren.",
-    "Technologie: Starflight nutzt die Programmiersprache Forth und erzeugt das Universum sowie die Planetenoberflächen prozedural aus Seed-Werten.",
-    "Schwierigkeiten und Besonderheiten: Das Spiel speichert den Fortschritt durch das direkte Überschreiben von Spieldateien, was das Erstellen von Backups erfordert, um den Verlust von Spielständen bei einem Tod zu verhindern."
+    "Erschienen 1986 von Binary Systems und Electronic Arts für IBM-kompatible Systeme",
+    "Kombination aus Weltraumsimulation, Rollenspiel und Adventure-Elementen",
+    "Freie Erkundung von 270 Sternensystemen und 800 Planeten",
+    "Komplexes Diplomatiesystem und unterschiedliche Kulturen der außerirdischen Spezies",
+    "Innovative Technologien wie prozedurale Generierung und fraktale Planetenoberflächen",
+    "Entwicklungsgeschichte geprägt von drei Plattformwechseln und prekären Bedingungen",
+    "Einzigartiges Speichersystem, bei dem das Universum auf den Disketten persistent gesichert wird",
+    "Kritikererfolg und wichtiger Vorläufer für moderne Weltraumspiele und Titel wie Star Control 2"
   ],
   "kapitel": [
     {
@@ -416,11 +417,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:36:23+00:00",
+    "am": "2026-08-21T12:01:06+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

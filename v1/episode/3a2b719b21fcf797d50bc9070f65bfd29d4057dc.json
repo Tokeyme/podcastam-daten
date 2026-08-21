@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Der King of Pop, der Film Moonwalker und drei sehr unterschiedliche Videospiele",
-  "kurzfassung": "Der Podcast beleuchtet Leben und Musikkarriere von Michael Jackson sowie dessen Filmambitionen und das Projekt Moonwalker. Im Mittelpunkt stehen drei offizielle Videospieladaptionen für Automaten, Heimcomputer und das Mega Drive. Abschließend werden Film und Spiele in einem eigenen Wertungssystem bewertet.",
+  "einzeiler": "Film und Videospiele zu Michael Jacksons Moonwalker im ausführlichen Retro-Vergleich.",
+  "kurzfassung": "Heinrich Lenhardt und Christian Genzel beleuchten Michael Jacksons Karriere, seine filmischen Ambitionen und den Episodenfilm Moonwalker von 1988. Im Mittelpunkt stehen die drei grundverschiedenen Spielumsetzungen für Spielhallen, Heimcomputer und das Sega Mega Drive. Während die Heimcomputer-Version von US Gold durchfällt, überzeugt das Konsolenspiel von Sega mit gelungener Spielbarkeit und dichter Musikatmosphäre.",
   "stichpunkte": [
-    "Rückblick auf die Musikkarriere von Michael Jackson von den Jackson Five bis zu den Solowerken mit Produzent Quincy Jones",
-    "Die Entstehung und Hintergründe des Films Moonwalker als Collage aus Musikvideos und Spielfilmsegmenten",
-    "Michael Jacksons filmische Ambitionen, Kooperationen mit bekannten Regisseuren und der 3D-Kurzfilm Captain EO",
-    "Einordnung früher Musiklizenzen in Videospielen wie Journey Escape und Auftritte in anderen Spielen",
-    "Der Sega-Spielautomat zu Moonwalker als isometrischer, aber sehr schwerer Actiontitel",
-    "Die Heimcomputer-Umsetzung von US Gold wird als frustrierend und qualitativ mangelhaft eingestuft",
-    "Die Mega-Drive-Version überzeugt durch gelungene Umsetzung und stimmige Musik",
-    "Bewertung von Film und Spielen anhand eines dreistufigen Systems (The Good, The Bad and The Ugly)"
+    "Rückblick auf Michael Jacksons musikalischen Werdegang von den Jackson Five über Thriller bis zum Album Bad",
+    "Jacksons cineastische Ambitionen in Musikvideos und dem aufwendigen Disney-Kurzfilm Captain EO",
+    "Entstehungsgeschichte und bizarre Collagen-Struktur des Musik- und Spielfilms Moonwalker",
+    "Überblick über frühe Musiklizenzen in Videospielen von Journey über Frankie Goes to Hollywood bis hin zu Sonic the Hedgehog 3",
+    "Analyse des Sega-Spielautomaten als fordernder isometrischer Prügler mit Mehrspieler-Modus",
+    "Kritik an der frustrierenden und unausgereiften Heimcomputer-Fassung von US Gold und Emerald Software",
+    "Lob für Segas Mega-Drive-Umsetzung als runder Action-Plattformer mit stimmungsvoller Chiptune-Musik",
+    "Wertungsrunde im Pixelkino-System: Lob für das Mega-Drive-Spiel, gemischte Noten für Automat und Film sowie Abstrafung der Heimcomputer-Version"
   ],
   "kapitel": [
     {
@@ -301,11 +301,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:30+00:00",
+    "am": "2026-08-21T11:58:24+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

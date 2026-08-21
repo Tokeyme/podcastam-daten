@@ -17,25 +17,25 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Neuer Streit um Wahlen in der Ukraine und leere deutsche Gasspeicher vor dem Winter.",
-  "kurzfassung": "Der ehemalige ukrainische Minister Mikhail Fedorov fordert Mitten im Krieg überraschend Neuwahlen und geht damit in die Opposition zu Selenskyj. Zudem stehen Deutschlands Gasspeicher vor dem kommenden Winter ungewöhnlich leer, da sich das Einspeichern für Gashändler derzeit kaum rechnet. Bundeskanzler Friedrich Merz verurteilt unterdessen Äußerungen des israelischen Ministers Itamar Ben-Gvir als menschenverachtend.",
+  "einzeiler": "Neuwahlen in der Ukraine und leere deutsche Gasspeicher",
+  "kurzfassung": "Der kürzlich entlassene ukrainische Verteidigungsminister Mychajlo Fedorow fordert trotz des anhaltenden Krieges Neuwahlen. Angesichts von Kampfhandlungen und fehlender Infrastruktur gilt dies jedoch als äußerst unrealistisch. Zudem stehen die deutschen Gasspeicher kurz vor dem Winter ungewöhnlich leer, da sich das Einspeichern für Händler derzeit nicht rechnet.",
   "stichpunkte": [
-    "Mikhail Fedorov fordert überraschend Neuwahlen für die Ukraine und kritisiert die Regierung als systemisch in der Krise.",
-    "Eine Mehrheit der Ukrainer und Experten halten Wahlen während des anhaltenden Krieges und Kriegsrechts für kaum umsetzbar.",
-    "Ermittler haben in Kroatien einen Verdächtigen festgenommen, der an der Sprengung der Nord-Stream-Pipeline beteiligt gewesen sein soll.",
-    "Deutschlands Gasspeicher sind aktuell zu weniger als der Hälfte gefüllt, da sich das Einspeichern für Händler wegen hoher Weltmarktpreise nicht lohnt.",
-    "Wirtschaftsministerin Katharina Reiche steht vor einem Dilemma zwischen staatlichem Eingreifen und dem Risiko leerer Speicher im Winter.",
-    "Bundeskanzler Friedrich Merz verurteilt die Äußerungen des israelischen Sicherheitsministers Itamar Ben-Gvir im Gazastreifen als menschenverachtend.",
-    "Ein US-Paar heiratet medienwirksam nach einem gemeinsamen Fallschirmsprung aus einem Flugzeug."
+    "Mychajlo Fedorow fordert in einem Video Neuwahlen für die Ukraine und kritisiert die Regierung als systemisch in einer Krise.",
+    "Das ukrainische Kriegsrecht verbietet Wahlen, und auch organisatorisch und sicherheitstechnisch sind Urnengänge an Front und Hinterland kaum umsetzbar.",
+    "Fedorow wechselt damit in die Opposition zu Wolodymyr Selenskyj, nachdem seine Entlassung als Verteidigungsminister breite Proteste auslöste.",
+    "Deutsche Gasspeicher sind aktuell zu weniger als der Hälfte gefüllt, weil sich das Einspeichern für Gashändler auf dem Weltmarkt wirtschaftlich nicht lohnt.",
+    "Wirtschaftsministerin Katharina Reiche steht vor einem Dilemma zwischen staatlichem Eingreifen mit steigenden Preisen und dem Risiko leerer Speicher im Winter.",
+    "Ermittler in Kroatien haben einen Verdächtigen festgenommen, der an der Sprengung der Nord-Stream-Pipeline beteiligt gewesen sein soll.",
+    "Bundeskanzler Friedrich Merz verurteilt die menschenverachtenden Äußerungen des israelischen Ministers Itamar Ben-Gvir, während die EU über Sanktionen berät."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T02:29:04+00:00",
+    "am": "2026-08-21T12:02:02+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

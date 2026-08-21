@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Analyse des Amiga-Klassikers It Came From The Desert von Cinemaware und seiner Vorbilder.",
-  "kurzfassung": "Der 1989 erschienene Amiga-Klassiker It Came From The Desert von Cinemaware inszeniert eine Invasion von Riesenameisen als Hommage an B-Movies der 1950er-Jahre. Das Spiel kombiniert eine Echtzeit-Zeiteinteilung mit Multiple-Choice-Dialogen, freier Kartenerkundung und diversen Action-Minispielen. Trotz starker Atmosphäre und ambitionierter Inszenierung leidet der Titel an spielmechanischen Schwächen und substanzlosen Nebenhandlungssträngen.",
+  "einzeiler": "Rückblick auf das Amiga-Spiel It Came from the Desert und die Filmgeschichte der 1950er.",
+  "kurzfassung": "Die Hosts besprechen das 1989 erschienene Amiga-Spiel It Came from the Desert von Cinemaware. Dabei beleuchten sie den kulturellen Hintergrund von Hollywoods B-Movie-Monsterfilmen der 1950er-Jahre. Zudem analysieren sie Spielmechaniken, Entstehungsgeschichte sowie das rasche Ende des Publishers.",
   "stichpunkte": [
-    "It Came From The Desert erschien 1989 für den Amiga und basiert maßgeblich auf 50er-Jahre-Big-Bug-Filmen wie Them! (Formicula).",
-    "Als Geologe Dr. Bradley müssen Spielende in der Wüstenstadt Lizard Breath innerhalb von 15 Spieltagen Beweise für eine Riesenameisen-Invasion sammeln.",
-    "Die Spielwelt folgt einem simulierten Tag-Nacht-Zyklus mit festen Tagesabläufen der Bewohner, wodurch Zeit als zentrale Ressource fungiert.",
-    "Das Gameplay mixt Adventure-Elemente und Dialoge mit verschiedenen Action-Minispielen wie Schießbuden-Passagen, Top-Down-Kämpfen und einem Krankenhausausbruch.",
-    "Chefdesigner David Riordan ließ für die Verzweigungen der Story das Mac-basierte Skript-Tool Masterplan entwickeln.",
-    "Statt Spielfortschritt zu belohnen, fungieren die meisten Actionsequenzen primär als Hindernisse oder Bestrafungen bei Fehlern.",
-    "Zahlreiche Nebenhandlungen und falsche Fährten tragen zum Worldbuilding bei, versanden dramaturgisch jedoch weitgehend ohne Konsequenzen.",
-    "Die extrem teure und gefloppte CD-ROM-Neuauflage für die PC Engine trug 1991 maßgeblich zur Insolvenz von Cinemaware bei."
+    "Hörerwunsch: It Came from the Desert von Cinemaware als Jubiläumsspiel für den Amiga",
+    "Filmhistorischer Hintergrund: B-Movie-Monsterfilme und Big Bug Movies der 1950er-Jahre als Vorbilder",
+    "Spielprinzip: Echtzeit-Erkundung, Multiple-Choice-Dialoge und ein Wettlauf gegen die Zeit",
+    "Schwächen: Zähe und kontroverse Action-Minispiele sowie seichte Nebenhandlungen",
+    "Entstehungsgeschichte: David Rorden prägte das Projekt mit Film-Storyboards und einem storybasierten Mac-Tool",
+    "Add-ons und Plattformen: Das Erweiterungsspiel Ant-Heads, eine späte DOS-Umsetzung und eine teure CD-ROM-Version für PC Engine",
+    "Niedergang: Hohe Entwicklungskosten für CD-Projekte führten 1991 zur Insolvenz von Cinemaware",
+    "Nachwirkung: Spätere Verfilmung des Stoffs im Jahr 2017 und ein Indie-Nachfolger 2023"
   ],
   "kapitel": [
     {
@@ -457,11 +457,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:41:10+00:00",
+    "am": "2026-08-21T11:56:38+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,16 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Wie Kai Rosenkranz die Musik und Soundeffekte für den Rollenspiel-Klassiker Gothic schuf.",
-  "kurzfassung": "Der Komponist Kai Rosenkranz erzählt von der Entstehung des prägenden Soundtracks zum Rollenspiel Gothic. Er beschreibt seinen intuitiven Zugang zur Musik, die technischen Hürden mit Microsofts Direct Music Producer und die Zusammenarbeit mit dem Entwicklerstudio Piranha Bytes. Zudem erklärt er anhand konkreter Beispiele aus Minental, Altem und Neuem Lager den Aufbau der adaptiven Musik.",
+  "einzeiler": "Kai Rosenkranz über die Entstehung des ikonischen Gothic-Soundtracks und dessen Technik",
+  "kurzfassung": "Kai Rosenkranz, der Komponist des ersten Gothic-Spiels, gibt Einblicke in die Entstehung des legendären Soundtracks. Er schildert seinen intuitiven musikalischen Werdegang als Autodidakt und die Zusammenarbeit mit Piranha Bytes ab dem Jahr 1998. Dabei erklärt er den kreativen Prozess sowie die technischen Besonderheiten und Herausforderungen des Musikprogramms Direct Music Producer.",
   "stichpunkte": [
-    "Kai Rosenkranz kam 1998 als 17-Sechzehnjähriger über frühe Programmierprojekte und einen Studiotermin zu Piranha Bytes.",
-    "Sein Zugang zur Musik ist rein intuitiv und autodidaktisch; klassische Musiktheorie und Noten nutzte er kaum.",
-    "Die Musik für Gothic entstand mit dem Direct Music Producer von Microsoft, einem unausgereiften Tool für interaktive Musik.",
-    "Das System funktionierte wie eine Live-Performance von MIDI-Daten, wodurch Stücke dynamisch und zufallsbasiert zusammengesetzt wurden.",
-    "Die Kompositionen verzichten auf laute Effekthascherei und setzen stattdessen auf eine Mischung aus Melancholie, Bedrohung und Weite.",
-    "Für die Instrumentierung kombinierte Kai ein stark eingeschränktes, 120 Megabyte großes virtuelles Orchester mit selbst eingespielten Samples.",
-    "Neben der Musik war Kai auch für etwa zehn Prozent der Soundeffekte und Kreaturengeräusche verantwortlich, für die er teils selbst ins Mikrofon brüllte."
+    "Kai Rosenkranz wuchs musikalisch in einer von Instrumenten geprägten Familie auf und brachte sich das Keyboardspielen autodidaktisch bei.",
+    "Nach ersten eigenen Spieleprojekten nahm Kai 1997 Kontakt zum Bochumer Entwicklerstudio Piranha Bytes auf und wurde mit 17 Jahren für die Audiogestaltung von Gothic verpflichtet.",
+    "Die Komposition erfolgte intuitiv und emotional, passend zu Konzeptgrafiken und der stimmungsvollen Spielwelt, ohne starre Vorgaben in der Musiktheorie.",
+    "Aufgrund technischer Einschränkungen und des Wunsches nach interaktiver, dynamischer Musik nutzte Kai den Direct Music Producer von Microsoft.",
+    "Das Tool splittet Stücke in kleinste MIDI-Bausteine und Puzzleteile auf, die während des Spiels live vom System performt und per Zufall neu kombiniert werden.",
+    "Das Musikthema der Außenwelt (Minental) wechselt zwischen Dur und Moll sowie verschiedenen Taktarten, um Bedrohung und Weite auszudrücken.",
+    "Für den Auftritt der Mittelalterband In Extremo im Alten Lager passte Kai seine Musik thematisch an den Song Herr Mannelich an.",
+    "Das virtuelle Orchester musste mit einem Budget von rund 120 Megabyte auskommen, ergänzt durch selbst eingespielte Live-Instrumente und Soundeffekte wie die Maultrommel.",
+    "Neben seiner Arbeit an weiteren Spielen wie Risen kehrte Kai Rosenkranz für das kommende Gothic-Remake zur Musik der Reihe zurück."
   ],
   "kapitel": [
     {
@@ -92,11 +94,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:43:41+00:00",
+    "am": "2026-08-21T11:52:11+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

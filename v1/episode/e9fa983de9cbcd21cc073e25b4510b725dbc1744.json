@@ -17,16 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Deus Ex und das Erbe des Klassikers aus dem Jahr 2000.",
-  "kurzfassung": "Die Hosts analysieren den Immersive-Sim-Meilenstein Deus Ex aus dem Jahr 2000. Dabei beleuchten sie die Spielmechaniken, die Entstehungsgeschichte rund um Warren Spector und John Romero sowie die Frage, wie gut das Spiel seine Ambitionen bezüglich Entscheidungsfreiheit und Konsequenzen einlöst. Auch Kritikpunkte wie das teils unausgegorene Skillsystem und logische Brüche in der Erzählung werden ausführlich diskutiert.",
+  "einzeiler": "Rückblick auf das Rollenspiel-Meisterwerk Deus Ex und seine Entstehungsgeschichte",
+  "kurzfassung": "Deus Ex gilt bis heute als einflussreicher Genre-Hybride aus Shooter, Schleichspiel und Rollenspiel. Die Hosts beleuchten die Entstehungsgeschichte des 2000 erschienenen Klassikers, seine spielerischen Freiheiten sowie die Umsetzung von Entscheidungen und Konsequenzen. Dabei diskutieren sie sowohl die Stärken des Spieldesigns als auch erzählerische Schwächen und technische Hürden.",
   "stichpunkte": [
-    "Deus Ex gilt als prototypischer Vertreter und erster Namensgeber des Genres der Immersive Sim.",
-    "Das Spiel verbindet Elemente aus Ego-Shooter, Schleichspiel und Rollenspiel mit einer cyberpunkartigen Verschwörungserzählung.",
-    "Spieler haben die Freiheit, Missionen auf vielfältige Weise durch Schleichen, Kämpfen oder Hacking zu lösen.",
-    "Die Entwicklung unter Warren Spector bei Ion Storm Austin profitierte maßgeblich von der Unterstützung durch John Romero und der Unreal Engine.",
-    "Während die Atmosphäre und der spielerische Freiraum gelobt werden, kritisieren die Hosts Logiklücken in der Story und das wenig tiefgreifende Skillsystem.",
-    "Das Spiel leidet gelegentlich unter kognitiven Dissonanzen, da gewaltfreie Lösungswege oder Diebstähle kaum spürbare Konsequenzen haben.",
-    "Mit der Game of the Year Edition und Community-Mods wie der Revision-Mod lässt sich der Klassiker auch heute noch gut auf moderner Hardware spielen."
+    "Das Spiel von Warren Spector verbindet Shooter-, Schleich- und Rollenspielelemente in einer düsteren Zukunftsdystopie des Jahres 2052.",
+    "Die Welt ist vom tödlichen 'grauen Tod' und dem knappen Heilmittel Ambrosia geprägt; im Hintergrund agieren Verschwörungstheorien und Geheimgesellschaften wie die Illuminaten.",
+    "Deus Ex setzt auf das Immersive-Sim-Prinzip, das Spielern durch unterschiedliche Lösungswege, Skills und Augmentierungen große spielerische Freiheit gewährt.",
+    "Die Entwicklung bei Ion Storm Austin verlief turbulent mit einem geteilten Design-Team unter Bob White und Harvey Smith sowie dem Wechsel auf die Unreal Engine.",
+    "John Romero ermöglichte dem Team durch finanzielle und kreative Rückendeckung die Umsetzung des risikoreichen Projekts.",
+    "Kritisch bewerten die Hosts unter anderem die teils unzureichende Teleografierung von Konsequenzen und das offene, unbefriedigende Ende der Handlung.",
+    "Für moderne PCs wird die Nutzung von Community-Patches oder Mods wie der Revision-Mod empfohlen, um technische Probleme zu beheben."
   ],
   "kapitel": [
     {
@@ -388,11 +388,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:08+00:00",
+    "am": "2026-08-21T11:51:56+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

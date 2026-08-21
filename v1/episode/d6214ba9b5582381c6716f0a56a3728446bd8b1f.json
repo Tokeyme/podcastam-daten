@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Stay-Forever-Conventions, technischer Ärger, Amiga-Mini-Staffel und…",
-  "kurzfassung": "Christian und Gunnar blicken auf die vergangenen Stay-Forever-Conventions in Karlsruhe und Hannover zurück und planen die Termine für das kommende Jahr. Zudem berichten sie über technische Probleme beim Podcast-Hosting, die Auswertung der mehrteiligen Amiga-Staffel sowie die Einführung einer neuen YouTube-Mitgliedschaft. Abschließend geben sie einen Ausblick auf kommende Goodies wie den Jahreskalender 2026.",
+  "einzeiler": "Rueckblick auf die Conventions, technisches Hinter den Kulissen und der Ausblick auf 2026",
+  "kurzfassung": "Die Hosts blicken auf die erfolgreichen Conventions in Karlsruhe und Hannover zurueck und kuendigen Termine und Plaene fuer 2026 an. Zudem schildern sie die naechtlichen Muehen bei der Behebung eines Hosts-Befalls mit Kapitelbildern und stellen das neue YouTube-Mitgliedschafts-Programm vor. Abschliessend gibt es Updates zu physischen Fan-Goodies wie dem kommenden Jahreskalender.",
   "stichpunkte": [
-    "Rückblick auf die Stay-Forever-Conventions 2024 in Karlsruhe und Hannover mit insgesamt rund 2000 Teilnehmern vor Ort und im Livestream",
-    "Feste Zusage für die Convention in Karlsruhe am 2. und 3. Mai 2025; Überlegungen zu weiteren Standorten im Westen und Osten",
-    "Längere Fehlersuche beim Podcast-Hoster aufgrund von Timeouts bei großen MP3-Dateien mit vielen Kapitelbildern",
-    "Unerwarteter Nebeneffekt des Hoster-Updates: Kapitelbilder und -marken werden nun auch direkt auf Spotify unterstützt",
-    "Positive Resonanz auf das neue Staffelformat der Stay-Forever-Technik-Folge über den Amiga",
-    "Neues YouTube-Mitgliedschafts-Modell für 6,99 Euro pro Monat gestartet, um den Unterstützer-Feed direkt auf YouTube anzubieten",
-    "Jahreskalender 2026 mit Motiven von Paul Schmidt geht im Oktober an Unterstützer der höchsten Stufe und in den Shop",
-    "Neue Support-E-Mail-Adresse (support@stay-forever.de) für direkte Hilfe bei Problemen eingerichtet"
+    "Rückblick auf die Stay Forever Conventions in Karlsruhe und Hannover mit reger Teilnahme, Livestreams und Community-Vorabtreffen",
+    "Organisatorische Learnings für zukünftige Cons: Höherer Bedarf bei T-Shirts, Miniaturenbemalung und Aftershow-Plätzen",
+    "Ankündigung der nächsten Karlsruher Convention für Mai 2026 und Überlegungen für weitere Standorte",
+    "Ausführliche Schilderung technischer Probleme mit dem Podcast-Hoster, die zu verschwundenen Kapitelbildern bei Spotify führten",
+    "Erfolgreiches Staffelfazit der Amiga-Folge von Stay Forever Technik und Fortführung des Konzepts als Zweiteiler",
+    "Neues YouTube-Mitgliederprogramm mit monatlich 6,99 Euro als bequeme Alternative zu Patreon und Steady",
+    "Hinweise zu den physischen Goodies wie dem neuen Jahreskalender 2026 und dem kommenden Stay Forever Magazin",
+    "Einführung einer neuen zentralen Support-E-Mail-Adresse für administrative Anfragen und Abo-Fragen"
   ],
   "kapitel": [
     {
@@ -81,11 +81,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:37+00:00",
+    "am": "2026-08-21T12:02:38+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

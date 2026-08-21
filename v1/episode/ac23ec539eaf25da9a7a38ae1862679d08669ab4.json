@@ -17,17 +17,18 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf die Stay Forever Convention Süd, Ausblick auf Hannover und kommende…",
-  "kurzfassung": "Gunnar Lott und Christian Schmidt blicken auf eine erfolgreiche Stay Forever Convention in Karlsruhe zurück und geben Einblicke in kommende Formate und technische Neuerungen. Zudem kündigen sie Details zur Nordcon in Hannover an, inklusive notwendiger Preiserhöhungen. Abschließend teasern sie verschiedene Sonderprojekte und ein bevorstehendes Webseiten-Relaunch an.",
+  "einzeiler": "Rückblick auf die Stay Forever Convention Süd und Ausblick auf kommende Projekte.",
+  "kurzfassung": "Gunnar Lott und Christian Schmidt ziehen Bilanz zur erfolgreichen Stay Forever Convention in Karlsruhe und geben einen Ausblick auf die kommende Nordcon in Hannover. Zudem berichten sie über neue Formate, technische Entwicklungen und geplante Rechercheprojekte für das Jubiläumsjahr des Podcasts. Dabei betonen sie die Bedeutung ihrer Community und die stetige Weiterentwicklung ihrer Angebote.",
   "stichpunkte": [
-    "Erfolgreiche Nachlese zur Stay Forever Convention in Karlsruhe mit Sondergast Boris Schneider-Johne",
-    "Umstellung des Bühnenprogramms auf stärkere visuelle Elemente statt reiner Podcast-Übertragungen",
-    "Ankündigung der Nordcon in Hannover für Oktober mit Ticket-Vorverkauf ab dem 17. Mai",
-    "Substanzielle Preiserhöhung für die Vorort-Tickets der Nordcon aufgrund gestiegener Hallenkosten",
-    "Einführung eines eigenen Stay Forever Tier-List-Tools nach spontaner Entwicklung durch das Team",
-    "Rückblick auf erfolgreiche YouTube-Produktionen über Bildschirmschoner und Ausblick auf das 15-jährige Podcast-Jubiläum",
-    "Fortlaufende Arbeit an drei Spezialprojekten, darunter Kooperationen für neue Formate",
-    "Bevorstehender Relaunch der Webseite und einer neuen technischen Plattform mit geschlossener Beta-Phase"
+    "Erfolgreiche Nachlese der Stay Forever Convention Süd in Karlsruhe mit Boris Schneider-Johne als Stargast.",
+    "Einführung eines eigenen Tierlist-Tools für die Community nach dem Erfolg auf der Bühne.",
+    "Anpassung der Strategie: Bühnenprogramm wird künftig stärker auf visuelle Elemente fokussiert und nicht mehr für den Audio-Feed ausgekoppelt.",
+    "Ankündigung der Nordcon in Hannover für Oktober 2026; Vorverkauf startet am 17. Mai.",
+    "Notwendige Preiserhöhung für Vor-Ort-Tickets aufgrund gestiegener Hallenkosten, während der Livestream-Preis stabil bleibt.",
+    "Erfolgreiches YouTube-Video zu Bildschirmschonern als Testlauf für zukünftige Videoproduktionen.",
+    "Erster Aprilscherz in der Podcast-Geschichte: Eine Monster-Managerie-Folge über die Ziege.",
+    "Laufende Rechercheprojekte, darunter eine True-Crime-Kooperation und eine tiefgehende Unternehmensgeschichte.",
+    "Bevorstehender Relaunch der Webseite, der mit einem neuen Plattform-Projekt verknüpft wird."
   ],
   "kapitel": [
     {
@@ -89,11 +90,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:44+00:00",
+    "am": "2026-08-21T12:02:21+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

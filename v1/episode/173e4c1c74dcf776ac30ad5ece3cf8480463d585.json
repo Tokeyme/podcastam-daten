@@ -17,17 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf das Mega-Drive-Action-Adventure Beyond Oasis vom Studio Ancient.",
-  "kurzfassung": "Beyond Oasis erschien 1994/95 für das Sega Mega Drive und wurde vom Studio Ancient entwickelt. Das Action-Adventure besticht durch aufwendige Grafik und eine detailreiche Spielwelt, bleibt spielerisch aber hinter dem Vorbild Zelda zurück. Die Hosts analysieren die ungewöhnlichen Mechaniken, das merkwürdige Level-System und den Fokus auf Wasserdarstellungen.",
+  "einzeiler": "Rückblick auf das 16-Bit-Action-Adventure The Story of Thor für das Mega Drive.",
+  "kurzfassung": "The Story of Thor (in den USA Beyond Oasis) erschien 1994 für das Mega Drive und wurde vom japanischen Studio Ancient entwickelt. Das Action-Adventure verbindet Beat-'em-up-Mechaniken mit einer bunten 2D-Grafik und vier beschwörbaren Elementargeistern. Trotz positiver Kritiken und einer markanten Detailverliebtheit bei der Wasserdarstellung blieb es spielerisch hinter den großen Genre-Konkurrenten zurück.",
   "stichpunkte": [
-    "Beyond Oasis (in Europa: The Story of Thor) erschien Ende 1994 in Japan und 1995 im Westen für das Mega Drive.",
-    "Entwickelt wurde das Spiel vom kleinen japanischen Studio Ancient, das maßgeblich von Geschwistern Yuzo und Ayano Koshiro sowie ihrer Mutter geprägt wurde.",
-    "Das Spiel verbindet Top-Down-Action-Adventures mit Elementen aus Beat 'em Ups, unterscheidet sich aber durch sein lineares Design deutlich von Zelda.",
-    "Vier verschiedene Geister (Wasser, Feuer, Schatten, Pflanze) dienen als Begleiter für Rätsel und magische Angriffe.",
-    "Die Steuerung der Geister erweist sich im Spielverlauf oft als unpräzise und störanfällig.",
-    "Das Level- und Rangsystem ist an gefundene Herzen gekoppelt, die als unangekündigtes Hilfssystem fungieren und am Ende die Heldenklasse bestimmen.",
-    "Auffällig ist die extrem detailreiche und variable Darstellung von Wasser in zahlreichen Animationen und Spielszenen.",
-    "1996 erschien mit The Story of Thor 2 (Legend of Oasis) ein Prequel für den Sega Saturn."
+    "Entwickelt vom japanischen Studio Ancient unter Mitwirkung von Yuzo und Ayano Koshiro.",
+    "Das Spiel erschien Ende 1994 in Japan und 1995 in Europa als Teil von Segas Mega-RPG-Project.",
+    "Die Steuerung erinnert durch zahlreiche Nahkampf-Kombos stark an Beat-'em-up-Spiele.",
+    "Vier Elementargeister (Wasser, Feuer, Schatten, Pflanze) dienen zur Bewältigung von Rätseln und als Kampfunterstützung.",
+    "Ein verstecktes und undurchsichtiges Level-System vergibt Ränge basierend auf gesammelten Herzen.",
+    "Das Spiel besticht durch eine für Mega-Drive-Verhältnisse herausragende Pixelgrafik und detailreiche Animationen.",
+    "Ein Nachfolger namens The Story of Thor 2 erschien 1996 für den Sega Saturn."
   ],
   "kapitel": [
     {
@@ -237,11 +236,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:43:36+00:00",
+    "am": "2026-08-21T12:01:13+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Super Metroid: Der SNES-Klassiker und Ursprung des Metroidvania-Genres im Rückblick.",
-  "kurzfassung": "Super Metroid gilt bis heute als Meilenstein der 16-Bit-Ära und prägte maßgeblich das nach ihm benannte Metroidvania-Genre. Die Hosts beleuchten die bewegte Entwicklungsgeschichte bei Nintendo unter großem Termindruck, die atmosphärische Spielwelt und die motivierende Stärkeprogression. Dabei werden neben Stärken wie dem wortlosen Storytelling auch Frustmomente bei Steuerung und Rätseln nicht ausgespart.",
+  "einzeiler": "Super Metroid gilt als Meilenstein der 16-Bit-Ära und prägte das Metroidvania-Genre.",
+  "kurzfassung": "Die Hosts besprechen Super Metroid für das Super Nintendo aus dem Jahr 1994. Sie beleuchten die turbulente Entwicklungsgeschichte unter Yoshio Sakamoto bei Nintendo R&D 1 und ordnen das Spiel in die Serientür ein. Dabei analysieren sie das wortlose Storytelling, die dichte Atmosphäre und die prägende Progression des Klassikers.",
   "stichpunkte": [
-    "Super Metroid ging als klarer Sieger aus einem Hörer-Voting gegen Castlevania-Titel hervor.",
-    "Die Entwicklung unter Yoshio Sakamoto war von enormem Crunch und Zeitdruck geprägt.",
-    "Das Spiel verzichtet nach einem filmhaften Intro komplett auf Text und erklärt Mechaniken wortlos über die Spielwelt.",
-    "Zentrales Gameplay-Element ist eine nicht-lineare Stärkeprogression durch neue Waffen, Anzüge und Bewegungsfähigkeiten.",
-    "Versteckte Spezialmanöver wie der Wandsprung oder der Scheinspark werden dem Spieler durch Beobachtung anderer Kreaturen vermittelt.",
-    "Die Spielwelt teilt sich in markante Areale wie Brinstar, Norfair oder das stimmungsvolle Schiffswrack auf.",
-    "Frustrierende Passagen wie der Treibsand in Meridia und präzise Steuerungsanforderungen trüben den ansonsten hervorragenden Eindruck stellenweise.",
-    "Ein tragisches Finale mit einem Metroid-Baby und einer adrenalingeladenen Fluchtsequenz runden das Abenteuer ab."
+    "Das NES-Original von 1986 enthüllte den berühmten Twist, dass Samus Aran eine Frau ist.",
+    "Super Metroid gewann eine Hörerabstimmung gegen Castlevania-Titel deutlich.",
+    "Die Entwicklung unter Yoshio Sakamoto dauerte zweieinhalb Jahre und war von extremem Crunch geprägt.",
+    "Das Spiel verzichtet fast gänzlich auf Text und erzählt seine Handlung durch die Umgebung und Animationen.",
+    "Spielerisch zeichnet sich der Titel durch eine nicht-lineare Stärke- und Bewegungsprogression aus.",
+    "Spezialmanöver wie Wandsprünge oder der Scheinspark werden dem Spieler wortlos durch andere Kreaturen vermittelt.",
+    "Der Soundtrack und die düstere Inszenierung erzeugen eine beklemmende Science-Fiction-Atmosphäre.",
+    "Trotz kleinerer Frustmomente bei Steuerung und Unterwasserpassagen bleibt der Klassiker bis heute hoch angesehen."
   ],
   "kapitel": [
     {
@@ -325,11 +325,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:46:51+00:00",
+    "am": "2026-08-21T12:01:16+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

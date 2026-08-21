@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Die spannende Geschichte des Spiels Guardians of Infinity und wie es gelöst wurde.",
-  "kurzfassung": "Die Hosts beleuchten die Entstehungsgeschichte des 1988 erschienenen Textadventures Guardians of Infinity to Save Kennedy von Paragon Software. Da das Spiel als unlösbar galt, versuchte eine Gruppe von Hörern um Natascha und Jan in monatelanger Kleinarbeit, das Spiel zu knacken. Unterstützt von einem Hörer, der den Code reverse-engineered hat, gelang schliesslich der historische Durchbruch.",
+  "einzeiler": "Die Geschichte des fast vergessenen Spiels Guardians of Infinity und seine Lösung.",
+  "kurzfassung": "Das 1988 erschienene Text-Adventure Guardians of Infinity to Save Kennedy galt lange als unlösbar. Nach einer Herausforderung im Podcast gelang es zwei Teams aus der Community, das Spiel durch akribische Recherche und Reverse-Engineering zu knacken. Die Folge beleuchtet die Hintergründe des Spiels, die historische Ermordung Kennedys und die detektivische Arbeit der Spieler.",
   "stichpunkte": [
-    "Vorstellung des 1988 veröffentlichten Spiels Guardians of Infinity to Save Kennedy von Paragon Software.",
-    "Das Spiel verbindet eine Zeitreise-Prämisse mit der Verhinderung des Kennedy-Attentats in einer Simulation.",
-    "Der Spieler steuert fünf Agenten über ein komplexes Dialogsystem ohne klassisches Inventar.",
-    "Umfangreiches Begleitmaterial wie Handbücher, Novellen und Terminkalender machten das Spielen extrem anspruchsvoll.",
-    "Das Spiel galt jahrzehntelang als ungelöst und es gab keine Walkthroughs.",
-    "Eine Hörergruppe um Natascha spielte das Spiel in monatelanger Arbeit und erstellte eine Lösung.",
-    "Parallel dazu löste ein Hörer namens Andi das Spiel durch technisches Reverse-Engineering des Codes.",
-    "Beide Teams dokumentierten ihre erfolgreichen Lösungswege schliesslich für die Öffentlichkeit."
+    "Das Spiel Guardians of Infinity von Paragon Software thematisiert die Verhinderung des Kennedy-Attentats.",
+    "Das Spiel ist kein klassisches Text-Adventure, sondern eine komplexe Simulation mit Dialog-Fokus.",
+    "Die Entwicklung erforderte umfangreiche historische Recherchen, die sich in einem massiven Handbuch niederschlugen.",
+    "Das Spiel gilt als kommerzieller Misserfolg und war über 30 Jahre lang ohne bekannte Lösung.",
+    "Eine Community-Herausforderung führte 2021 zu zwei unabhängigen Lösungen durch unterschiedliche Teams.",
+    "Ein Team nutzte klassische Recherche und Mapping, das andere wandte Reverse-Engineering an.",
+    "Die Entwickler nutzten für das Spiel vermutlich die Programmiersprache Prolog, was ein historisches Unikum darstellt.",
+    "Die Folge diskutiert die Grenze zwischen historischer Fiktion und Verschwörungstheorien."
   ],
   "kapitel": [
     {
@@ -357,11 +357,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:27+00:00",
+    "am": "2026-08-21T11:54:41+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

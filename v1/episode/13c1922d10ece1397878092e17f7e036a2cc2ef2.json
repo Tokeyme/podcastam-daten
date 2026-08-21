@@ -17,25 +17,25 @@
     "kapitel": false,
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Wagenknechts Kurs, Drohnenabwehr, Wohnungsdebatte und Väter-Gehirne.",
-  "kurzfassung": "Sahra Wagenknechts Kurswechsel und die Annäherung an Björn Höcke stürzen das BSW und die CDU in Thüringen in schwere Konflikte. Zudem beleuchtet die Episode die Sicherheitsrisiken und Forschungsinitiativen rund um die Drohnenabwehr in Deutschland sowie die Debatte um Mieten und Enteignungen im Berliner Wahlkampf. Abschliessend wird eine Studie zu neurobiologischen Veränderungen bei werdenden Vätern vorgestellt.",
+  "einzeiler": "Wie wirksame Drohnenabwehr, BSW-Konflikte und das Vater-Gehirn unsere Sicherheit prägen",
+  "kurzfassung": "Sarah Wagenknechts Kurswechsel und die Annäherung an die AfD stürzen das BSW und die CDU in Thüringen in schwere Koalitionskrisen. Ein neues Forschungszentrum in Sachsen-Anhalt soll die mangelhafte Drohnenabwehr über kritischer Infrastruktur verbessern. Zudem erklären Experten im Podcast den Wohnungsmarktstreit um Enteignungen sowie überraschende neurobiologische Veränderungen bei frischgebackenen Vätern.",
   "stichpunkte": [
-    "Sahra Wagenknecht kritisiert die thüringische Brombeer-Koalition und lehnt den dortigen Regierungskurs ab.",
-    "Bsw-Politikerin Katja Wolf schliesst jegliche Zusammenarbeit mit der AfD strikt aus.",
-    "Die CDU steht vor der schwierigen Frage, ob sie künftig pragmatisch mit der Linkspartei kooperieren muss.",
-    "Ein neues Forschungszentrum in Sachsen-Anhalt soll die stark vernachlässigte Drohnenabwehr in Deutschland verbessern.",
-    "Die Bedrohungslage durch unbemannte Drohnen über kritischer Infrastruktur wächst kontinuierlich an.",
-    "LEG-Immobilien-CEO Lars von Lackum lehnt Enteignungen als Lösung für den Wohnungsmarkt ab und kritisiert die Mietpreisbremse als unwirksam.",
-    "Wissenschaftler haben festgestellt, dass sich die Gehirnstrukturen von Männern beim Werden zum Vater verändern."
+    "Sarah Wagenknecht kritisiert den Pragmatismus der BSW-Landesverbände, was zu internen Spannungen und Koalitionskrisen führt",
+    "Die CDU steht vor der schwierigen Frage, ob künftig Minderheitsregierungen mit der Linkspartei toleriert werden müssen",
+    "Deutschland hinkt bei der Drohnenabwehr hinterher, wie tausende unentdeckte Überflüge über kritischer Infrastruktur zeigen",
+    "Ein neues Forschungszentrum in Sachsen-Anhalt soll die Einsatzketten und die behördenübergreifende Kooperation bei der Drohnenabwehr verbessern",
+    "Der Chef von LEG Immobilien, Lars von Lackum, kritisiert Enteignungsdebatten als wirkungslos gegen die echte Wohnungsnot",
+    "Wohnungsnot und Mieten steigen vor allem wegen mangelndem Neubau, nicht wegen der Eigentümerstruktur",
+    "Studien zeigen überraschend, dass sich bei Männern durch die Vaterschaft die Gehirnstrukturen für mehr Empathie verändern"
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-20T03:10:51+00:00",
+    "am": "2026-08-21T12:02:12+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

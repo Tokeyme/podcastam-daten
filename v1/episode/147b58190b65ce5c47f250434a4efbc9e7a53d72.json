@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Wie die Rocky-Filme und Videospiele von 1976 bis 2006 Hand in Hand gingen.",
-  "kurzfassung": "Die Hosts Christian Genzel und Heinrich Lenert präsentieren live von der Stay Forever Convention in Karlsruhe eine Sonderausgabe über die Film- und Spielegeschichte der Rocky-Reihe. Anhand der sechs Hauptfilme von 1976 bis 2006 beleuchten sie den Wandel des Boxkinos und vergleichen ihn mit der Entwicklung passender Videospiele von den Anfängen auf dem Atari VCS und ColecoVision bis hin zu den PlayStation-2-Titeln.",
+  "einzeiler": "Eine filmische und spielerische Zeitreise durch die Rocky-Reihe live auf der SF Con.",
+  "kurzfassung": "Die Hosts analysieren die Rocky-Filmreihe und deren Videospieladaptionen von den 1970er bis in die 2000er Jahre. Dabei vergleichen sie die Entwicklung des Kinos vom New Hollywood zum Blockbuster-Spektakel mit dem technologischen Fortschritt der Gaming-Hardware. Ein besonderes Highlight ist die Live-Demonstration des ersten Rocky-Spiels auf einem originalen ColecoVision.",
   "stichpunkte": [
-    "Live-Auftritt von der Stay Forever Convention 2025 in Karlsruhe mit einer Sonderausgabe zum Thema Rocky.",
-    "Rocky I (1976) als New-Hollywood-Sozialdrama, gepaart mit dem Stand der Videospielgeschichte und Pong-Varianten jener Ära.",
-    "Rocky II (1979) als erzählerische Wiederholung und der Siegeszug des Atari VCS mit ersten Boxspielen von Activision und Intellivision.",
-    "Rocky III (1982) als Beginn der MTV-Ära mit dem Hit 'Eye of the Tiger' und dem ersten offiziellen Rocky-Spiel für das ColecoVision inklusive Spezial-Controller.",
-    "Rocky IV (1985) als politisches Spektakel im Kalten Krieg und die Umsetzung für das Sega Master System.",
-    "Rocky V (1990) als düsterer, gefloppter Tiefpunkt der Reihe und die technologische Weiterentwicklung der PC-Spiele in den 90ern.",
-    "Rocky Balboa (2006) als melancholischer Abschluss der Filmreihe und das gleichnamige Spiel für PS2, Xbox und PSP.",
-    "Abschließende Bewertung der Hosts anhand einer tierbasierten Skala für Filme und Games."
+    "Analyse der Rocky-Filmreihe als Spiegelbild der Hollywood-Entwicklung.",
+    "Diskussion über Sylvester Stallones Rolle als Underdog und Regisseur.",
+    "Einordnung der frühen Box-Spiele von Atari, Intellivision und Sega.",
+    "Technik-Exkurs: Die Herausforderungen bei der Live-Präsentation alter Hardware.",
+    "Detaillierte Betrachtung der Rocky-Spiele auf ColecoVision und Sega Master System.",
+    "Vergleich der Film-Qualitäten von Rocky I bis Rocky Balboa.",
+    "Einordnung des Videospiel-Crashs von 1983 und dessen Auswirkungen.",
+    "Bewertung der Reihe nach dem 'Good, Bad & Ugly'-Prinzip mit Rocky-Trainingsmotiven."
   ],
   "kapitel": [
     {
@@ -221,11 +221,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:40:22+00:00",
+    "am": "2026-08-21T11:58:14+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

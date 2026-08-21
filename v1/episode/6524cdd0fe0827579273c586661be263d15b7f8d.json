@@ -17,18 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Technik und Geschichte des Amiga 1000, 500 und 2000 von der Premiere bis zum Markterfolg.",
-  "kurzfassung": "Nach der spektakulären Präsentation im Sommer 1985 setzt der Amiga 1000 mit seinem Custom-Chipsatz, 4096 Farben und präemptivem Multitasking neue technische Maßstäbe. Wegen Softwaremangel, Lieferengpässen und einer verfehlten Marktpositionierung bleibt der Rechner jedoch zunächst hinter den Absatzerwartungen zurück. Erst mit der Aufteilung der Plattform in den erweiterbaren Amiga 2000 und den günstigeren Heimcomputer Amiga 500 gelingt Commodore der Durchbruch zum populären Spieleklassiker.",
+  "einzeiler": "Die Geschichte des Amiga von der spektakulären Premiere 1985 bis zum Erfolg des Amiga 500.",
+  "kurzfassung": "Der Amiga 1000 debütierte 1985 mit einer spektakulären Multimedia-Show und fortschrittlicher Technik wie dem Custom-Chipsatz Agnus, Denise und Paula, litt anfangs jedoch unter Lieferschwierigkeiten und Mangel an Software. Erst mit den Nachfolgemodellen Amiga 500 und Amiga 2000 sowie gezielten Spielepaketen etablierte sich der Computer in Europa als Heimspiel- und Kreativ-Hit. Dabei positionierte sich Commodore zwischen Bürorechner und Spielekonsole, fand jedoch schließlich durch den Fokus auf den Heimmarkt zu großem Erfolg.",
   "stichpunkte": [
-    "Vorstellung des Amiga 1000 im New Yorker Lincoln Center 1985 mit einer Live-Grafikdemonstration von Andy Warhol",
-    "Hardware-Aufbau des Amiga 1000 mit Motorola-68000-Prozessor, externer Tastatur und Zwei-Tasten-Maus",
-    "Agnus-Chip mit Direct Memory Access (DMA), Copper-Coprozessor und Blitter für schnelle 2D-Grafikmanipulation",
-    "Denise-Grafikchip mit einer Palette von 4096 Farben und dem farbintensiven HAM-Modus",
-    "Paula-Soundchip für vierkanalige sample-basierte 8-Bit-Audiowiedergabe und Etablierung des Tracker-Formats",
-    "Betriebssystem AmigaOS bestehend aus Kickstart, AmigaDOS, Intuition und grafischer Workbench mit echtem präemptivem Multitasking",
-    "Schwieriger Marktstart 1985 durch fehlende Software, Zurückhaltung der Händler und zögerliche Marketingkampagnen",
-    "Strategische Neuausrichtung 1987 mit dem erweiterbaren Profi-Rechner Amiga 2000 und dem Tastaturcomputer Amiga 500",
-    "Kommerzieller Erfolg des Amiga 500 als dominierende Spieleplattform der späten 1980er-Jahre, befeuert durch Software-Bundles"
+    "Präsentation des Amiga 1000 am 23. Juli 1985 im Lincoln Center in New York mit Multimedia-Show und Live-Aufführung von Andy Warhol.",
+    "Der deutsche Start 1986 in Frankfurt wurde von Frank Elstner moderiert.",
+    "Technische Merkmale umfassen den Motorola 68000 Prozessor, präemptives Multitasking und den berühmten Chipsatz aus Agnus, Denise und Paula.",
+    "Der Ham-Modus von Denise ermöglichte die Darstellung aller 4096 Farben und revolutionierte die fotorealistische Bildschirmausgabe.",
+    "Paula sorgte für 4-Kanal-Sample-basierten Sound, der die Musikproduktion auf Computern mit dem Tracker-Format prägte.",
+    "Zum Marktstart 1985 kämpfte der Amiga mit enormen Lieferproblemen, schlechter Verfügbarkeit bei Händlern und zu wenigen Softwaretiteln.",
+    "Einführung der Nachfolgemodelle Amiga 500 als Heimcomputer und Amiga 2000 als erweiterbarer Arbeitsrechner im Frühjahr 1987.",
+    "Der Amiga 500 wurde durch erfolgreiche Spielebündel wie das Batman-Pack zum Bestseller und beerbte den C64."
   ],
   "kapitel": [
     {
@@ -238,11 +237,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:41:19+00:00",
+    "am": "2026-08-21T11:51:14+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

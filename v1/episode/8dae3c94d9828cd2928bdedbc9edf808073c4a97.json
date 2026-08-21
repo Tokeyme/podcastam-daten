@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Ein detaillierter Überblick über die Lore, Völker und Entstehung von The Elder Scrolls.",
-  "kurzfassung": "Die Folge analysiert die komplexe Kosmologie, Geografie und Geschichte des Fantasy-Universums von The Elder Scrolls. Vorgestellt werden die verschiedenen Völker Tamriels, die Götterwelten der Aedra und Daedra sowie zentrale historische Epochen der Spielereihe. Im Experteninterview erläutert YouTuber Louis Kresowitsch die Evolution des Worldbuildings von den Anfängen bis zu den modernen Titeln.",
+  "einzeiler": "Eine umfassende Reise durch die fantastische Welt und komplexe Historie von The Elder…",
+  "kurzfassung": "Diese Begleitfolge beleuchtet das umfangreiche Fantasy-Universum von The Elder Scrolls und zeichnet die Entstehungsgeschichte, den Kosmos und die verschiedenen Regionen von Tamriel nach. Im Gespräch mit dem Experten Luis Kresowitsch alias Amemos wird zudem die Entwicklung der Lore von den frühen Teilen bis hin zu heutigen Titeln analysiert. Dabei stehen auch die verschiedenen Völker, Gottheiten und historischen Epochen der Spieleserie im Fokus.",
   "stichpunkte": [
-    "Kosmologie von Mundus: Entstehung der Welt durch Urkräfte sowie die Differenzierung zwischen Aedra, Daedra und Magna Ge",
-    "Geografie von Tamriel: Übersicht über die neun Provinzen und deren prägende spielbare Völker aus Menschen, Elfen und Tiermenschen",
-    "Besonderheiten der Kulturen: Fleischfressende Waldelfen mit grünem Pakt, mondabhängige Khajiit-Morphologien und verschwundene Dwemer",
-    "Historische Epochen: Überblick über die meretische Ära sowie die vier Ären mitsamt dem Aufstieg und Fall mehrerer Kaiserreiche",
-    "Götter und Entitäten: Rollen von Lorkhan, dem Tribunal von Morrowind, Dagoth Ur sowie mächtigen Daedra-Fürsten wie Molag Bal und Sheogorath",
-    "Narrative Kniffe: Das Phänomen des Drachenbruchs zur inhaltlichen Begründung paralleler Spielausgänge und Lücken in der Zeitlinie",
-    "Zentrale Leitmotive: Moralische Ambivalenzen, zyklische Machtkämpfe und das Spannungsfeld zwischen Vorherbestimmung und Handlungsfreiheit",
-    "Experteninterview mit Louis Kresowitsch: Einblicke in die Autorenschaft um Michael Kirkbride, Bethesdas chaotische Design-Philosophie und die Lore-Entwicklung seit 1994"
+    "Klassische High-Fantasy-Tradition gepaart mit einer komplexen Historie und fester Zeitrechnung",
+    "Kosmologie mit Urkräften, Ädra, Daedra und der Entstehung des Multiversums (Orbis)",
+    "Die neun Provinzen von Tamriel und ihre spielbaren Völker von Hochelfen bis Katzenmenschen",
+    "Historie von der meretischen Ära bis zur vierten Ära mit verschiedenen menschlichen Kaiserreichen",
+    "Schlüsselereignisse wie die Schlacht am Roten Berg und das Verschwinden der Dwemer",
+    "Der Lore-Experte Luis Kresowitsch (Amemos) im Interview über die Entstehung der Spielwelt",
+    "Der 'Drachenbruch' als narrative Lösung für widersprüchliche Zeitlinien und Handlungsstränge",
+    "Zentrale Themen wie moralische Ambivalenz, Machtkämpfe und das Verhältnis von Prophezeiung und Selbstbestimmung"
   ],
   "kapitel": [
     {
@@ -317,11 +317,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:17+00:00",
+    "am": "2026-08-21T11:53:51+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

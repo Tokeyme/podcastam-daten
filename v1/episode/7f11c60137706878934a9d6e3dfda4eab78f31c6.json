@@ -17,37 +17,32 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
   },
-  "einzeiler": "Musialas Schrecksekunde, Dürre-Sorgen bei Bauern, KI-Schutz und Fake-Date-Überfälle.",
-  "kurzfassung": "Jamal Musiala musste nach einer neurologischen Dysfunktion auf dem Platz behandelt werden, ist aber wieder wohlauf. Wegen extremer Hitze und Trockenheit fällt die deutsche Ernte in vielen Regionen schlecht aus, was zu Sorgen und Preissteigerungen führt. Zudem reagieren Dänemark mit strengeren Regeln und OpenAI mit einer neuen ChatGPT-Version auf Risiken durch Künstliche Intelligenz.",
+  "einzeiler": "Ernteausfälle in Deutschland, KI-Regeln in Dänemark und Gewalt bei queeren Dating-Apps",
+  "kurzfassung": "Der Deutsche Bauernverband meldet erhebliche Ernteausfälle bei Kartoffeln und Getreide infolge von Hitze und Trockenheit. Dänemark schränkt die Nutzung von KI an Schulen ein, während OpenAI eine spezielle ChatGPT-Version für Minderjährige einführt. Zudem beleuchtet das Team Recherche eine Zunahme von gewaltsamen Überfällen auf schwule Männer über Dating-Apps.",
   "stichpunkte": [
-    "Jamal Musiala erlitt bei einem Testspiel eine neurologische Dysfunktion, konnte den Platz aber wieder verlassen.",
-    "Die deutsche Getreide- und Kartoffelernte fällt wegen starker Hitze und Trockenheit unterdurchschnittlich aus.",
-    "Besonders der Südwesten Deutschlands ist von extremer Trockenheit betroffen, während der Norden weniger leidet.",
-    "Dänemark führt an weiterführenden Schulen Überwachungssoftware gegen KI-Nutzung bei Prüfungen ein.",
-    "OpenAI bringt eine neue ChatGPT-Version speziell für Minderjährige mit Pausenerinnerungen und Lernmodus auf den Markt.",
-    "Das Bundeskriminalamt verzeichnet in den letzten 15 Jahren eine Verzehnfachung der angezeigten Straftaten gegen queere Menschen.",
-    "Queere Männer werden vermehrt über Dating-Apps wie Grindr in Fake-Date-Fallen gelockt, wo sie ausgeraubt und misshandelt werden.",
-    "Ein Waldbrand im Hohen Venn in Belgien breitet sich dank Regenfällen nicht weiter aus, sorgt aber für Rauchgeruch bis nach Deutschland."
+    "Hitze und Trockenheit führen in Deutschland zu unterdurchschnittlichen Ernten bei Getreide und Kartoffeln.",
+    "Der Bauernverband fordert politische Unterstützung wie die Senkung der Agrardieselsteuer und vorgezogene EU-Subventionen.",
+    "Dänemark reagiert auf mangelndes kritisches Denken bei Schülern mit Überwachungssoftware, Schulpflicht für Aufgaben und mündlichen Prüfungen.",
+    "ChatGPT führt eine spezielle Version für unter 18-Jährige mit Pausenerinnerungen und einem Lernmodus ein.",
+    "Die Zahl der angezeigten Straftaten aufgrund der sexuellen Orientierung hat sich laut BKA in 15 Jahren verzehnfacht.",
+    "Queere Menschen werden zunehmend über Dating-Apps wie Grindr in Gewaltfallen gelockt und erpresst.",
+    "Regenfälle in Belgien bremsen die dortigen Waldbrände, während in Monschau wegen Rauchgeruch weiterhin Vorsichtsmaßnahmen gelten."
   ],
   "kapitel": [
     {
-      "titel": "Jamal Musialas medizinischer Vorfall",
-      "start": 27.18
-    },
-    {
-      "titel": "Dürre und schlechte Ernte in Deutschland",
+      "titel": "Ernteausfälle in Deutschland",
       "start": 118.56
     },
     {
-      "titel": "KI-Regeln an Schulen in Dänemark und neue ChatGPT-Version",
+      "titel": "KI-Regeln an Schulen in Dänemark und ChatGPT für Minderjährige",
       "start": 396.64
     },
     {
-      "titel": "Gewalt gegen queere Menschen und Fake-Date-Überfälle",
+      "titel": "Gewalt gegen queere Menschen bei Fake-Dates",
       "start": 664.58
     },
     {
-      "titel": "Lage beim Brand im Hohen Venn",
+      "titel": "Lage der Waldbrände in Belgien und Köln",
       "start": 891.96
     }
   ],
@@ -129,11 +124,11 @@
     }
   ],
   "erzeugt": {
-    "am": "2026-08-20T02:35:15+00:00",
+    "am": "2026-08-21T11:54:52+00:00",
     "transkript_modell": "faster-whisper large-v3",
     "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

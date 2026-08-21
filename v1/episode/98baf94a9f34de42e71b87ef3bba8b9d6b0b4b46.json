@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Rückblick auf den Klassiker FIFA 98 und die Evolution der Fußballspiele in den 90ern.",
-  "kurzfassung": "Die Hosts besprechen den beliebten Klassiker FIFA 98: Die WM-Qualifikation und beleuchten die Entstehungsgeschichte der EA-Sports-Reihe. Dabei vergleichen sie verschiedene Plattform-Versionen wie PlayStation und Nintendo 64 und diskutieren die Stärken und Schwächen des Gameplays im Vergleich zum echten Fußball. Auch der Wandel der Fußballsimulationen in den 90er-Jahren sowie das legendäre Intro mit dem Song von Blur werden thematisiert.",
+  "einzeiler": "Rueckblick auf den Klassiker FIFA 98: Die WM-Qualifikation.",
+  "kurzfassung": "Die Hosts blicken auf FIFA 98, die WM-Qualifikation zurueck und beleuchten dessen Vorgeschichte. Sie besprechen die technischen Innovationen, den Weg von EA Sports und die Praesentation mit dem bekannten Soundtrack von Blur. Ausserdem testen sie das Spiel ausfuehrlich auf verschiedenen Plattformen und analysieren das Gameplay im Vergleich zum realen Fussball.",
   "stichpunkte": [
-    "FIFA 98 (Die WM-Qualifikation) gilt als vorläufiger Höhepunkt und absoluter Klassiker der 3D-Fußballspiele.",
-    "Das Spiel bietet über 350 Teams, nationale Ligen und den beliebten Hallenfußball-Modus.",
-    "Das ikonische Intro verbindet das 'EA Sports'-Jingle mit dem Blur-Song 'Song 2' und internationalem Kommentatoren-Audio.",
-    "Gegenüber dem Vorgänger wurden Steuerung, Animationen und die Responsivität spürbar verbessert.",
-    "Die PlayStation-Version gilt neben dem PC als die beste und verbreitetste Fassung, während N64- und Saturn-Versionen teils deutlich abweichen.",
-    "Die KI und das Abwehrverhalten zeigen aus heutiger Sicht teils skurrile Schwächen, wodurch die Offensive stark im Vorteil ist.",
-    "Die Kommentatoren Werner Hansch und Wolf-Dieter Poschmann sorgen für Atmosphäre, auch wenn die Sprachausgabe oft verzögert ist.",
-    "EA setzte gezielt auf regionale Cover-Stars wie Andreas Möller für den deutschen Markt."
+    "FIFA 98, die WM-Qualifikation erschien im Herbst 1997 und gilt als vorlaeufiger Hoehepunkt der Serie.",
+    "Das Spiel bietet ueber 350 Teams, echte Spielerlizenzen und erstmals durchgehende 3D-Stadien.",
+    "Die Entstehungsgeschichte von EA Sports ist untrennbar mit dem Erfolg von John Madden Football verbunden.",
+    "Das Intro mit dem Song 'Song 2' von Blurpraegt das Spiel und bleibt bis heute unvergessen.",
+    "Die Steuerung ist zugänglich, aber Offensivspiel und Dribblings sind gegenueber der Abwehr uebermaeßig stark.",
+    "Das Spiel enthaelt neben der WM-Qualifikation auch den letzten Hallenfußball-Modus der Reihe.",
+    "Der Titel erschien in unterschiedlichen Versionen fuer Playstation, Nintendo 64, Saturn und PC.",
+    "Die Fussballkommentare von Wolf-Dieter Poschmann und Werner Hansch sorgen fuer Atmosphaere, trotz gelegentlicher Verzoegerungen."
   ],
   "kapitel": [
     {
@@ -273,11 +273,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:44:40+00:00",
+    "am": "2026-08-21T11:54:58+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

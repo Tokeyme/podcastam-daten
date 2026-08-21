@@ -17,18 +17,16 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Sly Raccoon: Analyse des PS2-Klassikers und die Seriengeschichte von Sucker Punch.",
-  "kurzfassung": "Mit Sly Raccoon lieferte Sucker Punch 2002 einen stilvollen 3D-Plattformer mit Cel-Shading-Optik und leichten Schleich-Mechaniken exklusiv für die PlayStation 2. Im Fokus stehen der Waschbär-Meisterdieb Sly Cooper und seine Bande, die in kompakten Levels das gestohlene Buch ihrer Familie von den Teuflischen Fünf zurückholen müssen. Im Rückblick erweist sich das Debüt der Reihe trotz klarer Unterschiede zu den offeneren Nachfolgern als zeitloser und präzise gestalteter Genreklassiker.",
+  "einzeiler": "Sly Raccoon: Auf Diebeszug mit dem PS2-Waschbär",
+  "kurzfassung": "Gunnar Lott und Fabian Käufer widmen sich dem PlayStation-2-Klassiker Sly Raccoon von Sucker Punch Productions. Sie beleuchten die Entstehungsgeschichte des Studios, das charmante Cell-Shading-Design sowie die gelungene Mischung aus linearem Plattforming und leichten Stealth-Elementen. Zudem vergleichen sie den fokussierten ersten Teil mit dessen offeneren Nachfolgern.",
   "stichpunkte": [
-    "Historische Einordnung des Spiels im goldenen Zeitalter der 3D-Plattformer auf der PlayStation 2 neben Reihen wie Jak & Daxter sowie Ratchet & Clank.",
-    "Entstehungsgeschichte von Sucker Punch Productions, gegründet von ehemaligen Microsoft-Mitarbeitern nach dem N64-Debüt Rocket: Robot on Wheels.",
-    "Handlung um Meisterdieb Sly Cooper, seine Gefährten Bentley und Murray sowie den Rachefeldzug gegen die Teuflischen Fünf.",
-    "Spielmechanik als Mischung aus präzisem Plattform-Gameplay, kontextsensitiven Diebesaktionen und zugänglichen Stealth-Elementen.",
-    "Technische Umsetzung auf Basis der hauseigenen Spackle-Engine mit markanter Cel-Shading-Optik und flüssigen 60 Bildern pro Sekunde.",
-    "Entwicklungsanpassungen wie das nachträgliche Verschieben der anspruchsvollen China-Welt an das Ende der Kampagne.",
-    "Sammelmechanik um Hinweisflaschen zur Freischaltung optionaler Tresor-Upgrades und Moves.",
-    "Evolution der Reihe hin zu offeneren Heist-Strukturen, erweiterter Kampfmechanik und Teamfokus in den Nachfolgern.",
-    "Der spätere Werdegang von Sucker Punch über die inFamous-Serie bis hin zu Ghost of Tsushima."
+    "Sly Raccoon erschien Anfang 2003 exklusiv für die PlayStation 2 und war das zweite Spiel von Sucker Punch Productions.",
+    "Das Spiel verbindet klassisches 3D-Jump-&-Run mit leichten Schleich- und Diebes-Mechaniken in kompakten Levelstrukturen.",
+    "Die eigens entwickelte Spackle-Engine ermöglicht einen flüssigen Cell-Shading-Look mit 60 Bildern pro Sekunde.",
+    "Die Geschichte dreht sich um den Waschbären Sly Cooper, der das gestohlene Familienhandbuch der Diebeskunst zurückerobern will.",
+    "Sucker Punch legte großen Wert auf eine filmreife Inszenierung mit Kapitel-Tafeln, Comic-Sequenzen und synchronisierten Dialogen.",
+    "Im Vergleich zu den offeneren und aktionlastigeren Fortsetzungen der Reihe gilt der erste Teil als besonders fokussiert und tight.",
+    "Das Spiel ist heutzutage unkompliziert über den PlayStation Store für moderne Konsolen erhältlich."
   ],
   "kapitel": [
     {
@@ -390,11 +388,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:37:14+00:00",
+    "am": "2026-08-21T12:00:03+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

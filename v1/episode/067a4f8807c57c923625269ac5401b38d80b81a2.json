@@ -17,15 +17,15 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Grosse Silvester-Quizshow mit prominenten Gästen und dem Stay-Forever-Team",
-  "kurzfassung": "Christian Schmidt, Gunnar Lott und Fabian Käufer treten zum großen Silvester-Quiz mit zahlreichen Gastfragen an. In sechs Rateblöcken und einer Trivial-Pursuit-Runde wird über Retro-Spiele, Popkultur und Dackel gerätselt. Am Ende sichert sich Gunnar Lott knapp den Sieg.",
+  "einzeiler": "Chris, Gunnar und Fabian stellen sich einem großen Retro-Spiele-Quiz mit Stargästen.",
+  "kurzfassung": "Chris Schmidt, Gunnar Lott und Fabian Käufer treten in einer großen Retro-Rate-Runde zum Jahreswechsel an. Unterstützt von zahlreichen Gastfragenden müssen sie knifflige Fragen rund um Computerspiele, Brettspiele und Popkultur lösen. Am Ende sichert sich Gunnar Lott den Sieg in diesem spannenden Wettstreit.",
   "stichpunkte": [
-    "Drei Kandidaten treten in einer Silvester-Quizshow an.",
-    "Zahlreiche Gaststars steuern knifflige Fragen aus den Bereichen Gaming und Medien bei.",
-    "Spielregeln beinhalten verdeckte Antworten und Wechseljoker für den jeweils Letzten.",
-    "Themen reichen von PC-Games-Historie über Star Wars und D&D bis hin zu Brettspiel-Umsetzungen.",
-    "Ein spaßiger Sonderblock dreht sich rund um das Thema Dackel in der Popkultur.",
-    "Gunnar Lott verteidigt seine Führung bis zum Ende und gewinnt vor Christian Schmidt und Fabian Käufer."
+    "Drei prominente Gäste spielen in sechs Blöcken um den Sieg in der Retro-Rate-Runde.",
+    "Zahlreiche Gastfragende steuern knifflige Fragen aus den Bereichen Computerspiele und Popkultur bei.",
+    "Die Kandidaten setzen im Verlauf des Quiz taktisch ihre Wechseljoker ein.",
+    "Ein spaßiger Sonderblock dreht sich komplett um das Thema Dackel in Spielen und Medien.",
+    "Unerwartete Anekdoten aus der Redaktionsgeschichte von PC Games und GameStar werden aufgedeckt.",
+    "Gunnar Lott entscheidet das Quiz am Ende knapp für sich."
   ],
   "kapitel": [
     {
@@ -287,11 +287,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:10+00:00",
+    "am": "2026-08-21T11:50:03+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",

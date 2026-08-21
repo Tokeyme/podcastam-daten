@@ -17,17 +17,17 @@
     "kapitel": true,
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
   },
-  "einzeiler": "Eine Retro-Analyse des GameCube-Klassikers Star Fox Adventures von Rare und Nintendo.",
-  "kurzfassung": "Die Hosts besprechen das 2002 für den GameCube erschienene Action-Adventure Star Fox Adventures aus der Perspektive von Spielmechanik, Technik und seiner Entstehungsgeschichte. Dabei beleuchten sie den steinigen Weg von den ursprünglichen N64-Plänen als 'Dinosaur Planet' bis zur späten Verschmelzung mit der Star-Fox-Marke. Während Gunnar die technische Brillanz und den unkomplizierten Spielfluss lobt, kritisiert Fabian repetitive Passagen und ungenutzte Spielmechaniken.",
+  "einzeiler": "Rare-Action-Adventure mit Fox McCloud: Ein grafisches Juwel mit spielerischen Ecken.",
+  "kurzfassung": "Star Fox Adventures ist ein visuell beeindruckendes Action-Adventure, das ursprünglich als eigenständiges Projekt Dinosaur Planet begann. Die Integration der Star-Fox-Marke führte zu einer hybriden Spielerfahrung zwischen Zelda-ähnlichen Rätseln und gelegentlichen Flugpassagen. Trotz technischer Exzellenz bleibt das Spiel aufgrund seiner linearen Struktur und repetitiven Mechaniken in der Fangemeinde umstritten.",
   "stichpunkte": [
-    "Das Spiel erschien im Herbst 2002 für den Nintendo GameCube und markierte das letzte große Projekt von Rare für eine Nintendo-Plattform vor der Microsoft-Übernahme.",
-    "Das Projekt begann ursprünglich 1997 unter dem Arbeitstitel 'Dinosaur Planet' für das Nintendo 64 mit zwei eigenständigen Protagonisten namens Sabre und Crystal.",
-    "Auf Anregung von Shigeru Miyamoto wurde die Hauptfigur Sabre durch Fox McCloud ersetzt und das Spiel auf den GameCube portiert.",
-    "Die Kooperation zwischen Nintendo und Rare sorgte für kreative Reibungspunkte, darunter die Anpassung der Story und das Ersetzen von Schwertern durch den magischen Stab.",
-    "Das Gameplay orientiert sich stark an der Formel von 3D-Zelda-Spielen, kombiniert mit Bosskämpfen und kurzen, separat eingebundenen Arwing-Flugsequenzen.",
-    "Mit Begleiter Tricky und diversen Werkzeugen wie Zaubersprüchen und Items bietet das Spiel eine Reihe von Mechaniken, die im Verlauf teils selten eingesetzt werden.",
-    "Technisch und audiovisuell setzte der Titel dank der Komponisten-Arbeit von David Wise und detaillierter Charaktermodelle Maßstäbe für die Hardware.",
-    "Die Meinungen zu Wertungen und spielerischer Tiefe fielen sowohl bei Kritikern damals als auch bei den Hosts unterschiedlich aus."
+    "Ursprünglich als eigenständiges Action-Adventure Dinosaur Planet für das N64 entwickelt.",
+    "Shigeru Miyamoto initiierte die Umwandlung in ein Star-Fox-Spiel für den Gamecube.",
+    "Das Spiel markiert das Ende der langjährigen Partnerschaft zwischen Rare und Nintendo.",
+    "Spielerisch orientiert sich der Titel stark an der Zelda-Formel, ergänzt durch Arwing-Flugsequenzen.",
+    "Herausragende Grafik und Präsentation, die als technisches Aushängeschild des Gamecube galt.",
+    "Kritikpunkte sind die simplen Kämpfe, das Backtracking und die oft zweckgebundenen Items.",
+    "Die Story um Fox McCloud und die Prinzessin Crystal wirkt durch die Verschmelzung zweier Projekte teils inkonsistent.",
+    "Trotz gemischter Kritiken und eines kontroversen Rufs ist das Spiel ein profitabler Titel der Gamecube-Ära."
   ],
   "kapitel": [
     {
@@ -357,11 +357,11 @@
   ],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-19T22:39:39+00:00",
+    "am": "2026-08-21T12:01:03+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
-    "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",
