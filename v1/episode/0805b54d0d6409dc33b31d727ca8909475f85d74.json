@@ -7,40 +7,42 @@
   "audio": {
     "url": "https://audio.podigee-cdn.net/2563780-m-c46f52a86ad499cc301894bcf68840b3.mp3?source=feed",
     "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
-    "groesse": null,
+    "groesse": 76367030,
     "format": "mp3",
-    "geprueft_am": "2026-08-22T10:30:56+00:00"
+    "geprueft_am": "2026-08-22T18:19:31+00:00"
   },
   "faehigkeiten": {
     "clips": false,
     "range": true,
     "kapitel": false,
     "dynamik": "dynamisch",
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Der Fall eines Palliativarztes unter Mordverdacht in Berlin",
-  "kurzfassung": "Simone Löffler bemerkt, dass mehrere schwerkranke Patientinnen ihres Palliativpflegeteams bei Wohnungsbränden sterben. Sie schöpft Verdacht gegen ihren geschätzten Kollegen Johannes M. und schaltet die Polizei ein. Die Folge beleuchtet die Ermittlungen und den Prozess vor dem Landgericht Berlin um einen mutmaßlichen Serienmörder.",
+  "einzeiler": "Palliativmediziner tötet 15 schwerkranke Menschen: Die Chronik einer beispiellosen…",
+  "kurzfassung": "Der Berliner Palliativmediziner Johannes M. wurde wegen 15-fachen Mordes an schwerkranken Patientinnen und Patienten zu einer lebenslangen Freiheitsstrafe mit besonderer Schwere der Schuld und Sicherungsverwahrung verurteilt. Jahrelang verabreichte er unbemerkt Sedierungsmittel und Muskelrelaxantien, um sich als allmächtiger Herr über Leben und Tod zu inszenieren. Die Taten hatten weder etwas mit Sterbehilfe noch mit Überforderung zu tun, sondern entsprangen einem tiefen Macht- und Kontrollbedürfnis.",
   "stichpunkte": [
-    "Vier Patientinnen eines Palliativpflegeteams sterben bei Wohnungsbränden",
-    "Simone Löffler bemerkt Auffälligkeiten und wendet sich an die Polizei",
-    "Der Kollege Johannes M. gerät in den Verdacht, die Taten begangen zu haben",
-    "Der Fall beleuchtet den Vertrauensmissbrauch und die Anklage gegen den Arzt",
-    "Begleitung des Prozesses vor dem Landgericht Berlin durch Paulina Krasa",
-    "Einordnung durch Expertinnen und Experten aus Medizin, Recht und Justiz"
+    "Ein mysteriöser Wohnungsbrand im Juli 2024 lenkt die Aufmerksamkeit auf den Palliativmediziner Johannes M. und eine Serie verdächtiger Todesfälle.",
+    "Rechtsmedizinische Untersuchungen exhumierten Leichen und wiesen bei den Verstorbenen nicht verordnete Muskelrelaxantien und Beruhigungsmittel nach.",
+    "Johannes M. erwarb zwischen 2021 und 2024 gezielt Dutzende Ampullen von Muskelrelaxantien in Berliner Apotheken.",
+    "Vor Gericht wirft die Staatsanwaltschaft dem Mediziner vor, seine Opfer heimtückisch und aus niedrigen Beweggründen getötet zu haben.",
+    "Nach langem Schweigen legt Johannes M. ein Teilgeständnis ab und spricht von angeblichen Sterbewünschen der Patienten, zeigt jedoch kaum echte Reue.",
+    "Eine psychiatrische Gutachterin beschreibt den Täter als stark selbstunsicher; die Taten dienten der Kompensation und verschafften ihm ein Allmachtsgefühl.",
+    "Das Landgericht Berlin 1 verurteilt Johannes M. wegen 15-fachen Mordes zu lebenslanger Haft mit besonderer Schwere der Schuld und angeordneter Sicherungsverwahrung.",
+    "Die Ermittlungsbehörden prüfen derweil Dutzende weitere Verdachtsfälle in der Vergangenheit des Arztes."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-22T10:30:56+00:00",
-    "transkript_modell": "",
-    "transkript_quelle": "ohne",
+    "am": "2026-08-22T18:19:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
     "verstehen_modell": "gemini-flash-lite-latest",
-    "prompt_version": 1
+    "prompt_version": 2
   },
   "sprache": "de",
   "texte_sprache": "de",
-  "texte_herkunft": "umformuliert",
-  "dauer": 5228,
+  "texte_herkunft": "erzeugt",
+  "dauer": 5419,
   "veroeffentlicht": "2026-08-05T03:00:00+00:00",
   "beschreibung": "Simone Löffler ist ratlos, als sie erfährt, dass schon wieder eine Patientin ihres Palliativpflegeteams bei einem Wohnungsbrand ums Leben gekommen sein soll. Es ist bereits die vierte innerhalb weniger Wochen. Überzeugt davon, dass das kein Zufall sein kann, beginnt sie die Fälle zu vergleichen. Dabei fällt ihr auf, dass immer derselbe Arzt aus ihrem Team zuletzt versucht hatte, Kontakt mit den schwerkranken Frauen aufzunehmen: ihr Kollege Johannes M., der von allen geschätzt wird. Obwohl sie kaum glauben mag, dass ausgerechnet er mit den Vorfällen in Verbindung stehen könnte, wendet sie sich an die Polizei. Ohne es zu ahnen, setzt sie damit Ermittlungen gegen einen Mann in Gang, der später im Verdacht stehen wird, einer der mutmaßlich schlimmsten Serienmörder der deutschen Nachkriegsgeschichte zu sein.\n\nIn dieser Folge „Mordlust – Verbrechen und ihre Hintergründe“ berichtet Paulina von einem Fall, den sie über Wochen vor dem Landgericht Berlin begleitet hat, und von einem Palliativarzt, der das Vertrauen von etlichen Menschen missbraucht, seinen Beruf in Verruf gebracht und sich selbst die Macht zugesprochen hat, über Leben und Sterben etlicher Patient:innen zu entscheiden.\n\nExpert:innen in dieser Folge:\n\nAlisha Jacke, Anästhesistin in Weiterbildung im dritten Jahr\n\nAndré Mors, Rechtsanwalt und Nebenklagevertreter\n\nDr. Thomas Schindler, Palliativmediziner und Vorstandsvorsitzender von Home Care Berlin e. V.\n\nPhilipp Meyhöfer, Staatsanwalt\n\nCredit\n\nHosts: Paulina Krasa, Laura Wohlers\n\nProducer: Paulina Krasa, Laura Wohlers und Jon Handschin\n\nRedaktion: Paulina Krasa, Laura Wohlers\n\nSchnitt: Pauline Korb\n\nRechtliche Abnahme: „Abel und Kollegen“; Benedikt Müller\n\nWeitere Berichterstattung (Auswahl)\n\nPaulina war beim Prozess dabei.\n\nWeitere Artikel zum Fall findet ihr hier:\n\nrbb24: Landgericht Berlin: Höchststrafe für Mordserie\n\nZeit: Palliativarzt in Berlin: Ist “der beste Doktor der Welt” ein Serienmörder?\n\nSpiegel: Berlin: Hat der freundliche Palliativarzt Johannes M. noch viel mehr Menschen getötet?\n\nPartner der Episode\nDu möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos & Rabatte!\n\nDu möchtest Werbung in diesem Podcast schalten? Dann erfahre hier mehr über die Werbemöglichkeiten bei Seven.One Audio!",
   "beschreibung_html": "<p>Simone Löffler ist ratlos, als sie erfährt, dass schon wieder eine Patientin ihres Palliativpflegeteams bei einem Wohnungsbrand ums Leben gekommen sein soll. Es ist bereits die vierte innerhalb weniger Wochen. Überzeugt davon, dass das kein Zufall sein kann, beginnt sie die Fälle zu vergleichen. Dabei fällt ihr auf, dass immer derselbe Arzt aus ihrem Team zuletzt versucht hatte, Kontakt mit den schwerkranken Frauen aufzunehmen: ihr Kollege Johannes M., der von allen geschätzt wird. Obwohl sie kaum glauben mag, dass ausgerechnet er mit den Vorfällen in Verbindung stehen könnte, wendet sie sich an die Polizei. Ohne es zu ahnen, setzt sie damit Ermittlungen gegen einen Mann in Gang, der später im Verdacht stehen wird, einer der mutmaßlich schlimmsten Serienmörder der deutschen Nachkriegsgeschichte zu sein.</p>\n<p>In dieser Folge „Mordlust – Verbrechen und ihre Hintergründe“ berichtet Paulina von einem Fall, den sie über Wochen vor dem Landgericht Berlin begleitet hat, und von einem Palliativarzt, der das Vertrauen von etlichen Menschen missbraucht, seinen Beruf in Verruf gebracht und sich selbst die Macht zugesprochen hat, über Leben und Sterben etlicher Patient:innen zu entscheiden.</p>\n<p><strong>Expert:innen in dieser Folge:</strong> </p>\n<p>Alisha Jacke, Anästhesistin in Weiterbildung im dritten Jahr</p>\n<p>André Mors, Rechtsanwalt und Nebenklagevertreter </p>\n<p>Dr. Thomas Schindler, Palliativmediziner und Vorstandsvorsitzender von Home Care Berlin e. V.</p>\n<p>Philipp Meyhöfer, Staatsanwalt </p>\n<p><strong>Credit</strong></p>\n<p>Hosts: Paulina Krasa, Laura Wohlers</p>\n<p>Producer: Paulina Krasa, Laura Wohlers und Jon Handschin </p>\n<p>Redaktion: Paulina Krasa, Laura Wohlers </p>\n<p>Schnitt: Pauline Korb</p>\n<p>Rechtliche Abnahme: „Abel und Kollegen“; Benedikt Müller </p>\n<p><strong>Weitere Berichterstattung (Auswahl)</strong></p>\n<p>Paulina war beim Prozess dabei. </p>\n<p>Weitere Artikel zum Fall findet ihr hier: </p>\n<p>rbb24: Landgericht Berlin: <a href=\"https://www.rbb24.de/panorama/beitrag/2026/07/berlin-landgericht-berlin-urteil-lebenslang-schwere-schuld-palliativarzt.html\">Höchststrafe für Mordserie</a> </p>\n<p>Zeit: Palliativarzt in Berlin: <a href=\"https://www.zeit.de/2026/13/palliativarzt-berlin-johannes-m-mord-prozess-patienten/komplettansicht\">Ist “der beste Doktor der Welt” ein Serienmörder?</a></p>\n<p>Spiegel: Berlin: <a href=\"https://www.spiegel.de/panorama/berlin-freundlicher-serienmoerder-palliativarzt-soll-noch-mehr-menschen-getoetet-haben-a-b5cebea1-0c64-424d-98d5-7ea30c2808c9\">Hat der freundliche Palliativarzt Johannes M. noch viel mehr Menschen getötet?</a> </p>\n<p><strong>Partner der Episode</strong>\nDu möchtest mehr über unsere Werbepartner erfahren? <a href=\"https://linktr.ee/Mordlust\"><strong>Hier findest du alle Infos & Rabatte!</strong></a></p>\n<p>Du möchtest Werbung in diesem Podcast schalten? <a href=\"https://www.seven.one/portfolio/sevenone-audio\"><strong>Dann erfahre hier mehr über die Werbemöglichkeiten bei Seven.One Audio!</strong></a></p>",
