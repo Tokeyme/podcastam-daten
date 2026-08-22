@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Proven Podcast",
+  "apple_collection_id": "1744386875",
+  "erzeugt_am": "2026-08-22T07:06:38+00:00",
+  "folgen": [
+    {
+      "guid": "448b0b25-92f1-48d3-af88-6dbfa615bc4d",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ac060291-a66f-48b0-b630-f4b35e30c275/Mark_Roberge_Final_Cut.mp3?dest-id=4528548",
+      "pfad": "/v1/episode/1d8d0e44f3e96064e4f4fa13c3ea2c750867ce8e.json",
+      "titel": "The Science of Scaling & AI - Mark Roberge",
+      "veroeffentlicht": "2026-07-01T09:34:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Mark Roberge on the science of scaling businesses, AI transformation, and startup growth."
+    }
+  ]
+}

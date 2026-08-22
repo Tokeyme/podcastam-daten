@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "gid://art19-episode-locator/V0/YzEBt3bf-R12yRT0nPZRmUFsYl8vzMucN039SKQ0v_8",
+  "apple_collection_id": "1345682353",
+  "show": "Armchair Expert with Dax Shepard",
+  "titel": "Armchair Anonymous: Spas",
+  "audio": {
+    "url": "https://rss.art19.com/episodes/e3855cab-8215-4f4d-a70f-51c03115f6b8.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 42465722,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T01:46:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (ETag vorhanden, max-age=86400, Last-Modified 185 h alt - feste Datei, Abruf laeuft ueber den Werbedienst art19.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Guests share unforgettable, wildly chaotic, and deeply personal stories about spa mishaps.",
+  "kurzfassung": "In this episode, listeners call in to share bizarre and embarrassing spa experiences. Stories range from receiving unexpected intimate services during a honeymoon massage to a disastrous DIY training session and a severe waxing injury. The hosts react with humor and empathy to the unpredictable twists of self-care gone wrong.",
+  "stichpunkte": [
+    "Kat surprises her new husband during their honeymoon by revealing she received a happy ending during her massage.",
+    "Kat's husband takes the news in stride, asking if there was penetration before declaring it a win.",
+    "Mary and her supportive husband Brad travel to Wisconsin in 2008 so she can learn advanced waxing techniques.",
+    "Brad volunteers to be the class model for male bikini waxing, posing on all fours in front of twenty students.",
+    "Julia visits a San Francisco nail salon before a wedding, where she suddenly faints, vomits, and loses control of her bladder.",
+    "Sarah undergoes a Brazilian wax during a working interview that goes horribly wrong, resulting in a two-centimeter wound and seven stitches.",
+    "Sarah's supportive father shows up at a baseball game with a donut cushion for her recovery."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction",
+      "start": 0.54
+    },
+    {
+      "titel": "Kat's Honeymoon Massage",
+      "start": 49.14
+    },
+    {
+      "titel": "Mary's Waxing Class",
+      "start": 747.1
+    },
+    {
+      "titel": "Julia's Nail Salon Incident",
+      "start": 1373.34
+    },
+    {
+      "titel": "Sarah's Waxing Disaster",
+      "start": 1966.5
+    }
+  ],
+  "clips": [
+    {
+      "hook": "An unexpected 87th-minute surprise on the honeymoon",
+      "start": 277.081,
+      "ende": 297.195,
+      "laenge": 20.11,
+      "byte_start": 4519626,
+      "byte_ende": 4841454,
+      "bytes": 321829,
+      "range_header": "bytes=4519626-4841454",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 277.159,
+      "anker_sha256": "d2d8d34a80e9d7175e93ad4491ca6adeab07caa6c387a143324aad24d777f3c5",
+      "einblendung_ms": 60,
+      "text": "Right at the end, like I said, it was about a 90 minute massage. So I'd say probably about minute 87. A hand slips under my hip and I get a happy ending. Stop it."
+    },
+    {
+      "hook": "A husband goes the extra mile as a classroom model",
+      "start": 1014.491,
+      "ende": 1034.606,
+      "laenge": 20.11,
+      "byte_start": 16318196,
+      "byte_ende": 16640023,
+      "bytes": 321828,
+      "range_header": "bytes=16318196-16640023",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1014.57,
+      "anker_sha256": "57af2eeb06501b610092f058af006e52426f4a8ef850b4c7ba19c802d22bed66",
+      "einblendung_ms": 60,
+      "text": "Just to be clear, he's on all fours naked? Yes. Holy shit. Okay."
+    },
+    {
+      "hook": "Waking up on a nail salon floor covered in chaos",
+      "start": 1639.628,
+      "ende": 1659.742,
+      "laenge": 20.11,
+      "byte_start": 26320376,
+      "byte_ende": 26642204,
+      "bytes": 321829,
+      "range_header": "bytes=26320376-26642204",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1639.706,
+      "anker_sha256": "ab79319700b35f4a79226f49e95b16d3dcddd313cdee32e6db2c58d16674c284",
+      "einblendung_ms": 60,
+      "text": "And I was like... Oh, my God. Oh, my God. Were they screaming? Was it hectic?"
+    },
+    {
+      "hook": "When an aesthetician panics mid-wax",
+      "start": 2215.602,
+      "ende": 2235.716,
+      "laenge": 20.11,
+      "byte_start": 35535958,
+      "byte_ende": 35857786,
+      "bytes": 321829,
+      "range_header": "bytes=35535958-35857786",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2215.68,
+      "anker_sha256": "52431d8220f374a08486d8969590310f43f4eb9510c51d6c87af5854704d9994",
+      "einblendung_ms": 60,
+      "text": "And she's like, oh my God. Oh my God. Oh my God. I'm like, what's going on? I look down."
+    },
+    {
+      "hook": "Seven stitches and a two-centimeter wound",
+      "start": 2369.097,
+      "ende": 2389.211,
+      "laenge": 20.11,
+      "byte_start": 37991887,
+      "byte_ende": 38313714,
+      "bytes": 321828,
+      "range_header": "bytes=37991887-38313714",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2369.175,
+      "anker_sha256": "3d4a5bf3ac9ed1382f7b335f5629f7f8af41675ed5e4db9fe433ab2507ab6435",
+      "einblendung_ms": 60,
+      "text": "My body. Like, I don't know anyone that's given birth. It's going to look crazy. Yeah."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T01:46:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "dauer": 2648,
+  "veroeffentlicht": "2026-08-21T07:30:00+00:00",
+  "beschreibung": "Dax and Monica talk to Armcherries! In today's episode, Armcherries tell us a crazy spa story.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+  "beschreibung_html": "<p>Dax and Monica talk to Armcherries! In today's episode, Armcherries tell us a crazy spa story.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+  "bild_url": "https://content.production.cdn.art19.com/images/1e/d7/58/e9/1ed758e9-0f6c-47ca-b478-1e5236f0a526/84c2fccb63f7aa21749b2752543365e52d7d20ac45cf3e2f9c460e43256ca9ee7594d3afd697b117549c82026b1c7ec302fc2180c20cbe18871077b042002c90.jpeg",
+  "folgennummer": 1091,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "guid": "a8ef7b68-5ac8-4900-b7f9-b4a900ff3c12",
+  "apple_collection_id": "1615637724",
+  "show": "Betrayal Weekly",
+  "titel": "Introducing: The Betrayal of Shohei Ohtani - \"The Letter O\" | EP 1",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/a8ef7b68-5ac8-4900-b7f9-b4a900ff3c12/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 21558075,
+    "format": "mp3",
+    "geprueft_am": "2026-08-21T16:54:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Investigating the massive gambling scandal surrounding baseball star Shohei Ohtani.",
+  "kurzfassung": "ESPN reporters trace how a confidential federal tip linked baseball superstar Shohei Ohtani to an illegal sports betting ring run by Mathew Boyer in Southern California. The explosive allegation threatened Ohtani's historic career, his record-breaking $700 million contract, and Major League Baseball's clean image. Journalists navigated intense secrecy and industry warnings to uncover the origins of the unprecedented scandal.",
+  "stichpunkte": [
+    "ESPN reporters received a sealed federal court document linking an illegal Southern California bookie to a major sports star.",
+    "The confidential tip pointed directly to baseball superstar Shohei Ohtani, launching a high-stakes journalistic investigation.",
+    "Reporters had to tread extremely carefully to avoid starting a damaging rumor loop within baseball clubhouses.",
+    "Experts explained that illegal bookies remain popular in states like California due to the advantages of credit betting and anonymity.",
+    "Major League Baseball enforces strict lifetime bans for betting on the sport, echoing historical scandals involving the Chicago White Sox and Pete Rose.",
+    "Ohtani maintained a famously guarded personal life, making any information outside the baseball diamond scarce.",
+    "A massive $700 million contract with the Los Angeles Dodgers and extensive global endorsements made Ohtani's reputation immensely valuable."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction to the Scandal",
+      "start": 0.12
+    },
+    {
+      "titel": "The Tip and the Bookie",
+      "start": 319.56
+    },
+    {
+      "titel": "Betting Culture in California",
+      "start": 597.24
+    },
+    {
+      "titel": "Baseball's Strict Gambling History",
+      "start": 767.2
+    },
+    {
+      "titel": "Ohtani's Guarded Life and Massive Success",
+      "start": 869.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Seized items in a federal raid",
+      "start": 350.145,
+      "ende": 380.264,
+      "laenge": 30.12,
+      "byte_start": 5653652,
+      "byte_ende": 6135558,
+      "bytes": 481907,
+      "range_header": "bytes=5653652-6135558",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 350.224,
+      "anker_sha256": "291494f50fac4101c20899db0324df01cbccaf85743cab2989b87cc87f8182d4",
+      "einblendung_ms": 60,
+      "text": "Speaker 2: cell phones, but there were also forty thousand dollars brightling watches, Speaker 2: handbags from chanell Ermez Louis Vuitton, and casino chips. Lots Speaker 2: and lots of casino chips. Why were the FEDS interested Speaker 2: in it? Because all of these things were taken from Speaker 2: a house owned by a man named Mad Boyer. The Speaker 2: FEDS also seized a cash counting machine, "
+    },
+    {
+      "hook": "Why illegal bookies thrive in California",
+      "start": 654.002,
+      "ende": 681.221,
+      "laenge": 27.22,
+      "byte_start": 10515354,
+      "byte_ende": 10950866,
+      "bytes": 435513,
+      "range_header": "bytes=10515354-10950866",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 654.08,
+      "anker_sha256": "ebe677d08636d630ffed926f0459385f2b59d2f1c3421b039f33a254a4bb78da",
+      "einblendung_ms": 60,
+      "text": "Speaker 4: Massive massive book making operations in California? Why because there's Speaker 4: no legal sports. Speaker 2: But Wort's betting is now legal in thirty nine states Speaker 2: plus Washington, DC, and Puerto Rico. Depending on where you live. Speaker 2: You can place bets through a state licensed app, a website, Speaker 2: or in a casino or a bar in those states, Speaker 2: but unless"
+    },
+    {
+      "hook": "The mechanics of credit betting with a bookie",
+      "start": 710.713,
+      "ende": 730.802,
+      "laenge": 20.09,
+      "byte_start": 11422743,
+      "byte_ende": 11744153,
+      "bytes": 321411,
+      "range_header": "bytes=11422743-11744153",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 710.792,
+      "anker_sha256": "f06fda44adb2d15256a391ac40bb3cdc3aae6fbe160de16c6b35d08ccb53cd71",
+      "einblendung_ms": 60,
+      "text": "Speaker 4: give over your cash. If you can bet on credit, Speaker 4: huge advantage. I can just place my bet for one Speaker 4: hundred dollars and my money never changes hands. You go Speaker 4: down one thousand bucks. Guy says, Okay, let's meet up Speaker 4: at the waffle house and you go there and you Speaker 4: pass over an envelope, and that's how it's done."
+    },
+    {
+      "hook": "The severe penalty for betting on baseball",
+      "start": 858.906,
+      "ende": 879.02,
+      "laenge": 20.11,
+      "byte_start": 13793825,
+      "byte_ende": 14115653,
+      "bytes": 321829,
+      "range_header": "bytes=13793825-14115653",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 858.985,
+      "anker_sha256": "1891b65799e7566717e39e97669ebebc32af3105f16a349ea1033b407c9e910a",
+      "einblendung_ms": 60,
+      "text": "Speaker 4: If they were to have found out that he was Speaker 4: betting on baseball, he would have been banned for life. Speaker 4: And this is your biggest star band for life."
+    },
+    {
+      "hook": "A record-breaking $700 million contract",
+      "start": 1100.617,
+      "ende": 1128.49,
+      "laenge": 27.87,
+      "byte_start": 17661202,
+      "byte_ende": 18107163,
+      "bytes": 445962,
+      "range_header": "bytes=17661202-18107163",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1100.696,
+      "anker_sha256": "32274100cf1797fe2f37dd9c32f7b0eeec9e17f5a31f923266360d3393653062",
+      "einblendung_ms": 60,
+      "text": "Speaker 5: Seven hundred million dollars over ten years. Speaker 4: Oh my goodness, come on. Speaker 2: One of the league's premier franchises made a historic bet Speaker 2: on show Hay because they knew his success would be Speaker 2: their success. They stood to make a lot of money too, Speaker 2: ticket sales, merchandise partnerships. Show his success could pay off Speaker 2: big time for the "
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-21T16:54:55+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "dauer": 1207,
+  "veroeffentlicht": "2026-08-18T04:00:00+00:00",
+  "beschreibung": "Betrayal listeners, we're excited to share a special ad-free preview of Episode One of this season of​ ESPN’s 30 for 30 Podcasts: The Betrayal of Shohei Ohtani.\nEpisode 1: \"The Letter O\" — ESPN Investigative Reporter Tisha Thompson receives a tip that, if true, could damage Shohei Ohtani’s picture-perfect reputation.\nIf you enjoyed what you heard, you can binge all six episodes of The Betrayal of Shohei Ohtani on the 30 for 30 Podcasts feed or by searching for \"The Betrayal of Shohei Ohtani\" on the iHeartRadio app, Apple Podcasts, Spotify, YouTube, or wherever you get your podcasts.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Betrayal listeners, we're excited to share a special ad-free preview of Episode One of this season of​ ESPN&rsquo;s 30 for 30 Podcasts: The Betrayal of Shohei Ohtani.&nbsp;</p> <p>Episode 1: \"The Letter O\" &mdash; ESPN Investigative Reporter Tisha Thompson receives a tip that, if true, could damage Shohei Ohtani&rsquo;s picture-perfect reputation.&nbsp;</p> <p>If you enjoyed what you heard, you can binge all six episodes of The Betrayal of Shohei Ohtani on the 30 for 30 Podcasts feed or by searching for \"The Betrayal of Shohei Ohtani\" on the <a href=\"https://www.iheart.com/podcast/1333-the-betrayal-of-shohei-oh-339276457/\">iHeartRadio app</a>, <a href=\"https://podcasts.apple.com/us/podcast/the-betrayal-of-shohei-ohtani/id6792804492\">Apple Podcasts</a>, <a href=\"https://open.spotify.com/show/033RbIWepKp2GXbgDUsZbT\">Spotify</a>, <a href=\"https://www.youtube.com/watch?v=hyAuX7yAMeo&amp;list=PLn3nHXu50t5yx6qxmPHIv4Eaw5Zkqa9dx&amp;index=6\">YouTube</a>, or wherever you get your podcasts.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/a8ef7b68-5ac8-4900-b7f9-b4a900ff3c12/image.jpg?t=1786981046&size=Large",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "1af9086f-3ac6-4c92-86b2-5493cb3aaa4a",
+  "apple_collection_id": "1521578868",
+  "show": "SmartLess",
+  "titel": "\"Tim Robbins\"",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/559b7461-a7b0-4341-b142-0ae492cb0a65/episodes/79b3f4f5-62a3-4b0f-b939-fca9c160c0f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=559b7461-a7b0-4341-b142-0ae492cb0a65&awEpisodeId=79b3f4f5-62a3-4b0f-b939-fca9c160c0f2&feed=hNaFxXpO",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 54668329,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T04:04:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Actor and director Tim Robbins discusses his iconic career, sports, and his new…",
+  "kurzfassung": "Tim Robbins joins the hosts to talk about his legendary film career, including roles in Bull Durham and The Shawshank Redemption. He shares stories about playing baseball and roller hockey, directing Bob Roberts, and working on the TV series Silo. Additionally, Robbins discusses his prison theater program and his upcoming multimedia website, timrobbins.com.",
+  "stichpunkte": [
+    "Tim Robbins discusses playing Strat-O-Matic Baseball and his youth growing up in New York City.",
+    "He shares memories of getting cast in Bull Durham and learning how to throw a baseball with Kevin Costner.",
+    "The conversation covers ice and roller hockey leagues in New York City and playing against legendary goaltenders.",
+    "Robbins talks about directing the satirical film Bob Roberts and its eerie parallels to modern politics.",
+    "He explains his work with the Actors Gang prison project and the 45 Seconds of Laughter documentary.",
+    "Robbins details his new multimedia platform and portal, timrobbins.com, launching on September 1st.",
+    "He discusses his role in the sci-fi series Silo and the efficient shooting schedule in London.",
+    "The hosts reminisce about playing poker at Kyle Gass's house with Robbins in their twenties."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-22T04:04:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "dauer": 3416,
+  "veroeffentlicht": "2026-08-17T07:01:00+00:00",
+  "beschreibung": "Punch-Up Line, please hold— it’s Tim Robbins. Oh, the laughter: Dungeons & Dragons, Strat-o-matic baseball, a destination, an experience, and whatever. “Now that’s a problem for tomorrow, no?” It’s an all-new SmartLess.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early.\nStart a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.\n\nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+  "beschreibung_html": "<p>Punch-Up Line, please hold— it’s Tim Robbins. Oh, the laughter: Dungeons & Dragons, Strat-o-matic baseball, a destination, an experience, and whatever. “Now that’s a problem for tomorrow, no?” It’s an all-new SmartLess.</p>\n<p><p>Subscribe to SiriusXM Podcasts+ to listen to new episodes of SmartLess ad-free and a whole week early.&nbsp;<br>Start a free trial now on Apple Podcasts or by visiting <a href=\"https://siriusxm.com/podcastsplus\" target=\"_blank\">siriusxm.com/podcastsplus</a>.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+  "untertitel": "Punch-Up Line, please hold— it’s Tim Robbins. Oh, the laughter: Dungeons & Dragons, Strat-o-matic baseball, a destination, an experience, and whatever. “Now that’s a problem for tomorrow, no?” It’s an all-new SmartLess.",
+  "folgennummer": 319
+}
