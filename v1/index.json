@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "erzeugt_am": "2026-08-22T10:01:31+00:00",
+  "erzeugt_am": "2026-08-22T15:36:49+00:00",
   "shows": [
     {
       "show": "0630 - der News-Podcast",
@@ -63,6 +63,13 @@
       "apple_collection_id": "1615637724",
       "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/f1aae979-82f6-402c-8906-ae6001537b33/podcast.rss",
       "pfad": "/v1/show/6a7a096e401ad88d50278c43b96187ce724c0e8e.json",
+      "folgen": 1
+    },
+    {
+      "show": "Candace",
+      "apple_collection_id": "1750591415",
+      "feed": "https://feeds.megaphone.fm/candace",
+      "pfad": "/v1/show/f815dd93ad4eb8fca61c4feb1405e9809a206346.json",
       "folgen": 1
     },
     {
@@ -206,6 +213,13 @@
       "folgen": 1
     },
     {
+      "show": "Mordlust",
+      "apple_collection_id": null,
+      "feed": "https://mordlust-podcast.podigee.io/feed/mp3",
+      "pfad": "/v1/show/2820ec27b5a2a168b1181b8cda15838ec45e598f.json",
+      "folgen": 3
+    },
+    {
       "show": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
       "apple_collection_id": "1608813794",
       "feed": "https://feeds.simplecast.com/dloY8UYJ",
@@ -220,10 +234,24 @@
       "folgen": 1
     },
     {
+      "show": "Pardon My Take",
+      "apple_collection_id": "1089022756",
+      "feed": "https://mcsorleys.barstoolsports.com/feed/pardon-my-take",
+      "pfad": "/v1/show/5f3d2cbf9d614b10dee38565f0012f31cb001917.json",
+      "folgen": 1
+    },
+    {
       "show": "Passion Struck with John R. Miles",
       "apple_collection_id": "1553279283",
       "feed": "https://feeds.simplecast.com/XYHE1JPs",
       "pfad": "/v1/show/eb4a81edd529d183289f7be2260d977d6f03710c.json",
+      "folgen": 1
+    },
+    {
+      "show": "Pod Save America",
+      "apple_collection_id": "1192761536",
+      "feed": "https://audioboom.com/channels/5166624.rss",
+      "pfad": "/v1/show/36b13665b486e023cc5826d6d9e0dd1e2f167e73.json",
       "folgen": 1
     },
     {
@@ -238,6 +266,13 @@
       "apple_collection_id": "1332049198",
       "feed": "https://psychologie-to-go.podigee.io/feed/mp3",
       "pfad": "/v1/show/ac314d9c98ba928042a1aefb07f4bc30f92b0af1.json",
+      "folgen": 1
+    },
+    {
+      "show": "REAL AF with Andy Frisella",
+      "apple_collection_id": "1012570406",
+      "feed": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
+      "pfad": "/v1/show/cc9de3b17559e8e9dd74b95dc5b50c59fec84722.json",
       "folgen": 1
     },
     {
@@ -325,6 +360,13 @@
       "folgen": 1
     },
     {
+      "show": "The Bill Simmons Podcast",
+      "apple_collection_id": "1043699613",
+      "feed": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+      "pfad": "/v1/show/a873e3587f48ddc9aac175a46b2d866374b30b20.json",
+      "folgen": 1
+    },
+    {
       "show": "The Bulwark Daily",
       "apple_collection_id": "1447684472",
       "feed": "https://audioboom.com/channels/5114286.rss",
@@ -346,10 +388,24 @@
       "folgen": 1
     },
     {
+      "show": "The Dylan Gemelli Podcast",
+      "apple_collection_id": "1780873400",
+      "feed": "https://feed.podbean.com/dylangemelli/feed.xml",
+      "pfad": "/v1/show/0fb3c0fcb552c87eb1a4bdb3cdc6ad95cfc4563f.json",
+      "folgen": 1
+    },
+    {
       "show": "The Ezra Klein Show",
       "apple_collection_id": "1548604447",
       "feed": "https://feeds.simplecast.com/kEKXbjuJ",
       "pfad": "/v1/show/34d47cf900c006161d108bab85c688a4f170ab66.json",
+      "folgen": 1
+    },
+    {
+      "show": "The Joe Rogan Experience",
+      "apple_collection_id": "360084272",
+      "feed": "https://feeds.megaphone.fm/GLT1412515089",
+      "pfad": "/v1/show/c0fc24d839e7fec8c1d0ac1f2ccb0de5a73f182b.json",
       "folgen": 1
     },
     {
@@ -360,10 +416,52 @@
       "folgen": 1
     },
     {
+      "show": "The MeidasTouch Podcast",
+      "apple_collection_id": "1510240831",
+      "feed": "https://feeds.megaphone.fm/PDR2572281095",
+      "pfad": "/v1/show/36fb8bc54724c1021ca160e051404f6059912d5c.json",
+      "folgen": 1
+    },
+    {
+      "show": "The Mel Robbins Podcast",
+      "apple_collection_id": "1646101002",
+      "feed": "https://feeds.simplecast.com/UCwaTX1J",
+      "pfad": "/v1/show/b0727485477dc99f9e7f9fd621ff6c7706ed4c16.json",
+      "folgen": 1
+    },
+    {
       "show": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
       "apple_collection_id": "1428670057",
       "feed": "https://dasmorningbriefing.podigee.io/feed/mp3",
       "pfad": "/v1/show/3524260751520d1b92778e2d793fbec2b981c521.json",
+      "folgen": 1
+    },
+    {
+      "show": "The Ramsey Show",
+      "apple_collection_id": "77001367",
+      "feed": "https://feeds.megaphone.fm/RM4031649020",
+      "pfad": "/v1/show/00e803a6fff11b91aac413800ac4ec43dfee7ecf.json",
+      "folgen": 1
+    },
+    {
+      "show": "The Rest Is History",
+      "apple_collection_id": "1537788786",
+      "feed": "https://feeds.megaphone.fm/GLT4787413333",
+      "pfad": "/v1/show/2abd05655129946bfca47dd19aa4113ccce0d111.json",
+      "folgen": 1
+    },
+    {
+      "show": "The Shawn Ryan Show",
+      "apple_collection_id": "1492492083",
+      "feed": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+      "pfad": "/v1/show/533eff7c704b78dd5f55ed71d8497b011cef872e.json",
+      "folgen": 1
+    },
+    {
+      "show": "The Team House",
+      "apple_collection_id": "1492797340",
+      "feed": "https://www.spreaker.com/show/5960890/episodes/feed",
+      "pfad": "/v1/show/eed9756291589e7110bf15c1146be9b12f91cf1a.json",
       "folgen": 1
     },
     {
@@ -378,6 +476,13 @@
       "apple_collection_id": "1837193185",
       "feed": "https://rss.libsyn.com/shows/591700/destinations/5140720.xml",
       "pfad": "/v1/show/07c481f677b96039f60b6ee3cba95fae18e98156.json",
+      "folgen": 1
+    },
+    {
+      "show": "This Past Weekend w/ Theo Von",
+      "apple_collection_id": "1190981360",
+      "feed": "https://feeds.megaphone.fm/thispastweekend",
+      "pfad": "/v1/show/38bf256bdc8039ba49bbae7ac30e0d4beda66fe8.json",
       "folgen": 1
     },
     {

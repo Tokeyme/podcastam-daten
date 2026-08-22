@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "ba522cfc-8e6b-11f1-963b-e7015e9b628f",
+  "apple_collection_id": "1043699613",
+  "show": "The Bill Simmons Podcast",
+  "titel": "Derek Thompson on the American Sports Plutocracy, the NBA’s 2016 Black Swan Event, and the WNBA’s Growing Pains",
+  "audio": {
+    "url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6522227388.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 232671887,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T15:04:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Derek Thompson discusses sports billionaires, franchise valuations, and the WNBA's growth.",
+  "kurzfassung": "Bill Simmons and Derek Thompson examine the business of sports, focusing on franchise valuations, the Mark Walter financial scandal, and the economic structures of major leagues. They analyze the long-term impact of the 2016 NBA cap spike on player movement, dynasties, and fan culture. The conversation concludes with a discussion on the WNBA's rapid rise, the challenges of modern media discourse, and the emergence of new star players.",
+  "stichpunkte": [
+    "American sports leagues operate as legal oligarchies and cartels with anti-trust and labor law exemptions.",
+    "Billionaires leverage artificial scarcity to secure public stadium subsidies and drive up franchise valuations.",
+    "Mark Walter faces severe legal scrutiny after allegedly using insurance funds to finance sports team acquisitions.",
+    "The 2016 NBA salary cap spike created unprecedented contracts and catalyzed the modern era of player pre-agency and gossip culture.",
+    "The Golden State Warriors' five-year run generated massive success but ultimately led to physical burnout and the breakdown of the dynasty.",
+    "San Antonio and Oklahoma City are positioned as future juggernauts, though modern salary cap rules and the second apron make sustaining dominance difficult.",
+    "The WNBA is experiencing explosive growth and a surge in young guard talent, but struggles with toxic online media discourse and a lack of strong institutional leadership."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-22T15:04:15+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5815,
+  "veroeffentlicht": "2026-08-21T00:07:00+00:00",
+  "beschreibung": "The Ringer’s Bill Simmons is joined by Derek Thompson to discuss the finances of sports and the developing story of Mark Walter's Lakers sale. Then, they discuss the 2016 NBA cap spike before ending with their WNBA theories.\n\n(0:00) Intro\n\n(2:10) American sports plutocracy and Mark Walter\n\n(42:28) 2016 NBA cap spike\n\n(01:05:39) WNBA growing pains\n\nHost: Bill Simmons\n\nGuest: Derek Thompson\n\nProducers: Chia Hao Tat and Eduardo Ocampo\n\nThe Ringer is committed to responsible gaming. Please visit https://fanduel.com/playwithaplan to learn more about the resources and helplines\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>The Ringer’s Bill Simmons is joined by Derek Thompson to discuss the finances of sports and the developing story of Mark Walter's Lakers sale. Then, they discuss the 2016 NBA cap spike before ending with their WNBA theories.</p>\n<p><br></p>\n<p>(0:00) Intro</p>\n<p>(2:10) American sports plutocracy and Mark Walter</p>\n<p>(42:28) 2016 NBA cap spike</p>\n<p>(01:05:39) WNBA growing pains</p>\n<p><br></p>\n<p>Host: Bill Simmons</p>\n<p>Guest: Derek Thompson</p>\n<p>Producers: Chia Hao Tat and Eduardo Ocampo</p>\n<p><br></p>\n<p><em>The Ringer is committed to responsible gaming. Please visit </em><a href=\"https://fanduel.com/playwithaplan\"><em>https://fanduel.com/playwithaplan</em></a><em> to learn more about the resources and helplines</em></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>"
+}

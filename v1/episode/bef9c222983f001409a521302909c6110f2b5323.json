@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "617835d6-9b13-11f1-87fc-ab9caf58601a",
+  "apple_collection_id": "1537788786",
+  "show": "The Rest Is History",
+  "titel": "698.  The Troubles: The Brink of Civil War (Part 2)",
+  "audio": {
+    "url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2308408988.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 191277580,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T13:00:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "The outbreak of the Troubles in Northern Ireland through civil rights protests and riots.",
+  "kurzfassung": "The episode explores the escalation of sectarian tensions in Northern Ireland between 1968 and 1969. It examines the rise of the Catholic civil rights movement, violent clashes at demonstrations like the Burntollet Bridge march, and the political downfall of Prime Minister Terence O'Neill. Finally, it details the descent into extreme urban violence that forced the British government to deploy troops to the streets.",
+  "stichpunkte": [
+    "Terence O'Neill addresses Northern Ireland on television in December 1968 amid growing weariness and impending sectarian conflict.",
+    "Austin Curry occupies a council house in Caledon in June 1968 to protest systemic housing discrimination against Catholics.",
+    "The Northern Ireland Civil Rights Association (NICRA) forms, drawing inspiration from the American Civil Rights Movement while housing radical republican elements.",
+    "A civil rights march in Derry on October 5, 1968, is brutally broken up by the RUC, with televised police violence sparking global outrage and local riots.",
+    "Terence O'Neill unveils a limited reform package, alienating hardline unionists led by William Craig and Ian Paisley while disappointing civil rights activists.",
+    "Bernadette Devlin and the People's Democracy group lead a march from Belfast to Derry in January 1969, leading to the violent Burntollet Bridge ambush.",
+    "Following a wave of infrastructure bombings by loyalists, Terence O'Neill resigns and is succeeded by James Chichester-Clark.",
+    "Severe riots erupt across Derry and Belfast in August 1969, prompting Jack Lynch to offer Irish army field hospitals and leading to the deployment of British troops."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-22T13:00:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "dauer": 4780,
+  "veroeffentlicht": "2026-08-19T23:05:00+00:00",
+  "beschreibung": "Why did the violence of the Troubles escalate as it did in Ulster? How did a series of marches from Belfast to Derry in 1969 result in terrible violence, and heighten the conflict? And, which terrible events saw the British army cross the border to intervene?\n\nJoin Dominic and Tom as they discuss the next tumultuous stage of The Troubles in Northern Ireland.\n\n*The Rest Is History LIVE: The Ultimate Victorian Adventure*\n\nThe maddest expedition in history and it’s NEVER been heard before on the show: join Tom Holland & Dominic Sandbrook LIVE at the Southbank as they tell the bonkers story of Queen Victoria ordering one of history’s most daring assignments ever. ⁠⁠⁠Tickets available for Friday 4th September⁠⁠⁠, the Saturday show is SOLD OUT.\n\n_______\n\nTwitter:\n\n@TheRestHistory\n\n@holland_tom\n\n@dcsandbrook\n\nVideo Editors: Jack Meek, Harry Swan + Adam Thornton\n\nSocial Producer: Harry Balden\n\nProducers: Tabby Syrett & Aaliyah Akude\n\nSenior Producer: Callum Hill\n\nExecutive Producer: Dom Johnson\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>Why did the violence of the Troubles escalate as it did in Ulster? How did a series of marches from Belfast to Derry in 1969 result in terrible violence, and heighten the conflict? And, which terrible events saw the British army cross the border to intervene?</p>\n<p><br></p>\n<p>Join Dominic and Tom as they discuss the next tumultuous stage of The Troubles in Northern Ireland.&nbsp;</p>\n<p><br></p>\n<p><strong>*The Rest Is History LIVE: The Ultimate Victorian Adventure*</strong></p>\n<p>The maddest expedition in history and it’s NEVER been heard before on the show: join Tom Holland &amp; Dominic Sandbrook LIVE at the Southbank as they tell the bonkers story of Queen Victoria ordering one of history’s most daring assignments ever. <a href=\"https://www.southbankcentre.co.uk/whats-on/the-rest-is-history-the-ultimate-victorian-adventure/\"><u>⁠⁠⁠Tickets available for Friday 4th September⁠⁠⁠</u></a>, the Saturday show is SOLD OUT.</p>\n<p>_______</p>\n<p>Twitter:</p>\n<p>@TheRestHistory</p>\n<p>@holland_tom</p>\n<p>@dcsandbrook</p>\n<p>Video Editors: Jack Meek, Harry Swan + Adam Thornton&nbsp;</p>\n<p>Social Producer: Harry Balden</p>\n<p>Producers: Tabby Syrett &amp; Aaliyah Akude&nbsp;</p>\n<p>Senior Producer: Callum Hill&nbsp;&nbsp;</p>\n<p>Executive Producer: Dom Johnson</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "folgennummer": 698
+}

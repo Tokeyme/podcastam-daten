@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "bd78a8a0-9c28-11f1-b11e-ef9789715e8e",
+  "apple_collection_id": "360084272",
+  "show": "The Joe Rogan Experience",
+  "titel": "#2543 - MrBallen",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/GLT9789891628.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 148669319,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T15:24:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "MrBallen discusses dark Internet mysteries, Navy SEAL training, and combat in Afghanistan.",
+  "kurzfassung": "Der Gast MrBallen erzaehlt von seinem Aufstieg als Geschichtenerzaehler im Internet und teilt mysterioese Vorfaelle wie den Dyatlov-Pass und das Nahanni-Tal. Zudem spricht er ueber seine Militaerzeit als Navy SEAL, Kampfeinsaetze in Afghanistan und die Herausforderungen nach dem Erfolg. Im weiteren Verlauf diskutieren die Gespraechspartner ueber Fitness, KI und die Moeglichkeit von ausserirdischem Leben.",
+  "stichpunkte": [
+    "MrBallen berichtet ueber seinen viralen Erfolg mit mysterioesen Geschichten auf TikTok und YouTube.",
+    "Er schildert die ungeklaerten Hintergruende des Dyatlov-Pass-Vorfalls von 1959.",
+    "Er erzaehlt von seiner Ausbildung als Navy SEAL und den haertesten Tests im Programm.",
+    "Er beschreibt einen lebensgefaehrlichen Kampfeinsatz in Afghanistan im Jahr 2014, bei dem er schwer verletzt wurde.",
+    "Die Unterhaltung widmet sich dem Nahanni-Tal in Kanada und den dortigen Legenden ueber kopflose Leichen.",
+    "Gespräch ueber Fitnessmethoden, insbesondere Kettlebell-Training und Farmer's Carries.",
+    "Die Hosts spekulieren ueber menschliche Evolution, genetische Manipulation und die These, dass der Mensch genetisch konstruiert sein könnte.",
+    "Sie diskutieren die Existenz von UFOs, KI-Entwicklungen und die philosophische Groesse des Universums."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-22T15:24:55+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 10614,
+  "veroeffentlicht": "2026-08-20T17:00:00+00:00",
+  "beschreibung": "John B. Allen (\"MrBallen\") is a former U.S. Navy SEAL, founder of Ballen Studios, and creator and host of the popular podcast \"MrBallen Podcast: Strange, Dark & Mysterious Stories.\" His latest graphic novel, \"MrBallen Presents: The Terror Within,\" is available for preorder now and will be released on October 6.\nwww.youtube.com/@MrBallen\nhttps://book.ballenstudios.com\nhttps://mrballen.foundation\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n50% off your first box at https://www.thefarmersdog.com/rogan!\n\nSign up at https://Foxnation.com to watch RAF 12!\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>John B. Allen (\"MrBallen\") is a former U.S. Navy SEAL, founder of Ballen Studios, and creator and host of the popular podcast \"MrBallen Podcast: Strange, Dark &amp; Mysterious Stories.\" His latest graphic novel, \"MrBallen Presents: The Terror Within,\" is available for preorder now and will be released on October 6.<br><a href=\"http://www.youtube.com/@MrBallen\">www.youtube.com/@MrBallen</a><br><a href=\"https://book.ballenstudios.com/\">https://book.ballenstudios.com</a><br><a href=\"https://mrballen.foundation/\">https://mrballen.foundation</a></p>\n<p><br></p>\n<p>Perplexity: Download the app or ask Perplexity anything at <a href=\"https://pplx.ai/rogan\">https://pplx.ai/rogan</a>.</p>\n<p><br></p>\n<p>50% off your first box at&nbsp;<a href=\"https://www.thefarmersdog.com/rogan\">https://www.thefarmersdog.com/rogan</a>!</p>\n<p><br></p>\n<p>Sign up at <a href=\"https://Foxnation.com\">https://Foxnation.com</a> to watch RAF 12!</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/bd78a8a0-9c28-11f1-b11e-ef9789715e8e/image/d49830348c14609fff882d168231df27.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "folgennummer": 2543
+}

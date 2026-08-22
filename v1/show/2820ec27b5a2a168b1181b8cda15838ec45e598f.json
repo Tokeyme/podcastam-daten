@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "show": "Mordlust",
+  "apple_collection_id": null,
+  "erzeugt_am": "2026-08-22T15:36:49+00:00",
+  "folgen": [
+    {
+      "guid": "6856dd075b632c09a804545d0afb5551",
+      "audio_url": "https://audio.podigee-cdn.net/2572101-m-082d03dfbd4d7cd13d6a2fde5843633b.mp3?source=feed",
+      "pfad": "/v1/episode/c9bd4245ed1d868b5489a900ceadc3fef526b5d9.json",
+      "titel": "#247 Die fehlenden Teile",
+      "veroeffentlicht": "2026-08-19T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das Verschwinden der 22-jährigen Cleo im Januar 2002 und ein ungeheuerlicher Verdacht."
+    },
+    {
+      "guid": "a319e8b51663c628c09a3aa279956bf3",
+      "audio_url": "https://audio.podigee-cdn.net/2567493-m-6be48323f73055956596deabc0ffdbd4.mp3?source=feed",
+      "pfad": "/v1/episode/ee2d2348f47b8dbd2d81e579cae9d3b8c07fe33e.json",
+      "titel": "#246 Die leere Wiege",
+      "veroeffentlicht": "2026-08-12T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das ungeklärte Verschwinden der schwangeren Sandra im Sommer 1997 und seine Folgen."
+    },
+    {
+      "guid": "74afa79396fc5170a33cecce23e9c1f7",
+      "audio_url": "https://audio.podigee-cdn.net/2563780-m-c46f52a86ad499cc301894bcf68840b3.mp3?source=feed",
+      "pfad": "/v1/episode/0805b54d0d6409dc33b31d727ca8909475f85d74.json",
+      "titel": "#245 Herr über Leben und Tod",
+      "veroeffentlicht": "2026-08-05T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Fall eines Palliativarztes unter Mordverdacht in Berlin"
+    }
+  ]
+}
