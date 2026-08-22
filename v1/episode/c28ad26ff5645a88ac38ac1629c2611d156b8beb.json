@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "3859c7e752ebcb44df42cece36b50d6e",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "PC-Netzwerke (SFT 21-1)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Die spannende Entstehungsgeschichte von Ethernet und den frühen Computer-Netzwerken.",
   "kurzfassung": "Die Episode beleuchtet die technischen Anfänge der Computervernetzung von den ersten Großrechnern über das ARPANET bis hin zur Erfindung und Standardisierung von Ethernet durch Robert Metcalfe bei Xerox PARC. Dabei werden auch konkurrierende Ansätze wie Token Ring sowie die Rolle von Softwareprotokollen und frühen PC-Netzwerken ausführlich besprochen. Der Bogen spannt sich bis zu den Grundlagen, die schließlich den Weg für spätere LAN-Partys ebneten.",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "8286232b-acac-4e0f-b5b6-7a388bbaf6e4",
-  "apple_collection_id": null,
+  "apple_collection_id": "1279335230",
   "show": "Was jetzt?",
   "titel": "Warum Neuwahlen in der Ukraine unwahrscheinlich sind (Update)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Neuwahlen in der Ukraine und leere deutsche Gasspeicher",
   "kurzfassung": "Der kürzlich entlassene ukrainische Verteidigungsminister Mychajlo Fedorow fordert trotz des anhaltenden Krieges Neuwahlen. Angesichts von Kampfhandlungen und fehlender Infrastruktur gilt dies jedoch als äußerst unrealistisch. Zudem stehen die deutschen Gasspeicher kurz vor dem Winter ungewöhnlich leer, da sich das Einspeichern für Händler derzeit nicht rechnet.",

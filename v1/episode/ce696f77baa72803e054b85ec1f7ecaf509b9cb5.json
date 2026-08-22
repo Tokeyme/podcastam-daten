@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "db8448bae97876dc746d57168197b8aa",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "TI-99/4 (SFT 22-2)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Die Geschichte des TI-99/4A von Texas Instruments und sein Scheitern im…",
   "kurzfassung": "Texas Instruments bringt mit dem TI-99/4A einen technisch fortgeschrittenen Heimcomputer auf den Markt, der jedoch unter einem hohen Preis und mangelnder Software leidet. Ein ruinöser Preiskrieg mit Commodore und interne Fehlentscheidungen führen schließlich zu massiven Verlusten und dem Ausstieg aus dem Computermarkt. Dennoch überleben viele Bauteile und prägen andere Systeme der Epoche.",

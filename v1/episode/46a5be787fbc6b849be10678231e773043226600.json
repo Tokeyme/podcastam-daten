@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "c67a79547afc73acd93d06cc4e3b62f5",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "Unser Megaprojekt: Launch-Update",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Relaunch-Update: Einblicke in Zahlen, Community-Feedback und geplante Verbesserungen",
   "kurzfassung": "Nach einer Woche blicken Christian und Gunnar auf einen extrem erfolgreichen Launch der neuen Plattform stayforever.de zurück. Sie besprechen die übertroffenen Erwartungen bei den Anmeldezahlen, gelöste technische Hürden sowie zahlreiche Community-Wünsche. Zudem erläutern sie künftige Pläne zu Zahlungsarten, Apps und dem Umgang mit Plattformunabhängigkeit.",

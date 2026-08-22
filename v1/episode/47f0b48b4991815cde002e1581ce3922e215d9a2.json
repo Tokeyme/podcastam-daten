@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "676f1b348f21a0b770e8296de1ebd045",
-  "apple_collection_id": null,
+  "apple_collection_id": "1608172567",
   "show": "Stammplatz – Fußball News täglich",
   "titel": "Neue Details zu Musiala! BVB will Barça-Verteidiger! Gladbach holt Fan-Liebling zurück!",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Neueste Details zu Jamal Musiala, BVB-Interesse an Barcelona-Verteidiger und Transfers",
   "kurzfassung": "Jamal Musiala leidet unter kurzzeitigen Absenzen durch eine neurologische Dysfunktion, will aber nach Genesung auf altem Niveau weiterspielen. Borussia Dortmund zeigt starkes Interesse an einer Verpflichtung des Barcelona-Verteidigers. Borussia Mönchengladbach holt Ko Itakura für 3,5 Millionen Euro Ablöse von Ajax Amsterdam zurück.",

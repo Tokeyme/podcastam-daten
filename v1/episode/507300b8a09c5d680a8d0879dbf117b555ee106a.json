@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "d56df81de7f71a65d7732840dee02f04",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "TI-99/4 (SFT 22-1)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Der TI-99/4: Teil 1 über den ersten 16-Bit-Heimcomputer von Texas Instruments.",
   "kurzfassung": "Texas Instruments entwickelte mit dem TI-99/4 den ersten 16-Bit-Heimcomputer der Geschichte. Die Entwicklung war jedoch von internen Machtkämpfen, Fehlentscheidungen und einem technisch veralteten Prozessor geprägt. Dennoch bot das Gerät mit starken Grafik- und Sprachfeatures auch innovative Aspekte.",

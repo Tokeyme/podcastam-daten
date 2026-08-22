@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "cf5248b0be3baf12c58ae8580cf325e7",
-  "apple_collection_id": null,
+  "apple_collection_id": "1568123217",
   "show": "Machtwechsel",
   "titel": "Bärbel und Lars – das war‘s? Die SPD vor der Rebellion",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Die SPD kriselt: Brandbriefe, Umfrageschwächen und Szenarien für einen Führungswechsel.",
   "kurzfassung": "Die SPD befindet sich in einer tiefen Krise, da Umfragewerte sinken und die Basis gegen die Parteiführung rebelliert. Grund dafür sind unter anderem der Streit um die Rente mit 63 und das Aufweichen sozialdemokratischer Kernprojekte in der Koalition. In der Partei kursieren bereits verschiedene Szenarien für einen möglichen Wechsel an der Parteispitze.",

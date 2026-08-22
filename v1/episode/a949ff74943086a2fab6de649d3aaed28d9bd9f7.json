@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "1493b8eb-8411-4999-854a-11270e5b7f0f",
-  "apple_collection_id": null,
+  "apple_collection_id": "1574676417",
   "show": "Wild Wild Web - Geschichten aus dem Internet",
   "titel": "#02 Inside Palantir: ICE Cold (2/5)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": true,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 158 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 158 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Wie Palantirs Software bei US-Massenabschiebungen durch die Einwanderungsbehörde ICE…",
   "kurzfassung": "Die Verhaftung der aus Guatemala stammenden Juanita durch die US-Einwanderungsbehörde ICE in Oregon führt zu einer Sammelklage und bringt die Rolle von Palantir ans Licht. Vor Gericht und durch geleakte Dokumente wird bekannt, dass die von Palantir entwickelte App „Elite“ von ICE als zielgerichtetes Werkzeug für Festnahmen genutzt wird. Dies steht im Widerspruch zum früheren Selbstverständnis von Palantir-Chef Alex Karp, keine autokratischen Systeme zu unterstützen, und sorgt für heftige interne Kritik.",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "acc671a25b189ad92c884de3a4fc32c5",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "King's Quest (SF 155)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "King's Quest: Wie Sierra 1984 das Grafik-Adventure erfand",
   "kurzfassung": "King's Quest, das 1984 für den IBM PCjr erschien, begründete als erstes echtes Grafik-Adventure das Genre. Roberta Williams schuf eine farbige, animierte Märchenwelt mit Parser-Steuerung und räumlicher Tiefe. Trotz technischer und wirtschaftlicher Hürden beim Start wurde das Spiel zum Fundament für Sierras Erfolg.",

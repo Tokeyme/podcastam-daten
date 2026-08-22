@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "6a81a8aaf8e81c4395834776",
-  "apple_collection_id": null,
+  "apple_collection_id": "1540813884",
   "show": "DRINNIES",
   "titel": "Lauwarmer Hund",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Chris und Julia reflektieren über soziale Erwartungen, kulinarische Missverständnisse…",
   "kurzfassung": "Chris und Julia nehmen ihren Podcast aus der Schweiz auf und reflektieren über ihr Leben. Dabei thematisieren sie das soziale Dilemma, wenn man aus Höflichkeit jahrelang eine ungeliebte Nachspeise akzeptiert. Zudem diskutieren sie über das Versteckspiel-Phänomen Manhunt und geben Tipps für unangenehme soziale Situationen im Freibad.",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "2b21894f5e05f7b5db4983f7bbe97377",
-  "apple_collection_id": null,
+  "apple_collection_id": "1549709271",
   "show": "Alles auf Aktien – Die täglichen Finanzen-News",
   "titel": "Big-Tobacco-Moment für Meta und die Eine-Billion-Siemens-These",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Meta kämpft im US-Prozess um Milliarden und Siemens will in den Billionen-Club aufsteigen.",
   "kurzfassung": "Metas milliardenschwerer US-Prozess wegen Vorwürfen zur Kindersicherheit erinnert Beobachter an einen Tabakskandal und drückt auf den Aktienkurs. Gleichzeitig peilt der deutsche Industrieriese Siemens mit einem neuen Strategiekonzept und industrieller KI langfristig die Billionen-Grenze an. An den Märkten sorgt derweil eine deutliche Zinsangst für anhaltende Umschichtungen.",

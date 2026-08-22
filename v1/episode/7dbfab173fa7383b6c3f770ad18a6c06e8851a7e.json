@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "e4bb6d56-df1c-435e-8467-4f98f5f9e5a8",
-  "apple_collection_id": null,
+  "apple_collection_id": "1644661277",
   "show": "Aktenzeichen XY… Unvergessene Verbrechen",
   "titel": "#113 Explosion im Möbelhaus",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": true,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Eine Sprengstoffserie in europäischen Möbelhäusern führt zu internationaler Fahndung.",
   "kurzfassung": "Im Juni 2011 explodiert in einem Dresdner Möbelhaus ein selbstgebauter Sprengsatz und verletzt zwei Menschen. Ermittlungen zeigen schnell Parallelen zu ähnlichen Taten in Belgien, Frankreich und den Niederlanden. Erst nach einem weiteren Anschlag in Prag und einer intensiven Zusammenarbeit mit Europol und der polnischen Polizei können die beiden Täter im Oktober 2011 gefasst werden.",

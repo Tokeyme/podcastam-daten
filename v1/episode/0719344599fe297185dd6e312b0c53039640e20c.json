@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "b698d3a50851b060761e34d393e8b5ea",
-  "apple_collection_id": null,
+  "apple_collection_id": "1352434240",
   "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
   "titel": "Märkte: Druck auf Anleihen und KI-Aktien / Sparkassenchefs: Verdienen und schweigen",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Verdacht auf je Abruf neu zusammengesetzte Auslieferung (kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - im Zweifel keine Byte-Offsets und keine Sprungmarken"
+    "grund": "Verdacht auf je Abruf neu zusammengesetzte Auslieferung (kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - im Zweifel keine Byte-Offsets und keine Sprungmarken",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Märkte unter Druck: Staatsanleihen und Tech-Aktien, Sparkassen-Gehälter und…",
   "kurzfassung": "Die globalen Finanzmärkte standen unter Druck, da steigende Staatsverschuldung, Inflation und hohe Unternehmensanleihen die Renditen nach oben trieben. Gleichzeitig legte Apple einen langjährigen Streit mit der EU-Kommission bei und passte sein Geschäftsmodell an. Zudem wächst die Nutzung von Künstlicher Intelligenz in deutschen Kleinunternehmen spürbar.",

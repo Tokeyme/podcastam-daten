@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "72b8b4cb11a6816a812c2200e687dc49",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "Die Diskette (SFT 18)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Die Geschichte der Diskette: Vom IBM-Mikrocode-Speicher zum Kultobjekt.",
   "kurzfassung": "Die Diskette wurde in den 1960er Jahren bei IBM als Lade-Medium für Mikrocode entwickelt und war rund 20 Jahre lang das wichtigste Datenträgerformat für Computer. Sie ermöglichte den Siegeszug des Heimcomputermarkts und kommerzieller Software, ehe sie durch CDs und USB-Sticks verdrängt wurde. Bis heute lebt sie als universelles Speichersymbol fort.",

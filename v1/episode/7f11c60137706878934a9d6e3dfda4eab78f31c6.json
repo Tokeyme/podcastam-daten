@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "/b45e526c64f079aeb50649e86b127da8",
-  "apple_collection_id": null,
+  "apple_collection_id": "1530957169",
   "show": "0630 - der News-Podcast",
   "titel": "Ernteausfälle: Pommes in Gefahr | U18-Version von ChatGPT | Angriffe über queere Dating-Apps",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": true,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Ernteausfälle in Deutschland, KI-Regeln in Dänemark und Gewalt bei queeren Dating-Apps",
   "kurzfassung": "Der Deutsche Bauernverband meldet erhebliche Ernteausfälle bei Kartoffeln und Getreide infolge von Hitze und Trockenheit. Dänemark schränkt die Nutzung von KI an Schulen ein, während OpenAI eine spezielle ChatGPT-Version für Minderjährige einführt. Zudem beleuchtet das Team Recherche eine Zunahme von gewaltsamen Überfällen auf schwule Männer über Dating-Apps.",

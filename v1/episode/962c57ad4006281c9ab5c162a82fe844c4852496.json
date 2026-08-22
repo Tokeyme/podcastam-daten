@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "f2c3a0895911805cbf338d35a35ec0be",
-  "apple_collection_id": null,
+  "apple_collection_id": "1332049198",
   "show": "Psychologie to go!",
   "titel": "Warum wir weinen - über echte Tränen, ungewollte Tränen und Krokodilstränen",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Warum wir weinen: Von Kulturgeschichte, Stressabbau und echten Tränen.",
   "kurzfassung": "Tränen faszinieren die Menschheit seit jeher und wurden früher als Katharsis oder Stressventil missverstanden. Neuere Erkenntnisse der Neurobiologie zeigen stattdessen, dass Weinen den exakten Moment des Systemwechsels zur Entspannung markiert. Zudem wird erklärt, warum wir bei fiktiven Geschichten weinen und wie man echtes von instrumentellem Weinen unterscheiden kann.",

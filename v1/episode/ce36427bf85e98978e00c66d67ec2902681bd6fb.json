@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "0f6991eb-1b91-4a61-b32c-797f6ee0a0b4",
-  "apple_collection_id": null,
+  "apple_collection_id": "257719552",
   "show": "Radiowissen",
   "titel": "Die unglaubliche Widerstandskämpferin Milada Horákova (2/2) Von der Hölle zum Pranger",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": true,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 171 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 171 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Der Schauprozess und die Hinrichtung der tschechoslowakischen Widerstandskämpferin…",
   "kurzfassung": "Nach dem kommunistischen Staatsstreich in der Tschechoslowakei wird die Politikerin Milada Horáková 1950 in einem inszenierten Schauprozess zum Tod verurteilt. Das Regime nutzt den Prozess als politische Machtdemonstration und zeichnet ein verfälschtes Bild der Angeklagten. Bis zu ihrer Hinrichtung bleibt Horáková ihren demokratischen Idealen treu und verfasst bewegende Abschiedsbriefe an ihre Familie.",

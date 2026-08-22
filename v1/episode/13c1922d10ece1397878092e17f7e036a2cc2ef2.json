@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "6a8512fe39e73ea8f30e8085",
-  "apple_collection_id": null,
+  "apple_collection_id": "1725152123",
   "show": "Table Today – mit Michael Bröcker und Helene Bubrowski",
   "titel": "Wie schützen wir uns besser vor Drohnen?",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Wie wirksame Drohnenabwehr, BSW-Konflikte und das Vater-Gehirn unsere Sicherheit prägen",
   "kurzfassung": "Sarah Wagenknechts Kurswechsel und die Annäherung an die AfD stürzen das BSW und die CDU in Thüringen in schwere Koalitionskrisen. Ein neues Forschungszentrum in Sachsen-Anhalt soll die mangelhafte Drohnenabwehr über kritischer Infrastruktur verbessern. Zudem erklären Experten im Podcast den Wohnungsmarktstreit um Enteignungen sowie überraschende neurobiologische Veränderungen bei frischgebackenen Vätern.",

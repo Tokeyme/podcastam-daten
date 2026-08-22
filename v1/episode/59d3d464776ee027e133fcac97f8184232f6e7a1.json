@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "24f34c6fbc6790fb69bd1cfee0bdcba3",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "Der Amiga (SFT 19.1)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Die spannende und bewegte Entstehungsgeschichte des Commodore Amiga von 1979 bis 1985.",
   "kurzfassung": "Der Amiga entstand nicht bei Commodore, sondern geht auf ehemalige Atari-Ingenieure wie Jay Miner zurück, die eine leistungsstarke 16-Bit-Konsole entwickeln wollten. Nach Finanzkrisen und harten Übernahmekämpfen zwischen Atari und Commodore kam die revolutionäre Maschine 1985 schließlich als Computer auf den Markt. Die Entwicklung war geprägt von zahlreichen Richtungswechseln, Technik-Innovationen und dramatischen Rettungsaktionen.",

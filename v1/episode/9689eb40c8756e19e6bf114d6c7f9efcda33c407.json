@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "4092c69c039d686bce241e98ad0e91d7",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "DDR-Computer (SFT 14)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Die Geschichte der DDR-Heimcomputer zwischen Mangelwirtschaft und technischem…",
   "kurzfassung": "Trotz schwieriger Bedingungen und Embargos entwickelte die DDR eine eigene Computerindustrie. Heimcomputer wie die KC-Reihe dienten dabei primär als Bildungsinstrumente in staatlichen Einrichtungen statt als Konsumgüter für Privathaushalte. Die Szene prägte eine ganze Generation von Entwicklern, die trotz technischer Rückstände eine lebhafte Spielkultur schufen.",

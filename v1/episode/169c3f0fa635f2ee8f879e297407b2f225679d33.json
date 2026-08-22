@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "1cb3b00dc1482e8c108c8303a65348d8",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "Unser Megaprojekt",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Stay Forever wird unabhängiger und stellt eine eigene Plattform mit vielen neuen…",
   "kurzfassung": "Stay Forever hat eine eigene, neue Website und Plattform gestartet, um unabhängiger von Drittanbietern wie Patreon, Steady und YouTube zu werden. Die neue Plattform bietet einen integrierten Player mit vergrößerbaren Kapitelbildern, durchsuchbare Transkripte und einen flexiblen Feed-Builder. Bestehende Abonnenten von Patreon und Steady können unkompliziert und unter Anrechnung ihrer Restlaufzeit auf das neue System wechseln.",

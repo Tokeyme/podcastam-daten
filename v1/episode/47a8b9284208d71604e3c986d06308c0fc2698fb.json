@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "924d09c69c753dd6a177c323b0ada57c",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "Bomberman 94 (SSF 96)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Die Entstehungsgeschichte von Bomberman 94 und der PC Engine.",
   "kurzfassung": "Die Hosts beleuchten die Geschichte der Konsolenplattform PC Engine sowie die Entwicklung von Hudson Soft. Im Fokus steht dabei Bomberman 94 als Höhepunkt der Spieleserie. Dabei werden sowohl das simple Kernprinzip als auch spätere Nachfolger und Ableger analysiert.",

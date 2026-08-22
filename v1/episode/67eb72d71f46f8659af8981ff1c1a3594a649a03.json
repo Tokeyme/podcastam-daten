@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "159857bd9e93fe64881e088b3eb2df48",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "Quake (SF 164)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Rückblick auf den Ego-Shooter-Meilenstein Quake von id Software aus dem Jahr 1996.",
   "kurzfassung": "Quake revolutionierte 1996 mit einer echten 3D-Engine und schnellem Multiplayer das Shooter-Genre. Die Entwicklung war jedoch von internen Krisen und dem Bruch zwischen John Carmack und John Romero geprägt. Heute gilt das Spiel vor allem wegen seines Einflusses auf Technik und E-Sport als Klassiker.",

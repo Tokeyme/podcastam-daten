@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "ard_15minuten_ED18AF95",
-  "apple_collection_id": null,
+  "apple_collection_id": "1746549121",
   "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
   "titel": "Ernte im Hitzesommer nicht gut / Forschungszentrum gegen Drohnen / Bäckerei ohne Nachtarbeit",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": true,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Schwierige Ernte im Hitzesommer, Drohnen-Forschungszentrum und Bäckerei ohne Nachtschicht.",
   "kurzfassung": "Der Deutsche Bauernverband zieht wegen extremer Hitze und Trockenheit eine negative Bilanz der diesjährigen Ernte. In Sachsen-Anhalt hat ein neues Forschungszentrum für Drohnenabwehr die Arbeit aufgenommen. Zudem zeigt das Beispiel einer niedersächsischen Bäckerei, wie Handwerksbetriebe ohne nächtliche Arbeitszeiten auskommen können.",

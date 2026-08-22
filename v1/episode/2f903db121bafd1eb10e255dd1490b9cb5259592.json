@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "a31aebb83fbd354e3cef87c891b13b14",
-  "apple_collection_id": null,
+  "apple_collection_id": "461077931",
   "show": "Stay Forever - Retrogames & Technik",
   "titel": "Starflight (SF 166)",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Ein wegweisendes Weltraum-Rollenspiel aus dem Jahr 1986 voller Erkundung und Geheimnisse",
   "kurzfassung": "Starflight erschien 1986 für IBM-PCs und gilt als meisterhaftes, aber komplexes Weltraum-Abenteuer. Das Spiel verbindet Ressourcensuche, Echtzeitkämpfe und den Abbau von Rohstoffen mit einer offenen Galaxie. Durch fragmentiertes Storytelling und den Umgang mit verschiedenen Alien-Spezies entsteht ein einzigartiges Erlebnis.",

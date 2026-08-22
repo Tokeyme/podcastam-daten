@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "da7502ef-63a5-40ca-89f0-fba1047c8a99",
-  "apple_collection_id": null,
+  "apple_collection_id": "1512453641",
   "show": "Schwarze Akte - True Crime",
   "titel": "#322 Goodbye Deutschland: Albtraum in Namibia",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Verdacht auf je Abruf neu zusammengesetzte Auslieferung (kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst ads.julephosting) - im Zweifel keine Byte-Offsets und keine Sprungmarken"
+    "grund": "Verdacht auf je Abruf neu zusammengesetzte Auslieferung (kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst ads.julephosting) - im Zweifel keine Byte-Offsets und keine Sprungmarken",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Der brutale Mord an einer Auswanderin in Namibia und seine juristischen Folgen",
   "kurzfassung": "Im Juni 1998 wird in Namibia die deutsche Auswanderin Monika von ihrem Ehemann Thomas getötet und im Haus grausam zerteilt. Aufmerksame Freunde schlagen Alarm, woraufhin die Polizei den flüchtigen Täter dank illegaler Wildtierprodukte im Frachtcontainer stoppt. Thomas wird schließlich zu lebenslanger Haft verurteilt und scheitert jahrelang mit juristischen Versuchen auf Bewährung.",

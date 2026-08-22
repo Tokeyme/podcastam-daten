@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "4e69b87ce05372aed0409d2681a3b6cb",
-  "apple_collection_id": null,
+  "apple_collection_id": "1044844618",
   "show": "Geschichten aus der Geschichte",
   "titel": "GAG569: HB08 – Die Piratin, die in den Ruhestand ging und Rheinland oder Tirol, Hauptsache Peru",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Zwei Geschichten über Zheng Yisao als mächtigste Piratin und die Siedler von Posuso in…",
   "kurzfassung": "Diese Hörbuchfolge beleuchtet zwei ungewöhnliche historische Kapitel aus dem Buch der Hosts. Im ersten Teil geht es um Zheng Yisao, die im 19. Jahrhundert als mächtigste Piratenkommandantin Chinas eine riesige Flotte anführte und sich schließlich in den Ruhestand verabschiedete. Der zweite Teil erzählt von Auswanderern aus dem Rheinland und Tirol, die 1857 nach Peru aufbrachen, um am Rande des Amazonas die bis heute existierende deutsch-österreichische Kolonie Posuso zu gründen.",

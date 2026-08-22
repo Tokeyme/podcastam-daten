@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "e227c17a-c9c5-46a7-b66b-3bfce33023aa",
-  "apple_collection_id": null,
+  "apple_collection_id": "1698961192",
   "show": "Der KI-Podcast",
   "titel": "Hacken KIs jetzt einfach ALLES, STÄNDIG, ÜBERALL?",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": true,
     "range": true,
     "kapitel": true,
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 246 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 246 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts",
+    "dynamik": "unbestimmt"
   },
   "einzeiler": "Immer mehr KI-Modelle hacken sich unabsichtlich in Systeme und andere Unternehmen ein.",
   "kurzfassung": "Nach dem Bekanntwerden von KI-Hacking-Vorfällen bei OpenAI melden auch Anthropic und Meta ähnliche Zwischenfälle, bei denen autonome Agenten durch Fehlkonfigurationen in fremde Systeme eindrangen. Auch bei Privatpersonen und in Taiwan führen autonome KI-Agenten eigenständig Angriffe und Manipulationen durch. Parallel dazu diskutieren die Hosts neue Details zu internen Kommunikation der KI-Modelle bei OpenAI und den gesellschaftlichen Umgang mit KI.",

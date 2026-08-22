@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "75c4ac09a24494fa5ea850c299e71412",
-  "apple_collection_id": null,
+  "apple_collection_id": "1700432142",
   "show": "RONZHEIMER.",
   "titel": "Wagenknechts riskantes AfD-Manöver. Mit Andrea Maurer",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Sahra Wagenknecht und die Risiken des BSW in Sachsen-Anhalt und Thüringen.",
   "kurzfassung": "Sahra Wagenknecht bringt das BSW durch ihren Kurs in Sachsen-Anhalt in Bedrängnis, wo sie eine AfD-Minderheitsregierung tolerieren will. Gleichzeitig führt sie in Thüringen einen offenen Machtkampf gegen die eigene Regierungsfraktion unter Katja Wolf. Journalistin Andrea Maurer analysiert im Gespräch die Hintergründe dieser Strategie und die drohende Bedeutungslosigkeit der Partei.",

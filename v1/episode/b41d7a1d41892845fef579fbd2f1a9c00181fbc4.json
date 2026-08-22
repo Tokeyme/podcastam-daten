@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "guid": "443fde9f-0e16-49d4-ab7c-0b759d389088",
-  "apple_collection_id": null,
+  "apple_collection_id": "1374777077",
   "show": "Verbrechen",
   "titel": "Blut auf der Heimfahrt",
   "audio": {
@@ -15,7 +15,8 @@
     "clips": false,
     "range": true,
     "kapitel": false,
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher",
+    "dynamik": "dynamisch"
   },
   "einzeiler": "Ein Familienausflug endet in einer brutalen Prügelei in einer S-Bahn nach einem…",
   "kurzfassung": "Nach einem Fußballspiel in Berlin geraten Fans in einer S-Bahn in eine brutale Schlägerei, bei der auch Frauen ins Gesicht geschlagen werden. ZEIT-Chefreporter Stefan Willeke nimmt diesen persönlichen Vorfall zum Anlass, über die gewaltbereiten Strukturen innerhalb der Ultraszene zu recherchieren. Dabei zeigt sich eine widersprüchliche Mischung aus sozialem Engagement und organisierter Gewalt, die oft von der Öffentlichkeit und den Vereinen hingenommen wird.",
