@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_536718474",
+  "apple_collection_id": "1462724410",
+  "show": "安娜妈咪少儿口才（4岁+）",
+  "titel": "07台词（蓝小锐幻游记第2集-蓝小锐）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEGYoJOAACaqwFbor6C.m4a?channel=rss&album_id=215618&track_id=536718474&uid=1374220&jt=https://aod.cos.tx.xmcdn.com/storages/3e30-audiofreehighqps/EE/9A/GKwRIUEGYoJOAACaqwFbor6C.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 39595,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:37:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "蓝小锐幻游记第二集：神秘生日礼物",
+  "kurzfassung": "本集为蓝小锐幻游记的第二集。主角在开篇发出了关于神秘生日礼物的疑问。剧情围绕这一神秘礼物的悬念展开。",
+  "stichpunkte": [
+    "蓝小锐幻游记推出第二集。",
+    "主角提到父母送的神秘生日礼物。",
+    "故事围绕这一神秘礼物的悬念展开。"
+  ],
+  "kapitel": [
+    {
+      "titel": "神秘生日礼物",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:37:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4,
+  "veroeffentlicht": "2022-05-24T11:19:40+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group25/M02/D7/38/wKgJMVhX2KPgpiHHAAGja7ngv4c901.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

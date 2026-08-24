@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_975323739",
+  "apple_collection_id": "1550085626",
+  "show": "倾曹而出",
+  "titel": "黄仁勋急了大模型集体出逃",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4N0_VIAAPH8ASWPlSB.m4a?channel=rss&album_id=45459666&track_id=975323739&uid=136913995&jt=https://aod.cos.tx.xmcdn.com/storages/3a76-audiofreehighqps/C7/0C/GKwRIW4N0_VIAAPH8ASWPlSB.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 247792,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:48:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "黄仁勋面临大模型集体出逃与中国芯片自主化的压力。",
+  "kurzfassung": "黄仁勋在采访中神情焦虑，面对大模型集体出逃的局面。此前他刚警告封锁会促使中国摆脱依赖，DeepSeek V4便随即发布并成功在华为芯片上运行。这一发展对英伟达的市场主导地位构成了严峻挑战。",
+  "stichpunkte": [
+    "黄仁勋在近期采访中表现出明显的焦虑情绪",
+    "市场出现大模型集体出逃的现象",
+    "黄仁勋曾警告称封锁会导致中国减少对外部依赖",
+    "DeepSeek V4正式发布，拥有1.6万亿参数",
+    "其性能接近GPD 5.5的水平",
+    "DeepSeek V4已经在华为生成芯片架构上顺利运行",
+    "分析认为这一趋势可能对英伟达的行业地位产生深远影响"
+  ],
+  "kapitel": [
+    {
+      "titel": "黄仁勋的焦虑与大模型出逃",
+      "start": 0.0
+    },
+    {
+      "titel": "DeepSeek V4的发布与华为芯片适配",
+      "start": 19.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:48:12+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 30,
+  "veroeffentlicht": "2026-05-09T12:58:00+00:00",
+  "beschreibung": "各位喜友，老曹在某音开播了，搜“倾曹而出”，获取更多干货。别忘了关注、评论、点赞、转发，给老曹支持支持，感谢您哦。当然，喜马永远是老曹的大本营。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">各位喜友，老曹在某音开播了，搜“倾曹而出”，获取更多干货。别忘了关注、评论、点赞、转发，给老曹支持支持，感谢您哦。当然，喜马永远是老曹的大本营。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5ac9-audiofreehighqps/36/71/GMCoOSAJeU5tAAFeUQKbK4Bs.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

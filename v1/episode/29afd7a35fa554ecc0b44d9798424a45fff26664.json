@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_508769530",
+  "apple_collection_id": "1610868516",
+  "show": "【正统文化】三字经",
+  "titel": "【正统文化】三字经_第34集",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIF_LsoACAAAAElGPSu.mp3.m4a?channel=rss&album_id=57166465&track_id=508769530&uid=3314907&jt=https://aod.cos.tx.xmcdn.com/storages/319e-audiofreehighqps/90/E5/GKwRIaIF_LsoACAAAAElGPSu.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 6193336,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:26:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "解读三字经关于清朝建国及少年康熙智擒鳌拜的历史故事",
+  "kurzfassung": "本集解读了三字经中关于清朝建立的历史脉络，指出从清太祖努尔哈赤到清世祖顺治统一天下，历经十二代帝王。随后讲述了少年康熙八岁即位、十四岁亲政，巧妙利用御前摔跤侍卫智擒权臣鳌拜的故事。这一举动为康熙缔造大清伟业迈出了成功的第一步。",
+  "stichpunkte": [
+    "清太祖努尔哈赤承受天命平定四方，清世祖顺治在北京登基统一天下",
+    "清朝历经十二代皇帝后国运逐渐衰落",
+    "少年康熙八岁继位，十四岁开始亲自执政",
+    "辅政大臣鳌拜把持大权，不把年轻的康熙放在眼里",
+    "康熙暗中物色年轻力壮的侍卫，安排在御花园练习摔跤以麻痹鳌拜",
+    "鳌拜进宫时毫无防备，甚至认为康熙只是孩子玩心重",
+    "康熙当面斥责鳌拜图谋不轨并发难，侍卫一拥而上将其打翻并关入监牢",
+    "康熙智除鳌拜，为其缔造大清伟业迈出了成功的第一步"
+  ],
+  "kapitel": [
+    {
+      "titel": "清朝建国历史概述",
+      "start": 0.0
+    },
+    {
+      "titel": "少年康熙智擒鳌拜",
+      "start": 57.42
+    }
+  ],
+  "clips": [
+    {
+      "hook": "清朝从太祖建国到十二代皇帝后国运衰落的历史",
+      "start": 29.352,
+      "ende": 55.392,
+      "laenge": 26.04,
+      "byte_start": 960824,
+      "byte_ende": 1794103,
+      "bytes": 833280,
+      "range_header": "bytes=960824-1794103",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 29.424,
+      "anker_sha256": "95076d1318e87d0c25d062bacdddcef96211303a1bd9a11ff13c95df00ed4869",
+      "einblendung_ms": 60,
+      "text": "清太祖努尔哈赤承受上天的旨意,派兵攻入山海关,平定四方。 到了清世祖顺治皇帝在北京登上地位,平定了各地的混乱局面,才统一天下,建立了清朝。 经历了十二代皇帝, 清朝的国运就衰落了。"
+    },
+    {
+      "hook": "少年康熙八岁继位十四岁亲政，面对把持朝政的鳌拜",
+      "start": 63.168,
+      "ende": 88.392,
+      "laenge": 25.22,
+      "byte_start": 2042936,
+      "byte_ende": 2850103,
+      "bytes": 807168,
+      "range_header": "bytes=2042936-2850103",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 63.24,
+      "anker_sha256": "e3affe16a485bbe4470a5de0eb891633d4564926ec2ad59d1e6dedc09234ca2e",
+      "einblendung_ms": 60,
+      "text": "康熙第八岁继位,十四岁就开始亲自执政。 可是辅政大臣敖拜一直把持着大权,根本不把他放在眼里。 时间久了,康熙越来越无法忍受。 敖拜的所作所为,他下决心要除掉敖拜。"
+    },
+    {
+      "hook": "康熙安排侍卫在御花园摔跤以麻痹权臣鳌拜",
+      "start": 95.424,
+      "ende": 115.512,
+      "laenge": 20.09,
+      "byte_start": 3075128,
+      "byte_ende": 3717943,
+      "bytes": 642816,
+      "range_header": "bytes=3075128-3717943",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 95.496,
+      "anker_sha256": "88ac0f2570f33e758735342ba737843a04521f265c4985426ec03a8767a7aeeb",
+      "einblendung_ms": 60,
+      "text": "敖拜进宫去,常常看到他们在御花园里摔跤。 还当康熙是小孩子,玩心重呢。 一天,康熙命敖拜进宫。 敖拜大摇大摆,入朝上。"
+    },
+    {
+      "hook": "康熙当面质问鳌拜罪状，鳌拜自恃功高公然抗辩",
+      "start": 124.056,
+      "ende": 144.144,
+      "laenge": 20.09,
+      "byte_start": 3991352,
+      "byte_ende": 4634167,
+      "bytes": 642816,
+      "range_header": "bytes=3991352-4634167",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 124.128,
+      "anker_sha256": "510abb7d5cfbe76e670bb0edde0224f6a1319aab1af595b795ae64513a480b91",
+      "einblendung_ms": 60,
+      "text": "康熙一拍御案,立声说, 敖拜,你可知罪? 敖拜冷笑道, 哼,我奉先帝遗诏辅佐皇上八年,教会皇上如何管理国家大事。 何罪之有?"
+    },
+    {
+      "hook": "少年侍卫一拥而上将鳌拜拿下，康熙迈出大清伟业第一步",
+      "start": 171.168,
+      "ende": 191.64,
+      "laenge": 20.47,
+      "byte_start": 5498936,
+      "byte_ende": 6154039,
+      "bytes": 655104,
+      "range_header": "bytes=5498936-6154039",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 171.24,
+      "anker_sha256": "abfbba25d56d559108e69e87d336c7e1c5546533bc2d0657412d967a3de1dfc3",
+      "einblendung_ms": 60,
+      "text": "话音刚落来,康熙就说, 哦,一群少年就从四面八方拥上来, 一下子把敖拜打翻在地,并关进了监牢。 就这样,康熙用计除掉了敖拜, 这为他缔造大清伟业,跨出了成功的第一步。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:26:46+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 192,
+  "veroeffentlicht": "2022-03-23T01:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f540-audiofreehighqps/DC/14/GKwRIW4F5QfZAAHwBwEYxp6X.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

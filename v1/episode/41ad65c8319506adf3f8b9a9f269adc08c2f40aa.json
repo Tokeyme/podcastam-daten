@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2016/01/27/2513917044650770950_hd.mp3",
+  "apple_collection_id": "910834636",
+  "show": "新闻肉食者",
+  "titel": "I Want More Than A Hug",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2016/01/27/2513917044650770950_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1960881,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:08:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "关于拥抱、情感连接与渴望深层陪伴的思考。",
+  "kurzfassung": "本期节目围绕人类对情感连接和深度拥抱的渴望展开。歌词中穿插着对现实的思考以及对未来陪伴的期盼。对话探讨了不希望被离开、追求超越普通拥抱的情感诉求。",
+  "stichpunkte": [
+    "探讨了面对现实时的心境变化",
+    "表达了对伴侣靠近与倾听的渴望",
+    "呼唤内心的真实感受与另一个世界的存在",
+    "强调了紧密拥抱对情感连接的重要性",
+    "承诺彼此不会离开对方",
+    "坦言想要的远不止是一个简单的拥抱"
+  ],
+  "kapitel": [
+    {
+      "titel": "寻找现实与内心的连接",
+      "start": 28.58
+    },
+    {
+      "titel": "渴望靠近与深层拥抱",
+      "start": 67.0
+    },
+    {
+      "titel": "超越普通拥抱的诉求",
+      "start": 99.16
+    }
+  ],
+  "clips": [
+    {
+      "hook": "当面对现实的冲击时",
+      "start": 28.5,
+      "ende": 48.588,
+      "laenge": 20.09,
+      "byte_start": 507219,
+      "byte_ende": 828629,
+      "bytes": 321411,
+      "range_header": "bytes=507219-828629",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 28.578,
+      "anker_sha256": "e4480af3411617053dfb4ed5de3a431ecb502baf6d81b13fdffec8de8761163c",
+      "einblendung_ms": 60,
+      "text": "When I Hit You Baby Oh Baby Dummy"
+    },
+    {
+      "hook": "倾听内心的真实想法",
+      "start": 52.715,
+      "ende": 72.803,
+      "laenge": 20.09,
+      "byte_start": 894667,
+      "byte_ende": 1216077,
+      "bytes": 321411,
+      "range_header": "bytes=894667-1216077",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 52.794,
+      "anker_sha256": "61f0e6da51c9d2f915c26977a67577db831bccb4a7aa10989ec44fa5c61db89d",
+      "einblendung_ms": 60,
+      "text": "What's In Your Mind Baby If You Want To Hold On"
+    },
+    {
+      "hook": "呼唤对方靠近",
+      "start": 66.9,
+      "ende": 87.014,
+      "laenge": 20.11,
+      "byte_start": 1121619,
+      "byte_ende": 1443447,
+      "bytes": 321829,
+      "range_header": "bytes=1121619-1443447",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 66.978,
+      "anker_sha256": "4e3bbe3bb9a7bced1df8a5180e476578bf583f43b562779a43a0cc1e620cccd9",
+      "einblendung_ms": 60,
+      "text": "So Why Don't You Come To Me Oh Baby Kiss Me"
+    },
+    {
+      "hook": "当一切消逝，唯有你我",
+      "start": 88.66,
+      "ende": 108.748,
+      "laenge": 20.09,
+      "byte_start": 1469779,
+      "byte_ende": 1791189,
+      "bytes": 321411,
+      "range_header": "bytes=1469779-1791189",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 88.738,
+      "anker_sha256": "65975771070e39628f30e3af91d273a6ef7f1c3136547d21992140d62a94e451",
+      "einblendung_ms": 60,
+      "text": "Every Everything Dispairs But You"
+    },
+    {
+      "hook": "想要的远不止是一个拥抱",
+      "start": 103.576,
+      "ende": 119.353,
+      "laenge": 15.78,
+      "byte_start": 1708434,
+      "byte_ende": 1960880,
+      "bytes": 252447,
+      "range_header": "bytes=1708434-1960880",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 103.654,
+      "anker_sha256": "f7a38741dba6fc4cc194211d3c9e4127230e9400179f68f9b4b837ea9f180bd9",
+      "einblendung_ms": 60,
+      "text": "You Will Never Never Hug Me You Don't Know I Want More Than A Hug So Deeply Hug Me"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:08:23+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 119,
+  "veroeffentlicht": "2016-01-27T10:27:21+08:00",
+  "beschreibung": "I Want More Than A Hug\n作曲。Jessie LI\n作詞。Athéna YIN\n\nWhen I hear you baby...\nWith a heart of lady...\nIn the magic evening...\nBut these happened lately...\nYou were saying: hug me...\n\nHow dare you love me...\n\nOh baby...\nTHE ME...\n\nParis turned rainy...\nThink about the reality...\nWhat's in your mind baby?\nIf you want to hold me...\nThere is another world to see...\n(so) Why don't you come to me...\n\nOh baby...\nKISS ME...\n\nWant you come to me...\n\nDeeply hug me...\nEverything disappears but you and me...\n\nPromise you will never never leave me...\nPromise you will never never lie to me...\nYou don't know I want more than a hug...\n(so) Deeply hug me...",
+  "beschreibung_html": "I Want More Than A Hug<br>     作曲。Jessie LI<br>     作詞。Athéna YIN<br><br>When I hear you baby...<br>With a heart of lady...<br>In the magic evening...<br>But these happened lately...<br>You were saying: hug me...<br><br>How dare you love me...<br><br>Oh baby...<br>THE ME...<br><br>Paris turned rainy...<br>Think about the reality...<br>What's in your mind baby?<br>If you want to hold me...<br>There is another world to see...<br>(so) Why don't you come to me...<br><br>Oh baby...<br>KISS ME...<br><br>Want you come to me...<br><br>Deeply hug me...<br>Everything disappears but you and me...<br><br>Promise you will never never leave me...<br>Promise you will never never lie to me...<br>You don't know I want more than a hug...<br>(so) Deeply hug me...",
+  "untertitel": "I Want More Than A Hug",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2016/01/27/26009259211580551_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

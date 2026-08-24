@@ -1,12 +1,19 @@
 {
   "schema_version": 1,
-  "erzeugt_am": "2026-08-22T19:02:44+00:00",
+  "erzeugt_am": "2026-08-24T00:09:52+00:00",
   "shows": [
     {
       "show": "0630 - der News-Podcast",
       "apple_collection_id": "1530957169",
       "feed": "https://www1.wdr.de/mediathek/audio/wdr/0630bywdraktuell/0630bywdraktuell-100.podcast",
       "pfad": "/v1/show/46ba69b3fb039b56ffd52937c96f04c168ec77c1.json",
+      "folgen": 1
+    },
+    {
+      "show": "100位名人故事，和你一起品读",
+      "apple_collection_id": "1709238989",
+      "feed": "https://www.ximalaya.com/album/71145623.xml",
+      "pfad": "/v1/show/79f2baaa4d6288f3e1743e136d072abeb80e7c13.json",
       "folgen": 1
     },
     {
@@ -21,6 +28,20 @@
       "apple_collection_id": "987967575",
       "feed": "https://feeds.megaphone.fm/ESP3456903052",
       "pfad": "/v1/show/f534d1d6a430c3e360bce1740e6a0f118b839455.json",
+      "folgen": 1
+    },
+    {
+      "show": "2026♦️抖音最火的1000首热歌大全金典排行榜",
+      "apple_collection_id": "1882271762",
+      "feed": "https://www.ximalaya.com/album/115481750.xml",
+      "pfad": "/v1/show/e6eb270cffcbac7203b980558e69b22a03192331.json",
+      "folgen": 1
+    },
+    {
+      "show": "36氪·商业情报局（第一季）",
+      "apple_collection_id": "1298459035",
+      "feed": "http://www.ximalaya.com/album/9444470.xml",
+      "pfad": "/v1/show/28b4b722b8ce5a02f8cd3f9f20962786a5159034.json",
       "folgen": 1
     },
     {
@@ -63,6 +84,13 @@
       "apple_collection_id": "1615637724",
       "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/f1aae979-82f6-402c-8906-ae6001537b33/podcast.rss",
       "pfad": "/v1/show/6a7a096e401ad88d50278c43b96187ce724c0e8e.json",
+      "folgen": 1
+    },
+    {
+      "show": "CEO每周与你分享生活感悟",
+      "apple_collection_id": "1519562490",
+      "feed": "http://www.ximalaya.com/album/38618623.xml",
+      "pfad": "/v1/show/c0413581ab0d8f33ed4cecee454e923731a147c3.json",
       "folgen": 1
     },
     {
@@ -168,6 +196,13 @@
       "apple_collection_id": "1795483480",
       "feed": "https://feeds.megaphone.fm/good-hang-with-amy-poehler",
       "pfad": "/v1/show/866513907d78f8f31203e260783db3fa952bb104.json",
+      "folgen": 1
+    },
+    {
+      "show": "HR的悄悄话儿|每天5分钟带你玩儿转职场那些事儿",
+      "apple_collection_id": "1617952706",
+      "feed": "http://www.ximalaya.com/album/61646582.xml",
+      "pfad": "/v1/show/b7ac7b5a29ee05b40af78711f4b258c55336c0a1.json",
       "folgen": 1
     },
     {
@@ -574,6 +609,454 @@
       "apple_collection_id": "1623077169",
       "feed": "https://feeds.megaphone.fm/UNGESKRIPTETMEDIAGMBH9200557996",
       "pfad": "/v1/show/dd4d4d2805956b868ff3ea0809b85e0f07461046.json",
+      "folgen": 1
+    },
+    {
+      "show": "《弟子规》｜少儿国学启蒙｜学前教育",
+      "apple_collection_id": "1550232668",
+      "feed": "http://www.ximalaya.com/album/44828315.xml",
+      "pfad": "/v1/show/1e2cf633381b995eabcd71a61a9de87104b4dfc2.json",
+      "folgen": 1
+    },
+    {
+      "show": "【正统文化】三字经",
+      "apple_collection_id": "1610868516",
+      "feed": "http://www.ximalaya.com/album/57166465.xml",
+      "pfad": "/v1/show/feb18499305d4240609b7e9b7ddca6ae3f892426.json",
+      "folgen": 1
+    },
+    {
+      "show": "オタ女",
+      "apple_collection_id": "1614546852",
+      "feed": "https://api.robotstart.jp/api/v1/feeds/36350491/get-feeds/podcast",
+      "pfad": "/v1/show/f256f45a6c3d2a846244be948ac0344f84eee322.json",
+      "folgen": 1
+    },
+    {
+      "show": "スポーツ報知 新聞ヘッドライン",
+      "apple_collection_id": "1619728114",
+      "feed": "https://api.robotstart.jp/api/v1/feeds/36640493/get-feeds/podcast",
+      "pfad": "/v1/show/bd5bc1def6fcd6d8e109e10bf5fed484ead9f851.json",
+      "folgen": 1
+    },
+    {
+      "show": "中华历史大事记｜上下五千年",
+      "apple_collection_id": "1687095409",
+      "feed": "https://www.ximalaya.com/album/75898384.xml",
+      "pfad": "/v1/show/a1420455445b70c63edbcfabc3d43525061441d6.json",
+      "folgen": 1
+    },
+    {
+      "show": "九色鹿-上美电影制片厂著/王亚洲文｜主播敏敏姐姐",
+      "apple_collection_id": "1799975686",
+      "feed": "https://www.ximalaya.com/album/86400659.xml",
+      "pfad": "/v1/show/67fbd6ccd8f3bbc89c6498201c925f75e3b07bc4.json",
+      "folgen": 1
+    },
+    {
+      "show": "亲子关系丨聚焦热点 潮流育儿！",
+      "apple_collection_id": "1481809396",
+      "feed": "http://www.ximalaya.com/album/26515478.xml",
+      "pfad": "/v1/show/1bbd3be5bbf2d3d0fecdd77ecbe698ddc5351871.json",
+      "folgen": 1
+    },
+    {
+      "show": "亲子教育｜宝妈们必学的28个秘密",
+      "apple_collection_id": "1586168577",
+      "feed": "http://www.ximalaya.com/album/46396075.xml",
+      "pfad": "/v1/show/f47e0bba30dc7d9f36330ff6c984101d05d561bb.json",
+      "folgen": 1
+    },
+    {
+      "show": "体育24小时",
+      "apple_collection_id": "1444712094",
+      "feed": "http://www.ximalaya.com/album/19596464.xml",
+      "pfad": "/v1/show/208115693600327d073c21ed854616d93be17529.json",
+      "folgen": 1
+    },
+    {
+      "show": "俏丫头为你读书",
+      "apple_collection_id": "1141871103",
+      "feed": "http://rss.lizhi.fm/rss/1714631.xml",
+      "pfad": "/v1/show/6734d3c1808ae576ab1017165a138f97c85d390c.json",
+      "folgen": 1
+    },
+    {
+      "show": "俯瞰财经",
+      "apple_collection_id": "994005898",
+      "feed": "http://rss.lizhi.fm/rss/1372198.xml",
+      "pfad": "/v1/show/78045e83d8f9792d285bea14161e8e5d92f4fbf8.json",
+      "folgen": 1
+    },
+    {
+      "show": "倾曹而出",
+      "apple_collection_id": "1550085626",
+      "feed": "http://www.ximalaya.com/album/45459666.xml",
+      "pfad": "/v1/show/7302f11f68a49d3ed1a5853e2aaa1365af804a58.json",
+      "folgen": 1
+    },
+    {
+      "show": "儿童睡前精选故事",
+      "apple_collection_id": "837350869",
+      "feed": "http://rss.lizhi.fm/rss/30562.xml",
+      "pfad": "/v1/show/4580d897e28071566294e64f44c33bba6bcfb098.json",
+      "folgen": 1
+    },
+    {
+      "show": "创见·最In科技资讯",
+      "apple_collection_id": "981081088",
+      "feed": "http://www.ximalaya.com/album/362291.xml",
+      "pfad": "/v1/show/48af9c7c46d1dc4e3e3f80193b045b26ef8c8835.json",
+      "folgen": 1
+    },
+    {
+      "show": "医疗康养科技杂谈MedicalHealthTechTalks丨撒妮阳Sunny",
+      "apple_collection_id": "1796785435",
+      "feed": "https://www.ximalaya.com/album/86013373.xml",
+      "pfad": "/v1/show/56b1fa07d6066c91499e572e2fea0575add0faf6.json",
+      "folgen": 1
+    },
+    {
+      "show": "单曲纯音乐（Single pure music）",
+      "apple_collection_id": "1609186480",
+      "feed": "http://www.ximalaya.com/album/55900192.xml",
+      "pfad": "/v1/show/44b2dce9d37bf75f6b19fd34a40904e2a7588214.json",
+      "folgen": 1
+    },
+    {
+      "show": "听说很搞笑",
+      "apple_collection_id": "1017215304",
+      "feed": "http://www.ximalaya.com/album/375412.xml",
+      "pfad": "/v1/show/f4fe56775cfca7b3a2fb0dc634338e25acc1207b.json",
+      "folgen": 1
+    },
+    {
+      "show": "土味情话｜脱口秀",
+      "apple_collection_id": "1497848361",
+      "feed": "http://www.ximalaya.com/album/16448766.xml",
+      "pfad": "/v1/show/f5383e7f19b4ac14e80d8657f1bb82d667cc7019.json",
+      "folgen": 1
+    },
+    {
+      "show": "声音的旅行～",
+      "apple_collection_id": "987869680",
+      "feed": "http://cdn.lizhi.fm/rss/635214.xml",
+      "pfad": "/v1/show/95c652e352dbebb4781ffd47eef6e9910e0a9939.json",
+      "folgen": 1
+    },
+    {
+      "show": "大阪府立大学中国語ポッドキャスト旅行会話編",
+      "apple_collection_id": "251090043",
+      "feed": "https://qingyuan.sakura.ne.jp/OPU_podcast/podcast-lang/zh/travel/rss.xml",
+      "pfad": "/v1/show/049c55b9cb00597c5afa882660bfa43ce387bd96.json",
+      "folgen": 1
+    },
+    {
+      "show": "女性健康百科手册",
+      "apple_collection_id": "1589556628",
+      "feed": "http://www.ximalaya.com/album/52525459.xml",
+      "pfad": "/v1/show/c94e75d484df735a48d449d1373c91d4adc538fe.json",
+      "folgen": 1
+    },
+    {
+      "show": "宇哥说财经",
+      "apple_collection_id": "1441871531",
+      "feed": "http://rss.lizhi.fm/rss/137546852.xml",
+      "pfad": "/v1/show/f297a729d62ee4cfec336b65e5c91c1cbc884080.json",
+      "folgen": 1
+    },
+    {
+      "show": "安娜妈咪少儿口才（4岁+）",
+      "apple_collection_id": "1462724410",
+      "feed": "http://www.ximalaya.com/album/215618.xml",
+      "pfad": "/v1/show/377e8a4c6beff8ca42125e4d7455318883d9f093.json",
+      "folgen": 1
+    },
+    {
+      "show": "安娜妈咪频道活动",
+      "apple_collection_id": "1462849638",
+      "feed": "http://www.ximalaya.com/album/257331.xml",
+      "pfad": "/v1/show/711a29edf37860238e841edac4f962ad5dfd347d.json",
+      "folgen": 1
+    },
+    {
+      "show": "小宝财知道",
+      "apple_collection_id": "1223819266",
+      "feed": "http://www.ximalaya.com/album/7040520.xml",
+      "pfad": "/v1/show/94d69b0b5a7039634f9c27c2985e84ef28da48ca.json",
+      "folgen": 1
+    },
+    {
+      "show": "带着耳朵去旅行工作室",
+      "apple_collection_id": "963981184",
+      "feed": "http://rss.lizhi.fm/rss/81558.xml",
+      "pfad": "/v1/show/a9a794d89c0db56762162e337b5786a13a74d1e2.json",
+      "folgen": 1
+    },
+    {
+      "show": "強哥說故事",
+      "apple_collection_id": "1522355139",
+      "feed": "https://feed.firstory.me/rss/user/ckv1axyh01z7m0834wc3gytoz",
+      "pfad": "/v1/show/28aa2ad2163c11cb4b13ab0a9157ec44079fe0f5.json",
+      "folgen": 1
+    },
+    {
+      "show": "心理•育己•育儿",
+      "apple_collection_id": "1171320308",
+      "feed": "http://rss.lizhi.fm/rss/1720084.xml",
+      "pfad": "/v1/show/c707feb5aab731c9a33d56566272e2ff1c75d1ea.json",
+      "folgen": 1
+    },
+    {
+      "show": "我们一起读书1",
+      "apple_collection_id": "1017301339",
+      "feed": "http://www.ximalaya.com/album/2697324.xml",
+      "pfad": "/v1/show/73acacc13cb8e4ee70a361286d4b66eb20078ae7.json",
+      "folgen": 1
+    },
+    {
+      "show": "我的世界:大陆探险/神级模仿系统1/侦探冒险/游戏",
+      "apple_collection_id": "1725922625",
+      "feed": "https://www.ximalaya.com/album/79872771.xml",
+      "pfad": "/v1/show/fc243314bc7969041d811846d43aa2bbbcada9da.json",
+      "folgen": 1
+    },
+    {
+      "show": "探案推理游戏",
+      "apple_collection_id": "1601355799",
+      "feed": "http://www.ximalaya.com/album/55612134.xml",
+      "pfad": "/v1/show/2b010e27e50b464ad2f920e344c1b5b63335f822.json",
+      "folgen": 1
+    },
+    {
+      "show": "文化自信中的传统与当代：坚持文化自信",
+      "apple_collection_id": "1711145628",
+      "feed": "https://www.ximalaya.com/album/78329508.xml",
+      "pfad": "/v1/show/0d11ebbbe593bc0fc6f99de36c5fb58a4f091db5.json",
+      "folgen": 1
+    },
+    {
+      "show": "新型托管机构创业挣钱指南",
+      "apple_collection_id": "1811326250",
+      "feed": "https://www.ximalaya.com/album/92148979.xml",
+      "pfad": "/v1/show/a2b72714c06eaa42581535a80cb5f065d2ffe3a9.json",
+      "folgen": 1
+    },
+    {
+      "show": "新闻肉食者",
+      "apple_collection_id": "910834636",
+      "feed": "http://rss.lizhi.fm/rss/402790.xml",
+      "pfad": "/v1/show/e915db7961a6f30d26baefcf8a48acd789c55471.json",
+      "folgen": 1
+    },
+    {
+      "show": "方汉奇：中国新闻传播史 | AI版",
+      "apple_collection_id": "1768174879",
+      "feed": "https://www.ximalaya.com/album/82578426.xml",
+      "pfad": "/v1/show/f89e6803fa5daba05eb17d96461efc742c4de158.json",
+      "folgen": 1
+    },
+    {
+      "show": "无损音乐",
+      "apple_collection_id": "1875668160",
+      "feed": "https://www.ximalaya.com/album/106614857.xml",
+      "pfad": "/v1/show/99a4d6b64bc255e7e1bfe83ecafb522adf6dc91c.json",
+      "folgen": 1
+    },
+    {
+      "show": "早稲田スポーツ新聞会",
+      "apple_collection_id": "1496893742",
+      "feed": "https://ad.robotstart.jp/api/v1/feeds/34fa0481/get-feeds/podcast",
+      "pfad": "/v1/show/fd078553e779228db05717604c27bbd52cae717b.json",
+      "folgen": 1
+    },
+    {
+      "show": "明大スポーツ新聞部",
+      "apple_collection_id": "1494068599",
+      "feed": "https://ad.robotstart.jp/api/v1/feeds/36400496/get-feeds/podcast",
+      "pfad": "/v1/show/73a466b94be0fd79743519274842d81b0a779743.json",
+      "folgen": 1
+    },
+    {
+      "show": "星华艺音乐电台",
+      "apple_collection_id": "1022690350",
+      "feed": "http://rss.lizhi.fm/rss/921964.xml",
+      "pfad": "/v1/show/7213b44e935889472493ed11a29886d9d094c16d.json",
+      "folgen": 1
+    },
+    {
+      "show": "是时候聊聊生涯了-高中教育",
+      "apple_collection_id": "1684969082",
+      "feed": "https://www.ximalaya.com/album/75742296.xml",
+      "pfad": "/v1/show/418de3972766012b421d939a4c0b73206cd9630d.json",
+      "folgen": 1
+    },
+    {
+      "show": "有料干货（喜米会员专享）",
+      "apple_collection_id": "1606390362",
+      "feed": "http://www.ximalaya.com/album/48434368.xml",
+      "pfad": "/v1/show/dbe228330e2b00adf68a10276bab84ea45a8b4cd.json",
+      "folgen": 1
+    },
+    {
+      "show": "极品僵尸王 | 悬疑搞笑| 风水灵异小说（ 免费）",
+      "apple_collection_id": "1747666724",
+      "feed": "https://www.ximalaya.com/album/46613844.xml",
+      "pfad": "/v1/show/f74b7477ffe482bfd630707b209d8d0a02195f2f.json",
+      "folgen": 1
+    },
+    {
+      "show": "每天学一点新闻小知识",
+      "apple_collection_id": "1818528171",
+      "feed": "https://www.ximalaya.com/album/93565990.xml",
+      "pfad": "/v1/show/daa63800faa2d34f85bfc7ffa751ad18c9c60b15.json",
+      "folgen": 1
+    },
+    {
+      "show": "每晚一个历史故事",
+      "apple_collection_id": "1544727675",
+      "feed": "http://www.ximalaya.com/album/39391561.xml",
+      "pfad": "/v1/show/b7ca1913e74381e6e7769ee35def1dd4d8b5b122.json",
+      "folgen": 1
+    },
+    {
+      "show": "潜规则｜职场年轻人一定要懂",
+      "apple_collection_id": "1642173892",
+      "feed": "https://www.ximalaya.com/album/70407688.xml",
+      "pfad": "/v1/show/ecc7954e08ae88bc134054136f22b7b749fb04d7.json",
+      "folgen": 1
+    },
+    {
+      "show": "献给孩子的英文知识——新闻、科学、经济学和传统故事",
+      "apple_collection_id": "1786853447",
+      "feed": "https://www.ximalaya.com/album/84883116.xml",
+      "pfad": "/v1/show/f9513c6cbcc5e242442ff5bddb784176fb9e0d22.json",
+      "folgen": 1
+    },
+    {
+      "show": "生活中的易经",
+      "apple_collection_id": "1464847084",
+      "feed": "http://www.ximalaya.com/album/22887417.xml",
+      "pfad": "/v1/show/ad2aedd6a39d39be08f41e44279e4dc1af0cc20b.json",
+      "folgen": 1
+    },
+    {
+      "show": "硬核比特--人工智能硬核比特币新闻",
+      "apple_collection_id": "1518399172",
+      "feed": "https://feeds.transistor.fm/onehash",
+      "pfad": "/v1/show/28bfd02f3e348333e4ff4f2502fc17973c40c370.json",
+      "folgen": 1
+    },
+    {
+      "show": "科学育儿｜父母高质量育儿法",
+      "apple_collection_id": "1554650206",
+      "feed": "http://www.ximalaya.com/album/26505641.xml",
+      "pfad": "/v1/show/b42a0d4cd162933716b73f01f8b3e4efa4241508.json",
+      "folgen": 1
+    },
+    {
+      "show": "科技与生活 Tech & Life",
+      "apple_collection_id": "1204682344",
+      "feed": "http://www.ximalaya.com/album/5915629.xml",
+      "pfad": "/v1/show/94c44aea29936f865d749d47cfc73d31d0c82002.json",
+      "folgen": 1
+    },
+    {
+      "show": "科技快闻 - 新热科技资讯",
+      "apple_collection_id": "1687424102",
+      "feed": "https://www.ximalaya.com/album/74959112.xml",
+      "pfad": "/v1/show/77540b312db49d56b6489cb2571c7f82a0262249.json",
+      "folgen": 1
+    },
+    {
+      "show": "秦朔朋友圈",
+      "apple_collection_id": "1764275602",
+      "feed": "https://www.ximalaya.com/album/69077815.xml",
+      "pfad": "/v1/show/497c3cf9b896d5a524941cde0caa63b9af17e3e7.json",
+      "folgen": 1
+    },
+    {
+      "show": "老K脱口秀 | 拯救不开心",
+      "apple_collection_id": "1332600139",
+      "feed": "http://www.ximalaya.com/album/12300981.xml",
+      "pfad": "/v1/show/bd2be034ff4d852465cf9db89b8581c8947d447d.json",
+      "folgen": 1
+    },
+    {
+      "show": "考研词汇脱口秀",
+      "apple_collection_id": "1140393457",
+      "feed": "http://www.ximalaya.com/album/4067457.xml",
+      "pfad": "/v1/show/e73ce9574bec06add8ddff053f84c63374e3a6ac.json",
+      "folgen": 1
+    },
+    {
+      "show": "股票入门300课(基础篇)",
+      "apple_collection_id": "1551077247",
+      "feed": "http://www.ximalaya.com/album/44748537.xml",
+      "pfad": "/v1/show/8cd79d6eb0f0eea15bb60ddf82ea727b65e810a4.json",
+      "folgen": 1
+    },
+    {
+      "show": "育儿怎么办？这里有答案！",
+      "apple_collection_id": "1487002091",
+      "feed": "http://www.ximalaya.com/album/30322190.xml",
+      "pfad": "/v1/show/7ba731e47c06ad8f7b7b4cd0068416a2b13e109c.json",
+      "folgen": 1
+    },
+    {
+      "show": "脱口秀合集【大神精编版】",
+      "apple_collection_id": "1772531732",
+      "feed": "https://www.ximalaya.com/album/12728144.xml",
+      "pfad": "/v1/show/49b6034e96a805ae129db2dd9b2fed7a04c01c7c.json",
+      "folgen": 1
+    },
+    {
+      "show": "蘑菇聊科技",
+      "apple_collection_id": "1304224133",
+      "feed": "http://www.ximalaya.com/album/10438552.xml",
+      "pfad": "/v1/show/567adcd2199a6c435c4f3c42c30eba5d631ff18a.json",
+      "folgen": 1
+    },
+    {
+      "show": "读书笔记分享【一生伏首王阳明】",
+      "apple_collection_id": "1669521550",
+      "feed": "https://www.ximalaya.com/album/74125145.xml",
+      "pfad": "/v1/show/94df36cad84e9165038b8e93799374b742641d5c.json",
+      "folgen": 1
+    },
+    {
+      "show": "财经日历",
+      "apple_collection_id": "1192617607",
+      "feed": "http://www.ximalaya.com/album/4932296.xml",
+      "pfad": "/v1/show/0d1b3802f64a0bb4dc6b85238697477f5cadbd05.json",
+      "folgen": 1
+    },
+    {
+      "show": "迈克快跑/体育热点",
+      "apple_collection_id": "1648128023",
+      "feed": "https://www.ximalaya.com/album/71328387.xml",
+      "pfad": "/v1/show/8868e5371c2a598fc295f4a1c66b0e93ca446212.json",
+      "folgen": 1
+    },
+    {
+      "show": "迷你世界·超时空大陆",
+      "apple_collection_id": "1702107918",
+      "feed": "https://www.ximalaya.com/album/76183124.xml",
+      "pfad": "/v1/show/e001b06f9438685aa7618418d0fd7749155e6a61.json",
+      "folgen": 1
+    },
+    {
+      "show": "造梦还是现实？《三体》科技解密引发热议|科学揭秘",
+      "apple_collection_id": "1746008936",
+      "feed": "https://www.ximalaya.com/album/80377073.xml",
+      "pfad": "/v1/show/187e6042d8643291a861fbc0c8789328cf1dcffb.json",
+      "folgen": 1
+    },
+    {
+      "show": "音乐",
+      "apple_collection_id": "1579476190",
+      "feed": "http://www.ximalaya.com/album/44455355.xml",
+      "pfad": "/v1/show/78d331190d88f7ec02667fdb5794d5aeb90fd63a.json",
       "folgen": 1
     }
   ]

@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "guid": "fb6c4a6562424be8ec43a6461add4e4a",
+  "apple_collection_id": "1614546852",
+  "show": "オタ女",
+  "titel": "あの頃のカナヘイ！メール「問い合わせ中」!? ガラケー平成デコメ風LINEスタンプが懐かしすぎる！",
+  "audio": {
+    "url": "https://api.robotstart.jp/api/for-media/v1/articles/36350491/permanent/raw/podcast/fb6c4a6562424be8ec43a6461add4e4a.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 935497,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:00:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Kanahei推出充满平成怀旧风情的LINE动态贴纸，再现当年的Decomail设计。",
+  "kurzfassung": "知名艺术家Kanahei的小动物与小猫合作，推出了充满平成时代怀旧风情的LINE动态贴纸。这些贴纸重现了当年功能机时代Decomail的独特风格和恶心又可爱的短句。当时年轻女性在日常生活中广泛使用这种色彩鲜明的独特设计。",
+  "stichpunkte": [
+    "人气艺术家Kanahei推出全新LINE动态贴纸",
+    "联动小动物与小猫形象重现平成时代风格",
+    "复刻功能机时代的Decomail质感与凹凸感",
+    "包含个人手绘感画像和略带恶趣味的短句",
+    "再现当年在年轻人中免费发布的流行风潮",
+    "勾起平成时代年轻女性的日常使用回忆"
+  ],
+  "kapitel": [
+    {
+      "titel": "Kanahei平成风LINE贴纸登场",
+      "start": 0.0
+    },
+    {
+      "titel": "功能机时代的Decomail回忆",
+      "start": 15.92
+    }
+  ],
+  "clips": [
+    {
+      "hook": "人气艺术家Kanahei的画作在LINE动态贴纸中登场！",
+      "start": 6.766,
+      "ende": 26.88,
+      "laenge": 20.11,
+      "byte_start": 189440,
+      "byte_ende": 752639,
+      "bytes": 563200,
+      "range_header": "bytes=189440-752639",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 6.844,
+      "anker_sha256": "87f1e522e85e13babe754efa8d0f8de9815977248a92efa99719beb80461d1d2",
+      "einblendung_ms": 60,
+      "text": "人気的艺术家金兵的画画 金兵的小动物和小猫合作 平成的思想 在动作的线线线上登场"
+    },
+    {
+      "hook": "平成时代的独特质感：手绘人物与恶趣味短句。",
+      "start": 15.83,
+      "ende": 33.411,
+      "laenge": 17.58,
+      "byte_start": 443246,
+      "byte_ende": 935496,
+      "bytes": 492251,
+      "range_header": "bytes=443246-935496",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 15.909,
+      "anker_sha256": "c5ed0d7ff676faacc965e1fffc7f919f27685a6ddab701616c615a55992ebbab",
+      "einblendung_ms": 60,
+      "text": "金兵说 在柄型时代 独自的柔软的凹凸味 画个人 或是一句恶心的一句"
+    },
+    {
+      "hook": "街头画像与Decomail的免费发布。",
+      "start": 22.909,
+      "ende": 33.411,
+      "laenge": 10.5,
+      "byte_start": 641463,
+      "byte_ende": 935496,
+      "bytes": 294034,
+      "range_header": "bytes=641463-935496",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 22.988,
+      "anker_sha256": "b23ab91d514af5afdeeb97e064792b7c0201f04024056ca027549cb3357093f5",
+      "einblendung_ms": 60,
+      "text": "街上的画像和米风线线线 个人公开 无料发布"
+    },
+    {
+      "hook": "当年年轻女性日常必备的色彩思想。",
+      "start": 27.35,
+      "ende": 33.411,
+      "laenge": 6.06,
+      "byte_start": 765806,
+      "byte_ende": 935496,
+      "bytes": 169691,
+      "range_header": "bytes=765806-935496",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 27.429,
+      "anker_sha256": "469a3353ba556dc01e7b42ae8e5d62637a0ba7164b412b01e97688e14b1b3833",
+      "einblendung_ms": 60,
+      "text": "当时的女士们 是每个人都日常的 用在年轻时代的 色彩的思想"
+    },
+    {
+      "hook": "怀旧感十足的平成风LINE贴纸太令人忽略了！",
+      "start": 0.0,
+      "ende": 20.01,
+      "laenge": 20.01,
+      "byte_start": 0,
+      "byte_ende": 560273,
+      "bytes": 560274,
+      "range_header": "bytes=0-560273",
+      "vorlauf_s": 0.0,
+      "inhalt_start": 0.0,
+      "anker_sha256": "0d694bf26d0d21408af933de20b62031490be7a701cad0c199c30746ff25ae15",
+      "einblendung_ms": 60,
+      "text": "那时候的金兵 在问问电邮 柄型平成的米风线线太忽略了"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:00:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 33,
+  "veroeffentlicht": "2026-08-21T10:52:22+09:00",
+  "beschreibung": "「あの頃のカナヘイ！メール「問い合わせ中」!? ガラケー平成デコメ風LINEスタンプが懐かしすぎる！」　人気イラストレーター・カナヘイさんの描く「カナヘイの小動物」と「ポインコ」がコラボし、平成を思い出す動くデコスタンプで登場！カナヘイさんと言えば、ガラケー時代に独自のゆるいデフォルメテイストでキャラクターを描いたり、エモい一言を添えた待ち受け画像やデコメイラストを個人で公開、無料配布し、当時の女子たちは誰もが日常的に使用していた青春を彩る思い出の創造主！",
+  "beschreibung_html": "「あの頃のカナヘイ！メール「問い合わせ中」!? ガラケー平成デコメ風LINEスタンプが懐かしすぎる！」　人気イラストレーター・カナヘイさんの描く「カナヘイの小動物」と「ポインコ」がコラボし、平成を思い出す動くデコスタンプで登場！カナヘイさんと言えば、ガラケー時代に独自のゆるいデフォルメテイストでキャラクターを描いたり、エモい一言を添えた待ち受け画像やデコメイラストを個人で公開、無料配布し、当時の女子たちは誰もが日常的に使用していた青春を彩る思い出の創造主！",
+  "kapitel_quelle": "modell"
+}

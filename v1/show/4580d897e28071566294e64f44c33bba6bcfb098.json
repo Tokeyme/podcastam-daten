@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "儿童睡前精选故事",
+  "apple_collection_id": "837350869",
+  "erzeugt_am": "2026-08-24T00:09:52+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/12/15/2912654902006260230_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/12/15/2912654902006260230_hd.mp3",
+      "pfad": "/v1/episode/528b56d468cc09a9cd62821819e0471a4bf1c14c.json",
+      "titel": "咏柳-元宝读诗",
+      "veroeffentlicht": "2021-08-19T22:16:25+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "元宝带你一起朗读经典古诗《咏柳》。"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_570958616",
+  "apple_collection_id": "1709238989",
+  "show": "100位名人故事，和你一起品读",
+  "titel": "人物传记专辑开篇的话",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSIHAE-IACAAAAGkqiRA.mp3.m4a?channel=rss&album_id=71145623&track_id=570958616&uid=9625863&jt=https://aod.cos.tx.xmcdn.com/storages/e328-audiofreehighqps/80/69/GMCoOSIHAE-IACAAAAGkqiRA.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 5055360,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:10:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "跟随心颖一起读名人传记，从成功者的故事中汲取力量与智慧。",
+  "kurzfassung": "本专辑由心颖主持，带听众走近历史长河中各类成功人物的传记故事。节目指出成功者必然经历痛苦与失败，但他们凭借真诚、坦然和坚韧不拔之志传承精神。专辑于每周二和周四更新，首期将推出巴菲特的自传。",
+  "stichpunkte": [
+    "主播心颖推出名人传记专辑，带听众了解名人故事",
+    "成功之人生必然经历众多的痛苦与失败",
+    "成功者以平常心对待命运的坎坷与不公",
+    "名人故事跨越世纪，鼓舞和激励着一代代追随者",
+    "古训指出成功者必有坚韧不拔之志",
+    "阅读传记帮助树立正确人生观并战胜挫折",
+    "节目更新时间为每周二和周四",
+    "专辑第一集将讲述巴菲特的自传"
+  ],
+  "kapitel": [
+    {
+      "titel": "专辑开篇与名人传记的意义",
+      "start": 1.58
+    },
+    {
+      "titel": "成功者的特质与精神传承",
+      "start": 25.24
+    },
+    {
+      "titel": "从历史足迹中汲取人生智慧",
+      "start": 68.58
+    },
+    {
+      "titel": "更新安排与首期内容预告",
+      "start": 104.06
+    }
+  ],
+  "clips": [
+    {
+      "hook": "成功的人生必然经历痛苦与失败",
+      "start": 10.944,
+      "ende": 31.032,
+      "laenge": 20.09,
+      "byte_start": 444352,
+      "byte_ende": 1247871,
+      "bytes": 803520,
+      "range_header": "bytes=444352-1247871",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 11.016,
+      "anker_sha256": "15b0b37921c9f0da883e7dcf0f1c78d439f1ba8f01e689fec28cd11b673320c3",
+      "einblendung_ms": 60,
+      "text": "自古以来 不管是学者还是英雄 亦或是平凡的园丁 乃至普通的民众 他们一旦成功 他们的人生必然会经历 众多的痛苦与失败"
+    },
+    {
+      "hook": "以平常心看待上天给予的一切",
+      "start": 25.152,
+      "ende": 45.24,
+      "laenge": 20.09,
+      "byte_start": 1012672,
+      "byte_ende": 1816191,
+      "bytes": 803520,
+      "range_header": "bytes=1012672-1816191",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 25.224,
+      "anker_sha256": "782fd311adbeefcabe4aa54286ccb2a1166dc3bcc56e5101a14ab138952b8218",
+      "einblendung_ms": 60,
+      "text": "他们的人生信条里 一定会有真诚与坦然 他们每个人 都会以平常心 看待上天给予的一切 不管他们命运 是多么坎坷 生活多么的不公"
+    },
+    {
+      "hook": "他们的故事鼓舞和激励着一代代追随者",
+      "start": 50.136,
+      "ende": 70.224,
+      "laenge": 20.09,
+      "byte_start": 2012032,
+      "byte_ende": 2815551,
+      "bytes": 803520,
+      "range_header": "bytes=2012032-2815551",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 50.208,
+      "anker_sha256": "854ecf5428a1a181c1aa22a1eda60b155851e3cc4ac2d9be4ccd7a81a9ecc121",
+      "einblendung_ms": 60,
+      "text": "他们一路走来 跨越几个世纪 他们的故事 被后人写进书里 他们的故事 鼓舞 激励着一代一代的追随者 他们就这样被我们铭记 精神一代一代的传承"
+    },
+    {
+      "hook": "古之力大势者，必有坚韧不拔之志",
+      "start": 75.768,
+      "ende": 95.88,
+      "laenge": 20.11,
+      "byte_start": 3037312,
+      "byte_ende": 3841791,
+      "bytes": 804480,
+      "range_header": "bytes=3037312-3841791",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 75.84,
+      "anker_sha256": "2a62ce14907fa74fa85e0d1f3a5f6b67c54306fd2cf3bee4738e41d233af544b",
+      "einblendung_ms": 60,
+      "text": "都印证了中国人的一句古训 古之力大势者 不为有超市之才 亦必有坚韧不拔之志 我们读了他们的故事 可以帮助我们树立正确的人生观 可以教会我们如何去战胜挫折与打击"
+    },
+    {
+      "hook": "更新时间与首期节目预告",
+      "start": 104.904,
+      "ende": 125.4,
+      "laenge": 20.5,
+      "byte_start": 4202752,
+      "byte_ende": 5022591,
+      "bytes": 819840,
+      "range_header": "bytes=4202752-5022591",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 104.976,
+      "anker_sha256": "4c703d888fdbbe35e7d912f8c2aeb4dcc0e419d31b65ac9be63f967f051b6273",
+      "einblendung_ms": 60,
+      "text": "今天就和新颖一起走进他们吧 我会在每周二和周四进行更新 如果你喜欢就订阅收藏转发吧 我的每次更新 你都可以第一时间 收到提醒 我们更新的第一集是巴菲特的自传 下次见"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:10:23+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 126,
+  "veroeffentlicht": "2022-09-21T04:01:15+00:00",
+  "beschreibung": "Hi,大家好，欢迎来到喜马拉雅和我一起读名人传记，了解名人故事。自古以来，不管是学者、还是英雄，亦或是平凡的园丁，乃至普通民众，他们一旦成功，他们的人生必然会经历众多的痛苦与失败，他们的人生信条里一定会有真诚与坦然，他们每个人都会以平常心看待上天给予的一切。\n不管他们命运是多么坎坷，生活多么的不公，还是上天赋予他们多少触手可及的财富，父母给予他们多少的支持，亦或天生聪慧过人，他们一路走来，跨越几个世纪，他们的故事被后人写进书里，他们的故事鼓舞激励着一代一代的追随者。\n他们就这样被我们铭记，精神一代一代的传承，让我们踏着他们的足迹了解历史，探索世界，他们的每一个故事，都印证了中国人的一句古训:“古之立大事者,不惟有超世之才,亦必有坚忍不拔之志。”\n我们读了他们的故事，可以帮助我们树立正确的人生观,可以教会我们如何去战胜挫折与打击,如何摆脱生活中的黑暗阴影,可以引导我们为自己创造出灿烂的明天。\n好了，朋友们，今天就和新影一起走进他们吧，我会在每周二和周四进行更新，如果你喜欢就订阅，收藏，转发吧，我的每次更新，你都可以第一时间收到提醒，下次见。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>H</span><span>i</span><span>,</span><span>大家好，欢迎来到喜马拉雅和我一起读名人传记，了解名人故事。自古以来，不管是学者、还是英雄，亦或是平凡的园丁，乃至普通民众，他们一旦成功，他们的人生必然会经历众多的</span><span>痛苦</span><span>与</span><span>失败</span><span>，他们的人生信条里一定会有真诚与坦然，他们每个人都会以平常心看待上天给予的一切。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>不管他们命运是多么坎坷，生活多么的不公，还是上天赋予他们多少触手可及的财富，父母给予他们多少的支持，亦或天生聪慧过人，他们一路走来，跨越几个世纪，他们的故事被后人写进书里，他们的故事鼓舞激励着一代一代的追随者。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>他们就这样被我们铭记，精神一代一代的传承，让我们踏着他们的足迹了解历史，探索世界，他们的每一个故事，都</span><span>印证了中国人的</span><span>一句</span><span>古训:“古之立大事者,不惟有超世之才,亦必有坚忍不拔之志。</span><span>”</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>我们读了他们的故事，可以帮助我们树立</span><span>正确的人生观,</span><span>可以</span><span>教会</span><span>我们</span><span>如何去战胜挫折</span><span>与</span><span>打击,如何摆脱</span><span>生活中的</span><span>黑暗阴影</span><span>,</span><span>可以引导我们为</span><span>自己创造</span><span>出</span><span>灿烂的明天</span><span>。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>好了，朋友们，今天就和新影一起走进他们吧，我会在每周二和周四进行更新，如果你喜欢就订阅，收藏，转发吧，我的每次更新，你都可以第一时间收到提醒，下次见。</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e30d-audiofreehighqps/52/6B/GMCoOSAG_1DOAALwFQGkQ2GS.jpg",
+  "kapitel_quelle": "modell"
+}

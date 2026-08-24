@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/6b5f-audiofreehighqps/BA/B7/CKwRIJEFISXWABAAAADlqcuP.mp3",
+  "apple_collection_id": "1586168577",
+  "show": "亲子教育｜宝妈们必学的28个秘密",
+  "titel": "答疑：区分孩子的问题来源",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIJEFISXWABAAAADlqcuP.mp3.m4a?channel=rss&album_id=46396075&track_id=455901137&uid=10061628&jt=https://aod.cos.tx.xmcdn.com/storages/6b5f-audiofreehighqps/BA/B7/CKwRIJEFISXWABAAAADlqcuP.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 3618960,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:18:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨如何区分孩子自身的问题与家族系统带来的影响。",
+  "kurzfassung": "本期节目探讨了孩子的问题与家族系统之间的复杂关系。不健康的孩子往往反映出不健康的家庭状况，专业心理学家也很难轻易将二者完全区分开。解决这些问题需要家长学习专业的沟通与经营技术。",
+  "stichpunkte": [
+    "孩子出现很多问题可能源于家族系统问题。",
+    "不健康的孩子通常来源于不健康的家庭。",
+    "区分孩子自身问题与家族问题是一项复杂的工作。",
+    "衣服上的墨水比喻说明了根源与现状的区别。",
+    "小问题可以通过父母解决自身问题而自然化解。",
+    "大问题需要更系统、持久的专业心理技术来调整。",
+    "父母需要学习专业技术与孩子进行有效沟通。",
+    "家庭关系和家族系统需要我们去经营和管理。"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨孩子问题的来源",
+      "start": 1.34
+    },
+    {
+      "titel": "如何区分家族与孩子自身问题",
+      "start": 43.76
+    },
+    {
+      "titel": "解决问题的方法与系统学习",
+      "start": 108.54
+    }
+  ],
+  "clips": [
+    {
+      "hook": "孩子的问题来源于家族还是自身？",
+      "start": 3.384,
+      "ende": 23.496,
+      "laenge": 20.11,
+      "byte_start": 88528,
+      "byte_ende": 571215,
+      "bytes": 482688,
+      "range_header": "bytes=88528-571215",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 3.456,
+      "anker_sha256": "0c318ec236b7f0ac970926b313224ed72e82bbead96837a881143f1ed0706ac9",
+      "einblendung_ms": 60,
+      "text": "我想问如果说孩子的很多问题来源于家族系统问题 那么是不是孩子本身就没有问题的呢 如果有问题 我们如何来区分哪些是来源于家族系统的问题 而哪些又是来源于孩子自己本身呢"
+    },
+    {
+      "hook": "专业心理学家也很难区分的问题",
+      "start": 24.072,
+      "ende": 44.16,
+      "laenge": 20.09,
+      "byte_start": 585040,
+      "byte_ende": 1067151,
+      "bytes": 482112,
+      "range_header": "bytes=585040-1067151",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 24.144,
+      "anker_sha256": "0f9fa5e9b716146a32bb7920a8f7dd33527020c0b042f3103f2f646344857a1e",
+      "einblendung_ms": 60,
+      "text": "这个问题就比较复杂了 就是专业的心理学家来做这个区分也不是很容易的 你看第一点 孩子的问题是因为家族家庭出了问题 一个不健康的孩子是来源于不健康的家庭"
+    },
+    {
+      "hook": "衣服沾上墨水的比喻",
+      "start": 60.768,
+      "ende": 80.88,
+      "laenge": 20.11,
+      "byte_start": 1465744,
+      "byte_ende": 1948431,
+      "bytes": 482688,
+      "range_header": "bytes=1465744-1948431",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 60.84,
+      "anker_sha256": "4e38cfd67b10d43754b4dff25f7d818d1e2c10f4992434412abaf21065ae9bb2",
+      "einblendung_ms": 60,
+      "text": "就像我们衣服上 我们不小心沾上了墨水 有个印痕 根子在哪里 是我当初做的"
+    },
+    {
+      "hook": "父母问题解决后孩子自然没事",
+      "start": 100.08,
+      "ende": 120.168,
+      "laenge": 20.09,
+      "byte_start": 2409232,
+      "byte_ende": 2891343,
+      "bytes": 482112,
+      "range_header": "bytes=2409232-2891343",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 100.152,
+      "anker_sha256": "95444e189c24ca702807eca437c0f970bc9992c117cd0768d4948927f029e904",
+      "einblendung_ms": 60,
+      "text": "如果是小的问题 可能 父母问题解决了 他们自然 就很容易就没事了"
+    },
+    {
+      "hook": "养花养鱼需要学，经营家庭却很少学",
+      "start": 125.76,
+      "ende": 145.848,
+      "laenge": 20.09,
+      "byte_start": 3025552,
+      "byte_ende": 3507663,
+      "bytes": 482112,
+      "range_header": "bytes=3025552-3507663",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 125.832,
+      "anker_sha256": "36973e68cab3f174dafa4b24e0bddc5c8ea2ef0b12d1c8f3f9ef754aa03b6f83",
+      "einblendung_ms": 60,
+      "text": "我们买了一盆花回来 还要去找一本如何养花的书 我们每条鱼回来 还要去找养鱼的技术 家庭关系的管理和经营 我们却很少系统去学习"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:18:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 150,
+  "veroeffentlicht": "2021-09-22T17:07:38+00:00",
+  "beschreibung": "答疑：区分孩子的问题来源",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">答疑：区分孩子的问题来源<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c713-audiofreehighqps/96/E4/CKwRIMAFGSdGAAFuUwDjxkm8.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

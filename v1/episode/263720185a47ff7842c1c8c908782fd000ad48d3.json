@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_687773055",
+  "apple_collection_id": "1702107918",
+  "show": "迷你世界·超时空大陆",
+  "titel": "番外篇",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEJNxHEAAgucQKCPnLv.m4a?channel=rss&album_id=76183124&track_id=687773055&uid=225097186&jt=https://aod.cos.tx.xmcdn.com/storages/c776-audiofreehighqps/57/02/GKwRIUEJNxHEAAgucQKCPnLv.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 536177,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:51:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "番外篇中主世界回归与神秘纸条的出现。",
+  "kurzfassung": "在返回主世界的过程中，突然掉落了一张神秘纸条。纸条上警告他们准备迎接第二个挑战。班拉将纸条的内容告知了大家。",
+  "stichpunkte": [
+    "班拉向众人道别",
+    "传送回主世界的缺口中",
+    "突然掉落一张神秘纸条",
+    "纸条内容提及逃出了第一个",
+    "纸条警告准备迎接第二个",
+    "班拉向大家告知纸条内容",
+    "一行人已经成功回到主世界"
+  ],
+  "kapitel": [
+    {
+      "titel": "返回主世界与神秘纸条",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:51:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 33,
+  "veroeffentlicht": "2023-11-25T01:32:52+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ef2a-audiofreehighqps/72/F8/GMCoOSUIlX4YAAE4eAI93w_R.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

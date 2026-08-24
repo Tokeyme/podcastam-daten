@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_564826373",
+  "apple_collection_id": "1642173892",
+  "show": "潜规则｜职场年轻人一定要懂",
+  "titel": "15.汇报工作时尽量不要使用“可能、也许、大概”",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSIG4SKKAB2w-QGY59vP.mp3.m4a?channel=rss&album_id=70407688&track_id=564826373&uid=412859256&jt=https://aod.cos.tx.xmcdn.com/storages/9b25-audiofreehighqps/22/B6/GMCoOSIG4SKKAB2w-QGY59vP.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1945849,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:03:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "汇报工作时应避免使用可能、也许、大概等不确定词汇。",
+  "kurzfassung": "张三在向管理层汇报时因多次使用可能和也许等词汇引发经理强烈不满。领导认为这种不确定结果无法向上汇报，并因此对张三产生信任危机。职场汇报需要详细数据支撑，使用模糊词汇会被误认为在玩文字游戏。",
+  "stichpunkte": [
+    "张三因准备不充分在向管理层汇报时使用不确定数据",
+    "张三使用可能是和也许是回答经理的追问",
+    "经理因无法接受不确定结果而对张三非常生气",
+    "经理质问张三是否在忙其他事情并认为其态度敷衍",
+    "事后经理经常监督张三的工作并刻意挑刺",
+    "张三感到委屈认为自己是如实说明且需要更多准备时间",
+    "职场汇报缺乏详细数据支撑只用可能或也许无法满足领导需求",
+    "使用模糊词汇汇报容易被领导认为是耍心眼或玩文字游戏",
+    "面对不了解的情况应当直接承认而不要传递错误信息"
+  ],
+  "kapitel": [
+    {
+      "titel": "汇报使用不确定词汇引发冲突",
+      "start": 2.16
+    },
+    {
+      "titel": "经理的反应与张三的委屈",
+      "start": 34.64
+    },
+    {
+      "titel": "职场汇报的正确态度与反思",
+      "start": 55.12
+    }
+  ],
+  "clips": [
+    {
+      "hook": "汇报工作准备不充分",
+      "start": 2.064,
+      "ende": 22.176,
+      "laenge": 20.11,
+      "byte_start": 58169,
+      "byte_ende": 540856,
+      "bytes": 482688,
+      "range_header": "bytes=58169-540856",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 2.136,
+      "anker_sha256": "0317b31f9c7d9224928bd4adee75cef629ec15fce0ae8f4f005c456359b35af3",
+      "einblendung_ms": 60,
+      "text": "张三在有一次给经理层的汇报 在汇报的过程中 由于张三准备不充分 当经理层问到某一个数据的时候"
+    },
+    {
+      "hook": "领导为什么会发火？",
+      "start": 20.448,
+      "ende": 40.536,
+      "laenge": 20.09,
+      "byte_start": 499385,
+      "byte_ende": 981496,
+      "bytes": 482112,
+      "range_header": "bytes=499385-981496",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 20.52,
+      "anker_sha256": "69fe7d3981213659c137160660aeb0cc9ab535e73972d15d7fdc911634dd5f30",
+      "einblendung_ms": 60,
+      "text": "他的经理就非常生气 为什么问你这些数据 你都说不知道 你都在忙什么"
+    },
+    {
+      "hook": "不确定的结果无法向上汇报",
+      "start": 29.016,
+      "ende": 49.104,
+      "laenge": 20.09,
+      "byte_start": 705017,
+      "byte_ende": 1187128,
+      "bytes": 482112,
+      "range_header": "bytes=705017-1187128",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 29.088,
+      "anker_sha256": "b343db812ab27259b4a4467dcf816602c1dc6b448b3437e97c6cc8afb0604707",
+      "einblendung_ms": 60,
+      "text": "大概是那样 这种不确定的结果 我能直接汇报给经理层吗"
+    },
+    {
+      "hook": "张三的委屈与不解",
+      "start": 42.648,
+      "ende": 62.76,
+      "laenge": 20.11,
+      "byte_start": 1032185,
+      "byte_ende": 1514872,
+      "bytes": 482688,
+      "range_header": "bytes=1032185-1514872",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 42.72,
+      "anker_sha256": "c7dc83405f0c8f5b855e13fac291539a08cea16b2d05e1b5264e3ab82909788f",
+      "einblendung_ms": 60,
+      "text": "张三感到特别的委屈 我的确是如实说了这些情况 我也不知道准确的情况 你为什么要对我生气呢 多给我的时间准备不就好了吗"
+    },
+    {
+      "hook": "领导最反感文字游戏",
+      "start": 65.256,
+      "ende": 80.712,
+      "laenge": 15.46,
+      "byte_start": 1574777,
+      "byte_ende": 1945720,
+      "bytes": 370944,
+      "range_header": "bytes=1574777-1945720",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 65.328,
+      "anker_sha256": "f5ac80916f03e34dcd5a59aa05054c878180cb4cf71f92735623229aa9577b5a",
+      "einblendung_ms": 60,
+      "text": "这种报告不是领导想要看到的 会被领导认为是耍心眼 用文字游戏 不知道就是不知道 如实去说"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:03:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 80,
+  "veroeffentlicht": "2022-08-28T12:29:00+00:00",
+  "beschreibung": "汇报工作时尽量不要使用“可能、也许、大概”",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">汇报工作时尽量不要使用“可能、也许、大概”<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e036-audiofreehighqps/2F/94/GMCoOSQG1e8HAANh-QGUpoWe.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

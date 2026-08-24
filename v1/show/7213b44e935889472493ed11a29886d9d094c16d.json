@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "星华艺音乐电台",
+  "apple_collection_id": "1022690350",
+  "erzeugt_am": "2026-08-24T00:09:52+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/10/11/3104013465471200262_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/10/11/3104013465471200262_hd.mp3",
+      "pfad": "/v1/episode/66df0fb949f6722b2d2b0ef5bab67119cd5af7e6.json",
+      "titel": "Animal song",
+      "veroeffentlicht": "2024-10-11T19:49:04+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "关于动物奔跑与山顶之行的简短观察。"
+    }
+  ]
+}

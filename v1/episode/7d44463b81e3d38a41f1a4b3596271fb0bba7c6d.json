@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group53/M08/5F/80/wKgLfFv_nWOSoRSZAB0n8ybYtB8249.mp3",
+  "apple_collection_id": "1223819266",
+  "show": "小宝财知道",
+  "titel": "181130-【人物传奇】中国最火辣的女人",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgLfFv_nWOSoRSZAB0n8ybYtB8249.mp3.m4a?channel=rss&album_id=7040520&track_id=140678049&uid=75596040&jt=https://aod.cos.tx.xmcdn.com/group53/M08/5F/80/wKgLfFv_nWOSoRSZAB0n8ybYtB8249.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1910771,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:42:26+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探秘老干妈传奇：从路边小摊到风靡全球的辣椒酱帝国",
+  "kurzfassung": "本期节目讲述了陈华碧创立老干妈辣椒酱的传奇经历。节目探讨了老干妈拒绝上市的原因及其独特的现销商业模式。此外，还提及了企业创始人和其家人的财富榜排名情况。",
+  "stichpunkte": [
+    "陈华碧在市场和学生的要求下于1996年创办了老干妈加工厂",
+    "瓶身上的照片使其成为最具辨识度的人之一，产品火遍全球",
+    "老干妈一直排斥上市，主要原因在于公司拥有充裕的现金流",
+    "2014年销售收入接近40亿元，利润达到9亿元",
+    "2016年产值达到45亿元，采取不欠账不失账的现销模式",
+    "公司应收和应付账款周转期均为零天",
+    "零账款模式赢得了上游供应商信赖，稳定了供货渠道和产品质量",
+    "创始人在2015和2016年登上胡润百富榜，随后由儿子上榜"
+  ],
+  "kapitel": [
+    {
+      "titel": "老干妈的创立与崛起",
+      "start": 0.0
+    },
+    {
+      "titel": "拒绝上市与充裕的现金流",
+      "start": 125.08
+    },
+    {
+      "titel": "独特的现销模式与供应链优势",
+      "start": 163.16
+    },
+    {
+      "titel": "财富榜上的家族成员",
+      "start": 203.72
+    }
+  ],
+  "clips": [
+    {
+      "hook": "穷学生请干妈办厂",
+      "start": 89.892,
+      "ende": 110.016,
+      "laenge": 20.12,
+      "byte_start": 719603,
+      "byte_ende": 880594,
+      "bytes": 160992,
+      "range_header": "bytes=719603-880594",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 89.964,
+      "anker_sha256": "9e182fd90d6fc352ae78bf399d53b2e98d42620a04edbaab2ce0c0f9379ab47c",
+      "einblendung_ms": 60,
+      "text": "陈华碧半卖半送但很快便送不起了 因为来买辣酱的人实在太多了 再后来请她办厂的人越来越多 就连工商局都找上门 那些穷学生也找到干妈让她办厂 让更多人吃上好辣酱"
+    },
+    {
+      "hook": "为什么老干妈不上市？",
+      "start": 133.74,
+      "ende": 153.864,
+      "laenge": 20.12,
+      "byte_start": 1070387,
+      "byte_ende": 1231378,
+      "bytes": 160992,
+      "range_header": "bytes=1070387-1231378",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 133.812,
+      "anker_sha256": "cb1534c500ae8d85250123749bc840b5a971297e44a6f48e99a1ea544828bc6b",
+      "einblendung_ms": 60,
+      "text": "不同于中国其他企业热衷于上市 老干妈一直非常排斥上市 其中缘由在于老干妈拥有充裕的现金流"
+    },
+    {
+      "hook": "每天卖出200万瓶辣椒酱",
+      "start": 149.904,
+      "ende": 170.028,
+      "laenge": 20.12,
+      "byte_start": 1199699,
+      "byte_ende": 1360690,
+      "bytes": 160992,
+      "range_header": "bytes=1199699-1360690",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 149.976,
+      "anker_sha256": "bb76083b90e3e432532d3ca1691c1d3cc4b90423af2a057db9d5a4de3e3a4a52",
+      "einblendung_ms": 60,
+      "text": "报告指出公司每天卖出200万瓶辣椒酱 2014年销售收入接近40亿元 实现利润9亿元"
+    },
+    {
+      "hook": "应收应付账款周转期为零天",
+      "start": 163.08,
+      "ende": 183.168,
+      "laenge": 20.09,
+      "byte_start": 1305107,
+      "byte_ende": 1465810,
+      "bytes": 160704,
+      "range_header": "bytes=1305107-1465810",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 163.152,
+      "anker_sha256": "4d42e97e018fd6b32774f66fe2f874c932aa2cd77e820af8d2ce47f6f4f280c5",
+      "einblendung_ms": 60,
+      "text": "老干妈采取不欠账不失账的现销模式 一方面公司应收账款周转期为零天 公司现金流充裕 另一方面应付账款周转期亦为零天"
+    },
+    {
+      "hook": "登上胡润百富榜",
+      "start": 203.616,
+      "ende": 223.74,
+      "laenge": 20.12,
+      "byte_start": 1629395,
+      "byte_ende": 1790386,
+      "bytes": 160992,
+      "range_header": "bytes=1629395-1790386",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 203.688,
+      "anker_sha256": "6d066754a207463977ae0c2ceb208e0b04de2b7ea1a046433fbc21aac97919b0",
+      "einblendung_ms": 60,
+      "text": "2015年和2016年 桃花碧分别以70亿元和75亿元财富 排在胡润的公司中 百富榜的487位和473位"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:42:26+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 238,
+  "veroeffentlicht": "2018-11-30T08:18:00+00:00",
+  "beschreibung": "不融资不上市，老干妈拒绝资本游戏。\n辣酱界女王为何如此火爆？\n请听本期主播为您讲解《【人物传奇】中国最火辣的女人》",
+  "beschreibung_html": "<p style=\"line-height:30px;hyphens:auto;color:#333333;text-align:justify;font-size:16px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;\" data-flag=\"normal\">不融资不上市，老干妈拒绝资本游戏。<br />辣酱界女王为何如此火爆？<br />请听本期主播为您讲解《【人物传奇】中国最火辣的女人》</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group44/M07/1A/F0/wKgKkVsXlKHj9EYaAADnQdtdhBU833.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

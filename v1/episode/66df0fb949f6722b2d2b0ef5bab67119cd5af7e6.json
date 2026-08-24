@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2024/10/11/3104013465471200262_hd.mp3",
+  "apple_collection_id": "1022690350",
+  "show": "星华艺音乐电台",
+  "titel": "Animal song",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2024/10/11/3104013465471200262_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 686247,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:00:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "关于动物奔跑与山顶之行的简短观察。",
+  "kurzfassung": "本期节目简要记录了对动物在山顶奔跑场景的观察。内容直观呈现了动物上山下山的动态过程。整体氛围简洁而写意。",
+  "stichpunkte": [
+    "观察动物奔跑的场景",
+    "记录山顶往返的动态过程"
+  ],
+  "kapitel": [
+    {
+      "titel": "动物奔跑的场景观察",
+      "start": 1.7
+    }
+  ],
+  "clips": [
+    {
+      "hook": "动物奔跑",
+      "start": 29.91,
+      "ende": 39.602,
+      "laenge": 9.69,
+      "byte_start": 531184,
+      "byte_ende": 686246,
+      "bytes": 155063,
+      "range_header": "bytes=531184-686246",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 29.989,
+      "anker_sha256": "69f5f62607fc03a1ca99ef0ec5df3101c3ef6a96f0f09e0983333223ce5b72fb",
+      "einblendung_ms": 60,
+      "text": "I watch them run to the top of the hill and then run down again"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:00:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 39,
+  "veroeffentlicht": "2024-10-11T19:49:04+08:00",
+  "beschreibung": "三年级英语Unit3:Animal song",
+  "beschreibung_html": "<p>三年级英语Unit3:Animal <u>song</u></p><br><br>",
+  "untertitel": "Animal song",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2024/10/11/3104013465470939655_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

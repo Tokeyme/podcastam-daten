@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/5890-audiofreehighqps/03/AA/CKwRIJIE6XSVABAAAADWNFY4.mp3",
+  "apple_collection_id": "1544727675",
+  "show": "每晚一个历史故事",
+  "titel": "第二百零三夜 绿林赤眉起义",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIJIE6XSVABAAAADWNFY4.mp3.m4a?channel=rss&album_id=39391561&track_id=442564803&uid=96090623&jt=https://aod.cos.tx.xmcdn.com/storages/5890-audiofreehighqps/03/AA/CKwRIJIE6XSVABAAAADWNFY4.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 2277245,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:02:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨西汉末年王莽篡权时爆发的绿林赤眉起义历史。",
+  "kurzfassung": "本期节目简要介绍了西汉末年绿林赤眉起义的历史背景与发展过程。绿林军在击败王莽军队后壮大，随后因疫病分兵转移。节目最后对听众长期以来的支持表示感谢并结束。",
+  "stichpunkte": [
+    "绿林赤眉起义发生于西汉末年王莽篡权时期",
+    "起义军后来与刘衍、刘秀及齐义军会合",
+    "绿林赤眉起义成为光武中心的重要源头",
+    "帝皇二年兴莽荆州牧发兵二万人进攻绿林军",
+    "绿林军成功击败莽军，部众迅速增至数万人",
+    "次年绿林山一带暴发疫病，齐义军分兵转移",
+    "王长承担率领一路西入南郡，被称为夏江兵",
+    "王匡、王凤、马武率领另一路北上南扬，称新士兵"
+  ],
+  "kapitel": [
+    {
+      "titel": "绿林赤眉起义背景",
+      "start": 0.0
+    },
+    {
+      "titel": "战事发展与分兵转移",
+      "start": 16.38
+    }
+  ],
+  "clips": [
+    {
+      "hook": "绿林赤眉起义的背景",
+      "start": 4.493,
+      "ende": 24.581,
+      "laenge": 20.09,
+      "byte_start": 147130,
+      "byte_ende": 793215,
+      "bytes": 646086,
+      "range_header": "bytes=147130-793215",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 4.571,
+      "anker_sha256": "610ee3cae422d9b5cb00d05727432bef859c58d9e80d72fd2a25724f58b9b14c",
+      "einblendung_ms": 60,
+      "text": "绿林赤眉起义 绿林赤眉起义是西汉末年王莽篡权时发生的农民起义"
+    },
+    {
+      "hook": "光武中心的源头",
+      "start": 14.08,
+      "ende": 34.168,
+      "laenge": 20.09,
+      "byte_start": 455038,
+      "byte_ende": 1102795,
+      "bytes": 647758,
+      "range_header": "bytes=455038-1102795",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 14.158,
+      "anker_sha256": "bcaff0d08aeb0882910b718e61f4fb27b0c286d3f7df0b4aa38058c91d1b6b9d",
+      "einblendung_ms": 60,
+      "text": "成为光武中心的源头 帝皇二年"
+    },
+    {
+      "hook": "绿林军击败莽军",
+      "start": 23.458,
+      "ende": 43.546,
+      "laenge": 20.09,
+      "byte_start": 757102,
+      "byte_ende": 1406740,
+      "bytes": 649639,
+      "range_header": "bytes=757102-1406740",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 23.536,
+      "anker_sha256": "849a5a6ff48e26826881d457733da4fcabd770ab6a6ea79249d87439caadd5fa",
+      "einblendung_ms": 60,
+      "text": "绿林军击败莽军 部众增至数万人"
+    },
+    {
+      "hook": "夏江兵的西入南郡",
+      "start": 33.019,
+      "ende": 53.107,
+      "laenge": 20.09,
+      "byte_start": 1065847,
+      "byte_ende": 1715694,
+      "bytes": 649848,
+      "range_header": "bytes=1065847-1715694",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 33.097,
+      "anker_sha256": "d7f9639dce135e2fa4566b7a935b2e63f0ac7a0f66bbefb9a3254dc920bab023",
+      "einblendung_ms": 60,
+      "text": "一路由王长承担率领 西入南郡 称夏江兵"
+    },
+    {
+      "hook": "简短内容的节目尾声",
+      "start": 47.073,
+      "ende": 67.161,
+      "laenge": 20.09,
+      "byte_start": 1520302,
+      "byte_ende": 2173493,
+      "bytes": 653192,
+      "range_header": "bytes=1520302-2173493",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 47.151,
+      "anker_sha256": "7775c5e1e8b3bcebe3233242f1ce7e3a4b2c193e47d91b34033a73d7ed78bc3c",
+      "einblendung_ms": 60,
+      "text": "今天内容非常的短 感谢大家长期以来的收听支持 我们下期再见"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:02:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 70,
+  "veroeffentlicht": "2021-08-11T11:16:39+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/acc3-audiofreehighqps/6D/37/CMCoOSIDi6qzAAGnqABobyv1.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

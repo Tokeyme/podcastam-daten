@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "b6dbd547-6569-4336-b9e0-2c70629146a3",
+  "apple_collection_id": "1518399172",
+  "show": "硬核比特--人工智能硬核比特币新闻",
+  "titel": "【08月21日比特币快讯】Dalio加持 BTC创2023最佳周表现",
+  "audio": {
+    "url": "https://media.transistor.fm/a787b85e/9776c600.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1022581,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:04:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "比特币创2023最佳周表现，机构与传奇投资者看好。",
+  "kurzfassung": "比特币价格近期持续飙升，创下自2023年以来的最佳周表现。传奇投资者Ray Dalio推荐将比特币作为对冲债务危机的工具。市场情绪明显转向乐观，但也有观点认为宏观经济不确定性将使价格保持在当前水平。",
+  "stichpunkte": [
+    "比特币价格近期持续上涨并飙升",
+    "聪明资金被认为正在支持比特币的反弹",
+    "Ray Dalio推荐比特币和黄金作为对冲工具",
+    "比特币创下自2023年以来最好的周表现",
+    "做空比特币的投资者正遭受重大损失",
+    "市场情绪明显转向乐观并重新评估立场",
+    "Gracie Chen预测年底价格不会大幅偏离当前区间",
+    "比特币和黄金双双接近100日高点反映避险需求"
+  ],
+  "kapitel": [
+    {
+      "titel": "市场反弹与机构支持",
+      "start": 7.02
+    },
+    {
+      "titel": "宏观经济展望与分歧",
+      "start": 54.64
+    }
+  ],
+  "clips": [
+    {
+      "hook": "比特币价格持续上涨",
+      "start": 6.922,
+      "ende": 27.037,
+      "laenge": 20.11,
+      "byte_start": 83426,
+      "byte_ende": 324797,
+      "bytes": 241372,
+      "range_header": "bytes=83426-324797",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 7.001,
+      "anker_sha256": "1085a3650eb3a6e94645e910307dca5e1da0a0c3bcd4c817c0a1aff321cb3414",
+      "einblendung_ms": 60,
+      "text": "大家好,欢迎收听本周的加密货币市场分析 最近比特币价格持续上涨 Pentair Capital的投资组合经理表示 看到比特币近期的价格飙升"
+    },
+    {
+      "hook": "Ray Dalio加入看涨阵营",
+      "start": 17.319,
+      "ende": 37.434,
+      "laenge": 20.11,
+      "byte_start": 208187,
+      "byte_ende": 449558,
+      "bytes": 241372,
+      "range_header": "bytes=208187-449558",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 17.398,
+      "anker_sha256": "06780a60f1f00d97879388cd8f6fe6e5113a726ad3a2a39ad17b87ba5dc09aee",
+      "einblendung_ms": 60,
+      "text": "很难不保持乐观态度 他们认为聪明资金正在支持比特币的反弹 有趣的是,传奇投资者Ray Dalio也加入了看涨阵营 他推荐比特币和黄金作为对冲即将到来的债务危机的工具"
+    },
+    {
+      "hook": "创下自2023年以来最好的周表现",
+      "start": 31.269,
+      "ende": 51.383,
+      "laenge": 20.11,
+      "byte_start": 375580,
+      "byte_ende": 616950,
+      "bytes": 241371,
+      "range_header": "bytes=375580-616950",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 31.347,
+      "anker_sha256": "a17f7e1f9b69ce6b343b22af4e5dc106a27a8eb5d69952caa5e0961ff59d76ca",
+      "einblendung_ms": 60,
+      "text": "Dalio认为比特币在政府印钞的环境下会有良好表现 这为比特币的长期前景增添了更多机构支持 数据显示,比特币确实有强劲表现 创下自2023年以来最好的周表现"
+    },
+    {
+      "hook": "做空投资者遭受重大损失",
+      "start": 43.912,
+      "ende": 64.0,
+      "laenge": 20.09,
+      "byte_start": 527299,
+      "byte_ende": 768356,
+      "bytes": 241058,
+      "range_header": "bytes=527299-768356",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 43.99,
+      "anker_sha256": "aadb3e8a4d1ca099a410e5e4138de347c23ec53a407cf9dbeb422099ebf17522",
+      "einblendung_ms": 60,
+      "text": "那些做空比特币的投资者正在遭受重大损失 这种市场动态表明 许多投资者正在重新评估对比特币的立场 市场情绪明显转向乐观"
+    },
+    {
+      "hook": "宏观经济不确定性与价格预测",
+      "start": 54.544,
+      "ende": 74.658,
+      "laenge": 20.11,
+      "byte_start": 654881,
+      "byte_ende": 896252,
+      "bytes": 241372,
+      "range_header": "bytes=654881-896252",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 54.622,
+      "anker_sha256": "0e2b9d947787ec0edbadfacafec2fab687ad966c907615f40ac9ccefed66ff23",
+      "einblendung_ms": 60,
+      "text": "不过,市场观点并不完全一样 比特币的CEO Gracie Chen预测 宏观经济的不确定性可能使比特币保持在当前水平附近 年底时价格不会大幅偏离当前区间"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-22T23:04:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 85,
+  "veroeffentlicht": "2026-08-22T07:06:03+08:00",
+  "beschreibung": "比特币市场迎来强劲上涨，Pantera Capital看好\"聪明资金\"推动的反弹，传奇投资者Ray Dalio也加入看涨阵营，推荐比特币作为对冲债务危机的工具。数据显示比特币创下2023年最佳周表现，空头遭受重创，市场情绪明显转向乐观。尽管BitgetCEO预测比特币可能维持当前水平，但比特币与黄金同步接近100日高点，表明投资者正积极配置避险资产。机构支持与市场乐观情绪交织，比特币未来走势引人关注。想获取节目更新、补充资料和实时比特币观察，欢迎关注我的 X 账号：@nonhelix。\n欢迎也来美股播客文稿站看看：www.wallstreetbrew.com，有更多节目文字稿与美股相关内容。",
+  "beschreibung_html": "比特币市场迎来强劲上涨，Pantera Capital看好\"聪明资金\"推动的反弹，传奇投资者Ray Dalio也加入看涨阵营，推荐比特币作为对冲债务危机的工具。数据显示比特币创下2023年最佳周表现，空头遭受重创，市场情绪明显转向乐观。尽管BitgetCEO预测比特币可能维持当前水平，但比特币与黄金同步接近100日高点，表明投资者正积极配置避险资产。机构支持与市场乐观情绪交织，比特币未来走势引人关注。<p>想获取节目更新、补充资料和实时比特币观察，欢迎关注我的 X 账号：@nonhelix。</p><p>欢迎也来美股播客文稿站看看：www.wallstreetbrew.com，有更多节目文字稿与美股相关内容。</p>",
+  "schlagworte": [
+    "bitcoin",
+    "cryptocurrency",
+    "finance",
+    "news",
+    "比特币",
+    "加密货币",
+    "金融",
+    "新闻"
+  ],
+  "kapitel_quelle": "modell"
+}

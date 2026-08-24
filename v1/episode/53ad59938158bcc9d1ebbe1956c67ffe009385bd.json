@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_980963402",
+  "apple_collection_id": "1606390362",
+  "show": "有料干货（喜米会员专享）",
+  "titel": "AI大佬们的微表情",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoN9dGhAAcDTQSijuS_.m4a?channel=rss&album_id=48434368&track_id=980963402&uid=136913995&jt=https://aod.cos.tx.xmcdn.com/storages/90f5-audiofreehighqps/CB/CD/GKwRIDoN9dGhAAcDTQSijuS_.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 459597,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T22:08:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨AI大佬们的微表情及其背后的含义。",
+  "kurzfassung": "本期节目简要探讨了人工智能领域重要人物的微表情。内容聚焦于这些微小面部动作所透露出的信号。节目最后简短收尾并告一段落。",
+  "stichpunkte": [
+    "节目聚焦于AI大佬们的微表情",
+    "分析面部细微动作背后的含义",
+    "内容简短直接进入主题",
+    "探讨科技领袖的非语言信号",
+    "节目最后简短收尾"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI大佬们的微表情探讨",
+      "start": 24.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T22:08:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 56,
+  "veroeffentlicht": "2026-06-03T11:23:04+00:00",
+  "beschreibung": "【这是大佬们吃的国宴菜单】董事长们，某音搜用户“倾曹而出”，获取更多干货（绝不附带任何条件）。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/e104-audiofreehighqps/A9/86/GKwRIaIN9dFSAALasQSijsEU.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/e104-audiofreehighqps/A9/86/GKwRIaIN9dFSAALasQSijsEU.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/e104-audiofreehighqps/A9/86/GKwRIaIN9dFSAALasQSijsEU.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"1216.1016949152543\" data-preview=\"http://imagev2.xmcdn.com/storages/e104-audiofreehighqps/A9/86/GKwRIaIN9dFSAALasQSijsEU.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"227.00564971751413\"><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>【这是大佬们吃的国宴菜单】</b>董事长们，某音搜用户“倾曹而出”，获取更多干货（绝不附带任何条件）。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0a42-audiofreehighqps/44/E8/GKwRIaIJ1ru3AA5kTwK8tKun.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}
