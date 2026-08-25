@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19678554",
+  "apple_collection_id": "1275975580",
+  "show": "大话说电影 Movies N Chats",
+  "titel": "八仙！瞒天过海指桑骂槐！All Wishes Come True!",
+  "audio": {
+    "url": "https://www.buzzsprout.com/122075/episodes/19678554-all-wishes-come-true.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 27027598,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T23:59:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "国产动画《八仙》虽跳出孙悟空舒适区，但剧情与角色塑造令人失望。",
+  "kurzfassung": "主播包子单口解析国产动画电影《八仙》在澳洲上映的观影感受。影片虽然选择了跳出传统西游和封神题材的八仙IP，且视觉与技术成熟，但故事与传统传说脱节。片中强行融入杨戬和孙悟空等角色，且除主角外其余仙人塑造单薄，整体表现令人遗憾。",
+  "stichpunkte": [
+    "《八仙》作为暑期档黑马在国内票房表现强劲，并在澳洲紧急排片上映。",
+    "影片在视觉技术和选择非主流神话IP方面值得肯定，超越了孙悟空和哪吒的传统三件套。",
+    "片中故事与传统八仙传说关联较弱，主要讲述吕洞宾和钟离泉等角色在蓬莱岛的故事。",
+    "影片中途出现杨戬和孙悟空等角色，反映出创作团队对自身故事缺乏自信。",
+    "除部分主角外，其余六仙形象扁平且缺乏背景交代，沦为视觉符号。",
+    "编剧在世界观设定和人物心理转变上不够严谨，逻辑缺乏足够铺垫。",
+    "盲目模仿《哪吒》的成功配方导致后续作品难以达到预期效果。",
+    "尽管有诸多遗憾，但该片为未来开发济公、钟馗等二线神话IP开了一个好头。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与《八仙》澳洲上映情况",
+      "start": 0.96
+    },
+    {
+      "titel": "影片国内票房与视觉技术的肯定",
+      "start": 157.0
+    },
+    {
+      "titel": "选择八仙IP的意义与遗憾",
+      "start": 472.1
+    },
+    {
+      "titel": "世界观设定与角色塑造的硬伤",
+      "start": 1149.04
+    },
+    {
+      "titel": "对《哪吒》成功模式的盲目模仿",
+      "start": 1743.42
+    },
+    {
+      "titel": "总结与未来国产动画的展望",
+      "start": 2115.22
+    }
+  ],
+  "clips": [
+    {
+      "hook": "在国内的票房达到了15亿元的成绩",
+      "start": 352.183,
+      "ende": 372.297,
+      "laenge": 20.11,
+      "byte_start": 4301566,
+      "byte_ende": 4542937,
+      "bytes": 241372,
+      "range_header": "bytes=4301566-4542937",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 352.261,
+      "anker_sha256": "fc26504832cb4cd62e02a616f508415cb056ee13b01925cec8c1df1063d5c17f",
+      "einblendung_ms": 60,
+      "text": "在8月13号前后 就已经在国内的票房达到了15亿元的成绩 这个片子在国内呢 比这个蜘蛛侠第四 其实表现还要好 这个应该是让人觉得非常欣慰的"
+    },
+    {
+      "hook": "八仙今天来看的话应该不算是一个特别主流的这个神仙作品",
+      "start": 513.855,
+      "ende": 538.593,
+      "laenge": 24.74,
+      "byte_start": 6241628,
+      "byte_ende": 6538483,
+      "bytes": 296856,
+      "range_header": "bytes=6241628-6538483",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 513.933,
+      "anker_sha256": "325b2126fecccb3f0cad7d4eac923d901d62e3761ec47f4c387e1c514d701791",
+      "einblendung_ms": 60,
+      "text": "就是每个电影都不敢走出这个舒适区去 所以这八仙呢就是其实是一个比较另类的一个选择 八仙今天来看的话应该不算是一个特别主流的这个神仙作品 但是在我小的时候 八仙其实是一个非常流行的这么一个中国国产神话的 一个IP"
+    },
+    {
+      "hook": "发现这个片子里的坏人是杨戬，那我就觉得比较失望",
+      "start": 900.65,
+      "ende": 920.764,
+      "laenge": 20.11,
+      "byte_start": 10883170,
+      "byte_ende": 11124540,
+      "bytes": 241371,
+      "range_header": "bytes=10883170-11124540",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 900.728,
+      "anker_sha256": "6c7f55b773b6620605e71198d28df843633ea1c4a940705b1517bff5b9e398e2",
+      "einblendung_ms": 60,
+      "text": "然后看着看着看到后来的时候 发现这个片子里的坏人是杨戬 那我就觉得比较失望 因为本来以为终于可以看到一个 跟什么三件套不一样的 不同的神话故事的体系 结果杨戬出来了"
+    },
+    {
+      "hook": "在一个到处都可以许愿的蓬莱岛上，你想要的东西居然是钱",
+      "start": 1285.198,
+      "ende": 1305.286,
+      "laenge": 20.09,
+      "byte_start": 15497752,
+      "byte_ende": 15738809,
+      "bytes": 241058,
+      "range_header": "bytes=15497752-15738809",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1285.277,
+      "anker_sha256": "d86337411a2ac9fe9dec1a43cf6ed158529aa2b9c810094828d698d9dfa8179a",
+      "einblendung_ms": 60,
+      "text": "那在这种环境里面 大家谁还会需要 钱呢 为什么钱会是一个 十辈子花不完的钱 会是一个非常大的事 导致于说 你一定要到本岛的 大豹子的地下室里面 去偷东西呢"
+    },
+    {
+      "hook": "哪吒真正成功的原因，可能并不是这个公式",
+      "start": 1884.16,
+      "ende": 1904.274,
+      "laenge": 20.11,
+      "byte_start": 22685292,
+      "byte_ende": 22926662,
+      "bytes": 241371,
+      "range_header": "bytes=22685292-22926662",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1884.238,
+      "anker_sha256": "0440807b8675d7d56e9bce3e1cad600f7b1ee53bff1b18201cdb475e3b30a546",
+      "einblendung_ms": 60,
+      "text": "哪吒真正成功的原因 可能并不是这个公式 这是为什么哪吒成功了之后 你再往后去模仿他 你就会觉得一次比一次的是失败 因为观众在这个片子里面 他想得到的东西并不是这个 就是你以为的配方"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T23:59:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2246,
+  "veroeffentlicht": "2026-08-21T07:00:00+10:00",
+  "beschreibung": "Send us Fan Mail\n欢迎收听第354期大话说电影节目，本期包主播要单独 八仙！All Wishes Come True!\n导演: 牟正洋\n编剧: 牟正洋\n主演: 陈浩 / 李绍哲 / 立冬 / 果子哥哥 / 董天弋 / 更多...\n类型: 喜剧 / 动画 / 奇幻 / 冒险\n制片国家/地区: 中国大陆\n语言: 汉语普通话\n上映日期: 2026-07-18(中国大陆)\n片长: 144分钟\n又名: 八仙之瞒天过海 / All Wishes Come True!\nIMDb: tt43515101\n剧情简讯：\n天劫将至,凡人吕洞宾为寻拯救苍生的玉虚琉璃灯,来到蓬莱,结识因触犯天规而被贬的钟离权,两人为各自目的联手行动,并陆续与何仙姑、铁拐李、张果老等人相遇,从一群各怀心思的普通人,逐渐成为并肩作战的伙伴。随着阴谋浮现,他们不仅要面对天劫真相,还要对抗幕后的超强BOSS杨戬， 使用玉虚琉璃灯解开天劫恶数， 拯救苍生。\n大话说电影的群，欢迎你的加入，请加包主播：bobby8816 并回答第一期节目讨论的影片名称。",
+  "beschreibung_html": "<p><a target=\"_blank\" href=\"https://www.buzzsprout.com/122075/fan_mail/new\">Send us Fan Mail</a></p><p>欢迎收听第354期大话说电影节目，本期包主播要单独 八仙！All Wishes Come True!</p><p>导演: 牟正洋<br/>编剧: 牟正洋<br/>主演: 陈浩 / 李绍哲 / 立冬 / 果子哥哥 / 董天弋 / 更多...<br/>类型: 喜剧 / 动画 / 奇幻 / 冒险<br/>制片国家/地区: 中国大陆<br/>语言: 汉语普通话<br/>上映日期: 2026-07-18(中国大陆)<br/>片长: 144分钟<br/>又名: 八仙之瞒天过海 / All Wishes Come True!<br/>IMDb: tt43515101</p><p>剧情简讯：</p><p>天劫将至,凡人吕洞宾为寻拯救苍生的玉虚琉璃灯,来到蓬莱,结识因触犯天规而被贬的钟离权,两人为各自目的联手行动,并陆续与何仙姑、铁拐李、张果老等人相遇,从一群各怀心思的普通人,逐渐成为并肩作战的伙伴。随着阴谋浮现,他们不仅要面对天劫真相,还要对抗幕后的超强BOSS杨戬， 使用玉虚琉璃灯解开天劫恶数， 拯救苍生。</p><p>大话说电影的群，欢迎你的加入，请加包主播：bobby8816 并回答第一期节目讨论的影片名称。</p>",
+  "bild_url": "https://storage.buzzsprout.com/9zlwfcv2suwkhssjgxfpzfen1bz3?.jpg",
+  "folgennummer": 354,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_954889009",
+  "apple_collection_id": "1719212923",
+  "show": "小泼猴妙趣百科丨十万个科普百科大全丨睡前故事",
+  "titel": "【预告】《实习侦探小泼猴之学院风云篇2》上线啦！求推荐、好评~",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwNWgohAA1KmwRmGjWq.m4a?channel=rss&album_id=29672080&track_id=954889009&uid=189225084&jt=https://aod.cos.tx.xmcdn.com/storages/fabc-audiofreehighqps/EE/44/GKwRIRwNWgohAA1KmwRmGjWq.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 871067,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:44:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "《实习侦探小泼猴之学院风云篇2》上线，开启充满危险与悬疑的侦探试炼大赛。",
+  "kurzfassung": "实习侦探小泼猴迎来学院风云篇第二季的全新挑战。赛场危机四伏、身份不明，还有异常数据流与黑影窥视。小泼猴与同伴将深入无法存档与退出的真实游戏，追寻最终真相。",
+  "stichpunkte": [
+    "第一届侦探试炼大赛正式开启，参赛者意识上传至百层迷局。",
+    "开局即面临地狱难度，小泼猴变身乌龟，身份不明且危机四伏。",
+    "哼哼猪誓死守护小泼猴，直面重重危险。",
+    "赛场侦测到异常数据流，传送于虚实之间。",
+    "案件充满不可能的挑战，赛场之外更有黑影悄然窥视。",
+    "每一步可能是终点，也可能是阴谋的开始。",
+    "小泼猴誓言无论多少层谎言，都要揪出最后真相。",
+    "《实习侦探小泼猴之学院风云篇2》上线，呼吁点击关注订阅好评。"
+  ],
+  "kapitel": [
+    {
+      "titel": "侦探试炼大赛开启",
+      "start": 1.3
+    },
+    {
+      "titel": "危机四伏的赛场",
+      "start": 22.38
+    },
+    {
+      "titel": "异常数据与虚实传送",
+      "start": 49.04
+    },
+    {
+      "titel": "学院风云篇2正式上线",
+      "start": 90.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:44:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 107,
+  "veroeffentlicht": "2026-02-05T07:30:31+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e249-audiofreehighqps/4C/7B/CMCoOSEEDPiXAAfeSgCLoSiI.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

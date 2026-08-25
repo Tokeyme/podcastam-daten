@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_788925157",
+  "apple_collection_id": "1661296208",
+  "show": "情感夜话 | 你说大海会不会等风",
+  "titel": "人和人的羁绊 第一眼就决定了",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJELSGxJAAegZwNJujqF.m4a?channel=rss&album_id=73354089&track_id=788925157&uid=77044142&jt=https://aod.cos.tx.xmcdn.com/storages/3de0-audiofreehighqps/9F/B6/GKwRIJELSGxJAAegZwNJujqF.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 499815,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:06:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨人与人之间奇妙的缘分，认为第一眼的心动是灵魂的相认。",
+  "kurzfassung": "节目探讨了人与人之间奇妙的第一眼缘分，认为这种吸引力无关外表美丑，而是由眼神、笑容或穿衣风格等瞬间触动内心的特质所决定。这种一眼万年的好感，被视为前世深爱的延续与灵魂的相认。世间最美好的相遇，最终发生在彼此的心里。",
+  "stichpunkte": [
+    "北洛开启晚间陪伴节目，探讨人与人之间的缘分与相遇",
+    "指出有些人在相遇的第一眼就会让人忍不住喜欢",
+    "这种吸引力不一定源于外貌，而是由眼神、大笑或穿衣风格等细节触发",
+    "一眼就能抓住人心的人，即使静坐不语也能吸引注意力",
+    "红衣法师认为第一眼喜欢上的人是灵魂认出了对方",
+    "今生产生好感的人，前世必定曾深深爱过",
+    "总结认为世上最美好的相遇是在彼此的心里"
+  ],
+  "kapitel": [
+    {
+      "titel": "第一眼的心动与缘分",
+      "start": 1.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:06:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 81,
+  "veroeffentlicht": "2024-12-30T14:08:04+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a964-audiofreehighqps/6E/28/GKwRIMAHeL-cAAJrWgHjNWqJ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

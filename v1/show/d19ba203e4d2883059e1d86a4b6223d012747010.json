@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "VC电影说",
+  "apple_collection_id": "1097011256",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/08/31/2554108547596384774_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/08/31/2554108547596384774_hd.mp3",
+      "pfad": "/v1/episode/40b856825ce1752fac602a5ff1c829750cdae8eb.json",
+      "titel": "老法师说｜法国人不吃的中国菜",
+      "veroeffentlicht": "2016-08-31T01:17:52+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "借奥运热潮盘点几部打破传统胜负叙事的经典体育电影"
+    }
+  ]
+}

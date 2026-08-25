@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_780726427",
+  "apple_collection_id": "1802774420",
+  "show": "向前一步- 美好读书",
+  "titel": "引言- 为什么要读“向前一步”",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUELJNMgABAAAAM6SUdl.m4a?channel=rss&album_id=84749877&track_id=780726427&uid=18190996&jt=https://aod.cos.tx.xmcdn.com/storages/fb52-audiofreehighqps/B0/83/GKwRIUELJNMgABAAAAM6SUdl.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 9710380,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T09:27:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "解读谢利尔·桑德伯格的《向前一步》，探讨女性职场挑战与个人成长。",
+  "kurzfassung": "本集介绍了Facebook前首席运行官谢利尔·桑德伯格所著的《向前一步》。书中直面职场中的性别不平等现象，探讨了女性在晋升高层时面临的阻碍。同时，节目分析了书中的实用策略，帮助女性打破心理障碍、提升自信并增强领导力。",
+  "stichpunkte": [
+    "探讨谢利尔·桑德伯格所著的《向前一步》一书",
+    "分析职场中性别不平等的核心问题与高层女性占比下降的现象",
+    "鼓励女性勇敢往桌前坐，积极参与会议并表达观点",
+    "剖析导致女性自我怀疑的冒充者综合症及其对职业发展的阻碍",
+    "提供克服心理障碍、建立自信和认可自身价值的具体方法",
+    "强调书中建议不仅适用于女性，也对追求职业成功的人士极具实用价值"
+  ],
+  "kapitel": [
+    {
+      "titel": "《向前一步》与职场性别不平等",
+      "start": 13.04
+    },
+    {
+      "titel": "个人成长与勇敢往桌前坐",
+      "start": 105.54
+    },
+    {
+      "titel": "克服冒充者综合症与建立自信",
+      "start": 153.2
+    },
+    {
+      "titel": "实际应对职业挑战的行动指南",
+      "start": 210.7
+    }
+  ],
+  "clips": [
+    {
+      "hook": "性别不平等的核心问题",
+      "start": 59.899,
+      "ende": 81.215,
+      "laenge": 21.32,
+      "byte_start": 1926180,
+      "byte_ende": 2608289,
+      "bytes": 682110,
+      "range_header": "bytes=1926180-2608289",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 59.977,
+      "anker_sha256": "52437f0b4cf06bc9227abf3b1ae28539d2fd3d6caca7c30d61d02e48655ff648",
+      "einblendung_ms": 60,
+      "text": "首先呢 这本书直接触及了性别不平等的核心问题 也就是说 尽管女性在教育和职场的起步阶段 能够与男性基本上持平 但是到了高层的领导岗位上呢 我们就会看到女性的占比持续急剧下降"
+    },
+    {
+      "hook": "勇敢往桌前坐的意义",
+      "start": 120.712,
+      "ende": 140.826,
+      "laenge": 20.11,
+      "byte_start": 3872198,
+      "byte_ende": 4515855,
+      "bytes": 643658,
+      "range_header": "bytes=3872198-4515855",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 120.79,
+      "anker_sha256": "59a05d25761d6f1659c7c18bf6cb98224d4308caf9d7a6a8db8f7ded29656c19",
+      "einblendung_ms": 60,
+      "text": "他非常鼓励女性要往桌前坐 也就是意味着说 要勇敢地 积极地去参与各种会议 勇敢地去表达自己的观点 这种自信和主动性"
+    },
+    {
+      "hook": "职场中的冒充者综合症",
+      "start": 166.583,
+      "ende": 186.697,
+      "laenge": 20.11,
+      "byte_start": 5340071,
+      "byte_ende": 5983727,
+      "bytes": 643657,
+      "range_header": "bytes=5340071-5983727",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 166.661,
+      "anker_sha256": "171006bd808ec90e48762c633891d1b47363cad9f8cf46ce78a188ab8c4ae2e2",
+      "einblendung_ms": 60,
+      "text": "在取得成就的时候 可能从内心里面会悄悄地觉得 哎呀 我自己是不是不配 或者觉得说 我如果去讲自己的成就 就会显得过于高调 过于炫耀的"
+    },
+    {
+      "hook": "不要因性别自我设限",
+      "start": 227.553,
+      "ende": 247.641,
+      "laenge": 20.09,
+      "byte_start": 7291105,
+      "byte_ende": 7933925,
+      "bytes": 642821,
+      "range_header": "bytes=7291105-7933925",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 227.631,
+      "anker_sha256": "c6743f084cf0329fe3554f2c11cf856f88c1595eab3e6e89cc54112ca9b71121",
+      "einblendung_ms": 60,
+      "text": "那么他鼓励女性朋友们 要勇于去追求领导的职位 不要因为性别的问题呢 而自我设限 这些建议呢"
+    },
+    {
+      "hook": "职场发展的必读之作",
+      "start": 261.277,
+      "ende": 281.391,
+      "laenge": 20.11,
+      "byte_start": 8370275,
+      "byte_ende": 9013931,
+      "bytes": 643657,
+      "range_header": "bytes=8370275-9013931",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 261.355,
+      "anker_sha256": "84e3cba3adf1fddecd82507b88e46cd8ddd290e87952334f0b59ca20c4f33117",
+      "einblendung_ms": 60,
+      "text": "所以呢 可以说这本书 是每一个追求职业发展的人的 必读之作 也可以说 它是一个行动之一 它是一个指南 鼓励我们勇敢地向前迈进一步"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T09:27:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 303,
+  "veroeffentlicht": "2024-12-03T14:05:26+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b652-audiofreehighqps/02/A9/GAqhp50LJNMfAAE6KAM6SUaE.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

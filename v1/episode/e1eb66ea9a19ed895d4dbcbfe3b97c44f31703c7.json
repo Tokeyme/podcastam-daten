@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group16/M09/36/C5/wKgDalWWGP-yH3wwAA3A8iBMZSQ636.m4a",
+  "apple_collection_id": "993420458",
+  "show": "胎教音乐",
+  "titel": "胎教音乐II孕1月 花好月圆",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDalWWGP-yH3wwAA3A8iBMZSQ636.m4a?channel=rss&album_id=386122&track_id=6398698&uid=25580432&jt=https://aod.cos.tx.xmcdn.com/group16/M09/36/C5/wKgDalWWGP-yH3wwAA3A8iBMZSQ636.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 901362,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:50:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "李宗盛词曲演唱作品《胎教音乐II孕1月 花好月圆》",
+  "kurzfassung": "本期节目播放了由李宗盛作词、作曲并演唱的音乐作品。内容主要围绕主题胎教音乐展开。节目时长精炼，呈现了李宗盛的词曲演唱。",
+  "stichpunkte": [
+    "词曲创作由李宗盛完成",
+    "演唱者为李宗盛",
+    "曲目主题为胎教音乐相关内容",
+    "作品名称包含花好月圆"
+  ],
+  "kapitel": [
+    {
+      "titel": "作品播放",
+      "start": 1.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:50:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 111,
+  "veroeffentlicht": "2015-04-18T07:50:22+00:00",
+  "beschreibung": "在孕早期，准妈妈感觉心情不畅，吃东西没有食欲时，听听这首民乐，一定会让你心情舒畅，听毕胃口大开。添加服务微信yunyuzhisheng01交流更多育儿话题哦。",
+  "beschreibung_html": "<p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\" data-flag=\"normal\">在孕早期，准妈妈感觉心情不畅，吃东西没有食欲时，听听这首民乐，一定会让你心情舒畅，听毕胃口大开。<span>添加服务微信yunyuzhisheng01交流更多育儿话题哦。</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group6/M01/3B/C9/wKgDhFUyDL7Q1NKuAAQqzDqO6D0417.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

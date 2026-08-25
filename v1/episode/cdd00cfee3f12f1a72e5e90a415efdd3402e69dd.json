@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "6a794cdf000a55a9bb0589c9",
+  "apple_collection_id": "1835452860",
+  "show": "C哥聊科技",
+  "titel": "【C哥日课】OpenAI这次葫芦里卖的是什么药",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a794cdf000a55a9bb0589c9/media.xyzcdn.net/68ab14c71edba57468005489/FlUQ982Miyco8BuDQvMPxD7EThuL.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 2274864,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T09:16:29+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "OpenAI推出免费不限量的GPT 5.6 Luna模型以应对低价竞争",
+  "kurzfassung": "OpenAI宣布免费用户可无限量使用最新的GPT 5.6 Luna模型，并附带深度推理按钮。此举旨在通过用户分层来留住付费用户，同时防范以DeepSeek为代表的低价路线对普通用户日常习惯的争夺。此前，Luna模型的API调用价格已大幅下调，显示出极大的成本优化空间。",
+  "stichpunkte": [
+    "免费及购用户现在可默认使用GPT 5.6 Luna模型并享受文字聊天不限量",
+    "更新增设了Think按钮以处理更复杂的难题",
+    "Plus和Pro用户继续使用更强大的GPT 5.6 Sol模型",
+    "API调用继续按Token收费，不在此次免费范围内",
+    "OpenAI通过分层策略将最强模型留给付费用户，用Luna守住免费用户",
+    "Luna模型近期API价格大幅下调，显示AI自身优化带来了成本的极大地下降",
+    "OpenAI此举主要为警惕DeepSeek等低价路线对用户日常使用习惯的争夺"
+  ],
+  "kapitel": [
+    {
+      "titel": "OpenAI推出免费不限量模型",
+      "start": 0.0
+    },
+    {
+      "titel": "用户分层与API价格大幅下调",
+      "start": 46.88
+    },
+    {
+      "titel": "应对低价竞争与守住用户习惯",
+      "start": 95.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T09:16:29+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 140,
+  "veroeffentlicht": "2026-08-10T10:00:00+00:00",
+  "beschreibung": "【本期主题】\nOpenAI 把 GPT-5.6 Luna 的免费用户文字聊天直接不限量了，还加了 Think 按钮。Sol 留给付费用户守住能力上限，Luna 免费守住用户习惯——背后是 DeepSeek 为代表的低价路线逼得 OpenAI 不得不放量。\n【核心看点】\n过去想用 GPT 模型要么氪金要么忍受次数限制，现在 Luna 直接不限量免费了，OpenAI 咋突然这么舍得？\n\n免费用户和 Go 用户默认用 GPT-5.6 Luna，文字聊天不限量，还多了一个 Think 按钮处理复杂难题？\n\nPlus 和 Pro 用户继续用更强的 GPT-5.6 Sol，新增即时深度推理支持，响应更准确更专注？\n\n趋势很清晰：Sol 负责能力上限，留住付费用户；Luna 负责高频日常任务，守住免费用户，OpenAI 在分层？\n\n这次免费的机缘是成本降低——Luna 上线不到一个月，API 价格就降了 80%，GPT 自己优化自己把成本打下来了？\n\n输入每百万 Token 从 1 美元降到 0.2 美元，输出从 6 美元降到 1.2 美元，OpenAI 有了更大的放量空间？\n\nOpenAI 真正警惕的是以 DeepSeek 为代表的低价路线——DeepSeek V4 Pro 每百万 Token 输入只要 0.025 元，谁看了不心动？\n\n大部分人的日常任务未必需要最强模型，只要能力够用价格够低，就有机会抢走用户的日常使用习惯？\n\n如果 OpenAI 还给免费用户设聊天次数限制，就等于主动把使用习惯让给别人，你同意吗？\n\nLuna 无限免费守住的不是收入，是普通用户每天打开 ChatGPT 的习惯——让你没有理由离开？\n\n【主播】\n软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<h2><strong>【本期主题】</strong></h2><p>OpenAI 把 GPT-5.6 Luna 的免费用户文字聊天直接不限量了，还加了 Think 按钮。Sol 留给付费用户守住能力上限，Luna 免费守住用户习惯——背后是 DeepSeek 为代表的低价路线逼得 OpenAI 不得不放量。</p><h2><strong>【核心看点】</strong></h2><ul><li><p>过去想用 GPT 模型要么氪金要么忍受次数限制，现在 Luna 直接不限量免费了，OpenAI 咋突然这么舍得？</p></li><li><p>免费用户和 Go 用户默认用 GPT-5.6 Luna，文字聊天不限量，还多了一个 Think 按钮处理复杂难题？</p></li><li><p>Plus 和 Pro 用户继续用更强的 GPT-5.6 Sol，新增即时深度推理支持，响应更准确更专注？</p></li><li><p>趋势很清晰：Sol 负责能力上限，留住付费用户；Luna 负责高频日常任务，守住免费用户，OpenAI 在分层？</p></li><li><p>这次免费的机缘是成本降低——Luna 上线不到一个月，API 价格就降了 80%，GPT 自己优化自己把成本打下来了？</p></li><li><p>输入每百万 Token 从 1 美元降到 0.2 美元，输出从 6 美元降到 1.2 美元，OpenAI 有了更大的放量空间？</p></li><li><p>OpenAI 真正警惕的是以 DeepSeek 为代表的低价路线——DeepSeek V4 Pro 每百万 Token 输入只要 0.025 元，谁看了不心动？</p></li><li><p>大部分人的日常任务未必需要最强模型，只要能力够用价格够低，就有机会抢走用户的日常使用习惯？</p></li><li><p>如果 OpenAI 还给免费用户设聊天次数限制，就等于主动把使用习惯让给别人，你同意吗？</p></li><li><p>Luna 无限免费守住的不是收入，是普通用户每天打开 ChatGPT 的习惯——让你没有理由离开？</p></li></ul><h2><strong>【主播】</strong></h2><p>软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/6a794cdf000a55a9bb0589c9?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

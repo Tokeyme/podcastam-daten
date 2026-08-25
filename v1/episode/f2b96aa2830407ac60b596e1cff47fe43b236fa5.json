@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/fc62-audiofreehighqps/25/2D/CKwRINsEwvMCAAm00wDHWUsZ.m4a",
+  "apple_collection_id": "1546312118",
+  "show": "视频|深度亲子早教小孩家庭教育",
+  "titel": "8为什么幼小衔接被取消，父母会焦虑，你觉得好不好？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRINsEwvMCAAm00wDHWUsZ.m4a?channel=rss&album_id=38490670&track_id=433203689&uid=112997020&jt=https://aod.cos.tx.xmcdn.com/storages/fc62-audiofreehighqps/25/2D/CKwRINsEwvMCAAm00wDHWUsZ.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 636115,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:03:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "剖析幼小衔接取消后家长焦虑的原因及应对策略",
+  "kurzfassung": "探讨了为什么取消幼小衔接反而加剧了父母的焦虑，指出根本原因在于对应试教育和分数的过度追求。国家此举旨在创造公平环境并培养创新人才，而真正的关键在于培养孩子的学习能力、自控力和心理健康。无论政策如何变化，激发学习动机、运用学习策略和持续努力才是核心要素。",
+  "stichpunkte": [
+    "义务教育多为应试教育，家长过分看重分数和文凭而非学习能力。",
+    "国家取消幼小衔接旨在提供公平竞争环境，培养创新型人才。",
+    "父母焦虑源于只看重眼前考试分数，忽视了长远的长远利益。",
+    "政策改革弱化了分数重要性，导致过来人的经验失效，加剧了焦虑。",
+    "学习最重要的三个点是：激发学习动机、寻找适合的策略和坚持不懈的努力。",
+    "只要做好这三点，无论环境如何变化，孩子都能立于不败之地。"
+  ],
+  "kapitel": [
+    {
+      "titel": "幼小衔接取消与家长焦虑的根源",
+      "start": 0.0
+    },
+    {
+      "titel": "国家改革的意图与父母的短视",
+      "start": 23.62
+    },
+    {
+      "titel": "应对政策变化的核心学习要素",
+      "start": 58.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:03:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 78,
+  "veroeffentlicht": "2021-07-21T08:14:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group80/M05/F0/3B/wKgPEV7SajKxoqpeAARMbys-UIA050.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

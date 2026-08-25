@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_642605596",
+  "apple_collection_id": "1697807510",
+  "show": "海龟侦探社丨意想不到的事就在身边丨多人推理播客",
+  "titel": "【预告片】海龟侦探社侦探集结丨爆笑探案播客丨海龟汤丨互动推理剧本杀",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAIZeaWAAzStAIr609t.m4a?channel=rss&album_id=76511253&track_id=642605596&uid=252230577&jt=https://aod.cos.tx.xmcdn.com/storages/52e8-audiofreehighqps/8C/B1/GKwRIMAIZeaWAAzStAIr609t.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 840372,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:37:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "多位侦探集结海龟侦探社，准备共同开启爆笑探案之旅。",
+  "kurzfassung": "多位侦探齐聚一堂，应邀来到海龟侦探社。在与神秘声音的问答互动中，他们逐渐摸清了通过提问获取线索的规则。随后，小说家涉疆社长现身，正式宣布海龟侦探社成立并委托侦探们解决日后的谜案。",
+  "stichpunkte": [
+    "多位不同背景的侦探陆续到达集合地点。",
+    "侦探们互相交流身份，确认彼此受召集前来。",
+    "众人询问召集他们前来的目的，确认是为了解决案件。",
+    "侦探们得知需要通过提问来获取案件答案。",
+    "侦探发现神秘声音对关键问题的回答仅限于“是”、“不是”或“不重要”。",
+    "小说家涉疆社长现身，欢迎各位侦探加入海龟侦探社并托付日后的谜案。"
+  ],
+  "kapitel": [
+    {
+      "titel": "侦探集结",
+      "start": 5.46
+    },
+    {
+      "titel": "规则确认",
+      "start": 47.14
+    },
+    {
+      "titel": "社长现身",
+      "start": 77.96
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:37:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 103,
+  "veroeffentlicht": "2023-06-22T13:00:00+00:00",
+  "beschreibung": "我是XX，傍晚的脱口秀演员，夜间的侦探\n我是韬，标准理工直男，是个侦探\n我是131十三幺，一个典型的i型人，最近很欧气的侦探\n谁召集我们过来的？\n我是涉江社长，一个稀奇古怪的小说家侦探，欢迎大家组成海龟侦探社，日后的谜案，有劳各位了！\n\n【真相藏于只言片语，海龟侦探社，陪你一起探案】",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><b>我是<b>XX</b>，傍晚的脱口秀演员，夜间的侦探</b></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><b>我是韬，标准理工直男，是个侦探</b></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><b>我是131十三幺，一个典型的i型人，最近很欧气的侦探</b></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">谁召集我们过来的？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>我是涉江社长，一个稀奇古怪的小说家侦探，欢迎大家组成海龟侦探社，日后的谜案，有劳各位了！</b><br></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>【真相藏于只言片语，海龟侦探社，陪你一起探案】</b></p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/bfa4-audiofreehighqps/F4/D2/GKwRIJEIX0_WAAYbvAIpjB44.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

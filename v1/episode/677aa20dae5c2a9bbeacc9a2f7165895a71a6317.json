@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_591607827",
+  "apple_collection_id": "1641424951",
+  "show": "华语流行音乐榜｜揭榜时刻",
+  "titel": "Nice Top Board｜华语流行音乐榜202242",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIHWNkUACAAAAHV1NJk.mp3.m4a?channel=rss&album_id=70500794&track_id=591607827&uid=107542335&jt=https://aod.cos.tx.xmcdn.com/storages/e733-audiofreehighqps/A7/EC/GKwRIJIHWNkUACAAAAHV1NJk.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 22632256,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T12:29:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "华语流行音乐榜最新揭晓，本周三首热门单曲及其背后的创作故事。",
+  "kurzfassung": "本期华语流行音乐榜揭晓了三首备受关注的单曲。民谣歌手王征携手艺术家带来摇滚风格的新作，陈楚生的歌曲展现了真挚动人的情感，而任贤祺则凭借重装上路的新歌夺得本周冠军。",
+  "stichpunkte": [
+    "孟宣主持本期华语流行音乐榜，揭晓最新榜单排行",
+    "王征的《不值一提的伤口》位居本周第三位",
+    "王征首次挑战摇滚曲风，呼应艺术家的作品概念",
+    "陈楚生的《我们》从上周第四位上升至第二位",
+    "《我们》以窗外声音开场，层层递进诠释人生纯粹",
+    "任贤祺的歌曲夺得本周冠军，展现亚洲天王的音乐魅力",
+    "节目预告了交换歌单记忆的听众互动活动",
+    "听众可通过微信公众号“声场”了解更多音乐资讯"
+  ],
+  "kapitel": [
+    {
+      "titel": "第三位：王征《不值一提的伤口》",
+      "start": 20.38
+    },
+    {
+      "titel": "第二位：陈楚生《我们》",
+      "start": 162.4
+    },
+    {
+      "titel": "电台互动活动介绍",
+      "start": 350.98
+    },
+    {
+      "titel": "冠军曲目：任贤祺",
+      "start": 379.38
+    },
+    {
+      "titel": "节目尾声与资讯",
+      "start": 497.94
+    }
+  ],
+  "clips": [
+    {
+      "hook": "王征首次挑战摇滚曲风",
+      "start": 48.408,
+      "ende": 68.52,
+      "laenge": 20.11,
+      "byte_start": 1961408,
+      "byte_ende": 2765887,
+      "bytes": 804480,
+      "range_header": "bytes=1961408-2765887",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 48.48,
+      "anker_sha256": "0955494503aaeda95b00ac1dc14e19bbc9e5dc815dd0b42a221984f8f51ec9f6",
+      "einblendung_ms": 60,
+      "text": "不同于以往民谣纯情温柔的气质 王征首次挑战 摇滚曲风 他也带着金属质感的 坑"
+    },
+    {
+      "hook": "陈楚生《我们》上升至第二位",
+      "start": 193.104,
+      "ende": 213.216,
+      "laenge": 20.11,
+      "byte_start": 7749248,
+      "byte_ende": 8553727,
+      "bytes": 804480,
+      "range_header": "bytes=7749248-8553727",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 193.176,
+      "anker_sha256": "3e5f3c1477673ec43e79361f2294faa2ae5a3163cbdd6c697cd043e9cf7195bc",
+      "einblendung_ms": 60,
+      "text": "上週排在了第四位的陳楚生 《我們》本週來到第二位 我們來聽《陳楚生》 《我們》"
+    },
+    {
+      "hook": "参与歌单记忆互动的方式",
+      "start": 356.136,
+      "ende": 376.224,
+      "laenge": 20.09,
+      "byte_start": 14270528,
+      "byte_ende": 15074047,
+      "bytes": 803520,
+      "range_header": "bytes=14270528-15074047",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 356.208,
+      "anker_sha256": "135fb43c71f27b8dc184beee6dd786eb0c15f1bb890f8dbad34feaad04b3c9a8",
+      "einblendung_ms": 60,
+      "text": "今日起至12月15日 关注微信公众号 生产 点击底部菜单栏 找到歌单记忆 留下歌单记忆 并填写相关信息"
+    },
+    {
+      "hook": "任贤祺重装上路夺得冠军",
+      "start": 392.28,
+      "ende": 412.368,
+      "laenge": 20.09,
+      "byte_start": 15716288,
+      "byte_ende": 16519807,
+      "bytes": 803520,
+      "range_header": "bytes=15716288-16519807",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 392.352,
+      "anker_sha256": "a0c9f58cfd198d36429bb4c7a8bae1885d3e2415c3243b0e037fbb82e17b03a6",
+      "einblendung_ms": 60,
+      "text": "上升两个位次 任贤祺在路上 从心态软到 节目当中的披荆斩棘 亚洲天王任贤祺 出道期间三十多年"
+    },
+    {
+      "hook": "如何找到我们的微信公众号",
+      "start": 503.424,
+      "ende": 523.536,
+      "laenge": 20.11,
+      "byte_start": 20162048,
+      "byte_ende": 20966527,
+      "bytes": 804480,
+      "range_header": "bytes=20162048-20966527",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 503.496,
+      "anker_sha256": "5e8f11ac0f61ceb0e0de9a7e114b172136e8bc7c6d64003c4947455019bffad9",
+      "einblendung_ms": 60,
+      "text": "可以打开微信搜索公众号 声场 声音的声 工厂的厂 来找到我们 了解更多的音乐内容"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T12:29:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 565,
+  "veroeffentlicht": "2022-11-27T10:00:00+00:00",
+  "beschreibung": "「Nice Top Broad」第42期\n第一位：任贤齐「在路上」\n第二位：陈楚生「我们」\n第三位：王筝「不值一提的伤口」",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">「Nice Top Broad」第42期<br>第一位：任贤齐「在路上」<br>第二位：陈楚生「我们」<br>第三位：王筝「不值一提的伤口」<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8b45-audiofreehighqps/D1/73/GMCoOR4G21xUAAr-GAGWt_gO.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

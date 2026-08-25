@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_968112356",
+  "apple_collection_id": "1891005894",
+  "show": "反向育儿・不吼不催不包办，养出自律独立小学生",
+  "titel": "《反向育儿：让妈妈解脱陪写作业》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJENqDfsABColASFfoxy.m4a?channel=rss&album_id=119667198&track_id=968112356&uid=99819095&jt=https://aod.cos.tx.xmcdn.com/storages/0d87-audiofreehighqps/B3/BE/GKwRIJENqDfsABColASFfoxy.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1091732,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T09:04:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨如何通过反向育儿让孩子独立写作业，帮妈妈解脱。",
+  "kurzfassung": "节目探讨了家长在陪孩子写作业时面临的身心疲惫与困境。过度的陪伴不仅让家长压力巨大，还会剥夺孩子的独立性并导致孩子产生依赖。通过反向育儿的理念，家长学会适当放手，让孩子自己承担作业过程，从而实现双向解脱。",
+  "stichpunkte": [
+    "工作日晚上的陪写作业常常让家长感到身心俱疲",
+    "家长在旁边充当人形监控，孩子则不断呼叫和拖延",
+    "过度的管束和盯着孩子写作业会削弱孩子的独立性",
+    "家长管得越细，孩子对家长的依赖心理就越强",
+    "情绪失控和吼叫往往会让整个晚上的写作业过程陷入混乱",
+    "反向育儿主张家长往后退一步，不再时时刻刻盯着孩子",
+    "让孩子自己承担写作业的过程才能激发主动学习的动力",
+    "适度放手不仅能让妈妈得到解脱，也能让孩子真正长大"
+  ],
+  "kapitel": [
+    {
+      "titel": "陪写作业的压力和困境",
+      "start": 22.48
+    },
+    {
+      "titel": "反向育儿的应用与放手",
+      "start": 69.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T09:04:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 134,
+  "veroeffentlicht": "2026-04-05T14:42:46+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d14d-audiofreehighqps/85/C5/GAqhYMINqDUZAAVPVwSFfIiI.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

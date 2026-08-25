@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "贫道播客",
+  "apple_collection_id": "1445456526",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/03/13/3200111413404453382_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/03/13/3200111413404453382_hd.mp3",
+      "pfad": "/v1/episode/3969787f6e4a556c9dc448e370563962f002a860.json",
+      "titel": "vol.122 AI改编大金曲品鉴",
+      "veroeffentlicht": "2026-03-15T11:00:00+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "两位主播轻松分享并品鉴了由AI脑洞大开改编的各类经典老歌。"
+    }
+  ]
+}

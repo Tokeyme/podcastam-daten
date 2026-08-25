@@ -13,3 +13,9 @@
 
 /v1/episode/*
   Cache-Control: public, max-age=21600
+
+# Die Clip-Liste faellt unter dieselbe Stunde wie die Verzeichnisse:
+# Sie nennt Folgen namentlich, und ein Betreiberwiderspruch muss auch
+# aus ihr binnen einer Stunde verschwinden.
+/v1/clips.json
+  Cache-Control: public, max-age=3600

@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_955186137",
+  "apple_collection_id": "1882271610",
+  "show": "708090经典老歌|华语百位歌流行金曲大全",
+  "titel": "苏打绿-我好想你",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqhntANW37LACAAAARmyHU5.mp3.m4a?channel=rss&album_id=116488299&track_id=955186137&uid=23190670&jt=https://aod.cos.tx.xmcdn.com/storages/959a-audiofreehighqps/EE/BF/GAqhntANW37LACAAAARmyHU5.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 13956840,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T09:33:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "苏打绿歌曲《我好想你》歌词与情感表达解析。",
+  "kurzfassung": "本期节目分享了苏打绿歌曲《我好想你》的歌词内容。歌词表达了深深的思念与无法分享的心灵创伤。整体呈现出孤独与无奈的情感氛围。",
+  "stichpunkte": [
+    "开篇描写了开灯与关灯时房间的不同模样的寂寞景象。",
+    "提及生命随年月、白发与晨曦流逝，快乐渺无音讯。",
+    "表达了深深的思念却不留痕迹的情感。",
+    "描述了点着脚思念、任记忆盘旋、闭眼流泪却装作无所谓的场景。",
+    "歌曲反复倾诉着“我好想你”，却在欺骗自己并深藏心中。",
+    "后半部分穿插了一些生活与情感的独白片段。",
+    "结尾处再次强化了对一个人无尽的思念。"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲开场与孤独景象",
+      "start": 37.94
+    },
+    {
+      "titel": "核心思念与内心情感",
+      "start": 87.36
+    },
+    {
+      "titel": "中间独白与情绪转换",
+      "start": 176.86
+    },
+    {
+      "titel": "思念的深化与重现",
+      "start": 212.46
+    }
+  ],
+  "clips": [
+    {
+      "hook": "开灯闭灯，寂寞窗前",
+      "start": 39.0,
+      "ende": 60.744,
+      "laenge": 21.74,
+      "byte_start": 2543400,
+      "byte_ende": 3413159,
+      "bytes": 869760,
+      "range_header": "bytes=2543400-3413159",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 39.072,
+      "anker_sha256": "cb11f92c5d554ea05fc8c3d7772ed9bc0fdf2ce723bfcd2e1214e3047b3977ae",
+      "einblendung_ms": 60,
+      "text": "開了燈眼前的模樣 偌大大方 寂寞的窗 關了燈全都一個樣 心裡的傷 無法分享"
+    },
+    {
+      "hook": "好想你，却不留痕迹",
+      "start": 87.264,
+      "ende": 111.168,
+      "laenge": 23.9,
+      "byte_start": 4473960,
+      "byte_ende": 5430119,
+      "bytes": 956160,
+      "range_header": "bytes=4473960-5430119",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 87.336,
+      "anker_sha256": "19dc9e3954b046eeeb45426cc8eb148969e424196d1bb849851d8a2f98b2604e",
+      "einblendung_ms": 60,
+      "text": "我好想你 好想你 卻不留痕跡 我還點著腳思念 我還任記憶盤旋"
+    },
+    {
+      "hook": "生活在福永的独白",
+      "start": 178.704,
+      "ende": 198.816,
+      "laenge": 20.11,
+      "byte_start": 8131560,
+      "byte_ende": 8936039,
+      "bytes": 804480,
+      "range_header": "bytes=8131560-8936039",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 178.776,
+      "anker_sha256": "cb7408ad15eb618f928b40a39512f4894e04cb4eacddd63edf22fcb707bd39e9",
+      "einblendung_ms": 60,
+      "text": "整個生活總是在福永 全都是我的 να influencia"
+    },
+    {
+      "hook": "承认得到了和你相爱",
+      "start": 191.52,
+      "ende": 211.608,
+      "laenge": 20.09,
+      "byte_start": 8644200,
+      "byte_ende": 9447719,
+      "bytes": 803520,
+      "range_header": "bytes=8644200-9447719",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 191.592,
+      "anker_sha256": "b6a0bedf8a6d89092e64f0240873c86b88be138a1cb9222e8caff02410dbf939",
+      "einblendung_ms": 60,
+      "text": "承認 得到了 和你相愛 啊"
+    },
+    {
+      "hook": "我好想你，却欺骗自己",
+      "start": 254.016,
+      "ende": 274.104,
+      "laenge": 20.09,
+      "byte_start": 11144040,
+      "byte_ende": 11947559,
+      "bytes": 803520,
+      "range_header": "bytes=11144040-11947559",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 254.088,
+      "anker_sha256": "06123e09b0cc85f56238bafc56a72d77868b53cb042072107a53d6abe9b55f35",
+      "einblendung_ms": 60,
+      "text": "我好想你 好想你 卻無留痕跡 卻欺騙自己 我好想你 好想你"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T09:33:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 324,
+  "veroeffentlicht": "2026-05-17T15:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/69a2-audiofreehighqps/13/FE/GKwRIW4NW3j6AAJMqARmxNrQ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

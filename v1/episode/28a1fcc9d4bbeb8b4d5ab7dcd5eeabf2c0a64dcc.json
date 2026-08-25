@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group21/M04/B4/BB/wKgJLVhOGEqhlEfNAcgbRKuex2E556.mp3",
+  "apple_collection_id": "1219876819",
+  "show": "《西班牙旅行笔记》—林达",
+  "titel": "第二十三章 殉难谷的十字架 3",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJLVhOGEqhlEfNAcgbRKuex2E556.mp3.m4a?channel=rss&album_id=5462821&track_id=26889457&uid=48982160&jt=https://aod.cos.tx.xmcdn.com/group21/M04/B4/BB/wKgJLVhOGEqhlEfNAcgbRKuex2E556.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 29891396,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T13:39:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨西班牙民主转型中苏亚雷兹如何推动左右翼政党合法化并应对军队阻力",
+  "kurzfassung": "本集探讨了西班牙民主转型期首相苏亚雷兹如何处理与体制外左右翼反对派的关系。社会党领袖冈萨雷斯选择温和路线与改革派保持良好互动，而共产党在经历自我反思与反苏共立场后也寻求融入民主进程。苏亚雷兹凭借政治手腕在军方保守派与政党合法化之间寻求平衡，最终成功启动了国家政治改革。",
+  "stichpunkte": [
+    "西班牙社会党在70年代重新浮出水面，年轻领袖冈萨雷斯以温和形象赢得转型期政治优势。",
+    "体制内改革派弗拉加傲慢对待冈萨雷斯，坚决反对共产党合法化。",
+    "西班牙共产党在佛朗哥死前已开始反思，谴责苏联入侵捷克并提出民族和解。",
+    "共产党领导人卡里约通过外交途径向国王表明愿意参与民主进程并放弃暴力夺权。",
+    "苏亚雷兹展现政治分寸感，通过撤换大使安抚保守派，同时逐步推进改革。",
+    "苏亚雷兹拜会军内保守派将领并获得其对政治改革方案的支持。",
+    "保守派指责苏亚雷兹在共产党合法化问题上欺骗军方，但苏亚雷兹坚称要求共产党改变纲领是准入条件。",
+    "苏亚雷兹以首相身份要求反对工会改革的将军辞职，最终赢得冲突并正式启动政治改革。"
+  ],
+  "kapitel": [
+    {
+      "titel": "社会党重返政治舞台与冈萨雷斯的崛起",
+      "start": 8.24
+    },
+    {
+      "titel": "保守派对抗与共产党的历史反思",
+      "start": 162.56
+    },
+    {
+      "titel": "卡里约的转向与苏亚雷兹的政治手腕",
+      "start": 405.56
+    },
+    {
+      "titel": "拜会军方将领与启动政治改革",
+      "start": 529.2
+    }
+  ],
+  "clips": [
+    {
+      "hook": "经验不足反而是政治家的优势",
+      "start": 74.005,
+      "ende": 94.119,
+      "laenge": 20.11,
+      "byte_start": 2960196,
+      "byte_ende": 3764766,
+      "bytes": 804571,
+      "range_header": "bytes=2960196-3764766",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 74.083,
+      "anker_sha256": "a11028a1830a5f8cf4270fdc8f96f3181737f9b8c102e40b389ea966cae27b35",
+      "einblendung_ms": 60,
+      "text": "民众感觉他开放和宽容经验不足 可是经验不足在转型期是政治家的一个优势 表明 此人和历史恩怨没有瓜葛 有新一代的新起点"
+    },
+    {
+      "hook": "共产党党员人数一年内暴增",
+      "start": 356.989,
+      "ende": 377.104,
+      "laenge": 20.11,
+      "byte_start": 14279576,
+      "byte_ende": 15084146,
+      "bytes": 804571,
+      "range_header": "bytes=14279576-15084146",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 357.068,
+      "anker_sha256": "54f8f636854db7191f6d50f1c327d57e84cd511bbb9b0b8d6c7bacf978b92215",
+      "einblendung_ms": 60,
+      "text": "1975年将近2万 1976年则增加到10万"
+    },
+    {
+      "hook": "共产党领袖让人想起内战冲突",
+      "start": 317.388,
+      "ende": 337.502,
+      "laenge": 20.11,
+      "byte_start": 12695510,
+      "byte_ende": 13500081,
+      "bytes": 804572,
+      "range_header": "bytes=12695510-13500081",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 317.466,
+      "anker_sha256": "8eed8585709f80e353e1a4ca644c5fe3d1bfecc3321ab55cdf252986e264068f",
+      "einblendung_ms": 60,
+      "text": "而共产党领导人如热情之花和卡里约 让人一看就想起内战和冲突 其实西班牙共产党早在佛朗哥死前很多年 就开始反思了"
+    },
+    {
+      "hook": "取下前任巨幅画像引发将军狂怒",
+      "start": 496.3,
+      "ende": 516.389,
+      "laenge": 20.09,
+      "byte_start": 19852016,
+      "byte_ende": 20655542,
+      "bytes": 803527,
+      "range_header": "bytes=19852016-20655542",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 496.379,
+      "anker_sha256": "5a40a192fdb07b48514cb6db9e8519b5bb89b35431b84b56ef44144ffbc4c3da",
+      "einblendung_ms": 60,
+      "text": "他取下了首相办公室里前任挂的 首相办公室里前任挂的 巨幅弗兰各项 引起一位老将军的狂怒 苏亚雷兹却丝毫不为所动"
+    },
+    {
+      "hook": "首相逼迫反对将军辞职并赢得博弈",
+      "start": 686.576,
+      "ende": 716.696,
+      "laenge": 30.12,
+      "byte_start": 27463053,
+      "byte_ende": 28667819,
+      "bytes": 1204767,
+      "range_header": "bytes=27463053-28667819",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 686.655,
+      "anker_sha256": "3dc03a7623261d8fa9b1ea990ba0319405b94af8164689d7f00eb3361f52fbbb",
+      "einblendung_ms": 60,
+      "text": "将之不下,苏亚雷兹以首相身份要求这位将军辞职。 他周围的人担心,这一举动会引起军队反弹,导致政治改革法翻车。 苏亚雷兹却根据自己对军队的了解,相信条件允许他在这一刻显示强硬。 这一冲突相当紧张。 但是苏亚雷兹赢了。 弗朗哥去世不到一年,在他留下的政权体制内,西班牙的政治改革正式启动了。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T13:39:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 747,
+  "veroeffentlicht": "2016-12-14T07:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group21/M04/B4/9F/wKgJKFhOGEjyIfh8AAPPmdgt_yA040.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

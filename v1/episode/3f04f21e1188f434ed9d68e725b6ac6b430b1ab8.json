@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_589168777",
+  "apple_collection_id": "1655385556",
+  "show": "与镜对谈",
+  "titel": "“透过照片看美国，昏暗地”《论摄影》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4HTrV_ABAAAAHPi0EL.m4a?channel=rss&album_id=72588867&track_id=589168777&uid=98085044&jt=https://aod.cos.tx.xmcdn.com/storages/bbba-audiofreehighqps/14/C8/GKwRIW4HTrV_ABAAAAHPi0EL.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1378845,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:08:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨苏珊·桑塔格《论摄影》中对摄影本质、阿布斯与斯泰肯作品的批判。",
+  "kurzfassung": "本期节目探讨了摄影作为物质世界的网及其过度强调的特性。节目对比了斯泰肯的集体摄影展与阿布斯的摄影作品，指出两者如何以不同方式消解历史与政治的重量。最后，探讨了政治人物半身像所暗示的崇高抽象关系。",
+  "stichpunkte": [
+    "摄影被视为一种过分强调的、与物质世界的英雄式交合。",
+    "拍摄侏儒展现的是侏儒本身而非雄伟与美。",
+    "人类一家展览通过标榜人类的共同性来否认历史的决定性重量与不公正。",
+    "阿布斯通过展现人们的无望孤立与机械残缺的身份来削弱政治性。",
+    "斯泰肯和阿布斯的回顾展分别通过普遍化和原子化将历史和政治变得无关紧要。",
+    "政治人物的大半身像暗示了与未来的更崇高抽象关系而非对抗。"
+  ],
+  "kapitel": [
+    {
+      "titel": "摄影的本质与交合",
+      "start": 0.0
+    },
+    {
+      "titel": "斯泰肯与阿布斯的对比",
+      "start": 20.98
+    },
+    {
+      "titel": "政治人物的半身像",
+      "start": 70.16
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:08:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 86,
+  "veroeffentlicht": "2022-11-19T15:13:07+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2e15-audiofreehighqps/B1/8B/GKwRIJEHTrV5AAGw7QHPizuL.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

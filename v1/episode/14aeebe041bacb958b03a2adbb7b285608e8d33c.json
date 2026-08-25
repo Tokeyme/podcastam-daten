@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2025/12/29/3186404969866781190_hd.mp3",
+  "apple_collection_id": "1855298948",
+  "show": "CC体育",
+  "titel": "六、课程实施（一）教学建议",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2025/12/29/3186404969866781190_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 14687454,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T14:44:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "探讨体育与健康课程的教学建议，全面推进核心素养培养",
+  "kurzfassung": "本集详细阐述了体育与健康课程实施中的教学建议，涵盖课程实施计划编制、学习目标与内容选编、多样化教学方法以及课内外有机结合。重点强调通过大单元教学、真实运动情境创设和科学的运动负荷设置，提升学生的核心素养与运动技能。同时指出需保证合理的运动密度与强度，切实增强学生的体质健康。",
+  "stichpunkte": [
+    "编制科学的课程实施计划，根据不同学段学生身心发展规律设计教学单元",
+    "推行18课时及以上的大单元教学，避免运动技能学习碎片化和负迁移",
+    "基于核心素养制定明确的学习目标，合理选编兼顾基础性与多样性的教学内容",
+    "重视中华传统体育项目教学，培养学生的尚武精神和阳刚之气",
+    "摒弃说教课和放羊课，设计结构化、情境化且学练赛结合的完整学习活动",
+    "科学设置运动负荷，明确群体运动密度不低于75%、个体运动密度不低于50%",
+    "合理利用现代信息技术手段，开展微课与翻转课堂打破时空壁垒",
+    "促进课内外有机结合，落实每天校内校外各锻炼一小时及体育家庭作业要求"
+  ],
+  "kapitel": [
+    {
+      "titel": "编制课程实施计划",
+      "start": 50.56
+    },
+    {
+      "titel": "合理制定学习目标和选编教学内容",
+      "start": 353.62
+    },
+    {
+      "titel": "教学方式方法与运动负荷设置",
+      "start": 609.1
+    },
+    {
+      "titel": "促进课内外有机结合",
+      "start": 843.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "一至二年级重点：通过体育游戏发展基本运动技能",
+      "start": 146.965,
+      "ende": 167.079,
+      "laenge": 20.11,
+      "byte_start": 2404052,
+      "byte_ende": 2725879,
+      "bytes": 321828,
+      "range_header": "bytes=2404052-2725879",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 147.043,
+      "anker_sha256": "4c8ff6aa26209747cca66991dd747bd8d73e846623b7bb29e248c9c52ecbd872",
+      "einblendung_ms": 60,
+      "text": "在一至二年级 重点的教育目标是 通过体育游戏 发展学生的基本运动技能 让学生在玩中学 玩中练 激发学生的运动兴趣"
+    },
+    {
+      "hook": "大单元教学定义：18课时及以上的系统完整教学",
+      "start": 301.322,
+      "ende": 328.385,
+      "laenge": 27.06,
+      "byte_start": 4873773,
+      "byte_ende": 5306777,
+      "bytes": 433005,
+      "range_header": "bytes=4873773-5306777",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 301.401,
+      "anker_sha256": "50b8041565a0d99d3e051b443e17fb08b9ab30c72c75e3809f576b5c7b8dff64",
+      "einblendung_ms": 60,
+      "text": "大单元教学是指对某个运动项目或项目组合 进行18课时及以上相对系统和完整的教学 同时要加强课内外的有机结合 促进学生通过较长时间的连续学练 掌握所学的运动技能 要避免把一个完整的运动项目割裂开来 断断续续实施教学"
+    },
+    {
+      "hook": "重视对抗性中华传统体育项目，培养阳刚之气",
+      "start": 579.082,
+      "ende": 599.197,
+      "laenge": 20.11,
+      "byte_start": 9317933,
+      "byte_ende": 9639760,
+      "bytes": 321828,
+      "range_header": "bytes=9317933-9639760",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 579.161,
+      "anker_sha256": "3959d0ea00e9858cbb92d86663e659981124e0c3683a65e21ab6f0bed6b11226",
+      "einblendung_ms": 60,
+      "text": "要加强中华体育 中华传统体育类运动项目的教学 尤其要重视具有对抗性的中华体育类运动项目 减少花拳绣腿式的笔画动作教学 培养学生的上武精神和阳刚之气"
+    },
+    {
+      "hook": "摒弃说教课和放羊课，设计目的明确的完整学习活动",
+      "start": 632.503,
+      "ende": 652.617,
+      "laenge": 20.11,
+      "byte_start": 10172659,
+      "byte_ende": 10494487,
+      "bytes": 321829,
+      "range_header": "bytes=10172659-10494487",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 632.581,
+      "anker_sha256": "442d539af3ca96f50dbe0c9d374edde4722da994da23b17e764796e07277c1a8",
+      "einblendung_ms": 60,
+      "text": "教师要摒弃说教课 放洋课 安全课 单一技术课 测试课等 设计目的明确 内容丰富 情景真实 方法多样 互动良好的完整学习活动"
+    },
+    {
+      "hook": "科学量化运动负荷：群体密度不低于75%",
+      "start": 772.65,
+      "ende": 792.764,
+      "laenge": 20.11,
+      "byte_start": 12415010,
+      "byte_ende": 12736838,
+      "bytes": 321829,
+      "range_header": "bytes=12415010-12736838",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 772.728,
+      "anker_sha256": "35bdda58827e2c40f54b2c62541b376861a57cdb32dd614c2b3a94ba7408bbb1",
+      "einblendung_ms": 60,
+      "text": "每节课群体运动密度 应不低于75% 个体运动密度 应不低于50% 每节课应达到中高运动强度 班级所有学生平均心率 原则上在140至160次每分钟"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T14:44:01+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 914,
+  "veroeffentlicht": "2025-12-29T21:05:07+08:00",
+  "beschreibung": "六、课程实施（一）教学建议",
+  "beschreibung_html": "<p>六、课程实施（一）教学建议</p>",
+  "untertitel": "六、课程实施（一）教学建议",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2025/12/29/3186404972014654983_80x80.png",
+  "kapitel_quelle": "modell"
+}

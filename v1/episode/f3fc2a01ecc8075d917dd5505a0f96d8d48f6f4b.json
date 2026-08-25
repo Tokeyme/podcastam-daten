@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group23/M05/CA/31/wKgJL1i2rELAM3wIAAujvitIYGU823.m4a",
+  "apple_collection_id": "1296697999",
+  "show": "用韩语闲聊生活",
+  "titel": "一句话韩语教学-拜托了/请多多关照",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJL1i2rELAM3wIAAujvitIYGU823.m4a?channel=rss&album_id=6926214&track_id=31600454&uid=53149689&jt=https://aod.cos.tx.xmcdn.com/group23/M05/CA/31/wKgJL1i2rELAM3wIAAujvitIYGU823.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 762814,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:26:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "学习韩语实用日常用语“拜托了/请多多关照”。",
+  "kurzfassung": "本期节目讲解了韩语中表示“拜托了”或“请多多关照”的常用表达。主播详细拆解了该句子的发音和构成，并介绍了其在初次见面和日常拜托他人时的具体应用场景。听众还可以通过添加特定词汇来丰富这句话的表达方式。",
+  "stichpunkte": [
+    "学习韩语实用语句“拜托了/请多多关照”。",
+    "该短语可根据语境翻译为“拜托了”或“请多多关照”。",
+    "通常在初次见面、互相自我介绍后作为结束语使用。",
+    "在句首添加“ 앞으로 ”表示“以后”，即“以后也请多多关照”。",
+    "除了客套话之外，也可以用于真正拜托别人某件事情。",
+    "可以通过具体事情的语境表达“这次的事情就拜托你了”。"
+  ],
+  "kapitel": [
+    {
+      "titel": "韩语日常用语教学",
+      "start": 0.58
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:26:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 94,
+  "veroeffentlicht": "2017-03-01T11:12:28+00:00",
+  "beschreibung": "拜托了/请多多关照\n잘 부탁합니다.\n앞으로 잘 부탁합니다.\n저도 잘 부탁합니다.\n이번 일을 잘 부탁합니다.",
+  "beschreibung_html": "拜托了/请多多关照<br />잘 부탁합니다.<br />앞으로 잘 부탁합니다.<br />저도 잘 부탁합니다.<br />이번 일을 잘 부탁합니다.<br />",
+  "bild_url": "https://fdfs.xmcdn.com/group25/M01/C9/3E/wKgJNli2rJuhGEXnAAAsYaj8FGo437.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

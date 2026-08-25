@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "guid": "https://story.ihumand.com/resource/story_sound_3rd/3rd_42_1484556487875_wm.mp3",
+  "apple_collection_id": "1194425580",
+  "show": "洪恩故事",
+  "titel": "【洪恩故事】穿靴子的猫",
+  "audio": {
+    "url": "https://story.ihumand.com/resource/story_sound_3rd/3rd_42_1484556487875_wm.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 18046294,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T13:32:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "一只聪明的穿靴子的猫用智慧和勇气帮助贫穷的主人赢得了财富与公主。",
+  "kurzfassung": "三兄弟分家时老三只分到了一只淘气的猫。这只猫穿上靴子后，通过不断向国王进贡并用计让国王以为主人是卡拉卡拉老爷。最终猫智胜妖怪夺下城堡，帮助主人迎娶了公主。",
+  "stichpunkte": [
+    "三兄弟分家，老三只分到了一只淘气的猫",
+    "猫向主人保证能帮他变成有钱人并迎娶公主，前提是给它做一双靴子",
+    "穿靴子的猫抓到猎物送给国王，并谎称是卡拉卡拉老爷的心意",
+    "猫设计让国王在河边救起假装落水的卡拉卡拉老爷，国王赠予华丽衣裳",
+    "国王对卡拉卡拉老爷的财富与外表赞赏有加，并将公主许配给他",
+    "猫运用智慧激将妖怪变成老鼠，顺利将其吃掉并夺下城堡",
+    "主人住进华丽城堡并与公主结婚，猫也得到了新靴子作为奖励",
+    "故事告诉小朋友要善于利用头脑，小小的能力也能有大收获"
+  ],
+  "kapitel": [
+    {
+      "titel": "分家与穿靴子的猫",
+      "start": 0.72
+    },
+    {
+      "titel": "向国王进贡",
+      "start": 191.86
+    },
+    {
+      "titel": "河边偶遇与营救",
+      "start": 331.6
+    },
+    {
+      "titel": "智取城堡与迎娶公主",
+      "start": 588.12
+    }
+  ],
+  "clips": [
+    {
+      "hook": "世界上最穷的人和猫",
+      "start": 105.96,
+      "ende": 135.504,
+      "laenge": 29.54,
+      "byte_start": 2543830,
+      "byte_ende": 3252885,
+      "bytes": 709056,
+      "range_header": "bytes=2543830-3252885",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 106.032,
+      "anker_sha256": "31c9256c0d6e718d0da039fa8b5bbc1d56bc28a2537eb31ea5e3bcdfe6148df0",
+      "einblendung_ms": 60,
+      "text": "他俩几乎是世界上最穷的人和最穷的猫了 猫啊 猫啊 主人 你别用看红烧肉的眼神看着我 和你说呀 我有办法帮你变成一个有钱人"
+    },
+    {
+      "hook": "卡拉卡拉老爷的财富",
+      "start": 272.904,
+      "ende": 294.936,
+      "laenge": 22.03,
+      "byte_start": 6550486,
+      "byte_ende": 7079253,
+      "bytes": 528768,
+      "range_header": "bytes=6550486-7079253",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 272.976,
+      "anker_sha256": "9c61ee470beaa08c36c6765fd96a87ddaa360fa9d9baea435fe7c26e5524aee8",
+      "einblendung_ms": 60,
+      "text": "当然是有钱的 卡拉卡拉老爷 卡拉卡拉老爷 哦陛下 您居然没听说过卡拉卡拉老爷 他的财富世界闻名 否则怎么能养出这么肥的兔子和鞍唇呢"
+    },
+    {
+      "hook": "卡拉卡拉老爷掉水里了",
+      "start": 388.344,
+      "ende": 408.432,
+      "laenge": 20.09,
+      "byte_start": 9321046,
+      "byte_ende": 9803157,
+      "bytes": 482112,
+      "range_header": "bytes=9321046-9803157",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 388.416,
+      "anker_sha256": "f32bd5d182015e4cc55dd092c3807a7ec390c7a8609a38370bde158a5807698a",
+      "einblendung_ms": 60,
+      "text": "救人呐 救人呐 卡拉卡拉老爷掉到水里了 啊 父王 您听到了吗 有人在想救命"
+    },
+    {
+      "hook": "比父王英俊一百倍",
+      "start": 477.792,
+      "ende": 497.88,
+      "laenge": 20.09,
+      "byte_start": 11467798,
+      "byte_ende": 11949909,
+      "bytes": 482112,
+      "range_header": "bytes=11467798-11949909",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 477.864,
+      "anker_sha256": "dac63e53847680993461667c2072e9e3847644f0000aa4426a5bdaf21b797a4f",
+      "einblendung_ms": 60,
+      "text": "是的 比父王英俊一千倍 没有没有 只英俊一百倍而已 这才像话 卡拉卡拉老爷 你英俊又有钱"
+    },
+    {
+      "hook": "高大的身躯能变成老鼠吗",
+      "start": 612.504,
+      "ende": 634.824,
+      "laenge": 22.32,
+      "byte_start": 14700886,
+      "byte_ende": 15236565,
+      "bytes": 535680,
+      "range_header": "bytes=14700886-15236565",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 612.576,
+      "anker_sha256": "7a91497ecf1b0759719945ab48d5b607dbbdce10907b70c2fbdec617da08f4f9",
+      "einblendung_ms": 60,
+      "text": "听说您什么都能变 我特别想知道 您这样高大的身躯 能变成小小的老鼠吗 这有什么难的 你看 搞定"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T13:32:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 751,
+  "veroeffentlicht": "2017-02-09T11:08:54+08:00",
+  "beschreibung": "一只猫帮自己的主人在国王面前博取了名声，还让自己的主人娶到了公主。",
+  "beschreibung_html": "一只猫帮自己的主人在国王面前博取了名声，还让自己的主人娶到了公主。",
+  "schlagworte": [
+    "猫，靴子，穿靴子，公主，城堡，妖怪，国王"
+  ],
+  "kapitel_quelle": "modell"
+}

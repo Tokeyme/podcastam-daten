@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_963407526",
+  "apple_collection_id": "1861301783",
+  "show": "Duke看商业",
+  "titel": "秩序与丛林：商业世界的循环密码",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqh_aQNjdoMACAAAAR64I-w.mp3.m4a?channel=rss&album_id=112983584&track_id=963407526&uid=583823302&jt=https://aod.cos.tx.xmcdn.com/storages/4f4a-audiofreehighqps/CE/AC/GAqh_aQNjdoMACAAAAR64I-w.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 16405490,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T11:06:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨商业世界的增量秩序与存量丛林法则及生存策略。",
+  "kurzfassung": "节目探讨了商业世界中增量游戏建立秩序、存量博弈回归丛林法则的循环规律。主持人结合在东南亚做跨境电商的亲身经历，说明了规则失效时的残酷现实。最后提出了三点生存策略：不把系统保护当核心能力、转向处方性行动以及建立信任圈。",
+  "stichpunkte": [
+    "秩序的本质是增量游戏里的利益妥协，在红利期大家都愿守规矩",
+    "当蛋糕变小进入存量博弈时，秩序成本变高，丛林法则重新占据主导",
+    "跨境电商经历显示，缺乏规则约束时供应商会违约，同行会恶意举报",
+    "第一点生存策略：不要把平台流量等系统保护误认为自己的核心能力",
+    "应剥离平台和头衔，挖掘真正可市场化的技能和搭建私域流量池",
+    "第二点生存策略：抛弃描述性抱怨，转向调整业务结构等处方性行动",
+    "第三点生存策略：建立背靠背的信任圈，投资经得起利益考验的深度关系",
+    "商业世界在秩序与丛林间摇摆，无法改变周期则需调整心态与行动应对"
+  ],
+  "kapitel": [
+    {
+      "titel": "增量秩序与存量丛林法则",
+      "start": 9.78
+    },
+    {
+      "titel": "跨境电商的残酷经历",
+      "start": 145.38
+    },
+    {
+      "titel": "应对周期的三点生存策略",
+      "start": 208.2
+    },
+    {
+      "titel": "在不确定世界中生火取暖",
+      "start": 357.8
+    }
+  ],
+  "clips": [
+    {
+      "hook": "秩序的本质是什么？",
+      "start": 41.856,
+      "ende": 65.04,
+      "laenge": 23.18,
+      "byte_start": 1674290,
+      "byte_ende": 2601649,
+      "bytes": 927360,
+      "range_header": "bytes=1674290-2601649",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 41.928,
+      "anker_sha256": "dfc3a1ee8dc60cde4bf146783e88e96bc197524864ec4c04d15b3a1cd5e6d673",
+      "einblendung_ms": 60,
+      "text": "其实秩序的本质啊 就是增量游戏里的利益妥协 就像十几年前的全球化红利期 那时候大家都觉得蛋糕在越做越大 只要跟着规则走 就能分到一块 所以 不管是国家之间的贸易谈判 还是企业之间的合作 大家都愿意守规矩"
+    },
+    {
+      "hook": "供应商临时加价背信弃义",
+      "start": 166.08,
+      "ende": 186.168,
+      "laenge": 20.09,
+      "byte_start": 6643250,
+      "byte_ende": 7446769,
+      "bytes": 803520,
+      "range_header": "bytes=6643250-7446769",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 166.152,
+      "anker_sha256": "c756b541a0e2da63816def0933d7f641a30fa68cea246c2429f656d04b8ef991",
+      "einblendung_ms": 60,
+      "text": "结果临到发货的时候 供应商突然告诉我 有别的买家出了更高的价格 他要把货卖给别人 那时候我发现了一个问题 我真的特别无奈"
+    },
+    {
+      "hook": "别把平台保护当成核心能力",
+      "start": 212.784,
+      "ende": 234.864,
+      "laenge": 22.08,
+      "byte_start": 8511410,
+      "byte_ende": 9394609,
+      "bytes": 883200,
+      "range_header": "bytes=8511410-9394609",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 212.856,
+      "anker_sha256": "1f7fb55a6c04da369cd93b832d3b2b69c7a6fafd860657794f72e4b0dbadc94f",
+      "einblendung_ms": 60,
+      "text": "第一点也是最重要的一点 就是不要把系统保护当成自己的核心能力 很多人在平台红利期的时候 靠着平台的流量扶持赚到了钱 就以为自己很厉害 把平台的流量当成了自己的核心竞争力 但其实不是这样的"
+    },
+    {
+      "hook": "抱怨解决不了任何问题",
+      "start": 277.248,
+      "ende": 297.36,
+      "laenge": 20.11,
+      "byte_start": 11089970,
+      "byte_ende": 11894449,
+      "bytes": 804480,
+      "range_header": "bytes=11089970-11894449",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 277.32,
+      "anker_sha256": "c59be91e7c2fd90b480ff851f150fe5b5f0cf19ffbb186b168d1613e513fdbac",
+      "einblendung_ms": 60,
+      "text": "很多人在遇到问题的时候 总是喜欢抱怨 说这个平台不好 那个同行太坏 但抱怨是解决不了任何问题的 我们应该把精力放在行动上 调整自己的业务结构和货客模型"
+    },
+    {
+      "hook": "在不确定的世界里生火取暖",
+      "start": 388.248,
+      "ende": 408.36,
+      "laenge": 20.11,
+      "byte_start": 15529970,
+      "byte_ende": 16334449,
+      "bytes": 804480,
+      "range_header": "bytes=15529970-16334449",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 388.32,
+      "anker_sha256": "5cbeffa5114f10cbbe8b6a3329d6185d03e1c66b6a57bb81f2016f292b3e31b0",
+      "einblendung_ms": 60,
+      "text": "最后我想说 在这个充满不确定性的世界里 我们要学会生火取暖 找到那些和自己同频的人 一起对抗寒冷"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T11:06:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 410,
+  "veroeffentlicht": "2026-03-16T14:43:57+00:00",
+  "beschreibung": "探讨世界在秩序与丛林间循环的奥秘，核心在于增量与存量的博弈。从全球化红利期的规则遵守，到存量时代的贸易壁垒、内卷等现象，结合跨境电商实战经历，解析丛林法则的残酷，并给出在周期中生存的三大启迪。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>探讨世界在秩序与丛林间循环的奥秘，核心在于增量与存量的博弈。从全球化红利期的规则遵守，到存量时代的贸易壁垒、内卷等现象，结合跨境电商实战经历，解析丛林法则的残酷，并给出在周期中生存的三大启迪。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9287-audiofreehighqps/8B/6B/GKwRIDoNE0YtAAPG4QRGvfvO.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

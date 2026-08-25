@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008110307",
+  "apple_collection_id": "1171295541",
+  "show": "白杨叔叔讲故事 哄睡陪伴",
+  "titel": "白杨叔叔讲足球故事102《带刀侍卫科曼》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOYHXhABCisgTLJmcf.m4a?channel=rss&album_id=5099547&track_id=1008110307&uid=57799910&jt=https://aod.cos.tx.xmcdn.com/storages/5046-audiofreehighqps/91/63/GKwRIJIOYHXhABCisgTLJmcf.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1090226,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T09:05:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述荷兰传奇后卫罗纳德·科曼的足球故事与辉煌生涯。",
+  "kurzfassung": "本期节目介绍了被誉为“带刀侍卫”的荷兰传奇后卫罗纳德·科曼。他曾效力于阿贾克斯、巴塞罗那和费因诺德等豪门，随队获得过欧洲杯和欧冠冠军。作为历史级的自由人，他不仅防守出色，还拥有极高的进球效率，是巴萨首夺欧冠的头号功臣。",
+  "stichpunkte": [
+    "罗纳德·科曼出生于1963年，是荷兰著名后卫。",
+    "曾效力于阿贾克斯、巴塞罗那和费因诺德等俱乐部。",
+    "职业生涯获得过一次欧洲杯冠军、两次欧冠冠军和四次西甲冠军。",
+    "与荷兰三剑客同级别，在场上扮演高阶自由人角色。",
+    "防守端四处扫荡，攻防转换极其出色。",
+    "单赛季贡献十球左右是常态，得分效率超越部分前锋。",
+    "在1991至1992赛季欧冠决赛中奉献任意球绝杀，是巴萨首夺欧冠的头号功臣。",
+    "职业生涯正式比赛进球数超过250例，是空前绝后的带刀侍卫。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与足球故事介绍",
+      "start": 1.8
+    },
+    {
+      "titel": "罗纳德·科曼的职业生涯与荣誉",
+      "start": 21.54
+    },
+    {
+      "titel": "球场上的防守核心与进攻鬼才",
+      "start": 59.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T09:05:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 134,
+  "veroeffentlicht": "2026-08-23T08:44:09+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group52/M0B/72/C8/wKgLe1wyDKjB7_upAAEnn9ULmC0687.jpg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

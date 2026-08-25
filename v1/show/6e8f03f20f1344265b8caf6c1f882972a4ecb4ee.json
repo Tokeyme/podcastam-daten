@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "一起读书吧！",
+  "apple_collection_id": "1298367885",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/22/3230106159331223558_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/22/3230106159331223558_hd.mp3",
+      "pfad": "/v1/episode/828ce2b448c926dd342cf59bd68b8b97139c2c5d.json",
+      "titel": "P7-9",
+      "veroeffentlicht": "2026-08-22T09:47:30+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨图书馆失踪书籍的英语学习播客"
+    }
+  ]
+}

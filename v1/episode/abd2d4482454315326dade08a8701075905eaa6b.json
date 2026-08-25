@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group58/M06/CE/2E/wKgLglzeNyyDyTUkAAjxh2sKjDE736.m4a",
+  "apple_collection_id": "1447928386",
+  "show": "读书 | 《菜根谭》",
+  "titel": "致谢",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgLglzeNyyDyTUkAAjxh2sKjDE736.m4a?channel=rss&album_id=18892594&track_id=184349253&uid=120006260&jt=https://aod.cos.tx.xmcdn.com/group58/M06/CE/2E/wKgLglzeNyyDyTUkAAjxh2sKjDE736.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 586119,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:01:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "专辑《读书猜跟谈》正式完结，主播许游感谢听友陪伴。",
+  "kurzfassung": "主播许游宣布播客专辑《读书猜跟谈》正式完结。此次录制历时数月，跨越墨尔本与武汉两地。他向听友表达了感谢，并透露下一本专辑正在策划中。",
+  "stichpunkte": [
+    "专辑《读书猜跟谈》正式完结",
+    "录制历时从2018年10月到2019年5月",
+    "空间跨度从墨尔本到武汉",
+    "主播许游表达对听友长期陪伴的感谢",
+    "下一本专辑正在策划之中",
+    "新专辑在题材、配乐和音质上将有所提升"
+  ],
+  "kapitel": [
+    {
+      "titel": "专辑完结与感言",
+      "start": 0.8
+    },
+    {
+      "titel": "未来展望与再见",
+      "start": 43.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:01:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 72,
+  "veroeffentlicht": "2019-05-17T04:23:58+00:00",
+  "beschreibung": "感谢各位的陪伴，\n感谢听友六个月以来的支持和鼓励。\n我们下一个专辑再见。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">感谢各位的陪伴，</p><p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\" data-flag=\"normal\">感谢听友六个月以来的支持和鼓励。</p><p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\" data-flag=\"normal\">我们下一个专辑再见。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group50/M0B/20/39/wKgKmVvJRJ7zLAnlAAqNEtUh-so752.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_978117302",
+  "apple_collection_id": "1614100978",
+  "show": "中国历史未解之谜野史秘闻趣闻奇闻档案",
+  "titel": "长平之战为何唇齿相依的东方五国都袖手旁观",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEN5IPiAA4MbwSceWwr.m4a?channel=rss&album_id=57601668&track_id=978117302&uid=4053196&jt=https://aod.cos.tx.xmcdn.com/storages/e5ab-audiofreehighqps/76/88/GKwRIJEN5IPiAA4MbwSceWwr.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 920687,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:51:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "剖析长平之战中东方五国为何对赵国袖手旁观。",
+  "kurzfassung": "公元前262年秦赵爆发长平之战，最终以秦国惨胜、赵国一蹶不振告终。面对秦赵生死对决，唇齿相依的东方五国选择袖手旁观。这主要是因为各国内部自顾不暇、缺乏魄力以及受到秦国的恐吓与拉拢。",
+  "stichpunkte": [
+    "公元前262年秦赵为争夺上党地区爆发长平之战",
+    "长平之战以秦国惨胜、赵国一蹶不振告终",
+    "东方六国失去抵御强秦的中间力量",
+    "魏国自身难保且无胆量招惹强秦",
+    "楚国因吴雄主缺乏魄力和勇气且痛恨五国而不愿施救",
+    "燕国未对赵国出手已算最大支援",
+    "秦国采取恐吓与拉拢并用的策略影响五国决策",
+    "五国大臣和将领普遍持事不关己态度导致无人支援赵国"
+  ],
+  "kapitel": [
+    {
+      "titel": "长平之战背景与影响",
+      "start": 0.0
+    },
+    {
+      "titel": "东方五国袖手旁观的原因分析",
+      "start": 45.92
+    },
+    {
+      "titel": "结语",
+      "start": 104.58
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:51:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 113,
+  "veroeffentlicht": "2026-06-23T09:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ab64-audiofreehighqps/3A/33/GKwRIUEGFePJAAODcgEwUxr7.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

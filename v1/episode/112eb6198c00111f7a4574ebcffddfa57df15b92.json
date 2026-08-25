@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_661250071",
+  "apple_collection_id": "1772528478",
+  "show": "北大才女李雪琴",
+  "titel": "198 520要到了，祝大家桃花来时，都有一个健康的身体！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsIxMyAAAjCigJSjBUe-aacv2-48K.m4a?channel=rss&album_id=77825857&track_id=661250071&uid=97025594&jt=https://aod.cos.tx.xmcdn.com/storages/02f6-audiofreehighqps/B8/F9/GKwRINsIxMyAAAjCigJSjBUe-aacv2-48K.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 432117,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T07:58:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "520临近之际，腰伤在床的主持人频繁收到各种约会邀请。",
+  "kurzfassung": "520情人节即将到来，月琴收到了朋友赠送的项链，据说佩戴后会很受欢迎。然而正当她因为腰伤在家卧床时，却接连收到了看电影和吃饭的邀约。面对这些突如其来的追求，她无奈地一一婉拒。",
+  "stichpunkte": [
+    "月琴收到朋友凡尼赠送的爱度mini系列项链",
+    "项链据说有让人备受喜爱和走桃花运的功效",
+    "月琴因腰伤在家躺着无法出门",
+    "张一杰发来信息邀请看电影遭到拒绝",
+    "月琴对这些突然增多的邀约感到无奈",
+    "面对晚饭邀请，月琴再次以腰伤为由回绝"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与项链",
+      "start": 0.0
+    },
+    {
+      "titel": "腰伤与不断的邀约",
+      "start": 11.68
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T07:58:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 70,
+  "veroeffentlicht": "2024-02-25T12:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/7b46-audiofreehighqps/F9/55/GKwRIW4IxMM_AAKB8wJShnOI.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

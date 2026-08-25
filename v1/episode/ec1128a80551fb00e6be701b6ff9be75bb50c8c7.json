@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2015/07/09/21331850638090246_hd.mp3",
+  "apple_collection_id": "931778477",
+  "show": "黑马电影",
+  "titel": "何炅发新歌，献给不服输、不服老、不被岁月改变的——另一个自己",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2015/07/09/21331850638090246_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 5256913,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T09:40:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "何炅发新歌，献给不服输、不服老、不被岁月改变的另一个自己。",
+  "kurzfassung": "何炅发布新歌，歌颂青春与岁月的流转。歌曲探讨了人在不同人生阶段与另一个自己的相遇与告别。整首作品充满了对过往的回忆和对未来的期许。",
+  "stichpunkte": [
+    "何炅发布新歌，致敬不服输与不服老的自己",
+    "歌词描绘了在夕阳与夜幕中遇到另一个自己的场景",
+    "表达了对青春未及、时间流逝的感慨",
+    "展现了双手扣紧、人群与孤单中的相互想念",
+    "提及翻山越岭，将歌信与心承诺给另一个自己",
+    "探讨了哭过笑过之后，未来日子继续的坚定",
+    "面对老去的眼睛与分离，表达了不要伤心的安慰",
+    "歌曲最后以动人的旋律和啦啦啦的合唱收尾"
+  ],
+  "kapitel": [
+    {
+      "titel": "初遇另一个自己",
+      "start": 2.7
+    },
+    {
+      "titel": "青春的承诺与告别",
+      "start": 79.08
+    },
+    {
+      "titel": "岁月的重逢与释怀",
+      "start": 183.66
+    }
+  ],
+  "clips": [
+    {
+      "hook": "遇到另一个自己",
+      "start": 34.351,
+      "ende": 54.465,
+      "laenge": 20.11,
+      "byte_start": 600848,
+      "byte_ende": 922675,
+      "bytes": 321828,
+      "range_header": "bytes=600848-922675",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 34.429,
+      "anker_sha256": "db41beacada57abfa0bfe8252df2adb86359ed54896f7ff25921744b94a7e7d6",
+      "einblendung_ms": 60,
+      "text": "是否那春天吹的风下 天飘的雨看见过年少的你 我在夕阳下你在夜幕里 遇到另一个自己 别说我们来不及"
+    },
+    {
+      "hook": "拥抱我们的诗曲",
+      "start": 94.459,
+      "ende": 114.573,
+      "laenge": 20.11,
+      "byte_start": 1562572,
+      "byte_ende": 1884400,
+      "bytes": 321829,
+      "range_header": "bytes=1562572-1884400",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 94.537,
+      "anker_sha256": "bc68584c3c1e728d606390d3f9ec16d24e3d47bf7193b2235e4eeb5ac5e92d8c",
+      "einblendung_ms": 60,
+      "text": "拥抱你的我 拥抱我的你 拥抱我们的诗曲 你哭过几次又笑过了几句 未来的日子继续"
+    },
+    {
+      "hook": "看我老去的眼睛，请不要伤心",
+      "start": 137.378,
+      "ende": 160.392,
+      "laenge": 23.01,
+      "byte_start": 2249279,
+      "byte_ende": 2617500,
+      "bytes": 368222,
+      "range_header": "bytes=2249279-2617500",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 137.456,
+      "anker_sha256": "5aa771a1d04a40dd65b5e6a83aae28473deed58df7020f33a8a542574f878107",
+      "einblendung_ms": 60,
+      "text": "若是有一天相遇 看我老去的眼睛 请不要伤心 他见过你的年轻 意愿"
+    },
+    {
+      "hook": "别说青春来不及",
+      "start": 197.198,
+      "ende": 218.54,
+      "laenge": 21.34,
+      "byte_start": 3206405,
+      "byte_ende": 3547877,
+      "bytes": 341473,
+      "range_header": "bytes=3206405-3547877",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 197.277,
+      "anker_sha256": "2e661d08c403548c383888b5abb17fa2c1b4ec613e1a51ad8dbd63d094651a2a",
+      "einblendung_ms": 60,
+      "text": "别说青春来不及 已经来不及来不及翻山越岭 唱给我的歌词 写给你的心承诺另一个自己 拥抱你的我"
+    },
+    {
+      "hook": "她见过你的年轻",
+      "start": 259.265,
+      "ende": 279.38,
+      "laenge": 20.11,
+      "byte_start": 4199476,
+      "byte_ende": 4521304,
+      "bytes": 321829,
+      "range_header": "bytes=4199476-4521304",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 259.344,
+      "anker_sha256": "1c40290119d9823b8612a4316ae7359e84f3a5f7fbea819057130fb2027b98fa",
+      "einblendung_ms": 60,
+      "text": "若是有一天相遇 看我老去的眼睛 我会想起你 请不要伤心 她见过你的年轻 请不要伤心 她见过你的年轻"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T09:40:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 325,
+  "veroeffentlicht": "2015-07-09T18:16:41+08:00",
+  "beschreibung": "电影《栀子花开》发布暖心推广曲《另一个自己》，该首歌由好妹妹乐队、吴梦知和何炅联手填词，好妹妹乐队作曲，何炅演唱。41岁的何炅，把挑战“另一个自己”、完成导演梦的心声融进歌里，传递出“一切都来得及”的青春态度。电影将于7月10日全国上映。",
+  "beschreibung_html": "电影《栀子花开》发布暖心推广曲《另一个自己》，该首歌由好妹妹乐队、吴梦知和何炅联手填词，好妹妹乐队作曲，何炅演唱。41岁的何炅，把挑战“另一个自己”、完成导演梦的心声融进歌里，传递出“一切都来得及”的青春态度。电影将于7月10日全国上映。",
+  "untertitel": "何炅发新歌，献给不服输、不服老、不被岁月改变的——另一个自己",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2015/07/09/21331868122385415_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

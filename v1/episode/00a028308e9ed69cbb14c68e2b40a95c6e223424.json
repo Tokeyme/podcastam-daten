@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2018/01/28/2649821281732760582_hd.mp3",
+  "apple_collection_id": "1253828107",
+  "show": "Carrie萌育儿研习社",
+  "titel": "NO.66 遇到点困难就发脾气大哭，这孩子也太脆弱！",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2018/01/28/2649821281732760582_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 9079992,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T12:21:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": "Clip-Erzeugung lieferte keinen verwendbaren Ausschnitt"
+  },
+  "einzeiler": "探讨孩子遇到困难就发脾气大哭的脆弱现象背后的原因与应对方法。",
+  "kurzfassung": "本期节目探讨了儿童在遇到困难时容易发脾气和大哭的脆弱表现。分析了这种情绪反应背后的心理机制与家庭教育的影响。同时提供了具体的引导策略，帮助孩子增强抗挫力与情绪管理能力。",
+  "stichpunkte": [
+    "分析儿童遇到困难时发脾气和大哭的心理原因",
+    "探讨现代家庭教育中孩子抗挫力不足的现象",
+    "指出过度保护可能导致孩子情绪调节能力较弱",
+    "强调接纳孩子情绪并给予适当引导的重要性",
+    "提供培养孩子独立解决问题能力的具体方法",
+    "建议家长在面对孩子崩溃时保持冷静与耐心"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与核心话题引入",
+      "start": 10.92
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T12:21:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 564,
+  "veroeffentlicht": "2018-01-28T21:45:07+08:00",
+  "beschreibung": "每个做父母的当然都希望自己的孩子一直健康快乐的成长、一切顺遂，但如果孩子遇到了困难，又该怎么引导，才能让孩子变得内心强大呢？",
+  "beschreibung_html": "每个做父母的当然都希望自己的孩子一直健康快乐的成长、一切顺遂，但如果孩子遇到了困难，又该怎么引导，才能让孩子变得内心强大呢？",
+  "untertitel": "NO.66 遇到点困难就发脾气大哭，这孩子也太脆弱！",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_703801653",
+  "apple_collection_id": "1759810841",
+  "show": "美食【笑不活了】穿成熊猫带领部落种田基建|竹笼寒水",
+  "titel": "序",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoJkmHjAAs7bwKjt2Dw.m4a?channel=rss&album_id=80331560&track_id=703801653&uid=176145352&jt=https://aod.cos.tx.xmcdn.com/storages/ad28-audiofreehighqps/57/F1/GKwRIDoJkmHjAAs7bwKjt2Dw.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 736111,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:15:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "熊猫兽人竹一带领部落开启慢节奏种田基建与美食生活。",
+  "kurzfassung": "竹一觉醒前世记忆后成为熊猫兽人，发现战斗力强大的石铁兽部落仍处石器时代。他带领大小熊猫种田、盖房、制腊肉、烧砖瓦，走向小康。这是一篇充满美食与轻松基建日常的小说序言。",
+  "stichpunkte": [
+    "主角竹一觉醒前世记忆，转生成为熊猫兽人。",
+    "石铁兽部落虽然战斗力强大，但生活仍处于石器时代。",
+    "竹一带领熊猫部落开垦农田、盖房并制作熏制腊肉。",
+    "发展养殖业并掌握烧砖烧瓦技术，丰富物资利用。",
+    "利用竹林编织竹筐、竹篮等日常用具。",
+    "带领熊猫部落走向小康生活，充满慢节奏的基建与美食描写。",
+    "小说设定为未来架空，主角突显的技能归结于兽神力量。",
+    "核心内容涵盖川城熊猫种田基建与弘扬劳动精神。"
+  ],
+  "kapitel": [
+    {
+      "titel": "小说序言与基本设定",
+      "start": 0.0
+    },
+    {
+      "titel": "主角转生与兽人大陆基建",
+      "start": 12.72
+    },
+    {
+      "titel": "标签与核心内容总结",
+      "start": 68.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:15:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 90,
+  "veroeffentlicht": "2024-02-02T07:50:57+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2eb4-audiofreehighqps/54/7B/GKwRIJIJkhfdAAFvoAKjk7IS.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

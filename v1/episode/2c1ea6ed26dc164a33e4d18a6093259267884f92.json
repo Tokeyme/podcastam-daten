@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "6a88164a2b92ab398438722b",
+  "apple_collection_id": "1824332089",
+  "show": "健康中国",
+  "titel": "栗子花生绿豆 肺结节大小与癌变风险",
+  "audio": {
+    "url": "https://f3.kroraina.com.cn/loulan/podcast/6864fdcd68380e5779c056a3/2026/08/21/aad30cf22b2b45b8974fee8c0712e875.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 9533952,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T09:23:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨肺结节成因、大小与癌变风险，专家解析如何科学应对。",
+  "kurzfassung": "本期节目探讨了肺结节的形成因素与癌变风险。专家指出，肺结节的成因复杂，吸烟并非唯一诱因，厨房油烟、空气污染以及情绪等都会对其产生影响。此外，体检发现的结节95%以上为良性，结节大小与恶性概率呈正相关，需根据不同尺寸采取相应的复查和干预措施。",
+  "stichpunkte": [
+    "肺结节的成因多样，吸烟只是其中一个因素",
+    "室内空气污染、厨房油烟等也会影响肺部健康",
+    "长时间生闷气会影响机体免疫机制，导致异物难以排出",
+    "体检发现的肺结节95%以上属于良性结节",
+    "肺结节大小与恶性概念之间存在正相关关系",
+    "小于等于6毫米的结节称为肺微结节，临床干预较少",
+    "大于3厘米的病变在医学上被称为肺占位"
+  ],
+  "kapitel": [
+    {
+      "titel": "肺结节的成因与影响因素",
+      "start": 0.58
+    },
+    {
+      "titel": "情绪对肺部健康的影响",
+      "start": 89.48
+    },
+    {
+      "titel": "肺结节的良恶性与大小关系",
+      "start": 125.86
+    },
+    {
+      "titel": "肺结节的分类与复查建议",
+      "start": 256.56
+    }
+  ],
+  "clips": [
+    {
+      "hook": "肺结节不只跟吸烟有关",
+      "start": 23.688,
+      "ende": 53.784,
+      "laenge": 30.1,
+      "byte_start": 758016,
+      "byte_ende": 1721087,
+      "bytes": 963072,
+      "range_header": "bytes=758016-1721087",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 23.76,
+      "anker_sha256": "1f59a6981ba05472af028948a5793b9a89365502a43cef8924a3a2a2e12e1e9a",
+      "einblendung_ms": 60,
+      "text": "肺结节的形成与哪些因素有关 在这里我也想告诉大家 并不是所有的肺结节都跟吸烟相关 吸烟指的其中的一个因素 还有很多其他的因素 像空气污染 工业污染 二手烟 厨房油烟 房屋装修材料 装饰材料 带给我们的室内空气污染 同样也会影响我们肺部健康"
+    },
+    {
+      "hook": "烹调时如何减少油烟危害",
+      "start": 65.064,
+      "ende": 88.2,
+      "laenge": 23.14,
+      "byte_start": 2082048,
+      "byte_ende": 2822399,
+      "bytes": 740352,
+      "range_header": "bytes=2082048-2822399",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 65.136,
+      "anker_sha256": "e0ec1e2f528c749d803759b8ff6919ba0a688fc2c218052e07a2fe9dca49bc9e",
+      "einblendung_ms": 60,
+      "text": "厨房油烟污染 也是产生肺结节的一个因素之一 我们有煎炸爆炒 室内烧烤 所以在烹调过程中 要始终开着抽油烟机 炒完菜以后 多开着两三分钟 就把整个的厨房油烟先吸走 这是一个非常 非常地科学的办法"
+    },
+    {
+      "hook": "95%以上的肺结节是良性的",
+      "start": 132.336,
+      "ende": 152.424,
+      "laenge": 20.09,
+      "byte_start": 4234752,
+      "byte_ende": 4877567,
+      "bytes": 642816,
+      "range_header": "bytes=4234752-4877567",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 132.408,
+      "anker_sha256": "223ec77a4ca6e1435c108de62479e6b68c0f753098cc0b85b5f40c24f331bbba",
+      "einblendung_ms": 60,
+      "text": "而我们在铁剪时所发现的结节 95%以上都属于良性结节 大部分良性结节 不需要特殊治疗 对日常生活 也几乎没有影响"
+    },
+    {
+      "hook": "结节越长越大，恶性概率越高",
+      "start": 173.016,
+      "ende": 197.232,
+      "laenge": 24.22,
+      "byte_start": 5536512,
+      "byte_ende": 6311423,
+      "bytes": 774912,
+      "range_header": "bytes=5536512-6311423",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 173.088,
+      "anker_sha256": "a6b81ee079b2e6ca9eb12f1233d907130f8218fb74884045bb59bce47139289c",
+      "einblendung_ms": 60,
+      "text": "的确肺结节大小 跟恶性的概念之间 有关系 是有正相关因素的 所以我们可以确切地说 在复查的过程中 这个结节的直径 由8毫米长到了1厘米 由1厘米长到1.5厘米 它出现恶性的概率 那就很高 就应该引起我们的重视"
+    },
+    {
+      "hook": "不同大小的肺结节该如何处理",
+      "start": 264.024,
+      "ende": 292.728,
+      "laenge": 28.7,
+      "byte_start": 8448768,
+      "byte_ende": 9367295,
+      "bytes": 918528,
+      "range_header": "bytes=8448768-9367295",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 264.096,
+      "anker_sha256": "ed09c541a8ed068281cb2c39a2003af237ed271fa6ad43deb3b8e274ea6f21ac",
+      "einblendung_ms": 60,
+      "text": "直径小于等于6毫米的结节 属于肺微结节 不需要定期随绑 直径在6到10毫米之间的结节 属于肺小结节 可以寻求以胸外科医生为主体的 多学科团队进行相应评估 直径大于10毫米的结节 属于肺结节 有必要予以重视 最好能积极就诊 评估手术的必要性"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T09:23:16+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 297,
+  "veroeffentlicht": "2026-08-21T09:11:38+00:00",
+  "beschreibung": "栗子花生绿豆 肺结节大小与癌变风险",
+  "beschreibung_html": "栗子花生绿豆 肺结节大小与癌变风险",
+  "untertitel": "栗子花生绿豆 肺结节大小与癌变风险",
+  "bild_url": "https://f3.kroraina.com.cn/loulan/podcast/noChannelId/2025/07/02/b7043fb30e7846e99bdc7f6aa2cc8ded.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

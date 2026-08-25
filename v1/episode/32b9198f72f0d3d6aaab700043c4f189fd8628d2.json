@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_704006812",
+  "apple_collection_id": "1751142530",
+  "show": "美味小厨娘|扮猪吃虎|宫闱宅斗|美食|绿茶|穿越",
+  "titel": "0001 片花",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasJk2SWAA8WOAKkD-Uo.m4a?channel=rss&album_id=80345974&track_id=704006812&uid=394253561&jt=https://aod.cos.tx.xmcdn.com/storages/e18d-audiofreehighqps/54/43/GKwRIasJk2SWAA8WOAKkD-Uo.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 988728,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:57:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "穿越农家与国公府厨娘的故事片段集锦",
+  "kurzfassung": "本集包含了多个不同故事的片段，涉及农家种植、国公府厨娘的生存与挑战，以及楚国的政局背景。顾玲玲与白寇等角色在各自的情境中面临生活与情感的考验。内容涵盖了从古代农耕、宅斗到战后国家复苏的各种情节。",
+  "stichpunkte": [
+    "五月种植红薯并在十一月迎来丰收",
+    "顾玲玲穿越至农家只想安静种田",
+    "身为国公府厨娘的白寇凭借家传手艺应对厨房排挤",
+    "世子爷用独门菜谱吸引白寇",
+    "楚国女子对某些行为表达不满与冷笑",
+    "楚国经历十年战乱后朝廷减免赋税恢复经济",
+    "周围小国在经济复苏后再次蠢蠢欲动",
+    "顾灵灵的父亲在平乱中战死沙场母亲随后离世"
+  ],
+  "kapitel": [
+    {
+      "titel": "农家与厨娘生活片段",
+      "start": 1.22
+    },
+    {
+      "titel": "世子爷与独门菜谱",
+      "start": 38.96
+    },
+    {
+      "titel": "楚国战后局势与身世背景",
+      "start": 69.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:57:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 121,
+  "veroeffentlicht": "2024-02-03T02:14:42+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a20a-audiofreehighqps/FE/69/GKwRIaIJk2OOAAMw5gKkD2-p.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2026/08/05/3227044388507773958_hd.mp3",
+  "apple_collection_id": "1497254041",
+  "show": "想旅行的拖鞋",
+  "titel": "逃亡木偶乐队 - 废人回收 (demo)",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2026/08/05/3227044388507773958_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 5308498,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T09:46:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "逃亡木偶乐队带来歌曲废人回收的demo版本。",
+  "kurzfassung": "本期节目为听众带来了逃亡木偶乐队的作品废人回收的demo。歌曲由李宗盛词曲创作并演唱。内容主要包含完整的音乐演示及相关旋律展示。",
+  "stichpunkte": [
+    "逃亡木偶乐队带来废人回收的demo版本",
+    "词曲创作及演唱者为李宗盛",
+    "歌词包含对自我状态的描绘与表达",
+    "展示了歌曲的初步编曲与演唱结构"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲开场与主歌部分",
+      "start": 30.0
+    },
+    {
+      "titel": "副歌与音乐过渡",
+      "start": 154.48
+    },
+    {
+      "titel": "结尾与演职员信息",
+      "start": 241.32
+    }
+  ],
+  "clips": [
+    {
+      "hook": "我只是家庄佛",
+      "start": 84.062,
+      "ende": 107.311,
+      "laenge": 23.25,
+      "byte_start": 1397654,
+      "byte_ende": 1769637,
+      "bytes": 371984,
+      "range_header": "bytes=1397654-1769637",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 84.14,
+      "anker_sha256": "38a92fe904fa8b62206c793252d37fb8dec6d294f474b0d88bec461a9b43a3f4",
+      "einblendung_ms": 60,
+      "text": "我只是家庄佛 我才帅 也许你太高 也许你太高"
+    },
+    {
+      "hook": "我只是家庄佛，我才帅",
+      "start": 122.619,
+      "ende": 142.733,
+      "laenge": 20.11,
+      "byte_start": 2014562,
+      "byte_ende": 2336390,
+      "bytes": 321829,
+      "range_header": "bytes=2014562-2336390",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 122.697,
+      "anker_sha256": "0476a1e7825c04d9cb44546cefa13a752d06bb4c9922d94b032035627fa6192b",
+      "einblendung_ms": 60,
+      "text": "我只是家庄佛 我才帅 也许你太高 还要找"
+    },
+    {
+      "hook": "西洋西沙罗，跨河沓",
+      "start": 162.011,
+      "ende": 182.126,
+      "laenge": 20.11,
+      "byte_start": 2644844,
+      "byte_ende": 2966672,
+      "bytes": 321829,
+      "range_header": "bytes=2644844-2966672",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 162.09,
+      "anker_sha256": "ce4998312441e71281a929b3de7683428b42003c41132cd3362735dc278224ef",
+      "einblendung_ms": 60,
+      "text": "西洋西沙罗 跨河沓 甲板河 酒屋也范大"
+    },
+    {
+      "hook": "我只是假装活着，我早已衰老",
+      "start": 177.371,
+      "ende": 198.505,
+      "laenge": 21.13,
+      "byte_start": 2890604,
+      "byte_ende": 3228732,
+      "bytes": 338129,
+      "range_header": "bytes=2890604-3228732",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 177.45,
+      "anker_sha256": "a89793b8c1c7de45ae04a0d3a214fa991cbd17c1e18e5c5df74789645c42baf6",
+      "einblendung_ms": 60,
+      "text": "我只是假装活着 我早已衰老 月明升高 月明升高"
+    },
+    {
+      "hook": "我天天大大的",
+      "start": 253.518,
+      "ende": 273.606,
+      "laenge": 20.09,
+      "byte_start": 4108955,
+      "byte_ende": 4430365,
+      "bytes": 321411,
+      "range_header": "bytes=4108955-4430365",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 253.597,
+      "anker_sha256": "ecae398b67d69fc538341e298e03819e73af589e382effb8bbbd96a3b21dd408",
+      "einblendung_ms": 60,
+      "text": "我天天大大的 亮 muchas le猛 我天天大大的 我天天大大的"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T09:46:36+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 328,
+  "veroeffentlicht": "2026-08-05T21:45:31+08:00",
+  "beschreibung": "“废人回收“\n\n面无表情心事重重\n\n铁皮箱子包裹运往\n\n每个城市劳作的角落\n\n夕阳西下落荒而逃\n\n加班喝酒午夜放荡\n\n日复一日狼狈如常\n\n而我\n\n只是假装活着\n\n而我\n\n早已衰老\n\n废品收购\n\n废品收购\n\n黑暗中，奄奄一息的呐喊\n\n废品收购\n\n废品收购\n\n还给我，孩子的眼眸\n\n你是废品 我是废品 全是废品 一起收购\n\n回忆是废品 希望是废品 永恒是废品 通通收购”",
+  "beschreibung_html": "<myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>“废人回收“</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>面无表情心事重重</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>铁皮箱子包裹运往</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>每个城市劳作的角落</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>夕阳西下落荒而逃</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>加班喝酒午夜放荡</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>日复一日狼狈如常</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>而我</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>只是假装活着</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>而我</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>早已衰老</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>废品收购</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>废品收购</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>黑暗中，奄奄一息的呐喊</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>废品收购</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>废品收购</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>还给我，孩子的眼眸</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>你是废品 我是废品 全是废品 一起收购</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>回忆是废品 希望是废品 永恒是废品 通通收购”</p>\n</myfont>",
+  "untertitel": "逃亡木偶乐队 - 废人回收 (demo)",
+  "kapitel_quelle": "modell"
+}

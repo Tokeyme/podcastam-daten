@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_974495531",
+  "apple_collection_id": "1576234873",
+  "show": "西班牙语脱口秀",
+  "titel": "西语时政新闻精读 习近平寄语中国青年：把个人理想融入国家发展",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJENzrgFAA1migSUTPJ0.m4a?channel=rss&album_id=51153783&track_id=974495531&uid=87275422&jt=https://aod.cos.tx.xmcdn.com/storages/163f-audiofreehighqps/CE/57/GKwRIJENzrgFAA1migSUTPJ0.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 878218,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:48:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "本期节目暂无具体时政内容。",
+  "kurzfassung": "本期节目仅包含字幕提供信息，无实际内容。因此无法提供详细的摘要。请关注后续内容的更新。",
+  "stichpunkte": [
+    "节目开始提供中文字幕",
+    "未涉及其他具体时政内容"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开始",
+      "start": 23.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:48:36+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 108,
+  "veroeffentlicht": "2026-05-04T19:35:25+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/edee-audiofreehighqps/8C/B1/GKwRIRwNzraEAAGGqgSUTLAJ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

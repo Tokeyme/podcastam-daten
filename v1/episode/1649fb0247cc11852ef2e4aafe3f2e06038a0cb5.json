@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_876856275",
+  "apple_collection_id": "1597735696",
+  "show": "《新编初中文言文助读》",
+  "titel": "255.1干将莫邪（原文）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAMMoFWABAAAAPSICIx.m4a?channel=rss&album_id=54536423&track_id=876856275&uid=6298729&jt=https://aod.cos.tx.xmcdn.com/storages/ca52-audiofreehighqps/C2/74/GKwRIMAMMoFWABAAAAPSICIx.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 2007064,
+    "format": "unbekannt",
+    "geprueft_am": "2026-08-24T09:09:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Audioformat nicht bestimmbar - ohne bekanntes Format waeren die Byte-Grenzen geraten"
+  },
+  "einzeiler": "干将莫邪为楚王 铸剑三年遭杀害，其子复仇终雪恨",
+  "kurzfassung": "干将莫邪为楚王铸造雌雄宝剑耗时三年，因遭楚王猜忌而被杀。其子长大后得知真相，带着宝剑与客人合力复仇。最终客人和少年与楚王同归于尽，骨肉难辨。",
+  "stichpunkte": [
+    "干将莫邪为楚王铸造雌雄鉴历时三年乃成",
+    "楚王大怒欲杀干将，干将临终前告知妻子剑的藏匿处",
+    "干将之子赤长大后循着线索在石松之间找到雄剑",
+    "楚王梦见复仇少年并悬赏千金缉拿赤的头颅",
+    "赤在山中行歌时遇到客，客答应助其报仇",
+    "客取下赤的头颅与宝剑前往面见楚王",
+    "楚王将赤的头颅放入汤中煮三日不烂",
+    "客诱使楚王亲自临视，趁机斩下楚王头颅并自刎入汤",
+    "三人头颅在汤中皆烂不可识别，最终分七汤肉安葬"
+  ],
+  "kapitel": [
+    {
+      "titel": "铸剑与遇害",
+      "start": 1.78
+    },
+    {
+      "titel": "寻剑与复仇",
+      "start": 36.34
+    },
+    {
+      "titel": "殿前同归于尽",
+      "start": 103.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T09:09:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 139,
+  "veroeffentlicht": "2025-06-26T03:28:23+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9a41-audiofreehighqps/C0/6D/CKwRIJEFXVUFAAChgwD0uGoC.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

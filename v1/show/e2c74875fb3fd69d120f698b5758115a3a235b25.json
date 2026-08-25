@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "动画电影异闻录",
+  "apple_collection_id": "1079757808",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/01/18/5157110357818529286_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/01/18/5157110357818529286_hd.mp3",
+      "pfad": "/v1/episode/6e24eaaaea2a5fe5297e52dca500ef041581fccc.json",
+      "titel": "vol.38 1/2的魔法：挥别父亲，走向自我",
+      "veroeffentlicht": "2021-01-18T19:44:23+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "皮克斯动画《1/2的魔法》通过奇幻冒险探讨成长与亲情，但剧作存在缺陷。"
+    }
+  ]
+}

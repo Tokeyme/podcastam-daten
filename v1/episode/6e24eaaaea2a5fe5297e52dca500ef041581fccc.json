@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2021/01/18/5157110357818529286_hd.mp3",
+  "apple_collection_id": "1079757808",
+  "show": "动画电影异闻录",
+  "titel": "vol.38 1/2的魔法：挥别父亲，走向自我",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2021/01/18/5157110357818529286_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 39357110,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T01:36:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "皮克斯动画《1/2的魔法》通过奇幻冒险探讨成长与亲情，但剧作存在缺陷。",
+  "kurzfassung": "播客探讨了皮克斯电影《1/2的魔法》的优缺点，认为该片喜剧效果出色且主角成长弧光清晰，但世界观设定和情感主线略显薄弱。两位主播剖析了兄弟关系与父子情结的处理，并对比了其他皮克斯作品。整体而言，该片在皮克斯作品序列中处于中游水平。",
+  "stichpunkte": [
+    "导演丹·斯坎隆取材自身童年经历，延续了皮克斯挖掘短片导演执导长片的传统",
+    "影片整体氛围欢乐，喜剧桥段自然且笑点密集，避免了尴尬感",
+    "男主角的成长与魔法概念结合紧密，展现了潜能的觉醒与自信的建立",
+    "世界观设定将桌面RPG元素融入现代都市，但细节构建相对粗糙",
+    "兄弟二人之间的信任危机和情感冲突在剧作上处理得不够扎实",
+    "父亲形象的缺席与兄弟情谊的对照在主题表达上显得有些模糊和突兀",
+    "对比《飞屋环游记》和《怪兽大学》，该片在剧作深度上有所欠缺"
+  ],
+  "kapitel": [
+    {
+      "titel": "影片基本信息与导演背景介绍",
+      "start": 43.88
+    },
+    {
+      "titel": "整体评价与喜剧效果分析",
+      "start": 221.68
+    },
+    {
+      "titel": "影片的优点：喜剧设计与主角成长",
+      "start": 419.8
+    },
+    {
+      "titel": "高光笑点讨论与细节分析",
+      "start": 714.96
+    },
+    {
+      "titel": "剧作批评：兄弟关系与世界观设定",
+      "start": 871.42
+    }
+  ],
+  "clips": [
+    {
+      "hook": "喜剧效果合格，真心笑出来的时刻并不少",
+      "start": 266.736,
+      "ende": 286.825,
+      "laenge": 20.09,
+      "byte_start": 4320428,
+      "byte_ende": 4641837,
+      "bytes": 321410,
+      "range_header": "bytes=4320428-4641837",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 266.815,
+      "anker_sha256": "6e4ee26ceee5d5516bc345dc35453408b181fd240ba9ceb3e6dec7fad690e71c",
+      "einblendung_ms": 60,
+      "text": "这种情况基本上是比较少的 你基本上在这里面 你是总会有那么一两个地方 你会真心的这种笑出来 所以我觉得这一点 在喜剧上这个是 我觉得给他打一个合格的分"
+    },
+    {
+      "hook": "巨龙皱眉头的全片最高光时刻",
+      "start": 775.21,
+      "ende": 795.324,
+      "laenge": 20.11,
+      "byte_start": 12456003,
+      "byte_ende": 12777831,
+      "bytes": 321829,
+      "range_header": "bytes=12456003-12777831",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 775.288,
+      "anker_sha256": "3f9493bb1161279bca1ce48ef8dd9f0950fbee0d4fc62152c8868d1821fd5b4e",
+      "einblendung_ms": 60,
+      "text": "就是那个龙皱眉头 哇 那个是太牛逼了 我觉得就全片最高光 就是它这个 最后有流行文化的 各种标语"
+    },
+    {
+      "hook": "世界观设定流于表面，像是一拍脑袋的产物",
+      "start": 1115.455,
+      "ende": 1135.543,
+      "laenge": 20.09,
+      "byte_start": 17899922,
+      "byte_ende": 18221331,
+      "bytes": 321410,
+      "range_header": "bytes=17899922-18221331",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1115.533,
+      "anker_sha256": "dfc66bbbc56fedb8a380bf19feab272c8c67bc1bde966f96aa62aca3c67a0028",
+      "einblendung_ms": 60,
+      "text": "他的剧作从两层上 我觉得都没有特别的成立 就比如说 我觉得第一层就是说 我觉得他的世界观来讲 虽然你之前提到 就是拿了一些这个D&D的 龙与地下城的一些设定"
+    },
+    {
+      "hook": "旅程的受挫让男主角重新陷入自我怀疑",
+      "start": 1589.42,
+      "ende": 1609.535,
+      "laenge": 20.11,
+      "byte_start": 25483373,
+      "byte_ende": 25805201,
+      "bytes": 321829,
+      "range_header": "bytes=25483373-25805201",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1589.499,
+      "anker_sha256": "a33ef01482555dcf84520d75cf37b1945439d5a519cb35b84d097b3e3063ed37",
+      "einblendung_ms": 60,
+      "text": "他整个这个旅程 实际上就等于是 定义被失败了 那一天他又开始拒绝 他就又觉得 自己不行了 他就是又开始拒绝 就是自己的能力"
+    },
+    {
+      "hook": "相比之下，《勇敢传说》的故事要完整得多",
+      "start": 2347.128,
+      "ende": 2367.242,
+      "laenge": 20.11,
+      "byte_start": 37606697,
+      "byte_ende": 37928525,
+      "bytes": 321829,
+      "range_header": "bytes=37606697-37928525",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2347.206,
+      "anker_sha256": "8c5f2a7a3c3b36731889d6c00e5569b646df6fc6931530ab8de597e69347fd2e",
+      "einblendung_ms": 60,
+      "text": "但我觉得brave 特别完整 就是他没有那个混乱的 对他其实还没有 brave 那么的完整 对 毕竟我挺喜欢"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-25T01:36:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2456,
+  "veroeffentlicht": "2021-01-18T19:44:23+08:00",
+  "beschreibung": "相比Pete Doctor驾轻就熟的创作，Dan Scanlon这位指导了《怪物大学》和《1/2的魔法》的新人导演仍旧在摸索自己的风格。他的两部影片无疑表现出了他对“兄弟”主角与喜剧题材的偏好。在《1/2的魔法》中，我们虽然看到了很多可圈可点的新颖笑点，但也无法不注意到主线亲情的牵强部分。虽然片中的亲情体验都与导演本人经历直接相关，但最后影片呈现出的，究竟是真诚动人的“心之火焰”，还是尽失锋芒的温吞水呢？\n\n（本期节目于去年秋季录制，所以节目中若提到日期则是指2020年）",
+  "beschreibung_html": "<myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>相比Pete Doctor驾轻就熟的创作，Dan Scanlon这位指导了《怪物大学》和《1/2的魔法》的新人导演仍旧在摸索自己的风格。他的两部影片无疑表现出了他对“兄弟”主角与喜剧题材的偏好。在《1/2的魔法》中，我们虽然看到了很多可圈可点的新颖笑点，但也无法不注意到主线亲情的牵强部分。虽然片中的亲情体验都与导演本人经历直接相关，但最后影片呈现出的，究竟是真诚动人的“心之火焰”，还是尽失锋芒的温吞水呢？</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>（本期节目于去年秋季录制，所以节目中若提到日期则是指2020年）</p>\n</myfont>",
+  "untertitel": "vol.38 1/2的魔法：挥别父亲，走向自我",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2021/01/18/2851304060449172487_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

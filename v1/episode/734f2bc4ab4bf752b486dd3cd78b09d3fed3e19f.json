@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_758049772",
+  "apple_collection_id": "1769041196",
+  "show": "吕著《中国通史》｜原文白话文有声书｜聆听历史长河",
+  "titel": "《吕著中国通史》吕思勉简介",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIKwgiNAAWCpgMSXhGc.m4a?channel=rss&album_id=83619287&track_id=758049772&uid=40665752&jt=https://aod.cos.tx.xmcdn.com/storages/f037-audiofreehighqps/53/97/GKwRIJIKwgiNAAWCpgMSXhGc.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 361126,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T07:54:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨吕思勉及其《吕著中国通史》的学术价值与阅读意义",
+  "kurzfassung": "本集介绍了中国近现代著名历史学家吕思勉及其重要著作《吕著中国通史》。吕思勉认为历史是理解现在与指导未来的学问。节目阐述了推荐阅读该书的理由，指出其展现了中华文明的发展脉络。",
+  "stichpunkte": [
+    "吕思勉是中国近现代著名的历史学家",
+    "其一生致力于历史研究与教学工作",
+    "主要著作包括《吕著中国通史》、《先秦史》和《秦汉史》等",
+    "吕思勉强调历史不仅是过去记录，更是理解现在指导未来的学问",
+    "其作品兼具极高的学术价值与清晰深刻的叙述风格",
+    "推荐阅读该书是为了深刻理解中华文明发展脉络并把握当下现实",
+    "该书以独特视角和方法展现了全面而深刻的中华文明画卷"
+  ],
+  "kapitel": [
+    {
+      "titel": "吕思勉生平与主要著作",
+      "start": 0.0
+    },
+    {
+      "titel": "吕思勉的历史观与作品特点",
+      "start": 18.32
+    },
+    {
+      "titel": "推荐阅读《吕著中国通史》的理由",
+      "start": 34.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T07:54:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 58,
+  "veroeffentlicht": "2024-09-19T15:38:50+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/07d0-audiofreehighqps/45/BE/GAqhav0Kv26pAAJCzQMRa0WI.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

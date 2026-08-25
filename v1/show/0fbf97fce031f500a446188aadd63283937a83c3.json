@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "猫鼠游戏播客",
+  "apple_collection_id": "1585338504",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101937108629201926_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/30/3101937108629201926_hd.mp3",
+      "pfad": "/v1/episode/50e7ad601f85795eeb973391606e5d6337be640e.json",
+      "titel": "HPV藏匿背后：沉默的海拉细胞",
+      "veroeffentlicht": "2024-10-09T17:30:00+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨医学史上海拉细胞的来源，及其引发的知情同意与人体组织所有权争议。"
+    }
+  ]
+}

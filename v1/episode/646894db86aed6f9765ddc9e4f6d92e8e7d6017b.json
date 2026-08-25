@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_530746152",
+  "apple_collection_id": "1581729751",
+  "show": "生活百科冷知识",
+  "titel": "正月为啥不兴剃头？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIGUStsACAAAAFQJvn6-aacv2-48K.m4a?channel=rss&album_id=20725551&track_id=530746152&uid=147874613&jt=https://aod.cos.tx.xmcdn.com/storages/ef49-audiofreehighqps/E9/C3/GKwRIaIGUStsACAAAAFQJvn6-aacv2-48K.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 581068,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:27:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探究正月不剃头习俗的民间传说与历史渊源。",
+  "kurzfassung": "中国民间长期流传着正月不剃头的习俗，并伴有“剃头死舅舅”的说法。这一俗语源于一个贫穷孝顺的剃头匠在正月里思念已故舅舅的故事。后来“思舅”在民间讹传为“死舅”，从而演变出了现在的禁忌。",
+  "stichpunkte": [
+    "民间长期流行“正月不剃头，剃头死舅舅”的说法",
+    "人们对待这一习俗往往抱有宁可信其有、不可信其无的态度",
+    "传说很久以前有一个贫穷且孝顺的剃头匠",
+    "剃头匠每年过年时都会给舅舅理发修面以尽孝心，坚持了十几年",
+    "某年新年，剃头匠突然想起舅舅已经去世，因而嚎啕大哭",
+    "整个正月里，他因为心情悲痛而没有给别人剃头",
+    "邻居街坊得知后称其为“正月不剃头，意在思舅舅”",
+    "“思舅”一词在民间逐渐被讹传为“死舅”，形成了现在的说法"
+  ],
+  "kapitel": [
+    {
+      "titel": "正月不剃头的民间习俗",
+      "start": 4.1
+    },
+    {
+      "titel": "孝顺剃头匠的故事",
+      "start": 25.84
+    },
+    {
+      "titel": "思舅讹传为死舅",
+      "start": 67.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:27:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 95,
+  "veroeffentlicht": "2023-08-25T00:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5b74-audiofreehighqps/3B/0D/GKwRIaIF6BoRAAGoRwEZ_CpE.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

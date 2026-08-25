@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_891118824",
+  "apple_collection_id": "1823602452",
+  "show": "读书吧，书虫",
+  "titel": "情绪重建：不“管理”情绪，也能掌控人生",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4MVp3UACAAAAPocCYz.mp3.m4a?channel=rss&album_id=95484425&track_id=891118824&uid=137407298&jt=https://aod.cos.tx.xmcdn.com/storages/c8fb-audiofreehighqps/CC/17/GKwRIW4MVp3UACAAAAPocCYz.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 30575018,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T22:11:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "情绪无需被管理，而是面对现实的镜子和内在信号。",
+  "kurzfassung": "本期节目探讨了情绪的本质，指出情绪不需要被管理或消除，而是我们面对现实的镜子与信号。节目分析了情绪功能失调的六个原因，并介绍了接纳、积极重新评估、注意力转移等五种积极的调节策略。最后，讨论了如何通过有效沟通和自我表露来改善人际关系并与孤独共处。",
+  "stichpunkte": [
+    "情绪不是需要控制的问题，而是反映生活状况的镜子与信号。",
+    "情绪包含主观体验、行为表现、生理机制等核心部分，其中主观性最难捉摸。",
+    "心理学家提出了情绪功能失调的六个原因，包括感知不到情绪和缺乏认知等。",
+    "反对盲目对抗情绪，主张通过构建新关系让情绪成为积极部分。",
+    "介绍了五种积极的情绪调节策略，包括接纳、重新评估和转移注意力等。",
+    "需要警惕内疚自责、责怪他人、反除和灾难化思维这四种消极策略。",
+    "通过描述性自我对话替代分析式对话，能够更真实地体验并化解情绪。",
+    "人际关系中的冲突常源于假定别人会读心，自我表露是拉近距离的黄金法则。"
+  ],
+  "kapitel": [
+    {
+      "titel": "情绪的本质：镜子而非敌人",
+      "start": 0.0
+    },
+    {
+      "titel": "情绪的构成与功能失调的原因",
+      "start": 210.66
+    },
+    {
+      "titel": "五种积极的情绪调节策略",
+      "start": 768.46
+    },
+    {
+      "titel": "警惕四种消极的思维模式",
+      "start": 1420.84
+    },
+    {
+      "titel": "情绪与人际关系及孤独",
+      "start": 1707.94
+    }
+  ],
+  "clips": [
+    {
+      "hook": "情绪根本不需要被管理",
+      "start": 50.599,
+      "ende": 70.713,
+      "laenge": 20.11,
+      "byte_start": 809636,
+      "byte_ende": 1131464,
+      "bytes": 321829,
+      "range_header": "bytes=809636-1131464",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 50.678,
+      "anker_sha256": "5d4d6d66e7ff56b883f5ed1ff1dcc762115d5f0e5aa0eb3fa1921488b8e69c47",
+      "einblendung_ms": 60,
+      "text": "因为我的理解是,情绪, 它根本就不需要被管理,而且,它也根本不会服从管理。 这话听起来,是不是有点颠覆你的认知啊?"
+    },
+    {
+      "hook": "蒙娜丽莎的微笑与情绪的主观性",
+      "start": 442.044,
+      "ende": 462.158,
+      "laenge": 20.11,
+      "byte_start": 7072755,
+      "byte_ende": 7394582,
+      "bytes": 321828,
+      "range_header": "bytes=7072755-7394582",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 442.122,
+      "anker_sha256": "d8c76a4bc5427a847cc53e913ccf429f7bb72d01848e261017c4df7be93810c8",
+      "einblendung_ms": 60,
+      "text": "蒙娜丽莎的微笑被软件分析出来有83%的喜悦。 但我们依然很难相信,两个人做出一样的表情,情绪也完全一样。 所以啊,情绪之所以捉摸不透,最根本的原因就是它的主观性。"
+    },
+    {
+      "hook": "像牛奶一样流淌的情绪",
+      "start": 862.903,
+      "ende": 883.017,
+      "laenge": 20.11,
+      "byte_start": 13806495,
+      "byte_ende": 14128323,
+      "bytes": 321829,
+      "range_header": "bytes=13806495-14128323",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 862.981,
+      "anker_sha256": "207486085f5c3dd6e42f54f2e5155e82759596e442b460cc105c1cbe820cdc1b",
+      "einblendung_ms": 60,
+      "text": "而有经验的奶农知道啊 牛奶是流动的 你不去冲洗它 它自然会慢慢流淌 最终流走"
+    },
+    {
+      "hook": "不要去想粉红色的痛相",
+      "start": 1173.42,
+      "ende": 1193.535,
+      "laenge": 20.11,
+      "byte_start": 18774776,
+      "byte_ende": 19096604,
+      "bytes": 321829,
+      "range_header": "bytes=18774776-19096604",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1173.499,
+      "anker_sha256": "c018e2913eec88d5fd11619fa0d9ca728e67aa54825f78012e040e85445b6803",
+      "einblendung_ms": 60,
+      "text": "当你被要求 不要想象一头粉红色的痛相时 你反而会一直去想 这说明我们没办法不去想什么 因为不去想"
+    },
+    {
+      "hook": "面对灾难化想法的连环一百问",
+      "start": 1625.783,
+      "ende": 1645.897,
+      "laenge": 20.11,
+      "byte_start": 26012575,
+      "byte_ende": 26334403,
+      "bytes": 321829,
+      "range_header": "bytes=26012575-26334403",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1625.861,
+      "anker_sha256": "bb2166127affe77789360d62b6b540b21926d43d3539cc90b7794379a5c50c5b",
+      "einblendung_ms": 60,
+      "text": "当你听到自己说全都完了的时候,问问自己,那又怎样呢? 进行连环一百问,你可能会发现答案是也没怎么样, 或者不过如此。 情绪也就不那么糟糕了。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T22:11:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1910,
+  "veroeffentlicht": "2025-07-24T00:00:00+00:00",
+  "beschreibung": "你是不是也常常被情绪困扰？总想“管理”负面情绪，却发现越想控制越失控？今天的节目，我们要聊一本颠覆你认知的书，它告诉你：情绪根本不需要被管理，它也根本不会服从管理！\n在这本《情绪的重建》中，作者深刻剖析了情绪的本质，指出情绪是我们面对现实的一面镜子，哪怕是负面情绪，也是在传递信息。我们常常把情绪当成“问题”去处理，结果反而深陷其中。书中提出的核心观点是，我们应该构建一种与情绪的新关系，让情绪成为我们变得更好的那一部分。\n你是否也曾感到：情绪太强烈，不敢面对？无法接纳当下的负面情绪？甚至在强烈情绪波动中失控？本期节目将深入探讨情绪困扰的六大根源，并为你提供五种积极有效的情绪调节策略，比如“接纳情绪如流动液体”、“对事件积极重新评估”等。同时，我们还会警惕并停止“内疚自责”、“责怪他人”、“反刍”等消极思维模式。\n如果你也渴望摆脱情绪的束缚，找到与情绪和谐共处之道，那么这期节目你一定不能错过。我们将在节目中为你揭秘，如何通过情绪的重建，最终实现情绪的成熟，掌控自己的人生！立即收听，开启你的情绪自由之旅吧！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>你是不是也常常被情绪困扰？总想“管理”负面情绪，却发现越想控制越失控？</span><span>今天的节目，我们要聊一本颠覆你认知的书，它告诉你：情绪根本不需要被管理，它也根本不会服从管理！</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>在这本《情绪的重建》中，作者深刻剖析了情绪的本质，指出情绪是我们面对现实的一面镜子，哪怕是负面情绪，也是在传递信息</span><span>。我们常常把情绪当成“问题”去处理，结果反而深陷其中。书中提出的核心观点是，我们应该构建一种与情绪的新关系，让情绪成为我们变得更好的那一部分</span>。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>你是否也曾感到：情绪太强烈，不敢面对？</span><span>无法接纳当下的负面情绪？</span><span>甚至在强烈情绪波动中失控？</span><span>本期节目将深入探讨情绪困扰的六大根源，并为你提供五种积极有效的情绪调节策略，比如“接纳情绪如流动液体”、“对事件积极重新评估”等</span><span>。同时，我们还会警惕并停止“内疚自责”、“责怪他人”、“反刍”等消极思维模式</span>。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">如果你也渴望摆脱情绪的束缚，找到与情绪和谐共处之道，那么这期节目你一定不能错过。我们将在节目中为你揭秘，如何通过情绪的重建，最终实现情绪的成熟，掌控自己的人生！立即收听，开启你的情绪自由之旅吧！</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9f7b-audiofreehighqps/B7/54/GAqhfD0MNmAZAALBGgPUrcC9.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "小爱聊电影",
+  "apple_collection_id": "770580868",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2019/07/31/5057486515255985670_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2019/07/31/5057486515255985670_hd.mp3",
+      "pfad": "/v1/episode/55296cb4f4a9becb917ad1eeec2ba904175b5b4f.json",
+      "titel": "哪吒：魔童降世 － 小爱做客中央广播电视总台访谈录",
+      "veroeffentlicht": "2019-07-31T16:31:27+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "独立影评人小爱解析现象级动画电影《哪吒之魔童降世》的成功秘诀。"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group14/M03/41/3C/wKgDZFcI9LWwgYEoAAxdgQeUX14715.m4a",
+  "apple_collection_id": "1156018929",
+  "show": "读书：我还是想你，妈妈 阿列克谢耶维奇",
+  "titel": "序",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDZFcI9LWwgYEoAAxdgQeUX14715.m4a?channel=rss&album_id=4044956&track_id=14205486&uid=34956080&jt=https://aod.cos.tx.xmcdn.com/group14/M03/41/3C/wKgDZFcI9LWwgYEoAAxdgQeUX14715.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 810369,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:39:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨陀思妥耶夫斯基关于无辜孩子眼泪的道德拷问与历史反思。",
+  "kurzfassung": "本集探讨了陀思妥耶夫斯基提出的深刻哲学问题：为了未来的和平与和谐，是否能以无辜孩子的眼泪为代价。节目列举了多个族群背景，并得出结论认为任何革命或战争都无法由无辜者的泪水来辩护。最后，呼吁听众对相关栏目给予支持。",
+  "stichpunkte": [
+    "提及乌克兰人、犹太人、达达人等多族群背景",
+    "引用陀思妥耶夫斯基关于和平与无辜孩子眼泪的经典提问",
+    "探讨为了永恒和谐需要付出无辜代价是否合理",
+    "明确指出任何进步、革命或战争都无法洗刷无辜者的泪水",
+    "强调无辜孩子的眼泪永远无法被合理化",
+    "结尾呼吁观众对明镜与点点栏目进行点赞、订阅、转发与打赏"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与支持呼吁",
+      "start": 13.8
+    },
+    {
+      "titel": "陀思妥耶夫斯基的道德拷问",
+      "start": 41.14
+    },
+    {
+      "titel": "对革命与战争代价的反思",
+      "start": 65.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:39:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 100,
+  "veroeffentlicht": "2016-04-09T12:25:23+00:00",
+  "bild_url": "https://static2.ximalaya.com//css/img/common/track_.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_533791825",
+  "apple_collection_id": "1587907611",
+  "show": "Sherry的读书分享",
+  "titel": "感知理知自我认知第三章统觉及其他",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasGWrfaACAAAAFWj0EY.mp3.m4a?channel=rss&album_id=53437607&track_id=533791825&uid=369173975&jt=https://aod.cos.tx.xmcdn.com/storages/40f1-audiofreehighqps/5E/65/GKwRIasGWrfaACAAAAFWj0EY.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 38002439,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T17:25:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨感知、统觉、综合感觉及因果时间感知等哲学心理学议题",
+  "kurzfassung": "本集探讨了感知理知的第三章统觉及其他，内容涵盖不限于特定感官的感觉、感官协作与连觉、物质感与语感。接着讨论了笼统感觉、预感、因果感知以及时间感知与记忆的关系。最后指出哲学问题错综复杂，真理往往是整全的。",
+  "stichpunkte": [
+    "五官之间存在广泛协作，如视觉与触觉合作获得距离感知，嗅觉和视觉也影响味觉。",
+    "连觉比感官协作更为神秘，例如看到梅子联想到酸味，或声音大小影响对体积的感知。",
+    "物质感是一种纯粹的感觉，强烈的物质感往往与概念能力相克。",
+    "笼统感觉或综合感觉不依赖于某一个单一感官渠道，例如对危险或友善的直觉。",
+    "日常语言中的感觉可视为初级判断或前判断，处于由模糊到清楚的尺寸之间。",
+    "因果感知表明我们能直接感觉到原因，挑战了休谟认为因果纯粹是理智虚构的观点。",
+    "时间感知常被视为内感知，与记忆紧密相连，回忆往往不依赖于外部证据。",
+    "知识论中存在法庭比喻的影响，但很多感知和回忆就像肢体未知觉一样不需要证据来证明。"
+  ],
+  "kapitel": [
+    {
+      "titel": "不限于特定感官的感觉与连觉",
+      "start": 12.62
+    },
+    {
+      "titel": "物质感与语感",
+      "start": 242.64
+    },
+    {
+      "titel": "笼统的感觉与预感",
+      "start": 320.1
+    },
+    {
+      "titel": "因果感知",
+      "start": 549.96
+    },
+    {
+      "titel": "时间感知与记忆",
+      "start": 748.9
+    },
+    {
+      "titel": "知识与证据的关系",
+      "start": 910.98
+    },
+    {
+      "titel": "哲学的错综复杂与结语",
+      "start": 970.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "器皿颜色和形质会影响食品味道",
+      "start": 110.08,
+      "ende": 130.194,
+      "laenge": 20.11,
+      "byte_start": 3526657,
+      "byte_ende": 4170313,
+      "bytes": 643657,
+      "range_header": "bytes=3526657-4170313",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 110.158,
+      "anker_sha256": "9026d2196116f3074a69628f8a0e9ec0e988f2a9a549d00e7fdd7d070679bd64",
+      "einblendung_ms": 60,
+      "text": "同样的食品 你用不同的器皿 器皿的颜色 形质不同 吃起来味道会不一样"
+    },
+    {
+      "hook": "物质感特别强的人概念能力往往较差",
+      "start": 283.429,
+      "ende": 303.543,
+      "laenge": 20.11,
+      "byte_start": 9073811,
+      "byte_ende": 9717467,
+      "bytes": 643657,
+      "range_header": "bytes=9073811-9717467",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 283.507,
+      "anker_sha256": "f6ca6bc3b4d26b389151e82987b39defe733030c7bacbf6b3c61c447916778ad",
+      "einblendung_ms": 60,
+      "text": "实际上物质感特别强的人 往往他的概念能力就比较差 反过来也成立 我自己概念能力比较强 物质感比较差 物质感跟概念能力比较强 能力往往相克"
+    },
+    {
+      "hook": "休谟认为因果感知是理智虚构的东西",
+      "start": 585.352,
+      "ende": 605.466,
+      "laenge": 20.11,
+      "byte_start": 18735356,
+      "byte_ende": 19379012,
+      "bytes": 643657,
+      "range_header": "bytes=18735356-19379012",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 585.43,
+      "anker_sha256": "0592944d6cf8f3efb3cf223799366afc44a14040353d400a739fcb8ab7e89b91",
+      "einblendung_ms": 60,
+      "text": "修摩认为一切都要从感知中来 但因果是感觉不到的 所以到底有没有因果 这回事就十分可疑 因果是一个纯粹理智的东西 甚至可以说 理智虚构 做出来的东西"
+    },
+    {
+      "hook": "不看表也能直接感知时间过去了一个钟头",
+      "start": 759.406,
+      "ende": 779.52,
+      "laenge": 20.11,
+      "byte_start": 24305080,
+      "byte_ende": 24948736,
+      "bytes": 643657,
+      "range_header": "bytes=24305080-24948736",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 759.484,
+      "anker_sha256": "195196d5c94f424803ae0ccfafdfa86601ccc28d08326741e9a267dde23ee2d1",
+      "einblendung_ms": 60,
+      "text": "我们聊了多久了 差不多一个钟头了 你没看表 你直接感知到过去了 过去了一个钟头 这是时间感知"
+    },
+    {
+      "hook": "派出所让你证明你妈是你妈的困境",
+      "start": 933.146,
+      "ende": 953.26,
+      "laenge": 20.11,
+      "byte_start": 29864773,
+      "byte_ende": 30508430,
+      "bytes": 643658,
+      "range_header": "bytes=29864773-30508430",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 933.225,
+      "anker_sha256": "d3d0f3bee561a7144465c8a131c7240cdeb8ab74458a7dabc3fece7639510e1b",
+      "einblendung_ms": 60,
+      "text": "派出所让你证明你妈是你妈 你知道的千真万确 但证明起来可能很很废事 传统知识论受法庭比喻的影响 你知道一件事情 就需要你拿证据来表明 你知道"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T17:25:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1187,
+  "veroeffentlicht": "2022-05-18T13:30:18+00:00",
+  "beschreibung": "第三章统觉及其他",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">第三章统觉及其他<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/272c-audiofreehighqps/BD/54/GKwRIasGWrfSAACZ8wFWjzI5.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

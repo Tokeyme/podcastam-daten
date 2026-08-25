@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_546539371",
+  "apple_collection_id": "1533570218",
+  "show": "那个音乐史",
+  "titel": "【乐团调音这档事】为什么标准音是440A？ 由双簧管来吹？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSEGjZ7gACAAAAFyORCi.mp3.m4a?channel=rss&album_id=42177281&track_id=546539371&uid=28749795&jt=https://aod.cos.tx.xmcdn.com/storages/257b-audiofreehighqps/FF/9F/GMCoOSEGjZ7gACAAAAFyORCi.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 25939895,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T16:34:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探究管弦乐团演出前为何由双簧管吹响标准音A，以及标准音440赫兹的演变历史。",
+  "kurzfassung": "本期节目探讨了交响乐团在音乐会开始前进行统一调音的传统。主持人详细解析了为何选择双簧管而非其他乐器来提供标准音A，并回顾了从早期使用羊肠弦导致音高较低、到19世纪钢弦普及后音高不断上升，最终在1955年确立440赫兹为国际标准的历史过程。",
+  "stichpunkte": [
+    "音乐会开始前，乐团首席会向双簧管示意，由其吹出标准音A供全团调音。",
+    "双簧管声音穿透力强且音色独特，加上在乐团中居于正中心且出席率极高，因此成为提供标准音的最佳选择。",
+    "17至18世纪的乐团编制较小，当时更看重相对音高而非绝对的固定音高。",
+    "早期弦乐器使用羊肠弦，无法承受过高的张力，因此巴洛克时期的标准音频率大约在425赫兹左右。",
+    "19世纪随着音乐厅扩大和钢弦普及，乐器音量增大，标准音高也随之不断往上攀升。",
+    "法国政府曾在1859年将A音定为435赫兹，直到1955年国际度量衡组织才正式将A440确立为官方标准。"
+  ],
+  "kapitel": [
+    {
+      "titel": "为什么由双簧管提供标准音",
+      "start": 81.18
+    },
+    {
+      "titel": "乐团调音的演变与传统",
+      "start": 511.36
+    },
+    {
+      "titel": "标准音440赫兹的由来与历史",
+      "start": 615.02
+    }
+  ],
+  "clips": [
+    {
+      "hook": "为什么调音的不是小喇叭或首席，而是双簧管？",
+      "start": 85.152,
+      "ende": 107.808,
+      "laenge": 22.66,
+      "byte_start": 2051319,
+      "byte_ende": 2595062,
+      "bytes": 543744,
+      "range_header": "bytes=2051319-2595062",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 85.224,
+      "anker_sha256": "1ea4d2c507170924b0dbd4703b973b043ce09f1392b5d0a52226b5dbf9c40347",
+      "einblendung_ms": 60,
+      "text": "为什么标准音a这个音是由 双环管来提供这个调音的这个角色 为什么不是其他乐器 例如说如果要比音量的话 其实小喇叭更大声 或者是如果你就是首席来讲的话 第一小提琴就是首席也可以做这件事情 那为什么是有双环管"
+    },
+    {
+      "hook": "早期乐团编制不固定：有什么乐器就用什么乐器",
+      "start": 375.672,
+      "ende": 395.76,
+      "laenge": 20.09,
+      "byte_start": 9023799,
+      "byte_ende": 9505910,
+      "bytes": 482112,
+      "range_header": "bytes=9023799-9505910",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 375.744,
+      "anker_sha256": "b647b42723ab22d38e9bb1e83c16023aa23f9ddadb65289cf07bd0474e0a9216",
+      "einblendung_ms": 60,
+      "text": "因为在当时乐团编制不是固定的 真的就是找得到什么人来吹乐团 就有什么乐器就什么乐器 不是可以挑的 就是这样子"
+    },
+    {
+      "hook": "古代弦乐器不用钢弦，而是用羊的肠子做的",
+      "start": 477.816,
+      "ende": 497.904,
+      "laenge": 20.09,
+      "byte_start": 11475255,
+      "byte_ende": 11957366,
+      "bytes": 482112,
+      "range_header": "bytes=11475255-11957366",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 477.888,
+      "anker_sha256": "e7c4c66b767845870965714e0f273cb4d897b7de069e947aa9774d418e524297",
+      "einblendung_ms": 60,
+      "text": "弦乐器都是用羊肠做的 那个时候还不是用 钢弦 所以就是真的用羊的肠子做的 所以他的音色相对来讲他的持续性 没有像 双簧管这么好 就是他的声音"
+    },
+    {
+      "hook": "管风琴因热胀冷缩，夏天和冬天的音高会有所波动",
+      "start": 775.104,
+      "ende": 795.192,
+      "laenge": 20.09,
+      "byte_start": 18610167,
+      "byte_ende": 19092278,
+      "bytes": 482112,
+      "range_header": "bytes=18610167-19092278",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 775.176,
+      "anker_sha256": "0f813f400e56d34ab8d09a98322890d24ca3f6246df4bb21eff483cde2297810",
+      "einblendung_ms": 60,
+      "text": "就是以前的管风琴啊 因为热胀冷缩 所以夏天跟冬天的音高会有波动 就是冬天那个管子变短了 音就比较高 夏天管子 那热胀冷缩"
+    },
+    {
+      "hook": "1955年A440赫兹被定为官方标准",
+      "start": 978.984,
+      "ende": 1000.872,
+      "laenge": 21.89,
+      "byte_start": 23503287,
+      "byte_ende": 24028598,
+      "bytes": 525312,
+      "range_header": "bytes=23503287-24028598",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 979.056,
+      "anker_sha256": "6116aad67e07721ad63e5cbf117f62301f2d98bc955a4799b7209b6128a56c1a",
+      "einblendung_ms": 60,
+      "text": "1955年 A440赫兹被定为官方标准 就是全世界观众的音量 全乐团认可的一个频率 那这个决定是由国际度量衡组织做出的 那这个组织还有决定很多其他的事情 比如说一公升的水到底是多少啊 还有一公尺有多长之类的"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T16:34:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1080,
+  "veroeffentlicht": "2022-06-26T04:09:10+00:00",
+  "beschreibung": "你有没有好奇过？ 交响乐团标准音是A?\n调音是双簧管，而不是其他乐器来担任呢？ （小喇叭不是更适合吗？）\n\n[BGM（background）] Satie, The Gymnopédie",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">你有没有好奇过？ 交响乐团标准音是A?<br>调音是双簧管，而不是其他乐器来担任呢？ （小喇叭不是更适合吗？）<br><span><br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[BGM（background）] Satie, The Gymnopédie</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/373b-audiofreehighqps/02/DF/GMCoOSMGjZ6sAAGFMwFyOOnP.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

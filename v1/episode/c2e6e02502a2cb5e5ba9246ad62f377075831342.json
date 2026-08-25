@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2018/03/26/2660332093202596358_hd.mp3",
+  "apple_collection_id": "994006349",
+  "show": "金钱永不眠财经节目",
+  "titel": "3月25日第二节：Facebook历史危机！ICO如何圈钱",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2018/03/26/2660332093202596358_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 21108444,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T18:38:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "探讨Facebook隐私泄露危机及加密货币市场的ICO热潮。",
+  "kurzfassung": "本集节目分析了Facebook因隐私泄露面临的股价大跌及反垄断背景，探讨了高科技公司发展面临瓶颈的现状。随后，节目深入剖析了区块链与虚拟货币领域的ICO融资现象及其受到的监管挑战。最后提及传统银行对虚拟货币交易平台的资金切断及安全问题。",
+  "stichpunkte": [
+    "Facebook股价在一周内因隐私泄露事件下跌约百分之二十。",
+    "安全漏洞导致五千万美国用户的个人资料被第三方公司获取并用于定向投放广告。",
+    "美国反垄断机构长期监督大型科技企业，此次隐私危机为监管部门提供了切入点。",
+    "科技公司将大量资金投入商业地产而非核心科技，暗示科技发展可能触及天花板。",
+    "区块链和虚拟货币成为新的市场热点，ICO（首次代币发行）因门槛低而迅速火爆。",
+    "以太猫等项目通过结合加密货币实现独特的交易与融资模式，被形容为空手套白狼。",
+    "中国企业纷纷转往新加坡和香港开展ICO业务。",
+    "加拿大等国的各大银行切断了虚拟货币兑换店与传统银行账户的资金往来，以应对监管风险。"
+  ],
+  "kapitel": [
+    {
+      "titel": "Facebook隐私泄露与股价暴跌",
+      "start": 22.46
+    },
+    {
+      "titel": "大型科技公司的垄断与反垄断历史",
+      "start": 315.8
+    },
+    {
+      "titel": "高科技发展瓶颈与商业地产投资",
+      "start": 534.88
+    },
+    {
+      "titel": "ICO热潮与虚拟货币的空手套白狼",
+      "start": 733.14
+    },
+    {
+      "titel": "虚拟货币的监管困境与银行切断资金",
+      "start": 1154.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Facebook股价一周跌去百分之二十",
+      "start": 67.971,
+      "ende": 88.085,
+      "laenge": 20.11,
+      "byte_start": 1138772,
+      "byte_ende": 1460600,
+      "bytes": 321829,
+      "range_header": "bytes=1138772-1460600",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 68.049,
+      "anker_sha256": "fa49b2d222e2be402ee53ac91ead06cdef6630c1b1c16e7495a0ecf1ae20e8d3",
+      "einblendung_ms": 60,
+      "text": "现在去到大概一百一百五十五 那不到一周的时候的话 已经没有了 大概百分之二十左右的 这一个的这么大的一个的跌幅"
+    },
+    {
+      "hook": "五千万美国用户资料泄露事件",
+      "start": 243.879,
+      "ende": 263.993,
+      "laenge": 20.11,
+      "byte_start": 3953309,
+      "byte_ende": 4275137,
+      "bytes": 321829,
+      "range_header": "bytes=3953309-4275137",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 243.958,
+      "anker_sha256": "6b98e84858a736e4bbf14ebdc06ab1badf2152b3da42035b91403a486771572c",
+      "einblendung_ms": 60,
+      "text": "五千万呢 在美国五千万的资料全部都泄露出去 所以这个是非常非常严重的一个事情啊"
+    },
+    {
+      "hook": "大数据真正有用的不超过百分之五",
+      "start": 669.858,
+      "ende": 689.946,
+      "laenge": 20.09,
+      "byte_start": 10768970,
+      "byte_ende": 11090379,
+      "bytes": 321410,
+      "range_header": "bytes=10768970-11090379",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 669.936,
+      "anker_sha256": "16c28b781bca5b3389ab100cc2aa8aa6bcc1a8fc1a3e1b6e30313e38aea880c9",
+      "einblendung_ms": 60,
+      "text": "现在很多说人工智能 大数据 但后来大数据现在也发现大数据其实真正有用的可能不要超过所有数据5%而已 很多数据也没有用了"
+    },
+    {
+      "hook": "ICO发币实现空手套白狼",
+      "start": 1068.434,
+      "ende": 1088.522,
+      "laenge": 20.09,
+      "byte_start": 17146191,
+      "byte_ende": 17467601,
+      "bytes": 321411,
+      "range_header": "bytes=17146191-17467601",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1068.513,
+      "anker_sha256": "79733c2a719b663c0dfdb30c66cb94110f56d6dba27f32631f479b2a2409bf3f",
+      "einblendung_ms": 60,
+      "text": "一他一发行的话你看的这个币的话都虚无的吧他从零开始吗没成本 一发行以后突然的话很多就发行这种币出来打个比方 1000万个 那1000万个一发出去突然就收了可能 一亿个 那个以太币回来"
+    },
+    {
+      "hook": "加拿大银行禁止虚拟货币资金打入账户",
+      "start": 1189.669,
+      "ende": 1209.783,
+      "laenge": 20.11,
+      "byte_start": 19085940,
+      "byte_ende": 19407767,
+      "bytes": 321828,
+      "range_header": "bytes=19085940-19407767",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1189.747,
+      "anker_sha256": "7d9b817fe81e86d3476a34377dabb704e9ab1bc81f086261a1c690634c52a326",
+      "einblendung_ms": 60,
+      "text": "你想把这个100以太币卖掉 卖掉以后你就变成了美元 或者变成了家园 但是你把这个钱重新打到你的银行账户现在 已经禁止了 不接收了 他银行跟各个币的平台"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T18:38:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1316,
+  "veroeffentlicht": "2018-03-26T13:19:21+08:00",
+  "untertitel": "3月25日第二节：Facebook历史危机！ICO如何圈钱",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2018/03/26/2660332344376733191_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "68d54154b4befcf730eae095",
+  "apple_collection_id": "1839833872",
+  "show": "Perspectives英文播客",
+  "titel": "1分钟轻松播客 去陌生地方旅行的心理",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68bf8dee0ac825d41f1eee7a/68d54154b4befcf730eae095/media.xyzcdn.net/68bf8dee0ac825d41f1eee7a/Fp2LJaiJko11ZelKO7Z9B44JPmtS.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1119868,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T07:56:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨前往陌生地方旅行时的心理状态，解析兴奋与担忧并存的原因。",
+  "kurzfassung": "旅行到一个新地方会同时带来激动与担心，科学证据表明新环境能激活大脑并形成持久记忆。然而，不确定性也会让身体进入威胁模式产生担忧。兴奋与担忧的混合源于探索驱动与安全系统的共同作用，将未知视为挑战可将焦虑转化为动力。",
+  "stichpunkte": [
+    "前往陌生地方旅行会让人感到激动同时也伴随担心",
+    "科学研究显示新环境能激活大脑并让人愿意探索",
+    "新奇体验更容易让人形成持久的记忆",
+    "面对未来无法预测的不确定性时身体会进入威胁模式",
+    "性格特点不同的人对不确定性的反应也有所差异，可能表现为兴奋或担忧",
+    "文化背景也会影响人们对待即兴与计划的态度",
+    "兴奋和担忧同时存在是探索驱动与安全系统共同作用的结果",
+    "将未知的旅行重新描述为挑战而不是威胁，可以把担忧转化为行动冲动"
+  ],
+  "kapitel": [
+    {
+      "titel": "旅行带来的兴奋与记忆",
+      "start": 0.0
+    },
+    {
+      "titel": "不确定性引发的威胁模式",
+      "start": 24.12
+    },
+    {
+      "titel": "应对未知：从威胁到挑战的转变",
+      "start": 36.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T07:56:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 69,
+  "veroeffentlicht": "2025-09-25T13:23:10+00:00",
+  "beschreibung": "Have you ever noticed how travelling to a new place makes you feel both excited and… strangely anxious?\nNeuroscience shows that novelty activates the brain’s reward circuit. Dopamine release in the hippocampus and VTA makes us curious, eager to explore, and more likely to form lasting memories. That’s why travel feels so stimulating.\nBut psychologists also talk about intolerance of uncertainty. When we can’t predict what’s next, our body switches into “threat mode”: heart racing, attention narrowing, and sometimes worry.\nCross-cultural studies add another layer: people with high novelty-seeking traits report excitement, while those with high uncertainty avoidance often feel stressed. Even culture matters — some societies embrace spontaneity, others prefer detailed planning.\nSo the mix of excitement and anxiety isn’t a contradiction. It’s two systems working at once: the drive to explore, and the need to stay safe. Next time you travel, reframe the unknown as a challenge, not a threat — that shift can turn anxiety into adventure.\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>Have you ever noticed how travelling to a new place makes you feel both excited and… strangely anxious?</p><p>Neuroscience shows that novelty activates the brain’s reward circuit. Dopamine release in the hippocampus and VTA makes us curious, eager to explore, and more likely to form lasting memories. That’s why travel feels so stimulating.</p><p>But psychologists also talk about intolerance of uncertainty. When we can’t predict what’s next, our body switches into “threat mode”: heart racing, attention narrowing, and sometimes worry.</p><p>Cross-cultural studies add another layer: people with high novelty-seeking traits report excitement, while those with high uncertainty avoidance often feel stressed. Even culture matters — some societies embrace spontaneity, others prefer detailed planning.</p><p>So the mix of excitement and anxiety isn’t a contradiction. It’s two systems working at once: the drive to explore, and the need to stay safe. Next time you travel, reframe the unknown as a challenge, not a threat — that shift can turn anxiety into adventure.</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/68d54154b4befcf730eae095?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/FuyWAsUzLbeAMxHDn5IuJRQowNAW.png",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_492716653",
+  "apple_collection_id": "1609396777",
+  "show": "古灵古灵上学去 | 国风儿童成长·情商培养·校园教育·睡前故事",
+  "titel": "你好！我叫莫小也，欢迎来到古灵屿！（求订阅、关注、5星好评!）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoFuGP5AA2D4AENWQpG.m4a?channel=rss&album_id=56346936&track_id=492716653&uid=380654072&jt=https://aod.cos.tx.xmcdn.com/storages/5592-audiofreehighqps/73/B9/GKwRIDoFuGP5AA2D4AENWQpG.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 885728,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:46:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "莫小也搬家来到充满惊人秘密的古灵屿，即将开启全新的奇幻校园生活。",
+  "kurzfassung": "莫小一开始并不愿意搬家离开阳山的小伙伴，但在父母的期待下还是勉强接受了。然而令他意想不到的是，新家所在的古灵屿是一个藏有许多惊人秘密的神奇地方。在这里，他将结识许多古灵精怪的新伙伴，并一起去上学。",
+  "stichpunkte": [
+    "莫小也不愿意搬家离开阳山的小伙伴",
+    "为了不扫父母的兴，莫小也接受了搬家",
+    "地图上找不到古灵屿，也没有人听说过这个岛",
+    "古灵屿藏有许多惊人秘密，是一个特别神奇的地方",
+    "莫小也将在古灵屿认识许多奇奇怪怪、古灵精怪的小伙伴",
+    "故事正式开启，欢迎来到古灵屿一起上学"
+  ],
+  "kapitel": [
+    {
+      "titel": "搬家的不舍与期待",
+      "start": 9.94
+    },
+    {
+      "titel": "神秘的古灵屿",
+      "start": 78.6
+    },
+    {
+      "titel": "开启新生活",
+      "start": 97.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:46:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 109,
+  "veroeffentlicht": "2022-01-15T10:24:52+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1205-audiofreehighqps/8C/FA/GMCoOSMIxy2OAAWhdQJTwHNB.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

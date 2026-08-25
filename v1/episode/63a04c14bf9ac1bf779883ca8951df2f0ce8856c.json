@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "guid": "GUID-266",
+  "apple_collection_id": "1518914711",
+  "show": "旅行熱炒店：世界地理人文探索頻道",
+  "titel": "EP266 七月手記：盛夏的蘇格蘭小島，與日出時分的大峽谷",
+  "audio": {
+    "url": "https://jeromecyang.github.io/travel-wok-files-04/ep266.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 27163830,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T21:01:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "分享大峡谷日出与苏格兰小岛的疗愈旅程",
+  "kurzfassung": "主厨Jerome分享了七月前往美国大峡谷与苏格兰离岛Iona的两次轻量级旅行经历。他在大峡谷清晨静候日出，体会到黑夜过后白昼必临的希望。在苏格兰高地的朝圣之旅中，他通过修道院与逝者墓地感悟了生死连结与心灵疗愈。",
+  "stichpunkte": [
+    "Jerome回顾了自己心态的转变，从单纯想探索世界变为关注当下及身心照顾",
+    "七月初前往美国大峡谷，探索其至古的18亿年地层及当地原住民族群文化",
+    "大峡谷曾因土地利用限制遭到当地政客与采矿企业强烈反对，直到1919年才正式成为国家公园",
+    "在大峡谷清晨三四点起床观看日出，紫色天空转为橘红，唤醒了他对人生的希望",
+    "七月下旬出差伦敦期间顺道前往苏格兰，搭乘火车与渡轮抵达离岛中的离岛Iona",
+    "Iona岛上的修道院是苏格兰人心目中的朝圣地，其历史可追溯至第六世纪的圣人Columba",
+    "造访修道院途中经过许多先人的墓地，让他感悟到朝圣是活人与逝者精神共存的场所",
+    "苏格兰高地大山大水与瞬息万变的天气，为他带来了极大的身心疗愈",
+    "未来节目更新频率将暂时调整为约一个月一集，维持简单轻量的内容缓慢前行"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与近期心境转变",
+      "start": 9.22
+    },
+    {
+      "titel": "大峡谷的人文历史与国家公园成立历程",
+      "start": 205.4
+    },
+    {
+      "titel": "大峡谷的清晨日出体验",
+      "start": 475.56
+    },
+    {
+      "titel": "苏格兰地理与离岛Iona的朝圣之旅",
+      "start": 700.62
+    },
+    {
+      "titel": "修道院的墓地与对生死连结的感悟",
+      "start": 1447.82
+    },
+    {
+      "titel": "尾声与未来更新计划",
+      "start": 1649.36
+    }
+  ],
+  "clips": [
+    {
+      "hook": "还能像以前那样无忧无虑的旅行吗？",
+      "start": 120.66,
+      "ende": 140.774,
+      "laenge": 20.11,
+      "byte_start": 2092036,
+      "byte_ende": 2432932,
+      "bytes": 340897,
+      "range_header": "bytes=2092036-2432932",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 120.738,
+      "anker_sha256": "532bf634268acf7653e6a71a9072d177127e1fedb1ace9095dac804886dc80e3",
+      "einblendung_ms": 60,
+      "text": "有时候我也会在想说 我还有办法像之前那样子 完全无忧无虑的旅行 不管多有挑战的地方都敢去吗 其实这个问题我也没有答案 我也还在继续的观察了解自己"
+    },
+    {
+      "hook": "大峡谷成为国家公园竟曾遭强烈反对",
+      "start": 403.435,
+      "ende": 423.523,
+      "laenge": 20.09,
+      "byte_start": 6559547,
+      "byte_ende": 6839149,
+      "bytes": 279603,
+      "range_header": "bytes=6559547-6839149",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 403.514,
+      "anker_sha256": "d330b385eeb585b28946dd1b64c64e14184ddaaa12f6443765934c8b81f046ad",
+      "einblendung_ms": 60,
+      "text": "不过呢我去查了一下发现蛮意外的 这个大峡谷呢他其实是在1919年 他拖了好几十年才成为国家公园 他是全美国的国家公园 他不算是最早的几座 那怎么会这样子呢"
+    },
+    {
+      "hook": "不管黑夜多长，白昼总是会来临的",
+      "start": 617.979,
+      "ende": 638.067,
+      "laenge": 20.09,
+      "byte_start": 10070817,
+      "byte_ende": 10422351,
+      "bytes": 351535,
+      "range_header": "bytes=10070817-10422351",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 618.057,
+      "anker_sha256": "fe9543edd1d9b5f8a45892bd4595ac11d2928287984f37175a993023b468cfe1",
+      "einblendung_ms": 60,
+      "text": "抒发一下心情 但是呢不管这个黑夜有多长 不管在床上要翻滚多久呢 其实看到日出的时候 总是觉得特别有希望 让我知道说不管这个夜晚有多么漫长 即使是有这个黑暗笼罩的时刻呢 白昼总是会来临的"
+    },
+    {
+      "hook": "离岛中的离岛：为什么这座小岛这么有名？",
+      "start": 926.224,
+      "ende": 946.338,
+      "laenge": 20.11,
+      "byte_start": 14732079,
+      "byte_ende": 15008441,
+      "bytes": 276363,
+      "range_header": "bytes=14732079-15008441",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 926.302,
+      "anker_sha256": "5dec7d3f428a2238909340d42581970219a227d454d54b53c5b9d3ada5007fac",
+      "einblendung_ms": 60,
+      "text": "它是一个 离岛中的离岛 很小 它居民也很少 但是它为什么会那么有名呢 主要是因为呢"
+    },
+    {
+      "hook": "教堂不只是活人朝圣的地方，也是与逝者共存的所在",
+      "start": 1490.599,
+      "ende": 1510.687,
+      "laenge": 20.09,
+      "byte_start": 22928978,
+      "byte_ende": 23197769,
+      "bytes": 268792,
+      "range_header": "bytes=22928978-23197769",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1490.678,
+      "anker_sha256": "269bc7b81b7515cf9565c8cbc8128ca32c8af506db009e9197bce248e584c205",
+      "einblendung_ms": 60,
+      "text": "我突然意識到說 原來像這樣子的教堂 或這樣子的聖地呢 它其實不只是活人 我們這些還活著的人來朝聖的地方 它也是讓活人和已經過世的那些人 好像可以在一個場所裡面共存著 我們來到這裡"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T21:01:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1769,
+  "veroeffentlicht": "2026-08-10T23:30:00+00:00",
+  "beschreibung": "對主廚 Jerome 而言，七月是休息、面對自己的時候，這段時間裡經歷了兩趟比較簡短的旅行：去過很多次的美國大峽谷，與第一次去的蘇格蘭高地。本集與聽眾們簡單分享兩個地方的簡單介紹，以及在現場的觀察，還有在這些地方和自我的對話。\n\n✅ 本集重點：\n\n(00:00:00) 開場\n\n(00:03:26) 日出時分的大峽谷\n\n(00:11:41) 盛夏的蘇格蘭小島\n\n(00:27:28) 結語\n\nShow note https://ltsoj.com/podcast-ep266\n\nFacebook https://facebook.com/travel.wok\n\nInstagram https://instagram.com/travel.wok\n\nThread https://www.threads.net/@travel.wok\n\nYoutube https://www.youtube.com/@travelwok\n\n意見回饋 https://forms.gle/4v9Xc5PJz4geQp7K7\n\n寫信給主廚 travel.wok@ltsoj.com\n\n旅行熱炒店官網 https://ltsoj.com/",
+  "beschreibung_html": "<p>對主廚 Jerome 而言，七月是休息、面對自己的時候，這段時間裡經歷了兩趟比較簡短的旅行：去過很多次的美國大峽谷，與第一次去的蘇格蘭高地。本集與聽眾們簡單分享兩個地方的簡單介紹，以及在現場的觀察，還有在這些地方和自我的對話。</p>\n\n\n\n\n<p>✅ 本集重點：\n  <ul>\n    \n    <li>(00:00:00) 開場</li>\n    \n    <li>(00:03:26) 日出時分的大峽谷</li>\n    \n    <li>(00:11:41) 盛夏的蘇格蘭小島</li>\n    \n    <li>(00:27:28) 結語</li>\n    \n  </ul>\n</p>\n\n\n\nShow note <a href=\"https://ltsoj.com/podcast-ep266\">https://ltsoj.com/podcast-ep266</a><br>\nFacebook <a href=\"https://facebook.com/travel.wok\">https://facebook.com/travel.wok</a><br>\nInstagram <a href=\"https://instagram.com/travel.wok\">https://instagram.com/travel.wok</a><br>\nThread <a href=\"https://www.threads.net/@travel.wok\">https://www.threads.net/@travel.wok</a><br>\nYoutube <a href=\"https://www.youtube.com/@travelwok\">https://www.youtube.com/@travelwok</a><br>\n意見回饋 <a href=\"https://forms.gle/4v9Xc5PJz4geQp7K7\">https://forms.gle/4v9Xc5PJz4geQp7K7</a><br>\n寫信給主廚 travel.wok@ltsoj.com<br>\n旅行熱炒店官網 <a href=\"https://ltsoj.com/\">https://ltsoj.com/</a><br><br>",
+  "bild_url": "https://i.imgur.com/jIu3oi3.png",
+  "kapitel_quelle": "modell"
+}

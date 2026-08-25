@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2016/12/29/2576536029194872838_hd.mp3",
+  "apple_collection_id": "963585630",
+  "show": "月的逆光·情感治愈",
+  "titel": "我与九龙塘",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2016/12/29/2576536029194872838_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 17826561,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T16:56:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "回忆在香港九龙塘租住客厅的求学时光与合租生活",
+  "kurzfassung": "作者2015年来香港读研时，因未申请到宿舍而在富人区九龙塘租下一间客厅。面对狭窄的空间和复杂的合租关系，她通过跑步排解焦虑，逐渐适应了紧凑的生活。这段特殊的经历不仅重塑了她对人际关系的看法，也让她见证了自己远超想象的适应能力。",
+  "stichpunkte": [
+    "2015年8月赴香港读研，因宿舍不足选择在九龙塘富人区租住客厅",
+    "客厅面积仅五六平米，通过折叠家具和收纳箱隔出独立空间",
+    "香港虽然高楼林立，但75%的土地为郊野地区，市区运动设施极为完善",
+    "通过大量跑步来排解居住压抑和负面情绪，锻炼出了半马耐力",
+    "五人共用三平米卫生间，合租摩擦曾让人感到崩溃与失望",
+    "合租生活改变了对人际关系的期待，降低了对陌生室友的亲密要求",
+    "搬离九龙塘半年后入住新居，遇到了合拍的室友并提高了生活质量"
+  ],
+  "kapitel": [
+    {
+      "titel": "初到香港：九龙塘的客厅生活",
+      "start": 11.3
+    },
+    {
+      "titel": "奔跑在钢筋水泥与郊野之间",
+      "start": 360.36
+    },
+    {
+      "titel": "合租摩擦与卫生间里的崩溃瞬间",
+      "start": 581.22
+    },
+    {
+      "titel": "告别九龙塘与生活的新篇章",
+      "start": 811.36
+    }
+  ],
+  "clips": [
+    {
+      "hook": "在香港租客厅的“厅长”生活",
+      "start": 140.565,
+      "ende": 163.187,
+      "laenge": 22.62,
+      "byte_start": 2300213,
+      "byte_ende": 2662165,
+      "bytes": 361953,
+      "range_header": "bytes=2300213-2662165",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 140.643,
+      "anker_sha256": "239c6c28669a86a0e515a0990d7fb01f71b2c0b0af7f05ab1e66dcd766befd49",
+      "einblendung_ms": 60,
+      "text": "就是低价和高舒适度不可兼得 为了省些房租 我选择住在私密性较小 受影响可能性较大 价格较低的客厅 在香港 像我一样住客厅的人有很多 我们有一个共同的称号 厅长"
+    },
+    {
+      "hook": "跑步没瘦，却跑掉了孤独与焦虑",
+      "start": 545.776,
+      "ende": 565.865,
+      "laenge": 20.09,
+      "byte_start": 8783596,
+      "byte_ende": 9105005,
+      "bytes": 321410,
+      "range_header": "bytes=8783596-9105005",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 545.855,
+      "anker_sha256": "3a40d0f8cbfa5a7e193451f4c50d5fe16ac73c01c5c266cf80a3082a09634db9",
+      "einblendung_ms": 60,
+      "text": "没跑掉脂肪但跑掉了不少孤独 焦虑和烦恼 我是一个对居住环境要求比较高的人 能在九龙堂吃好睡好 很大程度上得益于 通过跑步发泄掉了很多负面情绪"
+    },
+    {
+      "hook": "对人际关系最彻底的失望是不理不睬",
+      "start": 705.724,
+      "ende": 725.838,
+      "laenge": 20.11,
+      "byte_start": 11342760,
+      "byte_ende": 11664587,
+      "bytes": 321828,
+      "range_header": "bytes=11342760-11664587",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 705.802,
+      "anker_sha256": "5f8dfd13da3a5684e9d29dfb3892d0357e2d3fb3a6b1a3f8c27111c2e306f12b",
+      "einblendung_ms": 60,
+      "text": "与一段关系而言 最深的失望或彻底的放弃 是心安理得的不理不睬 有一段时间 我下课了 我睡了一个晚上 轮到洗澡的时候 已经夜里十二点了 住在九龙堂的时候"
+    },
+    {
+      "hook": "从合租生活中悟出的婚姻意义",
+      "start": 778.919,
+      "ende": 799.034,
+      "laenge": 20.11,
+      "byte_start": 12513881,
+      "byte_ende": 12835709,
+      "bytes": 321829,
+      "range_header": "bytes=12513881-12835709",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 778.998,
+      "anker_sha256": "beb40f0f999b49b12642b423da0401344ff48e4c6654c5ccbeb5539c08c7b72d",
+      "einblendung_ms": 60,
+      "text": "我甚至从合租生活中 意识到了一个婚姻的意义 我甚至从合租生活中 结了婚就意味着有长期稳定的室友 结了婚就意味着有长期稳定的室友 结了婚就意味着有长期稳定的室友"
+    },
+    {
+      "hook": "搬离九龙塘后的新生活",
+      "start": 818.651,
+      "ende": 838.766,
+      "laenge": 20.11,
+      "byte_start": 13149597,
+      "byte_ende": 13471425,
+      "bytes": 321829,
+      "range_header": "bytes=13149597-13471425",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 818.73,
+      "anker_sha256": "075ae98c59464f580cd59de7c1f24dcf11638b6468dd617010010e8fb922c622",
+      "einblendung_ms": 60,
+      "text": "要说两个地方的区别 九龙堂遛狗的大部分是飞翁 九龙堂遛狗的大部分是飞翁 观堂遛狗的是狗主人自己 幸运的是 在这里我遇见了合拍的室友 生活质量也因此提高很多"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T16:56:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1110,
+  "veroeffentlicht": "2016-12-29T22:25:14+08:00",
+  "beschreibung": "来自学姐自己的微信公众号：回声echoing\n回声很美\n感兴趣的朋友可以关注一下",
+  "beschreibung_html": "来自学姐自己的微信公众号：回声echoing<br>回声很美<br>感兴趣的朋友可以关注一下",
+  "untertitel": "我与九龙塘",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "cmrvroimt0rmp01w8a8ma5yep",
+  "apple_collection_id": "1630332896",
+  "show": "大小樹教育學院",
+  "titel": "EP166 這三個月的近況跟我的感想",
+  "audio": {
+    "url": "https://m.cdn.firstory.me/track/cl4i7104c003901ucayla0spp/cmrvroimt0rmp01w8a8ma5yep/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcl4i7104c003901ucayla0spp%2Fcmrvroimt0rmq01w86yo6e85m.mp3?v=1784705801064",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 19082806,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T17:39:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "停更三個月期間小樹老師重回校園代課，深入反思親子教養並更新會員陪跑機制。",
+  "kurzfassung": "小樹老師分享了過去三個月無預警停更的原因，主要是回到學校協助代課並擔任導師。這段經歷讓他深刻體會到部分家長對孩子教育的無力感與不願改變，因而更加確信陪伴與引導孩子主動學習的重要性。同時，他也透露這段期間投入了AI工具測試、會員陪跑機制轉型以及人類圖的研究。",
+  "stichpunkte": [
+    "停更主因：過去三個月因學校頻繁邀請擔任代課與導師而耗費大量精力。",
+    "校園觀察：發現部分班級裡常有行為古怪、缺乏家庭管教的孩子，令老師感到無力。",
+    "家長心態：多數家長只會將孩子送到補習班或學校，缺乏自我改變的意願。",
+    "核心反思：掌握教室內老師的注意力，是協助孩子在學校取得好表現的重要關鍵。",
+    "會員機制轉型：將原本純粹上課的會員模式，改為與家長和孩子一同做出成果的陪跑機制。",
+    "人類圖研究：深入探索人類圖，將其視為理解個人設定與家庭整合的實用工具。",
+    "未來節目方向：未來podcast內容將不再侷限於親子教養，也會更多分享創業、自我提升與日常生活。"
+  ],
+  "kapitel": [
+    {
+      "titel": "停更三個月的原因與重回校園的代課經歷",
+      "start": 16.68
+    },
+    {
+      "titel": "學校現場觀察與對家長心態的深刻感觸",
+      "start": 133.24
+    },
+    {
+      "titel": "會員制度轉型與陪跑機制的建立",
+      "start": 761.82
+    },
+    {
+      "titel": "人類圖的研究與家庭整合應用",
+      "start": 900.22
+    },
+    {
+      "titel": "未來podcast節目的內容規劃",
+      "start": 1107.62
+    }
+  ],
+  "clips": [
+    {
+      "hook": "學AI需要時間讓電腦自己運作",
+      "start": 46.733,
+      "ende": 66.821,
+      "laenge": 20.09,
+      "byte_start": 748191,
+      "byte_ende": 1069600,
+      "bytes": 321410,
+      "range_header": "bytes=748191-1069600",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 46.811,
+      "anker_sha256": "a4b663ee9b24a7238d60fabdb422bf9ce02cd337d863e79991f15de08c3686ac",
+      "einblendung_ms": 60,
+      "text": "真的是有些东西它真的是需要花时间去让它跑 测试啊 还是要做一些功能 反正就是需要有一点时间让电脑自己去运作"
+    },
+    {
+      "hook": "目前身邊的家長真的是精英中的精英",
+      "start": 279.719,
+      "ende": 299.834,
+      "laenge": 20.11,
+      "byte_start": 4475968,
+      "byte_ende": 4797796,
+      "bytes": 321829,
+      "range_header": "bytes=4475968-4797796",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 279.798,
+      "anker_sha256": "755440e515f33329506b7ccb9d629db6a2742a80ebd13f4cd94a27f3781fe3a8",
+      "einblendung_ms": 60,
+      "text": "所以你知道这件事情啊 真的让我体验到就是目前还在我身边的这些家长 真的都是精英中的精英 知道吗"
+    },
+    {
+      "hook": "短短十幾分鐘，小朋友回頭看老師二三十次",
+      "start": 525.74,
+      "ende": 545.829,
+      "laenge": 20.09,
+      "byte_start": 8412308,
+      "byte_ende": 8733718,
+      "bytes": 321411,
+      "range_header": "bytes=8412308-8733718",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 525.819,
+      "anker_sha256": "28cff4138e5e2cef9261ce51138fe3bdfcd4494a8852d912ac27c24a81562e20",
+      "einblendung_ms": 60,
+      "text": "短短的十几分钟 他大概回头大概二三十次你知道吗 然后这就让我开始觉得说"
+    },
+    {
+      "hook": "AI就算這麼厲害，也不可能去複製一個人的人生",
+      "start": 808.777,
+      "ende": 828.865,
+      "laenge": 20.09,
+      "byte_start": 12940896,
+      "byte_ende": 13262305,
+      "bytes": 321410,
+      "range_header": "bytes=12940896-13262305",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 808.856,
+      "anker_sha256": "92f659f71c95255c762d8bbfa0dd12df9cb21590d4734b8b8cb0e325c38bdf7a",
+      "einblendung_ms": 60,
+      "text": "经验 因为你去想嘛 AI就算这么厉害 他也不可能去复制一个人的人生嘛 对吧"
+    },
+    {
+      "hook": "洗衣機出廠有說明書，我們生下來也有使用說明書",
+      "start": 949.682,
+      "ende": 969.77,
+      "laenge": 20.09,
+      "byte_start": 15195368,
+      "byte_ende": 15516777,
+      "bytes": 321410,
+      "range_header": "bytes=15195368-15516777",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 949.76,
+      "anker_sha256": "aa54220cf2953414c91a4a50d6ad8a34c9691c64ed179f6bb0d3785b7d499cd7",
+      "einblendung_ms": 60,
+      "text": "洗衣机出厂的时候 它总是会附个说明书嘛 然后这个同样的概念 跟我们是一样的 当初我们被生下来 然后我们就会有一个使用的说明书 那使用说明书就是人类图这样子"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T17:39:16+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1192,
+  "veroeffentlicht": "2026-07-22T07:38:30+00:00",
+  "beschreibung": "EP166 這三個月的近況跟我的感想\n​\n跟你分享\n近期我做的事情與收穫\n​\n有父母和孩子問題\n都可以加入小樹老師私人社群\n一起聊聊如何解決唷🥰🥰\nhttps://lin.ee/I3eUlDF\n留言告訴我你對這一集的想法： https://open.firstory.me/user/cl4i7104c003901ucayla0spp/comments\n\nPowered by Firstory Hosting",
+  "beschreibung_html": "<p>EP166 這三個月的近況跟我的感想</p><p>​</p><p>跟你分享</p><p>近期我做的事情與收穫</p><p>​</p><p>有父母和孩子問題</p><p>都可以加入小樹老師私人社群</p><p>一起聊聊如何解決唷🥰🥰</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lin.ee/I3eUlDF\">https://lin.ee/I3eUlDF</a><br>留言告訴我你對這一集的想法： <a href=\"https://open.firstory.me/user/cl4i7104c003901ucayla0spp/comments\">https://open.firstory.me/user/cl4i7104c003901ucayla0spp/comments</a></p> <br /> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a>",
+  "bild_url": "https://d3mww1g1pfq2pt.cloudfront.net/Avatar/cl4i7104c003901ucayla0spp/1655454770680.jpg",
+  "kapitel_quelle": "modell"
+}

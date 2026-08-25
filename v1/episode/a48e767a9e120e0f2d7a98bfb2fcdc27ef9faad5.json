@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group29/M07/1B/A3/wKgJWVlA5MigLjvdABBTdasRGtY059.m4a",
+  "apple_collection_id": "1137499122",
+  "show": "长安夜读：读书给妳听",
+  "titel": "聞聲識美人",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJWVlA5MigLjvdABBTdasRGtY059.m4a?channel=rss&album_id=3718176&track_id=40766687&uid=20295881&jt=https://aod.cos.tx.xmcdn.com/group29/M07/1B/A3/wKgJWVlA5MigLjvdABBTdasRGtY059.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1069941,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T09:08:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "从上海大雨与古今影音出发，探讨声音韵律如何让美人历久弥新。",
+  "kurzfassung": "节目从上海的大雨与复杂心情切入，思考声音在历史与现代中留下的痕迹。通过观看老电影《蝴蝶君》引发感慨，认为声音韵律能让美人数代保持历久弥新。最后以歌曲抒发对爱情与命运的无奈与执着。",
+  "stichpunkte": [
+    "上海大雨滂沱，引发对古曲声音与民国影音的感悟",
+    "思考当下能为未来留下怎样的声音记录",
+    "好的声音如同烽火佳人般流芳百世",
+    "声音韵律能够保持美人历久弥新",
+    "观看老电影《蝴蝶君》后产生深刻感慨",
+    "对比中国作品远超歌剧《蝴蝶夫人》",
+    "期盼未来声音更美并达到文生实美人",
+    "演唱关于爱情与命运不愿放手的歌曲片段"
+  ],
+  "kapitel": [
+    {
+      "titel": "上海大雨与声音感慨",
+      "start": 3.54
+    },
+    {
+      "titel": "电影《蝴蝶君》与声音韵律",
+      "start": 53.62
+    },
+    {
+      "titel": "歌曲演唱与心境抒发",
+      "start": 73.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T09:08:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 131,
+  "veroeffentlicht": "2017-06-14T07:25:16+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group16/M03/7C/13/wKgDbFdHvsPQGU0kAAE2vvpxeJk271.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

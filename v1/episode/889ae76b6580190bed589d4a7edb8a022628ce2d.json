@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group36/M05/C6/2D/wKgJUlostcLRJ-iIAA_fc_9W17o510.m4a",
+  "apple_collection_id": "1319066900",
+  "show": "昨日财经",
+  "titel": "银监会开出史上最大罚单！这家银行被罚7.22亿",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJUlostcLRJ-iIAA_fc_9W17o510.m4a?channel=rss&album_id=11538578&track_id=61905690&uid=96585922&jt=https://aod.cos.tx.xmcdn.com/group36/M05/C6/2D/wKgJUlostcLRJ-iIAA_fc_9W17o510.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1040243,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:58:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "银监会对广发银行开出7.22亿元巨额罚单",
+  "kurzfassung": "银监会通报了乔兴债处罚结果，对广发银行总行及分支机构罚没合计7.22亿元。此案涉及广发银行惠州分行违规担保及内外勾结私刻公章，涉案金额约120亿元。专家表示巨额罚单彰显了强监管的决心，银行同业表外理财类业务是监管重点。",
+  "stichpunkte": [
+    "银监会开出史上最大罚单，对广发银行罚没合计7.22亿元。",
+    "处罚金额超过今年前10月银监会系统对金融机构罚没总和。",
+    "案件源于广东惠州乔兴集团下属公司10亿元私募债到期无法兑付。",
+    "广发银行惠州分行员工与乔兴集团人员内外勾结私刻公章违规担保。",
+    "涉案金额约120亿元，其中银行业金融机构约100亿元。",
+    "违规担保主要用于掩盖该行的巨额不良资产和经营损失。",
+    "银监会将加大监管力度，深化整治银行业市场乱象。",
+    "专家指出巨额罚单彰显强监管决心，表外理财业务是监管重点。"
+  ],
+  "kapitel": [
+    {
+      "titel": "广发银行被罚7.22亿元",
+      "start": 0.0
+    },
+    {
+      "titel": "惠州分行违规担保案情细节",
+      "start": 33.54
+    },
+    {
+      "titel": "银监会下一步监管要求",
+      "start": 75.46
+    },
+    {
+      "titel": "专家解读天价罚单与强监管",
+      "start": 100.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:58:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 128,
+  "veroeffentlicht": "2017-12-10T04:19:52+00:00",
+  "beschreibung": "银监会开出史上最大罚单！这家银行被罚7.22亿",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\" lang=\"en\">银监会开出史上最大罚单！这家银行被罚7.22亿</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group33/M04/F2/B5/wKgJUVoIVL6iui4cAAG6sNIPt0g472.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/0071-audiofreehighqps/EA/DC/CKwRINsFQZZJABE1igDter7U.m4a",
+  "apple_collection_id": "1589402937",
+  "show": "纯音乐|大气|磅礴|背景|南山音乐",
+  "titel": "Rulers of Our Lands",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRINsFQZZJABE1igDter7U.m4a?channel=rss&album_id=53345263&track_id=463146154&uid=264354538&jt=https://aod.cos.tx.xmcdn.com/storages/0071-audiofreehighqps/EA/DC/CKwRINsFQZZJABE1igDter7U.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 1127818,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T09:09:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "明镜与点点栏目播出最新节目。",
+  "kurzfassung": "本期节目由明镜与点点栏目制作播出。内容主要围绕该栏目的相关介绍展开。节目最后呼吁听众给予支持。",
+  "stichpunkte": [
+    "节目由明镜与点点栏目播出",
+    "内容聚焦于栏目本身的相关信息",
+    "呼吁听众进行点赞、订阅、转发和打赏支持"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开始",
+      "start": 13.72
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T09:09:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 139,
+  "veroeffentlicht": "2021-11-01T11:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/65ca-audiofreehighqps/30/52/CMCoOSIFJGK4AAEZSgDmaexF.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

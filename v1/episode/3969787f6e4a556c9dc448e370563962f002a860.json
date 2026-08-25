@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2026/03/13/3200111413404453382_hd.mp3",
+  "apple_collection_id": "1445456526",
+  "show": "贫道播客",
+  "titel": "vol.122 AI改编大金曲品鉴",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2026/03/13/3200111413404453382_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 40826213,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T02:15:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "两位主播轻松分享并品鉴了由AI脑洞大开改编的各类经典老歌。",
+  "kurzfassung": "本期节目中，两位主播以轻松娱乐的心态，分享和品鉴了一系列由AI重新编曲的经典老歌。从西海岸说唱风格的《蓝莲花》到维京金属风格的《水手》，再到雷鬼与R&B风格的各种老歌翻编，展现了AI音乐创作的独特脑洞与发展。节目探讨了AI在音乐人声呼吸感和风格模仿上的表现，带给听众耳目一新的趣味体验。",
+  "stichpunkte": [
+    "以玩乐和轻松的心态探讨AI对音乐行业的冲击",
+    "品鉴西海岸说唱风格的AI改编版《蓝莲花》",
+    "分享维京金属风格的硬核版《水手》及其战场画面感",
+    "介绍新金属风格的古惑仔金曲《乱世巨星》",
+    "探讨目前AI音乐在模仿人类呼吸感时的规则性与局限",
+    "欣赏雷鬼与R&B风格改编的《等你爱我》和《我的家乡》",
+    "品鉴雷鬼版《分手快乐》以及爵士雷鬼风的《New Boy》"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与AI音乐初体验",
+      "start": 17.98
+    },
+    {
+      "titel": "说唱与金属风格的老歌改编",
+      "start": 131.68
+    },
+    {
+      "titel": "AI音乐的人情味与呼吸感讨论",
+      "start": 795.76
+    },
+    {
+      "titel": "雷鬼与多元风格的经典翻编",
+      "start": 1184.88
+    },
+    {
+      "titel": "节目尾声",
+      "start": 2358.46
+    }
+  ],
+  "clips": [
+    {
+      "hook": "黑人说唱版《蓝莲花》的奇妙画面",
+      "start": 332.278,
+      "ende": 353.28,
+      "laenge": 21.0,
+      "byte_start": 5369063,
+      "byte_ende": 5705102,
+      "bytes": 336040,
+      "range_header": "bytes=5369063-5705102",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 332.356,
+      "anker_sha256": "3d6f50d4c5c4a408858acedd4b390b84075e4ca147c6f69844ac1b325c5044ef",
+      "einblendung_ms": 60,
+      "text": "然后我当刷了这个小视频的时候特逗 就里边有几个黑人吗 这个黑人的这个嘴型啊 对的还都是中文的这个罪行 就是你想想那些个黑人带着大金牙 然后墨镜什么的跟你说 没有人能够阻挡 我你这么说我突然冒出一个画面"
+    },
+    {
+      "hook": "维京金属版《水手》点燃沙场激战",
+      "start": 565.238,
+      "ende": 593.502,
+      "laenge": 28.26,
+      "byte_start": 9096423,
+      "byte_ende": 9548654,
+      "bytes": 452232,
+      "range_header": "bytes=9096423-9548654",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 565.316,
+      "anker_sha256": "d33d870fbdde6d0c56a9c102a4bae46665bd71f81213299f750f68ea1411676d",
+      "einblendung_ms": 60,
+      "text": "就是马上要战斗了 勇敢的水手是真正的男儿 总是一副若不经风囊中的样子 在受人欺负的时候 总是听见水手说 他说风雨中 这点痛算什么 擦干泪不要怕 至少我们还有梦"
+    },
+    {
+      "hook": "AI音乐与人类呼吸感的差距",
+      "start": 1105.189,
+      "ende": 1125.303,
+      "laenge": 20.11,
+      "byte_start": 17735640,
+      "byte_ende": 18057467,
+      "bytes": 321828,
+      "range_header": "bytes=17735640-18057467",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1105.267,
+      "anker_sha256": "cf3675696f52c0e96b9dcba84c78d7d8d1a2093f330fc2cea6688512fbd78a0f",
+      "einblendung_ms": 60,
+      "text": "就是那种呼吸感嘛 人是有呼吸的嘛 对对对 就是他在尽量的去模仿这个人类的这个呼吸感 对对对 就是导致他不是那种特自然的那种呼吸感 对没错没错 就是感觉还是 就是人的呼吸感是有一个不规则的律动 他这个太规则了"
+    },
+    {
+      "hook": "R&B风格改编让老歌面目全非",
+      "start": 1665.228,
+      "ende": 1685.342,
+      "laenge": 20.11,
+      "byte_start": 26696267,
+      "byte_ende": 27018094,
+      "bytes": 321828,
+      "range_header": "bytes=26696267-27018094",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1665.306,
+      "anker_sha256": "fcfac1dd2c6cb63faa5f0bbcb80582c3af87a69d5c564427e0c33a1016a0cf53",
+      "einblendung_ms": 60,
+      "text": "我觉得有点面目全非了 陶喆的这个 所谓 唱这个R&B的这个风格 就他跟别人完全就 对 他其实挺跳脱这个 传统R&B的那种 他很有特色"
+    },
+    {
+      "hook": "雷鬼版《分手快乐》把失恋变快乐",
+      "start": 1922.09,
+      "ende": 1952.183,
+      "laenge": 30.09,
+      "byte_start": 30806059,
+      "byte_ende": 31287547,
+      "bytes": 481489,
+      "range_header": "bytes=30806059-31287547",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1922.168,
+      "anker_sha256": "ec23136736514980e121fec39906a3f112fa42be2cb571b5e0e8bb0e8845da2f",
+      "einblendung_ms": 60,
+      "text": "太高兴了 感觉分手是一件 一笔快乐的事情 这个二创的作者叫 鲍勃马林 还是继承了这个 Rasta这一块的 这个优良的风格传统 就是我现在脑子里出一个话 就是是一个女生特别可爱"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-25T02:15:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2548,
+  "veroeffentlicht": "2026-03-15T11:00:00+08:00",
+  "beschreibung": "「音谛」系列-AI音乐改编金曲\n\n关键词:\n\nAI、AI音乐、改编、金曲、赏析、品鉴、\n\n主播：\n\n陆凯BBBBUDDHA\n\nJJ文\n\nPlaylist：\n\n蓝莲花 - HIPHOP版\n\n水手 - 维京金属版\n\n乱世巨星 - 新金属版\n\n等你爱我 - 摇滚版\n\n咱们屯里的人 - R&B版\n\n分手快乐 - 雷鬼版\n\nNew Boy - 雷鬼版\n\n欢迎加入 欢迎互动：）\n\n公众号：贫道播客\n\nvb：贫道播客",
+  "beschreibung_html": "<myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><img src=\"https://cdn.lizhi.fm/audio_cover/2026/03/13/3200111348980993031.jpg\">「音谛」系列-AI音乐改编金曲</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>关键词:</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>AI、AI音乐、改编、金曲、赏析、品鉴、</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>主播：</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>陆凯BBBBUDDHA</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>JJ文</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>Playlist：</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>蓝莲花 - HIPHOP版</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>水手 - 维京金属版</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>乱世巨星 - 新金属版</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>等你爱我 - 摇滚版</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>咱们屯里的人 - R&amp;B版</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>分手快乐 - 雷鬼版</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>New Boy - 雷鬼版</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>欢迎加入 欢迎互动：）</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"><br></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">公众号：贫道播客</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">vb：贫道播客</p>\n</myfont>",
+  "untertitel": "vol.122 AI改编大金曲品鉴",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2026/03/13/3200111417394244103_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

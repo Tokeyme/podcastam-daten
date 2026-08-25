@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group29/M02/56/83/wKgJWVlXYbnTyec4AA0tSeM2Rw0617.m4a",
+  "apple_collection_id": "987332901",
+  "show": "科技圈漫谈",
+  "titel": "阿里巴巴开发智能音箱 能够听说中国话",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJWVlXYbnTyec4AA0tSeM2Rw0617.m4a?channel=rss&album_id=369509&track_id=42744100&uid=23641153&jt=https://aod.cos.tx.xmcdn.com/group29/M02/56/83/wKgJWVlXYbnTyec4AA0tSeM2Rw0617.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 863561,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:45:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "阿里巴巴正在开发一款支持中文语音操作的智能音箱。",
+  "kurzfassung": "阿里巴巴正在开发一款类似于亚马逊Echo的智能音箱，支持中文语音操作并允许核心用户在购物网站上购物。该产品最早可能在下周公布，且预计只在中国市场销售并只会说中文。随着各大科技巨头纷纷布局智能音箱，国际市场将成为它们实现增长的关键。",
+  "stichpunkte": [
+    "阿里巴巴正在开发一款支持中文语音操作的智能音箱。",
+    "该智能音箱最早可能在下周正式公布。",
+    "用户可以通过该设备在阿里巴巴的购物网站上购物。",
+    "阿里巴巴与亚马逊在零售、电影、云计算和人工智能等领域存在竞争。",
+    "阿里巴巴的智能音箱预计只在中国市场销售且只会说中文。",
+    "阿里巴巴目前尚未对此消息进行置评。"
+  ],
+  "kapitel": [
+    {
+      "titel": "阿里巴巴开发智能音箱",
+      "start": 0.0
+    },
+    {
+      "titel": "与亚马逊的竞争与市场前景",
+      "start": 32.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:45:14+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 106,
+  "veroeffentlicht": "2017-07-04T08:44:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group8/M02/35/B5/wKgDYFWVRabTzEogAAD4mioAGaU102.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

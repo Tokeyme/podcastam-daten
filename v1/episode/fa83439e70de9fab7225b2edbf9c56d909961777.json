@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_759918609",
+  "apple_collection_id": "1770567820",
+  "show": "《奇点临近：未来科技与人类命运》",
+  "titel": "00_摘要",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAKygziAAzSdgMVhn1K.m4a?channel=rss&album_id=83743996&track_id=759918609&uid=40665752&jt=https://aod.cos.tx.xmcdn.com/storages/ceaf-audiofreehighqps/0E/28/GKwRIMAKygziAAzSdgMVhn1K.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 840310,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T09:13:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "雷·库兹维尔预测人类与机器将融合并超越生物极限。",
+  "kurzfassung": "雷·库兹维尔在其著作中预测了科技发展的下一阶段，即人类智能与机器的深度融合。随着这一进程，人类将突破生物学极限，实现不再衰老、治愈疾病以及消除贫困等目标。尽管这一变革带来深远影响和巨大威胁，但整体展现了对人类未来的乐观愿景。",
+  "stichpunkte": [
+    "人类正处于突破基因法则、实现极高智能与寿命极限的历史变革时期。",
+    "雷·库兹维尔预测计算机将赶超人类智能的各个方面。",
+    "人类与机器的联合构成了“起点”的本质，智能将逐渐非生物化。",
+    "新文明将使人类超越生物极限并大幅增强创造力，人机与虚实界限变得模糊。",
+    "实际效果包括人类不再衰老、疾病治愈、环境污染结束以及贫困饥饿得到解决。",
+    "纳米技术能够使用廉价处理器创造实际产品并最终解决物质不足问题。",
+    "社会与哲学变革深远且暗含巨大威胁，本书整体持本质乐观主义观点。"
+  ],
+  "kapitel": [
+    {
+      "titel": "人类历史的变革与雷·库兹维尔的预言",
+      "start": 0.0
+    },
+    {
+      "titel": "人机融合与“起点”时代的到来",
+      "start": 48.06
+    },
+    {
+      "titel": "新文明带来的实际改变与未来展望",
+      "start": 80.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T09:13:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 137,
+  "veroeffentlicht": "2024-09-25T17:35:27+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f88c-audiofreehighqps/4C/12/GKwRINsKygoYAAH9lQMVhhTD.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

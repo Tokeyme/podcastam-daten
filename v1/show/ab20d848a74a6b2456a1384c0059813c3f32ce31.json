@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Trending Songs: Pop",
+  "apple_collection_id": "1253597115",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/57977882",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/57977882/init_80s_chr_hac_mac_rac_rhr_var_zcl_ihr_top_trending_pop_start_121123_end_121723.mp3",
+      "pfad": "/v1/episode/ad5cc587b7b1bf17cd07d3e8aa51b96e3eb9a0cc.json",
+      "titel": "Week of December 11th",
+      "veroeffentlicht": "2023-12-11T20:27:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Countdown of the top trending songs for the week of December 11th."
+    }
+  ]
+}

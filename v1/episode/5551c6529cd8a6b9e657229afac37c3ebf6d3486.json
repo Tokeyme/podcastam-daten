@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group4/M05/87/38/wKgDs1PPi7GQU44CAYyPvOZmN7w670.mp3",
+  "apple_collection_id": "903793443",
+  "show": "漫步旅行2014",
+  "titel": "【漫步旅行】漫步游世界웃香港（戴逸）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDs1PPi7GQU44CAYyPvOZmN7w670.mp3.m4a?channel=rss&album_id=261951&track_id=3204336&uid=3675329&jt=https://aod.cos.tx.xmcdn.com/group4/M05/87/38/wKgDs1PPi7GQU44CAYyPvOZmN7w670.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 25989052,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T16:26:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "漫步游世界香港站：探索南丫岛美食、维港天星小轮与旺角广华街军品一条街",
+  "kurzfassung": "本期节目带听众漫步香港，领略南丫岛的自然风光与特色豆花、海鲜美食。随后体验历史悠久的天星小轮，游览海港城及充满怀旧氛围的甜品店。最后探访旺角广华街的各类模型与军事用品店，感受独特的街道文化。",
+  "stichpunkte": [
+    "南丫岛沿途小店林立，可以品尝大叔现卖的凉茶清热解火",
+    "推荐品尝南丫岛的亚婆豆花，口感Q滑像布丁且价格便宜",
+    "南丫岛的天红海鲜酒家是大排档首选，就餐后还有船送回并省下船票",
+    "天星小轮穿梭于维多利亚港，被国家地理旅游杂志誉为人生50个必到景点之一",
+    "海港城汇聚众多奢侈品与高端商品，供游客按需选购",
+    "唐朝甜品店环境古香古色，坚持传统技术烹调健康养颜的糖水",
+    "旺角广华街是著名的模型一条街，也是香港最具雄性气质的街道",
+    "广华街集中了众多军品店，其中统工房等店铺深受军迷追捧"
+  ],
+  "kapitel": [
+    {
+      "titel": "南丫岛漫步与特色小吃",
+      "start": 601.92
+    },
+    {
+      "titel": "天红海鲜酒家与天星小轮",
+      "start": 730.26
+    },
+    {
+      "titel": "海港城与传统糖水店",
+      "start": 848.28
+    },
+    {
+      "titel": "旺角广华街模型与军品天堂",
+      "start": 926.26
+    }
+  ],
+  "clips": [
+    {
+      "hook": "南丫岛亚婆豆花，口感像布丁只要9港币",
+      "start": 656.832,
+      "ende": 676.92,
+      "laenge": 20.09,
+      "byte_start": 15774140,
+      "byte_ende": 16256251,
+      "bytes": 482112,
+      "range_header": "bytes=15774140-16256251",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 656.904,
+      "anker_sha256": "0d41d28bb32c358789d6907db26b7d92a01b11d49bad4bfbe75341efaf4b31e0",
+      "einblendung_ms": 60,
+      "text": "豆花上面淋的是红糖水 那准确的可以说 这碗豆花就是碗冷饮 而且一碗才9港币 也真的是很便宜"
+    },
+    {
+      "hook": "去天红海鲜吃饭不仅东西好吃还能省船票",
+      "start": 746.808,
+      "ende": 766.92,
+      "laenge": 20.11,
+      "byte_start": 17933564,
+      "byte_ende": 18416251,
+      "bytes": 482688,
+      "range_header": "bytes=17933564-18416251",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 746.88,
+      "anker_sha256": "8425c9b84daca34907845c11f3f3e1afd8c5e0d1eed110eb3352357219ca2115",
+      "einblendung_ms": 60,
+      "text": "这里推荐大家去 天红海鲜酒家吃饭 是有两个原因 第一个呢 是因为它真的是很棒 而且名头很小 东西很好吃 那第二个呢 是吃完有船会送你回去 还省了船票钱"
+    },
+    {
+      "hook": "乘搭天星小轮被誉为人生50个必到景点之一",
+      "start": 834.744,
+      "ende": 854.832,
+      "laenge": 20.09,
+      "byte_start": 20044028,
+      "byte_ende": 20526139,
+      "bytes": 482112,
+      "range_header": "bytes=20044028-20526139",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 834.816,
+      "anker_sha256": "efda4d4996f303c89772e99b78397b933639dd05267b8810568563536e9166a1",
+      "einblendung_ms": 60,
+      "text": "而且在国家的运动中 在国家地理旅游杂志上 曾经把乘搭天星小轮 游览香港两岸 誉为人生50个必到景点之一"
+    },
+    {
+      "hook": "推开唐朝甜品店大门如同穿越回五六十年代",
+      "start": 871.584,
+      "ende": 891.696,
+      "laenge": 20.11,
+      "byte_start": 20928188,
+      "byte_ende": 21410875,
+      "bytes": 482688,
+      "range_header": "bytes=20928188-21410875",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 871.656,
+      "anker_sha256": "b89b1e457ed5c4c224483fa8977829015ba341ffca72fe7d639ef678738bae40",
+      "einblendung_ms": 60,
+      "text": "推开唐朝的大门 布置的古香古色的环境 仿古的吊扇以及流水声 弥漫着怀旧的气氛 如同时光倒流 赤身于五六十年代的感觉"
+    },
+    {
+      "hook": "旺角广华街被称为香港最具雄性气质的街道",
+      "start": 935.928,
+      "ende": 966.024,
+      "laenge": 30.1,
+      "byte_start": 22472444,
+      "byte_ende": 23194747,
+      "bytes": 722304,
+      "range_header": "bytes=22472444-23194747",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 936.0,
+      "anker_sha256": "a0e2914a2b7f410b9ec959a07fa2b2e8cc3514897c8e3a3a08d32fb78fb8806b",
+      "einblendung_ms": 60,
+      "text": "这里呢是有名的模型一条街 更被人们称为香港最具雄性气质的街道 在这条街上 大大小小的店铺比比皆是 大多是营销电玩遥控飞机和汽车模型 而最后呢是香港的传统家庭街道 最令人瞩目的却是卖各类仿真器械 弹药以及军用物资的商店 所以啊那些军品迷们来香港一定要去军品店看看 当然 再好你也是买不回去的 因为枪械无法带上飞机"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T16:26:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1082,
+  "veroeffentlicht": "2014-07-23T10:19:11+00:00",
+  "beschreibung": "枯燥的城市遮蔽了心灵，沉闷的生活束缚了脚步。离开喧嚣，丢弃纷扰，把你的身心装进我们的行囊，跟随我们的脚步开启欢乐的旅程。轻松迎欢乐，拥有好心情 ，漫步旅行！跟着戴逸游香港~",
+  "beschreibung_html": "<span>枯燥的城市遮蔽了心灵，沉闷的生活束缚了脚步。离开喧嚣，丢弃纷扰，把你的身心装进我们的行囊，跟随我们的脚步开启欢乐的旅程。轻松迎欢乐，拥有好心情 ，漫步旅行！跟着戴逸游香港~</span>",
+  "bild_url": "https://fdfs.xmcdn.com/group4/M04/8A/A4/wKgDtFPPi1ex0SnnAAFfyKTnRCE163.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

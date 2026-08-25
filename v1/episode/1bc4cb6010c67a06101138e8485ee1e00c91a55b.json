@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_846905586",
+  "apple_collection_id": "1610094539",
+  "show": "科技职涯 Talent Connect",
+  "titel": "【ㄟ我跟你说喔 】最想改掉的陋习",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqhfD0L7hduACAAAAOnLngm.mp3.m4a?channel=rss&album_id=57086073&track_id=846905586&uid=376733533&jt=https://aod.cos.tx.xmcdn.com/storages/411f-audiofreehighqps/D4/DC/GAqhfD0L7hduACAAAAOnLngm.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 15826091,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T14:06:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨近期想改掉的拖延症与多工挑选耗时等生活陋习。",
+  "kurzfassung": "主持人探讨了各自在日常生活中想改掉的陋习。Joe分享了自己倾向先处理紧急大事、把小事拖延好几天的拖延症。Claire则指出多工处理时，常花太多时间挑选影片或音档反而拉长整体时间的困扰。两人也交流了应对这些习惯的调整方法。",
+  "stichpunkte": [
+    "Joe与室友因收听节目意外交换了彼此的手机号码。",
+    "探讨现代人没有对方电话号码的现象是否为一种文明病。",
+    "Joe分享自身的拖延症是先处理重大任务，导致琐碎小事被严重滞后。",
+    "探讨结合Google日历规划时间与吃青蛙理论的优缺点。",
+    "Claire指出多工处理的陋习，常在挑选影音内容时耗费过多时间。",
+    "两人讨论多工处理的实际效益以及挑选内容时常面临失准的困扰。",
+    "总结改掉陌生开发的选择机制，改由朋友或同事推荐以节省时间。",
+    "邀请听众填写表单或通过IG分享今年最想改掉的陋习。"
+  ],
+  "kapitel": [
+    {
+      "titel": "交换电话号码与文明病",
+      "start": 2.8
+    },
+    {
+      "titel": "拖延症与工作任务排序",
+      "start": 95.3
+    },
+    {
+      "titel": "多工处理与挑选内容耗时",
+      "start": 466.0
+    },
+    {
+      "titel": "听众回馈与结语",
+      "start": 688.56
+    }
+  ],
+  "clips": [
+    {
+      "hook": "室友听到节目才发现彼此没有电话号码",
+      "start": 54.7,
+      "ende": 74.815,
+      "laenge": 20.11,
+      "byte_start": 1138083,
+      "byte_ende": 1527449,
+      "bytes": 389367,
+      "range_header": "bytes=1138083-1527449",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 54.779,
+      "anker_sha256": "05a784f1518c49ac62d44ed18b1874a43cb75f5b7c326069c47efb3e6f797081",
+      "einblendung_ms": 60,
+      "text": "所以其实你们彼此是没有手机 号码的 我们没有欸真的 我们昨天才有 可是我突然发现一个bug 就是开飞航打手机也打不到"
+    },
+    {
+      "hook": "大任务压力导致抗拒处理简单的小事情",
+      "start": 208.379,
+      "ende": 228.467,
+      "laenge": 20.09,
+      "byte_start": 4065855,
+      "byte_ende": 4451036,
+      "bytes": 385182,
+      "range_header": "bytes=4065855-4451036",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 208.457,
+      "anker_sha256": "addb38132bfa57d5eef27e3f0157c2aadfbff25cb1c3afa74b9de72f65ee6a39",
+      "einblendung_ms": 60,
+      "text": "然后才发现说 其实DEF三件小事加起来 我可能半个小时就做完了 对 但是我可能因为前面ABC 给我的那个感觉 跟那个压力太巨大了 所以我就会一直很抗拒去 花时间处理其他的小事情"
+    },
+    {
+      "hook": "将最困难的事情放在最开始做的吃青蛙理论",
+      "start": 372.637,
+      "ende": 392.725,
+      "laenge": 20.09,
+      "byte_start": 7237780,
+      "byte_ende": 7628243,
+      "bytes": 390464,
+      "range_header": "bytes=7237780-7628243",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 372.715,
+      "anker_sha256": "6b6619775b3872a661688eb0244f269fdbe4174e29e64536debae399fc879346",
+      "einblendung_ms": 60,
+      "text": "我还有听过一个就是叫做 吃青蛙理论 就是说 这刚好 反而是 就想要改掉这个习惯的 这个形状耶 就是"
+    },
+    {
+      "hook": "想多工却在挑选影片和音档时花太多时间",
+      "start": 483.056,
+      "ende": 503.171,
+      "laenge": 20.11,
+      "byte_start": 9401687,
+      "byte_ende": 9812619,
+      "bytes": 410933,
+      "range_header": "bytes=9401687-9812619",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 483.135,
+      "anker_sha256": "03b0837028e02f99ea8937b53113c6aaa039d69cc34d1b0e75059f0c9cc8a5dc",
+      "einblendung_ms": 60,
+      "text": "例如我可能想要在 吹头耙的时候 一边看影片 这样可以同时做两件事情 或是一边在洗碗的时候 听个podcast 一边做两件事情 但是呢 在这之前 我会花很多的时间 在挑选我要看什么影片 跟我要听什么音档 这样子我觉得"
+    },
+    {
+      "hook": "不自己陌生开发，改看别人推荐什么再听",
+      "start": 649.404,
+      "ende": 669.518,
+      "laenge": 20.11,
+      "byte_start": 12635068,
+      "byte_ende": 13020497,
+      "bytes": 385430,
+      "range_header": "bytes=12635068-13020497",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 649.482,
+      "anker_sha256": "5347be7e9dea537060d2a89b73aaeffb4ae9c0154f67f2fd0c1da034dcbe9c83",
+      "einblendung_ms": 60,
+      "text": "就是看别人推荐什么我再听 就是不要自己陌生开发 哦好像是个好方法耶 嗯 不然我每次就是 选好久然后听完就觉得 嗯好像今天又失败了 对所以这种时候可能就是 要"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T14:06:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 796,
+  "veroeffentlicht": "2025-05-05T06:04:30+00:00",
+  "beschreibung": "全新迷你主题【ㄟ我跟你说喔】陪你周一通勤！\n� 跟我们分享你想说的话、想听的主题 �� ⁠10 秒填表单！ ⁠\n---\n追踪《科技职涯 Talent Connect》和主持人 Jo 交流、第一手掌握节目最新消息！\n� ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠、⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n️ 或是关注 CakeResume 另一档 Podcast《职涯探险》，解惑职场大小事！\n�� ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠跟我们一起《职涯探险》⁠⁠",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">全新迷你主题【ㄟ我跟你说喔】陪你周一通勤！<br>� 跟我们分享你想说的话、想听的主题 �� ⁠10 秒填表单！ ⁠<br>---<br>追踪《科技职涯 Talent Connect》和主持人 Jo 交流、第一手掌握节目最新消息！<br>� ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠、⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<br>️ 或是关注 CakeResume 另一档 Podcast《职涯探险》，解惑职场大小事！<br>�� ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠跟我们一起《职涯探险》⁠⁠<br><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/366f-audiofreehighqps/82/2E/GAqh9sAL7heIAAZkfwOnLpEZ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2026/01/23/3191040779631715334_hd.mp3",
+  "apple_collection_id": "817221609",
+  "show": "给时间一场旅行",
+  "titel": "只在深夜问候  文/周宏翔",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2026/01/23/3191040779631715334_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 19093175,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T17:32:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "探讨大都市中人与人之间若即若离的情感与深夜问候的微光。",
+  "kurzfassung": "节目朗读了周宏翔的作品《只在深夜问候》，讲述了都市人在跨年夜的孤独、疏离与微妙的情感连接。文中记录了“我”与朋友M以及过往恋人G之间隔着屏幕的暧昧与现实交织的瞬间。最终在倒数声中，呈现出城市夜色里的温情与遗憾。",
+  "stichpunkte": [
+    "秦腾春介绍电台历史并宣传其创立的女装品牌良配洋容",
+    "朗读周宏翔作品《只在深夜问候》，讲述都市人不见面的虚拟暧昧",
+    "回忆与经纪人M的相识、深夜闲聊以及跨年夜的隔空互动",
+    "酒店外遇到情绪崩溃的陌生男子，引发关于城市孤独的思索",
+    "回忆过去喝醉酒闯红灯时与M通话的惊险经历",
+    "与美国留学生的交谈中意外发现对方因文学作品来到中国",
+    "回忆曾经与喜欢的人G之间关于跨年和隐瞒对象的遗憾过往",
+    "跨年倒数时刻在人群中寻觅M，最终在电话中互道新年快乐"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场白与品牌介绍",
+      "start": 123.1
+    },
+    {
+      "titel": "只在深夜问候的都市关系",
+      "start": 207.68
+    },
+    {
+      "titel": "跨年夜的酒店偶遇与心碎之人",
+      "start": 418.3
+    },
+    {
+      "titel": "回忆深夜醉酒与过去的感情遗憾",
+      "start": 615.06
+    },
+    {
+      "titel": "倒计时前的寻找与新年钟声",
+      "start": 972.4
+    }
+  ],
+  "clips": [
+    {
+      "hook": "虚拟界面上的暧昧信号",
+      "start": 313.051,
+      "ende": 334.655,
+      "laenge": 21.6,
+      "byte_start": 5061449,
+      "byte_ende": 5407101,
+      "bytes": 345653,
+      "range_header": "bytes=5061449-5407101",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 313.13,
+      "anker_sha256": "2c2bae2c723af469da741f9bbb9c47e03b9b004556b79d416b2ec4f91939f71f",
+      "einblendung_ms": 60,
+      "text": "我也搞不懂我们之间的关系 好像 更像是一种存在于信号里的暧昧 没有身体接触 没有拥抱 没有相互相伴 没有亲吻 没有任何越轨的行为 我们只是在虚拟的界面上 给对方一个信号 然后戛然而止"
+    },
+    {
+      "hook": "这座城市的每条街上，每天都有心碎的人",
+      "start": 483.631,
+      "ende": 509.858,
+      "laenge": 26.23,
+      "byte_start": 7790723,
+      "byte_ende": 8210353,
+      "bytes": 419631,
+      "range_header": "bytes=7790723-8210353",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 483.709,
+      "anker_sha256": "ea9be7b00bceeb1a605a7964b98d3148431af0fe7fa154c5a014c54bd0a14b11",
+      "einblendung_ms": 60,
+      "text": "心碎的人 这个城市的每条街上 每天都会有心碎的人 她说 那你去和她说 今年马上结束了 把悲伤留在2025就好 我说 我怕被打 这个时候的人 请问她 情绪最不稳定 没准 别人只是单纯发泄一下 M说"
+    },
+    {
+      "hook": "整条大街上空无一人，我还是闯了过去",
+      "start": 626.416,
+      "ende": 656.222,
+      "laenge": 29.81,
+      "byte_start": 10075288,
+      "byte_ende": 10552178,
+      "bytes": 476891,
+      "range_header": "bytes=10075288-10552178",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 626.495,
+      "anker_sha256": "521205b0c6256f5da1d96ae30588d54d9be22e6f2463adb91affdacf9419e66e",
+      "einblendung_ms": 60,
+      "text": "你是不是在梦游 我当时觉得自己 确实是在做梦 整条大街上空无一人 连共享单车 都统统消失不见了 没有车和夜光 只有红绿灯 我很清楚那是红灯 但 我还是闯了过去 我想突然冲出来一辆车 我转完了 结果没有 我很顺利地通过"
+    },
+    {
+      "hook": "跨年夜他独自留在酒店里看电视",
+      "start": 825.966,
+      "ende": 848.875,
+      "laenge": 22.91,
+      "byte_start": 13268078,
+      "byte_ende": 13634627,
+      "bytes": 366550,
+      "range_header": "bytes=13268078-13634627",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 826.044,
+      "anker_sha256": "c285b8b4352cc3198eea809db9882f16a63c2bd9fa16b54f1e45f32bc2c9b2ed",
+      "einblendung_ms": 60,
+      "text": "那一年的跨年夜 他在12点的时候 给我打了个电话 祝我新年快乐 我说怎么不是和对象一起吗 我说怎么不是和对象一起吗 他说是啊 但是对象和朋友出去看烟花了 他一个人 留在酒店里看电视 我说 是吗 挺好的"
+    },
+    {
+      "hook": "这一次，没有像梦里那么勇敢地越过禁区",
+      "start": 1106.547,
+      "ende": 1131.024,
+      "laenge": 24.48,
+      "byte_start": 17757378,
+      "byte_ende": 18149004,
+      "bytes": 391627,
+      "range_header": "bytes=17757378-18149004",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1106.625,
+      "anker_sha256": "3d6352d962fcb9780006e45378ff914131ce053331e337fa38dd08ca76856c28",
+      "einblendung_ms": 60,
+      "text": "我往酒店 方向奔跑 却跑进了一条空旷的道路 某个瞬间 似乎与梦境中的场景重叠一致 我望着那盏红灯 听到身后盛大的 Happy New Year 这一次 没有像梦里那么勇敢地越过禁区 我在电话里和M说 新年快乐"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T17:32:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1190,
+  "veroeffentlicht": "2026-01-23T20:44:11+08:00",
+  "untertitel": "只在深夜问候  文/周宏翔",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2026/01/23/3191040779631196679_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

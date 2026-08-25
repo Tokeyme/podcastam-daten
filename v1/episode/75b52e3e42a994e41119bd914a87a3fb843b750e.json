@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2026/08/14/3228624187306766854_hd.mp3",
+  "apple_collection_id": "789322904",
+  "show": "一米阳光音乐台",
+  "titel": "【一期一会】陪伴到天荒地老-NJ言杉",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2026/08/14/3228624187306766854_hd.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 7124923,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T11:30:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "NJ言杉带来一期关于陪伴与灵魂共鸣的情感独白。",
+  "kurzfassung": "节目通过细腻的情感独白探讨了生命中难得的灵魂共鸣与无条件接纳。主播描绘了想象中与某人携手走过世界各地的美好画面，以及在孤单中依然执着前行的期待。最后，节目在温暖的音乐声中落下帷幕，期待与听众下期再见。",
+  "stichpunkte": [
+    "想象多年后有人能够推开自己尘封的心门，穿过内心的黑暗与不堪。",
+    "探讨世间难得的眷顾：遇见一个能看穿所有勉强与伪装的人。",
+    "描绘与心中那个模糊身影一起奔跑、跳舞、听音乐的甜蜜日常。",
+    "分享去西藏、特罗姆瑟和马尔代夫等地的浪漫旅行幻想。",
+    "强调“我们”而不是“我”或“你”的共同前行与相遇期待。",
+    "坦言这或许是一场白日梦，但足够的期待能支撑人们在孤单中执着行走。",
+    "主播妍珊在节目尾声感谢听众聆听，并宣布节目圆满结束。"
+  ],
+  "kapitel": [
+    {
+      "titel": "灵魂的穿透与接纳",
+      "start": 135.54
+    },
+    {
+      "titel": "梦境般的陪伴与日常",
+      "start": 242.98
+    },
+    {
+      "titel": "对未来的期待与告别",
+      "start": 363.26
+    }
+  ],
+  "clips": [
+    {
+      "hook": "推开紧闭的心门",
+      "start": 137.012,
+      "ende": 157.1,
+      "laenge": 20.09,
+      "byte_start": 2244831,
+      "byte_ende": 2566241,
+      "bytes": 321411,
+      "range_header": "bytes=2244831-2566241",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 137.091,
+      "anker_sha256": "be78b4deb74f96c1e83a235559fd10decce6470ab6942c05510ef3c5affdeb94",
+      "einblendung_ms": 60,
+      "text": "多年后会不会有这样的时刻 你费尽气力推开我心门 竟没有气急败坏 轻轻慢慢地走进去 生怕惊动我的本能 叠烦我"
+    },
+    {
+      "hook": "看穿所有的勉强",
+      "start": 218.488,
+      "ende": 238.602,
+      "laenge": 20.11,
+      "byte_start": 3548446,
+      "byte_ende": 3870274,
+      "bytes": 321829,
+      "range_header": "bytes=3548446-3870274",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 218.566,
+      "anker_sha256": "db33444b3e9eb1a5af43374973bcfa69d502d0876a6e0f4971bfebeb8c645aff",
+      "einblendung_ms": 60,
+      "text": "遇见这样一个人 他看穿你所有的勉强 你不得已而为之背后的隐忍 你假意下的真相 他看破你的百般经营 时刻掩饰 依旧浅笑如水"
+    },
+    {
+      "hook": "共用一副耳机的浪漫",
+      "start": 276.741,
+      "ende": 296.829,
+      "laenge": 20.09,
+      "byte_start": 4480495,
+      "byte_ende": 4801905,
+      "bytes": 321411,
+      "range_header": "bytes=4480495-4801905",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 276.82,
+      "anker_sha256": "d89f8c11baf17d8b4886f896fbb1916462b09f8f91b88f2dceca6732ed625f55",
+      "einblendung_ms": 60,
+      "text": "在公交车上 一起随着浮竿上的吊带摇晃 一人一个耳机 听那些音乐 从一个地方流淌到 两个年轻的身体里 激起不同的涟漪"
+    },
+    {
+      "hook": "我们正走向一个路口",
+      "start": 346.41,
+      "ende": 366.524,
+      "laenge": 20.11,
+      "byte_start": 5595192,
+      "byte_ende": 5917020,
+      "bytes": 321829,
+      "range_header": "bytes=5595192-5917020",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 346.488,
+      "anker_sha256": "96e2f5fca6bf0e81af42da71c1413220911ea4c1d374930f97ff70da9fb30221",
+      "einblendung_ms": 60,
+      "text": "亲爱的 是我们 而不是我 也不是你 我们正走向一个路口 在那儿 我们会相遇"
+    },
+    {
+      "hook": "在孤单里执着行走",
+      "start": 366.42,
+      "ende": 386.508,
+      "laenge": 20.09,
+      "byte_start": 5915349,
+      "byte_ende": 6236759,
+      "bytes": 321411,
+      "range_header": "bytes=5915349-6236759",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 366.498,
+      "anker_sha256": "30bc912f1e97aa7c6ead6f3c237c0953c1cfc70769e9b40cc19416da4e7794af",
+      "einblendung_ms": 60,
+      "text": "我在做白日梦 我知道 但足够期待 才能够在孤单里 执着行走 不肯言弃"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T11:30:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 442,
+  "veroeffentlicht": "2026-08-14T10:09:40+08:00",
+  "beschreibung": "一花一世界，一叶一追寻。 一曲一场叹，一生为一人。 在城市的灯光下，情感交汇的渡口，回望曾经的绿洲，原来每一盏灯火的背后，都有一副温暖的容颜，还有那些已逝去的旋律。",
+  "beschreibung_html": "<p>一花一世界，一叶一追寻。 一曲一场叹，一生为一人。 在城市的灯光下，情感交汇的渡口，回望曾经的绿洲，原来每一盏灯火的背后，都有一副温暖的容颜，还有那些已逝去的旋律。</p>",
+  "untertitel": "【一期一会】陪伴到天荒地老-NJ言杉",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2026/08/14/3228624187307423751_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

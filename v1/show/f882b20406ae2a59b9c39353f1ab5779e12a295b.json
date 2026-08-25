@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "看电影，听音乐",
+  "apple_collection_id": "998991112",
+  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/10/29/3039419392869014022_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/10/29/3039419392869014022_hd.mp3",
+      "pfad": "/v1/episode/7a6df06e7a502833e7ea4a2cc5bda4bace845112.json",
+      "titel": "乱弹琴[103]:你可知道你的名字解释了我的一生",
+      "veroeffentlicht": "2023-10-29T16:26:53+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "乱弹琴单集探讨青春记忆与情感纠葛。"
+    }
+  ]
+}

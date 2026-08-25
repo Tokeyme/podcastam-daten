@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/3c82-audiofreehighqps/43/72/CMCoOSID6z5rAAjbvACBy2jW.m4a",
+  "apple_collection_id": "1249178976",
+  "show": "澳洲小留学生日记（美啦啦的留学生活全纪录）",
+  "titel": "《乙亥杂诗·龚自珍》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOSID6z5rAAjbvACBy2jW.m4a?channel=rss&album_id=4317338&track_id=380753794&uid=38063157&jt=https://aod.cos.tx.xmcdn.com/storages/3c82-audiofreehighqps/43/72/CMCoOSID6z5rAAjbvACBy2jW.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 580540,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:00:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "解析龚自珍《己亥杂诗》的创作背景与爱国思想",
+  "kurzfassung": "本期节目介绍了清代诗人龚自珍的代表作《己亥杂诗》。这组诗写于诗人辞官南归及北上迎取眷属的途中，共三百一十五首。其主要内容批评了清王朝的腐败统治，洋溢着强烈的爱国热情。",
+  "stichpunkte": [
+    "探讨清代诗人龚自珍的《己亥杂诗》",
+    "指出这组诗作于道光十九年即一八三九年",
+    "说明作者当时因辞官南归及北上迎取眷属而南北往返",
+    "提及这组诗共有三百一十五首",
+    "指出该年农历为己亥年故得名",
+    "主要内容为要求变法改图",
+    "批评清王朝不进取的腐败统治",
+    "作品洋溢着强烈的爱国热情"
+  ],
+  "kapitel": [
+    {
+      "titel": "诗作朗诵",
+      "start": 1.16
+    },
+    {
+      "titel": "创作背景与核心思想",
+      "start": 25.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:00:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 71,
+  "veroeffentlicht": "2021-01-30T15:29:45+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group29/M08/0A/F6/wKgJXVlRsAHBq1V5AAOILzzGZJI927.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

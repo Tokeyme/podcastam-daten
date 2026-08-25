@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_783117875",
+  "apple_collection_id": "993420157",
+  "show": "亲子育儿II每周一听",
+  "titel": "tmp_be0ec6c627363bdd2ed43d08a39f26eb3801cf83a994a6a5",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwLLrzhAAmXdAM-g8M_.m4a?channel=rss&album_id=392876&track_id=783117875&uid=25580432&jt=https://aod.cos.tx.xmcdn.com/storages/db18-audiofreehighqps/D1/1A/GKwRIRwLLrzhAAmXdAM-g8M_.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 628596,
+    "format": "m4a",
+    "geprueft_am": "2026-08-24T08:32:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "贵州是中国茶文化的摇篮，拥有丰富的茶树资源和独特的茶俗。",
+  "kurzfassung": "贵州省作为全国茶园种植面积最大的省份，是中国种茶、制茶和饮茶最早的地区之一。唐代陆羽的《茶经》中便有对该地区的记载，如今这里拥有极其丰富的茶树资源。同时，当地独特的茶礼和茶俗充分展现了贵州人民的热情与淳朴。",
+  "stichpunkte": [
+    "贵州是全国茶园种植面积最大的省份",
+    "中国是世界上最早种茶、制茶和饮茶的国家，贵州是其中最早的地区之一",
+    "唐代陆羽的《茶经》中记载了相关茶区及其极佳的茶味",
+    "贵州拥有大量的茶树资源，例如梅坛县便占有众多品种",
+    "当地茶园广袤，茶香四溢，构成了美丽的自然画卷",
+    "贵州拥有丰富多彩的茶文化、茶礼和茶俗，如客来敬茶和凤凰三点头",
+    "独特的茶俗展现了贵州人民的热情和淳朴"
+  ],
+  "kapitel": [
+    {
+      "titel": "贵州的茶文化历史",
+      "start": 0.0
+    },
+    {
+      "titel": "梅坛县的茶园风光与资源",
+      "start": 40.22
+    },
+    {
+      "titel": "贵州的茶礼与茶俗",
+      "start": 76.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-24T08:32:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 102,
+  "veroeffentlicht": "2024-12-11T02:33:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group70/M09/3C/E5/wKgOzl4mhtrwZ1J-AAB56tyVMr4425.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

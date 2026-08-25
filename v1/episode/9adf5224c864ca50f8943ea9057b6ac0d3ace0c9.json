@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_918601152",
+  "apple_collection_id": "1816160010",
+  "show": "蓝猫说财经",
+  "titel": "Vol203：为什么企业领袖需要定期“下凡”干脏活？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4Mu1IuACAAAAQeI1C4.mp3.m4a?channel=rss&album_id=92831658&track_id=918601152&uid=545399754&jt=https://aod.cos.tx.xmcdn.com/storages/c596-audiofreehighqps/AB/58/GKwRIW4Mu1IuACAAAAQeI1C4.mp3",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 15736207,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T10:01:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "为什么企业领袖容易陷入信息茧房，投资者如何看清商业真相？",
+  "kurzfassung": "本期节目探讨了企业高管因权力和分工产生的信息茧房与责任脱钩现象。由于缺乏对一线的真实感知，高管容易传递出失真的宏大叙事。投资者需要结合财务数据与软信息，透过光鲜的故事看清商业本质。",
+  "stichpunkte": [
+    "权力越高的高管，越容易陷入系统性的信息茧房与盲区",
+    "执行层为迎合战略，常将不符合叙事的细节层层过滤并失真",
+    "权力和责任的脱钩会导致高管对决策代价产生道德顿化",
+    "部分高管为了好看的业绩数据，对违规过程选择主动失明",
+    "投资者极易掉入企业宏大叙事和精美表象的陷阱中",
+    "除了硬性财务数据，观察CEO日常沟通等软信息更能揭示真相",
+    "企业领袖定期亲自动手干脏活，有助于打破幻觉并理解真实责任"
+  ],
+  "kapitel": [
+    {
+      "titel": "高管的信息茧房",
+      "start": 41.24
+    },
+    {
+      "titel": "权力的道德顿化",
+      "start": 103.6
+    },
+    {
+      "titel": "投资者的叙事陷阱",
+      "start": 195.2
+    },
+    {
+      "titel": "回归真实的权衡艺术",
+      "start": 263.4
+    },
+    {
+      "titel": "核心总结",
+      "start": 327.7
+    }
+  ],
+  "clips": [
+    {
+      "hook": "权力越高越容易活在真实的谎言里",
+      "start": 23.484,
+      "ende": 43.598,
+      "laenge": 20.11,
+      "byte_start": 940452,
+      "byte_ende": 1745022,
+      "bytes": 804571,
+      "range_header": "bytes=940452-1745022",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 23.562,
+      "anker_sha256": "e5011212901b767aacd3feb8a4bd2fc204a3812e5ecf43aed559608097e5aa8a",
+      "einblendung_ms": 60,
+      "text": "权力越高越容易活在真实的谎言里 这不是说高管们都在故意骗人 而是他们陷入了一种系统性的信息减防"
+    },
+    {
+      "hook": "躲在后面让刽子手执行，会忘记死亡是什么",
+      "start": 116.48,
+      "ende": 136.594,
+      "laenge": 20.11,
+      "byte_start": 4660289,
+      "byte_ende": 5464859,
+      "bytes": 804571,
+      "range_header": "bytes=4660289-5464859",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 116.558,
+      "anker_sha256": "7f87efd42c79eb7bc1f8bdf75ecd6545795255d57805377e1a26756702c39372",
+      "einblendung_ms": 60,
+      "text": "《冰与火之歌》里有句台词特别经典 说一个统治者如果总是躲在后面付钱让刽子手去执行 他很快就会忘记死亡到底是什么 这个比喻很到位"
+    },
+    {
+      "hook": "5000多名员工开假账户，高层真的会毫不知情吗",
+      "start": 150.57,
+      "ende": 170.684,
+      "laenge": 20.11,
+      "byte_start": 6023880,
+      "byte_ende": 6828451,
+      "bytes": 804572,
+      "range_header": "bytes=6023880-6828451",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 150.648,
+      "anker_sha256": "8d84278081d7205b5f0b47b25659033ef0b0c9f80705d7a523e5bb7955172892",
+      "einblendung_ms": 60,
+      "text": "就拿2016年富国银行那个著名的虚假账户丑闻来说 5000多名员工为了完成KPI疯狂给客户开假账户 高层真的会毫不知情吗"
+    },
+    {
+      "hook": "为什么蜜雪冰城净利率18%，而奈雪却是负19%",
+      "start": 210.181,
+      "ende": 230.269,
+      "laenge": 20.09,
+      "byte_start": 8408338,
+      "byte_ende": 9211863,
+      "bytes": 803526,
+      "range_header": "bytes=8408338-9211863",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 210.26,
+      "anker_sha256": "18fa62099fbf302869004dababd0a267f98d345e2baa90cdfee28775aec22462",
+      "einblendung_ms": 60,
+      "text": "但一看财报 为什么有的企业净利润率能做到像蜜雪冰城那样高达18% 而有的比如耐雪却是负的19% 这里面就反映了经营模式和效率的巨大差异 光鲜的口号背后是冰冷的成本和效率现实"
+    },
+    {
+      "hook": "只有亲手去砍一刀，才能理解责任的重量",
+      "start": 299.154,
+      "ende": 319.242,
+      "laenge": 20.09,
+      "byte_start": 11967260,
+      "byte_ende": 12770786,
+      "bytes": 803527,
+      "range_header": "bytes=11967260-12770786",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 299.233,
+      "anker_sha256": "ffc25ddd3450fa69cccc18f15159f54740e6915dc260ff1bac8ba8a50d0e4b98",
+      "einblendung_ms": 60,
+      "text": "只有他亲手去砍一刀 他才能真正理解责任的重量 才能不被权力带来的幻觉蒙蔽双眼 从而做出更接近真实世界的判断"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T10:01:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 393,
+  "veroeffentlicht": "2025-10-08T23:00:00+00:00",
+  "beschreibung": "【本集简介】\n本期节目探讨了高管在信息茧房中的困境，以及投资者如何避免被表面数据和宏大叙事所迷惑，揭示了权利与责任脱钩带来的道德钝化问题。\n【主要内容】\n00：01 引言：高管信息茧房的现象\n00：12 核心话题：真实的谎言与信息茧房\n01：11 案例分析：西贝创始人贾国龙的信息不对称\n02：04 道德钝化：权利与责任的脱钩\n02：31 主动逃避：高管选择不想知道的过程\n03：21 投资者视角：如何避免叙事陷阱\n04：05 软信息的重要性：CEO的日常行为与企业文化\n05：28 总结：打破信息茧房的关键点\n【节目主播】\n大嘴老师，某省电视台记者，财经作家。\n花花，某省电视台主播。\n------------------------------\n——听见世界的温度！\n蓝猫说，由蓝血研究院创办。蓝血研究院，以“赋能中国企业打胜仗”为使命，经融合华为、IBM等标杆企业的管理思想和最佳实践，创立了独有的“六驱马车”价值驱动力理论模型，形成适用于中国企业的方法论和管理工具。蓝血研究院出版的书籍有《华为奋斗密码》、《华为财经密码》。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/c82f-audiofreehighqps/65/A1/GAqhqKwMu1I0AEUClwQeI1Jb.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/c82f-audiofreehighqps/65/A1/GAqhqKwMu1I0AEUClwQeI1Jb.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/c82f-audiofreehighqps/65/A1/GAqhqKwMu1I0AEUClwQeI1Jb.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"409.2939174819226\" data-preview=\"http://imagev2.xmcdn.com/storages/c82f-audiofreehighqps/65/A1/GAqhqKwMu1I0AEUClwQeI1Jb.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"76.40153126329221\"><br></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">【本集简介】<br>本期节目探讨了高管在信息茧房中的困境，以及投资者如何避免被表面数据和宏大叙事所迷惑，揭示了权利与责任脱钩带来的道德钝化问题。<br>【主要内容】<br>00：01 引言：高管信息茧房的现象<br>00：12 核心话题：真实的谎言与信息茧房<br>01：11 案例分析：西贝创始人贾国龙的信息不对称<br>02：04 道德钝化：权利与责任的脱钩<br>02：31 主动逃避：高管选择不想知道的过程<br>03：21 投资者视角：如何避免叙事陷阱<br>04：05 软信息的重要性：CEO的日常行为与企业文化<br>05：28 总结：打破信息茧房的关键点<br>【节目主播】<br>大嘴老师，某省电视台记者，财经作家。<br>花花，某省电视台主播。<br>------------------------------<br>——听见世界的温度！<br>蓝猫说，由蓝血研究院创办。蓝血研究院，以“赋能中国企业打胜仗”为使命，经融合华为、IBM等标杆企业的管理思想和最佳实践，创立了独有的“六驱马车”价值驱动力理论模型，形成适用于中国企业的方法论和管理工具。蓝血研究院出版的书籍有《华为奋斗密码》、《华为财经密码》。<br><img data-key=\"1\" src=\"http://imagev2.xmcdn.com/storages/4459-audiofreehighqps/60/A1/GKwRIaIMu1JWAA74BAQeI1rq.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/4459-audiofreehighqps/60/A1/GKwRIaIMu1JWAA74BAQeI1rq.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/4459-audiofreehighqps/60/A1/GKwRIaIMu1JWAA74BAQeI1rq.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"319.14184081814136\" data-preview=\"http://imagev2.xmcdn.com/storages/4459-audiofreehighqps/60/A1/GKwRIaIMu1JWAA74BAQeI1rq.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"59.57314361938639\"></p><span><br><br></span>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/466d-audiofreehighqps/65/10/GAqhqKwMCaPDAATR2gO4Buf-.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "guid": "cmseaqvcc244101stfis2avce",
+  "apple_collection_id": "1628030539",
+  "show": "故事時光機",
+  "titel": "探險小頭目03｜生活類：名字裡藏著家族故事！一起認識賽德克族命名文化",
+  "audio": {
+    "url": "https://m.cdn.firstory.me/track/cl3wthw8f02to01u37o1y0zdv/cmseaqvcc244101stfis2avce/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcl3wthw8f02to01u37o1y0zdv%2Fcmseaqvcc244201stelyd75ex.mp3?v=1785826115258",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 10594055,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T13:13:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探索賽德克族的子父聯名命名文化與原住民名字背後的家族傳承故事。",
+  "kurzfassung": "本集介紹賽德克族的傳統命名方式，即子父聯名制，將祖先的名字與父親的名字組合在一起以傳承美德。節目中探討了這種命名方式背後的家族記憶、同名處理方式，以及與其他原住民族命名文化的差異。透過名字的組合，不僅能識別親族關係，更蘊含了深厚的文化意涵與生命傳承。",
+  "stichpunkte": [
+    "賽德克族的命名方式稱為子父聯名，子女的名字取自祖先，並在後方加上父親或母親的名字作為識別。",
+    "取名祖先的名字帶有傳承意味，希望後代能記住並學習祖先良好的品性與美德。",
+    "若父親不在身邊或有特殊情況，名字後方也可能附加母親的名字。",
+    "由於部落名字重複率高，長者會靠著腦海中的親族關係圖來辨別同名同姓的族人。",
+    "家族中品性良好、努力工作的正面祖先名字會被保留並延續，而不好的名字則會逐漸被遺忘。",
+    "莫納魯道的例子展示了子父聯名結構，父親與兒子的名字都有明顯的世代串聯。",
+    "不同原住民族群有各自的命名規則，例如達悟族人的名字會隨著家中孩子的誕生與身分轉變而跟著更改。",
+    "原住民名字前面的字並非漢人概念中的姓氏，外界常有誤解。"
+  ],
+  "kapitel": [
+    {
+      "titel": "賽德克族的子父聯名命名文化",
+      "start": 0.0
+    },
+    {
+      "titel": "親族記憶與同名處理方式",
+      "start": 282.52
+    },
+    {
+      "titel": "祖先名字的篩選與歷史實例",
+      "start": 362.34
+    },
+    {
+      "titel": "其他原住民族的命名特色",
+      "start": 448.64
+    },
+    {
+      "titel": "破除原住民名字有姓氏的迷思",
+      "start": 517.18
+    }
+  ],
+  "clips": [
+    {
+      "hook": "賽德克族獨特的子父聯名命名法",
+      "start": 144.849,
+      "ende": 164.963,
+      "laenge": 20.11,
+      "byte_start": 2318045,
+      "byte_ende": 2639873,
+      "bytes": 321829,
+      "range_header": "bytes=2318045-2639873",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 144.927,
+      "anker_sha256": "0df10330335c4349871c6c20f4081ed80581537cda852e4a486c2d716d212a13",
+      "einblendung_ms": 60,
+      "text": "塞德克族的名字 男女有別 原來塞德克族命名的方式 叫做子父聯名 沒錯 為什麼要這麼麻煩呢 這可是有傳承的意義哦"
+    },
+    {
+      "hook": "同名同姓怎麼分？長者的親族關係圖",
+      "start": 312.007,
+      "ende": 332.121,
+      "laenge": 20.11,
+      "byte_start": 4992566,
+      "byte_ende": 5314394,
+      "bytes": 321829,
+      "range_header": "bytes=4992566-5314394",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 312.085,
+      "anker_sha256": "23dad9a63b3ba38da31b8dfc4da99ffba0df193518d3763125195dd29f6d88d5",
+      "einblendung_ms": 60,
+      "text": "因为部落名字并不是很多 所以也会产生许多同名同姓的情况 为了不混淆 所以家里头的长者脑海当中 都有个清楚的亲族关系图 以明显地说明 名字来记忆族人们之间的关系"
+    },
+    {
+      "hook": "為什麼有些祖先的名字會徹底消失？",
+      "start": 384.444,
+      "ende": 404.558,
+      "laenge": 20.11,
+      "byte_start": 6151567,
+      "byte_ende": 6473394,
+      "bytes": 321828,
+      "range_header": "bytes=6151567-6473394",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 384.522,
+      "anker_sha256": "72e1c3f10ad9efd94465ecc7ccfdb94f8d059b71b60b1a1b7fbf2152f742947b",
+      "einblendung_ms": 60,
+      "text": "发生过不好事情的祖先 他们的父母也会保佑他们的父母 而他们的名字则会消失在家族当中 因为这些名字 不但不会被拿来作为新生儿的命名 甚至还会被逐渐遗忘"
+    },
+    {
+      "hook": "達悟族人一輩子竟然要改好幾次名字？",
+      "start": 477.78,
+      "ende": 497.894,
+      "laenge": 20.11,
+      "byte_start": 7644935,
+      "byte_ende": 7966763,
+      "bytes": 321829,
+      "range_header": "bytes=7644935-7966763",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 477.858,
+      "anker_sha256": "a3898ec0781c4904e7dd5c8eec9a734feaaba0197ddf3d6593ea356d6cbea81a",
+      "einblendung_ms": 60,
+      "text": "但是比较特别的就是岛主人哦 他们一辈子可能要改好几次的名字呢 为什么要改那么多次啊 岛主人的名字啊 会随着家里面的孩子诞生而更改 好比说这孩子刚出生的时候 爸爸把他取名为"
+    },
+    {
+      "hook": "原住民名字前面的字其實不是姓氏",
+      "start": 525.14,
+      "ende": 545.228,
+      "laenge": 20.09,
+      "byte_start": 8402695,
+      "byte_ende": 8724105,
+      "bytes": 321411,
+      "range_header": "bytes=8402695-8724105",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 525.218,
+      "anker_sha256": "2c03a4056362583a0d39d059772eaa6b71cc0df5a46d166913f4a0c5dd3eae86",
+      "einblendung_ms": 60,
+      "text": "那个嘎是我的姓 我有一个朋友叫做伍塞古拉斯 还有人叫他伍小姐呢 所以啊 原住民的名字呢 不是前面一定是姓"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T13:13:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 662,
+  "veroeffentlicht": "2026-08-20T04:02:08+00:00",
+  "beschreibung": "每個人的名字，都有自己的故事。✨\n有的是爸爸媽媽的祝福，\n有的是家人的期待，\n而在賽德克族，名字還承載著家族的傳承與文化記憶。 💚\n今晚，就跟著「大麥哥」和「小米弟」，一起探索賽德克族獨特的命名方式，發現名字背後蘊藏的深刻意義！\n\n#每週二 情緒小偵探系列\n#每週四 探險小頭目\n#更多的兒童節目請至Channel+頻道-親子系列\n--------\nApple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn\n搜尋訂閱：故事時光機\n--------\n🎙教育電臺🎙\n📻官網:https://bit.ly/39ISswV\n🔗粉絲團:https://bit.ly/nerpodcastlink\n🛜Youtube頻道:http://bit.ly/3TOGfx4\n☆若您對本頻道節目有任何疑問或建議，請e-mail 至：service@ner.gov.tw\n\nPowered by Firstory Hosting",
+  "beschreibung_html": "<p>每個人的名字，都有自己的故事。✨</p><p>有的是爸爸媽媽的祝福，<br>有的是家人的期待，<br>而在賽德克族，<strong>名字還承載著家族的傳承與文化記憶。</strong> 💚</p><p>今晚，就跟著「大麥哥」和「小米弟」，一起探索賽德克族獨特的命名方式，發現名字背後蘊藏的深刻意義！</p><p></p><p>#每週二 情緒小偵探系列<br>#每週四 探險小頭目</p><p>#更多的兒童節目請至<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://channelplus.ner.gov.tw/channel-curate\">Channel+頻道-親子系列</a></p><p>--------</p><p>Apple｜Spotify｜Google｜KKBOX｜Firstory｜SoundOn</p><p>搜尋訂閱：故事時光機</p><p>--------</p><p>🎙教育電臺🎙</p><p>📻官網:<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bit.ly/39ISswV\">https://bit.ly/39ISswV</a></p><p>🔗粉絲團:<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bit.ly/nerpodcastlink\">https://bit.ly/nerpodcastlink</a></p><p>🛜Youtube頻道:<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://bit.ly/3TOGfx4\">http://bit.ly/3TOGfx4</a></p><p><strong>☆若您對本頻道節目有任何疑問或建議，請e-mail 至：</strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"mailto:service@ner.gov.tw\"><strong>service@ner.gov.tw</strong></a></p> <br /> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a>",
+  "bild_url": "https://image.firstory-cdn.me/Image/cl3wthw8f02to01u37o1y0zdv/PfejUvD6CXaHrzeh1cbbA.jpg",
+  "folgennummer": 6,
+  "kapitel_quelle": "modell"
+}

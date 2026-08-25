@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "guid": "cmsxsxepu09fb01uxayd535dj",
+  "apple_collection_id": "1540526799",
+  "show": "媽爹講故事",
+  "titel": "【媽爹講西遊】師徒四人",
+  "audio": {
+    "url": "https://m.cdn.firstory.me/track/ckgvv1m2ah8re0903njm7tcun/cmsxsxepu09fb01uxayd535dj/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckgvv1m2ah8re0903njm7tcun%2Fcmsxsxepu09fc01ux1glp8rys.mp3?v=1787005530265",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 15815365,
+    "format": "mp3",
+    "geprueft_am": "2026-08-24T15:15:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "唐僧师徒四人齐聚流沙河，踏上西行取经路",
+  "kurzfassung": "孙悟空从南海请来木叉协助，在流沙河收服卷帘大将并为其取名沙和尚，至此师徒四人齐聚。借助观音的红葫芦化为大船顺利过河后，四人继续前行来到万寿山。万寿山庄观内藏有人参果，镇元大仙离家听道前嘱咐徒弟款待唐僧。",
+  "stichpunkte": [
+    "孙悟空向观音菩萨求助如何渡过流沙河",
+    "观音派木叉携带红葫芦协助孙悟空收服妖怪",
+    "妖怪拜唐僧为师并被赐名沙和尚，师徒四人正式凑齐",
+    "红葫芦化作大船，载着师徒四人和白龙马顺利渡过流沙河",
+    "师徒四人继续西行，来到景色秀丽的万寿山",
+    "孙悟空推测万寿山上有神仙或圣僧居住",
+    "万寿山五庄观内藏有神奇的人参果，三千年开花三千年结果",
+    "镇元大仙出门听道，留清风明月看家并交代款待唐僧"
+  ],
+  "kapitel": [
+    {
+      "titel": "流沙河收徒",
+      "start": 37.5
+    },
+    {
+      "titel": "渡过流沙河",
+      "start": 420.72
+    },
+    {
+      "titel": "抵达万寿山",
+      "start": 534.32
+    },
+    {
+      "titel": "五庄观与人参果",
+      "start": 785.96
+    }
+  ],
+  "clips": [
+    {
+      "hook": "报上取经身份，妖怪不用打就会主动保护师父",
+      "start": 126.744,
+      "ende": 146.832,
+      "laenge": 20.09,
+      "byte_start": 2028613,
+      "byte_ende": 2350020,
+      "bytes": 321408,
+      "range_header": "bytes=2028613-2350020",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 126.816,
+      "anker_sha256": "fbf102bfa29883f12c281d60f1116e570df5f1930d89b650b31abf63e13202b2",
+      "einblendung_ms": 60,
+      "text": "你要是跟他说 说你们到西天去取经的事儿啊 不用打 他就会跟你们一块保护师父了"
+    },
+    {
+      "hook": "红葫芦往水里一扔，瞬间变成了一艘大船",
+      "start": 438.048,
+      "ende": 458.16,
+      "laenge": 20.11,
+      "byte_start": 7009477,
+      "byte_ende": 7331268,
+      "bytes": 321792,
+      "range_header": "bytes=7009477-7331268",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 438.12,
+      "anker_sha256": "fa2b7b732b436c7436bce40f929d507754e666f7a33e7a6e31a2d666ed6c1a57",
+      "einblendung_ms": 60,
+      "text": "你说奇怪不奇怪 这红葫芦啊 就变成了一艘大船 特别大 三个徒弟都在那里"
+    },
+    {
+      "hook": "沙僧和八戒十来天能到，师父走一辈子未必能到",
+      "start": 697.704,
+      "ende": 717.816,
+      "laenge": 20.11,
+      "byte_start": 11163973,
+      "byte_ende": 11485764,
+      "bytes": 321792,
+      "range_header": "bytes=11163973-11485764",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 697.776,
+      "anker_sha256": "7afa21d4a26ace5c72a2b4befd34315cd20f18d27d2be619cb396048db60859a",
+      "einblendung_ms": 60,
+      "text": "嗯 这个嘛 得看是谁走 要是你和沙师弟走呢 十来天也就到了 要是我一个人走啊 一天至少能来回个五六次 要是师父嘛 哎呀 那就不好说喽"
+    },
+    {
+      "hook": "三千年开花三千年结果，将近一万年才能吃",
+      "start": 808.728,
+      "ende": 828.84,
+      "laenge": 20.11,
+      "byte_start": 12940357,
+      "byte_ende": 13262148,
+      "bytes": 321792,
+      "range_header": "bytes=12940357-13262148",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 808.8,
+      "anker_sha256": "f7492a1666d34b2bcea7e71c4bc46e35f5cc23390f6264c7a1b74c8ab967820b",
+      "einblendung_ms": 60,
+      "text": "三千年才开一回花 三千年才结一回果 结了果 还得三千年才能熟 从开花到结果到能吃啊 得花将近一万年的功夫"
+    },
+    {
+      "hook": "吃上一个就能活四万七千岁",
+      "start": 863.88,
+      "ende": 883.968,
+      "laenge": 20.09,
+      "byte_start": 13822789,
+      "byte_ende": 14144196,
+      "bytes": 321408,
+      "range_header": "bytes=13822789-14144196",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 863.952,
+      "anker_sha256": "5a0dd5f4872ff8b4fd6641910bfb429b121c18500452e79d3e212f96e930a5d1",
+      "einblendung_ms": 60,
+      "text": "你要是吃上一个 那就能活四万七千岁了 你说有多神啊"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-24T15:15:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 988,
+  "veroeffentlicht": "2026-08-18T10:02:20+00:00",
+  "beschreibung": "想聽免費又無廣告的媽爹講故事嗎？\n立刻下載 App 👉 https://to.momdadstory.com/下載媽爹講故事\n--\n悟空向觀音求助，\n得知流沙河妖乃天宮捲簾大將，\n被菩薩遣守河等取經人。\n木吒持紅葫蘆相召，\n沙悟淨拜唐僧為三徒，\n葫蘆化舟，師徒四人過河。\n行至萬壽山五莊觀，\n觀後有萬年一熟的人參果樹，\n主人鎮元大仙外出，\n只留下清風、明月看守，\n並囑遇唐僧可奉兩果，\n切勿讓其三徒知曉。\n\nPowered by Firstory Hosting",
+  "beschreibung_html": "<p>想聽免費又無廣告的媽爹講故事嗎？</p><p>立刻下載 App&nbsp; 👉 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://to.momdadstory.com/下載媽爹講故事\">https://to.momdadstory.com/下載媽爹講故事</a></p><p>--</p><p>悟空向觀音求助，<br>得知流沙河妖乃天宮捲簾大將，<br>被菩薩遣守河等取經人。<br>木吒持紅葫蘆相召，<br>沙悟淨拜唐僧為三徒，<br>葫蘆化舟，師徒四人過河。<br>行至萬壽山五莊觀，<br>觀後有萬年一熟的人參果樹，<br>主人鎮元大仙外出，<br>只留下清風、明月看守，<br>並囑遇唐僧可奉兩果，<br>切勿讓其三徒知曉。</p> <br /> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a>",
+  "bild_url": "https://image.firstory-cdn.me/Image/ckgvv1m2ah8re0903njm7tcun/PRrwVU6TuhdvfFvmyUdjG.jpg",
+  "kapitel_quelle": "modell"
+}
