@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19569106",
+  "apple_collection_id": "1462411107",
+  "show": "Wander Woman: A Travel Podcast",
+  "titel": "The Long Haul",
+  "audio": {
+    "url": "https://www.buzzsprout.com/290348/episodes/19569106-the-long-haul.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 34901610,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:15:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Exploring Andean trade routes, horse-drawn journeys, and a brother's kayaking legacy.",
+  "kurzfassung": "This episode explores ancient Andean trade routes and the history of llamas in Argentina. Travel author Michael Pugh shares insights from riding 1,500 miles on horseback from Russia to Transylvania. Additionally, Katie Carr discusses completing her late brother's sea kayaking challenge along the shipping forecast.",
+  "stichpunkte": [
+    "Traced ancient Andean trade routes and petroglyphs in northern Argentina with local guides",
+    "Examined the crucial role of domesticated llamas in carrying goods and sustaining cross-regional trade",
+    "Shared practical travel tips for navigating trips with teenagers based on personal family experiences",
+    "Discussed a 1,500-mile horseback journey from Russia to Transylvania with debut author Michael Pugh",
+    "Highlighted top Latin American wildlife encounters ranging from southern right whales to capybaras",
+    "Provided essential gear recommendations for multi-day horseback treks and exploration",
+    "Explored Katie Carr's journey completing her late brother's challenge to sea kayak the shipping forecast",
+    "Profiled 19th-century writer Juana Manuela Goriti as the Wander Woman of the Month"
+  ],
+  "kapitel": [
+    {
+      "titel": "Argentina, Andes and the llama army",
+      "start": 102.0
+    },
+    {
+      "titel": "Travel Hack: How To Travel With Teenagers",
+      "start": 753.0
+    },
+    {
+      "titel": "Wander Woman meets Michael Pugh - Riding from Russia to Transylvania by horseback",
+      "start": 963.0
+    },
+    {
+      "titel": "Top 10 wildlife encounters in Latin America",
+      "start": 1526.0
+    },
+    {
+      "titel": "Gear: What to pack for travel in a saddle",
+      "start": 1771.0
+    },
+    {
+      "titel": "Hidden Hero: Katie Carr",
+      "start": 1885.0
+    },
+    {
+      "titel": "Wander Woman Of The Month: Juana Manual Gorriti",
+      "start": 2423.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "How Andean pre-Inca chiefs were chosen through battle tournaments",
+      "start": 335.36,
+      "ende": 355.448,
+      "laenge": 20.09,
+      "byte_start": 4536956,
+      "byte_ende": 4778013,
+      "bytes": 241058,
+      "range_header": "bytes=4536956-4778013",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 335.438,
+      "anker_sha256": "1267c77fd378e10e959d368d03b51d0599e8f2703f6e3ebb080decd3c054f29d",
+      "einblendung_ms": 60,
+      "text": "Leadership was determined through violent combat tournaments rather than through hereditary succession."
+    },
+    {
+      "hook": "The exact weight a llama can carry across mountain passes",
+      "start": 573.78,
+      "ende": 603.899,
+      "laenge": 30.12,
+      "byte_start": 7397991,
+      "byte_ende": 7759420,
+      "bytes": 361430,
+      "range_header": "bytes=7397991-7759420",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 573.858,
+      "anker_sha256": "7e77f0f80909edcbfe4c9d98cffd25c10e94dbd369d4788503e6fefd72d1edfa",
+      "einblendung_ms": 60,
+      "text": "Llamas were historically used to transport up to 60 kilograms of supplies, including food and gear, across mountain ranges."
+    },
+    {
+      "hook": "Why horses are the ultimate icebreaker when meeting locals",
+      "start": 1193.326,
+      "ende": 1213.44,
+      "laenge": 20.11,
+      "byte_start": 14832545,
+      "byte_ende": 15073915,
+      "bytes": 241371,
+      "range_header": "bytes=14832545-15073915",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1193.404,
+      "anker_sha256": "c6ab703a301e30eff55ed09e1477dfe4c4c1b45aa3fa1e791c8f12f3f889bfb0",
+      "einblendung_ms": 60,
+      "text": "Traveling on horseback changes social interactions, as locals often focus their attention and requests on the animal rather than the rider."
+    },
+    {
+      "hook": "The collective noun for flamingos is a flamboyance",
+      "start": 1607.471,
+      "ende": 1627.585,
+      "laenge": 20.11,
+      "byte_start": 19802288,
+      "byte_ende": 20043659,
+      "bytes": 241372,
+      "range_header": "bytes=19802288-20043659",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1607.549,
+      "anker_sha256": "39aeefc963fdc2f8336d063b7a7c0003f4c4bbbab206a37cb740d32f9670da1b",
+      "einblendung_ms": 60,
+      "text": "Maintaining a positive mindset and focusing on the immediate next steps is presented as a strategy for overcoming challenges."
+    },
+    {
+      "hook": "Leaving the cold and wet kayaking routes for the sister",
+      "start": 2197.159,
+      "ende": 2219.024,
+      "laenge": 21.86,
+      "byte_start": 26878546,
+      "byte_ende": 27140919,
+      "bytes": 262374,
+      "range_header": "bytes=26878546-27140919",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2197.238,
+      "anker_sha256": "a48a0ae7f67622ee4603cc1c6877b8905e3c05e4a02e313736e58e525e96f35b",
+      "einblendung_ms": 60,
+      "text": "The speaker recounts how their brother assigned them the colder, rainier regions of the UK and Ireland for their shared travel project."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:15:10+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2827,
+  "veroeffentlicht": "2026-07-29T13:00:00+01:00",
+  "beschreibung": "A splash of wine hits the dust beneath the table, offered first to Pachamama - aka Mother Earth, and suddenly northern Argentina feels more family member than nameless destination. Follow Phoebe's Wander Woman correspondent Daniel Neilson as he journeys to Jujuy and Salta following ancient Andean trade routes, reading a 4,000-year timeline etched into rock, and asking one deceptively simple question: how did life and culture move across mountains that seem designed to keep people apart? The answer, it seems, is llama-shaped.\n\nAlso coming up:\nAuthor Michael Pugh - on Riding through War and Peace on a horse from Russia to Transylvania\nTravel Hack: How to (and how not to) travel with a teenager\nWhales, sloths and cabybaras... Latin America's best 10 wildlife encounters\nMeet Katie Carr, the woman who not only finished her late brother's book but went on to honour his memory by completing his kayaking adventure\nGear chat: what to pack to travel by horseback\nJuana Manual Gorriti – the greatest Argentine author you've never heard of – is our Wander Woman of the Month.\n\nIf you enjoyed the stories, subscribe, share the episode with a fellow traveller, and leave us a review so more people can find the show.\nContact Wander Woman\nwww.Phoebe-Smith.com; @PhoebeRSmith",
+  "beschreibung_html": "<p>A splash of wine hits the dust beneath the table, offered first to Pachamama - aka Mother Earth, and suddenly northern Argentina feels more family member than nameless destination. Follow Phoebe&apos;s Wander Woman correspondent Daniel Neilson as he journeys to Jujuy and Salta following ancient Andean trade routes, reading a 4,000-year timeline etched into rock, and asking one deceptively simple question: how did life and culture move across mountains that seem designed to keep people apart? The answer, it seems, is llama-shaped. <br/><br/>Also coming up:</p><ul><li>Author Michael Pugh - on Riding through War and Peace on a horse from Russia to Transylvania </li><li>Travel Hack: How to (and how not to) travel with a teenager</li><li>Whales, sloths and cabybaras... Latin America&apos;s best 10 wildlife encounters </li><li>Meet Katie Carr, the woman who not only finished her late brother&apos;s book but went on to honour his memory by completing his kayaking adventure</li><li>Gear chat: what to pack to travel by horseback</li><li>Juana Manual Gorriti – the greatest Argentine author you&apos;ve never heard of – is our Wander Woman of the Month.</li></ul><p>If you enjoyed the stories, subscribe, share the episode with a fellow traveller, and leave us a review so more people can find the show.</p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/290348/fan_mail/new\">Contact Wander Woman</a></p><p>www.Phoebe-Smith.com; @PhoebeRSmith</p>",
+  "schlagworte": [
+    "Argentina",
+    "llamas",
+    "salta",
+    "Inca",
+    "wine",
+    "Andes",
+    "Andean",
+    "condor",
+    "sloth",
+    "wildlife",
+    "Latin America",
+    "Russia",
+    "Transylvania",
+    "the Shipping Forecast"
+  ],
+  "folgennummer": 7,
+  "kapitel_quelle": "betreiber",
+  "bild_url": "https://storage.buzzsprout.com/9bmqx1rptc3lc66dq91cnsq76102?.jpg"
+}

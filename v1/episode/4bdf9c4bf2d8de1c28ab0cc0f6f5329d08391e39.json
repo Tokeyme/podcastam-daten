@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_998365767",
+  "apple_collection_id": "1763520037",
+  "show": "跨洋热议｜10分钟带你打破中美信息差｜新闻脱口秀",
+  "titel": "美国劳动力参与率降至50年来最低水平｜特朗普持股，关税政策再引利益冲突讨论",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOHOZmADCRegSwwb9P.m4a?channel=rss&album_id=82179651&track_id=998365767&uid=72741781&jt=https://aod.cos.tx.xmcdn.com/storages/f1e0-audiofreehighqps/A2/2B/GKwRIJIOHOZmADCRegSwwb9P.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3182970,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:37:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "美国劳动力参与率降至50年来最低水平｜特朗普持股，关税政策再引利益冲突讨论",
+  "kurzfassung": "本期节目分析了美国最新的就业数据，指出失业率下降的背后是大量人口退出劳动力市场，真正的劳动参与率处于疫情后的低位。同时，特朗普持有的苹果和英伟达等科技巨头股票，因其政策直接影响这些公司的供应链与股价，再次引发了外界对总统潜在利益冲突的讨论。节目最后总结了当前就业市场的疲软状态以及政策对科技企业成本的深远影响。",
+  "stichpunkte": [
+    "6月美国新增非农就业约5.7万人，明显低于市场预期，而失业率从4.3%下降至4.2%。",
+    "失业率下降的真实原因是6月有大约72万人因未积极找工作而退出劳动力市场。",
+    "美国6月劳动参与率降至61.5%，核心劳动年龄人口参与率走弱，表明求职者面临育儿成本、薪资和岗位错配等多重压力。",
+    "低失业率掩盖了就业市场的疲软，企业招聘速度放缓，处于一种低招聘、低裁员的僵持状态。",
+    "就业数据的复杂性让美联储的判断变得更加困难，经济呈现表面稳定但普通人求职困难的状态。",
+    "特朗普最新的财务披露显示其持有苹果、英伟达等大型科技公司股票，推高了外界对其关税与芯片政策的关注度。",
+    "苹果的供应链高度依赖海外制造，面临关税带来的成本压力；英伟达则主要受先进芯片出口和AI政策的影响。",
+    "尽管财务披露不等于违法且资产由第三方管理，但总统政策与其家族信托资产所在的行业估值之间的交叉关系，依然引发了公众对利益冲突的讨论。"
+  ],
+  "kapitel": [
+    {
+      "titel": "美国最新就业数据与失业率背后的真相",
+      "start": 6.64
+    },
+    {
+      "titel": "美国就业市场的五大观察点与美联储面临的难题",
+      "start": 85.54
+    },
+    {
+      "titel": "特朗普持股苹果与英伟达引发的利益冲突讨论",
+      "start": 242.0
+    },
+    {
+      "titel": "总结与节目尾声",
+      "start": 350.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:37:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 392,
+  "veroeffentlicht": "2026-07-03T02:49:55+00:00",
+  "beschreibung": "今天聊聊失业率下降，但更多人已经退出劳动力市场，真正值得看的其实是劳动参与率和招聘意愿；特朗普持有苹果、英伟达等科技资产，而他的关税、芯片出口和制造业政策又会直接影响这些公司的成本、供应链和股价。\n00:32 6月新增非农就业约5.7万人，失业率从4.3%降至4.2%\n00:58 约72万人退出劳动力市场，不再积极找工作，因此不计入失业人口\n01:30 劳动参与率降至61.5%，成为本次就业报告更值得关注的数据\n02:00 失业率低不一定代表就业变强，也可能代表更多人退出统计范围\n02:38 新增岗位放慢、前两月数据下修，就业市场进入低招聘、低裁员状态\n03:20 退出劳动力市场的人不全是退休，也可能受育儿、健康、工资和岗位错配影响\n04:05 部分求职者进入“放弃找工作”阶段，不再被统计为失业者\n04:40 就业表面稳定，但会让美联储更难判断经济是否正在慢慢走弱\n05:08 特朗普财务披露显示持有苹果、英伟达等大型科技公司资产\n05:35 苹果受关税和全球供应链影响敏感，英伟达则受AI芯片出口和半导体政策影响更大\n06:05 苹果担心制造成本和消费电子价格，英伟达担心出口限制和AI政策收紧\n06:42 财务披露不等于违法，但会让总统财富与政策影响之间的交叉更受关注\n\n如果你喜欢本期节目，欢迎打赏支持，或把节目推荐给朋友。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">今天聊聊<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">失业率下降，但更多人已经退出劳动力市场，真正值得看的其实是劳动参与率和招聘意愿；特朗普持有苹果、英伟达等科技资产，而他的关税、芯片出口和制造业政策又会直接影响这些公司的成本、供应链和股价。</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:32 6月新增非农就业约5.7万人，失业率从4.3%降至4.2%<br>00:58 约72万人退出劳动力市场，不再积极找工作，因此不计入失业人口<br>01:30 劳动参与率降至61.5%，成为本次就业报告更值得关注的数据<br>02:00 失业率低不一定代表就业变强，也可能代表更多人退出统计范围<br>02:38 新增岗位放慢、前两月数据下修，就业市场进入低招聘、低裁员状态<br>03:20 退出劳动力市场的人不全是退休，也可能受育儿、健康、工资和岗位错配影响<br>04:05 部分求职者进入“放弃找工作”阶段，不再被统计为失业者<br>04:40 就业表面稳定，但会让美联储更难判断经济是否正在慢慢走弱<br>05:08 特朗普财务披露显示持有苹果、英伟达等大型科技公司资产<br>05:35 苹果受关税和全球供应链影响敏感，英伟达则受AI芯片出口和半导体政策影响更大<br>06:05 苹果担心制造成本和消费电子价格，英伟达担心出口限制和AI政策收紧<br>06:42 财务披露不等于违法，但会让总统财富与政策影响之间的交叉更受关注<br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">如果你喜欢本期节目，欢迎打赏支持，或把节目推荐给朋友。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/7f60-audiofreehighqps/CE/32/GMCoOR4KR-nAABAAAALj-JJv.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

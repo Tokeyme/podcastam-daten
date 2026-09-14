@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "b106ce0e-91a3-43a0-a39e-b4ba002a3232",
+  "apple_collection_id": "1878220033",
+  "show": "Love Trapped",
+  "titel": "Guilty | BONUS",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/20968bfe-1a62-450f-a762-b3de0110281c/b106ce0e-91a3-43a0-a39e-b4ba002a3232/audio.mp3?utm_source=Podcast&in_playlist=1c0ae3b2-ec1e-4a0c-a144-b3de01102fb1",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 35553433,
+    "format": "mp3",
+    "geprueft_am": "2026-09-06T11:41:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Laura Owens pleads guilty to four felony counts in Arizona court",
+  "kurzfassung": "Laura Owens pleaded guilty to four felony counts, including fraudulent schemes and perjury, during a settlement conference in Arizona. The surprise plea deal avoids a trial and dismisses ten other charges, with sentencing scheduled for October 23rd. Victims and commentators shared mixed reactions of relief and shock as accountability was finally reached.",
+  "stichpunkte": [
+    "Laura Owens pleaded guilty to four felony counts during a settlement hearing in Maricopa County.",
+    "The charges include two counts of fraudulent schemes, one count of perjury, and one count of identity theft.",
+    "In exchange for the guilty plea, the state agreed to dismiss ten remaining charges.",
+    "The plea deal means no trial will take place, bypassing a public airing of all collected evidence.",
+    "Sentencing is officially scheduled for October 23rd, where Owens faces a range from probation up to 12.5 years in prison.",
+    "Victims and observers expressed a mixture of emotional relief, disbelief, and a desire for maximum incarceration."
+  ],
+  "kapitel": [
+    {
+      "titel": "The Courthouse Arrival and Uncertainty",
+      "start": 2.38
+    },
+    {
+      "titel": "The Guilty Plea Hearing",
+      "start": 311.029
+    },
+    {
+      "titel": "Reactions Outside the Courtroom",
+      "start": 686.69
+    },
+    {
+      "titel": "Legal Analysis and Future Sentencing",
+      "start": 1084.68
+    },
+    {
+      "titel": "Impact on Victims and TEDx Removal",
+      "start": 1334.65
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Four guilty admissions",
+      "start": 54.152,
+      "ende": 74.266,
+      "laenge": 20.11,
+      "byte_start": 920662,
+      "byte_ende": 1242489,
+      "bytes": 321828,
+      "range_header": "bytes=920662-1242489",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 54.23,
+      "anker_sha256": "511f20b80dcc19a0084c44e80fa4eeade153ff986ea2ddb982e19461b8d9256e",
+      "einblendung_ms": 60,
+      "text": "A sports commentator discusses an athlete's improved performance and refined technique on the court."
+    },
+    {
+      "hook": "Impact on civil rights",
+      "start": 374.1,
+      "ende": 394.214,
+      "laenge": 20.11,
+      "byte_start": 6039826,
+      "byte_ende": 6361653,
+      "bytes": 321828,
+      "range_header": "bytes=6039826-6361653",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 374.178,
+      "anker_sha256": "1abda51b86655b12bb1532be6946b8b6f9dafb7a2bdc4e95240f8ab5453705fc",
+      "einblendung_ms": 60,
+      "text": "Legal counsel informs participants that Laura has accepted a plea deal."
+    },
+    {
+      "hook": "Seeking accountability and prison time",
+      "start": 730.305,
+      "ende": 753.11,
+      "laenge": 22.8,
+      "byte_start": 11739117,
+      "byte_ende": 12103995,
+      "bytes": 364879,
+      "range_header": "bytes=11739117-12103995",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 730.384,
+      "anker_sha256": "eaa0de9201f5ea019bf8364b860942a7db0a65973ac86c24fd56ba610edd2bc5",
+      "einblendung_ms": 60,
+      "text": "Formal charges detail allegations of fraud and financial deception committed against Gregory Gillespie across multiple dates."
+    },
+    {
+      "hook": "Saved from prison by a plea deal",
+      "start": 1018.488,
+      "ende": 1041.58,
+      "laenge": 23.09,
+      "byte_start": 16350043,
+      "byte_ende": 16719518,
+      "bytes": 369476,
+      "range_header": "bytes=16350043-16719518",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1018.567,
+      "anker_sha256": "56e9f1f0cff4a918d45441aa71afe1b5b103fdbaeb537f2ae52b7a97e445303f",
+      "einblendung_ms": 60,
+      "text": "An attendee reflects on the emotional courtroom proceedings and shares an embrace with Clayton outside."
+    },
+    {
+      "hook": "The TEDx video is finally gone",
+      "start": 1430.7,
+      "ende": 1450.815,
+      "laenge": 20.11,
+      "byte_start": 22945437,
+      "byte_ende": 23267265,
+      "bytes": 321829,
+      "range_header": "bytes=22945437-23267265",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1430.779,
+      "anker_sha256": "46b10efa0bf8fea5016598e58f920c1773c6364fb9c76e7f128d8454e092812d",
+      "einblendung_ms": 60,
+      "text": "The avoidance of a trial leaves gathered evidence unexamined and public curiosity unsatisfied regarding the full scope of the case."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-06T11:41:59+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1732,
+  "veroeffentlicht": "2026-09-03T04:00:00+00:00",
+  "beschreibung": "On August 28, 2026, Laura Owens pled guilty to four felony counts in her criminal case in Arizona. In this special bonus episode, you’ll hear exclusive reporting from the courthouse on the day Laura pled guilty. Plus, Mike and Danielle Marraccini share some good news.\nFor exclusive content, follow us on Instagram @glasspodcasts. If you would like to reach out to the Love Trapped team or have a similar story to share, email us at lovetrappedpod@gmail.com.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>On August 28, 2026, Laura Owens pled guilty to four felony counts in her criminal case in Arizona. In this special bonus episode,&nbsp;you&rsquo;ll hear exclusive reporting from the courthouse on the day Laura pled guilty. Plus, Mike and Danielle Marraccini share some good news. &nbsp;</p> <p>For exclusive content, follow us on Instagram&nbsp;<a href=\"https://www.instagram.com/glasspodcasts/\" data-outlook-id=\"4117fefe-d89c-4e0b-b39a-2945fc85243f\">@glasspodcasts</a>. If you would like to reach out to the Love Trapped team or have a similar story to share, email us at <a href=\"mailto:lovetrappedpod@gmail.com\" data-outlook-id=\"44086d62-2dca-4b9b-8514-bdc555606c0b\">lovetrappedpod@gmail.com</a>.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/20968bfe-1a62-450f-a762-b3de0110281c/b106ce0e-91a3-43a0-a39e-b4ba002a3232/image.jpg?t=1788402924&size=Large",
+  "folgennummer": 16,
+  "kapitel_quelle": "modell"
+}

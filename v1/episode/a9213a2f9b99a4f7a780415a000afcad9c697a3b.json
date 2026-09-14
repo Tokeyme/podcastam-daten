@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_886263989",
+  "apple_collection_id": "1826248721",
+  "show": "郭德纲单口高清版《济公传》",
+  "titel": "01、国清寺求子",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEMR4okAGAOpgPgG18-.m4a?channel=rss&album_id=96978008&track_id=886263989&uid=4584385&jt=https://aod.cos.tx.xmcdn.com/storages/96d2-audiofreehighqps/A4/65/GKwRIJEMR4okAGAOpgPgG18-.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6295206,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T07:35:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨单口相声与评书的艺术异同，并讲述济公降生民间的传奇故事。",
+  "kurzfassung": "本期节目开篇探讨了评书与单口相声在艺术形式上的相似性与区别。随后，节目切入正题，讲述了济公降生民间的历史背景与传奇故事。故事从浙江台州府的李茂春夫妇求子讲起，记录了祥隆罗汉显灵与济公降生的奇妙经过。",
+  "stichpunkte": [
+    "评书与单口相声在艺术表演上具有高度的相似性",
+    "历史上确有济公其人，其圆寂至今已有八百年",
+    "中国传统文化中对不同身份之人的去世有不同的称谓",
+    "浙江台州府天台县永宁村曾住着一位曾任节度使的李茂春",
+    "李茂春夫妇年过四十无子，王室夫人经常前往国清寺烧香拜佛",
+    "夫妇在国清寺拜佛时，十八罗汉中的祥隆罗汉塑像突然掉落",
+    "老方丈预言夫妇二人将生贵子，夫人不久后果然顺利怀孕",
+    "孩子降生时不仅不哭反而面带笑容，老和尚前来看视并点出其罗汉转世的来历"
+  ],
+  "kapitel": [
+    {
+      "titel": "评书与单口相声的艺术异同",
+      "start": 135.16
+    },
+    {
+      "titel": "济公的历史原型与古人去世的称谓",
+      "start": 226.4
+    },
+    {
+      "titel": "李茂春夫妇国清寺求子",
+      "start": 423.76
+    },
+    {
+      "titel": "祥隆罗汉转世与降生传奇",
+      "start": 562.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T07:35:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 777,
+  "veroeffentlicht": "2025-07-12T02:23:04+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/053f-audiofreehighqps/53/35/GAqhqKwMR4ZDAAKgQgPgGPUf.jpeg",
+  "kapitel_quelle": "modell"
+}

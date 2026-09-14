@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_968185452",
+  "apple_collection_id": "1885728186",
+  "show": "AI游戏行业观察周报",
+  "titel": "podcast_ai_games_weekly_vol05",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJENqN3XACORbQSFsAr7.m4a?channel=rss&album_id=117768558&track_id=968185452&uid=327996754&jt=https://aod.cos.tx.xmcdn.com/storages/a73d-audiofreehighqps/54/96/GKwRIJENqN3XACORbQSFsAr7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2330989,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:39:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨过去一周国内外AI在游戏开发、语音社交及行业争议中的最新动态。",
+  "kurzfassung": "网易与星辉娱乐等国内厂商加速推进AI在游戏研发中的应用，实现显著效能提升。国外方面，Nexon与Verse8等企业积极布局AI转型与原生游戏创作，推动行业变革。然而，Take-Two裁撤AI团队以及NVIDIA DLSS5因美颜争议引发玩家抗议，暴露出技术落地过程中的阵痛与审美争议。",
+  "stichpunkte": [
+    "网易CEO丁磊表示大模型降低制作门槛但拔高成功门槛，AI原生管线效能提升300%",
+    "星辉娱乐在核心业务实现AI工具常态化应用，并纳入内部考评体系",
+    "机构科技推出实时互动AI Agent解决方案，解决语音社交游戏凑不齐人的痛点",
+    "韩国Nexon宣布AI转型计划，强调利用玩家交互数据训练AI以支持游戏设计",
+    "AI原生游戏平台Verse8完成500万美元种子轮融资，月活用户超350万",
+    "Take-Two撤换AI团队负责人及多名成员，重新考量AI投入与短期效益",
+    "NVIDIA推出AI渲染工具DLSS5，因自动添加美颜滤镜和改变角色外观引发玩家抗议"
+  ],
+  "kapitel": [
+    {
+      "titel": "国内厂商加速AI落地",
+      "start": 21.34
+    },
+    {
+      "titel": "AI赋能语音社交游戏",
+      "start": 85.4
+    },
+    {
+      "titel": "国外游戏大厂与平台的AI布局",
+      "start": 130.74
+    },
+    {
+      "titel": "AI发展的争议与行业阵痛",
+      "start": 191.46
+    },
+    {
+      "titel": "总结与展望",
+      "start": 249.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:39:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 287,
+  "veroeffentlicht": "2026-04-06T23:30:00+00:00",
+  "beschreibung": "本期播客带你速览近一周国内外AI在游戏与互联网行业的最新动态。\n\n网易、Nexon等大厂如何利用AI实现效能飙升？即构科技的AI Agent如何拯救“凑不齐人”的语音游戏？Nvidia的新工具为何引发玩家的“美颜焦虑”？我们将为你简要总结这些热点，并进行深度的数据对比分析，探讨AI在游戏行业的机遇与挑战。\n\n金句：\n1.“AI确实降低了游戏制作的‘准入门槛’，但也极大地拔高了头部产品的‘成功门槛’。”\n2.“下一个爆款语音游戏，可能就差一个‘AI搭子’。”\n3.“对于开发者来说，没有上下文的AI只是速度的提升——一场让所有游戏走向同质化的算法竞赛。”",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span>本期播客带你速览近一周国内外AI在游戏与互联网行业的最新动态。</span></span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span>网易、Nexon等大厂如何利用AI实现效能飙升？即构科技的AI Agent如何拯救“凑不齐人”的语音游戏？Nvidia的新工具为何引发玩家的“美颜焦虑”？我们将为你简要总结这些热点，并进行深度的数据对比分析，探讨AI在游戏行业的机遇与挑战。</span></span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span>金句</span></span>：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span>1.</span></span><span><span><span><span>“AI确实降低了游戏制作的‘准入门槛’，但也极大地拔高了头部产品的‘成功门槛’。”</span></span></span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span>2.</span></span><span><span><span><span>“下一个爆款语音游戏，可能就差一个‘AI搭子’。”</span></span></span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span>3.</span></span><span><span><span><span>“对于开发者来说，没有上下文的AI只是速度的提升——一场让所有游戏走向同质化的算法竞赛。”</span></span></span></span></p><span><br></span>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3b7b-audiofreehighqps/36/85/GAqhI8INe_r-AA3qQARzR5_q.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

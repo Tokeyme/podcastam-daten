@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_729521330",
+  "apple_collection_id": "1649132494",
+  "show": "游资︱涨停板买入法",
+  "titel": "全国首发--H M M隐马尔可夫模型，能提前知道大盘，个股资金和控盘度",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasKHjGNAJaKhgLU7hLh.m4a?channel=rss&album_id=24039594&track_id=729521330&uid=57938320&jt=https://aod.cos.tx.xmcdn.com/storages/8e98-audiofreehighqps/4C/F4/GKwRIasKHjGNAJaKhgLU7hLh.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9865862,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T07:19:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "国内首发隐马尔可夫模型量化工具，支持大盘与个股资金和控盘度预测",
+  "kurzfassung": "本期节目介绍了国内首创的隐马尔可夫模型（HMM）量化工具在股市预测中的应用。主播详细讲解了如何通过该模型判断大盘风险区、个股控盘度以及次日涨跌预测。同时，相关功能已上线微信端与知行AI系统，方便核心船员进行实战查询与辅助决策。",
+  "stichpunkte": [
+    "隐马尔可夫模型（HMM）不依赖单纯技术分析，通过状态转移判断市场稳态与风险区。",
+    "大盘处于数值2的稳态时即为风险区，该信号比传统B-S点更具准确性。",
+    "模型预测结合了颜色标记与50%以上的胜率要求，以过滤无效信号并提高准确度。",
+    "微信端工具即将上线，支持沪深5000多只个股的控盘度查询、主力买入额及财务数据。",
+    "个股分析同样引入HMM模型，灰色背景代表对下跌的预测成功，红色代表对上涨的预测成功。",
+    "未来海量计算将接入知行AI系统，仅需几秒即可计算出个股的马尔可夫模型次日判断结果。"
+  ],
+  "kapitel": [
+    {
+      "titel": "隐马尔可夫模型与大盘风险判断",
+      "start": 0.0
+    },
+    {
+      "titel": "模型预测准确率与实战信号规则",
+      "start": 86.5
+    },
+    {
+      "titel": "手机微信端功能与个股控盘度查询",
+      "start": 487.62
+    },
+    {
+      "titel": "个股HMM模型应用与知行AI算力支持",
+      "start": 877.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T07:19:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1218,
+  "veroeffentlicht": "2024-05-18T09:00:12+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/bbcb-audiofreehighqps/A3/69/GKwRIJIHQMaWAAE_awHGlK0Z.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

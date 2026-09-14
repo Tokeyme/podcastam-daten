@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_965542347",
+  "apple_collection_id": "1867372514",
+  "show": "科技新生活",
+  "titel": "数字医疗的升维——从“治病”到“治未病”的硬核真相",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJENmaaBABAAAAR_kGFG.m4a?channel=rss&album_id=113862947&track_id=965542347&uid=26884723&jt=https://aod.cos.tx.xmcdn.com/storages/8066-audiofreehighqps/71/4F/GKwRIJENmaaBABAAAAR_kGFG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 14873926,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T21:56:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨数字医疗如何从被动治病转向主动预防，并剖析其中的数据焦虑与隐私隐患。",
+  "kurzfassung": "数字医疗通过可穿戴设备和AI算法，将传统被动的医疗模式转变为实时的个性化健康管理。然而，资本狂欢背后隐藏着数据不准引发的健康焦虑、隐私裸奔及监管空白等风险。面对变革，用户应保持清醒，扮演好健康首席数据官的角色，实现人机协同。",
+  "stichpunkte": [
+    "数字医疗改变了传统医患权力关系，通过24小时监测和AI算法将医疗模式推向“治未病”的主动预防阶段。",
+    "消费级可穿戴设备的监测精度有限，容易因数值波动产生“数据焦虑”，引发不必要的恐慌。",
+    "科技公司收集高度敏感的健康数据存在监管空白，面临定向广告骚扰及严重的数据泄露风险。",
+    "AI辅助诊断可能存在幻觉、被资本操纵或误诊责任真空等伦理与法律问题。",
+    "普通用户应成为自己健康的首席数据官，核心任务包括管理预期、守卫隐私以及坚持人机协同。"
+  ],
+  "kapitel": [
+    {
+      "titel": "数字医疗的权力转移与本质",
+      "start": 2.94
+    },
+    {
+      "titel": "数字医疗的三大现实陷阱",
+      "start": 207.0
+    },
+    {
+      "titel": "普通人的应对之道与未来展望",
+      "start": 430.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T21:56:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 608,
+  "veroeffentlicht": "2026-03-25T13:33:33+00:00",
+  "beschreibung": "数字医疗不仅仅是将挂号和缴费转移到手机上，而是一场关于健康主动权的革命。通过可穿戴设备和AI算法，个人健康数据在日常生活中被实时监测，改变了传统医疗的被动模式。然而，这背后也隐含着数据准确性、隐私保护和责任归属等诸多挑战。数字医疗要求我们成为自己健康的首席数据官，管理预期，守卫隐私，与专业医疗协同。未来的健康管理需要我们保持理性，善用技术。\n00:02:07:数字疗法：个人健康数据的守护者与挑战者\n00:04:07:数字医疗的现实与挑战：睡眠监测、隐私保护和信任危机\n00:06:08:数字医疗的升维：普通人如何应对健康变化\n00:08:10:数字医疗：掌握健康主动权的关键，该如何解读隐私条款？",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">数字医疗不仅仅是将挂号和缴费转移到手机上，而是一场关于健康主动权的革命。通过可穿戴设备和AI算法，个人健康数据在日常生活中被实时监测，改变了传统医疗的被动模式。然而，这背后也隐含着数据准确性、隐私保护和责任归属等诸多挑战。数字医疗要求我们成为自己健康的首席数据官，管理预期，守卫隐私，与专业医疗协同。未来的健康管理需要我们保持理性，善用技术。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:02:07:数字疗法：个人健康数据的守护者与挑战者</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:04:07:数字医疗的现实与挑战：睡眠监测、隐私保护和信任危机</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:06:08:数字医疗的升维：普通人如何应对健康变化</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:08:10:数字医疗：掌握健康主动权的关键，该如何解读隐私条款？</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2f8e-audiofreehighqps/84/6A/GAqhg3wNmWnSAAeVqwR_aYlW.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

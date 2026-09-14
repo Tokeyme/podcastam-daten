@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "66b4894598727a67998e0bdf",
+  "apple_collection_id": "1749481146",
+  "show": "The Overshare 英文播客",
+  "titel": "Parking Wars",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/66518f204efbc0c3dcf15c38/66b4894598727a67998e0bdf/media.xyzcdn.net/lvs34hJdFNt0Ah-EDK_XD06YDQp5.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 84573207,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T12:01:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨英国私人停车场的罚款陷阱、纪录片制作伦理以及职业选择等话题。",
+  "kurzfassung": "主持人分享了在英国私人停车场遭遇复杂且繁琐的付费流程以及事后收到不合理罚单的经历。节目随后探讨了纪录片制作与传统新闻行业在客观性和规则上的差异。最后，主持人解答了听众关于职业转型的困惑，并预告了未来将推出全新的中文播客节目。",
+  "stichpunkte": [
+    "在英国私人停车场遭遇繁琐的扫码和下载App流程，且GPS定位错误。",
+    "离开后收到带有法律威胁意味的罚单，主持人坚决拒绝支付并向对方发邮件抗议。",
+    "探讨纪录片制作与传统新闻学在双源核实和匿名规则等方面的区别。",
+    "提及导演沃纳·赫尔佐格关于纪录片追求“迷狂真实”的理念。",
+    "解答听众关于在两份不同工作之间做出选择的职业困惑。",
+    "讨论工作对个人生活意义的重要性以及对未来不确定性的担忧。",
+    "预告将推出全新的中文播客节目，并将英语和中文内容进行分流。"
+  ],
+  "kapitel": [
+    {
+      "titel": "英国停车场的糟糕体验",
+      "start": 553.46
+    },
+    {
+      "titel": "拒绝支付不合理罚款",
+      "start": 824.84
+    },
+    {
+      "titel": "纪录片制作与新闻伦理",
+      "start": 1400.06
+    },
+    {
+      "titel": "职业选择与未来规划",
+      "start": 1887.9
+    },
+    {
+      "titel": "节目调整与全新中文播客预告",
+      "start": 2486.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T12:01:48+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2627,
+  "veroeffentlicht": "2024-08-08T09:00:53+00:00",
+  "beschreibung": "Paul’s introduction into China’s strong IV scene was no walk in the park. Arthur takes on an English private car park in a duel to the death. A listener asks if documentary ethical standards are still a thing. Another one asks if she should stay with her demanding but fulfilling job, or transition to something easier.\nPlus, a big announcement. We are launching a Chinese-language podcast! Search for 飞天虎说 on all your favorite podcast apps.\n#英文播客#英文脱口秀#老外给建议\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>Paul’s introduction into China’s strong IV scene was no walk in the park. Arthur takes on an English private car park in a duel to the death. A listener asks if documentary ethical standards are still a thing. Another one asks if she should stay with her demanding but fulfilling job, or transition to something easier.</p><p>Plus, a big announcement. We are launching a Chinese-language podcast! Search for 飞天虎说 on all your favorite podcast apps.&nbsp;</p><p>#英文播客#英文脱口秀#老外给建议</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/66b4894598727a67998e0bdf?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

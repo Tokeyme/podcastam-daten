@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_942717670",
+  "apple_collection_id": "1531332167",
+  "show": "无限电波 | 社会文化话题漫谈",
+  "titel": "42. 都市丽人独居指南",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4NHqR8Aj11iARLrEYm.m4a?channel=rss&album_id=39897525&track_id=942717670&uid=245725189&jt=https://aod.cos.tx.xmcdn.com/storages/4c4b-audiofreehighqps/D7/26/GKwRIW4NHqR8Aj11iARLrEYm.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 37582216,
+    "format": "m4a",
+    "geprueft_am": "2026-09-13T15:44:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "三位女性主播与好友Yumi聚在一起，分享女性独居的现实体验、国内外租房经历以及疫情期间的心态变化。",
+  "kurzfassung": "本期节目邀请老朋友Yumi，三位主播围绕女性独居这一话题展开深入讨论。她们分享了各自对“家”的定义、因工作或留学开始独居的契机，以及在国内外不同城市租房的独特经历和安全防范。最后，她们探讨了独居带来的快乐与心理压力，强调在生活中学会自我接纳和建立健康的秩序感的重要性。",
+  "stichpunkte": [
+    "家对三位主播而言是一个流动的、抽象的概念，而非传统的安定锚点。",
+    "选择独居多源于对合租生活的不满、经济独立后的需求或对个人专属空间的渴望。",
+    "海外租房经历各异，Yumi分享了在悉尼通过小红书与二房东交涉的惊险经历，小野则分享了在美国入住学校公寓的顺利体验。",
+    "租房时需警惕中介催促与潜在风险，女性独居更应注重安全防范并相信第六感。",
+    "独居不仅带来自由，也面临市中心高昂租金、生鲜分量难掌控以及食材浪费的困扰。",
+    "疫情时期的封控经历给独居生活留下了深刻印记与创伤，但日常的连结与微小确幸帮助她们度过难关。",
+    "独居可能导致抑郁或过度控制欲等精神亚健康状态，主播建议要允许自己犯错并学会放松。"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨家的定义与独居契机",
+      "start": 11.44
+    },
+    {
+      "titel": "海内外租房经历与踩坑分享",
+      "start": 1245.48
+    },
+    {
+      "titel": "市中心与郊区的居住选择及租金压力",
+      "start": 2255.54
+    },
+    {
+      "titel": "独居生活中的快乐、食材浪费与安全防范",
+      "start": 3039.16
+    },
+    {
+      "titel": "疫情期间的独居记忆与心理亚健康",
+      "start": 3763.72
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-13T15:44:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4642,
+  "veroeffentlicht": "2025-12-22T06:10:25+00:00",
+  "beschreibung": "“女人想要写小说，她就必须有钱，还有一间属于自己的房间。” 当我们选择独居，我们究竟在选择什么？是自由，是孤独，还是一种认识自我的必要旅程？本期我们邀请嘉宾Yumi来一起聊聊都市独居女性的生活体验。无论你正在独居，考虑独居，还是单纯对这种生活方式感到好奇，这期充满真实故事、经济分析和情感共鸣的对谈，都将为你提供一个重新审视生活与自我的窗口。\n[00:53] “家”对你来说意味着什么\n[05:38] 为什么选择独居？经济原因、身份转变与室友相处\n[15:20] 一个人住如何建立生活的秩序感：做家务与情绪调节\n[20:44] 在世界各地租房的经历：悉尼、美国与香港；租House还是公寓，市中心还是郊区\n[37:02] 租房经济学：房租的工资占比、住房面积与地区、通勤时间与交通工具\n[41:30] 像《东京八平米》一样住在大都会的小房间；如何平衡日常开销与文化娱乐消费\n[47:26] 租房的选择权隐含的阶级差异，公共空间的分化\n[50:40] 独居与单身经济：一人食买菜做饭的困扰\n[56:55] 独居会带来孤独感吗？学会与自己相处，注意自己的心理健康\n[62:30] 日常与非日常：疫情时期的独居生活，在极端环境中稳定自己的内核\n[72:03] 独居单身女性面临的现实危险与对策\n\n片尾曲：完美的一天 – 孙燕姿",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">“女人想要写小说，她就必须有钱，还有一间属于自己的房间。” 当我们选择独居，我们究竟在选择什么？是自由，是孤独，还是一种认识自我的必要旅程？本期我们邀请嘉宾<span>Yumi</span>来一起聊聊都市独居女性的生活体验。无论你正在独居，考虑独居，还是单纯对这种生活方式感到好奇，这期充满真实故事、经济分析和情感共鸣的对谈，都将为你提供一个重新审视生活与自我的窗口。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[00:53] </span>“家”对你来说意味着什么</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[05:38] </span>为什么选择独居？经济原因、身份转变与室友相处</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[15:20] </span>一个人住如何建立生活的秩序感：做家务与情绪调节</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[20:44] </span>在世界各地租房的经历：悉尼、美国与香港；租<span>House</span>还是公寓，市中心还是郊区</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[37:02] </span>租房经济学：房租的工资占比、住房面积与地区、通勤时间与交通工具</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[41:30] </span>像《东京八平米》一样住在大都会的小房间；如何平衡日常开销与文化娱乐消费</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[47:26] </span>租房的选择权隐含的阶级差异，公共空间的分化</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[50:40] </span>独居与单身经济：一人食买菜做饭的困扰</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[56:55] </span>独居会带来孤独感吗？学会与自己相处，注意自己的心理健康</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[62:30] </span>日常与非日常：疫情时期的独居生活，在极端环境中稳定自己的内核</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>[72:03] </span>独居单身女性面临的现实危险与对策</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">片尾曲：完美的一天 <span>– </span>孙燕姿</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4bd5-audiofreehighqps/E2/67/GKwRIMANHqNiAALtbQRLq77H.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

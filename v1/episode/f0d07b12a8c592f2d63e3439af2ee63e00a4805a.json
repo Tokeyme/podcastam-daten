@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006717905",
+  "apple_collection_id": "1817162602",
+  "show": "旅行指南",
+  "titel": "胖东来闭店，为什么我们比许昌人还难过？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIOV0SbAC4f6wTHgSBR.m4a?channel=rss&album_id=88155998&track_id=1006717905&uid=6635320&jt=https://aod.cos.tx.xmcdn.com/storages/a9c9-audiofreehighqps/B6/AC/GKwRIaIOV0SbAC4f6wTHgSBR.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3022827,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:54:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨胖东来生活广场闭店引发全国网友共同惋惜的深层原因",
+  "kurzfassung": "许昌胖东来生活广场因租约到期将关闭，引发了许多从未去过该店的全国网友的失落与唏嘘。胖东来凭借极致的真诚服务和关爱顾客的理念，成为了冰冷商业社会中的一个温暖样本。人们的难过不仅是因为失去了一家优秀的超市，更是因为担忧商业环境可能再次失去一种理想的参照。",
+  "stichpunkte": [
+    "许昌胖东来生活广场因租约到期即将闭店，引发全国网友广泛关注与唏嘘",
+    "胖东来以极致的售后服务闻名，例如无理由为穿了数月的破损鞋子更换新鞋",
+    "超市提供包括免费修鞋、熨烫衣服、厕所专人发纸巾等18项免费服务",
+    "胖东来在商业运营中把顾客当活生生的人看待，打破了冷漠的交易关系",
+    "它的存在证明了真诚可以盈利，善待员工和顾客能够成就伟大的品牌",
+    "面对日常生活中常见的消费套路，胖东来成了人们心中的一束光和一个精神锚点",
+    "人们为闭店感到难过，本质上是在为商业环境中可能失去一种理想范本而叹息",
+    "胖东来用24年时间完成了一场深刻的市场教育，重塑了消费者对好商业的渴望"
+  ],
+  "kapitel": [
+    {
+      "titel": "胖东来生活广场闭店与公众的意外难过",
+      "start": 0.44
+    },
+    {
+      "titel": "极致服务：胖东来如何重新定义商业温度",
+      "start": 40.5
+    },
+    {
+      "titel": "冰冷现实与精神锚点：我们到底在怀念什么",
+      "start": 160.48
+    },
+    {
+      "titel": "市场教育与好商业的未来渴望",
+      "start": 319.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:54:16+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 373,
+  "veroeffentlicht": "2026-08-16T09:23:31+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1440-audiofreehighqps/15/16/GAqhQ6cLs-hHAAGGlgODQLj2.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/b655-audiofreehighqps/5B/B3/CMCoOScDf84xACZELABlcZ5w.m4a",
+  "apple_collection_id": "1491423038",
+  "show": "科学育儿宝典（0~1岁适用）",
+  "titel": "婴儿的学习能力成长",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOScDf84xACZELABlcZ5w.m4a?channel=rss&album_id=11774473&track_id=353849124&uid=26329291&jt=https://aod.cos.tx.xmcdn.com/storages/b655-audiofreehighqps/5B/B3/CMCoOScDf84xACZELABlcZ5w.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2507820,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:27:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨婴儿惊人的学习能力与早期认知发展。",
+  "kurzfassung": "早期心理学家曾认为婴儿不具备自主学习和思维能力，但现代科学研究证明这种观点是错误的。婴儿一出生就具备感知世界、学习和记忆的能力，其语言习得速度在人的一生中是最快的。此外，实验表明婴儿在掌握语言之前就已经具备了知觉归纳、分类以及跨感官辨别事物的能力。",
+  "stichpunkte": [
+    "威廉·詹姆斯和约翰·洛克等早期心理学家曾认为婴儿缺乏思维和学习能力。",
+    "现代心理学和生理学实验证明，婴儿一出生就能感知世界并具备探索能力。",
+    "新生儿具备学习和记忆能力，图形记忆和信息获取能力随月龄增长而复杂化。",
+    "十个月大的婴儿已具备简单的数字概念，能够区别二和三。",
+    "婴儿时期的学习速度是人的一生中最快的，两岁左右即可完全掌握母语。",
+    "科学测试表明，婴儿在没有掌握语言之前就已具备知觉归纳和分类的能力。",
+    "六个月的婴儿能够通过触觉和视觉之间的联系，跨感官分辨事物的固有特征。"
+  ],
+  "kapitel": [
+    {
+      "titel": "婴儿学习能力的传统观点的颠覆",
+      "start": 0.0
+    },
+    {
+      "titel": "新生儿惊人的记忆与语言习得速度",
+      "start": 61.56
+    },
+    {
+      "titel": "无语言基础下的分类与思维能力",
+      "start": 154.02
+    },
+    {
+      "titel": "跨感官认知与触觉视觉联系实验",
+      "start": 229.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:27:14+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 309,
+  "veroeffentlicht": "2020-11-10T03:38:22+00:00",
+  "beschreibung": "婴儿的学习能力成长\n百度【慕课大巴】，下载更多早教资源",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">婴儿的学习能力成长</p><p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\" data-flag=\"normal\">百度【慕课大巴】，下载更多早教资源</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group35/M07/C3/69/wKgJnFobeJKyQ6iyAAE-1BrumsU896.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

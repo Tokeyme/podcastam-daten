@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "7abaed0f-2c69-4dc1-a083-91191f53c70a",
+  "apple_collection_id": "1687383822",
+  "show": "Sherlock Holmes Bedtime Stories",
+  "titel": "Summer Bonus: The Man with the Twisted Lip",
+  "audio": {
+    "url": "https://audio4.redcircle.com/episodes/a058ac82-d6ac-462a-a0be-e92ed1f3a063/stream.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 75709413,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T02:08:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Sherlock Holmes investigates the mysterious disappearance of a wealthy gentleman in…",
+  "kurzfassung": "Dr. Watson joins Sherlock Holmes to investigate the sudden disappearance of Neville St. Clair from a London opium den. Traces of blood, a missing body, and a beggar named Hugh Boone complicate the case. Holmes ultimately discovers that the wealthy gentleman and the beggar are the exact same person.",
+  "stichpunkte": [
+    "Dr. Watson finds Sherlock Holmes disguised in an opium den while searching for an addict.",
+    "Holmes investigates the disappearance of Neville St. Clair, who vanished from the opium den.",
+    "St. Clair's wife saw her husband frantically waving from a second-floor window before he disappeared.",
+    "Police find St. Clair's coat in the river filled with hundreds of pennies and halfpennies.",
+    "A professional beggar named Hugh Boone is arrested as the prime suspect in the murder.",
+    "Holmes visits the prison cell and washes the beggar's face to reveal it is actually St. Clair.",
+    "St. Clair confesses he secretly worked as a beggar to earn a massive income without his family knowing."
+  ],
+  "kapitel": [
+    {
+      "titel": "The Opium Den",
+      "start": 75.654
+    },
+    {
+      "titel": "The Case of Neville St. Clair",
+      "start": 1140.005
+    },
+    {
+      "titel": "The Letter from Gravesend",
+      "start": 2180.641
+    },
+    {
+      "titel": "The Discovery in the Cell",
+      "start": 2848.945
+    },
+    {
+      "titel": "The Beggar's Confession",
+      "start": 3351.957
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Sherlock Holmes in disguise",
+      "start": 698.018,
+      "ende": 718.132,
+      "laenge": 20.11,
+      "byte_start": 11169409,
+      "byte_ende": 11491237,
+      "bytes": 321829,
+      "range_header": "bytes=11169409-11491237",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 698.096,
+      "anker_sha256": "d56ab7fcf285cd64f25f18616357c9032a72ae040b940815c67c5129c570e5d5",
+      "einblendung_ms": 60,
+      "text": "A disheveled beggar sitting beside the narrator suddenly whispered a pointed instruction before instantly returning to his usual posture."
+    },
+    {
+      "hook": "A coat stuffed with hundreds of coins",
+      "start": 1814.387,
+      "ende": 1842.756,
+      "laenge": 28.37,
+      "byte_start": 29031313,
+      "byte_ende": 29485216,
+      "bytes": 453904,
+      "range_header": "bytes=29031313-29485216",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1814.465,
+      "anker_sha256": "b3a0e7ff9408348afdfac42eb90e4e2706827f723068b943cb045ea8bb9d09bd",
+      "einblendung_ms": 60,
+      "text": "The primary suspect rejected all accusations regarding Neville St. Clair's disappearance and insisted that the witness must have hallucinated."
+    },
+    {
+      "hook": "A letter from a dead man",
+      "start": 2279.471,
+      "ende": 2299.559,
+      "laenge": 20.09,
+      "byte_start": 36472658,
+      "byte_ende": 36794068,
+      "bytes": 321411,
+      "range_header": "bytes=36472658-36794068",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2279.549,
+      "anker_sha256": "8b97099706a28c2747e3457571b4d89e7c6fe4ff741b07f4951f7a2aee1501e2",
+      "einblendung_ms": 60,
+      "text": "When pressed directly by a visitor, Sherlock Holmes admitted he could not offer any reassurance about the missing man's safety."
+    },
+    {
+      "hook": "Washing away the disguise",
+      "start": 3273.43,
+      "ende": 3303.523,
+      "laenge": 30.09,
+      "byte_start": 52376005,
+      "byte_ende": 52857493,
+      "bytes": 481489,
+      "range_header": "bytes=52376005-52857493",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3273.509,
+      "anker_sha256": "09e71a407943b94d5243b7eedd22af0fc71aca3798a24712a80fa906b62f53b3",
+      "einblendung_ms": 60,
+      "text": "Holmes surprised the police inspector by pulling a massive bath sponge from his luggage and demanding access to the locked prisoner."
+    },
+    {
+      "hook": "Earning 700 pounds a year as a beggar",
+      "start": 3643.768,
+      "ende": 3673.861,
+      "laenge": 30.09,
+      "byte_start": 58301413,
+      "byte_ende": 58782901,
+      "bytes": 481489,
+      "range_header": "bytes=58301413-58782901",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 3643.847,
+      "anker_sha256": "e97ec8da22581c85d95cb0eeab01c74e53987d59595321f1079cf0e43fa49b26",
+      "einblendung_ms": 60,
+      "text": "After realizing that street begging yielded vastly more income than journalism, the former reporter abandoned his profession for the pavement."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T02:08:54+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4632,
+  "veroeffentlicht": "2026-08-19T20:00:18+00:00",
+  "beschreibung": "A request from a friend brings Dr. Watson to an opium den on a warm summer night, where he is surprised to run into none other than his friend Sherlock Holmes, who investigating the disappearance, and potential murder, of Mr. Neville St. Clair. Watson joins Holmes and the two make their way to St. Clair's wife in Lee, where a sleepless night gives Holmes a revelation as to St. Clair's whereabouts. This week's extended summer bonus brings another mystery with a surprising twist that only Holmes can solve, so let it help you relax and find your way into a night of soft and restorative sleep.\n-----\nWelcome to the Sherlock Holmes Bedtime Stories podcast. Each episode is a section of a classic Sherlock Holmes story, read in soothing tones and set to calming music to help you fall asleep.\n-----\nHelp us keep this podcast free! Support the podcast: ⁠⁠⁠⁠⁠⁠http://bedtimestoriespodcast.net/support ⁠⁠⁠⁠⁠⁠\n-----\n📈 Subscribe to Sherlock Holmes Bedtime Stories on YouTube: https://www.youtube.com/@SherlockHolmesBedtimeStories\n👀 Check out our website: https://sherlockholmes.bedtimestoriespodcast.net/\n🧡 Follow Sherlock Holmes Bedtime Stories on Instagram: https://www.instagram.com/sherlockholmesbedtimestories/\n-----\nMusic: 'Permafrost' by Scott Buckley - released under CC-BY 4.0. - www.scottbuckley.com.au\n\nAdvertising Inquiries: https://redcircle.com/brands\n\nPrivacy & Opt-Out: https://redcircle.com/privacy",
+  "beschreibung_html": "<p>A request from a friend brings Dr. Watson to an opium den on a warm summer night, where he is surprised to run into none other than his friend Sherlock Holmes, who investigating the disappearance, and potential murder, of Mr. Neville St. Clair. Watson joins Holmes and the two make their way to St. Clair&#39;s wife in Lee, where a sleepless night gives Holmes a revelation as to St. Clair&#39;s whereabouts. This week&#39;s extended summer bonus brings another mystery with a surprising twist that only Holmes can solve, so let it help you relax and find your way into a night of soft and restorative sleep.</p><p>-----</p><p>Welcome to the Sherlock Holmes Bedtime Stories podcast. Each episode is a section of a classic Sherlock Holmes story, read in soothing tones and set to calming music to help you fall asleep.</p><p>-----</p><p>Help us keep this podcast free! Support the podcast: <a href=\"https://buymeacoffee.com/bedtimestoriespodcast\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠http://bedtimestoriespodcast.net/support ⁠⁠⁠⁠⁠⁠</a></p><p>-----</p><p>📈 Subscribe to Sherlock Holmes Bedtime Stories on YouTube: https://www.youtube.com/@SherlockHolmesBedtimeStories</p><p>👀 Check out our website: https://sherlockholmes.bedtimestoriespodcast.net/</p><p>🧡 Follow Sherlock Holmes Bedtime Stories on Instagram: https://www.instagram.com/sherlockholmesbedtimestories/</p><p>-----</p><p>Music: &#39;Permafrost&#39; by Scott Buckley - released under CC-BY 4.0. - www.scottbuckley.com.au</p><br/><br/>Advertising Inquiries: <a href='https://redcircle.com/brands'>https://redcircle.com/brands</a><br/><br/>Privacy & Opt-Out: <a href='https://redcircle.com/privacy'>https://redcircle.com/privacy</a>",
+  "kapitel_quelle": "modell",
+  "bild_url": "https://media.redcircle.com/images/2025/5/26/14/97c8b687-266f-4835-b2ba-9e1e3609e562_37699244-1683746952192-cabf030f994d5.jpg"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "电影零时差",
+  "apple_collection_id": "1359467206",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2019/03/04/5029734946996589062_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2019/03/04/5029734946996589062_hd.mp3",
+      "pfad": "/v1/episode/fdbc31f58f2326192f908502eb431eadd48d2b40.json",
+      "titel": "Vol.41 91届奥斯卡+2月新老电影漫谈",
+      "veroeffentlicht": "2019-03-04T02:54:48+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "回顾第91届奥斯卡颁奖礼，并漫谈二月份看过的新老电影与剧集。"
+    }
+  ]
+}

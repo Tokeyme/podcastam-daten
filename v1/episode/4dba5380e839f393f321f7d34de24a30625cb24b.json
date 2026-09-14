@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "6a71e0abab3a91c24a0fbddd",
+  "apple_collection_id": "1819879009",
+  "show": "抑扬格",
+  "titel": "37 漫谈｜关于写作的想象力",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6a71e0abab3a91c24a0fbddd/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lofdsSutb91lIQ7iyqAlW6fdc9Xe.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 61798972,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T16:46:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 224 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨大学哲学教育中的写作训练，反思论文规范与学术表达的意义。",
+  "kurzfassung": "本期节目延续本科哲学教育的话题，深入探讨了写作在哲学学习、大学教育以及日常生活中的定位与训练价值。主播安迪与宇童从反对取消本科生写作论文的观点切入，辩论了学术写作的自恋倾向、公共性与私人性的纠缠，以及学术论文标准的演变。双方最后讨论了如何通过批判性阅读与生成逻辑来重新看待写作，并呼吁建立更具包容性和生活关联的写作教育。",
+  "stichpunkte": [
+    "完全反对“本科生无需接受写作训练或撰写论文”的观点，认为表达训练对塑造人格与日常沟通至关重要。",
+    "大学教育定位存在重叠与冲突，包括人格教育、职业训练、学术训练及选拔机构，导致写作教育方向模糊。",
+    "反思当代学术写作的“自恋”倾向，指出许多学术论文脱离公共语境，沦为追求发表和自我夸耀的工具。",
+    "对比书写与口头表达的差异，探讨德里达式的解构书写与加达默尔式的对话解释学之间的张力。",
+    "通过鲁迅与欧阳修的例子说明汉语书写系统的独特性，以及书写作为私人记录与经济学的逻辑。",
+    "剖析日记写作中私人性被公共性侵蚀的现象，呼吁找回书写的想象力与多元可能。",
+    "讨论一篇好的哲学论文的标准，安迪强调问题导向与生成的逻辑，宇童则注重通过写作接近文本的节奏。",
+    "争议学术写作中的“原创性”，安迪认为原创性应当从本科阶段培养，宇童则更看重对既有文本的消化与理解。"
+  ],
+  "kapitel": [
+    {
+      "titel": "本科生是否需要写作训练",
+      "start": 57.92
+    },
+    {
+      "titel": "大学教育的多重定位与写作的异化",
+      "start": 331.4
+    },
+    {
+      "titel": "哲学教育中书写与口头表达的权衡",
+      "start": 1090.36
+    },
+    {
+      "titel": "书写的起源、逻辑与私人性的解放",
+      "start": 1778.28
+    },
+    {
+      "titel": "好论文的标准与学术写作的未来",
+      "start": 2311.96
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T16:46:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3817,
+  "veroeffentlicht": "2026-08-04T16:01:44+00:00",
+  "beschreibung": "本期节目是我们第24期“漫谈｜说是学哲学但是我们都学了些什么啊”的续篇！在前篇节目中，我们聊了聊在本科阶段所受的哲学教育；但在上次的讨论中，出于时间所限，遗留了一个很重要的话题：写作。\n作为曾经的哲学系学生，写作是我们都无法绕开的课题，也曾让我们苦恼、引发我们反思。在本期节目中，我们由本科阶段的写作训练聊开，讨论了学习写作意味着什么、它在何种意义上关乎人格培养与更好的公共生活，也聊了它与口头表达训练之间的关系、当今大学复杂重叠的职能。以大学中的学术写作为透镜，我们也略微窥见了书写本身的起源、它不同寻常的自我运行的逻辑，以及由此打开的书写的不同策略与广袤的可能性。最后，我们也分析了我们看来当今学术写作的问题，并聊了聊什么是我们眼中好的写作训练。\n对于“书写”这样一个标志着文明诞生的古老而宏大的命题，本期节目能做的也只是管中窥豹，但或许这些具体而微的讨论也能给大家一个入口，去探索书写的无限的可能性。\n\n【本期主播】\n昱彤，德语哲学研究者\n安迪，前德语文学研究者\n\n【时间线】\n00:58 入手的问题：大学本科教育是否应该培养写作？\n03:01 学习写作并不仅仅是习得技能：思维训练、理解训练、人格培养\n05:29 所有人都需要同一种写作训练吗？\n07:05 口头表达的训练比写作训练更重要？——互联网上的公共生活体验\n11:18 不同类型的写作之间的差异\n13:38 很多哲学家其实不会写作？\n15:07 现代大学的问题：职能重叠\n17:54 哲学教育应该以书写为中心，还是以口头表达为中心？\n20:36 书写的优势\n30:00 公共的言说，私人的书写？——书写本身的逻辑，它与言说的差异\n38:55 我们觉得一篇好的论文是什么样的？\n43:17 当下学术的问题：写作的同质化\n55:12 我们心目中好的写作训练是什么样的？\n57:56 学术写作中的原创性问题\n\n【本期节目提到的人物及作品】\n弗里德里希·尼采（Friedrich Wilhelm Nietzsche，1844—1900），德国哲学家\n\n汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer，1900—2002），德国哲学家\n\n马丁·海德格尔（Martin Heidegger, 1889—1976），德国哲学家\n\nEdith Stein（1891—1900），德国哲学家\n\n埃德蒙德·胡塞尔（Edmund Husserl，1859—1938），德国哲学家，现象学创始人\n\n尤尔根·哈贝马斯（Jürgen Habermas，1929—2026），德国哲学家（欢迎大家收听我们的第28期节目“纪念｜哈贝马斯走了，留下了多少吵不完的架？”！）\n\n伊曼努尔·康德（Immanuel Kant，1724—1804），德国哲学家\n\n雅克·德里达（Jacques Derrida，1930—2004），法国哲学家，Dialogue and Deconstruction (勘误：23:40 主播记错了书名，误说成了“deconstruction and discussion”)\n\n保罗·策兰（Paul Celan，1920—1970），犹太裔德语诗人（欢迎大家收听我们【策兰专题】的节目！）\n\n埃莱娜·西苏（Hélène Cixous，1937—），犹太裔法国哲学家、作家、文学评论家\n\n鲁迅（1881—1936），中国作家、学者，《中国小说史略》\n\n瓦尔特·本雅明（Walter Benjamin，1892—1940），犹太裔德语哲学家、文学评论家（欢迎大家收听我们【本雅明专题】的节目！）\n\n亚里士多德（Αριστοτέλης，384 B.C.E—322 B.C.E），古希腊哲学家\n\n欧阳修（1007—1072），宋代诗人、散文家\n\n庄子（369 B.C.E—286 B.C.E），宋国哲学家\n\n巴鲁赫·斯宾诺莎（Baruch de Spinoza，1632—1677），荷兰犹太裔哲学家，《伦理学》\n\n路德维希·维特根斯坦（Ludwig Josef Johann Wittgenstein，1889—1951），奥地利哲学家，《逻辑哲学论》\n\n伯特兰·罗素（Bertrand Arthur William Russell, 1872—1970），英国哲学家、数学家\n\nG. E. 摩尔（George Edward Moore，1873—1958），英国哲学家\n\nRay Monk，《维特根斯坦传：天才之为责任》，王宇光译，浙江大学出版社，2011年\n\n【音乐、插画来源】\n封面设计：Chai\n音乐：Franz Schubert, Drei Klavierstücke, i, D. 946（演奏：张础禹）\n\n【关于我们】\n「抑扬格」是一档立足文本的哲学与文学播客。在一个热衷于借助AI回避文本的时代里，我们致力于做一档以文本根基和旨归的播客。文本是要求你我理解和解释的东西，是待破译的符码，值得玩味的物件，甚至是花鸟走兽般活生生的东西。文本可以呈现为多种形式：诗、小说、学术论文，对话、票据、法律文件，展览、音乐、考古材料。去考察和谈论文本，就是去叩问我们赖以为生的语言，在日常生活里识别意义和荒谬，去理解我们生活的世界和与我们共处的他人。我们希望能在播客里和大家一起走进让人束手无策、敬而远之的——或者相反——在切近的接触中忘了应该如何谈论的文本。\n小红书：@抑扬格播客 / 豆瓣：@抑扬格播客 / 微信公众号：@抑扬格播客 （我们会以图文形式分享一些做播客时发现的有意思的材料和感悟，欢迎大家关注！）\n邮箱：yiyanggestudio@outlook.com\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<img src=\"https://image.xyzcdn.net/FjQIt1ofNOBpwZJnU1kkUjaRhY1h.jpg\"><p>本期节目是我们<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/episode/6994c52ade29766da9d2b5ea\"><strong>第24期“漫谈｜说是学哲学但是我们都学了些什么啊”</strong></a>的续篇！在前篇节目中，我们聊了聊在本科阶段所受的哲学教育；但在上次的讨论中，出于时间所限，遗留了一个很重要的话题：写作。</p><p>作为曾经的哲学系学生，写作是我们都无法绕开的课题，也曾让我们苦恼、引发我们反思。在本期节目中，我们由本科阶段的写作训练聊开，讨论了学习写作意味着什么、它在何种意义上关乎人格培养与更好的公共生活，也聊了它与口头表达训练之间的关系、当今大学复杂重叠的职能。以大学中的学术写作为透镜，我们也略微窥见了书写本身的起源、它不同寻常的自我运行的逻辑，以及由此打开的书写的不同策略与广袤的可能性。最后，我们也分析了我们看来当今学术写作的问题，并聊了聊什么是我们眼中好的写作训练。</p><p>对于“书写”这样一个标志着文明诞生的古老而宏大的命题，本期节目能做的也只是管中窥豹，但或许这些具体而微的讨论也能给大家一个入口，去探索书写的无限的可能性。</p><h2></h2><h2><strong>【本期主播】</strong></h2><p>昱彤，德语哲学研究者<br>安迪，前德语文学研究者</p><h2></h2><h2><strong>【时间线】</strong></h2><p><a class=\"timestamp\">00:58</a> 入手的问题：大学本科教育是否应该培养写作？<br><a class=\"timestamp\">03:01</a> 学习写作并不仅仅是习得技能：思维训练、理解训练、人格培养<br><a class=\"timestamp\">05:29</a> 所有人都需要同一种写作训练吗？<br><a class=\"timestamp\">07:05</a> 口头表达的训练比写作训练更重要？——互联网上的公共生活体验<br><a class=\"timestamp\">11:18</a> 不同类型的写作之间的差异<br><a class=\"timestamp\">13:38</a> 很多哲学家其实不会写作？<br><a class=\"timestamp\">15:07</a> 现代大学的问题：职能重叠<br><a class=\"timestamp\">17:54</a> 哲学教育应该以书写为中心，还是以口头表达为中心？<br><a class=\"timestamp\">20:36</a> 书写的优势<br><a class=\"timestamp\">30:00</a> 公共的言说，私人的书写？——书写本身的逻辑，它与言说的差异</p><p><a class=\"timestamp\">38:55</a> 我们觉得一篇好的论文是什么样的？<br><a class=\"timestamp\">43:17</a> 当下学术的问题：写作的同质化<br><a class=\"timestamp\">55:12</a> 我们心目中好的写作训练是什么样的？<br><a class=\"timestamp\">57:56</a> 学术写作中的原创性问题</p><h2></h2><h2><strong>【本期节目提到的人物及作品】</strong></h2><ul><li><p>弗里德里希·尼采（Friedrich Wilhelm Nietzsche，1844—1900），德国哲学家</p></li><li><p>汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer，1900—2002），德国哲学家</p></li><li><p>马丁·海德格尔（Martin Heidegger, 1889—1976），德国哲学家</p></li><li><p>Edith Stein（1891—1900），德国哲学家</p></li><li><p>埃德蒙德·胡塞尔（Edmund Husserl，1859—1938），德国哲学家，现象学创始人</p></li><li><p>尤尔根·哈贝马斯（Jürgen Habermas，1929—2026），德国哲学家（<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/episode/69b96b4ef8b8079bfadd1cc2\"><strong>欢迎大家收听我们的第28期节目“纪念｜哈贝马斯走了，留下了多少吵不完的架？”！</strong></a>）</p></li><li><p>伊曼努尔·康德（Immanuel Kant，1724—1804），德国哲学家</p></li><li><p>雅克·德里达（Jacques Derrida，1930—2004），法国哲学家，<em>Dialogue and Deconstruction </em>(勘误：<a class=\"timestamp\">23:40</a> 主播记错了书名，误说成了“deconstruction and discussion”)</p></li><li><p>保罗·策兰（Paul Celan，1920—1970），犹太裔德语诗人（<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/episode/6857fb1e2a38b4d979ebdbb4\"><strong>欢迎大家收听我们【策兰专题】的节目！</strong></a>）</p></li><li><p>埃莱娜·西苏（Hélène Cixous，1937—），犹太裔法国哲学家、作家、文学评论家</p></li><li><p>鲁迅（1881—1936），中国作家、学者，《中国小说史略》</p></li><li><p>瓦尔特·本雅明（Walter Benjamin，1892—1940），犹太裔德语哲学家、文学评论家（<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/episode/699e001ca22480add6f5cb62\"><strong>欢迎大家收听我们【本雅明专题】的节目！</strong></a>）</p></li><li><p>亚里士多德（Αριστοτέλης，384 B.C.E—322 B.C.E），古希腊哲学家</p></li><li><p>欧阳修（1007—1072），宋代诗人、散文家</p></li><li><p>庄子（369 B.C.E—286 B.C.E），宋国哲学家</p></li><li><p>巴鲁赫·斯宾诺莎（Baruch de Spinoza，1632—1677），荷兰犹太裔哲学家，《伦理学》</p></li><li><p>路德维希·维特根斯坦（Ludwig Josef Johann Wittgenstein，1889—1951），奥地利哲学家，《逻辑哲学论》</p></li><li><p>伯特兰·罗素（Bertrand Arthur William Russell, 1872—1970），英国哲学家、数学家</p></li><li><p>G. E. 摩尔（George Edward Moore，1873—1958），英国哲学家</p></li><li><p>Ray Monk，《维特根斯坦传：天才之为责任》，王宇光译，浙江大学出版社，2011年</p></li></ul><h2></h2><h2><strong>【音乐、插画来源】</strong></h2><p>封面设计：Chai<br>音乐：Franz Schubert, Drei Klavierstücke, i, D. 946（演奏：张础禹）</p><h2></h2><h2><strong>【关于我们】</strong></h2><p>「抑扬格」是一档立足文本的哲学与文学播客。在一个热衷于借助AI回避文本的时代里，我们致力于做一档以文本根基和旨归的播客。文本是要求你我理解和解释的东西，是待破译的符码，值得玩味的物件，甚至是花鸟走兽般活生生的东西。文本可以呈现为多种形式：诗、小说、学术论文，对话、票据、法律文件，展览、音乐、考古材料。去考察和谈论文本，就是去叩问我们赖以为生的语言，在日常生活里识别意义和荒谬，去理解我们生活的世界和与我们共处的他人。我们希望能在播客里和大家一起走进让人束手无策、敬而远之的——或者相反——在切近的接触中忘了应该如何谈论的文本。</p><p>小红书：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/5ce5629b000000001801f123?xsec_token=YB4g2T17z11atnbCY4cmwUOFloD3h7QmKysONioOpNOAE=&amp;xsec_source=app_share&amp;xhsshare=CopyLink&amp;appuid=5ce5629b000000001801f123&amp;apptime=1749305446&amp;share_id=d8d1f78a370248529b7822c873e9b2ca\">@抑扬格播客</a> / 豆瓣：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.douban.com/people/292508773/?_i=4666750PW-oO4N\">@抑扬格播客</a> / 微信公众号：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://mp.weixin.qq.com/s/i0jyAxs2uZYDvUCLl9UVtQ\">@抑扬格播客</a> （我们会以图文形式分享一些做播客时发现的有意思的材料和感悟，欢迎大家关注！）</p><p>邮箱：yiyanggestudio@outlook.com</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a71e0abab3a91c24a0fbddd?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FhGtn2KDQL6FimBp1-w0mj4g41iS.png",
+  "kapitel_quelle": "modell"
+}

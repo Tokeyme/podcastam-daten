@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "6a8488218156bf33621a6e4b",
+  "apple_collection_id": "1886060145",
+  "show": "旺财财经（粤语）",
+  "titel": "粤语｜负利率时代终结？日元套利交易如何引发全球流动性大平仓",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a8488218156bf33621a6e4b/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lm60rYGtcVIBruc6v0JEKfLvCyjH.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 10809238,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T03:59:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨日元套利交易的运作逻辑及其对全球流动性的深远影响。",
+  "kurzfassung": "日元长期作为全球低息借贷货币，支撑了大规模的套利交易。随着日本央行逐步结束负利率并推进加息，套利空间正在瓦解。这导致潜在的套利资金回流日本，进而引发全球高风险资产的流动性冲击。",
+  "stichpunkte": [
+    "套利交易的核心是利用不同市场的资产价格和利差失衡赚取稳健收益，但需承担黑天鹅事件导致爆仓的风险。",
+    "日本自1990年代地产和股市泡沫破裂后进入失落的30年，央行长期维持零利率甚至负利率及YCC政策。",
+    "华尔街宏观对冲基金和日本本土散户道边太太大量借入廉价日元，在全球买入高回报资产。",
+    "日本近年经历强劲的春斗，薪酬连续多年平均调薪超过5%，通胀稳步迈向2%的目标。",
+    "日本央行于2024年3月结束负利率，并将基准利率逐步上调至1%，创1995年以来最高水平。",
+    "国际测算显示表内跨境日元计价索偿和借贷规模高达328万亿日元（约2.2万亿美元），核心投机性套利规模庞大。",
+    "剩余的潜在套利资金一旦因美联储降息或日本央行加息而被迫平仓，将抛售美股、美债和新兴市场资产以还债。",
+    "高杠杆行为风险极高，随着日元资金持续回流日本本土，全球高估值和概念科技股的流动性溢价将被抽干。",
+    "资本回流意味着日本本土资本市场具备长期再配置价值，特别是具备提价能力和高股息的日本龙头企业。"
+  ],
+  "kapitel": [
+    {
+      "titel": "日元套利交易的逻辑与历史背景",
+      "start": 0.0
+    },
+    {
+      "titel": "日本央行加息与套利交易的瓦解",
+      "start": 285.6
+    },
+    {
+      "titel": "全球套利资金规模与回流风险",
+      "start": 391.1
+    },
+    {
+      "titel": "资产配置警示与日本市场新机遇",
+      "start": 550.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T03:59:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 667,
+  "veroeffentlicht": "2026-08-18T18:20:14+00:00",
+  "beschreibung": "过去30年，借廉价日元买全球高收益资产，是华尔街与全球资本最稳赚不赔的“无风险Bug”。\n但随着日本经济走出长达30年的通缩、日本央行将利率抬升至 1.0% 的高位，这台免费印钞机彻底停转。\n全球到底有多少钱藏在“日元套利”这个地下管道里？\n日本加息引发的平仓潮还会砸盘多久？\n面对资金大幅回流，普通投资者如何守住自己的资产？\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>过去30年，借廉价日元买全球高收益资产，是华尔街与全球资本最稳赚不赔的“无风险Bug”。</p><p>但随着日本经济走出长达30年的通缩、日本央行将利率抬升至 1.0% 的高位，这台免费印钞机彻底停转。</p><p>全球到底有多少钱藏在“日元套利”这个地下管道里？</p><p>日本加息引发的平仓潮还会砸盘多久？</p><p>面对资金大幅回流，普通投资者如何守住自己的资产？</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8488218156bf33621a6e4b?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

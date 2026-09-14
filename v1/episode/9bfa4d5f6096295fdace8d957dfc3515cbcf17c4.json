@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19679235",
+  "apple_collection_id": "398635015",
+  "show": "The Tournament Poker Edge Podcast",
+  "titel": "August 21, 2026 -- Millionaire Maker's Mark",
+  "audio": {
+    "url": "https://www.buzzsprout.com/2642/episodes/19679235-august-21-2026-millionaire-maker-s-mark.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13286827,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:40:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Clayton Fletcher analyzes high-stakes tournament hands and solver play.",
+  "kurzfassung": "Clayton Fletcher breaks down two tournament hands using game theory optimal solvers. In the first hand from an $1,100 Venetian event, he evaluates an ace-jack suited line on a paired board. In the second hand from the Millionaire Maker, he examines a button raise with ten-seven suited.",
+  "stichpunkte": [
+    "Clayton Fletcher spends time in nature in Connecticut before diving into strategy.",
+    "He reviews an $1,100 tournament hand at the Venetian with an average stack of 50 big blinds.",
+    "Solver analysis shows his pre-flop call with ace-jack suited from the small blind was correct.",
+    "His turn bet sizing of one-third pot was too small according to the solver, which preferred a larger bet.",
+    "His opponent rivered a flush with eight-five of diamonds and called his small block bet.",
+    "Fletcher transitions to a hand from the Millionaire Maker tournament with a $1,500 buy-in.",
+    "He raises on the button with ten-seven suited and gets called by the big blind.",
+    "He fires a small continuation bet on an ace-high flop and barrels the turn after picking up a flush draw.",
+    "He ultimately gives up on the river after facing resistance and loses to ace-ten offsuit."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Travel Updates",
+      "start": 4.32
+    },
+    {
+      "titel": "Venetian Tournament Hand Review",
+      "start": 250.08
+    },
+    {
+      "titel": "Millionaire Maker Hand Analysis",
+      "start": 600.08
+    },
+    {
+      "titel": "Show Wrap-Up",
+      "start": 1022.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Being on the other side of the big stack bully",
+      "start": 133.068,
+      "ende": 160.418,
+      "laenge": 27.35,
+      "byte_start": 1624697,
+      "byte_ende": 1952899,
+      "bytes": 328203,
+      "range_header": "bytes=1624697-1952899",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 133.146,
+      "anker_sha256": "a44e5e17f8d697162c19c3b995d352aa1f85303a9c8c57ebed4590069bff7598",
+      "einblendung_ms": 60,
+      "text": "Practicing how to navigate short-stack pressure near the money finish with Sylvain and other students."
+    },
+    {
+      "hook": "The solver 100% calls",
+      "start": 322.116,
+      "ende": 352.209,
+      "laenge": 30.09,
+      "byte_start": 3893275,
+      "byte_ende": 4254391,
+      "bytes": 361117,
+      "range_header": "bytes=3893275-4254391",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 322.194,
+      "anker_sha256": "070acc7b89bb1f992fb553de54e2138fd41629add3abc2a8caaae1b4346b84f8",
+      "einblendung_ms": 60,
+      "text": "Reviewing a small blind spot with an ace-jack suited where the computer program strictly recommends calling instead of raising."
+    },
+    {
+      "hook": "The solver does not like my sizing one bit",
+      "start": 434.521,
+      "ende": 464.614,
+      "laenge": 30.09,
+      "byte_start": 5242134,
+      "byte_ende": 5603250,
+      "bytes": 361117,
+      "range_header": "bytes=5242134-5603250",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 434.599,
+      "anker_sha256": "4952b50b045d5fe20a2895f8c438dbf26471d1686aacfc3e06eb39aa695e5c19",
+      "einblendung_ms": 60,
+      "text": "Analyzing an optimal betting size for a hand by comparing a 7,000 chip investment against the software's preferred range of 14,000 to 18,500 chips."
+    },
+    {
+      "hook": "A guaranteed first place prize of at least $1 million",
+      "start": 613.538,
+      "ende": 641.985,
+      "laenge": 28.45,
+      "byte_start": 7390340,
+      "byte_ende": 7731707,
+      "bytes": 341368,
+      "range_header": "bytes=7390340-7731707",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 613.616,
+      "anker_sha256": "9fdb7f95aee92002c28ac43ca23edde75e522d289928668daddb16dc215fa9e9",
+      "einblendung_ms": 60,
+      "text": "Detailing the structure of the Millionaire Maker competition featuring a 1,500 dollar entry fee and multiple million-dollar payouts."
+    },
+    {
+      "hook": "The Euros that you face during the WSOP are relatively tough players",
+      "start": 846.785,
+      "ende": 876.904,
+      "laenge": 30.12,
+      "byte_start": 10189308,
+      "byte_ende": 10550737,
+      "bytes": 361430,
+      "range_header": "bytes=10189308-10550737",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 846.864,
+      "anker_sha256": "6900106a0774ebe4a31ecee07d510b55e04ff0fe38a47f03b8a9ccbb2b2818cf",
+      "einblendung_ms": 60,
+      "text": "Evaluating the skill level of international competitors who travel to the World Series of Poker."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:40:57+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1044,
+  "veroeffentlicht": "2026-08-21T05:00:00-04:00",
+  "beschreibung": "Clayton Fletcher (@claytoncomic) has to choose whether to keep barreling in one of his favorite WSOP events.\n----\nTry out Jaka Coaching for seven days FREE: https://jaka.poker/TPE\nhttps://jaka.poker/TPE\n\n----\nRegister for GTO Wizard and save 10% off your first purchase using this link: gtowizard.com/p/tpe\n\n----\nCheck out Clayton's YouTube channel and see all episodes with full visuals!\n----\nGet tickets to see Clayton perform stand-up!!! www.claytonfletcher.com\n\n----\nJoin the Tournament Poker Edge discord channel:\nhttps://t.co/JHEUIHrCrJ\n\n----\nSign up to receive Clayton's poker email updates absolutely free: https://claytonpoker.substack.com/",
+  "beschreibung_html": "<p>Clayton Fletcher (@claytoncomic) has to choose whether to keep barreling in one of his favorite WSOP events.</p><p>----</p><p>Try out Jaka Coaching for seven days FREE: https://jaka.poker/TPE</p><p><a href='https://jaka.poker/TPE'>https://jaka.poker/TPE</a></p><p><br/></p><p>----</p><p>Register for GTO Wizard and save 10% off your first purchase using this link:    <a href='https://t.co/ehMDgKpnt9'>gtowizard.com/p/tpe</a><br/><br/>----</p><p>Check out Clayton&apos;s YouTube <a href='https://www.youtube.com/@claytoncomic'>channel</a> and see all episodes with full visuals!</p><p>----</p><p>Get tickets to see Clayton perform stand-up!!!  www.claytonfletcher.com</p><p><br/>----</p><p>Join the Tournament Poker Edge discord channel:<br/>https://t.co/JHEUIHrCrJ</p><p><br/></p><p>----</p><p>Sign up to receive Clayton&apos;s poker email <a href='https://claytonpoker.substack.com/'>updates</a> absolutely free: https://claytonpoker.substack.com/</p><p><br/></p><p><br/></p>",
+  "schlagworte": [
+    "poker",
+    "gto",
+    "poker strategy",
+    "las vegas",
+    "poker tournaments",
+    "clayton fletcher",
+    "middle child",
+    "chris moneymaker",
+    "acr poker"
+  ],
+  "kapitel_quelle": "modell",
+  "bild_url": "https://storage.buzzsprout.com/ytu8col1qqdbd1a0exo6c1cyourr?.jpg"
+}

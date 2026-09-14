@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_784867296",
+  "apple_collection_id": "1786798657",
+  "show": "【免费】我在荒岛的幸福生活 | 冲破绝境 荒岛求生 美女如云",
+  "titel": "第1章 美女老师的陷阱 上【求关注！求月票！】",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaILTy2kACn6hQNMx3BF.m4a?channel=rss&album_id=84922112&track_id=784867296&uid=17165814&jt=https://aod.cos.tx.xmcdn.com/storages/99b6-audiofreehighqps/03/58/GKwRIaILTy2kACn6hQNMx3BF.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2751109,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:06:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "大学生存托邮轮沉没流落荒岛，面对绝境与人性考验艰难求生。",
+  "kurzfassung": "大二学生王润和同学乘坐的邮轮在半路沉没，幸存者们流落到一座荒岛上。随着救援迟迟不至，岛上的物资极度匮乏，绝望的人群为了争夺水和食物彻底失控，道德迅速崩塌。王润虽然私藏了一箱面包和矿泉水保命，但在极端的生存环境下，他必须面对残酷的人性考验。",
+  "stichpunkte": [
+    "邮轮半路沉没，大二学生王润与部分幸存者流落荒岛。",
+    "救援迟迟未到，绝望的情绪在人群中迅速蔓延。",
+    "一箱被冲上岸的矿泉水引发哄抢，导致多人死伤，道德彻底崩塌。",
+    "幸存者自发抱团求生，随着时间推移，岛上的食物和淡水被搜刮一空。",
+    "荒岛生存到第七天时，女性用身体换取保护和食物成为不成文的规则。",
+    "王润凭借私藏的一箱面包和矿泉水在暗中维持生存，目睹了数十人被饿死。",
+    "王润内心深知荒岛的残酷，坚守自私的求生法则以求活得更久。"
+  ],
+  "kapitel": [
+    {
+      "titel": "邮轮沉没与荒岛求生开端",
+      "start": 1.76
+    },
+    {
+      "titel": "矿泉水引发的血案与道德崩塌",
+      "start": 92.3
+    },
+    {
+      "titel": "荒岛生存环境恶化与规则改变",
+      "start": 195.04
+    },
+    {
+      "titel": "王润的秘密与生存抉择",
+      "start": 292.32
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:06:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 451,
+  "veroeffentlicht": "2024-12-16T16:04:03+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3bc2-audiofreehighqps/A7/24/GAqh1QQLH1BQAAPc7gM34VkL.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

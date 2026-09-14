@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007260959",
+  "apple_collection_id": "1864718354",
+  "show": "健康算法：管住嘴 迈开腿",
+  "titel": "限时进食新发现：体重没降，记忆力、注意力反而提升",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIOWyHGAEpImATJAVX9.m4a?channel=rss&album_id=104038813&track_id=1007260959&uid=111289678&jt=https://aod.cos.tx.xmcdn.com/storages/9629-audiofreehighqps/87/90/GKwRIaIOWyHGAEpImATJAVX9.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4868248,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T21:36:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "限时进食新发现：体重没降，记忆力、注意力反而提升",
+  "kurzfassung": "最新临床研究表明，限时进食能够在体重没有明显下降的情况下有效提升中老年人群的记忆力和注意力。不同年龄段对进食时间的反应存在差异，青少年和儿童需要规律的能量供应以支持大脑发育。科学的进食时间安排应当遵循生物钟，避免极端断食带来的健康风险。",
+  "stichpunkte": [
+    "临床实验显示，65至80岁轻度认知障碍老人每天在8小时内进食，12周后认知测试分数显著高于对照组。",
+    "针对50至79岁超重女性的研究表明，限时进食结合热量减少能明显改善空间规划和记忆能力。",
+    "部分认知提升机制独立于体重变化之外，与身体炎症减轻及大脑能量供应方式优化有关。",
+    "限时进食对老年人、超重者及代谢问题人群的认知改善效果更为明显。",
+    "成年人在空腹或正常进食状态下的注意力与记忆力没有明显变化，但儿童和青少年不吃早餐会导致学习专注力下降。",
+    "中老年人通过限时进食可以优化昼夜节律并激活细胞自噬，从而保护认知功能。",
+    "科学的进食窗口期建议保持在每天11到12小时，极端进食（低于8小时或超过15小时）会增加健康风险。",
+    "糖尿病患者、心血管疾病患者、孕妇及青少年等特殊人群不宜轻易尝试极端断食。"
+  ],
+  "kapitel": [
+    {
+      "titel": "限时进食与认知提升的实证研究",
+      "start": 33.9
+    },
+    {
+      "titel": "不同年龄段人群的认知差异与生理机制",
+      "start": 205.5
+    },
+    {
+      "titel": "科学进食的时间安排与禁忌人群",
+      "start": 381.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T21:36:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 601,
+  "veroeffentlicht": "2026-08-19T09:44:00+00:00",
+  "beschreibung": "很多人了解限时进食、16:8 断食，第一反应都是用来减重。但最新临床研究给出了一个有意思的结论：就算体重没有下降，仅仅调整进食的时间窗口，人的记忆力、注意力、问题解决能力也可能得到改善。\n这期我们结合多项国内外临床试验，拆解限时进食对大脑的真实作用：老年人获益最为突出，中年人、年轻人同样可以观察到认知层面变化。但效果核心不在于饿多久，而在于顺应昼夜节律，做到早吃早停，睡前留出足够空腹时间。\n同时也要提醒风险：极端长时间断食会带来低血糖、肌肉流失等隐患，尤其老年人不建议激进节食，14:10、15:9 这类温和方案会更加稳妥。限时进食并非健脑神药，进食窗口内吃什么依旧至关重要。节目最后附上实操进食时间参考，帮你理性看待间歇性限时进食。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">很多人了解限时进食、16:8 断食，第一反应都是用来减重。但最新临床研究给出了一个有意思的结论：<span>就算体重没有下降，仅仅调整进食的时间窗口，人的记忆力、注意力、问题解决能力也可能得到改善</span>。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期我们结合多项国内外临床试验，拆解限时进食对大脑的真实作用：老年人获益最为突出，中年人、年轻人同样可以观察到认知层面变化。但效果核心不在于饿多久，而在于顺应昼夜节律，做到早吃早停，睡前留出足够空腹时间。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">同时也要提醒风险：极端长时间断食会带来低血糖、肌肉流失等隐患，尤其老年人不建议激进节食，14:10、15:9 这类温和方案会更加稳妥。限时进食并非健脑神药，进食窗口内吃什么依旧至关重要。节目最后附上实操进食时间参考，帮你理性看待间歇性限时进食。</p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b830-audiofreehighqps/76/B5/GAqh4zIMitCjAAL_CAQFjb95.jpeg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

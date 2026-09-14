@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_707678309",
+  "apple_collection_id": "1732371774",
+  "show": "上下五千年——畅游5000年中国历史|睡前故事",
+  "titel": "上下五千年001开天辟地的神话",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEJs5ZUACkJbQKugKxe.m4a?channel=rss&album_id=79743055&track_id=707678309&uid=67832027&jt=https://aod.cos.tx.xmcdn.com/storages/4c46-audiofreehighqps/AC/D8/GKwRIUEJs5ZUACkJbQKugKxe.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2689389,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:03:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨中华上下五千年历史的传说起源与早期人类化石发现。",
+  "kurzfassung": "节目介绍了中国关于盘古开天地的古代神话传说，以及这些神话所象征的征服自然的精神。接着，通过科学发掘的化石证据，讲述了我国境内早期人类如元谋人、蓝田人和北京猿人的历史。最后，阐述了从北京猿人到山顶洞人的演化过程及其工具改进与群居生活的变迁。",
+  "stichpunkte": [
+    "按照传统说法，中国历史从传说中的黄帝到现在大约有五千年。",
+    "古老神话中流传着盘古开天地的故事，象征着人类征服自然的伟大气魄。",
+    "科学发掘的化石证明我国中华民族最早的祖先有一百多万年的历史。",
+    "中国境内发现的早期人类包括云南的元谋人和陕西的蓝田人。",
+    "北京猿人生活在周口店一带，能够制造和使用简单的木棒和石头工具。",
+    "由于单靠个人力量无法生活，北京猿人过着共同劳动的群居生活。",
+    "山顶洞人的体貌与现代人无异，其劳动工具改进为石斧、石锤和骨针。",
+    "山顶洞人开始按血统关系结成集体，人类社会进入氏族公社时期。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开天辟地的神话传说",
+      "start": 0.58
+    },
+    {
+      "titel": "科学发现与早期猿人",
+      "start": 131.88
+    },
+    {
+      "titel": "北京猿人的生活与工具",
+      "start": 172.88
+    },
+    {
+      "titel": "山顶洞人与氏族公社",
+      "start": 263.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:03:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 332,
+  "veroeffentlicht": "2024-02-20T13:00:19+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/461a-audiofreehighqps/A7/EF/GKwRIJEJXBSrAADP6AKQyGf4.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

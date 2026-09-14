@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_973359248",
+  "apple_collection_id": "1885850863",
+  "show": "每日科技简报",
+  "titel": "每日科技简报｜04月29日 Bedrock x OpenAI、NVIDIA Omni 与 Claude 创意连接器",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUENxtybACc0_wSRdvwM.m4a?channel=rss&album_id=117798271&track_id=973359248&uid=418289390&jt=https://aod.cos.tx.xmcdn.com/storages/60f9-audiofreehighqps/2D/C1/GKwRIUENxtybACc0_wSRdvwM.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2569471,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:46:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "AWS合作OpenAI，英伟达发布多模态模型，微软推荐企业AI方案",
+  "kurzfassung": "AWS在Amazon Bedrock平台上扩大与OpenAI的合作，引入最新模型、Codex和托管智能代理。英伟达发布开源多模态大模型Nemotron 3 Nano Omni，实现四类模态的统一推理。微软将Microsoft IQ和Agent 365作为企业AI核心组件推荐，并公布多个大客户部署数据。",
+  "stichpunkte": [
+    "AWS宣布与OpenAI扩大在Amazon Bedrock平台的合作，打包引入最新OpenAI系列模型、Codex和Bedrock托管智能代理。",
+    "接入Bedrock的OpenAI能力继承了AWS原生的身份访问管理、私有链路连接及加密等安全治理框架。",
+    "英伟达发布全新开源多模态大模型Nemotron 3 Nano Omni，采用30BA 3B混合专家架构，实现文本、图像、音频、视频四类模态统一推理。",
+    "Anthropic发布面向创意工作场景的Claude连接器组合，让Claude可以直接接入Blender、Adobe等专业软件。",
+    "Anthropic以赞助者身份加入Blender开发基金，持续优化适配能力。",
+    "微软首次将Microsoft IQ和Agent 365作为企业AI方案的核心组件正式对外推荐，帮助企业把Copilot和智能代理嵌入核心业务。",
+    "宝马集团、印度航空和美国布劳沃德县公立学校等大客户公布了部署微软Copilot的具体数据和成效。",
+    "谷歌翻译在安卓端推出AI发音练习功能，并在翻译时提供询问和理解按钮以获取更多上下文。"
+  ],
+  "kapitel": [
+    {
+      "titel": "AWS与OpenAI合作进展",
+      "start": 10.96
+    },
+    {
+      "titel": "英伟达发布多模态大模型",
+      "start": 66.02
+    },
+    {
+      "titel": "Anthropic发布创意场景连接器",
+      "start": 122.62
+    },
+    {
+      "titel": "微软企业AI解决方案动态",
+      "start": 183.54
+    },
+    {
+      "titel": "谷歌翻译功能更新",
+      "start": 263.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:46:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 317,
+  "veroeffentlicht": "2026-04-28T20:33:24+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b592-audiofreehighqps/41/F7/GKwRIUENfKQwAAUy_QRzxN5I.jpeg",
+  "kapitel_quelle": "modell"
+}

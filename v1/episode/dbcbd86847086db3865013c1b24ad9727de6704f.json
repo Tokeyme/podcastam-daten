@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_782981006",
+  "apple_collection_id": "1847780118",
+  "show": "经典怀旧音乐1000首",
+  "titel": "郭沁传奇完整版",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwLLgwCABuUYQM-TbJ9.m4a?channel=rss&album_id=73723823&track_id=782981006&uid=35712517&jt=https://aod.cos.tx.xmcdn.com/storages/bb70-audiofreehighqps/FE/8C/GKwRIRwLLgwCABuUYQM-TbJ9.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1807457,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:43:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "郭沁传奇完整版歌曲演唱与旋律回放。",
+  "kurzfassung": "本期节目完整呈现了歌曲《传奇》的演唱内容。歌词表达了人群中多看一眼后的长久思念与深情等待。整体旋律伴随乐器演奏反复回荡，强化了情感的传递。",
+  "stichpunkte": [
+    "节目以人群中多看一眼的歌词开篇",
+    "表达了对未来重逢的梦想与孤单的思念",
+    "通过天边、眼前、脑海和心田的意象深化思念",
+    "表达了相信前世今生爱情不变的坚守",
+    "间奏包含乐器演奏片段",
+    "歌词反复强调愿用一生等待对方发现",
+    "结尾再次重现经典歌词与核心旋律"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲演唱",
+      "start": 16.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:43:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 296,
+  "veroeffentlicht": "2024-12-10T13:58:14+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/cc53-audiofreehighqps/48/1C/GKwRIaIKwql-AAE4gwMSgMYc.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

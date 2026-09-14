@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_546073082",
+  "apple_collection_id": "1620864626",
+  "show": "脑洞开了｜对谈播客",
+  "titel": "20. 热点｜你为啥喜欢呆在直播间",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSUGi1FnABAAAAFxKacu.m4a?channel=rss&album_id=65205888&track_id=546073082&uid=81606591&jt=https://aod.cos.tx.xmcdn.com/storages/a01f-audiofreehighqps/FA/23/GMCoOSUGi1FnABAAAAFxKacu.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15483731,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:33:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨东方甄选和主播董宇晖爆红的原因以及对知识力量的重新审视。",
+  "kurzfassung": "两位主播深入探讨了东方甄选直播间和主播董宇晖爆红的现象，分析了其通过讲故事而非单纯卖货的独特策略。她们分享了各自的共鸣与个人经历，认为这种平凡中奋斗的形象唤醒了人们对知识力量的重新渴望。节目最后表达了对通过读书改变命运的肯定，并向高考学子送上了祝福。",
+  "stichpunkte": [
+    "探讨东方甄选和董宇晖的走红现象以及引发的全民关注",
+    "分析董宇晖独特的直播策略：不直接推销商品而是通过真诚的故事打动消费者",
+    "以卖虾和新东方时期的母亲包饺子为例，说明情感共鸣在销售中的作用",
+    "主播结合自身与母亲相处的经历，探讨类似的情感体验",
+    "讨论董宇晖的平凡奋斗经历如何引发观众的强烈共鸣与自我投射",
+    "认为董宇晖的成功为普通读书人“出了一口气”，重新证明了知识的力量",
+    "分享身边通过个人奋斗和知识改变命运的励志案例",
+    "高考结束之际，表达对年轻一代通过努力学习实现人生价值的期望"
+  ],
+  "kapitel": [
+    {
+      "titel": "东方甄选与董宇晖的爆红现象",
+      "start": 0.0
+    },
+    {
+      "titel": "直播间的故事营销策略与情感共鸣",
+      "start": 143.66
+    },
+    {
+      "titel": "平凡奋斗的共鸣与对读书价值的思考",
+      "start": 560.32
+    },
+    {
+      "titel": "知识改变命运与对高考学子的祝福",
+      "start": 914.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:33:50+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1025,
+  "veroeffentlicht": "2022-06-24T10:14:10+00:00",
+  "beschreibung": "你会为了只看卖货直播去下个APP吗？为啥直播间让你那么上头舍不得离开？\n\n本期节日要点：\n-从不迷恋手机的马甲，不回木兰信息，原来是为了看直播卖货\n-为啥董老师卖货，让你心动\n-一个学历史的，竟然法考一次过\n-直播卖货让大家再次相信：读书很重要，知识是有力量的\n-2022年，参加高考人数再创新高，1193万",
+  "beschreibung_html": "<br>你会为了只看卖货直播去下个APP吗？为啥直播间让你那么上头舍不得离开？<br><br>本期节日要点：<br>-从不迷恋手机的马甲，不回木兰信息，原来是为了看直播卖货<br>-为啥董老师卖货，让你心动<br>-一个学历史的，竟然法考一次过<br>-直播卖货让大家再次相信：读书很重要，知识是有力量的 <br>-2022年，参加高考人数再创新高，1193万",
+  "bild_url": "https://fdfs.xmcdn.com/storages/39b1-audiofreehighqps/36/20/GMCoOSUGeRJwAAE6bAFopYED.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

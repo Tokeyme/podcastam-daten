@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_584018688",
+  "apple_collection_id": "1482760145",
+  "show": "不值钱访谈旧版",
+  "titel": "国庆老师是真性情啊",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEHPBvfAYoe6gHDz_s2.m4a?channel=rss&album_id=29704635&track_id=584018688&uid=104106519&jt=https://aod.cos.tx.xmcdn.com/storages/ff2e-audiofreehighqps/E5/3C/GKwRIUEHPBvfAYoe6gHDz_s2.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 25829098,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T19:01:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "播客更名为“索比话”，本期邀请特邀嘉宾国庆老师畅聊生活、摄影与家乡故事。",
+  "kurzfassung": "播客正式更名为“索比话”，并推出全新栏目“不值钱访谈”。本期节目邀请了待业青年、平面设计专业毕业的国庆老师作客。三人围绕合租经历、家乡天水、运营“视觉招待所”公众号及早年当摄影助理的奇葩打工经历展开了轻松愉快的闲聊。",
+  "stichpunkte": [
+    "播客名称由“double park”正式改回“索比话”，更符合闲聊节目定位。",
+    "特邀嘉宾国庆老师毕业于平面设计专业，目前处于待业状态。",
+    "国庆与主播孟杰曾有过合租经历，两人回忆了初次见面及一起合租的趣事。",
+    "国庆分享了甘肃天水的城市变化、当地特色小吃（如面皮、呱呱）以及家乡的交通状况。",
+    "国庆介绍了自己运营的微信公众号“视觉招待所”的命名由来与创作历程。",
+    "节目中讨论了国庆拍摄的抗疫医护人员照片以及关于“好照片”的定义。",
+    "国庆分享了大学期间在婚纱影楼当摄影助理，干了一周后影楼倒闭且被拖欠工资的奇葩经历。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目更名与嘉宾介绍",
+      "start": 0.0
+    },
+    {
+      "titel": "合租经历与相识往事",
+      "start": 105.26
+    },
+    {
+      "titel": "天水印象与家乡美食",
+      "start": 489.54
+    },
+    {
+      "titel": "公众号“视觉招待所”与摄影故事",
+      "start": 1087.1
+    },
+    {
+      "titel": "奇葩的影楼打工经历与结语",
+      "start": 2742.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T19:01:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3190,
+  "veroeffentlicht": "2022-11-05T12:35:11+00:00",
+  "beschreibung": "本期是由是主播戴童、梦洁，邀请不值钱的国庆老师作为嘉宾，一起聊了关于天水和国庆老师的影集。欢迎你给我们节目下方评论留言、提出建议，关注主播的新浪微博。\n\n主要内容：\n播客改名、国庆老师、租房、天水、面皮、视觉招待所、住招待所经历、《在家 244天》、《办证》...",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;word-break:break-all;font-weight:normal;\">本期是由是主播戴童、梦洁，邀请不值钱的国庆老师作为嘉宾，一起聊了关于天水和国庆老师的影集。欢迎你给我们节目下方评论留言、提出建议，关注主播的新浪微博。</p><span><br><br></span><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;word-break:break-all;font-weight:normal;\">主要内容：</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">播客改名、国庆老师、租房、天水、面皮、视觉招待所、住招待所经历、《在家 244天》、《办证》...</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3327-audiofreehighqps/16/11/GKwRIasHPBoMAAwxxQHDzhgy.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

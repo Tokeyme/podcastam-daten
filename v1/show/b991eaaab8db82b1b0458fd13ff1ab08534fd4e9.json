@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "show": "Pour Minds Podcast",
+  "apple_collection_id": "1438182646",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "f816fab9-7825-4555-8a96-b4bb00fc24b8",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/672528ae-8298-4880-baf5-b2db0110a1dd/f816fab9-7825-4555-8a96-b4bb00fc24b8/audio.mp3?utm_source=Podcast&in_playlist=f162049b-ceb2-4c6e-bbc9-b2db0110a1f4",
+      "pfad": "/v1/episode/926d2d622b1b94a412381260717981d332806f56.json",
+      "titel": "In Those Jeans",
+      "veroeffentlicht": "2026-09-04T16:02:22+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Unfiltered chat about plastic surgery, body features, and dating dealbreakers."
+    },
+    {
+      "guid": "0960d4c1-4dbb-4791-8137-b4ad01118cec",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/672528ae-8298-4880-baf5-b2db0110a1dd/0960d4c1-4dbb-4791-8137-b4ad01118cec/audio.mp3?utm_source=Podcast&in_playlist=f162049b-ceb2-4c6e-bbc9-b2db0110a1f4",
+      "pfad": "/v1/episode/019e0b4e49a63f9a6f46c11b2a33a33c34473779.json",
+      "titel": "A Lil Lextra",
+      "veroeffentlicht": "2026-08-21T16:54:03+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Lex P celebrates her birthday on Poor Minds, reflecting on turning 37 and life's lessons."
+    }
+  ]
+}

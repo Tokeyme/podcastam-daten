@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2026/07/23/3224629524124237318_hd.mp3",
+  "apple_collection_id": "919774523",
+  "show": "薄荷糖电影季",
+  "titel": "【大条小条】书架上的当代文学史",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2026/07/23/3224629524124237318_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 51787614,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T19:47:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "借着书架上的当代文学藏书，父子二人展开了一场关于中国当代文坛的对谈与普及教育。",
+  "kurzfassung": "在这期节目中，大条与小条以家里的中国当代文学藏书为线索，逐格梳理了余华、刘震云、王小波、阎连科等众多当代作家的创作轨迹与风格特点。两人探讨了先锋文学、体制内与文坛外作家的区别，以及纯文学在当下时代的生存困境。整场对话不仅是一次文学普及，也展现了不同代际对当代文学史的个人审视与思考。",
+  "stichpunkte": [
+    "暑期选题聚焦文学教育与语文课本之外的中国当代文学。",
+    "余华的创作轨迹代表了大部分中国当代作家由早期的先锋探索走向商业化与平庸的过程。",
+    "刘震云通过极具口语化和哲理性的语言，展现底层小人物的生存智慧与荒谬性。",
+    "徐浩峰独辟蹊径，在武侠小说和纯文学之间开创了武道小说与武道电影的新类型。",
+    "阎连科植根于神实主义，以极具良知和担当的写作风格关注这片土地并引发巨大争议。",
+    "王小波作为文坛外高手与精神图腾，其作品对整整一代人产生了深远影响。",
+    "路内、班宇等东北及技校背景的作家展现了独特的底层叙事与大师气象。",
+    "当代纯文学市场面临萎缩，绝大多数优秀作品往往诞生于体制外的文坛边缘。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目引言与小条的阅读书目",
+      "start": 15.72
+    },
+    {
+      "titel": "书架第一格：余华与刘震云",
+      "start": 442.3
+    },
+    {
+      "titel": "书架上的徐浩峰与武道小说",
+      "start": 732.88
+    },
+    {
+      "titel": "阎连科与王小波的文学地位",
+      "start": 927.0
+    },
+    {
+      "titel": "路内、班宇与当代东北文学",
+      "start": 1234.52
+    },
+    {
+      "titel": "格非、朱文与先锋作家的转型",
+      "start": 1610.96
+    },
+    {
+      "titel": "刁斗的证词与洪峰的作品回忆",
+      "start": 2196.56
+    },
+    {
+      "titel": "中国当代文学的现状与个人推荐",
+      "start": 2634.52
+    }
+  ],
+  "clips": [
+    {
+      "hook": "余华的作家轨迹与当代作家的宿命",
+      "start": 539.533,
+      "ende": 567.458,
+      "laenge": 27.92,
+      "byte_start": 8685156,
+      "byte_ende": 9131953,
+      "bytes": 446798,
+      "range_header": "bytes=8685156-9131953",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 539.611,
+      "anker_sha256": "4947ba90ae7fe6cc2916a6a6edf7b311607ff0c3e7cbc9a76b400ae0060f621c",
+      "einblendung_ms": 60,
+      "text": "余华等作家的创作生涯折射出特定时代的文人生态，他们起步于思想最活跃的阶段，却在环境变化和名利积累中逐渐淡出公众视野。"
+    },
+    {
+      "hook": "阎连科的神实主义与良知担当",
+      "start": 964.258,
+      "ende": 987.063,
+      "laenge": 22.8,
+      "byte_start": 15480754,
+      "byte_ende": 15845631,
+      "bytes": 364878,
+      "range_header": "bytes=15480754-15845631",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 964.336,
+      "anker_sha256": "82cc1e7f8c814db977afdb52f22a7c64557ce97d34f8bea237450398bab702f2",
+      "einblendung_ms": 60,
+      "text": "某种文学风格被评价为超越了魔幻现实主义的范畴，直抵一种荒诞疯狂的境地，生动折射出本土现实的不可思议。"
+    },
+    {
+      "hook": "纯文学作为职业和市场的消失",
+      "start": 1488.039,
+      "ende": 1512.385,
+      "laenge": 24.35,
+      "byte_start": 23861253,
+      "byte_ende": 24250790,
+      "bytes": 389538,
+      "range_header": "bytes=23861253-24250790",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1488.118,
+      "anker_sha256": "0e674cf954f8d3a1d2f7ccbc0145ac20c26944346314fc5e013ca50d363b6cf9",
+      "einblendung_ms": 60,
+      "text": "纯文学的市场和职业属性已经瓦解，创作者若非为了影视改编，便只能靠情怀支撑，同行之间甚至互相隐瞒师承关系。"
+    },
+    {
+      "hook": "当代文学中最推荐的一本书",
+      "start": 2226.024,
+      "ende": 2246.139,
+      "laenge": 20.11,
+      "byte_start": 35669018,
+      "byte_ende": 35990846,
+      "bytes": 321829,
+      "range_header": "bytes=35669018-35990846",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2226.103,
+      "anker_sha256": "d9d4475c2224fa10c3a6557c8270944b502794dcd74aa665db4c952cbfcd006f",
+      "einblendung_ms": 60,
+      "text": "刁斗创作的《正词》被奉为当代文坛的极高标杆，其文学成就被拿来与电影《薄荷堂》相提并论。"
+    },
+    {
+      "hook": "好的作品都出自文坛外",
+      "start": 2851.997,
+      "ende": 2879.817,
+      "laenge": 27.82,
+      "byte_start": 45684574,
+      "byte_ende": 46129700,
+      "bytes": 445127,
+      "range_header": "bytes=45684574-46129700",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2852.075,
+      "anker_sha256": "4e44edae97494b3d59667717935840f1dbdada0e0988fee0e738a600be449fe9",
+      "einblendung_ms": 60,
+      "text": "严肃文学和电影的优质成果往往诞生于体制之外的生面孔之手，那些长期混迹圈内的人很难再产出杰作。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-25T19:47:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3233,
+  "veroeffentlicht": "2026-07-23T21:40:19+08:00",
+  "untertitel": "【大条小条】书架上的当代文学史",
+  "kapitel_quelle": "modell",
+  "bild_url": "https://cdn.lizhi.fm/podcast_cover/2014/09/15/2929300.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group23/M08/0A/2B/wKgJL1gT7LWAC45XAFUJ1wk-b2I973.m4a",
+  "apple_collection_id": "1168917319",
+  "show": "我的生命中只剩下钢琴",
+  "titel": "Brahms Piano Concerto No.1 in D minor, Op.15 - III. Rondo. Allegro non troppo（",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJL1gT7LWAC45XAFUJ1wk-b2I973.m4a?channel=rss&album_id=5603866&track_id=24127897&uid=18266633&jt=https://aod.cos.tx.xmcdn.com/group23/M08/0A/2B/wKgJL1gT7LWAC45XAFUJ1wk-b2I973.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5573079,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T04:57:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "播放勃拉姆斯d小调第一钢琴协奏曲第三乐章。作品编号Op.15。",
+  "kurzfassung": "本期节目播放了勃拉姆斯d小调第一钢琴协奏曲的第三乐章。乐曲名称为Rondo. Allegro non troppo。音频内容仅包含音乐演奏。",
+  "stichpunkte": [
+    "播放勃拉姆斯d小调第一钢琴协奏曲第三乐章",
+    "乐章副标题为Rondo. Allegro non troppo",
+    "作品编号为Op.15",
+    "音频为纯音乐内容"
+  ],
+  "kapitel": [
+    {
+      "titel": "音乐播放",
+      "start": 41.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T04:57:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 688,
+  "veroeffentlicht": "2016-10-29T00:26:30+00:00",
+  "beschreibung": "容颜一见钟情，声音一耳钟情，一天的疲劳，静诉心声。",
+  "beschreibung_html": "容颜一见钟情，声音一耳钟情，一天的疲劳，静诉心声。",
+  "bild_url": "https://fdfs.xmcdn.com/group17/M00/9C/51/wKgJJFgLHcHx-dkqAABrlT-zCDo654.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

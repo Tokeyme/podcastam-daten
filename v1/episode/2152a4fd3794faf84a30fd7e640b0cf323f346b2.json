@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group49/M05/50/B7/wKgKl1v7YvzxKkVLADg7WdB1OWs377.m4a",
+  "apple_collection_id": "1168384086",
+  "show": "电影砸谈",
+  "titel": "【发刊词】张法中：给你不一样的东方美",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgKl1v7YvzxKkVLADg7WdB1OWs377.m4a?channel=rss&album_id=3992219&track_id=134839365&uid=43233681&jt=https://aod.cos.tx.xmcdn.com/group49/M05/50/B7/wKgKl1v7YvzxKkVLADg7WdB1OWs377.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3685209,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:29:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "张法中开启中国美术史课程，带你领略不一样的东方美学。",
+  "kurzfassung": "沈阳大学美术老师张法中推出了全新的中国美术史课程。他打破传统教材的枯燥拆解，从历代艺术作品与时代精神切入，带听众领略华夏美学的演变。课程旨在提升审美、打通知识体系并启发自由灵性，让现代人在艺术中获得心灵安顿。",
+  "stichpunkte": [
+    "张法中开设中国美术史课程，旨在填补大众对自身辉煌艺术史认知较少的空白",
+    "中国美术史由器物、文字和美术共同构成，重在研究图像、形式美以及背后的人文精神",
+    "课程梳理了从原始社会模仿、奴隶社会威慑、周秦之礼，到唐代气魄、宋代境界及明清世俗的演变脉络",
+    "学习美术史的首要用处是提升鉴赏力与审美品味，例如从电影《刺客聂隐娘》的美术设计中体会唐代风尚",
+    "美术史能帮助大众打通知识体系，跳出时代局限，重塑观看历史的思维认知",
+    "艺术能启发自由灵性、接通先贤智慧，在逆境中为文人士大夫和现代都市人提供心灵救赎与安顿",
+    "张法中将避免学术陷阱和生涩术语，从个人视角出发，选择曾打动自己的作品进行故事化讲述",
+    "在未来一年的170期课程中，通过中西、古今的对比，让听众在轻松有趣中读懂中国美术史"
+  ],
+  "kapitel": [
+    {
+      "titel": "开设中国美术史的初衷",
+      "start": 0.42
+    },
+    {
+      "titel": "什么是中国美术史与各时代的艺术特点",
+      "start": 92.88
+    },
+    {
+      "titel": "学习中国美术史的三大用处",
+      "start": 182.52
+    },
+    {
+      "titel": "课程的讲述方式与未来展望",
+      "start": 348.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:29:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 455,
+  "veroeffentlicht": "2018-11-07T03:03:25+00:00",
+  "beschreibung": "我的新节目《张法中讲中国美术史》精品课程在11月7日上线了。\n欢迎大家添加美术史小助手微信号：meishushi123 进听友群交流\n\n本期完整文稿\n大家好，我是张法中，沈阳大学的一名美术老师。\n熟悉我的人都知道，我从2016年开始在喜马拉雅开设西方美术史的节目，迄今已经更新了109期，在这个过程中，不断有听众朋友留言让我开中国美术史的课程，他们最常反映的问题有两个：一是面对中国美术史庞杂和分散的脉络，不知道如何开始学习；二是面对一件艺术作品，感觉熟悉又陌生，不知道如何赏析。听友们的肯定和信任一方面给了我研究的动力，另一方面也促发我思考，为什么煌煌上下五千年文明史，七千年的艺术史，我们对自己的了解却那么少。\n\n作为一个艺术教育者和普及者，我觉得我有义务尽自己的微薄之力，为大家普及中国美术史的知识，向大家介绍我们的美学从哪里来，发生了什么，又好在哪里，以及和大家一起探讨它最终又要发展到哪里去。这就是《张法中的中国美术史》开设的初衷。\n\n那么问题来了，到底什么是中国美术史？简单来说，物质也就是器物、文字和美术，三者在中国的发展历程共同构成了中国历史。研究中国美术的历史，就是研究图像和形式美的历史，它不可避免的会涉及到史论－作品－人物几个方向的内容阐述。但既然是我讲的美术史，我不想像教材一样，条分缕析的拆解一遍，而希望大家能够跟随我透过这些作品和人物，以及它们交叉构筑起的艺术图景，去理解华夏民族的思想观念如何演变，以及视觉背后隐藏的人文精神。\n\n比如，原始社会重模仿，奴隶社会重威慑。西周到先秦，艺术的主旋律则是礼，从敬天到敬祖，所有的艺术创作都围绕着如何让仪式更加庄重的展开。到了秦汉，美术重外在功业；而魏晋重思辨，使艺术开始走向独立；唐代重气魄与法度；宋以后受禅宗的影响，艺术开始走向重境界与意味；再之后是明清，世俗艺术逐渐走上舞台；到了近代，由于西学东渐，中国美术走上了一条向西方现代美术学习的重形式主义道路。\n\n了解了这么多后有些人可能会问，学习中国美术史有什么用，对我们的现实生活有什么指导意义吗？我的回答是：有。并且它的价值远远超乎你的想象。\n\n我愿意从三个方面来向你论证：第一是鉴赏能力和审美品位的提升。不知道大家是否看过侯孝贤的《刺客聂隐娘》，很多人都评价说看不懂，撇开故事不谈，这部影片最令我着迷的就是它的美术设计，无论建筑，布景、服饰、道具、妆容，都精准的还原了那一时期的大唐风尚，影片中有两扇屏风，图案就取自台北故宫珍藏的五代画作《丹枫呦鹿图》与《秋林群鹿图》，如果你有如此的艺术修养，那么生活中的一切都将成为你观照美的源泉，愉悦生发的土壤。\n\n第二是打通知识体系，重塑观看之道。艺术是一个时代政治、经济与文化的反映，它不孤立于社会存在，但艺术又往往能跳出时代的局限性，呈现出自己独特的发展轨迹。透过艺术家、作品的切片去审视解读历史，你就能收获新的思维认知：比如为什么说《清明上河图》反映了北宋的资本主义萌芽？它呈现了怎样的市井风俗与商业文化？艺术史中我们未知的知识和我们血液中流淌的基因、我们的常识很容易连接起来，形成一个完整而通透的知识体系。\n\n第三也是最为重要的一点，艺术可以帮我们启发自由\n灵性，接通先贤智慧。\n中国古代的艺术家与西方比起来最大的不同，就是总会在创作中自觉地融入对宇宙和天地万物的哲思，追求自然与心灵的沟通，文人士大夫常常通过绘画来寄情山水。顺境时，艺术对他们是享受；逆境时，艺术则是救赎。\n这样你就能理解为什么政治严酷的元代，会诞生倪瓒、黄公望等一大批追求隐逸精神的山水画家。而今天身处嘈杂都市的我们，依然可以通过它们来触摸先贤智慧，获得心灵安顿。\n\n最后，我想跟大家聊聊我会怎么讲《中国美术史》这个课程。艺术史浩如烟海，要说全，一个人一辈子恐怕都讲不完。通常情况下，讲述者会按照重要程度来划分，但这很容易掉进学术的陷阱。而我更愿意从自己的视角出发，选择那些曾经深深打动过我的作品，再把我的感动和知识一起分享给大家。\n\n和大多数的专家学者比起来，我擅长的不是学术深度。也不愿意去讲那些大家听不懂的学术用语，作为一个美学普及者，我应该做的是如何让大家产生兴趣，并且寻找到进入艺术的大门。作为一个现代人，我们已经很难孤立的去了解中国美术史，我愿意把它和我们的现有知识结构结合，比如联系中国与西方，传统与现代，当下与未来，通过纵横比较，让大家来获取立体的和全新的知识体验。\n\n在接下来为期一年，总共100期的课程里，我会延续自己在西方美术史中“内容故事化”的讲述方式。不掉书袋，力求让大家听得懂，听得进，在轻松有趣的信息传递中，打通大家的知识体系。\n\n这些年来，我一直坚持在做美术教育。因为我相信美育是一件功德无量的事情，而且未来一定会成为社会潮流。我希望《中国美术史》这个课堂，可以成为你们在繁忙都市生活中内心深处的一个桃花源，为在外奔波生活的你提供随时可得的精神养料。愿大家通过学习这堂课，都能收获心灵的滋养与成长，人生的丰盛与美好。",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">我的新节目《张法中讲中国美术史》精品课程在11月7日上线了。</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">欢迎大家添加美术史小助手微信号：meishushi123 进听友群交流</p><span><br /></span><br /><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\"><img data-key=\"1\" src=\"http://image.xmcdn.com/group51/M00/1F/D7/wKgKmlvhUDrSjnH3AAZkar3sggA340.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_large\" alt=\"\" data-origin=\"http://image.xmcdn.com/group51/M00/1F/D7/wKgKmlvhUDrSjnH3AAZkar3sggA340.jpg?op_type=0\" data-large=\"http://image.xmcdn.com/group51/M00/1F/D7/wKgKmlvhUDrSjnH3AAZkar3sggA340.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_large\" data-large-width=\"750\" data-large-height=\"1206\" data-preview=\"http://image.xmcdn.com/group51/M00/1F/D7/wKgKmlvhUDrSjnH3AAZkar3sggA340.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"225\" /></p><p data-flag=\"subtitle\" style=\"font-family:-apple-system, BlinkMacSystemFont, PingFangSC-Regular,;\"><b>本期完整文稿</b></p><p data-flag=\"subtitle\" style=\"line-height:30px;font-family:Helvetica, Arial, sans-serif;text-align:justify;\"><span>大家好，我是张法中，沈阳大学的一名美术老师。</span></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">熟悉我的人都知道，我从2016年开始在喜马拉雅开设西方美术史的节目，迄今已经更新了109期，在这个过程中，不断有听众朋友留言让我开中国美术史的课程，他们最常反映的问题有两个：一是面对中国美术史庞杂和分散的脉络，不知道如何开始学习；二是面对一件艺术作品，感觉熟悉又陌生，不知道如何赏析。听友们的肯定和信任一方面给了我研究的动力，另一方面也促发我思考，为什么煌煌上下五千年文明史，七千年的艺术史，我们对自己的了解却那么少。</p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">作为一个艺术教育者和普及者，我觉得我有义务尽自己的微薄之力，为大家普及中国美术史的知识，向大家介绍我们的美学从哪里来，发生了什么，又好在哪里，以及和大家一起探讨它最终又要发展到哪里去。这就是《张法中的中国美术史》开设的初衷。</p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span><b>那么问题来了，到底什么是中国美术史？</b></span><span>简单来说，物质也就是器物、文字和美术，三者在中国的发展历程共同构成了中国历史。研究中国美术的历史，就是研究图像和形式美的历史，</span>它不可避免的会涉及到史论－作品－人物几个方向的内容阐述。但既然是我讲的美术史，我不想像教材一样，条分缕析的拆解一遍，而希望大家能够跟随我透过这些作品和人物，以及它们交叉构筑起的艺术图景，去理解华夏民族的思想观念如何演变，以及视觉背后隐藏的人文精神。</p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>比如，原始社会重模仿，奴隶社会重威慑。西周到先秦，艺术的主旋律则是礼，从敬天到敬祖，所有的艺术创作都围绕着如何让仪式更加庄重的展开。到了秦汉，美术重外在功业；而魏晋重思辨，使艺术开始走向独立；唐代重气魄与法度；宋以后受禅宗的影响，艺术开始走向重境界与意味；再之后是明清，世俗艺术逐渐走上舞台；到了近代，由于西学东渐，中国美术走上了一条向西方现代美术学习的重形式主义道路。</span></p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">了解了这么多后有些人可能会问，学习中国美术史有什么用，对我们的现实生活有什么指导意义吗？我的回答是：有。并且它的价值远远超乎你的想象。</p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">我愿意从三个方面来向你论证：第<b>一是鉴赏能力和审美品位的提升。</b>不知道大家是否看过侯孝贤的《刺客聂隐娘》，很多人都评价说看不懂，撇开故事不谈，这部影片最令我着迷的就是它的美术设计，无论建筑，布景、服饰、道具、妆容，都精准的还原了那一时期的大唐风尚，影片中有两扇屏风，图案就取自台北故宫珍藏的五代画作《丹枫呦鹿图》与《秋林群鹿图》，<b>如果你有如此的艺术修养，那么生活中的一切都将成为你</b><b>观照美的源泉，愉悦生发的土壤。</b></p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b>第二是打通知识体系，重塑观看之道。</b>艺术是一个时代政治、经济与文化的反映，它不孤立于社会存在，但艺术又往往能跳出时代的局限性，呈现出自己独特的发展轨迹。<b>透过艺术家、作品的切片去审视解读历史，</b><span><b>你就能收获新的思维认知</b></span><span>：比如为什么说《清明上河图》反映了北宋的资本主义萌芽？它呈现了怎样的市井风俗与商业文化？艺术史中我们未知的知识和我们血液中流淌的基因、我们的常识很容易连接起来，形成一个完整而通透的知识体系。</span></p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span><b>第三也是最为重要的一点，艺术可以帮我们启发自由</b></span></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b><span>灵性，接通先</span><span>贤</span><span>智慧。</span></b></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>中国古代的</span>艺术家与西方比起来最大的不同，就是总会在创作中自觉地融入对宇宙和天地万物的哲思，追求自然与心灵的沟通，文人士大夫常常通过绘画来寄情山水。顺境时，艺术对他们是享受；逆境时，艺术则是救赎。</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>这样你就能理解为什么政治严酷的元代，会诞生倪瓒、黄公望等一大批追求隐逸精神的山水画家。<b>而今天身处嘈杂都市的我们，依然可以通过它们来触摸先贤智慧，获得心灵安顿。</b></span></p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b><span>最后，我想跟大家聊聊我会怎么讲《中国美术史》这个课程。艺术史浩如烟海，要说全，一个人一辈子恐怕都讲不完。通常情况下，讲述者会按照重要程度来划分，但这很容易掉进学术的陷阱。<b>而我更愿意从自己的视角出发，选择那些曾经深深打动过我的作品，再把我的感动和知识一起分享给大家。</b></span></b></p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b>和大多数的专家学者比起来，我擅长的不是学术深度。也不愿意去讲那些大家听不懂的学术用语，作为一个美学普及者，我应该做的是如何让大家产生兴趣，并且寻找到进入艺术的大门。作为一个现代人，我们已经很难孤立的去了解中国美术史，我愿意把它和我们的现有知识结构结合，比如联系中国与西方，传统与现代，当下与未来，通过纵横比较，让大家来获取立体的和全新的知识体验。</b></p><span><br /><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b><span><b>在接下来为期一年，总共</b></span><span><b>100</b></span><span><b>期的课程里，我会延续自己在西方美术史中“内容故事化”的讲述方式。不掉书袋，力求让大家听得懂，听得进，在轻松有趣的信息传递中，打通大家的知识体系。</b></span></b></p><span><br /></span><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b>这些年来，我一直坚持在做美术教育。因为我相信美育是一件功德无量的事情，而且未来一定会成为社会潮流。我希望《中国美术史》这个课堂，可以成为你们在繁忙都市生活中内心深处的一个桃花源，为在外奔波生活的你提供随时可得的精神养料。愿大家通过学习这堂课，都能收获心灵的滋养与成长，人生的丰盛与美好。</b></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group50/M0B/35/8D/wKgKmVviVZvw4vzMAAAQOp__xMQ569.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

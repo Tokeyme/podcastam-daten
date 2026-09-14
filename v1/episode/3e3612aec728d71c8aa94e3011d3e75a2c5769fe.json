@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_950871774",
+  "apple_collection_id": "1874242286",
+  "show": "八方斋·路上听 | 网文·时事·科技",
+  "titel": "这个时代最大的红利是什么？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwNRfrkAH5JTQRdBgJO.m4a?channel=rss&album_id=83326768&track_id=950871774&uid=255579333&jt=https://aod.cos.tx.xmcdn.com/storages/ec22-audiofreehighqps/E1/8E/GKwRIRwNRfrkAH5JTQRdBgJO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8276301,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:27:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨当今时代的红利、内卷现象以及普通人如何在变化的版本中寻找生活的热爱。",
+  "kurzfassung": "播客探讨了当前所谓的“躺平低成本”时代红利，实则是各行各业极致内卷与无奈的结果。主播结合外卖大战、自身失业及买房经历，指出人生如同游戏版本不断更迭，预测未来并不可行。最终，主播认为这个时代赋予了普通人“一切都来得及”的自由，应当放下焦虑，去追求自己真正喜欢的事物。",
+  "stichpunkte": [
+    "躺平低成本看似是最大时代红利，实则是其他红利消失与各行各业极致内卷的结果。",
+    "外卖大战背后是骑手、商家、店员及大厂员工的共同承压，平台往往并非真心想做外卖。",
+    "回顾2016年网约车与新媒体的黄金期，与如今的失业及高位买房形成强烈对比。",
+    "时代版本更迭迅速，网络上的各种预测大多不可信，现实系统过于复杂混沌。",
+    "躺平并非真正的幸福，更像是过度劳累后的一种习得性无助反应。",
+    "当前时代的红利在于成功和饿死一样难，且一切都来得及，赋予了普通人选择热爱的自由。",
+    "人生如同游戏，与其苦苦追逐版本红利，不如像“代代版本玩盖伦”一样坚守内心的热爱。"
+  ],
+  "kapitel": [
+    {
+      "titel": "时代的红利与外卖行业的内卷",
+      "start": 0.0
+    },
+    {
+      "titel": "大厂外卖大战背后的荒诞逻辑",
+      "start": 196.06
+    },
+    {
+      "titel": "从黄金年代到版本更迭的无奈",
+      "start": 340.14
+    },
+    {
+      "titel": "躺平的悖论与习得性无助",
+      "start": 575.48
+    },
+    {
+      "titel": "这个时代的真正红利与生活热爱",
+      "start": 754.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:27:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1022,
+  "veroeffentlicht": "2026-01-21T02:19:40+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c40f-audiofreehighqps/1D/FA/GKwRIJILwQWsAAGTYAOMXLMc.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group27/M03/6C/D8/wKgJW1jSFpuDXLnrAI4CVHObpNg916-aacv2-48K.m4a",
+  "apple_collection_id": "1181806602",
+  "show": "极简生活+轻断食",
+  "titel": "快速了解极简主义【自制节目】",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJW1jSFpuDXLnrAI4CVHObpNg916-aacv2-48K.m4a?channel=rss&album_id=5927777&track_id=33368703&uid=29677950&jt=https://aod.cos.tx.xmcdn.com/group27/M03/6C/D8/wKgJW1jSFpuDXLnrAI4CVHObpNg916-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6997916,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T05:02:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨极简主义生活方式，如何通过减少无用物品和杂事来找回生活中真正重要的事情。",
+  "kurzfassung": "本期节目介绍了极简主义生活方式的定义与核心意义。播客探讨了哪些人群最需要极简主义，并分析了如何通过精简物品、时间和精力来改善生活质量。同时，节目讨论了社会观念对极简主义的看法以及如何找到个人的生活舒适区。",
+  "stichpunkte": [
+    "极简主义的核心在于减少生活中无益的事情，从而腾出时间和精力来做更有益的事情。",
+    "需要极简主义的人群包括打折购物狂、囤积旧物者、整洁强迫症以及工作极其忙碌的大忙人。",
+    "极简主义能从节约时间、节约金钱和节省精力三个方面直接改善生活。",
+    "生活过得好不好与拥有的物品毫无相关，乔布斯的空房间生活即是一个例子。",
+    "囤积大量打折便宜货和旧物不仅占用空间，还会增加收拾整理的压力，并不能应对真正的紧急情况。",
+    "国内存在单一价值观和社会压力，使得与主流不符的生活方式较难生存，但极简主义只是一种个人选择。",
+    "每个极简主义者的标准不同，不必强求极端，找到自己最喜欢的舒适程度即可。",
+    "减少物品的方法包括避源（如无必要物增实体）和增流（清理多年用不到的东西）。",
+    "极简主义还包括减少不必要的通知和打扰，简化信息来源，专注于真正重要的事。"
+  ],
+  "kapitel": [
+    {
+      "titel": "什么是极简主义生活方式",
+      "start": 1.68
+    },
+    {
+      "titel": "哪些人需要极简主义",
+      "start": 140.0
+    },
+    {
+      "titel": "极简主义的核心益处",
+      "start": 352.74
+    },
+    {
+      "titel": "物品与幸福无关：打破囤积观念",
+      "start": 375.68
+    },
+    {
+      "titel": "社会压力与不同的生活方式",
+      "start": 590.92
+    },
+    {
+      "titel": "如何实践极简主义",
+      "start": 745.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T05:02:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1149,
+  "veroeffentlicht": "2017-03-22T15:59:00+00:00",
+  "beschreibung": "这是在知乎上看到的一篇文章，作者是Kent Zeng\n如果没心思听完这本书所有的内容，或者想快速地了解一下极简主义，那可以先听一听这一篇",
+  "beschreibung_html": "<p>这是在知乎上看到的一篇文章，作者是Kent Zeng</p><p>如果没心思听完这本书所有的内容，或者想快速地了解一下极简主义，那可以先听一听这一篇</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group23/M0A/5C/67/wKgJL1g0CnzhWLTcABUAXxGJViQ101.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

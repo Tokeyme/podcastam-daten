@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group25/M00/CA/D6/wKgJNlhTsWKD7KaBACOfRCBYNSc716.m4a",
+  "apple_collection_id": "1168908696",
+  "show": "亮主播与您侃财经",
+  "titel": "12.16晚间播报：外围市场影响未减，指数维持低位震荡",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJNlhTsWKD7KaBACOfRCBYNSc716.m4a?channel=rss&album_id=5492189&track_id=27017551&uid=60482814&jt=https://aod.cos.tx.xmcdn.com/group25/M00/CA/D6/wKgJNlhTsWKD7KaBACOfRCBYNSc716.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2334532,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:37:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "外围市场影响未减，指数维持低位震荡",
+  "kurzfassung": "沪指全天在开盘价附近小幅波动，两市成交量继续萎缩。题材概念股在调整中相对活跃，3100点整数关口支撑难言。美联储加息影响蔓延，国际现货黄金价格再度刷新调整低点。",
+  "stichpunkte": [
+    "沪指收报3123点，两市合计成交4338亿元，成交量继续萎缩",
+    "市场资金分化严重，高抛低吸资金较为活跃，大盘蓝筹股成交清淡",
+    "指数整体仍在调整中，建议普通投资者不宜太过激进",
+    "中国机器人产业大会闭幕，工信部等将发布标准规范引导文件",
+    "推荐关注瑞奇股份，该公司积极布局工业4.0及工业软件控制领域",
+    "美联储加息影响持续，国际现货黄金价格接近1120美元附近",
+    "黄金TD日线图维持空头趋势，建议以日内短线高抛低吸交易为主"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与广告宣传",
+      "start": 0.0
+    },
+    {
+      "titel": "大盘走势分析与行情回顾",
+      "start": 41.46
+    },
+    {
+      "titel": "股市热点与个股推荐",
+      "start": 113.02
+    },
+    {
+      "titel": "贵金属市场操作策略",
+      "start": 191.22
+    },
+    {
+      "titel": "节目尾声与宣传提示",
+      "start": 258.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:37:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 288,
+  "veroeffentlicht": "2016-12-16T09:20:16+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group17/M0B/86/32/wKgJKVgEgn6gy0YPAAG7lgNqeb8618.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

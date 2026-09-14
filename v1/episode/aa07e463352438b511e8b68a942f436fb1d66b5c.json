@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_991504199",
+  "apple_collection_id": "1896478989",
+  "show": "通勤财经碎碎念｜财经轻解读，通勤随身听",
+  "titel": "免息分期、办卡立减金，银行信用卡真不亏吗？拆解信用卡完整赚钱链条",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOCVQHADLISQSqJxCG.m4a?channel=rss&album_id=120914434&track_id=991504199&uid=125826411&jt=https://aod.cos.tx.xmcdn.com/storages/c533-audiofreehighqps/30/40/GKwRIDoOCVQHADLISQSqJxCG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3328073,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T23:19:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "拆解信用卡赚钱链条，揭秘银行发放各种优惠背后的盈利模式。",
+  "kurzfassung": "本期节目拆解了信用卡的完整赚钱链条，分析了银行在提供各类优惠福利背后的盈利模式。通过招商银行的业绩数据，指出利息收入是绝对的营收大头，而非利息收入则由商户回佣、年费和杂费组成。此外，节目还探讨了信用卡业务在告别盲目扩张后的未来发展方向。",
+  "stichpunkte": [
+    "招商银行2024年信用卡总收入中，利息收入占比接近73%，非利息收入占比27%",
+    "国内约14%的持卡人使用循环信用，这部分用户支撑了绝大多数的利息收益",
+    "信用卡透支日利率上限为万分之五，折算年化为18.25%",
+    "账单分期表面每期费率较低，实际综合年化普遍在10%至18%之间",
+    "非利息收入占比在20%到30%之间，主要由商户回佣、年费和各类杂费组成",
+    "银行通过信用卡触达海量用户，后续通过交叉销售推动理财、保险等产品",
+    "信用卡业务正告别盲目发卡扩张，睡眠卡占比受到严格限制",
+    "优惠权益未来将更加精准化，资源向高价值客户集中，普惠活动减少"
+  ],
+  "kapitel": [
+    {
+      "titel": "信用卡的整体营收与利息收入",
+      "start": 48.34
+    },
+    {
+      "titel": "非利息收入与交叉销售价值",
+      "start": 180.14
+    },
+    {
+      "titel": "信用卡业务的未来发展方向",
+      "start": 285.18
+    },
+    {
+      "titel": "总结",
+      "start": 372.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T23:19:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 410,
+  "veroeffentlicht": "2026-06-21T22:32:00+00:00",
+  "beschreibung": "日常用卡免息、分期优惠不断，推荐办卡还送红包，银行难道纯做慈善？2021 年会计新规后信用卡收入统计彻底变样，利息、商户佣金谁是营收大头？各板块真实占比多少？仅 14% 用户在用循环信用，为何利息仍是核心收益？分期真实年化有多高？2022 年睡眠卡监管落地后，信用卡未来会怎么走？",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>日常用卡免息、分期优惠不断，推荐办卡还送红包，银行难道纯做慈善？2021 年会计新规后信用卡收入统计彻底变样，利息、商户佣金谁是营收大头？各板块真实占比多少？仅 14% 用户在用循环信用，为何利息仍是核心收益？分期真实年化有多高？2022 年睡眠卡监管落地后，信用卡未来会怎么走？</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d5b0-audiofreehighqps/04/24/GAqhcW4OCVLiAAFS_QSqJsng.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

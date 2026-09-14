@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/117f-audiofreehighqps/82/1E/CKwRIaIETHrIAC6_-wCefAqD.m4a",
+  "apple_collection_id": "1563344023",
+  "show": "机器学习入门",
+  "titel": "推荐系统，是如何掌握用户喜好的？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIaIETHrIAC6_-wCefAqD.m4a?channel=rss&album_id=21244930&track_id=405551718&uid=140648809&jt=https://aod.cos.tx.xmcdn.com/storages/117f-audiofreehighqps/82/1E/CKwRIaIETHrIAC6_-wCefAqD.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3063803,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:16:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "介绍推荐系统的基本原理，包括基于内容的过滤与协同过滤。",
+  "kurzfassung": "本期节目介绍了现代推荐系统的基本原理与应用场景。主播详细讲解了基于内容的过滤和协同过滤这两种核心方法。此外，节目还结合具体电影评分示例与矩阵分解技术，展示了推荐系统如何发掘用户喜好。",
+  "stichpunkte": [
+    "推荐系统无所不在，广泛应用于新闻、短视频、电商和流媒体等领域",
+    "商业公司通过用户注册资料、行为数据和商品属性向用户推荐内容",
+    "基于内容的过滤方法根据物品相似度向用户推荐偏好的商品",
+    "协同过滤方法通过寻找相似用户来向目标用户推荐物品",
+    "矩阵分解技术用于处理大规模用户与物品的喜好矩阵",
+    "通过计算矩阵乘法可以预测用户对未评分物品的偏好数值",
+    "节目提供了基于The Movies Dataset和TMDB5000数据集的实践示例"
+  ],
+  "kapitel": [
+    {
+      "titel": "推荐系统的应用场景",
+      "start": 1.6
+    },
+    {
+      "titel": "推荐系统的两种基本方法",
+      "start": 80.84
+    },
+    {
+      "titel": "基于内容过滤与协同过滤的示例",
+      "start": 178.32
+    },
+    {
+      "titel": "矩阵分解与数据集实践",
+      "start": 292.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:16:15+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 378,
+  "veroeffentlicht": "2021-04-14T09:36:54+00:00",
+  "beschreibung": "今天的这期节目，向大家介绍推荐系统的基本原理。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">今天的这期节目，向大家介绍推荐系统的基本原理。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group55/M05/61/14/wKgLdVxjgaWD1JCgAARj9c_n6Ng568.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

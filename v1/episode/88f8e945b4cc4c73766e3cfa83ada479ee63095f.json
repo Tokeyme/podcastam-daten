@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "guid": "e8e39508-1a5e-47c2-a1e3-4d04d4c43b96",
+  "apple_collection_id": "1482455669",
+  "show": "What Bitcoin Did",
+  "titel": "The Coldcard Disaster: Everything You Need to Know | Lloyd Fournier & Nick Farrow",
+  "audio": {
+    "url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg/items/M46TDPawb8BGC786idl4/files/VIDEO---DEFAULT---0a8bfa9f-4ed8-42ab-be52-e9e1901ce8c8.mp4/ORIGINAL.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 200091232,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T02:14:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Inside the Coldcard hardware wallet disaster and what it means for Bitcoin self-custody",
+  "kurzfassung": "A catastrophic security vulnerability in Coldcard Mark III wallets exposed thousands of user seed phrases, leading to nearly 2,000 stolen Bitcoin. Developers Lloyd Fournier and Nick Farrow analyze how the RNG flaw went unnoticed for years and discuss the broader implications for hardware security. They also explore alternative multi-sig solutions like FrostSnap and the growing risks of physical attacks against Bitcoin holders.",
+  "stichpunkte": [
+    "A critical vulnerability in Coldcard Mark III wallets allowed attackers to sweep nearly 2,000 Bitcoin from compromised devices.",
+    "The flaw originated from a weak pseudo-random number generator and poor C and MicroPython code implementation.",
+    "AI models like Kimi K3 ultimately enabled attackers to efficiently scan and drain vulnerable wallets.",
+    "Many victims were experienced Bitcoiners who followed standard self-custody practices, making the incident a devastating blow to the community.",
+    "The hosts discuss 'Dark Skippy', an advanced attack demonstrating that a malicious device can exfiltrate a seed phrase in just one or two transaction signatures.",
+    "FrostSnap offers a threshold signature solution with no descriptor backups, aiming to eliminate single points of failure and human error.",
+    "Physical security and home invasions targeting Bitcoin holders remain a significant and growing threat as wealth accumulates."
+  ],
+  "kapitel": [
+    {
+      "titel": "Coldcard vulnerability overview",
+      "start": 0.0
+    },
+    {
+      "titel": "Technical analysis of RNG failure",
+      "start": 218.0
+    },
+    {
+      "titel": "FrostSnap design and security",
+      "start": 1045.0
+    },
+    {
+      "titel": "Multi-sig and kidnapping risks",
+      "start": 2409.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Almost 2,000 Bitcoin lost in a massive wallet vulnerability",
+      "start": 41.953,
+      "ende": 62.041,
+      "laenge": 20.09,
+      "byte_start": 1679738,
+      "byte_ende": 2483263,
+      "bytes": 803526,
+      "range_header": "bytes=1679738-2483263",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 42.031,
+      "anker_sha256": "6ec0080d0a5270bbdf4ea5340349a7b5bdf2d122bf1e2845f7038c0d898be8e8",
+      "einblendung_ms": 60,
+      "text": "A group of approximately 1,200 individuals and 2,000 bad actors possess the technical expertise to systematically target and extract sensitive data."
+    },
+    {
+      "hook": "A severe fault on behalf of CoinKite",
+      "start": 1377.149,
+      "ende": 1397.238,
+      "laenge": 20.09,
+      "byte_start": 55087607,
+      "byte_ende": 55891133,
+      "bytes": 803527,
+      "range_header": "bytes=55087607-55891133",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1377.228,
+      "anker_sha256": "6be7ed0caa0a21e04f85a198559271873b6e4619e3611937277d8cce72587a22",
+      "einblendung_ms": 60,
+      "text": "CoinCard faces significant criticism due to reports of users receiving wallets belonging to other people."
+    },
+    {
+      "hook": "Unbelievable that a guy's laptop could discover on-chain addresses",
+      "start": 2498.795,
+      "ende": 2518.883,
+      "laenge": 20.09,
+      "byte_start": 99953436,
+      "byte_ende": 100756961,
+      "bytes": 803526,
+      "range_header": "bytes=99953436-100756961",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2498.874,
+      "anker_sha256": "9e30c9cd01e8eae83048addd96c722ea905427c5fc24e40906782c7cd65acc69",
+      "einblendung_ms": 60,
+      "text": "The incident mirrors the LibBitcoin vulnerability, where flawed random number generation led to security compromises."
+    },
+    {
+      "hook": "Just one transaction is enough to leak your seed phrase",
+      "start": 3494.713,
+      "ende": 3524.833,
+      "laenge": 30.12,
+      "byte_start": 139790170,
+      "byte_ende": 140994937,
+      "bytes": 1204768,
+      "range_header": "bytes=139790170-140994937",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 3494.792,
+      "anker_sha256": "d7bef3ab1d986733d992b912964ed7511d624bb422e3fec6273f4bf01927f76e",
+      "einblendung_ms": 60,
+      "text": "Lloyd Fournier and Robin Linus demonstrated that a compromised device can expose a user's seed phrase through just two transaction signatures."
+    },
+    {
+      "hook": "So we're all fucked and should just buy the ETF",
+      "start": 4956.056,
+      "ende": 4984.216,
+      "laenge": 28.16,
+      "byte_start": 198243852,
+      "byte_ende": 199370251,
+      "bytes": 1126400,
+      "range_header": "bytes=198243852-199370251",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 4956.134,
+      "anker_sha256": "adf841c14f82ef65440feaec15312c22b5eeee58108c8cbdb0c3c26b54d37a5f",
+      "einblendung_ms": 60,
+      "text": "The discussion concludes with a cynical suggestion to rely on ETFs for custody, followed by plans for a Bitcoin gathering in Sydney."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T02:14:51+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5018,
+  "veroeffentlicht": "2026-08-21T15:26:25+00:00",
+  "beschreibung": "“They’re saving all their money in Bitcoin and they’re doing all the right things. They’re self-custodying it. And then overnight, it’s just gone.”\n\nFrostsnap’s Lloyd Fournier and Nick Farrow join me to break down the catastrophic Coldcard vulnerability that made supposedly secure Bitcoin keys guessable and allowed attackers to drain more than 1,700 BTC without ever touching the devices.\n\nWe discuss how a five-year failure in Coldcard’s randomness generation went undetected, why every safeguard failed and the role AI played in discovering and exploiting the bug. Nick also explains how he reproduced the attack himself, what the on-chain evidence reveals about the attackers and why this has shaken trust in Bitcoin self-custody.\n\nWe also get into whether hardware wallets are really trusted third parties, the limitations of dice rolls and air gaps, how Dark Skippy can leak a seed through a single transaction and why single-signature custody may need to change.\n\nFinally, Lloyd and Nick explain how Frostsnap uses distributed key generation and threshold signatures to remove single points of failure, simplify recovery and secure Bitcoin across multiple locations.\n\nTHANKS TO OUR SPONSORS:\n\nLEDN\n\nSWAN\n\nANCHORWATCH\n\nBLOCKWARE\n\nBITKEY\n\nCAPE\n\nFOLLOW:\n\nDanny Knowles: https://x.com/_DannyKnowles\n\nLloyd Fournier: https://x.com/LLFOURN\n\nNick Farrow: https://x.com/utxoclub",
+  "beschreibung_html": "<p>“They’re saving all their money in Bitcoin and they’re doing all the right things. They’re self-custodying it. And then overnight, it’s just gone.”   </p>\n<p>Frostsnap’s Lloyd Fournier and Nick Farrow join me to break down the catastrophic Coldcard vulnerability that made supposedly secure Bitcoin keys guessable and allowed attackers to drain more than 1,700 BTC without ever touching the devices.   </p>\n<p>We discuss how a five-year failure in Coldcard’s randomness generation went undetected, why every safeguard failed and the role AI played in discovering and exploiting the bug. Nick also explains how he reproduced the attack himself, what the on-chain evidence reveals about the attackers and why this has shaken trust in Bitcoin self-custody.   </p>\n<p>We also get into whether hardware wallets are really trusted third parties, the limitations of dice rolls and air gaps, how Dark Skippy can leak a seed through a single transaction and why single-signature custody may need to change.   </p>\n<p>Finally, Lloyd and Nick explain how Frostsnap uses distributed key generation and threshold signatures to remove single points of failure, simplify recovery and secure Bitcoin across multiple locations.</p>\n<p><strong>THANKS TO OUR SPONSORS:</strong></p>\n<p><a href=\"https://ledn.io/?utm_source=podcast&utm_medium=partnership&utm_campaign=2025_whatbitcoindid&utm_content=ad_read\"><strong>LEDN</strong></a></p>\n<p><a href=\"https://www.swan.com/wbd\"><strong>SWAN</strong></a></p>\n<p><a href=\"https://www.anchorwatch.com/\"><strong>ANCHORWATCH</strong></a></p>\n<p><a href=\"https://mining.blockwaresolutions.com/wbd\"><strong>BLOCKWARE</strong></a></p>\n<p><a href=\"https://bitkey.world/wbd\"><strong>BITKEY</strong></a></p>\n<p><a href=\"https://www.cape.co/wbd\"><strong>CAPE</strong></a></p>\n<p><strong>FOLLOW:</strong></p>\n<p>Danny Knowles: <a href=\"https://x.com/%5C%5C%5C_DannyKnowles\">https://x.com/_DannyKnowles</a></p>\n<p>Lloyd Fournier: <a href=\"https://x.com/LLFOURN\">https://x.com/LLFOURN</a></p>\n<p>Nick Farrow: <a href=\"https://x.com/utxoclub\">https://x.com/utxoclub</a></p>",
+  "bild_url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg/items/M46TDPawb8BGC786idl4/files/COVER_ART---DEFAULT---2d41c748-f248-4c37-a254-e8f29dbb031f.jpg",
+  "kapitel_quelle": "betreiber"
+}

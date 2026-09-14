@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_703802225",
+  "apple_collection_id": "1729128422",
+  "show": "脉轮全书 I 健康疗愈 I 自我修复",
+  "titel": "脉轮全书第1集：再版序",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAJkmKXAGhMxwKjt8TY-aacv2-48K.m4a?channel=rss&album_id=80334255&track_id=703802225&uid=9542501&jt=https://aod.cos.tx.xmcdn.com/storages/4d16-audiofreehighqps/FE/BF/GKwRIMAJkmKXAGhMxwKjt8TY-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5139824,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T18:59:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨脉轮体系在现代社会的演变，强调身心灵整合与古老智慧的当代应用。",
+  "kurzfassung": "安诺德·朱迪斯博士回顾了《脉轮全书》出版25年来的变化，指出脉轮概念已融入集体潜意识。新版本融入了更多坦陀罗教诲，删减了早期的政治修辞，并更新了科学知识。作者主张将灵性与物质融合，反对传统的灵肉分离与压抑。",
+  "stichpunkte": [
+    "脉轮概念在过去25年中已深入人类的集体潜意识并获得广泛探讨",
+    "时代呼唤整合而非控制，需打破灵性与物质、心智与肉体之间的分裂",
+    "新版本包含更多坦陀罗教诲，删去了早期的政治修辞并更新了科学内容",
+    "阐述了《七重之旅》与《东方身体与西方心智》等著作在实践与心理学上的侧重点",
+    "强调七个脉轮均有其价值，反对剔除低阶脉轮或贬低物质现实的倾向",
+    "探讨了西方脉轮模型与传统昆达里尼经验之间的关联与差异",
+    "认为将脉轮知识普及并带入世俗生活能帮助人们疗愈，且没有传统修炼带来的危险"
+  ],
+  "kapitel": [
+    {
+      "titel": "再版序与时代变迁",
+      "start": 14.8
+    },
+    {
+      "titel": "整合灵性与物质现实",
+      "start": 165.04
+    },
+    {
+      "titel": "新版本的内容调整与系列著作",
+      "start": 389.18
+    },
+    {
+      "titel": "脉轮系统的整体性与东西方融合",
+      "start": 598.9
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T18:59:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 844,
+  "veroeffentlicht": "2024-02-02T14:58:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/88c8-audiofreehighqps/F0/2A/GMCoOSQJkkhFAAZWHAKjqqYv.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

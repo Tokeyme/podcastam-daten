@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_671859514",
+  "apple_collection_id": "1711145050",
+  "show": "中国文化通史 三：魏晋南北朝卷（全十册）",
+  "titel": "001：魏晋南北朝 绪言",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoI-GAmAEYrmAJoFudH.m4a?channel=rss&album_id=78527658&track_id=671859514&uid=42087099&jt=https://aod.cos.tx.xmcdn.com/storages/00e7-audiofreehighqps/44/97/GKwRIDoI-GAmAEYrmAJoFudH.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4598680,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T20:24:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "魏晋南北朝时期的历史脉络、政权更迭与文化演变概述",
+  "kurzfassung": "本集介绍了魏晋南北朝时期的历史分期、主要政权更迭及近四百年的动荡历程。从东汉末年董卓之乱算起，详细梳理了三国、西晋、十六国、南北朝直至隋朝统一的发展脉络。同时，节目探讨了该时期儒学地位变化、胡汉文化交融以及南北文化地域差异等文化演进过程。",
+  "stichpunkte": [
+    "魏晋南北朝时间跨度自公元190年董卓之乱起，至公元589年隋灭陈止，历时近400年。",
+    "历史阶段可分为魏晋（230年）与南北朝（约170年）两个主要时期。",
+    "三国鼎立与西晋统一短暂后，北方陷入五胡十六国长达120年的分裂混战。",
+    "南方历经东晋及宋、齐、梁、陈南朝四代，始终以健康（建康）为京城。",
+    "北方由北魏崛起并统一中原，后分裂为东西魏，最终演变为北齐与北周。",
+    "北周外戚杨坚于公元581年受禅称帝建立隋朝，结束长期分裂局面。",
+    "文化方面经历主导文化从儒学独尊向儒、释、道三教并行转变。",
+    "胡汉文化从激烈的冲突逐渐走向兼容杂糅，中华文明实现根基融合。",
+    "南北文化表现出南人善创新崇文、北人重传统尚武的明显地域差异。",
+    "本书由曹文柱主编，汇集多位学者的研究成果共同撰写完成。"
+  ],
+  "kapitel": [
+    {
+      "titel": "绪言与历史断代",
+      "start": 0.0
+    },
+    {
+      "titel": "魏晋与三国政权更迭",
+      "start": 71.46
+    },
+    {
+      "titel": "十六国与南朝历史",
+      "start": 174.4
+    },
+    {
+      "titel": "北朝统一与隋朝建立",
+      "start": 281.48
+    },
+    {
+      "titel": "文化结构更新与三教并行",
+      "start": 378.88
+    },
+    {
+      "titel": "胡汉融合与南北文化差异",
+      "start": 443.74
+    },
+    {
+      "titel": "本书编写说明",
+      "start": 497.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T20:24:14+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 567,
+  "veroeffentlicht": "2023-10-08T12:14:12+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6d40-audiofreehighqps/AA/AD/GKwRIasI-FjjAAsMDgJoEEOm.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

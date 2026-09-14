@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "bb46aed7-0478-4e82-925b-88679f6b657c",
+  "apple_collection_id": "437299706",
+  "show": "Last Podcast On The Left",
+  "titel": "Episode 680: Q&A III",
+  "audio": {
+    "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/4ca28c43-1b5a-4fc4-bc21-fc9e79754a3a/episodes/f11fb765-42a0-437d-9a94-84019f1c4a06/audio/128/default.mp3?aid=rss_feed&awCollectionId=4ca28c43-1b5a-4fc4-bc21-fc9e79754a3a&awEpisodeId=f11fb765-42a0-437d-9a94-84019f1c4a06&feed=dCXMIpJz",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 69396265,
+    "format": "mp3",
+    "geprueft_am": "2026-09-06T10:35:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 2 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "The hosts answer fan questions about fears, weird smells, and music white whales.",
+  "kurzfassung": "The hosts answer fan-submitted questions covering personal fears, strange smells, music white whales, and business philosophies. They discuss their worst travel food experiences, alternate career paths, and dream podcast guests. The episode concludes with thoughts on the future of humanity and everyday snack preferences.",
+  "stichpunkte": [
+    "The hosts discuss their worst fears, ranging from prison and unexpected accidents to medical checkups.",
+    "They share memorable music white whales, including rare vinyl records and lost recordings.",
+    "The conversation covers business strategies, maintaining creative control, and avoiding selling out.",
+    "They reflect on alternative career paths like restaurant management, history teaching, and mortuary work.",
+    "Worst and best food cities on tour are debated, highlighting standout meals in Rochester and New York.",
+    "The hosts share their thoughts on the future of society, climate challenges, and technological dependence.",
+    "They reveal their dream podcast guests, mentioning historical figures and entertainers like Robert Englund and Charles Manson.",
+    "The episode wraps up with discussions about favorite snacks, hard-boiled eggs, and music figures."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T10:35:55+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4336,
+  "veroeffentlicht": "2026-09-04T07:00:00+00:00",
+  "beschreibung": "This week on Last Podcast on the Left, we’re answering your questions and immediately regretting the decision. We’re talking behind-the-scenes stories, final meals, dream podcast guests, and the kind of deeply specific questions that can only come from years of listening to this show... You asked. We answered. Some things probably should have remained private.\n\nFor Live Shows, Merch, and More Visit: www.LastPodcastOnTheLeft.com\nKevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of Last Podcast on the Left ad-free, plus get Friday episodes a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.\n\nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+  "beschreibung_html": "<p>This week on Last Podcast on the Left, we’re answering your questions and immediately regretting the decision. We’re talking behind-the-scenes stories, final meals, dream podcast guests, and the kind of deeply specific questions that can only come from years of listening to this show... You asked. We answered. Some things probably should have remained private.</p>\n<p><p><strong>For Live Shows, Merch, and More Visit: </strong><a href=\"https://linktr.ee/lpontheleft\"><strong>www.LastPodcastOnTheLeft.com</strong></a></p><p>Kevin MacLeod (incompetech.com)<br />Licensed under Creative Commons: By Attribution 4.0 License<br /><a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a></p><p>Subscribe to SiriusXM Podcasts+ to listen to new episodes of Last Podcast on the Left ad-free, plus get Friday episodes a whole week early. Start a free trial now on Apple Podcasts or by visiting <a href=\"siriusxm.com/podcastsplus\" target=\"_blank\">siriusxm.com/podcastsplus</a>. </p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+  "untertitel": "This week on Last Podcast on the Left, we’re answering your questions and immediately regretting the decision. We’re talking behind-the-scenes stories, final meals, dream podcast guests, and the kind of deeply specific questions that can only come from years of listening to this show... You asked. We answered. Some things probably should have remained private.",
+  "folgennummer": 1215
+}

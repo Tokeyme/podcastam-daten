@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007091192",
+  "apple_collection_id": "1841208353",
+  "show": "有啥说啥｜用历史解码当下",
+  "titel": "弑父，乱伦，吞子：《奥德赛》背后的那些古希腊抽象神话",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOWf_SAb29XATIjuzm.m4a?channel=rss&album_id=103041959&track_id=1007091192&uid=233851077&jt=https://aod.cos.tx.xmcdn.com/storages/15ab-audiofreehighqps/35/17/GKwRIUEOWf_SAb29XATIjuzm.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29211996,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T07:49:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨古希腊神话源流、荷马史诗《奥德赛》及其对西方文明与现代文学的深远影响。",
+  "kurzfassung": "本期节目梳理了古希腊神话从混沌初开到奥林匹斯十二主神的发展脉络，重点探讨了荷马史诗《奥德赛》中英雄奥德修斯的智慧与历险故事。主播还延伸讨论了神话元素如何演变为全球文化符号，以及乔伊斯的现代主义名著《尤里希斯》对史诗的解构与对应关系。",
+  "stichpunkte": [
+    "古希腊神话从虚无卡厄斯和大地盖亚讲起，经历了乌拉诺斯与克罗诺斯两代神王的残酷更迭与弑父篡位。",
+    "宙斯联合独眼巨人与百臂巨人推翻泰坦神族，建立奥林匹斯神话体系，并衍生出复杂的家族血统与神话故事。",
+    "大力神赫拉克勒斯历经天后赫拉的迫害与痛苦折磨，最终完成十二项不可能的功绩并升为神明。",
+    "特洛伊战争的真实历史背景并非因海伦而起，实为商业航道的争夺，古代诗人的夸张使其变成了十年战争。",
+    "《奥德赛》全书共24卷，讲述奥德修斯历经十年漂泊，依靠理性与智慧克服独眼巨人、塞雷娜歌声等艰难险阻最终回家的故事。",
+    "奥德修斯与阿喀琉斯代表了不同的英雄原型，前者充满缺点但极具理性与智慧，成为西方文学的重要原型。",
+    "乔伊斯的现代主义小说《尤里希斯》将《奥德赛》的宏大史诗解构并对应到普通推销员布鲁姆平凡的18小时中。",
+    "《尤里希斯》通过意识流的写作手法展现人类意识的流动，体现了现代主义对个体内心世界的关注。"
+  ],
+  "kapitel": [
+    {
+      "titel": "古希腊神话的开端与前两代神王",
+      "start": 4.4
+    },
+    {
+      "titel": "宙斯崛起与奥林匹斯十二主神",
+      "start": 1030.64
+    },
+    {
+      "titel": "大力神赫拉克勒斯的传奇",
+      "start": 2084.38
+    },
+    {
+      "titel": "荷马史诗与《奥德赛》的英雄历险",
+      "start": 2388.02
+    },
+    {
+      "titel": "从《奥德赛》到现代主义名著《尤里希斯》",
+      "start": 3177.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T07:49:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3608,
+  "veroeffentlicht": "2026-08-19T10:00:00+00:00",
+  "beschreibung": "特别提示:本期播客仍然不涉及电影《奥德赛》的任何剧透，反而可以作为背景资料帮助你更好地理解电影。\n\n看完诺兰的《奥德赛》，你是否以为古希腊神话只是英雄回家的史诗？大错特错！本期《有啥说啥》，老罗和斯派克带你直击神话的“原始内核”——你会发现，真实的古希腊神谱，真的是荒诞又重口。\n\n从混沌之神卡俄斯开始，神话就走上了一条“抽象”的不归路：大地之母盖亚与天神乌拉诺斯生下了十二泰坦，而最小的儿子克洛诺斯，竟用镰刀阉割了父亲，完成了第一代“弑父夺位”。然而，诅咒如影随形——恐惧儿子篡位的克洛诺斯，选择吃掉每一个新生儿，直到第六子宙斯用计下药，救出兄弟姐妹，并联合被囚禁的独眼巨人和百臂巨人，发动十年“泰坦战争”才夺得王位。\n\n但宙斯也未能摆脱家族的宿命：他因惧怕预言而吞下怀孕的妻子，结果劈头诞生了全副武装的雅典娜。\n\n《奥德赛》中宙斯为英雄奥德修斯设下重重考验。奥德修斯刺瞎波塞冬之子的“无人”谎言、塞壬歌声下的欲望挣扎，以及回家后“血洗求婚者”的冷静残暴，展现的并非古典式的英勇，而是一种现代人也能共鸣的生存智慧与理性计算。\n\n古希腊神话，对西方文化的塑造是极其深入的，从文学到游戏，已经浸入了西方人甚至现代人生活的方方面面，就让我们一起来探究古希腊神话的魅力吧。\n\n�小红书账号：王悠悠18号 ｜ 罗沙\n\n�听友群(+vx)：youshashuosha2025\n\n�‍�罗老师的“知识宝库”还没掏空！大家还想解锁什么新话题？\n\n� 在评论区留言告诉我！ 或者加入听友群讨论！你的每一个点子，都可能成为下期内容的“专属彩蛋”！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">特别提示:本期播客仍然不涉及电影《奥德赛》的任何剧透，反而可以作为背景资料帮助你更好地理解电影。<br><br><br>看完诺兰的《奥德赛》，你是否以为古希腊神话只是英雄回家的史诗？大错特错！本期《有啥说啥》，老罗和斯派克带你直击神话的“原始内核”——你会发现，真实的古希腊神谱，真的是荒诞又重口。<br><br><br>从混沌之神卡俄斯开始，神话就走上了一条“抽象”的不归路：大地之母盖亚与天神乌拉诺斯生下了十二泰坦，而最小的儿子克洛诺斯，竟用镰刀阉割了父亲，完成了第一代“弑父夺位”。然而，诅咒如影随形——恐惧儿子篡位的克洛诺斯，选择吃掉每一个新生儿，直到第六子宙斯用计下药，救出兄弟姐妹，并联合被囚禁的独眼巨人和百臂巨人，发动十年“泰坦战争”才夺得王位。<br><br><br>但宙斯也未能摆脱家族的宿命：他因惧怕预言而吞下怀孕的妻子，结果劈头诞生了全副武装的雅典娜。<br><br><br>《奥德赛》中宙斯为英雄奥德修斯设下重重考验。奥德修斯刺瞎波塞冬之子的“无人”谎言、塞壬歌声下的欲望挣扎，以及回家后“血洗求婚者”的冷静残暴，展现的并非古典式的英勇，而是一种现代人也能共鸣的生存智慧与理性计算。<br><br><br>古希腊神话，对西方文化的塑造是极其深入的，从文学到游戏，已经浸入了西方人甚至现代人生活的方方面面，就让我们一起来探究古希腊神话的魅力吧。<br><br></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">�小红书账号：王悠悠18号 ｜ 罗沙<br><br><br>�听友群(+vx)：youshashuosha2025<br><br><br>�‍�罗老师的“知识宝库”还没掏空！大家还想解锁什么新话题？<br><br><br>� 在评论区留言告诉我！ 或者加入听友群讨论！你的每一个点子，都可能成为下期内容的“专属彩蛋”！<br><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0e6e-audiofreehighqps/9C/DD/GAqhI8INr04TAAGE3QSIX4oP.jpeg",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "6482974fe68894365dbe79b4",
+  "apple_collection_id": "1690818433",
+  "show": "小A读书圈",
+  "titel": "《查理芒格的原则》07：什么样的公司好赚钱？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64510e947d934b85056f6211/6482974fe68894365dbe79b4/media.xyzcdn.net/llnlzabvSrQJCxCggUFj5hGRJfft.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5579974,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:47:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探究伯克希尔哈萨韦的投资哲学与构筑企业护城河的核心要素。",
+  "kurzfassung": "本期节目深入探讨查理·芒格的投资原则，重点分析伯克希尔·哈萨韦公司的经营模式与选股逻辑。节目指出，相比管理者的素质，公司的商业品质更为关键，并详细列举了构建企业护城河的五个要素。此外，主持人探讨了溢价权的重要性以及商业世界中护城河并非永恒的现实。",
+  "stichpunkte": [
+    "伯克希尔·哈萨韦作为投资集团，将权力和责任下放给子公司，巴菲特与芒格专注于选公司和选人。",
+    "芒格认为理想的投资对象需要兼具高素质的经理人和高质量的护城河。",
+    "在评估企业时，商业模式的品质往往优于CEO的个人素质。",
+    "构建护城河的第一个要素是规模经济，标准化商品和沃尔玛是典型代表。",
+    "网络效应是第二个要素，使用者越多产品越有价值，如亚马逊电商平台。",
+    "品牌效应作为第三个要素，能为商品提供信用倍数与足够的联想。",
+    "监管和知识产权是构建护城河的第四和第五个要素，核心专利能让企业获取巨大收益。",
+    "判断企业是否有护城河的关键在于观察其是否具备产品涨价的溢价权。",
+    "随着技术进步和信息传递改变，护城河被摧毁的速度加快，柯达和传统超市是典型案例。"
+  ],
+  "kapitel": [
+    {
+      "titel": "伯克希尔的经营模式与管理哲学",
+      "start": 21.02
+    },
+    {
+      "titel": "商业模式与护城河的五大要素",
+      "start": 93.64
+    },
+    {
+      "titel": "溢价权与护城河的时效性",
+      "start": 252.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:47:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 344,
+  "veroeffentlicht": "2023-06-09T03:06:55+00:00",
+  "beschreibung": "都说公司赚钱了，员工待遇就差不到哪去，那么什么样的公司才容易赚大钱？芒格列出了五个，有利于构建护城河的基本要素，分别是规模经济、网络效应、品牌效应、监管和知识产权。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>都说公司赚钱了，员工待遇就差不到哪去，那么什么样的公司才容易赚大钱？芒格列出了五个，有利于构建护城河的基本要素，分别是规模经济、网络效应、品牌效应、监管和知识产权。</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/6482974fe68894365dbe79b4?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/FjXs4lh7smJgaiF1o0ovdKWuRSJb.png",
+  "kapitel_quelle": "modell"
+}

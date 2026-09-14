@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_702619033",
+  "apple_collection_id": "1736243802",
+  "show": "音乐DJ串烧",
+  "titel": "热门歌曲集01 （串烧）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOScJjBDiACAAAAKhgjRC.mp3.m4a?channel=rss&album_id=80260455&track_id=702619033&uid=22568365&jt=https://aod.cos.tx.xmcdn.com/storages/43ec-audiofreehighqps/25/74/GMCoOScJjBDiACAAAAKhgjRC.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 180263085,
+    "format": "mp3",
+    "geprueft_am": "2026-09-13T13:21:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; nach 959 Tagen in der Cloud transkribiert, statt weiter auf den Rechner zu warten - das Modell schaetzt Zeitangaben, statt sie zu messen"
+  },
+  "einzeiler": "汇集多首热门歌曲的网络串烧音乐合集。",
+  "kurzfassung": "本期节目带来了一场节奏动感、风格多变的华语流行音乐串烧。串烧包含了多首在网络上广受欢迎的曲目，通过DJ混音的形式将不同的旋律与节奏串联在一起。整场演出充满了欢快的氛围与动感的节拍，为听众带来丰富的听觉体验。",
+  "stichpunkte": [
+    "节目开场带来多首热门网络歌曲的串烧，融合了深情与动感的旋律。",
+    "中间穿插了多首脍炙人口的情歌与DJ舞曲风格的节奏变化。",
+    "歌词涵盖了对爱情的执着、思念以及成长过程中的感悟。",
+    "后半部分延续了欢快的节奏，并融入了富有地方特色的喊麦与DJ元素。",
+    "最后以颂扬中华汉字文化的歌曲作为串烧的收尾，展现传统与现代的结合。"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-13T13:21:14+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4506,
+  "veroeffentlicht": "2024-01-28T12:52:29+00:00",
+  "beschreibung": "热门歌曲集01 （串烧）",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">热门歌曲集01 （串烧）<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a359-audiofreehighqps/3D/9C/GKwRIDoJjAJaAAJ4ngKhe6Y0.jpeg",
+  "folgennummer": 1
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_595292574",
+  "apple_collection_id": "1659321272",
+  "show": "音乐治疗 ｜ 古筝曲 ｜ 轻音乐 ｜ 3D助眠音乐",
+  "titel": "漂洋过海",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIHaM2yACQJVAHeZYeG.m4a?channel=rss&album_id=73103077&track_id=595292574&uid=93422768&jt=https://aod.cos.tx.xmcdn.com/storages/af1a-audiofreehighqps/9D/31/GKwRIJIHaM2yACQJVAHeZYeG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2361684,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:25:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "本期节目播放了李宗盛的歌曲作品。",
+  "kurzfassung": "本期节目主要内容为李宗盛的音乐作品。音频中多次重复播放了由李宗盛作词、作曲并演唱的歌曲。整体内容专注于音乐本身。",
+  "stichpunkte": [
+    "节目开篇播放李宗盛的歌曲",
+    "歌曲由李宗盛作词和作曲",
+    "演唱者为李宗盛本人"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲播放",
+      "start": 0.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:25:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 291,
+  "veroeffentlicht": "2022-12-09T10:15:06+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0682-audiofreehighqps/65/DF/GMCoOR8HaorPAABdYgHe_aeN.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

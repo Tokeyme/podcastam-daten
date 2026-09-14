@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "acee755b-e80d-4c4a-95d8-b4ab007f0b4b",
+  "apple_collection_id": "1896417336",
+  "show": "Bill and Giuliana: The Podcast",
+  "titel": "Can you really be friends with your ex??",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eeaff8cc-88f0-4ea6-a53e-b44300b8ee07/acee755b-e80d-4c4a-95d8-b4ab007f0b4b/audio.mp3?utm_source=Podcast&in_playlist=b1cb5f26-bfdc-4180-9bbc-b44300b8f247",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 57532285,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:09:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Can you remain best friends with your ex? Chris and Alice share their story.",
+  "kurzfassung": "Chris Princess and Alice Hampton were married, divorced, and are now best friends who talk every day. They discuss how they met on Bumble, the challenges of IVF, and why mutual respect kept their split completely amicable. Today, they remain closely involved in each other's lives, sharing holidays and supporting one another.",
+  "stichpunkte": [
+    "Chris and Alice met on Bumble over a decade ago and married within 18 months.",
+    "Alice built a successful talent management company representing top creators and brands.",
+    "The couple went through seven rounds of IVF and lost two boys, which took a heavy emotional toll.",
+    "Disagreements over where to live—Santa Barbara versus Chicago—ultimately led to their separation.",
+    "Their divorce was entirely amicable, costing only four hundred dollars in legal fees.",
+    "They maintain a close friendship, share holidays, and even talk about their dating lives.",
+    "Both emphasize that choosing to avoid drama and holding onto mutual respect made their unique post-divorce relationship possible."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction",
+      "start": 3.4
+    },
+    {
+      "titel": "How They Met",
+      "start": 114.56
+    },
+    {
+      "titel": "The Marriage and the Catalyst for Divorce",
+      "start": 340.4
+    },
+    {
+      "titel": "Navigating the Split Amicably",
+      "start": 806.0
+    },
+    {
+      "titel": "Dating After Divorce and Remaining Best Friends",
+      "start": 1387.16
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Swiping on Bumble",
+      "start": 114.939,
+      "ende": 137.665,
+      "laenge": 22.73,
+      "byte_start": 1874915,
+      "byte_ende": 2238538,
+      "bytes": 363624,
+      "range_header": "bytes=1874915-2238538",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 115.017,
+      "anker_sha256": "0f7140951d5c61ef5dd74be3acfb1e9e72314c022f58f94f1a046729aafa9899",
+      "einblendung_ms": 60,
+      "text": "The hosts transition into their main program after a promotional spot for a different true crime series."
+    },
+    {
+      "hook": "The heavy toll of IVF",
+      "start": 495.778,
+      "ende": 515.866,
+      "laenge": 20.09,
+      "byte_start": 7968341,
+      "byte_ende": 8289751,
+      "bytes": 321411,
+      "range_header": "bytes=7968341-8289751",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 495.856,
+      "anker_sha256": "4b97346214108a946cd2aabe6534005cf7a9f3f98e9ba4f875d5234b18cc7651",
+      "einblendung_ms": 60,
+      "text": "An entrepreneur named Alice details the initial phase of launching her own business after a moment of confusion."
+    },
+    {
+      "hook": "A wild prenuptial agreement clause",
+      "start": 1191.549,
+      "ende": 1211.664,
+      "laenge": 20.11,
+      "byte_start": 19100684,
+      "byte_ende": 19422511,
+      "bytes": 321828,
+      "range_header": "bytes=19100684-19422511",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1191.628,
+      "anker_sha256": "d50a27d4a6c189cf1c579476b912310b2740543e30e7496c0f697f934a9f5fde",
+      "einblendung_ms": 60,
+      "text": "A speaker expresses strong frustration with the intelligence of people around them."
+    },
+    {
+      "hook": "Do they still hook up?",
+      "start": 1401.705,
+      "ende": 1421.819,
+      "laenge": 20.11,
+      "byte_start": 22463165,
+      "byte_ende": 22784992,
+      "bytes": 321828,
+      "range_header": "bytes=22463165-22784992",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1401.783,
+      "anker_sha256": "d6a1bdeb04f6d5a2424d4db9949bc95aac9b6311f4c9084fb78aef01f7710003",
+      "einblendung_ms": 60,
+      "text": "The conversation shifts to the emotional difficulty of failed family expectations and shared fertility treatments."
+    },
+    {
+      "hook": "A four-hundred-dollar divorce",
+      "start": 2321.398,
+      "ende": 2341.486,
+      "laenge": 20.09,
+      "byte_start": 37178253,
+      "byte_ende": 37499662,
+      "bytes": 321410,
+      "range_header": "bytes=37178253-37499662",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2321.476,
+      "anker_sha256": "4d8aa60164b9bc1b6a5a577ceb3628517ee77c6e727e47cc615808706d6907c6",
+      "einblendung_ms": 60,
+      "text": "The episode wraps up with a promotional mention for another audio program before the sign-off."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:09:38+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2739,
+  "veroeffentlicht": "2026-08-19T11:00:00+00:00",
+  "beschreibung": "Bill and Giuliana sit down with their close friends Alice and Chris, who went from being married to getting divorced and now they are currently best friends. They share the secrets to staying friends with an ex, how they avoided the usual post-divorce drama and why ending a marriage doesn’t always mean losing someone you love. Plus, could these two ever get back together? Their answers might surprise you.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Bill and Giuliana sit down with their close friends Alice and Chris, who went from being married to getting divorced and now they are currently&nbsp;best friends. They share the secrets to staying friends with an ex, how they avoided the usual post-divorce drama and why ending a marriage doesn&rsquo;t always mean losing someone you love. Plus, could these two ever get back together? Their answers might surprise you.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/eeaff8cc-88f0-4ea6-a53e-b44300b8ee07/image.jpg?t=1778152408&size=Large",
+  "kapitel_quelle": "modell"
+}

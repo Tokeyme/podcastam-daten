@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group75/M03/36/88/wKgO015bNVKBzLeIBguH1A7oVos287.mp3",
+  "apple_collection_id": "1471749688",
+  "show": "行迹访谈室",
+  "titel": "跟曾在英国大使馆工作的老北京聊聊童年往事",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgO015bNVKBzLeIBguH1A7oVos287.mp3.m4a?channel=rss&album_id=23966281&track_id=261362210&uid=84788182&jt=https://aod.cos.tx.xmcdn.com/group75/M03/36/88/wKgO015bNVKBzLeIBguH1A7oVos287.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 101418964,
+    "format": "mp3",
+    "geprueft_am": "2026-08-26T05:53:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "老北京人忆童年简易楼与大杂院的生活变迁",
+  "kurzfassung": "节目中一位老北京人回忆了自己童年住在简易楼和大杂院的往事，讲述了当时邻里温情与物资匮乏的生活细节。对比今昔，嘉宾探讨了北京城在住房、教育和城市规划方面的巨大变化。尽管怀念过去的温情，但嘉宾认为现代社会的生活与教育水平有了显著提升。",
+  "stichpunkte": [
+    "回忆童年简易楼和大杂院的居住环境，虽然邻里关系温情但生活条件简陋。",
+    "讲述计划经济时期的凭票供应以及冬天买白菜、拉煤的过冬记忆。",
+    "对比今昔住房条件，认为虽然过去有人情味，但充满不便与邻里矛盾。",
+    "探讨现代大都市的教育内卷、阶层分层以及家庭责任缺失的问题。",
+    "讨论北京城市行政区划调整（如宣武区合并）带来的情感遗憾。",
+    "分享在北京生活的心态转变，强调应向前看并肯定国家的发展进步。",
+    "推荐北京南城、前门三里河等保留老北京痕迹的游玩去处。"
+  ],
+  "kapitel": [
+    {
+      "titel": "简易楼与大杂院的童年生活",
+      "start": 450.0
+    },
+    {
+      "titel": "物资匮乏的过冬记忆：买白菜与拉煤",
+      "start": 1012.7
+    },
+    {
+      "titel": "今昔教育对比与内卷压力",
+      "start": 1772.8
+    },
+    {
+      "titel": "城市变迁与老宣武区的消失",
+      "start": 3240.78
+    },
+    {
+      "titel": "老北京的游玩推荐与结语",
+      "start": 3796.34
+    }
+  ],
+  "clips": [
+    {
+      "hook": "简易楼非常开放，有的条件简陋到连厨房都是公用的。",
+      "start": 519.34,
+      "ende": 539.873,
+      "laenge": 20.53,
+      "byte_start": 12306184,
+      "byte_ende": 12787955,
+      "bytes": 481772,
+      "range_header": "bytes=12306184-12787955",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 519.419,
+      "anker_sha256": "6c6933b43d9e44f8617185b4b5c2569cc8f54ea9635068f9a8a3dc02cf3c9877",
+      "einblendung_ms": 60,
+      "text": "回忆老北京简易楼里各家共用厕所和厨房的集体生活场景。"
+    },
+    {
+      "hook": "一米宽一米长半米高的一堆白菜，就是今年冬天的全部指望。",
+      "start": 1251.5,
+      "ende": 1271.615,
+      "laenge": 20.11,
+      "byte_start": 29426857,
+      "byte_ende": 29890260,
+      "bytes": 463404,
+      "range_header": "bytes=29426857-29890260",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1251.579,
+      "anker_sha256": "fa1f609ebb52ea18c487bd51a708b62808a0fd691d210723a602bb50559a8572",
+      "einblendung_ms": 60,
+      "text": "描述过去居民囤积过冬蜂窝煤时的具体堆放尺寸和数量。"
+    },
+    {
+      "hook": "我的高考英语成绩，比我们学校第二名还能高出三四十分。",
+      "start": 1962.71,
+      "ende": 1982.824,
+      "laenge": 20.11,
+      "byte_start": 45887511,
+      "byte_ende": 46351015,
+      "bytes": 463505,
+      "range_header": "bytes=45887511-46351015",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1962.789,
+      "anker_sha256": "5b00e46e9aed82eaddb1ccb6cff87928d9a766cb99d21d4d3599d9617e365331",
+      "einblendung_ms": 60,
+      "text": "讲述高考时英语成绩大幅领先全校第二名三四十分的经历。"
+    },
+    {
+      "hook": "他爸是在新疆骑车呢，根本没时间陪自己的儿子。",
+      "start": 2483.069,
+      "ende": 2503.184,
+      "laenge": 20.11,
+      "byte_start": 57947438,
+      "byte_ende": 58405931,
+      "bytes": 458494,
+      "range_header": "bytes=57947438-58405931",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2483.148,
+      "anker_sha256": "f2b8fa73017bb4831019f9b86c39e79b47f8b9fb424a12b314f30c68304f83d9",
+      "einblendung_ms": 60,
+      "text": "谈及看到朋友展示父亲当年在新疆骑自行车老照片时的惊讶反应。"
+    },
+    {
+      "hook": "宣武区没了，名字变了就感觉自己家里没了。",
+      "start": 3387.115,
+      "ende": 3407.203,
+      "laenge": 20.09,
+      "byte_start": 78917598,
+      "byte_ende": 79386851,
+      "bytes": 469254,
+      "range_header": "bytes=78917598-79386851",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3387.193,
+      "anker_sha256": "b249538f21082d613d805f7f22135b0f7a01c85accad6c32f970f6415a23191d",
+      "einblendung_ms": 60,
+      "text": "感慨旧楼拆迁后虽然平时不留恋但想怀旧时却已无处寻觅的失落。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-26T05:53:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4357,
+  "veroeffentlicht": "2020-03-01T04:11:55+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group77/M0B/2A/17/wKgO315bNc_iHaptAAlN5G2K5CU195.JPG",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

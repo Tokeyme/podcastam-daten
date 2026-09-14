@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_934290194",
+  "apple_collection_id": "1089042836",
+  "show": "一兔为快 | 娱乐脱口秀",
+  "titel": "一兔为快251124 成年人的世界很多无奈 我们依然要等待花开",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoM-eUgAG7ysgQ7UBqP.m4a?channel=rss&album_id=3039687&track_id=934290194&uid=34596497&jt=https://aod.cos.tx.xmcdn.com/storages/8123-audiofreehighqps/28/C9/GKwRIDoM-eUgAG7ysgQ7UBqP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7271090,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T21:01:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "成年人的世界充满无奈与压力，但我们要学会放低期待，耐心等待花开。",
+  "kurzfassung": "主播兔小慧分享了近期与资深前辈交流、回老家探亲以及外出旅游的经历与感悟。她谈到了成年人在生活与工作中的种种无奈、如何克服内耗，以及追星时的双向奔赴。最后，她鼓励大家在岁月中保持善良与勇敢，耐心等待属于自己的花期。",
+  "stichpunkte": [
+    "放低期待值可以减少生活中的内耗，让所有的到来都变成惊喜。",
+    "与行业前辈的偶遇与交流让主播意识到，勇敢表达自我和就事论事非常重要。",
+    "回老家探望长辈时感受到家庭琐事的无奈，体会到成年人生活的艰难。",
+    "十一期间前往徐州品尝美食、去上海观看网球比赛和唐汉潇的Livehouse，收获了满满的快乐与共鸣。",
+    "随着年龄增长，不再去纠结传统意义上按部就班的日子，而是学会不再让别人的不专业影响自己。",
+    "做自己是人生中最重要的课题，虽然受制于很多东西，但要保持善良正直。",
+    "面对配音作品中的争议，主播学会了正视差评与好评，坚持坚定地往下走。",
+    "坚信自己这朵花只是花期未到，要在绽放前尽可能让自己开心、快乐和幸福。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开篇感悟与前辈交流",
+      "start": 3.78
+    },
+    {
+      "titel": "回乡探亲与成年人的无奈",
+      "start": 241.24
+    },
+    {
+      "titel": "假期旅行与生活状态",
+      "start": 506.96
+    },
+    {
+      "titel": "自我成长与等待花开",
+      "start": 579.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T21:01:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 898,
+  "veroeffentlicht": "2025-11-24T09:14:36+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group33/M00/32/C2/wKgJTFnSd2KD2qqYAAOq5faYrbM200.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

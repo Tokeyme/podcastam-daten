@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "6968f0bcef1cf272a792dd4b",
+  "apple_collection_id": "1742505289",
+  "show": "电影山海经",
+  "titel": "21.2026上海影展新年旧气象",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/662075a3d12dc4aea29896b3/6968f0bcef1cf272a792dd4b/media.xyzcdn.net/662075a3d12dc4aea29896b3/lv2oN2SmQrMI4Iyi5NwzKuS7E3NM.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15557711,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T05:30:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾2025年上海日常影展表现，分析票房数据、审批困境及对未来的展望。",
+  "kurzfassung": "播客回顾了2025年上海日常影展的整体情况，指出审批流程滞后和假期对影展安排的影响。主播通过分享多个影展的票房数据与协助宣传的经历，强调了冷门电影坚持在大厅放映的重要性。最后，节目展望了2026年的影展计划，并结合个人经历表达了对电影行业变迁的感慨。",
+  "stichpunkte": [
+    "2025年上海日常影展数量达到30余个，但1月和11月完全空白",
+    "审批流程缓慢与节假日重合导致影展筹备周期紧张，拷贝获取困难",
+    "法国电影修复展通过提前宣传，夺得2025年度上海日常影展票房冠军",
+    "德飞英回顾展和绝美之城意大利影展预售曾一度失利，经协助宣传后票房表现显著回升",
+    "反对为了追求场场满座而将冷门影展缩小规模，坚持大厅放映以保持多元发展",
+    "葡萄牙电影展与阿根廷电影大使展证明，冷门影展经过精心策划能够吸引观众并实现回本",
+    "中外电影修复展操作难度极大，让主播深刻认识到上海在某些方面依然存在差距",
+    "2026年前两个月预计将出现空窗期，最快需等到3月才有新影展推出"
+  ],
+  "kapitel": [
+    {
+      "titel": "开篇与2025年影展回顾背景",
+      "start": 13.78
+    },
+    {
+      "titel": "审批周期、档期冲突与拷贝获取",
+      "start": 158.98
+    },
+    {
+      "titel": "票房数据分析与多场影展救援经历",
+      "start": 305.98
+    },
+    {
+      "titel": "影厅选择之争与冷门影展的价值",
+      "start": 468.16
+    },
+    {
+      "titel": "2025年总结与2026年展望",
+      "start": 783.84
+    },
+    {
+      "titel": "方言特别节目与个人电影记忆感慨",
+      "start": 885.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T05:30:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1160,
+  "veroeffentlicht": "2026-01-16T16:00:00+00:00",
+  "beschreibung": "00:15 2026年更新占坑\n05:52 在我的影展之外的几个闲事\n14:45 沪语：看《一一》的UHD\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>00:15 2026年更新占坑</p><p>05:52 在我的影展之外的几个闲事</p><p>14:45 沪语：看《一一》的UHD</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6968f0bcef1cf272a792dd4b?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqQIPEjVr6aU2a1bHUPRce25mTcw.png",
+  "kapitel_quelle": "modell"
+}

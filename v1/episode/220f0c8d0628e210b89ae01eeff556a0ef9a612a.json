@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_948862875",
+  "apple_collection_id": "1848022393",
+  "show": "《科幻新闻早知道》｜全球科技科幻新闻直通车",
+  "titel": "我国申请20万卫星资源，迈向“星海”新时代",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUENPAo3ACvQJQRYuCw4.m4a?channel=rss&album_id=108770848&track_id=948862875&uid=225309676&jt=https://aod.cos.tx.xmcdn.com/storages/a295-audiofreehighqps/ED/31/GKwRIUENPAo3ACvQJQRYuCw4.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2871333,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:06:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "我国向国际电信联盟申请20.3万颗卫星资源，迈向星海新时代。",
+  "kurzfassung": "我国正式向国际电信联盟提交了超过20万颗卫星的频率与轨道资源申请。这一宏大计划标志着我国在卫星互联网和空天地一体化信息网络建设上迈出关键一步。节目从科幻视角深入探讨了该计划对全球基础设施、空间治理和弥合数字鸿沟的深远影响。",
+  "stichpunkte": [
+    "我国向国际电信联盟提交总计20.3万颗卫星的频率与轨道资源申请",
+    "申请规模远超当前全球现有活跃卫星数量的总和",
+    "国际电信联盟负责全球无线电频谱和卫星轨道资源的协调分配",
+    "该计划旨在构建自主可控且覆盖全球的空天地一体化信息网络",
+    "如同为地球搭建行星级传感系统，实现全息监测与原子级管理",
+    "庞大星座计划将倒逼全人类加速建立近地空间交通与资源管理国际公约",
+    "高速卫星互联网有望从物理层面最终抹平全球数字鸿沟",
+    "标志着人类利用近地空间的方式从零星点缀进入星座纪元"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目导入与我国申请20万卫星资源背景",
+      "start": 0.0
+    },
+    {
+      "titel": "国际电信联盟的作用与空天地一体化构想",
+      "start": 65.08
+    },
+    {
+      "titel": "第一展望：全球神经末梢基础设施的革命",
+      "start": 122.48
+    },
+    {
+      "titel": "第二展望：空间治理的新纪元与交通公约挑战",
+      "start": 182.7
+    },
+    {
+      "titel": "第三展望：弥合数字鸿沟与文明知识共享网络",
+      "start": 245.7
+    },
+    {
+      "titel": "结语：向成熟太空文明物种转型的关键节点",
+      "start": 297.92
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:06:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 354,
+  "veroeffentlicht": "2026-01-13T13:22:45+00:00",
+  "beschreibung": "2025年末，我国向国际电信联盟正式提交了20.3万颗卫星的频率与轨道资源申请。这一前所未有的规模，不仅展现了我国在太空基础设施建设领域的宏大规划，更可能深刻改变全球近地空间的利用格局。我们将结合《三体》的“星海”概念、《星际迷航》的“中立区”原则与《银河系漫游指南》的宇宙互联愿景，探讨这一行动对未来全球连接、科学探索与国际空间治理体系的深远意义。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>2025年末，我国向国际电信联盟正式提交了20.3万颗卫星的频率与轨道资源申请。这一前所未有的规模，不仅展现了我国在太空基础设施建设领域的宏大规划，更可能深刻改变全球近地空间的利用格局。我们将结合《三体》的“星海”概念、《星际迷航》的“中立区”原则与《银河系漫游指南》的宇宙互联愿景，探讨这一行动对未来全球连接、科学探索与国际空间治理体系的深远意义。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/009c-audiofreehighqps/EC/A5/GKwRIasNPAoCAAgjcwRYt_nm.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

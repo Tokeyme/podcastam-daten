@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_677336172",
+  "apple_collection_id": "1713489384",
+  "show": "中国职场潜规则36讲实操演练",
+  "titel": "第36讲 职场吹牛法则：吹一个有水准的牛",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4JDkJFAIDv5wJzNb2F.m4a?channel=rss&album_id=78809736&track_id=677336172&uid=178303752&jt=https://aod.cos.tx.xmcdn.com/storages/0f02-audiofreehighqps/B9/D1/GKwRIW4JDkJFAIDv5wJzNb2F.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8450023,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:59:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "职场高情商夸人法则：捧须不捧实，捧抽象不捧具体。",
+  "kurzfassung": "由于人们对他人评价往往低于实际、且自身认知存在偏差，需要通过厚着脸皮高抬对方来弥补客观差距。夸奖的核心在于“捧虚不捧实、捧抽象不捧具体”。节目具体总结了涵盖德性、品性、智慧等方面的十条职场夸人法则。",
+  "stichpunkte": [
+    "每个人都以自我为中心，对他人评价往往偏低，需要通过高抬对方来接近客观真实。",
+    "夸奖的基本法则是“捧须不捧实，捧抽象不捧具体”，避免因评价具体事物而造成羞辱。",
+    "第一条法则：评品人的德性，利用无法证实和衡量的宏大道德进行夸奖。",
+    "第二条法则：评人的品性，通过正话反说的方式委婉评价对方的品行。",
+    "第三条和第四条法则：分别评品对方的智慧与威权，顺应其自我认知。",
+    "第五条至第七条法则：评品身体健康、才情以及领导能力，肯定其不易量化的能力。",
+    "第八条至第十条法则：评品涵养气度、审美能力以及颜值，直击每个人自我感觉良好的内心。",
+    "掌握这十条法则不仅能提升情商，也能让对世界的认知更趋于公正。"
+  ],
+  "kapitel": [
+    {
+      "titel": "职场评价的基本法则：捧虚不捧实",
+      "start": 0.0
+    },
+    {
+      "titel": "职场夸人的前五条法则：德性、品性、智慧、威权与身体",
+      "start": 158.44
+    },
+    {
+      "titel": "职场夸人的后五条法则：才情、领导力、气度、审美与颜值",
+      "start": 590.86
+    },
+    {
+      "titel": "总结十条法则与提升情商",
+      "start": 967.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:59:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1043,
+  "veroeffentlicht": "2023-10-25T02:36:20+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/87da-audiofreehighqps/53/62/GMCoOSAJDkAbAAbexAJzNHat.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

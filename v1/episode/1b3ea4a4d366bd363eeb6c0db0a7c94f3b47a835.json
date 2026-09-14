@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_683091759",
+  "apple_collection_id": "1716124973",
+  "show": "认知心理学：开启认识世界的全新大门",
+  "titel": "001：第8版译者序",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIJI_7lAB1jBgJ7fk7B.m4a?channel=rss&album_id=79081223&track_id=683091759&uid=42087099&jt=https://aod.cos.tx.xmcdn.com/storages/97eb-audiofreehighqps/D1/21/GKwRIaIJI_7lAB1jBgJ7fk7B.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1925894,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:50:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾认知心理学家索尔索的生平及其经典教材第八版的中译本序言。",
+  "kurzfassung": "本集内容为《第八版译者序》，回顾了已故心理学家索尔索的生平、学术成就及其在认知心理学领域的开创性贡献。节目详细介绍了该书第八版的内容涵盖范围、宏观叙述特点以及人工智能等前沿话题。最后，译者邵志芳对参与翻译工作的学生表达了感谢。",
+  "stichpunkte": [
+    "介绍本书作者索尔索的生平经历与教育背景",
+    "索尔索曾任内华达州里诺大学心理学系主任及多项重要学术职务",
+    "索尔索一生撰写大量专著与教材，被视为认知心理学教材的开路先锋",
+    "第八版中译本的出版是对已故作者索尔索的深切纪念",
+    "教材内容涵盖感觉、记忆、语言、人工智能等广泛领域",
+    "本书注重从宏观上叙述和思考认知心理学的理论、模型与实验",
+    "首尾两章分别探讨认知心理学发展逻辑与一般教材忽略的人工智能问题",
+    "本译本在第七版基础上修订而成，感谢黄洪言和吴惠宁等学生的协助"
+  ],
+  "kapitel": [
+    {
+      "titel": "作者索尔索生平介绍",
+      "start": 0.0
+    },
+    {
+      "titel": "索尔索的学术贡献与教材地位",
+      "start": 86.26
+    },
+    {
+      "titel": "第八版教材内容与特点",
+      "start": 122.08
+    },
+    {
+      "titel": "译后记与鸣谢",
+      "start": 213.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:50:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 237,
+  "veroeffentlicht": "2023-11-10T14:19:08+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2c82-audiofreehighqps/B0/8D/GMCoOScJI-mUAAPrzQJ7ciV6.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

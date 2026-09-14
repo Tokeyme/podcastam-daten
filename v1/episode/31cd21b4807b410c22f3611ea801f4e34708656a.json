@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_652474622",
+  "apple_collection_id": "1701795080",
+  "show": "饮食的悖论：你以为健康的食物可能并不健康",
+  "titel": "001：前言：胖不是你的错",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIImjaIAHXgkgI_2G_A.m4a?channel=rss&album_id=77286569&track_id=652474622&uid=42087099&jt=https://aod.cos.tx.xmcdn.com/storages/6e59-audiofreehighqps/66/59/GKwRIaIImjaIAHXgkgI_2G_A.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7725202,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T00:28:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨肥胖与健康问题的根源，揭示植物蛋白凝集素对身体的隐秘影响。",
+  "kurzfassung": "本书指出传统的饮食和健身观念可能存在误区，肥胖和多种健康问题并非个人之过。作者结合自身从医及研究经历，揭示了植物蛋白等隐藏因素对免疫系统和身体造成的负面影响。通过调整饮食结构与生活方式，人们可以有效逆转健康危机，恢复活力与健康体重。",
+  "stichpunkte": [
+    "传统减肥和健身方法往往无法带来持久效果，超重和健康问题不应归咎于个人懒惰。",
+    "许多现代健康问题（如肥胖、自身免疫性疾病等）自20世纪60年代中期以来急剧增长，与饮食和保健品的变化密切相关。",
+    "凝集素是植物为了抵御昆虫等天敌而产生的一种植物蛋白，也是隐藏在许多健康食品背后的健康隐患。",
+    "身体的细胞和代谢机制可能因日常饮食和药物发生改变，但这种改变可以通过调整饮食来逆转。",
+    "作者具有深厚的医学背景，曾任耶鲁大学毕业、佐治亚医学院医学博士及心胸外科主任，拥有丰富的临床和研究经验。",
+    "通过对大量患者的测试与研究，作者发现某些常见食物、化学物质及非甾体抗炎药会严重干扰身体的自我恢复能力。",
+    "植物悖论饮食计划包含蔬菜、优质蛋白、部分水果和坚果等，同时建议避免穀物、豆类和精制油。",
+    "本书后续内容包括排毒计划、肠道修复方法、三阶段饮食计划以及生酮重症护理计划，旨在帮助读者全面恢复健康。"
+  ],
+  "kapitel": [
+    {
+      "titel": "前言与健康困境的反思",
+      "start": 0.0
+    },
+    {
+      "titel": "探寻导致肥胖与生病的植物毒素",
+      "start": 298.62
+    },
+    {
+      "titel": "作者的医学背景与研究发现",
+      "start": 453.52
+    },
+    {
+      "titel": "植物悖论饮食计划与未来规划",
+      "start": 792.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T00:28:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 954,
+  "veroeffentlicht": "2023-07-29T02:02:38+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d3c8-audiofreehighqps/1D/CF/GMCoOSUImjU-AAbahAI_1-Tg.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

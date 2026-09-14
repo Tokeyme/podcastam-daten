@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_961027908",
+  "apple_collection_id": "1879265618",
+  "show": "体育狂热季",
+  "titel": "NBA 25-26赛季常规赛3月7日比赛前瞻和预测",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4NgI1uACqBVgR1Ya5t.m4a?channel=rss&album_id=117165884&track_id=961027908&uid=590563666&jt=https://aod.cos.tx.xmcdn.com/storages/bb36-audiofreehighqps/BC/AB/GKwRIW4NgI1uACqBVgR1Ya5t.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2785622,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:40:26+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "NBA 25-26赛季常规赛3月7日比赛前瞻和预测",
+  "kurzfassung": "本期节目对NBA 25-26赛季常规赛3月7日的重点比赛进行了前瞻和预测。重点分析了热火对阵黄蜂以及尼克斯对阵掘金的焦点战。同时简要概述了其他多场常规赛的对阵形势与胜负预测。",
+  "stichpunkte": [
+    "热火对阵黄蜂：黄蜂迎来克努佩尔后实力大增，热火则受困于伤病，预计黄蜂主场取胜",
+    "尼克斯对阵掘金：掘金面临严重伤病且背靠背作战，尼克斯体能更占优势，预计尼克斯客场取胜",
+    "独行侠对阵凯尔特人：独行侠背靠背作战，凯尔特人大概率取胜",
+    "开拓者对阵火箭：火箭实力优于缺少夏普和阿夫迪亚的开拓者",
+    "鹈鹕对阵太阳：太阳内线缺少马威，能否抵挡锡安的冲击受到质疑",
+    "快船对阵马刺：小卡重回圣安东尼奥，缺少加兰和克林斯的快船难以战胜马刺",
+    "步行者对阵湖人：缺少哈利伯顿和祖巴斯的步行者难以对湖人构成威胁"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与热火对黄蜂前瞻",
+      "start": 5.66
+    },
+    {
+      "titel": "尼克斯对掘金前瞻",
+      "start": 179.08
+    },
+    {
+      "titel": "其他场次比赛速览与结语",
+      "start": 277.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:40:26+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 343,
+  "veroeffentlicht": "2026-03-06T12:36:44+00:00",
+  "beschreibung": "NBA常规赛已经进入后半程冲刺阶段，柯尼普尔和三球能否继续带领黄蜂击败身前的热火，约老师又能否背靠背带领掘金击败来犯的尼克斯，小卡再次到访圣安东尼奥那个梦开始的地方这回是身披快船的球衣他将给我们带来怎样的精彩比赛呢。接下来我将给大家带来节目的第15期，北京时间3月7日NBA常规赛的前瞻和预测。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">NBA常规赛已经进入后半程冲刺阶段，柯尼普尔和三球能否继续带领黄蜂击败身前的热火，约老师又能否背靠背带领掘金击败来犯的尼克斯，小卡再次到访圣安东尼奥那个梦开始的地方这回是身披快船的球衣他将给我们带来怎样的精彩比赛呢。接下来我将给大家带来节目的第15期，北京时间3月7日NBA常规赛的前瞻和预测。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d472-audiofreehighqps/92/CA/GAqhfZkNbjnEAA0NMgRtvKJu.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

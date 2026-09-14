@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "guid": "2abaa0a0-2a49-4d5a-804d-b4ac0178f5d7",
+  "apple_collection_id": "1224965828",
+  "show": "The Late-Round Fantasy Football Podcast",
+  "titel": "Late-Round Perspectives: Chris Harris Returns",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0a233618-d694-4c81-a139-b34e00f98fb1/2abaa0a0-2a49-4d5a-804d-b4ac0178f5d7/audio.mp3?utm_source=Podcast&in_playlist=5747cc82-33a9-497c-8353-b34e00f98fbe",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 66837588,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:41:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Chris Harris joins to discuss his new book and fantasy football draft strategies.",
+  "kurzfassung": "Podcast host Chris Harris discusses his upcoming football-themed novel \"Pound Foolish\" and reflects on the moral complexities of following professional football. The conversation shifts to fantasy football draft strategies, where Harris and the host debate running back valuation, wide receiver depth, and player evaluation pitfalls. They also analyze several notable player battles, team backfields, and wide receiver prospects ahead of the new season.",
+  "stichpunkte": [
+    "Chris Harris discusses his new football-themed novel \"Pound Foolish\" and his upcoming reading tour.",
+    "The hosts reflect on the moral compromises and emotional toll of engaging with professional football.",
+    "Harris emphasizes that running backs remain the most scarce commodity in fantasy football drafts.",
+    "The wide receiver position is described as extremely deep and flat beyond a few elite options.",
+    "Harris and the host discuss overreliance on combine forty times, specifically using Amari Hampton as an example.",
+    "The conversation covers college production profiles, including the evaluation of Jenarium Price.",
+    "Breakdown of team backfield situations including New England and Pittsburgh.",
+    "Analysis of wide receiver matchups like Luther Burden versus Rome Odunze and Brian Thomas versus Parker Washington."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and \"Pound Foolish\"",
+      "start": 0.52
+    },
+    {
+      "titel": "Moral Complexities of Professional Football",
+      "start": 141.56
+    },
+    {
+      "titel": "Fantasy Football Draft Strategies and Running Back Valuation",
+      "start": 629.24
+    },
+    {
+      "titel": "Wide Receiver Depth and Combine Overreliance",
+      "start": 1122.0
+    },
+    {
+      "titel": "College Production Profiles and Team Backfields",
+      "start": 2188.52
+    },
+    {
+      "titel": "Notable Wide Receiver Battles and Final Thoughts",
+      "start": 2990.16
+    }
+  ],
+  "clips": [
+    {
+      "hook": "A football team with a serial killer on the roster",
+      "start": 147.67,
+      "ende": 168.464,
+      "laenge": 20.79,
+      "byte_start": 2417283,
+      "byte_ende": 2749977,
+      "bytes": 332695,
+      "range_header": "bytes=2417283-2749977",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 147.749,
+      "anker_sha256": "a80e3859844076138ffaf31c383029669a6e24a994becc863659ba1bfd8c9d57",
+      "einblendung_ms": 60,
+      "text": "A comparison is drawn between a modern NFL running back and Danny Woodhead's tenure with the New England Patriots."
+    },
+    {
+      "hook": "Billionaires and the lucky sperm club",
+      "start": 266.449,
+      "ende": 293.146,
+      "laenge": 26.7,
+      "byte_start": 4317743,
+      "byte_ende": 4744896,
+      "bytes": 427154,
+      "range_header": "bytes=4317743-4744896",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 266.527,
+      "anker_sha256": "e9516f081bffc95e42ec5e1eb92c0d11e9476ff08a02dd616a619a022f56d655",
+      "einblendung_ms": 60,
+      "text": "The hosts discuss the physical sacrifices, constant roster turnover, and behavioral issues players endure."
+    },
+    {
+      "hook": "The numbers game of positional scarcity",
+      "start": 701.544,
+      "ende": 727.275,
+      "laenge": 25.73,
+      "byte_start": 11279271,
+      "byte_ende": 11690960,
+      "bytes": 411690,
+      "range_header": "bytes=11279271-11690960",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 701.623,
+      "anker_sha256": "604d74e3fa8a88d49c75b024e49c8dfe99ac7569d754cd8ad933c8b78c9d63e0",
+      "einblendung_ms": 60,
+      "text": "The conversation shifts to strong convictions in fantasy football analysis and how player valuation differs from consensus views."
+    },
+    {
+      "hook": "Bad tape and straight-ahead speed",
+      "start": 2711.98,
+      "ende": 2732.069,
+      "laenge": 20.09,
+      "byte_start": 43446245,
+      "byte_ende": 43767655,
+      "bytes": 321411,
+      "range_header": "bytes=43446245-43767655",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2712.059,
+      "anker_sha256": "6543767cd93fde89e2b7a2121c7c5b445d3176147e0f9be25eaf2e830828bcac",
+      "einblendung_ms": 60,
+      "text": "An incomplete thought regarding player evaluation leads directly into a discussion about running back usage."
+    },
+    {
+      "hook": "Sending modern wide receivers back to 1970",
+      "start": 2714.802,
+      "ende": 2744.764,
+      "laenge": 29.96,
+      "byte_start": 43491385,
+      "byte_ende": 43970783,
+      "bytes": 479399,
+      "range_header": "bytes=43491385-43970783",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2714.88,
+      "anker_sha256": "076bdfea693a9dc2eef06db289bb100cad80a60fc198f7927f7fde5a86b7412d",
+      "einblendung_ms": 60,
+      "text": "Saquon Barkley's historical rushing production is used to argue that elite players remain valuable despite sharing touches."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:41:50+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3973,
+  "veroeffentlicht": "2026-08-21T09:30:00+00:00",
+  "beschreibung": "Chris Harris of Harris Football and the Harris Football Podcast joins the show to talk about his new book, break down teammate battles across fantasy football, explain why he hates preseason football, and so much more.\n----------\nAll DraftKings Customers enter a lineup into the Best Ball $20 million Headliner Contest and receive a bonus ticket for a 2nd entry! Download the DraftKings app and sign up using https://bit.ly/LateRound2026 or promo code LATEROUND! The Crown is Yours!\n\nGambling Problem? Call 1-800-GAMBLER or 877-8-HOPENY/text HOPENY (467369) (NY). Help is available for problem gambling. Call (888) 789-7777 or visit ccpg.org (CT). 18+ in most eligible states, but age varies by jurisdiction. Eligibility restrictions apply. Void where prohibited. 1 per customer. Must enter a lineup into the NFL Best Ball $20M Headliner Contest. $25 entry fee. Bonus issued as 1 ticket to NFL Best Ball $20M Headliner Contest. Ticket reward is site credit valid for use only on NFL Best Ball $20M Headliner Contest. Ticket reward is single-use and expires at contest lock on 9/9/26. See terms at https://www.draftkings.com/promotions. Ends 9/9/26 at contest lock. Sponsored by DraftKings. #DKPartner\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Chris Harris of Harris Football and the Harris Football Podcast joins the show to talk about his new book, break down teammate battles across fantasy football, explain why he hates preseason football, and so much more.</p> <p>----------</p> <p>All DraftKings Customers enter a lineup into the Best Ball $20 million Headliner Contest and receive a bonus ticket for a 2nd entry! Download the DraftKings app and sign up using <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbUR1WmJBUHQ4bFNwS2MtYXF5UlNiVGpsUXRIUXxBQ3Jtc0tuS2hVMExmY21LMGJJMFpfbWdVNHk4VV9HeGRMR25OOVpjbWRBb0I5eWhtTG5FQjZvY0IwTHUwUUlFSGh5cjhsekRxb20xemZFVUQ4aVZwOFR6TTFYMHRfanFBUGtQbWRpcG5ka3Z6TlNxNEt5a3lvNA&amp;q=https%3A%2F%2Fbit.ly%2FLateRound2026&amp;v=N2b0c1ZALhQ\">https://bit.ly/LateRound2026</a> or promo code LATEROUND! The Crown is Yours!&nbsp;<br><br>Gambling Problem? Call 1-800-GAMBLER or 877-8-HOPENY/text HOPENY (467369) (NY). Help is available for problem gambling. Call (888) 789-7777 or visit ccpg.org (CT). 18+ in most eligible states, but age varies by jurisdiction. Eligibility restrictions apply. Void where prohibited. 1 per customer. Must enter a lineup into the NFL Best Ball $20M Headliner Contest. $25 entry fee. Bonus issued as 1 ticket to NFL Best Ball $20M Headliner Contest. Ticket reward is site credit valid for use only on NFL Best Ball $20M Headliner Contest. Ticket reward is single-use and expires at contest lock on 9/9/26. See terms at <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbGZBR3ZXc2E0QU5yVDdSSTZPT2pDdkdSQlJmQXxBQ3Jtc0ttYk0wcnRuaHBPSEJoaHdkaGtEX2hfUU1Sdm10OTF6SS05VjRLSks0bFdQcU9TNHF6U004VF9uUVFIenNPemM0azFMUncyLTRBeVY4M1RrZHM0OGN4VHU2M0pNRFlhU2FfWEdsZGFVQkxnMWh2clBhTQ&amp;q=https%3A%2F%2Fwww.draftkings.com%2Fpromotions&amp;v=N2b0c1ZALhQ\">https://www.draftkings.com/promotions</a>. Ends 9/9/26 at contest lock. Sponsored by DraftKings. <a href=\"https://www.youtube.com/hashtag/dkpartner\">#DKPartner</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0a233618-d694-4c81-a139-b34e00f98fb1/2abaa0a0-2a49-4d5a-804d-b4ac0178f5d7/image.jpg?t=1787266532&size=Large",
+  "kapitel_quelle": "modell"
+}

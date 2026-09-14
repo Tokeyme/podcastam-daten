@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_894763890",
+  "apple_collection_id": "1834310452",
+  "show": "睡前历史说",
+  "titel": "古埃及1_起源",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIMY10oAK7nLAPvQiB3.m4a?channel=rss&album_id=100424154&track_id=894763890&uid=567798845&jt=https://aod.cos.tx.xmcdn.com/storages/958c-audiofreehighqps/E6/42/GKwRIaIMY10oAK7nLAPvQiB3.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11462444,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T12:07:29+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探索古埃及文明从尼罗河流域的农业萌芽到统一王国的壮丽历程。",
+  "kurzfassung": "本期节目回顾了公元前五千年至公元前两千六百八十六年间古埃及文明的起源与发展。节目详细探讨了尼罗河泛滥对农业社会形成的决定性作用，以及巴达里文化和涅加达文化时期社会分化与王权的崛起。最后，节目讲述了纳尔迈统一上下埃及、建立第一王朝及早王朝时期的各项成就。",
+  "stichpunkte": [
+    "尼罗河的规律泛滥为埃及提供了稳定的农业资源，并塑造了人们对宇宙秩序的认知",
+    "新石器革命促使游牧人群转向定居农业，巴达里文化标志着早期村落和简单制陶的出现",
+    "涅加达文化一期和二期见证了贫富分化、大型城镇如希拉孔伯利斯的兴起以及早期王权的萌芽",
+    "公元前3300年左右象形文字的诞生极大提高了信息记录效率，成为文明成熟的重要标志",
+    "纳尔迈于公元前3100年征服下埃及完成首次统一，并在孟斐斯建立第一王朝新都",
+    "早王朝时期国家制度、宗教信仰、丧葬习俗以及手工业和贸易取得了显著发展",
+    "第三王朝佐塞尔在伊姆霍特普辅佐下建造阶梯金字塔，标志着古王国时期的开启"
+  ],
+  "kapitel": [
+    {
+      "titel": "尼罗河与古埃及文明的萌芽",
+      "start": 0.0
+    },
+    {
+      "titel": "新石器革命与巴达里文化",
+      "start": 126.12
+    },
+    {
+      "titel": "涅加达文化与社会复杂化",
+      "start": 212.46
+    },
+    {
+      "titel": "象形文字的诞生与国家形成",
+      "start": 466.12
+    },
+    {
+      "titel": "纳尔迈统一埃及与第一王朝",
+      "start": 515.22
+    },
+    {
+      "titel": "早王朝时期的制度与文化成就",
+      "start": 1025.82
+    },
+    {
+      "titel": "古王国时期的开启与阶梯金字塔",
+      "start": 1177.72
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T12:07:29+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1415,
+  "veroeffentlicht": "2025-08-02T04:54:18+00:00",
+  "beschreibung": "公元前 5000-前 2686 年，回到法老诞生前的神秘河谷，揭开金字塔文明的惊天原点，蝎子王曾经统治的时代",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>公元前 5000-前 2686 年，回到法老诞生前的神秘河谷，揭开金字塔文明的惊天原点，蝎子王曾经统治的时代</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c102-audiofreehighqps/80/DA/GAqh4zIMY1g2AAQBCAPvP26K.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

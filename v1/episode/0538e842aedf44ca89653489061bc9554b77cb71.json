@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007415249",
+  "apple_collection_id": "1217715562",
+  "show": "乐普医疗健康调频",
+  "titel": "377. 哪一种心脏瓣膜病最危险？术后出院3个硬指标，少一个都不行",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOXDwCACjShQTJaI6x.m4a?channel=rss&album_id=3263949&track_id=1007415249&uid=37758584&jt=https://aod.cos.tx.xmcdn.com/storages/c253-audiofreehighqps/9E/78/GKwRIJIOXDwCACjShQTJaI6x.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2675333,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:11:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "详解心脏瓣膜病的危险程度及术后出院的三个硬指标",
+  "kurzfassung": "本期节目介绍了心脏四个瓣膜病变的危险程度，其中主动脉瓣病变被视为头号杀手。接着讲解了患者术后能否出院必须满足的三个硬指标，包括感染指标正常、伤口恢复良好以及没有传导阻滞。最后给出了调整生活习惯、坚持服药监测及定期复查等术后康复建议。",
+  "stichpunkte": [
+    "心脏的四个瓣膜分别是主动脉瓣、二尖瓣、三尖瓣和肺动脉瓣",
+    "主动脉瓣病变是瓣膜病里的头号杀手，发展迅速且症状隐蔽，猝死风险高",
+    "二尖瓣和三尖瓣病变较为常见，早期症状多为气短、心慌或不明原因的腿肿、腹胀",
+    "肺动脉瓣病变相对少见，但若出现狭窄或关闭不全同样会影响右心功能",
+    "术后出院的三个硬指标包括：感染指标正常、伤口恢复良好、没有传导阻滞",
+    "术后需调整生活习惯、适度运动并保证清淡饮食",
+    "术后要坚持服药、密切监测身体指标，并按医嘱在术后1、3、6个月进行定期复查"
+  ],
+  "kapitel": [
+    {
+      "titel": "心脏四个瓣膜及病变危险程度",
+      "start": 55.56
+    },
+    {
+      "titel": "瓣膜手术后出院的三个硬指标",
+      "start": 164.9
+    },
+    {
+      "titel": "术后康复要点与定期复查",
+      "start": 238.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:11:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 330,
+  "veroeffentlicht": "2026-08-20T08:00:00+00:00",
+  "beschreibung": "主动脉瓣、二尖瓣、三尖瓣和肺动脉瓣，哪一种心脏瓣膜病最危险？术后能不能出院，又应该看哪3个指标？一起来听本期详解，守护心脏健康。",
+  "beschreibung_html": "<p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;font-weight:normal;text-align:justify;\" data-flag=\"normal\">主动脉瓣、二尖瓣、三尖瓣和肺动脉瓣，哪一种心脏瓣膜病最危险？术后能不能出院，又应该看哪3个指标？一起来听本期详解，守护心脏健康。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group21/M0B/46/FE/wKgJLVgsIkbjjfCcAACqZvzlook378.jpg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "guid": "436385ef-9ea7-427e-8fe8-b4ac00d8e963",
+  "apple_collection_id": "278981407",
+  "show": "Stuff You Should Know",
+  "titel": "Selects: How Narcolepsy Works",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/436385ef-9ea7-427e-8fe8-b4ac00d8e963/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 61131620,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:41:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "A deep dive into the science, symptoms, and history of the chronic sleep disorder…",
+  "kurzfassung": "Narcolepsy is a misunderstood chronic sleep disorder characterized by excessive daytime sleepiness and often cataplexy, a sudden loss of muscle control. While historically misattributed or misunderstood, modern research points to a hypocretin deficiency caused by an autoimmune response. Although currently without a cure, symptoms can be managed effectively through medications and lifestyle adjustments.",
+  "stichpunkte": [
+    "Narcolepsy is a chronic sleep disorder first described in 1880 by French physician Jean Baptiste Edouard Gelineau.",
+    "Patients with narcolepsy experience roughly the same total amount of sleep over 24 hours as healthy individuals, but it is heavily fragmented.",
+    "The disorder features two main types, with Type 1 often accompanied by cataplexy, a sudden loss of voluntary muscle control triggered by emotions.",
+    "Narcolepsy involves up to six symptoms, including excessive daytime sleepiness, sleep paralysis, and hypnagogic hallucinations.",
+    "In the late 1990s, researchers discovered that Type 1 narcolepsy is caused by a drastic loss of hypocretin-producing neurons in the hypothalamus.",
+    "Recent studies suggest narcolepsy has an autoimmune basis, potentially triggered by infections like strep throat or specific genetic variations.",
+    "A swine flu vaccine used in Europe in 2009 was linked to a significant increase in narcolepsy cases among individuals with specific genetic markers.",
+    "Diagnosis typically involves an overnight polysomnogram followed by a multiple sleep latency test during the day.",
+    "Current treatments rely on medications like modafinil and antidepressants, alongside proper sleep hygiene and management."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction to Narcolepsy",
+      "start": 0.72
+    },
+    {
+      "titel": "History and Core Characteristics",
+      "start": 374.2
+    },
+    {
+      "titel": "The Two Types and Symptoms",
+      "start": 917.2
+    },
+    {
+      "titel": "Hypocretin and Brain Chemistry",
+      "start": 1657.359
+    },
+    {
+      "titel": "Genetics, Autoimmunity, and Vaccine Links",
+      "start": 2064.04
+    },
+    {
+      "titel": "Diagnosis, Treatments, and Quality of Life",
+      "start": 2660.16
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Do narcoleptics actually sleep more than anyone else?",
+      "start": 536.764,
+      "ende": 566.883,
+      "laenge": 30.12,
+      "byte_start": 8629423,
+      "byte_ende": 9111329,
+      "bytes": 481907,
+      "range_header": "bytes=8629423-9111329",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 536.842,
+      "anker_sha256": "2dd19c2be6c3e9fa5a6cc615c6cb384d85c17da32bfe1faaf95a4af92d947eae",
+      "einblendung_ms": 60,
+      "text": "French doctor Jean-Baptiste-Edouard Gélineau provided the initial medical documentation of narcolepsy in 1880."
+    },
+    {
+      "hook": "Completing complex tasks with zero memory of it",
+      "start": 1163.233,
+      "ende": 1183.321,
+      "laenge": 20.09,
+      "byte_start": 18652919,
+      "byte_ende": 18974328,
+      "bytes": 321410,
+      "range_header": "bytes=18652919-18974328",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1163.311,
+      "anker_sha256": "cc41956c0efd6775f0d8930eaee61a4c2d3819331ae5b7ef05b396eec350e75c",
+      "einblendung_ms": 60,
+      "text": "The hosts briefly pivot to discuss bestselling authors, book content creators, and hidden messages in literature."
+    },
+    {
+      "hook": "Only a tiny fraction of brain cells control wakefulness",
+      "start": 1796.676,
+      "ende": 1816.764,
+      "laenge": 20.09,
+      "byte_start": 28788011,
+      "byte_ende": 29109421,
+      "bytes": 321411,
+      "range_header": "bytes=28788011-29109421",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1796.754,
+      "anker_sha256": "1a2ed64f7f6f950ff1b7b68b2b535425502f5ab231fdbdb85e58b538e07917aa",
+      "einblendung_ms": 60,
+      "text": "Strong feelings can cause sudden physical collapse, a symptom known as a drop attack."
+    },
+    {
+      "hook": "How a flu vaccine accidentally triggered chronic sleep disorders",
+      "start": 2285.479,
+      "ende": 2308.624,
+      "laenge": 23.14,
+      "byte_start": 36608863,
+      "byte_ende": 36979174,
+      "bytes": 370312,
+      "range_header": "bytes=36608863-36979174",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2285.558,
+      "anker_sha256": "70e88a88c0e257585a4db0d26590c8dac6f103676bd65600885f4165f828433e",
+      "einblendung_ms": 60,
+      "text": "Type 1 narcolepsy, which involves cataplexy, is attributed to a deficiency of hypocretin."
+    },
+    {
+      "hook": "Testing cerebrospinal fluid through the base of the skull",
+      "start": 2648.529,
+      "ende": 2668.643,
+      "laenge": 20.11,
+      "byte_start": 42417659,
+      "byte_ende": 42739487,
+      "bytes": 321829,
+      "range_header": "bytes=42417659-42739487",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2648.607,
+      "anker_sha256": "7e45518f8e445224a5ac721be0c7dbc5e2b62a1876eeaea7d6932e5781bc8df9",
+      "einblendung_ms": 60,
+      "text": "Carrying a specific variant of the HLA gene increases a person's likelihood of developing narcolepsy by 25 percent."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:41:52+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3155,
+  "veroeffentlicht": "2026-08-22T09:00:00+00:00",
+  "beschreibung": "Narcolepsy is one of those amazing rare disorders that everyone thinks they understand – people just fall asleep at random times, even in the middle of doing something. But there’s a lot more to it and – even better – we actually may be able to explain it. Josh and Chuck run it down in this classic episode.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Narcolepsy is one of those amazing rare disorders that everyone thinks they understand &ndash; people just fall asleep at random times, even in the middle of doing something. But there&rsquo;s a lot more to it and &ndash; even better &ndash; we actually may be able to explain it. Josh and Chuck run it down in this classic episode.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
+  "kapitel_quelle": "modell"
+}

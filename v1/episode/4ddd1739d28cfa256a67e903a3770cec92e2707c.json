@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_805750736",
+  "apple_collection_id": "1820556105",
+  "show": "西游记后传之孙悟空探案 | 侦探推理|孙悟空",
+  "titel": "001 雷劈三佛寺-上",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwLhlwNABcrigNndAgW.m4a?channel=rss&album_id=85933876&track_id=805750736&uid=153606322&jt=https://aod.cos.tx.xmcdn.com/storages/fb3a-audiofreehighqps/F9/B0/GKwRIRwLhlwNABcrigNndAgW.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1518474,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:58:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "孙悟空、猪八戒和沙僧的三佛寺遭遇雷击，庙宇破败不堪。",
+  "kurzfassung": "孙悟空赶到被雷击中冒烟的三佛寺，发现沙僧已经把火扑灭。姗姗来迟的猪八戒因调侃引发笑料，随后众人进庙查看灾情。他们发现寺庙年久失修、破败不堪，佛像受损，甚至连一个烧香的凡人都没有。",
+  "stichpunkte": [
+    "三佛寺遭到雷击冒烟，沙僧喷水扑灭屋顶大火",
+    "猪八戒姗姗来迟，误以为他们在烤蛋吃并引发斗嘴",
+    "猪八戒试图扶正招牌，却被掉落的牌匾砸中",
+    "三佛寺大门招牌摇摇欲坠，佛像积满灰尘且脑袋开裂",
+    "沙僧的佛像头顶上有鸟窝，孙悟空的佛像少了一只胳膊",
+    "香灰炉空空如也，天花板破了个大洞",
+    "三人抱怨凡人不仅不修缮寺庙，甚至连烧香的人都没有"
+  ],
+  "kapitel": [
+    {
+      "titel": "三佛寺遭雷击",
+      "start": 2.16
+    },
+    {
+      "titel": "猪八戒登场",
+      "start": 78.9
+    },
+    {
+      "titel": "查看寺庙惨状",
+      "start": 158.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:58:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 248,
+  "veroeffentlicht": "2025-02-15T13:39:14+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2679-audiofreehighqps/FA/B0/GAqhqKwLhlobAATtcQNncrHQ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

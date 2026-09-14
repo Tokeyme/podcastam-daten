@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "6a89b747ef65145dfcc3b257",
+  "apple_collection_id": "6801953955",
+  "show": "大公鸡播客",
+  "titel": "【鸡鸣怪谈】第17期：兔子洞冰山图系列12",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a89b747ef65145dfcc3b257/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/lurerusL6lxAhYyJQfbyTLBWZ8z-.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 43618271,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T15:06:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨网红离世与都市怪谈背后的巧合、心理暗示及真实法院判决记录。",
+  "kurzfassung": "本期节目探讨了两起在网络上引发热议的离奇事件。首先剖析了视频博主江小楼意外离世前后充满巧合的“反封建迷信”挑战视频，分析了公众如何通过因果叙事来消化现实。接着详细讲述了轰动一时的“幽密事件”，对比了网传都市怪谈与法院判决书中的真实死因及医学、心理学解释。",
+  "stichpunkte": [
+    "探讨短视频平台上兴起的“反封建迷信”探灵赛道及其背后的流量逻辑。",
+    "分析视频博主江小楼生前拍摄的砸观音像、扎小人和灵异电话等挑战内容。",
+    "指出江小楼生前的“回音电话”实际上是一种标准的工程测试号码。",
+    "解析公众面对意外时产生“宿命感”和过度解读的心理机制。",
+    "讲述公司员工出差期间遭遇诡异事件并最终客死异乡的“幽密事件”。",
+    "指出网传“死因不明”的“幽密事件”经法院判决和法医鉴定，真实死因为双肺间质性肺炎。",
+    "探讨患者生前的反常行为在医学上可能对应急性谵妄状态。",
+    "同事在电视黑屏倒影中看到同伴身影等细节，让这起真实悲剧笼罩上挥之不去的灵异色彩。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与网红江小楼的探灵赛道",
+      "start": 7.3
+    },
+    {
+      "titel": "江小楼生前争议视频与“避称”现象",
+      "start": 209.18
+    },
+    {
+      "titel": "理性解析灵异电话与公众心理机制",
+      "start": 469.68
+    },
+    {
+      "titel": "幽密事件：异地出差的诡异开端",
+      "start": 773.64
+    },
+    {
+      "titel": "幽密病情恶化与离奇死亡",
+      "start": 1347.98
+    },
+    {
+      "titel": "法院判决书还原真相与科学医学解释",
+      "start": 2045.78
+    },
+    {
+      "titel": "节目尾声与投稿方式",
+      "start": 2665.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T15:06:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2696,
+  "veroeffentlicht": "2026-08-23T16:00:00+00:00",
+  "beschreibung": "在《鸡鸣怪谈》这个系列里，我们将会为大家讲述你听过或者没听过的国内外的都市怪谈，希望大家能够喜欢！\n\n本期涉及的怪谈：\n\n00:00:18 —— “反迷信”百万粉丝博主意外去世事件\n\n00:12:53 —— 武陟县酒店灵异事件解析\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><strong>在《鸡鸣怪谈》这个系列里，我们将会为大家讲述你听过或者没听过的国内外的都市怪谈，希望大家能够喜欢！</strong></p><p></p><p>本期涉及的怪谈：</p><p></p><p><a class=\"timestamp\">00:00:18</a> —— “反迷信”百万粉丝博主意外去世事件</p><p></p><p><a class=\"timestamp\">00:12:53</a> —— 武陟县酒店灵异事件解析</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a89b747ef65145dfcc3b257?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fv_FFGsrm6oalU4ve9ur0P6HEHdu.png",
+  "kapitel_quelle": "modell"
+}

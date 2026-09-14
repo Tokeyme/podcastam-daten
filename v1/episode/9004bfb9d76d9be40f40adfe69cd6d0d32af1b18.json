@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_998674908",
+  "apple_collection_id": "1551569254",
+  "show": "投资笔记",
+  "titel": "AI+时代：别被信息差误导",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEOHu45AErJsQSxj1Hm.m4a?channel=rss&album_id=45875447&track_id=998674908&uid=136913995&jt=https://aod.cos.tx.xmcdn.com/storages/aad3-audiofreehighqps/85/B1/GKwRIJEOHu45AErJsQSxj1Hm.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4901297,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T21:45:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨AI爆发背后的资源困境、资本市场分化以及普通人的应对之道。",
+  "kurzfassung": "本期节目深入剖析了人工智能快速发展带来的惊人电力、水资源与土地消耗，指出其加剧了全球资源分配的不平衡。同时，节目对比了股市中AI板块与传统行业的巨大分化，解释了其背后的驱动力与未来趋势。最后，针对普通人面对AI浪潮时的焦虑，建议保持清醒、将AI作为提升效率的工具，避免盲目跟风与陷入创业陷阱。",
+  "stichpunkte": [
+    "预计到2030年，全球数据中心每年将消耗945太瓦时的电量和9.3万亿升水资源，占地面积超过14500平方公里。",
+    "AI资源消耗的全球分布严重失衡，发展中国家承受着环境压力，部分国家的数据中心用电量已超过全国城市家庭总和。",
+    "应对资源困境的实际方法包括算法轻量化、新型冷却技术、专用高能效芯片以及使用绿色无碳能源。",
+    "资本市场严重分化，AI相关股票在2026年大幅上涨，而传统行业如食品、房地产和汽车则在泥潭中挣扎。",
+    "AI板块大涨的核心驱动力是对产业未来高增长的强烈共识及全球算力竞赛，而传统行业则受经济复苏乏力和高利率压制。",
+    "面对AI浪潮，普通人应避免极端情绪，既不要将其神化也不要过度恐慌，应把AI当作提升专业效率的工具。",
+    "AI创业门槛极高，应警惕速成培训班和爆款课的陷阱，核心在于找到真实需求和落地场景，扎实推进项目。"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI发展的资源困境与消耗",
+      "start": 39.0
+    },
+    {
+      "titel": "资源消耗的失衡与解决方案",
+      "start": 112.3
+    },
+    {
+      "titel": "资本市场的AI热潮与传统行业分化",
+      "start": 243.84
+    },
+    {
+      "titel": "普通人在AI浪潮中的自处与职业规划",
+      "start": 385.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T21:45:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 605,
+  "veroeffentlicht": "2026-07-04T15:47:51+00:00",
+  "beschreibung": "董事长们，某音搜用户“倾曹而出”，获取更多干货（绝不附带任何条件）。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>董事长们，某音搜用户“倾曹而出”，获取更多干货（绝不附带任何条件）。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9afc-audiofreehighqps/40/1C/CMCoOSID3xY0AAE0WgB-K8yG.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

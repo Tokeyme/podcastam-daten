@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2026/08/20/3229817264796931078_hd.mp3",
+  "apple_collection_id": "1882964811",
+  "show": "放个播客",
+  "titel": "52.都市传说：天津日报大厦、消失的母女与凶宅直播",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2026/08/20/3229817264796931078_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 55739012,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T21:51:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "探讨天津日报大厦、台湾彰化母女失踪案及西安街头灵异传说等都市传说。",
+  "kurzfassung": "本期节目讲述了几个流传甚广的都市传说与诡异事件。内容涵盖天津日报大厦保安遭遇灵异事件及大楼风水传闻、台湾彰化一对母女在电梯诡异脱衣后神秘失踪的悬案、大学生租住藏有神秘法器的五行全缺凶宅，以及西安市民因踢翻路边纸灰而被灵异“附身”的奇闻。通过这些故事，节目探讨了民间灵异传说与民俗讲究。",
+  "stichpunkte": [
+    "天津日报大厦保安夜间巡逻时在电梯和楼梯间遭遇诡异女工，引发大厦风水不佳的种种传闻。",
+    "天津日报社针对14楼封闭和灵异传闻进行辟谣，解释其为设备房和冲洗照片的暗房。",
+    "台湾彰化园林财经大楼监控拍下一对母女在电梯内脱掉外套和鞋子后神秘失踪，至今下落不明。",
+    "台湾失踪母女的丈夫在多年后因酒驾被查，透露多年来寻找妻女无果的经历，该大楼也成为凶楼。",
+    "某热门直播中，三个大学生连线求助，展示在租住房内发现的刀剑、石头等诡异老物件。",
+    "风水博主分析该出租屋为罕见的“五行全缺”凶宅，屋内的法器与陈设暗含镇压某种事物的布局。",
+    "西安市民在寒衣节深夜不小心踢翻路边烧纸的灰烬并骂了脏话，随后连续两晚对着镜子说上海话。",
+    "通灵师傅指出该地点临近阴间报道处，指引这对夫妻带酒和冥币去原位赔礼道歉并化解。"
+  ],
+  "kapitel": [
+    {
+      "titel": "天津日报大厦的灵异传闻",
+      "start": 450.0
+    },
+    {
+      "titel": "台湾彰化母女电梯失踪案",
+      "start": 888.86
+    },
+    {
+      "titel": "大学生租住凶宅连线直播",
+      "start": 1727.46
+    },
+    {
+      "titel": "西安寒衣节踢纸灰诡异事件",
+      "start": 2890.62
+    }
+  ],
+  "clips": [
+    {
+      "hook": "电梯遇到灵异女工，保安吓得落荒而逃",
+      "start": 494.655,
+      "ende": 515.135,
+      "laenge": 20.48,
+      "byte_start": 7967114,
+      "byte_ende": 8294793,
+      "bytes": 327680,
+      "range_header": "bytes=7967114-8294793",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 494.733,
+      "anker_sha256": "c382424e1b606816b3f57fe1918fa502f464dbd9c6763db62ef1d3de6a50b212",
+      "einblendung_ms": 60,
+      "text": "两名保安在电梯故障无法关闭时，因极度恐惧选择弃梯改走楼梯逃离现场。"
+    },
+    {
+      "hook": "监控拍下诡异一幕：母女电梯内脱衣",
+      "start": 940.983,
+      "ende": 962.038,
+      "laenge": 21.05,
+      "byte_start": 15108364,
+      "byte_ende": 15445238,
+      "bytes": 336875,
+      "range_header": "bytes=15108364-15445238",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 941.061,
+      "anker_sha256": "818b7dd2021c6639789f15f5905a08c545b4a1b5222395815f68c3ca639ea176",
+      "einblendung_ms": 60,
+      "text": "监控记录下一名女子脱去母女二人的外衣鞋袜，随后拉着孩子冲出电梯消失在画面中。"
+    },
+    {
+      "hook": "看清房内诡异物件后，主播瞬间改口",
+      "start": 1821.649,
+      "ende": 1841.763,
+      "laenge": 20.11,
+      "byte_start": 29199022,
+      "byte_ende": 29520850,
+      "bytes": 321829,
+      "range_header": "bytes=29199022-29520850",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1821.727,
+      "anker_sha256": "0e42eca9a03e96c5115a0cf5950dd3c798aaadf7401efcb7816cf96bca8f5473",
+      "einblendung_ms": 60,
+      "text": "原本不信邪的年轻人查看屋内诡异陈设后，被当场吓退并决定立即搬离。"
+    },
+    {
+      "hook": "刀剑石头齐聚，这究竟是怎样的凶宅布局",
+      "start": 2434.377,
+      "ende": 2454.465,
+      "laenge": 20.09,
+      "byte_start": 39002673,
+      "byte_ende": 39324082,
+      "bytes": 321410,
+      "range_header": "bytes=39002673-39324082",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2434.456,
+      "anker_sha256": "4253ed3cd76f2c8f93514e17ec7ce749f48779cdffecd32fb3e5e89aa571d427",
+      "einblendung_ms": 60,
+      "text": "屋内摆放的刀剑与辣椒等物品对应五行阵法，暗示该处存在难以压制的严重灵异问题。"
+    },
+    {
+      "hook": "踢翻路边纸灰后，男子对着镜子飙上海话",
+      "start": 2984.882,
+      "ende": 3004.97,
+      "laenge": 20.09,
+      "byte_start": 47810745,
+      "byte_ende": 48132154,
+      "bytes": 321410,
+      "range_header": "bytes=47810745-48132154",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2984.96,
+      "anker_sha256": "064be3ed432879f290fe0e8bad76f9bf813678a75278ead1f134f60afbf35847",
+      "einblendung_ms": 60,
+      "text": "两名西安籍住户在屋内遭遇诡异现象，其中一人突然用流利的上海话进行无法理解的对话。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-25T21:51:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3480,
+  "veroeffentlicht": "2026-08-21T00:30:00+08:00",
+  "beschreibung": "漫无止境的八月还未结束，\n\n在您的工作学习玩闹之余，别忘了无聊的时候还能收听放个播客，\n\n这次为大家带来国内和网络上的都市传说，\n\n我们现在就出发。\n\n时间轴 ：\n\n00:00:17-天津日报大厦\n\n00:14:39-台湾彰化电梯消失的母女\n\n00:28:42 -听泉鉴宝连线到入住凶宅的大学生\n\n00:48:06-西安北马道巷南口\n\n如果本期节目吓到你了，麻烦点个赞，\n\n让更多喜欢故事的朋友看到。转发给不信邪的朋友，看看他看完是什么反应。\n\n关注我们，每周两更不错过，给您带来最刺激的真实灵异故事。\n\n我们祝您今晚睡个安稳觉。\n\n本节目长期征集真实灵异经历！\n\n我们接受一切你不敢告诉别人的故事：\n\n亲身经历的诡异事件？\n\n老家流传的都市传说？\n\n朋友家人讲过的真实怪事？\n\n甚至是你做过的印象深刻的噩梦？\n\n如果您需要，我们可以全程匿名，绝不泄露任何个人信息。\n\n很多人说，有些事憋在心里太久，会变成心病。\n\n我们已经收到了许多投稿，其中很多故事比我们自己找的还要精彩百倍。\n\n我们尊重每一个真实的感受。\n\n投稿方式：\n\n后台直接发送文字 / 语音",
+  "beschreibung_html": "<myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>漫无止境的八月</strong>还未结束，</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>在您的工作学习玩闹之余，别忘了无聊的时候还能收听<strong>放个播客</strong>，</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>这次为大家带来国内和网络上的<strong>都市传说</strong>，</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>我们现在就出发。</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>时间轴 ：</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>00:00:17-天津日报大厦</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>00:14:39-台湾彰化电梯消失的母女</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>00:28:42 -听泉鉴宝连线到入住凶宅的大学生</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>00:48:06-西安北马道巷南口</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>如果本期节目吓到你了，麻烦<strong>点个赞</strong>，</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>让更多喜欢故事的朋友看到。<strong>转发</strong>给不信邪的朋友，看看他看完是什么反应。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>关注我们</strong>，每周两更不错过，给您带来最刺激的真实灵异故事。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>我们祝您今晚睡个安稳觉。</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>本节目长期征集真实灵异经历！</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>我们接受一切你不敢告诉别人的故事：</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><em>亲身经历的诡异事件？</em></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><em>老家流传的都市传说？</em></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><em>朋友家人讲过的真实怪事？</em></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><em>甚至是你做过的印象深刻的噩梦？</em></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>如果您需要，我们可以全程匿名，绝不泄露任何个人信息。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>很多人说，有些事憋在心里太久，会变成心病。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>我们已经收到了许多投稿，其中很多故事比我们自己找的还要精彩百倍。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>我们尊重每一个真实的感受。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>投稿方式：</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>后台直接发送文字 / 语音</p>\n</myfont>",
+  "untertitel": "52.都市传说：天津日报大厦、消失的母女与凶宅直播",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2026/08/20/3229817266945516039_80x80.jpg",
+  "kapitel_quelle": "modell"
+}

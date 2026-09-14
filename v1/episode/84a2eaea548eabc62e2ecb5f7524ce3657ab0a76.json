@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group60/M07/00/76/wKgLb1ztar6zZRUJACI9a3O7DiQ358.m4a",
+  "apple_collection_id": "1755468355",
+  "show": "尼尔斯骑鹅旅行记",
+  "titel": "骑鹅旅行记-7",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgLb1ztar6zZRUJACI9a3O7DiQ358.m4a?channel=rss&album_id=23537600&track_id=187238795&uid=97409896&jt=https://aod.cos.tx.xmcdn.com/group60/M07/00/76/wKgLb1ztar6zZRUJACI9a3O7DiQ358.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2243947,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:13:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "尼尔斯智斗狐狸斯密兰，最终回到家中并变回人形。",
+  "kurzfassung": "尼尔斯利用大狗成功抓住了狐狸斯密兰，随后与大雁群一起继续飞行并经历趣事。第二年大雁返程时尼尔斯回到家中，在小鹅的帮助下变回了人形。大聂老师总结了尼尔斯的成长历程，并祝愿同学们健康成长。",
+  "stichpunkte": [
+    "尼尔斯机智地用狗链将狐狸斯密兰绑在狗舍里",
+    "大雁群返回并对尼尔斯的智举表示高兴和赞赏",
+    "尼尔斯跟随大雁群飞行并经历了许多有趣的事情",
+    "第二年大雁返回北方，尼尔斯回到了自己的家门口",
+    "在一只小鹅自愿变成拇指后，尼尔斯成功变回人形",
+    "尼尔斯的母亲看到他回家感到非常惊喜",
+    "大聂老师建议同学们长大后阅读原著以获得更多乐趣",
+    "老师寄语同学们能在成长中变得勇敢、有爱心并承担责任"
+  ],
+  "kapitel": [
+    {
+      "titel": "抓获狐狸与重返雁群",
+      "start": 1.82
+    },
+    {
+      "titel": "尼尔斯回家并变回人形",
+      "start": 115.2
+    },
+    {
+      "titel": "故事总结与寄语",
+      "start": 175.16
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:13:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 274,
+  "veroeffentlicht": "2019-05-28T17:08:39+00:00",
+  "beschreibung": "诺贝尔文学奖唯一儿童作品，100年历久弥新。关于成长，友谊，勇敢和爱。",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\">诺贝尔文学奖唯一儿童作品，100年历久弥新。关于成长，友谊，勇敢和爱。<br /></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group60/M09/7A/20/wKgLeVzZnWKRaoQtAAGpdKjdXSM99.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

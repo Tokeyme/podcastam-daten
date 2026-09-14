@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "guid": "6a7978c517676351c56f835c",
+  "apple_collection_id": "1804867308",
+  "show": "健康相对论",
+  "titel": "074.下午三点就犯困？不是累，是血糖在坐过山车",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a7978c517676351c56f835c/media.xyzcdn.net/67ca84168cc48a09df2e1220/lsr8T5xAI0T8ybQJ8cSJ5UnPkNCj.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 49386448,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T11:48:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "下午三点总犯困？这可能是血糖在坐过山车，而非单纯的劳累。",
+  "kurzfassung": "本期节目探讨了血糖波动如何影响日常精力和大脑状态。主播海伦连线远在美国的蔡博士，通过多个真实案例剖析了隐形升糖食物和极端生活习惯带来的误区。节目最后分享了调整进餐顺序、避免久坐等科学稳糖方法，并介绍了动态血糖仪的使用心得。",
+  "stichpunkte": [
+    "大脑主要消耗葡萄糖，血糖忽高忽低会导致注意力不集中和下午犯困",
+    "程序员、白领等案例表明，精力差常被误认为疲劳，实则是血糖过山车",
+    "素容燕麦、无糖酸奶和杂粮馒头等是常见的隐形升糖陷阱",
+    "长期血糖波动会增加细胞负担并引发胰岛素抵抗，甚至影响远期认知健康",
+    "改变进餐顺序（先吃蔬菜蛋白质、最后吃主食）能显著降低餐后血糖峰值",
+    "每隔20分钟起身慢走两分钟等碎片化运动，对控制血糖波动效果明显",
+    "传统指尖血糖仪只能看到单点数值，而动态血糖仪能提供完整的全天趋势曲线",
+    "若出现三多一少症状、代谢平台期或血糖持续异常，应及时前往医院就诊"
+  ],
+  "kapitel": [
+    {
+      "titel": "下午犯困的元凶：血糖过山车",
+      "start": 4.9
+    },
+    {
+      "titel": "三个真实案例：重构对精力和血糖的认知",
+      "start": 193.94
+    },
+    {
+      "titel": "血糖、胰岛素抵抗与大脑能量消耗的机制",
+      "start": 575.64
+    },
+    {
+      "titel": "快问快答：血糖指标、前期判定与糖尿病标准",
+      "start": 800.48
+    },
+    {
+      "titel": "避坑指南：市面上五类常见的隐形升糖食物",
+      "start": 1102.3
+    },
+    {
+      "titel": "极端生活方式对血糖的二次伤害",
+      "start": 1385.16
+    },
+    {
+      "titel": "科学稳糖：调整进餐顺序与碎片化运动",
+      "start": 1626.5
+    },
+    {
+      "titel": "血糖监测工具的对比与动态血糖仪的使用心得",
+      "start": 2111.06
+    },
+    {
+      "titel": "何时需要及时就医与总结",
+      "start": 2817.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T11:48:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3050,
+  "veroeffentlicht": "2026-08-11T00:00:00+00:00",
+  "beschreibung": "本期｜《健康相对论》×《三诺讲糖》联合共创\n本期同时出现在《三诺讲糖》播客，欢迎订阅收听。\n主播：@三诺讲糖\n下午两三点，你是不是又“断电”了？脑子发蒙、眼皮打架、注意力涣散——别急着怪昨晚没睡好，这可能跟你的血糖波动有关。\n大脑虽然只占体重的2%，却要消耗20%的能量。血糖就像身体的供电电流，稳的时候人清醒专注，忽高忽低就像过山车——猛踩油门又猛踩刹车，坐在里面的人不晕才怪。\n本期《健康相对论》，海伦连线蔡博士，聊透了血糖和精力的关系：为什么“健康食物”可能是升糖炸弹？吃饭换一个顺序就能稳血糖？动态血糖仪到底有没有必要戴？\n听完这期，你可能就会发现——下午犯困的“元凶”，其实就藏在每一顿饭里。\n\n01 大脑“断电”的秘密：血糖过山车比高血糖更可怕（11:12-13:33）\n02 隐形升糖陷阱：速溶燕麦、果汁、酸奶，你以为的健康可能全是坑（06:36-08:16）\n03 吃饭换顺序就能稳糖：先吃菜和肉，最后碰主食（31:37-33:45）\n04 久坐是血糖杀手：每20分钟站2分钟，血糖下降一半多（34:15-35:50）\n05 动态血糖仪 vs 指尖血糖仪：一张照片和一部电影的区别（01:20-02:26 / 42:23-43:50）\n06 海伦戴了动态血糖仪，发现了4个“反常识”真相（46:13-51:10）\n07 血糖红灯信号：出现“三多一少”赶紧去医院（53:59-55:30）\n08 稳住血糖=保护大脑：波动越大，认知衰退越快（37:22-39:53）\n\n说到底，稳血糖不是让你害怕吃饭，而是重新理解自己的身体——少一点凭感觉，多一点看证据。看懂自己的血糖曲线，很多改变不需要靠意志力死撑。\n\n1. 碳水最后吃可降低餐后血糖峰值40%以上\n论文出处：Carbohydrates-Last Food Order Improves Time in Range and Reduces Glycemic Variability，Diabetes Care, 2025;48(2):e15–e16\n链接：https://www.ovid.com/journals/dcar/abstract/10.2337/dc24-1956\n2. 中国成人糖尿病前期患病率达35.2%\n报告出处：《中国居民营养与慢性病状况报告（2020年）》，国家卫健委发布\n链接：https://www.thepaper.cn/newsDetail_forward_32996541\n\n3. 每坐20分钟起身慢走2分钟，餐后血糖显著下降\n研究出处：发表于Diabetes Care（《糖尿病护理杂志》）的久坐打断研究\n链接：https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=704106\n4. 血糖波动会加剧认知功能障碍风险\n论文出处：《2型糖尿病血糖波动与认知功能障碍关系的MRI研究进展》，《磁共振成像》2023年14卷10期\n链接：https://kjj.ezhou.gov.cn/ztzl/kpzl/202512/t20251203_737063.html （引用该研究的科普文章）\n\n加好友群请添加如下微信\n\n*声明\n本播客的内容仅代表个人观点，并不代表任何单位、供职机构等的立场。本内容仅供健康科普使用，请谨慎参考。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><strong>本期｜《健康相对论》×《三诺讲糖》联合共创</strong></p><p><strong>本期同时出现在《</strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/podcast/6927dda30819a3d7b984ed48\"><strong>三诺讲糖</strong></a><strong>》播客，欢迎订阅收听。</strong></p><p><strong>主播：@三诺讲糖 </strong></p><p>下午两三点，你是不是又“断电”了？脑子发蒙、眼皮打架、注意力涣散——别急着怪昨晚没睡好，这可能跟你的血糖波动有关。</p><p>大脑虽然只占体重的2%，却要消耗20%的能量。血糖就像身体的供电电流，稳的时候人清醒专注，忽高忽低就像过山车——猛踩油门又猛踩刹车，坐在里面的人不晕才怪。</p><p>本期《健康相对论》，海伦连线蔡博士，聊透了血糖和精力的关系：为什么“健康食物”可能是升糖炸弹？吃饭换一个顺序就能稳血糖？动态血糖仪到底有没有必要戴？</p><p>听完这期，你可能就会发现——下午犯困的“元凶”，其实就藏在每一顿饭里。</p><p></p><img src=\"https://image.xyzcdn.net/FjolU1g31Jq9S0OtAE8HxuDEZi9R.jpg\"><img src=\"https://image.xyzcdn.net/FqEbKD0Zu6UmREffMY5MbPvNyPpm.jpg\"><p><strong>01 大脑“断电”的秘密：血糖过山车比高血糖更可怕</strong>（<a class=\"timestamp\">11:12</a>-<a class=\"timestamp\">13:33</a>）</p><p><strong>02 隐形升糖陷阱：速溶燕麦、果汁、酸奶，你以为的健康可能全是坑</strong>（<a class=\"timestamp\">06:36</a>-<a class=\"timestamp\">08:16</a>）</p><p><strong>03 吃饭换顺序就能稳糖：先吃菜和肉，最后碰主食</strong>（<a class=\"timestamp\">31:37</a>-<a class=\"timestamp\">33:45</a>）</p><p><strong>04 久坐是血糖杀手：每20分钟站2分钟，血糖下降一半多</strong>（<a class=\"timestamp\">34:15</a>-<a class=\"timestamp\">35:50</a>）</p><p><strong>05 动态血糖仪 vs 指尖血糖仪：一张照片和一部电影的区别</strong>（<a class=\"timestamp\">01:20</a>-<a class=\"timestamp\">02:26</a> / <a class=\"timestamp\">42:23</a>-<a class=\"timestamp\">43:50</a>）</p><p><strong>06 海伦戴了动态血糖仪，发现了4个“反常识”真相</strong>（<a class=\"timestamp\">46:13</a>-<a class=\"timestamp\">51:10</a>）</p><p><strong>07 血糖红灯信号：出现“三多一少”赶紧去医院</strong>（<a class=\"timestamp\">53:59</a>-<a class=\"timestamp\">55:30</a>）</p><p><strong>08 稳住血糖=保护大脑：波动越大，认知衰退越快</strong>（<a class=\"timestamp\">37:22</a>-<a class=\"timestamp\">39:53</a>）</p><p>&nbsp;</p><p>说到底，稳血糖不是让你害怕吃饭，而是重新理解自己的身体——少一点凭感觉，多一点看证据。看懂自己的血糖曲线，很多改变不需要靠意志力死撑。</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>1. 碳水最后吃可降低餐后血糖峰值40%以上</strong></p><p><strong>论文出处</strong>：Carbohydrates-Last Food Order Improves Time in Range and Reduces Glycemic Variability，Diabetes Care, 2025;48(2):e15–e16</p><p><strong>链接</strong>：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ovid.com/journals/dcar/abstract/10.2337/dc24-1956\">https://www.ovid.com/journals/dcar/abstract/10.2337/dc24-1956</a>&nbsp;</p><p><strong>2. 中国成人糖尿病前期患病率达35.2%</strong></p><p><strong>报告出处</strong>：《中国居民营养与慢性病状况报告（2020年）》，国家卫健委发布</p><p><strong>链接</strong>：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.thepaper.cn/newsDetail_forward_32996541\">https://www.thepaper.cn/newsDetail_forward_32996541</a>&nbsp;</p><p>&nbsp;</p><p><strong>3. 每坐20分钟起身慢走2分钟，餐后血糖显著下降</strong></p><p><strong>研究出处</strong>：发表于Diabetes Care（《糖尿病护理杂志》）的久坐打断研究</p><p><strong>链接</strong>：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.kepuchina.cn/article/articleinfo?business_type=100&amp;classify=0&amp;ar_id=704106\">https://www.kepuchina.cn/article/articleinfo?business_type=100&amp;classify=0&amp;ar_id=704106</a>&nbsp;</p><p><strong>4. 血糖波动会加剧认知功能障碍风险</strong></p><p><strong>论文出处</strong>：《2型糖尿病血糖波动与认知功能障碍关系的MRI研究进展》，《磁共振成像》2023年14卷10期</p><p><strong>链接</strong>：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://kjj.ezhou.gov.cn/ztzl/kpzl/202512/t20251203_737063.html\">https://kjj.ezhou.gov.cn/ztzl/kpzl/202512/t20251203_737063.html</a>&nbsp;（引用该研究的科普文章）<br></p><p><strong>加好友群请添加如下微信</strong><br></p><img src=\"https://image.xyzcdn.net/Fv14kub9Ar3QXPHoq5G4GMZFNj9z.jpg\"><p><strong>*声明</strong></p><p><strong>本播客的内容仅代表个人观点，并不代表任何单位、供职机构等的立场。本内容仅供健康科普使用，请谨慎参考。</strong></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a7978c517676351c56f835c?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_749451774",
+  "apple_collection_id": "1763476010",
+  "show": "天灾来袭！种田游戏开挂逆转人生！养家囤货搞基建求生",
+  "titel": "第1章 金手指",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoKlnD8ACeRlAMBjT7e.m4a?channel=rss&album_id=83130549&track_id=749451774&uid=176145352&jt=https://aod.cos.tx.xmcdn.com/storages/e312-audiofreehighqps/A2/45/GKwRIDoKlnD8ACeRlAMBjT7e.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2593172,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T13:28:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "陆周意外重回到末世前一周，并觉醒了游戏空间金手指准备囤货求生。",
+  "kurzfassung": "陆周在末世经历了七年的痛苦挣扎后意外重生，回到了末世爆发前的一周。通过确认平板上的时间与发生故障，他发现自己绑定了一个集成了采集与存储功能的游戏金手指。为了在即将到来的天灾中保护父母并好好活下去，他开始测试空间规则并计划召回出差的父亲准备囤积物资。",
+  "stichpunkte": [
+    "陆周从末世丧生后意外醒来，发现自己回到了末世前的大学时期家里。",
+    "通过接听小表妹的电话并查看平板上的日期，他确认自己回到了末世爆发前的一周。",
+    "平板突然发热报废，随后陆周的脑海中觉醒了与此前玩过的小游戏相同的游戏界面作为金手指。",
+    "经过测试，游戏目前解锁了采集定量水的功能，而种植、砍伐等其他功能则需要升级后才能解锁。",
+    "游戏空间包含背包格子和一间小屋，背包有十个独立格子且同类物品不能混放，小屋可以混放但容量有限。",
+    "游戏空间具备保鲜功能，存入物品会保持放入那一刻的状态。",
+    "陆周找出了存有十二万元压岁钱的存折，准备利用仅剩的一周时间大量囤积物资。",
+    "他决定打电话给即将出差的父亲，想方设法将父母留在身边共同应对未来的天灾。"
+  ],
+  "kapitel": [
+    {
+      "titel": "重生归来",
+      "start": 0.0
+    },
+    {
+      "titel": "金手指觉醒",
+      "start": 160.84
+    },
+    {
+      "titel": "空间测试",
+      "start": 269.7
+    },
+    {
+      "titel": "备战筹划",
+      "start": 373.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T13:28:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 425,
+  "veroeffentlicht": "2024-08-17T14:04:28+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5cdc-audiofreehighqps/F0/67/GAqhSt4KlM4PAAIxUgMA8mva.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

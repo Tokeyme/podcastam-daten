@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007785159",
+  "apple_collection_id": "6790474671",
+  "show": "美丽说丨新闻脱口秀丨麻辣女主播",
+  "titel": "周末讨论丨当你发朋友圈时，心里在渴望什么？丨观点碰撞",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OXi7TATfZ0QTKUwhX.m4a?channel=rss&album_id=16043140&track_id=1007785159&uid=4171385&jt=https://aod.cos.tx.xmcdn.com/storages/1559-audiofreehighqps/D3/3C/GKwRIW4OXi7TATfZ0QTKUwhX.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20437457,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T08:34:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨发朋友圈背后的心理动机，以及如何正确看待社交动态与生活。",
+  "kurzfassung": "节目从暑期出行收尾切入，深入探讨了青少年教育中家长的焦虑与认知误区。随后，三位主播将话题转向社交平台，剖析了人们频繁发朋友圈的真实心理需求。最后，节目在轻松的带货环节中结束。",
+  "stichpunkte": [
+    "分享了河南暑期出行活动的感悟，并探讨了如何看待小孩子的缺点与优点。",
+    "指出家长在管教孩子时的常见误区，强调不应将成绩下滑简单归咎于打游戏。",
+    "建议家长放平心态，不要对孩子抱有不切实际的完美主义期待。",
+    "探讨了发朋友圈的原始动机，指出频繁更新往往反映出当下的心情不佳或追求认同。",
+    "分析了朋友圈展示的生活往往经过美化，并非完全真实的生活写照。",
+    "认为成年人与年轻人对社交平台的认知存在差异，核心在于是否敢于直面真实的内心。",
+    "在节目的最后进行了男士内裤的日常好物推荐。"
+  ],
+  "kapitel": [
+    {
+      "titel": "暑期出行总结与儿童教育观念",
+      "start": 24.3
+    },
+    {
+      "titel": "朋友圈到底在发什么：剖析社交动态背后的心理",
+      "start": 776.18
+    },
+    {
+      "titel": "好物推荐与结尾",
+      "start": 2236.42
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T08:34:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2524,
+  "veroeffentlicht": "2026-08-22T21:20:00+00:00",
+  "beschreibung": "周末讨论丨当你发朋友圈时，心里在渴望什么？丨观点碰撞",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">周末讨论丨当你发朋友圈时，心里在渴望什么？丨观点碰撞</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/953a-audiofreehighqps/8B/E2/GAqhy90OXi5zAAOc0ATKUt_n.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/953a-audiofreehighqps/8B/E2/GAqhy90OXi5zAAOc0ATKUt_n.jpg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/953a-audiofreehighqps/8B/E2/GAqhy90OXi5zAAOc0ATKUt_n.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"1000\" data-preview=\"http://imagev2.xmcdn.com/storages/953a-audiofreehighqps/8B/E2/GAqhy90OXi5zAAOc0ATKUt_n.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"186.66666666666666\"><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/65d7-audiofreehighqps/9F/6B/GMCoOR8JP1uyAAC4bgKFOPbr.jpeg",
+  "folgennummer": 15,
+  "kapitel_quelle": "modell"
+}

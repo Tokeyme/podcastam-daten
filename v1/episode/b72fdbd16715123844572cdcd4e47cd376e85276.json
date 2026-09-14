@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_799594392",
+  "apple_collection_id": "1490362437",
+  "show": "HD播客 | 体育运动相关深度访谈",
+  "titel": "HD播客 #50：铁三游泳的要义与迷思 *番外*",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaILa0J3AVCCsANbmG-t.m4a?channel=rss&album_id=29555206&track_id=799594392&uid=22409385&jt=https://aod.cos.tx.xmcdn.com/storages/671d-audiofreehighqps/7C/AC/GKwRIaILa0J3AVCCsANbmG-t.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 22053552,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T08:34:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "HD播客线下游泳课年终聚会实录，学员们分享2024年游泳关键词与2025年展望。",
+  "kurzfassung": "本集是HD播客的一期番外节目，记录了北京线下游泳课年终聚会上的实时录音。主教练张楚与多位铁三及游泳学员围坐在一起，通过随机抽取写有游泳关键词的小纸条，互相解读并分享各自在2024年的收获与2025年的目标。大家畅谈了铁三训练中的心路历程、技术感悟以及对团队氛围的真切感受。",
+  "stichpunkte": [
+    "节目在线下游泳课年终聚会上实时录制，采用串台形式与《在下不才》联动。",
+    "线下游泳课主要针对成年人以及铁三和公开水域游泳爱好者。",
+    "聚会核心环节是抽取写有2024年和2025年游泳关键词的小纸条并进行解读。",
+    "学员们分享了各自克服对水恐惧、调整打腿节奏以及备战大铁赛事的经历。",
+    "多位嘉宾回顾了从游泳新手到完成长距离或公开水域赛事的成长过程。",
+    "讨论了训练中的心理建设、寻找同体感速度以及“慢就是快”的技术理念。",
+    "节目展现了HD游泳团队紧密、包容且充满乐趣的社群文化与氛围。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目背景与线下游泳课介绍",
+      "start": 8.36
+    },
+    {
+      "titel": "年终聚会与关键词抽签活动开始",
+      "start": 423.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T08:34:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3618,
+  "veroeffentlicht": "2025-01-26T00:17:27+00:00",
+  "beschreibung": "本期节目特别不同，现场录制的年终聚会大揭秘，分享游泳训练心得！从初学到公开水域挑战，铁三爱好者们的心路历程与你分享。想知道更多关于成年人学游泳、团队氛围如何构建的故事吗？一起来听听吧，相信你会找到共鸣！\n\n相关内容扩展：\n做客《在下不才》：https://www.xiaoyuzhoufm.com/episode/676bdabf15a5fd520e7f8f19",
+  "beschreibung_html": "<p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本期节目特别不同，现场录制的年终聚会大揭秘，分享游泳训练心得！从初学到公开水域挑战，铁三爱好者们的心路历程与你分享。想知道更多关于成年人学游泳、团队氛围如何构建的故事吗？一起来听听吧，相信你会找到共鸣！</p><span><br></span><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">相关内容扩展：</strong><br><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">做客《在下不才》：</strong>https://www.xiaoyuzhoufm.com/episode/676bdabf15a5fd520e7f8f19</p><span><br></span><span><br></span>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/def6-audiofreehighqps/F8/EF/GKwRIDoLa0ADABAAAANblzGv.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_855620559",
+  "apple_collection_id": "1641451131",
+  "show": "华语流行音乐榜",
+  "titel": "华语流行音乐榜2025｜揭榜第十七期",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwMAZo6Ab9tEwOzSovy.m4a?channel=rss&album_id=70501228&track_id=855620559&uid=107542335&jt=https://aod.cos.tx.xmcdn.com/storages/00ed-audiofreehighqps/B7/75/GKwRIRwMAZo6Ab9tEwOzSovy.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29322515,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T09:19:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "华语流行音乐榜2025第十七期节目，揭晓本周各单曲排名与最新华语乐坛动态。",
+  "kurzfassung": "本期节目盘点2025年第十七期华语流行音乐榜单，详细介绍周深全新EP先行曲《嗨人间》的创作背景。节目中依次揭晓并播放了李宇春、菲道尔、银河快递与门尼、任贤齐、张靓颖、王以太以及李健等歌手的最新作品与排名变化。最后以蔡淳佳的新歌预告与周末祝福结束本期节目。",
+  "stichpunkte": [
+    "周深发布2025全新个人EP《小深情》，首播主打歌《嗨人间》由姚倩和陈小霞共同创作。",
+    "李宇春演唱的电影《水角皇后》主题曲《信》作为新歌初上榜即位列第五位。",
+    "菲道尔的《你会来看我吗》重新回归前五位，位居第四，歌曲探讨离别与温柔的意义。",
+    "银河快递与门尼合作演唱的《来吧占领我的无私》现场版展现了与原版不同的爱而不得的情感。",
+    "陈杰宜的《落花如雨》本周位居第二十五位，创下榜单较大降幅。",
+    "任贤齐的《常来》排在第二位，该曲与其世界巡回演唱会中感受到的歌迷温情息息相关。",
+    "张靓颖与王以太合作的《跳楼机》位列第三位，以游乐场设施比喻爱情的起伏不定。",
+    "张靓颖与汪苏龙合唱的电视剧《聂无双》主题曲《情骨》上升至第二位。",
+    "李健的《无论风往何处吹》作为新歌夺得本期榜单冠军，该曲结合了摇滚元素与清新旋律。"
+  ],
+  "kapitel": [
+    {
+      "titel": "新歌介绍：周深《嗨人间》",
+      "start": 605.38
+    },
+    {
+      "titel": "榜单第五位：李宇春《信》",
+      "start": 714.86
+    },
+    {
+      "titel": "榜单第四位：菲道尔《你会来看我吗》",
+      "start": 1042.7
+    },
+    {
+      "titel": "中游歌曲及银河快递、门尼《来吧占领我的无私》",
+      "start": 1483.66
+    },
+    {
+      "titel": "陈杰宜《落花如雨》与任贤齐《常来》",
+      "start": 2128.06
+    },
+    {
+      "titel": "榜单第三位：张靓颖、王以太《跳楼机》",
+      "start": 2473.08
+    },
+    {
+      "titel": "榜单第二位：张靓颖、汪苏龙《情骨》",
+      "start": 2771.84
+    },
+    {
+      "titel": "榜单冠军：李健《无论风往何处吹》",
+      "start": 3063.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T09:19:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3622,
+  "veroeffentlicht": "2025-05-20T01:10:51+00:00",
+  "beschreibung": "华语流行音乐榜2025｜常规节目Vol.17\n第一位：李健《无论风往何处吹》\n第二位：汪苏泷/张靓颖《情骨》\n第三位：张靓颖/王以太《跳楼机》",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">华语流行音乐榜2025｜常规节目Vol.17</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">第一位：李健《无论风往何处吹》</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">第二位：汪苏泷/张靓颖《情骨》</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">第三位：张靓颖/王以太《跳楼机》</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3367-audiofreehighqps/4B/6E/GKwRIasG22GnAArZHAGWuo4W.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

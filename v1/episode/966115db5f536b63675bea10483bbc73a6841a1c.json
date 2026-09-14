@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "6a62d248a3fec224d5a280e6",
+  "apple_collection_id": "1809287844",
+  "show": "游戏八分半",
+  "titel": "对话勿巽与：一边做策划外包，一边做GB独游，持续性身无分文但很快乐",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/6a62d248a3fec224d5a280e6/media.xyzcdn.net/67ea5d84bd97ce653e158c54/lmL09VzXzqLhYDyHNbcq4H3fTYWV.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 57895278,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T15:20:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "全职接外包并开发独立游戏的开发者，分享高压与创作的经历。",
+  "kurzfassung": "开发者勿巽与在经历了一场大病和行业低谷后，开始全职接策划外包并持续开发独立游戏。尽管面临巨大的经济压力、生活不稳定以及繁重的多线程工作，他依然坚持创作。节目中详细探讨了独立游戏策划外包的生存状态、报价流程以及其第三款独立游戏《阿塔那》的创作历程。",
+  "stichpunkte": [
+    "因身体原因和行业环境回老家后，开始在网上接策划外包并转向独立游戏创作。",
+    "策划外包接单难度大且效率低，多数项目无法坚持到上线，主要靠存款和少量报酬支撑生活。",
+    "外包报价从最初的凭感觉和频繁返工，逐渐演变为根据工时、时薪及修改范围来评估总价。",
+    "曾承担过多达七个项目的多线程工作，日常作息极差，工作强度极大。",
+    "分享了第二款独立游戏《龙女花》因玩法硬核和宣发不足导致市场不认可的经历。",
+    "第三款独立游戏《阿塔那》源于比赛，凭借独特的题材获得极高人气，目前正全力推进完整版上线。",
+    "众筹项目由于周边成本和税收问题导致没有盈利，将其视为一次宣发尝试。",
+    "受邀在杭州的高校开设一学年的游戏相关课程，获得了一定的教学经验与额外收入。"
+  ],
+  "kapitel": [
+    {
+      "titel": "外包与独立游戏的双轨生活",
+      "start": 1.82
+    },
+    {
+      "titel": "接单现状与报价体系的摸索",
+      "start": 238.96
+    },
+    {
+      "titel": "高强度多线程工作与健康代价",
+      "start": 1536.66
+    },
+    {
+      "titel": "独立游戏《阿塔那》的诞生与反响",
+      "start": 1995.62
+    },
+    {
+      "titel": "众筹经验、宣发困境与高校讲课",
+      "start": 3191.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T15:20:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3579,
+  "veroeffentlicht": "2026-07-28T00:00:00+00:00",
+  "beschreibung": "【嘉宾简介】\n勿巽与是一名游戏策划，目前住在杭州，一半时间接策划外包，一半时间做独立游戏。\n独立游戏作品：《Atana》、《龙女花》\n【内容简介】\nGB游戏《Atana》的创作历程、名字的由来、众筹故事等。\n接策划外包能养活自己吗？甲方客户从哪里来？\n自己做独游+接外包，已经两年没有休息过了。\n勿巽与今年9月份要去大学教学生做游戏啦。\n\nAtana宣传图\n\n策划外包的飞书文档合集（其中一部分，非全部）\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>【嘉宾简介】</p><p>勿巽与是一名游戏策划，目前住在杭州，一半时间接策划外包，一半时间做独立游戏。</p><p>独立游戏作品：《Atana》、《龙女花》</p><p>【内容简介】</p><p>GB游戏《Atana》的创作历程、名字的由来、众筹故事等。</p><p>接策划外包能养活自己吗？甲方客户从哪里来？</p><p>自己做独游+接外包，已经两年没有休息过了。</p><p>勿巽与今年9月份要去大学教学生做游戏啦。</p><p></p><img src=\"https://image.xyzcdn.net/Fs5DOC_Vnoh5FNpZsKuPH5TJ992q.png\"><h1>Atana宣传图</h1><p></p><img src=\"https://image.xyzcdn.net/FkEMsmkA-PittaH1zWNhpTa__2A0.png\"><p>策划外包的飞书文档合集（其中一部分，非全部）</p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a62d248a3fec224d5a280e6?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fjo27wAK-mp8p8IWui9HB1alVzZI.jpg",
+  "kapitel_quelle": "modell"
+}

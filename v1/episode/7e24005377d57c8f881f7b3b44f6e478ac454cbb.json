@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "guid": "a14dc58d-eb81-4b59-958c-b1c3005ed1b9",
+  "apple_collection_id": "1749986511",
+  "show": "#1 Dad",
+  "titel": "The Garden",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/fd009ca1-df4b-4685-9600-b169012bfe87/a14dc58d-eb81-4b59-958c-b1c3005ed1b9/audio.mp3?utm_source=Podcast&in_playlist=d7ccd3c0-b637-46de-91e0-b169012d6e2a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 34591537,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T03:12:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "A comedian attends a hockey game at Madison Square Garden with his con-man father.",
+  "kurzfassung": "Gary Vider attends a New York Rangers game at Madison Square Garden with his estranged father for the first time in decades. Despite discovering that his father still smuggles weapons and pulls off cons, Gary manages to let go of his resentment. The outing brings their complex relationship full circle as they share a nostalgic night at the iconic arena.",
+  "stichpunkte": [
+    "Gary and his father meet outside Madison Square Garden to attend a New York Rangers game together.",
+    "His father smuggles a six-inch switchblade past security by confusing the guards.",
+    "The father brags to neighboring fans about Gary's comedy career and past Sports Illustrated scams.",
+    "A phone call reveals the father is still embroiled in constant lawsuits and legal disputes.",
+    "Gary calls comedian friend Sam Morrel from the bathroom to process the surreal experience.",
+    "His father gifts him a bobblehead for his grandson, echoing a childhood memory from 1994.",
+    "Gary realizes his father hasn't changed into a law-abiding man, but he has let go of his own anger."
+  ],
+  "kapitel": [
+    {
+      "titel": "Entering Madison Square Garden",
+      "start": 107.48
+    },
+    {
+      "titel": "Discovering the Weapon",
+      "start": 558.12
+    },
+    {
+      "titel": "Calling Sam Morrel",
+      "start": 761.36
+    },
+    {
+      "titel": "Reflecting on the Past",
+      "start": 995.8
+    },
+    {
+      "titel": "Post-Game Realizations",
+      "start": 1330.52
+    }
+  ],
+  "clips": [
+    {
+      "hook": "It's no fun when you come in legally.",
+      "start": 213.838,
+      "ende": 233.927,
+      "laenge": 20.09,
+      "byte_start": 3473385,
+      "byte_ende": 3794794,
+      "bytes": 321410,
+      "range_header": "bytes=3473385-3794794",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 213.917,
+      "anker_sha256": "fadd3cd80b00a4cb98f918f4daa6232881e7d5cc22081ee79d40f5487fcce7d7",
+      "einblendung_ms": 60,
+      "text": "The narrator expresses disbelief about attending a Rangers game alongside his father for the first time."
+    },
+    {
+      "hook": "Smuggling a switchblade past security",
+      "start": 572.317,
+      "ende": 592.405,
+      "laenge": 20.09,
+      "byte_start": 9209039,
+      "byte_ende": 9530448,
+      "bytes": 321410,
+      "range_header": "bytes=9209039-9530448",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 572.395,
+      "anker_sha256": "a138132510bbd463465bd56ac08a7e4776c54d8c54298d45decc4bf27be0ec70",
+      "einblendung_ms": 60,
+      "text": "A childhood memory is recounted involving a lack of funds to purchase a plush toy while separated from a parent at an event."
+    },
+    {
+      "hook": "Taking Danny Ocean to a casino",
+      "start": 805.538,
+      "ende": 825.626,
+      "laenge": 20.09,
+      "byte_start": 12940577,
+      "byte_ende": 13261987,
+      "bytes": 321411,
+      "range_header": "bytes=12940577-13261987",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 805.616,
+      "anker_sha256": "b300f728e33c450ffe88212b3525ca5dbf05316228d63b051941520b6253be45",
+      "einblendung_ms": 60,
+      "text": "The hosts discuss the ongoing, unmet anticipation regarding a potential guest appearance by Adam Sandler."
+    },
+    {
+      "hook": "Holocaust survival mentality",
+      "start": 1021.962,
+      "ende": 1042.077,
+      "laenge": 20.11,
+      "byte_start": 16403369,
+      "byte_ende": 16725197,
+      "bytes": 321829,
+      "range_header": "bytes=16403369-16725197",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1022.041,
+      "anker_sha256": "c1bbca1a55b484d9d80ce02cac23586418ac8e6098cab8faa53adb234e90d6e1",
+      "einblendung_ms": 60,
+      "text": "A 37-year-old man reacts to his father jokingly offering to provide him with a fraudulent identification card."
+    },
+    {
+      "hook": "Trading it all for a regular dad",
+      "start": 1357.74,
+      "ende": 1377.855,
+      "laenge": 20.11,
+      "byte_start": 21775816,
+      "byte_ende": 22097643,
+      "bytes": 321828,
+      "range_header": "bytes=21775816-22097643",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1357.819,
+      "anker_sha256": "75029d66944f5b4bd59c30fee979387df1a2382ae18bc112ed3a4b049e2fa4ee",
+      "einblendung_ms": 60,
+      "text": "The conversation touches on the willingness to embrace unexpected opportunities, specifically mentioning a potential encounter with actor Danny McBride."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T03:12:12+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1491,
+  "veroeffentlicht": "2024-08-05T09:00:00+00:00",
+  "beschreibung": "The fondest memory Gary has with his father was sneaking into Madison Square Garden and posing as a reporter and photographer. But what would it be like if they went to a game with actual tickets? Find out in the #1 Dad series finale.\nStand-Up Tour Dates:https://punchup.live/garyvider\nWebsite: https://www.garyvider.com/\nFollow Gary:\nInstagram: https://www.instagram.com/garyvider/\nTikTok: https://www.tiktok.com/@garyvider\nFacebook: https://www.facebook.com/garyvidercomedian/\nYouTube:https://youtube.com/@garyvidercomedy?si=Q5rgRSIkOeudxpNe\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>The fondest memory Gary has with his father was sneaking into Madison Square Garden and posing as a reporter and photographer. But what would it be like if they went to a game with actual tickets? Find out in the #1 Dad series finale.</p> <p>Stand-Up Tour Dates:<a href=\"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpunchup.live%2Fgaryvider&amp;data=05%7C02%7COliviaAguilar%40iheartmedia.com%7C0fadaa944d264c4cc7fe08dc944965ef%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C638548290172823490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=oBte4biNenwoIcr41zxsGtnYFrJAM40%2Fpwx%2BKEcAdSc%3D&amp;reserved=0\" data-ogsc=\"\" data-outlook-id=\"ec2b7c0f-6977-4fe2-a27d-125b34e166f8\">https://punchup.live/garyvider</a><br>Website: <a href=\"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.garyvider.com%2F&amp;data=05%7C02%7COliviaAguilar%40iheartmedia.com%7C0fadaa944d264c4cc7fe08dc944965ef%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C638548290172835995%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=H8hJtka1EL6v7ThkxHXrxvJyhwwoBpsaugj5YhCTs60%3D&amp;reserved=0\" data-ogsc=\"\" data-outlook-id=\"aa5fe784-37fc-46b6-b57f-fbef8f4bb10d\">https://www.garyvider.com/</a></p> <p>Follow Gary:</p> <p>Instagram: <a href=\"https://www.instagram.com/garyvider/\" data-ogsc=\"\">https://www.instagram.com/garyvider/</a><br>TikTok: <a href=\"https://www.tiktok.com/@garyvider\" data-ogsc=\"\">https://www.tiktok.com/@garyvider</a><br>Facebook: <a href=\"https://www.facebook.com/garyvidercomedian/\" data-ogsc=\"\">https://www.facebook.com/garyvidercomedian/</a><br>YouTube:<a href=\"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutube.com%2F%40garyvidercomedy%3Fsi%3DQ5rgRSIkOeudxpNe&amp;data=05%7C02%7COliviaAguilar%40iheartmedia.com%7C0fadaa944d264c4cc7fe08dc944965ef%7C122a527e5b714eba878d9810b495b9e3%7C0%7C0%7C638548290172842435%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=XrVSGh361sDWRT9sGL1%2FHyYc25axshK6do6PFoS0TNg%3D&amp;reserved=0\" data-ogsc=\"\" data-outlook-id=\"f553ec81-b838-43db-8c83-e85c17b99d5e\">https://youtube.com/@garyvidercomedy?si=Q5rgRSIkOeudxpNe</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/fd009ca1-df4b-4685-9600-b169012bfe87/image.jpg?t=1772049238&size=Large",
+  "schlagworte": [
+    "#1 Dad",
+    "Episode 10",
+    "Gary Vider",
+    "Estranged Father",
+    "Madison Square Garden",
+    "NYC",
+    "New York City",
+    "Sports",
+    "Sports Illustrated for Kids",
+    "Sports Illustrated",
+    "Con Man",
+    "Con Artist",
+    "Scam",
+    "Scammer",
+    "Game Tickets",
+    "Scamming",
+    "Father and Son",
+    "Estranged Relative",
+    "Reconnecting"
+  ],
+  "folgennummer": 10,
+  "kapitel_quelle": "modell"
+}

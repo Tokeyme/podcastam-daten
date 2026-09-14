@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_551892070",
+  "apple_collection_id": "1636292406",
+  "show": "懂点心理学《人性的弱点》",
+  "titel": "懂一点心理学《人性的弱点》第一章01",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEGpT0gAEB66QF-RTTP.m4a?channel=rss&album_id=69512024&track_id=551892070&uid=45567049&jt=https://aod.cos.tx.xmcdn.com/storages/6f73-audiofreehighqps/94/CB/GKwRIJEGpT0gAEB66QF-RTTP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4225769,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T18:53:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨人性的弱点，解析罪犯与历史人物为何从不自我批评。",
+  "kurzfassung": "本集探讨了人类从不自我批评的心理现象，通过双枪克劳雷、卡邦及监狱犯人的案例，说明罪犯在作恶后往往认为自己无辜。接着指出批评不仅毫无用处，反而会激发人的防御与反抗。最后以罗斯福和塔夫特总统的争论为例，进一步佐证批评无法让人真正反省。",
+  "stichpunkte": [
+    "1931年纽约警察局围捕被称为双枪克劳雷的危险罪犯。",
+    "克劳雷在被捕前写信称自己有一颗仁慈且疲惫的心，至死认为自己是在保卫自己。",
+    "美国头号公敌卡邦和监狱负责人均表示，重罪犯极少有人承认自己是坏人或自我责备。",
+    "华纳梅格三十年前便明白责备人是愚蠢的事，批评毫无用处且十分危险。",
+    "批评会增加人的防御心理并伤害自尊，激起不必要的反抗。",
+    "罗斯福离开白宫后指责继任者塔夫特，导致共和党分裂并让威尔逊入主白宫。",
+    "塔夫特面对指责流泪辩解自己不知该如何做得不同，从未对批评进行自我反省。"
+  ],
+  "kapitel": [
+    {
+      "titel": "双枪克劳雷的落网与自白",
+      "start": 20.34
+    },
+    {
+      "titel": "罪犯从不自我责备的心理",
+      "start": 215.42
+    },
+    {
+      "titel": "批评的无用性与危险性",
+      "start": 322.2
+    },
+    {
+      "titel": "罗斯福与塔夫特的政治争论",
+      "start": 413.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T18:53:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 521,
+  "veroeffentlicht": "2022-07-14T02:06:06+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c3af-audiofreehighqps/7C/BC/GMCoOSMGpTxdAAJurAF-RJ4h.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

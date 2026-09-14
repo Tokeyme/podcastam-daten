@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_792895687",
+  "apple_collection_id": "1843803998",
+  "show": "职场对谈",
+  "titel": "什么是正常的职场？（下）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqhp50LVpcBABAAAANQhoOp.m4a?channel=rss&album_id=84985807&track_id=792895687&uid=507739129&jt=https://aod.cos.tx.xmcdn.com/storages/ebcd-audiofreehighqps/01/22/GAqhp50LVpcBABAAAANQhoOp.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 25545099,
+    "format": "m4a",
+    "geprueft_am": "2026-09-02T18:16:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨职场中的责任转移、犯错心理、劳动成果被占及讨好领导等现象。",
+  "kurzfassung": "播客探讨了职场中常见的责任转移与犯错心理，指出工作失误无需过度苛责，应以自然心态面对。同时，节目分析了劳动成果被占、职场打压及讨好领导等现象，鼓励职场人坚守自我边界、维护自身权益。最后，嘉宾呼吁建立健康的自我价值感，并预告了未来将探讨加班与应酬等话题。",
+  "stichpunkte": [
+    "分析职场中常见的责任转移现象，指出工作中的小分叉和失误并非大事，无需过度放大。",
+    "对比两位咨询师对excel表格犯错的不同处理方式，强调犯错是正常现象，不应受到苛责。",
+    "探讨职场劳动成果被同事或领导无意识或故意拿走的情况，建议明确表达个人需求。",
+    "指出团队项目中的牺牲应保持适度，若长期遭遇打压应敢于更换环境。",
+    "强调职场中保护个人合法权益和建立良好工作边界的重要性。",
+    "提出真正的自我成就来源于内心的成长，与名利地位无关。",
+    "分析讨好领导的心理机制，指出讨好与打压往往是共谋的结果，保持边界反而能赢得尊重。"
+  ],
+  "kapitel": [
+    {
+      "titel": "职场中的责任转移与犯错心理",
+      "start": 5.62
+    },
+    {
+      "titel": "心理咨询视角下的职场容错与疗愈",
+      "start": 188.22
+    },
+    {
+      "titel": "劳动成果被占与职场权益维护",
+      "start": 368.1
+    },
+    {
+      "titel": "团队牺牲与职场打压的识别",
+      "start": 1030.98
+    },
+    {
+      "titel": "建立自我价值感与应对讨好领导",
+      "start": 1231.68
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-02T18:16:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1682,
+  "veroeffentlicht": "2025-01-10T08:02:19+00:00",
+  "beschreibung": "在我们有所知之前就卷入了职场中，跟随着大家的脚步一起走，\n职场中发生的事情好似不应该这样，但又像生活的缩影，似乎可能就是这样。\n有不解，有愤怒，有暴躁，也有妥协。\n那么正常的职场环境应该是什么样子的？本期从心理咨询的角度，一起聊一聊我们认知的职场。",
+  "beschreibung_html": "在我们有所知之前就卷入了职场中，跟随着大家的脚步一起走，<br>职场中发生的事情好似不应该这样，但又像生活的缩影，似乎可能就是这样。<br>有不解，有愤怒，有暴躁，也有妥协。<br>那么正常的职场环境应该是什么样子的？本期从心理咨询的角度，一起聊一聊我们认知的职场。",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3c90-audiofreehighqps/4A/41/GKwRIJILVpcKAAD4ggNQho0p.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

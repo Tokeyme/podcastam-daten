@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1002244946",
+  "apple_collection_id": "1653184909",
+  "show": "美国思维：财经版",
+  "titel": "梅西老了之后，樊振东破圈成全球最有价值球员之一。",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEONf8MACUECgS7D9Ty.m4a?channel=rss&album_id=11087682&track_id=1002244946&uid=55301019&jt=https://aod.cos.tx.xmcdn.com/storages/9b71-audiofreehighqps/BD/5D/GKwRIJEONf8MACUECgS7D9Ty.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2425866,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:16:26+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨世界杯决赛、樊振东商业价值、科技行业动态及地缘政治事件。",
+  "kurzfassung": "本期节目综合探讨了体育、娱乐、科技与地缘政治等多个领域的近期热点。首先回顾了世界杯决赛中西班牙对阵阿根廷的战况，随后提及樊振东成为全球最具价值乒乓球运动员之一。最后讨论了人形机器人采购数据、台积电海外动态、半导体产业以及中东局势对美国军备库存的影响。",
+  "stichpunkte": [
+    "西班牙队在世界杯决赛中以绝对掌控能力击败阿根廷捧杯，阿根廷门将马丁·内斯表现神勇但球队因红牌落败。",
+    "樊振东代言东东鞋并打破流量明星常规，成为目前全球最有价值的乒乓球运动员。",
+    "演员谢贤去世，其曾在1987版剧集中扮演杨康的父亲杨铁星。",
+    "WIC机器人的意向采购数据证明了其实力表现。",
+    "纽约世界杯上空的无人机规模和颜色引发了与重庆的对比讨论。",
+    "台积电在亚利桑那州的布局引发关注，节目中穿插了关于大环境与经济发展的讨论。",
+    "三星与英伟达联盟建立微润专线，用于Vera Rubin第十代VT的量产。",
+    "对伊朗的战争迅速消耗了美国的武器库存，包括战斧巡航导弹和爱国者拦截弹药。"
+  ],
+  "kapitel": [
+    {
+      "titel": "体育赛事与乒乓球近况",
+      "start": 0.0
+    },
+    {
+      "titel": "文娱动态与科技产业观察",
+      "start": 121.58
+    },
+    {
+      "titel": "半导体股票与地缘政治局势",
+      "start": 214.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:16:26+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 299,
+  "veroeffentlicht": "2026-07-22T03:41:49+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/27dc-audiofreehighqps/14/E6/GAqhy90ONf72AAv5KwS7D8qF.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

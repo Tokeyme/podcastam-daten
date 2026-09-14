@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_859977492",
+  "apple_collection_id": "1817168444",
+  "show": "言之有李|商业&社会分析",
+  "titel": "即时零售大战，谁能赢？8分钟搞懂逻辑",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIMDMGQADt9gwO6Bs-X.m4a?channel=rss&album_id=70217637&track_id=859977492&uid=416627905&jt=https://aod.cos.tx.xmcdn.com/storages/88b9-audiofreehighqps/C0/11/GKwRIJIMDMGQADt9gwO6Bs-X.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3898755,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:59:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨即时零售大战的商业逻辑、火爆原因及各巨头的胜算。",
+  "kurzfassung": "本期节目从“是什么”、“为什么”和“凭什么”三个维度深入剖析了即时零售的商业逻辑与社会影响。高频急需是即时零售存在的根本前提，巨头入局主要是为了寻找新的流量与增长点。然而，如何在成本大幅增加的情况下破解结构性难题，将决定这场大战的最终胜局。",
+  "stichpunkte": [
+    "即时零售的核心在于高频急需的消费需求，餐饮和咖啡茶饮构成了即时零售1.0版本。",
+    "传统电商和外卖业务面临增长瓶颈与盈利下降，迫使各大平台向即时零售寻找新流量。",
+    "美团通过即时配送网络获得了显著营收增长，并早已涉足药品、鲜花和3C等品类。",
+    "即时零售在社会层面具有推动消费、提供就业等重要意义。",
+    "企业在开展即时零售时面临成本大幅增加的结构性难题，尤其是人力成本和社保支出。",
+    "即时零售的胜出者必然是运营管理效率的佼佼者，而不是依靠价格战或宣传的企业。",
+    "相比京东和阿里系，美团在即时零售1.0版和万物半小时的探索中表现出更成熟的运营管理效率。"
+  ],
+  "kapitel": [
+    {
+      "titel": "即时零售是什么",
+      "start": 51.92
+    },
+    {
+      "titel": "即时零售为什么火爆",
+      "start": 166.16
+    },
+    {
+      "titel": "即时零售凭什么与未来胜局",
+      "start": 285.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:59:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 481,
+  "veroeffentlicht": "2025-05-28T12:16:00+00:00",
+  "beschreibung": "早就存在的“即时零售”，为何近来爆火？\n“即时零售”存在结构性难题，为何一众商界大鳄亡命肉搏？\n我从“是什么”“为什么”“凭什么”三个维度，为大家阐释“即时零售”的逻辑本质。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">早就存在的“即时零售”，为何近来爆火？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">“即时零售”存在结构性难题，为何一众商界大鳄亡命肉搏？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我从“是什么”“为什么”“凭什么”三个维度，为大家阐释“即时零售”的逻辑本质。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4b8a-audiofreehighqps/E1/A7/GAqh4zIMDMHrAAPJhQO6Bx2q.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

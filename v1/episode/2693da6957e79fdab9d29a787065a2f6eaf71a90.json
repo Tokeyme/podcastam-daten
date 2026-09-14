@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_514549401",
+  "apple_collection_id": "1616386196",
+  "show": "3-6岁儿童科学百科故事|睡前科普故事",
+  "titel": "【天文地理】夜晚 | 亲亲科学图书馆",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsGFL_jADD5vAEv21Kf.m4a?channel=rss&album_id=60789081&track_id=514549401&uid=231083874&jt=https://aod.cos.tx.xmcdn.com/storages/ad5e-audiofreehighqps/D9/66/GKwRINsGFL_jADD5vAEv21Kf.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3209660,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:58:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探索夜晚的科学奥秘，了解地球自转、夜行动物以及大自然的夜间景象。",
+  "kurzfassung": "本期节目介绍了夜晚的成因，解释了地球自转导致昼夜更替的原理。同时，节目探讨了城市与乡村的夜间生活、各种夜行动物的生存方式以及北极的极夜现象。最后，节目鼓励小朋友们享受夜晚的睡眠并进入甜美的梦乡。",
+  "stichpunkte": [
+    "地球自转形成了白天和黑夜的交替。",
+    "古代依靠火把和蜡烛照明，如今城市夜晚灯火辉煌，各行各业的人们仍在坚守岗位。",
+    "乡村的夜晚十分静谧，植物合上花瓣，许多小动物进入梦乡。",
+    "刺猬、狐狸、野猪和蝙蝠等夜行动物在天黑后开始觅食。",
+    "猫头鹰和猫在黑暗中拥有极佳的视力。",
+    "洞穴深处和海底深处由于阳光无法照射，终年漆黑。",
+    "夜空中闪烁的是距离遥远的恒星，而月球距离地球较近。",
+    "北极地区的冬季会经历没有白天的漫长极夜。"
+  ],
+  "kapitel": [
+    {
+      "titel": "夜晚的由来与历史照明",
+      "start": 11.1
+    },
+    {
+      "titel": "现代的夜生活与乡村的静谧",
+      "start": 108.32
+    },
+    {
+      "titel": "夜行动物与黑暗中的视力",
+      "start": 184.92
+    },
+    {
+      "titel": "恒星、月亮与极夜现象",
+      "start": 301.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:58:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 396,
+  "veroeffentlicht": "2022-03-25T12:29:00+00:00",
+  "beschreibung": "深夜，面包师正在烤着第二天的面包，火车载着乘客继续前进，蝙蝠纷纷离开了巢穴出来觅食……\n小朋友，你一定在呼呼大睡吧？睡梦中的你正在偷偷长个儿呢！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">深夜，面包师正在烤着第二天的面包，火车载着乘客继续前进，蝙蝠纷纷离开了巢穴出来觅食……</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">小朋友，你一定在呼呼大睡吧？睡梦中的你正在偷偷长个儿呢！</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0125-audiofreehighqps/EA/84/GKwRIDoGExj6AAKiWgEvHu5X.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

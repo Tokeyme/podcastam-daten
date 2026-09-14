@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1000884714",
+  "apple_collection_id": "1513873725",
+  "show": "子非鱼",
+  "titel": "E120｜对话雷镇环：社会科学怎样重新接近真实世界？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OLMJ1AjTTiAS20xn0.m4a?channel=rss&album_id=37750423&track_id=1000884714&uid=16715170&jt=https://aod.cos.tx.xmcdn.com/storages/8681-audiofreehighqps/2B/C2/GKwRIW4OLMJ1AjTTiAS20xn0.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 37016456,
+    "format": "m4a",
+    "geprueft_am": "2026-09-13T14:45:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "对话雷镇环：社会科学研究如何重新接近真实世界的复杂性",
+  "kurzfassung": "本期节目对话上海交通大学的雷镇环老师，探讨了社会科学研究中跨学科交流、定量与定性方法的结合以及田野调查的重要性。雷镇环分享了他从纯定量研究转向注重实地调研的心路历程，并以人大立法和推二线制度等研究为例，阐述了政治经济学如何揭示政策背后的真实运作逻辑。最后，嘉宾讨论了AI时代下学者如何应对科研、教学与社会服务的转型挑战。",
+  "stichpunkte": [
+    "跨学科交流能够打破学者的研究盲区，例如与法学家交流促使社科研究者更关注案件与文书披露的非随机性问题。",
+    "雷镇环分享了从纽约大学定量政治学训练转向注重田野调研的经历，强调不能让统计技术完全替代对真实个体的了解。",
+    "在调研方法上，通过跨区域交叉验证、吃透公开信息、不录音建立信任以及定期复盘，确保获取真实有效的田野信息。",
+    "政治学与经济学在使用相同计量工具（如DID）时存在差异，政治学更强调理论框架（Theory Section）和以小见大的机制。",
+    "政治经济学研究需要关注地方政府与官员，这对于理解中国经济与政治的深层逻辑至关重要。",
+    "通过对全国人大常委会立法过程的研究发现，立法并非简单的橡皮图章，而是存在多方博弈和复杂的审议机制。",
+    "推二线制度并非人走茶凉，研究表明退居二线的老干部在人大专门委员会中能显著提升修正案的数量和质量。",
+    "面对AI时代的冲击与社会信任的挑战，学者需要推动科研成果向教学与社会服务转化，建立与公众的有效沟通渠道。"
+  ],
+  "kapitel": [
+    {
+      "titel": "跨学科交流与研究盲区",
+      "start": 91.92
+    },
+    {
+      "titel": "从定量到田野：研究范式的调整",
+      "start": 345.6
+    },
+    {
+      "titel": "国别背景与社会科学的一般性规律",
+      "start": 761.16
+    },
+    {
+      "titel": "田野调查的方法论与信任建立",
+      "start": 975.06
+    },
+    {
+      "titel": "经济学与政治学研究范式的差异",
+      "start": 1465.14
+    },
+    {
+      "titel": "政治经济学研究的趋势与意义",
+      "start": 2128.3
+    },
+    {
+      "titel": "学术研究面临的时代挑战与转型",
+      "start": 2463.24
+    },
+    {
+      "titel": "人大立法与政策博弈研究",
+      "start": 2888.68
+    },
+    {
+      "titel": "推二线制度与老干部在立法中的作用",
+      "start": 3554.56
+    },
+    {
+      "titel": "AI时代的科研冲击与未来展望",
+      "start": 4337.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-13T14:45:57+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4572,
+  "veroeffentlicht": "2026-07-15T03:29:35+00:00",
+  "beschreibung": "Introduction\n这期播客中，雷镇环老师从方法谈起，介绍了自己作为一位定量训练出身的政治学者为什么会越来越重视调研、田野和制度过程本身。一系列问题由此展开：跨学科交流为什么重要？做中国研究，怎样在“熟悉本土”与“提炼一般规律”之间切换？调研怎样开展，才能避免沦为“走马观花”？\n在本期播客后半段，雷镇环老师以近来关于全国人大常委会的研究为例，介绍了其关于中国立法过程的最新研究成果。从物权法到特别国债，从财政资金使用到刑事责任界定……那些常被想象成“自动通过”的法案，事实上要经过漫长而复杂的制订流程；而我们对中国政治与政策的理解，也要从这些具体而细密的制度环节重新开始。\nSpeaker\n雷镇环，现任上海交通大学国际与公共事务学院副教授、博士生导师，入选国家级高层次青年人才计划和上海市白玉兰人才计划浦江项目。研究方向为政治与制度经济学、法律政治经济学和中国政治经济。在加入上海交大前，他曾担任美国威斯康星大学麦迪逊分校政治学和公共政策助理教授（2020-2024）和北京大学国家发展研究院访问学者（2022-2023）。他的研究成果发表于Comparative Political Studies, Journal of Comparative Economics, Journal of Political Institutions and Political Economy, the Journal of Politics, Studies in Comparative International Development，《学术月刊》和《国家现代化建设研究》。他和郭士祺、胡雨霄共同发起和主持了上海交大政经/发展工作坊。\nHighlights\n01:50 跨学科交流不是点缀，而是学者本来就该做的事\n07:48 当研究路径一眼望到头，职业上的安稳感也会变成方法上的危机感\n12:41 做中国研究，既要熟悉中国，也不能把自己困在中国经验里\n16:14 调研为什么常常沦为“参观”，真正有收获的调研又该怎样做\n17:30田野首先不是证据仓库，而是发现问题和修正直觉的现场\n22:47 很少有第一次调研就能听到全部真话，“回头看”往往比首次进入更重要\n24:47 同样使用双重差分法（DID），政治学和经济学有什么不同\n31:00 在政治学论文中德“理论部分”\n36:55学者转向制度、历史与思想的研究，并非“不务正业”\n39:07 当社会科学不断被质疑，学术研究该怎样重新面对它的“观众”\n47:13 公众并非不关心国家如何运作，只是学者还没有把次元壁打破\n48:09 从人大立法切入，重新理解中国政策制定过程\n53:43 物权法八次上会才通过，立法从来不是一个自动完成的动作\n58:25 “退二线”是一种让经验继续发挥作用的制度设计\n01:08:06 特别国债怎样发、发多少、用到哪里，人大和政府的关注点并不相同\n01:12:16 AI越强，越逼着学者去做那些模型和语料库替代不了的研究\n01:13:06 人的优势所在：互联网之外的历史材料，此刻田野里正在发生的事\nReference\n李鹏，《立法与监督——李鹏人大日记》，新华出版社。\n柳随年，《我在人大十年》，中国民主法制出版社\nLei, Zhenhuan, Nailong Shi, and Zeyi Song, “Do Full-Time Lawmakers Strengthen Legislative Assertiveness under a Single Ruling Party? Evidence from China.” Working Paper.\nLei, Zhenhuan, Chuan Liu, and Anchu Wang, “The Personnel Foundations of Legislative Capacity Under a Single Ruling Party: Evidence from China’s Second-Line Elites.” Working Paper. （更早版本的题目为“From Office to Oversight: Retiring Senior Officials and Legislative Assertiveness in China”）\n公众号：《里德政经笔记》\nBGM\n程锦远《我的好大歌》\nEditors\n剪辑：尹佳\n出品：巨有文化",
+  "beschreibung_html": "<p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Introduction</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期播客中，雷镇环老师从方法谈起，介绍了自己作为一位定量训练出身的政治学者为什么会越来越重视调研、田野和制度过程本身。一系列问题由此展开：跨学科交流为什么重要？做中国研究，怎样在“熟悉本土”与“提炼一般规律”之间切换？调研怎样开展，才能避免沦为“走马观花”？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">在本期播客后半段，雷镇环老师以近来关于全国人大常委会的研究为例，介绍了其关于中国立法过程的最新研究成果。从物权法到特别国债，从财政资金使用到刑事责任界定……那些常被想象成“自动通过”的法案，事实上要经过漫长而复杂的制订流程；而我们对中国政治与政策的理解，也要从这些具体而细密的制度环节重新开始。</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Speaker</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">雷镇环，现任上海交通大学国际与公共事务学院副教授、博士生导师，入选国家级高层次青年人才计划和上海市白玉兰人才计划浦江项目。研究方向为政治与制度经济学、法律政治经济学和中国政治经济。在加入上海交大前，他曾担任美国威斯康星大学麦迪逊分校政治学和公共政策助理教授（2020-2024）和北京大学国家发展研究院访问学者（2022-2023）。他的研究成果发表于Comparative Political Studies, Journal of Comparative Economics, Journal of Political Institutions and Political Economy, the Journal of Politics, Studies in Comparative International Development，《学术月刊》和《国家现代化建设研究》。他和郭士祺、胡雨霄共同发起和主持了上海交大政经/发展工作坊。</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Highlights</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:50</a> 跨学科交流不是点缀，而是学者本来就该做的事</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">07:48</a> 当研究路径一眼望到头，职业上的安稳感也会变成方法上的危机感</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">12:41</a> 做中国研究，既要熟悉中国，也不能把自己困在中国经验里</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">16:14</a> 调研为什么常常沦为“参观”，真正有收获的调研又该怎样做</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">17:30</a>田野首先不是证据仓库，而是发现问题和修正直觉的现场</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">22:47</a> 很少有第一次调研就能听到全部真话，“回头看”往往比首次进入更重要</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">24:47</a> 同样使用双重差分法（DID），政治学和经济学有什么不同</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">31:00</a> 在政治学论文中德“理论部分”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">36:55</a>学者转向制度、历史与思想的研究，并非“不务正业”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">39:07</a> 当社会科学不断被质疑，学术研究该怎样重新面对它的“观众”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">47:13</a> 公众并非不关心国家如何运作，只是学者还没有把次元壁打破</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">48:09</a> 从人大立法切入，重新理解中国政策制定过程</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">53:43</a> 物权法八次上会才通过，立法从来不是一个自动完成的动作</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">58:25</a> “退二线”是一种让经验继续发挥作用的制度设计</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:08:06</a> 特别国债怎样发、发多少、用到哪里，人大和政府的关注点并不相同</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:12:16</a> AI越强，越逼着学者去做那些模型和语料库替代不了的研究</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:13:06</a> 人的优势所在：互联网之外的历史材料，此刻田野里正在发生的事</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Reference</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">李鹏，《立法与监督——李鹏人大日记》，新华出版社。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">柳随年，《我在人大十年》，中国民主法制出版社</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Lei, Zhenhuan, Nailong Shi, and Zeyi Song, “Do Full-Time Lawmakers Strengthen Legislative Assertiveness under a Single Ruling Party? Evidence from China.” Working Paper.</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Lei, Zhenhuan, Chuan Liu, and Anchu Wang, “The Personnel Foundations of Legislative Capacity Under a Single Ruling Party: Evidence from China’s Second-Line Elites.” Working Paper. （更早版本的题目为“From Office to Oversight: Retiring Senior Officials and Legislative Assertiveness in China”）</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">公众号：《里德政经笔记》</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">BGM</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">程锦远《我的好大歌》</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Editors</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">剪辑：尹佳</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">出品：巨有文化</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/58f3-audiofreehighqps/73/06/GKwRINsFst-sAAERVQEMAhKf.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

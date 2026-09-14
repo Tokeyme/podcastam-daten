@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19660977",
+  "apple_collection_id": "1705109737",
+  "show": "Life After I Do Podcast",
+  "titel": "Our 2 Cents Vol. 38: Friends, Affairs, and Consequences",
+  "audio": {
+    "url": "https://www.buzzsprout.com/2239379/episodes/19660977-our-2-cents-vol-38-friends-affairs-and-consequences.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 48685617,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:48:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Parents discuss birthday expenses, relationship boundaries, and messy affair stories.",
+  "kurzfassung": "The hosts reflect on their daughter turning nine and the high costs of parenting. They read and respond to listener submissions about relationship boundaries, social media posting disputes, and complicated affairs. The episode concludes with listener comments and thoughts on opposite-sex friendships.",
+  "stichpunkte": [
+    "Daughter Phoenix turns nine, prompting reflections on growing up and high expenses",
+    "Discussion on a partner's mother overstaying at a summer vacation property",
+    "A listener asks if she should make her picky boyfriend cook his own food",
+    "Debate over a boyfriend not posting his girlfriend on her 30th birthday",
+    "A woman's bizarre encounter with an ex-godmother demanding phone photos",
+    "An update on an affair involving an abusive ex-husband's best friend",
+    "Listener comments on previous relationship dilemmas and podcast stories"
+  ],
+  "kapitel": [
+    {
+      "titel": "Cold Open: Raccoon Ankle Dinner",
+      "start": 0.0
+    },
+    {
+      "titel": "Welcome Back to Life After I Do",
+      "start": 36.0
+    },
+    {
+      "titel": "August Is Expensive",
+      "start": 83.0
+    },
+    {
+      "titel": "Phoenix Turns Nine",
+      "start": 144.0
+    },
+    {
+      "titel": "Birthday Skincare and Sephora Trips",
+      "start": 179.0
+    },
+    {
+      "titel": "Moe Realizes His Baby Is Growing Up",
+      "start": 400.0
+    },
+    {
+      "titel": "Nesha Is Back on Acai Bowls",
+      "start": 517.0
+    },
+    {
+      "titel": "Our 2 Cents Begins",
+      "start": 670.0
+    },
+    {
+      "titel": "Mother-in-Law Takes Over the Summer House",
+      "start": 733.0
+    },
+    {
+      "titel": "Boyfriend Refuses Frozen Food and Leftovers",
+      "start": 991.0
+    },
+    {
+      "titel": "Boyfriend Didn’t Post Her for Her Birthday",
+      "start": 1185.0
+    },
+    {
+      "titel": "Godmother Gets Weird About Phone Pictures",
+      "start": 1747.0
+    },
+    {
+      "titel": "Caught With a Burger",
+      "start": 2073.0
+    },
+    {
+      "titel": "Update: Affair With the Ex-Husband’s Best Friend",
+      "start": 2521.0
+    },
+    {
+      "titel": "Quick Two Cents: Opposite-Sex Friendships in Marriage",
+      "start": 3301.0
+    },
+    {
+      "titel": "Comment of the Week",
+      "start": 3672.0
+    },
+    {
+      "titel": "Closing: New Episodes Every Wednesday",
+      "start": 4046.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Working for the next 20 years",
+      "start": 102.139,
+      "ende": 123.272,
+      "laenge": 21.13,
+      "byte_start": 1290798,
+      "byte_ende": 1544394,
+      "bytes": 253597,
+      "range_header": "bytes=1290798-1544394",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 102.217,
+      "anker_sha256": "e9d94ba8e3bc3c3c39c73adcb66471f412bc934e0f9ca0e9dad43c5438a9a3aa",
+      "einblendung_ms": 60,
+      "text": "The hosts discuss the high financial costs of maintaining their lifestyle during the month of August."
+    },
+    {
+      "hook": "She doesn't like you",
+      "start": 919.98,
+      "ende": 940.095,
+      "laenge": 20.11,
+      "byte_start": 11104898,
+      "byte_ende": 11346268,
+      "bytes": 241371,
+      "range_header": "bytes=11104898-11346268",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 920.059,
+      "anker_sha256": "8a58b0dea35e2bf02d05843d79a7255fb3d142f9420801c9883016084b8c146e",
+      "einblendung_ms": 60,
+      "text": "The speakers analyze a strained relationship with a mother-in-law who is intentionally creating conflict."
+    },
+    {
+      "hook": "Does a social media like mean you love me?",
+      "start": 1580.042,
+      "ende": 1600.157,
+      "laenge": 20.11,
+      "byte_start": 19025642,
+      "byte_ende": 19267013,
+      "bytes": 241372,
+      "range_header": "bytes=19025642-19267013",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1580.121,
+      "anker_sha256": "fde85104444b7c4de9e20852ca6f13b3bbfb7fab3e3172fb82af9075dfed39a4",
+      "einblendung_ms": 60,
+      "text": "A debate arises over whether public social media displays of affection actually strengthen a romantic partnership."
+    },
+    {
+      "hook": "Enjoy your burger",
+      "start": 2244.441,
+      "ende": 2274.56,
+      "laenge": 30.12,
+      "byte_start": 26998423,
+      "byte_ende": 27359852,
+      "bytes": 361430,
+      "range_header": "bytes=26998423-27359852",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2244.519,
+      "anker_sha256": "bdea4cf845c54626f9061bd302be33c598a738f09f08dc6659049a25deb5559f",
+      "einblendung_ms": 60,
+      "text": "A witness spots Betty dining with another man, prompting a confrontational text message to expose her infidelity."
+    },
+    {
+      "hook": "Why not just be together?",
+      "start": 2879.504,
+      "ende": 2905.678,
+      "laenge": 26.17,
+      "byte_start": 34619177,
+      "byte_ende": 34933272,
+      "bytes": 314096,
+      "range_header": "bytes=34619177-34933272",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2879.582,
+      "anker_sha256": "5b68542bc2c8d536ccba9cfdf87ddcd7e5fd924c3eec95277f072483dfd59e98",
+      "einblendung_ms": 60,
+      "text": "The hosts question why a couple with a strong emotional connection has not yet formalized their commitment."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:48:05+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4045,
+  "veroeffentlicht": "2026-08-19T03:00:00-07:00",
+  "beschreibung": "Our 2 Cents Vol. 38 brings a full lineup of Booski stories about boundaries, friendships, family entitlement, social media expectations, cheating, and the complicated space between support and disrespect. Nesha G and Moelethal respond to situations where people are trying to figure out what is fair, what is messy, and what needs to be addressed before resentment takes over.\nIn this episode, we discuss a mother-in-law treating a summer apartment like it belongs to her, a picky boyfriend refusing frozen food and leftovers, and a woman wondering if her boyfriend should have posted her for her 30th birthday. Nesha and Moe also react to a godmother acting strangely about seeing pictures on a phone, a friend using an inside joke to torment a cheating woman, and a follow-up from the woman involved with her abusive ex-husband’s best friend.\nThe episode also asks whether opposite-sex friendships can work in marriage. Through every story, the answer keeps coming back to boundaries, communication, respect, and whether everyone involved understands the role they are supposed to play.\nSend us Fan Mail\nSupport the show\nThanks for rocking with us! Don’t forget to follow Life After I Do so you never miss an episode. Got a relationship situation you want us to weigh in on? Hit us at https://beacons.ai/laidpodcast — we just might talk about it in a future episode.",
+  "beschreibung_html": "<p>Our 2 Cents Vol. 38 brings a full lineup of Booski stories about boundaries, friendships, family entitlement, social media expectations, cheating, and the complicated space between support and disrespect. Nesha G and Moelethal respond to situations where people are trying to figure out what is fair, what is messy, and what needs to be addressed before resentment takes over.</p><p>In this episode, we discuss a mother-in-law treating a summer apartment like it belongs to her, a picky boyfriend refusing frozen food and leftovers, and a woman wondering if her boyfriend should have posted her for her 30th birthday. Nesha and Moe also react to a godmother acting strangely about seeing pictures on a phone, a friend using an inside joke to torment a cheating woman, and a follow-up from the woman involved with her abusive ex-husband’s best friend.</p><p>The episode also asks whether opposite-sex friendships can work in marriage. Through every story, the answer keeps coming back to boundaries, communication, respect, and whether everyone involved understands the role they are supposed to play.</p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2239379/fan_mail/new\">Send us Fan Mail</a></p><p><a rel=\"payment\" href=\"https://www.patreon.com/15647062/join\">Support the show</a></p><p> Thanks for rocking with us! Don’t forget to follow <em>Life After I Do</em> so you never miss an episode. Got a relationship situation you want us to weigh in on? Hit us at <a href='https://beacons.ai/laidpodcast'>https://beacons.ai/laidpodcast</a> — we just might talk about it in a future episode. </p>",
+  "schlagworte": [
+    "Our 2 Cents Vol 38",
+    "opposite-sex friendships in marriage",
+    "relationship boundaries",
+    "mother-in-law boundaries",
+    "social media expectations",
+    "cheating friends",
+    "Life After I Do",
+    "black marriage podcast",
+    "Booski submissions",
+    "marriage advice"
+  ],
+  "folgennummer": 151,
+  "kapitel_quelle": "betreiber",
+  "bild_url": "https://storage.buzzsprout.com/b057ho93wp3miehu8isjuoyfqiz4?.jpg"
+}

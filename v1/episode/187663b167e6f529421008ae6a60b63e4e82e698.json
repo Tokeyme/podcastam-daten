@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/bf03-audiofreehighqps/24/9B/CKwRIUEFBl8_AC7C6gDe9Zdq.m4a",
+  "apple_collection_id": "1546351586",
+  "show": "小学生家庭教育| 一年级 |每天五分钟，和孩子一起成长",
+  "titel": "交朋友，到底有多重要？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIUEFBl8_AC7C6gDe9Zdq.m4a?channel=rss&album_id=42269875&track_id=449777624&uid=49061041&jt=https://aod.cos.tx.xmcdn.com/storages/bf03-audiofreehighqps/24/9B/CKwRIUEFBl8_AC7C6gDe9Zdq.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3064554,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:12:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨孩子交朋友的重要性，分析其对快乐、自信和学业的影响。",
+  "kurzfassung": "天一老师在节目中探讨了孩子交朋友的重要性，指出很多家长往往忽视这一点。节目从三个方面分析了交友对孩子的影响：有朋友的孩子更快乐且不易抑郁，交友能让孩子更加积极自信从而避免恶性循环，同时朋友关系好的孩子往往学习成绩也更好。最后呼吁家长应该主动重视并培养孩子的交友能力，而不是等到出问题才去解决。",
+  "stichpunkte": [
+    "天一老师指出家长往往会轻视或忽视孩子交朋友的重要性，常常等到出问题时才重视。",
+    "有朋友的孩子更快乐，缺乏朋友则容易产生孤独感、焦虑、抑郁，甚至在青春期和中年面临更严重的心理或行为问题。",
+    "交友有助于孩子获得被接纳感，培养积极自信的自我评价，避免因退缩形成恶性循环。",
+    "研究表明孩子的成绩与朋友关系呈明显相关，朋友关系更好的孩子在学校更积极，成绩往往也更好。",
+    "交朋友不仅能调节情绪和提升自信，还能锻炼未来社交能力并提升解决问题的技能。",
+    "建议家长对孩子的交友给予主动的重视和培养，而不是出了问题再来解决。"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨孩子交朋友的重要性和现状",
+      "start": 1.04
+    },
+    {
+      "titel": "交友对孩子情绪和快乐的影响",
+      "start": 63.62
+    },
+    {
+      "titel": "有朋友让孩子更加积极自信",
+      "start": 163.78
+    },
+    {
+      "titel": "朋友关系与学习成绩的正向关联",
+      "start": 233.22
+    },
+    {
+      "titel": "总结与培养社交能力的呼吁",
+      "start": 305.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:12:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 378,
+  "veroeffentlicht": "2021-09-02T09:41:09+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group88/M04/A0/A9/wKg5DF90PozT1WOIAAgVerZjHVY523.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

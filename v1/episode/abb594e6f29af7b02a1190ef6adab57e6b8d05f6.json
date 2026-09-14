@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1002243477",
+  "apple_collection_id": "1875532322",
+  "show": "建筑设计师吕工的播客书屋",
+  "titel": "南宁新规如何催生空中森林",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoONfzsAL9obwS7Dr9Q.m4a?channel=rss&album_id=116550236&track_id=1002243477&uid=5538078&jt=https://aod.cos.tx.xmcdn.com/storages/9d83-audiofreehighqps/8C/90/GKwRIDoONfzsAL9obwS7Dr9Q.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 12544111,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T15:57:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "南宁通过系列建筑新规，从消防、颜值到第四代住宅演变重塑居住体验。",
+  "kurzfassung": "南宁市近年来出台了一系列密集的建筑新规，从确保安全的消防底线和24米群房限制，到提升城市颜值的“公建化”立面与圆角设计，再到演进出挑高两层、宽度达6米的第四代住宅空中私家森林。这些政策在通过风雨连廊和大堂等微观条款提升居住品质的同时，也通过严密的物理结构和合同限制封堵了违规封闭阳台的漏洞，最终在城市美学、居民传统生活需求与防违建之间实现了精妙的动态平衡。",
+  "stichpunkte": [
+    "消防安全是建筑创新的绝对底线，群房24米高度限制是消防云梯和水枪作业的物理极限。",
+    "疏散门与安全出口在法规中有严格区分，后者是受防火墙保护的绝对生命通道。",
+    "南宁在核心展示区推行“公建化”设计，通过大面积仿幕墙和隐藏空调机位来提升城市天际线颜值。",
+    "政策在美观与南方人晒衣需求间折中：允许在栏杆高度以下设置晾衣设施，以避免破坏整体外观。",
+    "2024至2025年推出的第四代住宅引入空中花园，要求挑高达两层、宽度在2.4至6米之间。",
+    "为防止隐私泄露，高层挑空空间被严格限制仅能与客厅或餐厅相连，不得设于卧室外。",
+    "政府提供不计入容积率的政策红利，鼓励建设首层风雨连廊和多功能入户大堂以提升微观居住颗粒度。",
+    "新规通过限定设备平台面积、设置投影面积比及在合同中明文禁止，彻底封堵业主违规封闭空中花园的漏洞。"
+  ],
+  "kapitel": [
+    {
+      "titel": "安全底线：消防规范与群房限制",
+      "start": 0.0
+    },
+    {
+      "titel": "城市颜值：公建化立面与街道美学",
+      "start": 417.06
+    },
+    {
+      "titel": "第四代住宅：空中私家森林的诞生",
+      "start": 713.78
+    },
+    {
+      "titel": "微观颗粒度：风雨连廊与政策红利",
+      "start": 1023.36
+    },
+    {
+      "titel": "博弈与封堵：防范违规封闭的铁腕手段",
+      "start": 1170.58
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T15:57:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1549,
+  "veroeffentlicht": "2026-07-22T03:31:49+00:00",
+  "beschreibung": "南宁市为了四代房出了一系列新规，当然还有所谓的第5代抬板式住宅，存量时代的利好来了",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">南宁市为了四代房出了一系列新规，当然还有所谓的第5代抬板式住宅，存量时代的利好来了</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9434-audiofreehighqps/7D/55/GAqhfD0NXPmUAAsTEwRneAFp.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

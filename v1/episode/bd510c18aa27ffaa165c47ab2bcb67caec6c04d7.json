@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_857380656",
+  "apple_collection_id": "1792679372",
+  "show": "2025高音质音乐歌曲大全 | 车载音乐休闲音乐",
+  "titel": "1548.故乡的云 陈怡男",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEMBh4qACVGIQO1_dVj.m4a?channel=rss&album_id=85558990&track_id=857380656&uid=239825720&jt=https://aod.cos.tx.xmcdn.com/storages/ddbc-audiofreehighqps/67/73/GKwRIJEMBh4qACVGIQO1_dVj.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2442785,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:02:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "陈怡男带来歌曲《故乡的云》，表达浪迹天涯的游子对故乡的思念。",
+  "kurzfassung": "本期节目由陈怡男带来歌曲演唱。歌词抒发了游子在外漂泊的疲惫与无奈。同时表达了对故乡风雨和泥土芬芳的深切呼唤。",
+  "stichpunkte": [
+    "李宗盛作曲的歌曲演唱",
+    "微风吹起召唤游子归来",
+    "描述浪迹天涯的漂泊生活",
+    "表达满怀疲惫与内心冰冷",
+    "故乡的风雨抹去过往伤痛",
+    "乐器演奏结尾"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲演唱",
+      "start": 8.3
+    },
+    {
+      "titel": "乐器演奏",
+      "start": 278.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:02:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 301,
+  "veroeffentlicht": "2025-05-23T11:25:17+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0158-audiofreehighqps/CD/81/GAqhF9kLa4n-AAOJLANbutZj.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

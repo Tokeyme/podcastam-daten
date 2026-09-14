@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "guid": "72aef1fb-5737-4aba-b69c-b4a20107865a",
+  "apple_collection_id": "1772919166",
+  "show": "American Homicide",
+  "titel": "Introducing: Burden of Guilt Season 3",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bc218f9a-989c-4f9f-b933-b1f4013e9510/72aef1fb-5737-4aba-b69c-b4a20107865a/audio.mp3?utm_source=Podcast&in_playlist=a6ae52c4-c29e-4b53-8bb3-b1f4013ed9a2",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4717519,
+    "format": "mp3",
+    "geprueft_am": "2026-09-06T09:40:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "A newly engaged couple enters a bitter ten-year legal war over child abuse claims.",
+  "kurzfassung": "In twenty nineteen, newly engaged couple Cindy and Kenny found themselves in the middle of a brutal legal war after Kenny was charged with abusing one of Cindy's children. Backed by Cindy, who never doubted his innocence, the case spiraled into a complex battle involving allegations of defamation, parental alienation, and witness manipulation. Spanning ten years and millions of dollars, the devastating family conflict ultimately left even the district attorney appalled.",
+  "stichpunkte": [
+    "Cindy and Kenny got engaged in twenty nineteen just days before entering a severe legal battle.",
+    "Kenny was arrested and charged with abusing one of Cindy's children.",
+    "Cindy firmly believed in Kenny's innocence and suspected defamation and civil conspiracy.",
+    "The case involved severe allegations described as parental alienation on steroids.",
+    "Accusations emerged that someone was promised two million dollars to tailor their testimony.",
+    "Cindy stated she had to choose between the truth and her family.",
+    "The bitter family war lasted ten years and cost millions of dollars before reaching its conclusion.",
+    "A district attorney described the case as one of the most despicable in thirty years."
+  ],
+  "kapitel": [
+    {
+      "titel": "The Arrest and Accusation",
+      "start": 1.92
+    },
+    {
+      "titel": "A Battle of Allegations",
+      "start": 53.8
+    },
+    {
+      "titel": "Consequences and Conclusion",
+      "start": 107.16
+    }
+  ],
+  "clips": [
+    {
+      "hook": "An engagement leads straight to a scorched earth war",
+      "start": 1.541,
+      "ende": 21.629,
+      "laenge": 20.09,
+      "byte_start": 58272,
+      "byte_ende": 379682,
+      "bytes": 321411,
+      "range_header": "bytes=58272-379682",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1.62,
+      "anker_sha256": "7c5350cd160ce16d7bb139de6ea6bac1cf35369a2bed938577d2f8d76c552ea8",
+      "einblendung_ms": 60,
+      "text": "In 2019, newly engaged couple Cindy and Kenny suddenly found themselves facing unexpected legal arrests days after their engagement."
+    },
+    {
+      "hook": "Defamation and parental alienation on steroids",
+      "start": 47.517,
+      "ende": 67.605,
+      "laenge": 20.09,
+      "byte_start": 793880,
+      "byte_ende": 1115290,
+      "bytes": 321411,
+      "range_header": "bytes=793880-1115290",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 47.595,
+      "anker_sha256": "c899ec2c7689e96e14179ad76317d6163c4fbdcbb1cfb023bb1138ce1c0a5cd1",
+      "einblendung_ms": 60,
+      "text": "A parent describes a devastating civil dispute involving defamation, conspiracy, and the loss of custody of their children."
+    },
+    {
+      "hook": "Unable to convince anyone else no matter what was said",
+      "start": 56.79,
+      "ende": 76.904,
+      "laenge": 20.11,
+      "byte_start": 942256,
+      "byte_ende": 1264083,
+      "bytes": 321828,
+      "range_header": "bytes=942256-1264083",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 56.869,
+      "anker_sha256": "2e96c2db44aafeaf540960fe8c7a245437d2f536d684fe0153df6b2770273cff",
+      "einblendung_ms": 60,
+      "text": "Even the district attorney struggled to understand the motives behind a custody battle where one parent felt completely ignored by authorities."
+    },
+    {
+      "hook": "Allegations of a two million dollar payout for testimony",
+      "start": 98.456,
+      "ende": 118.57,
+      "laenge": 20.11,
+      "byte_start": 1608901,
+      "byte_ende": 1930728,
+      "bytes": 321828,
+      "range_header": "bytes=1608901-1930728",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 98.534,
+      "anker_sha256": "1dced438312fc859244ae268f5b6dc2aadacd60badf5b37f00baf109bc616462",
+      "einblendung_ms": 60,
+      "text": "Family relationships fractured completely amid accusations that a witness was offered two million dollars to alter her testimony."
+    },
+    {
+      "hook": "A war lasting ten years and costing millions of dollars",
+      "start": 115.017,
+      "ende": 135.131,
+      "laenge": 20.11,
+      "byte_start": 1873887,
+      "byte_ende": 2195714,
+      "bytes": 321828,
+      "range_header": "bytes=1873887-2195714",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 115.096,
+      "anker_sha256": "4e268cc01dcbbf8850be8f436ae9c07f02babedc4a440338c12af174140b9824",
+      "einblendung_ms": 60,
+      "text": "A decade-long legal battle costing millions concluded with a veteran investigator calling it one of the most despicable cases in thirty years."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-06T09:40:28+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 137,
+  "veroeffentlicht": "2026-08-12T04:00:00+00:00",
+  "beschreibung": "Just five days after her engagement to Kenny, Cindy learns that her fiancé was accused of abusing one of Cindy’s children. The facts behind the accusation didn’t add up to Cindy. As the allegation tore her family apart, Cindy faced an impossible choice: stand by her child or stand by what she believed to be the truth. New episodes of Burden of Guilt drop every Wednesday.\n\nYou can reach out to the Burden of Guilt team at Burdenofguiltpod@gmail.com. For more Burden of Guilt, follow us on Instagram @glasspodcasts.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Just five days after her engagement to Kenny, Cindy learns that her fianc&eacute; was accused of abusing one of Cindy&rsquo;s children. The facts behind the accusation didn&rsquo;t add up to Cindy. As the allegation tore her family apart, Cindy faced an impossible choice: stand by her child or stand by what she believed to be the truth. New episodes of Burden of Guilt drop every Wednesday.&nbsp;</p> <p><br>You can reach out to the Burden of Guilt team at <a href=\"mailto:Burdenofguiltpod@gmail.com\" data-outlook-id=\"3d89d49c-f823-44de-b5d0-9739dd1dbba1\">Burdenofguiltpod@gmail.com</a>.&nbsp; For more Burden of Guilt, follow us on Instagram @glasspodcasts.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bc218f9a-989c-4f9f-b933-b1f4013e9510/72aef1fb-5737-4aba-b69c-b4a20107865a/image.jpg?t=1786377635&size=Large",
+  "kapitel_quelle": "modell"
+}

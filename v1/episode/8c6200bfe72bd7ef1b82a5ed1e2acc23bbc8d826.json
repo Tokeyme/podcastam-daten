@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006782888",
+  "apple_collection_id": "1480101719",
+  "show": "鬼故事《大圣鬼话》",
+  "titel": "坟头长空心树，后代必出孤寡`体弱之人",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAOV9AsATrmXgTHsueH.m4a?channel=rss&album_id=14244362&track_id=1006782888&uid=68885817&jt=https://aod.cos.tx.xmcdn.com/storages/2841-audiofreehighqps/9F/5A/GKwRIMAOV9AsATrmXgTHsueH.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20637278,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T10:01:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "阴阳先生讲述坟头长空心树对后代运势的影响与真实处理案例",
+  "kurzfassung": "阴阳先生孙大圣分享了民间阴宅风水中“坟头长空心树”的危害。他通过铁岭老赵家祖坟长有空心榆树导致全家生病衰败的真实案例，详细讲解了空心树吸取地气、倒灌浊气的危害以及破树迁坟的完整流程。节目最后还对比了清永陵神树的典故，提醒人们重视阴宅风水。",
+  "stichpunkte": [
+    "阴阳派传人孙大圣指出，民间有“坟头长空心树，后代必出孤寡体弱之人”的说法。",
+    "铁岭老赵因家中老少接连突发重病且体虚难耐，前来求助孙大圣查看阴宅。",
+    "孙大圣实地勘测发现老赵家太爷坟头长了一棵碗口粗的空心老榆树，树根已扎入棺材内部。",
+    "空心树会吸收并淤积地气形成浊气倒灌入棺，进而侵蚀先人遗骨并败坏后代子孙的元气。",
+    "孙大圣主持进行了祭告祖先、放倒空心树、清理棺内根须、捡骨和迁至新营地的全套法事。",
+    "迁坟数月后，老赵的身体状况明显好转，其大姐的癌症化疗指标也恢复得比预期更好。",
+    "孙大圣提及抚顺清永陵的实心神树与大清国运兴衰的关联，说明实心树与空心树的本质区别。",
+    "四平某姓刘的大姐因坟地青龙位有空心柳树导致儿女婚姻与工作不顺，清理并改种松树后情况好转。",
+    "判断树木是否空心可采用铁锹敲击听声音、观察树干裂缝和洞内蚁蜂等方法。",
+    "坟头大树不可盲目砍伐，需经专业先生择日、祭告先祖并连根彻底清理才能避免祸患。"
+  ],
+  "kapitel": [
+    {
+      "titel": "阴宅怪事与空心树的传说",
+      "start": 0.0
+    },
+    {
+      "titel": "铁岭老赵一家的诡异病症",
+      "start": 214.74
+    },
+    {
+      "titel": "实地勘测祖坟与空心树真相",
+      "start": 484.3
+    },
+    {
+      "titel": "破树迁坟的流程与后续转机",
+      "start": 947.12
+    },
+    {
+      "titel": "清永陵神树典故与两类树的对比",
+      "start": 1534.68
+    },
+    {
+      "titel": "四平刘大姐的案例与如何辨别空心树",
+      "start": 2052.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T10:01:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2549,
+  "veroeffentlicht": "2026-08-16T19:18:11+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group74/M00/F1/78/wKgO0l5WfRCxPSTqAAFVUsNZnVo80.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

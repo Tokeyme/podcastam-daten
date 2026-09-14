@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007441154",
+  "apple_collection_id": "1587356756",
+  "show": "饱暖读书会",
+  "titel": "118集：一座庭院，和它之外的世界|《光与线》韩江",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOXGdLAbqRUgTJgGmm.m4a?channel=rss&album_id=52275953&track_id=1007441154&uid=109057586&jt=https://aod.cos.tx.xmcdn.com/storages/85a2-audiofreehighqps/47/2E/GKwRIRwOXGdLAbqRUgTJgGmm.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29004114,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T15:41:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨诺贝尔文学奖得主韩江的首本散文集《光与线》，分享阅读感悟与生活思考。",
+  "kurzfassung": "本期节目围绕作家韩江的最新散文集《光与线》展开茶话会式的讨论。三位主播分别解读了书中的诺贝尔文学奖致辞、诗歌与创作心路，以及关于庭院和植物的微观生活记录。节目最后还探讨了生活中暴力与美丽并存的时刻，并邀请听众分享自己的感悟。",
+  "stichpunkte": [
+    "感谢赞助商摩铁图书，并在评论区提供抽奖赠书活动。",
+    "第一部分介绍了韩江的诺贝尔文学奖主旨演讲《光与线》及晚宴演讲，展现其正向的写作热情与信仰。",
+    "第二部分探讨了诗歌与作品中的静止生命力，分析日常物品和微妙的情感表达。",
+    "第三部分聚焦韩江48岁拥有庭院后的植物日记，展现其与自然平等对话的治愈力量。",
+    "主播们结合书中“世界为何充满暴力与美丽”这一议题，分享了各自在生活中的矛盾与动人时刻。",
+    "讨论了植物与人类的相处经验，以及大自然给城市生活带来的治愈效果。",
+    "围绕“生活中的光”和“连接世界的线”两个填空话题，主播们分享了各自的人生追求与感悟。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目介绍与新书抽奖",
+      "start": 25.1
+    },
+    {
+      "titel": "第一部分：诺贝尔文学奖致辞与写作动机",
+      "start": 101.66
+    },
+    {
+      "titel": "第二部分：诗歌、物品与静止的生命",
+      "start": 304.66
+    },
+    {
+      "titel": "第三部分：庭院日记与植物的治愈力量",
+      "start": 616.96
+    },
+    {
+      "titel": "讨论：世界为何如此暴力痛苦，又如此美丽？",
+      "start": 825.7
+    },
+    {
+      "titel": "分享养植物的故事与自然体验",
+      "start": 1605.58
+    },
+    {
+      "titel": "填空互动：生活中的“光”与“线”",
+      "start": 2829.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T15:41:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3582,
+  "veroeffentlicht": "2026-08-20T10:00:00+00:00",
+  "beschreibung": "【本期书目】\n《光与线》－韩江［韩］\n卢鸿金［译］\n国文出版社\n本期读书会，首先要特别感谢磨铁图书的大力支持，让我们得以在新书发行之初，就翻开韩江老师这本滚烫出炉的《光与线》。\n还是老规矩，我们会在评论区抽取 2 位听友，送出本期共读的《光与线》�～\n在韩江文学风靡大江南北之后，韩江老师带着这本略带凉意，却又充满蓬勃生命力的小书，施施然而来。\n这一次，我们从诺奖感言、作品心路历程和《庭院日记》**三个部分展开讨论。跟随着韩江老师的文字，我们一点点走近植物、自然与人的世界，也在她从植物身上汲取的力量与智慧中，被一种安静却深刻的生命感所俘获。\n也许正因为如此，我们开始重新思考：人与自然之间究竟存在着怎样的联结？我们又该如何重新感知自己与这个世界的关系？\n不知道你有没有属于自己的“植物故事”？\n也许是一棵陪伴你长大的树，一盆怎么也养不活却舍不得丢掉的植物，又或者是某个时刻，因为一朵花、一片叶子，而突然感受到季节和生命的存在。\n欢迎把你的故事和思考留在评论区，也许它会成为我们理解《光与线》的另一扇小小窗口。�\n【本期时间轴｜这一次，我们从一束光聊到一条线】\n01:51｜� 诺奖得奖致辞：韩江老师到底想告诉我们什么？\n05:06｜️ 从写作到诗歌：这本书是怎么“长”出来的？\n10:17｜�《庭院日记》：当一个人开始认真观察植物……\n13:46｜�一个有点难的问题：世界为什么如此暴力，却又如此美丽？\n26:37｜�你喜欢《庭院日记》吗？来聊聊你和植物之间那些“不太寻常”的关系\n47:04｜如果让你在自己的生活里寻找一束光，它可能是什么？\n53:25｜�如果你的人生里有一条线，把你和这个世界连接起来，那条线会是什么？\n【背景音乐】\n《The english garden》\n【联系我们】\n听友群：bndshwang123\nEmail：baonuandsh@163.com",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【本期书目】</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>《光与线》－韩江［韩］</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>卢鸿金［译］</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>国文出版社</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>本期读书会，首先要特别感谢磨铁图书的大力支持，让我们得以在新书发行之初，就翻开韩江老师这本滚烫出炉的《光与线》。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>还是老规矩，我们会在评论区抽取<span>&nbsp;2&nbsp;</span>位听友，送出本期共读的《光与线》</span><span>�</span><span>～</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>在韩江文学风靡大江南北之后，韩江老师带着这本略带凉意，却又充满蓬勃生命力的小书，施施然而来。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>这一次，我们从诺奖感言、作品心路历程和《庭院日记》<span>**</span>三个部分展开讨论。跟随着韩江老师的文字，我们一点点走近植物、自然与人的世界，也在她从植物身上汲取的力量与智慧中，被一种安静却深刻的生命感所俘获。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>也许正因为如此，我们开始重新思考：人与自然之间究竟存在着怎样的联结？我们又该如何重新感知自己与这个世界的关系？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>不知道你有没有属于自己的<span>“</span>植物故事<span>”</span>？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>也许是一棵陪伴你长大的树，一盆怎么也养不活却舍不得丢掉的植物，又或者是某个时刻，因为一朵花、一片叶子，而突然感受到季节和生命的存在。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>欢迎把你的故事和思考留在评论区，也许它会成为我们理解《光与线》的另一扇小小窗口。</span><span>�</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【本期时间轴｜这一次，我们从一束光聊到一条线】</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>01:51</span><span>｜</span><span>�</span>&nbsp;<span>诺奖得奖致辞：韩江老师到底想告诉我们什么？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>05:06</span><span>｜</span><span>️</span>&nbsp;<span>从写作到诗歌：这本书是怎么<span>“</span>长<span>”</span>出来的？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>10:17</span><span>｜</span><span>�</span><span>《庭院日记》：当一个人开始认真观察植物<span>……</span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>13:46</span><span>｜</span><span>�</span><span>一个有点难的问题：世界为什么如此暴力，却又如此美丽？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>26:37</span><span>｜</span><span>�</span><span>你喜欢《庭院日记》吗？来聊聊你和植物之间那些<span>“</span>不太寻常<span>”</span>的关系</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>47:04</span><span>｜</span><span>如果让你在自己的生活里寻找一束光，它可能是什么？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>53:25</span><span>｜</span><span>�</span><span>如果你的人生里有一条线，把你和这个世界连接起来，那条线会是什么？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【背景音乐】</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>《<span>The english garden</span>》</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【联系我们】</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>听友群：<span>bndshwang123</span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>Email</span>：baonuandsh@163.com</p><span></span><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8e4c-audiofreehighqps/00/41/GKwRIRwKXFjGAAFi9ALr1Ao-.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

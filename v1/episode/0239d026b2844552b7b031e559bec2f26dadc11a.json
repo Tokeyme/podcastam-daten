@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1003670281",
+  "apple_collection_id": "1462840658",
+  "show": "晚安妈妈趣旅行",
+  "titel": "我们从香港研学回来啦~",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOQLgtAG_fHQS_T8wG.m4a?channel=rss&album_id=15367125&track_id=1003670281&uid=10553948&jt=https://aod.cos.tx.xmcdn.com/storages/2349-audiofreehighqps/7C/F5/GKwRIDoOQLgtAG_fHQS_T8wG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7331613,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T21:13:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "孩子们分享暑期参加香港五天四晚研学之旅的丰富收获与难忘见闻",
+  "kurzfassung": "孩子们跟随晚安妈妈前往香港进行为期五天四晚的暑期研学旅行，深度体验了香港的历史底蕴、科技魅力与城市精神。他们在旅途中参观了太空馆、科学馆、历史博物馆、艺术馆、香港故宫以及迪士尼乐园等多个地标。通过亲身体验与互动，孩子们不仅收获了丰富的知识，还深刻理解了饮水思源和中华文化的深厚内涵。",
+  "stichpunkte": [
+    "晚安妈妈带领全国各地的大朋友和小朋友开启香港五天四晚的暑期研学之旅。",
+    "孩子们在香港太空馆体验了火箭发射、太空漫步和宇宙大爆炸等高科技互动项目。",
+    "香港历史博物馆的“香港水荒”历史令孩子们印象深刻，了解到东江水输港及周总理对香港同胞的关怀。",
+    "孩子们在香港艺术馆近距离观赏到了莫奈真迹《睡莲》以及中国传统诗词字画。",
+    "香港科学馆的AI绘图、小小工程师、机器人对弈及滚球表演让孩子们大开眼界。",
+    "小听众们参观了香港故宫文化博物馆，观赏了1997年香港回归时中央政府赠送的珍贵礼物。",
+    "迪士尼乐园的游玩项目和探险之旅证书为孩子们的研学行程增添了欢乐与成就感。",
+    "多位小朋友在分享中表示，这次旅行不仅开阔了眼界，更让他们明白了饮水思源的道理并增强了文化自信。"
+  ],
+  "kapitel": [
+    {
+      "titel": "香港研学之旅概述",
+      "start": 0.0
+    },
+    {
+      "titel": "Coco的香港旅行记录",
+      "start": 114.54
+    },
+    {
+      "titel": "历史博物馆与香港水荒记忆",
+      "start": 182.94
+    },
+    {
+      "titel": "Jelly的太空馆与迪士尼体验",
+      "start": 281.86
+    },
+    {
+      "titel": "陈轩林谈香港历史与回归",
+      "start": 327.88
+    },
+    {
+      "titel": "史瑞谦分享艺术馆莫奈真迹",
+      "start": 388.14
+    },
+    {
+      "titel": "天天的博物馆奇妙游",
+      "start": 458.56
+    },
+    {
+      "titel": "Wiki的科学馆与故宫见闻",
+      "start": 535.8
+    },
+    {
+      "titel": "欧阳洛依的太空漫步与历史回忆",
+      "start": 625.3
+    },
+    {
+      "titel": "李邦元谈中西文化交融与中华根源",
+      "start": 761.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T21:13:50+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 905,
+  "veroeffentlicht": "2026-07-30T06:53:53+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/27cd-audiofreehighqps/64/13/GAqhuGoOQpFKAAuZNwTAEE4x.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

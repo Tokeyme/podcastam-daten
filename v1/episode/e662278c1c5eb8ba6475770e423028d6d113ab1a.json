@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_917228460",
+  "apple_collection_id": "1816648469",
+  "show": "财经精选I谈吐聊资必备",
+  "titel": "顶级投资人的基本面分析法——识别猫腻公司",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIMtPoQAFU4xgQbZWZN.m4a?channel=rss&album_id=93163465&track_id=917228460&uid=48901103&jt=https://aod.cos.tx.xmcdn.com/storages/7c86-audiofreehighqps/66/FB/GKwRIJIMtPoQAFU4xgQbZWZN.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5585094,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T05:17:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "顶级投资人的基本面分析法——识别猫腻公司",
+  "kurzfassung": "本期节目讲解了顶级投资人的基本面分析法，教普通投资者如何识别上市公司的各种财报猫腻。节目从资产负债表的底层逻辑出发，详细剖析了做大和做小两类造假模式及关键科目的审查方法。最后结合ROE和现金流等核心指标，帮助投资者搭建起一套完整的企业基本盘评估框架。",
+  "stichpunkte": [
+    "通过盘点面馆资产与流水的通俗案例，类比上市公司的基本面分析逻辑",
+    "解析A股上市公司造假的两种模式：虚增收入利润的做大模式与隐藏转移利润的做小模式",
+    "阐述会计恒等式原理：虚增的盈利必然在当期留下虚增资产，并反噬未来盈利",
+    "讲解净资产收益率（ROE）作为衡量赚钱能力与资产质量的王炸指标及其筛选标准",
+    "深入剖析应收账款的常识判断与周转率的纵横向对比方法",
+    "指出存货、固定资产及在建工程作为做小模式藏身之处的审查逻辑",
+    "警惕长期股权投资与商誉这两大信息黑箱资产可能带来的业绩地雷",
+    "提出以有息负债对比货币性资产的一票否决标准来评估偿债风险",
+    "通过利润表异常费用、现金流量表及负面舆论进行交叉验证"
+  ],
+  "kapitel": [
+    {
+      "titel": "从面馆投资引入基本面分析",
+      "start": 0.0
+    },
+    {
+      "titel": "识别公司造假的两种模式：做大与做小",
+      "start": 116.38
+    },
+    {
+      "titel": "会计等式底层逻辑与资产反噬",
+      "start": 235.62
+    },
+    {
+      "titel": "ROE指标与资产质量衡量标准",
+      "start": 327.62
+    },
+    {
+      "titel": "重点科目拆解：应收账款与存货固定资产",
+      "start": 412.26
+    },
+    {
+      "titel": "警惕黑箱资产、负债风险与辅助验证",
+      "start": 529.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T05:17:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 689,
+  "veroeffentlicht": "2025-10-03T02:37:43+00:00",
+  "beschreibung": "顶级投资人的基本面分析法，教你如何识别猫腻公司",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">顶级投资人的基本面分析法，教你如何识别猫腻公司</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/bdb0-audiofreehighqps/B5/62/GKwRIasMCN6cAAIJ3gO3p60k.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

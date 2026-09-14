@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_732003891",
+  "apple_collection_id": "1543037316",
+  "show": "科研这种生活方式！",
+  "titel": "vol.28 什么是本子",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAKLkp0AQ7XUgLaznIY.m4a?channel=rss&album_id=41018728&track_id=732003891&uid=250089359&jt=https://aod.cos.tx.xmcdn.com/storages/93de-audiofreehighqps/AE/1A/GKwRIMAKLkp0AQ7XUgLaznIY.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 17749842,
+    "format": "m4a",
+    "geprueft_am": "2026-09-06T06:08:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨科研人员如何撰写基金申请书，解析国内外基金申请的流程与重要性。",
+  "kurzfassung": "本期节目深入探讨了科研学术圈中至关重要的“写本子”即基金申请。主持人华莎和赵思佳详细解释了基金与论文的区别、国内外的基金层级与申请流程，并给年轻科研人员提出了尽早了解和学习撰写基金申请书的建议。",
+  "stichpunkte": [
+    "本子是基金申请书的俗称，在科研人员的职业发展中甚至比论文更具决定性。",
+    "国内基金主要分为国家级（如国自然和国社科）、省部级和市厅级，国家级课题是高校职称晋升的关键门槛。",
+    "论文总结已完成的科研成果，而基金是论证研究价值与可行性的论证书，通常需要包含预实验结果。",
+    "海外科研人员的基金申请路径更侧重于从博士后时期的fellowship过渡到独立的faculty项目。",
+    "国内博士和博士后虽然较少独立撰写完整基金，但参与导师的基金编写能有效积累宝贵的行政和经费管理经验。",
+    "撰写基金申请书耗时极长，需要经历从简短的lay summary到详细的research proposal和预算编制等多个环节。",
+    "基金委每年发布的项目指南不仅是申请依据，也能为青年科研人员预测未来的学术发展趋势。"
+  ],
+  "kapitel": [
+    {
+      "titel": "什么是本子与基金的基本概念",
+      "start": 4.88
+    },
+    {
+      "titel": "基金与论文的区别及国内晋升机制",
+      "start": 246.4
+    },
+    {
+      "titel": "国内外基金体系与海外申请流程",
+      "start": 622.68
+    },
+    {
+      "titel": "如何撰写基金申请书及其实际流程",
+      "start": 934.56
+    },
+    {
+      "titel": "给青年科研人员的建议与总结",
+      "start": 1813.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T06:08:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2192,
+  "veroeffentlicht": "2024-05-30T14:03:51+00:00",
+  "beschreibung": "其实就是基金申请书。\n这一期我向华沙了解了一下什么是写本子，为什么要写，以及怎么写。\n最后，我们讨论了，如果一个博士生被导师要求帮助写基金，我们要不要积极一点？\n\n这期的关键tip：不知道要做什么，想要了解以后的科学趋势？去看看国自然委员会写的指南！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">其实就是基金申请书。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这一期我向华沙了解了一下什么是写本子，为什么要写，以及怎么写。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">最后，我们讨论了，如果一个博士生被导师要求帮助写基金，我们要不要积极一点？</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期的关键tip：不知道要做什么，想要了解以后的科学趋势？去看看国自然委员会写的指南！</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/group87/M05/FA/D0/wKg5IV89NwuCfLBoAAKTgnixz10986.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

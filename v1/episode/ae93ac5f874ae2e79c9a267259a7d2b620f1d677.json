@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008088357",
+  "apple_collection_id": "1667557531",
+  "show": "成人睡前故事",
+  "titel": "香女传奇",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOYFJWAJPvKwTLFMqv.m4a?channel=rss&album_id=67610333&track_id=1008088357&uid=45819883&jt=https://aod.cos.tx.xmcdn.com/storages/0e5a-audiofreehighqps/73/FE/GKwRIJIOYFJWAJPvKwTLFMqv.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9695019,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T06:46:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "陈郎中父女为躲避贪官求亲逃亡，与义匪王振华联手设局惩治县令。",
+  "kurzfassung": "清朝乾隆年间，医术高超且自带奇香的翠英母女因躲避贪婪的李县令而四处逃亡。仙女寨匪首王振华因家人曾遭官府害死而痛恨贪官，遂出手相助并与陈郎中联手。最终，王振华用掉包计和香囊戏耍了李县令，气得县令当场身亡，王振华也散尽十万两白银后拜入陈郎门下并与翠英结缘。",
+  "stichpunkte": [
+    "陈郎中带着会散发奇香的女儿翠英在龙城开医馆，因医术高明且体香奇异而名声大噪。",
+    "贪财好色的李县令得知香女名声后强行求亲遭拒，派人暗中查探并企图逼迫陈家就范。",
+    "陈郎中父女连夜出逃途中遭遇仙女寨土匪，被带去见同样因贪官害死父母而落草的匪首王振华。",
+    "王振华得知陈家遭遇后深表同情，安排他们在兴碧港村重新开医馆并承诺暗中保护。",
+    "李县令追查至新医馆，陈郎中巧施妙计假装没有香味，随后又提出十万两白银的巨额彩礼以拖延时间。",
+    "王振华趁李县令迎亲之际潜入县衙抢走财物和八姨太，随后用八姨太冒充新娘嫁给李县令。",
+    "李县令掀开盖头发现新娘是被劫走的八姨太且满身异香，气急败坏之下看告示被活活气死。",
+    "王振华将十万两白银分发给贫苦百姓和手下兄弟，随后拜陈郎中为师并与翠英走到一起。"
+  ],
+  "kapitel": [
+    {
+      "titel": "香女医馆与县令逼婚",
+      "start": 1.66
+    },
+    {
+      "titel": "逃亡遇匪结识王振华",
+      "start": 330.36
+    },
+    {
+      "titel": "重开医馆与十万两彩礼",
+      "start": 587.62
+    },
+    {
+      "titel": "掉包计戏耍贪官",
+      "start": 795.9
+    },
+    {
+      "titel": "恶官气绝与有情人终成眷属",
+      "start": 1029.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T06:46:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1197,
+  "veroeffentlicht": "2026-08-23T14:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/61e6-audiofreehighqps/84/5C/GAqh4zILW6QPAAO1TQNUZoZE.jpeg",
+  "folgennummer": 8,
+  "kapitel_quelle": "modell"
+}

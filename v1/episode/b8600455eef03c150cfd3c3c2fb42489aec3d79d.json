@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "6a8a8f301352af56ff3a8695",
+  "apple_collection_id": "6783575493",
+  "show": "鹿小鸣的情感治愈",
+  "titel": "亲密关系中如何更好的沟通",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8a8f301352af56ff3a8695/media.xyzcdn.net/69e8fb80bef2107845770964/lv_shZTXnCpmUX0EMhCkOCwQKq2m.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7850968,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T15:17:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨亲密关系中的沟通误区、改善策略及冲突处理方法",
+  "kurzfassung": "本期节目深入探讨了亲密关系中有效沟通的重要性与常见陷阱。嘉宾分享了改善沟通的具体策略，包括设定谈心时间、使用“我”的感受表达以及应照式倾听。最后，节目还给出了冲突处理的方法和长久维护关系的建议。",
+  "stichpunkte": [
+    "亲密关系中的争吵多因需求未明讲而非原则性问题",
+    "凭感觉猜测和指责语气是常见的沟通陷阱",
+    "核心原则是听懂内心想法并主动表达真实需求",
+    "可以通过每周谈心、使用“我”的表达和安全词来改善沟通",
+    "日常的正向互动和细致的情绪形容能增加默契",
+    "面对卡住的问题可以重新协商分工或寻求专业咨询",
+    "冲突时应识别情绪并及时暂停，避免矛盾升级",
+    "长久维持关系依赖日常信任积累、接纳不完美与成长型思维"
+  ],
+  "kapitel": [
+    {
+      "titel": "沟通的基石与常见陷阱",
+      "start": 7.66
+    },
+    {
+      "titel": "改善沟通的具体方法与练习",
+      "start": 144.44
+    },
+    {
+      "titel": "冲突的处理与关系的长久维护",
+      "start": 300.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T15:17:11+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 485,
+  "veroeffentlicht": "2026-08-23T06:27:01+00:00",
+  "beschreibung": "亲密关系的沟通，不是争输赢，而是好好传递感受。不要习惯指责控诉，多用 “我感受” 代替 “你总是”，减少对方的防御心理。\n发生矛盾时，避开情绪上头的时刻，先稳住心态，不翻旧账、不说伤人狠话。学会认真倾听，听懂对方情绪背后的需求，而不是急着反驳辩解。\n沟通也需要懂得让步，不必强求完全认同。多表达理解与认可，少冷暴力回避问题。好好说话，双向奔赴，才能减少隔阂，拉近彼此的心。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>亲密关系的沟通，不是争输赢，而是好好传递感受。不要习惯指责控诉，多用 “我感受” 代替 “你总是”，减少对方的防御心理。</p><p>发生矛盾时，避开情绪上头的时刻，先稳住心态，不翻旧账、不说伤人狠话。学会认真倾听，听懂对方情绪背后的需求，而不是急着反驳辩解。</p><p>沟通也需要懂得让步，不必强求完全认同。多表达理解与认可，少冷暴力回避问题。好好说话，双向奔赴，才能减少隔阂，拉近彼此的心。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8a8f301352af56ff3a8695?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

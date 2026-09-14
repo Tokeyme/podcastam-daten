@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_918653265",
+  "apple_collection_id": "1635907477",
+  "show": "扩博智聊 | 有AI味道的访谈节目",
+  "titel": "71. AI x 肿瘤社区 | 当癌症患者开始自救：小x宝开源项目的诞生",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoMu5LbAZwgVQQePavV.m4a?channel=rss&album_id=58531642&track_id=918653265&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/1fe4-audiofreehighqps/7B/EE/GKwRIDoMu5LbAZwgVQQePavV.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 27009109,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T05:57:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "癌症患者如何通过开源AI社区自救？本期节目探讨小X宝项目的诞生。",
+  "kurzfassung": "本期节目邀请动物医学博士兼小X宝社区贡献者Alex，探讨了癌症患者自救的AI开源公益社区“小X宝”的诞生与发展。节目介绍了跨学科背景在AI医疗应用中的重要性，以及社区如何通过大模型和RAG技术为患者及其家属提供知识普及与心理支持。同时，嘉宾也分享了社区未来的发展规划和对AI深度研究工具的使用心得。",
+  "stichpunkte": [
+    "Alex作为动物医学博士，介绍了自己如何结合生命科学背景与编程能力参与开源AI公益项目。",
+    "“小X宝”是一个专注于肿瘤和罕见病患者的AI开源公益社区，旨在弥合医患之间信息与认知差距。",
+    "项目最初由Sam秦确诊癌症后发起，从最初的医学问答工具逐步扩展到覆盖全生命周期的多个子项目（如小心宝等心理支持系统）。",
+    "社区坚持不收费和用户数据脱敏等合规底线，通过大模型和复杂的RAG工作流提供温暖且具针对性的服务。",
+    "除了患者受益，社区也为医生减轻了沟通负担，并为年轻开发者和志愿者提供了参与社会服务的平台。",
+    "未来社区计划开发妇科肿瘤相关的QA产品，并大力招募非技术背景的志愿者推进AI医学知识的普及。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与跨界背景",
+      "start": 70.24
+    },
+    {
+      "titel": "小X宝社区的起源与初心",
+      "start": 1000.74
+    },
+    {
+      "titel": "社区的演变与全周期服务",
+      "start": 1204.16
+    },
+    {
+      "titel": "AI在医疗中的信息断层与心理支持",
+      "start": 1463.64
+    },
+    {
+      "titel": "社区未来规划与志愿者招募",
+      "start": 2776.34
+    },
+    {
+      "titel": "AI深度研究工具的使用心得",
+      "start": 3112.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T05:57:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3336,
+  "veroeffentlicht": "2025-10-09T23:30:00+00:00",
+  "beschreibung": "嘉宾：Alex 小X宝社区贡献者，某农业大学博士\n\n录制日期：2025-09-25 | 主持人：潘天一\n\n本期话题节选\n\n02:04 技术开发者的初心与成长：探索个人背景对职业选择的影响\n13:25 好奇心与科研探索：从基础工具到病人学研究的跨越\n16:07 从坑到经验：癌症患者治疗过程中的智慧分享与学术研究\n28:00 AI能做到人文关怀，提供支持与温暖，解决心理问题吗？\n36:18 公益开源，患者需求，低成本高效应对——探索开源医疗项目的魅力\n嘉宾推荐\n\n53:23 各个AI工具的Deep Research《深度研究》产品功能的测试\n小x宝社区官网：https://info.xiao-x-bao.com.cn\n说在最后\n扩博智聊是一档带有AI味道的访谈节目，我们专注人工智能技术在不同行业不同领域的应用场景。\n\n节目背后的扩博智能虽然也是一家AI企业，但我们在节目中邀请的嘉宾，讨论的话题和行业并不一定限于扩博自己目前服务的领域。\n\n我们的愿景是通过《扩博智聊》让我们的听众更广泛地了解到一些多样性的人工智能应用场景和这些行业里有趣、有故事的人。\n\n想更深入了解这些人，可以关注我们的微信公众号，扩博智能Clobotics，留言“听友群”三个字，加入我们节目粉丝和嘉宾的互动群。\n\n联系我们\n\n若有对我们节目的反馈，商业合作的意向或者嘉宾与话题的推荐自荐投稿，可以发给我们的邮箱地址：podcast@xiaopan.ai",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">嘉宾：<span>Alex <span>小X宝社区</span><span>贡献者</span>，<span>某</span><span>农业大学博士</span></span></p><span><br></span><p style=\"font-size:14px;line-height:24px;color:#999999;word-break:break-all;font-weight:normal;\" data-flag=\"backup\"><span>录制日期：2025-09-25 | 主持人：潘天一</span><span><br></span></p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><span>本期话题节选<br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/08dc-audiofreehighqps/A5/51/GAqh1QQMu4ySACyeCgQeOUsM.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/08dc-audiofreehighqps/A5/51/GAqh1QQMu4ySACyeCgQeOUsM.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/08dc-audiofreehighqps/A5/51/GAqh1QQMu4ySACyeCgQeOUsM.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"428.40822543792837\" data-preview=\"http://imagev2.xmcdn.com/storages/08dc-audiofreehighqps/A5/51/GAqh1QQMu4ySACyeCgQeOUsM.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"79.96953541507996\"><br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">02:04&nbsp;技术开发者的初心与成长：探索个人背景对职业选择的影响</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">13:25 <span>好奇心与科研探索：从基础工具到病人学研究的跨越</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">16:07&nbsp;<span>从坑到经验：癌症患者治疗过程中的智慧分享与学术研究</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">28:00&nbsp;AI能做到人文关怀<span>，提供支持与温暖，解决心理问题吗？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>36:18&nbsp;<span>公益开源，患者需求，低成本高效应对——探索开源医疗项目的魅力</span></span></p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><span><span>嘉宾推荐</span></span><span><span><br></span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>53:23 各个AI工具的Deep Research《深度研究》产品功能的测试</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>小x宝社区官网：https://info.xiao-x-bao.com.cn</span></p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p data-flag=\"subtitle\" style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\">说在最后</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">扩博智聊是一档带有AI味道的访谈节目，我们专注人工智能技术在不同行业不同领域的应用场景。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">节目背后的扩博智能虽然也是一家AI企业，但我们在节目中邀请的嘉宾，讨论的话题和行业并不一定限于扩博自己目前服务的领域。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我们的愿景是通过《扩博智聊》让我们的听众更广泛地了解到一些多样性的人工智能应用场景和这些行业里有趣、有故事的人。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>想更深入了解这些人，可以关注我们的微信公众号，<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">扩博智能</strong></span><span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Clobotics</strong><span>，留言“<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">听友群</strong>”三个字，加入我们节目粉丝和嘉宾的互动群。</span></span></p><span><br></span><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\">联系我们<br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">若有对我们节目的反馈，商业合作的意向或者嘉宾与话题的推荐自荐投稿，可以发给我们的邮箱地址：podcast@xiaopan.ai</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/53c2-audiofreehighqps/F9/59/GMCoOSYHKuRbAAFmpQG3mhyS.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

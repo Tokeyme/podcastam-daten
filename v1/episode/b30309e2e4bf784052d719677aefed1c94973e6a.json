@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "guid": "90009e2e-c13d-41ee-b0bc-b661772482bf",
+  "apple_collection_id": "6787272900",
+  "show": "Beyond The Stay: Live from Baha Mar",
+  "titel": "Team Bahamas: Brotherhood, Basketball & Home at Baha Mar",
+  "audio": {
+    "url": "https://media.transistor.fm/92b53187/9600c5a7.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 35296372,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T04:06:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Team Bahamas basketball stars talk brotherhood, preparation and life at Baha Mar.",
+  "kurzfassung": "NBA veterans and rising stars from Team Bahamas discuss their preparation for the World Cup qualifiers at Baha Mar. They share stories about family ties, national team camaraderie, and the unique bond of playing together at home. The players also highlight their favorite resort amenities, local food, and the impact of a young Bahamian coaching staff.",
+  "stichpunkte": [
+    "Team Bahamas uses Baha Mar as a training hub and home base for World Cup qualifier preparations.",
+    "Eric Gordon describes joining Team Bahamas as a natural fit driven by a desire to reach the Olympics.",
+    "Players emphasize that the national team functions like a close-knit brotherhood rather than a corporate business.",
+    "Family connections run deep in the program, with multiple brothers having played or coached for Team Bahamas.",
+    "Young talents like VJ Edgecombe and Liano Rolle transition from youth success to key roles on the senior team.",
+    "The coaching staff consists entirely of young, D1-level Bahamian coaches who share cultural understanding with the players.",
+    "Resort amenities like the beach, local dining at Marcus Restaurant, and proximity to the gym support players' downtime.",
+    "The team looks forward to strong local fan support during upcoming games against Jamaica and Puerto Rico."
+  ],
+  "kapitel": [
+    {
+      "titel": "Eric Gordon on Team Bahamas and Baha Mar",
+      "start": 0.174
+    },
+    {
+      "titel": "VJ Edgecombe and Liano Rolle Join the Podcast",
+      "start": 1040.472
+    }
+  ],
+  "clips": [
+    {
+      "hook": "National team vs. USA team",
+      "start": 232.359,
+      "ende": 252.447,
+      "laenge": 20.09,
+      "byte_start": 3769582,
+      "byte_ende": 4090992,
+      "bytes": 321411,
+      "range_header": "bytes=3769582-4090992",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 232.438,
+      "anker_sha256": "f05fb6c0e3c3a44c399ceba802da98f82c4fda7c2095d073bcabe6f9b0b8695b",
+      "einblendung_ms": 60,
+      "text": "Contasting a corporate atmosphere on the American squad with a familial bond on the current team."
+    },
+    {
+      "hook": "Discovering a 17-year-old phenom",
+      "start": 492.826,
+      "ende": 513.593,
+      "laenge": 20.77,
+      "byte_start": 7937053,
+      "byte_ende": 8269330,
+      "bytes": 332278,
+      "range_header": "bytes=7937053-8269330",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 492.904,
+      "anker_sha256": "de481db6d947d2b1112d3202194913e2bb42b8392594da4e2ce62849b502fd1a",
+      "einblendung_ms": 60,
+      "text": "Realizing a teammate's exceptional talent at age 17 and later seeing his high level of maturity daily with the Philadelphia 76ers."
+    },
+    {
+      "hook": "Too hot for the steam room",
+      "start": 1104.666,
+      "ende": 1124.78,
+      "laenge": 20.11,
+      "byte_start": 17726493,
+      "byte_ende": 18048321,
+      "bytes": 321829,
+      "range_header": "bytes=17726493-18048321",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1104.745,
+      "anker_sha256": "28e2d11aef76bd6fa0e8e34fea84c6efd9d94ebce4b3413a0e2677478075951e",
+      "einblendung_ms": 60,
+      "text": "Complaining about the intense local climate."
+    },
+    {
+      "hook": "Making his own name",
+      "start": 1397.055,
+      "ende": 1417.143,
+      "laenge": 20.09,
+      "byte_start": 22404711,
+      "byte_ende": 22726120,
+      "bytes": 321410,
+      "range_header": "bytes=22404711-22726120",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1397.133,
+      "anker_sha256": "0932e295be678ba8ea86cd7ba020a8350c418c4a612d81ba386410c2357bf3a6",
+      "einblendung_ms": 60,
+      "text": "Recognizing a cousin in the media spotlight and remaining unfazed by the attention."
+    },
+    {
+      "hook": "No code switching needed",
+      "start": 1933.035,
+      "ende": 1953.149,
+      "laenge": 20.11,
+      "byte_start": 30980397,
+      "byte_ende": 31302225,
+      "bytes": 321829,
+      "range_header": "bytes=30980397-31302225",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1933.113,
+      "anker_sha256": "6b40277245496e7586f2565c8f7b15be2ada8bb1c294c7d0e664c9ca91e62160",
+      "einblendung_ms": 60,
+      "text": "Appreciating an environment that allows everyone to speak naturally without altering their communication style."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T04:06:16+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2189,
+  "veroeffentlicht": "2026-08-20T06:00:00-04:00",
+  "beschreibung": "On this episode of Beyond the Stay, host Renaldo Dorsett sits down with NBA veteran Eric Gordon and Team Bahamas stars V.J. Edgecombe and Leano Rolle for an inside look at the brotherhood driving Bahamian basketball. They discuss representing their country on the international stage, preparing for the FIBA World Cup qualifiers at Baha Mar, the next generation of Bahamian talent, and why Nassau will always feel like home. From leadership and family ties to unforgettable moments on and off the court, this conversation goes beyond basketball to showcase the people, passion, and pride that define Team Bahamas, and the experiences that make Baha Mar more than just a destination.\n\nHighlights:\n\n(00:00) Winning Mindset\n(01:14) Eric Gordon Home Base\n(02:21) Bahamian Roots\n(04:14) Building Team Culture\n(05:04) Home Crowd Energy\n(07:31) Next Generation Spotlight\n(09:51) Team Superlatives\n(20:08) Beach Day Check In\n(20:28) Bucket List Island Adventures\n(21:05) Lianno Breakout Year\n(22:02) Mentorship And Comparisons\n(25:09) Spain Debut And Arrival Moment\n(27:32) NBA Fame At Baha Mar\n(28:34) Rapid Fire Team Superlatives\n(30:03) Leadership And First Impressions\n(31:54) All Bahamian Coaches\n\nLinks:\n\nInstagram: @studiobahamar\nFacebook: The Studio at Baha Mar",
+  "beschreibung_html": "<p>On this episode of Beyond the Stay, host Renaldo Dorsett sits down with NBA veteran Eric Gordon and Team Bahamas stars V.J. Edgecombe and Leano Rolle for an inside look at the brotherhood driving Bahamian basketball. They discuss representing their country on the international stage, preparing for the FIBA World Cup qualifiers at Baha Mar, the next generation of Bahamian talent, and why Nassau will always feel like home. From leadership and family ties to unforgettable moments on and off the court, this conversation goes beyond basketball to showcase the people, passion, and pride that define Team Bahamas, and the experiences that make Baha Mar more than just a destination.</p><p><br><strong>Highlights:<br></strong><br></p><p>(00:00) Winning Mindset</p><p>(01:14) Eric Gordon Home Base</p><p>(02:21) Bahamian Roots</p><p>(04:14) Building Team Culture</p><p>(05:04) Home Crowd Energy</p><p>(07:31) Next Generation Spotlight</p><p>(09:51) Team Superlatives</p><p>(20:08) Beach Day Check In</p><p>(20:28) Bucket List Island Adventures</p><p>(21:05) Lianno Breakout Year</p><p>(22:02) Mentorship And Comparisons</p><p>(25:09) Spain Debut And Arrival Moment</p><p>(27:32) NBA Fame At Baha Mar</p><p>(28:34) Rapid Fire Team Superlatives</p><p>(30:03) Leadership And First Impressions</p><p>(31:54) All Bahamian Coaches </p><p><br><strong>Links: <br></strong><br><strong>Instagram:</strong> <a href=\"https://www.instagram.com/studiobahamar/\">@studiobahamar</a><br><strong>Facebook: </strong><a href=\"https://www.facebook.com/studiobahamar\">The Studio at Baha Mar</a></p>",
+  "bild_url": "https://img.transistorcdn.com/ddA_VpSAM22zh_Tct8wScunwn_m41jSKuvz3yoAWiG4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mODk2/NTYxMWEyOWQ5YTMx/MDA5YjNlNDQ4ZWVh/NGNiMS5qcGc.jpg",
+  "schlagworte": [
+    "Beyond the Stay",
+    "Baha Mar",
+    "Team Bahamas",
+    "Bahamas Basketball",
+    "Eric Gordon",
+    "V.J. Edgecombe",
+    "Leano Rolle",
+    "FIBA Basketball",
+    "FIBA World Cup Qualifiers",
+    "Bahamas National Basketball Team",
+    "NBA",
+    "Basketball Podcast",
+    "International Basketball",
+    "Team Bahamas Basketball",
+    "Bahamian Basketball",
+    "Basketball Brotherhood",
+    "Basketball Leadership",
+    "Nassau Bahamas",
+    "Bahamas Travel",
+    "Caribbean Travel",
+    "Baha Mar Resort",
+    "Luxury Resort"
+  ],
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

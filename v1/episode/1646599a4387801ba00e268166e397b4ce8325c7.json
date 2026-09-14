@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "653cd48c21aad9875417e31e",
+  "apple_collection_id": "1625912513",
+  "show": "大牌小局",
+  "titel": "EP06_City Ride有多火？和小红书、RE而意聊聊骑行小生意里的大生活",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/653cd48c21aad9875417e31e/media.xyzcdn.net/lhcecnXnSMwkUbhS8zRTQslnYr8S.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 87688285,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T09:40:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨城市骑行热潮，从小红书与RE而意视角看骑行背后的生活方式与商业新机会。",
+  "kurzfassung": "本期节目邀请了小红书户外行业负责人草莓和RE而意联合创始人罗媛，共同探讨了近年来城市骑行（City Ride）热潮的爆发原因。嘉宾们分析了骑行在重塑人们健康、环保以及社交生活方式方面的重要作用，并探讨了自行车产业的发展现状与未来商业想象空间。同时，节目也分享了不同城市在发展骑行基建上的特点以及对未来生活方式品牌的思考。",
+  "stichpunkte": [
+    "2023年骑行热潮爆发，小红书上骑行相关笔记发布量和阅读量均大幅增长。",
+    "骑行从单纯的通勤工具演变为兼具塑形、环保与社交属性的户外生活方式。",
+    "RE而意自2017年起布局骑行，顺应了城市更新、低碳减排及大众健康意识提升的时代背景。",
+    "北京、上海和大理等地展现出各具特色的骑行友好环境与季节适应性。",
+    "城市规划理念正在向“去汽车主权”转变，慢行体系和自行车友好路网建设逐渐普及。",
+    "自行车行业虽然受限于全球组装和产能，但随着技术革新与需求激增，正迎来新的发展变革。",
+    "骑行生活方式衍生出多元的消费场景，从装备到社群活动都带来了广阔的商业想象空间。",
+    "优秀的生活方式品牌需要具备价值观共情、直接的用户沟通渠道以及扎实的产品力。"
+  ],
+  "kapitel": [
+    {
+      "titel": "骑行热潮的爆发与时代背景",
+      "start": 0.0
+    },
+    {
+      "titel": "骑行人群的特征与社群文化",
+      "start": 715.62
+    },
+    {
+      "titel": "城市骑行环境与基建发展",
+      "start": 1395.24
+    },
+    {
+      "titel": "骑行作为生意的想象空间与产业链分析",
+      "start": 2201.08
+    },
+    {
+      "titel": "生活方式品牌的发展与商业思考",
+      "start": 3102.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T09:40:36+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3627,
+  "veroeffentlicht": "2023-10-28T09:29:46+00:00",
+  "beschreibung": "10月，深秋的时节，也是一个非常适合亲近大自然的时节，凉爽、干燥、然后还有点儿小风，天天坐办公室的打工人们难免会有一点心痒痒，想出去玩儿，也是在这样一个时间点，我们又来聊一聊户外。\n小红书最近发布的《2023户外生活趋势报告》显示，2023年1月到10月，骑行相关的笔记发布数量增长近400%，整体的阅读量超过13亿。内容声量的热度之外，骑行相关类目线上销售的数据同样亮眼。根据CBNData于9月底发布的《2023体育消费趋势报告》，近半年来，体育相关消费增速TOP15的类目中，有8个细分类目是与骑行直接相关，其中7个可以说是霸榜增速TOP7，就无论是声量还是销量，骑行在这一年是真的很火热。\n\n本期「大牌小局」，CBNData将和小红书以及骑行生活方式品牌RE而意一起，聊聊作为一项运动、作为一种生活方式、作为一门生意，骑行究竟有何魅力？\n| 本期嘉宾 |\n罗园 | 骑行生活方式品牌RE而意联合创始人/CEO\n草莓 | 小红书户外骑行负责人\n| 主播 |\n书白\n| 时间轴 |\n02:18 声量与销量齐飞，骑行到底有多火？\n04:00 从大时代到小生意，RE为什么选择了骑行？\n06:52 见证骑行风起，小红书怎么看骑行？\n12:04 骑行，最适合i人的运动方式\n15:52 为何说「自行车文化」是一个“舶来品”？\n18:21 骑行的第一代人群和第二代人群都是谁？\n23:34 中国的骑行友好城市，在哪里？\n36:03 自行车经济学：自行车基建投入将产生多高的回报率？\n38:10 Trek、闪电年产能二三十亿，骑行赛道“天花板”很低？\n44:09 小红书平台的骑行玩家生态如何？\n51:57 一个合格的、优秀的生活方式品牌是什么样的？\n57:35 从生活方式到严肃生意，要克服的最大障碍是？\n后期制作 | 三木\nBGM背景音乐 | Kicktracks - Travel & Chill\n收听方式 | 小宇宙App/喜马拉雅/苹果播客/QQ音乐/虎嗅App\n微信公众号 | 第一财经商业数据中心/CBNData消费站\n微信视频号 | 第一财经商业数据中心\n官网 | www.cbndata.com\n「大牌小局」是第一财经商业数据中心（CBNData）企划的一档对话节目。\n透过一场场小局的对话，我们希望为消费行业创造与外部机构、社会组织以及更多利益相关者对话的机会，在更广阔、更多元的视角下，打破商业世界的竞争内卷，探索更有效、有趣、有未来的商业实践路径。\n如果你有更多想了解的行业和相关议题，欢迎在评论区和我们留言互动，也欢迎通过下方联系方式来找我们，聊聊你的世界如何跟消费产生互动。\n联系方式 | sanmu.ksb@yinfinity.com\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>10月，深秋的时节，也是一个非常适合亲近大自然的时节，凉爽、干燥、然后还有点儿小风，天天坐办公室的打工人们难免会有一点心痒痒，想出去玩儿，也是在这样一个时间点，我们又来聊一聊户外。</p><p>小红书最近发布的<a href=\"https://mp.weixin.qq.com/s/QGWmJugvlAw55VMKwDEQ_Q\"><strong>《2023户外生活趋势报告》</strong></a>显示，2023年1月到10月，骑行相关的笔记发布数量增长近400%，整体的阅读量超过13亿。内容声量的热度之外，骑行相关类目线上销售的数据同样亮眼。根据CBNData于9月底发布的<a href=\"https://www.cbndata.com/report/3160/detail?isReading=report&amp;page=1\"><strong>《2023体育消费趋势报告》</strong></a>，近半年来，体育相关消费增速TOP15的类目中，有8个细分类目是与骑行直接相关，其中7个可以说是霸榜增速TOP7，就无论是声量还是销量，骑行在这一年是真的很火热。</p><p><img src=\"https://bts-image.xyzcdn.net/aHR0cHM6Ly91cGxvYWRlci5zaGltby5pbS9mL0Y1SkIySllBRk1QN0pndUsucG5nIXRodW1ibmFpbD9hY2Nlc3NUb2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW1SbFptRjFiSFFpTENKMGVYQWlPaUpLVjFRaWZRLmV5SmxlSEFpT2pFMk9UZzBNVGMyTmpBc0ltWnBiR1ZIVlVsRUlqb2laRE53VVRNNU9HdDJkSFpyT1hSTFVDSXNJbWxoZENJNk1UWTVPRFF4TnpNMk1Dd2lhWE56SWpvaWRYQnNiMkZrWlhKZllXTmpaWE56WDNKbGMyOTFjbU5sSWl3aWRYTmxja2xrSWpvNE1URTJPRFkyZlEuZG85dzdXQ0lCUjJQMHYzQjFOU0tBYkY5NHQ2dG9Vcl9LOWl0eGFyRzREYw==.png!thumbnail\"/></p><p>本期<strong>「大牌小局」</strong>，CBNData将和<strong>小红书</strong>以及骑行生活方式品牌<strong>RE而意</strong>一起，聊聊作为一项运动、作为一种生活方式、作为一门生意，骑行究竟有何魅力？</p><h2>| 本期嘉宾 |</h2><p>罗园 | 骑行生活方式品牌RE而意联合创始人/CEO</p><p>草莓 | 小红书户外骑行负责人</p><h2>| 主播 |</h2><p>书白</p><h2>| 时间轴 |</h2><p>02:18 声量与销量齐飞，骑行到底有多火？</p><p>04:00 从大时代到小生意，RE为什么选择了骑行？</p><p>06:52 见证骑行风起，小红书怎么看骑行？</p><p>12:04 骑行，最适合i人的运动方式</p><p>15:52 为何说「自行车文化」是一个“舶来品”？</p><p>18:21 骑行的第一代人群和第二代人群都是谁？</p><p>23:34 中国的骑行友好城市，在哪里？</p><p>36:03 自行车经济学：自行车基建投入将产生多高的回报率？</p><p>38:10 Trek、闪电年产能二三十亿，骑行赛道“天花板”很低？</p><p>44:09 小红书平台的骑行玩家生态如何？</p><p>51:57 一个合格的、优秀的生活方式品牌是什么样的？</p><p>57:35 从生活方式到严肃生意，要克服的最大障碍是？</p><p>后期制作 | 三木</p><p>BGM背景音乐 | Kicktracks - Travel &amp; Chill</p><p>收听方式 | 小宇宙App/喜马拉雅/苹果播客/QQ音乐/虎嗅App</p><p>微信公众号 | 第一财经商业数据中心/CBNData消费站</p><p>微信视频号 | 第一财经商业数据中心</p><p>官网 | <a href=\"https://www.cbndata.com/\">www.cbndata.com</a></p><p>「大牌小局」是第一财经商业数据中心（CBNData）企划的一档对话节目。</p><p>透过一场场小局的对话，我们希望为消费行业创造与外部机构、社会组织以及更多利益相关者对话的机会，在更广阔、更多元的视角下，打破商业世界的竞争内卷，探索更有效、有趣、有未来的商业实践路径。</p><p>如果你有更多想了解的行业和相关议题，欢迎在评论区和我们留言互动，也欢迎通过下方联系方式来找我们，聊聊你的世界如何跟消费产生互动。</p><p>联系方式 | sanmu.ksb@yinfinity.com</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/653cd48c21aad9875417e31e?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FvoNnoJD_T7L4hkft2BO2pgYQ1KZ.png",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "69ac366ac8cdeb38c2553b3f",
+  "apple_collection_id": "1681473118",
+  "show": "碎碎念读书室",
+  "titel": "Firefly Lane",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/69ac366ac8cdeb38c2553b3f/media.xyzcdn.net/637867fae55e0588d504110e/lvquBog-iwO-BGheNRay24gBfElx.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6721326,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T08:52:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾畅销书《再见萤火虫》中跨越三十年的女性友谊与家庭变迁。",
+  "kurzfassung": "本期节目探讨了小说《再见萤火虫》中的故事，聚焦两位女主角长达三十年的深厚友谊。故事回溯到20世纪70年代，展现了主角在复杂的家庭环境中的童年记忆。通过对母亲突然回家等情节的描写，展现了亲情与成长的复杂轨迹。",
+  "stichpunkte": [
+    "探讨小说《再见萤火虫》中长达三十年的女性友谊",
+    "回忆1970年代的生活背景与家庭氛围",
+    "描述祖母严厉而安静的日常生活，以及中风的祖父",
+    "主角在孤独中与玩具相伴并渴望母爱",
+    "母亲突然现身探望，打破了平静的生活",
+    "展现母亲回归时的复杂情绪与醉酒状态",
+    "祖母对母亲的到来表现出冷淡与警惕",
+    "探讨童年记忆、希望与家庭带来的伤痛"
+  ],
+  "kapitel": [
+    {
+      "titel": "回忆与三十年的友谊",
+      "start": 0.0
+    },
+    {
+      "titel": "七十年代的童年生活",
+      "start": 300.16
+    },
+    {
+      "titel": "母亲的突然造访",
+      "start": 446.12
+    },
+    {
+      "titel": "重逢的复杂情绪",
+      "start": 570.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T08:52:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 810,
+  "veroeffentlicht": "2026-03-07T14:34:00+00:00",
+  "beschreibung": "心血来潮\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>心血来潮</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/69ac366ac8cdeb38c2553b3f?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

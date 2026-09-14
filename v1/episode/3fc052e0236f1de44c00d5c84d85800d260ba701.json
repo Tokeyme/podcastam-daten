@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "68381f1831215eb5065a5b1a",
+  "apple_collection_id": "1701022591",
+  "show": "电影巨辩5min",
+  "titel": "58.戛纳的超长鼓掌，礼节？谄媚？还是营销？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6527861536a1383a663d3d37/68381f1831215eb5065a5b1a/media.xyzcdn.net/6527861536a1383a663d3d37/lqH73Lw_s7eZ5C3nFApGXNH67qHL.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19504282,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T07:01:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨戛纳等电影节超长鼓掌传统的来龙去脉、背后的营销推手与社交压力。",
+  "kurzfassung": "本期节目探讨了戛纳电影节等活动中常见的超长鼓掌现象。老马梳理了历届电影节的夸张鼓掌时长记录，分析了其中夹杂的经济利益驱动、羊群效应以及演员和观众面临的社交压力。此外，节目还延伸对比了威尼斯、柏林以及古典音乐界和政治生活中的鼓掌历史与权力暗示。",
+  "stichpunkte": [
+    "戛纳电影节放映后的鼓掌时长近年来呈延长趋势，2006年的《潘神的迷宫》曾创下22分钟的历史记录。",
+    "导演对超长鼓掌反应不一，吉尔默·德尔托罗曾感到困惑与尴尬，而奉俊浩则因剧组饥饿在8分钟时主动叫停。",
+    "超长鼓掌往往演变成一种表演性质的“拍马屁”和社交礼仪，观众在人群压力和惯性下难以率先停下。",
+    "这一现象背后有明显的商业公关和营销噱头驱动，但无法挽救商业上失败的电影。",
+    "威尼斯电影节同样以漫长鼓掌著称，而柏林电影节的氛围相对克制，但也曾出现古典音乐大师长达数十分钟的极端的掌声记录。",
+    "北多伦多等北美电影节更具产业属性，没有形成欧洲三大电影节那种固定的鼓掌仪式。",
+    "从历史和政治层面来看，掌声的使用曾被用于古希腊的政策表决，甚至在苏联和朝鲜成为测试意识形态纯洁性的政治压力工具。",
+    "节目最后介绍了付费专题节目《为了华语电影》的近况，并预告了下一期关于导演黄建新的内容。"
+  ],
+  "kapitel": [
+    {
+      "titel": "戛纳电影节的超长鼓掌现象与历史记录",
+      "start": 37.3
+    },
+    {
+      "titel": "主创的反应与鼓掌背后的社交压力和营销手段",
+      "start": 305.62
+    },
+    {
+      "titel": "各大电影节及古典音乐界的鼓掌氛围对比",
+      "start": 651.36
+    },
+    {
+      "titel": "历史与政治生活中的掌声：从古希腊到苏联",
+      "start": 868.86
+    },
+    {
+      "titel": "播客近况更新与《为了华语电影》专题预告",
+      "start": 1083.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T07:01:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1205,
+  "veroeffentlicht": "2025-05-29T16:00:00+00:00",
+  "beschreibung": "今年没有去戛纳的主播，终于找到机会，蹭一个戛纳的话题了。\n戛纳映后鼓掌，动辄超过20分钟，有点太过分了。这种浮夸的习惯，是必要的礼节？还是对名人的谄媚？又或者它就是营销宣传而已？\n本期节目包含以下内容：\n历史上鼓掌时长纪录\n反战政治表态\n奉俊昊饿了，打断鼓掌\n斯皮尔伯格的鼓掌时长被夸张三倍\n张艺谋《十面埋伏》鼓掌半小时，是真的吗？\n长时间鼓掌拯救不了烂片\n一波未平，一波又起\n你在鼓掌，阿莫多瓦和卡拉克斯在干嘛？\n威尼斯、柏林、多伦多、圣丹斯也有这么夸张吗？\n跟古典音乐比起来，电影界太克制了\n春晚不也有领掌和领笑的嘛？\n古希腊政治家的发明\n索尔仁尼琴讲的黑色笑话\n在苏联和朝鲜，怎么让掌声停下来？\n下期节目预告：事关中国知识分子的人格\n\n欢迎订阅电影巨辩付费节目\n付费专辑「为了华语电影」（点击左边链接）已经更完前七集，内容涵盖中国电影的改革开放史、香港新本土电影、杨德昌、贾樟柯、银河映像、王家卫、台湾电影……\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>今年没有去戛纳的主播，终于找到机会，蹭一个戛纳的话题了。</p><p>戛纳映后鼓掌，动辄超过20分钟，有点太过分了。这种浮夸的习惯，是必要的礼节？还是对名人的谄媚？又或者它就是营销宣传而已？</p><p>本期节目包含以下内容：</p><ul>  <li>历史上鼓掌时长纪录</li>  <li>反战政治表态</li>  <li>奉俊昊饿了，打断鼓掌</li>  <li>斯皮尔伯格的鼓掌时长被夸张三倍</li>  <li>张艺谋《十面埋伏》鼓掌半小时，是真的吗？</li>  <li>长时间鼓掌拯救不了烂片</li>  <li>一波未平，一波又起</li>  <li>你在鼓掌，阿莫多瓦和卡拉克斯在干嘛？</li>  <li>威尼斯、柏林、多伦多、圣丹斯也有这么夸张吗？</li>  <li>跟古典音乐比起来，电影界太克制了</li>  <li>春晚不也有领掌和领笑的嘛？</li>  <li>古希腊政治家的发明</li>  <li>索尔仁尼琴讲的黑色笑话</li>  <li>在苏联和朝鲜，怎么让掌声停下来？</li>  <li>下期节目预告：事关中国知识分子的人格</li></ul><h2>欢迎订阅电影巨辩付费节目</h2><p><a href=\"https://www.xiaoyuzhoufm.com/podcast/66c5e8fb33591c27bec06675\">付费专辑「为了华语电影」</a>（点击左边链接）已经更完前七集，内容涵盖中国电影的改革开放史、香港新本土电影、杨德昌、贾樟柯、银河映像、王家卫、台湾电影……</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/68381f1831215eb5065a5b1a?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

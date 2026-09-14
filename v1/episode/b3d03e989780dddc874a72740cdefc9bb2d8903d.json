@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "6a736276ab3a91c24a107220",
+  "apple_collection_id": "1705077879",
+  "show": "一直躺到生活变好",
+  "titel": "助眠篇 028 ｜我认识了一条流浪小狗",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64e9aecae5716baf296ed615/6a736276ab3a91c24a107220/media.xyzcdn.net/64e9aecae5716baf296ed615/ln4gepiViY4OUbjvzpkhzrxJdXEC.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7549291,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T21:44:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "分享近期备战喜剧比赛的生活节奏、救助流浪小狗的经历以及开放麦的趣事。",
+  "kurzfassung": "主播分享了近期因参加喜剧比赛而高度紧张且不规律的生活状态。节目中讲述了他在合宿地偶遇并救助一只流浪小狗的经过，以及为小狗寻找领养家庭的计划。此外，他还提到了开放麦演出中的尴尬误会以及对未来放松旅行的期待。",
+  "stichpunkte": [
+    "喜剧比赛期间生活节奏紧张，作息不规律，常写稿到深夜。",
+    "在合宿别墅拍杂志时偶遇一只饥饿的小黑狗，并为其提供食物。",
+    "与同事一起带小狗去宠物医院体检并进行后续调养。",
+    "因自身经常出差且无暇照顾，决定为小狗寻找靠谱的领养主人。",
+    "在开放麦演出中把观众的拐杖误认为三脚架并当场道歉。",
+    "因近视引发过不少生活中的尴尬时刻，曾考虑过近视手术但最终作罢。",
+    "计划在比赛结束后去旅行放松，寻找创作灵感。",
+    "呼吁大家注意作息，不要经常熬夜。"
+  ],
+  "kapitel": [
+    {
+      "titel": "比赛期间的不规律生活",
+      "start": 16.92
+    },
+    {
+      "titel": "合宿偶遇并救助流浪小狗",
+      "start": 225.7
+    },
+    {
+      "titel": "为小狗寻找负责任的领养家庭",
+      "start": 422.68
+    },
+    {
+      "titel": "开放麦演出中的尴尬误会",
+      "start": 693.08
+    },
+    {
+      "titel": "对未来旅行的规划与晚安寄语",
+      "start": 837.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T21:44:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 910,
+  "veroeffentlicht": "2026-08-05T17:11:06+00:00",
+  "beschreibung": "最近有在认真写段子，认真筹备节目，所以挺久没更新了，大家见谅呀\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>最近有在认真写段子，认真筹备节目，所以挺久没更新了，大家见谅呀</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a736276ab3a91c24a107220?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

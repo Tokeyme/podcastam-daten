@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group35/M0B/12/A9/wKgJnVoSlB2hAXDNAC-KrcvNkzM181.m4a",
+  "apple_collection_id": "1266564640",
+  "show": "夜小喵的情感小屋",
+  "titel": "送给相爱却不能相见的你们",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJnVoSlB2hAXDNAC-KrcvNkzM181.m4a?channel=rss&album_id=9201441&track_id=59509240&uid=78655273&jt=https://aod.cos.tx.xmcdn.com/group35/M0B/12/A9/wKgJnVoSlB2hAXDNAC-KrcvNkzM181.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3115693,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:19:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "给异地恋情侣的维系指南，提供具体的沟通与相处建议。",
+  "kurzfassung": "本期节目探讨了异地恋面临的种种挑战与维系方法。主持人叶小喵分享了三条实用建议，包括保持日常联系与视频通话、建立专属的小习惯和秘密花园，以及共同规划未来的生活蓝图。这些方法旨在帮助异地情侣克服距离带来的疏离感，坚定相守的信念。",
+  "stichpunkte": [
+    "异地恋面临沟通减少、感情变淡甚至分崩离析的挑战",
+    "建议尽量养成每天联系的习惯，如早晚安打卡",
+    "推荐通过每天晚上开视频来增加视觉维度和情感连结",
+    "建立特殊的小习惯或秘密花园，例如通过专属空间分享心情与纪念日",
+    "举例孙俪与邓超通过互挤牙膏表达晚安的亲密小习惯",
+    "分享朋友经历五年异地恋最终走到一起的真实故事",
+    "强调需要共同规划未来蓝图，通过细节描绘未来的生活场景来支撑当下的坚持"
+  ],
+  "kapitel": [
+    {
+      "titel": "异地恋的挑战与第一条建议：保持日常联系",
+      "start": 0.78
+    },
+    {
+      "titel": "第二条建议：建立特殊小习惯与秘密花园",
+      "start": 181.28
+    },
+    {
+      "titel": "第三条建议：制造共同目标与未来蓝图",
+      "start": 291.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:19:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 384,
+  "veroeffentlicht": "2017-11-23T09:30:01+00:00",
+  "beschreibung": "关注微信公众号“大熊的爱情” ，学习更多两性情感，为你的情感保驾护航\n\n你的情感倾诉故事或者困惑 发送至邮箱：17316373735@163.com\n\n微博：大熊de爱情",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left\" data-flag=\"normal\">关注微信公众号“<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">大熊的爱情</strong>”  ，学习更多两性情感，为你的情感保驾护航</p><span><br /></span><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left\" data-flag=\"normal\">你的情感倾诉故事或者困惑 发送至邮箱：<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">17316373735@163.com</strong></p><span><br /></span><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:left\" data-flag=\"normal\">微博：<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">大熊de爱情</strong></p><span><br /><br /></span>",
+  "bild_url": "https://fdfs.xmcdn.com/group35/M05/5C/AB/wKgJnFoSlBqjE4kpAASAPaP8Mpg695.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

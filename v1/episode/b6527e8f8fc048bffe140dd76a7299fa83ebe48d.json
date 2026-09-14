@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1002622817",
+  "apple_collection_id": "1510725428",
+  "show": "播客公社",
+  "titel": "老袁其实是文旅演艺的老兵，喜欢播客的人都应该来《只有红楼梦》feat.羊行&姝琦&罗叔",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_sYfCGNPgDLWscXxzkMxUrwKMmsCnKSQcTMJzyRWUqjuNdqtqTvSyWSJvFw-8e.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 31150613,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T18:30:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨播客与戏剧场景的结合，分享在廊坊《只有红楼梦》戏剧幻城的体验。",
+  "kurzfassung": "几位播客主播在廊坊《只有红楼梦》戏剧幻城现场录制节目，畅谈了各自的观剧感受与体验。节目中讨论了该剧如何打破传统戏剧与年轻人的界限，并结合导演的个人审美与沉浸式互动，带给观众超越预期的惊喜。嘉宾们一致认为这是一个非常值得专程前来游玩和体验的项目。",
+  "stichpunkte": [
+    "主播们在廊坊《只有红楼梦》戏剧幻城现场录制特别节目。",
+    "探讨了播客内容如何与大型戏剧场景进行跨界结合。",
+    "分享了对剧中多达55场戏、1500分钟时长的震撼观感。",
+    "讨论了即使对《红楼梦》原著不了解，也能轻松沉浸并获得强烈的情感触动。",
+    "称赞了导演将先锋与通俗完美融合的功力，以及独特的剧场规则与互动体验。",
+    "提及了园区内丰富的演艺场景、夜市烟火气以及让人印象深刻的“二十四哨”等特色环节。",
+    "一致认为该项目物超所值，非常值得观众专程或组团前来体验。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与探访《只有红楼梦》的缘起",
+      "start": 0.0
+    },
+    {
+      "titel": "初探幻城：震撼的规模与不了解原著也能看懂的体验",
+      "start": 141.64
+    },
+    {
+      "titel": "交通便利性与周边的美食、夜市体验",
+      "start": 1218.9
+    },
+    {
+      "titel": "沉浸式互动、导演的审美与“二十四哨”的高潮体验",
+      "start": 1821.3
+    },
+    {
+      "titel": "总结与呼吁：非常值得专程前来的戏剧幻城之旅",
+      "start": 3773.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T18:30:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3848,
+  "veroeffentlicht": "2026-07-24T14:29:57+08:00",
+  "beschreibung": "这期节目是在河北廊坊“只有红楼梦·戏剧幻城”现场录制。我跟苦中找乐羊行、头号玩家&歪打正着罗叔、津津乐道姝琦一起，四个人聊一个问题：这地方到底值不值得专程来一趟。我其实是文旅老兵，很希望有一天能带父母来，让他们终于看懂我毕业后那十年在干嘛。羊行是端午节带着一大家子六口人开车从北京过来的，待了两天没看完，这次又来了一天，大戏还差一场没补上。罗叔本来是被人拖来醒酒的，结果一天自愿看了七场停不下来。姝琦从没看过红楼梦原著，来之前紧张得要死，走的时候说下次要自己花钱再来。四个人的视角完全不一样，但结论很接近。如果你在犹豫要不要去，听完这期应该能帮你做决定。\n\n感谢苦中找乐羊行的剪辑支持，另外狂喜播客节的北京站也马上要开启了！欢迎大家来一同感受！",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">这期节目是在河北廊坊“只有红楼梦·戏剧幻城”现场录制。我跟苦中找乐羊行、头号玩家&amp;歪打正着罗叔、津津乐道姝琦一起，四个人聊一个问题：这地方到底值不值得专程来一趟。我其实是文旅老兵，很希望有一天能带父母来，让他们终于看懂我毕业后那十年在干嘛。羊行是端午节带着一大家子六口人开车从北京过来的，待了两天没看完，这次又来了一天，大戏还差一场没补上。罗叔本来是被人拖来醒酒的，结果一天自愿看了七场停不下来。姝琦从没看过红楼梦原著，来之前紧张得要死，走的时候说下次要自己花钱再来。四个人的视角完全不一样，但结论很接近。如果你在犹豫要不要去，听完这期应该能帮你做决定。<br></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/b7cb-audiofreehighqps/DD/CE/GKwRIMAOONTYAAYaHgS8RiZT.jpg!op_type=4&amp;upload_type=attachment&amp;device_type=ios&amp;name=mobile_large\" data-origin=\"http://fdfs.xmcdn.com/storages/b7cb-audiofreehighqps/DD/CE/GKwRIMAOONTYAAYaHgS8RiZT.jpg\" data-preview-width=\"140\" data-large=\"http://imagev2.xmcdn.com/storages/b7cb-audiofreehighqps/DD/CE/GKwRIMAOONTYAAYaHgS8RiZT.jpg!op_type=4&amp;upload_type=attachment&amp;device_type=ios&amp;name=mobile_large\" data-large-height=\"500\" data-preview=\"http://imagev2.xmcdn.com/storages/b7cb-audiofreehighqps/DD/CE/GKwRIMAOONTYAAYaHgS8RiZT.jpg!op_type=4&amp;upload_type=attachment&amp;device_type=ios&amp;name=mobile_small\" data-large-width=\"750\" data-preview-height=\"93\"></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">感谢苦中找乐羊行的剪辑支持，另外狂喜播客节的北京站也马上要开启了！欢迎大家来一同感受！</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><img data-key=\"1\" src=\"http://imagev2.xmcdn.com/storages/1d85-audiofreehighqps/F7/82/GKwRIaIOOMN_AAHl3AS8O0h6.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/1d85-audiofreehighqps/F7/82/GKwRIaIOOMN_AAHl3AS8O0h6.jpeg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/1d85-audiofreehighqps/F7/82/GKwRIaIOOMN_AAHl3AS8O0h6.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"422.43589743589746\" data-preview=\"http://imagev2.xmcdn.com/storages/1d85-audiofreehighqps/F7/82/GKwRIaIOOMN_AAHl3AS8O0h6.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"78.85470085470085\"></p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/86fd-audiofreehighqps/02/68/GKwRIRwOOMlPAA-u4QS8P85u.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

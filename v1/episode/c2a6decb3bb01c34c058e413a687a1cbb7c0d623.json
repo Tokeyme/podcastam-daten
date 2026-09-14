@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "guid": "8638acc5-f9e5-40cb-bf5d-b49400cc5e39",
+  "apple_collection_id": "1844409167",
+  "show": "Business History",
+  "titel": "The DeLorean Saga: Fraud, Drug Deals and Marty McFly's Car",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/pdrl.fm/d5d38c/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7f3d9150-a284-4eb5-afdd-b36b012c131c/8638acc5-f9e5-40cb-bf5d-b49400cc5e39/audio.mp3?utm_source=Podcast&in_playlist=d0eda9ea-f1f7-4dbc-aeac-b36b012c1726",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 55620684,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:16:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "The rise and fall of John DeLorean, fraud, and the iconic gull-wing sports car.",
+  "kurzfassung": "John DeLorean rose through the ranks at General Motors, created the iconic Pontiac GTO, and later left to found his own car company. To fund the production of his stainless steel sports car with gull-wing doors, he secured massive backing from the UK government to build a factory in Northern Ireland. The venture ultimately collapsed amidst financial fraud, poor car quality, and a cocaine sting operation orchestrated by the FBI.",
+  "stichpunkte": [
+    "John DeLorean worked his way up at General Motors and created the Pontiac GTO, considered by many to be the first great American muscle car.",
+    "Dissatisfied with GM's corporate culture and rules, DeLorean resigned in 1973 to build his own revolutionary sports car.",
+    "He founded the DeLorean Motor Company and secured roughly one hundred million dollars in funding from the UK government to build a factory in Northern Ireland.",
+    "Production began in 1981, but the vehicles suffered from severe quality issues, earning a reputation as unreliable lemons.",
+    "Financial troubles mounted as a recession hit, and millions of dollars went missing through a mysterious shell company named GPD Services.",
+    "In October 1982, DeLorean was arrested by the FBI in a Los Angeles hotel room in a cocaine sting operation meant to save his failing business.",
+    "DeLorean was later acquitted on grounds of entrapment, but his company went bankrupt and the car was immortalized by the film Back to the Future."
+  ],
+  "kapitel": [
+    {
+      "titel": "The Sting",
+      "start": 82.6
+    },
+    {
+      "titel": "Rise at General Motors",
+      "start": 262.4
+    },
+    {
+      "titel": "Building the DeLorean Motor Company",
+      "start": 747.32
+    },
+    {
+      "titel": "The Factory in Northern Ireland",
+      "start": 1387.64
+    },
+    {
+      "titel": "Quality Issues and Financial Scandal",
+      "start": 1730.48
+    },
+    {
+      "titel": "Trial, Industrial Policy, and Legacy",
+      "start": 2248.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "A drug deal to save the company",
+      "start": 146.312,
+      "ende": 166.426,
+      "laenge": 20.11,
+      "byte_start": 2410721,
+      "byte_ende": 2732548,
+      "bytes": 321828,
+      "range_header": "bytes=2410721-2732548",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 146.39,
+      "anker_sha256": "d794d55f4108c18fa92836a5305d6b02fa1a20d07060d838f49399a145c9d2d3",
+      "einblendung_ms": 60,
+      "text": "The narrative begins with John DeLorean’s 1982 arrest in a Los Angeles hotel room involving a suitcase of cocaine."
+    },
+    {
+      "hook": "Midlife crisis: divorce and sports cars",
+      "start": 775.445,
+      "ende": 795.559,
+      "laenge": 20.11,
+      "byte_start": 12476850,
+      "byte_ende": 12798677,
+      "bytes": 321828,
+      "range_header": "bytes=12476850-12798677",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 775.523,
+      "anker_sha256": "3531aa0fa410658f86955b87b47d6372c733533b3d12134f36beaa20a43d9aa7",
+      "einblendung_ms": 60,
+      "text": "While John DeLorean claimed his departure from General Motors was driven by a desire for creative freedom, author Hillel Levin offers a more critical perspective in his book Grand Delusions."
+    },
+    {
+      "hook": "Why governments love car factories",
+      "start": 1293.349,
+      "ende": 1313.463,
+      "laenge": 20.11,
+      "byte_start": 20763307,
+      "byte_ende": 21085135,
+      "bytes": 321829,
+      "range_header": "bytes=20763307-21085135",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1293.427,
+      "anker_sha256": "8bed5d1fb235c8cabc0234e1e565117222726908d06e60eb0a92ca316381c5ab",
+      "einblendung_ms": 60,
+      "text": "Drawing inspiration from Walter Chrysler’s success, John DeLorean believed that manufacturing a high-end sports car would overcome the financial hurdles of mass production."
+    },
+    {
+      "hook": "A very long list of defects",
+      "start": 1784.921,
+      "ende": 1815.014,
+      "laenge": 30.09,
+      "byte_start": 28628463,
+      "byte_ende": 29109951,
+      "bytes": 481489,
+      "range_header": "bytes=28628463-29109951",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1784.999,
+      "anker_sha256": "d15f403bbb1132b54e672d2ec124129f027b476ad09dde39aa6a27216e945f0e",
+      "einblendung_ms": 60,
+      "text": "British officials funneled government funding into Northern Ireland during a period of intense economic instability to stabilize the region."
+    },
+    {
+      "hook": "Disciplined pluralism in markets",
+      "start": 2744.503,
+      "ende": 2764.983,
+      "laenge": 20.48,
+      "byte_start": 43981776,
+      "byte_ende": 44309455,
+      "bytes": 327680,
+      "range_header": "bytes=43981776-44309455",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2744.581,
+      "anker_sha256": "453c1f387931509c024e2b12671120fe2042c7471fa99655d78b77fac4406d7f",
+      "einblendung_ms": 60,
+      "text": "The iconic appearance of the DMC-12 in the film Back to the Future served as a punchline for adult audiences familiar with the company's real-world collapse."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:16:35+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2891,
+  "veroeffentlicht": "2026-08-19T04:05:00+00:00",
+  "beschreibung": "This is a special crossover episode with Cautionary Tales with Tim Harford.\nJohn DeLorean was a top car executive - but he was too maverick to fit into the oppressive corporate culture of GM. He wanted to make a new and exciting sports car - a futuristic stainless steel marvel with distinctive gull-wing doors (which found fame in Back to the Future). He just needed someone to give him millions of dollars to get started.\nThe British government agreed to foot the bill, but only if DeLorean built his factory in a troubled part of Northern Ireland. The cars coming off the production line were beset with problems and sales slowed down. Company finances were also strained by DeLorean's spendthrift ways and brazen theft. Finally, someone offered DeLorean a lifeline if only he'd come in on a cocaine deal.\nWrite to us at businesshistory@pushkin.fm\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>This is a special crossover episode with <a href=\"https://www.pushkin.fm/podcasts/cautionary-tales\">Cautionary Tales with Tim Harford</a>.&nbsp;</p> <p>John DeLorean was a top car executive - but he was too maverick to fit into the oppressive corporate culture of GM. He wanted to make a new and exciting sports car - a futuristic stainless steel marvel with distinctive gull-wing doors (which found fame in&nbsp;<em>Back to the Future)</em>. He just needed someone to give him millions of dollars to get started.&nbsp;</p> <p>The British government agreed to foot the bill, but only if DeLorean built his factory in a troubled part of Northern Ireland. The cars coming off the production line were beset with problems and sales slowed down. Company finances were also strained by DeLorean's spendthrift ways and brazen theft. Finally, someone offered DeLorean a lifeline if only he'd come in on a cocaine deal.&nbsp; &nbsp;</p> <p>Write to us at&nbsp;<a href=\"mailto:businesshistory@pushkin.fm\">businesshistory@pushkin.fm</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7f3d9150-a284-4eb5-afdd-b36b012c131c/8638acc5-f9e5-40cb-bf5d-b49400cc5e39/image.jpg?t=1786481242&size=Large",
+  "folgennummer": 38,
+  "kapitel_quelle": "modell"
+}

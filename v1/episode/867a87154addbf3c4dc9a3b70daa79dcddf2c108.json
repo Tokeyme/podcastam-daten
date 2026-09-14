@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "https://api.spreaker.com/episode/73920476",
+  "apple_collection_id": "412308695",
+  "show": "TheThinkingAtheist",
+  "titel": "The Earth is Flat and Bill Clinton is the AntiChrist (with Susan Huckle)",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/711/api.spreaker.com/download/episode/73920476/podcast894_susanhuckle.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T03:53:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Growing up with flat earther parents and the journey out of evangelicalism.",
+  "kurzfassung": "Guest Susan Huckle discusses growing up in an evangelical Pentecostal household filled with end-times theology and conspiracy theories, culminating in her parents believing the earth is flat. She shares her experience of being homeschooled with rigid Christian curricula, navigating purity culture, and eventually moving to Los Angeles to pursue acting. The conversation explores the fine line between hope and delusion, the psychological need for belonging, and her path to atheism.",
+  "stichpunkte": [
+    "Susan Huckle was raised by evangelical Pentecostal parents who later embraced flat earth conspiracy theories.",
+    "Her upbringing included strict homeschooling with a Beka materials, Young Earth creationism, and intense end-times anticipation.",
+    "Her parents' descent into conspiracy theories started with religious interpretations and expanded to 9/11 denial and the moon landing hoax.",
+    "Huckle reflects on the pervasive fear and shame instilled by purity culture and religious dogmatism.",
+    "Moving to Los Angeles and pursuing an acting career exposed her to diverse, kind people outside her childhood bubble, shattering her worldview.",
+    "She and Seth Andrews discuss how the human need for belonging and tribe reinforcement drives educated people toward bizarre beliefs.",
+    "Huckle's memoir, The Earth Is Flat and Other Things My Mother Met, explores loving family members who live in a different reality."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-25T03:53:10+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3112,
+  "veroeffentlicht": "2026-08-18T10:00:03+00:00",
+  "beschreibung": "Actor and author Susan Huckle was raised in a highly religious home filled with conspiracy theories. She has written a book about her childhood and her journey into rationalism.\n\nVIDEO of this conversation\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/thethinkingatheist--3270347/support.",
+  "beschreibung_html": "Actor and author <a href=\"https://linktr.ee/susanhuckle\" target=\"_blank\" rel=\"noreferrer noopener\">Susan Huckle</a> was raised in a highly religious home filled with conspiracy theories. She has written a <a href=\"https://www.amazon.com/dp/B0GPXPB2NF?ref=cm_sw_r_ffobk_cso_cp_apin_dp_ss_F0BANXJDR11011K7HN3E&amp;ref_=cm_sw_r_ffobk_cso_cp_apin_dp_ss_F0BANXJDR11011K7HN3E&amp;social_share=cm_sw_r_ffobk_cso_cp_apin_dp_ss_F0BANXJDR11011K7HN3E&amp;bestFormat=true&amp;rsd=dLx6yj0INhguts5Vf9ZVMP3HtqvpghQAP6ivyEhY5J17EcAu9Hvcfobo96LJutJDtZT6jpQ2MPS6%2B8AhghyONHzZMuzVW2Y2q2sDUtMQrNHI&amp;edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQEn5rOWirMVgtr6fbp91ivPAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiwvPxge2E%2Bi7rBj1AgEQgDs9QubZIxSE%2BSeR6qKVbwejz%2FZFTM3%2B9GdGVtQI9P%2B0GcnUMCXJPVHg8mNgleg6V8DlEPYoFIkbUqaJ0g%3D%3D\" target=\"_blank\" rel=\"noreferrer noopener\">book</a> about her childhood and her journey into rationalism.<br /><br /><a href=\"https://youtu.be/_dHZ97ABc2g\" target=\"_blank\" rel=\"noreferrer noopener\">VIDEO</a> of this conversation<br /><br />Become a supporter of this podcast: <a href=\"https://www.spreaker.com/podcast/thethinkingatheist--3270347/support?utm_source=rss&utm_medium=rss&utm_campaign=rss\">https://www.spreaker.com/podcast/thethinkingatheist--3270347/support</a>.",
+  "untertitel": "Actor and author https://linktr.ee/susanhuckle was raised in a highly religious home filled with conspiracy theories. She has written a...",
+  "bild_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5d50d87e3339d61018af7f5fb1a0d47e.jpg",
+  "schlagworte": [
+    "actor",
+    "andrews",
+    "atheist",
+    "author",
+    "bible",
+    "book",
+    "christianity",
+    "conspiracy",
+    "earth",
+    "faith",
+    "flat",
+    "huckle",
+    "pseudoscience",
+    "rationalism",
+    "religion",
+    "science",
+    "seth",
+    "susan",
+    "theories",
+    "thinking"
+  ],
+  "folgennummer": 893
+}

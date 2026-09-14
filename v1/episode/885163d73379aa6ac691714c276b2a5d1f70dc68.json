@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_957047977",
+  "apple_collection_id": "1209901850",
+  "show": "科技最前沿 | 最新科技前沿解读，做有态度的科技课",
+  "titel": "从小米的机器人突破触觉感知所起",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwNZjSvAC7j0gRrQqO2.m4a?channel=rss&album_id=6748227&track_id=957047977&uid=41432139&jt=https://aod.cos.tx.xmcdn.com/storages/d408-audiofreehighqps/45/50/GKwRIRwNZjSvAC7j0gRrQqO2.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3072978,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:03:29+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "从小米机器人的触觉突破切入，探讨人工智能与机器人时代的未来挑战。",
+  "kurzfassung": "小米机器人的触觉突破实现了全程无需视觉和三维模型的毫米级微调，标志着机器人控制的重要进展。人类通过多维传感器认识世界，而多传感器协同的机器人未来将大概率替代人类工作。面对AGI和机器人时代的代际变革，未来必须依靠供应链和技术优势向产业链上游进化。",
+  "stichpunkte": [
+    "小米机器人实现触觉突破，无需视觉和三维模型即可进行毫米级微调",
+    "人类通过视觉、听觉、触觉、嗅觉和味觉等多维角度认知世界",
+    "优秀的机器人未来需要将多个传感器做得足够强大",
+    "由于机械磨损和维护成本低且可24小时工作，机器人替代人类工作是必然趋势",
+    "马斯克提到可通过机械手来完成超越，低端制造业的重复劳动面临机器人挑战",
+    "面对AGI和代际变革，如果处理不好可能带来严重担忧",
+    "机器人时代必须向上游进化，结合成本、供应链和生产环境等多重优势"
+  ],
+  "kapitel": [
+    {
+      "titel": "小米机器人的触觉突破",
+      "start": 0.56
+    },
+    {
+      "titel": "人类的多维感知与机器人传感器的未来",
+      "start": 40.88
+    },
+    {
+      "titel": "机器人替代人类工作的必然性",
+      "start": 117.0
+    },
+    {
+      "titel": "AGI与机器人时代的产业担忧",
+      "start": 245.76
+    },
+    {
+      "titel": "向上游进化：机器人时代的生存空间",
+      "start": 336.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:03:29+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 379,
+  "veroeffentlicht": "2026-02-16T14:58:59+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f913-audiofreehighqps/5B/6C/GAqh4zIMX5uyAAyBCAPtNzjg.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

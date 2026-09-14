@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_999710394",
+  "apple_collection_id": "1887189428",
+  "show": "运动与健康",
+  "titel": "医生也中招脂肪肝？元凶+逆转4招",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOJlVVACIsLgS0TkDP.m4a?channel=rss&album_id=118669835&track_id=999710394&uid=167077348&jt=https://aod.cos.tx.xmcdn.com/storages/b345-audiofreehighqps/FD/6F/GKwRIUEOJlVVACIsLgS0TkDP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2239534,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:04:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "医生也查出脂肪肝？解析元凶与科学逆转的四个方法",
+  "kurzfassung": "脂肪肝并非胖子和酒鬼的专利，白天挨饿、晚上暴饮暴食的不规律饮食是重要诱因。早期脂肪肝如果不加干预，可能引发严重代谢问题甚至肝硬化。科学逆转脂肪肝需要保持三餐规律、关注腰围而非单纯体重、必要时在医生指导下用药以及进行规律运动。",
+  "stichpunkte": [
+    "脂肪肝不仅发生在肥胖人群中，白天硬扛、晚上暴饮暴食的人同样高发",
+    "白天饥饿与晚上暴食的循环会导致血糖、胰岛素和甘油三酯迅速飙升，多余热量堆积在肝脏",
+    "脂肪肝早期没有明显感觉，但如果不加干预可能发展为肝炎、肝硬化，并增加心梗和脑梗风险",
+    "极端节食主要减掉的是水分和肌肉，会导致基础代谢降低并容易反弹，无法有效逆转脂肪肝",
+    "逆转脂肪肝的第一条是三餐规律，保证蛋白质摄入，减少含糖饮料、甜点和夜宵",
+    "第二条是关注腰围而非体重，亚洲人负型肥胖标准为男性腰围大于等于90厘米、女性大于等于80厘米",
+    "第三条是重度情况在医生评估下使用新型代谢药物，如双受体激动剂等帮助肝脏减脂",
+    "第四条是进行有氧加力量训练的规律运动，核心在于提升代谢底盘、保住肌肉"
+  ],
+  "kapitel": [
+    {
+      "titel": "医生也中招：脂肪肝的真实元凶",
+      "start": 4.08
+    },
+    {
+      "titel": "脂肪肝的危害与常见误区",
+      "start": 69.46
+    },
+    {
+      "titel": "逆转脂肪肝的四个科学方法",
+      "start": 122.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:04:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 275,
+  "veroeffentlicht": "2026-07-10T16:30:00+00:00",
+  "beschreibung": "不胖不喝酒也会得脂肪肝？医生自曝中招经历，揭秘“白天硬扛、晚上暴食”才是真凶！脂肪肝是代谢崩盘黄牌，放任可能肝硬化、增癌风险。教你4招逆转，别等严重才后悔！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>不胖不喝酒也会得脂肪肝？医生自曝中招经历，揭秘“白天硬扛、晚上暴食”才是真凶！脂肪肝是代谢崩盘黄牌，放任可能肝硬化、增癌风险。教你4招逆转，别等严重才后悔！</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/930f-audiofreehighqps/DC/6A/GAqhJLsOJlUZAAgm1gS0TgpW.jpeg",
+  "folgennummer": 4,
+  "kapitel_quelle": "modell"
+}

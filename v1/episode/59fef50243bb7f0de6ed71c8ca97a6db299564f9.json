@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_949419142",
+  "apple_collection_id": "1669774951",
+  "show": "什么玩艺| 文化 书籍 分享 生活读书会丨免费",
+  "titel": "100.我们生活在南京丨天瑞说符丨共读丨什么玩艺",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJINPrgDAS9LugRZ7pBI.m4a?channel=rss&album_id=74147933&track_id=949419142&uid=272576971&jt=https://aod.cos.tx.xmcdn.com/storages/a206-audiofreehighqps/74/BB/GKwRIJINPrgDAS9LugRZ7pBI.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19876794,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T06:28:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "主播共读科幻网文《我们生活在南京》，结合南京实地旅行分享沉浸式阅读体验。",
+  "kurzfassung": "本期节目为主播们共读科幻网文《我们生活在南京》的专场。卡车在前往南京旅行并结合广播剧的边走边听过程中，获得了虚实交错的沉浸式体验。两位主播详细梳理了小说中跨越时空的电台联络、拯救世界的宏大叙事以及平凡人物的人性光辉。",
+  "stichpunkte": [
+    "卡车在南京旅行期间，结合耳机里的广播剧完成《我们生活在南京》，获得虚实交错的沉浸式体验。",
+    "小说讲述了2019年的高三男生白杨与2040年废土世界的少女半夏通过短波无线电跨时空对话的故事。",
+    "白杨的父亲和无线电爱好者的老友们组成了拯救人类的“指挥部”，并借助“时光漫地”实验为未来提供技术支援。",
+    "指挥部通过跨时空计算和核打击精确消灭了追踪半夏的外星机器人“刀客”。",
+    "末日真相揭示人类因观测计划导致外星人入侵，半夏最终冒险传回关键数据挽救了世界。",
+    "小说展现了没有超级英雄光环的平凡人的伟大，以及充满温情与日常感的人性光辉。",
+    "节目最后宣读了一位听众的读后感，并宣布节目将暂停一段时间进行内容规划的重新调整。"
+  ],
+  "kapitel": [
+    {
+      "titel": "南京旅行与《我们生活在南京》的沉浸式阅读体验",
+      "start": 3.54
+    },
+    {
+      "titel": "作者天瑞说符及其作品风格探讨",
+      "start": 745.54
+    },
+    {
+      "titel": "《我们生活在南京》的故事设定与剧情回顾",
+      "start": 1227.9
+    },
+    {
+      "titel": "听众读后感分享与节目暂停调整预告",
+      "start": 2145.32
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T06:28:01+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2455,
+  "veroeffentlicht": "2026-01-15T16:08:00+00:00",
+  "beschreibung": "这期分享天瑞说符的《我们生活在南京》。\n\n共读QQ群：652753784（入群暗号000）\n\n主播：卡车/杨小墓\n\n【如何收听】\n你可以在：苹果播客、小宇宙、喜马拉雅以及B站找到我们。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期分享天瑞说符的《我们生活在南京》。<br><br>共读QQ群：652753784（入群暗号000）<br><br>主播：卡车/杨小墓<br><br>【如何收听】<br>你可以在：苹果播客、小宇宙、喜马拉雅以及B站找到我们。<br><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5dc2-audiofreehighqps/AB/5E/GMCoOR4HstoyAADTHAHzx_Af.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

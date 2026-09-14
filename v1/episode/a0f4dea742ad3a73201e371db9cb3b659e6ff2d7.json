@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/fcea-audiofreehighqps/07/21/CKwRIaIEj2dsACL30gC07OMp.m4a",
+  "apple_collection_id": "1580530272",
+  "show": "爱的教育|三四五六年级语文阅读推荐",
+  "titel": "爱的教育 第01章 开学第一天 1-6年级免费有声书",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIaIEj2dsACL30gC07OMp.m4a?channel=rss&album_id=50063594&track_id=421544067&uid=12921088&jt=https://aod.cos.tx.xmcdn.com/storages/fcea-audiofreehighqps/07/21/CKwRIaIEj2dsACL30gC07OMp.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2291666,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:17:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "世界经典名著《爱的教育》第一章：开学第一天有声书",
+  "kurzfassung": "三个月的假期结束后，恩里克迎来了新学期的第一天。学校里挤满了兴奋的学生、家长和哭闹的一年级新生。恩里克升入四年级，见到了新班主任佩尔伯尼，心中却依然怀念着乡下的自由生活。",
+  "stichpunkte": [
+    "三个月的乡下假期结束，母亲送恩里克去学校上学。",
+    "开学第一天的学校热闹非凡，门厅和楼梯上挤满了人。",
+    "一年级新生哭闹着不肯进教室，父母和老师手足无措。",
+    "恩里克的小弟弟今年上一年级，被分配在德尔卡蒂老师的班上。",
+    "恩里克升入四年级，坐在二楼的教室里，班上有五十四名同学。",
+    "新班主任佩尔伯尼个子高高、头发花白，说话粗声粗气。",
+    "恩里克坐在课桌前思念乡下的生活，对漫长的新学期感到无奈。",
+    "放学后母亲安慰恩里克，他的心情才稍稍好转。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开学第一天",
+      "start": 1.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:17:36+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 282,
+  "veroeffentlicht": "2021-06-04T05:57:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a522-audiofreehighqps/45/A8/CMCoOScEj2BCAAJphAC06plC.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

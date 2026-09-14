@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "guid": "9f1e2ac3-85d3-4fd9-aa70-b4b9017e4820",
+  "apple_collection_id": "1462096941",
+  "show": "Life Will Be the Death of Me with Chelsea Handler",
+  "titel": "Stimulation Junkie with Kristen Johnston",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/9f1e2ac3-85d3-4fd9-aa70-b4b9017e4820/audio.mp3?utm_source=Podcast&in_playlist=b6ae1030-2ee8-4665-aa9d-ae39005b2508",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 75950647,
+    "format": "mp3",
+    "geprueft_am": "2026-09-06T10:04:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Kristen Johnston joins to talk about sobriety, aging, and life after 40.",
+  "kurzfassung": "Chelsea Handler and guest Kristen Johnston discuss aging, sobriety, and coping with life's changes. They share personal stories about handling grief, hobbies, and the challenges of being a woman in the public eye. The episode concludes with listener advice on relationships, family addiction, and lifestyle changes.",
+  "stichpunkte": [
+    "Kristen Johnston talks about her role in Sex and the City and her journey to long-term sobriety.",
+    "The hosts discuss the general malaise in Los Angeles and their love for New York City.",
+    "A deep conversation explores the realities of aging, including facial hair maintenance and hobbies.",
+    "Advice is given to a listener struggling with intense grief and the loss of a father.",
+    "Another listener seeks guidance on how to approach a brother showing signs of high-functioning addiction.",
+    "The episode wraps up with a lighthearted question about navigating flatulence in a new relationship."
+  ],
+  "kapitel": [
+    {
+      "titel": "Tour Dates and Welcome Kristen Johnston",
+      "start": 0.27
+    },
+    {
+      "titel": "Bird Watching, Velcro, and Sex and the City",
+      "start": 142.61
+    },
+    {
+      "titel": "Sobriety, Hobbies, and New York vs. Los Angeles",
+      "start": 364.82
+    },
+    {
+      "titel": "Aging Realities and Dealing with Grief",
+      "start": 724.46
+    },
+    {
+      "titel": "Advice for a Content Single Man",
+      "start": 2273.38
+    },
+    {
+      "titel": "Supporting a Grieving Daughter",
+      "start": 2466.219
+    },
+    {
+      "titel": "Addressing Family Addiction Concerns",
+      "start": 3142.21
+    },
+    {
+      "titel": "A Lighthearted Question on Relationship Etiquette",
+      "start": 3629.81
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Bird watching as a slippery slope",
+      "start": 179.174,
+      "ende": 199.288,
+      "laenge": 20.11,
+      "byte_start": 2912876,
+      "byte_ende": 3234704,
+      "bytes": 321829,
+      "range_header": "bytes=2912876-3234704",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 179.252,
+      "anker_sha256": "6c7f50d35e0cfd6c76c26278b1ae3160631bbf8f16cf6fbabb2580f5472db621",
+      "einblendung_ms": 60,
+      "text": "Chelsea Handler shares that one of her close friends has just dropped off their child at university."
+    },
+    {
+      "hook": "Twenty years of sobriety and counting",
+      "start": 538.331,
+      "ende": 558.42,
+      "laenge": 20.09,
+      "byte_start": 8659397,
+      "byte_ende": 8980807,
+      "bytes": 321411,
+      "range_header": "bytes=8659397-8980807",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 538.41,
+      "anker_sha256": "63dcc9d307fb20e262816a830f4fa97dd01292e7e3aacfc779e14d62559940e4",
+      "einblendung_ms": 60,
+      "text": "Kristen Johnston discusses the shared late-night shifts and high-energy lifestyle connecting actors, theater workers, and restaurant staff."
+    },
+    {
+      "hook": "No is a complete sentence",
+      "start": 2158.472,
+      "ende": 2178.586,
+      "laenge": 20.11,
+      "byte_start": 34581643,
+      "byte_ende": 34903470,
+      "bytes": 321828,
+      "range_header": "bytes=34581643-34903470",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2158.55,
+      "anker_sha256": "ac9ee9521e6eedb8d86ab73d4ccba887fbefd4953cac296a9bc932643559bfd4",
+      "einblendung_ms": 60,
+      "text": "The host introduces Solita, a podcast focused on personal transformation and solo travel."
+    },
+    {
+      "hook": "Bragging about a great single life",
+      "start": 2333.727,
+      "ende": 2353.842,
+      "laenge": 20.11,
+      "byte_start": 37385731,
+      "byte_ende": 37707558,
+      "bytes": 321828,
+      "range_header": "bytes=37385731-37707558",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2333.806,
+      "anker_sha256": "3218092895e155417513d2baffa37a5c8cfa72bb4d89ae847afe6e18d0efd3d8",
+      "einblendung_ms": 60,
+      "text": "Chelsea Handler and her guest discuss Robert F. Kennedy Jr. and recent news stories involving real estate purchases."
+    },
+    {
+      "hook": "Fighting like a tiger to protect an addiction",
+      "start": 3529.43,
+      "ende": 3549.518,
+      "laenge": 20.09,
+      "byte_start": 56516976,
+      "byte_ende": 56838386,
+      "bytes": 321411,
+      "range_header": "bytes=56516976-56838386",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3529.509,
+      "anker_sha256": "acaa2ad51c8491d22b4d11216c437783d69e22bab609d63724129442aa011ce3",
+      "einblendung_ms": 60,
+      "text": "The conversation shifts to personal reflections and shared experiences from their past."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-06T10:04:56+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3857,
+  "veroeffentlicht": "2026-09-03T07:05:00+00:00",
+  "beschreibung": "Kristen Johnston is here to chat with Chelsea about her occasional foray into cocaine before she got sober, her new role on Leann (on Netflix), and why fame initially terrified her. Then: A sister worries that her brother’s drinking has gotten out of control. A new girlfriend finds that beans and boyfriends don’t mix. And a daughter grieves the father she cared for, whose personality changed at the end of his life.\n*\nNeed some advice from Chelsea? Email us at DearChelseaPodcast@gmail.com\n*\nExecutive Producer Catherine Law\nEdited & Engineered by Brad Dickert\n*\n*\n*\nThe views and opinions expressed are solely those of the Podcast author, or individuals participating in the Podcast, and do not represent the opinions of iHeartMedia or its employees. This Podcast should not be used as medical advice, mental health advice, mental health counseling or therapy, or as imparting any health care recommendations at all. Individuals are advised to seek independent medical, counseling advice and/or therapy from a competent health care professional with respect to any medical condition, mental health issues, health inquiry or matter, including matters discussed on this Podcast. Guests and listeners should not rely on matters discussed in the Podcast and shall not act or shall refrain from acting based on information contained in the Podcast without first seeking independent medical advice.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Kristen Johnston is here to chat with Chelsea about her occasional foray into cocaine before she got sober, her new role on Leann (on Netflix), and why fame initially terrified her.&nbsp; Then: A sister worries that her brother&rsquo;s drinking has gotten out of control. A new girlfriend finds that beans and boyfriends don&rsquo;t mix.&nbsp; And a daughter grieves the father she cared for, whose personality changed at the end of his life.&nbsp;</p> <p>*</p> <p>Need some advice from Chelsea? Email us at <a href=\"mailto:DearChelseaPodcast@gmail.com\">DearChelseaPodcast@gmail.com</a></p> <p>*</p> <p>Executive Producer Catherine Law</p> <p>Edited &amp; Engineered by Brad Dickert</p> <p><em>*</em></p> <p><em>*</em></p> <p><em>*</em></p> <p><em>The views and opinions expressed are solely those of the Podcast author, or individuals participating in the Podcast, and do not represent the opinions of iHeartMedia or its employees.&nbsp; This Podcast should not be used as medical advice, mental health advice, mental health counseling or therapy, or as imparting any health care recommendations at all.&nbsp; Individuals are advised to seek independent medical, counseling advice and/or therapy from a competent health care professional with respect to any medical condition, mental health issues, health inquiry or matter, including matters discussed on this Podcast. Guests and listeners should </em><strong><em>not</em></strong><em> rely on matters discussed in the Podcast and shall </em><strong><em>not</em></strong><strong><em> </em></strong><em>act or shall refrain from acting based on information contained in the Podcast without first seeking independent medical advice.&nbsp; </em></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/image.jpg?t=1749837430&size=Large",
+  "schlagworte": [
+    "dear chelsea",
+    "chelsea handler",
+    "catherine law",
+    "kristen Johnston",
+    "leanne",
+    "3rd Rock From the Sun",
+    "Actor Comedy",
+    "comedian",
+    "funny",
+    "haha",
+    "laughter",
+    "advice",
+    "therapy",
+    "romance",
+    "family",
+    "addiction"
+  ],
+  "folgennummer": 33,
+  "kapitel_quelle": "modell"
+}

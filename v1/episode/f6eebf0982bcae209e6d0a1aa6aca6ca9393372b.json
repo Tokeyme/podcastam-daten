@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "https://api.spreaker.com/episode/74076589",
+  "apple_collection_id": "790487079",
+  "show": "Sword and Scale",
+  "titel": "Episode 366",
+  "audio": {
+    "url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74076589/sas366.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-26T11:15:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "A young mother's disappearance reveals a violent crime and missed warning signs.",
+  "kurzfassung": "In April 2024, 25-year-old Megan Bodiford went missing in South Carolina after sending a text message fearing for her life. Days later, investigators discovered her remains inside a burned vehicle. Her boyfriend, Jarrett Davis, was arrested and ultimately pleaded guilty to murder, arson, and weapons charges.",
+  "stichpunkte": [
+    "Megan Bodiford was reported missing on April 26, 2024, after texting a friend that her boyfriend, Jarrett Davis, was going to kill her.",
+    "Investigators found a burned-out vehicle containing charred human remains on a remote road five days after her disappearance.",
+    "Autopsy and DNA results confirmed the remains belonged to Megan, and determined she had been shot before the car was burned.",
+    "Police interviewed several acquaintances, including friends Grace, Danielle, and Falcon, amid rumors of wider involvement.",
+    "Phone records, fitness app health data, and deer camera footage placed Jarrett at the burn site and captured him dragging Megan's body.",
+    "Jarrett initially denied involvement and claimed Megan left voluntarily, later fabricating a story that the gun went off accidentally.",
+    "Jarrett pleaded guilty to murder, possession of a firearm during a violent crime, arson, and desecration of human remains, receiving a 43-year prison sentence.",
+    "Family members criticized local authorities and the justice system for failing to act on prior domestic violence reports and active warrants against Jarrett."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-26T11:15:45+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4260,
+  "veroeffentlicht": "2026-08-23T05:00:03+00:00",
+  "beschreibung": "In April of 2024, 25-year-old Megan Bodiford went missing. The search for answers would uncover a violent crime hidden in plain sight and reveal how the signs of danger were there all along.\n\nGet instant access to all episodes, including premium unreleased episodes, commercial-free at swordandscale.com",
+  "beschreibung_html": "In April of 2024, 25-year-old Megan Bodiford went missing. The search for answers would uncover a violent crime hidden in plain sight and reveal how the signs of danger were there all along.<br /><br />Get instant access to all episodes, including premium unreleased episodes, commercial-free at swordandscale.com",
+  "untertitel": "In April of 2024, 25-year-old Megan Bodiford went missing. The search for answers would uncover a violent crime hidden in plain sight and reveal how the signs of danger were there all along.",
+  "bild_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/09251e762fb78e1376f0f5d914e51dad.jpg",
+  "folgennummer": 366
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "6a7106071b5e24969ce868d0",
+  "apple_collection_id": "1766227055",
+  "show": "德国生活指南",
+  "titel": "Nr.035 想不到吧？德村留子们都这样避暑",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/66d49937a68886cbbba2532d/6a7106071b5e24969ce868d0/media.xyzcdn.net/66d49937a68886cbbba2532d/lmQzjFGICwotUq6HPBo7I8G5wyG3.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 47389079,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T08:26:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "德国留学生分享极端高温下的防暑妙招与避暑经验",
+  "kurzfassung": "面对德国今年罕见的极端高温天气，几位主播结合亲身经历探讨了欧洲装空调难的现状。节目中详细分享了从物理隔热、衣物选择到饮食调理等各种实用的防暑降温方法。同时，她们也交流了从国内海淘或转运消暑好物的爆笑与实用经验。",
+  "stichpunkte": [
+    "德国今年夏季迎来罕见极端高温，体感温度甚至超过部分国内火炉城市。",
+    "欧洲居民安装固定空调面临繁琐的房东审批、业主委员会同意及高昂人工费等重重限制。",
+    "移动空调和分体式移动空调成为许多华人的过渡选择，但存在噪音大和需改装窗户的问题。",
+    "居家降温靠白天紧闭门窗、拉下外置百叶窗以及定时拖地来减少热量进入。",
+    "从国内网购冰感凉席、凉凉被和防晒衣等物品成为华人的高效避暑神器。",
+    "日常饮食上推荐多喝冷泡茶、电解质水和绿豆汤，并注意及时补充水分和防中暑。",
+    "宠物防暑方面可以尝试制作冰冻猫条和准备宠物冰垫来帮助它们降温。",
+    "出行时可利用超市、图书馆等公共场所避暑，欧洲当地人也逐渐接受了打遮阳伞的做法。"
+  ],
+  "kapitel": [
+    {
+      "titel": "德国今年夏天为何这么热",
+      "start": 12.62
+    },
+    {
+      "titel": "为什么德国人装空调这么难",
+      "start": 344.04
+    },
+    {
+      "titel": "留子们的各种防暑降温妙招",
+      "start": 662.62
+    },
+    {
+      "titel": "夏日饮食、补水与宠物防暑指南",
+      "start": 1815.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T08:26:15+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2930,
+  "veroeffentlicht": "2026-08-03T21:37:45+00:00",
+  "beschreibung": "在小宇宙查看该单集文稿",
+  "beschreibung_html": "<br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a7106071b5e24969ce868d0?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

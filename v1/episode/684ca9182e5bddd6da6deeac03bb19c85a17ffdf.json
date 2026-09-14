@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group45/M00/91/AA/wKgKlFtqYGrBZSFCAHmpyc5WTRI625.m4a",
+  "apple_collection_id": "1200788235",
+  "show": "依依教海尼曼Heinemann",
+  "titel": "G1-94 The Bossy Pig",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgKlFtqYGrBZSFCAHmpyc5WTRI625.m4a?channel=rss&album_id=2990868&track_id=104291129&uid=20206161&jt=https://aod.cos.tx.xmcdn.com/group45/M00/91/AA/wKgKlFtqYGrBZSFCAHmpyc5WTRI625.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7973321,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:14:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "两位主播通过故事书《The Bossy Pig》讲解英语，并分析霸道猪夫人的趣事。",
+  "kurzfassung": "本期节目中，主播们精读英文绘本故事《The Bossy Pig》。故事讲述了一只极其霸道的猪夫人筹备周六野餐，强行规定朋友们携带的物品，却唯独忘记了最重要的食物。最终，聪明的猫头鹰夫人提前准备好了食物，化解了尴尬。",
+  "stichpunkte": [
+    "主播们开场介绍本期绘本故事的主角——一头非常霸道的猪夫人。",
+    "猪夫人制作了一张严格的清单，并命令羊夫人、牛夫人和马先生各自带上指定的物品。",
+    "猪夫人态度强硬，拒绝了羊夫人和牛夫人想要自带毯子和牛奶的请求。",
+    "猫头鹰夫人试图提醒猪夫人还需要别的东西，但被猪夫人直接打断并制止。",
+    "野餐当天，动物们到达现场，猪夫人开始接连下达命令，指挥大家摆放桌椅和布置场地。",
+    "就在大家准备就座时，羊夫人突然询问食物在哪里，猪夫人这才惊觉自己忘带食物。",
+    "猫头鹰夫人微笑着表示自己并没有忘记，并拿出了准备好的野餐篮。",
+    "猪夫人称赞猫头鹰夫人非常聪明，随后大家开心地开始享用野餐。"
+  ],
+  "kapitel": [
+    {
+      "titel": "故事开场与猪夫人的霸道清单",
+      "start": 0.0
+    },
+    {
+      "titel": "朋友们试图带其他物品遭拒绝",
+      "start": 176.5
+    },
+    {
+      "titel": "野餐现场的命令与食物危机",
+      "start": 563.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:14:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 984,
+  "veroeffentlicht": "2018-08-08T03:15:41+00:00",
+  "beschreibung": "幼儿园开始的英文绘本亲子阅读。看童声童趣的依依老师怎么教妈妈来解读这套经典分级读物。让分级阅读变得不再枯燥。关注“育儿修行记”微信号MotheringLog可获取更多。",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"font-size:16px;color:#333333;line-height:30px;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight:normal\"><span>幼儿园开始的英文绘本亲子阅读。看童声童趣的依依老师怎么教妈妈来解读这套经典分级读物。让分级阅读变得不再枯燥。关注“育儿修行记”微信号MotheringLog可获取更多</span>。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group22/M0A/24/B5/wKgJM1hrS7PwSwVwAAD6putN9DU848.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

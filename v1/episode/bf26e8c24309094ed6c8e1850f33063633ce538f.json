@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_848999648",
+  "apple_collection_id": "1757801827",
+  "show": "三七二十一 |深度解读市场热点、财经动向",
+  "titel": "Vol39｜国产芯片市场加速分化？大厂对MCP反应冷淡？中式面馆连锁化道路受阻！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAL8yMQAFQAwAOqIfq4.m4a?channel=rss&album_id=82652262&track_id=848999648&uid=167983900&jt=https://aod.cos.tx.xmcdn.com/storages/a47f-audiofreehighqps/63/4C/GKwRIMAL8yMQAFQAwAOqIfq4.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5505216,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T04:26:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深度盘点国产AI芯片分化、MCP协议落地、斯凯奇中国市场及中式面馆连锁化挑战。",
+  "kurzfassung": "本期节目深度剖析了多项热门财经与科技动态。首先探讨了在AI推理需求推动下，国产AI芯片厂商出现的两极分化现象以及与DeepSeq的适配进展。随后关注了模型上下文协议（MCP）在各行业落地时面临的安全与数据隐私挑战。此外，节目还报道了三G资本收购斯凯奇及中国区销售下滑的现状，并分析了中式快餐面馆在连锁化道路上遭遇的瓶颈与转型策略。",
+  "stichpunkte": [
+    "国产AI芯片厂商迎来分化式发展，寒武纪和海光信息营收增长显著，而部分专用芯片厂商面临挑战。",
+    "DeepSeq模型的兴起推动了AI推理应用需求，多家国产AI芯片厂商与其迅速展开适配工作。",
+    "模型上下文协议（MCP）受到国内大厂跟进，但互联网平台因数据敏感和核心API担忧导致参与度有限。",
+    "MCP当前主要面临缺乏集中式安全监管以及身份验证机制不完善两大安全痛点。",
+    "运动品牌斯凯奇将被三G资本全资收购，其中国市场2025年一季度营收同比下滑16%。",
+    "斯凯奇中国区通过缩减特定产品推广、转向舒适科技及布局下沉市场等策略进行转型调整。",
+    "中式面馆行业高度分散，以夫妻店为主力军，前五大品牌整体市场占有率不足3%。",
+    "面对价格战与利润空间压缩，中式面馆品牌通过大幅降价迎合消费降级，并依靠数字化系统提升运营效率。"
+  ],
+  "kapitel": [
+    {
+      "titel": "国产AI芯片的分化发展与DeepSeq适配",
+      "start": 52.62
+    },
+    {
+      "titel": "模型上下文协议（MCP）的落地挑战",
+      "start": 180.66
+    },
+    {
+      "titel": "斯凯奇被收购及中国市场销售表现",
+      "start": 291.76
+    },
+    {
+      "titel": "中式面馆的连锁化瓶颈与数字化转型",
+      "start": 391.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T04:26:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 679,
+  "veroeffentlicht": "2025-05-09T01:52:53+00:00",
+  "beschreibung": "三七二十一，二一讲财经，随着AI的快速迭代，AI芯片领域出现分化，国产芯片市场中，寒武纪结束六年亏损，海光信息通用市场增长稳定，但景嘉微、龙芯中科在专用领域承压，不同的技术路线会有什么样的成效呢？\n互联网厂商对MCP协议反应冷淡，大厂加入但核心功能未开放，生态共建能否突破壁垒？\n斯凯奇被3G资本收购后，中国市场销售额下滑16%，转型成效有待观察。\n本期的深度盘点，我们来说一说中式快餐面馆在连锁模式中遇到的挑战。\nshow notes：\n01:01 寒武纪2025第一季度营收暴增40倍，其中云端产品占比99%\n03:36 数据敏感以及场景控制权流失等因素导致MCP接受度有限\n04:56 斯凯奇被3G资本收购，原团队保留20%持股比例\n06:09 斯凯奇中国市场份额占比90%\n07:21 大部分为夫妻店？注册资本低于100万元的面馆企业占比超过99%\n10:11 和府捞面最新的人均消费在约32.75元，价格降幅达30%",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">三七二十一，二一讲财经，随着AI的快速迭代，AI芯片领域出现分化，国产芯片市场中，寒武纪结束六年亏损，海光信息通用市场增长稳定，但景嘉微、龙芯中科在专用领域承压，不同的技术路线会有什么样的成效呢？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">互联网厂商对MCP协议反应冷淡，大厂加入但核心功能未开放，生态共建能否突破壁垒？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">斯凯奇被3G资本收购后，中国市场销售额下滑16%，转型成效有待观察。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本期的深度盘点，我们来说一说中式快餐面馆在连锁模式中遇到的挑战。</p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">show notes：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">01:01 寒武纪2025第一季度营收暴增40倍，其中云端产品占比99%</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">03:36 数据敏感以及场景控制权流失等因素导致MCP接受度有限</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">04:56 斯凯奇被3G资本收购，原团队保留20%持股比例</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">06:09 斯凯奇中国市场份额占比90%</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">07:21 大部分为夫妻店？注册资本低于100万元的面馆企业占比超过99%</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">10:11 和府捞面最新的人均消费在约32.75元，价<span>格降幅达30%</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e7c8-audiofreehighqps/D8/9A/GKwRINsKakT3AACo7wLxDTSI.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_946114015",
+  "apple_collection_id": "1501850281",
+  "show": "灵异特辑｜每期一个心跳的故事",
+  "titel": "168.生财有道，散财无药",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_wAKYUGrqQJzaCrfVbWagnpgbuRgCxDeRUrqnrkTphkhUbhRuBKQCvKubWq-52.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5108428,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:47:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "分享两个关于因果福报与命运抉择的民间诡异故事",
+  "kurzfassung": "节目讲述了两个与命运转折相关的民间故事。第一个故事中，胖爷因救助黄鼠狼而获得仙家指点，开饭店致富并明智购置房产，过上安稳晚年。第二个故事里，游手好闲的一家因仙家附体看病暴富，却因挥霍无度而失去机遇。",
+  "stichpunkte": [
+    "胖爷早年赶集时救下一只受伤的黄鼠狼，并将其移至路边草丛。",
+    "胖爷与姨父当晚做下相同的梦，指引他们盘下一家即将转让的饭馆。",
+    "饭馆试营业当天生意异常火爆，胖爷看到黄大仙在桌上帮忙招揽客人。",
+    "经营五年后，黄大仙再次托梦劝告胖爷见好就收，将饭馆兑出并购买商品房和门脸。",
+    "胖爷听从劝告购置房产，过上了靠收租和跳广场舞度过的安稳晚年。",
+    "第二个故事讲述另一家人因搬回老宅，嫂子被古代老中医的灵体附身开始替人治病。",
+    "凭借高超的医术，该家庭迅速积累了财富，但男主人却因暴富而开始疯狂挥霍。",
+    "由于不懂得克制与存钱，老中医附身的现象在不到三个月后便彻底消失了。"
+  ],
+  "kapitel": [
+    {
+      "titel": "胖爷救助黄鼠狼与开店致富",
+      "start": 17.6
+    },
+    {
+      "titel": "仙家托梦指点与买房隐退",
+      "start": 222.62
+    },
+    {
+      "titel": "老宅附身行医与挥霍败家",
+      "start": 313.64
+    },
+    {
+      "titel": "老中医的故事背景与结局",
+      "start": 510.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:47:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 630,
+  "veroeffentlicht": "2026-01-04T11:28:02+08:00",
+  "beschreibung": "主播：小伟、阿达、阎的co、许先生\n后期：小伟、许先生\n封面：阿达",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>主播：小伟、阿达、阎的co、许先生</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>后期：小伟</span><span>、许先生</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>封面：阿达</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group75/M0B/72/69/wKgO3V5OX6ejAc2bAA9nDfyBlkY000.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

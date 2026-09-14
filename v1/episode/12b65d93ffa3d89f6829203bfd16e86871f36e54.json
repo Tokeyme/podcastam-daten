@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/f1f9-audiofreehighqps/D4/01/CKwRIJIFEPuQAC0h4gDhsoyV-aacv2-48K.m4a",
+  "apple_collection_id": "902198021",
+  "show": "儿童睡前故事：一千零一夜合集",
+  "titel": "第1夜：猜猜我有多爱你-飞飞姐姐",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIJIFEPuQAC0h4gDhsoyV-aacv2-48K.m4a?channel=rss&album_id=257813&track_id=2788075&uid=83922743&jt=https://aod.cos.tx.xmcdn.com/storages/f1f9-audiofreehighqps/D4/01/CKwRIJIFEPuQAC0h4gDhsoyV-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2224366,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:39:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "菲菲姐姐为小朋友们讲经典睡前故事《猜猜我有多爱你》。",
+  "kurzfassung": "菲菲姐姐在节目中为小朋友们讲述了经典绘本故事《猜猜我有多爱你》。故事中小兔子和兔妈妈用各种方式比拼对彼此的爱，从手臂张开的宽度、举起的高低到跳跃的高度。最后小兔子望着月亮进入梦乡，兔妈妈也给予了最深情的爱意回应。",
+  "stichpunkte": [
+    "菲菲姐姐带来儿童睡前故事节目，讲述《猜猜我有多爱你》",
+    "小兔子在睡觉前紧紧抓住兔妈妈的耳朵，要妈妈听他表达爱意",
+    "小兔子通过张开双臂、倒立等动作比拼自己有多爱妈妈",
+    "兔妈妈用更长的手臂和更高的拥抱回应小兔子的爱",
+    "小兔子通过比拼跳跃高度来表达对妈妈的爱意",
+    "小兔子将爱延伸到小河、山丘，最后说爱到月亮那里",
+    "小兔子说完后闭上眼睛进入梦乡，兔妈妈送上晚安吻",
+    "兔妈妈陪伴在小兔子身边，回应爱直到月亮并返回",
+    "菲菲姐姐引导小朋友们在睡前对妈妈表达爱意并祝晚安"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与故事导入",
+      "start": 2.56
+    },
+    {
+      "titel": "猜猜我有多爱你：手臂与倒立的比拼",
+      "start": 27.3
+    },
+    {
+      "titel": "跳高与远方的爱",
+      "start": 133.38
+    },
+    {
+      "titel": "月亮那里的爱与甜美梦乡",
+      "start": 189.72
+    },
+    {
+      "titel": "姐姐寄语与晚安",
+      "start": 263.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:39:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 365,
+  "veroeffentlicht": "2014-05-26T09:20:06+00:00",
+  "beschreibung": "一千零一夜之猜猜我有多爱你-飞飞姐姐(第一夜)",
+  "beschreibung_html": "<p>一千零一夜之猜猜我有多爱你-飞飞姐姐(第一夜)</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group5/M00/20/DB/wKgDtlODDZPjqM2QAAMbTGyoPxw448.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

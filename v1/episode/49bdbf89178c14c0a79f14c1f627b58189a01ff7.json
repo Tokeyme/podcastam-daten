@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_993616618",
+  "apple_collection_id": "1749868800",
+  "show": "《情感指南针》",
+  "titel": "《企业盈利疲软的根源：大多没找准价值链上的核心环节》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOGCewAE9XnwSvByBy.m4a?channel=rss&album_id=36257351&track_id=993616618&uid=221480647&jt=https://aod.cos.tx.xmcdn.com/storages/775e-audiofreehighqps/91/0C/GKwRIRwOGCewAE9XnwSvByBy.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5199775,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T23:20:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "用价值链视角重新审视业务，找准核心盈利环节以突破低效内卷。",
+  "kurzfassung": "在存量竞争环境下，许多企业陷入增收不增利的困局，其根源往往是没有找准价值链上的核心盈利环节。通过对全链条利润池进行精细化拆解，企业可以清晰识别价值分布，避免在低价值环节盲目投入。同时，企业需要避开规模等于价值等常见认知误区，并根据市场变化动态调整资源配置，才能在不确定环境中实现长期增长。",
+  "stichpunkte": [
+    "存量竞争下企业普遍面临增收不增利的困局，传统盲目压降成本和拓渠道的效果有限。",
+    "迈克尔·波特的价值链模型将企业活动分为基础性与支持性活动，帮助企业从底层逻辑审视价值分布。",
+    "许多企业对价值链的认知停留在生产制造端，忽略了品牌、研发或渠道等真正的利润高地。",
+    "企业需要进行全链条利润池的精细化拆解，独立核算各环节的真实毛利，避免靠总账掩盖隐性亏损。",
+    "以某大众服饰品牌为例，通过将重资产的生产环节外包、转向轻资产的品牌与渠道运营，实现了利润翻倍。",
+    "应用价值链模型时需避开常见误区，例如不能将规模最大的环节直接等同于核心盈利环节，也不能盲目照搬头部企业模式。",
+    "价值链的利润分布并非一成不变，随着技术进步和消费趋势迁移，企业必须动态调整资源配置。",
+    "回归商业本质，找准自身的价值锚点，才能集中资源构建竞争壁垒并跳出低效内卷。"
+  ],
+  "kapitel": [
+    {
+      "titel": "价值链模型与企业盈利困局",
+      "start": 0.0
+    },
+    {
+      "titel": "利润池精细化拆解与案例分析",
+      "start": 128.78
+    },
+    {
+      "titel": "应用价值链的常见认知误区",
+      "start": 436.66
+    },
+    {
+      "titel": "价值链的动态迁移与持续调整",
+      "start": 505.48
+    },
+    {
+      "titel": "回归商业本质与构建竞争壁垒",
+      "start": 584.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T23:20:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 642,
+  "veroeffentlicht": "2026-06-29T12:27:10+00:00",
+  "beschreibung": "存量竞争环境下，众多企业陷入增收不增利、低效内卷的共性困境，经典价值链模型重新成为商业破局的核心分析工具。文章从波特价值链基础理论出发，提出通过全链条利润池精细化核算识别核心盈利环节，区分增值、必要非增值与无效活动优化资源配置，结合产业价值链视角定位高价值赛道，同时厘清规模与价值不对等、盲目照搬头部模式等常见认知误区。文章强调价值链利润分布随市场动态迁移，企业需持续跟踪价值高地变化，为跳出价格战、构建长期盈利护城河提供了清晰的实践思路。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">存量竞争环境下，众多企业陷入增收不增利、低效内卷的共性困境，经典价值链模型重新成为商业破局的核心分析工具。文章从波特价值链基础理论出发，提出通过全链条利润池精细化核算识别核心盈利环节，区分增值、必要非增值与无效活动优化资源配置，结合产业价值链视角定位高价值赛道，同时厘清规模与价值不对等、盲目照搬头部模式等常见认知误区。文章强调价值链利润分布随市场动态迁移，企业需持续跟踪价值高地变化，为跳出价格战、构建长期盈利护城河提供了清晰的实践思路。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1034-audiofreehighqps/22/5B/GKwRIUEKHSi3AAqSNQLUo6op.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

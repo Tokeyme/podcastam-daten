@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007726122",
+  "apple_collection_id": "1891935246",
+  "show": "国家大剧院古典音乐频道-音乐小品",
+  "titel": "英伦乐坛双子星：埃尔加与霍尔斯特的两种音乐人生",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAOXd4PAGYQ_ATKJuui.m4a?channel=rss&album_id=119814235&track_id=1007726122&uid=471574926&jt=https://aod.cos.tx.xmcdn.com/storages/0c56-audiofreehighqps/4A/67/GKwRIMAOXd4PAGYQ_ATKJuui.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6689020,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T09:46:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探寻埃尔加与霍尔斯特两位英伦作曲家的截然不同音乐人生。",
+  "kurzfassung": "二十世纪英伦古典乐坛迎来蓬勃发展，爱德华·埃尔加与古斯塔夫·霍尔斯特开辟了风格迥异的创作路径。埃尔加扎根乡野烟火与个人内省，以细腻温软的旋律安放岁月的温存。霍尔斯特则投身精神旷野与浩瀚宇宙，通过浪漫想象拓展了管弦乐的艺术疆域。",
+  "stichpunkte": [
+    "二十世纪英伦本土交响乐逐渐在世界乐坛确立独特地位。",
+    "爱德华·埃尔加成长于小镇，未受系统正统训练，全凭自学打磨音乐功底。",
+    "埃尔加晚年作品《B小调小提琴协奏曲》融入克制绵长的声部，呈现深刻的内心轮廓。",
+    "古斯塔夫·霍尔斯特接受正统学院训练，以淡泊心性置身于乐坛浮华之外。",
+    "霍尔斯特于1917年定稿的代表作《行星》融合占星学意象与神话色彩。",
+    "《行星》中的《火星》展现沉雄有力的冲击感，《海王星》则以柔跟和声营造悠长宁静的收尾。",
+    "埃尔加与霍尔斯特以各自纯粹的艺术初心，共同铸就了英伦管弦乐的传世经典。"
+  ],
+  "kapitel": [
+    {
+      "titel": "二十世纪英伦乐坛的觉醒",
+      "start": 20.66
+    },
+    {
+      "titel": "爱德华·埃尔加的内省与乡野烟火",
+      "start": 92.2
+    },
+    {
+      "titel": "古斯塔夫·霍尔斯特的宇宙浪漫想象",
+      "start": 345.62
+    },
+    {
+      "titel": "传世经典的艺术价值与回响",
+      "start": 704.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T09:46:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 826,
+  "veroeffentlicht": "2026-08-22T01:00:00+00:00",
+  "beschreibung": "百年前英伦乐坛挣脱欧陆古典桎梏，逐步孕育出独有的本土交响气质。同代的埃尔加与霍尔斯特走出迥异的艺术道路，铸就英伦乐坛双貌。埃尔加自学成才，深耕乡土生活与自我心境，历经乐坛浮沉，晚年褪去创作浮华。其《B小调小提琴协奏曲》旋律克制温柔，藏尽半生际遇与暮年怅然。霍尔斯特接受正统乐理训练，淡泊名利，沉醉于文学神话与宇宙遐想。经典之作《行星组曲》意境辽阔、层次丰富，以极致浪漫拓宽了英伦管弦乐的艺术边界。二人秉持纯粹初心，以独特创作留下传世百年的动人乐韵。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">百年前英伦乐坛挣脱欧陆古典桎梏，逐步孕育出独有的本土交响气质。同代的埃尔加与霍尔斯特走出迥异的艺术道路，铸就英伦乐坛双貌。埃尔加自学成才，深耕乡土生活与自我心境，历经乐坛浮沉，晚年褪去创作浮华。其《B小调小提琴协奏曲》旋律克制温柔，藏尽半生际遇与暮年怅然。霍尔斯特接受正统乐理训练，淡泊名利，沉醉于文学神话与宇宙遐想。经典之作《行星组曲》意境辽阔、层次丰富，以极致浪漫拓宽了英伦管弦乐的艺术边界。二人秉持纯粹初心，以独特创作留下传世百年的动人乐韵。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6e33-audiofreehighqps/71/9F/GAqhuykOXdvBAAKDjATKJdfv.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

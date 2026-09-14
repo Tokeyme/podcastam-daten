@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1003733639",
+  "apple_collection_id": "1896813793",
+  "show": "10分钟听一本好书",
+  "titel": "《情绪鸡尾酒》，调配你的幸福激素。",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOQRFNAGPPAAS_fu-o.m4a?channel=rss&album_id=99099855&track_id=1003733639&uid=550889739&jt=https://aod.cos.tx.xmcdn.com/storages/d4e3-audiofreehighqps/08/30/GKwRIJIOQRFNAGPPAAS_fu-o.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6541056,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T08:14:33+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨如何通过理解并调节体内的六种核心激素来管理情绪和寻找幸福。",
+  "kurzfassung": "本期节目讨论了瑞典沟通专家戴维·JP菲利普斯的畅销书《情绪鸡尾酒》。主播们详细解析了书中如何将喜怒哀乐归结为体内六种激素的作用，并探讨了通过微调日常生活习惯来管理这些激素的实用方法。节目旨在帮助听众摆脱情绪的被动控制，找到科学且低门槛的幸福秘方。",
+  "stichpunkte": [
+    "探讨戴维·JP菲利普斯所著的《情绪鸡尾酒》，书中核心观点认为情绪具有物质基础，由体内六种激素决定。",
+    "区分了快多巴胺与慢多巴胺，指出快多巴胺的成瘾性缺陷并提倡二八原则与微目标拆解术。",
+    "介绍催产素作为人际关系调节剂的重要性，并给出通过身体接触、宠物互动和利他行为来提升的方法。",
+    "阐述血清素作为情绪压仓石的作用，通过晒太阳、特定饮食以及冥想来维持内心的平静与稳定。",
+    "分析皮质醇作为压力激素的双面性，推荐生理叹息法和冷水刺激来快速降低过量皮质醇。",
+    "探讨内非态与高同在镇痛、运动快感以及建立自信和领导力方面的具体应用。",
+    "介绍多种激素的组合配方，如多巴胺加高同等于专注，催产素加皮质醇等于好眠。",
+    "强调改变无需巨大意志力，通过日常生活中的微小调整即可重塑情绪底色。"
+  ],
+  "kapitel": [
+    {
+      "titel": "新书介绍与核心观点",
+      "start": 0.0
+    },
+    {
+      "titel": "多巴胺：快慢之分与二八原则",
+      "start": 112.66
+    },
+    {
+      "titel": "催产素：人际连结与爱",
+      "start": 216.14
+    },
+    {
+      "titel": "血清素：情绪的压仓石",
+      "start": 286.1
+    },
+    {
+      "titel": "皮质醇：压力管理与生理叹息",
+      "start": 356.96
+    },
+    {
+      "titel": "内非态与高同：镇痛与自信的来源",
+      "start": 435.76
+    },
+    {
+      "titel": "激素配方组合与日常生活微调",
+      "start": 542.02
+    },
+    {
+      "titel": "结语与第一步实践：觉察",
+      "start": 731.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T08:14:33+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 807,
+  "veroeffentlicht": "2026-07-31T00:45:30+00:00",
+  "beschreibung": "六种关键激素（多巴胺、催产素、血清素、皮质醇、内啡肽、睾酮）的功能与调节方法\n快多巴胺 vs 慢多巴胺的区分和二八原则\n作者菲利普斯自身17年抑郁症斗争经历\n实用工具（生理叹息法、冷水浴、晒太阳、微目标拆解等）\n情绪配方组合（多巴胺+睾酮=专注，催产素+皮质醇=好眠等）",
+  "beschreibung_html": "六种关键激素（多巴胺、催产素、血清素、皮质醇、内啡肽、睾酮）的功能与调节方法<br>快多巴胺 vs 慢多巴胺的区分和二八原则<br>作者菲利普斯自身17年抑郁症斗争经历<br>实用工具（生理叹息法、冷水浴、晒太阳、微目标拆解等）<br>情绪配方组合（多巴胺+睾酮=专注，催产素+皮质醇=好眠等）",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2fbc-audiofreehighqps/7B/0F/GKwRIW4MV0adAAQktwPotMPH.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

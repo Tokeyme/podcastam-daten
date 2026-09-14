@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_498801639",
+  "apple_collection_id": "1500216153",
+  "show": "锁龙诀（免费）｜盗墓笔记｜惊悚悬疑！",
+  "titel": "终章 第21章-大结局 完本",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsF0nEvAG7AxwETyQOY-aacv2-48K.m4a?channel=rss&album_id=32604929&track_id=498801639&uid=90980904&jt=https://aod.cos.tx.xmcdn.com/storages/1623-audiofreehighqps/AB/9C/GKwRINsF0nEvAG7AxwETyQOY-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5457773,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T20:34:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "经历基地爆炸与生死决战后，故事迎来最终大结局。",
+  "kurzfassung": "在即将爆炸的基地中，主角拼死救出夜猩猩并击败了宿敌甘小钱，随后与金锁死里逃生。回到云南后，主角卖掉店铺过上了普通人的生活，并得知了其他人的近况。最后，录制历时两年的播客节目正式完结，主播向听众表达了感谢。",
+  "stichpunkte": [
+    "基地接连发生爆炸，主角历经艰难终于拧开最后一颗螺丝，带金锁撤离。",
+    "主角返回火海救出神情癫狂、试图抢救实验数据的夜猩猩。",
+    "宿敌甘小钱半人半兽现身袭击主角，双方在烈火中展开殊死搏斗。",
+    "夜猩猩被巨石掩埋，主角悲愤交加，最终合力将甘小钱击败。",
+    "主角与金锁顺着下水道逃生，最终抵达白霞山脚下的村庄。",
+    "回到景洪后，主角卖掉店铺，用资金入股酒吧，回归普通人生活。",
+    "金锁向主角透露了其他人的近况，唯独古市祖孙二人失去音讯。",
+    "主播回顾了历时两年兼职录制该书的历程，向听众表达了感谢并宣布完结。"
+  ],
+  "kapitel": [
+    {
+      "titel": "基地撤离与营救夜猩猩",
+      "start": 0.56
+    },
+    {
+      "titel": "大战甘小钱",
+      "start": 308.58
+    },
+    {
+      "titel": "逃出生天与云南新生",
+      "start": 659.4
+    },
+    {
+      "titel": "完结感言",
+      "start": 846.34
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T20:34:23+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 896,
+  "veroeffentlicht": "2022-03-22T02:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group70/M01/15/F2/wKgO2F4kGDfBbSb-AABbUv9GIsU838.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

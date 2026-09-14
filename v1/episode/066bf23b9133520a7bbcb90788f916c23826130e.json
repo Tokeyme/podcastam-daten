@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_647903644",
+  "apple_collection_id": "1567726662",
+  "show": "拼读记单词|英语七年级初一下",
+  "titel": "【保姆级单词拼读】初中七下12",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsIg2fIAEAHDwI2zRSl.m4a?channel=rss&album_id=48404176&track_id=647903644&uid=2358437&jt=https://aod.cos.tx.xmcdn.com/storages/0a03-audiofreehighqps/DE/F4/GKwRINsIg2fIAEAHDwI2zRSl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4196111,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T18:33:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "初中英语七年级下册第十二单元重点单词拼读与发音解析。",
+  "kurzfassung": "本期节目详细讲解了初中英语七年级下册第十二单元的重点词汇。内容涵盖单词的正确发音、拼写规则以及相关短语搭配。通过逐字拼读和发音技巧，帮助听众高效记忆单词。",
+  "stichpunkte": [
+    "讲解七下第十二单元动词、名词等基础单词拼写与发音",
+    "分析元音字母及组合的发音规律",
+    "学习常见短语和固定搭配，如 shout at、fly a kite 等",
+    "区分易混淆词汇及其过去式变化形式",
+    "通过自然拼读法拆解长单词结构",
+    "完成全单元重点词汇的系统梳理"
+  ],
+  "kapitel": [
+    {
+      "titel": "单元词汇拼读（上）",
+      "start": 0.0
+    },
+    {
+      "titel": "重点短语与发音技巧",
+      "start": 254.94
+    },
+    {
+      "titel": "单元词汇拼读（下）及结语",
+      "start": 454.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T18:33:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 518,
+  "veroeffentlicht": "2023-07-11T18:51:43+00:00",
+  "beschreibung": "学校老师不教单词？老师发音不准？领读单词一带而过？自己叽里咕噜不知如何下嘴？查理来救你啦，拆词拼读法，让你不放过单词中每一个字母的细节，一眼就会读单词。用准确的发音，单词才能更快地记对，听力才能听得更准确。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">学校老师不教单词？老师发音不准？领读单词一带而过？自己叽里咕噜不知如何下嘴？查理来救你啦，拆词拼读法，让你不放过单词中每一个字母的细节，一眼就会读单词。用准确的发音，单词才能更快地记对，听力才能听得更准确。</p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/cabf-audiofreehighqps/E0/CB/GMCoOSUIg2duAAXFbgI2zQnj.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/cabf-audiofreehighqps/E0/CB/GMCoOSUIg2duAAXFbgI2zQnj.jpg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/cabf-audiofreehighqps/E0/CB/GMCoOSUIg2duAAXFbgI2zQnj.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"3543.7499999999995\" data-preview=\"http://imagev2.xmcdn.com/storages/cabf-audiofreehighqps/E0/CB/GMCoOSUIg2duAAXFbgI2zQnj.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"661.5\"></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/37d9-audiofreehighqps/49/CF/GMCoOSIIg2d6AAJbIwI2zQr1.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

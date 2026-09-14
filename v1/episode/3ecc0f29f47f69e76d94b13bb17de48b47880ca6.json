@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_993104143",
+  "apple_collection_id": "1327729926",
+  "show": "伐要去管它|Storm带你解读生活",
+  "titel": "不成功投资指南",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOFRVBAInDxwSt88nH.m4a?channel=rss&album_id=11776250&track_id=993104143&uid=67793790&jt=https://aod.cos.tx.xmcdn.com/storages/be61-audiofreehighqps/89/83/GKwRIJIOFRVBAInDxwSt88nH.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9028551,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T03:52:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "聊聊石老板投资电影的幕后故事，以及自己对投资和喜剧创作的看法。",
+  "kurzfassung": "主播分享了自己对投资的犹豫不决，以及受邀观看石老板参与投资的电影《不成功穿越指南》的幕后经历。节目探讨了喜剧电影创作与票房的现实挑战，并结合热点话题讨论了电影宣传与玩梗营销的可能性。主播坦言投资和拍电影并非易事，以此表达对老朋友的支持。",
+  "stichpunkte": [
+    "自己对投资电影和理财持犹豫态度，坦言缺乏杀伐果断的性格",
+    "受石老板邀请观看其参与投资的电影《不成功穿越指南》",
+    "认为现代观众见多识广，文艺作品很难达到所谓的封神级别",
+    "分析喜剧电影投资的杠杆特性，棚内拍摄虽轻体量但失败成本高",
+    "探讨喜剧创作的普遍规律与受众反应之间的微妙关系",
+    "建议电影宣发可以尝试顺应时代的玩梗潮流以挽回票房"
+  ],
+  "kapitel": [
+    {
+      "titel": "个人投资经历与看法",
+      "start": 0.86
+    },
+    {
+      "titel": "受邀观看石老板的电影",
+      "start": 130.38
+    },
+    {
+      "titel": "对文艺作品与电影的理性评价",
+      "start": 277.72
+    },
+    {
+      "titel": "喜剧电影的创作与宣发思考",
+      "start": 522.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T03:52:12+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1115,
+  "veroeffentlicht": "2026-06-27T04:31:27+00:00",
+  "beschreibung": "不成功指南",
+  "beschreibung_html": "不成功指南",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3f99-audiofreehighqps/EF/EA/GAqhy90OFRUWAAGHDASt87le.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

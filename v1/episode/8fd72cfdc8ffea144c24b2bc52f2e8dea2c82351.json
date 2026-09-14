@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_724582682",
+  "apple_collection_id": "1735666426",
+  "show": "吴晓波财经频道|更好听的商业解读|为白领企业家呈现",
+  "titel": "《贫穷的本质》第十集 | 吴晓波：为什么有人摆脱不了贫穷？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsJ_bpCAB5fmwLKLZ9R-aacv2-48K.m4a?channel=rss&album_id=80707684&track_id=724582682&uid=1412917&jt=https://aod.cos.tx.xmcdn.com/storages/7855-audiofreehighqps/75/A2/GKwRINsJ_bpCAB5fmwLKLZ9R-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1497119,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:01:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨物质与精神的贫穷，以及如何在商业中保持对世界的好奇心。",
+  "kurzfassung": "本期节目探讨了贫穷的两个维度：物质的贫穷与精神的贫穷。吴晓波指出，摆脱贫穷不仅需要追求体面的物质生活，更需要保持对世界的好奇心与少年的眼光。节目最后朗读了辛波斯卡的诗作《种种可能》，表达对生命细节与自由灵魂的热爱。",
+  "stichpunkte": [
+    "物质贫穷与精神贫穷的区分",
+    "对世界失去好奇心意味着真正的衰老",
+    "崇尚商业之美以实现体面的中产或高净值生活",
+    "呼吁在生活中保有一颗少年的眼睛",
+    "通过辛波斯卡的诗作感受世界的生动与可爱",
+    "宣读诗歌《种种可能》中的各项偏爱"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨贫穷与少年之心",
+      "start": 0.0
+    },
+    {
+      "titel": "朗读辛波斯卡诗作《种种可能》",
+      "start": 98.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:01:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 245,
+  "veroeffentlicht": "2024-04-27T23:30:02+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/7e45-audiofreehighqps/D9/CB/GMCoOSIJwwoJAAIECQK1Pi5_.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

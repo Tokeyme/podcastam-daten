@@ -6,7 +6,7 @@
   "titel": "#02 Inside Palantir: ICE Cold (2/5)",
   "audio": {
     "url": "https://media.neuland.br.de/file/2121210/c/feed/inside-palantir-ice-cold-2-5.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": 40492202,
     "format": "mp3",
     "geprueft_am": "2026-08-20T04:50:17+00:00"
@@ -65,7 +65,7 @@
       "inhalt_start": 139.104,
       "anker_sha256": "678d26f517fd3431a183ad6e29dbbb74562c9381a886403d1578cf86aa5c89ba",
       "einblendung_ms": 60,
-      "text": "Aber Juanita merkt, irgendwas ist off. Er war nur ein Schirm. Ein grünes Schirm. Der Typ trägt einfach nur ein Hemd. Keine Uniform. Er sagt, wir sind von der Polizei. Und Juanita ist so, nein? Dann ist da plötzlich ein zweiter Mann. Er trägt eine schusssichere Weste. Sein Gesicht ist durch eine Maske verdeckt. Er fragt Juanita, wo sie geboren ist. Juanita versteht nicht, was das alles soll. Gibt's"
+      "text": "Juanita wird an ihrer Haustür von zwei Männern aufgesucht, von denen einer eine kugelsichere Weste trägt und sich nach ihrem Geburtsort erkundigt."
     },
     {
       "hook": "Das Dilemma zwischen Sicherheit und Freiheit",
@@ -80,7 +80,7 @@
       "inhalt_start": 750.288,
       "anker_sha256": "d911be1c5fa531b0d5dd35e0cd2611c48060fa3baa6e643703b0b30d4ed614f5",
       "einblendung_ms": 60,
-      "text": "Was Carp und Thiel hier beobachten. Die USA stoßen hier gerade auf ein Dilemma. Eins, das eigentlich alle freien Gesellschaften haben. Auch wir in Deutschland. Sicherheit und Freiheit stehen oft einfach in einem Widerspruch. Also, wenn ich alle meine Bürger immer überwache, also was Total Information Awareness, sorry, Basketball, damals will, wenn ich als Staat alle überwache, ist es nicht ein kra"
+      "text": "Alex Carp und Peter Thiel analysieren den permanenten Konflikt zwischen staatlicher Totalüberwachung und den Prinzipien einer freiheitlichen Demokratie."
     },
     {
       "hook": "Interne Proteste bei Palantir gegen Abschiebungen",
@@ -95,7 +95,7 @@
       "inhalt_start": 1181.592,
       "anker_sha256": "c653aa6a9e9630de5bbdc84e43e6d765ccfe2f6ee31aaa3dd284840194701c50",
       "einblendung_ms": 60,
-      "text": "And there were a lot of conversations internally. Viele Mitarbeiter stellen sich dagegen. Sie fordern, dass Palantir im Vertrag mit ICE festlegt, dass die Software niemals für Abschiebungen genutzt wird. Will you put in contractual guardrails that say, yeah, it won't be used for deportation? 200 Palantir- Palantir-Systeme unterzeichnen sogar einen internen Aufruf gegen die Arbeit mit ICE."
+      "text": "Zweihundert Beschäftigte von Palantir protestieren intern und fordern vertragliche Garantien, dass ihre Technologie nicht für Deportationen eingesetzt wird."
     },
     {
       "hook": "Wie die Überwachungs-App Aufenthaltsorte berechnet",
@@ -110,7 +110,7 @@
       "inhalt_start": 1816.752,
       "anker_sha256": "ceaf66e47acbb2d8283a7284ad4ecde4aab727bb9e72d5ec6e7adfbfa3b92506",
       "einblendung_ms": 60,
-      "text": "And so it tells you how many people are living in this area and what's the likelihood of them actually being there. Okay. There's a 90% chance that they live there. Auf der Map sehen die Agenten ihre Ziele. Also Menschen, die vermutlich ausreisepflichtig sind. Und wie wahrscheinlich es ist, dass diese Menschen auch tatsächlich an dem angezeigten Ort sind."
+      "text": "Mithilfe einer digitalen Karte orten die Beamten ihre Zielpersonen und erhalten eine prozentuale Einschätzung, ob sich diese dort aufhalten."
     },
     {
       "hook": "Feste Abschiebequoten pro Team und Tag",
@@ -125,7 +125,7 @@
       "inhalt_start": 2149.392,
       "anker_sha256": "53c0aa92a4c8a302c3d26989c7c503a742116a6f387d245bd5528f8a3aedf33a",
       "einblendung_ms": 60,
-      "text": "Sie hatten eine feste Vorgabe, sagt der ICE-Agent. Acht Leute pro Team sollten sie festnehmen. Täglich. Wo man die findet, zeigt dann die Palantir-App, das Google Maps zu Migranten finden. Da sind sie dann einfach mal hingefahren und haben angefangen. Ich denke immer noch, dass sie zurückkommen werden. Ich denke immer noch, dass sie zurückkommen werden."
+      "text": "Eine US-Einwanderungsbehörde gibt ihren Einheiten die feste Quote vor, täglich acht Menschen festzunehmen, deren Aufenthaltsorte eine Software ermittelt."
     }
   ],
   "erzeugt": {

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_706958572",
+  "apple_collection_id": "1021959002",
+  "show": "蜜桃姐姐讲故事",
+  "titel": "蜜桃姐姐讲故事_2379_正月初八：哪吒闹海",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4Jpk0PAC_OLgKpdlQU-aacv2-48K.m4a?channel=rss&album_id=468823&track_id=706958572&uid=18522984&jt=https://aod.cos.tx.xmcdn.com/storages/c7ee-audiofreehighqps/4D/0A/GKwRIW4Jpk0PAC_OLgKpdlQU-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2356064,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:22:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述中国传统神话故事《哪吒闹海》的精彩情节。",
+  "kurzfassung": "陈塘关总兵李靖之妻生下一个肉球，从中蹦出一个名叫哪吒的神童。哪吒在海边打败了夜叉并失手打死龙太子敖丙，引发四海龙王水淹陈塘关。为了百姓安危，哪吒自杀身亡，随后被太乙真人用莲花复活并最终击败龙王。",
+  "stichpunkte": [
+    "陈塘关总兵李靖的夫人产下一个肉球，太乙真人赶来为其取名哪吒并赠送乾坤圈和混天灵。",
+    "哪吒在海边击退了企图抢走童男童女的夜叉。",
+    "龙太子敖丙找哪吒报仇，却在战斗中被哪吒用乾坤圈失手砸死。",
+    "东海龙王震怒并联合其他三海龙王，决定水淹陈塘关以逼迫李靖交出哪吒。",
+    "为了拯救陈塘关的百姓，哪吒挺身而出选择自杀。",
+    "太乙真人用仙藕为体、莲花为衣使哪吒复活，并赐予火尖枪和风火轮。",
+    "哪吒手持新法宝杀入龙宫，将四海龙王打得跪地求饶，陈塘关恢复了平静。"
+  ],
+  "kapitel": [
+    {
+      "titel": "哪吒出世",
+      "start": 1.58
+    },
+    {
+      "titel": "大闹东海",
+      "start": 100.82
+    },
+    {
+      "titel": "水淹陈塘关",
+      "start": 177.68
+    },
+    {
+      "titel": "莲花复活与战龙王",
+      "start": 274.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:22:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 386,
+  "veroeffentlicht": "2024-02-17T12:30:00+00:00",
+  "beschreibung": "一道金光闪过，半空中出现一个小娃娃，扎两个冲天髻，光着俩小脚丫，踩着风火轮，乾坤圈手中拿，混天绫护着他。这样一个神气的人物，就是我们熟知的哪吒······",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>一道金光闪过，半空中出现一个小娃娃，扎两个冲天髻，光着俩小脚丫，踩着风火轮，乾坤圈手中拿，混天绫护着他。这样一个神气的人物，就是我们熟知的哪吒······</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group81/M08/B5/AD/wKgPEl7PX9HCxCRbAALZdthNWIg167.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

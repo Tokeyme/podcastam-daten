@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_744626989",
+  "apple_collection_id": "1759904999",
+  "show": "190步频跑步音乐",
+  "titel": "190步频跑步音乐｜精准踩点｜林俊杰",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAKfOs2ASwHfQL38SzM.m4a?channel=rss&album_id=82866876&track_id=744626989&uid=514758338&jt=https://aod.cos.tx.xmcdn.com/storages/bf38-audiofreehighqps/DB/60/GKwRIMAKfOs2ASwHfQL38SzM.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19662717,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T19:44:43+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "精选林俊杰的音乐串烧节目，提供适合190步频跑步的节奏陪伴。",
+  "kurzfassung": "本期节目为林俊杰的音乐精选集。全篇收录了多首经典流行歌曲的串烧，并配合特定的步频节奏。内容涵盖了多首知名曲目，为听众在运动时提供稳定的音乐伴奏。",
+  "stichpunkte": [
+    "收录了多首林俊杰演唱的经典流行歌曲串烧",
+    "针对跑步运动场景设计，配合190步频的音乐节奏",
+    "串烧曲目包含情感、励志与日常主题的多元风格",
+    "提供连续不断的旋律，适合作为运动时的背景伴奏",
+    "音乐风格融合了抒情慢歌与动感节奏的转换",
+    "整场节目持续播放多首高人气的华语流行金曲"
+  ],
+  "kapitel": [
+    {
+      "titel": "林俊杰歌曲串烧与跑步音乐",
+      "start": 1.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T19:44:43+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3225,
+  "veroeffentlicht": "2024-07-29T05:25:58+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/65c1-audiofreehighqps/76/7F/GKwRIUEKfOraAALL8wL38Qw7.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

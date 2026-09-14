@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "guid": "2d57b24e-acbd-46ab-bfac-b4ac017756bd",
+  "apple_collection_id": "1812469316",
+  "show": "Everybody's Business",
+  "titel": "An Economic Dumpster Fire",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f541f9b4-77cb-45aa-bf94-b1d300e5d357/2d57b24e-acbd-46ab-bfac-b4ac017756bd/audio.mp3?utm_source=Podcast&in_playlist=1d448cb7-e0fc-45b8-b51f-b1d300e623a7",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 31392310,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T03:42:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Analyzing stagflation risks, booming landfill fires, and the rise of data center backlash.",
+  "kurzfassung": "The hosts examine economic anxieties surrounding stagflation, government debt, and rising bond yields alongside an expert. They also investigate a growing crisis of dangerously hot landfills across the US. Finally, they discuss underrated stories, including young retail investors turning to sports betting and widespread public resistance against new data centers.",
+  "stichpunkte": [
+    "Economist Alison Schrager explains stagflation during a ride on the Roosevelt Island tram.",
+    "US inflation sits at just over three percent with unemployment at four point one percent.",
+    "US national debt is on track to hit forty trillion dollars, with debt servicing costs surpassing defense spending.",
+    "Landfills across the US are getting dangerously hot, generating massive amounts of toxic leachate and underground fires.",
+    "A landfill outside Richmond, Virginia, generates one million gallons of trash juice monthly and faces a bankrupt operator.",
+    "Methane capture systems in landfills often draw in oxygen, increasing the risk of subsurface fires.",
+    "A survey by Betterment reveals that a quarter of Gen Z investors view sports betting as financial planning.",
+    "Communities across the country are pushing back against new data centers due to massive energy and water consumption."
+  ],
+  "kapitel": [
+    {
+      "titel": "Stagflation and the Economy",
+      "start": 2.56
+    },
+    {
+      "titel": "Government Debt and Bond Yields",
+      "start": 417.56
+    },
+    {
+      "titel": "The Federal Reserve and Jackson Hole",
+      "start": 633.92
+    },
+    {
+      "titel": "America's Hot Landfill Crisis",
+      "start": 832.6
+    },
+    {
+      "titel": "Gen Z and Sports Betting",
+      "start": 1439.52
+    },
+    {
+      "titel": "The Backlash Against Data Centers",
+      "start": 1657.04
+    }
+  ],
+  "clips": [
+    {
+      "hook": "What is stagflation?",
+      "start": 207.778,
+      "ende": 227.892,
+      "laenge": 20.11,
+      "byte_start": 3423736,
+      "byte_ende": 3745563,
+      "bytes": 321828,
+      "range_header": "bytes=3423736-3745563",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 207.856,
+      "anker_sha256": "4078c3b141841ce3bcc6a761e0c5a21de6ab900af1b407fdb44c85bdb224f48d",
+      "einblendung_ms": 60,
+      "text": "Accepting a hypothetical economic puzzle involving simultaneous high inflation and stagnant growth."
+    },
+    {
+      "hook": "Paying more in interest than defense",
+      "start": 581.146,
+      "ende": 601.26,
+      "laenge": 20.11,
+      "byte_start": 9397626,
+      "byte_ende": 9719454,
+      "bytes": 321829,
+      "range_header": "bytes=9397626-9719454",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 581.225,
+      "anker_sha256": "234cdd13e545f2216611d3dec220f34a090104841145f10e8780ee4fa8befea4",
+      "einblendung_ms": 60,
+      "text": "How elevated interest rates consume a larger share of national spending, crowding out programs like social security."
+    },
+    {
+      "hook": "A million gallons of trash juice a month",
+      "start": 1046.361,
+      "ende": 1076.454,
+      "laenge": 30.09,
+      "byte_start": 16841061,
+      "byte_ende": 17322549,
+      "bytes": 481489,
+      "range_header": "bytes=16841061-17322549",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1046.439,
+      "anker_sha256": "594f5fe75f4acdc78a41db7ae1622523da1a54ee7bbd5271094dde04fe752296",
+      "einblendung_ms": 60,
+      "text": "Why the EPA regulates excessive temperatures caused by the natural decomposition process deep inside massive landfills."
+    },
+    {
+      "hook": "Gen Z sees sports betting as an investment",
+      "start": 1464.163,
+      "ende": 1484.278,
+      "laenge": 20.11,
+      "byte_start": 23525901,
+      "byte_ende": 23847728,
+      "bytes": 321828,
+      "range_header": "bytes=23525901-23847728",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1464.242,
+      "anker_sha256": "f4a08fd12287ff77992f410953547c16848ab931f87f7580bfa69a2447ef4860",
+      "einblendung_ms": 60,
+      "text": "The risk of household items with built-in electronics causing fires in sanitation vehicles when improperly discarded."
+    },
+    {
+      "hook": "Kick rocks and don't come back",
+      "start": 1704.098,
+      "ende": 1724.212,
+      "laenge": 20.11,
+      "byte_start": 27364856,
+      "byte_ende": 27686683,
+      "bytes": 321828,
+      "range_header": "bytes=27364856-27686683",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1704.176,
+      "anker_sha256": "e5cbca8159be65a6dcbb2ec425bac08feb4eef4f64c38e4c0b0ec44ad5fc4ddf",
+      "einblendung_ms": 60,
+      "text": "Closing remarks and a sign-off for the episode."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T03:42:23+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1841,
+  "veroeffentlicht": "2026-08-21T09:00:00+00:00",
+  "beschreibung": "Gasses from hot garbage juice are threatening to make their way out of landfills, but if that’s not also a metaphor for how the economy feels right now, have we got news for you. Join us for a ride, 250 feet above New York City, where economist Allison Schrager takes on the Stagflation Challenge. And then, back on solid ground (or more like underground), Businessweek senior editor Laura Bliss exposes the dangers of overheating landfills. Everything is fine, promise.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Gasses from hot garbage juice are threatening to make their way out of landfills, but if that&rsquo;s not also a metaphor for how the economy feels right now, have we got news for you. Join us for a ride, 250 feet above New York City, where economist Allison Schrager takes on the Stagflation Challenge. And then, back on solid ground (or more like underground), Businessweek senior editor Laura Bliss exposes the dangers of overheating landfills. Everything is fine, promise.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f541f9b4-77cb-45aa-bf94-b1d300e5d357/2d57b24e-acbd-46ab-bfac-b4ac017756bd/image.jpg?t=1787266172&size=Large",
+  "kapitel_quelle": "modell"
+}

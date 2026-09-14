@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/c940-audiofreehighqps/45/EA/CKwRIW4EvXbjAHdn2ADFV6k8-aacv2-48K.m4a",
+  "apple_collection_id": "981048922",
+  "show": "从华尔街到陆家嘴",
+  "titel": "如何看待近期美债利率的下行异动｜从华尔街到陆家嘴",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIW4EvXbjAHdn2ADFV6k8-aacv2-48K.m4a?channel=rss&album_id=310684&track_id=431866338&uid=10996254&jt=https://aod.cos.tx.xmcdn.com/storages/c940-audiofreehighqps/45/EA/CKwRIW4EvXbjAHdn2ADFV6k8-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5884149,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T00:50:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "解读近期美债利率下行异动，分析其背后的短期与中长期逻辑及对市场的影响。",
+  "kurzfassung": "近期美国10年期国债收益率出现下行异动，引发市场关注。高文龙分析了油价下跌、美元升值等短期因素，以及投资者对中长期经济增长担忧的深层逻辑。未来随着美联储政策转向及经济持续复苏，美债利率有望回到较为合理的水平，并对权益市场产生深远影响。",
+  "stichpunkte": [
+    "10年期美债收益率近期跌至1.25%至1.3%附近的近四五个月低点",
+    "短期油价下跌和OPEC协议僵局触发通胀预期下行，带动美债收益率走低",
+    "美联储加息缩表预期推动美元指数走强，进一步抑制大宗商品定价并拉低通胀",
+    "深层次原因在于德尔塔变异病毒蔓延及失业数据令市场失望，引发对中长期经济复苏的担忧",
+    "美债收益率近期呈现快速平坦化走势，短端利率上行而长端标杆利率明显下行",
+    "长端利率下行与投资者对中长期经济走弱的预期息息相关",
+    "未来随着疫苗接种率提高和劳动力重回市场，经济持续复苏将支撑利率中枢温和回升",
+    "投资者博弈焦点正从通胀转向经济复苏节奏与美联储退出量化宽松的具体路径"
+  ],
+  "kapitel": [
+    {
+      "titel": "美债收益率下行的表现与短期影响因素",
+      "start": 0.0
+    },
+    {
+      "titel": "深层逻辑：经济复苏预期与收益率曲线平坦化",
+      "start": 324.6
+    },
+    {
+      "titel": "未来走势预测及对权益市场的影响",
+      "start": 431.72
+    },
+    {
+      "titel": "投资者关注点的转变与博弈焦点的演变",
+      "start": 820.58
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T00:50:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 966,
+  "veroeffentlicht": "2021-07-09T02:26:06+00:00",
+  "beschreibung": "如何看待近期美债利率的下行异动｜从华尔街到陆家嘴",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">如何看待近期美债利率的下行异动｜从华尔街到陆家嘴<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group5/M06/E1/A7/wKgDtlSOQWGA0PXWAAF6Br3FcWo760.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

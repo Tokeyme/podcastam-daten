@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_890299340",
+  "apple_collection_id": "1827969757",
+  "show": "郭德纲单口高清版《阴阳扣》",
+  "titel": "01、觊人妻暗施奸计，害良善自种恶因 - 上",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4MU8ZVAIDSWAPm62iR.m4a?channel=rss&album_id=98642167&track_id=890299340&uid=4584385&jt=https://aod.cos.tx.xmcdn.com/storages/2aa7-audiofreehighqps/B2/FF/GKwRIW4MU8ZVAIDSWAPm62iR.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8442456,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T02:03:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "通过传统评书故事探讨因果报应与诚信的重要性",
+  "kurzfassung": "本期节目从读书和传统文化的意义切入，强调人不能亏心、行事皆有因果的道理。主播通过刘邦蹭饭娶妻以及赵匡胤当年赌博欠债的民间故事，说明帝王行事也需讲究信义与报应。故事展现了历史人物发迹前的轶事，并以此劝诫听众向善守信。",
+  "stichpunkte": [
+    "读书和计问是获取学问、了解传统道德的重要途径",
+    "中国人通过说书和看戏接受劝人向善与因果教育",
+    "因果报应并非迷信，而是事物发展的必然规律",
+    "做人不能亏心，撒谎和亏心事最终会有相应的后果",
+    "刘邦当年在吕县长宴会上白吃白喝却最终娶得吕后的轶事",
+    "赵匡胤年轻时在天奇庙赌博耍赖欠下赌债的民间传说",
+    "赵匡胤戏言让重孙子还债，演变成北国金兵南下索债的故事",
+    "传统故事借帝王行事告诫世人说话算话、因果不爽的道理"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与读书因果观",
+      "start": 600.0
+    },
+    {
+      "titel": "刘邦的街头故事",
+      "start": 808.86
+    },
+    {
+      "titel": "赵匡胤赌债与因果传说",
+      "start": 938.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T02:03:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1042,
+  "veroeffentlicht": "2025-07-21T11:08:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4d97-audiofreehighqps/9B/C8/GKwRIJIMU7v1AAKL4wPm5CUR.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_876442807",
+  "apple_collection_id": "1814837614",
+  "show": "AI那些事儿：每日 10 分钟AI科技解读",
+  "titel": "2025年6月25日AI要闻",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoMMaOUAEarWgPRkQbr.m4a?channel=rss&album_id=92913487&track_id=876442807&uid=162381846&jt=https://aod.cos.tx.xmcdn.com/storages/e9aa-audiofreehighqps/07/3D/GKwRIDoMMaOUAEarWgPRkQbr.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4631386,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T20:31:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "梳理AI领域最新进展，涵盖具身智能、情感语音、数字永生及量子计算等核心突破。",
+  "kurzfassung": "本期节目盘点并梳理了近期人工智能领域的多项重要进展。内容涵盖机器人本地化部署与具身智能、无监督强化学习、OpenAI与微软的办公生态大战以及Eleven Labs的情感语音技术。此外，节目还探讨了量子计算的纠错突破、引发伦理争议的数字永生技术，以及医疗AI的落地应用与数据安全挑战。",
+  "stichpunkte": [
+    "谷歌DeepMind的Gemini Robotics实现机器人模型本地运行，大幅降低延迟，预计2026年规模化应用于仓储和精密制造。",
+    "清华大学TestTime RL技术实现无监督强化学习突破，无需人工标注即可自主学习解题和写代码，并抑制直函数过估。",
+    "OpenAI推出超级工作助理计划，意图让ChatGPT直接操作办公软件，加剧与微软Copilot的生态系统大战。",
+    "Eleven Labs发布V3语音模型，支持70多种语言并能精确控制情感与语气，带来更自然的拟人交流体验。",
+    "谷歌量子计算采用颜色代码技术将纠错效率提升三倍，向2027年千比特级别的实用量子计算机推进。",
+    "初创公司Delphi获得红杉资本投资布局数字永生，利用逝者数据训练AI模型供亲友对话，引发生死伦理讨论。",
+    "数据标注公司Skill AI因泄露客户机密数据遭OpenAI终止合作，暴露出AI训练数据隐私与安全漏洞。",
+    "医疗AI公司Abridge完成3亿美元融资，其文书技术准确率达98.7%并能帮医生节省约四成文档时间。"
+  ],
+  "kapitel": [
+    {
+      "titel": "具身智能与自主学习新突破",
+      "start": 75.46
+    },
+    {
+      "titel": "办公生态大战与情感语音技术",
+      "start": 196.8
+    },
+    {
+      "titel": "量子计算、数字永生与数据安全挑战",
+      "start": 301.58
+    },
+    {
+      "titel": "医疗AI应用与行业格局总结",
+      "start": 446.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T20:31:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 571,
+  "veroeffentlicht": "2025-06-25T11:41:52+00:00",
+  "beschreibung": "从 机器人技术 的本地化部署和自主决策能力，到 大型模型 在办公和语音生成上的应用。它还介绍了 量子计算 在纠错效率上的突破，以及 医疗AI 领域的显著融资和应用。此外，资料也触及了 AI行业内的竞争格局、数据安全挑战 和 伦理议题，例如“数字永生”技术的出现，并强调了AI技术正从纯粹的技术突破转向与各产业的深度融合。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>从&nbsp;</span><span>机器人技术</span><span>&nbsp;的本地化部署和自主决策能力，到&nbsp;</span><span>大型模型</span><span>&nbsp;在办公和语音生成上的应用。它还介绍了&nbsp;</span><span>量子计算</span><span>&nbsp;在纠错效率上的突破，以及&nbsp;</span><span>医疗AI</span><span>&nbsp;领域的显著融资和应用。此外，资料也触及了&nbsp;</span><span>AI行业内的竞争格局</span><span>、</span><span>数据安全挑战</span><span>&nbsp;和&nbsp;</span><span>伦理议题</span><span>，例如“数字永生”技术的出现，并强调了AI技术正从纯粹的技术突破转向与各产业的深度融合。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/84ed-audiofreehighqps/61/B2/GKwRIJEMHvK5AAJPzAPFWv4S.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

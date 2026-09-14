@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_572537897",
+  "apple_collection_id": "1566893067",
+  "show": "NianChen年辰对谈",
+  "titel": "Vol.20| 自然的心声，你知几分？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4HCE3NABAAAAGn_2_A.m4a?channel=rss&album_id=44500963&track_id=572537897&uid=249162259&jt=https://aod.cos.tx.xmcdn.com/storages/a97a-audiofreehighqps/54/52/GKwRIW4HCE3NABAAAAGn_2_A.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 23263753,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T16:55:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "两位主播在节目中分享了各自喜爱的小动物以及疫情下向往的旅行目的地。",
+  "kurzfassung": "两位主播在节目中畅谈了自己喜爱的小动物与宠物养育经历。接着，她们讨论了各自心仪的国内外旅行目的地，以此作为疫情生活中的精神寄托。最后，节目在推荐一首歌曲中结束。",
+  "stichpunkte": [
+    "讨论因疫情长期居家生活，宠物与旅行梦想成为精神支柱",
+    "分享各自童年养宠经历以及对父母不养动物原因的理解",
+    "谈及未来想养的猫狗品种，如英国短毛猫、柴犬、博美和喜乐蒂等",
+    "分享对鸟类的喜爱，并提及日本民间传说《鹤的报恩》",
+    "回忆观看《动物世界》纪录片时对猎豹的喜爱与大自然的残酷",
+    "盘点各自渴望探访的旅游目的地，包括意大利、瑞士及国内云南等地",
+    "探讨外貌特征带来的趣事与误解",
+    "每期结尾新增歌曲推荐环节，本期推荐《The Joker and the Queen》"
+  ],
+  "kapitel": [
+    {
+      "titel": "开篇闲聊：疫情下的宠物与精神支柱",
+      "start": 14.82
+    },
+    {
+      "titel": "宠物回忆录：童年的动物伙伴与养宠观念",
+      "start": 227.64
+    },
+    {
+      "titel": "理想家园：未来想养的猫狗与飞鸟",
+      "start": 388.94
+    },
+    {
+      "titel": "大自然与野生动物：猎豹的记忆与自然之残酷",
+      "start": 802.36
+    },
+    {
+      "titel": "旅行梦单：意大利、瑞士与国内外想去的地方",
+      "start": 974.84
+    },
+    {
+      "titel": "外貌误会与节目尾声的歌曲推荐",
+      "start": 1244.58
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T16:55:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1571,
+  "veroeffentlicht": "2022-09-27T05:32:07+00:00",
+  "beschreibung": "谁也没有想过，自己会在疫情的创伤下生活三年。在这段不能出门的时间里，我们突然开始无限向往旅行，向往自然，向往自由。于是，年年和辰圻在不能游山玩水的间隙里闲聊了一下喜欢的动物、想去的旅行目的地。相信大家也都期待着这个世界好起来的那一天，能和世界和自然重新相约，从中治愈自我，敬畏生命。",
+  "beschreibung_html": "谁也没有想过，自己会在疫情的创伤下生活三年。在这段不能出门的时间里，我们突然开始无限向往旅行，向往自然，向往自由。于是，年年和辰圻在不能游山玩水的间隙里闲聊了一下喜欢的动物、想去的旅行目的地。相信大家也都期待着这个世界好起来的那一天，能和世界和自然重新相约，从中治愈自我，敬畏生命。",
+  "bild_url": "https://fdfs.xmcdn.com/storages/89cf-audiofreehighqps/2F/A0/GKwRIaIHCE3NAAH1jwGn_2-L.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

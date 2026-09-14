@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "https://audio.xmcdn.com/group44/M04/D8/91/wKgKjFr3ra_RM7IkAFCfJbxnS_Q683-aacv2-48K.m4a",
+  "apple_collection_id": "1441633782",
+  "show": "小沈龙脱口秀",
+  "titel": "《同桌的你》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgKjFr3ra_RM7IkAFCfJbxnS_Q683-aacv2-48K.m4a?channel=rss&album_id=15427120&track_id=88182877&uid=108333428&jt=https://audio.xmcdn.com/group44/M04/D8/91/wKgKjFr3ra_RM7IkAFCfJbxnS_Q683-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3973060,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T03:36:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾充满谎言与挨揍的搞笑童年，以及长大后面对生活压力的无奈与释怀。",
+  "kurzfassung": "节目通过幽默风趣的语言回忆了作者充满笑料的童年生活，包括奇特的家庭教育、敷衍的谎言以及考试挨打的经历。随后对比了无忧无虑的童年与成年后面临房车压力的现实，引发对过往岁月的感慨。最后以改编歌曲《同桌的你》收尾，在歌声中体味生活的无奈与乐观。",
+  "stichpunkte": [
+    "作者调侃自己到上海发展半年的经历，以及导演反而比自己更火的现象。",
+    "回忆小的时候自命不凡却因空翻头部着地导致小学读了14年的趣事。",
+    "讲述父母对孩子的奇葩引导，包括关于“我是哪来的”各种离谱谎言。",
+    "分享上历史课被问及圆明园是谁烧的，以及父亲醉酒后来学校处理的搞笑经过。",
+    "提到小时候过年拿压岁钱的悲喜交加，以及最害怕考试和随之而来的棍棒教育。",
+    "谈及小时候盼望长大，而成年后面对房子、车子和工作压力却又渴望回到童年的矛盾心理。",
+    "以改编版的歌曲《同桌的你》调侃理想与现实的差距，表达对生活的释怀。"
+  ],
+  "kapitel": [
+    {
+      "titel": "童年的谎言与奇葩教育",
+      "start": 2.74
+    },
+    {
+      "titel": "历史课风波与考试挨打",
+      "start": 210.82
+    },
+    {
+      "titel": "从渴望长大到怀念童年",
+      "start": 476.86
+    },
+    {
+      "titel": "歌曲尾声",
+      "start": 569.9
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T03:36:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 652,
+  "veroeffentlicht": "2018-05-13T03:14:52+00:00",
+  "beschreibung": "百变小沈龙高清脱口秀，欢迎大家收听哦。\n小沈龙，原名戴小龙，1990年3月出生于黑龙江省大庆市，中国内地喜剧男演员。师从赵本山 。2016年发起喜剧新形式—快餐式脱口秀。\n18岁模仿小沈阳闯进北京，2009年参加中央电视台《梦想剧场》全国模仿秀大赛总决赛获得冠军，因而被观众熟悉，2010年参加梦想之旅赴美国演出，2011年拜赵本山为师，成为赵本山第65位徒弟。2012年参演电视剧《不是钱的事》饰演文小宝，2016年参加东方卫视《笑傲江湖第三季》。",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\">百变小沈龙高清脱口秀，欢迎大家收听哦。</p><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\">小沈龙，原名戴小龙，1990年3月出生于<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">黑龙江省</a><a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">大庆市</a>，中国内地喜剧男演员。师从<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">赵本山</a><span> </span> 。2016年发起喜剧新形式—快餐式<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">脱口秀</a>。</p><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\">18岁模仿<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">小沈阳</a>闯进北京，2009年参加<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">中央电视台</a>《<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">梦想剧场</a>》全国模仿秀大赛总决赛获得冠军，因而被观众熟悉，2010年参加梦想之旅赴<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">美国</a>演出，2011年拜<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">赵本山</a>为师，成为<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">赵本山</a>第65位徒弟。2012年参演电视剧《<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">不是钱的事</a>》饰演文小宝，2016年参加东方卫视《<a target=\"_blank\" style=\"text-decoration: none;color:#4990E2\">笑傲江湖第三季</a>》。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group44/M07/99/D8/wKgKjFsjlnGis1TTAAMReCtHWbM787.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

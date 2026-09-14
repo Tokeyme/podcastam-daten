@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007942613",
+  "apple_collection_id": "1892917941",
+  "show": "故事会 StoryTime",
+  "titel": "11 - 社交滤镜下的双面人生：网红、癌症与百万骗局",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIOX1zfAjLLtgTKxGkO.m4a?channel=rss&album_id=119598792&track_id=1007942613&uid=102487658&jt=https://aod.cos.tx.xmcdn.com/storages/cc2a-audiofreehighqps/09/04/GKwRIaIOX1zfAjLLtgTKxGkO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 36883382,
+    "format": "m4a",
+    "geprueft_am": "2026-09-13T14:20:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "揭秘澳大利亚现象级健康博主Belle Gibson的惊天癌症骗局。",
+  "kurzfassung": "澳大利亚健康生活方式博主Belle Gibson曾自称罹患脑癌晚期，并凭借全食疗法与排毒奇迹般康复的故事红遍全球，甚至推出畅销书与知名App。然而，调查发现其癌症诊断、个人经历及巨额慈善捐款全系伪造。最终，她的骗局被朋友和媒体彻底揭露，引发公众哗然。",
+  "stichpunkte": [
+    "Belle Gibson曾是Instagram上极具影响力的健康生活方式与自然疗愈博主。",
+    "她自称被宣判只有四个月寿命，却拒绝化疗，通过自然疗法和全食物奇迹般治愈了脑癌。",
+    "她推出了名为The Whole Pantry的应用程序和同名食谱书，并获得苹果公司和各大出版集团的背书。",
+    "她声称将大笔利润捐赠给慈善机构，但实际上绝大部分承诺的捐款从未兑现。",
+    "她的好友Chanel等人发现她不仅出入酒吧、吸毒、食用垃圾食品，所谓去医院治疗实则是进行医美。",
+    "随着《时代》杂志等媒体的深入调查，她从未患癌的真相以及童年经历的谎言被彻底揭露。",
+    "在面对60 Minutes等深度访谈和公众对质时，她依然给出荒谬且缺乏逻辑的解释，毫无悔意。",
+    "法院最终判处其罚款，其App和书籍被下架，她也曾短暂隐匿并在后来变换身份试图重新开始。"
+  ],
+  "kapitel": [
+    {
+      "titel": "引子：认识Instagram历史上的传奇骗子",
+      "start": 20.02
+    },
+    {
+      "titel": "早年经历与早期的谎言试水",
+      "start": 375.14
+    },
+    {
+      "titel": "打造抗癌英雄人设与The Whole Pantry的爆红",
+      "start": 1112.66
+    },
+    {
+      "titel": "虚假的慈善与蛛丝马迹的暴露",
+      "start": 2093.96
+    },
+    {
+      "titel": "谎言崩塌：朋友对质与媒体曝光",
+      "start": 2398.5
+    },
+    {
+      "titel": "60 Minutes访谈与骗局的最终结局",
+      "start": 3610.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-13T14:20:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4556,
+  "veroeffentlicht": "2026-08-22T12:42:33+00:00",
+  "beschreibung": "火爆全网的“whole foods”概念到底是从何而来？whole foods饮食可以让癌症自愈？精致食谱大受追捧背后却是一场骗局？今天我们要认识的人，可能是instagram上最大的江湖骗子。\n\nBelle Gibson，一个曾经澳洲最大的健康生活方式博主，没错，是我们的同行。她声称自己身患脑癌，但不信任传统医学，主导自然疗法，并且治愈自己的癌症。在她的影响下，很多癌症患者真的放弃医学治疗，企图靠自然疗法自愈。她也靠着自己的健康食谱和传奇故事逐渐走向主流，获得大众媒体的报道和认可。\n\n但这只是她所有版本的故事中影响最大的一个而已。她给自己编织的剧本一套又一套，翻车一次就推倒重来。但互联网没有记忆，她的每一次重生都能精准找到受众，她到底是怎么做到的？\n\n00:32 你今天将要认识一位instagram上最大的江湖骗子。\n08:07 故事2.0，有野心的叛逆滑板少女，却不幸病痛缠身。\n16:15 故事3.0，健康生活方式女王即将诞生。\n32:15 迎来事业巅峰，不仅被各大杂志争相采访，而且她的app还被苹果手表选为全球最佳。\n48:01 当所有不对劲集中爆发，终于有人要出手了。\n67:51 还没完，还有故事4.0……\n\nBelle Gibson 早期照片\n\n滑板论坛时期照片\n\n创立the whole pantry 时期\n\n双面人生\n\n接受Australia 60采访时着装\n\n出席庭审\n\n翻车之后的造型，仍充满无辜感",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">火爆全网的“whole foods”概念到底是从何而来？whole foods饮食可以让癌症自愈？精致食谱大受追捧背后却是一场骗局？今天我们要认识的人，可能是instagram上最大的江湖骗子。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Belle Gibson，一个曾经澳洲最大的健康生活方式博主，没错，是我们的同行。她声称自己身患脑癌，但不信任传统医学，主导自然疗法，并且治愈自己的癌症。在她的影响下，很多癌症患者真的放弃医学治疗，企图靠自然疗法自愈。她也靠着自己的健康食谱和传奇故事逐渐走向主流，获得大众媒体的报道和认可。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">但这只是她所有版本的故事中影响最大的一个而已。她给自己编织的剧本一套又一套，翻车一次就推倒重来。但互联网没有记忆，她的每一次重生都能精准找到受众，她到底是怎么做到的？</p><span><br></span><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:32 你今天将要认识一位instagram上最大的江湖骗子。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">08:07 故事2.0，有野心的叛逆滑板少女，却不幸病痛缠身。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">16:15 故事3.0，健康生活方式女王即将诞生。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">32:15 迎来事业巅峰，不仅被各大杂志争相采访，而且她的app还被苹果手表选为全球最佳。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">48:01 当所有不对劲集中爆发，终于有人要出手了。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">67:51 还没完，还有故事4.0……</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"0\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=MTA0MjczNTNhYmU4MmVmYzhhYmE1MjgyMWVmN2M1NWJfM0tnZ1YwaUpaN3VxS0ZDUXBhRGZuVXNiazR4dTNJaTdfVG9rZW46TzVtWWJaa1ZKb0xSbkF4WnlrMmN1eXlkbjVnXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Belle Gibson 早期照片</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"1\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=MWU4NzcwOTQ2YzY1ZDY0MzhkY2JlNzkyMDkwNDViOTJfdGQ1bVdoU2NCVzVybnNCWjR2RFRCVWhVamVkMXNLRFpfVG9rZW46S0VkSWJTZGh4b0lheW54ZXoxWmNyb2FRbkdkXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">滑板论坛时期照片</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"2\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=NGVlYWIwZTk3YjE4NDEwNzczNDkyNDZlNzU5ZDRmY2Ffcjh0TXpEanBHQUxkNnlrYjZicGNaS1hIdDVlTWREWFRfVG9rZW46Wnp4SGJuZ3c5b2hlM2l4WnhjVWNIZzI2bk1jXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">创立the whole pantry 时期</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"3\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=NjAyYjM4NDBiZTg1Yzk2MTRiOWJmMDg0MDUyOTM2OWRfZ2w4VnJkekk0am5CWjNmZ0ZWbkZKbVQxc2ptSEJNRk1fVG9rZW46WUlnTWJ3RWxGb2k2OUZ4c0FqeWM5cEZlbkZiXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"4\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=MjA2Mzg3YzFiZWI4OTU5MmE3OWVjYzYyZjU5MGQ3MTBfN1Y4WlUxUlh0a2NNNkFPSThxMkRWSzh4bzFBc1BzMVVfVG9rZW46RzAwaGJseDdKbzdlVTZ4T1FNUWNGZklkbk9mXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">双面人生</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"5\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=MzlmY2U1NzE4NTMxYzhlZTUxYzFiYTQ0Y2QzZWU0N2JfMjg1RXl2akpXT1pkREdtUGlDdzJaWUZONEZaU2JSQWFfVG9rZW46WlBVOGJsU1FIb3RiTlB4TFBRaWNxMk12bjRkXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">接受Australia 60采访时着装</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"6\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=ODFkZTg4MTY3Mzk5OGQ5YmZjZWVhNmE3MWUzZGU5OTdfdnU5dk1DTGV4WDNWaXhuWDY5T2g0TmJRRnRwRm56OUpfVG9rZW46RFdWZmJQOWlmb1FsakV4VjhGZmNyTFBBbmxlXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"7\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=MzQxZmIwOGZiNjE4MDg3M2VkN2QzMzgzOGViZTQ1YjdfWlR0MUxRSFd6WXBycnNQc3haR3F4V09kbmdvNW5KdnlfVG9rZW46RDd4dGIwVnBDb2dncWl4bmxoOGNtbHpvbjdiXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">出席庭审</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"8\" src=\"https://my.feishu.cn/space/api/box/stream/download/asynccode/?code=ODFmMTRjNjFlMGVmMmU4N2M4YTI2NDJkZTAyOTc2OTJfVGdPTldQUHZUQjl4NWVjRXZ4cmNVN3NIMTlUTkRySExfVG9rZW46SlNHcmJxb3M4bzVPWUR4Q2hHdGNmem42bmdmXzE3ODc0MDIzMjc6MTc4NzQwNTkyN19WNA&amp;add_watermark=true&amp;scene_type=CCM\"></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">翻车之后的造型，仍充满无辜感</p><span><br></span><span></span><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b813-audiofreehighqps/EF/92/GAqhH-ENpnoBAAH6pwSEuUQG.jpg",
+  "kapitel_quelle": "modell"
+}

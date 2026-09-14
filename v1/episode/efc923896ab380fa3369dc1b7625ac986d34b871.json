@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007826845",
+  "apple_collection_id": "1478366349",
+  "show": "超级游文化",
+  "titel": "街霸线下赛超游主播胜利汇报！狂喜限定版",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPTK_2HLZOAUo7wJMuZmZ-cc6b36529600.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 36051845,
+    "format": "m4a",
+    "geprueft_am": "2026-09-13T12:24:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "主播与听友齐聚线下电影院，复盘超游文化杯街霸挑战赛的爆笑战况。",
+  "kurzfassung": "本次播客节目中，主播与听友们共同复盘了在狂喜播客节上举办的超级游文化杯街霸挑战赛。比赛现场气氛热烈，高潮迭起，不仅有新手“炸鱼”和搞笑连招，还诞生了经典的“波升流”对决与观众的情绪大爆发。最后，主播们还预告了接下来的线下活动计划。",
+  "stichpunkte": [
+    "在狂喜播客节的电影院大银幕上成功举办了超级游文化杯街霸挑战赛。",
+    "比赛现场气氛极其热烈，带动了许多原本不玩游戏的路人观众。",
+    "赛前分队和选人环节笑料不断，部分参赛选手被吐槽隐瞒真实段位进行“炸鱼”。",
+    "友谊赛中野人轻松击败小猪，为战队和观众带来了最初的信心。",
+    "正赛阶段对抗激烈，其中“波升流”打法引发了现场巨大的情绪波动与热烈欢呼。",
+    "主播们在节目中亲自下场对决，通过人情世故和新角色信息差完成了精彩的互殴。",
+    "活动现场备受好评，不仅拉近了人与人之间的距离，也找回了宿舍联机般的快乐。",
+    "节目最后预告了十月底即将在上海举行的下一场线下活动以及相关游戏主题。"
+  ],
+  "kapitel": [
+    {
+      "titel": "街霸线下赛胜利汇报与现场盛况",
+      "start": 15.12
+    },
+    {
+      "titel": "赛前分组、隐藏段位与幽默选人",
+      "start": 211.78
+    },
+    {
+      "titel": "主播友谊赛：野人大战小猪",
+      "start": 699.14
+    },
+    {
+      "titel": "正赛高潮：“波升流”与惊心动魄的对决",
+      "start": 1022.56
+    },
+    {
+      "titel": "主播亲自下场：信息差与人情世故的终局之战",
+      "start": 2776.02
+    },
+    {
+      "titel": "活动总结、线下链接的意义与未来预告",
+      "start": 3720.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-13T12:24:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4453,
+  "veroeffentlicht": "2026-08-22T06:00:00+08:00",
+  "beschreibung": "如题，这次狂喜现场的超游街霸挑战赛非常热闹！上了场的主播们悉数回顾了难忘的夜晚（除了恶霸波因非常正当的原因没能赶来录制），以后可以多搞！\n\n主播：金花、蛋挞、野人、小朱、老袁\n\n后期：蛋挞\n\n期待评论区见！",
+  "beschreibung_html": "如题，这次狂喜现场的超游街霸挑战赛非常热闹！上了场的主播们悉数回顾了难忘的夜晚（除了恶霸波因非常正当的原因没能赶来录制），以后可以多搞！<br><br>主播：金花、蛋挞、野人、小朱、老袁<br><br>后期：蛋挞<br><br>期待评论区见！",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c846-audiofreehighqps/D9/CA/GAqhy90OXk9LAAP0yATKXlJK.jpg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

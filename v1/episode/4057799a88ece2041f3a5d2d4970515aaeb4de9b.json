@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_666726375",
+  "apple_collection_id": "1509582179",
+  "show": "Mosaic of China 英语脱口秀",
+  "titel": "[Re-Release] Lissanthea TAYLOR, Parkway Health",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasI3bsyAKpOEAJccvta-aacv2-48K.m4a?channel=rss&album_id=25694293&track_id=666726375&uid=175124684&jt=https://aod.cos.tx.xmcdn.com/storages/6161-audiofreehighqps/9B/44/GKwRIasI3bsyAKpOEAJccvta-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8392144,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T11:22:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "对话免疫与疼痛管理专家Lysanthea Taylor，探讨中国医疗文化与生活。",
+  "kurzfassung": "节目重播了对免疫与疼痛管理专家Lysanthea Taylor的访谈。她分享了自己在上海Parkway Health的工作经历，以及东西方在疼痛管理和医疗文化上的差异。此外，她还畅谈了自己在中国生活的趣味见闻与对医疗叙事的理解。",
+  "stichpunkte": [
+    "Lysanthea Taylor曾在上海的Parkway Health工作，与主持人奥斯卡·福克结缘。",
+    "东西方在疼痛管理上面临文化差异，西方倾向于早期活动，而中国传统常强调长时间休息。",
+    "疼痛被重新定义为一种警告系统，而非直接代表身体受损。",
+    "探讨了语言医学的重要性，强调医者需要理解患者的人类故事。",
+    "区分了共情与同理受孕，医护人员需要承受并处理故事，而不是全盘吸收患者的情绪。",
+    "回顾了Lysanthea从澳洲农场成长、阴差阳错成为护士，到辗转新加坡和马来西亚的经历。",
+    "分享了对中国生活的喜好，包括统一时区、豆腐的概念以及上海的咖啡店文化。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目介绍与相识经历",
+      "start": 1.6
+    },
+    {
+      "titel": "东西方疼痛管理的文化差异",
+      "start": 284.86
+    },
+    {
+      "titel": "疼痛科学与语言医学",
+      "start": 611.48
+    },
+    {
+      "titel": "护士生涯与生活轨迹",
+      "start": 956.86
+    },
+    {
+      "titel": "中国生活的趣味快问快答",
+      "start": 1068.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T11:22:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1378,
+  "veroeffentlicht": "2023-09-19T01:00:00+00:00",
+  "beschreibung": "This is a re-release of Season 01 Episode 28: The Pain Whisperer (Lissanthea Taylor, Pain Management Practitioner).",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>This is a re-release of Season 01 Episode 28: The Pain Whisperer (Lissanthea Taylor, Pain Management Practitioner).</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/43a1-audiofreehighqps/B3/88/GKwRIaII3brMAAtRRQJccsxJ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

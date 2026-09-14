@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group77/M01/5D/F3/wKgO1V5996yAhdDaABXtXV7ZP9w465.m4a",
+  "apple_collection_id": "1504931790",
+  "show": "经典颂读 文化培塑 胎教必备",
+  "titel": "《第一册》01 大學 大學之道",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgO1V5996yAhdDaABXtXV7ZP9w465.m4a?channel=rss&album_id=35937124&track_id=274532210&uid=187334120&jt=https://aod.cos.tx.xmcdn.com/group77/M01/5D/F3/wKgO1V5996yAhdDaABXtXV7ZP9w465.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1437021,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:45:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨《大学》经典开篇，阐述大学之道与修身治国之本。",
+  "kurzfassung": "本集诵读并探讨了《大学》开篇经典内容。节目聚焦大学之道的纲领，解析知止、定、静、安、虑、得的修养阶梯。同时阐述了从格物致知到修身齐家治国平天下的完整逻辑。",
+  "stichpunkte": [
+    "阐述大学之道在于明明德、亲民和止于至善",
+    "解析知止而后有定、定而后能静的修心次第",
+    "指出物有本末、事有终始的客观规律",
+    "梳理自天子以至于庶人皆以修身为本的原则",
+    "说明欲治其国者先齐其家，欲齐其家者先修其身",
+    "强调正心、诚意、致知与格物的内在联系",
+    "总结自格物致知直至天下平的层层递进关系"
+  ],
+  "kapitel": [
+    {
+      "titel": "大学之道与三纲领",
+      "start": 0.0
+    },
+    {
+      "titel": "修养的次第与本末",
+      "start": 16.1
+    },
+    {
+      "titel": "修身齐家治国平天下",
+      "start": 49.58
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:45:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 175,
+  "veroeffentlicht": "2020-03-27T12:55:05+00:00",
+  "beschreibung": "我们的心愿是：有中国人的地方就有人颂读中国文化经典。\n特别注意：不要以成年人对经典难易的看法来衡量课程的深浅，儿童的学习潜能和吸收力，是成人无法想象的，例如背诵《三字经》与背诵《大学》、《中庸》对孩子来说，没有难易之分，故不赞成让儿童由《三字经》、唐诗等辅助教材开始背诵，而建议从《大学》、《中庸》、《论语》等开始。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我们的心愿是：有中国人的地方就有人颂读中国文化经典。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">特别注意：不要以成年人对经典难易的看法来衡量课程的深浅，儿童的学习潜能和吸收力，是成人无法想象的，例如背诵《<a target=\"_blank\" style=\"color:#4990E2;text-decoration:none;\">三字经</a>》与背诵《大学》、《中庸》对孩子来说，没有难易之分，故不赞成让儿童由《三字经》、唐诗等辅助教材开始背诵，而建议从《大学》、《中庸》、《论语》等开始。</p><span><br /></span><br />",
+  "bild_url": "https://fdfs.xmcdn.com/group75/M03/4A/9D/wKgO3V599sDR0EjhAAC7cPC2Cz8684.JPG",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

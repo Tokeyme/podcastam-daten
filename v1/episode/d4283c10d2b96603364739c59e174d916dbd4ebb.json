@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_886729410",
+  "apple_collection_id": "1822325879",
+  "show": "经典粤语歌曲800首",
+  "titel": "祖丝 - 终身事业",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasMSNQHACSx0QPg0q7W.m4a?channel=rss&album_id=94410713&track_id=886729410&uid=4584385&jt=https://aod.cos.tx.xmcdn.com/storages/9815-audiofreehighqps/18/85/GKwRIasMSNQHACSx0QPg0q7W.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2404817,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:46:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨追求美貌与体态的付出、坚持与人生代价。",
+  "kurzfassung": "本期节目围绕追求外表与体态的严苛训练展开。内容涉及饮食控制、健身锻炼以及伴随而来的汗水与痛苦。同时表达了对坚持美丽与自信的执着追求。",
+  "stichpunkte": [
+    "探讨面对身材管理时的种种付出与代价",
+    "提及跳舞、体操与饮食节制等日常训练",
+    "展现追求极致美貌过程中的汗水与泪水",
+    "强调面对困难与疼痛时继续坚持的决心",
+    "呼吁用实际行动让世人对成果感到惊叹",
+    "表达了将追求自信和美丽作为终身事业的态度"
+  ],
+  "kapitel": [
+    {
+      "titel": "追求美丽与体态的训练",
+      "start": 0.0
+    },
+    {
+      "titel": "汗水与代价中的坚持",
+      "start": 71.44
+    },
+    {
+      "titel": "饮食与运动的抉择",
+      "start": 127.96
+    },
+    {
+      "titel": "终身事业与自信的展现",
+      "start": 167.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:46:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 296,
+  "veroeffentlicht": "2025-07-13T01:50:47+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e6fc-audiofreehighqps/E4/19/GAqh1QQMKexXAATgSwPMsmVO.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "guid": "6a70ba65ab3a91c24a0f3fec",
+  "apple_collection_id": "1793960905",
+  "show": "唔系音乐 [KPOP]",
+  "titel": "042#｜【纯享】ITZY的Killing Voice",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/679c6a5cdbb6a000c7523cb5/6a70ba65ab3a91c24a0f3fec/media.xyzcdn.net/679c6a5cdbb6a000c7523cb5/ls9DD-UZet2f5d3j4LSyp9E718KX.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19939886,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T08:12:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "ITZY首次登台Killing Voice，带来多首热门歌曲串烧表演。",
+  "kurzfassung": "韩国女子组合ITZY首次登台表演Killing Voice。她们在节目中演唱了多首经典曲目以及全新单曲。成员们向观众打招呼并展示了精心的准备。",
+  "stichpunkte": [
+    "ITZY成员首次登台《Killing Voice》",
+    "开场向观众问好并表达期待",
+    "连续表演多首热门歌曲",
+    "展示精心排练的新歌",
+    "带来充满活力与自信的演唱"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与问候",
+      "start": 8.14
+    },
+    {
+      "titel": "热门歌曲串烧",
+      "start": 57.62
+    },
+    {
+      "titel": "新歌与结尾",
+      "start": 1115.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T08:12:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1232,
+  "veroeffentlicht": "2026-08-06T10:00:00+00:00",
+  "beschreibung": "欢迎来到 【Woo Wave 唔系音乐】042#\nITZY的Killing Voice\n00:00 出场\n00:39 DALLA DALLA\n02:03 ICY\n03:07 Not Shy\n03:59 SHOOT!\n05:12 Mafia In the morning\n06:30 LOCO\n07:49 FIVE\n09:13 Be In Love\n10:22 SNEAKERS\n11:28 Mr. Vampire\n12:27 UNTOUCHABLE\n13:43 Kiss & Tell\n14:45 Imaginary Friend\n15:59 GOLD\n17:27 WANNABE\n18:39 Girls Will Be Girls\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p><strong>欢迎来到 【Woo Wave 唔系音乐】042#</strong></p><p><strong>ITZY的Killing Voice</strong></p><p><a class=\"timestamp\">00:00</a> 出场<br><a class=\"timestamp\">00:39</a> DALLA DALLA<br><a class=\"timestamp\">02:03</a> ICY<br><a class=\"timestamp\">03:07</a> Not Shy<br><a class=\"timestamp\">03:59</a> SHOOT!<br><a class=\"timestamp\">05:12</a> Mafia In the morning<br><a class=\"timestamp\">06:30</a> LOCO<br><a class=\"timestamp\">07:49</a> FIVE<br><a class=\"timestamp\">09:13</a> Be In Love<br><a class=\"timestamp\">10:22</a> SNEAKERS<br><a class=\"timestamp\">11:28</a> Mr. Vampire<br><a class=\"timestamp\">12:27</a> UNTOUCHABLE<br><a class=\"timestamp\">13:43</a> Kiss &amp; Tell<br><a class=\"timestamp\">14:45</a> Imaginary Friend<br><a class=\"timestamp\">15:59</a> GOLD<br><a class=\"timestamp\">17:27</a> WANNABE<br><a class=\"timestamp\">18:39</a> Girls Will Be Girls</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/6a70ba65ab3a91c24a0f3fec?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

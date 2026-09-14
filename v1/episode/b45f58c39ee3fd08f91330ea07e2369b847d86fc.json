@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_707330328",
+  "apple_collection_id": "1694257068",
+  "show": "三易菌讲科技",
+  "titel": "宣布向个人开发者收费？微信能有苹果的命吗",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIJqMT1ACaPJgKqS4vm-aacv2-48K.m4a?channel=rss&album_id=72212913&track_id=707330328&uid=445712225&jt=https://aod.cos.tx.xmcdn.com/storages/a051-audiofreehighqps/51/E6/GKwRIaIJqMT1ACaPJgKqS4vm-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1900337,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:31:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "微信宣布对个人小程序开发者进行强制认证并收费，引发对生态走向的讨论。",
+  "kurzfassung": "微信团队近日通知个人小程序开发者须在规定时间内完成认证并缴纳每年30元的费用，否则将面临功能限制。此举旨在规范生态并防止开发者跑路，但也增加了个人开发者的成本，引发外界对其可能将开发者推向竞争对手平台的担忧。尽管微信小程序用户规模庞大，但绝大多数个人开发者盈利困难，收费政策可能对生态产生负面影响。",
+  "stichpunkte": [
+    "微信要求所有个人主体的小程序必须在2023年12月10日前完成认证，否则将禁止发布新版本、搜索和分享。",
+    "个人小程序认证机制收费标准为每人每年30元，类似于苹果的开发者账号。",
+    "微信官方解释此举是为了确保运营主体状态存续，解决开发者跑路问题。",
+    "多数个人开发者依靠小程序盈利并不容易，变现模式主要集中在广告，门槛和成功率较低。",
+    "个人开发者的常规操作是通过批量账号和矩阵互相导入流量来积累资格，收费政策打破了这一模式。",
+    "对于以练手或兴趣为主的开发者而言，收费导致投入产出比失衡，可能打击其积极性。",
+    "与苹果依靠封闭生态收费不同，抖音、支付宝等平台也拥有小程序，且抖音小程序的增长速度极快。",
+    "微信此举可能会促使个人开发者向抖音等竞争对手平台迁徙，削弱自身的开发者基础。"
+  ],
+  "kapitel": [
+    {
+      "titel": "微信推出个人小程序收费政策",
+      "start": 0.0
+    },
+    {
+      "titel": "个人开发者的盈利困境与副业模式",
+      "start": 112.84
+    },
+    {
+      "titel": "收费政策对生态与竞争格局的影响",
+      "start": 225.02
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:31:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 311,
+  "veroeffentlicht": "2024-02-23T05:24:00+00:00",
+  "beschreibung": "要说国内互联网行业中最为成功的产品，微信必然会位列其中。从即时通讯软件起步，如今的微信已然实现了连接人、连接内容，乃至连接商业的创举，而微信在一步步成为超级App的过程中，小程序无疑扮演着几乎不可替代的作用。如果说在二十年前个人开发者做网站站长是潮流，那么当下个人开发者单打独斗最好的去处，或许就是做微信小程序了。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>要说国内互联网行业中最为成功的产品，微信必然会位列其中。从即时通讯软件起步，如今的微信已然实现了连接人、连接内容，乃至连接商业的创举，而微信在一步步成为超级App的过程中，小程序无疑扮演着几乎不可替代的作用。如果说在二十年前个人开发者做网站站长是潮流，那么当下个人开发者单打独斗最好的去处，或许就是做微信小程序了。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/17f2-audiofreehighqps/CC/50/GMCoOR8HOoA2AAHN1wHBgbhB.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group68/M04/63/C1/wKgMeF3MzuCyCfQuAFUD6LVG5-I818-aacv2-48K.m4a",
+  "apple_collection_id": "957260360",
+  "show": "【五月耳语】睡前故事 经典童话大全",
+  "titel": "【五月】睡前故事 安徒生童话 猪倌儿（重发）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgMeF3MzuCyCfQuAFUD6LVG5-I818-aacv2-48K.m4a?channel=rss&album_id=311509&track_id=228229020&uid=15714833&jt=https://aod.cos.tx.xmcdn.com/group68/M04/63/C1/wKgMeF3MzuCyCfQuAFUD6LVG5-I818-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4189562,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T05:11:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "伍玥朗读安徒生童话经典故事《猪倌儿》，讲述傲慢公主因贪恋玩具而付出代价。",
+  "kurzfassung": "贫穷的王子向皇帝的女儿求婚，送上了珍贵的玫瑰花和夜莺，却被嫌弃是天然的而遭到拒绝。王子伪装成猪倌来到宫廷，通过制作神奇的会响的小锅和玩具，让傲慢的公主用无数个吻来交换。最终皇帝发现并赶走了公主，恢复王子身份的主角对她进行了嘲讽并将其关在门外。",
+  "stichpunkte": [
+    "贫穷的王子用神奇的玫瑰花和会唱歌的夜莺向公主求婚",
+    "公主嫌弃两样礼物是天然的而非人工制造，断然拒绝了求婚",
+    "王子将自己伪装成猪倌进入皇宫，在猪棚旁住下",
+    "王子制作了一口能演奏民歌并能闻到城里各家饭菜香味的小锅",
+    "公主为了得到小锅，在侍女的掩护下答应给猪倌十个吻",
+    "王子随后又制作了一个能演奏各种舞曲的玩具，并索要一百个吻",
+    "当公主正在亲吻猪倌时被皇帝撞见，皇帝大怒将两人赶出国土",
+    "王子卸下伪装露出本来面目，对公主进行斥责后将其关在门外"
+  ],
+  "kapitel": [
+    {
+      "titel": "王子求婚遭拒",
+      "start": 1.5
+    },
+    {
+      "titel": "化身猪倌做小锅",
+      "start": 219.24
+    },
+    {
+      "titel": "用吻换取音乐玩具",
+      "start": 468.7
+    },
+    {
+      "titel": "真相大白与结局",
+      "start": 597.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T05:11:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 688,
+  "veroeffentlicht": "2019-11-14T03:50:55+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group5/M07/3D/91/wKgDtVSzfLWjWfs4AA-lJiXXa-Q584.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

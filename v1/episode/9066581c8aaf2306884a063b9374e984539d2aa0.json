@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "6a5d7c4d6356eb2d9be52bf1",
+  "apple_collection_id": "1871379086",
+  "show": "HR老谢｜职场人的阅读实验室",
+  "titel": "S2｜02-招聘记分卡",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/696af3ae36e3dc8900c80657/6a5d7c4d6356eb2d9be52bf1/media.xyzcdn.net/696af3ae36e3dc8900c80657/lv-f3_HOooxzma_M-OK1lG93u_ic.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6394483,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T23:05:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 1 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "招聘最大的错误不是不会面试，而是开始前不知道要找什么样的人。",
+  "kurzfassung": "本期节目探讨《聘谁》书中最重要的“计分卡”概念。主播指出，招聘前必须明确岗位使命、具体成果和所需能力，而非依赖模糊的岗位说明书或面试感觉。同时，文化适应被强调为决定团队能否走远的关键因素。",
+  "stichpunkte": [
+    "招聘最大的误区是在开始前根本不知道自己要找什么样的人",
+    "计分卡是一张成功蓝图，与只写过程的岗位说明书完全不同",
+    "一份优秀的计分卡需要回答岗位为什么存在、创造什么成果以及具备哪些能力",
+    "明确的成果能够主动筛掉平庸人才，并吸引真正优秀的人才",
+    "使命不是高级空洞的管理术语，而是一句话说清楚岗位的存在意义",
+    "文化不匹配是招聘失败的主要原因之一，破坏团队的强能力者损失更大",
+    "计分卡本质上是将企业战略翻译成每个岗位都能交付成果的重要工具"
+  ],
+  "kapitel": [
+    {
+      "titel": "什么是计分卡",
+      "start": 0.0
+    },
+    {
+      "titel": "岗位说明书与计分卡的区别",
+      "start": 107.84
+    },
+    {
+      "titel": "计分卡的三大核心要素",
+      "start": 141.5
+    },
+    {
+      "titel": "文化适应的重要性",
+      "start": 280.1
+    },
+    {
+      "titel": "计分卡作为战略落地工具",
+      "start": 329.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T23:05:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 395,
+  "veroeffentlicht": "2026-07-20T01:40:20+00:00",
+  "beschreibung": "前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<br><a href=\"https://www.xiaoyuzhoufm.com/episode/6a5d7c4d6356eb2d9be52bf1?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

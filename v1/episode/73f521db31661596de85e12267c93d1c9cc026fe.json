@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1004705156",
+  "apple_collection_id": "871064550",
+  "show": "娱乐逗翻天 | 连麦脱口秀",
+  "titel": "笨一点藏拙一点不是坏事@逗瓣丨娱乐逗翻天",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOSHHwAMgvUQTCNIjn.m4a?channel=rss&album_id=250123&track_id=1004705156&uid=4416963&jt=https://aod.cos.tx.xmcdn.com/storages/c082-audiofreehighqps/DE/9D/GKwRIJIOSHHwAMgvUQTCNIjn.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13119313,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T17:40:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "年轻人要学会藏拙，稍微装得普通一点并不是坏事。",
+  "kurzfassung": "刚考完高考的女生分享了自己因为无意间讨论他人家境而遭到同学在网络上谩骂和孤立的经历。主持人和她探讨了为人处世的道理，建议年轻人平时应该低调，不要过分炫耀自己的经济条件或生活好坏。通过这次风波，女生也吸取了教训，表示以后会更加注意保护自己。",
+  "stichpunkte": [
+    "高考毕业生分享了自己收到的家庭红包和开学后的生活费花销情况。",
+    "女生坦言自己平时开销较大，且因为近视不爱戴眼镜而常认不清人。",
+    "女生讲述了在高考前夕遭到同学在网络上建群辱骂和孤立的经过。",
+    "起因是她曾和好朋友私下议论另一个同学评价他人家境的行为不太好。",
+    "被辱骂后她选择了沉默并最终删除了对方，但保留了截图证据。",
+    "主持人和女生分析了由于消费观不同和无意炫耀引发矛盾的原因。",
+    "双方总结出为人处世要懂得藏拙、低调，装得普通一点并不是坏事的道理。"
+  ],
+  "kapitel": [
+    {
+      "titel": "高考之后的消费与生活花销",
+      "start": 0.0
+    },
+    {
+      "titel": "日常出行、近视与校园搭讪情景模拟",
+      "start": 149.34
+    },
+    {
+      "titel": "因讨论家境引发的校园矛盾与网络谩骂",
+      "start": 596.56
+    },
+    {
+      "titel": "低调做人：藏拙与装穷并不是坏事",
+      "start": 1212.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T17:40:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1620,
+  "veroeffentlicht": "2026-08-23T04:00:00+00:00",
+  "beschreibung": "每晚7点喜马拉雅直播\n连麦微信：H574332501",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">每晚7点喜马拉雅直播</strong></span></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">连麦微信：H574332501</strong></span></p><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\"></strong><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ab59-audiofreehighqps/C5/65/GAqhI8INKx6TAAy-zgRQ30vm.jpeg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

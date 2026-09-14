@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The Ultimate Trivia Podcast",
+  "apple_collection_id": "1763829987",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "9f30d447-183c-4e6c-8d68-f42e85f30a56",
+      "audio_url": "https://audio2.redcircle.com/episodes/eb6cbfbd-c3dc-4c47-a303-e62cc790812a/stream.mp3",
+      "pfad": "/v1/episode/d8f69fe8e72c000c0583b96b5a947b8fe4d23b50.json",
+      "titel": "Remembering the Titans Trivia I (All Play)",
+      "veroeffentlicht": "2026-08-20T09:00:05+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Season 2 finale featuring an all-play trivia game all about Titans."
+    }
+  ]
+}

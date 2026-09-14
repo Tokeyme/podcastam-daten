@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "97bdfe3e-9d41-11f1-b6a4-d761832c9ff0",
+  "apple_collection_id": "1507306726",
+  "show": "Track Town JPN",
+  "titel": "西本さんダイヤモンドリーグローザンヌ大会便り～TrackTownJPN 第313回2026年8月21日",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/NCB8389648768.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 73544417,
+    "format": "mp3",
+    "geprueft_am": "2026-09-08T17:41:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "西本さんがダイヤモンドリーグ・ローザンヌ大会の現地から1人でポッドキャストをお届け。",
+  "kurzfassung": "西本さんがスイス・ローザンヌから1人でポッドキャストを配信し、ダイヤモンドリーグの現地レポートや物価の高さについて語ります。さらに、航空券の欠航トラブルやアジア大会の競技日程変更に対する率直な思いを明かします。最後に、今季は大注目の800m種目や今後の大会予定について言及しています。",
+  "stichpunkte": [
+    "西本さんがスイスのローザンヌから1人でポッドキャストを収録・配信",
+    "スイスの物価の高さや、現地ホテルの滞在エピソードを紹介",
+    "ダイヤモンドリーグの男子棒高跳びでモンド・デュプランティスの跳躍を生観戦",
+    "予約していたシレジア行きの飛行機が欠航になり、チャットGPTを活用して急遽リカバリー",
+    "現地で北口選手ら日本人選手を見かけたことや、トップ選手のSNS活用事情に言及",
+    "ニューイヤー駅伝の統一予選会や新日程についてコンテンツとしての課題を考察",
+    "アジア大会の競技日程の突然の変更について、ファンの心情やチケット事情を踏まえて苦言",
+    "今シーズンは男女ともに800mが非常に面白いと熱弁し、SNSでの写真投稿企画を紹介"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T17:41:44+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3061,
+  "veroeffentlicht": "2026-08-21T09:47:00+00:00",
+  "beschreibung": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』陸上競技を追っ掛け、応援していきます。2025年東京世界陸上は国立超満員になりました！次の目標は陸上日本選手権を満員に＆日本にダイヤモンドリーグを！出演者への質問もお待ちしています！ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠track@joqr.net⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n＜出演者＞\n\n西本武司さん（EKIDEN NEWS主宰：OTT理事長）\n\n＜今回の内容＞\n\nダイヤモンドリーグ再開　初戦はローザンヌ\n\n・ローザンヌ、シレジア、チューリッヒ、ブリュッセルファイナル、ブタペストアルティメットと本格的シーズン突入\n\n・ローザンヌは物価が高い　フランスっぽいスイス\n\n・シティイベントでレマン湖畔で棒高跳び モンド6m 21で優勝！6m32チャレンジは成功ならず。カラリス6m16\n\n・西本さんシレジア飛行機予約飛ぶもリカバリー出来た\n\n・北口榛花選手、泉谷選手、阿部選手ローザンヌ出場予定\n\n　https://lausanne.diamondleague.com/programme-results/\n\n・欧州選手権からのウェロ選手SNS止めてメンタルリカバリー 1年で世界記録狙える位置にチューリッヒ女子800m注目\n\nニューイヤー駅伝への道 改定へ\n\n・統一予選会に加えて地域予選会の3段階構造に\n\n・1月1日へのストーリーがコンテンツ的に作りにくい\n\nアジア大会競技突然日程変更\n\n・観戦日程変更出来ない人が多い\n\n・中島ひとみ選手がSNSで告知が申し訳ない\n\n　https://x.com/g713__8/status/2090051314629927274\n\n「今年見た800m」シリーズやってます\n\nhttps://x.com/EKIDEN_News/status/2089101096891670815\n\n8月のザバスプレゼントはこちら\n\n⁠⁠https://x.com/TrackTownJPN/status/2084270087943631310⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠[TIME 51:01]",
+  "beschreibung_html": "<p>ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』陸上競技を追っ掛け、応援していきます。2025年東京世界陸上は国立超満員になりました！次の目標は陸上日本選手権を満員に＆日本にダイヤモンドリーグを！出演者への質問もお待ちしています！&nbsp;<a href=\"mailto:track@joqr.net\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠track@joqr.net⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>\n<p><br></p>\n<p><strong>＜出演者＞</strong></p>\n<p><strong>西本武司さん（EKIDEN NEWS主宰：OTT理事長）</strong></p>\n<p><br></p>\n<p><strong>＜今回の内容＞</strong></p>\n<p><strong>ダイヤモンドリーグ再開　初戦はローザンヌ</strong></p>\n<p>・ローザンヌ、シレジア、チューリッヒ、ブリュッセルファイナル、ブタペストアルティメットと本格的シーズン突入</p>\n<p>・ローザンヌは物価が高い　フランスっぽいスイス</p>\n<p>・シティイベントでレマン湖畔で棒高跳び モンド6m 21で優勝！6m32チャレンジは成功ならず。カラリス6m16</p>\n<p>・西本さんシレジア飛行機予約飛ぶもリカバリー出来た</p>\n<p>・北口榛花選手、泉谷選手、阿部選手ローザンヌ出場予定</p>\n<p>　<a href=\"https://lausanne.diamondleague.com/programme-results/\"><strong>https://lausanne.diamondleague.com/programme-results/</strong></a><strong></strong></p>\n<p>・欧州選手権からのウェロ選手SNS止めてメンタルリカバリー 1年で世界記録狙える位置にチューリッヒ女子800m注目</p>\n<p>&nbsp;</p>\n<p><strong>ニューイヤー駅伝への道 改定へ</strong></p>\n<p>・統一予選会に加えて地域予選会の3段階構造に</p>\n<p>・1月1日へのストーリーがコンテンツ的に作りにくい</p>\n<p>&nbsp;</p>\n<p><strong>アジア大会競技突然日程変更</strong></p>\n<p>・観戦日程変更出来ない人が多い</p>\n<p>・中島ひとみ選手がSNSで告知が申し訳ない</p>\n<p>　<a href=\"https://x.com/g713__8/status/2090051314629927274\"><strong>https://x.com/g713__8/status/2090051314629927274</strong></a><strong></strong></p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>「今年見た800m」シリーズやってます</strong></p>\n<p><strong></strong><a href=\"https://x.com/EKIDEN_News/status/2089101096891670815\"><strong>https://x.com/EKIDEN_News/status/2089101096891670815</strong></a>\n\n</p>\n<p><br></p>\n<p><strong>8月のザバスプレゼントはこちら</strong></p>\n<p><a href=\"https://x.com/TrackTownJPN/status/2084270087943631310\">⁠⁠<strong>https://x.com/TrackTownJPN/status/2084270087943631310</strong>⁠⁠</a></p>\n<p><a href=\"https://x.com/i/status/2050013254177767924\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><a href=\"https://x.com/TrackTownJPN/status/1995716191684559228\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><a href=\"https://x.com/TrackTownJPN/status/1963774706580160725\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>\n<p><strong></strong><a href=\"https://x.com/TrackTownJPN/status/1951126714094068060\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>[TIME  51:01]</p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/97bdfe3e-9d41-11f1-b6a4-d761832c9ff0/image/18a3397061b97bd1760e4bd192ee15db.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_914029953",
+  "apple_collection_id": "1848262270",
+  "show": "明末渊虚之羽 游戏真的讲了一个好听的故事",
+  "titel": "（感谢订阅、评论、点赞加转发哦）《明末渊虚之羽》1-未来聊天室",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwMrDpAAJAAKgQXbmO7.m4a?channel=rss&album_id=106162325&track_id=914029953&uid=38813500&jt=https://aod.cos.tx.xmcdn.com/storages/b1ab-audiofreehighqps/15/C7/GKwRIRwMrDpAAJAAKgQXbmO7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9437226,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T05:44:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨动作游戏《明末渊虚之羽》的架空明末世界与背景故事",
+  "kurzfassung": "本期节目介绍了动作游戏《明末渊虚之羽》的宏大世界观与剧情设定。内容涵盖明末乱世背景、远古语人与古蜀王朝的传说，以及主角吴长在福原镇与蜀王祠一带遭遇羽化病、调查 cannibal 怪物及各方势力恩怨的历程。通过对多位登场人物命运的梳理，勾勒出一个充满诡异秘辛与悲剧色彩的暗黑武侠世界。",
+  "stichpunkte": [
+    "远古语人得到神仙指点寻求长生之道遭到天谴，杜宇击败憋灵后带领剩余语人融入人类建立古蜀王朝并被尊为蜀神。",
+    "明末崇祯年间天下大乱，流民四起、宦官专权、起义军与女真侵扰不断，最终李自成与张献忠分别建立大顺和大西政权。",
+    "女主角吴长在燃灯洞窟醒来，左臂长有七羽且记忆全失，仅留一把刻有齐云出血的刀和奇怪凿子。",
+    "普原寺内汇聚了玄阳子、身患绝症的乔林、弹琵琶的于夏以及商人陶清等各色人物，羽化病在镇上大肆流行并引发恐慌。",
+    "吴长在老船夫的梦魇中击败黑色翅膀怪物白克鲁，并通过与何有哉相遇得知自己原名白紫云，曾是威震海上并击败海盗黎潇的侠客。",
+    "去往唐王行宫的必经之路会柳滩因妖物起火，吴长被迫绕路蜀王祠，途中遭遇红衣少女、废宫女以及寒光禅院中吃人的头驼。",
+    "寒光禅院的头驼曾向戏子学习火术并强占冯小婉，禅院僧人因断粮而靠吃人肉维生，最终头驼死于吴长之手。",
+    "蜀王祠曾是古蜀后人供奉杜宇的中心，施药者陆炳章因研究赤贡染上羽化病并沦为傀儡，被吴长与年岁长合力击败。",
+    "镇上的食人女妖陆红柳实为陆友三用死人肉和赤贡培育的肉灵芝喂养而成，吴长最终决定主动前往罗家大院了结恩怨。"
+  ],
+  "kapitel": [
+    {
+      "titel": "语人传说与明末乱世",
+      "start": 36.28
+    },
+    {
+      "titel": "吴长醒来与普原寺众生相",
+      "start": 138.7
+    },
+    {
+      "titel": "梦魇对决与身世揭晓",
+      "start": 351.36
+    },
+    {
+      "titel": "寒光禅院的食人惨剧",
+      "start": 549.16
+    },
+    {
+      "titel": "蜀王祠之战与陆红柳之谜",
+      "start": 785.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T05:44:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1165,
+  "veroeffentlicht": "2025-09-22T17:19:30+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8774-audiofreehighqps/AC/86/GAqh4zIMpd05AAi81gQUTLFq.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

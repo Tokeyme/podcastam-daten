@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "16545150",
+  "apple_collection_id": "1529091307",
+  "show": "心情广播|音乐情感故事",
+  "titel": "聊着聊着就消失的人|主播晓刚",
+  "audio": {
+    "url": "http://vohwod-sign.qtfm.cn/m4a/5fb26158114d9841a32116f4_18016368_24.m4a?auth_key=6a99d682-566039-0-3218aead5e84f088fbae1e8e5f45e6ee",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1002432,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:42:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨聊天时突然消失的现象及其背后的心理与人际关系处理方式",
+  "kurzfassung": "节目探讨了人们在日常聊天中突然中断或消失的各种原因。一方面，这可能源于对方对你缺乏兴趣或不在意，因此懒得回应。另一方面，这也可能是因为对方临时有急事，或是习惯了无需客套的随性交往方式。面对这种情况，不必过度纠结或内耗，保持自己的生活节奏最为重要。",
+  "stichpunkte": [
+    "聊天中有始有终会让人感到舒适，但现实中常有人聊着聊着就直接消失了",
+    "当一个人对你没有兴趣时，往往会忽视你的消息，甚至懒得说明",
+    "不在意你的人并不希望你过多的发消息和产生交集",
+    "情侣之间有时也会出现对话未结束一方就消失的情况，若对方用行动表达在乎则无需过度计较",
+    "不同人对聊天的结束方式有不同理解，有的人觉得没有必要客套便直接去忙",
+    "成年人若因紧急事情或非必要内容未及时回复，关系好且事后有解释则无需在意",
+    "面对聊着聊着就消失的人，不必守着对话框耿耿于怀或过度内耗",
+    "无需对无法百分百照顾到彼此的时刻胡思乱想，过好自己的生活最重要"
+  ],
+  "kapitel": [
+    {
+      "titel": "聊天中突然消失的现象",
+      "start": 3.18
+    },
+    {
+      "titel": "缺乏兴趣与不在意的表现",
+      "start": 77.86
+    },
+    {
+      "titel": "亲密关系中的消失与包容",
+      "start": 148.24
+    },
+    {
+      "titel": "成年人的随性沟通与忙碌",
+      "start": 218.28
+    },
+    {
+      "titel": "如何看待与处理消失的对话",
+      "start": 273.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:42:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 340,
+  "veroeffentlicht": "2020-11-16T11:24:08+00:00",
+  "beschreibung": "不必守着对话框并耿耿于怀",
+  "beschreibung_html": "不必守着对话框并耿耿于怀",
+  "kapitel_quelle": "modell"
+}

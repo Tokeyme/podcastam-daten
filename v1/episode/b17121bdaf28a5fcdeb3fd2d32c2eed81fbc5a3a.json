@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_711704415",
+  "apple_collection_id": "1735102135",
+  "show": "欧美音乐百年经典100首",
+  "titel": "Lemon Tree 柠檬树Foll s Garden愚人花园",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEJvi55ABecUgKzcP1O.m4a?channel=rss&album_id=80786023&track_id=711704415&uid=461968067&jt=https://aod.cos.tx.xmcdn.com/storages/d6ef-audiofreehighqps/3A/53/GKwRIUEJvi55ABecUgKzcP1O.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1547346,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:25:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨孤独与等待的经典歌曲《Lemon Tree》歌词与旋律展示。",
+  "kurzfassung": "本期节目完整呈现了经典歌曲《Lemon Tree 柠檬树Foll s Garden愚人花园》的歌词。内容从坐在无聊房间里的孤独感开始，延伸到开车兜风以及对外在世界的观察。最后伴随着欢快的旋律进行多次重复演唱。",
+  "stichpunkte": [
+    "坐在无聊的房间里感到孤独并等待对方",
+    "开车行驶过快、过远且希望改变视角",
+    "感叹生活中没有什么事情发生",
+    "回忆起对方曾谈论过的蓝色天空",
+    "睁眼所见却只有另一棵黄色的柠檬树",
+    "头部上下及四周旋转观察环境",
+    "包含大量的歌唱拟声词与旋律尾声"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲开场与孤独感",
+      "start": 0.0
+    },
+    {
+      "titel": "柠檬树与蓝天回忆",
+      "start": 56.96
+    },
+    {
+      "titel": "旋律与合唱部分",
+      "start": 79.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:25:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 190,
+  "veroeffentlicht": "2024-03-06T13:11:16+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9da1-audiofreehighqps/BD/31/GKwRINsJvhv5AAJ0SwKzZGGt.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

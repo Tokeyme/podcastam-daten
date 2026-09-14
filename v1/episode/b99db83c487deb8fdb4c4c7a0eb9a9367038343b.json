@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_799439557",
+  "apple_collection_id": "1788164903",
+  "show": "2025神级翻唱音乐|全网播放过亿|热门音乐",
+  "titel": "周深-化身孤岛的鲸",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasLaokUABisSQNbU7Rm.m4a?channel=rss&album_id=85060164&track_id=799439557&uid=65730677&jt=https://aod.cos.tx.xmcdn.com/storages/5f1d-audiofreehighqps/CC/9F/GKwRIasLaokUABisSQNbU7Rm.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1616969,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:36:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "周深演唱歌曲《化身孤岛的鲸》歌词内容",
+  "kurzfassung": "本期节目呈现了歌曲《化身孤岛的鲸》的完整歌词内容。歌词通过孤独蓝鲸的视角，描绘了它在广阔海洋中的漂泊与奇景。直到遇见一个温柔的人，孤独的旅程才有了陪伴与慰藉。",
+  "stichpunkte": [
+    "蓝鲸拥有巨大的身影，在雨中和飞鸟的陪伴下穿行海洋",
+    "它路过地中海的天晴、西伯利亚的雪景等无数奇景",
+    "歌词表达了蓝鲸曾经无人倾听、未曾有过滚烫心情的孤寂天性",
+    "直到遇见衣衫破旧却歌声温柔的你，开始漫无目的的漂流",
+    "你微笑白首将这里当作整个宇宙，与太阳和海洋问候",
+    "遗憾的是你终究无法躺在蓝鲸辽阔的胸口",
+    "你的眼中有春与秋，胜过蓝鲸见过爱过的一切山川与河流"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲前奏与蓝鲸的漂泊",
+      "start": 1.82
+    },
+    {
+      "titel": "相遇与温柔的陪伴",
+      "start": 60.88
+    },
+    {
+      "titel": "孤独天性与再次相遇",
+      "start": 109.42
+    },
+    {
+      "titel": "深情凝望与内心触动",
+      "start": 206.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:36:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 265,
+  "veroeffentlicht": "2025-01-25T11:07:56+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d6a7-audiofreehighqps/C8/59/GAqhntALRFpeAAMa6QNIFaJY.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

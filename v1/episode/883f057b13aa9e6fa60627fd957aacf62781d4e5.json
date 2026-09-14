@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_647981037",
+  "apple_collection_id": "1751425739",
+  "show": "我真没想赚钱|忽悠|游戏|搞笑|土豪",
+  "titel": "0001 第001集 村里最后一个男人",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasIg8YGAJvpwgI24_4g-aacv2-48K.m4a?channel=rss&album_id=76956659&track_id=647981037&uid=394253561&jt=https://aod.cos.tx.xmcdn.com/storages/3c5f-audiofreehighqps/76/12/GKwRIasIg8YGAJvpwgI24_4g-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7683002,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T08:24:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "美人沟村唯一的男丁林大宝意外获得巫皇传承，决心打破村子的百年穷运。",
+  "kurzfassung": "林大宝在村头解救险些遭黑心张侵犯的杨翠花，随后在冲突中意外昏迷并获得了神秘的巫皇传承。他苏醒后潜入河底破除了导致全村贫穷和绝后的“穷极大阵”，不仅得到了神奇的龙甲，还在树上采摘了巨大的蜂巢发了一笔横财。林大宝从此踏上了医术、风水与致富的逆袭之路。",
+  "stichpunkte": [
+    "林大宝目睹并出声打断了黑心张对杨翠花的施暴，随后遭到黑心张的蓄意报复并被打晕。",
+    "林大宝在昏迷中进入神秘空间，获得了巫皇传承，掌握了占卜、巫医和风水等逆天知识。",
+    "林大宝清醒后潜入村外河底，在淤泥中挖出一个埋有刻着“穷、病、孤、衰、残”木人阵的青色陶罐。",
+    "林大宝一把火烧掉了祸害全村二十年的木人小人，解除了美人沟村的绝后与贫困风水局。",
+    "林大宝在河边意外发现一个水桶大小的野生蜂巢，冒险采摘后收获了价值数千元的蜂蜜和蜂王浆。"
+  ],
+  "kapitel": [
+    {
+      "titel": "偷窥与解围",
+      "start": 0.0
+    },
+    {
+      "titel": "冲突与传承",
+      "start": 677.1
+    },
+    {
+      "titel": "破阵与收获",
+      "start": 975.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T08:24:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1262,
+  "veroeffentlicht": "2023-07-12T01:33:28+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1b4c-audiofreehighqps/7F/34/GKwRIaIIgqfFAAHh1AI2g-rI.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

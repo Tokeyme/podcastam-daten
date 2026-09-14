@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_745127424",
+  "apple_collection_id": "1760311476",
+  "show": "穿越八零！炮灰逆袭美食空间致富军婚腹黑军官沉迷宠妻",
+  "titel": "第1章 穿到八零年代",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoKf6wRACo2OAL5EMgC.m4a?channel=rss&album_id=82887294&track_id=745127424&uid=176145352&jt=https://aod.cos.tx.xmcdn.com/storages/ebd9-audiofreehighqps/F5/F5/GKwRIDoKf6wRACo2OAL5EMgC.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2766392,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:11:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "苏伊意外穿越到八十年代，被军官周静川所救并开启了一段奇妙的军旅寻亲之旅。",
+  "kurzfassung": "苏伊穿越到八十年代的荒郊野外，误把对她进行人工呼吸的军官周静川当成流氓并打了对方一巴掌。恢复记忆后，苏伊发现自己是来部队寻找未婚夫却遭人谋害落水，幸得周静川及其部下相救。最终，苏伊在得知对方正是自己要找的部队后，顺理成章地踏上了同行的车。",
+  "stichpunkte": [
+    "苏伊在野外醒来，误会并打了实施急救的军官周静川",
+    "周静川脱下外套给衣衫湿透的苏伊遮挡，随后离开",
+    "苏伊通过融合原主的记忆，得知自己是被骗财并推入河中的",
+    "部下谢小军返回并与周静川会合，准备驱车离开",
+    "苏伊向周静川诚恳道歉并道谢，说明了自己遭人谋害的遭遇",
+    "周静川让谢小军给苏伊钱去镇上报案，但苏伊希望随军同行",
+    "苏伊提出自己要去二十九团找未婚夫，意外发现周静川正是该部队的人",
+    "苏伊归还了周静川外套口袋里的证件，并说出未婚夫是秦云峰"
+  ],
+  "kapitel": [
+    {
+      "titel": "苏伊醒来与误会",
+      "start": 0.0
+    },
+    {
+      "titel": "理清记忆与身世",
+      "start": 141.18
+    },
+    {
+      "titel": "道歉与身份巧合",
+      "start": 233.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:11:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 453,
+  "veroeffentlicht": "2024-07-31T07:34:25+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ec11-audiofreehighqps/8B/0F/GArMPbUKf2hwAAG3fwL47o5m.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

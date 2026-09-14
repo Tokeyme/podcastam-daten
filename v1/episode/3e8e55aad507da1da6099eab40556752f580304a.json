@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "4e204282-8b23-4b90-bf3e-b4aa015107be",
+  "apple_collection_id": "1729790200",
+  "show": "Money And Wealth With John Hope Bryant",
+  "titel": "AI Won't Take Your Job, But Someone Who Can Use AI Might",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2b9e5b3d-5b65-45fd-b3cb-b07501367030/4e204282-8b23-4b90-bf3e-b4aa015107be/audio.mp3?utm_source=Podcast&in_playlist=34f4051e-85fe-4cdb-890c-b0750136f10a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 57424388,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:06:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "AI won't replace you, but someone using AI might.",
+  "kurzfassung": "Operation Hope has launched a new AI agent named Waneda AI, modeled after founder John Hobryant's late mother, to provide free financial guidance and personal resilience stories. Hobryant argues that artificial intelligence will not eliminate jobs, but rather empower individuals who learn to use it as a collaborative tool. Drawing parallels to the historical shift from horses to automobiles, he stresses the urgent need for widespread AI literacy and upskilling.",
+  "stichpunkte": [
+    "Operation Hope launched Waneda AI, its first AI agent, co-chaired by John Hobryant and Van Jones.",
+    "The AI agent is modeled after Hobryant's late mother, Waneda Smith, incorporating her life stories and financial wisdom.",
+    "Hobryant emphasizes that artificial intelligence will not replace human workers, but workers using AI will replace those who do not.",
+    "The tool is available to the public for free to provide financial guidance and personal motivation around the clock.",
+    "Hobryant draws a historical parallel between the 1850–1910 horseshoe-to-automobile transition and the current AI revolution.",
+    "Operation Hope plans to establish over 10,000 Hope Clubs by 2030 to teach both financial and AI literacy.",
+    "Human financial coaches remain essential to provide empathy, creativity, and dimensions that technology cannot replicate."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and the Launch of Waneda AI",
+      "start": 0.2
+    },
+    {
+      "titel": "AI and the Future of Jobs",
+      "start": 164.52
+    },
+    {
+      "titel": "The Story of Waneda Smith and Accessing the AI",
+      "start": 303.12
+    },
+    {
+      "titel": "Historical Parallels: From Horses to Automobiles",
+      "start": 760.44
+    },
+    {
+      "titel": "Human Centric AI and the Consumer Economy",
+      "start": 2170.4
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Your job won't be replaced by AI, but by someone using AI",
+      "start": 186.331,
+      "ende": 212.663,
+      "laenge": 26.33,
+      "byte_start": 3048062,
+      "byte_ende": 3469364,
+      "bytes": 421303,
+      "range_header": "bytes=3048062-3469364",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 186.41,
+      "anker_sha256": "6b869fd0ba53f14725c142a5c1ad9bae189c6caf2c1cc686411fae8c3e5ff2a6",
+      "einblendung_ms": 60,
+      "text": "John Hope Bryant and Van Jones have launched Hope AI, beginning with a digital assistant named in honor of Bryant's late mother, Juanita Smith."
+    },
+    {
+      "hook": "AI hallucinates and gives smart answers to dumb questions",
+      "start": 576.418,
+      "ende": 596.532,
+      "laenge": 20.11,
+      "byte_start": 9289447,
+      "byte_ende": 9611275,
+      "bytes": 321829,
+      "range_header": "bytes=9289447-9611275",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 576.496,
+      "anker_sha256": "1fb7a61fc654edd5824e962eead8789dd494ec3b087b21f73897d677b30cb420",
+      "einblendung_ms": 60,
+      "text": "Financial backers and partner organizations covered the development expenses of the new software, allowing the general public to access it at no charge."
+    },
+    {
+      "hook": "The transition happening in six years that mirrors 1850",
+      "start": 766.145,
+      "ende": 786.26,
+      "laenge": 20.11,
+      "byte_start": 12325085,
+      "byte_ende": 12646912,
+      "bytes": 321828,
+      "range_header": "bytes=12325085-12646912",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 766.224,
+      "anker_sha256": "d9d7d8571eec75c25434bb8e6df928557063b1824f5871a402e2085e1cf08573",
+      "einblendung_ms": 60,
+      "text": "Artificial intelligence is designed to support and elevate human workers rather than eliminate their positions, serving as an aid to advisors at Operation HOPE."
+    },
+    {
+      "hook": "You can't AI plumbing: the high demand for trades",
+      "start": 1386.998,
+      "ende": 1413.251,
+      "laenge": 26.25,
+      "byte_start": 22258719,
+      "byte_ende": 22678767,
+      "bytes": 420049,
+      "range_header": "bytes=22258719-22678767",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1387.076,
+      "anker_sha256": "0e2917df8f592c0cbbb6afdfbc6fc7c45a57f1818e838842e7087b21e22f9234",
+      "einblendung_ms": 60,
+      "text": "Early automobile manufacturing introduced higher factory wages to offset repetitive assembly line labor, helping establish a middle class capable of buying the vehicles they built."
+    },
+    {
+      "hook": "If people lose their jobs, they stop paying for AI subscriptions",
+      "start": 2223.256,
+      "ende": 2253.061,
+      "laenge": 29.81,
+      "byte_start": 35638847,
+      "byte_ende": 36115737,
+      "bytes": 476891,
+      "range_header": "bytes=35638847-36115737",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2223.334,
+      "anker_sha256": "a964b0182a7ac4487f1bcb2f9fed5637e26427a3246241dd5ba737962d6aa23f",
+      "einblendung_ms": 60,
+      "text": "Family members are pooling their personal memories to build an AI profile honoring Bryant's late mother, reflecting her perseverance as a divorced parent in South Central Los Angeles."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:06:57+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2730,
+  "veroeffentlicht": "2026-08-20T10:00:00+00:00",
+  "beschreibung": "John Hope Bryant announces the launch of Juanita AI, Operation HOPE’s first public-facing AI agent and the first product of HOPE AI co-chaired with Van Jones, modeled after and named for John's mother, Juanita Smith. He argues AI won’t replace most jobs, but workers may be replaced by those who can use AI, urging audiences to upskill quickly as change accelerates from 2024–2030.\nJohn describes Juanita Smith’s journey from poverty to a million-dollar net worth, including saving on low wages, buying and selling seven homes, maintaining strong credit, and building assets, and says Juanita AI will provide 24/7 free (donor-funded) guidance on financial literacy and resilience via OperationHOPE.org\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>John Hope Bryant announces the launch of Juanita AI, Operation HOPE&rsquo;s first public-facing AI agent and the first product of HOPE AI co-chaired with Van Jones, modeled after and named for John's mother, Juanita Smith. He argues AI won&rsquo;t replace most jobs, but workers may be replaced by those who can use AI, urging audiences to upskill quickly as change accelerates from 2024&ndash;2030.&nbsp;</p> <p>John describes Juanita Smith&rsquo;s journey from poverty to a million-dollar net worth, including saving on low wages, buying and selling seven homes, maintaining strong credit, and building assets, and says Juanita AI will provide 24/7 free (donor-funded) guidance on financial literacy and resilience via OperationHOPE.org</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/2b9e5b3d-5b65-45fd-b3cb-b07501367030/image.jpg?t=1772054177&size=Large",
+  "folgennummer": 25,
+  "kapitel_quelle": "modell"
+}

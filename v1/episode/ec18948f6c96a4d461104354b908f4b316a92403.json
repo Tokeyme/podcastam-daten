@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006320979",
+  "apple_collection_id": "1837681959",
+  "show": "【周更】美食 | 治愈你的不好吃 | 生活闲聊",
+  "titel": "一块白记花生糕藏百年开封甜香",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOVBMFABcZoQTGZO0L.m4a?channel=rss&album_id=85498305&track_id=1006320979&uid=28071125&jt=https://aod.cos.tx.xmcdn.com/storages/09d3-audiofreehighqps/3C/A6/GKwRIDoOVBMFABcZoQTGZO0L.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1513889,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:06:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探索开封百年白记花生糕的传统制作工艺与独特风味",
+  "kurzfassung": "开封百年白记花生糕选用当地优质沙土花生和纯正糖浆制作。糕点采用古法手工叠压，具有酥松化渣、甜而不腻的特点。作为非物质文化遗产，它承载着开封人的温暖记忆与传统风味。",
+  "stichpunkte": [
+    "河南作为中国花生的黄金产区，为花生糕提供优质原料",
+    "第一代创始人白金贵创立白记花生糕品牌",
+    "严格选用开封本地沙土花生搭配玉米熬制的宜糖与广西蔗糖",
+    "恪守花生含量必须达到60%的百年老配方",
+    "制作工艺包含炒透花生、手工脱皮、文火熬糖及反复叠压撕拉",
+    "成品色泽纯净、层次分明，具有酥脆化渣、甜而不腻的口感",
+    "花生富含不饱和脂肪酸与蛋白质，兼顾营养与健康",
+    "白记花生糕已被列为中华名小吃和河南省非物质文化遗产"
+  ],
+  "kapitel": [
+    {
+      "titel": "原料选择与品牌渊源",
+      "start": 0.0
+    },
+    {
+      "titel": "古法制作工艺",
+      "start": 54.38
+    },
+    {
+      "titel": "口感与营养价值",
+      "start": 82.3
+    },
+    {
+      "titel": "文化传承与地方记忆",
+      "start": 148.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:06:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 186,
+  "veroeffentlicht": "2026-08-21T23:00:00+00:00",
+  "beschreibung": "开封花生糕从河南沙土花生开始。百年白记恪守老配方，花生含量不低于60%，配饴糖与广西蔗糖。花生炒得透而不焦，脱皮碾碎，糖浆熬成琥珀色，再经反复叠压、手工撕拉，做出层层酥皮。入口咔嚓微脆，随即酥松融化，花生浓香与饴糖甜润融合，酥得掉渣却不散形，甜而不腻，食多不粘牙。它既是中华名小吃、河南非遗，也是开封人的老味道。这口会唱歌的糕点值得一试。\n00:02:03:古法制作，营养封存，百年经典——花生糕的独特魅力",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">开封花生糕从河南沙土花生开始。百年白记恪守老配方，花生含量不低于60%，配饴糖与广西蔗糖。花生炒得透而不焦，脱皮碾碎，糖浆熬成琥珀色，再经反复叠压、手工撕拉，做出层层酥皮。入口咔嚓微脆，随即酥松融化，花生浓香与饴糖甜润融合，酥得掉渣却不散形，甜而不腻，食多不粘牙。它既是中华名小吃、河南非遗，也是开封人的老味道。这口会唱歌的糕点值得一试。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:02:03:古法制作，营养封存，百年经典——花生糕的独特魅力</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d256-audiofreehighqps/E1/2E/GKwRIW4OVBKDAAkHjwTGZNQa.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

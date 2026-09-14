@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_760604995",
+  "apple_collection_id": "1589086140",
+  "show": "科技百宝箱 | 前沿数码产品",
+  "titel": "上班族摸鱼党福利-电脑直接操作手机的神器",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasKzTEIABZakwMWrmkp.m4a?channel=rss&album_id=53446994&track_id=760604995&uid=123159532&jt=https://aod.cos.tx.xmcdn.com/storages/b347-audiofreehighqps/FA/4A/GKwRIasKzTEIABZakwMWrmkp.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1464979,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:51:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "使用“虫洞”软件在Mac电脑上直接操控安卓手机。",
+  "kurzfassung": "苹果生态推出了电脑直接操控手机的镜像功能，但安卓与Mac之间缺乏官方原生支持。为此，“虫洞”软件提供了解决方案，让安卓手机也能在Mac上实现低延迟的无线镜像与操控。这为上班族和摸鱼党带来了极大的便利。",
+  "stichpunkte": [
+    "苹果设备推出了Mac直接操控手机的联动功能",
+    "安卓与Windows生态早已具备完善的互联功能",
+    "部分安卓厂商缺乏Mac客户端，跨生态连接存在鸿沟",
+    "介绍软件“虫洞”，用于在Mac上实现安卓手机镜像",
+    "首次连接需开启辅助功能权限",
+    "连接后可实现低延迟、高分辨率的无线无线操控"
+  ],
+  "kapitel": [
+    {
+      "titel": "电脑直接操控手机的功能背景",
+      "start": 13.28
+    },
+    {
+      "titel": "安卓与Windows的生态互联现状",
+      "start": 74.34
+    },
+    {
+      "titel": "使用虫洞软件在Mac上镜像安卓手机",
+      "start": 140.1
+    },
+    {
+      "titel": "总结与体验",
+      "start": 210.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:51:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 240,
+  "veroeffentlicht": "2024-09-28T02:46:26+00:00",
+  "beschreibung": "软件名字 ： Wormhole 虫洞\n注意该软件是付费软件，免费版只能查看手机而无法控制。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>软件名字&nbsp;：&nbsp;Wormhole&nbsp;虫洞</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>注意该软件是付费软件，免费版只能查看手机而无法控制。</span></p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/39e1-audiofreehighqps/14/EA/CKwRIJEFKOHeAAEXfwDnnqvl.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

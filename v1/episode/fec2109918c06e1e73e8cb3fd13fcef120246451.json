@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_962903394",
+  "apple_collection_id": "1885474589",
+  "show": "普通人职场手记",
+  "titel": "【职场认知】01.职场第一课：公司不是学校，老板也不是老师",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJENiyifADk2agR5wQXb.m4a?channel=rss&album_id=118449431&track_id=962903394&uid=195661128&jt=https://aod.cos.tx.xmcdn.com/storages/0143-audiofreehighqps/F7/29/GKwRIJENiyifADk2agR5wQXb.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3749482,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:38:29+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "剖析职场第一课：打破学生思维，实现从任务到价值的转变",
+  "kurzfassung": "本期播客探讨了职场新人在思维模式上常见的误区，重点分析了学生思维与职场思维的巨大差异。主播结合真实案例，指出职场不比学校，老板也不是老师，核心在于交付实际成果而非等待指令。通过建立主动沟通、闭环执行和周自检机制，新人可以彻底摆脱学生思维，实现个人成长。",
+  "stichpunkte": [
+    "学生思维依赖老师布置作业和等待指令，而职场更看重主动发现并解决问题的人。",
+    "学生时代注重努力和过程，职场则以实际成果和为公司创造的价值为衡量标准。",
+    "学生时期害怕出错和扣分，职场中则需要敢于尝试并从失误中快速汲取经验。",
+    "新人若抱着等答案的心态，不仅会延误项目进度，也很难展现个人价值。",
+    "过度追求完美方案往往会错失市场机会，快速推进和协作比单打独斗更重要。",
+    "从索取者转变为交付者，核心是将重心从“任务完成了”转向“带来了什么成果”。",
+    "工作需要形成完整闭环，从目标拆解、进度共享到复盘优化，做到事事有回音。",
+    "通过建立周五自检机制和团队同步，能够有效减少遗漏并持续提升工作效率。"
+  ],
+  "kapitel": [
+    {
+      "titel": "学生思维与职场思维的碰撞",
+      "start": 34.8
+    },
+    {
+      "titel": "学生思维在职场中的生死时刻",
+      "start": 139.32
+    },
+    {
+      "titel": "破局之法：摆脱学生思维",
+      "start": 276.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:38:29+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 462,
+  "veroeffentlicht": "2026-03-14T23:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/05b8-audiofreehighqps/0C/C5/GKwRIJINiw17AADtTwR5rzU1.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

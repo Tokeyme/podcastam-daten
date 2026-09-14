@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_957213743",
+  "apple_collection_id": "1645842698",
+  "show": "我们一起聊电影",
+  "titel": "为什么要杀死汝爱？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaINZ3MeAeRqJARrps30.m4a?channel=rss&album_id=71119343&track_id=957213743&uid=110278944&jt=https://aod.cos.tx.xmcdn.com/storages/ba4d-audiofreehighqps/B6/2B/GKwRIaINZ3MeAeRqJARrps30.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 31746596,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T19:58:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深度剖析电影《杀死汝爱》与垮掉的一代文学起源",
+  "kurzfassung": "本期节目深度解析了电影《杀死汝爱》的历史背景与人物内核，探讨了垮掉的一代文学家如何在反叛中寻找真实。主播们剖析了卢西安复杂而虚伪的性格，并结合艾伦·金斯bergs母亲的选择，阐释了“杀死汝爱”这一创作与人生哲学。节目最后指出，扎实的基础和敢于舍弃虚浮诱惑的决心，才是真正实现创新与个人成长的关键。",
+  "stichpunkte": [
+    "电影《杀死汝爱》基于真实历史事件，讲述了二战后哥伦比亚大学的一起谋杀案及垮掉的一代代表诗人的经历。",
+    "卢西安在小团体中如同催化剂和缪斯，但他骨子里的虚伪、自私以及对真实自我的逃避，最终导致了悲剧。",
+    "艾伦·金斯堡的母亲告诫他不要为卢西安写伪证，这一关键抉择挽救了他作为伟大诗人的职业生涯。",
+    "“杀死汝爱”不仅是文学创作中克制自我、舍弃有害偏爱的经典准则，也是一种人生抉择的智慧。",
+    "垮掉的一代的兴起与二战后美国保守压抑的社会背景紧密相连，他们通过诗歌和真实的欲望对抗资本主义异化。",
+    "艾伦·金斯堡、杰克·凯鲁亚克和威廉·巴勒斯拥有深厚的文学积淀，这是他们能够反叛主流并诞生伟大作品的基底。",
+    "卢西安的悲剧在于缺乏扎实的根基并渴望即时回报，最终陷入自己编织的无间地狱中。",
+    "面对信息时代泛滥的浮躁与诱惑，真正的创新和积累需要人们脚踏实地并勇于舍弃表面的虚荣。"
+  ],
+  "kapitel": [
+    {
+      "titel": "电影《杀死汝爱》的观感与整体评价",
+      "start": 44.24
+    },
+    {
+      "titel": "电影剧情梳理与垮掉的一代背景",
+      "start": 277.32
+    },
+    {
+      "titel": "剖析卢西安的虚伪与复杂性格",
+      "start": 1512.96
+    },
+    {
+      "titel": "“杀死汝爱”的深刻内涵与母亲的选择",
+      "start": 2273.36
+    },
+    {
+      "titel": "扎实根基与对抗浮躁时代的创作哲学",
+      "start": 2866.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T19:58:01+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3921,
+  "veroeffentlicht": "2026-02-15T11:35:37+00:00",
+  "beschreibung": "� Part 1 真实案件与时代背景：垮掉一代的诞生\n\n00:00:48 改编自「垮掉的一代」诗人卷入的真实谋杀案\n\n00:05:02 艾伦·金斯堡遇见如催化剂般光芒四射的卢锡安\n\n00:07:16 案件核心辩护：卢锡安援引「荣誉谋杀」条款\n\n00:10:47 文化运动因二战后的社会压抑与寻求解放而兴起\n\n� Part 2 人物关系：爱、利用与自我囚笼\n\n00:23:41 他将金斯堡、凯鲁亚克等未来文学巨星聚集一堂\n\n00:24:46 聚集的目的，是为自己「镀金」的社交策略\n\n00:34:00 悲剧内核：卢锡安陷入的无间地狱\n\n00:36:01 自私的极致：进行「荣誉谋杀」辩护\n\n� Part 3 文学反叛：嚎叫、课堂与创作根源\n\n00:37:53 创作的转折：金斯堡的诗人关键时刻\n\n00:44:28 残酷的利他：解放了金斯堡，催生了《嚎叫》\n\n� Part 4 内核启示：反叛、根基与「杀死汝爱」\n\n00:47:58 反叛者资格：真正的反叛者的先决条件\n\n00:54:29 创新的根基，扎实基本功才是创新的土壤\n\n01:00:19 众人模仿表象却不解内核\n\n01:04:06 终极哲学：「杀死汝爱」——才能成就杰作。",
+  "beschreibung_html": "� Part 1 真实案件与时代背景：垮掉一代的诞生<br><br>00:00:48 改编自「垮掉的一代」诗人卷入的真实谋杀案<br><br>00:05:02 艾伦·金斯堡遇见如催化剂般光芒四射的卢锡安<br><br>00:07:16 案件核心辩护：卢锡安援引「荣誉谋杀」条款<br><br>00:10:47 文化运动因二战后的社会压抑与寻求解放而兴起<br><br>� Part 2 人物关系：爱、利用与自我囚笼<br><br>00:23:41 他将金斯堡、凯鲁亚克等未来文学巨星聚集一堂<br><br>00:24:46 聚集的目的，是为自己「镀金」的社交策略<br><br>00:34:00 悲剧内核：卢锡安陷入的无间地狱<br><br>00:36:01 自私的极致：进行「荣誉谋杀」辩护<br><br>� Part 3 文学反叛：嚎叫、课堂与创作根源<br><br>00:37:53 创作的转折：金斯堡的诗人关键时刻<br><br>00:44:28 残酷的利他：解放了金斯堡，催生了《嚎叫》<br><br>� Part 4 内核启示：反叛、根基与「杀死汝爱」<br><br>00:47:58 反叛者资格：真正的反叛者的先决条件<br><br>00:54:29 创新的根基，扎实基本功才是创新的土壤<br><br>01:00:19 众人模仿表象却不解内核<br><br>01:04:06 终极哲学：「杀死汝爱」——才能成就杰作。",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4d67-audiofreehighqps/05/C0/GAqhntANZ3KIAANPAQRrppXW.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

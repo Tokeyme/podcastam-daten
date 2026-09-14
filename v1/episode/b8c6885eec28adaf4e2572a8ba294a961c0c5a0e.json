@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007091733",
+  "apple_collection_id": "1890583581",
+  "show": "深蓝传记：硬核人物志与商业进化论",
+  "titel": "一生的旅程04 艾格跨界好莱坞的底气",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAOWgDFAHa29wTIj2Rg.m4a?channel=rss&album_id=119399125&track_id=1007091733&uid=12222419&jt=https://aod.cos.tx.xmcdn.com/storages/7180-audiofreehighqps/CA/AD/GKwRIMAOWgDFAHa29wTIj2Rg.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7780087,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T00:45:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "剖析罗伯特·艾格跨界好莱坞的决策心理法则",
+  "kurzfassung": "罗伯特·艾格跨界执掌ABC娱乐时，面对完全陌生的好莱坞黑话与剧本，坦然承认自身未知并坚守底层常识。他通过力排众议批准《天才小医生》与《双峰》等创新项目，在试错中摸索出一套针对创意人员的反馈管理法则。最终，他在巨大的商业未知与喧嚣中保持清醒，成功带领ABC登顶行业第一。",
+  "stichpunkte": [
+    "罗伯特·艾格进入ABC娱乐之初，面对好莱坞的陌生环境与大量剧本陷入极度未知。",
+    "艾格拒绝不懂装懂，选择毫无歉意地承认自己不懂，避免陷入防守模式。",
+    "他在与制作人史蒂温·布奇科的交锋中被点醒，认识到体育转播的底层常识可以跨界复用。",
+    "艾格凭借直觉力排众议批准了《天才小医生》，并成功将其转化为商业决策的锚点。",
+    "面对传统高管的反对，他大胆拍板大卫·林奇的颠覆性作品《双峰》，并借助外界声望化解阻力。",
+    "《双峰》后期因强行揭晓凶手导致收视崩塌，这让艾格付出了惨痛代价并反思了创意管理法则。",
+    "艾格后来在漫威电影《黑豹》的初剪中，学会了率先共情创意者肩负的巨大风险与脆弱感。",
+    "艾格在聚光灯下始终保持谦逊，用知你不知的谦虚与信你所知的笃定穿透了商业迷雾。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与罗伯特·艾格的未知法则",
+      "start": 0.0
+    },
+    {
+      "titel": "空降好莱坞：面对剧本与黑话的手足无措",
+      "start": 133.34
+    },
+    {
+      "titel": "拒绝不懂装懂：解构职场假装懂行的危险心理",
+      "start": 267.48
+    },
+    {
+      "titel": "跨界锚点：与史蒂温·布奇科的午餐会与自我觉醒",
+      "start": 363.14
+    },
+    {
+      "titel": "豪赌《双峰》：用创新对抗危机并引发行业震动",
+      "start": 530.86
+    },
+    {
+      "titel": "创意管理的代价：《双峰》的滑铁卢与深刻反思",
+      "start": 685.26
+    },
+    {
+      "titel": "结语：在未知与喧嚣中保持清醒的管理哲学",
+      "start": 865.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T00:45:12+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 960,
+  "veroeffentlicht": "2026-08-23T09:30:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9116-audiofreehighqps/CD/48/GKwRIDoNoWk-AAM1xASCmSvz.jpeg",
+  "folgennummer": 8,
+  "kapitel_quelle": "modell"
+}

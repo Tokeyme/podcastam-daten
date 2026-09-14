@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_922372591",
+  "apple_collection_id": "1875665041",
+  "show": "2025最新车载音乐",
+  "titel": "深夜港湾车载DJ30分钟纯音乐版",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIMyVOMAN3LNQQlAhDR.m4a?channel=rss&album_id=92451351&track_id=922372591&uid=128631820&jt=https://aod.cos.tx.xmcdn.com/storages/8813-audiofreehighqps/85/12/GKwRIaIMyVOMAN3LNQQlAhDR.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 14535477,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T20:51:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深夜港湾车载DJ30分钟纯音乐版",
+  "kurzfassung": "这是一期车载DJ纯音乐节目。节目包含了约三十分钟的连续音乐播放。内容以纯音乐和DJ节奏为主。",
+  "stichpunkte": [
+    "节目名称为深夜港湾车载DJ30分钟纯音乐版",
+    "包含持续的DJ纯音乐播放",
+    "提供车内的背景音乐体验",
+    "节奏明快适合驾驶时收听",
+    "纯音乐贯穿始终没有对话",
+    "整体时长约三十分钟"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开始",
+      "start": 22.58
+    },
+    {
+      "titel": "车载DJ纯音乐",
+      "start": 322.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T20:51:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1795,
+  "veroeffentlicht": "2025-11-03T09:30:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4134-audiofreehighqps/40/8A/GAqhqKwL7VamAASNHwOm0MGh.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

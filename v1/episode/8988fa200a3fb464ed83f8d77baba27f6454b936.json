@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "697229b6ef1cf272a7e5d95d",
+  "apple_collection_id": "1743181426",
+  "show": "文化无限",
+  "titel": "Vol.198 《钟形罩》：天才女诗人的最后哀歌",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65a3113f02532215046054b2/697229b6ef1cf272a7e5d95d/media.xyzcdn.net/65a3113f02532215046054b2/ltTdbQ7UDv9atkL2QGgevbUxZwZk.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 27826894,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T18:45:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深度剖析天才女诗人西尔维娅·普拉斯的自传体小说《钟形罩》与女性困境。",
+  "kurzfassung": "本期节目深入讨论了天才女诗人西尔维娅·普拉斯的自传体小说《钟形罩》。主播梳理了主角埃斯特在纽约的迷茫、两性关系危机以及精神崩溃的全过程。节目还探讨了书中展现的女性主义视角、医疗手段的残酷性及作者本人的真实日记。",
+  "stichpunkte": [
+    "小说主角埃斯特出身普通小镇，凭借优异成绩考入大学并获得纽约工作机会。",
+    "埃斯特面临严重的自卑与优越感交织的心理，对未来和两性关系充满迷茫与不安。",
+    "在遭受写作班落选等多重打击后，埃斯特精神状况恶化并经历了电击治疗。",
+    "小说后半段集中展现了当时精神医疗手段的残酷以及对女性肉体的压迫。",
+    "《钟形罩》作为女性主义作品，展现的并非完美楷模，而是一个坦诚且充满矛盾的普通女性。",
+    "结合作者西尔维娅·普拉斯的真实日记，可见其对男性特权的嫉妒与无法摆脱的性别悲剧。"
+  ],
+  "kapitel": [
+    {
+      "titel": "《钟形罩》的故事梗概与结构",
+      "start": 0.0
+    },
+    {
+      "titel": "主角埃斯特的性格特质与精神危机的现实原因",
+      "start": 256.0
+    },
+    {
+      "titel": "精神病院的治疗经历与对残酷医疗手段的反思",
+      "start": 512.84
+    },
+    {
+      "titel": "小说的女性主义内涵与作者真实的日记心路",
+      "start": 751.94
+    },
+    {
+      "titel": "对谈与延伸思考：时代局限性与逃离现实的困境",
+      "start": 1357.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T18:45:14+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1718,
+  "veroeffentlicht": "2026-01-27T23:00:00+00:00",
+  "beschreibung": "欢迎来到「文化无限」，本期聊的是《钟形罩》，欢迎收听！\n主播：红一区\n《钟形罩》讲述埃斯特是波士顿一所大学的全优生，获得了在纽约一家时尚杂志的实习机会。她却对纽约的生活充满了疑惑，无数的可能性让她无法确定未来，也无法回到从前她认为安全的生活状态。埃斯特最后决定当一名作家，但是却在道德、行为和自我意识的矛盾中挣扎。在这部感人至深的自传性小说中，西尔维娅•普拉斯回顾了她年轻时所经历的失望、愤怒、压抑、最终的崩溃以及后来的治疗过程，充满了让人震撼的智慧和令人心碎的坦诚。\n【猜你在找】\n节目中提到的书籍：\n西尔维娅·普拉斯《钟形罩》\n【进群】\n文化无限听友群：Tanya_0523（微信）\n【合作】\n商务合作请联系：frankaichitang@outlook.com\n感谢收听！欢迎订阅，我们下次见！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>欢迎来到「文化无限」，本期聊的是《钟形罩》，欢迎收听！</p><p>主播：红一区</p><p>《钟形罩》讲述埃斯特是波士顿一所大学的全优生，获得了在纽约一家时尚杂志的实习机会。她却对纽约的生活充满了疑惑，无数的可能性让她无法确定未来，也无法回到从前她认为安全的生活状态。埃斯特最后决定当一名作家，但是却在道德、行为和自我意识的矛盾中挣扎。在这部感人至深的自传性小说中，西尔维娅•普拉斯回顾了她年轻时所经历的失望、愤怒、压抑、最终的崩溃以及后来的治疗过程，充满了让人震撼的智慧和令人心碎的坦诚。</p><p>【猜你在找】</p><p>节目中提到的书籍：</p><p>西尔维娅·普拉斯《钟形罩》</p><p>【进群】</p><p>文化无限听友群：Tanya_0523（微信）</p><p>【合作】</p><p>商务合作请联系：frankaichitang@outlook.com</p><p>感谢收听！欢迎订阅，我们下次见！</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/697229b6ef1cf272a7e5d95d?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

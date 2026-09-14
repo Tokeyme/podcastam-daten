@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "6a82b27717676351c57319b0",
+  "apple_collection_id": "1765522497",
+  "show": "全糖主义播客",
+  "titel": "Vol59. 奥德赛是月经，这期是送大家的卫生巾",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6676d34cb97c3c816afee56b/6a82b27717676351c57319b0/media.xyzcdn.net/6676d34cb97c3c816afee56b/lslrVaSU-F5QglG3KR4Ut0adeqkh.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 68685930,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T19:00:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨人生的奥德赛时期，分享如何度过青年迷茫与职场痛苦。",
+  "kurzfassung": "本期节目由听众投稿触发，探讨了年轻人普遍会经历的“奥德赛时期”——即刚步入社会、面对生活风雨时的迷茫与痛苦。主播七七和杨梅结合自己北漂、频繁换工作及做脱口秀的亲身经历，剖析了职场霸凌、自我怀疑和容貌焦虑等共鸣话题。她们认为痛苦具有周期性，并鼓励听众接纳痛苦、调整心态，相信只要活着就会有好事的发生。",
+  "stichpunkte": [
+    "回应听众关于大学毕业后面对考公、求职迷茫的投稿，引发对“奥德赛时期”的共鸣。",
+    "主播分享刚毕业时的北漂经历，包括遭遇不靠谱的公司、恶劣的老板以及廉价劳动力压榨。",
+    "探讨职场中的自我怀疑，指出很多人将环境和运气的恶劣归结为自己的无能与抗压能力不足。",
+    "分析高敏感人群的优势，认为感知痛苦和情感体验丰富也是一种特殊的能力与天赋。",
+    "回顾转行做脱口秀的历程，尽管同样面临天赋与自律的质疑，但创作带来了极大的热情与乐趣。",
+    "强调“奥德赛时期”具有周期性，就像月经一样会反复出现，但随着经历增加会学会如何与之相处。",
+    "分享改变人生叙事的能力，把当下的痛苦当作未来写进自传或讲成笑话的素材。",
+    "传递“只要活着就会有好消息发生”的信念，鼓励所有处于迷茫期的年轻人勇敢前行。"
+  ],
+  "kapitel": [
+    {
+      "titel": "听众投稿与“奥德赛时期”的共鸣",
+      "start": 28.32
+    },
+    {
+      "titel": "北漂与职场初期的痛苦回忆",
+      "start": 244.96
+    },
+    {
+      "titel": "自我怀疑与将环境问题归咎于自身",
+      "start": 1767.34
+    },
+    {
+      "titel": "转行做脱口秀与心态的转变",
+      "start": 2052.34
+    },
+    {
+      "titel": "把痛苦当作天赋与人生体验",
+      "start": 3357.3
+    },
+    {
+      "titel": "结语：只要活着就会有好事的发生",
+      "start": 4031.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T19:00:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4246,
+  "veroeffentlicht": "2026-08-19T00:00:00+00:00",
+  "beschreibung": "聊聊关于[奥德赛]这件事\n【本期寄语】\n本期，梅漆回答了糖粉@椰子海带 关于“如何度过奥德赛时期”的求助。\n奥德赛像月经，总会在人生的某个阶段反复到访。考试失败、工作碰壁、看着同龄人陆续上岸，我们难免怀疑：是不是只有我，怎么努力都没有用？\n后来才明白，迷茫未必是人生出了故障，只是身处故事之中，还看不见它将通向哪里。\n所以这期，我们想做一片卫生巾，接住你羞于示人的狼狈，陪你慢慢学会在难熬的日子里照顾自己。\n【主播】\n主持-漆漆（讲脱口秀的漆漆（日常版）：脱口秀演员/《喜剧之王单口季》选手/待大爆女明星\n主播-杨梅（@脱口秀演员杨梅）：脱口秀演员/喜番喜剧联合创始人/待爆女明星\n【本期速听】\n07:54你以为永远走不出这片迷雾\n31:38 自我怀疑时，你会更痛苦\n35:27 我不在乎，我有自己的天地\n43:21我们总是全部归结于自己的无能\n01:01:30 感知痛苦是一种天赋\n01:06:55你一定会有一场属于你的成功\n01:10:37 你以为过不去的，全都会过去的\n01:13:50 痛苦的体验也是体验，你是人生的主人\n【全糖社群】\n欢迎各位糖粉添加客服卫星quantangzhuyi520进入听众群和主播一起唠嗑！\n更多电台内容欢迎关注WB、小红薯同名账号“全糖主义播客”~\n欢迎大家加入“全糖”，祝愿彼此的生活每天“全糖”！\n【音乐】\nBest Friend - Doja Cat\n【商务合作】\n欢迎添加VX[Mattq0]，备注商业合作即可~~~\n——————\n【全糖的背后是幕后团队鼎力支持】\n剪辑/制作人：小矮马（人类永远会敬佩那些，用人类之手创造而出的东西）\n运营/文案：轰宝（庭中有奇树）\n【特别鸣谢】北京喜番喜剧提供的器材与场地支持\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>聊聊关于[奥德赛]这件事</p><p>【本期寄语】</p><p>本期，梅漆回答了糖粉@椰子海带 关于“如何度过奥德赛时期”的求助。</p><p>奥德赛像月经，总会在人生的某个阶段反复到访。考试失败、工作碰壁、看着同龄人陆续上岸，我们难免怀疑：是不是只有我，怎么努力都没有用？</p><p>后来才明白，迷茫未必是人生出了故障，只是身处故事之中，还看不见它将通向哪里。</p><p>所以这期，我们想做一片卫生巾，接住你羞于示人的狼狈，陪你慢慢学会在难熬的日子里照顾自己。</p><p>【主播】</p><p>主持-漆漆（<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/56403a640bf90c24d0fc0b0a?xsec_token=ABT45ntKNSJ-fzu3H4wdsM0fh55EmentlOKSpmnQgUvv4%3D&amp;xsec_source=pc_search\">讲脱口秀的漆漆（日常版</a>）：脱口秀演员/《喜剧之王单口季》选手/待大爆女明星</p><p>主播-杨梅（<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/59809ce75e87e72d6a15dbe5?xsec_token=ABuiXEfWQPsceYQfEHvmLl1xNYABJpIUugYxF2SHxEVFI=&amp;xsec_source=pc_note\">@脱口秀演员杨梅</a>）：脱口秀演员/喜番喜剧联合创始人/待爆女明星</p><p>【本期速听】</p><p><a class=\"timestamp\">07:54</a>你以为永远走不出这片迷雾</p><p><a class=\"timestamp\">31:38</a> 自我怀疑时，你会更痛苦</p><p><a class=\"timestamp\">35:27</a>&nbsp;我不在乎，我有自己的天地</p><p><a class=\"timestamp\">43:21</a>我们总是全部归结于自己的无能</p><p><a class=\"timestamp\">01:01:30</a>&nbsp;感知痛苦是一种天赋</p><p><a class=\"timestamp\">01:06:55</a>你一定会有一场属于你的成功</p><p><a class=\"timestamp\">01:10:37</a> 你以为过不去的，全都会过去的</p><p><a class=\"timestamp\">01:13:50</a>&nbsp;痛苦的体验也是体验，你是人生的主人</p><p>【全糖社群】</p><p>欢迎各位糖粉添加客服卫星quantangzhuyi520进入听众群和主播一起唠嗑！</p><p>更多电台内容欢迎关注WB、小红薯同名账号“<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/66c6e8c9000000001d030a81?tab=liked&amp;subTab=note\">全糖主义播客</a>”~</p><p>欢迎大家加入“全糖”，祝愿彼此的生活每天“全糖”！</p><p>【音乐】</p><p>Best Friend - Doja Cat</p><p>【商务合作】</p><p>欢迎添加VX[Mattq0]，备注商业合作即可~~~</p><p>——————</p><p>【全糖的背后是幕后团队鼎力支持】</p><p>剪辑/制作人：小矮马（人类永远会敬佩那些，用人类之手创造而出的东西）</p><p>运营/文案：轰宝（庭中有奇树）</p><p>【特别鸣谢】北京喜番喜剧提供的器材与场地支持</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a82b27717676351c57319b0?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FtVe0ajxgrWB-vNCjKlVMk8kt13T.jpg",
+  "kapitel_quelle": "modell"
+}

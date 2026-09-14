@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_758211181",
+  "apple_collection_id": "1772216954",
+  "show": "假如生活在宋朝丨渗透式体验两宋繁华丨趣味百姓生活",
+  "titel": "01 喝茶篇：闺蜜的下午茶（一）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4KwtmKACJO7QMSlpD9.m4a?channel=rss&album_id=83656246&track_id=758211181&uid=93236618&jt=https://aod.cos.tx.xmcdn.com/storages/0ec2-audiofreehighqps/27/60/GKwRIW4KwtmKACJO7QMSlpD9.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2248429,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:43:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探索宋代繁荣的市井经济与独特的文人生活风貌。",
+  "kurzfassung": "本集带领听众穿越回经济文化高度发展的宋朝，体验当时丰富多彩的市井生活。节目详细介绍了宋代的无宵禁夜市、丰富多元的娱乐活动以及文人雅士专属的精致下午茶。通过主角李小娘子筹备闺蜜茶话会的故事，展现了宋代点茶文化的独特魅力。",
+  "stichpunkte": [
+    "宋朝商品经济高度发达，农业技术进步带来粮食产量的大幅提升",
+    "宋代城市没有宵禁，夜市通宵达旦且小吃繁多",
+    "女性可从事演艺、相扑等娱乐工作，也能学习马球和锤丸",
+    "宋代下午茶官方称为点茶，是日本抹茶的鼻祖",
+    "点茶需将烘干茶饼碾成粉末、冲沸水并用茶筛搅拌",
+    "李小娘子是宋代文艺女青年，精通点茶且热衷诗词书画",
+    "闺蜜聚会前通常会交流八卦，现场气氛热闹非凡",
+    "李小娘子携带亲自晒制的福建茶饼出席茶话会并大受欢迎"
+  ],
+  "kapitel": [
+    {
+      "titel": "宋朝的繁荣生活",
+      "start": 1.38
+    },
+    {
+      "titel": "点茶技艺与准备",
+      "start": 124.66
+    },
+    {
+      "titel": "闺蜜下午茶聚会",
+      "start": 265.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:43:48+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 368,
+  "veroeffentlicht": "2024-09-22T23:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c538-audiofreehighqps/87/EE/GAqhexEKwta6AAXC-wMSlaXD.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

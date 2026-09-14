@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_965436565",
+  "apple_collection_id": "1867372445",
+  "show": "辞旧迎新力：一场关于“结束”与“开始”的对谈",
+  "titel": "你真的在忙吗？还是在自我消耗？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJINmSp7AEvscgR_Sw5Y.m4a?channel=rss&album_id=114129627&track_id=965436565&uid=26884723&jt=https://aod.cos.tx.xmcdn.com/storages/1ed3-audiofreehighqps/22/E8/GKwRIJINmSp7AEvscgR_Sw5Y.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4975730,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:14:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨当代职场人的自我消耗，反思过度劳累与心源性猝死背后的生存状态。",
+  "kurzfassung": "节目以张雪峰因心源性猝死离世的事例切入，直面当代职场人“一边养生一边焦虑”的分裂状态。通过分析空转内耗、身体报警信号以及建立心理安全区等生存开关，提醒听众停止自我消耗。最终呼吁公众警惕有毒的励志观念，建立可持续且有韧性的人生系统。",
+  "stichpunkte": [
+    "张雪峰因心源性猝死离世，暴露出长期过度劳累与精神高压的致命危险。",
+    "当代职场人常处于“一边养生一边焦虑”的危险分裂状态中。",
+    "区分有价值的忙碌与空转内耗，警惕精神能量被纠结与完美主义掏空。",
+    "识别身体发出的摩尔斯电码，将持续疲劳和不明心慌视为系统报警而非小问题。",
+    "设立与工作绩效无关的日常仪式感，作为大脑的心理紧急降压舱。",
+    "警惕教导高效熬夜或年轻拼命的有毒鸡汤，认识到健康是奋斗的可持续前提。"
+  ],
+  "kapitel": [
+    {
+      "titel": "悲剧切入与当代职场人的分裂状态",
+      "start": 5.22
+    },
+    {
+      "titel": "第一把钥匙：重新定义你的忙，警惕空转内耗",
+      "start": 118.44
+    },
+    {
+      "titel": "第二道防线：听懂身体的摩尔斯电码与报警信号",
+      "start": 252.66
+    },
+    {
+      "titel": "第三座：建立无关绩效的心理安全区与降压舱",
+      "start": 387.32
+    },
+    {
+      "titel": "警惕有毒的励志观念，构建可持续的人生系统",
+      "start": 485.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:14:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 614,
+  "veroeffentlicht": "2026-03-25T12:00:00+00:00",
+  "beschreibung": "在快节奏的生活中，我们常常忽视身体和心理的信号，张雪峰的猝死让我们警醒。播客中探讨了如何识别工作与健康之间的矛盾，强调重新定义忙碌的意义，关注情绪耗能的评估。我们需要倾听身体的求救信号，设立心理安全阀，抵制有毒的励志观念。真正的成功在于可持续的健康，而...",
+  "beschreibung_html": "在快节奏的生活中，我们常常忽视身体和心理的信号，张雪峰的猝死让我们警醒。播客中探讨了如何识别工作与健康之间的矛盾，强调重新定义忙碌的意义，关注情绪耗能的评估。我们需要倾听身体的求救信号，设立心理安全阀，抵制有毒的励志观念。真正的成功在于可持续的健康，而...",
+  "bild_url": "https://fdfs.xmcdn.com/storages/bf99-audiofreehighqps/E3/F3/GKwRIW4NmSmsAAYgcgR_Sr7q.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

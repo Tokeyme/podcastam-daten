@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "69512ab114db1df9ef228430",
+  "apple_collection_id": "1645827896",
+  "show": "【英语播客】Niki的英文语音备忘录",
+  "titel": "英语学习的阴（潜移默化）与阳（刻意训练）",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/620660167f4cf370411d6ffc/69512ab114db1df9ef228430/media.xyzcdn.net/niJ_0iX1O-6rsFsqzXlBkVBp65AO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 42566561,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T19:19:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨英语学习中的自然吸收与刻意训练，并解答听众关于口语和发音的疑问。",
+  "kurzfassung": "本期节目探讨了英语学习中潜移默化的自然吸收与主动的刻意训练两种方法，并指出两者结合的重要性。主播通过回答听众提问，详细分享了如何通过日常自言自语练习口语、改善发音以及应对不同口音和语速的技巧。节目最后强调了保持耐心和逐步提升心智空间在语言学习中的关键作用。",
+  "stichpunkte": [
+    "英语学习的第一种方法是自然吸收，通过沉浸在美剧或播客等简单材料中培养语感。",
+    "第二种方法是刻意训练，通过学习语法结构和使用AI工具将英语提升到更高层次。",
+    "建议将70%的时间用于自然吸收，30%的时间用于刻意训练。",
+    "通过每天花十分钟到二十分钟与自己用英语对话，可以有效提升口语表达能力。",
+    "改善发音需要辨别不准确的发音，并愿意花大量时间纠正已经形成的错误习惯。",
+    "语调练习可以从升调、降调和平调的转换开始，逐步让语音更有情感色彩。",
+    "面对陌生口音和过快语速时，可以通过收听不同地区的节目或直接请对方重复来应对。"
+  ],
+  "kapitel": [
+    {
+      "titel": "主播的英语学习方法：自然吸收与刻意训练",
+      "start": 582.66
+    },
+    {
+      "titel": "如何通过日常自言自语练习英语口语",
+      "start": 1027.04
+    },
+    {
+      "titel": "系统性提升英语发音的步骤与实例",
+      "start": 1212.98
+    },
+    {
+      "titel": "英语语调的变化技巧与大脑的认知负荷",
+      "start": 1407.74
+    },
+    {
+      "titel": "如何听懂重口音与过快的语速",
+      "start": 1561.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T19:19:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1731,
+  "veroeffentlicht": "2025-12-28T13:12:02+00:00",
+  "beschreibung": "这集大家可以放在收藏当中反复听听听听听哈哈哈。\n01:49我的English learning journey 以及challenges\n09:44英语学习的两种重要方法\n17:07如何练习英语口语\n20:13如何提高英语发音\n23:29英语语调如何变化\n26:02面对对方语速太快或有口音怎么办\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>这集大家可以放在收藏当中反复听听听听听哈哈哈。</p><p>01:49我的English learning journey 以及challenges</p><p>09:44英语学习的两种重要方法</p><p>17:07如何练习英语口语</p><p>20:13如何提高英语发音</p><p>23:29英语语调如何变化</p><p>26:02面对对方语速太快或有口音怎么办</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69512ab114db1df9ef228430?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

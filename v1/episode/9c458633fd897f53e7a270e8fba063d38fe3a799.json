@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "6a56325427a4eec16c409bbf",
+  "apple_collection_id": "1883688655",
+  "show": "泉恩睡前读书会",
+  "titel": "不会劝架的人，都在做这件事【睡前读书会356】",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68624f89f7020d0010846ec7/6a56325427a4eec16c409bbf/media.xyzcdn.net/68624f89f7020d0010846ec7/ltGRfLDtCQ0D2Tnrz8ShmfHM2dte.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19131793,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T06:19:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨为什么调解冲突时容易无意中站边，以及如何迈向情感自主。",
+  "kurzfassung": "本期节目探讨了在调解他人冲突时，人们如何不知不觉成为某一边的帮凶。主持人们结合阅读内容与个人经历，分析了在面对家庭矛盾时的左右为难。最后，通过划分情绪奴隶、面目可憎和生活的主人三个阶段，寻找不卑不亢地处理人际冲突的出路。",
+  "stichpunkte": [
+    "调解家庭冲突时，旁观者常在不知不觉中沦为某一边的帮凶。",
+    "精神科医生家访时试图调解学生与母亲的冲突，最终却与成年人联合将孩子逼至崩溃。",
+    "面对亲近之人的争吵，人们常常陷入两难，不知该站哪一边。",
+    "心理咨询中常提到不站边的口诀，但它只告诉人们不做什么，却未说明具体该怎么做。",
+    "人际应对可分为情绪的奴隶、面目可憎和生活的主人三个阶段。",
+    "情绪的奴隶习惯讨好、压抑自我并为他人的情绪负责。",
+    "面目可憎表现为拒绝为他人情绪负责、边界僵硬且极度自我。",
+    "生活的主人则是指情感自主，对自身百分之百负责，兼顾自我边界与他人关怀。"
+  ],
+  "kapitel": [
+    {
+      "titel": "调解冲突时的无意站边",
+      "start": 0.0
+    },
+    {
+      "titel": "精神科医生的调解案例",
+      "start": 145.54
+    },
+    {
+      "titel": "调解者的两难与不站边的困境",
+      "start": 330.78
+    },
+    {
+      "titel": "应对冲突的三阶段：从奴隶到主人",
+      "start": 432.92
+    },
+    {
+      "titel": "迈向情感自主与平衡",
+      "start": 662.2
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T06:19:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1182,
+  "veroeffentlicht": "2026-07-14T13:00:35+00:00",
+  "beschreibung": "本想帮最爱的人和解，为什么到最后，自己却成了某一方的“帮凶”？这期节目，我们聊了一个很多人经历过、却很少有人愿意承认的话题——调解亲人冲突时，那份说不清的后悔和内疚。从童年的家庭记忆，到一个精神科医生的失败调解案例，我们一层层剥开“好心办坏事”背后的心理真相。你会听到：为什么“两边都不站”反而让人更难受？真正的情绪自由，到底是什么样？如果你也曾在夹缝中左右为难，这期节目，就是为你准备的。\n\n互动话题：劝架时，你说过最后悔的一句话是什么？\n00:00 你经历过这种调解噩梦吗？\n02:23 你曾不知不觉站过边吗？\n05:30 你是情绪的奴隶吗？\n12:28 你的帮忙出自恐惧、讨好吗？\n17:20 你打算如何迈出下一步？\n\n谢谢大家的陪伴。\n睡前读书会，你身边的阅读伙伴。\n如果你喜欢本期节目，欢迎评论、转发、点赞、关注。因为你非常重要！\n我们下期见！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<blockquote><p>本想帮最爱的人和解，为什么到最后，自己却成了某一方的“帮凶”？这期节目，我们聊了一个很多人经历过、却很少有人愿意承认的话题——调解亲人冲突时，那份说不清的后悔和内疚。从童年的家庭记忆，到一个精神科医生的失败调解案例，我们一层层剥开“好心办坏事”背后的心理真相。你会听到：为什么“两边都不站”反而让人更难受？真正的情绪自由，到底是什么样？如果你也曾在夹缝中左右为难，这期节目，就是为你准备的。</p></blockquote><p>互动话题：劝架时，你说过最后悔的一句话是什么？</p><blockquote><p><a class=\"timestamp\">00:00</a> 你经历过这种调解噩梦吗？ </p><p><a class=\"timestamp\">02:23</a> 你曾不知不觉站过边吗？</p><p><a class=\"timestamp\">05:30</a> 你是情绪的奴隶吗？ </p><p><a class=\"timestamp\">12:28</a> 你的帮忙出自恐惧、讨好吗？</p><p><a class=\"timestamp\">17:20</a> 你打算如何迈出下一步？</p></blockquote><p>谢谢大家的陪伴。</p><p>睡前读书会，你身边的阅读伙伴。</p><p>如果你喜欢本期节目，欢迎评论、转发、点赞、关注。因为你非常重要！</p><p>我们下期见！</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a56325427a4eec16c409bbf?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FsT4E4_ZyESPpSh-Wbl08dsNBelI.jpeg",
+  "kapitel_quelle": "modell"
+}

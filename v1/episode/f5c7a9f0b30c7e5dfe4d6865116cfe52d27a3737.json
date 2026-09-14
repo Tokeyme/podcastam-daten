@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_648272308",
+  "apple_collection_id": "1697425521",
+  "show": "手机废人：被生活淹没、为工作所迫、被科技绑架",
+  "titel": "001：前言",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEIhVLsADwqDAI3f8hA.m4a?channel=rss&album_id=76994201&track_id=648272308&uid=42087099&jt=https://aod.cos.tx.xmcdn.com/storages/1723-audiofreehighqps/34/59/GKwRIJEIhVLsADwqDAI3f8hA.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3942924,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T15:03:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨数字技术与智能手机如何深刻改变现代人的生活与人际关系。",
+  "kurzfassung": "本期节目探讨了数字技术与智能手机如何深刻改变现代人的生活与人际关系。从电子母子健康手册到因东日本大地震而诞生的即时通讯软件LINE及其“已读”功能，科技在提供便利的同时也带来了社交压力与孤立现象。最后回顾了智能手机在日本的普及历程，指出人们面对飞速发展的智能科技尚缺乏充分准备。",
+  "stichpunkte": [
+    "神奈川县横须贺市等地推出了电子版母子健康APP，方便父母记录育儿过程并引入AI咨询。",
+    "即时通讯软件LINE拥有庞大用户群体，其核心特色之一是能够显示信息是否已被阅读的“已读”提示功能。",
+    "LINE的“已读”功能源于2011年东日本大地震后的紧急开发，旨在让人们在灾难和危机时刻与重要的人保持联系。",
+    "随着LINE的普及，“已读不回”等现象引发了焦虑、网络霸凌、孤立以及青少年间的人际交往压力。",
+    "智能手机的普及深刻改变了传统的生活形态和人际关系，且这一过程在短短几年内迅速发生。",
+    "苹果iPhone于2008年在日本首次发售，随后安卓系统手机进入市场，日本智能手机普及率直到2015年才超过传统手机。"
+  ],
+  "kapitel": [
+    {
+      "titel": "电子母子手册与育儿AI应用",
+      "start": 0.0
+    },
+    {
+      "titel": "LINE的诞生与东日本大地震",
+      "start": 105.82
+    },
+    {
+      "titel": "“已读”功能带来的社交压力与困扰",
+      "start": 285.2
+    },
+    {
+      "titel": "智能手机在日本的普及与未来展望",
+      "start": 395.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T15:03:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 486,
+  "veroeffentlicht": "2023-07-13T14:16:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/cec0-audiofreehighqps/29/8B/GMCoOSYIhTQiAAghsQI3cPMr.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

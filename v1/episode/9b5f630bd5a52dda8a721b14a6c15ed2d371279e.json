@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007520084",
+  "apple_collection_id": "1721547653",
+  "show": "话里话外话健康",
+  "titel": "461、口发甜、胸闷、怕冷、嗓子哑？都是湿气在作怪【话里话外话健康】",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOXJe1AEeWTQTJoQN7.m4a?channel=rss&album_id=79471146&track_id=1007520084&uid=308482786&jt=https://aod.cos.tx.xmcdn.com/storages/ab36-audiofreehighqps/79/34/GKwRIDoOXJe1AEeWTQTJoQN7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4691533,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T20:58:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨湿气与声音嘶哑的关系及其中医调养方法",
+  "kurzfassung": "本期节目探讨了体内湿气如何引起声音嘶哑等咽喉问题。孙剑通过浙江温州李女士和河北保定周先生的真实调养案例，分析了痰湿阻滞脾肺、影响宗气生成从而导致嗓音异常的机理。节目最后提示听众，调理咽喉不适可以从健脾化湿入手，但具体方剂须在中医师指导下使用。",
+  "stichpunkte": [
+    "声音嘶哑在中医里称为阴哑，部分顽固案例其实与体内湿气重密切相关。",
+    "听众李女士持续两年的声音嘶哑、喉咙甜、泡沫痰及怕冷，经诊断为中上焦受湿邪困阻。",
+    "湿气会影响津液输布导致咽喉干燥，并阻碍脾肺气机生成宗气，进而使人声音嘶哑。",
+    "针对李女士的方案以芳香化湿、宣肺开音为主，使用藿香、白豆蔻、半夏、胖大海等药材。",
+    "初期的化湿方案见效后，后续通过扶阳版的百珍元气膏补足正气与阳气，李女士最终恢复健康。",
+    "河北保定周先生通过香沙六君子汤打底加化湿药物调理肠胃，其多年的咽炎也随之不治而愈。",
+    "体内痰湿犹如障碍物，阻碍了身体对咽喉的滋养，因此很多咽炎和嗓子难受可从健脾化湿入手。",
+    "湿气难除，节目提醒听众调养需要耐心，且所有方剂切忌盲目使用，须在中医师辨证指导下进行。"
+  ],
+  "kapitel": [
+    {
+      "titel": "湿气与声音嘶哑的关系",
+      "start": 0.0
+    },
+    {
+      "titel": "李女士的调理案例与病因分析",
+      "start": 43.62
+    },
+    {
+      "titel": "周先生的案例及健脾化湿的调理思路",
+      "start": 437.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T20:58:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 579,
+  "veroeffentlicht": "2026-08-23T01:59:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/675f-audiofreehighqps/1C/BE/GKwRIW4JRKgWAAFmvgKHBqJM.jpg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

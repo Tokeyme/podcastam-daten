@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_598678916",
+  "apple_collection_id": "1539110970",
+  "show": "随新而育 - 在新加坡育儿",
+  "titel": "再谈新加坡高才班备考",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSUHecBOABAAAAHjd4wO.m4a?channel=rss&album_id=21122934&track_id=598678916&uid=60886851&jt=https://aod.cos.tx.xmcdn.com/storages/4007-audiofreehighqps/FB/AE/GMCoOSUHecBOABAAAAHjd4wO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 31343175,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T08:55:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "分享新加坡高才班备考经验，探讨补习班选择与自主复习策略。",
+  "kurzfassung": "本期节目分享了新加坡高才班（天才班）备考的心得体会，涵盖家长跟踪辅导与发掘孩子潜力的重要性。主播分析了不同类型补习班的优劣，并说明了为何最终选择自主陪伴孩子复习。最后，节目总结了第二轮考试的题量大、涂卡技巧以及与本校期末考时间冲突等现实应对策略。",
+  "stichpunkte": [
+    "家长的深度参与和跟踪有助于及时调整对孩子潜力的认知",
+    "国内体系补习班服务周到但作业繁重，新加坡本地机构则通常无课外作业",
+    "选择由资深教师授课的本地补习机构，能够提供专业且实事求是的反馈",
+    "在第二轮考试前果断停掉补习班，转为自己购买资料在家高效复习",
+    "考前突击班进度过快不利于消化，自主做题加针对性讲解效果更好",
+    "第二轮高才班考试与学校期末考时间接近，需合理平衡两者时间",
+    "第二轮考试题量极大，平时多做练习有助于提升做题速度与熟练度",
+    "提醒孩子注意答题卡的填涂时间与规范，避免因细节失误影响成绩"
+  ],
+  "kapitel": [
+    {
+      "titel": "家长陪伴与潜力认知",
+      "start": 600.0
+    },
+    {
+      "titel": "补习班的选择与比较",
+      "start": 692.32
+    },
+    {
+      "titel": "自主复习与资料使用",
+      "start": 961.6
+    },
+    {
+      "titel": "第二轮考试的应对与反思",
+      "start": 1147.02
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T08:55:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1300,
+  "veroeffentlicht": "2022-12-22T06:56:51+00:00",
+  "beschreibung": "今年，我的老二考上了高才班。再来总结一下今年帮孩子备考的一些心得。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">今年，我的老二考上了高才班。再来总结一下今年帮孩子备考的一些心得。</p><span><br></span>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/58cf-audiofreehighqps/24/7E/CMCoOSEEDNUIAATQDgCLlNYR.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group19/M0B/96/FF/wKgJK1gJlR3SJPyZAH-oT-iTsyE011-aacv2-48K.m4a",
+  "apple_collection_id": "1732203100",
+  "show": "圣人请卸妆｜历史文化脱口秀",
+  "titel": "史上最会吃软饭的男人-司马相如",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJK1gJlR3SJPyZAH-oT-iTsyE011-aacv2-48K.m4a?channel=rss&album_id=5126266&track_id=23631502&uid=8080041&jt=https://aod.cos.tx.xmcdn.com/group19/M0B/96/FF/wKgJK1gJlR3SJPyZAH-oT-iTsyE011-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6290736,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:47:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "文人也有软饭男？揭秘汉代才子司马相如与卓文君的传奇人生",
+  "kurzfassung": "本期节目讲述了汉代大才子兼大情圣司马相如的人生经历。文章介绍了他的早年仕途、文学创作以及他与富家小姐卓文君私奔、开酒馆和险些纳妾的爱情故事。最后提及他凭借才华名利双收，成为历史上著名的“软饭硬吃”代表人物。",
+  "stichpunkte": [
+    "司马相如原名司马长青，因仰慕蔺相如而改名，早年通过花钱买官担任汉景帝的武骑常侍。",
+    "他在辞官后结识文士并写出名作《子虚赋》，深得梁王赏识。",
+    "汉武帝继位后读到《子虚赋》大加赞赏，经宫廷太监推荐，司马相如得以面见汉武帝并创作《上林赋》。",
+    "他在奉命开通夜郎及安抚西南少数民族时发挥了重要作用，后因被告发贪污贿赂而罢官。",
+    "司马相如在老家通过弹奏《凤求凰》吸引了富商之女卓文君，两人随后为爱私奔。",
+    "面对贫困的生活，两人回到卓文君老家开小酒馆，最终迫使岳父卓王孙承认并资助他们大量财富。",
+    "司马相如曾一度想要纳妾，卓文君为此写下《白头吟》，成功挽回了丈夫的心。"
+  ],
+  "kapitel": [
+    {
+      "titel": "早年仕途与文学创作",
+      "start": 78.32
+    },
+    {
+      "titel": "汉武帝赏识与西南使命",
+      "start": 356.92
+    },
+    {
+      "titel": "与卓文君私奔及开酒馆",
+      "start": 661.96
+    },
+    {
+      "titel": "《白头吟》与情感波折",
+      "start": 911.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:47:45+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1033,
+  "veroeffentlicht": "2016-10-21T04:09:36+00:00",
+  "beschreibung": "史上最会吃软饭的男人是谁？\n这《自虚赋》到底写的啥意思呀？\n千金小姐卓文君为啥跟他私奔？\n她写了一封什么信居然秒掉了小三？",
+  "beschreibung_html": "<p>史上最会吃软饭的男人是谁？</p><p>这《自虚赋》到底写的啥意思呀？</p><p>千金小姐卓文君为啥跟他私奔？</p><p>她写了一封什么信居然秒掉了小三？</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group18/M01/C2/A1/wKgJKlfCqjfjy21nAABdKHRMd_c401.jpg",
+  "folgennummer": 624,
+  "kapitel_quelle": "modell"
+}

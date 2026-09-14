@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "https://hosting.wavpub.cn/dao-sub/?p=1380",
+  "apple_collection_id": "1492740686",
+  "show": "科技乱炖",
+  "titel": "没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPTK_kBMZF7cce2PscdMn-482034f8644e.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 62324054,
+    "format": "mp3",
+    "geprueft_am": "2026-08-27T00:40:26+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "探讨无方向盘出行发展，NVIDIA与小马智行深度解析智能驾驶。",
+  "kurzfassung": "本期节目探讨了自动驾驶与Robotaxi的现状与未来，邀请NVIDIA和小马智行的嘉宾共同解析技术与商业落地的挑战。节目澄清了L2与L4并非简单的线性升级，而是两条截然不同的赛道。同时讨论了算力芯片、仿真测试、长尾场景以及运营成本等核心议题。",
+  "stichpunkte": [
+    "Robotaxi的主要出行场景集中在城市内部，占比高达99%。",
+    "L2与L4不是自然升级的关系，而是完全不同的技术与责任赛道。",
+    "L3作为混合态存在一定局限性，面临驾驶员接管与责任界定的难题。",
+    "NVIDIA为车企和Robotaxi提供包括芯片、AI软件和仿真平台在内的完整底座支持。",
+    "Robotaxi不只是车辆技术，更是一套车队管理、充电与全生命周期维护的运营体系。",
+    "小马智行在确保安全和合规的前提下，在国内外多个城市推进商业化落地。",
+    "车规级芯片和极致的工程优化是实现Robotaxi大规模商业盈利的关键。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与嘉宾介绍",
+      "start": 0.0
+    },
+    {
+      "titel": "L2、L3与L4的分级辨析",
+      "start": 63.2
+    },
+    {
+      "titel": "NVIDIA的软硬件解决方案与底座能力",
+      "start": 1205.56
+    },
+    {
+      "titel": "Robotaxi的商业运营与成本账",
+      "start": 2182.12
+    },
+    {
+      "titel": "长尾场景、世界模型与未来展望",
+      "start": 3653.64
+    }
+  ],
+  "clips": [
+    {
+      "hook": "不会给AI开罚单",
+      "start": 552.777,
+      "ende": 572.891,
+      "laenge": 20.11,
+      "byte_start": 6980093,
+      "byte_ende": 7221463,
+      "bytes": 241371,
+      "range_header": "bytes=6980093-7221463",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 552.856,
+      "anker_sha256": "459304aba3138125c7300caac55dadfd818d865b2a9f8a42947e80cb7c99427b",
+      "einblendung_ms": 60,
+      "text": "现行交通法规依然将责任归咎于坐在驾驶座上的人类，无法直接对人工智能开具罚单。"
+    },
+    {
+      "hook": "系统越做越好，人反而不会接管了",
+      "start": 1121.959,
+      "ende": 1142.047,
+      "laenge": 20.09,
+      "byte_start": 13810277,
+      "byte_ende": 14051334,
+      "bytes": 241058,
+      "range_header": "bytes=13810277-14051334",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1122.038,
+      "anker_sha256": "1fe7c2bd1759571e8433f33712b943c1efe96a87a23eec529102f65dc418b21e",
+      "einblendung_ms": 60,
+      "text": "当自动驾驶系统变得足够成熟，人类驾驶员长期无需介入后，一旦突发紧急情况将极易反应不及。"
+    },
+    {
+      "hook": "营运车辆有强制报废标准",
+      "start": 2431.373,
+      "ende": 2451.461,
+      "laenge": 20.09,
+      "byte_start": 29523244,
+      "byte_ende": 29764301,
+      "bytes": 241058,
+      "range_header": "bytes=29523244-29764301",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2431.451,
+      "anker_sha256": "1fcf671f39a0fa514c35274871ab8c71b68144b3fda02c570af32dbe2b8f3ed3",
+      "einblendung_ms": 60,
+      "text": "载客营运车辆达到六十万公里后面临强制报废的规定，私家车则没有这一里程限制。"
+    },
+    {
+      "hook": "内存直接砍了一半",
+      "start": 3313.633,
+      "ende": 3333.721,
+      "laenge": 20.09,
+      "byte_start": 40110359,
+      "byte_ende": 40351416,
+      "bytes": 241058,
+      "range_header": "bytes=40110359-40351416",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 3313.711,
+      "anker_sha256": "0be3dce9d018d692fe755c0bca4ef26fd1171d86a150ad77d4641e79eeef4fce",
+      "einblendung_ms": 60,
+      "text": "技术团队成功将原本需要六十四吉字节的内存需求优化压缩了一半至三十二吉字节。"
+    },
+    {
+      "hook": "坐无人车五分钟后的态度转变",
+      "start": 4230.348,
+      "ende": 4250.462,
+      "laenge": 20.11,
+      "byte_start": 51110940,
+      "byte_ende": 51352311,
+      "bytes": 241372,
+      "range_header": "bytes=51110940-51352311",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 4230.426,
+      "anker_sha256": "0ef352c730ce80f7918791e476a7d5a35837bef2f8095078503568cce46c739d",
+      "einblendung_ms": 60,
+      "text": "多数乘客在体验的头五分钟以及通过第一个路口时，常常会担忧信号灯识别的准确性而感到紧张。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-27T00:40:26+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5164,
+  "veroeffentlicht": "2026-08-12T23:20:00+08:00",
+  "beschreibung": "第一次坐上一辆没有司机的车，大多数人很难不紧张：它真的会看红绿灯吗？会避让突然冲出来的人吗？前面堵住了，它会像老司机一样判断、变道，还是原地发呆？但也很有意思，很多人只需要五分钟，就会从“它行不行啊”变成“好像真的比我开得稳”。\n\n这期节目，我们从 Robotaxi（无人驾驶出租车）这个具体场景出发，聊透智能驾驶正在发生的关键变化。它不是简单的没有司机这个角色，也不是把今天车上的辅助驾驶功能一路升级到“无人驾驶”。L2、L3、L4 这些听起来像台阶的等级，背后其实是完全不同的责任边界、技术路线、计算平台和商业模式。\n\n这也是为什么，我们会把 NVIDIA 请到这期节目里。很多人对 NVIDIA 的印象还是显卡、GPU、AI 算力，但在智能汽车和自动驾驶领域，它提供的并不只是“芯片”，而是一整套从车端计算、软件开发、模型训练、仿真测试到功能安全的底层平台。换句话说，汽车要真正能“自己跑起来”，需要一套能支撑它持续学习、验证、升级和安全运行的技术底座。\n\n小马智行的张宁老师则从运营和商业化角度，把 Robotaxi 的另一面讲得很透：无人驾驶不是一次次简单的 demo，也不是几辆车在示范区里跑一圈就算完成。真正的 Robotaxi 要管理的是一整支车队，包括调度、充电、清洁、维修、保养、事故处理、乘客体验，以及车辆从投入运营到退役的全生命周期成本。车能开只是第一步，车队能不能规模化、安全地跑，并且算得过账，才是商业化真正的门槛。\n\n您将在本期节目里听到：\n\n00:00 辅助驾驶和自动驾驶到底差在哪\n07:36 L2、L3、L4 的关键区别\n20:19 软件平台和安全架构支撑自动驾驶落地\n28:05 NVIDIA 的三台计算机是什么\n36:22 Robotaxi 的商业本质\n01:01:33 长尾场景、世界模型和仿真\n01:09:30 从座舱 AI 到移动第三空间\n\n本期嘉宾：\n\n卓睿：NVIDIA 中国区软件解决方案高级总监\n主要负责的领域包括辅助驾驶、机器人和智慧城市等。工作重点包括带领团队提供人工智能解决方案，帮助客户快速产品落地。\n中国科学技术大学本硕毕业，硕士期间的主要研究方向为人工智能算法在机器人领域的应用，在人工智能算法和嵌入式领域有着丰富的经验。\n\n张宁：小马智行副总裁\n全面负责小马智行 L4 自动驾驶技术研发，主导推动北京、广州两地 Robotaxi 常态化运营与商业化落地，使公司成为国内首家实现 Robotaxi 常态化运营的企业。\n加入小马智行前曾任职谷歌，负责 Gmail、Inbox 等十亿用户级产品的性能优化。拥有清华大学学士学位与加拿大滑铁卢大学硕士学位，为图灵奖得主姚期智院士创办的”清华学堂计算机科学实验班”（姚班）首届毕业生。\n\n【制作团队】\n\n后期 / 卷圈\n封面 / 姝琦\n运营 / 卷圈\n监制 / 姝琦\n产品统筹 / bobo\n场地支持 / 声湃轩北京录音间\n\n【联系我们】\n\n希望大家在听友群和评论区多多反馈收听感受，这对我们来说十分重要。欢迎添加津津乐道小助手微信：dao160301，加入听友群。\n\n【关于「科技乱炖」】\n\n由多名资深从业者主持的科技点评播客，以实际工作中积累的经验为基础，结合实际，把近期科技热点变成犀利、独到、深刻的独家观点。\n\n【关于「津津乐道播客网络」】\n\n在一派纷繁芜杂里，我们为愉悦双耳而生。科技、教育、文化、美食、生活、技能、情绪……严肃认真却不刻板，拒绝空泛浮夸。与专业且有趣的人携手缔造清流，分享经历，传播体验，厘清世界与你的关系。\n\n津津乐道 | 科技乱炖 | 津津有味 | 记者下班 | 不叁不肆 | 厂长来了 | 编码人声 | 沸腾客厅 | 拼娃时代\n\n收听平台\n\n苹果播客 | 小宇宙App | Spotify | 喜马拉雅 | 网易云音乐 | QQ音乐 | 微信听书 | 荔枝FM | 央广云听 | 听听FM | Sure竖耳App | Bilibili | YouTube | 华为播客\n\n联系我们\n\n津津乐道播客官网 | 公众号：津津乐道播客 | 微信：dao160301 | 微博：津津乐道播客 | 商业合作：hi@dao.fm | 版权声明 | RSS订阅\n\n本节目由「声湃 WavPub」提供内容托管和数据服务支持。",
+  "beschreibung_html": "<p>第一次坐上一辆没有司机的车，大多数人很难不紧张：它真的会看红绿灯吗？会避让突然冲出来的人吗？前面堵住了，它会像老司机一样判断、变道，还是原地发呆？但也很有意思，很多人只需要五分钟，就会从“它行不行啊”变成“好像真的比我开得稳”。</p>\n\n\n\n<p>这期节目，我们从 Robotaxi（无人驾驶出租车）这个具体场景出发，聊透智能驾驶正在发生的关键变化。它不是简单的没有司机这个角色，也不是把今天车上的辅助驾驶功能一路升级到“无人驾驶”。L2、L3、L4 这些听起来像台阶的等级，背后其实是完全不同的责任边界、技术路线、计算平台和商业模式。</p>\n\n\n\n<p>这也是为什么，我们会把 NVIDIA 请到这期节目里。很多人对 NVIDIA 的印象还是显卡、GPU、AI 算力，但在智能汽车和自动驾驶领域，它提供的并不只是“芯片”，而是一整套从车端计算、软件开发、模型训练、仿真测试到功能安全的底层平台。换句话说，汽车要真正能“自己跑起来”，需要一套能支撑它持续学习、验证、升级和安全运行的技术底座。</p>\n\n\n\n<p>小马智行的张宁老师则从运营和商业化角度，把 Robotaxi 的另一面讲得很透：无人驾驶不是一次次简单的 demo，也不是几辆车在示范区里跑一圈就算完成。真正的 Robotaxi 要管理的是一整支车队，包括调度、充电、清洁、维修、保养、事故处理、乘客体验，以及车辆从投入运营到退役的全生命周期成本。车能开只是第一步，车队能不能规模化、安全地跑，并且算得过账，才是商业化真正的门槛。</p>\n\n\n\n<h2>您将在本期节目里听到：</h2>\n\n\n\n<p>00:00 辅助驾驶和自动驾驶到底差在哪<br>07:36 L2、L3、L4 的关键区别<br>20:19 软件平台和安全架构支撑自动驾驶落地<br>28:05 NVIDIA 的三台计算机是什么<br>36:22 Robotaxi 的商业本质<br>01:01:33 长尾场景、世界模型和仿真<br>01:09:30 从座舱 AI 到移动第三空间</p>\n\n\n\n<h2>本期嘉宾：</h2>\n\n\n\n<p>卓睿：NVIDIA 中国区软件解决方案高级总监<br>主要负责的领域包括辅助驾驶、机器人和智慧城市等。工作重点包括带领团队提供人工智能解决方案，帮助客户快速产品落地。<br>中国科学技术大学本硕毕业，硕士期间的主要研究方向为人工智能算法在机器人领域的应用，在人工智能算法和嵌入式领域有着丰富的经验。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img width=\"910\" height=\"1024\" src=\"https://media-one.wavpub.com/shownotes/7008bf9f-6510-4c43-b035-078e1bfabfff/ca81dbb40c473858.png\" alt=\"\" class=\"wp-image-1385\" sizes=\"(max-width: 910px) 100vw, 910px\" /></figure>\n\n\n\n<p>张宁：小马智行副总裁<br>全面负责小马智行 L4 自动驾驶技术研发，主导推动北京、广州两地 Robotaxi 常态化运营与商业化落地，使公司成为国内首家实现 Robotaxi 常态化运营的企业。<br>加入小马智行前曾任职谷歌，负责 Gmail、Inbox 等十亿用户级产品的性能优化。拥有清华大学学士学位与加拿大滑铁卢大学硕士学位，为图灵奖得主姚期智院士创办的&#8221;清华学堂计算机科学实验班&#8221;（姚班）首届毕业生。</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" width=\"682\" height=\"1024\" src=\"https://media-one.wavpub.com/shownotes/7008bf9f-6510-4c43-b035-078e1bfabfff/7e66a52d8c7f2ab2.jpg\" alt=\"\" class=\"wp-image-1384\" sizes=\"(max-width: 682px) 100vw, 682px\" /></figure>\n\n\n\n<h2>【制作团队】</h2>\n\n\n\n<p>后期 / 卷圈<br>封面 / 姝琦<br>运营 / 卷圈<br>监制 / 姝琦<br>产品统筹 / bobo<br>场地支持 / 声湃轩北京录音间</p>\n\n\n\n<h2>【联系我们】</h2>\n\n\n\n<p>希望大家在听友群和评论区多多反馈收听感受，这对我们来说十分重要。欢迎添加津津乐道小助手微信：dao160301，加入听友群。</p>\n\n\n\n<h2>【关于「科技乱炖」】</h2>\n\n\n\n<p>由多名资深从业者主持的科技点评播客，以实际工作中积累的经验为基础，结合实际，把近期科技热点变成犀利、独到、深刻的独家观点。</p>\n\n\n\n<h2>【关于「津津乐道播客网络」】</h2>\n\n\n\n<p>在一派纷繁芜杂里，我们为愉悦双耳而生。科技、教育、文化、美食、生活、技能、情绪……严肃认真却不刻板，拒绝空泛浮夸。与专业且有趣的人携手缔造清流，分享经历，传播体验，厘清世界与你的关系。</p>\n\n\n\n<p><a href=\"https://daofm.podcast.xyz/\">津津乐道</a>&nbsp;|&nbsp;<a href=\"https://kejiluandun.podcast.xyz/\">科技乱炖</a>&nbsp;|&nbsp;<a href=\"https://jinjinyouwei.podcast.xyz/\">津津有味</a>&nbsp;|&nbsp;<a href=\"https://yuantanghua.podcast.xyz/\">记者下班</a>&nbsp;|&nbsp;<a href=\"https://busanbusi.podcast.xyz/\">不叁不肆</a>&nbsp;|&nbsp;<a href=\"https://changzhanglaile.podcast.xyz/\">厂长来了</a>&nbsp;|&nbsp;<a href=\"https://bianmarensheng.podcast.xyz/\">编码人声</a>&nbsp;|&nbsp;<a href=\"https://boilingtalk.podcast.xyz/\">沸腾客厅</a>&nbsp;|&nbsp;<a href=\"https://pinwashidai.podcast.xyz/\">拼娃时代</a></p>\n\n\n\n<p><strong>收听平台</strong></p>\n\n\n\n<p>苹果播客 | 小宇宙App | Spotify | 喜马拉雅 | 网易云音乐 | QQ音乐 | 微信听书 | 荔枝FM | 央广云听 | 听听FM | Sure竖耳App | Bilibili | YouTube | 华为播客</p>\n\n\n\n<p><strong>联系我们</strong></p>\n\n\n\n<p><a href=\"https://dao.fm/\">津津乐道播客官网</a>&nbsp;| 公众号：津津乐道播客 | 微信：dao160301 | 微博：<a href=\"https://weibo.com/u/5863422056\">津津乐道播客</a>&nbsp;| 商业合作：hi@dao.fm |&nbsp;<a href=\"https://dao.fm/copyright/\">版权声明</a>&nbsp;|&nbsp;<a href=\"https://feeds.daopub.com/ld.xml\">RSS订阅</a></p>\n\n\n\n<p><strong>本节目由「<a href=\"https://wavpub.com/\">声湃 WavPub</a>」提供内容托管和数据服务支持。</strong></p>",
+  "bild_url": "https://media-one.wavpub.com/covers/7008bf9f-6510-4c43-b035-078e1bfabfff/0fb1f512f5861dd2.png",
+  "kapitel_quelle": "modell"
+}

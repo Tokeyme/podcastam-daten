@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_490906201",
+  "apple_collection_id": "1592073605",
+  "show": "历史剥壳｜张志浩播客",
+  "titel": "【乌克兰】简史：欧亚双面之神的止战之殇",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4FsMOLATkiFgELkX-d-aacv2-48K.m4a?channel=rss&album_id=24355721&track_id=490906201&uid=35221521&jt=https://aod.cos.tx.xmcdn.com/storages/4429-audiofreehighqps/CC/50/GKwRIW4FsMOLATkiFgELkX-d-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15429895,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T09:22:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "乌克兰历史脉络梳理，从远古人类遗迹到近现代地缘政治博弈。",
+  "kurzfassung": "本期节目梳理了乌克兰从远古尼安德特人和早期游牧民族到基辅罗斯、哥萨克、波兰立陶宛统治及近现代的历史。乌克兰独特的地理位置使其成为东西方文明交汇与大国博弈的边陲。节目探讨了乌克兰与俄罗斯复杂的历史渊源，展现了其作为“欧洲之门”的双面特性。",
+  "stichpunkte": [
+    "乌克兰拥有悠久的考古历史，远古时期已有尼安德特人活动及马的驯化痕迹。",
+    "库库特尼-特里波里文明时期的出土彩陶与中国仰韶文化、马家瑶文化形态高度相似。",
+    "黑海大草原曾先后生活过辛梅里安人、斯基泰人、萨尔玛提亚人等多个游牧民族。",
+    "维京人（诺尔斯人）南下建立基辅罗斯，成为乌克兰、白俄罗斯和俄罗斯的共同祖先。",
+    "弗拉基米尔带领基辅罗斯在988年皈依东正教，确立了东正教的源头。",
+    "蒙古西征后，乌克兰地区先后被立陶宛、波兰立陶宛联邦及哥萨克酋长国统治。",
+    "18世纪末，叶卡捷琳娜二世废除哥萨克王国并吞并克里米亚，南部地区归属沙俄。",
+    "19世纪至20世纪，乌克兰经历顿巴斯工业化、大饥荒、二战纳粹占领及苏联时期的变迁。",
+    "1991年乌克兰公投独立，随后在东西方大国博弈中持续面临地缘政治挑战。"
+  ],
+  "kapitel": [
+    {
+      "titel": "乌克兰历史梳理的意义与远古文明遗迹",
+      "start": 0.0
+    },
+    {
+      "titel": "黑海大草原的早期先民与游牧民族演变",
+      "start": 402.54
+    },
+    {
+      "titel": "维京人南下与基辅罗斯的建立",
+      "start": 1155.48
+    },
+    {
+      "titel": "蒙古征服、波兰立陶宛统治与哥萨克的崛起",
+      "start": 1581.58
+    },
+    {
+      "titel": "沙俄统治、民族觉醒与近现代地缘政治博弈",
+      "start": 1940.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T09:22:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2534,
+  "veroeffentlicht": "2022-01-09T15:33:33+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/df96-audiofreehighqps/07/3C/GKwRIJEFsMMpAAHjDgELkWl2.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

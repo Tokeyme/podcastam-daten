@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_820441236",
+  "apple_collection_id": "1779743638",
+  "show": "2024 -2025抖音快手播放量破亿爆火音乐歌曲",
+  "titel": "蔷薇团长&笑天-相思的雨",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJILqGh4ABj0KAN9ROkk.m4a?channel=rss&album_id=84458610&track_id=820441236&uid=239825720&jt=https://aod.cos.tx.xmcdn.com/storages/6bcf-audiofreehighqps/F2/CC/GKwRIJILqGh4ABj0KAN9ROkk.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1635368,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:47:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "蔷薇团长与笑天带来歌曲《相思的雨》。",
+  "kurzfassung": "本期节目由蔷薇团长和笑天带来歌曲《相思的雨》。歌曲表达了对恋人的深深思念与回忆。歌词描述了雨夜中的情感与无法忘怀的温柔。",
+  "stichpunkte": [
+    "蔷薇团长和笑天演唱歌曲《相思的雨》",
+    "歌词描绘了在熟悉街头与恋人邂逅的缘分",
+    "表达了将对方放在心底、每次呼吸都很沉重的思念",
+    "享受恋人带来的温柔与熟悉的话语",
+    "今夜下雨触动心弦，回忆谱写成爱的旋律",
+    "满天纷飞的思绪化作相思的雨"
+  ],
+  "kapitel": [
+    {
+      "titel": "相思的雨",
+      "start": 23.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:47:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 268,
+  "veroeffentlicht": "2025-03-13T09:29:18+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4d69-audiofreehighqps/F8/EF/GAqhMA0LC7MKAAWamAMvWEfR.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

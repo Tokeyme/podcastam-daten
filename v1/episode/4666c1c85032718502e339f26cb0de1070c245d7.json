@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_886294791",
+  "apple_collection_id": "1270583572",
+  "show": "美国移民|杰出人才|投资|商业",
+  "titel": "为什么有些人移民美国很难，有些人却很容易",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasMR5zuACAAAAPgKdRk.m4a?channel=rss&album_id=6676906&track_id=886294791&uid=56756680&jt=https://aod.cos.tx.xmcdn.com/storages/b14e-audiofreehighqps/4C/CC/GKwRIasMR5zuACAAAAPgKdRk.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11583877,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T15:10:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨美国移民政策的现状，分析高端人才为何依然备受美国青睐。",
+  "kurzfassung": "尽管近期美国遣返与审查政策收紧，但官方数据显示美国对高端人才的渴望依然强烈。节目详细介绍了2025财年职业移民的配额分配，以及美国在薪资、教育和文化方面对全球人才的核心吸引力。同时，节目梳理了适合人才的EB-1杰出人才和NIW国家利益豁免两大移民路径的具体申请条件。",
+  "stichpunkte": [
+    "特朗普回归政治舞台后，移民收紧与遣返升级的消息引发了公众对美国人才红利是否结束的质疑。",
+    "2025财年美国职业移民签证总配额为15万张，其中EB-1和EB-2等人才型移民占据最大比例。",
+    "美国在薪资福利、职业发展空间、顶层教育资源以及多元文化环境方面，对全球高端人才保持着持续的吸引力。",
+    "绿卡持有者在就业选择、居留稳定性和社会保障等方面拥有天然优势，尤其在政府和国防类岗位上更为明显。",
+    "EB-1杰出人才移民无需雇主和投资，不看英语与年龄，审批速度快且各行各业均可申请。",
+    "NIW国家利益豁免移民门槛相对较低，适用于学历高、有潜力但尚未达到杰出级别的申请人。",
+    "美国收紧政策的本质是对无资质和无准备者设置门槛，而对高端人才和有贡献者依然一路绿灯。"
+  ],
+  "kapitel": [
+    {
+      "titel": "美国移民政策收紧背景下的质疑",
+      "start": 28.2
+    },
+    {
+      "titel": "美国对人才的渴望与2025财年配额数据",
+      "start": 77.98
+    },
+    {
+      "titel": "美国吸引全球人才的核心优势",
+      "start": 132.1
+    },
+    {
+      "titel": "适合高端人才的移民路径解析",
+      "start": 296.02
+    },
+    {
+      "titel": "总结与行动建议",
+      "start": 406.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T15:10:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 484,
+  "veroeffentlicht": "2025-07-13T10:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group28/M0A/38/72/wKgJXFlnLtqhs-4YAAF_zdMivzQ978.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

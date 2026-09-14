@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_694439416",
+  "apple_collection_id": "1721722177",
+  "show": "趣说历史",
+  "titel": "朱可夫与斯大林：战争背后的一记耳光",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEJVzAxAB4EjQKOwn_X-aacv2-48K.m4a?channel=rss&album_id=79605775&track_id=694439416&uid=33672145&jt=https://aod.cos.tx.xmcdn.com/storages/7a4c-audiofreehighqps/DF/20/GKwRIJEJVzAxAB4EjQKOwn_X-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1479595,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:53:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨二战期间朱可夫与斯大林之间的权力博弈与复杂关系。",
+  "kurzfassung": "本期探讨了二战期间朱可夫与斯大林之间复杂的权力与合作关系。两人虽然共同抵御了德国的侵略，但斯大林的独裁统治和对军事的干预引发了朱可夫的不满。最终，朱可夫因涉嫌政变和反叛，于1950年被逮捕处决。",
+  "stichpunkte": [
+    "朱可夫与斯大林的关系在二战期间既是同志也是权力与背叛的交织",
+    "斯大林作为苏联最高领袖，实施铁腕统治并直接干预军事指挥",
+    "1941年德军入侵初期苏联受挫，朱可夫曾被撤职并成为替罪羊",
+    "在莫斯科保卫战中，朱可夫因展现出色军事才能而重新被斯大林启用",
+    "战争胜利后，朱可夫对斯大林的专横感到不满，并在军内策划政变未遂",
+    "朱可夫最终于1950年被以反党集团分子的罪名逮捕并处决"
+  ],
+  "kapitel": [
+    {
+      "titel": "引言：朱可夫与斯大林的关系",
+      "start": 0.0
+    },
+    {
+      "titel": "二战爆发与军事决策的压力",
+      "start": 51.54
+    },
+    {
+      "titel": "德军入侵与朱可夫的职务变动",
+      "start": 123.54
+    },
+    {
+      "titel": "莫斯科保卫战与战后矛盾",
+      "start": 150.4
+    },
+    {
+      "titel": "政变策划与最终命运",
+      "start": 173.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:53:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 242,
+  "veroeffentlicht": "2024-01-09T12:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/cb4a-audiofreehighqps/65/B4/GMCoOR8JT5HtAAUDqgKLbCTB.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

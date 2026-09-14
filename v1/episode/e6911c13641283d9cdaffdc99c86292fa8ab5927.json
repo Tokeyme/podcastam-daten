@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "66fe7f3881cdab3a93a07467",
+  "apple_collection_id": "1738176703",
+  "show": "动了嘛您内｜体育运动",
+  "titel": "动了嘛您内 vol.07｜乔教练; 从全运会击剑运动员到波士顿剑馆主理人",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65dea5544dc1840bc9ab7ea0/66fe7f3881cdab3a93a07467/media.xyzcdn.net/lodGvB_ihYq6VkbqGExHX-uuPR8A.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 98606502,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T11:22:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "对话波士顿剑馆主理人乔教练，聊击剑生涯、赴美创业与飞盘社群",
+  "kurzfassung": "本期节目请到了从北京全运会击剑运动员转型为波士顿剑馆主理人的乔教练。节目中，他分享了自己从小进入专业体校、参加全运会的经历，讲述了为追求爱情赴美并疫情期间逆势开办剑馆的故事。此外，他还聊到了自己在当地组织飞盘局的初衷与轻松包容的社群文化。",
+  "stichpunkte": [
+    "乔教练出身于运动员家庭，小学毕业后进入体校并最终成为北京队击剑专业运动员。",
+    "他曾代表北京队参加2013年辽宁第十二届全运会击剑比赛，将其视为职业生涯的高光时刻。",
+    "回忆专业运动员时期，他坦言当时目标专一，没有留后路，一切以训练和成绩为核心。",
+    "谈及中美体育环境的差异，他认为美国体育市场化程度高，而国内体育产业和赛事观众面临一些转型与关注度下降的现象。",
+    "为了爱情，他勇敢选择赴美发展，在当地积累了工作经验并最终决定留在波士顿。",
+    "疫情期间，他看准时机在波士顿商业与居民区结合的地段成功创立了自己的击剑馆。",
+    "面对初期的文化差异与亚洲面孔的挑战，他通过不断与周边学校和居民沟通逐步打开了市场。",
+    "他在波士顿组织了非竞技、重在包容与交友的飞盘局，为海外华人和当地年轻人提供了一个精神放松的社群空间。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与乔教练的背景介绍",
+      "start": 13.1
+    },
+    {
+      "titel": "专业击剑生涯与全运会记忆",
+      "start": 100.42
+    },
+    {
+      "titel": "聊体育现状：从国内赛事到中美体育环境差异",
+      "start": 1188.84
+    },
+    {
+      "titel": "为爱赴美：开启海外生活与跨文化挑战",
+      "start": 2457.48
+    },
+    {
+      "titel": "疫情逆势开剑馆：选址与经营历程",
+      "start": 2776.42
+    },
+    {
+      "titel": "波士顿的飞盘局：打造轻松包容的社群文化",
+      "start": 3389.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T11:22:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4079,
+  "veroeffentlicht": "2024-10-04T12:00:00+00:00",
+  "beschreibung": "｜嘉宾介绍｜\nSean Qiao\n什刹海体校，北京击剑队队员\n全运会选手\n在波士顿开了家击剑俱乐部\n｜时间线｜\n00:30 欢迎乔教练\n06:50 选择进入体校练习击剑，原因是被父亲摧毁了足球梦？\n13:23 全运会趣事——当你身边是刘翔和易建联\n17:15 犹豫成为学生or运动员，我选择背水一战、全情投入\n22:00 中美体育就业的选择方向\n28:55 北京首钢、波士顿凯尔特人——体育为城市带来的精神符号\n40:24 北京队退役运动员放弃国内资源all in闯美\n46:20 如何从0到1在美国经营一家击剑馆\n56:12 每周的飞盘，即是运动也是老友记\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><strong>｜嘉宾介绍｜</strong></p><p><em><strong>Sean Qiao</strong></em></p><p>什刹海体校，北京击剑队队员</p><p>全运会选手</p><p>在波士顿开了家击剑俱乐部</p><p>｜时间线｜</p><p>00:30 欢迎乔教练</p><p>06:50 选择进入体校练习击剑，原因是被父亲摧毁了足球梦？</p><p>13:23 全运会趣事——当你身边是刘翔和易建联</p><p>17:15 犹豫成为学生or运动员，我选择背水一战、全情投入</p><p>22:00 中美体育就业的选择方向</p><p>28:55 北京首钢、波士顿凯尔特人——体育为城市带来的精神符号</p><p>40:24 北京队退役运动员放弃国内资源all in闯美&nbsp;</p><p>46:20 如何从0到1在美国经营一家击剑馆</p><p>56:12 每周的飞盘，即是运动也是老友记&nbsp;</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/66fe7f3881cdab3a93a07467?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FtOmf2rsFH7FFiG7yB0B4LvjaKIr.png",
+  "kapitel_quelle": "modell"
+}

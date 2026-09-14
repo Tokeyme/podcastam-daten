@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "664c81a782b428eafd1328de",
+  "apple_collection_id": "1710879539",
+  "show": "职场生存指南",
+  "titel": "vol.5 职场 PUA（拓展篇）",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/651e5a3d19dde7bf6a00d4ef/664c81a782b428eafd1328de/media.xyzcdn.net/li-C_FpIbjFKxtt2xtQC65mxPnKB.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 23442176,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T13:17:33+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深入解析职场PUA的运作套路、常见技巧及应对方法",
+  "kurzfassung": "本期节目邀请陈允博士深入探讨职场PUA的运作机制与识别方法。节目首先分析了施害者如何通过蜜月期建立信任并逐步剥夺受害者的独立思考能力。接着列举了煤气灯操纵等常见套路，并探讨了如何通过建立边界与保持心态来应对PUA。",
+  "stichpunkte": [
+    "PUA通过情绪操纵在短时间内调动被害者的情绪，以达到操纵其行为的目的。",
+    "PUA的第一阶段通常是蜜月期，施害者通过给予资源、认同感和安全感建立信任，使被害者产生依赖与恐惧失去的心理。",
+    "第二阶段中，施害者通过倾斜权力关系和孤立被害者等手段，逐步剥夺其独立判断和思考能力。",
+    "常见的PUA技巧包括煤气灯操纵（如质疑记忆力）、假装没听懂、推卸责任、转移话题以及利用年龄或性别等特征进行固化印象攻击。",
+    "在面对不合理要求或短时间施压时，最有效的方法是抽身离开并给自己留出思考空间。",
+    "职场PUA也常表现为通过卖惨、道德绑架或将工作牺牲精神极致化来引诱员工做出不合理牺牲。",
+    "识别PUA的重要信号是自身心态的变化，如不断自我怀疑、孤立自己、对上级产生过度紧张或恐惧。",
+    "应对PUA的核心在于保持客观的自我认知，坚守个人边界，并将工作视为生存手段而非生活全部。"
+  ],
+  "kapitel": [
+    {
+      "titel": "PUA的运作机制与第一阶段套路",
+      "start": 0.0
+    },
+    {
+      "titel": "权力倾斜与第二阶段的控制",
+      "start": 245.94
+    },
+    {
+      "titel": "常见的煤气灯操纵与职场PUA技巧",
+      "start": 398.32
+    },
+    {
+      "titel": "识别与应对职场PUA的方法",
+      "start": 973.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T13:17:33+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1438,
+  "veroeffentlicht": "2024-05-21T11:12:39+00:00",
+  "beschreibung": "00:41 PUA 的运作方式是什么？\n03:27 职场为 PUA 提供了哪些便利条件？\n03:36 职场 PUA 一般分为哪几个阶段？\n05:59 如何识别 PUA 存在的迹象？（1）\n07:36 职场 PUA 的常见套路有哪些？\n16:10 如何识别 PUA 存在的迹象？（2）\n18:23 如何应对职场 PUA？\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>00:41 PUA 的运作方式是什么？</p><p>03:27 职场为 PUA 提供了哪些便利条件？</p><p>03:36 职场 PUA 一般分为哪几个阶段？</p><p>05:59 如何识别 PUA 存在的迹象？（1）</p><p>07:36 职场 PUA 的常见套路有哪些？</p><p>16:10 如何识别 PUA 存在的迹象？（2）</p><p>18:23 如何应对职场 PUA？</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/664c81a782b428eafd1328de?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

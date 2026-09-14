@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group37/M02/89/BD/wKgJoFpMhgmhGFxEACzy8qbSYWk165.m4a",
+  "apple_collection_id": "1313698945",
+  "show": "哈哈脱口秀",
+  "titel": "没错，我就是精致的佛系女孩了~-哈哈脱口秀20171219",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJoFpMhgmhGFxEACzy8qbSYWk165.m4a?channel=rss&album_id=9887240&track_id=63310079&uid=69022289&jt=https://aod.cos.tx.xmcdn.com/group37/M02/89/BD/wKgJoFpMhgmhGFxEACzy8qbSYWk165.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2945778,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:23:33+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨当代年轻人的佛系生活态度、奇葩新闻与搞笑段子。",
+  "kurzfassung": "节目探讨了当代90后流行的“精致佛系”生活态度。随后分享了小偷行窃前拜财神、朋友令人捧腹的英语六级考试朋友圈，以及清华学霸用微积分证明掉地上的薯片能吃的趣事。最后盘点了重庆珍贵古树被盗的真实新闻。",
+  "stichpunkte": [
+    "中国第一批90后被称为佛系女孩，追求一切随缘的生活态度",
+    "精致的佛系女孩一边熬夜、护肤，一边在凌晨三点半前回家养生",
+    "一名男子在行窃时向财神爷跪拜祈祷，最终仍被警方抓获",
+    "分享了朋友在英语六级考试前夕崩溃又搞笑的心路历程",
+    "清华学生曾用微积分几何原理幽默地证明掉地上的薯片没有变脏",
+    "重庆一棵价值二十万元的170年珍贵紫薇古树被盗，警方成立专案组侦破"
+  ],
+  "kapitel": [
+    {
+      "titel": "精致的佛系女孩",
+      "start": 0.0
+    },
+    {
+      "titel": "小偷行窃拜财神",
+      "start": 72.9
+    },
+    {
+      "titel": "英语六级考前朋友圈",
+      "start": 110.58
+    },
+    {
+      "titel": "用微积分解释掉地上的食物",
+      "start": 210.7
+    },
+    {
+      "titel": "紫薇古树盗窃案",
+      "start": 293.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:23:33+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 363,
+  "veroeffentlicht": "2017-12-19T10:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group34/M08/C8/7F/wKgJYVnkJPig-QltAAJvG_rvG_c740.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

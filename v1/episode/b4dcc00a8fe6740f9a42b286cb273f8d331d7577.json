@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "69db8364e2c8be31550138d3",
+  "apple_collection_id": "1836925070",
+  "show": "靠谱育儿",
+  "titel": "Vol.5 胎教/亲子互动音乐纯享",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/675aae3f84447b1bd0594036/69db8364e2c8be31550138d3/media.xyzcdn.net/675aae3f84447b1bd0594036/lk8ux143IYxMVLuRk-O1iWJZm7HF.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 18440462,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T04:54:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "胎教与亲子互动音乐纯享节目。",
+  "kurzfassung": "本期节目为纯享音乐，包含关于寂寞与思考的歌词片段。节目中穿插了志愿者信息以及对相关栏目的支持请求。最后以经典赞美诗的旋律和歌词收尾。",
+  "stichpunkte": [
+    "表达关于寂寞时刻的内心独白与思考",
+    "提及中文字幕志愿者的相关信息",
+    "包含明镜与点点栏目的订阅与打赏支持提示",
+    "出现优优独播剧场的相关标识",
+    "播放英文赞美诗《Amazing grace》",
+    "以表达最初信仰的内容结束"
+  ],
+  "kapitel": [
+    {
+      "titel": "寂寞独白与音乐片段",
+      "start": 0.0
+    },
+    {
+      "titel": "栏目信息与致谢",
+      "start": 545.6
+    },
+    {
+      "titel": "赞美诗与信仰表达",
+      "start": 935.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T04:54:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1139,
+  "veroeffentlicht": "2026-04-12T11:36:59+00:00",
+  "beschreibung": "00:00 《寂寞的时候》 - 金子美铃（词）/呗吟（曲）\n01:08 莫扎特《小星星变奏曲》 - 12 Variations on 'Ah vous dirai-je Maman', K.265\n14:39 法国童谣《啊，妈妈我要告诉你》 - Ah, vous dirai-je, Maman\n15:37 天籁童声《奇异恩典》 - Amazing Grace\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>00:00 《寂寞的时候》 - 金子美铃（词）/呗吟（曲）</p><p>01:08 莫扎特《小星星变奏曲》 - 12 Variations on 'Ah vous dirai-je Maman', K.265</p><p>14:39 法国童谣《啊，妈妈我要告诉你》 - Ah, vous dirai-je, Maman</p><p>15:37 天籁童声《奇异恩典》 - Amazing Grace</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69db8364e2c8be31550138d3?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FsKUvC6-unknui7nS6c4raRLRYDa.png",
+  "kapitel_quelle": "modell"
+}

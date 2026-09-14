@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008152608",
+  "apple_collection_id": "1871878028",
+  "show": "帕斯诺尔游戏科学实验室",
+  "titel": "植物大战僵尸里的魅惑菇，现实里有类似的植物吗",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OYLePADWX0QTLR50I.m4a?channel=rss&album_id=115785005&track_id=1008152608&uid=418043905&jt=https://aod.cos.tx.xmcdn.com/storages/df20-audiofreehighqps/3B/B5/GKwRIW4OYLePADWX0QTLR50I.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3512273,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T13:35:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨《植物大战僵尸》里的魅惑菇在现实中是否有能操控其他生物行为的类似植物。",
+  "kurzfassung": "节目从《植物大战僵尸》中的魅惑菇出发，探讨现实自然界中植物与动物的互动关系以及类似的行为影响。虽然现实中没有能直接操控其他生物行为的植物，但存在互利共生、分泌化学物质防御等现象。最后，节目展望了未来如果出现类似科技在农业、生态和生活中的应用可能。",
+  "stichpunkte": [
+    "分析《植物大战僵尸》中魅惑菇能让僵尸倒戈的设定",
+    "介绍金河欢树与蚂蚁之间提供资源交换保护的共生关系",
+    "探讨蛇根草等植物通过化学物质影响动物神经系统的防御机制",
+    "讲述寄生植物兔丝子通过感知化学信号和气味寻找宿主",
+    "以冬虫夏草真菌为例说明自然界中存在对其他生物的行为操控",
+    "提及部分植物通过释放化学物质抑制竞争对手生长的现象",
+    "畅想未来若存在类似魅惑菇的植物在治理害虫和保护生态方面的应用",
+    "总结游戏设定源于自然观察，鼓励保持好奇心探索科学"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨游戏中的魅惑菇与现实植物的联系",
+      "start": 0.0
+    },
+    {
+      "titel": "现实中的植物互动与防御机制",
+      "start": 66.42
+    },
+    {
+      "titel": "自然界中的行为影响与操控现象",
+      "start": 188.44
+    },
+    {
+      "titel": "对未来类似植物科技的畅想与总结",
+      "start": 263.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T13:35:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 433,
+  "veroeffentlicht": "2026-08-23T13:24:16+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4512-audiofreehighqps/22/1F/GAqhVp8NS8nUAAYl0ARfqlBY.jpeg",
+  "kapitel_quelle": "modell"
+}

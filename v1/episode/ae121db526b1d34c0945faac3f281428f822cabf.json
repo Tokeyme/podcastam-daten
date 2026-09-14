@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "699c4caf66e2c303771eadfb",
+  "apple_collection_id": "1723937910",
+  "show": "对牛谈勤",
+  "titel": "闲聊21期丨新年快乐",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/699c4caf66e2c303771eadfb/media.xyzcdn.net/656ffe78cd87c8940b1622d8/lubBmVCZRYFep_vKzQYPU0M-533W.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 63109263,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T19:35:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "跑者们回顾2025年赛事与训练感悟，展望2026年新目标。",
+  "kurzfassung": "几位跑者在新年之际回顾了过去一年的跑量、伤病经历以及对训练和比赛心态的转变。大家讨论了对跑步努力程度的新认知，分享了对不同跑鞋的实测感受。最后，成员们互相送上新一年的赛事祝福，并规划了接下来的参赛行程。",
+  "stichpunkte": [
+    "回顾2025年的赛事表现、伤病恢复以及对跑步心态的转变",
+    "讨论普通跑者如何平衡训练、生活与科学负荷管理",
+    "分享参加越野赛和社区趣味赛的独特体验与收获",
+    "交流各类跑鞋（如Alphafly 3、特步等）的实测感受与适配度",
+    "探讨假如只能选择一个品牌的产品时各自主张的理由",
+    "展望2026年的参赛计划并互致新年祝福"
+  ],
+  "kapitel": [
+    {
+      "titel": "过去一年的跑步回顾与心态转变",
+      "start": 600.0
+    },
+    {
+      "titel": "关于努力与科学训练的探讨",
+      "start": 858.88
+    },
+    {
+      "titel": "难忘的赛事经历与社区赛体验",
+      "start": 1964.08
+    },
+    {
+      "titel": "跑鞋实测与品牌选择趣味讨论",
+      "start": 2574.6
+    },
+    {
+      "titel": "2026年赛事展望与新年祝福",
+      "start": 3761.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T19:35:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3898,
+  "veroeffentlicht": "2026-02-23T23:00:00+00:00",
+  "beschreibung": "欢迎大家收听跑步播客对牛谈勤\n这是一档聊跑步训练，聊美食，聊生活的非严肃跑步播客\n祝大家新年快乐\n2:20 Q1 25年最意想不到的比赛是哪一场？\n14:00 Q2 25年 你觉得自己努力吗？你对于跑步的认知，又有什么变化？\n32:17 Q3 25年最遗憾的比赛是哪一场？\n42:37 Q4：适配自己的跑鞋究竟是哪一双？\n50:00 Q5：假如26年你只能选择一个品牌穿着，无论生活还是跑步，你会选择谁？\n1:02:30 26年的比赛计划\nshow notes里收集了一张四个人25年最满意的一张照片\n馒头（越野站台选手）\n阿卢（东京赛道上的从容）\n狗sir（训练中偶遇的小快乐）\n大牛（天津赛后的碳水狂欢）\n感谢大家收听！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>欢迎大家收听跑步播客对牛谈勤</p><p>这是一档聊跑步训练，聊美食，聊生活的非严肃跑步播客</p><p>祝大家新年快乐</p><p>2:20 Q1 25年最意想不到的比赛是哪一场？</p><p>14:00 Q2 25年 你觉得自己努力吗？你对于跑步的认知，又有什么变化？</p><p>32:17 Q3 25年最遗憾的比赛是哪一场？</p><p>42:37 Q4：适配自己的跑鞋究竟是哪一双？</p><p>50:00 Q5：假如26年你只能选择一个品牌穿着，无论生活还是跑步，你会选择谁？</p><p>1:02:30 26年的比赛计划</p><p>show notes里收集了一张四个人25年最满意的一张照片</p><p>馒头（越野站台选手）</p><figure><img src=\"https://image.xyzcdn.net/lrkjQU1Afmhi8W8NhtJ579mu2XuH.jpg\"/></figure><p>阿卢（东京赛道上的从容）</p><figure><img src=\"https://image.xyzcdn.net/Fr24uG4Xb7MFxIWYTYzrfNcDZoq7.jpg\"/></figure><p>狗sir（训练中偶遇的小快乐）</p><figure><img src=\"https://image.xyzcdn.net/FmaJLs-M3ZEZ2LB-nqGZghXLrv8w.jpg\"/></figure><p>大牛（天津赛后的碳水狂欢）</p><figure><img src=\"https://image.xyzcdn.net/Fs0J3WS-cz7YubOBrw1rlxlYDyJN.jpg\"/></figure><p>感谢大家收听！</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/699c4caf66e2c303771eadfb?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/lprumzvVv1gLxfYUd_wF0dSl9BuY.jpg",
+  "kapitel_quelle": "modell"
+}

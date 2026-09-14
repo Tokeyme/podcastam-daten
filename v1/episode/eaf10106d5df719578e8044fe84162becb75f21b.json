@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_999182679",
+  "apple_collection_id": "1876481163",
+  "show": "科技热点新闻",
+  "titel": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOIpKSABrVlASy0IzX.m4a?channel=rss&album_id=106834895&track_id=999182679&uid=126704200&jt=https://aod.cos.tx.xmcdn.com/storages/0a99-audiofreehighqps/BE/99/GKwRIUEOIpKSABrVlASy0IzX.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1758612,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:11:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "2026世界人工智能大会下周在上海开幕，将展示华为超节点及全球首款AI智能体手机等新品。",
+  "kurzfassung": "2026世界人工智能大会将于7月17日至20日在上海举行，展览面积和展品数量均创历年之最。大会将集中亮相华为Atlas 950超节点真机、全球首款AI智能体手机以及多款人形机器人等重磅新品。同时，多位部委官员和专家将在会上公布中国人工智能产业的最新规模数据与发展规划。",
+  "stichpunkte": [
+    "2026世界人工智能大会将于7月17日至20日在上海浦东和徐汇举行，展览面积突破10万平方米。",
+    "华为业界最大规模超节点Atlas 950真机将在大会上进行真机首秀，其互联带宽超越英伟达NVL144。",
+    "同期首发产品包括全球首款AI智能体手机、MiniMax M3多模态大模型及多款人形机器人。",
+    "上海市公布2025年规上AI企业产业规模达6370亿元，智能算力规模突破16万P。",
+    "国家发改委官员披露去年我国AI相关产业规模超万亿，今年重点行业AI渗透率突破80%。",
+    "工信部官员表示今年人形机器人整机产量有望突破10万台，工业企业AI应用普及率已超30%。",
+    "大会期间将举办共营金砖等论坛，并发布国际人工智能伦理治理行动计划。",
+    "本届大会首设WAIC Academic高水平国际会议，图灵奖得主姚七智担任主席，多位图灵奖及诺贝尔奖得主确认参会。"
+  ],
+  "kapitel": [
+    {
+      "titel": "大会基本情况与展览亮点",
+      "start": 1.82
+    },
+    {
+      "titel": "核心展品与国产算力",
+      "start": 31.08
+    },
+    {
+      "titel": "上海及全国AI产业数据",
+      "start": 96.58
+    },
+    {
+      "titel": "论坛议程与学术阵容",
+      "start": 167.02
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:11:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 217,
+  "veroeffentlicht": "2026-07-07T10:06:00+00:00",
+  "beschreibung": "1.业界最大规模超节点华为Atlas 950真机亮相，MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片、全球首款AI智能体手机等将展出。\n2.AI手机、AI电脑的销量今年有望首次超过非AI产品。我国人工智能原生办公智能体月访问量超2000万次。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">1.业界最大规模超节点华为Atlas 950真机亮相，MiniMax M3多模态大模型、阶跃Agent操作系统、近存计算3D芯片、全球首款AI智能体手机等将展出。<br>2.AI手机、AI电脑的销量今年有望首次超过非AI产品。我国人工智能原生办公智能体月访问量超2000万次。<br><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/045b-audiofreehighqps/00/BA/GAqh9TMOIpJiAAPphQSy0Htf.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

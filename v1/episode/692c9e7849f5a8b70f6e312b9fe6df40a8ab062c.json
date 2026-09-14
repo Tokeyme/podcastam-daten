@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "693f91e52a383da167280829",
+  "apple_collection_id": "1707497004",
+  "show": "黑历史HEYSTORY",
+  "titel": "颅内噪音03",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64b57ac3880b9525a879c197/693f91e52a383da167280829/media.xyzcdn.net/64b57ac3880b9525a879c197/lsyvW1GTdpOVqAtQBxiREWnj4Y7H.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 21418657,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T09:14:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨脱口秀演出拖欠尾款现象及演出行业的信任危机",
+  "kurzfassung": "主播赫登结合近期行业内的维权事件和自身经历，讲述了各地脱口秀俱乐部拖欠演出费用的普遍现象。他分析了欠款方从找借口敷衍到最终信用破产的心理过程，并探讨了这种信任危机对艺人带来的影响。节目还延伸谈到了脱口秀小剧场装修和灯光对演出效果的微妙影响。",
+  "stichpunkte": [
+    "近期小红书出现新西兰YOUSHOW俱乐部等脱口秀演出维权及拖欠结算款事件",
+    "赫登分享自己此前参与商演时，曾遭遇长达五个月才结算完演出费的经历",
+    "多地俱乐部（如兰州、重庆、广西南宁傍堂喜剧等）在结算时均出现过反复拖延和失信",
+    "欠款方通常会使用生病、在上飞机、在开车或转账受限等相似借口进行搪塞",
+    "多次受伤后，艺人对陌生俱乐部的信任边界不断收窄，倾向于只与熟人合作",
+    "脱口秀小剧场的灯光、场地颜色等细节对演出氛围和观众反应有着微妙而重要的影响",
+    "欠款往往从资金链紧张开始，通过拆东墙补西墙一步步将自己逼入绝境",
+    "频繁失信会导致个人信用彻底破产，并彻底透支与其他从业者的合作可能"
+  ],
+  "kapitel": [
+    {
+      "titel": "新西兰俱乐部维权事件与个人催款经历",
+      "start": 0.92
+    },
+    {
+      "titel": "各地俱乐部的经营状况与演出结算拖延",
+      "start": 160.14
+    },
+    {
+      "titel": "脱口秀小剧场的场地装修与灯光讲究",
+      "start": 601.44
+    },
+    {
+      "titel": "从欠款到信用破产的心理与财务恶性循环",
+      "start": 1017.72
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T09:14:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1324,
+  "veroeffentlicht": "2025-12-15T04:48:54+00:00",
+  "beschreibung": "在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/693f91e52a383da167280829?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

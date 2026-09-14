@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "show": "The Martha Stewart Podcast",
+  "apple_collection_id": "1628369888",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "a4e153c2-d51c-4a57-9e73-b49d0142ef47",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f56106f4-6e2e-4f10-a2d1-aead011a8964/a4e153c2-d51c-4a57-9e73-b49d0142ef47/audio.mp3?utm_source=Podcast&in_playlist=a28cdd96-fcaa-4990-a918-aead011b0d05",
+      "pfad": "/v1/episode/408cbabd52b0621989005386d362dcc510fbe763.json",
+      "titel": "Reddit Co-Founder Alexis Ohanian on New Ventures and Cooking for His Family",
+      "veroeffentlicht": "2026-08-26T13:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Reddit co-founder Alexis Ohanian on tech, family, and investments in pets and sports."
+    },
+    {
+      "guid": "10e04198-80da-4a5b-b183-b4860112034a",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f56106f4-6e2e-4f10-a2d1-aead011a8964/10e04198-80da-4a5b-b183-b4860112034a/audio.mp3?utm_source=Podcast&in_playlist=a28cdd96-fcaa-4990-a918-aead011b0d05",
+      "pfad": "/v1/episode/2047d83a4699b424af78cd7f1543c6b2589a0a11.json",
+      "titel": "Kelly Reilly Unpacks Her Iconic Character Beth Dutton",
+      "veroeffentlicht": "2026-07-13T17:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Kelly Reilly unpacks her iconic role as Beth Dutton and her passion for gardening."
+    }
+  ]
+}

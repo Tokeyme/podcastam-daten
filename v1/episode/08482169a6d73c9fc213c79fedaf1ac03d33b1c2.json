@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "29976698",
+  "apple_collection_id": "1800275195",
+  "show": "两性健康养生丨夫妻生活那些事",
+  "titel": "五个字，教你很好地预防男科疾病",
+  "audio": {
+    "url": "http://vohwod-sign.qtfm.cn/m4a/6867df3737973c000795a015_30836626_24.m4a?auth_key=6a996249-843499-0-3d9c2c0fa61dfac854c16356ec3e9b45",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 553532,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:07:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "五个关键方面帮助男性有效预防男科疾病，守护家庭顶梁柱的健康。",
+  "kurzfassung": "节目探讨了男性健康的预防之道，指出男人作为家庭顶梁柱需要照顾好自己。通过软、冷、热、潮、累五个关键维度的解析，介绍了如何避免不良生活习惯对男性生理功能的损害。最后提醒听众注意劳累与环境因素，并在遇到问题时及时咨询专业老师。",
+  "stichpunkte": [
+    "长时间坐在软沙发上会挤压阴囊，导致局部温度升高并阻碍血液循环。",
+    "建议男性每坐四十分钟就站起来走动，避免影响精子和睾酮产生。",
+    "寒冷环境会使男性器官收缩、触觉变不敏感，并诱发或加重前列腺疾病。",
+    "睾丸正常工作需要保持在35.5至36摄氏度的温度，高温会影响其功能。",
+    "潮湿的环境和局部潮湿易引起瘙痒、异味，甚至引发早泄等问题并影响自信。",
+    "过度劳累会使交感神经兴奋，从而明显抑制性欲和阴茎勃起。",
+    "身体劳累会直接影响性爱表现，降低幸福指数。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目导入与核心主题",
+      "start": 0.0
+    },
+    {
+      "titel": "一：软 - 避免久坐软沙发",
+      "start": 29.34
+    },
+    {
+      "titel": "二：冷 - 避免空调冷风直吹",
+      "start": 68.86
+    },
+    {
+      "titel": "三：热 - 谨防高温影响生殖器官",
+      "start": 96.32
+    },
+    {
+      "titel": "四：潮 - 警惕潮湿环境带来的影响",
+      "start": 117.52
+    },
+    {
+      "titel": "五：累 - 劳累对幸福感的影响",
+      "start": 155.42
+    },
+    {
+      "titel": "结语与答疑互动",
+      "start": 173.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:07:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 187,
+  "veroeffentlicht": "2025-07-04T14:03:35+00:00",
+  "kapitel_quelle": "modell"
+}

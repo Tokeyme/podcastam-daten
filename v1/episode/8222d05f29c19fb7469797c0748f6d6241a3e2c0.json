@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007330732",
+  "apple_collection_id": "1496304768",
+  "show": "陈说历史",
+  "titel": "千年前人们怎么吃喝玩乐？走进北宋开封百姓的日常生活",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOW3vWAPB2fATJM7TL.m4a?channel=rss&album_id=31599113&track_id=1007330732&uid=76654593&jt=https://aod.cos.tx.xmcdn.com/storages/b632-audiofreehighqps/AB/FC/GKwRIRwOW3vWAPB2fATJM7TL.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15758972,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T23:53:43+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "带你走进北宋开封，感受千年以前大都市百姓的衣食住行与人间烟火。",
+  "kurzfassung": "本期节目带听众回到北宋都城东京开封，详细回顾了当时平民百姓在吃喝玩乐、日常服务以及岁时节令等方面的丰富生活。通过结合史料与考古发现，展现了开封作为繁华大都市的市井风貌与浓厚的人间烟火气。节目最后通过对周桥遗址的探访，表达了对跨越千年的古今交汇之感的感慨。",
+  "stichpunkte": [
+    "开封作为北宋都城，经济发达、社会安定，平民百姓拥有安稳生活。",
+    "美食街和分茶等餐饮业极为繁荣，提供各类肉食、面食、冷饮及地方特色菜肴。",
+    "服务行业高度分工，涵盖医馆药铺、日常修缮及婚丧嫁娶的全套中介服务。",
+    "瓦子作为固定的娱乐场所，内设沟兰，提供说书、杂剧、杂技等多样的休闲活动。",
+    "大酒楼林立，樊楼等知名酒楼不仅提供美酒佳肴，还兼具社交与声色助兴的功能。",
+    "相国寺庙会与鬼市构成了独特的商业购物场景，满足百姓的日常采购与淘宝需求。",
+    "北宋节日众多且娱乐性与商业气息浓厚，春节、元宵节等习俗部分延续至今。",
+    "结合周桥遗址的考古发掘与《东京梦华录》的记载，再现了北宋开封的昔日繁华。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开封百姓的饮食文化与特色美食",
+      "start": 34.14
+    },
+    {
+      "titel": "饭店经营与丰富多样的餐饮选择",
+      "start": 332.14
+    },
+    {
+      "titel": "大酒楼的功能与社交娱乐",
+      "start": 597.84
+    },
+    {
+      "titel": "瓦子的娱乐休闲与多样的市井生活",
+      "start": 898.38
+    },
+    {
+      "titel": "精细的分工服务与日常生活的便利",
+      "start": 1175.6
+    },
+    {
+      "titel": "相国寺庙会与特殊的鬼市交易",
+      "start": 1421.7
+    },
+    {
+      "titel": "丰富多彩的岁时节日习俗",
+      "start": 1580.4
+    },
+    {
+      "titel": "考古发现与古今交汇的感悟",
+      "start": 1777.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T23:53:43+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1946,
+  "veroeffentlicht": "2026-08-20T10:00:00+00:00",
+  "beschreibung": "参考文献：\n（宋）孟元老撰、邓之诚注《东京梦华录注》\n（宋）孟元老撰、伊永文笺注《东京梦华录笺注》\n（宋）孟元老撰、杨春俏译注《东京梦华录》\n包伟民《宋代城市研究》\n程民生《宋代物价研究》\n姜庆湘、萧国亮《从〈清明上河图〉和〈东京梦华录〉看北宋汴京的城市经济》",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>参考文献：</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>（宋）孟元老撰、邓之诚注《东京梦华录注》</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>（宋）孟元老撰、伊永文笺注《东京梦华录笺注》</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>（宋）孟元老撰、杨春俏译注《东京梦华录》</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>包伟民《宋代城市研究》</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>程民生《宋代物价研究》</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>姜庆湘、萧国亮《从〈清明上河图〉和〈东京梦华录〉看北宋汴京的城市经济》</span></p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/24dc-audiofreehighqps/00/56/GAqhuGoOW3tRAAjoswTJM1gx.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

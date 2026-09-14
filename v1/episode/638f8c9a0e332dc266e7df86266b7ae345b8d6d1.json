@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group8/M06/71/3E/wKgDYVc-gBWhd1w4ATiy4Hk19QU151.m4a",
+  "apple_collection_id": "1071013708",
+  "show": "超级颜论",
+  "titel": "超级颜论第30期：颜强独家专访日本足球教父：足球从家中开始",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDYVc-gBWhd1w4ATiy4Hk19QU151.m4a?channel=rss&album_id=3381546&track_id=15966163&uid=39195413&jt=https://aod.cos.tx.xmcdn.com/group8/M06/71/3E/wKgDYVc-gBWhd1w4ATiy4Hk19QU151.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20493024,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T09:06:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨日本青训教父汤姆拜尔的足球启蒙理念与中国青训发展。",
+  "kurzfassung": "著名足球解说员苏东与颜强独家专访被誉为日本技术足球始作俑者的汤姆拜尔。汤姆拜尔分享了其核心理念“足球从家中开始”，强调父母对幼儿足球技术和兴趣培养的关键作用。双方还探讨了如何通过媒体力量与校园合作，推动中国青少年足球的发展。",
+  "stichpunkte": [
+    "汤姆拜尔拥有二十多年在日本的青少年足球培训经验，被誉为日本技术足球的教父。",
+    "中田英寿、中村俊甫、本田归佑等众多知名球星都曾是汤姆教练的学生。",
+    "汤姆提出“足球从家中开始”的理念，认为孩子对球的接触和技术基础应从极早的幼儿阶段开始培养。",
+    "他强调父母对孩子的影响力远超专业教练，应鼓励幼儿在家里通过简单游戏与球建立联系。",
+    "传统足球协会常忽略两岁到六岁这一学龄前阶段，导致青训体系存在盲区。",
+    "通过结合媒体传播与全国范围的校园推广，能够有效向中国父母普及科学的青训理念。"
+  ],
+  "kapitel": [
+    {
+      "titel": "汤姆拜尔与日本青训背景",
+      "start": 403.16
+    },
+    {
+      "titel": "足球从家中开始的幼儿培养哲学",
+      "start": 791.94
+    },
+    {
+      "titel": "审视传统足协的青训盲区",
+      "start": 1154.12
+    },
+    {
+      "titel": "中国青训的机遇与媒体推广计划",
+      "start": 1409.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T09:06:40+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2534,
+  "veroeffentlicht": "2016-05-20T03:12:51+00:00",
+  "beschreibung": "超级颜论第四季第30期，颜强对日本足球教父汤姆-拜尔进行了专访。青训的要点是什么？我们和足球强国真正的差距在哪儿？奠定日本技术足球基础的汤姆教练为您娓娓道来。本季的最后一期，不可错过！",
+  "beschreibung_html": "<span>超级颜论第四季第30期，颜强对日本足球教父汤姆-拜尔进行了专访。青训的要点是什么？我们和足球强国真正的差距在哪儿？奠定日本技术足球基础的汤姆教练为您娓娓道来。本季的最后一期，不可错过！</span>",
+  "bild_url": "https://fdfs.xmcdn.com/group14/M02/72/C7/wKgDY1c-fz6Rdu18AAI3hu76B1o313.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

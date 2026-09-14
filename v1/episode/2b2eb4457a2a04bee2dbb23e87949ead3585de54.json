@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "69f31081038707a77196b7fc",
+  "apple_collection_id": "1611482051",
+  "show": "梁永安的播客",
+  "titel": "70.「奥德赛时期」该明白的道理，都在这本书里了……【复旦 梁永安】",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/69f31081038707a77196b7fc/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/ll7oMyYt52qtNixcVXRuC64I2KcL.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 52318844,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T19:59:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "梁永安聊当代青年的阅读现状，并推荐乔伊斯的短篇小说集《都柏林人》。",
+  "kurzfassung": "梁永安在世界读书日之际探讨了当代中国人的阅读现状与碎片化阅读现象。他结合社会大转型的背景，指出整本阅读对于理解自我和寻找精神寄托的重要性。通过深入解读詹姆斯·乔伊斯的《都柏林人》，他分析了转型时代下人们在选择和情感上面临的困境与潜意识冲突。",
+  "stichpunkte": [
+    "中国国民阅读调查报告显示纸质书人均阅读量偏少，碎片化阅读成为主流。",
+    "社会大转型和城市化进程改变了生活节奏，导致完整阅读的时间被严重压缩。",
+    "阅读不仅是获取知识，更是在快节奏生活中寻找内心伴侣与理解生命的重要途径。",
+    "梁永安推荐詹姆斯·乔伊斯的短篇小说集《都柏林人》，认为其全景式展现了爱尔兰人的精神状态。",
+    "小说《姐妹》中的弗林神父反映了世俗化进程中传统角色与内心信仰的冲突。",
+    "小说《伊芙琳》揭示了人们渴望改变却又受困于熟悉环境与潜意识畏惧的选择困境。",
+    "小说《痛苦的事》探讨了精神高傲与双标对自身及他人造成的悲剧性影响。",
+    "最后一篇《往者》展现了老夫妻在平淡与追忆中对爱情与生命的全新理解。",
+    "文学作品能够为生活赋予隐喻和灵韵，帮助人们在转型时代开拓精神想象空间。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开篇问候与阅读调查报告的感慨",
+      "start": 6.04
+    },
+    {
+      "titel": "社会转型期下的碎片化阅读现象",
+      "start": 189.78
+    },
+    {
+      "titel": "推荐詹姆斯·乔伊斯的《都柏林人》",
+      "start": 601.76
+    },
+    {
+      "titel": "解析《都柏林人》中的精神困境与选择",
+      "start": 769.32
+    },
+    {
+      "titel": "文学的隐喻与灵韵：寻找生活的精神出口",
+      "start": 2744.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T19:59:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3234,
+  "veroeffentlicht": "2026-04-30T12:30:00+00:00",
+  "beschreibung": "今天想给大家推荐一本我很喜欢的书。我们每个人在不同的年龄，会面临着不同的问题，尤其是在大家最近常常提起的「奥德赛时期」，形形色色的心理认知和行为变化都是不断在发生着的，有时我们会觉得迷茫不知所措，有时会深陷各种喜剧、悲剧的人生场景中。那么这本书，不管你是处于人生中什么阶段，都值得细细品味一番。\n我真心觉得，人的一辈子就该“浪费”在文学书上，那些好的文学作品都是有生命的，可以直达我们的精神深处、生存深处……希望每个同学都能在文学书里，寻得自己的「一方天地」，熬过人生的「奥德赛」。\n推荐歌曲：《书店的下午茶》",
+  "beschreibung_html": "<p>今天想给大家推荐一本我很喜欢的书。我们每个人在不同的年龄，会面临着不同的问题，尤其是在大家最近常常提起的「奥德赛时期」，形形色色的心理认知和行为变化都是不断在发生着的，有时我们会觉得迷茫不知所措，有时会深陷各种喜剧、悲剧的人生场景中。那么这本书，不管你是处于人生中什么阶段，都值得细细品味一番。</p><p>我真心觉得，人的一辈子就该“浪费”在文学书上，那些好的文学作品都是有生命的，可以直达我们的精神深处、生存深处……希望每个同学都能在文学书里，寻得自己的「一方天地」，熬过人生的「奥德赛」。</p><p>推荐歌曲：《书店的下午茶》</p>",
+  "kapitel_quelle": "modell"
+}

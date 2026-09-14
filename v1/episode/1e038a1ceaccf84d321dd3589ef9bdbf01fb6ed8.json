@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/b934-audiofreehighqps/09/42/CMCoOSMDk403AXgZGwBqfi5j.m4a",
+  "apple_collection_id": "1536149213",
+  "show": "路标访谈",
+  "titel": "vol.004 动动手指，在上海有房有特斯拉不是梦",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOSMDk403AXgZGwBqfi5j.m4a?channel=rss&album_id=42749404&track_id=358734236&uid=75946133&jt=https://aod.cos.tx.xmcdn.com/storages/b934-audiofreehighqps/09/42/CMCoOSMDk403AXgZGwBqfi5j.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 24647963,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T11:30:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "打工人在上海如何通过投资与买房实现财富增长？",
+  "kurzfassung": "节目邀请前财经记者雷哥，分享了普通打工人在上海的投资理财与买房经验。嘉宾建议年轻人培养独立思考能力，通过基金定投和关注新能源等颠覆性产业来实现资产增值。同时，讨论了买房与租房的选择以及如何避免投资陷阱。",
+  "stichpunkte": [
+    "基金定投是适合打工人的低门槛投资方式，能分享行业与经济增长的红利。",
+    "新能源汽车被视为具有时代颠覆性的产业，其产业链蕴含巨大的投资机会。",
+    "投资需要价值投资思维，关注能够为用户持续创造价值并改变生活方式的公司。",
+    "资产配置应当分散风险，结合进攻型资产与防守型资产，避免全仓单一标的。",
+    "提升个人独立思考能力和底层思维，比单纯追求财富积累更为重要。",
+    "在一线城市买房需要长远规划，但如果资金允许且没有房产，买房依然是一个选择。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与嘉宾介绍",
+      "start": 12.3
+    },
+    {
+      "titel": "打工人的理财困惑与基金定投",
+      "start": 236.34
+    },
+    {
+      "titel": "新能源产业与科技投资逻辑",
+      "start": 387.8
+    },
+    {
+      "titel": "资产配置与买房置业讨论",
+      "start": 1635.46
+    },
+    {
+      "titel": "投资心态与内容推荐",
+      "start": 2854.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T11:30:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3044,
+  "veroeffentlicht": "2020-11-25T03:04:51+00:00",
+  "beschreibung": "租房不靠谱，买房买不起，当代年轻人也太难了！今天我们请到深耕金融领域数年的大佬、投资专家雷哥，给我们讲讲，如何动动手指，轻松在上海买房买特斯拉！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">租房不靠谱，买房买不起，当代年轻人也太难了！今天我们请到深耕金融领域数年的大佬、投资专家雷哥，给我们讲讲，如何动动手指，轻松在上海买房买特斯拉！</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/016e-audiofreehighqps/95/00/CMCoOR4Dk4tFAAVezgBqfbMk.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

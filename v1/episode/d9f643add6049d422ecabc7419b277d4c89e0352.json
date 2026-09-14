@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "6a8929b4ef65145dfcc3789b",
+  "apple_collection_id": "1696217343",
+  "show": "一人游戏局",
+  "titel": "中元节特辑.4 如果死后世界是一场游戏，你要过多少关？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a8929b4ef65145dfcc3789b/media.xyzcdn.net/64589548de05b6ceb464030d/ln9qisb-omyw7W8LWf0EfjUsIQxQ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 30101298,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T22:53:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "中国人的死后世界为何如此复杂？探秘民间神鬼体系与生死观。",
+  "kurzfassung": "中国古代的死后世界融合了儒、释、道三教，形成了一个宛如人间朝廷的庞大官僚体系。从丰都鬼城、十殿阎罗到奈何桥与孟婆汤，这套体系展现了中国人独特且务实的生死观。死后如生，既有严明的审判，亦有人情味与重新开始的慈悲。",
+  "stichpunkte": [
+    "中国死后世界结构极为复杂，融合了儒释道三教，复刻了阳间的官僚体系。",
+    "丰都鬼城原本是道教仙山，后因道士名字的民间误传演变为阴曹地府的代名词。",
+    "十殿阎罗的分工与刑罚在《玉历宝钞》中有详细记载，体现了对司法公正的追求。",
+    "城隍爷和土地公构成了阴间的基层治理体系，类似于阳间的市长和居委会主任。",
+    "黑白无常、牛头马面等差役负责勾魂索命与押解亡魂，形象深入人心。",
+    "奈何桥和孟婆汤象征着前尘尽忘，让所有亡魂无论生前贵贱都能够从零开始轮回。",
+    "黄泉路、彼岸花、三生石和望香台等元素对应了人类情感中最深处的不舍与眷恋。",
+    "中国人的生死观极其务实且温柔，不追求永生，也不恐惧虚无，讲究“死亦如生”。"
+  ],
+  "kapitel": [
+    {
+      "titel": "中国死后世界的独特性与儒释道融合",
+      "start": 0.0
+    },
+    {
+      "titel": "丰都鬼城的演变与仙山传说",
+      "start": 191.38
+    },
+    {
+      "titel": "十殿阎罗的审判体系与职能",
+      "start": 591.18
+    },
+    {
+      "titel": "城隍与土地公的基层管理体系",
+      "start": 1101.34
+    },
+    {
+      "titel": "奈何桥、孟婆汤与轮回之道",
+      "start": 1369.36
+    },
+    {
+      "titel": "黄泉路、彼岸花与三生石的意象",
+      "start": 1533.58
+    },
+    {
+      "titel": "总结中国人的务实生死观与“死后如生”",
+      "start": 1734.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T22:53:11+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1861,
+  "veroeffentlicht": "2026-08-22T09:00:00+00:00",
+  "beschreibung": "同样是死后世界，古埃及、北欧冥界寥寥数神，中国人却搭建了一套分工完备的阴间官僚帝国。酆都鬼城、十殿阎罗、孽镜台、望乡台、奈何桥，亡魂想轮回投胎，路引、审判、孟婆汤一关都绕不开。\n可很多广为流传的阴间传说，全是后世误读：酆都最初是道教七十二福地；阎罗王源自外来佛教；家喻户晓的彼岸花，更是近代外来文化回流的产物。\n本期结合《仙剑奇侠传 4》《梦幻西游》《阴阳师》，电影《与神同行》《双瞳》《盂兰神功》，顺着儒释道三教融合的脉络，还原被游戏影视魔改的阴间原貌。\n从十殿完整审判流程，到城隍土地基层阴司，再到古代官方 “祭厉” 普渡孤魂的制度。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>同样是死后世界，古埃及、北欧冥界寥寥数神，中国人却搭建了一套分工完备的阴间官僚帝国。酆都鬼城、十殿阎罗、孽镜台、望乡台、奈何桥，亡魂想轮回投胎，路引、审判、孟婆汤一关都绕不开。</p><p>可很多广为流传的阴间传说，全是后世误读：酆都最初是道教七十二福地；阎罗王源自外来佛教；家喻户晓的彼岸花，更是近代外来文化回流的产物。</p><p>本期结合《仙剑奇侠传 4》《梦幻西游》《阴阳师》，电影《与神同行》《双瞳》《盂兰神功》，顺着儒释道三教融合的脉络，还原被游戏影视魔改的阴间原貌。</p><p>从十殿完整审判流程，到城隍土地基层阴司，再到古代官方 “祭厉” 普渡孤魂的制度。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8929b4ef65145dfcc3789b?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqK9Z9eEH78ylr0-RMoo0AtX-JYu.png",
+  "kapitel_quelle": "modell"
+}

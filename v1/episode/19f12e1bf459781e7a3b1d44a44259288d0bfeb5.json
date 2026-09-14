@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group17/M07/EF/B9/wKgJJFfS0xTithCjAGNH9fIY_t8348-aacv2-48K.m4a",
+  "apple_collection_id": "1018712494",
+  "show": "游戏联萌",
+  "titel": "游戏联萌丨三人行，必有白河镇僵师160910（怪兽兽）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJJFfS0xTithCjAGNH9fIY_t8348-aacv2-48K.m4a?channel=rss&album_id=2760750&track_id=21214043&uid=29981839&jt=https://aod.cos.tx.xmcdn.com/group17/M07/EF/B9/wKgJJFfS0xTithCjAGNH9fIY_t8348-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4892491,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T08:23:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "节目在教师节之际深入回顾经典游戏《仙剑奇侠传》白河镇及黑水镇的流程。",
+  "kurzfassung": "本期节目结合教师节话题，详细回顾了经典游戏《仙剑奇侠传》中主角一行人在白河镇、玉佛寺、黑水镇及鬼阴山的冒险历程。节目探讨了游戏中的剧情细节、迷宫设计、氛围营造以及角色之间的情感默契。最后主播介绍了直播及相关周边信息并以歌曲结束。",
+  "stichpunkte": [
+    "在教师节开篇调侃学生与老师的日常，借此切入游戏主题",
+    "回顾主角李逍遥、赵灵儿和林月如在白河镇的安宁乡土风情与剧情细节",
+    "分析玉佛寺的战斗及小和尚的设定，体现游戏轻松诙谐的调侃意味",
+    "探讨黑水镇及将军冢、血池的大型迷宫设计及其受香港僵尸片影响的恐怖氛围",
+    "提及战斗中触发的队友特殊互动事件，增强同伴间的亲密感",
+    "讲述前往鬼阴山搜救赵灵儿的紧迫感及随后遭遇变故的剧情转折",
+    "节目尾声介绍主播的直播平台、微博及淘宝店铺等互动信息"
+  ],
+  "kapitel": [
+    {
+      "titel": "教师节开篇与日常调侃",
+      "start": 0.0
+    },
+    {
+      "titel": "白河镇的乡土风情与剧情细节",
+      "start": 236.36
+    },
+    {
+      "titel": "玉佛寺之行与轻松插曲",
+      "start": 429.34
+    },
+    {
+      "titel": "黑水镇、将军冢与恐怖氛围",
+      "start": 477.62
+    },
+    {
+      "titel": "鬼阴山风波与剧情转折",
+      "start": 556.82
+    },
+    {
+      "titel": "收尾与互动信息",
+      "start": 658.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T08:23:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 803,
+  "veroeffentlicht": "2016-09-10T02:04:00+00:00",
+  "beschreibung": "微信公众平台:怪兽来了 粉丝群：187530445\n关注主播八卦请戳：八卦主播圈",
+  "beschreibung_html": "微信公众平台:怪兽来了 粉丝群：187530445<br />关注主播八卦请戳：八卦主播圈",
+  "bild_url": "https://fdfs.xmcdn.com/group20/M01/F0/62/wKgJJ1fS0rTAujAOAANz918dao0186.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1003588034",
+  "apple_collection_id": "906214012",
+  "show": "晚安妈妈睡前故事",
+  "titel": "敲鼓小猴 晚安妈妈",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEOQAvBACZ6gAS_GO7M.m4a?channel=rss&album_id=260744&track_id=1003588034&uid=10553948&jt=https://aod.cos.tx.xmcdn.com/storages/e817-audiofreehighqps/92/A1/GKwRIJEOQAvBACZ6gAS_GO7M.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2521728,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:34:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "小猴寻找练习敲鼓的地方，最终帮田鼠宝宝做操。",
+  "kurzfassung": "小猴因为清晨敲鼓吵醒了松鼠，不得不离开大树寻找新的练习地点。他在池塘边遇到青蛙合唱团后再次离开，最终在田鼠妈妈教宝宝早操时找到了完美的练习场所。小猴用鼓声配合田鼠妈妈的训练，得到了感谢并找到了归宿。",
+  "stichpunkte": [
+    "小猴清晨在树上敲鼓，吵醒了住在树洞里的大尾巴松鼠。",
+    "松鼠抱怨打扰了休息日睡觉，小猴只好背着大鼓离开。",
+    "小猴来到池塘边，因遇到青蛙合唱团而再次转移地方。",
+    "小猴因为喜欢敲鼓而坚持寻找练习的好地方。",
+    "田鼠妈妈正在阳光下照顾懒洋洋的田鼠宝宝并教他们做早操。",
+    "小猴敲响大鼓，用轻松严厉的节拍帮助田鼠宝宝认真做操。",
+    "小猴加快鼓点配合田鼠妈妈的逃跑示范，吓得宝宝们四处狂奔。",
+    "田鼠妈妈对鼓声非常满意并表达感谢，小猴也找到了练习鼓声的好地方。"
+  ],
+  "kapitel": [
+    {
+      "titel": "小猴清晨敲鼓与松鼠的抱怨",
+      "start": 1.5
+    },
+    {
+      "titel": "寻找新地点与池塘边的青蛙",
+      "start": 62.48
+    },
+    {
+      "titel": "小猴的坚持与田鼠一家的早操",
+      "start": 137.68
+    },
+    {
+      "titel": "用鼓声帮助田鼠宝宝锻炼",
+      "start": 199.02
+    },
+    {
+      "titel": "找到练习敲鼓的好地方",
+      "start": 270.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:34:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 311,
+  "veroeffentlicht": "2026-08-23T12:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group58/M06/08/9B/wKgLglzTyTjiOy0oAAcOTv16ohg815.jpg",
+  "folgennummer": 5,
+  "kapitel_quelle": "modell"
+}

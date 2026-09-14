@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "66abcc137349f7a55729771b",
+  "apple_collection_id": "1792425641",
+  "show": "艺术生访谈录",
+  "titel": "艺术家高子涵｜纽约 NYU Tisch",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6694aead2ee7083c3e36a86b/66abcc137349f7a55729771b/media.xyzcdn.net/lnHrmxXB5FZuSs6cpQkb6QHuYuSS.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11557130,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T22:07:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "纽约大学表演研究专业毕业生高子涵分享艺术创作与纽约生活",
+  "kurzfassung": "本期节目嘉宾高子涵分享了她在纽约大学攻读表演研究专业的经历与收获。她讲述了在纽约参与舞台剧创作、运营自媒体美食Vlog以及城市生活的独特体验。此外，她还畅谈了对未来艺术创作的愿景和对年轻人的建议。",
+  "stichpunkte": [
+    "高子涵今年夏天毕业于纽约大学Tisch艺术学院的表演研究专业，目前正处于OPT期间寻找舞台戏剧相关工作。",
+    "她最初申请的是戏剧文学专业，但在招生邮件的引导下，最终因好奇心选择了偏社科与文科的表演研究专业。",
+    "她今年4月在纽约参与了根据东野圭吾小说《虚无的十字架》改编的舞台剧，首次挑战一人分饰两角及同场换装。",
+    "除戏剧外，她还广泛涉猎绘画、乐器、书法，并通过自媒体记录纽约的探店日常与美食Vlog。",
+    "她认为纽约是一座充满活力但也让人感到人际关系来得快去得快的城市，对亚洲人而言是一个完全去魅的过程。",
+    "她最理想的成功状态是能够靠艺术为生，同时保持创作自由，不被朝九晚五的工作束缚。",
+    "她分享了在芝加哥街头散步时因强烈的时空错乱感而感性落泪的经历。",
+    "对于未来，她希望在32岁时拥有比同龄人更多的自由与灵感，并能持续保持对艺术的热情。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与求学经历",
+      "start": 0.0
+    },
+    {
+      "titel": "舞台剧演出体验与多元艺术爱好",
+      "start": 179.22
+    },
+    {
+      "titel": "纽约生活与对城市的重新认识",
+      "start": 314.1
+    },
+    {
+      "titel": "理想的生活状态与对未来的期许",
+      "start": 580.68
+    },
+    {
+      "titel": "自媒体创作经验与情感分享",
+      "start": 1024.76
+    },
+    {
+      "titel": "给纽大学子的建议与三个愿望",
+      "start": 1631.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T22:07:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1831,
+  "veroeffentlicht": "2024-08-01T17:55:30+00:00",
+  "beschreibung": "本期嘉宾高子涵是一位在纽约工作的制作人，她分享了自己对艺术的理解，认为艺术是一种享受生活和增加体验的工具。\n她除了做戏剧方面的工作，还会自己画画、写写文章、拍美食视频等。她认为纽约是一个充满美食和娱乐的城市，有很多选项。在纽约，她可以吃到全世界的美食，并且有很多高端和家常的餐厅。她还提到了自己在做自媒体的经验，通过拍摄vlog和图文探店的方式分享自己的美食日常。她认为纽约是一个充满机会和挑战的城市，鼓励大家不要害怕去请教别人，多探索城市，丰富自己的体验。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本期嘉宾<strong>高子涵</strong>是一位在纽约工作的制作人，她分享了自己对艺术的理解，认为艺术是一种享受生活和增加体验的工具。</p><p>她除了做戏剧方面的工作，还会自己画画、写写文章、拍美食视频等。她认为纽约是一个充满美食和娱乐的城市，有很多选项。在纽约，她可以吃到全世界的美食，并且有很多高端和家常的餐厅。她还提到了自己在做自媒体的经验，通过拍摄vlog和图文探店的方式分享自己的美食日常。她认为纽约是一个充满机会和挑战的城市，鼓励大家不要害怕去请教别人，多探索城市，丰富自己的体验。</p><figure><img src=\"https://image.xyzcdn.net/FkcN28PDma1_B46qeqzQmzMIVqqi.jpg\"/></figure><br><a href=\"https://oia.xiaoyuzhoufm.com/player/66abcc137349f7a55729771b?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FlO6Xtx-EWhNmY00GG0sR45XTjYf.png",
+  "kapitel_quelle": "modell"
+}

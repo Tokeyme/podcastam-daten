@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007295825",
+  "apple_collection_id": "1163969355",
+  "show": "汪诘：科学有故事（主打）",
+  "titel": "病毒史话07：1918大疫背后的变装刺客",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOW0_lAL3mPgTJHDMP.m4a?channel=rss&album_id=4156778&track_id=1007295825&uid=46980604&jt=https://aod.cos.tx.xmcdn.com/storages/9645-audiofreehighqps/D8/5F/GKwRIDoOW0_lAL3mPgTJHDMP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 12445246,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T15:21:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回溯1918年西班牙大流感历史，解析病毒变异机制与青年死亡谜团。",
+  "kurzfassung": "本期节目回顾了1918年席卷全球的大流感疫情，探讨了当时医学界对病因的误判以及科学家历时半个世纪在北极冻土中寻获病毒基因的全过程。节目深入剖析了流感病毒的分子结构与基因洗牌机制，解释了为何身体强壮的年轻人反而会在细胞因子风暴中丧命。最后，主播简要预告了下期关于狂犬病毒的内容及个人拍电影的行业见闻。",
+  "stichpunkte": [
+    "1918年3月，美国堪萨斯州爆发严重流感，随后随参军士兵和军舰迅速扩散至全球，造成数千万人死亡。",
+    "当时主流医学界误认为病因是细菌，盲目接种流感嗜血杆菌疫苗完全无效。",
+    "1931年至1933年，科学家通过实验先后证实猪流感和人类流感均由滤过性病毒引起，并在雪貂实验中取得突破。",
+    "20世纪90年代，病理学家约翰·赫尔丁在阿拉斯加永久冻土层中找到保存完好的女性遗体肺部标本。",
+    "2005年，研究团队根据提取的基因序列成功人工复活了1918年流感病毒，证实其在小鼠体内能引发极高的病毒载量。",
+    "1918年流感死亡曲线呈诡异的倒V字形，20至40岁的青壮年死亡率最高。",
+    "流感病毒拥有8条独立的RNA片段，极易通过抗原漂移和抗原转变进行基因重组。",
+    "青壮年死亡的根本原因在于其免疫系统过于强悍，遭遇病毒后引发了失控的“细胞因子风暴”，导致肺部被体液淹没。"
+  ],
+  "kapitel": [
+    {
+      "titel": "1918年大流感的爆发与恐怖威力的蔓延",
+      "start": 14.24
+    },
+    {
+      "titel": "医学界的初期误判与对中医理论的探讨",
+      "start": 324.86
+    },
+    {
+      "titel": "病毒学突破：从猪流感病毒到雪貂实验",
+      "start": 439.02
+    },
+    {
+      "titel": "北极冻土寻尸与1918流感基因的重现",
+      "start": 577.08
+    },
+    {
+      "titel": "流感病毒的结构、刺突与基因洗牌机制",
+      "start": 866.12
+    },
+    {
+      "titel": "青壮年死亡之谜：细胞因子风暴的悲剧",
+      "start": 1200.0
+    },
+    {
+      "titel": "下期预告与关于电影产业运作的闲聊",
+      "start": 1411.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T15:21:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1537,
+  "veroeffentlicht": "2026-08-19T10:59:50+00:00",
+  "beschreibung": "1918年，一场“变装刺客”随一战兵潮席卷全球，专杀20-40岁青壮年，死亡人数超一战总和。百年后，冻土遗骸、雪貂喷嚏、基因复活实验，终于揭开了免疫系统“自毁式风暴”的恐怖真相——这不仅是病毒史，更是一场科学与死神的惊险赛跑……",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>1918年，一场“变装刺客”随一战兵潮席卷全球，专杀20-40岁青壮年，死亡人数超一战总和。百年后，冻土遗骸、雪貂喷嚏、基因复活实验，终于揭开了免疫系统“自毁式风暴”的恐怖真相——这不仅是病毒史，更是一场科学与死神的惊险赛跑……</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group83/M01/40/98/wKg5HV76unzgYBG4AA3zi63mMBc654.jpg",
+  "folgennummer": 4,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/1100-audiofreehighqps/AC/F6/CKwRIUEEjB7oAC6_-wCz1ZfG.m4a",
+  "apple_collection_id": "1581514837",
+  "show": "解读讨好型人格 | 灵山说心理",
+  "titel": "关于讨好型人格我要说的话（一）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIUEEjB7oAC6_-wCz1ZfG.m4a?channel=rss&album_id=48973674&track_id=420814636&uid=35827228&jt=https://aod.cos.tx.xmcdn.com/storages/1100-audiofreehighqps/AC/F6/CKwRIUEEjB7oAC6_-wCz1ZfG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3063803,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:10:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨讨好型人格的成因与心理机制，并寻找自我治愈的方法。",
+  "kurzfassung": "林山分享了自己深受讨好型人格困扰的经历，分析了这种心理模式源于童年时期对父母无条件爱的匮乏。讨好本质上是通过迎合他人来换取自我价值感和存在感。提升自我价值、专注于事业发展是减少讨好行为的关键途径。",
+  "stichpunkte": [
+    "林山通过前同事借钱未果的经历，意识到自己长期存在的讨好倾向",
+    "讨好型人格表现为极度害怕冲突，甚至连表达愤怒都不敢",
+    "原生家庭是病态人格的初始点，童年缺乏父母无条件的爱促成了讨好行为",
+    "孩子为了博得父母的一笑，不得不察言观色并压抑自我主体性",
+    "童年与父母的互动模式被照搬到成年后的人际交往中并逐渐固化",
+    "讨好的本质是顺从与迎合，试图通过让别人开心来证明自身的价值",
+    "收入较低或自我价值感匮乏的人，更容易将价值依附于人际关系并产生讨好行为",
+    "通过提升自身价值、修炼事业和打磨技能，可以有效降低讨好频率"
+  ],
+  "kapitel": [
+    {
+      "titel": "讨好型人格的切身体会",
+      "start": 0.66
+    },
+    {
+      "titel": "讨好型人格的成因分析",
+      "start": 148.8
+    },
+    {
+      "titel": "讨好行为的本质与应对方法",
+      "start": 278.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:10:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 378,
+  "veroeffentlicht": "2021-06-01T15:54:10+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6fb2-audiofreehighqps/E9/3F/CMCoOR4EWvSwAAOXaQCius0K.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

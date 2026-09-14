@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_695107002",
+  "apple_collection_id": "1375326838",
+  "show": "混童话睡前故事",
+  "titel": "灰灰鼠和小青蛇的中秋节",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoJWzNPACLgfwKQbDu8-aacv2-48K.m4a?channel=rss&album_id=9329526&track_id=695107002&uid=87376938&jt=https://aod.cos.tx.xmcdn.com/storages/c3f5-audiofreehighqps/C1/65/GKwRIDoJWzNPACLgfwKQbDu8-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1718991,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:21:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "灰灰鼠和小青蛇在中秋节思念远方的好友苏苏，并收到了意外的惊喜。",
+  "kurzfassung": "金秋时节，灰灰鼠和小青蛇坐在河边赏月，分外想念去年搬走的好友苏苏以及苏苏妈妈做的月饼。他们在月亮下许愿，祝福远方的苏苏一家幸福。随后，快递员灰兔子送来了一个神秘包裹，里面正是苏苏妈妈烤制的月饼。",
+  "stichpunkte": [
+    "灰灰鼠和小青蛇在金黄色的树林里生活，中秋节前夕一起赏月并回忆往事。",
+    "苏苏和妈妈去年搬到了远方，两人因为吃不到月饼而感到有些失落和伤感。",
+    "中秋节当晚，灰灰鼠和小青蛇来到河边，一同向明月许愿祝福远方的苏苏。",
+    "快递员灰兔子送来中秋夜的快递，拆开发现里面是苏苏妈妈烤制的月饼。",
+    "三个小伙伴一起在月光下吃月饼、赏月，思念远方的苏苏。",
+    "苏苏在远方也希望他们能吃上月饼并同赏明月，好朋友们永远没有走散。"
+  ],
+  "kapitel": [
+    {
+      "titel": "金秋赏月与对苏苏的思念",
+      "start": 0.0
+    },
+    {
+      "titel": "月下许愿与神秘快递的到来",
+      "start": 133.24
+    },
+    {
+      "titel": "共享月饼的美妙中秋节",
+      "start": 227.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:21:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 282,
+  "veroeffentlicht": "2023-12-22T11:17:30+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group50/M03/04/3A/wKgKnVvH93KAaDewAAFPwHsKgrM774.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

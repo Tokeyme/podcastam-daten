@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group18/M01/9D/C9/wKgJJVe0Xy_DFbjUAN-jn1MmYks486-aacv2-48K.m4a",
+  "apple_collection_id": "1194427471",
+  "show": "读书：我不知道该说什么，关于死亡还是爱情 阿列克谢耶维奇",
+  "titel": "序幕 孤单的人声",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJJVe0Xy_DFbjUAN-jn1MmYks486-aacv2-48K.m4a?channel=rss&album_id=5981275&track_id=20080079&uid=34956080&jt=https://aod.cos.tx.xmcdn.com/group18/M01/9D/C9/wKgJJVe0Xy_DFbjUAN-jn1MmYks486-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11020138,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T21:38:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "切尔诺贝利消防员妻子回忆灾难后的生死离别与漫长余生",
+  "kurzfassung": "本期节目讲述了切尔诺贝利事故中消防员妻子的一段极其痛苦的经历。她瞒着身孕前往莫斯科医院照顾遭受严重辐射的丈夫，陪伴他走完生命的最后时刻。灾难不仅夺走了丈夫的生命，也给随后出生的孩子带来了严重的健康影响。即便生活在无尽的病痛与回忆中，她与幸存的儿子依然在艰难中相依为命。",
+  "stichpunkte": [
+    "妻子瞒着怀孕的消息，独自前往莫斯科寻找被隔离的切尔诺贝利消防员丈夫。",
+    "病房内的消防员们承受着严重的辐射伤害，生活和治疗条件极其简陋。",
+    "妻子日夜守护在丈夫病床前，直到他离世并目睹其下葬的过程。",
+    "逝去的丈夫在梦中出现，并预示了未来的命运。",
+    "遗腹女出生后被诊断出严重的先天性疾病，最终夭折并留下骨灰。",
+    "母亲认为夭折的小女儿吸收了辐射救了自己，而后来出生的儿子成为了她活下去的希望。",
+    "母子二人长期饱受病痛折磨，在中风和频繁的就医中维持着艰难的生活。"
+  ],
+  "kapitel": [
+    {
+      "titel": "前往莫斯科寻找丈夫",
+      "start": 600.06
+    },
+    {
+      "titel": "病房内的探视与陪伴",
+      "start": 794.16
+    },
+    {
+      "titel": "丈夫的离世与后事",
+      "start": 1078.38
+    },
+    {
+      "titel": "梦境与遗腹女的诞生",
+      "start": 1308.12
+    },
+    {
+      "titel": "与幸存儿子的艰难生活",
+      "start": 1640.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T21:38:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1810,
+  "veroeffentlicht": "2016-08-17T12:56:31+00:00",
+  "bild_url": "https://static2.ximalaya.com//css/img/common/track_.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

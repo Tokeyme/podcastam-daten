@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006112385",
+  "apple_collection_id": "1837681676",
+  "show": "【周更】游戏 | 治愈你的不刺激 | 二次元",
+  "titel": "打不过就降难度，跳不过就开传送门",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOUst7ABmpDgTF5TKj.m4a?channel=rss&album_id=85503786&track_id=1006112385&uid=28071125&jt=https://aod.cos.tx.xmcdn.com/storages/3f0c-audiofreehighqps/9E/89/GKwRIDoOUst7ABmpDgTF5TKj.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1681678,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:03:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "国产类银河恶魔城《身影之地》主打爽快体验，降低难度并可跳过平台。",
+  "kurzfassung": "新发售的国产类银河恶魔城游戏《身影之地》由新婚夫妇开发，旨在打破传统同类游戏折磨玩家的惯例。游戏提供丰富的地图与Boss挑战，并加入随时调整难度、跳过平台跳跃及Boss旁直接复活等极度友好的机制。Steam好评率超过百分之九十，被称为拯救手残党的爽快之作。",
+  "stichpunkte": [
+    "游戏设定在一个诸神黄昏后、神明陨落的末世废墟世界",
+    "由刚领证的小夫妻梦魂星耀和梦西云共同开发",
+    "新娘由于自身是手残党，促使团队将开发方向从受苦转为爽快",
+    "包含数百张地图、二十一位Boss和近百种怪物，采用正统节奏",
+    "提供五大神力印记供玩家自由组合，打造专属战斗流派",
+    "拥有随时调难度、跳过平台跳跃的传送门以及Boss旁复活等机制",
+    "Steam好评率超过百分之九十，被玩家称为宝宝类银河恶魔城"
+  ],
+  "kapitel": [
+    {
+      "titel": "走进诸神陨落的末世废墟",
+      "start": 0.0
+    },
+    {
+      "titel": "从受苦到爽快的开发初衷",
+      "start": 47.6
+    },
+    {
+      "titel": "正统节奏与丰富的战斗流派",
+      "start": 90.18
+    },
+    {
+      "titel": "极度友好的机制与Steam好评",
+      "start": 132.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:03:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 207,
+  "veroeffentlicht": "2026-08-19T23:00:00+00:00",
+  "beschreibung": "这款国产类银游戏口碑逆袭。游戏设定在诸神黄昏后，玩家挑战扭曲BOSS。开发团队刚领证，新娘是手残党，把游戏从折磨人改成拯救人。打不过就降难度，跳不过就开传送门，BOSS旁有复活点。二段跳能变四段跳，无CD冲刺，战斗爽感拉满。Steam好评率超90%，玩家叫它“宝宝类银”。类银游戏一定要让玩家受苦吗？\n00:02:05:宝宝雷音：挑战难度、超越自我，让你爽翻的平台跳跃游戏！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这款国产类银游戏口碑逆袭。游戏设定在诸神黄昏后，玩家挑战扭曲BOSS。开发团队刚领证，新娘是手残党，把游戏从折磨人改成拯救人。打不过就降难度，跳不过就开传送门，BOSS旁有复活点。二段跳能变四段跳，无CD冲刺，战斗爽感拉满。Steam好评率超90%，玩家叫它“宝宝类银”。类银游戏一定要让玩家受苦吗？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:02:05:宝宝雷音：挑战难度、超越自我，让你爽翻的平台跳跃游戏！</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2d22-audiofreehighqps/34/2A/GAqh9TMOUsoaAAZdpgTF5O0D.png",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

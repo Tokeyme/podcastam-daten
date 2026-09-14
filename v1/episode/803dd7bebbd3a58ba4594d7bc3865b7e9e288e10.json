@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19648285",
+  "apple_collection_id": "812399885",
+  "show": "Talking Real Money - Investing Talk",
+  "titel": "The Jester’s Portfolio",
+  "audio": {
+    "url": "https://www.buzzsprout.com/2607021/episodes/19648285-the-jester-s-portfolio.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 32212773,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:57:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Financial advice on fixed income funds, portfolio diversification, retirement, and…",
+  "kurzfassung": "Don answers listener questions on Friday about fixed income funds, financial resource websites, and retirement planning. He evaluates the safety of government bonds versus other vehicles and discusses portfolio management strategies. Listeners also share comments on fund counts and retirement lifestyle decisions.",
+  "stichpunkte": [
+    "The G fund offers 100% stable and safe U.S. government bonds for fixed income.",
+    "Raisin and the College Investor are legitimate resources for finding high-yield savings and generic investing tips.",
+    "Retirement planning should focus on having meaningful activities and passions rather than just reaching a specific age.",
+    "Managed portfolios with around 20 funds are common, though fewer funds are generally preferred.",
+    "A net worth of $5.4 million allows a retiree to comfortably choose a single-life pension option.",
+    "Delaying Social Security until age 70 maximizes monthly benefits for survivors."
+  ],
+  "kapitel": [
+    {
+      "titel": "Audio Upgrade and Q&A",
+      "start": 59.0
+    },
+    {
+      "titel": "G Fund Fixed Income",
+      "start": 206.0
+    },
+    {
+      "titel": "Raisin and Investing Tools",
+      "start": 347.0
+    },
+    {
+      "titel": "Why Retire at All?",
+      "start": 588.0
+    },
+    {
+      "titel": "Too Many Funds?",
+      "start": 756.0
+    },
+    {
+      "titel": "Pension and Social Security Choices",
+      "start": 970.0
+    },
+    {
+      "titel": "Closing Disclosures",
+      "start": 1244.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The G fund is as good as fixed income gets",
+      "start": 242.26,
+      "ende": 268.826,
+      "laenge": 26.57,
+      "byte_start": 5872440,
+      "byte_ende": 6510035,
+      "bytes": 637596,
+      "range_header": "bytes=5872440-6510035",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 242.338,
+      "anker_sha256": "6ec02e05f190f68ee913f48bad28ae3f82f137b2894d1a7c7df6c99d16dc6924",
+      "einblendung_ms": 60,
+      "text": "The G fund offers maximum safety and stability for fixed income investors, making additional bond diversification unnecessary."
+    },
+    {
+      "hook": "Raisin helps find high-yield savings vehicles",
+      "start": 460.826,
+      "ende": 484.127,
+      "laenge": 23.3,
+      "byte_start": 11118036,
+      "byte_ende": 11677265,
+      "bytes": 559230,
+      "range_header": "bytes=11118036-11677265",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 460.904,
+      "anker_sha256": "8e3a25e1463ac7fc5690d8c9b25d152a732927db7bdb0d88925da21b54a3a3af",
+      "einblendung_ms": 60,
+      "text": "Raisin functions similarly to Bankrate as a tool for comparing high-yield savings accounts, though it is not a resource for investment education."
+    },
+    {
+      "hook": "Expect to go well into your 90s",
+      "start": 703.713,
+      "ende": 733.675,
+      "laenge": 29.96,
+      "byte_start": 16947313,
+      "byte_ende": 17666411,
+      "bytes": 719099,
+      "range_header": "bytes=16947313-17666411",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 703.791,
+      "anker_sha256": "75d53278b932a83f040baaae0f8086fa2c97d1b3165c34833a431528d7796bdf",
+      "einblendung_ms": 60,
+      "text": "Increased life expectancy means retirement now spans decades, requiring a shift in how people approach their working years."
+    },
+    {
+      "hook": "20 funds is too many for an individual",
+      "start": 904.777,
+      "ende": 925.727,
+      "laenge": 20.95,
+      "byte_start": 21772861,
+      "byte_ende": 22275665,
+      "bytes": 502805,
+      "range_header": "bytes=21772861-22275665",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 904.856,
+      "anker_sha256": "dd6572b8d952e57e766b52636d816eddcc5500f3dc03e706113aa20fc68950e9",
+      "einblendung_ms": 60,
+      "text": "Managing a portfolio of 20 different assets is overwhelming for individual investors but manageable when handled by a professional advisor."
+    },
+    {
+      "hook": "Self-insuring with a $5 million net worth",
+      "start": 1084.578,
+      "ende": 1114.697,
+      "laenge": 30.12,
+      "byte_start": 26088081,
+      "byte_ende": 26810940,
+      "bytes": 722860,
+      "range_header": "bytes=26088081-26810940",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1084.656,
+      "anker_sha256": "933c73259fb3b6d57d76575df3f9c9e6a9f1b61e55aa7dc0720cfdbd6d0c5c8b",
+      "einblendung_ms": 60,
+      "text": "With a $5 million net worth, opting for a single-life pension is viable, especially when combined with delaying Social Security until age 70 to maximize payments."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:57:11+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1338,
+  "veroeffentlicht": "2026-08-21T12:00:00-04:00",
+  "beschreibung": "Friday’s question pile ranges from the safest bond fund around to the harder question of what retirement is actually for. Don sorts through the choices with his usual preference for simple, sturdy answers.\n\nHe weighs the TSP G Fund against BND, checks the bona fides of Raisin and The College Investor, and argues that leaving work makes sense only when something better is waiting on the other side.\n\nThen comes a candid disagreement over 21-fund portfolios, followed by a pension decision for a well-funded couple who can afford to self-insure. The court may have advisors, but Don is still happy being its jester.\n\nTopics\n03:26 Is the TSP G Fund enough fixed income?\n05:47 Raisin and The College Investor: useful and legitimate?\n09:44 Retirement needs a purpose, not just an age\n12:37 Twenty-one funds, advisor complexity, and honest disagreement\n16:11 Single-life versus joint-survivor pension choices\n18:57 Social Security timing, RMDs, and a very strong retirement plan\nQuestions? Comments? Click!",
+  "beschreibung_html": "<p>Friday’s question pile ranges from the safest bond fund around to the harder question of what retirement is actually for. Don sorts through the choices with his usual preference for simple, sturdy answers.<br/><br/>He weighs the TSP G Fund against BND, checks the bona fides of Raisin and The College Investor, and argues that leaving work makes sense only when something better is waiting on the other side.<br/><br/>Then comes a candid disagreement over 21-fund portfolios, followed by a pension decision for a well-funded couple who can afford to self-insure. The court may have advisors, but Don is still happy being its jester.<br/><br/>Topics<br/>03:26 Is the TSP G Fund enough fixed income?<br/>05:47 Raisin and The College Investor: useful and legitimate?<br/>09:44 Retirement needs a purpose, not just an age<br/>12:37 Twenty-one funds, advisor complexity, and honest disagreement<br/>16:11 Single-life versus joint-survivor pension choices<br/>18:57 Social Security timing, RMDs, and a very strong retirement plan</p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2607021/fan_mail/new\">Questions? Comments? Click!</a></p>",
+  "bild_url": "https://storage.buzzsprout.com/25fp3n9crjogdsouoj4sz3dkf1ea?.jpg",
+  "schlagworte": [
+    "Friday Q&A",
+    "TSP G Fund",
+    "bonds",
+    "BND",
+    "Raisin",
+    "retirement planning",
+    "pension options",
+    "Social Security",
+    "RMDs",
+    "financial advisors"
+  ],
+  "kapitel_quelle": "betreiber"
+}

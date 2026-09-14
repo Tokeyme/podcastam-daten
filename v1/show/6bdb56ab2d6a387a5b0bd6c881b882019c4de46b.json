@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "切耳播客",
+  "apple_collection_id": "1531680541",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/19/3229578610339235846_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/19/3229578610339235846_hd.mp3",
+      "pfad": "/v1/episode/e8e23716206233ce8e560d599b9999ca18aa24ad.json",
+      "titel": "阿那亚 | 生声不息260",
+      "veroeffentlicht": "2026-08-19T13:54:29+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "带一岁半宝宝去阿那亚九期度假的详细攻略与真实体验。"
+    }
+  ]
+}

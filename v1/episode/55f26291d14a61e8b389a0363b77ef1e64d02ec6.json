@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_672825019",
+  "apple_collection_id": "1713496519",
+  "show": "教育与我和我的家庭 | 玖悦CC 演播 探讨教育 与 家庭",
+  "titel": "教育与我和我的家庭 001 痛苦与挫折",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4I_StgAEkMwgJq1pcx.m4a?channel=rss&album_id=78570188&track_id=672825019&uid=141773308&jt=https://aod.cos.tx.xmcdn.com/storages/035e-audiofreehighqps/CE/9A/GKwRIW4I_StgAEkMwgJq1pcx.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4787394,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T21:08:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨挫折教育的真实内涵与深度思考在人生逆境中的关键作用。",
+  "kurzfassung": "本期节目探讨了挫折与痛苦在人类成长中的必然性，指出挫折教育是不可或缺的重要环节。许多家长误将冷落和人为打击当作挫折教育，但这只会造成心灵伤害。应对挫折不仅需要毅力，更需要结合前瞻性的深度思考能力来应对危机。",
+  "stichpunkte": [
+    "人类诞生与成长伴随着痛苦与挫折，逆境是产生决定性东西和新发现的温床。",
+    "中国城市独生子女人格发展课题组的数据显示，大量孩子害怕困难且经不起挫折。",
+    "挫折教育起源于20世纪20年代的美国学者亚当斯，但在中国常被误解为冷落和打击。",
+    "卢梭将挫折教育定义为在顺应儿童天性、真实情景中克服自然挫折并磨练意志的教育。",
+    "芬兰的失败教育将痛苦与快乐统一，成为培养最具创新和最幸福国家的重要实践。",
+    "黄峥在拼多多发展过程中提早意识到危机并调整方向，体现了应对挫折所需的深度思考能力。",
+    "当前社会的就业、婚姻和育儿焦虑，很大程度上源于深度思考能力的缺失。",
+    "真正的进步和改变离不开有意识的观察与思考，这也是智者应对挫折的本事。"
+  ],
+  "kapitel": [
+    {
+      "titel": "痛苦与挫折的必然性",
+      "start": 15.94
+    },
+    {
+      "titel": "挫折教育的误区与卢梭的定义",
+      "start": 205.7
+    },
+    {
+      "titel": "芬兰的实践与深度思考的作用",
+      "start": 260.02
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T21:08:45+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 591,
+  "veroeffentlicht": "2023-10-12T03:30:02+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6184-audiofreehighqps/AD/F9/GKwRIUEI6a69AAf_egJhwhPX.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "6a89b7e81352af56ff3a5883",
+  "apple_collection_id": "1731814092",
+  "show": "界面文化｜编辑部聊天室",
+  "titel": "不是《奥德赛》特别，是诺兰特别",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a89b7e81352af56ff3a5883/media.xyzcdn.net/65af55c25cbe64c0cc94d690/lu2yC5LTwuOCOaKNzEuwEQB9Grdr.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 72283195,
+    "format": "m4a",
+    "geprueft_am": "2026-09-06T07:49:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨诺兰电影《奥德赛》的改编争议、古典与现代的碰撞及导演的特殊影响力。",
+  "kurzfassung": "本期播客围绕克里斯托弗·诺兰执导的电影《奥德赛》展开深入讨论。嘉宾们分析了该片对荷马史诗的现代改编、神性与世俗化的模糊处理，以及在东西方引发的巨大舆论争议。同时，节目探讨了诺兰如何在庞大的商业工业体系中保持强烈的作者表达，成为当代影坛的特殊存在。",
+  "stichpunkte": [
+    "《奥德赛》作为诺兰导演生涯票房最高的作品，在国内上映后引发了关于IMAX胶片影票和中产身份象征的关注热潮。",
+    "电影对原著进行了大幅删减与世俗化改编，淡化了神明的直接干预，将奥德修斯塑造为美德与反思的化身。",
+    "古典学家对诺兰的改编多有诟病，但嘉宾认为，若过分强调原著缺失而忽视成片本身并不公平。",
+    "黑人演员路皮塔尼奥饰演海伦等选角争议，以及盔甲的现代设计，在外网及国内引发了激烈的意识形态与文化讨论。",
+    "许知远对诺兰的访谈在海外爆火，折射出带有民族主义色彩的国际传播现象及大众对深度对谈的复杂心态。",
+    "诺兰的核心特殊性在于其身处庞大好莱坞商业体系中，却能走私自我表达并兼顾票房，达成商业与艺术的双赢。"
+  ],
+  "kapitel": [
+    {
+      "titel": "《奥德赛》热潮与电影的陌生感",
+      "start": 48.2
+    },
+    {
+      "titel": "改编争议：神性的隐退与奥德修斯的塑造",
+      "start": 310.08
+    },
+    {
+      "titel": "跨文化语境中的选角风波与舆论对立",
+      "start": 1027.34
+    },
+    {
+      "titel": "访谈现象与诺兰作为作者导演的稀缺性",
+      "start": 1708.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T07:49:14+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2245,
+  "veroeffentlicht": "2026-08-22T14:57:38+00:00",
+  "beschreibung": "截至目前，《奥德赛》已经成为诺兰导演生涯票房最高的作品。伴随着《奥德赛》商业上的成功而来的，是巨大的争议。从上映前采用黑人演员出演海伦到上映后《奥德赛》译者对影片的激烈批评，似乎每一次诺兰的新作都能引起人们的反复讨论。\n在西方的文化语境中，“奥德赛”一词已经成为远方冒险的代名词，但对于中国观众而言，这个尤为陌生的典故却在诺兰电影的影响下成为一段时间内电影市场讨论和追捧的重心。IMAX影厅票价始终居高不下，同样描写战争，《奥德赛》又被置于《欢迎来龙餐馆》的对立面，两者的碰撞成为两种价值观间的文化战争。在种种争议之间，这部漂洋过海而来的电影对于我们来说究竟意味着什么？\n02:30 《奥德赛》与我们的距离\n18:47 《奥德赛》改编所引发的种种争议\n25:05 诺兰在《奥德赛》中对文明的讨论是普世的吗？\n30:10 诺兰的独特影响力\n35:07 在商业性与作者性间寻找平衡\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>截至目前，《奥德赛》已经成为诺兰导演生涯票房最高的作品。伴随着《奥德赛》商业上的成功而来的，是巨大的争议。从上映前采用黑人演员出演海伦到上映后《奥德赛》译者对影片的激烈批评，似乎每一次诺兰的新作都能引起人们的反复讨论。</p><p>在西方的文化语境中，“奥德赛”一词已经成为远方冒险的代名词，但对于中国观众而言，这个尤为陌生的典故却在诺兰电影的影响下成为一段时间内电影市场讨论和追捧的重心。IMAX影厅票价始终居高不下，同样描写战争，《奥德赛》又被置于《欢迎来龙餐馆》的对立面，两者的碰撞成为两种价值观间的文化战争。在种种争议之间，这部漂洋过海而来的电影对于我们来说究竟意味着什么？</p><p><a class=\"timestamp\">02:30</a> 《奥德赛》与我们的距离</p><p><a class=\"timestamp\">18:47</a> 《奥德赛》改编所引发的种种争议</p><p><a class=\"timestamp\">25:05</a> 诺兰在《奥德赛》中对文明的讨论是普世的吗？</p><p><a class=\"timestamp\">30:10</a> 诺兰的独特影响力</p><p><a class=\"timestamp\">35:07</a> 在商业性与作者性间寻找平衡</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a89b7e81352af56ff3a5883?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

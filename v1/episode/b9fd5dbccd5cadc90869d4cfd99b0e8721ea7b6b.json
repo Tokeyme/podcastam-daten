@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_708719311",
+  "apple_collection_id": "1732829037",
+  "show": "2024TikTok音乐排行榜｜海外版抖音最火热门",
+  "titel": "You Belong With Me - Taylor Swift",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoJsItHAByT-QKtUTzX.m4a?channel=rss&album_id=80474367&track_id=708719311&uid=461968067&jt=https://aod.cos.tx.xmcdn.com/storages/5c57-audiofreehighqps/FB/60/GKwRIDoJsItHAByT-QKtUTzX.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1872889,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:35:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "本期节目无实际语音内容。",
+  "kurzfassung": "本期节目仅包含字幕提供信息，无具体讨论内容。听众无法从中获取关于Taylor Swift歌曲《You Belong With Me》的分析或故事。因此本期节目没有实质性的话题展开。",
+  "stichpunkte": [
+    "节目开头提供中文字幕",
+    "未涉及Taylor Swift及其歌曲《You Belong With Me》的相关讨论",
+    "无具体的访谈或内容分享",
+    "音频内容仅限于字幕提示信息",
+    "无其他主题或情节",
+    "节目迅速结束"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开始与字幕提供",
+      "start": 19.96
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:35:42+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 231,
+  "veroeffentlicht": "2024-02-25T04:55:28+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ddc6-audiofreehighqps/9A/7C/GKwRIasJpT8DAAEFdwKpMe15.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_722918513",
+  "apple_collection_id": "1752037348",
+  "show": "惊！美食博主穿越到古代绝妙神级厨艺让小饭店生意逆袭",
+  "titel": "第1章 穿越",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasJ86e4AGfLkgLGxUWP.m4a?channel=rss&album_id=81397021&track_id=722918513&uid=176145352&jt=https://aod.cos.tx.xmcdn.com/storages/8259-audiofreehighqps/46/B1/GKwRIasJ86e4AGfLkgLGxUWP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6802322,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T10:10:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "现代美食博主意外穿越至古代，接手濒临倒闭的小食店艰难求生。",
+  "kurzfassung": "现代美食博主江婉一觉醒来穿越至大景都城，发现自己成了父母双亡、食店破败的17岁少女。面对重病初愈的身体、年幼的妹妹以及离开的徒弟与伙计，她决定凭借自身厨艺让家中的小食店重新开张。在忠心仆从周瑶和司灵的陪伴下，江婉正筹备食材准备迎接新的生活挑战。",
+  "stichpunkte": [
+    "现代美食博主江婉意外穿越至大景都城云安城的一名17岁少女身上。",
+    "江婉的双亲在数月前相继离世，留下幼妹江莉和一家濒临破败的小食店。",
+    "原先的厨师陈让和店小二因食店生意衰败而相继跳槽至规模更大的瑜伽十四。",
+    "江婉病倒期间，家中琐事全靠忠心的奴仆周瑶和婢女司灵全力打理。",
+    "江婉病愈后亲自出门采买食材，并克服对狗狗的生疏安抚了家中养的狗蛋黄。",
+    "正当江婉与司灵在院中商讨午饭和重开食店时，周瑶急促通报称住家的人又来催缴租金。"
+  ],
+  "kapitel": [
+    {
+      "titel": "清晨的云安城与瑜伽十四",
+      "start": 0.0
+    },
+    {
+      "titel": "江婉的穿越记忆与身世",
+      "start": 224.42
+    },
+    {
+      "titel": "归家与伙伴们的日常",
+      "start": 619.4
+    },
+    {
+      "titel": "租金危机上门",
+      "start": 819.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T10:10:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 840,
+  "veroeffentlicht": "2024-04-16T02:38:29+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1c2e-audiofreehighqps/24/71/GKwRIasJ86WEAAUSOwLGxC7l.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

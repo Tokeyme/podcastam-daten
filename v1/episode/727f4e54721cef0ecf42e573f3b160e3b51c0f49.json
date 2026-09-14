@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1000192144",
+  "apple_collection_id": "1696512393",
+  "show": "你好，生活",
+  "titel": "雨润草木时",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOKY9KACxUTQS1lAsf.m4a?channel=rss&album_id=68302294&track_id=1000192144&uid=405155666&jt=https://aod.cos.tx.xmcdn.com/storages/f120-audiofreehighqps/DB/84/GKwRIRwOKY9KACxUTQS1lAsf.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2905165,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:27:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "雨打草木的诗意瞬间，在自然万物的生机中感受宁静与感动。",
+  "kurzfassung": "文章通过细腻的笔触描绘了雨中草木的姿态与诗意。从朋友老祠堂的芭蕉到单位大院的池塘与花草，雨水赋予了万物生机与灵气。作者在雨声与花木间体悟自然，感受生命的美好与感动。",
+  "stichpunkte": [
+    "朋友在老祠堂天井的芭蕉树下拍摄雨景，引发对雨与草木之美的联想。",
+    "作者单位的大院环境清幽，北窗临草木，南门外有池塘，是观雨听雨的绝佳去处。",
+    "夏日雨点敲打青砖地，带来极致的热闹与安静，万物在雨幕中连为一体。",
+    "雨中的铁树、柳枝、矮千牛、青蛙和鸟儿各具姿态，充满蓬勃的生命力。",
+    "作者梦想拥有带院子的养老房，并在院中种满了千牛花、月季、三角梅等多种植物。",
+    "三角梅在短短一年内从一楼窜上二楼阳台，雨天在阳台上观赏其摇曳的枝条格外惬意。",
+    "雨后风停时，作者在院子里巡视花草，欣赏水淋淋、楚楚动人的各色花卉。",
+    "再次飘起细雨时，作者不忍离去，任由雨水洒身，在蝉鸣中恍惚觉得自己也成了草木的一员。"
+  ],
+  "kapitel": [
+    {
+      "titel": "雨打芭蕉与草木之美",
+      "start": 3.06
+    },
+    {
+      "titel": "单位大院的雨中世界",
+      "start": 92.68
+    },
+    {
+      "titel": "院中花草与三角梅的生机",
+      "start": 208.7
+    },
+    {
+      "titel": "雨后巡视与化身草木的宁静",
+      "start": 261.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:27:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 358,
+  "veroeffentlicht": "2026-07-12T17:17:47+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b5ba-audiofreehighqps/59/42/GMCoOScGaVSKAACjXQFf4JCu.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group54/M05/80/70/wKgLfVwnIgmQ7EkwACQa1mJ6HFM596-aacv2-48K.m4a",
+  "apple_collection_id": "957700183",
+  "show": "阅读经典｜读书",
+  "titel": "海上的日出-巴金",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgLfVwnIgmQ7EkwACQa1mJ6HFM596-aacv2-48K.m4a?channel=rss&album_id=308077&track_id=149688693&uid=1616889&jt=https://aod.cos.tx.xmcdn.com/group54/M05/80/70/wKgLfVwnIgmQ7EkwACQa1mJ6HFM596-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1779476,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:52:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "朗读巴金散文《海上的日出》，并对其艺术特色进行简要赏析。",
+  "kurzfassung": "节目朗读了巴金的经典散文《海上的日出》，生动展现了海上日出的壮观全过程。随后，节目从细致的观察、形象的词语以及拟人手法的运用等方面，对文章的文学特色进行了简要评析。最后提及了该文短小精悍、富有诗情画意的艺术风格。",
+  "stichpunkte": [
+    "清晨船上四周清静，天边出现红霞预示太阳即将升起",
+    "太阳露出小半边脸，像负着重荷般缓慢努力上升",
+    "太阳冲破云霞跳出海面，瞬间发出夺目亮光",
+    "阳光透射水面，使水天一色，分辨不易",
+    "太阳透过厚重黑云放射光芒，为黑云镶上金边并将其染红",
+    "文章作于1927年1月，后收入《海行杂记》",
+    "作者运用丰富形象的词语生动描摹日出全过程",
+    "巧妙使用拟人手法，赋予文章动态的意境美与诗情画意",
+    "全文短小精悍，体现了作者驾驭文字的深厚功底"
+  ],
+  "kapitel": [
+    {
+      "titel": "朗读《海上的日出》",
+      "start": 5.02
+    },
+    {
+      "titel": "文章赏析与艺术特色",
+      "start": 165.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:52:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 292,
+  "veroeffentlicht": "2019-01-02T14:10:00+00:00",
+  "beschreibung": "入选理由：\n巴金的散文代表作之一；\n文章绮丽流畅、短小精悍、景物描写惟妙惟肖；\n入选中学语文教材。\n\n海上的日出\n　　巴金\n　　\n　　为了看日出，我常常早起。那时天还没有大亮，周围非常清静，船上只有机器的响声。\n　　天空还是一片浅蓝，颜色很浅。转眼间天边出现了一道红霞，慢慢地在扩大它的范围，加强它的亮光。我知道太阳要从天边升起来了，便不转眼地望着那里。\n　　果然过了一会儿，在那个地方出现了太阳的小半边脸，红是真红，却没有亮光。这个太阳好象负着重荷似地一步一步、慢慢地努力上升，到了最后，终于冲破了云霞，完全跳出了海面，颜色红得非常可爱。一刹那间，这个深红的圆东西，忽然发出了夺目的亮光，射得人眼睛发痛，它旁边的云片也突然有了光彩。\n　　有时太阳走进了云堆中，它的光线却从云里射下来，直射到水面上。这时候要分辨出哪里是水，哪里是天，倒也不容易，因为我就只看见一片灿烂的亮光。\n　　有时天边有黑云，而且云片很厚，太阳出来，人眼还看不见。然而太阳在黑云里放射的光芒，透过黑云的重围，替黑云镶了一道发光的金边。后来太阳才慢慢地冲出重围，出现在天空，甚至把黑云也染成了紫色或者红色。这时候发亮的不仅是太阳、云和海水，连我自己也成了明亮的了。\n　　这不是很伟大的奇观幺？\n　　1927年1月",
+  "beschreibung_html": "<p style=\"line-height:30px;hyphens:auto;color:#333333;text-align:justify;font-size:16px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;\" data-flag=\"normal\"><b>入选理由：</b></p><p style=\"line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:justify;color:#333333;font-size:16px;\" data-flag=\"normal\"><b>巴金的散文代表作之一；</b></p><p style=\"line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:justify;color:#333333;font-size:16px;\" data-flag=\"normal\"><b>文章绮丽流畅、短小精悍、景物描写惟妙惟肖；</b></p><p style=\"line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:justify;color:#333333;font-size:16px;\" data-flag=\"normal\"><b>入选中学语文教材。</b></p><span><br /></span><p style=\"line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:justify;color:#333333;font-size:16px;\" data-flag=\"normal\"><b><span><b>海上的日出</b></span><br /><span><b>　　巴金 </b></span><br /><b>　　 </b><br /><span><b>　　为了看日出，我常常早起。那时天还没有大亮，周围非常清静，船上只有机器的响声。 </b></span><br /><span><b>　　天空还是一片浅蓝，颜色很浅。转眼间天边出现了一道红霞，慢慢地在扩大它的范围，加强它的亮光。我知道太阳要从天边升起来了，便不转眼地望着那里。 </b></span><br /><span><b>　　果然过了一会儿，在那个地方出现了太阳的小半边脸，红是真红，却没有亮光。这个太阳好象负着重荷似地一步一步、慢慢地努力上升，到了最后，终于冲破了云霞，完全跳出了海面，颜色红得非常可爱。一刹那间，这个深红的圆东西，忽然发出了夺目的亮光，射得人眼睛发痛，它旁边的云片也突然有了光彩。 </b></span><br /><span><b>　　有时太阳走进了云堆中，它的光线却从云里射下来，直射到水面上。这时候要分辨出哪里是水，哪里是天，倒也不容易，因为我就只看见一片灿烂的亮光。 </b></span><br /><span><b>　　有时天边有黑云，而且云片很厚，太阳出来，人眼还看不见。然而太阳在黑云里放射的光芒，透过黑云的重围，替黑云镶了一道发光的金边。后来太阳才慢慢地冲出重围，出现在天空，甚至把黑云也染成了紫色或者红色。这时候发亮的不仅是太阳、云和海水，连我自己也成了明亮的了。 </b></span><br /><span><b>　　这不是很伟大的奇观幺？ </b></span><br /><span><b>　　1927年1月 </b></span><br /></b></p><span><br /></span>",
+  "bild_url": "https://fdfs.xmcdn.com/group52/M0B/82/4B/wKgLe1wnIgHDn9CcAABkN-t_Dzs566.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "guid": "https://api.spreaker.com/episode/73130842",
+  "apple_collection_id": "1464592737",
+  "show": "Road Trip Trivia",
+  "titel": "Eras Tour and Australian Shepards Trivia",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73130842/august_18th_trivia_eras_tour_and_austrailan_shepards.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T03:49:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "A birthday trivia game featuring ten questions on Taylor Swift and Australian shepherds.",
+  "kurzfassung": "Host Ali Lane presents a special birthday trivia game for Samantha from Chad. The episode includes ten questions divided evenly between The Eras Tour and Australian shepherds, followed by answers and a new bonus question. Listeners are invited to submit their own custom trivia requests via email.",
+  "stichpunkte": [
+    "Review of the previous week's bonus question about the Gilmore Girls inn, The Dragonfly Inn",
+    "Introduction of a birthday trivia game dedicated to Samantha from Chad",
+    "Five trivia questions covering Taylor Swift's The Eras Tour",
+    "Five trivia questions covering the characteristics and history of Australian shepherds",
+    "Answers provided for all ten trivia questions, including tour details and dog breed facts",
+    "Announcement of a new Australian shepherd-themed bonus question for the following week",
+    "Call to action for listeners to submit custom trivia requests via email"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-25T03:49:08+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 365,
+  "veroeffentlicht": "2026-08-18T09:50:02+00:00",
+  "beschreibung": "Happy Birthday to Samantha from Chad. 10 questions about The Eras Tour and Australian Shepherds.\n\nSend in your requests for Thursdays to ally@allylane.com\n\nTo order your own downloadable trivia games to host you own event and donate to our fundraiser https://www.etsy.com/shop/eventpartygames/",
+  "beschreibung_html": "Happy Birthday to Samantha from Chad. 10 questions about The Eras Tour and Australian Shepherds. <br /><br />Send in your requests for Thursdays to ally@allylane.com<br /><br />To order your own downloadable trivia games to host you own event  and donate to our fundraiser https://www.etsy.com/shop/eventpartygames/<a href=\"https://thebigbitterball.eventbrite.ca\" target=\"_blank\" rel=\"noreferrer noopener\"></a>",
+  "untertitel": "Happy Birthday to Samantha from Chad. 10 questions about The Eras Tour and Australian Shepherds.",
+  "bild_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/998e04e07439c586a7b309222468de53.jpg",
+  "schlagworte": [
+    "quizgame",
+    "roadtriptrivia",
+    "triviagame"
+  ],
+  "folgennummer": 22
+}

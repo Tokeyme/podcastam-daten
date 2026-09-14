@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "6a85a524ef65145dfcc21c25",
+  "apple_collection_id": "1882209167",
+  "show": "局外客厅",
+  "titel": "36.那一刻，我人麻了",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/687fdde638f036f8bf019b40/6a85a524ef65145dfcc21c25/media.xyzcdn.net/687fdde638f036f8bf019b40/lk9GpXsN_xJo3TKi-VP2KUXE2uIl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 66655108,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T14:02:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "喜剧演员们分享生活中让人大脑空白、彻底“人麻了”的尴尬与离奇经历。",
+  "kurzfassung": "几位喜剧演员齐聚一堂，围绕“那一刻，我人麻了”这一主题展开分享。节目中不仅聊到了小红书建群被官方误伤、客串电影的奇葩幕后故事，还深入探讨了网约见面的抓马遭遇以及租房时遇到诡异邻居的恐怖经历。大家通过幽默的吐槽，将生活中令人窒息的瞬间化作了爆笑段子。",
+  "stichpunkte": [
+    "于仔分享了自己在小红书建粉群发福利，结果因一毛钱返现被官方误判为“零元购诈骗”并封群的离奇经历。",
+    "沈生讲述了自己客串电影《给阿嬷的情书》的幕后趣事，包括从一开始投递男主简历到仅有三个字台词的搞笑反差。",
+    "阿方分享了早期在杭州通过交友软件网约见面，却被临时叫去家里帮忙拆玻璃门和搬电竞椅的荒诞约会过程。",
+    "阿方回忆了约会对象在深夜突然铺床、痛哭并倾诉前男友嫖娼经历的复杂情感反转。",
+    "卡卡吐槽了自己当飞行嘉宾录制综艺却惨遭“快剪”以及在小红书直播唱歌遭恶意举报的尴尬遭遇。",
+    "一位现场听众分享了自己一岁时把手指插进插座被电到“整个人麻了”的童年趣事。",
+    "沈生讲述了自己童年初中打屁股针时，护士一句“你这个屁股也洗一洗”带来的社死与无力感。",
+    "沈生分享了自己刚到上海租住老破小期间，三次在楼道阴暗角落遭遇只穿内裤的诡异男邻居的恐怖经历。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾自我介绍与电影客串趣事",
+      "start": 3.62
+    },
+    {
+      "titel": "小红书建群被封与自媒体流量焦虑",
+      "start": 374.6
+    },
+    {
+      "titel": "网约见面帮忙搬电竞椅的荒诞遭遇",
+      "start": 1649.88
+    },
+    {
+      "titel": "恋爱与见家长的奇葩下头瞬间",
+      "start": 2414.86
+    },
+    {
+      "titel": "综艺被快剪与直播遭举报的尴尬",
+      "start": 2682.38
+    },
+    {
+      "titel": "打屁股针的社死经历与租房遇到变态邻居",
+      "start": 3012.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T14:02:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4121,
+  "veroeffentlicht": "2026-08-19T13:01:13+00:00",
+  "beschreibung": "本期主播：鱼仔、沈深、阿方、刘杰森、卡卡、昌叔\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本期主播：鱼仔、沈深、阿方、刘杰森、卡卡、昌叔</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a85a524ef65145dfcc21c25?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fmgcr91w25lFzcYyphk9buC7f-dT.jpg",
+  "kapitel_quelle": "modell"
+}

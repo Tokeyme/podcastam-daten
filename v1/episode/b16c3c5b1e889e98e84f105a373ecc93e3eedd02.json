@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "69cb5035b977fb2c47b303cd",
+  "apple_collection_id": "1725668576",
+  "show": "焦叉点访谈",
+  "titel": "EP54 |从“焦虑”到“一人成军”：我们的AI使用图鉴",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64e5ccb569061666f285b2bc/69cb5035b977fb2c47b303cd/media.xyzcdn.net/64e5ccb569061666f285b2bc/liJGQkFkO89NoYoKQJcyrsPH37JK.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 56858301,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T12:14:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨AI技术在驾驶、医疗、工作及生活中的实际应用与体验。",
+  "kurzfassung": "播客成员分享了各自在日常生活和工作中实际使用AI工具的体验与感受。讨论涵盖了智能驾驶的快速迭代与法律责任、AI在医疗和长辈生活中的普及，以及大模型在办公效率、编程和内容创作方面的强大赋能。同时，嘉宾们也探讨了AI时代下人类的核心价值、基础能力的重要性以及对未来的思考。",
+  "stichpunkte": [
+    "智能驾驶技术在短短几年内快速成熟，实现全程自动驾驶，但驾驶员仍需承担安全责任。",
+    "各大互联网大厂在春节期间推广AI应用，长辈们也开始使用AI工具查询路线和生活建议。",
+    "AI大模型如Gemini和DeepSeek大幅提升了办公效率，实现一人完成多项复杂工作。",
+    "使用Manus等工具可以一键生成高质量PPT，改变了传统广告和营销行业的文案工作方式。",
+    "不会写代码的用户通过DeepSeek成功编写并迭代出计算利息的金融小系统。",
+    "AI在法律资讯搜集、心理学解梦以及古诗词格律纠错等方面提供了极大的辅助作用。",
+    "AI咨询无法完全替代人类，因为人类更能敏锐捕捉情感、语气和潜在的防御心理。",
+    "面对AI的发展，基础学习和底层思维能力依然不可或缺，AI让强者更强。",
+    "嘉宾们将AI工具比作身边的灵兽或小助手，认为其显著提升了生产效能与思维广度。"
+  ],
+  "kapitel": [
+    {
+      "titel": "智能驾驶的快速迭代与责任界定",
+      "start": 600.08
+    },
+    {
+      "titel": "AI进入日常生活：从医疗咨询到长辈的陪伴",
+      "start": 1265.42
+    },
+    {
+      "titel": "一人成军：AI大模型在工作与创作中的应用",
+      "start": 1430.36
+    },
+    {
+      "titel": "AI时代的学习、思考与人类核心价值",
+      "start": 2549.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T12:14:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3516,
+  "veroeffentlicht": "2026-03-31T04:52:23+00:00",
+  "beschreibung": "【特邀嘉宾】\n@远微， 有着90后的心态的70后，安徽和上海的混血儿，专业心理咨询师，正在帮助更多人走出情绪和心理的枷锁~\n@鲸鱼，斜杠独立单身职业女性，一不小心就去读了个国家心理咨询师，然后再一不小心考上了律师资格证，目前是一名正儿八经的律师~\n【常驻主播】\n@茱茱，MA认证分析师、ICF PCC认证学员、PLA领导力沙盘课程认证讲师、IPTS国际职业培训师（中级）、ICQAC美国国际职业培训师资格；业余手工博主、瑜伽馆老板娘、茶贩子\n@荀籽，+0心理工作室联合创始人，国家二级心理咨询师，至今已经帮助500+的同学走出心理困境，专注个人成长和亲密关系。是心理咨询圈里最会讲课，在培训圈又最懂心理的宝藏女孩！\n【划重点】\n02:00 - 10:00常用AI工具推荐 & AI的“幻觉”问题\n内容要点：\n常用工具：豆包、元宝、扣子、灵光、Kimi、DeepSeek等\nAI局限：法律案例常出错，必须核实依据（如法条是否失效）\n创作应用：适合润色、标准化内容，但不适合代写（易“死板”）\nAI视频进化：从“假”到“真”极快，宠物vlog类已具真实感\n\n10:00 - 21:00智能驾驶 & 法律责任\n内容要点：\n技术迭代快：智能驾驶一两年内从怀疑到成熟\n争议案例：自动驾驶实线变道未处罚，引发讨论\n法律界定：国家有L0-L5分级，驾驶员仍是第一责任人（除非L5）\n现状：浦东无人驾驶出租车已运营，不同级别商业保险不同\n\n21:00 - 50:00AI如何改变工作、生活与学习方式\n内容要点：\n家庭应用：父母用豆包解决日常问题，比短视频信息更可靠\n个人赋能：AI让“一人成军”成为可能，PPT、代码、数据分析门槛降低\n专业辅助：法律科普、心理学解梦、古诗词创作等，AI帮助补足知识盲区\n无法替代：AI无法理解深层情绪、创意、审美，人类核心价值仍在\n教育争议：AI不应让基础学习（英语、古诗）被忽视，底层能力仍需扎实\n\n如果你有想听的话题，可以在评论区留言\n联系我们：\n邮件happyfenger_111@163.com\n微信xuanzhang1010\n\n再次感谢您的收听与支持，希望能给你的生活带来一些亮丽的色彩，照亮每天的小美好！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>【特邀嘉宾】</p><p>@远微， 有着90后的心态的70后，安徽和上海的混血儿，专业心理咨询师，正在帮助更多人走出情绪和心理的枷锁~</p><p>@鲸鱼，斜杠独立单身职业女性，一不小心就去读了个国家心理咨询师，然后再一不小心考上了律师资格证，目前是一名正儿八经的律师~</p><p>【常驻主播】</p><p>@茱茱，MA认证分析师、ICF PCC认证学员、PLA领导力沙盘课程认证讲师、IPTS国际职业培训师（中级）、ICQAC美国国际职业培训师资格；业余手工博主、瑜伽馆老板娘、茶贩子</p><p>@荀籽，+0心理工作室联合创始人，国家二级心理咨询师，至今已经帮助500+的同学走出心理困境，专注个人成长和亲密关系。是心理咨询圈里最会讲课，在培训圈又最懂心理的宝藏女孩！</p><p>【划重点】</p><h3><strong>02:00 - 10:00</strong>常用AI工具推荐 &amp; AI的“幻觉”问题</h3><ul>  <li>内容要点：<br>常用工具：豆包、元宝、扣子、灵光、Kimi、DeepSeek等<br>AI局限：法律案例常出错，必须核实依据（如法条是否失效）<br>创作应用：适合润色、标准化内容，但不适合代写（易“死板”）<br>AI视频进化：从“假”到“真”极快，宠物vlog类已具真实感</li></ul><h3>10:00 - 21:00智能驾驶 &amp; 法律责任</h3><ul>  <li>内容要点：<br>技术迭代快：智能驾驶一两年内从怀疑到成熟<br>争议案例：自动驾驶实线变道未处罚，引发讨论<br>法律界定：国家有L0-L5分级，驾驶员仍是第一责任人（除非L5）<br>现状：浦东无人驾驶出租车已运营，不同级别商业保险不同</li></ul><h3>21:00 - 50:00AI如何改变工作、生活与学习方式</h3><ul>  <li>内容要点：<br>家庭应用：父母用豆包解决日常问题，比短视频信息更可靠<br>个人赋能：AI让“一人成军”成为可能，PPT、代码、数据分析门槛降低<br>专业辅助：法律科普、心理学解梦、古诗词创作等，AI帮助补足知识盲区<br>无法替代：AI无法理解深层情绪、创意、审美，人类核心价值仍在<br>教育争议：AI不应让基础学习（英语、古诗）被忽视，底层能力仍需扎实</li></ul><p>如果你有想听的话题，可以在评论区留言</p><p>联系我们：</p><ul>  <li>邮件happyfenger_111@163.com</li>  <li>微信xuanzhang1010</li></ul><p>再次感谢您的收听与支持，希望能给你的生活带来一些亮丽的色彩，照亮每天的小美好！</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69cb5035b977fb2c47b303cd?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FiZ00Ol3Ct2ASiBVqsVTs6OS84UB.png",
+  "kapitel_quelle": "modell"
+}

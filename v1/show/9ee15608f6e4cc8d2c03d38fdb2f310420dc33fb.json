@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The Odyssey by Homer - Audiobook",
+  "apple_collection_id": "6796030712",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/73213951",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73213951/01_book_i.mp3",
+      "pfad": "/v1/episode/47ab72cc88288f92c0eab548423a241339926d0b.json",
+      "titel": "The Odyssey - Book I",
+      "veroeffentlicht": "2026-07-06T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The gods resolve to bring Ulysses home while Minerva visits Telemachus in Ithaca."
+    }
+  ]
+}

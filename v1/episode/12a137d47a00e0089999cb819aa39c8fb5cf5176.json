@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008092521",
+  "apple_collection_id": "1875124657",
+  "show": "风风新闻",
+  "titel": "260823 午间全球新闻热点盘点",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOYFizAE1viATLF3pS.m4a?channel=rss&album_id=116386647&track_id=1008092521&uid=96886619&jt=https://aod.cos.tx.xmcdn.com/storages/a32c-audiofreehighqps/EB/22/GKwRIDoOYFizAE1viATLF3pS.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5074824,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:32:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "盘点全球外交风云、哥伦比亚强震、人形机器人运动会及女排亚锦赛首秀。",
+  "kurzfassung": "本期播客盘点了多起全球热点新闻，包括美伊核与海峡博弈及中东局势、哥伦比亚咖啡三角区遭遇7.5级强震与厄尔尼诺现象的影响。同时探讨了在北京开幕的第二届世界人形机器人运动会，以及中国女排在亚锦赛上的首秀表现。",
+  "stichpunkte": [
+    "美伊核问题与霍尔木兹海峡冲突升级，美国转向经济制裁，伊朗要求满足条件方可开海峡",
+    "以色列空袭土耳其边境叙利亚一侧，引发美以分歧并加剧叙利亚局势动荡",
+    "中东国家加快防务合作，美国在中东影响力下降，盟友对安全保护产生疑虑",
+    "哥伦比亚咖啡三角区发生7.5级强震，波及16个省，造成重大人员伤亡和经济损失",
+    "厄尔尼诺现象被预测为有记录以来最强，将引发全球极端天气并冲击农业供应链",
+    "第二届世界人形机器人运动会在北京开幕，汇聚多国队伍展示完全自主等前沿技术",
+    "中国女排在亚锦赛首秀中直落三局横扫泰国队，林盈斩获全场最高18分"
+  ],
+  "kapitel": [
+    {
+      "titel": "国际局势新动态",
+      "start": 34.54
+    },
+    {
+      "titel": "自然灾害与气候",
+      "start": 221.86
+    },
+    {
+      "titel": "科技与体育新亮点",
+      "start": 432.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:32:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 626,
+  "veroeffentlicht": "2026-08-23T06:39:23+00:00",
+  "beschreibung": "来听听今天上午的全球新闻吧",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">来听听今天上午的全球新闻吧</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a837-audiofreehighqps/D6/87/GKwRIaINWQv3AAHJ2ARltIzx.jpeg",
+  "folgennummer": 12,
+  "kapitel_quelle": "modell"
+}

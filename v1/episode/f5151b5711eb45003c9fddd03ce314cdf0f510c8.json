@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "https://api.spreaker.com/episode/74469057",
+  "apple_collection_id": "1197012668",
+  "show": "PokerGO Podcast",
+  "titel": "WSOP Ratings and Future of Broadcasts with Lance Bradley",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74469057/pokergo_podcast_8_21_26.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-26T11:16:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Lance Bradley joins Donnie Peters to discuss the WSOP ratings, ESPN return, and poker's…",
+  "kurzfassung": "Donnie Peters and veteran poker media member Lance Bradley analyze the World Series of Poker's return to ESPN, the final table viewership ratings, and the biggest stories from the summer series. Bradley shares his perspective on covering the events for ESPN.com and reflects on the rise of new champion Lucas Jumelam. The episode also touches on live poker's health and the newly released schedule for WSOP Paradise in the Bahamas.",
+  "stichpunkte": [
+    "Lance Bradley breaks down the ratings and context behind the WSOP Main Event final table broadcast on ESPN.",
+    "The hosts evaluate the pros and cons of the WSOP's return to ESPN, viewing it as a rebuilding startup phase.",
+    "Bradley discusses his biggest winners and losers from the summer series, highlighting standout performances and stories.",
+    "The conversation covers the challenges and realities of modern poker media, including the loss of online ranking systems like PocketFives.",
+    "Lance Bradley praises Main Event champion Lucas Jumelam and his supportive peer group as the future of the game.",
+    "Donnie Peters shares his thoughts on the healthy state of live poker across various regional and international events.",
+    "The full schedule for WSOP Paradise in December is reviewed, featuring twenty bracelet events and a fifty million dollar super main event guarantee."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-26T11:16:03+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5248,
+  "veroeffentlicht": "2026-08-21T17:40:23+00:00",
+  "beschreibung": "Lance Bradley joins Donnie to discuss the World Series of Poker ratings and the future of poker broadcasts on television.\n\nFollow Donnie on Twitter: @Donnie_Peters\nFollow Remko on Twitter: @RemkoRinkema\nFollow PokerGO on Twitter: @PokerGO\n\nSubscribe to PokerGO today to receive 24/7 access to the world’s largest poker content library, including High Stakes Poker, No Gamble, No Future, and more. Use the promo code PODCAST to receive $20 off your first year of a new annual subscription. Join today at PokerGO.com.\n\nPlay free poker against real players anytime, anywhere on PlayPokerGO.\n\nBuild your path to poker mastery for free with Octopi Poker.\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/pokergo-podcast--5877082/support.",
+  "beschreibung_html": "Lance Bradley joins Donnie to discuss the World Series of Poker ratings and the future of poker broadcasts on television. <br /><br />Follow Donnie on Twitter: <a href=\"https://twitter.com/Donnie_Peters\" target=\"_blank\" rel=\"noreferrer noopener\">@Donnie_Peters</a><br />Follow Remko on Twitter: <a href=\"https://x.com/RemkoRinkema\" target=\"_blank\" rel=\"noreferrer noopener\">@RemkoRinkema</a><br />Follow PokerGO on Twitter: <a href=\"https://twitter.com/PokerGO\" target=\"_blank\" rel=\"noreferrer noopener\">@PokerGO</a> <br /><br />Subscribe to PokerGO today to receive 24/7 access to the world’s largest poker content library, including High Stakes Poker, No Gamble, No Future, and more. Use the promo code PODCAST to receive $20 off your first year of a new annual subscription. Join today at <a href=\"https://www.pokergo.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PokerGO.com</a>.<br /><br />Play free poker against real players anytime, anywhere <a href=\"https://playpokergo.onelink.me/YuJc/zv8qrgev\" target=\"_blank\" rel=\"noreferrer noopener\">on PlayPokerGO</a>. <br /><br />Build your path to poker mastery for free <a href=\"https://octopipoker.ai/pricing?linkId=lp_491624&amp;sourceId=pokergo-podcast&amp;tenantId=octopipoker\" target=\"_blank\" rel=\"noreferrer noopener\">with Octopi Poker</a>. <br /><br />Become a supporter of this podcast: <a href=\"https://www.spreaker.com/podcast/pokergo-podcast--5877082/support?utm_source=rss&utm_medium=rss&utm_campaign=rss\">https://www.spreaker.com/podcast/pokergo-podcast--5877082/support</a>.",
+  "untertitel": "Lance Bradley joins Donnie to discuss the World Series of Poker ratings and the future of poker broadcasts on television. \n\nFollow Donnie on Twitter: https://twitter.com/Donnie_Peters\nFollow Remko on Twitter: https://x.com/RemkoRinkema\nFollow PokerGO...",
+  "bild_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f48c90c777a97016de8b112fa1542690.jpg",
+  "schlagworte": [
+    "betting",
+    "cards",
+    "gambling",
+    "games",
+    "holdem",
+    "poker",
+    "pokergo",
+    "sports",
+    "texasholdem",
+    "vegas",
+    "worldseriesofpoker",
+    "wsop"
+  ]
+}

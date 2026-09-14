@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group52/M03/27/3E/wKgLcFxHDk6y31JlACnZ8X0WWrY161-aacv2-48K.m4a",
+  "apple_collection_id": "1058819079",
+  "show": "听中国周刊",
+  "titel": "被烂番茄引爆的情绪",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgLcFxHDk6y31JlACnZ8X0WWrY161-aacv2-48K.m4a?channel=rss&album_id=3132101&track_id=154567823&uid=33489272&jt=https://aod.cos.tx.xmcdn.com/group52/M03/27/3E/wKgLcFxHDk6y31JlACnZ8X0WWrY161-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2062680,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:25:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "上海中兴国际学校食堂食品安全事件背后，网络传播细节与多方博弈调查",
+  "kurzfassung": "上海中兴国际学校食堂被曝出存在食品安全问题，引发家长强烈不满并迅速在网络发酵。家长在现场检查后厨时发现了烂番茄和变质洋葱，导致矛盾进一步升级。随后相关部门介入调查，涉事学校和团餐供应商均受到处理。",
+  "stichpunkte": [
+    "家长在微信群中对学校餐食的照片表示不满，指责餐食量少且品种单一",
+    "校方解释17日餐食为特色餐并已责令供应商整改，但未能平息家长情绪",
+    "家长在说明会后进入后厨检查，发现了大量冷冻食材以及腐烂的番茄和洋葱",
+    "现场家长拍摄照片并转发至微信群，导致情绪失控并报警",
+    "警方、市场监管局和教育局相继赶到现场封锁后厨并展开调查",
+    "校董从北京赶来给出解决方案，涉事学校多名管理人员被免职",
+    "相关部门对涉事团餐供应商在上海服务的其他学校食堂展开排查并立案调查"
+  ],
+  "kapitel": [
+    {
+      "titel": "食堂餐食引发家长不满",
+      "start": 65.56
+    },
+    {
+      "titel": "说明会与后厨检查发现问题",
+      "start": 174.8
+    },
+    {
+      "titel": "多方介入调查与后续处理",
+      "start": 264.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:25:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 338,
+  "veroeffentlicht": "2019-01-22T12:36:58+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group24/M08/62/8B/wKgJNVg2VYCC3rlSAAEkS_nqoYw980.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

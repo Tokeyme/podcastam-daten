@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_482010852",
+  "apple_collection_id": "1304222196",
+  "show": "安妮的情感电台",
+  "titel": "如何在两性关系中做回自己",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsFjL4UACa2tAEB7ZWA.m4a?channel=rss&album_id=7944155&track_id=482010852&uid=38876036&jt=https://aod.cos.tx.xmcdn.com/storages/7356-audiofreehighqps/6F/F6/GKwRINsFjL4UACa2tAEB7ZWA.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2537140,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:33:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨如何在两性关系中找回自我与内心平静",
+  "kurzfassung": "安妮在节目中探讨了如何在两性关系中做回自己。她指出，许多人在恋爱或婚姻中痛苦是因为将注意力过多放在伴侣和负面情绪上。唯一的解决方法是将注意力收回内心，通过独处和练习来获得平和感。",
+  "stichpunkte": [
+    "在两性关系中做回自己的核心是将全部注意力收回到自己身上",
+    "恋爱或婚姻中的痛苦多源于大脑陷入不满、委屈和抱怨等负面情绪",
+    "通过寻找安静空间静静独处，可以让痛苦和躁动的心沉淀下来",
+    "享受独处带来的安宁能够减轻人际关系中绝大部分的焦虑",
+    "社会大众往往习惯向外索取和炫耀，这背后源于心灵的痛苦和空虚",
+    "真正缺乏爱的人越想向外索取爱，反而会陷入更深的痛苦之中",
+    "真正的爱永远在自己身上，不因他人的出现而产生，也不因他人的离开而消失",
+    "必须在生活中将这些道理付诸实践，否则听再多课也无法过好一生"
+  ],
+  "kapitel": [
+    {
+      "titel": "在两性关系中找回自我",
+      "start": 2.64
+    },
+    {
+      "titel": "通过独处摆脱情感痛苦",
+      "start": 93.22
+    },
+    {
+      "titel": "向内探索寻找真正的爱与幸福",
+      "start": 191.92
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:33:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 313,
+  "veroeffentlicht": "2021-12-13T07:49:32+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6422-audiofreehighqps/C8/85/CKwRIaIFFiEdAAMW3wDi8z0V.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

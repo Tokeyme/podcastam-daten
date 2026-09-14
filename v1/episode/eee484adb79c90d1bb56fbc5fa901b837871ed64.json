@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group27/M06/76/E3/wKgJW1jsQoXi6q68AI0NGF32uPE351.m4a",
+  "apple_collection_id": "1118204060",
+  "show": "教育漫道",
+  "titel": "【教育漫道4】《弟子规》究竟是个啥？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJW1jsQoXi6q68AI0NGF32uPE351.m4a?channel=rss&album_id=4173646&track_id=35097591&uid=47698213&jt=https://aod.cos.tx.xmcdn.com/group27/M06/76/E3/wKgJW1jsQoXi6q68AI0NGF32uPE351.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9243928,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T04:48:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨《弟子规》的身世之谜及其被热捧的现象",
+  "kurzfassung": "节目深入探讨了《弟子规》的历史背景，指出其并非古代儿童蒙学经典，而是近代针对下层成年人的劝善文本。通过梳理文献与历史脉络，分析了该书在近年被宗教团体和特定推手炒作走红的原因。最后，主讲人批评了盲目将《弟子规》作为儿童教育读本的做法，认为其教条化规范不利于现代儿童的成长。",
+  "stichpunkte": [
+    "《弟子规》诞生于清代，但在清代和民国主流文献中几乎没有记载，直到近代才被印刷出版。",
+    "历史文献显示，《弟子规》最初适用于社会下层成年人，在农闲时用于劝善和普法，并非写给儿童的启蒙读物。",
+    "该书在2000至2008年间在中国大陆、台湾和新加坡爆红，曝光率甚至超过《三字经》。",
+    "台湾90年代教育自由化与宗教团体大量捐赠结缘手册，是《弟子规》流行的早期推手之一。",
+    "2004年后，净空法师及其在安徽汤池创办的文化教育中心成为大陆推广《弟子规》的最大推手。",
+    "现代心理学与教育学认为，过早让儿童成人化、用僵化教条束缚孩子会带来不可更改的创伤。",
+    "中国古代拥有海量优秀的儿童教育文本，《弟子规》在其中质量低劣，不配作为传统文化教育的核心读本。"
+  ],
+  "kapitel": [
+    {
+      "titel": "《弟子规》的身世探究",
+      "start": 75.82
+    },
+    {
+      "titel": "历史文献中的真实定位",
+      "start": 346.78
+    },
+    {
+      "titel": "近年爆红的幕后推手",
+      "start": 527.84
+    },
+    {
+      "titel": "对儿童教育的危害与反思",
+      "start": 724.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T04:48:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1141,
+  "veroeffentlicht": "2017-04-11T02:41:33+00:00",
+  "beschreibung": "更多精彩内容，请下载“师之app”收听！",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\" lang=\"en\">更多精彩内容，请下载“师之app”收听！</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group26/M01/BE/FB/wKgJRljZ0hyQkIfWAAJHUHa02Fk801.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

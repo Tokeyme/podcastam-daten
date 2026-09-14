@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "6a80f7be36641f136d88cabf",
+  "apple_collection_id": "1815851421",
+  "show": "同SC倾下偈 - 粤语播客",
+  "titel": "年青人的职业试错怎么看？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67d22a9d1f5057565d84d22f/6a80f7be36641f136d88cabf/media.xyzcdn.net/67d22a9d1f5057565d84d22f/ljP9URbqqnYGHp43VaHJYPi9itdh.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15791974,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:01:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "年轻人要不要趁年轻去职业试错？",
+  "kurzfassung": "年轻人在职业生涯中是否应该趁年轻去尝试跨界或试错，这是一个常被讨论的话题。支持者认为年轻值得去闯，但同时也伴随着极高的失败风险。因此，在迈出这一步前必须做好心理和财务上的准备，并坚守法律底线。",
+  "stichpunkte": [
+    "年轻同事放弃本专业工作去拍纪录片，引发关于职业试错的讨论",
+    "安藤忠雄和Jeffrey Bauer半路出家成为建筑大师的例子表明转行可行",
+    "果敢与冲动的区别在于最终的效果，成功了即为果敢",
+    "企业用人需求多样，既需要冒险精神的创意人才，也需要稳健的后勤人员",
+    "行业细分化让试错看似变多，但核心在于个人适应变化和承担后果的能力",
+    "现代商业模式变化极快，传统的长期稳定模式已不复存在",
+    "大部分尝试者可能面临失败，尝试前必须做好心理和财务准备",
+    "跨界尝试必须在合法和合理的前提下进行"
+  ],
+  "kapitel": [
+    {
+      "titel": "年轻人的职业试错",
+      "start": 9.6
+    },
+    {
+      "titel": "转工与试错的成功案例",
+      "start": 144.74
+    },
+    {
+      "titel": "冲动与果敢的边界",
+      "start": 269.3
+    },
+    {
+      "titel": "企业用人与团队组建",
+      "start": 296.96
+    },
+    {
+      "titel": "适应时代变化与AI冲击",
+      "start": 454.3
+    },
+    {
+      "titel": "试错的底线与心态准备",
+      "start": 869.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:01:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 976,
+  "veroeffentlicht": "2026-08-23T01:00:00+00:00",
+  "beschreibung": "本期缘起于看到身边很擅长在策展岗位的小同事离职去做导演助理，请教了前辈的看法……\n本期粤语转译：https://www.kdocs.cn/l/cdCzgTH7M4KL\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本期缘起于看到身边很擅长在策展岗位的小同事离职去做导演助理，请教了前辈的看法……</p><p>本期粤语转译：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.kdocs.cn/l/cdCzgTH7M4KL\">https://www.kdocs.cn/l/cdCzgTH7M4KL</a></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a80f7be36641f136d88cabf?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

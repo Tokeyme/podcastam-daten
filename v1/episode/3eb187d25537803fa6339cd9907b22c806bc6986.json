@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_997975512",
+  "apple_collection_id": "1501849577",
+  "show": "悬疑案件 | 扑朔迷离的案件合集",
+  "titel": "113.肇事疑案",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_cfmWvpnYusJMDMnwYsMVLupmUNzuDUuaRrBjVSkNvqbTtKvYJDSYqnkhcj-60.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 22157494,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T02:55:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述两起看似简单实则诡异复杂的交通事故背后的离奇真相。",
+  "kurzfassung": "第一起案件中，山东威海一名女子酒后无证骑电动三轮车撞死行人，为逃避责任伙同丈夫伪造轿车撞人现场并藏匿真车。第二起案件中，厦门男子酒驾撞人后不知受害者被车身橡胶圈卡住并拖拽数公里，最终因恐惧主动投案自首，揭开了一起骇人听闻的离奇惨剧。",
+  "stichpunkte": [
+    "山东威海发生了一起交通肇事案，刘姐报警称自己驾车撞人，但现场干净无痕且车辆完好。",
+    "死者经法医鉴定系三轮摩托车撞击及颅脑损伤致死，并非刘姐所称的夏利轿车。",
+    "警方通过走访和实验发现刘姐家中有两辆红色三轮摩托车，证实刘姐无证骑车撞人后企图用轿车顶包。",
+    "第二起案件发生在厦门，男子红火灶向警方投案自首称自己交通肇事逃逸并将车开进沟里。",
+    "警方在肇事面包车旁发现一具全裸女尸，且死者身上套着该车的挡风玻璃橡胶圈。",
+    "调查显示受害者小兰被撞后卡在车底，在车辆行驶的4.3公里过程中被活活磨掉衣物并拖拽致死。",
+    "红火灶及其同伙在案发后曾商议烧车掩盖痕迹并教唆自首，最终各人因罪获刑。"
+  ],
+  "kapitel": [
+    {
+      "titel": "山东威海：诡异的轿车撞人案",
+      "start": 63.44
+    },
+    {
+      "titel": "真相浮现：顶包与隐藏的三轮车",
+      "start": 766.68
+    },
+    {
+      "titel": "厦门自首案：水沟边的全裸女尸",
+      "start": 1556.36
+    },
+    {
+      "titel": "骇人真相：拖拽4.3公里的离奇惨剧",
+      "start": 2458.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T02:55:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2737,
+  "veroeffentlicht": "2026-07-06T00:00:00+08:00",
+  "beschreibung": "主播：小伟、阿达、刘雨欣\n后期：小伟\n封面：阿达",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>主播：小伟、阿达、刘雨欣</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>后期：小伟</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>封面：阿达</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5d8d-audiofreehighqps/85/F0/GKwRIJIOGjN_AA7PCgSvw76D.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

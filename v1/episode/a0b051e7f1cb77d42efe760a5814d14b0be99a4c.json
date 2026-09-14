@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006810041",
+  "apple_collection_id": "1823525261",
+  "show": "【食疗养生】健康科普，中医保健，疾病预防，营养指南",
+  "titel": "【食疗养生】避开那些你可能不知道的饮食误区，轻松迎接秋天~",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OWB6RAFUXAQTHv_Vl.m4a?channel=rss&album_id=85343100&track_id=1006810041&uid=288256255&jt=https://aod.cos.tx.xmcdn.com/storages/15ba-audiofreehighqps/18/1D/GKwRIW4OWB6RAFUXAQTHv_Vl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5576449,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T05:07:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "盘点六个常见的日常饮食误区，帮助全家吃得更健康。",
+  "kurzfassung": "节目指出了生活中常见的六大饮食误区，包括盲目多吃酸味食物、不当食用野菜、长期顿顿喝粥、用果蔬榨汁代替生吃、饭前大量喝汤以及完全戒掉主食。这些看似健康的习惯长期下来反而会损伤脾胃和肠胃功能。正确的做法是顺应身体需求，做到三餐规律、粗细搭配和适度适量。",
+  "stichpunkte": [
+    "过量摄入酸味食物或空腹猛喝柠檬水会打乱肠胃酸碱平衡，刺激胃黏膜引发不适。",
+    "野菜虽然营养价值高，但草酸和亚硝酸盐含量较高，食用前必须用沸水焯烫。",
+    "长期顿顿喝白粥会使肠胃蠕动功能和消化酶分泌退化，导致消化能力减弱。",
+    "果蔬榨汁会流失大部分膳食纤维并留下浓缩果糖，正确的做法是直接生吃整果整菜。",
+    "饭前大量喝浓汤、肉汤会严重稀释胃液，降低肠胃消化能力并造成腹胀。",
+    "完全戒掉主食会导致碳水化合物摄入不足、能量缺乏以及气血亏虚。",
+    "科学的清淡饮食应当采用糙米、燕麦等粗粮杂粮替代部分精米白面，做到粗细搭配。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目简介与六大饮食误区概述",
+      "start": 0.88
+    },
+    {
+      "titel": "误区一：盲目大量摄入酸味食物",
+      "start": 87.28
+    },
+    {
+      "titel": "误区二：健康野菜多吃多健康",
+      "start": 148.02
+    },
+    {
+      "titel": "误区三：长期顿顿喝白粥最养胃",
+      "start": 262.46
+    },
+    {
+      "titel": "误区四：果蔬榨汁喝更好吸收",
+      "start": 361.46
+    },
+    {
+      "titel": "误区五：饭前大量喝汤润肠养胃",
+      "start": 451.3
+    },
+    {
+      "titel": "误区六：不吃主食更清淡养生",
+      "start": 536.34
+    },
+    {
+      "titel": "总结与结语",
+      "start": 621.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T05:07:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 688,
+  "veroeffentlicht": "2026-08-21T08:24:00+00:00",
+  "beschreibung": "【食疗养生】避开那些你可能不知道的饮食误区，轻松迎接秋天~",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">【食疗养生】避开那些你可能不知道的饮食误区，轻松迎接秋天~<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/512f-audiofreehighqps/62/70/GAqhVp8MOsBbAAN3HQPXn5t6.jpeg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

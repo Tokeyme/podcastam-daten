@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group28/M05/1A/D8/wKgJSFkv67Xx3R7BAS63eKbI0b0616-aacv2-48K.m4a",
+  "apple_collection_id": "997693108",
+  "show": "老汪谈职场",
+  "titel": "走进电台直播间",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJSFkv67Xx3R7BAS63eKbI0b0616-aacv2-48K.m4a?channel=rss&album_id=359263&track_id=39488179&uid=2840731&jt=https://aod.cos.tx.xmcdn.com/group28/M05/1A/D8/wKgJSFkv67Xx3R7BAS63eKbI0b0616-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 14916646,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T06:13:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "资深HR老汪做客电台，分享个人多元经历与新书《老汪谈职场》中的实用职场生存技能。",
+  "kurzfassung": "本期节目为主播老汪做客北京人民广播电台《青春晚自习》的录音内容。老汪结合自己从理工科到警察再到外企HR的丰富跨界经历，探讨了职业规划的方法论。同时，节目详细拆解了他所著的《老汪谈职场》一书，重点分享了理智跳槽的四大步骤以及如何避免情绪化决策。",
+  "stichpunkte": [
+    "老汪分享了时隔20年再次走进国家级广播电台录音棚的幕后花絮与真实感受。",
+    "老汪回顾了自己的多元人生轨迹，包括东北师范大学师范生、警校老师、工科工程师及外企HR的跨界经历。",
+    "针对职业规划，老汪提出了“向前看很难，往回看很清晰”的资源整合与路径复盘理论。",
+    "老汪介绍并推荐了其撰写的职场工具书《老汪谈职场》，该书涵盖职业选择、管理老板、办公室政治等核心议题。",
+    "针对职场人普遍关心的跳槽问题，老汪建议离职前应设定截止日期、盘点显隐性资源、设定疯狂目标及明确新工作画像。",
+    "老汪提醒职场人切忌因一時不快而做出情绪化的跳槽决定，建议通过文字梳理等方式保持理智决策。"
+  ],
+  "kapitel": [
+    {
+      "titel": "走进北京人民广播电台的幕后花絮",
+      "start": 36.64
+    },
+    {
+      "titel": "老汪的多元跨界经历与职业规划方法论",
+      "start": 519.58
+    },
+    {
+      "titel": "《老汪谈职场》一书的章节设计与职场技能",
+      "start": 1041.4
+    },
+    {
+      "titel": "想辞职时需要做好的四件事情与应对情绪化跳槽",
+      "start": 1710.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T06:13:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2450,
+  "veroeffentlicht": "2017-06-01T10:33:53+00:00",
+  "beschreibung": "上个礼拜去北京出差的时候，顺路去了趟北京人民广播电台，录了档节目《青春晚自习》，和主持人俊杰老师聊得很嗨，整个过程还真蛮有意思的，这一期节目，除了放出电台录制的节目之外，我再来和大家嘚啵嘚一下走进电台直播间的各种体验，用语音来回放一下全过程。",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;hyphens:auto\" data-flag=\"normal\" lang=\"en\">上个礼拜去北京出差的时候，顺路去了趟北京人民广播电台，录了档节目《青春晚自习》，和主持人俊杰老师聊得很嗨，整个过程还真蛮有意思的，这一期节目，除了放出电台录制的节目之外，我再来和大家嘚啵嘚一下走进电台直播间的各种体验，用语音来回放一下全过程。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group12/M01/61/80/wKgDW1cu62OAgmSMAA59lcwgTt0579.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

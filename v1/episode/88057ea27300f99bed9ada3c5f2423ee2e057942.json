@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_830170183",
+  "apple_collection_id": "1798211305",
+  "show": "旅行分享，一直在路上",
+  "titel": "冬游老君山，一睹人间盛世颜",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqhntALwcnTABAAAAONAgJM.m4a?channel=rss&album_id=86535159&track_id=830170183&uid=402793670&jt=https://aod.cos.tx.xmcdn.com/storages/f875-audiofreehighqps/6C/C7/GAqhntALwcnTABAAAAONAgJM.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5703922,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:46:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "冬游老君山经历大雪封路，收获雪后水墨仙境与金顶夜景。",
+  "kurzfassung": "自驾前往老君山途中遭遇大雪封路和连环车祸，历经四个小时艰难抵达。次日雪停后，老君山呈现出云海雪山与金顶亮灯的美景。民宿体验温馨，行程最后在回忆中圆满结束。",
+  "stichpunkte": [
+    "自驾老君山遭遇大雪封路与打滑，历时四小时惊险抵达",
+    "建议雪天自驾避免带老人小孩，乘坐缆车或机场快线更为稳妥",
+    "雪后老君山景色如水墨画，缆车外云海雪山连绵起伏",
+    "山脊线积雪清晰，游客在咯吱作响的雪地上游玩十分快乐",
+    "金顶亮灯瞬间极为惊艳，群灯映衬白雪宛如仙境",
+    "提醒游客观看夜景需算准日落时间并提前查好运营时刻表",
+    "山脚民宿提供汉服拍照与热腾腾的包子小米粥早餐",
+    "提醒拍照爱好者做好相机保暖并携带备用电池"
+  ],
+  "kapitel": [
+    {
+      "titel": "雪天自驾老君山的惊险路程",
+      "start": 11.22
+    },
+    {
+      "titel": "雪后老君山的绝美风光与金顶夜景",
+      "start": 59.88
+    },
+    {
+      "titel": "民宿体验与山地旅游实用建议",
+      "start": 112.72
+    },
+    {
+      "titel": "行程总结与告别",
+      "start": 133.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:46:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 176,
+  "veroeffentlicht": "2025-04-01T15:34:36+00:00",
+  "beschreibung": "主播带你走进冬日老君山。主播年初自驾带全家前往，途中遇雪，路况惊险。到达后，雪后的老君山宛如童话世界，乘缆车、爬步道，沿途风景美不胜收，还能感受道教文化。主播分享实用攻略，如交通、门票、保暖、防滑等要点，也提及小插曲与反思，强调安全第一，助你开启难忘之旅。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>主播带你走进冬日老君山。主播年初自驾带全家前往，途中遇雪，路况惊险。到达后，雪后的老君山宛如童话世界，乘缆车、爬步道，沿途风景美不胜收，还能感受道教文化。主播分享实用攻略，如交通、门票、保暖、防滑等要点，也提及小插曲与反思，强调安全第一，助你开启难忘之旅。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e660-audiofreehighqps/94/00/GAqhntALwcpcAARdbgONAlHP.jpeg",
+  "kapitel_quelle": "modell"
+}

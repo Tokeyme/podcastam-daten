@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_865748159",
+  "apple_collection_id": "1819256105",
+  "show": "冈昜Q音乐先锋音乐区",
+  "titel": "冈昜Q音乐总裁马化丁的Mashup②——来财！大展宏图！Tung Tung Tung Tung Sahur！！！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasMGl8FAB49qwPCb-KU.m4a?channel=rss&album_id=93675962&track_id=865748159&uid=549012441&jt=https://aod.cos.tx.xmcdn.com/storages/906b-audiofreehighqps/35/A3/GKwRIasMGl8FAB49qwPCb-KU.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1981867,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:57:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "充满节奏感与搞笑元素的音乐串烧与声音拼贴创作。",
+  "kurzfassung": "本期节目包含一系列充满动感和幽默感的音乐串烧与声音拼贴。内容穿插了各种祝发财、吉祥话以及独特的英文说唱片段。整体呈现出一种轻松、魔性且富有娱乐性的声音氛围。",
+  "stichpunkte": [
+    "开场持续的大笑与热闹的声效",
+    "充满喜庆与发财主题的口号串烧",
+    "穿插方位与传统吉祥祝福语",
+    "加入独特的英文说唱与节拍段落",
+    "重复出现别墅、银龙鱼等魔性歌词",
+    "结尾部分包含英文歌词与动感节奏"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场大笑与发财串烧",
+      "start": 6.24
+    },
+    {
+      "titel": "英文说唱与节奏段落",
+      "start": 174.32
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:57:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 244,
+  "veroeffentlicht": "2025-06-07T20:06:59+00:00",
+  "beschreibung": "和冈昜Q音乐总裁马化丁一起大展宏图！一起来财！一起Tung Tung Tung Tung Sahur！！！\n编曲、混音、母带、视频制作、策划：冈昜Q音乐总裁马化丁\n\n音乐来自：\n八方来财——揽佬\n大展宏图——揽佬\nDisco Peanuts——Warmduscher;Nuha Ruby Ra\nRing a Digidoo——Fat Dog\n学院派说唱——《G.I.F.T》",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>和冈昜Q音乐总裁马化丁一起大展宏图！一起来财！一起Tung Tung Tung Tung Sahur！！！<br><span>编曲、混音、母带、视频制作、</span>策划：冈昜Q音乐总裁马化丁 <br></span><span><br>音乐来自： <br>八方来财——揽佬 <br>大展宏图——揽佬</span><span>&nbsp;<br>Disco Peanuts——Warmduscher;Nuha Ruby Ra <br>Ring a Digidoo——Fat Dog <br>学院派说唱——《G.I.F.T》</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f0a5-audiofreehighqps/B0/37/GAqhntAMGjMNAAlhZAPCZ7zn.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

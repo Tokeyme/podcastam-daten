@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_925878824",
+  "apple_collection_id": "1849306076",
+  "show": "汪氏三联：读书 观点 对谈",
+  "titel": "EP1: 我是谁",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIM1ye1ABAAAAQrujUs.m4a?channel=rss&album_id=109391662&track_id=925878824&uid=250268833&jt=https://aod.cos.tx.xmcdn.com/storages/fbf4-audiofreehighqps/39/35/GKwRIaIM1ye1ABAAAAQrujUs.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2959687,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:04:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "汪氏三联播客首期节目，介绍主播背景与节目规划。",
+  "kurzfassung": "本期节目是汪氏三联的第一期，由在美国攻读认知心理学博士的主播淑宁介绍自己的个人背景与兴趣爱好。主播分享了自己为何决定制作播客，并详细说明了节目的两大主要形式：个人分享与嘉宾对谈。节目预计每两周更新一次，旨在通过交流与碰撞激发更多思考。",
+  "stichpunkte": [
+    "淑宁在美国攻读认知心理学博士，研究决策、自我控制和认知努力",
+    "平时喜欢读书、写作并与周围的朋友和家人进行深入交流",
+    "希望将日常有价值的讨论记录并分享，因此决定制作这档播客",
+    "节目内容分为两部分：个人基于研究和阅读的观点分享，以及与朋友、同学的对谈",
+    "对谈环节将探讨有趣的故事、经历或社会热点话题",
+    "节目计划每两周更新一次，单集时长控制在30分钟以内",
+    "希望通过写作与交流激发思考，并在不断的碰撞中形成良性循环"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与自我介绍",
+      "start": 0.84
+    },
+    {
+      "titel": "播客创作初衷",
+      "start": 80.76
+    },
+    {
+      "titel": "节目内容与更新计划",
+      "start": 86.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:04:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 186,
+  "veroeffentlicht": "2025-10-29T00:50:02+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/fee3-audiofreehighqps/1D/34/GKwRIUEM1yewAADMvQQrujLs.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

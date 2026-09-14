@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19642667",
+  "apple_collection_id": "1520796424",
+  "show": "Holistic Life Navigation",
+  "titel": "[Ep. 346] Kids + Dysphoria: It Doesn't Always Mean They're Trans",
+  "audio": {
+    "url": "https://www.buzzsprout.com/278649/episodes/19642667-ep-346-kids-dysphoria-it-doesn-t-always-mean-they-re-trans.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 14541047,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:49:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Why puberty-related body dysphoria in children does not automatically mean they are trans.",
+  "kurzfassung": "Host Luis Mojica discusses the difference between sex dysphoria and gender dysphoria during childhood and puberty. Drawing on his personal experience as an intersex man, he explains how lack of cultural guidance and social pressures can lead teenagers to question their bodies. He emphasizes that gender nonconformity and discomfort during puberty do not necessarily indicate that a child was born in the wrong body.",
+  "stichpunkte": [
+    "Puberty is a major physical and emotional transition spanning eight to ten years.",
+    "Mojica shares his background as an intersex man who experienced severe body dysphoria and benefited from top surgery at age 23.",
+    "Modern culture often conflates sex (biological reality) with gender (social roles and stereotypes).",
+    "The term 'assigned male or female at birth' originated from advocacy for intersex children subjected to non-consensual surgeries.",
+    "True sex dysphoria often manifests at an early age, such as four or five, whereas puberty distress is frequently a normal reaction to bodily changes.",
+    "Lack of traditional rites of passage and the influence of social media can make physical changes overwhelming for adolescents.",
+    "Distinguishing between societal pressure and true sex dysphoria is crucial for parents supporting teenagers.",
+    "Transsexual adults who undergo proper evaluation and medical transition can live healthy, fulfilling lives."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Personal Background",
+      "start": 84.84
+    },
+    {
+      "titel": "Conflating Sex, Gender, and Intersex History",
+      "start": 229.56
+    },
+    {
+      "titel": "Puberty, Dysphoria, and the Loss of Rites of Passage",
+      "start": 628.6
+    },
+    {
+      "titel": "Discernment Between Gender Nonconformity and Trans Identity",
+      "start": 804.2
+    },
+    {
+      "titel": "Closing Thoughts and Resources",
+      "start": 1059.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Puberty as a cause of dysphoria",
+      "start": 129.358,
+      "ende": 154.854,
+      "laenge": 25.5,
+      "byte_start": 1607799,
+      "byte_ende": 1913745,
+      "bytes": 305947,
+      "range_header": "bytes=1607799-1913745",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 129.437,
+      "anker_sha256": "481c3de886aff8be04d9a019f53346adc1a3c01703ab6cf273afad42b30607f6",
+      "einblendung_ms": 60,
+      "text": "Puberty frequently triggers distress when families lack the capacity to properly guide adolescents through their physical transformation."
+    },
+    {
+      "hook": "Intersex experiences in the population",
+      "start": 373.264,
+      "ende": 394.24,
+      "laenge": 20.98,
+      "byte_start": 4534663,
+      "byte_ende": 4786378,
+      "bytes": 251716,
+      "range_header": "bytes=4534663-4786378",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 373.342,
+      "anker_sha256": "e48874e9823604e1ea9b77d20a9346a8fb08251840244c54e469cbd471edaeb3",
+      "einblendung_ms": 60,
+      "text": "An intersex condition affects merely one to two percent of the population, involving a mix of male and female traits during adolescence due to hormone shifts."
+    },
+    {
+      "hook": "Who really assigns sex?",
+      "start": 543.425,
+      "ende": 573.544,
+      "laenge": 30.12,
+      "byte_start": 6576603,
+      "byte_ende": 6938032,
+      "bytes": 361430,
+      "range_header": "bytes=6576603-6938032",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 543.504,
+      "anker_sha256": "f4b33a11b7198952874d20fe2f57e91aa6f47bda9fcf96f3a2670616e3527f18",
+      "einblendung_ms": 60,
+      "text": "Assigning sex categories at birth places industrial and human systems above biological reality and originates from advocacy efforts protecting intersex youth."
+    },
+    {
+      "hook": "Life-saving discernment for parents",
+      "start": 803.579,
+      "ende": 833.672,
+      "laenge": 30.09,
+      "byte_start": 9698444,
+      "byte_ende": 10059560,
+      "bytes": 361117,
+      "range_header": "bytes=9698444-10059560",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 803.657,
+      "anker_sha256": "526ed73194afd27515a9ece0ee59481cf53b53aa0009c98ab774c9d6c27ef513",
+      "einblendung_ms": 60,
+      "text": "Distinguishing between non-conforming behavior and genuine identity distress prevents unnecessary medical procedures for young people."
+    },
+    {
+      "hook": "Environment versus the wrong body",
+      "start": 1067.938,
+      "ende": 1098.057,
+      "laenge": 30.12,
+      "byte_start": 12870755,
+      "byte_ende": 13232184,
+      "bytes": 361430,
+      "range_header": "bytes=12870755-13232184",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1068.016,
+      "anker_sha256": "c8ae0c4be6a4431ebfd64539ea749901ae74efb6ca29994f9de136384894ae80",
+      "einblendung_ms": 60,
+      "text": "Adolescent discomfort often stems from unsupportive home environments rather than a mismatched biological identity, requiring parents to improve their community backing."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:49:15+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1129,
+  "veroeffentlicht": "2026-08-23T08:00:00-04:00",
+  "beschreibung": "We, or our children, can be gender non-conforming, or have body dysphoria and not be trans. There is nothing wrong with bodies in puberty (which is an inherently dysphoric experience): the problem is with our culture, families and society not having rites of passage, and not knowing how to support and hold space for teenage bodies as they mature.\nDive into this podcast, and for a more in-depth exploration, join us for our six-month Embodied Parenting Slow Group, starting Tuesday October 6th. (There will be a live bonus session specifically about this topic offered to Embodied Parenting slow group attendees.)\nFor more of our podcasts related to dysphoria, discussions about the trans experience, and de-transitioning, check out podcast episodes: 169, 261, 262, and 280.\nYou can register for the Embodied Parenting webinar here: https://hln.thinkific.com/courses/embodied-parenting-webinar\nYou can also read more about, and register for, the 6 month program here: https://www.holisticlifenavigation.com/parenting-group\nYou can read more about, and register for, the workshop at Kripalu here: https://kripalu.org/experiences/food-therapy-how-eat-your-nervous-system\n----\n\nYou can learn more on the website: https://www.holisticlifenavigation.com/\nYou can follow Luis on Instagram @holistic.life.navigation\n\nQuestions? You can email us at info@holisticlifenavigation.com",
+  "beschreibung_html": "<p>We, or our children, can be gender non-conforming, or have body dysphoria and not be trans. There is nothing wrong with bodies in puberty (which is an inherently dysphoric experience): the problem is with our culture, families and society not having rites of passage, and not knowing how to support and hold space for teenage bodies as they mature. </p><p>Dive into this podcast, and for a more in-depth exploration, join us for our six-month Embodied Parenting Slow Group, starting Tuesday October 6th. (There will be a live bonus session specifically about this topic offered to Embodied Parenting slow group attendees.)</p><p>For more of our podcasts related to dysphoria, discussions about the trans experience, and de-transitioning, check out podcast episodes: <a href='https://www.buzzsprout.com/278649/episodes/12173414'>169</a>, <a href='https://www.buzzsprout.com/278649/episodes/17067149'>261</a>, <a href='https://www.buzzsprout.com/278649/episodes/17078910'>262</a>, and <a href='https://www.buzzsprout.com/278649/episodes/17386166'>280</a>.</p><p>You can register for the Embodied Parenting webinar here: <a href='https://hln.thinkific.com/courses/embodied-parenting-webinar'>https://hln.thinkific.com/courses/embodied-parenting-webinar</a></p><p>You can also read more about, and register for, the 6 month program here: <a href='https://www.holisticlifenavigation.com/parenting-group'>https://www.holisticlifenavigation.com/parenting-group</a></p> <p>You can read more about, and register for, the workshop at Kripalu here: <a href='https://kripalu.org/experiences/food-therapy-how-eat-your-nervous-system'>https://kripalu.org/experiences/food-therapy-how-eat-your-nervous-system</a></p><p>----<br/><br/>You can learn more on the website: <a href='https://www.holisticlifenavigation.com/'>https://www.holisticlifenavigation.com/</a></p><p>You can follow Luis on Instagram <a href='https://www.instagram.com/holistic.life.navigation/'>@holistic.life.navigation</a><br/><br/>Questions? You can email us at <a href='mailto:info@holisticlifenavigation.com'>info@holisticlifenavigation.com</a></p>",
+  "bild_url": "https://storage.buzzsprout.com/ede1ne5sd4tt63v78urjy9qjin7c?.jpg",
+  "kapitel_quelle": "modell"
+}

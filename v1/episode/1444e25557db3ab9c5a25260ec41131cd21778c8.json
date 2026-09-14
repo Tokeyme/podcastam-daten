@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008140107",
+  "apple_collection_id": "1645823973",
+  "show": "成人睡前故事｜温柔男声哄睡夜听治愈助眠晚安电台",
+  "titel": "【治愈哄睡】怕黑的小鹿",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAOYKZcAFS0ngTLPfrU.m4a?channel=rss&album_id=71029167&track_id=1008140107&uid=390798501&jt=https://aod.cos.tx.xmcdn.com/storages/226e-audiofreehighqps/22/47/GKwRIMAOYKZcAFS0ngTLPfrU.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5551262,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T04:47:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "一只怕黑的小鹿在神秘鹿的陪伴下战胜恐惧，与星光融为一体。",
+  "kurzfassung": "森林里有一只名叫小柔的小鹿，它一直非常害怕黑夜。直到有一天，它遇到了带着星光花的小星，并在她的引领下发现了夜晚的美丽与温柔。最终，小柔不仅克服了对黑暗的恐惧，还与小星成为了互相陪伴的伙伴。",
+  "stichpunkte": [
+    "小柔独自住在森林深处，每当夜幕降临便会因为害怕黑夜而躲藏起来",
+    "神秘的鹿小星带着发光的星光花出现，主动接近并试图带小柔感受夜晚的美好",
+    "小星送给小柔星光花，并带她穿过萤火虫草地，欣赏美丽的北斗七星",
+    "小星用星光花帮助了一只受惊的迷路猫头鹰，让小柔体会到夜晚的意义",
+    "两人来到月光草湖畔，小星为小柔编织了发光的草环，驱散了她的恐惧",
+    "小星坦白自己曾害怕孤独，两人的心在此刻紧紧相连",
+    "在云层遮蔽月亮的黑暗中，小星用花朵搭起发光的小帐篷，彼此依偎",
+    "黎明到来时，小柔不再害怕黑暗，并与小星一起开始在夜色中为迷路动物引路",
+    "秋夜星空下，两人的感情进一步加深，彼此约定在夜色中永远留下一盏光芒"
+  ],
+  "kapitel": [
+    {
+      "titel": "小柔的恐惧与小星的出现",
+      "start": 10.08
+    },
+    {
+      "titel": "星光花的指引与森林的夜色",
+      "start": 206.04
+    },
+    {
+      "titel": "月光草畔的倾诉与共鸣",
+      "start": 291.82
+    },
+    {
+      "titel": "浓黑夜色中的帐篷与相依",
+      "start": 405.88
+    },
+    {
+      "titel": "战胜恐惧与永恒的星光之约",
+      "start": 519.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T04:47:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 685,
+  "veroeffentlicht": "2026-08-23T12:10:26+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d643-audiofreehighqps/E6/CC/GAqhRAAOQPQaAANy-gS_cLF2.jpeg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

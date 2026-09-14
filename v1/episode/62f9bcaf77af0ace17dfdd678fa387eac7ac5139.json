@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19649773",
+  "apple_collection_id": "1507621076",
+  "show": "Tech Won't Save Us",
+  "titel": "Tech Fascism Has Come for American Democracy w/ Gil Durán",
+  "audio": {
+    "url": "https://pscrb.fm/rss/p/www.buzzsprout.com/1004689/episodes/19649773-tech-fascism-has-come-for-american-democracy-w-gil-duran.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 47512411,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:33:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "How Silicon Valley billionaires weaponized technology to dismantle American democracy.",
+  "kurzfassung": "Gil Durán discusses his new book, The Nerd Right, examining how Silicon Valley billionaires have embraced fascist ideologies and partnered with the MAGA movement to erode American democracy. The conversation explores the historical roots of cyber-libertarianism, Peter Thiel's influence on figures like J.D. Vance, and the role of crypto and AI in modern political corruption. Ultimately, the discussion highlights the urgent need for public awareness and resistance against this oligarchic threat.",
+  "stichpunkte": [
+    "Gil Durán authored The Nerd Right, examining Silicon Valley's shift toward fascism and the threat it poses to democracy.",
+    "Joe Biden's final presidential speech warned against a radical capitalist cabal and oligarchy forming in Silicon Valley.",
+    "The ideological roots trace back to books like The Sovereign Individual, which predicted that technology would destroy nation-states.",
+    "Peter Thiel heavily influenced modern politics by mentoring figures like J.D. Vance and promoting anti-democratic philosophies.",
+    "Crypto and generative AI have become massive mechanisms for political corruption and the concentration of billionaire power.",
+    "The Trump family and Silicon Valley oligarchs have enmeshed their interests, creating a regime combining government power and tech surveillance.",
+    "Mainstream media and political establishments often fail to take this extremist ideology seriously due to revenue dependencies and fear.",
+    "Public grassroots pushback, such as protests against data centers, offers hope for resisting the billionaire class."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Biden's Warning",
+      "start": 246.64
+    },
+    {
+      "titel": "Origins in San Francisco Politics",
+      "start": 422.24
+    },
+    {
+      "titel": "Peter Thiel and The Sovereign Individual",
+      "start": 807.36
+    },
+    {
+      "titel": "The Cult of Tech Fascism",
+      "start": 1860.4
+    },
+    {
+      "titel": "Media Silence and the Trump Alliance",
+      "start": 2513.36
+    },
+    {
+      "titel": "AI, Crypto, and Countering Oligarchy",
+      "start": 3134.8
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Joe Biden warned us about Silicon Valley billionaires threatening democracy.",
+      "start": 353.672,
+      "ende": 383.765,
+      "laenge": 30.09,
+      "byte_start": 5066334,
+      "byte_ende": 5427450,
+      "bytes": 361117,
+      "range_header": "bytes=5066334-5427450",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 353.75,
+      "anker_sha256": "1a4eb156524fc9683bfd2dbdc8281d09020001b5833f4222496493d9ed318f20",
+      "einblendung_ms": 60,
+      "text": "Gil Durán discusses how wealthy tech figures in Silicon Valley view the dismantling of democratic governance as their primary mission."
+    },
+    {
+      "hook": "The 1997 prophecy that technology would destroy nation-states and democracy.",
+      "start": 996.101,
+      "ende": 1026.22,
+      "laenge": 30.12,
+      "byte_start": 12775487,
+      "byte_ende": 13136916,
+      "bytes": 361430,
+      "range_header": "bytes=12775487-13136916",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 996.18,
+      "anker_sha256": "dcffe0b705ce52b6393b099c4465d17323cbf532419187ccf440967bb7217d31",
+      "einblendung_ms": 60,
+      "text": "A speaker reflects on early digital ventures and global expansion involving major corporations like Bloomberg and Google."
+    },
+    {
+      "hook": "Peter Thiel created a cult of billionaires aiming to destroy democracy.",
+      "start": 1859.997,
+      "ende": 1890.116,
+      "laenge": 30.12,
+      "byte_start": 23142233,
+      "byte_ende": 23503662,
+      "bytes": 361430,
+      "range_header": "bytes=23142233-23503662",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1860.075,
+      "anker_sha256": "336dcff84c172e4b4c29c37eab6c44f1f5c6dea3c1e16887ea311e0d9890b66c",
+      "einblendung_ms": 60,
+      "text": "Peter Thiel is described as leading a network of wealthy individuals aiming to undermine democratic systems through digital tools, building influence from fringe online spaces."
+    },
+    {
+      "hook": "Crypto is a weapon of mass corruption to openly buy and bribe politicians.",
+      "start": 2905.861,
+      "ende": 2935.954,
+      "laenge": 30.09,
+      "byte_start": 35692607,
+      "byte_ende": 36053722,
+      "bytes": 361116,
+      "range_header": "bytes=35692607-36053722",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2905.94,
+      "anker_sha256": "17f75c01b9dc4cb90d94462437113793659f0eddf5879002ebde3b30a38ac1e8",
+      "einblendung_ms": 60,
+      "text": "Cryptocurrency ventures linked to Donald Trump's family are framed as instruments for political corruption and financial transactions."
+    },
+    {
+      "hook": "The billionaires should be afraid of the people, not the other way around.",
+      "start": 3818.919,
+      "ende": 3840.966,
+      "laenge": 22.05,
+      "byte_start": 46649302,
+      "byte_ende": 46913869,
+      "bytes": 264568,
+      "range_header": "bytes=46649302-46913869",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3818.998,
+      "anker_sha256": "78af5f71eeed7f3ec700dbfe0577cd9df5f489453b8bf9a95ce463b1142995bd",
+      "einblendung_ms": 60,
+      "text": "The discussion concludes that the US population outnumbers its ultra-wealthy class and should not yield to their influence."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:33:16+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3885,
+  "veroeffentlicht": "2026-08-20T03:00:00-04:00",
+  "beschreibung": "A cult of fascist ideology has gripped Silicon Valley, and the tech industrial complex is threatening US democracy. Gil Durán joins Paris Marx to discuss the radical billionaire cabal that is hellbent on the consolidation of corporate and political power, including the visions they have for the future and the strategies they’re using to drive us there.\nGil Durán is the author of The Nerd Reich: Silicon Valley Fascism and the War on Democracy and writes The Nerd Reich newsletter.\nThe podcast is made in partnership with The Nation. Production is by Kyla Hewson. Support the show on Patreon.\nAlso mentioned in this episode:\nClick here to get your first month of Proton Mail for just $1.\nGil has written about Paulina Borsook’s prescient warning about tech libertarians from more than twenty years ago.\nGil has written the foreword for the new edition of Cyberselfish.\nBalaji Srinivasan has moved his commune project to Kazakhstan after being booted from Malaysia.\nShout-out to friend of the pod Quinn Slobodian, who’s work you can find here. Paris recently talked to Quinn, check out that episode here if you missed it.\n\nSupport the show",
+  "beschreibung_html": "<p>A cult of fascist ideology has gripped Silicon Valley, and the tech industrial complex is threatening US democracy. Gil Durán joins Paris Marx to discuss the radical billionaire cabal that is hellbent on the consolidation of corporate and political power, including the visions they have for the future and the strategies they’re using to drive us there.</p><p>Gil Durán is the author of <a href='https://bookshop.org/a/18331/9781668221402'><em>The Nerd Reich: Silicon Valley Fascism and the War on Democracy</em></a> and writes <a href='https://www.thenerdreich.com'>The Nerd Reich</a> newsletter. </p><p>The podcast is made in partnership with <em>The Nation</em>. Production is by Kyla Hewson. Support the show on <a href='https://www.patreon.com/techwontsaveus'>Patreon</a>.</p><p>Also mentioned in this episode:</p><ul><li><b>Click </b><a href='https://go.getproton.me/aff_c?offer_id=7&amp;aff_id=12694&amp;source=podcast&amp;url_id=920'><b>here</b></a><b> to get your first month of Proton Mail for just $1.</b></li><li>Gil has written about <a href='https://www.thenerdreich.com/cyberselfish-returns/'>Paulina Borsook’s</a> prescient warning about tech libertarians from more than twenty years ago.</li><li>Gil has written the foreword for the new edition of <a href='https://bookshop.org/a/18331/9781638935797'><em>Cyberselfish</em></a>.</li><li>Balaji Srinivasan has moved his <a href='https://fortune.com/2026/07/26/network-school-balaji-srinivasan-malaysia-johor-israel-kazakhstan/'>commune project to Kazakhstan</a> after being booted from Malaysia. </li><li>Shout-out to friend of the pod Quinn Slobodian, who’s work you can <a href='https://www.quinnslobodian.com/public-writing'>find here</a>. Paris recently talked to Quinn, check out that <a href='https://techwontsave.us/episode/327_muskism_is_the_new_fordism_w_ben_tarnoff__quinn_slobodian'>episode here</a> if you missed it.</li></ul><p><a rel=\"payment\" href=\"https://patreon.com/techwontsaveus\">Support the show</a></p>",
+  "schlagworte": [
+    "fascism",
+    "billionaires",
+    "politics",
+    "donald trump",
+    "peter thiel",
+    "elon musk",
+    "jd vance",
+    "crypto"
+  ],
+  "folgennummer": 342,
+  "kapitel_quelle": "modell",
+  "bild_url": "https://storage.buzzsprout.com/tutsi25s4vue63c1xwucuexriowa?.jpg"
+}

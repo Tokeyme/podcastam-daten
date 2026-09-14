@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_875332421",
+  "apple_collection_id": "1779741097",
+  "show": "2025抖音热歌排行榜|TOP精选全网热门音乐歌曲",
+  "titel": "贺一航-慢慢的",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEMLyOVACCyUAPP_20i.m4a?channel=rss&album_id=84386301&track_id=875332421&uid=239825720&jt=https://aod.cos.tx.xmcdn.com/storages/5f20-audiofreehighqps/1C/B4/GKwRIJEMLyOVACCyUAPP_20i.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2142800,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:31:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "贺一航演唱由李宗盛作词作曲的歌曲《慢慢的》。",
+  "kurzfassung": "本期节目播放了由李宗盛作词作曲、贺一航演唱的歌曲《慢慢的》。歌词展现了感情中的无奈、失落与逐渐疏离的过程。歌曲通过细腻的描写表达了最终离开对方世界的释怀与感伤。",
+  "stichpunkte": [
+    "歌曲作词作曲由李宗盛完成",
+    "歌词描述了从焦急到平行、从快乐到悲伤的情感转变",
+    "表达了真心付出却敌不过虚伪对待的无奈",
+    "记录了爱被封杀、对方逐渐走远的心理历程",
+    "融入了深夜等待天明与借酒消愁的意象",
+    "最终决定慢慢离开有对方的世界"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲前段与情感转变",
+      "start": 0.0
+    },
+    {
+      "titel": "副歌与内心情感倾诉",
+      "start": 49.7
+    },
+    {
+      "titel": "重复与逐渐释怀的尾声",
+      "start": 116.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:31:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 264,
+  "veroeffentlicht": "2025-06-23T14:11:23+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9b54-audiofreehighqps/95/BA/GAqhgbgLA_2BAAE3PgMsHIFS.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

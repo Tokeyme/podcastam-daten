@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/c792-audiofreehighqps/13/34/GKwRIaIFenUpAC0JZgD8ru6q-aacv2-48K.m4a",
+  "apple_collection_id": "1006558032",
+  "show": "健康减肥瘦身法",
+  "titel": "抗糖，断糖，孔控糖，都是啥意思？那个能减肥？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIFenUpAC0JZgD8ru6q-aacv2-48K.m4a?channel=rss&album_id=1072869&track_id=477309424&uid=22129256&jt=https://aod.cos.tx.xmcdn.com/storages/c792-audiofreehighqps/13/34/GKwRIaIFenUpAC0JZgD8ru6q-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2219561,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:36:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "解析抗糖、断糖与控糖的区别，探讨哪种方式真正适合减肥。",
+  "kurzfassung": "节目详细解析了抗糖、断糖和控糖三个概念的含义及其对减肥的影响。抗糖主要指抗糖化以减少皮肤衰老，断糖即生酮饮食但存在副作用且易反弹，而控糖则是主播推荐的饮食减肥法。控糖主张适量控制精制碳水化合物并选择低GI粗粮，兼顾生活习惯与减肥效果。",
+  "stichpunkte": [
+    "抗糖主要指抗糖化，旨在减少晚期糖基化终产物（AGE），从而延缓皮肤衰老",
+    "抗糖需减少摄入高糖、烧烤及油炸食品，偶尔食用问题不大但天天吃会伤害皮肤",
+    "断糖即生酮减肥法（KD），是一种高脂肪、适量蛋白质、低碳水的饮食方式",
+    "生酮饮食最初用于治疗疾病，虽然减重明显，但可能导致便秘甚至酸中毒等不良反应",
+    "生酮饮食不符合国人饮食习惯，严格断碳水容易导致暴饮暴食和反弹",
+    "控糖是主播最推荐的减肥方式，通过控制过量精致碳水化合物来避免发胖和上瘾",
+    "控糖并非完全不能吃主食或零食，而是要适量控制精制碳水，并多吃低GI粗粮",
+    "减肥期间如需吃零食，可选择纯牛肉干、无糖酸奶、黑咖啡或海苔等低碳水食品"
+  ],
+  "kapitel": [
+    {
+      "titel": "抗糖化：抗击AGE与皮肤衰老",
+      "start": 20.64
+    },
+    {
+      "titel": "断糖：生酮饮食的原理与风险",
+      "start": 67.94
+    },
+    {
+      "titel": "控糖：健康且可持续的减肥方式",
+      "start": 183.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:36:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 364,
+  "veroeffentlicht": "2021-11-29T10:57:35+00:00",
+  "beschreibung": "抗糖，断糖，孔控糖，都是啥意思？那个能减肥？",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">抗糖，断糖，孔控糖，都是啥意思？那个能减肥？<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group40/M02/23/C6/wKgJT1rALT6CVmYGAAB3XA1YU0Y305.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

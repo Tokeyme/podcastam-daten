@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_773796314",
+  "apple_collection_id": "1875672999",
+  "show": "经典DJ音乐",
+  "titel": "30分钟中文DJ",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMALCBKJAKnpIwMtuHfF.m4a?channel=rss&album_id=84429857&track_id=773796314&uid=522946258&jt=https://aod.cos.tx.xmcdn.com/storages/cedd-audiofreehighqps/14/22/GKwRIMALCBKJAKnpIwMtuHfF.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11135267,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T21:58:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "中文DJ音乐串烧与歌曲片段合集",
+  "kurzfassung": "本期节目包含了一系列中文DJ音乐作品与歌曲演唱片段。内容涵盖情感主题的歌词演唱以及伴奏音乐。整体呈现为音乐串烧的录音内容。",
+  "stichpunkte": [
+    "李宗盛担任词曲创作与演唱的多段音乐内容",
+    "包含关于爱情、孤独与痛苦的中文歌词表达",
+    "穿插了英文说唱歌词与乐器演奏片段",
+    "包含大量关于情感抉择与回忆的歌词",
+    "多段音乐与歌曲演唱的连续串烧组合"
+  ],
+  "kapitel": [
+    {
+      "titel": "音乐与歌曲演唱",
+      "start": 0.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T21:58:23+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1826,
+  "veroeffentlicht": "2024-11-12T04:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f610-audiofreehighqps/F1/EC/GAqhoZALB-eWAAedJwMtqh-9.jpeg",
+  "kapitel_quelle": "modell"
+}

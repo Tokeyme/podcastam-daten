@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "6a8a2aa01352af56ff3a678f",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] AI的“断奶”挑战、视觉世界语与动态健身房",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6a8a2aa01352af56ff3a678f/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lsC_vzB-GS23FxLxj_POyOS38CS2.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 27284784,
+    "format": "m4a",
+    "geprueft_am": "2026-09-02T19:32:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨AI如何应对断奶挑战、学习视觉世界语以及动态健身房训练方法。",
+  "kurzfassung": "本期播客探讨了人工智能前沿领域的最新研究进展，重点分析了AI离开人类指导时面临的断奶挑战。同时介绍了利用动作流建立机器人通用视觉世界语、通过单视频生成4D数字人的技术，以及为静态训练环境引入动态私教的创新方案。这些研究表明，巧妙的方法论设计与动态环境往往比单纯堆砌算力和模型规模更具关键作用。",
+  "stichpunkte": [
+    "ACI Bench研究揭示了AI的断奶挑战，指出其最大瓶颈在于将已知方法转化为具体执行步骤的能力。",
+    "Agent Lightning V1.0提出了带马具的强化学习方法，通过解决重新分词和功劳分配问题显著提升了AI编程通过率。",
+    "4Danyou技术利用参考信息压缩打包和目标任务动态分组，从单视角视频中成功生成高质量的4D数字人。",
+    "Hydra Zero论文提出了动作流（Action Flow）概念，通过视觉轨迹将不同形态机器人的操作统一到一门世界语中。",
+    "动作流不仅能作为训练多任务模型的通用语言，还能在虚拟世界中准确预测机器人操作的未来结果。",
+    "In the Harness框架通过引入舞台设定、合同约束和任务链条，为静态训练环境中的AI配备了专属私教。",
+    "Envigor程序能够自动观察AI的失败案例并动态调整训练方案，实现AI与环境的共同进化。"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI的断奶挑战",
+      "start": 39.08
+    },
+    {
+      "titel": "AI变聪明的秘密与马具强化学习",
+      "start": 323.44
+    },
+    {
+      "titel": "从普通视频生成4D数字人",
+      "start": 714.74
+    },
+    {
+      "titel": "机器人视觉世界语与动作流",
+      "start": 1030.92
+    },
+    {
+      "titel": "AI健身房的专属私教课",
+      "start": 1334.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-02T19:32:01+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1687,
+  "veroeffentlicht": "2026-08-22T23:16:54+00:00",
+  "beschreibung": "今天，我们聊一个有趣的话题：让AI变聪明的关键，或许不在于更大的“大脑”，而在于更巧妙的“方法论”。我们将一起探索，如何只用一段普通视频就“复活”一个立体的你，又如何通过“画轨迹”的方式，创造出所有机器人都能听懂的世界语。我们还会揭示，为什么当前最强的AI也面临着“一离开老师就抓瞎”的窘境，以及如何为它请一位专属“私教”，让训练效率突飞猛进。准备好了吗？让我们看看这些最新论文是如何重新定义AI的学习与成长之路的。\n00:00:39 AI的“断奶”挑战，为什么最聪明的学生，一离开老师就“抓瞎”？\n00:05:23 AI变聪明的秘密，不是更大的脑子，而是更好的“马鞍”\n00:11:54 一段普通视频，如何“复活”一个立体的你？\n00:17:11 指挥机器人的终极密码，别说话，画轨迹\n00:22:14 AI的“健身房”也需要“私教课”\n本期介绍的几篇论文：\n[AI] ASI-Bench: At the Dawn of Artificial Superintelligence\n[Tsinghua University]\nhttps://arxiv.org/abs/2608.17271\n---\n[AI] Agent Lightning v1.0: Towards Harnessed Agentic RL\n[Microsoft & Fudan University & Zhejiang University]\nhttps://arxiv.org/abs/2608.17528\n---\n[CV] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video\n[Zhejiang University & Robbyant]\nhttps://arxiv.org/abs/2608.20335\n---\n[RO] Hydra-0: Action Flow for Generalist World Modeling and Control\n[NVIDIA]\nhttps://arxiv.org/abs/2608.18077\n---\n[AI] EnvHarness: Awakening Static Worlds for Agent Learning\n[Washington University in St. Louis & Google Cloud AI Research]\nhttps://arxiv.org/abs/2608.19880\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>今天，我们聊一个有趣的话题：让AI变聪明的关键，或许不在于更大的“大脑”，而在于更巧妙的“方法论”。我们将一起探索，如何只用一段普通视频就“复活”一个立体的你，又如何通过“画轨迹”的方式，创造出所有机器人都能听懂的世界语。我们还会揭示，为什么当前最强的AI也面临着“一离开老师就抓瞎”的窘境，以及如何为它请一位专属“私教”，让训练效率突飞猛进。准备好了吗？让我们看看这些最新论文是如何重新定义AI的学习与成长之路的。</p><p><a class=\"timestamp\">00:00:39</a> AI的“断奶”挑战，为什么最聪明的学生，一离开老师就“抓瞎”？</p><p><a class=\"timestamp\">00:05:23</a> AI变聪明的秘密，不是更大的脑子，而是更好的“马鞍”</p><p><a class=\"timestamp\">00:11:54</a> 一段普通视频，如何“复活”一个立体的你？</p><p><a class=\"timestamp\">00:17:11</a> 指挥机器人的终极密码，别说话，画轨迹</p><p><a class=\"timestamp\">00:22:14</a> AI的“健身房”也需要“私教课”</p><p>本期介绍的几篇论文：</p><p>[AI] ASI-Bench: At the Dawn of Artificial Superintelligence</p><p>[Tsinghua University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2608.17271\">https://arxiv.org/abs/2608.17271</a> </p><p>---</p><p>[AI] Agent Lightning v1.0: Towards Harnessed Agentic RL</p><p>[Microsoft &amp; Fudan University &amp; Zhejiang University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2608.17528\">https://arxiv.org/abs/2608.17528</a> </p><p>---</p><p>[CV] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video</p><p>[Zhejiang University &amp; Robbyant]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2608.20335\">https://arxiv.org/abs/2608.20335</a> </p><p>---</p><p>[RO] Hydra-0: Action Flow for Generalist World Modeling and Control</p><p>[NVIDIA]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2608.18077\">https://arxiv.org/abs/2608.18077</a> </p><p>---</p><p>[AI] EnvHarness: Awakening Static Worlds for Agent Learning</p><p>[Washington University in St. Louis &amp; Google Cloud AI Research]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2608.19880\">https://arxiv.org/abs/2608.19880</a> </p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8a2aa01352af56ff3a678f?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

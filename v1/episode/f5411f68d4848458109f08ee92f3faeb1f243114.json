@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_700529593",
+  "apple_collection_id": "1720133410",
+  "show": "饮食健康/健康饮食/营养补充",
+  "titel": "宝琴教授-呼吸系统之鼻腔",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSEJfkH-ACAAAAKcyIse.m4a?channel=rss&album_id=79116225&track_id=700529593&uid=450469968&jt=https://aod.cos.tx.xmcdn.com/storages/30b3-audiofreehighqps/C2/9A/GMCoOSEJfkH-ACAAAAKcyIse.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 18109683,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T09:49:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "宝琴教授讲解呼吸系统之鼻腔的生理功能、常见病及营养调理方法",
+  "kurzfassung": "本集节目由宝琴教授详细讲解了呼吸系统中鼻腔的结构与功能，包括鼻毛、鼻粘膜、柱状细胞及溶菌酶的作用。接着，节目深入探讨了鼻腔的三种常见病：急性鼻炎、慢性鼻炎以及过敏性鼻炎的成因与表现。最后，针对各类鼻腔问题提出了具体的营养素调理方案和日常注意事项。",
+  "stichpunkte": [
+    "鼻腔结构与净化功能：鼻毛和鼻粘膜上的纤毛、柱状细胞共同作用，阻挡灰尘并向咽喉部定向扫除杂物。",
+    "溶菌酶的免疫作用：鼻粘膜分泌的溶菌酶能破坏细菌的细胞壁，配合优质蛋白质和营养素可增强杀菌能力。",
+    "嗅觉与大脑记忆：嗅细胞不仅能分辨数百种气味，还能将气味传递至大脑嗅觉中枢进行记忆。",
+    "鼻粘膜下层的生理作用：丰富的血管能温暖吸入的空气，起到类似室内暖气的作用，保护肺部。",
+    "急性鼻炎的应对：随感冒而来的急性鼻炎多为病毒性，可通过增加VC、大蒜片及多喝水来提升免疫力。",
+    "慢性鼻炎的分类与危害：包括肥厚性鼻炎和萎缩性鼻炎，其中萎缩性鼻炎需警惕癌前病变，切勿滥用滴鼻液。",
+    "过敏性鼻炎的营养调理：针对过敏体质，急性期应避免盲目使用蛋白粉，建议使用钙镁片、VC和类胡萝卜素等基础营养素。"
+  ],
+  "kapitel": [
+    {
+      "titel": "鼻腔的结构与生理功能",
+      "start": 0.58
+    },
+    {
+      "titel": "急性鼻炎与感冒应对",
+      "start": 904.2
+    },
+    {
+      "titel": "慢性鼻炎的类型与风险",
+      "start": 1508.72
+    },
+    {
+      "titel": "过敏性鼻炎与营养调理",
+      "start": 2395.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T09:49:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2975,
+  "veroeffentlicht": "2024-01-27T03:32:08+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1635-audiofreehighqps/7B/DD/GMCoOSUJOaMRAAEuOAKDD5P_.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

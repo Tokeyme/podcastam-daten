@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006873468",
+  "apple_collection_id": "1786847982",
+  "show": "高情商聊天术 | 男生快速脱单实战技巧",
+  "titel": "女生主动AA？别傻转钱！3步神操作让她倒追你",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOWHhpAEI2agTH8imj.m4a?channel=rss&album_id=50890815&track_id=1006873468&uid=253579102&jt=https://aod.cos.tx.xmcdn.com/storages/7587-audiofreehighqps/39/16/GKwRIJIOWHhpAEI2agTH8imj.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4339306,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T19:01:33+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "约会后女生主动要求AA怎么办？教你识别真实意图并巧妙应对。",
+  "kurzfassung": "约会后女生提出AA通常代表对你没兴趣、性格真诚独立或是在进行试探。男生需要通过女生的态度和肢体语言来区分这三种情况。针对不同的意图采取相应的幽默或高情商回复，才能打破僵局并推进关系。",
+  "stichpunkte": [
+    "女生提出AA的三种情况：对你没兴趣想撇清、真诚想平等相处或者对你进行试探。",
+    "真诚选择AA的女生性格豪爽独立，害怕欠人情，随时准备离开不合适的伴侣。",
+    "用AA试探你的女生心思敏感，希望看到你主动大气地承担费用而非斤斤计较。",
+    "对你没感觉的女生会表现得不耐烦、频繁看手机并刻意保持距离，应及时止损。",
+    "如果想继续发展，千万不要直接收下转账，可以用幽默的话术顺势推脱。",
+    "通过提议下次去消费稍高的地方回请，可以打消女生的亏欠感并延续互动。",
+    "纠结AA本质上源于男生的不自信与缺乏恋爱经验，自我提升才是重中之重。"
+  ],
+  "kapitel": [
+    {
+      "titel": "女生提出AA的三种心理分析",
+      "start": 26.58
+    },
+    {
+      "titel": "如何从态度上区分这三类女生",
+      "start": 91.86
+    },
+    {
+      "titel": "面对AA的高情商应对策略",
+      "start": 219.1
+    },
+    {
+      "titel": "男生纠结AA的根源与自我提升",
+      "start": 450.34
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T19:01:33+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 535,
+  "veroeffentlicht": "2026-08-17T07:16:23+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3204-audiofreehighqps/6F/28/GKwRIRwGOC7GAASS7QFBZ0_Q.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

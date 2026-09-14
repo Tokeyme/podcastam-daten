@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008094162",
+  "apple_collection_id": "1836076919",
+  "show": "老游新说",
+  "titel": "吞食天地2赤壁之战 所有武器的秘密",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAOYFulAEJ1hwTLGJms.m4a?channel=rss&album_id=37235090&track_id=1008094162&uid=10151616&jt=https://aod.cos.tx.xmcdn.com/storages/0d20-audiofreehighqps/13/57/GKwRIMAOYFulAEJ1hwTLGJms.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4355463,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T19:05:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "街机游戏《吞食天地2赤壁之战》中各种武器的秘密与性能测试。",
+  "kurzfassung": "本期节目详细测试了街机游戏《吞食天地2赤壁之战》中各种武器的攻击距离、速度和伤害。节目盘点了叉子、剑、战斧、日本刀、大锤等多种武器的特性与隐藏彩蛋。同时探讨了冷门武器与游戏传言中隐藏属性的关联。",
+  "stichpunkte": [
+    "不同角色使用同一把武器的攻击距离不同，赵云距离最远，黄忠垫底，但所有角色的攻击速度一致。",
+    "叉子和普通剑伤害较低且容易产生硬直，草屉剑威力极高但持续时间短。",
+    "战斧与狼牙棒带有华丽特效，狼牙棒配合特定地形可有效压制BOSS徐楚。",
+    "长坂桥可从夏侯恩与雁鸣处分别获得青红剑与七星剑，圣剑则带有火焰特效。",
+    "日本刀系列分为多段伤害，其中村羽伤害高达30点，且第一段攻击可用于对空。",
+    "倚天剑同样能造成多段伤害，而大锤则是最强的控场武器，能够将关卡BOSS直接敲晕。",
+    "圆锤攻击速度极快，适合连续攻击；怒龙为仅存在于游戏数据中、需通过修改才能获得的未登场武器。",
+    "匕首虽然实用性极低，但网络传言称手持匕首或特定武器可以触发隐藏的掉落道具机制。"
+  ],
+  "kapitel": [
+    {
+      "titel": "武器的基本性能与角色差异",
+      "start": 26.88
+    },
+    {
+      "titel": "基础武器与强力剑类评测",
+      "start": 68.14
+    },
+    {
+      "titel": "斧锤类与日本刀的特殊机制",
+      "start": 159.58
+    },
+    {
+      "titel": "控场神器大锤与未登场武器",
+      "start": 397.2
+    },
+    {
+      "titel": "冷门武器匕首的隐藏传言",
+      "start": 483.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T19:05:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 537,
+  "veroeffentlicht": "2026-08-23T06:51:51+00:00",
+  "beschreibung": "小时候不要的破烂 如今却是神器",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">小时候不要的破烂 如今却是神器</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0828-audiofreehighqps/10/BD/GAqhuykOYFsnAAjS8gTLGGoL.jpeg",
+  "folgennummer": 8,
+  "kapitel_quelle": "modell"
+}

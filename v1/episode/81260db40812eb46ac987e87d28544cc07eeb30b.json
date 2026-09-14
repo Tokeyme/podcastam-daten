@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_806342486",
+  "apple_collection_id": "1778491737",
+  "show": "2025影视原声BGM|热门音乐、主题曲、插曲推荐",
+  "titel": "余承恩_王子璇-雪",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJILiRgUABhDQgNovrWJ.m4a?channel=rss&album_id=84290547&track_id=806342486&uid=239825720&jt=https://aod.cos.tx.xmcdn.com/storages/1265-audiofreehighqps/CC/12/GKwRIJILiRgUABhDQgNovrWJ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1590082,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:16:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "余承恩与王子璇演唱歌曲《雪》",
+  "kurzfassung": "本期节目播放了由余承恩和王子璇带来的歌曲《雪》。歌词描绘了爱意降临、冰雪融化以及如烟火般灿烂的时刻。整首歌曲充满了浪漫与温暖的意境。",
+  "stichpunkte": [
+    "播放歌曲《雪》",
+    "演唱者为余承恩和王子璇",
+    "歌词表达爱意与心灵的交融",
+    "描绘冰雪融化与温暖的星火",
+    "展现如烟火般绚烂的夜空画面",
+    "强调永恒定格的浪漫瞬间"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲《雪》",
+      "start": 1.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:16:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 260,
+  "veroeffentlicht": "2025-02-17T15:26:04+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/db5e-audiofreehighqps/C1/95/GKwRIUELApyHAAE3jAMrjwtA.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

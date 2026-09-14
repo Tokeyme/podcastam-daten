@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group59/M07/E1/31/wKgLelzRgtbBNsX0AOUA3QAgZYM181-aacv2-48K.m4a",
+  "apple_collection_id": "967900518",
+  "show": "吃货老吴第4季 | 带着心去找美食",
+  "titel": "第四季第17集——泰国三城美食记之曼谷",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgLelzRgtbBNsX0AOUA3QAgZYM181-aacv2-48K.m4a?channel=rss&album_id=334951&track_id=181950063&uid=4097004&jt=https://aod.cos.tx.xmcdn.com/group59/M07/E1/31/wKgLelzRgtbBNsX0AOUA3QAgZYM181-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11284502,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T22:30:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "漫谷是一座充满烟火气与矛盾的城市，新旧混居并拥有丰富的美食与夜市文化。",
+  "kurzfassung": "本集详细记录了泰国曼谷的美食与城市风貌，探讨了这座城市奢华与市井并存的独特魅力。主播分享了参拜四面佛的经历、体验平民海鲜自助以及游览曼谷各大夜市的感受。此外，节目还介绍了曼谷便捷的母亲河水上交通及泰国的最新时事。",
+  "stichpunkte": [
+    "曼谷作为国际化大都市，市中心新旧建筑交织，奢华商场与平民市井并存。",
+    "入住素坤逸路十一巷，感受交通便利且生态完善的小巷文化。",
+    "参拜著名的四面佛，体验独特的欢喜佛文化及特色祈福舞蹈。",
+    "品尝人均约两百元的平民海鲜自助大餐，体验炭火烤制海鲜的乐趣。",
+    "推荐曼谷规模宏大且各具特色的夜市文化，是夜间消遣和品尝平民美食的好去处。",
+    "曼谷高空酒吧与米其林餐厅林立，能满足高端消费需求。",
+    "介绍湄南河水上公共交通系统，提供前往大皇宫等景点的便捷出行方式。",
+    "提示市区购物比曼谷素万那普机场免税店更划算，建议在市区商场和超市采购。",
+    "提及泰国新国王登基的八卦花絮，并预告下一期将分享珠海与顺德的美食之旅。"
+  ],
+  "kapitel": [
+    {
+      "titel": "初到曼谷与素坤逸路",
+      "start": 0.86
+    },
+    {
+      "titel": "曼谷独特的城市面貌",
+      "start": 205.58
+    },
+    {
+      "titel": "参拜四面佛",
+      "start": 534.1
+    },
+    {
+      "titel": "海鲜自助与夜市文化",
+      "start": 835.56
+    },
+    {
+      "titel": "高端餐饮与高空酒吧",
+      "start": 1321.64
+    },
+    {
+      "titel": "曼谷交通提示与水上巴士",
+      "start": 1493.46
+    },
+    {
+      "titel": "购物心得与泰国时事",
+      "start": 1619.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T22:30:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1853,
+  "veroeffentlicht": "2019-05-07T13:06:34+00:00",
+  "beschreibung": "这次老吴去泰国跨了个年，分别去了清迈、芭堤雅、曼谷，从北到南吃了5种冬阴功汤、享受了最顶级的按摩、逛了无敌大的清迈夜市、看到了三千万的豪宅、在曼谷也有无数奇遇。",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">这次老吴去泰国跨了个年，分别去了清迈、芭堤雅、曼谷，从北到南吃了5种冬阴功汤、享受了最顶级的按摩、逛了无敌大的清迈夜市、看到了三千万的豪宅、在曼谷也有无数奇遇。</p><br />",
+  "bild_url": "https://fdfs.xmcdn.com/group12/M09/97/F0/wKgDXFdnp8HhtnJPAAJSbgK7FyQ817.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

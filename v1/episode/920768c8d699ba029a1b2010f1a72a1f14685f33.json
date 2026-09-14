@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_958815263",
+  "apple_collection_id": "1438338076",
+  "show": "张晓峰｜财经随心说",
+  "titel": "河南平顶山打人事件，儿子儿媳当代难得的孝道典范",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoNdBTKACHw-ARvp_2v.m4a?channel=rss&album_id=14894682&track_id=958815263&uid=1095363&jt=https://aod.cos.tx.xmcdn.com/storages/6b9c-audiofreehighqps/C2/BF/GKwRIDoNdBTKACHw-ARvp_2v.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2224376,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:08:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨河南平顶山打人事件及家庭孝道伦理",
+  "kurzfassung": "本期节目主要探讨了河南平顶山发生的打人事件。节目围绕事件中的儿子和儿媳展开讨论，分析了当代社会背景下的孝道典范。通过对事件细节的剖析，探讨了家庭关系与道德观念。",
+  "stichpunkte": [
+    "讨论河南平顶山发生的打人事件",
+    "分析事件中儿子和儿媳的表现",
+    "探讨当代社会环境下的孝道伦理",
+    "剖析事件背后的家庭关系冲突"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与打人事件背景",
+      "start": 9.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:08:15+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 274,
+  "veroeffentlicht": "2026-02-25T01:34:55+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d44e-audiofreehighqps/A0/A9/GKwRIJEI4L-3AAKQ3gJdxkfs.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

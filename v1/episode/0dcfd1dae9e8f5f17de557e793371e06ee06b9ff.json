@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19353535",
+  "apple_collection_id": "1718461549",
+  "show": "Travel Party of 5 | Points & Miles for Family Travel",
+  "titel": "Midyear Check-in, a Brief Hiatus, & More Chase News?!?! (Alt Title: Go Home Chase, You're Drunk)",
+  "audio": {
+    "url": "https://www.buzzsprout.com/2281431/episodes/19353535-midyear-check-in-a-brief-hiatus-more-chase-news-alt-title-go-home-chase-you-re-drunk.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20384409,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T03:26:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Podcast update on upcoming travel, a short hiatus, and recent credit card changes.",
+  "kurzfassung": "The hosts announce a four to six week hiatus due to a work promotion and heavy travel to London and Scotland. They review recent credit card changes, notably Chase's devaluation of Hyatt transfers for Sapphire Preferred cardholders. They also share a mid-year recap of accumulated points, cashback, and bank account bonuses.",
+  "stichpunkte": [
+    "Taking a four to six week podcast hiatus due to a work promotion and heavy travel schedule in June",
+    "Planning to introduce a guest booking form and focus more on family and domestic travel after returning",
+    "Chase announcing that effective October 1, 2026, transfers from the Chase Sapphire Preferred to Hyatt will change to a 4:3 ratio",
+    "Elevated sign-up bonuses and referral offers launched across various Chase cards despite recent cuts",
+    "Accumulating approximately 875,000 points so far in the year through various business and personal card sign-ups",
+    "Earning over $2,700 in bank account bonuses and cashback, plus an additional $3,000 from the Amex Graphite card",
+    "Securing last-minute business class award flights to London for the family using American Airlines miles"
+  ],
+  "kapitel": [
+    {
+      "titel": "Welcome To Travel Party Of Five",
+      "start": 0.0
+    },
+    {
+      "titel": "Why We Are Taking A Hiatus",
+      "start": 90.0
+    },
+    {
+      "titel": "Chase Hyatt Transfer Ratio Gets Cut",
+      "start": 273.0
+    },
+    {
+      "titel": "Elevated Offers After Big Nerfs",
+      "start": 511.0
+    },
+    {
+      "titel": "Cards Opened And Points Earned",
+      "start": 686.0
+    },
+    {
+      "titel": "Cash Back Wins And Bank Bonuses",
+      "start": 982.0
+    },
+    {
+      "titel": "The Chime Situation And A Warning",
+      "start": 1174.0
+    },
+    {
+      "titel": "Amex Blue Cash Card With Huge Spend",
+      "start": 1285.0
+    },
+    {
+      "titel": "Finding Business Class To London",
+      "start": 1432.0
+    },
+    {
+      "titel": "Return Date Instagram Updates Closing",
+      "start": 1635.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Chase Sapphire Preferred Hyatt transfers changing to four to three",
+      "start": 343.954,
+      "ende": 371.383,
+      "laenge": 27.43,
+      "byte_start": 4163807,
+      "byte_ende": 4492949,
+      "bytes": 329143,
+      "range_header": "bytes=4163807-4492949",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 344.033,
+      "anker_sha256": "5e40b217cd780a2e9e0d84fd202f1ca4c6374ae1f5fd6cce86a1af6f8362e884",
+      "einblendung_ms": 60,
+      "text": "The conversion ratio for moving rewards from Chase to Hyatt drops from one-to-one to four-to-three starting October 1st, 2026."
+    },
+    {
+      "hook": "Elevated welcome offers reach 200,000 points on premium cards",
+      "start": 581.225,
+      "ende": 603.638,
+      "laenge": 22.41,
+      "byte_start": 7011050,
+      "byte_ende": 7280006,
+      "bytes": 268957,
+      "range_header": "bytes=7011050-7280006",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 581.303,
+      "anker_sha256": "a952e866e8d6f1095277117fcf2d9f77e337c8a556ee7abdf83b6980b267989d",
+      "einblendung_ms": 60,
+      "text": "Sign-up bonuses increase significantly across several credit cards, including the Sapphire Preferred, Sapphire Reserve, and multiple Ink business products."
+    },
+    {
+      "hook": "Scoring 500,000 points from two Amex business card mailers",
+      "start": 770.09,
+      "ende": 799.922,
+      "laenge": 29.83,
+      "byte_start": 9277434,
+      "byte_ende": 9635415,
+      "bytes": 357982,
+      "range_header": "bytes=9277434-9635415",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 770.168,
+      "anker_sha256": "8acec845cc980e78ec00635d4b002873c3dd139977502bd9c0a76f187e9ff1d5",
+      "einblendung_ms": 60,
+      "text": "Targeted mail offers for two business cards opened in February yielded a combined total of 450,000 points."
+    },
+    {
+      "hook": "Over $2,700 earned in bank bonuses and cash back",
+      "start": 1259.546,
+      "ende": 1289.665,
+      "laenge": 30.12,
+      "byte_start": 15150909,
+      "byte_ende": 15512339,
+      "bytes": 361431,
+      "range_header": "bytes=15150909-15512339",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1259.624,
+      "anker_sha256": "f4fcb8cb063041824d3eac7ae996fd810f0abe150b13ef96cd6ecef25755051a",
+      "einblendung_ms": 60,
+      "text": "Promotional payouts from Capital One, Bank of America, Chime, and U.S. Bank bring total earnings from checking and savings account bonuses to 2,780 dollars in 2026."
+    },
+    {
+      "hook": "Scoring six business class seats to London at the last minute",
+      "start": 1482.423,
+      "ende": 1502.537,
+      "laenge": 20.11,
+      "byte_start": 17825430,
+      "byte_ende": 18066801,
+      "bytes": 241372,
+      "range_header": "bytes=17825430-18066801",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1482.501,
+      "anker_sha256": "b1837f66769500276a65a9868d88ed8fd93327d9feb6ef9db13c11a30e8fa6f6",
+      "einblendung_ms": 60,
+      "text": "An itinerary from Los Angeles to London on Virgin Atlantic cost 75,000 points total for a family of five in economy."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T03:26:02+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1682,
+  "veroeffentlicht": "2026-06-16T13:00:00-07:00",
+  "beschreibung": "We share a quick life update and explain why we are taking a four to six week break so we can reset and come back stronger. Then we dig into the latest Chase and Hyatt changes, run our midyear points and cash back totals, and share how we finally locked in business class seats for our upcoming London and Scotland trip.\n\n• announcing a short podcast hiatus and the reasons behind it\n• plans to set up a guest scheduling system for future episodes\n• reacting to the Chase Sapphire Preferred Hyatt transfer cut to 4:3\n• what the change means for Hyatt fans and award booking value\n• why Chase is pushing elevated offers after recent nerfs\n• midyear recap of cards opened and total points earned so far\n• cash back strategy including bank account bonuses and tracking\n• frustrations with US Bank central billing and bonus timing\n• warning story about Chime and why we are waiting on a resolution\n• booking last-minute business class to London using American Airlines miles\n• focusing more on family travel stories alongside points and miles\n\nIf by chance no one in your family has a Chase Ink business card and you would like to get one, please use our links above.",
+  "beschreibung_html": "<p>We share a quick life update and explain why we are taking a four to six week break so we can reset and come back stronger. Then we dig into the latest Chase and Hyatt changes, run our midyear points and cash back totals, and share how we finally locked in business class seats for our upcoming London and Scotland trip. <br/><br/>• announcing a short podcast hiatus and the reasons behind it <br/>• plans to set up a guest scheduling system for future episodes <br/>• reacting to the Chase Sapphire Preferred Hyatt transfer cut to 4:3 <br/>• what the change means for Hyatt fans and award booking value <br/>• why Chase is pushing elevated offers after recent nerfs <br/>• midyear recap of cards opened and total points earned so far <br/>• cash back strategy including bank account bonuses and tracking <br/>• frustrations with US Bank central billing and bonus timing <br/>• warning story about Chime and why we are waiting on a resolution <br/>• booking last-minute business class to London using American Airlines miles <br/>• focusing more on family travel stories alongside points and miles <br/><br/>If by chance no one in your family has a Chase Ink business card and you would like to get one, please use our links above.<br/><br/><br/></p>",
+  "kapitel_quelle": "betreiber",
+  "bild_url": "https://storage.buzzsprout.com/p0bqucnaisg10o6lub5vgqw71czy?.jpg"
+}

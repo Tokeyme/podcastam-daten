@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "guid": "69d6798ce2c8be3155b6e6bb",
+  "apple_collection_id": "1807681511",
+  "show": "触底访谈",
+  "titel": "EP12 狗很好，但我可能不会养狗了",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/69d6798ce2c8be3155b6e6bb/media.xyzcdn.net/67f6456481d0f4672321e2d2/lut_OzZrKVFs2kEd9RLgpekEevfs.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 64388457,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T08:18:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨养有特殊状况的狗狗的真实经历，反思宠物医疗、消费主义与养狗责任。",
+  "kurzfassung": "三位养狗人聚在一起，分享了各自照顾患病和高龄狗狗的真实经历与挑战。节目深入探讨了宠物医疗行业的乱象、过度医疗的选择，以及消费主义下养狗背后的责任。最后，他们建议都市人在养狗前务必三思，不要盲目跟风。",
+  "stichpunkte": [
+    "三位嘉宾分别介绍了自己饲养的狗狗及其面临的特殊健康状况，如失明、失聪和青光眼。",
+    "讨论了宠物医疗费用高昂且缺乏行业标准的问题，指出兽医拥有绝对的解释权。",
+    "分享了面对宠物重病时拒绝过度医疗、注重生命质量与陪伴的抉择。",
+    "探讨了宠物医院的检查项目与销售话术，强调主人们需要自己做功课进行甄别。",
+    "剖析了外部养狗环境面临的压力，包括不文明养狗现象和恶性投毒事件。",
+    "批判了消费主义包装下的跟风养狗现象，指出很多基因缺陷品种被商业培育保留。",
+    "分享了面对宠物离世时的心理创伤，以及如何学习预演告别与接受宿命。",
+    "一致建议都市人在养狗前要慎重考虑，不要把人的需求强加给狗狗，切勿给自己惹麻烦。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与狗狗的特殊状况",
+      "start": 174.5
+    },
+    {
+      "titel": "宠物医疗费用与行业乱象探讨",
+      "start": 683.18
+    },
+    {
+      "titel": "面对重病：反对过度医疗与注重陪伴",
+      "start": 1246.22
+    },
+    {
+      "titel": "如何选择靠谱的兽医",
+      "start": 1551.42
+    },
+    {
+      "titel": "养狗带来的责任感与人生改变",
+      "start": 1809.74
+    },
+    {
+      "titel": "狗狗的日常照顾与感人回馈",
+      "start": 2073.84
+    },
+    {
+      "titel": "外部环境的压力与不文明养狗现象",
+      "start": 2516.54
+    },
+    {
+      "titel": "消费主义与品种犬基因缺陷的反思",
+      "start": 2891.38
+    },
+    {
+      "titel": "面对离别：学习告别与生死教育",
+      "start": 3504.06
+    },
+    {
+      "titel": "结语：慎重养狗，不要给自己惹麻烦",
+      "start": 3786.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T08:18:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3981,
+  "veroeffentlicht": "2026-04-09T00:00:00+00:00",
+  "beschreibung": "🎧 在本期节目中你将听到：\n这是一期三位「问题狗狗」家长毫无保留的经验对谈。我们从各自狗狗的特殊状况（失明、失聪、年老多病）出发，聊了聊救助时的惊心动魄、宠物医疗的消费迷思、与狗狗的日常羁绊，以及作为都市养狗人面临的内部与外部压力。如果你正在养狗，或计划养狗，这期节目或许能给你一些慰藉\n☕️场地支持\nPlaying House 过家家\n🎙 本期嘉宾\nRulan：艺术行业从业者，养着一只又聋又盲的中华田园犬「观观」。\nMinni：自称社会闲散人士，养有一只11岁的法斗「Jojo」和一只英国斯塔福梗。\n\n⏱ 时间戳导航\n01:25 - 开场与嘉宾介绍：主持人Teddy解释节目迟更原因，介绍本期嘉宾Rulan和Minni，以及录制地点。\n03:40 - 我们的「问题狗狗」：失明失聪的观观、11岁法斗Jojo、确诊青光眼的笨宾犬。\n05:14 - 观观的故事：从濒死到失明：Rulan详述在观音寺捡到观观、两次大病抢救、最终导致其失明失聪的曲折经历。\n11:30 - 宠物医疗：高昂费用与行业迷思：探讨在狗狗身上花费的医疗成本（从几千到数万），并质疑当前宠物医疗行业定价不透明、专业度与收费不匹配的现状。\n19:00 - 如何选择医生与避免过度医疗：嘉宾分享通过小红书、朋友推荐、多方问诊等方式筛选医生，并强调思考「检查出来又能怎样？」，应以狗狗生命质量为前提，避免不必要的创伤性治疗。\n30:33 - 日常照料的甜蜜负担：Minni和Rulan分享照料老年病犬和身障犬的日常，坦言这需要大量时间与精力，对全职工作者是巨大挑战。\n38:48 - 狗狗给予的情感回馈：Rulan描述盲犬观观如何凭借嗅觉建立家庭「地图」，并每天给予家人巨大的情感慰藉，这是养育过程中最珍贵的收获。\n42:27 - 外部世界的压力与反思：讨论作为养狗人面临的安全焦虑（如投毒事件），并反思许多养狗矛盾实则源于主人不牵绳、不捡屎、不进行行为训练等「人祸」。\n47:43 - 消费主义与品种迷思：批判为迎合市场而繁殖的法斗、超小体犬等基因缺陷犬种，指出这导致了大量健康问题和弃养悲剧。\n52:17 - 救助的无力与释怀：Rulan分享路上遇见流浪狗却因现实无力施救而情绪崩溃的经历，探讨如何在能力有限的情况下，与世界的苦难自洽。\n56:10 - 养狗，后悔了吗？：三位主人一致表示不后悔，认为狗狗是家人，给予了无可替代的爱与希望。\n58:29 - 未来还会再养狗吗？：答案不一。Minni表示可能不会；Rulan持开放态度，但强调只领养不购买；Teddy则在预演与当前狗狗的告别。\n01:01:40 - 核心建议：不要给自己（和狗）惹麻烦：Minni分享丈夫「不要惹麻烦」的理念，总结为科学饲养、勿将人的需求强加于狗，这是对狗最大的负责。\n📚 关键信息\n宠物的医疗抉择：在当代宠物医疗中，家长需要成为「功课型」消费者，警惕销售话术，核心判断标准应是治疗能否提升宠物的生命质量，而非单纯延长生命。\n「问题」背后的深情：照料有特殊需求的狗狗是巨大的时间捆绑，但狗狗回馈的无条件信任与情感价值，远超付出。身障犬观观凭借嗅觉构建世界并勇敢扑向家人的画面，是这种羁绊的极致体现。\n养狗人的社会困境：外部环境对养狗人并不全然友好。真正的改善始于每位主人的自觉：牵绳、捡屎、做好行为管理。许多矛盾源于主人未能“把狗当狗”来正确引导和驾驭。\n审慎开始，负责到底：养狗是重大生命责任。不应出于一时冲动或追逐品种潮流，而应全面评估自身条件。「领养代替购买」不仅是释放善意，也是对畸形繁育市场的抵制。\n终极哲思「不要惹麻烦」：这句话的深层含义是理性和克制。它关乎科学养育（如法斗夏天不宜外出）、关乎不对狗做拟人化投射（如狗狗秋千），核心是把狗的安全和天性需求置于人的娱乐需求之上。\n\n☕️ 互动话题\n你在养着或者想养什么宠物吗？有什么特别经历或者经验？\n🎵 本期歌单\nTune Up: 翻滚吧！我的宝贝 - 徐佳莹\nTune Down: 不怕庆祝 - 徐佳莹\n📮 订阅与联结\n▸ 音频版：小宇宙 / Apple Podcast / 以及各大泛收听平台\n▸ 视频版：腾讯视频 / B站\n▸ 公众号：不存在咖啡馆\n▸ 制作人：泰迪粥\n▸ 投稿你的人生高低潮：teddy.chou@qq.com\n🎉 号外！号外！：​ 小宇宙的赞赏功能突然间给敝节目开放啦！欢迎打赏请我喝杯咖啡——你的支持是让节目能持续做下去的最大动力。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<figure><img src=\"https://image.xyzcdn.net/Fv0m4AQZgIIqp4qYVpYdax6zZQ2n.png\"/></figure><p>🎧 在本期节目中你将听到：</p><p>这是一期三位「问题狗狗」家长毫无保留的经验对谈。我们从各自狗狗的特殊状况（失明、失聪、年老多病）出发，聊了聊救助时的惊心动魄、宠物医疗的消费迷思、与狗狗的日常羁绊，以及作为都市养狗人面临的内部与外部压力。如果你正在养狗，或计划养狗，这期节目或许能给你一些慰藉</p><h2><strong>☕️场地支持</strong></h2><p>Playing House 过家家</p><h2>🎙 本期嘉宾</h2><ul>  <li><strong>Rulan</strong>：艺术行业从业者，养着一只又聋又盲的中华田园犬「<a href=\"https://www.xiaohongshu.com/user/profile/602f4ac90000000001003d57?xsec_token=YBhWAxFe6iOEkCHjjyI_VXZ4pDpaW6TbwgPsBoGNSGo9c=&amp;xsec_source=app_share&amp;xhsshare=WeixinSession&amp;appuid=602f4ac90000000001003d57&amp;apptime=1775693153&amp;share_id=846002f1dadf4fc7acf49c9af6428868\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">观观</a>」。</li>  <li><strong>Minni</strong>：自称社会闲散人士，养有一只11岁的法斗「Jojo」和一只英国斯塔福梗。</li></ul><h2><strong>⏱ 时间戳导航</strong></h2><p><strong>01:25 - 开场与嘉宾介绍</strong>：主持人Teddy解释节目迟更原因，介绍本期嘉宾Rulan和Minni，以及录制地点。</p><p><strong>03:40 - 我们的「问题狗狗」：</strong>失明失聪的观观、11岁法斗Jojo、确诊青光眼的笨宾犬。</p><p><strong>05:14 - 观观的故事：从濒死到失明</strong>：Rulan详述在观音寺捡到观观、两次大病抢救、最终导致其失明失聪的曲折经历。</p><p><strong>11:30 - 宠物医疗：高昂费用与行业迷思</strong>：探讨在狗狗身上花费的医疗成本（从几千到数万），并质疑当前宠物医疗行业定价不透明、专业度与收费不匹配的现状。</p><p><strong>19:00 - 如何选择医生与避免过度医疗</strong>：嘉宾分享通过小红书、朋友推荐、多方问诊等方式筛选医生，并强调思考「检查出来又能怎样？」，应以狗狗生命质量为前提，避免不必要的创伤性治疗。</p><p><strong>30:33 - 日常照料的甜蜜负担</strong>：Minni和Rulan分享照料老年病犬和身障犬的日常，坦言这需要大量时间与精力，对全职工作者是巨大挑战。</p><p><strong>38:48 - 狗狗给予的情感回馈</strong>：Rulan描述盲犬观观如何凭借嗅觉建立家庭「地图」，并每天给予家人巨大的情感慰藉，这是养育过程中最珍贵的收获。</p><p><strong>42:27 - 外部世界的压力与反思</strong>：讨论作为养狗人面临的安全焦虑（如投毒事件），并反思许多养狗矛盾实则源于主人不牵绳、不捡屎、不进行行为训练等「人祸」。</p><p><strong>47:43 - 消费主义与品种迷思</strong>：批判为迎合市场而繁殖的法斗、超小体犬等基因缺陷犬种，指出这导致了大量健康问题和弃养悲剧。</p><p><strong>52:17 - 救助的无力与释怀</strong>：Rulan分享路上遇见流浪狗却因现实无力施救而情绪崩溃的经历，探讨如何在能力有限的情况下，与世界的苦难自洽。</p><p><strong>56:10 - 养狗，后悔了吗？</strong>：三位主人一致表示不后悔，认为狗狗是家人，给予了无可替代的爱与希望。</p><p><strong>58:29 - 未来还会再养狗吗？</strong>：答案不一。Minni表示可能不会；Rulan持开放态度，但强调只领养不购买；Teddy则在预演与当前狗狗的告别。</p><p><strong>01:01:40 - 核心建议：不要给自己（和狗）惹麻烦</strong>：Minni分享丈夫「不要惹麻烦」的理念，总结为科学饲养、勿将人的需求强加于狗，这是对狗最大的负责。</p><h2>📚 关键信息</h2><ul>  <li><strong>宠物的医疗抉择</strong>：在当代宠物医疗中，家长需要成为「功课型」消费者，警惕销售话术，核心判断标准应是治疗能否提升宠物的生命质量，而非单纯延长生命。</li>  <li><strong>「问题」背后的深情</strong>：照料有特殊需求的狗狗是巨大的时间捆绑，但狗狗回馈的无条件信任与情感价值，远超付出。身障犬观观凭借嗅觉构建世界并勇敢扑向家人的画面，是这种羁绊的极致体现。</li>  <li><strong>养狗人的社会困境</strong>：外部环境对养狗人并不全然友好。真正的改善始于每位主人的自觉：牵绳、捡屎、做好行为管理。许多矛盾源于主人未能“把狗当狗”来正确引导和驾驭。</li>  <li><strong>审慎开始，负责到底</strong>：养狗是重大生命责任。不应出于一时冲动或追逐品种潮流，而应全面评估自身条件。「领养代替购买」不仅是释放善意，也是对畸形繁育市场的抵制。</li>  <li><strong>终极哲思「不要惹麻烦」</strong>：这句话的深层含义是理性和克制。它关乎科学养育（如法斗夏天不宜外出）、关乎不对狗做拟人化投射（如狗狗秋千），核心是把狗的安全和天性需求置于人的娱乐需求之上。</li></ul><h2>☕️ 互动话题</h2><p>你在养着或者想养什么宠物吗？有什么特别经历或者经验？</p><h2>🎵 本期歌单</h2><p><a href=\"https://c6.y.qq.com/base/fcgi-bin/u?__=GHBpXArLx8hF\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Tune Up</a>: 翻滚吧！我的宝贝 - 徐佳莹</p><p><a href=\"https://c6.y.qq.com/base/fcgi-bin/u?__=cwiUj0rLxqAz\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Tune Down</a>: 不怕庆祝 - 徐佳莹</p><h2>📮 订阅与联结</h2><p>▸ 音频版：<a href=\"https://www.xiaoyuzhoufm.com/podcast/67f6456481d0f4672321e2d2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">小宇宙</a> / <a href=\"https://podcasts.apple.com/cn/podcast/%E8%A7%A6%E5%BA%95%E8%AE%BF%E8%B0%88/id1807681511\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Apple Podcast</a> / 以及各大泛收听平台</p><p>▸ 视频版：<a href=\"https://v.qq.com/x/cover/mzc003rd0hl7981.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">腾讯视频</a> / <a href=\"https://space.bilibili.com/249089723/lists/5186440?type=season\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">B站</a></p><p>▸ 公众号：<a href=\"https://mp.weixin.qq.com/s/RIUHRUCMpy517mXA722-LA\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">不存在咖啡馆</a></p><p>▸ 制作人：<a href=\"https://www.xiaohongshu.com/user/profile/5bdf0f8ff7e8b91a165f5bc2\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">泰迪粥</a></p><p>▸ 投稿你的人生高低潮：teddy.chou@qq.com</p><p>🎉 号外！号外！：​ 小宇宙的赞赏功能突然间给敝节目开放啦！欢迎打赏请我喝杯咖啡——你的支持是让节目能持续做下去的最大动力。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69d6798ce2c8be3155b6e6bb?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fu8M8GzUZXYARGB66Aj65GaeydhH.png",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "6a5586cd27a4eec16c4031cf",
+  "apple_collection_id": "1710881183",
+  "show": "谢无敌®茶访谈",
+  "titel": "Vol.68 从北漂找机会到头部大厂工作：七天的人生杠杆和小红书搞钱机会",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/6a5586cd27a4eec16c4031cf/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lneVw1QvM_BvUZIKhRQgafdZi_Jl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 67627828,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T16:29:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨个人创业的杠杆与小红书搞钱机会，分享从北漂大厂到独立创业的实战经验。",
+  "kurzfassung": "本期节目邀请了青年作者、身材有数线下内容负责人七天，分享她从22岁北漂租住八人间、进出网易与阿里大厂，到最终转型做一人公司（OPC）的经历。访谈深入探讨了小红书电商和买手制的最新赚钱机会、选品逻辑与运营实战。同时，嘉宾结合亲身教训剖析了独立创业的避坑指南与心态调整。",
+  "stichpunkte": [
+    "七天回忆22岁北漂时租住480元八人间及在豆瓣寻找青年公寓的省钱求生经历。",
+    "通过在简书和公众号持续输出北漂散文并获《人民日报》夜读转载，成功出版第一本书并入职网易。",
+    "在经历网易和阿里（天猫海外）的工作后，因不适应大厂螺丝钉文化及嫡系氛围而选择离职。",
+    "总结大厂的价值在于学习体系化能力与顶层策略，但建议年轻人应尽早出来做一人公司。",
+    "复盘22年尝试线下青年社群的失败教训：模式过重、交付繁琐，违背了把杠杆拉到极致的商业原则。",
+    "分享其男朋友全职做小红书电商的实战案例：历经选品调整、AI生图降本与三个月摸索期，实现营收突破。",
+    "解析小红书电商的选品逻辑，强调质价比、情绪价值及满足特定人群的细分需求。",
+    "对比电商与买手制的差异，指出买手无需承担客服和售后，更适合新手作为起步方向。"
+  ],
+  "kapitel": [
+    {
+      "titel": "北漂求生与大厂职场经历",
+      "start": 90.58
+    },
+    {
+      "titel": "从大厂螺丝钉到一人公司（OPC）的反思",
+      "start": 702.86
+    },
+    {
+      "titel": "小红书电商的实战机会与选品逻辑",
+      "start": 1509.04
+    },
+    {
+      "titel": "小红书买手制与直播带货的优势",
+      "start": 3199.34
+    },
+    {
+      "titel": "一人公司创业避坑与未来规划",
+      "start": 3792.9
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T16:29:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4181,
+  "veroeffentlicht": "2026-07-14T00:51:06+00:00",
+  "beschreibung": "【本期嘉宾】\n七天路过，青年作家，曾任网易、阿里运营，现生财有术社群负责人，深耕OPC创业实战。\n已出版两本图书，代表作《大大的城市，小小的我》，聚焦北漂青年成长故事。其中一篇文章《一个人也可以活成千军万马》被人民日报夜读转载，累计 45 篇稿件登上人民日报转载平台，\n【本期内容🎧】\n一、七天北漂经历：从小城市到网易\n01:17 北漂起点：22岁来北京，月租480住八人间青年公寓。\n04:30 第一份工作在北京做出版公司营销。利用公众号红利期，给二三十个大号投稿（十点读书等），只有一家回了，一篇200块。\n05:43 职业转折：接到知乎爆款书《精进：如何成为一个很厉害的人》的营销，这本书卖了百万册。\n06:09 怎么进的网易？在第二家图书公司做营销时，对接了百度、网易云阅读等蓝V合作。\n二、出书路径：从写稿到被人民日报转载\n07:02 怎么出的书？在图书公司跟作者聊天发现规律：公众号爆款→编辑主动找来。\n08:01 选题策略：当时「北京女子图鉴」很火，空巢青年是热门话题。\n08:32 关键节点：人民日报夜读转载了文章《一个人也可以活成千军万马》。\n三、大厂经历与反思：网易→阿里\n10:01 怎么进的阿里？在公众号「晚点」的评论区看到的。\n11:57 大厂的真相：在非常大的组织里，需要的是听话的、好用的螺丝钉。\n13:20 如果再选一次还会进大厂吗？结论：一定要早点出来做一人公司，越早越好。\n14:41 大厂价值何在？大厂最有价值的是体系化能力——从策略到执行，把整个PPT说得自洽。\n四、一人公司创业的失败教训\n17:50 核心反思：小红书的定位用错了——只把它当获客工具直接导私域，没有持续深耕和运营。\n20:18 一人公司创业的核心教训：一个人做业务，一定要把杠杆拉到极致。\n21:35 创业的大忌讳：太按自己的兴趣爱好做事情。\n五、小红书电商：从零到月营收5万的实战复盘\n28:56 为什么最终选了小红书电商？\n29:52 七天男朋友的起步时间线：三月下旬了解电商→花半个月做调研看帖总结规律→梳理出行动地图→四月初上架第一个品。\n30:52 选品迭代：去义乌实地看了什么品在火。\n31:55 第三个月结束营收超过5万。\n六、小红书选品方法论\n34:14 选品的现实建议：能出单的品就是好品，先给自己正反馈再慢慢打红海品。\n35:39 小红书产品饱和了吗？日活近3亿，大量用户活跃在平台上被满足各种需求。\n37:24 小红书电商适合谁？适合普通用户想拿工作之外第一桶金、尽快拿到正反馈，是最值得选的入口。\n七、电商心态与节奏\n40:51 别靠自己的假设判断，拿到几个假设再去测。\n41:31 0到1的定义：不是跑通了一次，而是稳定跑通——每天都有稳定的营收进账。\n八、一人公司的真正定义\n44:29 一人公司不是指一个人干活——是指一个核心大脑，身边有左膀右臂帮他做好这件事。\n45:41 想要有稳定性收入，必须是多个人，把钱分出去是必然的。\n九、小红书电商避坑指南\n47:07 第一个坑：蹭品牌平替。\n47:34 第二个坑：红黑榜、拉踩别人。\n48:02 什么品可以跟随？看数据——近24小时的加购数据，意味着趋势正在发生。\n十、直播：新的转化场景\n50:50 直播间适合什么？想卖百元以上产品，需要进入直播场景。\n51:37 直播节奏：每天至少播3小时以上，每周至少播3场。\n52:05 为什么推荐直播？超强正反馈——只要播就有营收。\n十一、买手：比电商更适合一人公司的模式\n54:32 买手是2.0时代的博主：解决了博主「恰饭」的尴尬身份。\n55:19 买手vs电商的成本账：买手赚的不一定比电商低。\n57:48 电商的三种形态：1）选品型代发电商；2）品牌型电商；3）品牌化进阶（。\n十二、OPC（一人公司）的底层心法\n01:05:08 产品化的核心：不要想着「给用户提供什么价值」，而是把价值呈现成一个产品。\n01:05:35 聚焦的力量：20%的品贡献80%的营收。必须把产品主题做聚焦做专注。\n01:08:20 七天给自己的定位：在AI时代做「注意力中转站」，做信息整合。\n\n闪亮猫传媒部分账号：\n谢无敌-闪亮猫传媒\n周周Mia\n谢无敌的红书宝（IP孵化）\n闪亮猫传媒\n设计师🌿鹏老师\n\n公众号：谢无敌的红书宝、周周搞钱笔记\n一档专注分享IP运营与搞钱的播客：周周搞钱笔记\n\n【关于主播】\n谢无敌\n绘素集团流量操盘手、闪亮猫传媒创始人，通过矩阵号帮自家家居品牌引流变现超过2000万；\n\n闪亮猫小红书实战营带练导师，已孵化美食、职场、设计、艺术、宠物等多个类目IP，冠军学员最高变现600W+\n\n【谢无敌的红书宝】知识星球主理人，垂直于小红书运营，帮助10000+成员实现内容变现。\n\n**\n添加喵亮亮加入小红书干货分享群，和主播零距离交流，一起打造小红书提款机！\n扫描下方二维码或直接+VX：cat66692\n报暗号“888”，送你一份价值999元的【2026年最新版本小红书运营宝典】作为见面礼~\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><strong>【本期嘉宾】</strong></p><p>七天路过，青年作家，曾任网易、阿里运营，现生财有术社群负责人，深耕OPC创业实战。</p><p>已出版两本图书，代表作《大大的城市，小小的我》，聚焦北漂青年成长故事。其中一篇文章《一个人也可以活成千军万马》被人民日报夜读转载，累计 45 篇稿件登上人民日报转载平台，</p><img src=\"https://image.xyzcdn.net/FgGNVYe0ksGQvb1ELGNWaiNFdX_r.jpg\"><p><strong>【本期内容🎧】</strong></p><h2>一、七天北漂经历：从小城市到网易</h2><p><a class=\"timestamp\"><strong>01:17</strong></a> 北漂起点：22岁来北京，月租480住八人间青年公寓。</p><p><a class=\"timestamp\"><strong>04:30</strong></a> 第一份工作在北京做出版公司营销。利用公众号红利期，给二三十个大号投稿（十点读书等），只有一家回了，一篇200块。</p><p><a class=\"timestamp\"><strong>05:43</strong></a> 职业转折：接到知乎爆款书《精进：如何成为一个很厉害的人》的营销，这本书卖了百万册。</p><p><a class=\"timestamp\"><strong>06:09</strong></a> 怎么进的网易？在第二家图书公司做营销时，对接了百度、网易云阅读等蓝V合作。</p><h2>二、出书路径：从写稿到被人民日报转载</h2><p><a class=\"timestamp\"><strong>07:02</strong></a> 怎么出的书？在图书公司跟作者聊天发现规律：公众号爆款→编辑主动找来。</p><p><a class=\"timestamp\"><strong>08:01</strong></a> 选题策略：当时「北京女子图鉴」很火，空巢青年是热门话题。</p><p><a class=\"timestamp\"><strong>08:32</strong></a> 关键节点：人民日报夜读转载了文章《一个人也可以活成千军万马》。</p><h2>三、大厂经历与反思：网易→阿里</h2><p><a class=\"timestamp\"><strong>10:01</strong></a> 怎么进的阿里？在公众号「晚点」的评论区看到的。</p><p><a class=\"timestamp\"><strong>11:57</strong></a> 大厂的真相：在非常大的组织里，需要的是听话的、好用的螺丝钉。</p><p><a class=\"timestamp\"><strong>13:20</strong></a> 如果再选一次还会进大厂吗？结论：一定要早点出来做一人公司，越早越好。</p><p><a class=\"timestamp\"><strong>14:41</strong></a> 大厂价值何在？大厂最有价值的是体系化能力——从策略到执行，把整个PPT说得自洽。</p><h2>四、一人公司创业的失败教训</h2><p><a class=\"timestamp\"><strong>17:50</strong></a> 核心反思：小红书的定位用错了——只把它当获客工具直接导私域，没有持续深耕和运营。</p><p><a class=\"timestamp\"><strong>20:18</strong></a> 一人公司创业的核心教训：一个人做业务，一定要把杠杆拉到极致。</p><p><a class=\"timestamp\"><strong>21:35</strong></a> 创业的大忌讳：太按自己的兴趣爱好做事情。</p><h2>五、小红书电商：从零到月营收5万的实战复盘</h2><p><a class=\"timestamp\"><strong>28:56</strong></a> 为什么最终选了小红书电商？</p><p><a class=\"timestamp\"><strong>29:52</strong></a> 七天男朋友的起步时间线：三月下旬了解电商→花半个月做调研看帖总结规律→梳理出行动地图→四月初上架第一个品。</p><p><a class=\"timestamp\"><strong>30:52</strong></a> 选品迭代：去义乌实地看了什么品在火。</p><p><a class=\"timestamp\"><strong>31:55</strong></a> 第三个月结束营收超过5万。</p><h2>六、小红书选品方法论</h2><p><a class=\"timestamp\"><strong>34:14</strong></a> 选品的现实建议：能出单的品就是好品，先给自己正反馈再慢慢打红海品。</p><p><a class=\"timestamp\"><strong>35:39</strong></a> 小红书产品饱和了吗？日活近3亿，大量用户活跃在平台上被满足各种需求。</p><p><a class=\"timestamp\"><strong>37:24</strong></a> 小红书电商适合谁？适合普通用户想拿工作之外第一桶金、尽快拿到正反馈，是最值得选的入口。</p><h2>七、电商心态与节奏</h2><p><a class=\"timestamp\"><strong>40:51</strong></a> 别靠自己的假设判断，拿到几个假设再去测。</p><p><a class=\"timestamp\"><strong>41:31</strong></a> 0到1的定义：不是跑通了一次，而是稳定跑通——每天都有稳定的营收进账。</p><h2>八、一人公司的真正定义</h2><p><a class=\"timestamp\"><strong>44:29</strong></a> 一人公司不是指一个人干活——是指一个核心大脑，身边有左膀右臂帮他做好这件事。</p><p><a class=\"timestamp\"><strong>45:41</strong></a> 想要有稳定性收入，必须是多个人，把钱分出去是必然的。</p><h2>九、小红书电商避坑指南</h2><p><a class=\"timestamp\"><strong>47:07</strong></a> 第一个坑：蹭品牌平替。</p><p><a class=\"timestamp\"><strong>47:34</strong></a> 第二个坑：红黑榜、拉踩别人。</p><p><a class=\"timestamp\"><strong>48:02</strong></a> 什么品可以跟随？看数据——近24小时的加购数据，意味着趋势正在发生。</p><h2>十、直播：新的转化场景</h2><p><a class=\"timestamp\"><strong>50:50</strong></a> 直播间适合什么？想卖百元以上产品，需要进入直播场景。</p><p><a class=\"timestamp\"><strong>51:37</strong></a> 直播节奏：每天至少播3小时以上，每周至少播3场。</p><p><a class=\"timestamp\"><strong>52:05</strong></a> 为什么推荐直播？超强正反馈——只要播就有营收。</p><h2>十一、买手：比电商更适合一人公司的模式</h2><p><a class=\"timestamp\"><strong>54:32</strong></a> 买手是2.0时代的博主：解决了博主「恰饭」的尴尬身份。</p><p><a class=\"timestamp\"><strong>55:19</strong></a> 买手vs电商的成本账：买手赚的不一定比电商低。</p><p><a class=\"timestamp\"><strong>57:48</strong></a> 电商的三种形态：1）选品型代发电商；2）品牌型电商；3）品牌化进阶（。</p><h2>十二、OPC（一人公司）的底层心法</h2><p><a class=\"timestamp\"><strong>01:05:08</strong></a> 产品化的核心：不要想着「给用户提供什么价值」，而是把价值呈现成一个产品。</p><p><a class=\"timestamp\"><strong>01:05:35</strong></a> 聚焦的力量：20%的品贡献80%的营收。必须把产品主题做聚焦做专注。</p><p><a class=\"timestamp\"><strong>01:08:20</strong></a> 七天给自己的定位：在AI时代做「注意力中转站」，做信息整合。<br><br></p><p>闪亮猫传媒部分账号：</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/623be4e3000000001000c670\">谢无敌-闪亮猫传媒</a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/644b668a0000000012036872?xsec_token=ABc-6G0QUTjQ6bz6V2Hvu8Wlc2HavBEKShzqxo97_Jvv4%3D&amp;xsec_source=pc_search\">周周Mia</a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/5c307740000000000502c5a3\">谢无敌的红书宝（IP孵化）</a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/60ca436f000000000100aabf\">闪亮猫传媒</a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/search_result?keyword=%25E8%25AE%25BE%25E8%25AE%25A1%25E5%25B8%2588%25F0%259F%258C%25BF%25E9%25B9%258F%25E8%2580%2581%25E5%25B8%2588&amp;source=web_search_result_notes\">设计师🌿鹏老师</a></p><p><br></p><p>公众号：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://mp.weixin.qq.com/s/WsXM_w9Ft7pYIypfkJlWsA\">谢无敌的红书宝</a>、<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://mp.weixin.qq.com/s/knzD5QfvyQkhLu7suvEO8g\">周周搞钱笔记</a></p><p>一档专注分享IP运营与搞钱的播客：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/podcast/68e4fca63dc471633910f2fa\">周周搞钱笔记</a></p><img src=\"https://image.xyzcdn.net/FgGNVYe0ksGQvb1ELGNWaiNFdX_r.jpg\"><p><br></p><p>【<strong>关于主播】</strong></p><p>谢无敌</p><ul><li><p>绘素集团流量操盘手、闪亮猫传媒创始人，通过矩阵号帮自家家居品牌引流变现超过2000万；</p></li><li><p>闪亮猫小红书实战营带练导师，已孵化美食、职场、设计、艺术、宠物等多个类目IP，冠军学员最高变现600W+</p></li><li><p>【谢无敌的红书宝】知识星球主理人，垂直于小红书运营，帮助10000+成员实现内容变现。</p></li></ul><p>**</p><p>添加<strong>喵亮亮</strong>加入小红书干货分享群，和主播零距离交流，一起打造小红书提款机！</p><p>扫描下方二维码或直接+VX：cat66692</p><p>报暗号<strong>“888”</strong>，送你一份价值999元的【2026年最新版本小红书运营宝典】作为见面礼~</p><img src=\"https://image.xyzcdn.net/Fl7UcoSFze1JK81cKQLtWcHNf0Xb.png\"><p><br></p><p><br></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a5586cd27a4eec16c4031cf?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FrmFrxf1-uLPxzSpTRLoOpXoylbT.jpg",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/b0e7-audiofreehighqps/EB/45/CKwRIJEEwvGCABKaXQDHWKoL.m4a",
+  "apple_collection_id": "1546312300",
+  "show": "音频|深度早教亲子家庭教育知识",
+  "titel": "12 为什么大部分父母太看重孩子的天赋，而天赋到底重不重要？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIJEEwvGCABKaXQDHWKoL.m4a?channel=rss&album_id=38635217&track_id=433202280&uid=112997020&jt=https://aod.cos.tx.xmcdn.com/storages/b0e7-audiofreehighqps/EB/45/CKwRIJEEwvGCABKaXQDHWKoL.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1219165,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:27:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨父母为何太看重天赋以及天赋对孩子是否重要。",
+  "kurzfassung": "节目讨论了一个关于孩子成绩不好是否该放弃学习的争议观点。主播认为，把成绩不好归咎于缺乏天赋是在误导家长，并会给孩子提供不努力的借口。真正决定学习成果的是学习方法与策略，而非天生天赋。",
+  "stichpunkte": [
+    "某老师呼吁家长若孩子成绩不好应尽早放弃死磕并寻找特长",
+    "该老师用姚明学扣篮和相声的例子来论证生理限制与天赋的重要性",
+    "主播指出该老师的观点忽视了人脑不断发展的潜能",
+    "反例表明即使身高不高通过练习也能在篮球领域取得成就",
+    "将不努力归咎于没有天赋会导致孩子在面对任何困难时都选择放弃",
+    "每一个孩子其实都有很高的学习天赋",
+    "成绩不好的孩子只是没有找到正确的学习方法和策略",
+    "家长不应该轻易放弃任何一个孩子"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨老师关于天赋与成绩的言论",
+      "start": 0.0
+    },
+    {
+      "titel": "分析与反驳老师举的例子",
+      "start": 26.78
+    },
+    {
+      "titel": "探讨过度强调天赋对孩子的负面影响",
+      "start": 75.48
+    },
+    {
+      "titel": "强调方法的重要性与给家长的建议",
+      "start": 122.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:27:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 150,
+  "veroeffentlicht": "2021-07-25T08:10:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group72/M01/AA/77/wKgO0F7Y01uxCvUGAAqh1ibwXaE755.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19174651",
+  "apple_collection_id": "1874527524",
+  "show": "The Epstein Files",
+  "titel": "File 180 - Jmail Turned the Epstein Archive Into Searchable Evidence",
+  "audio": {
+    "url": "https://www.buzzsprout.com/2592609/episodes/19174651-file-180-jmail-turned-the-epstein-archive-into-searchable-evidence.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15385518,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:56:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Analyzing how JMail transformed the Epstein archive into a searchable digital database.",
+  "kurzfassung": "The release of the Epstein files under the EFTA introduced JMail, a searchable digital workspace that integrates emails, flight logs, and calendars into a relational database. This digital architecture allows auditors to perform frequency analysis and trace metadata even when body text is redacted. However, reliance on AI categorization and persistent 404 errors indicate both potential algorithmic false positives and active database manipulation.",
+  "stichpunkte": [
+    "Transition from static PDFs to a searchable enterprise-level digital workspace called JMail",
+    "Relational database integration links JFlights, JCAL, JMessage, and J Photos for instant cross-referencing",
+    "Fluctuating metrics in unredaction requests indicate active community querying and server-side interaction",
+    "Metadata headers allow frequency and relationship analysis even when email body text remains redacted",
+    "Internal AI system Gemini categorizes communications, introducing the risk of algorithmic false positives",
+    "Contacts database flattens diverse global figures, requiring strict forensic differentiation of involvement",
+    "Persistent 404 server errors and missing S3 bucket objects point to deliberate database manipulation and gatekeeping",
+    "Integration of live external news feeds blurs the line between immutable server data and external media noise"
+  ],
+  "kapitel": [
+    {
+      "titel": "From Static Documents to JMail",
+      "start": 68.51
+    },
+    {
+      "titel": "Metadata Analysis and Active Server Metrics",
+      "start": 309.33
+    },
+    {
+      "titel": "AI Categorization and Contact Taxonomies",
+      "start": 510.31
+    },
+    {
+      "titel": "Server Errors and Cloud Infrastructure Vulnerabilities",
+      "start": 840.22
+    },
+    {
+      "titel": "External Media Blending and Conclusions",
+      "start": 976.44
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Auditing a relational database instead of isolated pages",
+      "start": 133.329,
+      "ende": 153.443,
+      "laenge": 20.11,
+      "byte_start": 1678628,
+      "byte_ende": 1919998,
+      "bytes": 241371,
+      "range_header": "bytes=1678628-1919998",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 133.407,
+      "anker_sha256": "0571757edc7cd17b73a494ed009b944a0f4dbb665fd75d47bd189e72721cc1fd",
+      "einblendung_ms": 60,
+      "text": "Transforming the public disclosure into an advanced digital environment reshapes investigative work, allowing researchers to examine the collection as an interconnected whole rather than disconnected individual pages."
+    },
+    {
+      "hook": "Unredaction requests ticking up in real time",
+      "start": 350.459,
+      "ende": 370.573,
+      "laenge": 20.11,
+      "byte_start": 4284185,
+      "byte_ende": 4525556,
+      "bytes": 241372,
+      "range_header": "bytes=4284185-4525556",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 350.537,
+      "anker_sha256": "40b446dcfaae0455eb23944a702634c58a803df927202e8b87341ce60237d940",
+      "einblendung_ms": 60,
+      "text": "A rise in redaction removal tallies from 2,104 to 2,106 demonstrates that the repository is continuously being accessed, searched, and updated."
+    },
+    {
+      "hook": "AI tags include asking for advice and conspiring with Jean Luc Brunel",
+      "start": 541.388,
+      "ende": 561.502,
+      "laenge": 20.11,
+      "byte_start": 6575333,
+      "byte_ende": 6816704,
+      "bytes": 241372,
+      "range_header": "bytes=6575333-6816704",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 541.466,
+      "anker_sha256": "a43b151a5ac51138ff372a2bfdc3f73ffe323467439c5e7c6a74bfe6829474db",
+      "einblendung_ms": 60,
+      "text": "Machine learning algorithms automatically catalog the correspondence into distinct themes, such as reputation management and collaboration with modeling scout Jean-Luc Brunel."
+    },
+    {
+      "hook": "What a 404 error reveals about transparency releases",
+      "start": 912.901,
+      "ende": 936.359,
+      "laenge": 23.46,
+      "byte_start": 11033495,
+      "byte_ende": 11314989,
+      "bytes": 281495,
+      "range_header": "bytes=11033495-11314989",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 912.98,
+      "anker_sha256": "a90dbd8e86ce6ccd27cbd245e4d425721a113660902dfa2ee6a73d9cf07d967f",
+      "einblendung_ms": 60,
+      "text": "Missing page notices across the platform's primary menu suggest files were purposefully relocated or erased, pointing to tampering with court-ordered public disclosures."
+    },
+    {
+      "hook": "Live news feeds integrated directly into the Epstein files",
+      "start": 1003.729,
+      "ende": 1028.728,
+      "laenge": 25.0,
+      "byte_start": 12123428,
+      "byte_ende": 12423417,
+      "bytes": 299990,
+      "range_header": "bytes=12123428-12423417",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1003.807,
+      "anker_sha256": "2648b7a391dfb54a57a290bebb49b4a538593eb038479db6a0d69ce9f8ed2076",
+      "einblendung_ms": 60,
+      "text": "The system displays real-time external media coverage alongside the leaked files, highlighting stories on the August 10, 2019 jailhouse death as well as diplomatic summits between Donald Trump and Xi Jinping."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:56:12+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1238,
+  "veroeffentlicht": "2026-05-28T02:00:00-07:00",
+  "beschreibung": "This episode traces \"File 180 through the Epstein document archive, examining what the primary sources reveal about their connection to Jeffrey Epstein's network.\nSources for this episode are available at: https://nbn.fm/epstein-files/episode/ep180\nAbout The Epstein Files\nThe Epstein Files is an AI-generated podcast analyzing the 3.5 million pages released under the Epstein Files Transparency Act (EFTA). All claims are grounded in primary source documents, published on the Neural Broadcast Network website for verification.\nProduced by Island Investigation\nSubscribe to NBN's Newsletter\nGet new investigations, new shows, and the raw intelligence you won't find anywhere else straight to your inbox.\nSign up at nbn.fm/newsletter.",
+  "beschreibung_html": "<p>This episode traces &quot;File 180 through the Epstein document archive, examining what the primary sources reveal about their connection to Jeffrey Epstein&apos;s network.</p><p>Sources for this episode are available at: <a href='https://nbn.fm/epstein-files/episode/ep180'>https://nbn.fm/epstein-files/episode/ep180</a></p><p><b>About The Epstein Files</b></p><p>The Epstein Files is an AI-generated podcast analyzing the 3.5 million pages released under the Epstein Files Transparency Act (EFTA). All claims are grounded in primary source documents, published on the Neural Broadcast Network website for verification.</p><p>Produced by Island Investigation</p><p><b>Subscribe to NBN&apos;s Newsletter</b></p><p>Get new investigations, new shows, and the raw intelligence you won&apos;t find anywhere else straight to your inbox.</p><p>Sign up at <a href='https://nbn.fm/newsletter'>nbn.fm/newsletter</a>.</p>",
+  "bild_url": "https://storage.buzzsprout.com/91asf4as8fxs556i9ngbym2ngove?.jpg",
+  "schlagworte": [
+    "Jeffrey Epstein",
+    "EFTA",
+    "DOJ",
+    "investigation",
+    "documents",
+    "forensic"
+  ],
+  "folgennummer": 180,
+  "kapitel_quelle": "modell"
+}

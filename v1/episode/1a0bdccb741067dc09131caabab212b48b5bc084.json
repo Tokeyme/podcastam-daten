@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group69/M01/FB/A4/wKgMeV3WAEaxQkiqACqx2vKiyJU314.m4a",
+  "apple_collection_id": "1422463888",
+  "show": "慢摇DJ宝贝-健身音乐",
+  "titel": "DJ慢摇一万个对不起 (DJ微微版)-健身音乐-中国健身音乐台",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgMeV3WAEaxQkiqACqx2vKiyJU314.m4a?channel=rss&album_id=291784&track_id=231031067&uid=15905991&jt=https://aod.cos.tx.xmcdn.com/group69/M01/FB/A4/wKgMeV3WAEaxQkiqACqx2vKiyJU314.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2798042,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:55:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "健身音乐《DJ慢摇一万个对不起 (DJ微微版)》伴随动感节奏。",
+  "kurzfassung": "本期节目播放了健身音乐《DJ慢摇一万个对不起 (DJ微微版)》。内容主要为中国健身音乐台的动感DJ慢摇曲目。整段音频提供持续的音乐节奏以供健身使用。",
+  "stichpunkte": [
+    "播放中国健身音乐台的健身音乐",
+    "曲目名称为《DJ慢摇一万个对不起 (DJ微微版)》",
+    "提供持续的动感DJ慢摇节奏"
+  ],
+  "kapitel": [
+    {
+      "titel": "DJ慢摇一万个对不起 (DJ微微版)",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:55:40+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 345,
+  "veroeffentlicht": "2019-11-23T23:10:08+00:00",
+  "beschreibung": "慢摇音乐风格是多样化、风格化的，随意性比较强，在曲调空隙间留给他人有想像的空间，注重现场气氛的释放。以HIP-HOP 、HOUSE、R&B 为主 ，其间也有串烧DISCO出现。慢摇吧的灵魂是现场DJ，最吸引人的音乐是属欲擒故纵风格音乐，完全由DJ制造气氛。",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;color:#333333;word-break:break-all;font-weight:normal;\"><span data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;color:#333333;word-break:break-all;font-weight:normal;\">慢摇音乐风格是多样化、风格化的，随意性比较强，在曲调空隙间留给他人有想像的空间，注重现场气氛的释放。以HIP-HOP 、HOUSE、R&amp;B 为主 ，其间也有串烧DISCO出现。慢摇吧的灵魂是现场DJ，最吸引人的音乐是属欲擒故纵风格音乐，完全由DJ制造气氛。<br /><img src=\"http://fdfs.xmcdn.com/group28/M09/85/27/wKgJSFkpTtXBjGJNAALBizCisKg69_mobile_large.jpeg\" alt=\"欢迎关注和订阅ViVi健身美体工作室\" data-large-width=\"750\" data-large-height=\"662\" data-preview-width=\"140\" data-preview-height=\"123\" data-large=\"http://fdfs.xmcdn.com/group28/M09/85/27/wKgJSFkpTtXBjGJNAALBizCisKg69_mobile_large.jpeg\" data-preview=\"http://fdfs.xmcdn.com/group28/M09/85/27/wKgJSFkpTtXBjGJNAALBizCisKg69_mobile_small.jpeg\" data-origin=\"http://fdfs.xmcdn.com/group28/M09/85/27/wKgJSFkpTtXBjGJNAALBizCisKg69.jpeg\" /></span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group4/M02/8A/E1/wKgDtFRMXi3hH9dWAAInA2aAyC0000.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

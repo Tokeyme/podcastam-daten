@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_866373980",
+  "apple_collection_id": "1143928479",
+  "show": "爱旅游，爱生活",
+  "titel": "故宫大美无言，暗淡了时光",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqh9sAMHAX3ABAAAAPDWadh.m4a?channel=rss&album_id=4883391&track_id=866373980&uid=55753759&jt=https://aod.cos.tx.xmcdn.com/storages/88ab-audiofreehighqps/80/AF/GAqh9sAMHAX3ABAAAAPDWadh.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3687470,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:27:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探寻北京故宫的建筑美学、历史沧桑与宫廷制度。",
+  "kurzfassung": "本期节目介绍了位于北京中心、占地广阔的明清皇宫故宫。节目详细梳理了紫禁城的整体布局、中轴线上的主要殿宇及其功能。同时，探讨了武门的出入等级规定、相关历史典礼以及对影视剧常见情节的澄清。",
+  "stichpunkte": [
+    "故宫位于北京市中心，占地面积达72万多平方米，被称为殿宇之海。",
+    "紫禁城在整体布局上分为中、东、西三路，其中南北中轴线起主要作用。",
+    "中轴线南起多座城门，北接太和殿、中和殿和宝和殿这举行大典的三大殿。",
+    "内庭以乾清宫、交泰殿和坤宁宫为中心，是皇帝居住及处理日常政务的地方。",
+    "紫禁城的正门是午门，明清时期出入午门有着极其严格的等级规定。",
+    "午门不仅是皇帝出入之门，还举行颁布历书典礼、授俘礼及元宵节旋灯等活动。",
+    "澄清了影视剧中常见的推出午门斩首情节，实际死刑处决地点并非在此。"
+  ],
+  "kapitel": [
+    {
+      "titel": "故宫概况与建筑特色",
+      "start": 4.32
+    },
+    {
+      "titel": "紫禁城的布局与主要殿宇",
+      "start": 79.02
+    },
+    {
+      "titel": "午门的等级规定与相关典礼",
+      "start": 148.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:27:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 223,
+  "veroeffentlicht": "2025-06-09T02:12:10+00:00",
+  "beschreibung": "本期主题：\n故宫诉说着数百年的风雨沧桑，每一处都是匠心独具的艺术杰作，每一处都有说不完的故事",
+  "beschreibung_html": "本期主题：<br>故宫诉说着数百年的风雨沧桑，每一处都是匠心独具的艺术杰作，每一处都有说不完的故事<br>",
+  "bild_url": "https://fdfs.xmcdn.com/group18/M08/6F/82/wKgJJVei0huRu6pLAAulL_NjBJg342.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

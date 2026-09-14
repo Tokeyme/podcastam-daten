@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_521656101",
+  "apple_collection_id": "1605483930",
+  "show": "元气体坛|全球体育赛事体坛趣闻",
+  "titel": "【视频】是一场怎样的比赛呢？竟然跑了54年才到达终点",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAGLbPaACB7-gE72bqf.m4a?channel=rss&album_id=56379133&track_id=521656101&uid=40070152&jt=https://aod.cos.tx.xmcdn.com/storages/6737-audiofreehighqps/D6/F3/GKwRIMAGLbPaACB7-gE72bqf.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2128890,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:37:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾奥运史上几场充满意外与传奇色彩的罕见比赛",
+  "kurzfassung": "本期节目盘点了奥运历史上的几桩奇闻异事。其中包括耗时54年才跑完终点的马拉松选手，因工作人员失误多跑一圈却依然夺冠的障碍赛，以及买门票入场却打破世界纪录的跳高冠军。这些真实故事展现了奥运赛场上不可思议的戏剧性瞬间。",
+  "stichpunkte": [
+    "日本运动员精力之赞在1912年瑞典奥运会马拉松中途喝橘子汁并睡着，直到1965年才补跑完剩余赛程",
+    "1932年洛杉矶奥运会3000米障碍赛中，因工作人员失误少计一圈，导致所有选手多跑了一圈",
+    "芬兰选手尽管多跑了一圈，但凭借实力依然赢得了该场比赛的冠军",
+    "1956年墨尔本奥运会上，美国跳高选手杜马因找不到教练和领队被拒之门外",
+    "杜马自费买门票入场，在没有时间做准备活动的情况下直接参赛并夺得金牌",
+    "埃塞俄比亚皇帝卫兵在1960年奥运会上夺得金牌，后因奥运冠军身份在政变失败后免于一死",
+    "该卫兵在1964年奥运会上再次夺得马拉松冠军，成为奥运史上首位蝉联该项目金牌的人"
+  ],
+  "kapitel": [
+    {
+      "titel": "54年才跑完的马拉松",
+      "start": 0.0
+    },
+    {
+      "titel": "多跑一圈的障碍赛",
+      "start": 70.6
+    },
+    {
+      "titel": "买门票进场夺冠的跳高选手",
+      "start": 137.72
+    },
+    {
+      "titel": "用金牌换取生命的奥运冠军",
+      "start": 202.72
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:37:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 262,
+  "veroeffentlicht": "2022-04-14T10:00:04+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0d72-audiofreehighqps/05/76/GKwRIMAGLbOjAAEqEwE72Yo-.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

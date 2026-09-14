@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_971864623",
+  "apple_collection_id": "1895093732",
+  "show": "于东来哲学 | 胖东来成功和生活幸福的秘诀",
+  "titel": "东来分享：《胖东来的分钱经历和政策体制》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4Nvf0CAUhuaASONFXq.m4a?channel=rss&album_id=120423663&track_id=971864623&uid=16647096&jt=https://aod.cos.tx.xmcdn.com/storages/7361-audiofreehighqps/64/D9/GKwRIW4Nvf0CAUhuaASONFXq.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 21524072,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T13:16:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "分享胖东来从创业初期到现今的分钱经历、政策体制及经营管理理念。",
+  "kurzfassung": "本期节目回顾了胖东来自1990年代起步以来的分钱经历与分配体制的演变历程。东来详细讲述了如何通过丰厚的利润分享、合理的薪酬机制以及减轻团队经营压力来凝聚员工。同时，他也结合多个门店扭亏为盈的实际案例，探讨了零售企业如何通过成就团队、坚守品质与初心来实现良性循环。",
+  "stichpunkte": [
+    "回顾了胖东来自1995年起步开店、经历负债与重新开业的创业历程。",
+    "介绍了分配体制从早期按月发放奖金向后期分红与股份制演变的过程。",
+    "指出合理的分配体制能够促使员工真诚投入，提升团队的凝聚力与工作效率。",
+    "通过金三角店、北海店和宇宙店等亏损门店的调整案例，阐述了减负与补贴的具体做法。",
+    "强调经营者应当卸下包袱，不盲目贪大，优先培养团队并照顾好员工。",
+    "主张通过保证商品品质与合理价格来解决民生问题，实现企业与社会的良性循环。",
+    "建议从业者培养对行业的发自内心的喜爱，远离贪婪与虚伪，真诚地做好每一件事。"
+  ],
+  "kapitel": [
+    {
+      "titel": "创业初期与分配体制的萌芽",
+      "start": 0.0
+    },
+    {
+      "titel": "分钱机制的确立与向其他企业的推广",
+      "start": 463.58
+    },
+    {
+      "titel": "门店经营困境与通过减负扭亏为盈的案例",
+      "start": 915.0
+    },
+    {
+      "titel": "企业经营的核心理念：成就团队与回归初心",
+      "start": 1847.16
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T13:16:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2658,
+  "veroeffentlicht": "2026-04-22T02:59:33+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5f69-audiofreehighqps/6F/DE/GKwRIRwNu8wqAAH3QASNRwZo.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

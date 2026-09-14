@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "guid": "83ff83e8-66bb-46c2-aea7-e346c3650313",
+  "apple_collection_id": "1530250126",
+  "show": "The Shit No One Tells You About Writing",
+  "titel": "Shooting the Shit About \"The Put Down, Pick Up Test\"",
+  "audio": {
+    "url": "https://audio4.redcircle.com/episodes/099d5fa2-6e19-4e2c-80b7-0a86c0ad5fd1/stream.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 45508908,
+    "format": "mp3",
+    "geprueft_am": "2026-08-29T07:10:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Literary agents discuss manuscript evaluation, AI watermarks, and industry sub-stacks.",
+  "kurzfassung": "Literary agents Carly Waters and CC Lyra discuss the physical and emotional experience of reading exciting new manuscripts. They examine recent news about AI text watermarks and discuss insights from industry newsletters regarding AI and submission red flags. Additionally, they share details about upcoming fall writing conferences.",
+  "stichpunkte": [
+    "Discovering a great manuscript triggers a strong physical and emotional reaction, balancing urgency with careful reading.",
+    "The fear of rejection is a normal part of the process when literary agents consider offering on a project.",
+    "AI tools are increasingly implementing embedded watermarks and provenance metadata to comply with new transparency laws.",
+    "Some publishing professionals utilize custom AI models for auxiliary tasks like conference scripts and marketing copy.",
+    "The 'put-down pick-up test' helps evaluate whether a manuscript genuinely compels a reader to return to it.",
+    "Familiarity with a text's style can sometimes be confused with actual quality during the evaluation process.",
+    "Fall is the busiest season in publishing, marked by intensive submissions, meetings, and industry events.",
+    "Upcoming events include the Latinx Storytellers Conference in New York and the Surrey International Writers' Festival."
+  ],
+  "kapitel": [
+    {
+      "titel": "Fall, Manuscripts, and the Reading Rush",
+      "start": 26.051
+    },
+    {
+      "titel": "Imposter Scams in Publishing",
+      "start": 381.069
+    },
+    {
+      "titel": "The Fall Publishing Season and Upcoming Conferences",
+      "start": 585.272
+    },
+    {
+      "titel": "AI Watermarks and Industry Discussions",
+      "start": 924.291
+    },
+    {
+      "titel": "Submissions, Red Flags, and the Put-Down Test",
+      "start": 1712.914
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Reading a great manuscript is a physiological experience",
+      "start": 201.927,
+      "ende": 230.191,
+      "laenge": 28.26,
+      "byte_start": 3231920,
+      "byte_ende": 3684151,
+      "bytes": 452232,
+      "range_header": "bytes=3231920-3684151",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 202.005,
+      "anker_sha256": "79f54234ba14ee4f2147c1c8659c30e3b48ebe1f46d9d6e357a01ac61d76b8a7",
+      "einblendung_ms": 60,
+      "text": "Literary agents Carly Waters and Cece Lira return to discuss book industry trends, publishing gossip, and the current literary marketplace."
+    },
+    {
+      "hook": "The fear of rejection is completely real",
+      "start": 336.483,
+      "ende": 359.314,
+      "laenge": 22.83,
+      "byte_start": 5384828,
+      "byte_ende": 5750123,
+      "bytes": 365296,
+      "range_header": "bytes=5384828-5750123",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 336.562,
+      "anker_sha256": "a1ed9a6096a0c8a6c81b843978c2d665349351fd07608d246e12581e6a133e60",
+      "einblendung_ms": 60,
+      "text": "The co-hosts express their enthusiasm and excitement about recording another episode of their podcast."
+    },
+    {
+      "hook": "Why the book business never loses its magic",
+      "start": 633.913,
+      "ende": 654.028,
+      "laenge": 20.11,
+      "byte_start": 10143711,
+      "byte_ende": 10465539,
+      "bytes": 321829,
+      "range_header": "bytes=10143711-10465539",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 633.992,
+      "anker_sha256": "ab4f3d45df7eef3c542909b649aa9807f6d2c8629535367d7740ade89e8ba818",
+      "einblendung_ms": 60,
+      "text": "Cece Lira shares how internet scammers misuse her full name and variations of it online."
+    },
+    {
+      "hook": "Guardrails for new technology",
+      "start": 1008.875,
+      "ende": 1029.538,
+      "laenge": 20.66,
+      "byte_start": 16143097,
+      "byte_ende": 16473702,
+      "bytes": 330606,
+      "range_header": "bytes=16143097-16473702",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1008.953,
+      "anker_sha256": "79884a13b0300d9ec4395f09ed1e3698831ed8f7308f914281fcd5021f7f2bb2",
+      "einblendung_ms": 60,
+      "text": "Cece mentions an upcoming unexpected trip to New York in November to attend an event hosted by a major publishing imprint."
+    },
+    {
+      "hook": "The put-down pick-up test for manuscripts",
+      "start": 1757.858,
+      "ende": 1787.951,
+      "laenge": 30.09,
+      "byte_start": 28126822,
+      "byte_ende": 28608310,
+      "bytes": 481489,
+      "range_header": "bytes=28126822-28608310",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1757.936,
+      "anker_sha256": "6caebbf40c956b53055d4aa70787d4057b37ded5efc98c9255f3d92504a1f8a9",
+      "einblendung_ms": 60,
+      "text": "A speaker highlights the business model of an independent publishing house that pays author advances similar to major traditional publishers."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-29T07:10:35+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2254,
+  "veroeffentlicht": "2026-08-24T05:00:17+00:00",
+  "beschreibung": "Carly and CeCe are back for another Shooting the Shit, talking about that gut-level feeling that makes an agent know they’ve found something special—and why a great premise still has to deliver all the way through. The literary agents also tackle the latest publishing scams targeting writers, AI watermarking and transparency, and the growing tension around publishers using AI in parts of the business. Plus, they dig into the “put-down, pick-up test”.\nAs mentioned on the podcast (please copy and paste the URL into your browser):\nhttps://janefriedman.com/after-editing-two-ai-assisted-manuscripts-i-rewrote-my-client-agreement/\nhttps://andibartz.substack.com/p/publishing-is-under-a-full-fledged?r=h5j0&utm_campaign=post-expanded-share&utm_medium=post%20viewer\nhttps://dearheadofmine.substack.com/p/submissions-redux-red-yellow-and?r=h5j0&utm_campaign=post-expanded-share&utm_medium=post%20viewer\nNote: CeCe Lyra is a literary agent at Wendy Sherman Associates. If you’d like to query CeCe, please refer to the submission guidelines at www.wsherman.com. Carly Watters is a literary agent at P.S. Literary Agency, but her work on this podcast is not affiliated with the agency, and the views expressed by Carly on this podcast are solely that of her as a podcast co-host ​and do not necessarily reflect the views, opinions, policies, or position of P.S. Literary Agency.\nFind us on our socials:\nThreads: https://www.threads.net/@the_shit_about_writing\nhttps://www.threads.net/@biancamarais_author\nhttps://www.threads.net/@carlywatters https://www.threads.net/@cece_lyra_agent\nInstagram: https://www.instagram.com/the_shit_about_writing/\nhttps://www.instagram.com/biancamarais_author/ https://www.instagram.com/carlywatters/ https://www.instagram.com/cece_lyra_agent/\nFacebook: https://www.facebook.com/TSNOTYAW\nWebsites: www.theshitaboutwriting.com, www.biancamarais.com, www.carlywatters.com and www.cecilialyra.com\nBookshop.org affiliate page: https://bookshop.org/shop/theshitnoonetellsyouaboutwriting\nTo sign up for our Substack newsletter, head to https://theshitaboutwriting.substack.com\n\nOur Sponsors:\n* Check out Quince and use my code quince.com/tsnotyaw for a great deal: https://www.quince.com\n* Check out Rosetta Stone and use my code TODAY for a great deal: https://www.rosettastone.com\n* Check out Wayfair: https://www.wayfair.com\n\nAdvertising Inquiries: https://redcircle.com/brands",
+  "beschreibung_html": "<p><strong>Carly</strong><span> and </span><strong>CeCe</strong><span> are back for another Shooting the Shit, talking about that gut-level feeling that makes an agent know they’ve found something special—and why a great premise still has to deliver all the way through. The literary agents also tackle the latest publishing scams targeting writers, AI watermarking and transparency, and the growing tension around publishers using AI in parts of the business. Plus, they dig into the “put-down, pick-up test”.</span></p><p><span>As mentioned on the podcast (please copy and paste the URL into your browser):</span></p><p><span>https://janefriedman.com/after-editing-two-ai-assisted-manuscripts-i-rewrote-my-client-agreement/</span></p><p><span>https://andibartz.substack.com/p/publishing-is-under-a-full-fledged?r=h5j0&amp;utm_campaign=post-expanded-share&amp;utm_medium=post%20viewer</span></p><p><a href=\"https://dearheadofmine.substack.com/p/submissions-redux-red-yellow-and?r=h5j0&utm_campaign=post-expanded-share&utm_medium=post+viewer\" rel=\"nofollow\">https://dearheadofmine.substack.com/p/submissions-redux-red-yellow-and?r=h5j0&amp;utm_campaign=post-expanded-share&amp;utm_medium=post%20viewer</a></p><p><span>Note: CeCe Lyra is a literary agent at Wendy Sherman Associates. If you’d like to query CeCe, please refer to the submission guidelines at www.wsherman.com. Carly Watters is a literary agent at P.S. Literary Agency, but her work on this podcast is not affiliated with the agency, and the views expressed by Carly on this podcast are solely that of her as a podcast co-host ​and do not necessarily reflect the views, opinions, policies, or position of P.S. Literary Agency.</span></p><p><span>Find us on our socials:</span></p><p><span>Threads: https://www.threads.net/@the_shit_about_writing</span></p><p><span>https://www.threads.net/@biancamarais_author</span></p><p><span>https://www.threads.net/@carlywatters https://www.threads.net/@cece_lyra_agent</span></p><p><span>Instagram: https://www.instagram.com/the_shit_about_writing/</span></p><p><span>https://www.instagram.com/biancamarais_author/ https://www.instagram.com/carlywatters/ https://www.instagram.com/cece_lyra_agent/</span></p><p><span>Facebook: https://www.facebook.com/TSNOTYAW</span></p><p><span>Websites: www.theshitaboutwriting.com, www.biancamarais.com, www.carlywatters.com and www.cecilialyra.com</span></p><p><span>Bookshop.org affiliate page: https://bookshop.org/shop/theshitnoonetellsyouaboutwriting</span></p><p><span>To sign up for our Substack newsletter, head to https://theshitaboutwriting.substack.com</span></p><br/><br/>Our Sponsors:<br/>* Check out Quince and use my code quince.com/tsnotyaw for a great deal: https://www.quince.com<br/>* Check out Rosetta Stone and use my code TODAY for a great deal: https://www.rosettastone.com<br/>* Check out Wayfair: https://www.wayfair.com<br/><br/><br/>Advertising Inquiries: <a href='https://redcircle.com/brands'>https://redcircle.com/brands</a>",
+  "untertitel": "Shooting The Shit",
+  "bild_url": "https://media.redcircle.com/images/2026/8/22/20/3f46c19f-cd96-4898-96c7-e7ae924badb8_sts_aug_24.jpg",
+  "kapitel_quelle": "modell"
+}

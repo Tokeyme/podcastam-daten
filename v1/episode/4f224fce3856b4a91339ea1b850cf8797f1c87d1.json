@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007123578",
+  "apple_collection_id": "6790628851",
+  "show": "三个电影--从电影看人生",
+  "titel": "《奥德赛》---3000年前的人性弱点，今天一个没少",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIOWin5AfO3oATIpuXp.m4a?channel=rss&album_id=118672799&track_id=1007123578&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/7337-audiofreehighqps/C2/E1/GKwRIaIOWin5AfO3oATIpuXp.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 32749472,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T09:35:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "借诺兰电影聊《奥德赛》与人性弱点",
+  "kurzfassung": "本期节目借诺兰的新片《奥德赛》探讨古希腊史诗与现代人性的相通之处。主播梳理了荷马史诗的背景及特洛伊战争的起因，指出英雄的辉煌往往与致命弱点交织。最后节目强调，三千年过去，人类的欲望与弱点其实从未改变。",
+  "stichpunkte": [
+    "探讨为什么中国人需要理解三千年前的古希腊故事，核心在于其共同的文化母题与人性。",
+    "梳理荷马史诗的口头传统，指出《伊利亚特》和《奥德赛》犹如三千年前的大型音频节目。",
+    "对比《伊利亚特》的战争与荣耀，以及《奥德赛》面对欲望、恐惧与孤独的生存考验。",
+    "回顾特洛伊战争的荒诞起因，分析金苹果事件与海伦出走背后的现代政治与贸易视角。",
+    "对比阿克琉斯的极致武力与奥德修斯的极致谋略，探讨能力如何成为弱点的放大器。",
+    "剖析卡里普索的七年陪伴与海妖赛人的歌声，解读诱惑、逃避与成年人的行为心理学。",
+    "总结人类的弱点历经三千年从未减少，英雄与普通人在极端环境下的压力测试中相通。"
+  ],
+  "kapitel": [
+    {
+      "titel": "为什么我们要看《奥德赛》",
+      "start": 2.3
+    },
+    {
+      "titel": "荷马史诗的起源与两部作品的区别",
+      "start": 252.84
+    },
+    {
+      "titel": "特洛伊战争的起因与神话人性",
+      "start": 676.68
+    },
+    {
+      "titel": "阿克琉斯与奥德修斯：武力与谋略",
+      "start": 1461.2
+    },
+    {
+      "titel": "诺兰的电影改编与现代视角",
+      "start": 2078.68
+    },
+    {
+      "titel": "卡里普索与赛人：欲望与自我克制",
+      "start": 2888.16
+    },
+    {
+      "titel": "三千年未变的人性弱点",
+      "start": 3429.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T09:35:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4001,
+  "veroeffentlicht": "2026-08-18T14:04:20+00:00",
+  "beschreibung": "这期聊诺兰的《奥德赛》，你可以放心听——不用太担心剧透。毕竟真要剧透，这个故事几千年前就已经透完了。 但《奥德赛》到底在讲什么？如果你脑子里只有“荷马史诗”“特洛伊木马”“海伦”“阿喀琉斯之踵”这些零散知识，这一期刚好可以帮你一次串起来。 为什么一场延续十年的特洛伊战争，传说竟从一只写着“献给最美丽的人”的金苹果开始？海伦、巴黎、阿伽门农、阿喀琉斯和奥德修斯到底是什么关系？《伊利亚特》和《奥德赛》又分别讲了什么？为什么我们人人都听过的“阿喀琉斯之踵”，其实根本没有出现在《伊利亚特》里？ 当然，我们也聊诺兰。二十多年前，他曾与电影《特洛伊》擦肩而过；二十多年后，他终于把这个古老故事搬上IMAX银幕。马特·达蒙饰演的奥德修斯不是一个传统意义上刀枪不入的英雄，他真正厉害的是聪明、谋略和随机应变。但也正因为如此，一个更有意思的问题出现了：一个人的致命弱点，会不会恰恰藏在他最大的优点里？阿喀琉斯的愤怒，奥德修斯的自负，独眼巨人前忍不住自报姓名的炫耀，面对塞壬时对欲望的自知，喀耳刻、卡吕普索代表的沉溺与逃避……我越来越觉得，《奥德赛》与其说是一部“归乡史诗”，不如说是一套暴力又生动的人性压力测试。聪明再多一点，可能变成算计；自信再多一点，可能变成傲慢；责任心再多一点，可能变成控制；善良再多一点，也可能变成讨好。所以这一期最后真正想问的，不是“你有什么缺点”，而是：你身上哪个最引以为傲的优点，一旦走过头，最可能成为你的阿喀琉斯之踵？这里是《三个电影》。电影照见的是人生。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>这期聊诺兰的《奥德赛》，你可以放心听——不用太担心剧透。毕竟真要剧透，这个故事几千年前就已经透完了。</span> <span>但《奥德赛》到底在讲什么？如果你脑子里只有“荷马史诗”“特洛伊木马”“海伦”“阿喀琉斯之踵”这些零散知识，这一期刚好可以帮你一次串起来。</span> <span>为什么一场延续十年的特洛伊战争，传说竟从一只写着“献给最美丽的人”的金苹果开始？海伦、巴黎、阿伽门农、阿喀琉斯和奥德修斯到底是什么关系？《伊利亚特》和《奥德赛》又分别讲了什么？为什么我们人人都听过的“阿喀琉斯之踵”，其实根本没有出现在《伊利亚特》里？</span> <span>当然，我们也聊诺兰。</span><span>二十多年前，他曾与电影《特洛伊》擦肩而过；二十多年后，他终于把这个古老故事搬上IMAX银幕。马特·达蒙饰演的奥德修斯不是一个传统意义上刀枪不入的英雄，他真正厉害的是聪明、谋略和随机应变。但也正因为如此，一个更有意思的问题出现了：</span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\"><span>一个人的致命弱点，会不会恰恰藏在他最大的优点里？</span></strong><span>阿喀琉斯的愤怒，奥德修斯的自负，独眼巨人前忍不住自报姓名的炫耀，面对塞壬时对欲望的自知，喀耳刻、卡吕普索代表的沉溺与逃避……我越来越觉得，《奥德赛》与其说是一部“归乡史诗”，不如说是一套暴力又生动的</span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\"><span>人性压力测试</span></strong><span>。</span><span>聪明再多一点，可能变成算计；自信再多一点，可能变成傲慢；责任心再多一点，可能变成控制；善良再多一点，也可能变成讨好。</span><span>所以这一期最后真正想问的，不是“你有什么缺点”，而是：</span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\"><span>你身上哪个最引以为傲的优点，一旦走过头，最可能成为你的阿喀琉斯之踵？</span></strong><span>这里是《三个电影》。</span><span>电影照见的是人生。</span></p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3565-audiofreehighqps/DE/5C/GKwRIaINlVm6AAXjcwR9wax5.jpeg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

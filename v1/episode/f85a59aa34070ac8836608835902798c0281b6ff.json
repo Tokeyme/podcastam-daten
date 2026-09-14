@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_498600770",
+  "apple_collection_id": "1645509141",
+  "show": "野草|鲁迅著",
+  "titel": "第一章 秋夜",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwF0VRhACpoXgETlnHD.m4a?channel=rss&album_id=56805835&track_id=498600770&uid=381381740&jt=https://aod.cos.tx.xmcdn.com/storages/d644-audiofreehighqps/A1/78/GKwRIRwF0VRhACpoXgETlnHD.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2779230,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:31:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "秋夜里后园两株枣树下的观察与深夜孤寂的思绪。",
+  "kurzfassung": "作者在秋夜的后园中观察到墙外的两株枣树及繁霜下的野花草。夜色渐深，枣树的干子直刺高空与月亮，夜游的鳄鸟飞过并伴随半夜的笑声。回到房内后，小飞虫撞击灯罩，作者点起纸烟静观这些小生灵。",
+  "stichpunkte": [
+    "后园墙外立着两株枣树，天空显得奇怪而高。",
+    "野花草在冷的夜气中瑟缩，做着关于春天的梦。",
+    "枣树落尽叶子和果实，单剩干子直刺天空与月亮。",
+    "夜半听到神秘的笑声，作者随即回到房内。",
+    "小飞虫从窗孔飞入，在灯罩上撞击并遭遇火焰。",
+    "灯罩上休息着小青虫，形态苍脆可爱。",
+    "作者打呵欠点起纸烟，对着灯光默默静点这些小生灵。"
+  ],
+  "kapitel": [
+    {
+      "titel": "秋夜后园与枣树",
+      "start": 0.62
+    },
+    {
+      "titel": "深夜笑声与回房",
+      "start": 212.4
+    },
+    {
+      "titel": "灯火飞虫与静思",
+      "start": 243.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:31:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 343,
+  "veroeffentlicht": "2022-02-03T08:24:56+00:00",
+  "beschreibung": "两株枣树同夜空进行不屈不挠的战斗的形象，赞颂了枣树的韧性战斗精神。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>两株枣树同夜空进行不屈不挠的战斗的形象，赞颂了枣树的韧性战斗精神。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/df36-audiofreehighqps/87/82/GKwRIDoF0VBYAAKGdQETlZ-h.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

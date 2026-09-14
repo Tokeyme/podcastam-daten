@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "https://api.spreaker.com/episode/74598819",
+  "apple_collection_id": "1460805013",
+  "show": "Bigfoot and Beyond with Cliff and Bobo",
+  "titel": "Ep. 381 - Michael Freeman Returns!",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/711/pscrb.fm/rss/p/api.spreaker.com/download/episode/74598819/ep_381_michael_freeman_returns_final.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-26T11:15:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Michael Freeman returns to discuss his father Paul Freeman's legacy and Bigfoot evidence.",
+  "kurzfassung": "Michael Freeman joins Cliff to discuss the reception of his book and the enduring legacy of his father, Paul Freeman. They examine the famous 1991 Mill Creek trackway and analyze early Bigfoot video footage from the Blue Mountains. The conversation highlights the significance of footprint casts and historical evidence in Sasquatch research.",
+  "stichpunkte": [
+    "Michael Freeman returns to the podcast to discuss his book and his father Paul Freeman's legacy.",
+    "The reception of the book has been largely positive, inspiring a touching posthumous apology from a former skeptic.",
+    "Skeptical arguments claiming Paul Freeman was capable of sophisticated hoaxes are dismissed due to his lack of formal education and severe physical limitations.",
+    "The 1991 Mill Creek Road trackway is highlighted as potentially the longest unbroken Sasquatch trackway ever found, spanning six to eight miles.",
+    "Wilderness expert Greg May documented the trackway and noted an instance where the animal appeared punch drunk after eating fermented apples.",
+    "Paul Freeman's 1992 Green Peak video footage and the associated footprint evidence are reviewed and compared with the Dutus Spring footage.",
+    "Footprint casts are emphasized as the most critical and enduring data set in Sasquatch research.",
+    "The hosts discuss ongoing DNA analysis of historical hair samples collected by the Blue Mountain researchers."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-26T11:15:30+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3801,
+  "veroeffentlicht": "2026-08-24T05:00:03+00:00",
+  "beschreibung": "Cliff Barackman welcomes author and bigfoot historian Michael Freeman back to the podcast! Michael discusses what he's been up to since the release of his book Freeman Bigfoot Files and gets into the details surrounding many of the most compelling pieces of evidence to have been documented in the Blue Mountains of Oregon and Washington!\n\nSee Michael at the Minnesota Bigfoot Conference in Grand Rapids, MN on October 3rd!\n\nSee Cliff and Pruitt at Cryptid Con in Florence, IN, November 21-22!\n\nSign up for our weekly bonus podcast \"Beyond Bigfoot & Beyond\" and ad-free episodes!",
+  "beschreibung_html": "Cliff Barackman welcomes author and bigfoot historian Michael Freeman back to the podcast! Michael discusses what he's been up to since the release of his book <a href=\"https://a.co/d/0fvepnZN\" target=\"_blank\" rel=\"noreferrer noopener\">Freeman Bigfoot Files</a> and gets into the details surrounding many of the most compelling pieces of evidence to have been documented in the Blue Mountains of Oregon and Washington! <br /><br /><a href=\"https://www.eventbrite.com/e/minnesota-bigfoot-conference-2026-no-refunds-tickets-1988170616835\" target=\"_blank\" rel=\"noreferrer noopener\">See Michael at the Minnesota Bigfoot Conference in Grand Rapids, MN on October 3rd!</a><br /><br /><a href=\"https://www.cryptidcon.com/\" target=\"_blank\" rel=\"noreferrer noopener\">See Cliff and Pruitt at Cryptid Con in Florence, IN, November 21-22!</a><br /><br /><a href=\"https://www.patreon.com/bigfootandbeyondpodcast\" target=\"_blank\" rel=\"noreferrer noopener\">Sign up for our weekly bonus podcast \"Beyond Bigfoot &amp; Beyond\" and ad-free episodes!</a>",
+  "untertitel": "Cliff Barackman welcomes author and bigfoot historian Michael Freeman back to the podcast! Michael discusses what he's been up to since the release of his book https://a.co/d/0fvepnZN and gets into the details surrounding many of the most compelling...",
+  "bild_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4e66585d640ebca618b23e0631f854e6.jpg"
+}

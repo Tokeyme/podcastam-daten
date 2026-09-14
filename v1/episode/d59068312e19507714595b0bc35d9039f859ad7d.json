@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_818765550",
+  "apple_collection_id": "1875672573",
+  "show": "华语歌手经典音乐大合集",
+  "titel": "流行伤感女声精选抖音热播车载音乐69分钟",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMALpNwBAYTzKAN6v8yD.m4a?channel=rss&album_id=84693555&track_id=818765550&uid=522946258&jt=https://aod.cos.tx.xmcdn.com/storages/d30d-audiofreehighqps/A4/7E/GKwRIMALpNwBAYTzKAN6v8yD.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 25490216,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T17:12:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "精选热门伤感女声车载音乐串烧",
+  "kurzfassung": "本期节目是一场精选的高人气伤感女声车载音乐串烧合集。歌词围绕失落、遗憾、深夜买醉以及对过往感情的难舍难分展开。整段音频收录了多首抒情风格的流行歌曲。",
+  "stichpunkte": [
+    "收录多首以深夜伤感与失恋为主题的流行女声歌曲",
+    "歌词频繁表达孤独、买醉以及对无果感情的追忆",
+    "探讨深情付出却遭遇背叛与冷漠的痛苦心境",
+    "穿插对时光倒流与重修旧好的渴望与无奈",
+    "旋律多为适合长途驾驶的抒情慢歌与车载DJ风格",
+    "整体氛围悲伤沉郁，直面情感世界中的遗憾"
+  ],
+  "kapitel": [
+    {
+      "titel": "伤感开篇与深夜独白",
+      "start": 15.5
+    },
+    {
+      "titel": "尘封往事与无奈抉择",
+      "start": 572.5
+    },
+    {
+      "titel": "烈酒与深情的遗憾交织",
+      "start": 876.42
+    },
+    {
+      "titel": "时光倒流的幻想与现实",
+      "start": 1266.08
+    },
+    {
+      "titel": "情感破裂后的绝望倾诉",
+      "start": 1904.7
+    },
+    {
+      "titel": "冰冷城市中的苦苦找寻",
+      "start": 2596.9
+    },
+    {
+      "titel": "与过往青春的彻底告别",
+      "start": 3050.24
+    },
+    {
+      "titel": "岁月的感叹与最后的释怀",
+      "start": 3723.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T17:12:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4182,
+  "veroeffentlicht": "2025-03-10T16:51:39+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4b96-audiofreehighqps/C6/A1/GAqhntALH5jcABAAAAM4DwWr.jpeg",
+  "kapitel_quelle": "modell"
+}

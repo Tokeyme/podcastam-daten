@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "6864ad4a60f8f77d4067b84f",
+  "apple_collection_id": "1807482356",
+  "show": "国民心理健康促进计划-茉总特别行动组简报",
+  "titel": "圣多纳释放法",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67f4ba60ddbe96263958c79e/6864ad4a60f8f77d4067b84f/media.xyzcdn.net/67f4ba60ddbe96263958c79e/FuyuBqyXQfWDkffkRo6TCHsA9WtT.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1819123,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:24:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "通过圣多纳释放法引导听众放下困扰情绪。",
+  "kurzfassung": "本期节目引导听众不通过思考、只关注身体感受来体验情绪释放。节目运用圣多纳释放法，通过抓取与放开的简单动作演示释放过程。听众被带入情绪的觉察中，逐步练习放开无助、匮乏、焦虑与绝望等负面情绪。",
+  "stichpunkte": [
+    "关闭理性思考，专注于纯粹的身体感受",
+    "介绍圣多纳释放法，体验释放情绪的感觉",
+    "通过抓取与放开的具象动作理解情绪释放",
+    "引导听众识别并命名困扰自己的负面情绪",
+    "定位情绪在身体中的具体部位，如胸腔、胃和头部",
+    "反复询问是否能够并愿意放开当前的困扰情绪",
+    "在练习中持续觉察并清理残余的负面感受"
+  ],
+  "kapitel": [
+    {
+      "titel": "圣多纳释放法简介",
+      "start": 0.92
+    },
+    {
+      "titel": "情绪释放动作体验",
+      "start": 34.94
+    },
+    {
+      "titel": "识别并接纳负面情绪",
+      "start": 61.54
+    },
+    {
+      "titel": "重复释放与身体觉察",
+      "start": 147.42
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:24:16+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 222,
+  "veroeffentlicht": "2025-07-02T03:56:24+00:00",
+  "beschreibung": "1.找一个安静没人打扰的地方，坐下或躺下，全身放松；\n2.回忆让你产生负面情绪的事件或想法；\n3.感受现在产生的情绪本身；\n4.问自己是否能释放这种感受离开；\n5.问自己是否愿意让它离开；\n6.问自己何时让它离开；\n7.重复2-6的步骤，直到原本的负面情绪离开，内心归于平静，释放完成。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>1.找一个安静没人打扰的地方，坐下或躺下，全身放松；</p><p>2.回忆让你产生负面情绪的事件或想法；</p><p>3.感受现在产生的情绪本身；</p><p>4.问自己是否能释放这种感受离开；</p><p>5.问自己是否愿意让它离开；</p><p>6.问自己何时让它离开；</p><p>7.重复2-6的步骤，直到原本的负面情绪离开，内心归于平静，释放完成。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6864ad4a60f8f77d4067b84f?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

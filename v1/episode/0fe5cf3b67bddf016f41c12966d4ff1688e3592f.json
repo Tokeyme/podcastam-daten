@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_826168969",
+  "apple_collection_id": "1652293906",
+  "show": "音乐记事本|一首歌一个故事",
+  "titel": "《座位》于东然",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJILuXl-ABNqwQOG_X9I.m4a?channel=rss&album_id=47210030&track_id=826168969&uid=1342948&jt=https://aod.cos.tx.xmcdn.com/storages/4415-audiofreehighqps/8E/43/GKwRIJILuXl-ABNqwQOG_X9I.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1272513,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:02:26+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "于东然单曲《座位》用温暖纯净的嗓音勾勒青春与回忆。",
+  "kurzfassung": "本期节目分享了于东然的歌曲《座位》。歌曲旋律舒缓悠扬，通过细腻的演唱诉说青春的懵懂与遗憾。歌词围绕过往回忆与释怀的情感展开。",
+  "stichpunkte": [
+    "于东然演唱的歌曲《座位》旋律舒缓悠扬。",
+    "歌声唤起关于教室和青涩时光的青春回忆。",
+    "纯净温暖的嗓音细腻勾勒出青春的懵懂与遗憾。",
+    "歌词表达了看着曾经的伴侣身边有了他人后的复杂心情。",
+    "歌曲展现了选择主动后退并将自己藏于回忆之中的不舍。",
+    "最后寄语对方在往后的时光里勇敢飞翔。"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲引言与赏析",
+      "start": 2.54
+    },
+    {
+      "titel": "《座位》歌曲正文",
+      "start": 43.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:02:26+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 208,
+  "veroeffentlicht": "2025-04-08T02:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/923a-audiofreehighqps/9E/8F/GKwRIUEHjDzGAAGGDAHo09MM.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

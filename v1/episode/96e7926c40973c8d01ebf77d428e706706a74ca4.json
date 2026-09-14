@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group15/M09/73/02/wKgDZVdBNCTB-IseAFjfd8HkObc085-aacv2-48K.m4a",
+  "apple_collection_id": "1101566199",
+  "show": "爱声音，爱旅行",
+  "titel": "比大更大比小更小的金字塔 入埃及记（三）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDZVdBNCTB-IseAFjfd8HkObc085-aacv2-48K.m4a?channel=rss&album_id=3986881&track_id=16051409&uid=43022091&jt=https://aod.cos.tx.xmcdn.com/group15/M09/73/02/wKgDZVdBNCTB-IseAFjfd8HkObc085-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4384305,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T05:45:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "走进埃及吉萨金字塔群，感受古代建筑的宏伟与神秘。",
+  "kurzfassung": "本期节目介绍了埃及吉萨金字塔群的壮观景象、建造历史以及内部结构。吉萨金字塔由胡夫金字塔和卡夫拉金字塔等组成，其巨大规模和精密工艺令人震撼。节目还探讨了金字塔的建造者身份以及关于金字塔的种种谜团。",
+  "stichpunkte": [
+    "吉萨金字塔群由九座金字塔组成，其中胡夫金字塔和卡夫拉金字塔最为巨大。",
+    "古代金字塔表面平滑且曾有金箔覆盖，后因石料被拆卸而呈阶梯状巨石外露。",
+    "金字塔石头切割极为整齐，古埃及人未使用水泥便将巨石紧密垒起。",
+    "胡夫金字塔在建成后的3800年间一直是世界上最高的建筑物。",
+    "进入胡夫金字塔内部体验闷热局促，墓室空间狭小且空空如也。",
+    "金字塔由于过于显眼，历史上很快被盗墓贼洗劫一空。",
+    "关于金字塔存在诸多传闻和谜团，但并非由外星人建造。",
+    "考古证实金字塔是由农闲时的农民和工匠修建的，而非奴隶。"
+  ],
+  "kapitel": [
+    {
+      "titel": "初见吉萨金字塔的震撼",
+      "start": 85.72
+    },
+    {
+      "titel": "金字塔的建筑结构与历史",
+      "start": 152.22
+    },
+    {
+      "titel": "攀爬金字塔的危险与警卫",
+      "start": 268.98
+    },
+    {
+      "titel": "胡夫金字塔的规模与纪录",
+      "start": 316.8
+    },
+    {
+      "titel": "探秘胡夫金字塔内部",
+      "start": 376.1
+    },
+    {
+      "titel": "金字塔的谜团与建造者",
+      "start": 535.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T05:45:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 720,
+  "veroeffentlicht": "2016-05-22T04:28:38+00:00",
+  "beschreibung": "没见过金字塔的人，没法想象它到底有多大。\n\n没进过金字塔的人，没法想象它到底有多小。",
+  "beschreibung_html": "没见过金字塔的人，没法想象它到底有多大。\n<br /> 没进过金字塔的人，没法想象它到底有多小。",
+  "bild_url": "https://fdfs.xmcdn.com/group11/M03/7F/68/wKgDbVdBNTWBJIK_AADGVZIOrao406.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

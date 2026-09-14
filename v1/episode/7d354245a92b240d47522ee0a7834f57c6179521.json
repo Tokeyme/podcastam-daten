@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_640591554",
+  "apple_collection_id": "1692512052",
+  "show": "职场88条黄金宝典|职场必修课|成功秘籍",
+  "titel": "《职场88条黄金宝典》 00-开篇",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEIWiOzABKaXQIn2lZV.m4a?channel=rss&album_id=76447405&track_id=640591554&uid=74521991&jt=https://aod.cos.tx.xmcdn.com/storages/ce54-audiofreehighqps/A3/B2/GKwRIJEIWiOzABKaXQIn2lZV.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1219165,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:32:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "介绍《职场88条黄金宝典》的核心内容，涵盖沟通、抗压与管理等技能。",
+  "kurzfassung": "本集介绍了《职场88条黄金宝典》的主要内容，该书涵盖沟通技巧、时间管理、领导力等职场方方面面。课程旨在帮助初入职场者和迷茫困顿者掌握正确的心态与方法。具体内容包括如何正确拒绝他人、要求加薪以及应对同事推卸责任。",
+  "stichpunkte": [
+    "《职场88条黄金宝典》提供88条职场准规则与优势心态",
+    "内容涵盖沟通技巧、时间管理、自我管理和团队合作",
+    "包含解决问题能力、适应能力以及领导力与影响力",
+    "讲解如何学会恰当拒绝他人以提高工作效率",
+    "探讨如何在恰当时机与主管商讨涨薪加薪",
+    "分析如何应对同事在工作中推卸责任的行为",
+    "为初入职场者和职场迷茫者提供指导作用"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目介绍与内容概述",
+      "start": 0.0
+    },
+    {
+      "titel": "职场核心技能举例",
+      "start": 51.0
+    },
+    {
+      "titel": "结语与后续预告",
+      "start": 133.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:32:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 150,
+  "veroeffentlicht": "2023-06-10T11:38:22+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/cfd9-audiofreehighqps/6B/13/GKwRIaIIPN7tAAP3LwId_StN.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

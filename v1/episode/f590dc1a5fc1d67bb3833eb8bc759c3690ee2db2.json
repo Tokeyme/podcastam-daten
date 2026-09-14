@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group72/M03/8C/0D/wKgO0F4fvReBqKAgADBtnlUnn9g026.m4a",
+  "apple_collection_id": "1492962832",
+  "show": "冠心病患者自我管理必读的14节课",
+  "titel": "【番外篇】“戏”说心脏",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgO0F4fvReBqKAgADBtnlUnn9g026.m4a?channel=rss&album_id=30576335&track_id=244373124&uid=186975936&jt=https://aod.cos.tx.xmcdn.com/group72/M03/8C/0D/wKgO0F4fvReBqKAgADBtnlUnn9g026.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3173790,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:35:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "用二层小楼的比喻通俗易懂地讲解心脏的构造、疾病与检查方法",
+  "kurzfassung": "本期节目将心脏比作一栋二层小楼，生动形象地介绍了心脏的墙壁、门、水管和电路四大组成部分。节目详细解释了心肌缺损、瓣膜狭窄、冠心病以及心律失常等常见心脏疾病的成因与治疗方式。最后，节目梳理了针对不同心脏部位的超声、CT和心电图等相应检查手段。",
+  "stichpunkte": [
+    "心脏结构被比作一栋分为左右心和房室的双平别墅",
+    "心脏墙壁由心肌构成，常见疾病为先天性房室间隔缺损",
+    "心脏瓣膜形似花瓣，分为二尖瓣和三尖瓣，可能出现狭窄或关闭不全",
+    "瓣膜损坏可选择置换术或修补术，天然瓣膜优于人造瓣膜",
+    "冠状动脉负责输送心肌养料，堵塞会导致冠心病",
+    "冠心病的主要治疗方法包括放置支架和搭桥手术",
+    "心脏传导系统负责电路放电，电路故障会导致心律失常",
+    "心脏检查对应不同部位，超声查墙壁与门，CT查水管，心电图查电路"
+  ],
+  "kapitel": [
+    {
+      "titel": "心脏的整体构造与比喻",
+      "start": 0.62
+    },
+    {
+      "titel": "心脏的墙壁：心肌与间隔缺损",
+      "start": 72.62
+    },
+    {
+      "titel": "心脏的门：瓣膜及相关疾病与治疗",
+      "start": 113.22
+    },
+    {
+      "titel": "心脏的水管：冠状动脉与冠心病治疗",
+      "start": 188.56
+    },
+    {
+      "titel": "心脏的电路：传导系统与心律失常",
+      "start": 238.72
+    },
+    {
+      "titel": "心脏检查与总结",
+      "start": 293.92
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:35:11+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 387,
+  "veroeffentlicht": "2020-01-16T01:31:59+00:00",
+  "beschreibung": "亲爱的听众朋友们，大家好，欢迎收听冠心病患者自我管理必读的14节课番外篇——《戏说心脏》。\n\n今天，小微用最通俗易通的话，来给大家说一说我们的心脏到底长什么样？\n\n如果我们把心脏比作一栋二层小楼，一栋二户人家合建的双拼别墅。我们把左边的那户叫左心，右边的叫右心。楼上的房间我们叫“房”，楼下的称作“室”。与人住的房子一样，心脏也是由墙壁、房门、水管和电路四个部分构成的。但是也是有区别的，例如人们常说心灵的窗户这句话，心脏这栋房子什么都有，唯独缺了窗户。另外，我们都知道，房子坏了，一般都是墙、门、水、电出了问题，心脏疾病，也是这个道理。\n\n介绍完外部构造，小微就要带大家走进心脏这栋房子的里面去看看！\n\n我们先来说墙。心脏的墙壁，不是钢筋水泥，而是二层皮夹一层肉，不是肉夹馍，是皮夹肉，这肉做的墙叫“心肌”。心肌墙的疾病，最常见的是“房室间隔缺损”，这是先天性的，原因是建房子时，左右心之间的隔墙没砌完就交工了，留了个缺口，这害死人的豆腐渣工程！\n\n接下来是门。心脏之门，形状像花瓣一样，哪位有诗意的医学先辈起了个学术的名字叫“瓣膜”。如果是小微来起名字的话，会俗气的叫“心门”，“二尖瓣膜”叫“二扇门”，“三尖瓣膜”叫“三扇门”，虽然俗气，但是易懂。和房间的门一样，心脏的门也会出问题。例如门卡住了，只能推开个狭窄的小缝，这就被叫作“瓣膜狭窄”；门关不严，就叫“瓣膜关闭不全”。如果门坏了，不能用，怎么办？有两种选择，要么换新的，要么修一修。换新门，我们称它为“瓣膜置换术”；修修补补后继续使用，叫“瓣膜修补术”。\n\n有一条，大家要记住，如果能“修补”，千万别“置换”。虽然人造门除了金属做的，现在又有了猪心和牛心做的，但是品质远远赶不上天造的门。\n\n说完门，我们来说说水管。我们把铺设在墙壁表面的输水管道，叫冠(状动)脉，它是心肌的生命粮道，心肌的养料全靠冠状动脉的血液输送。如果水管梗塞不通，心肌墙可能会因缺血而坏死，也就是说我们所熟知的“冠心病”。引发冠心病后，治疗方法有二种，一是像捅下水道似的，用钢丝捅通冠脉后，放个套管撑起来不让水管壁塌陷，也就是“支架置入术”；另一个是废弃掉老管道，重新搭根新管道，学名“搭桥术”。\n\n最后，我们来说一说电线。铺设在心脏墙壁里的输电线路，叫“心脏传导系统”。电路放电一次，心脏就跳动一次，没有放电，就没有心跳。若是电路出了问题，心跳节律就会发生异常，我们称为“心律失常”。心律失常有多种，例如，电路发神经似的放电不停，电得心房壁不住地颤抖，叫“房颤”；提早放电了，叫早搏；电流中断了，叫“传导阻滞”。\n\n目前，人类对心脏的电路原理所知甚少，治疗都是摸着石头过河。未来，心律失常治疗方法要进步，还是靠研究电生理的科学家的努力。\n\n介绍完心脏内部，我们再来说说心脏的检查。检查心脏，主要是检查心脏的墙壁、大门、水管和电路。心(脏)超(音波)用于查看墙壁是否有缺口、瓣膜门是否打得开关得严。冠脉CT或造影是管道工，可准确地查明冠脉这根水管是不是堵了，堵在了哪里。心电图，顾名思义，用来检测电路的通电情况，干的是电工的活儿。这么一说，大家对于心脏的检查是不是有了更全面的认识。\n\n总之，心脏是我们人体最重要的器官，大家一定要保护好它，保护好它的前提之一就是要科学的认识它。\n\n好啦，今天的《戏说心脏》节目，到这里就要和大家说再见了。\n\n如果您想要了解更多关于冠心病的养护知识，欢迎微信搜索“良知关爱”，关注我们。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">亲爱的听众朋友们，大家好，欢迎收听冠心病患者自我管理必读的<span>14</span>节课番外篇——《戏说心脏》。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">今天，小微用最通俗易通的话，来给大家说一说我们的心脏到底长什么样？</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">如果我们把心脏比作一栋二层小楼，一栋二户人家合建的双拼别墅。我们把左边的那户叫左心，右边的叫右心。楼上的房间我们叫<span>“</span>房<span>”</span>，楼下的称作<span>“</span>室<span>”</span>。与人住的房子一样，心脏也是由墙壁、房门、水管和电路四个部分构成的。但是也是有区别的，例如人们常说心灵的窗户这句话，心脏这栋房子什么都有，唯独缺了窗户。另外，我们都知道，房子坏了，一般都是墙、门、水、电出了问题，心脏疾病，也是这个道理。&nbsp;</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">介绍完外部构造，小微就要带大家走进心脏这栋房子的里面去看看！</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我们先来说墙。心脏的墙壁，不是钢筋水泥，而是二层皮夹一层肉，不是肉夹馍，是皮夹肉，这肉做的墙叫<span>“</span>心肌<span>”</span>。心肌墙的疾病，最常见的是<span>“</span>房室间隔缺损<span>”</span>，这是先天性的，原因是建房子时，左右心之间的隔墙没砌完就交工了，留了个缺口，这害死人的豆腐渣工程！</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">接下来是门。心脏之门，形状像花瓣一样，哪位有诗意的医学先辈起了个学术的名字叫<span>“</span>瓣膜<span>”</span>。如果是小微来起名字的话，会俗气的叫<span>“</span>心门<span>”</span>，<span>“</span>二尖瓣膜<span>”</span>叫<span>“</span>二扇门<span>”</span>，<span>“</span>三尖瓣膜<span>”</span>叫<span>“</span>三扇门<span>”</span>，虽然俗气，但是易懂。和房间的门一样，心脏的门也会出问题。例如门卡住了，只能推开个狭窄的小缝，这就被叫作<span>“</span>瓣膜狭窄<span>”</span>；门关不严，就叫<span>“</span>瓣膜关闭不全”。如果门坏了，不能用，怎么办？有两种选择，要么换新的，要么修一修。换新门，我们称它为<span>“</span>瓣膜置换术<span>”</span>；修修补补后继续使用，叫<span>“</span>瓣膜修补术<span>”</span>。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">有一条，大家要记住，如果能<span>“</span>修补<span>”</span>，千万别<span>“</span>置换<span>”</span>。虽然人造门除了金属做的，现在又有了猪心和牛心做的，但是品质远远赶不上天造的门。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">说完门，我们来说说水管。我们把铺设在墙壁表面的输水管道，叫冠<span>(</span>状动<span>)</span>脉，它是心肌的生命粮道，心肌的养料全靠冠状动脉的血液输送。如果水管梗塞不通，心肌墙可能会因缺血而坏死，也就是说我们所熟知的<span>“</span>冠心病<span>”</span>。引发冠心病后，治疗方法有二种，一是像捅下水道似的，用钢丝捅通冠脉后，放个套管撑起来不让水管壁塌陷，也就是<span>“</span>支架置入术<span>”</span>；另一个是废弃掉老管道，重新搭根新管道，学名<span>“</span>搭桥术<span>”</span>。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">最后，我们来说一说电线。铺设在心脏墙壁里的输电线路，叫<span>“</span>心脏传导系统<span>”</span>。电路放电一次，心脏就跳动一次，没有放电，就没有心跳。若是电路出了问题，心跳节律就会发生异常，我们称为<span>“</span>心律失常<span>”</span>。心律失常有多种，例如，电路发神经似的放电不停，电得心房壁不住地颤抖，叫<span>“</span>房颤<span>”</span>；提早放电了，叫早搏；电流中断了，叫<span>“</span>传导阻滞<span>”</span>。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">目前，人类对心脏的电路原理所知甚少，治疗都是摸着石头过河。未来，心律失常治疗方法要进步，还是靠研究电生理的科学家的努力。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">介绍完心脏内部，我们再来说说心脏的检查。检查心脏，主要是检查心脏的墙壁、大门、水管和电路。心<span>(</span>脏<span>)</span>超<span>(</span>音波<span>)</span>用于查看墙壁是否有缺口、瓣膜门是否打得开关得严。冠脉<span>CT</span>或造影是管道工，可准确地查明冠脉这根水管是不是堵了，堵在了哪里。心电图，顾名思义，用来检测电路的通电情况，干的是电工的活儿。这么一说，大家对于心脏的检查是不是有了更全面的认识。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">总之，心脏是我们人体最重要的器官，大家一定要保护好它，保护好它的前提之一就是要科学的认识它。</p><span><br /></span><p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\" data-flag=\"normal\">好啦，今天的《戏说心脏》节目，到这里就要和大家说再见了。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">如果您想要了解更多关于冠心病的养护知识，欢迎微信搜索“良知关爱”，关注我们。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">&nbsp;</p><br />",
+  "bild_url": "https://fdfs.xmcdn.com/group72/M06/8C/05/wKgO0F4fvLGibccMAABnZKgRZrY039.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

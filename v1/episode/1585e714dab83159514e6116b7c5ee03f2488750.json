@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "7e916be4-9c79-11f1-8efb-5f21efeb2d14",
+  "apple_collection_id": "1579989090",
+  "show": "MELODY 健康星期四 - Radio Station [CHI]",
+  "titel": "MELODY｜冻卵 vs 冷冻胚胎——如何“锁”住时间，为未来保留生育选择？ ｜健康星期四 20260820",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/SOODO1538956837.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 16867404,
+    "format": "mp3",
+    "geprueft_am": "2026-08-31T01:48:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "探讨冷冻卵子与冷冻胚胎的技术流程、成功率及适合人群。",
+  "kurzfassung": "节目介绍了冷冻卵子和冷冻胚胎的医学原理、操作流程及其成功率。医生建议女性在30至35岁之间趁年轻进行生育规划。同时，访谈也讲解了胚胎染色体筛查以及预防遗传病的医学技术。",
+  "stichpunkte": [
+    "专家建议女性在30至35岁之间进行卵子冷冻，以锁定卵子年龄并保留生育选择权。",
+    "冷冻卵子采用玻璃化冷冻技术，将卵子降至负196度保存，复苏成功率较高。",
+    "取卵疗程通常需要12至14天，通过打排卵针和超声波引导取卵，手术约15至20分钟完成。",
+    "冷冻胚胎需要完成整个试管婴儿流程，将卵子与精子结合培养成囊胚后再行冷冻。",
+    "冷冻胚胎的解冻存活率接近100%，略高于冷冻卵子的复苏率。",
+    "胚胎移植前可通过PGTA技术筛查46个染色体，有效预防唐氏综合征等遗传疾病。",
+    "医生提醒女性切勿羞于检查，应提早进行生育评估并趁年轻做好规划。"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:48:25+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1034,
+  "veroeffentlicht": "2026-08-20T09:28:00+00:00",
+  "beschreibung": "题：冻卵 vs 冷冻胚胎——如何“锁”住时间，为未来保留生育选择？\n\n嘉宾：Alpha IVF KL妇产科顾问兼生育专科医生——陈钟雄\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+  "beschreibung_html": "<p>题：冻卵 vs 冷冻胚胎——如何“锁”住时间，为未来保留生育选择？</p>\n<p>嘉宾：Alpha IVF KL妇产科顾问兼生育专科医生——陈钟雄</p>\n<p><br></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/7e916be4-9c79-11f1-8efb-5f21efeb2d14/image/23736731179d93f5de8f20bd90e8cab4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

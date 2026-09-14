@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "6a60ef346356eb2d9be6d5e4",
+  "apple_collection_id": "1757253603",
+  "show": "一个电影美术",
+  "titel": "过期的小孩——一个电影美术眼中的周星驰宇宙",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/6a60ef346356eb2d9be6d5e4/media.xyzcdn.net/662676183857d2ae997ee7fc/liMg8FxXSj-EXLQMAPx3sN1I6bLH.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 40902447,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T08:49:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "从电影美术视角解析周星驰作品中的空间叙事与小人物情怀",
+  "kurzfassung": "本期节目从电影美术的专业视角出发，探讨了周星驰电影中场景设计、色彩运用和核心道具如何构建故事与传达情感。主播结合《少林足球》《功夫》以及《少林女足》，分析了空间叙事如何隐喻人物命运与阶层。同时，节目也反思了观众在当下快节奏与消费主义影响下观影心态的变化。",
+  "stichpunkte": [
+    "电影美术的叙事功能：通过空间、色彩和道具，将抽象剧本转化为观众可感知的画面信息。",
+    "《少林足球》中的道具与色彩：破球鞋成为串联底层身份与情感的核心道具，黄黑队服对比出传统与资本的冲突。",
+    "《功夫》的垂直社区设计：猪笼城寨的多层结构隐喻了阶层感，水井和空间功能随剧情发展而转变。",
+    "道具的记忆锚点：棒棒糖在《功夫》中三次出现，见证了主角阿星从天真到拒绝善良再到最终救赎的心理轨迹。",
+    "空间作为人格的延伸：阿星在《功夫》中无家可归的漂浮状态暗示了其迷失的自我，最终的糖果店标志着人物归宿的完整。",
+    "导演的创作坚持：对比韦斯安德森、雷德利·斯科特和昆汀的空间叙事，周星驰始终专注于小人物在荒谬世界中的顽强生长。",
+    "观影心态的转变：现代观众在网络评价和快节奏影响下，逐渐从纯粹的“感受者”变成了带有防备的“评价者”。",
+    "幕后美术的价值：美术指导、布景师和道具师作为“助梦人”，用空间和道具为观众创造了纯粹的电影梦。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开篇：从《少林女足》的争议谈起",
+      "start": 0.0
+    },
+    {
+      "titel": "电影美术的叙事本质",
+      "start": 239.38
+    },
+    {
+      "titel": "《少林足球》：破球鞋与色彩对立",
+      "start": 263.58
+    },
+    {
+      "titel": "《功夫》：猪笼城寨与空间叙事",
+      "start": 882.28
+    },
+    {
+      "titel": "其他导演的空间叙事风格对比",
+      "start": 1487.7
+    },
+    {
+      "titel": "观影心态的反思与对周星驰的致敬",
+      "start": 1655.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T08:49:48+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2529,
+  "veroeffentlicht": "2026-07-23T00:00:00+00:00",
+  "beschreibung": "又一届世界杯结束了，《功夫女足》最近也是大热。\n这个夏天让我想起了小时候看《足球小将》后天天放学去操场踢球，想起来第一次看世界杯的时候是98年，当时满大街的小孩子都穿着各个国家队的队服，每个人都好爱足球。\n刚好上个月拉片了《功夫》和《少林足球》，越看越觉得星爷的片子在美术叙事上真是做到了极致。\n“过期的小孩”这几个字，是我看完《功夫》之后冒出来的念头。\n阿星是个过期的小孩——他把曾经纯真的自己藏起来，穿上一件叫“坏人”的外套，以为这样就不会受伤。\n这件事是棒棒糖告诉我的。它在片中出现三次，从接受到打碎到重新接过，同一个道具，三段人生。\n是空间告诉我的。阿星没有家，他永远在街头游荡，在十字路口的岗亭迷茫——一个不知道自己是谁的人，电影美术就让他“没有家”。\n是色彩告诉我的。童年是金色的，成年是灰色的，结尾重新变暖了。\n这些，都是电影美术在悄悄讲故事。\n所以想借着周星驰的电影聊一聊电影当中的美术是怎么叙事的。\n\n最近工作有些繁忙，录制的时候声音有些疲惫，还请见谅～\n\n欢迎加入「一个电影美术」听友群，随时交流热爱的电影！\nVX：rollinginthecan\n主播：海日罕\n- - - - -- - - -- - - - -- - - - -- - - - - -- - - -- - - - - -- - - - - - - --\n⏱️ 本期时间轴\n00:00观影预期与审美自信\n从“怀疑自我”到“直面感受”——观众心理如何影响审美判断\n04:20核心道具的物质叙事\n《少林足球》破球鞋的阶级标记、空间转场与情感承载功能\n07:50空间社会学与场景表意\n酒吧、糖水铺、天台——高密度生活场景如何承载“荒谬中的顽强”\n09:55空间缩放与情绪节奏\n从闭塞室内到开阔球场——场景尺度变化如何完成情绪的物理转换\n11:40色彩情绪与意识形态\n黄vs黑、传统vs资本——色彩作为最直接的视觉立场表达\n15:00垂直社区与空间人格化\n猪笼城寨的四层结构、无家可归的阿星——空间布局如何暗示阶层与身份\n18:20核心道具的弧光\n串联棒棒糖的三次出现——同一道具如何完成人物从拒绝到救赎的完整叙事\n22:00场景对比与世界观构建\n猪笼城寨vs精神病院——温暖人间与冰冷非人间的空间对立\n25:30 韦斯·安德森的对称、银翼杀手的反乌托邦、昆汀的时代复刻——不同导演的空间叙事策略\n28:30 群像识别的替代方案\n当足球场无法提供叙事纵深时——演员的微相表演与细节动作如何弥补空间叙事的稀释\n33:00 电影造梦术与筑梦人美术指导、布景师、道具师——银幕背后“最安静的造梦者”\n36:20 叙事母题的重复与坚守\n从“我要赢”到“踢球就是为了踢球”\n39:00 “有限”的创作者与“倍速”的时代——我们还能容得下笨拙的真诚吗？\n\n本篇提及影片\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>又一届世界杯结束了，《功夫女足》最近也是大热。</p><p>这个夏天让我想起了小时候看《足球小将》后天天放学去操场踢球，想起来第一次看世界杯的时候是98年，当时满大街的小孩子都穿着各个国家队的队服，每个人都好爱足球。</p><p>刚好上个月拉片了《功夫》和《少林足球》，越看越觉得星爷的片子在美术叙事上真是做到了极致。</p><p>“过期的小孩”这几个字，是我看完《功夫》之后冒出来的念头。</p><p>阿星是个过期的小孩——他把曾经纯真的自己藏起来，穿上一件叫“坏人”的外套，以为这样就不会受伤。</p><p>这件事是<strong>棒棒糖告诉我的</strong>。它在片中出现三次，从接受到打碎到重新接过，同一个道具，三段人生。</p><p>是<strong>空间告诉我的</strong>。阿星没有家，他永远在街头游荡，在十字路口的岗亭迷茫——一个不知道自己是谁的人，电影美术就让他“没有家”。</p><p>是<strong>色彩告诉我的</strong>。童年是金色的，成年是灰色的，结尾重新变暖了。</p><p>这些，都是电影美术在悄悄讲故事。</p><p>所以想借着周星驰的电影聊一聊电影当中的美术是怎么叙事的。</p><p></p><p>最近工作有些繁忙，录制的时候声音有些疲惫，还请见谅～</p><p></p><p><strong>欢迎加入「一个电影美术」听友群，随时交流热爱的电影！</strong></p><p><strong>VX：rollinginthecan</strong></p><p><strong>主播：海日罕</strong></p><p>- - - - -- - - -- - - - -- - - - -- - - - - -- - - -- - - - - -- - - - - - - --</p><hr><hr><hr><p><strong>⏱️ 本期时间轴</strong></p><p><a class=\"timestamp\"><strong>00:00</strong></a>观影预期与审美自信</p><p>从“怀疑自我”到“直面感受”——观众心理如何影响审美判断</p><p><a class=\"timestamp\"><strong>04:20</strong></a>核心道具的物质叙事</p><p>《少林足球》破球鞋的阶级标记、空间转场与情感承载功能</p><p><a class=\"timestamp\"><strong>07:50</strong></a>空间社会学与场景表意</p><p>酒吧、糖水铺、天台——高密度生活场景如何承载“荒谬中的顽强”</p><p><a class=\"timestamp\"><strong>09:55</strong></a>空间缩放与情绪节奏</p><p>从闭塞室内到开阔球场——场景尺度变化如何完成情绪的物理转换</p><p><a class=\"timestamp\"><strong>11:40</strong></a>色彩情绪与意识形态</p><p>黄vs黑、传统vs资本——色彩作为最直接的视觉立场表达</p><p><a class=\"timestamp\"><strong>15:00</strong></a>垂直社区与空间人格化</p><p>猪笼城寨的四层结构、无家可归的阿星——空间布局如何暗示阶层与身份</p><p><a class=\"timestamp\"><strong>18:20</strong></a>核心道具的弧光</p><p>串联棒棒糖的三次出现——同一道具如何完成人物从拒绝到救赎的完整叙事</p><p><a class=\"timestamp\"><strong>22:00</strong></a>场景对比与世界观构建</p><p>猪笼城寨vs精神病院——温暖人间与冰冷非人间的空间对立</p><p><a class=\"timestamp\"><strong>25:30</strong></a><strong> </strong>韦斯·安德森的对称、银翼杀手的反乌托邦、昆汀的时代复刻——不同导演的空间叙事策略</p><p><a class=\"timestamp\"><strong>28:30</strong></a><strong> </strong>群像识别的替代方案</p><p>当足球场无法提供叙事纵深时——演员的微相表演与细节动作如何弥补空间叙事的稀释</p><p><a class=\"timestamp\"><strong>33:00</strong></a><strong> </strong>电影造梦术与筑梦人美术指导、布景师、道具师——银幕背后“最安静的造梦者”</p><p><a class=\"timestamp\"><strong>36:20</strong></a><strong> </strong>叙事母题的重复与坚守</p><p>从“我要赢”到“踢球就是为了踢球”</p><p><a class=\"timestamp\"><strong>39:00</strong></a><strong> </strong>“有限”的创作者与“倍速”的时代——我们还能容得下笨拙的真诚吗？</p><hr><hr><hr><hr><p></p><p>本篇提及影片</p><img src=\"https://image.xyzcdn.net/Foj1VMhmMciA3zwjdhgMm8kJ-m2V.webp\"><img src=\"https://image.xyzcdn.net/FrDDGSXP-cHTIcEQyph2tQQhB1Yw.webp\"><img src=\"https://image.xyzcdn.net/Fia37uzmzqBQAG7E4qSmZtUUDIHP.webp\"><img src=\"https://image.xyzcdn.net/FliQYb2wlmICj08hmBqpAhwSTwHf.webp\"><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a60ef346356eb2d9be6d5e4?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FguDNvPX9J21IuwCOejSyIAZP7bX.png",
+  "kapitel_quelle": "modell"
+}

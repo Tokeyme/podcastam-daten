@@ -6,7 +6,7 @@
   "titel": "儿童静心方法：吵闹起来，然后安静",
   "audio": {
     "url": "https://cdn.lizhi.fm/audio/2017/08/17/2619234193164206086_hd.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": 2574443,
     "format": "mp3",
     "geprueft_am": "2026-08-22T23:20:40+00:00"
@@ -62,7 +62,7 @@
       "inhalt_start": 9.378,
       "anker_sha256": "b42c506c6a191c45d15e668d4600d8f8f9226f869b0194dfec2055d4c231eeea",
       "einblendung_ms": 60,
-      "text": "问我六岁和七岁的孩子 在学校里有时候喜欢乱吵乱讨 我不想强迫他们待在座位上保持安静 回答"
+      "text": "探讨如何处理六七岁儿童在学校吵闹的行为，避免强制压制。"
     },
     {
       "hook": "上课前花二十分钟一起疯",
@@ -77,7 +77,7 @@
       "inhalt_start": 42.266,
       "anker_sha256": "77d86add82d5bd3e5bfc7ada8e8cc46b0c6c6b1b79ee7eace9e648528c583f8b",
       "einblendung_ms": 60,
-      "text": "早上在你开始上课之前花二十分钟 你也参与进来 那么他们会非常的享受其中 你也跳也叫参与进来"
+      "text": "建议在上课前腾出二十分钟，成年人一同加入孩子们的蹦跳喧闹。"
     },
     {
       "hook": "能有多闹就多闹然后停下来",
@@ -92,7 +92,7 @@
       "inhalt_start": 70.609,
       "anker_sha256": "f6515a721faa2cc53a4ac5cfe6f9262e63a6c8d87a91e3800b1decec80c65ce2",
       "einblendung_ms": 60,
-      "text": "告诉他们 他们能有多闹就多闹 做任何他们想要做的 然后告诉他们停下来 静静的做五分钟"
+      "text": "允许孩子们尽情喧闹发泄后，随即要求他们保持五分钟的绝对安静。"
     },
     {
       "hook": "两三个月看到巨大改变",
@@ -107,7 +107,7 @@
       "inhalt_start": 95.242,
       "anker_sha256": "a3e8a80b58466e52430ddbf34b148651b55e2008466863de0b8b89a47650b5ac",
       "einblendung_ms": 60,
-      "text": "两三个月之内 你就能看到孩子们身上发生了这么大的改变 简直难以置信 他们被压抑的能量需要释放出来"
+      "text": "通过这种方式释放压抑的精力，两三个月内便能观察到显著的行为转变。"
     },
     {
       "hook": "注意力与理解力显著提升",
@@ -122,7 +122,7 @@
       "inhalt_start": 139.311,
       "anker_sha256": "d7d872be1213200c3c044a3585b6a6329202c8560f6bb113c4f655eb5405f064",
       "einblendung_ms": 60,
-      "text": "他们会变得更出名 他们的注意力会更好 他们的听力会变得更好 他们的听力会变得更好 他们的理解力会变得更好 因为他们的负担已经没了"
+      "text": "释放积压的负担后，孩子的专注力、倾听能力和理解力均会显著提升。"
     }
   ],
   "erzeugt": {
@@ -140,5 +140,6 @@
   "beschreibung": "感谢收听，期待你对本期节目的评论留言哦~",
   "beschreibung_html": "感谢收听，期待你对本期节目的评论留言哦~",
   "untertitel": "儿童静心方法：吵闹起来，然后安静",
-  "kapitel_quelle": "modell"
+  "kapitel_quelle": "modell",
+  "bild_url": "https://cdn.lizhi.fm/podcast_cover/podcast_imgthum_7728042913749344056.jpg"
 }

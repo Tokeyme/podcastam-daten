@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007919735",
+  "apple_collection_id": "1362096017",
+  "show": "亲爱的音乐",
+  "titel": "对话ZaZaZsu咂咂苏：被王菲翻唱，浪漫终于被听见！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIOXy3BAWMJAgTKsJ_O.m4a?channel=rss&album_id=322522&track_id=1007919735&uid=1315711&jt=https://aod.cos.tx.xmcdn.com/storages/7791-audiofreehighqps/D6/55/GKwRIaIOXy3BAWMJAgTKsJ_O.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 23267586,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T07:14:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "对话音乐组合ZaZaSu：被王菲翻唱，浪漫终于被听见！",
+  "kurzfassung": "本期节目独家专访了双人创作组合ZaZaSu。成员们分享了音乐创作背后的故事、面对作品爆红与网络评价的心态，以及他们对浪漫与前行的独特理解。节目中还穿插了他们在扬州演出的精彩片段与多首热门单曲。",
+  "stichpunkte": [
+    "ZaZaSu由两位北大高材生组成，组合成立将近十年，分工明确且跨界做音乐。",
+    "他们的单曲《爱河》在网络上大火，随后更被王菲在春晚上翻唱并改名为《你我经历的一刻》。",
+    "面对网络上的各种评价，两人保持“左耳朵进右耳朵出”的轻松心态。",
+    "第二张专辑《第一千页》相比第一张更加聚焦于整体的故事性和概念性。",
+    "歌词创作注重直白、简单且富有画面感，力求在一个歌曲里把一个观点讲透。",
+    "两人坦言并未刻意平衡商业化与热爱，创作过程顺其自然，坚持做自己喜欢的东西。",
+    "歌曲《雨后的哲学家》记录了他们在面对外界质疑时，决定重新出发的心路历程。",
+    "组合中文名“咂咂苏”源自英文名ZaZaSu的拟声词，意指两人一见钟情时心动的震动感。"
+  ],
+  "kapitel": [
+    {
+      "titel": "扬州演出与音乐近况",
+      "start": 211.5
+    },
+    {
+      "titel": "两张专辑的转变与文学创作",
+      "start": 409.96
+    },
+    {
+      "titel": "面对爆红与网络评价的心态",
+      "start": 693.1
+    },
+    {
+      "titel": "王菲春晚翻唱背后的故事",
+      "start": 1108.04
+    },
+    {
+      "titel": "《雨后的哲学家》与创作初心",
+      "start": 1888.44
+    },
+    {
+      "titel": "乐队名字的由来与未来规划",
+      "start": 2517.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T07:14:01+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2874,
+  "veroeffentlicht": "2026-08-22T09:22:23+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c257-audiofreehighqps/28/E0/GAqh9TMOYuniAAEl_wTMLInQ.jpg",
+  "folgennummer": 4,
+  "kapitel_quelle": "modell"
+}

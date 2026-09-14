@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2026/07/20/3223995249797463046_hd.mp3",
+  "apple_collection_id": "1449122549",
+  "show": "电影无用（Wu出品）",
+  "titel": "Vol.98《给阿嬷的情书 》",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2026/07/20/3223995249797463046_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 79229994,
+    "format": "mp3",
+    "geprueft_am": "2026-08-26T14:35:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "两位主播深入探讨电影《给阿嬷的情书》，分享潮汕文化与真挚情感带来的感动。",
+  "kurzfassung": "两位主播深入讨论了电影《给阿嬷的情书》，赞赏其朴素真诚的叙事以及对下南洋群体和潮汕文化的动人刻画。他们分析了影片的优缺点，探讨了年轻导演的天赋与制作遗憾，并对当前电影市场的观众审美与行业现状发表了看法。",
+  "stichpunkte": [
+    "电影《给阿嬷的情书》凭借跨越几十年的骨肉分离与朴素情感，成功引发了观众对潮汕文化和下南洋历史的兴趣。",
+    "主播指出前半段略显电视电影质感，且现代喜剧开场与过去时空之间存在一定的割裂感。",
+    "影片在泰国寻亲与阿公形象的反差处理上存在剧作逻辑的不完美，但瑕不掩瑜。",
+    "导演在多场戏中展现出高超的叙事效率与情感调度，例如蓝牙回放转折和橄榄的意象处理。",
+    "年轻演员尤其是饰演谢南枝的演员表现亮眼，配角阵容也极大提升了影片的整体质感。",
+    "普通话配音版本削弱了潮汕方言和侨批用语的原汁原味，成为一大遗憾。",
+    "影片的成功给当下低迷的电影市场和认真讲故事的年轻导演注入了一丝信心。",
+    "节目最后顺便提及了近期其他院线电影的观看体验及对未来节目的展望。"
+  ],
+  "kapitel": [
+    {
+      "titel": "初评与整体感受",
+      "start": 600.0
+    },
+    {
+      "titel": "影片的缺点探讨",
+      "start": 846.5
+    },
+    {
+      "titel": "影片的优点与导演天赋",
+      "start": 2197.9
+    },
+    {
+      "titel": "演员表现与方言版本遗憾",
+      "start": 3147.9
+    },
+    {
+      "titel": "电影市场现状与结语",
+      "start": 4151.38
+    }
+  ],
+  "clips": [
+    {
+      "hook": "展现下南洋历史与人类最朴素情感的动人电影",
+      "start": 658.886,
+      "ende": 689.006,
+      "laenge": 30.12,
+      "byte_start": 10594827,
+      "byte_ende": 11076733,
+      "bytes": 481907,
+      "range_header": "bytes=10594827-11076733",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 658.965,
+      "anker_sha256": "5ba2ab21c31e0b84a498425fa9f808639e20aa691c5c781844ccf5bb6ebbf92c",
+      "einblendung_ms": 60,
+      "text": "这部影片以潮汕地区下南洋的历史为背景，展现了跨越数十年的家庭离散与情感变迁，引发观众对当地文化的探索兴趣。"
+    },
+    {
+      "hook": "这样的电影能拿到不错票房，给中国电影观众一些信心",
+      "start": 796.16,
+      "ende": 823.641,
+      "laenge": 27.48,
+      "byte_start": 12791203,
+      "byte_ende": 13230895,
+      "bytes": 439693,
+      "range_header": "bytes=12791203-13230895",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 796.238,
+      "anker_sha256": "6cc295f07e7ad81889b880a12fa2e52f13f3f56b71372287b7b3210bcc789889",
+      "einblendung_ms": 60,
+      "text": "该片在商业上取得的成功，证明了中国观众依然认可并支持那些扎实讲故事、充满诚意的电影作品。"
+    },
+    {
+      "hook": "一个蓝牙连接的细节，迅速将喜剧拉入悲剧空间",
+      "start": 2575.7,
+      "ende": 2605.819,
+      "laenge": 30.12,
+      "byte_start": 41263836,
+      "byte_ende": 41745742,
+      "bytes": 481907,
+      "range_header": "bytes=41263836-41745742",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2575.778,
+      "anker_sha256": "9346a984e11e2eafa9e33e7a670d217a5796da245a3bd271cd0edae5c7826a95",
+      "einblendung_ms": 60,
+      "text": "影片通过高超的叙事技巧，迅速将观众从喜剧氛围带入老年丧偶的悲剧现实，情感转折极具冲击力。"
+    },
+    {
+      "hook": "看普通话版本还是潮汕话版本，体验完全不同",
+      "start": 3799.51,
+      "ende": 3829.603,
+      "laenge": 30.09,
+      "byte_start": 60844806,
+      "byte_ende": 61326294,
+      "bytes": 481489,
+      "range_header": "bytes=60844806-61326294",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3799.589,
+      "anker_sha256": "34bc9429ae123fd49c44bf0825f9786f00a20f370dc0f7013bdc54b8fa4b294f",
+      "einblendung_ms": 60,
+      "text": "普通话配音版本削弱了原片的表现力，若能观看潮汕方言原版，演员的表演细节与情感张力会更加出色。"
+    },
+    {
+      "hook": "好电影不需要你了解十件事，只要你有七情六欲",
+      "start": 4473.365,
+      "ende": 4503.484,
+      "laenge": 30.12,
+      "byte_start": 71626481,
+      "byte_ende": 72108387,
+      "bytes": 481907,
+      "range_header": "bytes=71626481-72108387",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 4473.443,
+      "anker_sha256": "4e1c6d5215cf94538c445552de36d4183c5a159a99f85412a14e8fcb615a131f",
+      "einblendung_ms": 60,
+      "text": "电影无需观众预先掌握复杂的历史背景，仅凭真诚的叙事与普世的情感共鸣，就能牢牢抓住观众的注意力。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-26T14:35:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4948,
+  "veroeffentlicht": "2026-07-20T11:34:35+08:00",
+  "beschreibung": "给阿嬷的情书 (2026)\n\n导演: 蓝鸿春\n\n编剧: 蓝鸿春 / 郑萱轩 / 杨冷 / 朱丽云\n\n主演: 李思潼 / 王彦桐 / 吴少卿 / 郑润奇 / 王晓慧 / 赵曙光 / 李德如 / 李树浩 / 乌萨·萨梅坎姆 / 方培松 / 钟少贤 / 郑鹏生 / 麦乐瑟 / 徐培涌\n\n类型: 剧情 / 家庭\n\n制片国家/地区: 中国大陆\n\n语言: 潮汕话 / 汉语普通话 / 泰语 / 英语\n\n上映日期: 2026-04-30(中国大陆)\n\n片长: 118分钟\n\n又名: Dear You\n\nIMDb: tt41791573",
+  "beschreibung_html": "<h1><strong>给阿嬷的情书 </strong><strong style=\"color: rgb(136, 136, 136);\">(2026)</strong></h1><br><p><br></p><br><p><span style=\"color: rgb(102, 102, 102);\">导演</span><span style=\"color: rgb(17, 17, 17);\">: </span><a href=\"https://www.douban.com/personage/30276772/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">蓝鸿春</a></p><br><p><span style=\"color: rgb(102, 102, 102);\">编剧</span><span style=\"color: rgb(17, 17, 17);\">: </span><a href=\"https://www.douban.com/personage/30276772/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">蓝鸿春</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38425317/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">郑萱轩</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/35722757/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">杨冷</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38425318/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">朱丽云</a></p><br><p><span style=\"color: rgb(102, 102, 102);\">主演</span><span style=\"color: rgb(17, 17, 17);\">: </span><a href=\"https://www.douban.com/personage/38426562/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">李思潼</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38425320/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">王彦桐</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38425321/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">吴少卿</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/30276773/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">郑润奇</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38425322/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">王晓慧</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/36239150/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">赵曙光</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38425323/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">李德如</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/27582640/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">李树浩</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/36782354/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">乌萨·萨梅坎姆</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38435087/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">方培松</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/35685366/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">钟少贤</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/30276777/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">郑鹏生</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38439581/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">麦乐瑟</a><span style=\"color: rgb(17, 17, 17);\"> / </span><a href=\"https://www.douban.com/personage/38454273/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 119, 170);\">徐培涌</a></p><br><p><span style=\"color: rgb(102, 102, 102);\">类型:</span><span style=\"color: rgb(17, 17, 17);\"> 剧情 / 家庭</span></p><br><p><span style=\"color: rgb(102, 102, 102);\">制片国家/地区:</span><span style=\"color: rgb(17, 17, 17);\"> 中国大陆</span></p><br><p><span style=\"color: rgb(102, 102, 102);\">语言:</span><span style=\"color: rgb(17, 17, 17);\"> 潮汕话 / 汉语普通话 / 泰语 / 英语</span></p><br><p><span style=\"color: rgb(102, 102, 102);\">上映日期:</span><span style=\"color: rgb(17, 17, 17);\"> 2026-04-30(中国大陆)</span></p><br><p><span style=\"color: rgb(102, 102, 102);\">片长:</span><span style=\"color: rgb(17, 17, 17);\"> 118分钟</span></p><br><p><span style=\"color: rgb(102, 102, 102);\">又名:</span><span style=\"color: rgb(17, 17, 17);\"> Dear You</span></p><br><p><span style=\"color: rgb(102, 102, 102);\">IMDb:</span><span style=\"color: rgb(17, 17, 17);\"> tt41791573</span></p>",
+  "untertitel": "Vol.98《给阿嬷的情书 》",
+  "kapitel_quelle": "modell",
+  "bild_url": "https://cdn.lizhi.fm/podcast_cover/2020/08/11/2821600534474532423.png"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_742428573",
+  "apple_collection_id": "1758340521",
+  "show": "170步频跑步音乐",
+  "titel": "170步频跑步音乐｜精准踩点｜海来阿木 “不做寂寞的奴隶 不做孤独的鬼”",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwKcBz2APw-4gLzXg0R.m4a?channel=rss&album_id=82723513&track_id=742428573&uid=514758338&jt=https://aod.cos.tx.xmcdn.com/storages/77fd-audiofreehighqps/EC/CE/GKwRIRwKcBz2APw-4gLzXg0R.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 16531170,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T02:35:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "这是一档精选170步频的跑步音乐节目，带来精准踩点的动感节奏。",
+  "kurzfassung": "本期节目提供适合170步频跑步的精选音乐合辑。歌曲涵盖丰富的情感主题与动感节奏，伴随跑步者前行。整体曲风多样，旨在为运动过程带来精准的踩点体验。",
+  "stichpunkte": [
+    "提供精准契合170步频的跑步音乐合辑",
+    "包含多首情感丰富与节奏明快的歌曲",
+    "伴随跑步者度过孤独与奔跑的时光",
+    "旋律涵盖对过往回忆与未来期待的表达",
+    "曲风兼具动感节奏与舒缓旋律的交织",
+    "适合运动健身时作为伴奏节奏使用"
+  ],
+  "kapitel": [
+    {
+      "titel": "跑步音乐合辑",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T02:35:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2712,
+  "veroeffentlicht": "2024-07-23T14:19:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/dcaa-audiofreehighqps/D9/DE/GKwRIDoKc_YeAAIkCwL0uuhZ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

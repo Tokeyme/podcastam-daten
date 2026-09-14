@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_889291745",
+  "apple_collection_id": "1827812069",
+  "show": "余华文学深度剖析",
+  "titel": "余华《活着》余华写尽失去，却让 “活着” 成为最终的答案",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4MUDY1AFrmhgPlJ7O7.m4a?channel=rss&album_id=98183186&track_id=889291745&uid=177618421&jt=https://aod.cos.tx.xmcdn.com/storages/55a6-audiofreehighqps/74/D8/GKwRIW4MUDY1AFrmhgPlJ7O7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5957254,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T06:14:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨余华经典小说《活着》的创作背景、各版本序言及福贵充满苦难的一生。",
+  "kurzfassung": "本期播客深入探讨了余华的代表作《活着》。节目梳理了该书在不同版本序言中的创作初衷与文学思考，回顾了余华在乡间收集民谣时与福贵的相遇，并详细讲述了福贵从一个挥霍无度的富家少爷因赌博输光家产、经历家庭巨变的人生转折。",
+  "stichpunkte": [
+    "介绍《活着》的版本特点、所获奖项及在国内外的重要评价",
+    "阐述余华在各版本序言中谈及的创作初衷，包括受美国民歌《老黑奴》启发",
+    "分析余华对“活着”力量的理解，即人是为了活着本身而活着，活着的力量来自于忍受",
+    "探讨时间与文学的关系，以及余华最终选择第一人称叙述视角的考量",
+    "回忆余华在乡间游荡收集民谣并与福贵在大树下相遇的经历",
+    "讲述福贵早年的放浪形骸、沉迷赌博以及最终输光一百多亩地和房契的转折点",
+    "记录福贵父亲因还债和变故而死，以及家珍被接走、父女分离的痛苦场景",
+    "总结福贵从浪荡公子到能够承受巨大苦难之人的转变，传递出无论生活多艰难都要活下去的核心意义"
+  ],
+  "kapitel": [
+    {
+      "titel": "版本信息与海内外序言中的创作初衷",
+      "start": 19.9
+    },
+    {
+      "titel": "余华对《活着》中苦难与视角的文学思考",
+      "start": 92.36
+    },
+    {
+      "titel": "乡间收集民谣与福贵的相遇",
+      "start": 348.42
+    },
+    {
+      "titel": "福贵的家族背景与沉迷赌博的浪荡生活",
+      "start": 431.22
+    },
+    {
+      "titel": "输光家产、父亲离世与家庭破碎的巨变",
+      "start": 525.16
+    },
+    {
+      "titel": "结语：苦难中忍受并坚韧活下去的生命意义",
+      "start": 704.34
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T06:14:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 735,
+  "veroeffentlicht": "2025-07-19T02:17:00+00:00",
+  "beschreibung": "至亲离散，苦难如影随形，最后只剩老牛相伴。可正是这场剥离，让 “活着” 挣脱了意义的绑架 —— 它不是对苦难的屈服，而是生命在绝境里，对存在最质朴也最倔强的认领。我们读这字里的重量，看一个人如何在失去一切后，与生活站成沉默的和解。 有人说我是靠《活着》活着...",
+  "beschreibung_html": "至亲离散，苦难如影随形，最后只剩老牛相伴。可正是这场剥离，让 “活着” 挣脱了意义的绑架 —— 它不是对苦难的屈服，而是生命在绝境里，对存在最质朴也最倔强的认领。我们读这字里的重量，看一个人如何在失去一切后，与生活站成沉默的和解。 有人说我是靠《活着》活着...",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2f68-audiofreehighqps/A9/BE/GKwRIasMUDR9AAHRBgPlJrEA.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

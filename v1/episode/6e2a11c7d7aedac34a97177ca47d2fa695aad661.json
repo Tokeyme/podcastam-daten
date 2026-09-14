@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_969806961",
+  "apple_collection_id": "1367139394",
+  "show": "辽宁科技大学|科大之声",
+  "titel": "260408 光影印象",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJENsjVxALq0UQSJe3tI.m4a?channel=rss&album_id=14611564&track_id=969806961&uid=106021614&jt=https://aod.cos.tx.xmcdn.com/storages/1c51-audiofreehighqps/42/58/GKwRIJENsjVxALq0UQSJe3tI.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 12235857,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T14:34:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "辽宁科技大学科大之声广播电台节目，带听众漫游中外电影与影视作品的世界。",
+  "kurzfassung": "本期节目是辽宁科技大学科大之声的《光影印象》，由主播带来多部中外影视作品的深度解读与推荐。节目依次探讨了改编自真实经历的女性题材电影《出走的决心》、充满哲思的皮克斯动画电影《心灵奇旅》，以及国产悬疑剧《沉默的真相》。通过对剧情、演员表演和深刻内涵的剖析，带领听众在声音中感受光影的魅力与人性的光辉。",
+  "stichpunkte": [
+    "辽宁科技大学科大之声广播电台推出《光影印象》栏目，陪伴听众度过午后时光。",
+    "节目推荐电影《出走的决心》，讲述年近50的主妇李红摆脱家庭束缚、开启自驾游并找回自我的故事。",
+    "《出走的决心》展现了传统女性的普遍困境，探讨了经济与精神双重觉醒的当代女性价值。",
+    "节目推荐皮克斯动画《心灵奇旅》，以爵士乐为底色，探讨生命的意义究竟是什么。",
+    "《心灵奇旅》通过乔伊与灵魂22号的奇妙旅程，传递出活在当下、珍视细碎日常的生活哲理。",
+    "节目还推荐了国产悬疑剧《沉默的真相》，剖析主角江阳等人为追求正义与真相所付出的代价与坚守。",
+    "《沉默的真相》展现了平凡英雄的良知与勇气，引发观众对正义与人性的深思。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与广播介绍",
+      "start": 180.12
+    },
+    {
+      "titel": "电影《出走的决心》推荐",
+      "start": 305.06
+    },
+    {
+      "titel": "动画电影《心灵奇旅》推荐",
+      "start": 696.02
+    },
+    {
+      "titel": "剧集《沉默的真相》推荐与结尾",
+      "start": 1131.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T14:34:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1511,
+  "veroeffentlicht": "2026-04-13T04:33:38+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group41/M02/94/86/wKgJ8lrDNinTR5--AADo7RcZwJo476.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

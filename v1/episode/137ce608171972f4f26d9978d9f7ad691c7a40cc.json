@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/02f7-audiofreehighqps/E1/64/CKwRINsESae_ABZMDACdfdpV.m4a",
+  "apple_collection_id": "1562939284",
+  "show": "育儿知识：宝宝辅食知识，婴儿食谱大全",
+  "titel": "1、宝宝辅食是什么，什么时候添加辅食？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRINsESae_ABZMDACdfdpV.m4a?channel=rss&album_id=48536526&track_id=404790832&uid=135370948&jt=https://aod.cos.tx.xmcdn.com/storages/02f7-audiofreehighqps/E1/64/CKwRINsESae_ABZMDACdfdpV.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1461260,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:49:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "详解宝宝辅食的概念、重要性及最佳添加时机",
+  "kurzfassung": "宝宝满六个月时，仅靠母乳或奶粉已无法满足营养需求，因此需要添加辅助食品。辅食是指除奶类外提供的流质、半流质及固体食物，是保证营养均衡的重要补充。添加辅食时间不宜过早或过晚，通常以六个月左右为宜，以避免消化不良或营养不良。",
+  "stichpunkte": [
+    "宝宝满六个月后需要添加辅食以满足日益增长的营养需求",
+    "辅食是指母乳和配方奶之外的各种辅助食品的总称",
+    "辅食包括果汁菜汁等流质、米粉果泥等半流质以及面条和切块果蔬等固体食物",
+    "辅食是奶类喂养的补充，为发育阶段提供均衡营养",
+    "宝宝六个月前必须纯母乳喂养，以符合身心发育需要",
+    "过早添加辅食会导致消化功能不完善引发呕吐腹泻",
+    "过晚添加辅食可能导致营养不良并影响咀嚼和吞咽功能的发育",
+    "给宝宝添加辅食的时间不宜过早也不宜过晚"
+  ],
+  "kapitel": [
+    {
+      "titel": "什么是宝宝辅食",
+      "start": 12.08
+    },
+    {
+      "titel": "什么时候添加辅食",
+      "start": 96.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:49:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 180,
+  "veroeffentlicht": "2021-04-12T06:12:09+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4c45-audiofreehighqps/0F/6C/CMCoOSIESaY-AAN34gCdfWly.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_677766787",
+  "apple_collection_id": "1703564644",
+  "show": "财经魏视",
+  "titel": "第二十五期：财经魏视巴菲特的投资建议-指数基金（八）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEJD8ETAEhApQJz27SZ.m4a?channel=rss&album_id=77676874&track_id=677766787&uid=54426945&jt=https://aod.cos.tx.xmcdn.com/storages/8510-audiofreehighqps/C7/35/GKwRIJEJD8ETAEhApQJz27SZ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4735141,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T20:54:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨大盘走势与指数基金定投中的估值判断方法",
+  "kurzfassung": "本期节目分析了上证指数跌破3000点的市场行情以及外资出逃和经济恢复的原因。主持人探讨了为什么大盘投资可以进行择时，并详细介绍了评估市场高低的两个主流指标：市盈率和市净率。最后，节目呼吁听众积极订阅和分享播客内容。",
+  "stichpunkte": [
+    "上证指数跌破3000点，周K线显示市场正向下调整",
+    "此次大跌的主要原因之一是外资坚定不移的出逃，受美国市场走势及较高美元利率影响",
+    "国内后疫情时期经济处于恢复阶段，目前市场整体处于价值低估阶段",
+    "大盘和估值基金可以进行择时操作，因为大盘的高低比单个股票更容易判断",
+    "介绍评估市场高低的第一个主流指标：市盈率（PE），即市值除以净利润",
+    "市盈率可理解为投入资金大概多少年能够回本",
+    "介绍评估市场高低的第二个主流指标：市净率（PB），即市值与净资产的比值",
+    "市净率可理解为公司实际能够变卖的账面资产价值"
+  ],
+  "kapitel": [
+    {
+      "titel": "市场行情分析与大跌原因",
+      "start": 9.8
+    },
+    {
+      "titel": "为什么大盘投资可以择时",
+      "start": 266.3
+    },
+    {
+      "titel": "评估市场估值的主流指标：市盈率与市净率",
+      "start": 352.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T20:54:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 584,
+  "veroeffentlicht": "2023-10-26T05:49:52+00:00",
+  "beschreibung": "欢迎各位光临财经魏视，财经魏视为你提供穿越周期的视角，\n探索财经事件的底层逻辑，陪伴你实现滚雪球般的财富增长。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">欢迎各位光临财经魏视，财经魏视为你提供穿越周期的视角，<br>探索财经事件的底层逻辑，陪伴你实现滚雪球般的财富增长。<br><br><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8ac6-audiofreehighqps/E6/0A/GKwRIMAIuQPSAAecpAJM3Ot2.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

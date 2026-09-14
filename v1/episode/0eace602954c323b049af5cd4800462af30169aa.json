@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "69e9d5d51e94ae6921f81836",
+  "apple_collection_id": "1689252672",
+  "show": "文化中国 · 月旦谈",
+  "titel": "EP10 专教秘辛·每一条蜿蜒的支流，都在此重迎记忆的光景",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/69e9d5d51e94ae6921f81836/media.xyzcdn.net/63271ccc1b87911bf6a315c0/lt2FWTKnQ1MipXyu5_JNFoj7c7DK.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 30983150,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T09:47:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "文化中国学员分享专教的回忆、日常与连接不同届别的情感纽带。",
+  "kurzfassung": "本期节目中，多位文化中国不同期数的学员齐聚一堂，共同回忆了“专教”（专业教室）从无到有的诞生过程以及历经的布局变化。大家畅谈了在专教度过的熬夜赶工、深夜闲聊、即兴分享会等丰富日常，探讨了这一物理空间如何承载物质延留并打破年级界限。嘉宾们认为，专教不仅是一个学习与生活的场所，更是一个向未来开放、连接过去与现在的共同记忆容器。",
+  "stichpunkte": [
+    "专教的诞生源于周老师与校长会面时的资源争取，最初条件简陋，后经各届学员不断改造与添置设备。",
+    "专教演变出了系统性的住人、购买人体工学椅和显示器等布局，甚至成为部分学员的临时居所。",
+    "空间内充满了各种抽象的遗留物和独特的文化，如早期的文化山、宝塔及各种经后现代解构的经典汇读。",
+    "学员们的日常生活充满随机性与松弛感，白天各自生产学术或工作，夜晚则常常展开跨越到凌晨的深刻夜聊。",
+    "专教打破了东亚传统组织架构中的森严等级，让不同届别的学长学姐与低年级学员能够平等、自发地交流。",
+    "专教具有强大的物质性延留，许多绝版书籍、零食箱和物品在不同届别间传递，成为跨越时空的寻宝过程。",
+    "对于许多学员而言，专教不仅是一个自习室，更是大学生活中提供归属感和赛博陪伴的核心容器。"
+  ],
+  "kapitel": [
+    {
+      "titel": "专教的诞生与空间布局演变",
+      "start": 48.3
+    },
+    {
+      "titel": "深夜夜聊、奇特物品与专教日常",
+      "start": 258.38
+    },
+    {
+      "titel": "自发分享会与后现代经典汇读",
+      "start": 729.56
+    },
+    {
+      "titel": "打破等级界限的平等交流场域",
+      "start": 1739.56
+    },
+    {
+      "titel": "物质性延留与跨越时空的归属感",
+      "start": 2315.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T09:47:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2542,
+  "veroeffentlicht": "2026-04-23T08:42:14+00:00",
+  "beschreibung": "【本期简介】\n（接上期）\n本期节目邀请了文化中国跨越7年（11、13、15、17期）的5位学员，共同分享专教变迁与人员流动的小秘密。\n从周老师的巧妙“化缘”，到几张拼凑的梯形桌、角落里添置的两张行军床；从废墟里的深夜站桩局，到以戏谑对抗主流的“邪典会读”......这个随机、自发、跨越时空的教室，装下了大家最难忘的本科生活。\n推开门，找个位置坐下。这一次，让我们在一条条蜿蜒的支流里，重新拼凑那个永远向你敞开的“家”。\n【本期主播】\n叶一荷，17期，讨坏型人格在过黄金时代\n钱璐，15期，学术树懒，梦想是去巴黎淋雨和养一只小狗\n陈云奇，13期，吃饭要先吃一口素菜，去美洲要先到南美，违规光荣\n闫志坚，11期，持续转行中\n余林恩，11期，现任邪典群群主\n【你将听到】\n第一部分：从0到1的野生专教史\n00:57 罗德学者与“化缘”\n02:12 买床、搭蚊帐、购入人体工学椅，“系统性”住人\n04:32 睡觉错过周老师探访\n06:32 施工废墟与“斯文在兹”\n\n第二部分：温柔的“陷阱”——毫无学术生产力，却重塑了精神世界\n08:31 专教十二时辰：白天制造“学术垃圾”，深夜拷问“经济增长的极限”\n11:24 当旁边有人在睡觉，人与人之间的社交壁垒就瓦解了\n12:34 站桩、冥想与随机掉落的分享会\n16:26 一个人复习是苦涩，一群人一起是“混乱的幸福”\n18:07 专教人类学研究：邪典人与顶级J人\n\n第三部分：离别与归属——未尽的缘分在此回响\n20:10 想原子化都原子化不了一点\n21:45 Bongo Cats：屏幕上串门的小猫赛博陪伴\n22:54 这个小教室才是你永远的家！\n25:25 《我的凉山兄弟》后继有人\n29:26 绝对安全的直言场域：你张嘴的时候就已经想好要陷入辩论了\n31:58 根植于经典文本的后现代人才\n33:54什么是真正的归属感？\n39:31专教不是被锁定的记忆，而是向未来敞开的容器\n【本期staff】\n策划：dopaMine\n后期：培养箱\n【关于我们】\n“文化中国 · 月旦谈”是由浙江大学晨兴文化中国人才计划（简称“文中”）成员共同出品的一档漫谈播客，旨在与听众分享我们在不同生命阶段对人世万物的思考。君子不器，吾道不孤。这份音频礼物，希望能成为文化中国成员和各位听众生活中的陪伴。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>【本期简介】</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/episode/69da266de2c8be3155ef8c3a\">（接上期）</a></p><p>本期节目邀请了文化中国跨越7年（11、13、15、17期）的5位学员，共同分享专教变迁与人员流动的小秘密。</p><p>从周老师的巧妙“化缘”，到几张拼凑的梯形桌、角落里添置的两张行军床；从废墟里的深夜站桩局，到以戏谑对抗主流的“邪典会读”......这个随机、自发、跨越时空的教室，装下了大家最难忘的本科生活。</p><p>推开门，找个位置坐下。这一次，让我们在一条条蜿蜒的支流里，重新拼凑那个永远向你敞开的“家”。</p><p>【本期主播】</p><p>叶一荷，17期，讨坏型人格在过黄金时代</p><p>钱璐，15期，学术树懒，梦想是去巴黎淋雨和养一只小狗</p><p>陈云奇，13期，吃饭要先吃一口素菜，去美洲要先到南美，违规光荣</p><p>闫志坚，11期，持续转行中</p><p>余林恩，11期，现任邪典群群主</p><p>【你将听到】</p><p>第一部分：从0到1的野生专教史</p><p><a class=\"timestamp\">00:57</a> 罗德学者与“化缘”</p><p><a class=\"timestamp\">02:12</a> 买床、搭蚊帐、购入人体工学椅，“系统性”住人</p><p><a class=\"timestamp\">04:32</a> 睡觉错过周老师探访</p><p><a class=\"timestamp\">06:32</a> 施工废墟与“斯文在兹”</p><p></p><p>第二部分：温柔的“陷阱”——毫无学术生产力，却重塑了精神世界</p><p><a class=\"timestamp\">08:31</a> 专教十二时辰：白天制造“学术垃圾”，深夜拷问“经济增长的极限”</p><p><a class=\"timestamp\">11:24</a> 当旁边有人在睡觉，人与人之间的社交壁垒就瓦解了</p><p><a class=\"timestamp\">12:34</a> 站桩、冥想与随机掉落的分享会</p><p><a class=\"timestamp\">16:26</a> 一个人复习是苦涩，一群人一起是“混乱的幸福”</p><p><a class=\"timestamp\">18:07</a> 专教人类学研究：邪典人与顶级J人</p><p></p><p>第三部分：离别与归属——未尽的缘分在此回响</p><p><a class=\"timestamp\">20:10</a> 想原子化都原子化不了一点</p><p><a class=\"timestamp\">21:45</a> Bongo Cats：屏幕上串门的小猫赛博陪伴</p><p><a class=\"timestamp\">22:54</a> 这个小教室才是你永远的家！</p><p><a class=\"timestamp\">25:25</a> 《我的凉山兄弟》后继有人</p><p><a class=\"timestamp\">29:26</a> 绝对安全的直言场域：你张嘴的时候就已经想好要陷入辩论了</p><p><a class=\"timestamp\">31:58</a> 根植于经典文本的后现代人才</p><p><a class=\"timestamp\">33:54</a>什么是真正的归属感？</p><p><a class=\"timestamp\">39:31</a>专教不是被锁定的记忆，而是向未来敞开的容器</p><figure><img src=\"https://image.xyzcdn.net/FusXZbg2q1TcsaDPLKsOurtl-sax.jpg\"></figure><figure><img src=\"https://image.xyzcdn.net/FjyOdb5JJYNsayEGZ7x80DbkULFI.jpg\"></figure><figure><img src=\"https://image.xyzcdn.net/Fp5Bt5PcANTxqn5hPx9O7MfD53fK.jpg\"></figure><p>【本期staff】</p><p>策划：dopaMine</p><p>后期：培养箱</p><p>【关于我们】</p><p>“文化中国 · 月旦谈”是由浙江大学晨兴文化中国人才计划（简称“文中”）成员共同出品的一档漫谈播客，旨在与听众分享我们在不同生命阶段对人世万物的思考。君子不器，吾道不孤。这份音频礼物，希望能成为文化中国成员和各位听众生活中的陪伴。</p><p></p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69e9d5d51e94ae6921f81836?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FrJU0lnELAH3ebKzUCH9Uy1U7auQ.jpg",
+  "kapitel_quelle": "modell"
+}

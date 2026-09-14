@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_730076880",
+  "apple_collection_id": "1747879057",
+  "show": "【免费】总裁，请矜持|豪门甜宠|职场商战|逆袭反转|现代都市言情|AI多播",
+  "titel": "攻婚有喜：总裁，请矜持 第1集 你这只不下蛋的母鸡！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoKH3FEAFaYIALVSuMZ.m4a?channel=rss&album_id=81892349&track_id=730076880&uid=28156120&jt=https://aod.cos.tx.xmcdn.com/storages/1350-audiofreehighqps/60/9B/GKwRIDoKH3FEAFaYIALVSuMZ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5675040,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:57:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "温氏古董展卖行总经理温淼遭婆婆大闹公司，被当众污蔑并扇耳光。",
+  "kurzfassung": "温淼在公司接待重要客户时，其婆婆李翠兰突然闯入并大声叫骂。李翠兰怀疑温淼在会客室藏匿男人，情绪激动下当众打了温淼一巴掌。面对婆婆的无端指责与羞辱，温淼愤怒地准备叫保安处理。",
+  "stichpunkte": [
+    "土气老太太李翠兰大闹温氏古董展卖行前台，遭到员工阻拦。",
+    "温淼正在地下收藏室向大客户陈述讲解藏品，被助理紧急打断。",
+    "温淼将陈述安置在会客室，赶往前台查看情况。",
+    "李翠兰不听温淼解释，执意前往会客室查岗。",
+    "李翠兰推开会客室大门，看到端坐的陈述后认定温淼偷汉子。",
+    "李翠兰当众扇了温淼一巴掌，并辱骂她是两年不生孩子的母鸡。",
+    "温淼被打后忍无可忍，决定叫保安将李翠兰带走。"
+  ],
+  "kapitel": [
+    {
+      "titel": "大闹前台",
+      "start": 20.4
+    },
+    {
+      "titel": "地下讲解",
+      "start": 47.22
+    },
+    {
+      "titel": "婆婆查岗",
+      "start": 109.8
+    },
+    {
+      "titel": "当众羞辱",
+      "start": 269.58
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:57:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 350,
+  "veroeffentlicht": "2024-05-21T06:34:29+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a3b4-audiofreehighqps/6C/8C/GKwRIUEKHjxvAAUktALU8g7a.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/5a98-audiofreehighqps/4A/D6/CKwRIDoETBv2ACU9UACeYwpe.m4a",
+  "apple_collection_id": "1562939394",
+  "show": "育儿知识：宝宝营养食谱，婴儿饮食方法",
+  "titel": "1、新生儿营养标准",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIDoETBv2ACU9UACeYwpe.m4a?channel=rss&album_id=48601422&track_id=405461587&uid=135370948&jt=https://aod.cos.tx.xmcdn.com/storages/5a98-audiofreehighqps/4A/D6/CKwRIDoETBv2ACU9UACeYwpe.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2440528,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:58:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "详解新生儿营养标准，关乎宝宝生长发育与体质。",
+  "kurzfassung": "新生儿的营养标准对生长发育和体质至关重要。节目详细介绍了新生儿所需的蛋白质、脂肪、氨基酸、热能、糖类以及矿物质等核心营养成分。同时，针对维生素的补充及不同喂养方式的特点也进行了说明。",
+  "stichpunkte": [
+    "足月儿每日每千克体重约需2至3克蛋白质",
+    "脂肪每日总需要量为9至17克，提供100卡热能",
+    "新生儿每日必须足够摄入9种必需氨基酸",
+    "热能需求随出生周数递增，从第一周到第三周及以上逐步增加",
+    "足月儿每天需糖17至34克，母乳与牛乳中的糖分构成有所不同",
+    "矿物质包括常量元素与微量元素，母乳喂养在钙吸收等方面优于牛乳",
+    "健康孕妇分娩的新生儿通常不缺乏维生素，但早产儿或特殊情况需额外补充",
+    "新生儿常规需注射维生素K1以预防出血症"
+  ],
+  "kapitel": [
+    {
+      "titel": "新生儿营养标准概述与蛋白质、脂肪需求",
+      "start": 1.68
+    },
+    {
+      "titel": "氨基酸、热能与糖类需求",
+      "start": 75.6
+    },
+    {
+      "titel": "矿物质与微量元素的摄入",
+      "start": 123.68
+    },
+    {
+      "titel": "维生素的补充与特殊需求",
+      "start": 219.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:58:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 301,
+  "veroeffentlicht": "2021-04-14T02:52:33+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/bcbc-audiofreehighqps/B7/E7/CMCoOSIETBt5AATzbwCeYvJ8.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

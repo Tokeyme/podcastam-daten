@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "666f1217c26e396a3636ccf3",
+  "apple_collection_id": "1728171490",
+  "show": "科技周会 | 人工智能/AI/GPT",
+  "titel": "vol.009 [EN]AI Expo Experience, Machine Unlearning and More",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65b6bb880bef6c207451ef55/666f1217c26e396a3636ccf3/media.xyzcdn.net/lrOqPRaK4yQtvStX0JEDYJukYL_f.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 54231586,
+    "format": "m4a",
+    "geprueft_am": "2026-09-02T19:10:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨近期AI展会见闻、提示词工程的未来及机器学习中的数据遗忘技术。",
+  "kurzfassung": "本期节目回顾了AI展会上的创新产品与大模型初创公司的生存现状。两位主持人探讨了提示词工程是否会消亡以及AGI的未来发展。此外，他们还讨论了机器学习中的“机器遗忘”技术及各大科技公司的最新动态。",
+  "stichpunkte": [
+    "许多AI初创公司面临融资高但缺乏实际营收的困境，部分团队被微软等巨头吸纳。",
+    "展会演示显示，语音交互AI能被打断并迅速回应，但其回答质量仍有提升空间。",
+    "提示词工程在当前形态下可能在未来一两年内消失，但相关人才将转向更高级别的用户互动与定制需求。",
+    "关于AGI的预测认为，纯软件形式的AGI可能在几年内实现，但要完全掌控现实世界则需要更长时间。",
+    "视频生成模型和3D生成技术正在快速发展，预计未来几年内将出现能够一站式生成视频或电影的工具。",
+    "“机器遗忘”是当前研究热点，探讨了如何让大语言模型安全地从训练数据中抹去特定版权或隐私内容。",
+    "主持人提到了使用ReadCube和Adobe Acrobat等带AI功能的工具来阅读和管理学术文章。",
+    "讨论了硬件产品如Rabbit R1的局限性，指出相比初创产品，大企业的硬件发布更具可靠性。"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI展会见闻与初创公司现状",
+      "start": 0.0
+    },
+    {
+      "titel": "提示词工程的未来与AGI展望",
+      "start": 438.38
+    },
+    {
+      "titel": "机器学习中的数据遗忘与文献阅读工具",
+      "start": 1087.02
+    },
+    {
+      "titel": "科技巨头动向与硬件产品评价",
+      "start": 1482.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-02T19:10:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1685,
+  "veroeffentlicht": "2024-06-16T16:25:59+00:00",
+  "beschreibung": "Host: Tracy (@tracyyxchen), Roger (@rogerzhufilm)\nThis podcast episode explores the recent funding trends in AI startups, the challenges faced by smaller startups when competing against big players like Microsoft and Meta, the concept of prompt engineering and its future, the implications of AGI development, the definition of AI and its performance level, the potential of AI in content creation, the concept of machine unlearning in large language models, and the use of AI in PDFs. The conversation also touches on the collaboration between Meta and RayBan, the developments of big tech companies in AI, and the difficulty of finding tech products that live up to their promises.\nTakeaways\nAI startups have been raising billions of dollars in funding, but concerns about a potential bubble arise due to the lack of revenue in many startups.\nSmaller startups face challenges when competing against big players like Microsoft and Meta, leading to dissolution for some teams.\nPrompt engineering may become less relevant as large language models like OpenAI simplify the prompts process, but there will still be special use cases for prompt engineering.\nThe development of AGI and its implications for humans' existence and prompt engineering are topics of ongoing debate.\nThe definition of AI and the desired performance level of AI are discussed, with predictions of fully functioning models fulfilling 99% of desired capabilities in the next two years.\nAI has the potential to revolutionize content creation, with advancements expected in generating scripts, 3D models, and videos.\nMachine unlearning, the ability to make models forget specific data, is a topic of interest for the future as the need to forget confidential or harmful content arises.\nAI features in software like ReadCube and Adobe Acrobat enhance the use of AI in PDFs, allowing for Q&A interactions and understanding complex documents.\nTracking the AI advancements of big tech companies such as Meta, Apple, and Google is important, and finding tech products that deliver on their promises can be challenging.\n\nOutlines\nThe Funding Landscape for AI Startups: Evaluations Soaring to New Heights\n00:00\nStartups and AI Trends: Dissolving Startups, Impressive AI Demos, and Learning Prompts\n03:33\nThe Future of Prompt Engineering and the Evolution of Large Language Models\n07:17\nThoughts on Prompt Engineering and AGI Arrival\n10:59\nProgress towards Advanced AI and the Future of Content Creation\n13:46\nThe Future of AI Content Creation and Machine Unlearning\n16:25\nMachine Unlearning in 2024: Can We Make Models Forget?\n18:21\nUnlearning Techniques and AI Companions\n21:12\nAI and Technology Innovations Discussed, Rabbit R1 Mentioned\n24:32\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>Host: Tracy (@tracyyxchen), Roger (@rogerzhufilm)</p><p>This podcast episode explores the recent funding trends in AI startups, the challenges faced by smaller startups when competing against big players like Microsoft and Meta, the concept of prompt engineering and its future, the implications of AGI development, the definition of AI and its performance level, the potential of AI in content creation, the concept of machine unlearning in large language models, and the use of AI in PDFs. The conversation also touches on the collaboration between Meta and RayBan, the developments of big tech companies in AI, and the difficulty of finding tech products that live up to their promises.</p><p>Takeaways</p><ul>  <li>AI startups have been raising billions of dollars in funding, but concerns about a potential bubble arise due to the lack of revenue in many startups.</li>  <li>Smaller startups face challenges when competing against big players like Microsoft and Meta, leading to dissolution for some teams.</li>  <li>Prompt engineering may become less relevant as large language models like OpenAI simplify the prompts process, but there will still be special use cases for prompt engineering.</li>  <li>The development of AGI and its implications for humans' existence and prompt engineering are topics of ongoing debate.</li>  <li>The definition of AI and the desired performance level of AI are discussed, with predictions of fully functioning models fulfilling 99% of desired capabilities in the next two years.</li>  <li>AI has the potential to revolutionize content creation, with advancements expected in generating scripts, 3D models, and videos.</li>  <li>Machine unlearning, the ability to make models forget specific data, is a topic of interest for the future as the need to forget confidential or harmful content arises.</li>  <li>AI features in software like ReadCube and Adobe Acrobat enhance the use of AI in PDFs, allowing for Q&amp;A interactions and understanding complex documents.</li>  <li>Tracking the AI advancements of big tech companies such as Meta, Apple, and Google is important, and finding tech products that deliver on their promises can be challenging.</li></ul><p>Outlines</p><h3>The Funding Landscape for AI Startups: Evaluations Soaring to New Heights<br>00:00</h3><h3>Startups and AI Trends: Dissolving Startups, Impressive AI Demos, and Learning Prompts<br>03:33</h3><h3>The Future of Prompt Engineering and the Evolution of Large Language Models<br>07:17</h3><h3>Thoughts on Prompt Engineering and AGI Arrival<br>10:59</h3><h3>Progress towards Advanced AI and the Future of Content Creation<br>13:46</h3><h3>The Future of AI Content Creation and Machine Unlearning<br>16:25</h3><h3>Machine Unlearning in 2024: Can We Make Models Forget?<br>18:21</h3><h3>Unlearning Techniques and AI Companions<br>21:12</h3><h3>AI and Technology Innovations Discussed, Rabbit R1 Mentioned<br>24:32</h3><br><a href=\"https://www.xiaoyuzhoufm.com/episode/666f1217c26e396a3636ccf3?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

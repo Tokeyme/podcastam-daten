@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_896238954",
+  "apple_collection_id": "1831422726",
+  "show": "茶道茶艺与健康饮茶",
+  "titel": "1 茶从药用走向饮用的历程",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIMb8AoAELfQAP2I-xQ.m4a?channel=rss&album_id=100960011&track_id=896238954&uid=494277712&jt=https://aod.cos.tx.xmcdn.com/storages/cad1-audiofreehighqps/B5/3F/GKwRIaIMb8AoAELfQAP2I-xQ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4382528,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T19:18:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨茶从古代药用到食用再到唐宋巅峰与现代饮品的文明旅程",
+  "kurzfassung": "本期节目详细梳理了茶在历史上经历的三个重要发展阶段。首先回顾了茶作为解毒灵药的药用起源与历代医书中的应用。接着探讨了茶如何从直接食用和做成茶饼过渡到以茶汤为主的饮用方式。最后讲述了唐宋时期煎茶与点茶法的盛行以及明清以来的茶文化演变。",
+  "stichpunkte": [
+    "神农尝百草的传说赋予了茶最早的解毒与药用光环",
+    "古人将茶视为多面手，《神农本草经》《本草纲目》等医书详细记录其功效",
+    "茶在古代不仅能饮用，还被用于漱口、敷药以及治疗多种常见疾病",
+    "早期茶曾作为食物直接咀嚼，或与谷物、香料煮成粥羹和茶饼",
+    "云南凉拌茶和浙江青豆茶等地方习俗延续了古代的吃茶传统",
+    "唐宋以后随着制茶工艺进步，茶逐渐从吃茶演变为重茶汤滋味的饮品",
+    "唐代陆羽撰写《茶经》，确立了煎茶法并使饮茶上升到艺术层面",
+    "宋代流行讲究细腻泡沫与技艺的“点茶法”，成为文人雅士的生活艺术",
+    "明清时期散茶和沸水冲泡法普及，功夫茶兴起，六大茶类基本形成"
+  ],
+  "kapitel": [
+    {
+      "titel": "茶的药用起源与早期应用",
+      "start": 15.26
+    },
+    {
+      "titel": "从药用到食用的漫长转变",
+      "start": 190.6
+    },
+    {
+      "titel": "唐宋时期的饮茶鼎盛与明清演变",
+      "start": 376.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T19:18:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 541,
+  "veroeffentlicht": "2025-08-06T03:51:46+00:00",
+  "beschreibung": "人类对茶的利用，历经了药用、食用、饮用三个重要阶段。\n\n最初，茶的价值被认知，始于其药用属性。因中国自古有 “药食同源” 的传统，茶的药用与食用阶段常相互交织 —— 这三个阶段虽有先后承启的脉络，却难以用清晰的界限分割。\n\n时至今日，茶已主要作为饮品存在，而茶饮文化也由此成为茶文化最核心的载体与呈现。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">人类对茶的利用，历经了药用、食用、饮用三个重要阶段。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">最初，茶的价值被认知，始于其药用属性。因中国自古有 “药食同源” 的传统，茶的药用与食用阶段常相互交织 —— 这三个阶段虽有先后承启的脉络，却难以用清晰的界限分割。</p><br><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">时至今日，茶已主要作为饮品存在，而茶饮文化也由此成为茶文化最核心的载体与呈现。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2559-audiofreehighqps/F5/BA/GKwRIasMaJKSAAVU7QPyGnFX.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

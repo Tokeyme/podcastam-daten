@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_514612141",
+  "apple_collection_id": "1654463936",
+  "show": "黄奇帆的复旦经济课",
+  "titel": "金融的本质",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEGE1NxAGdQNgEvO4bh-aacv2-48K.m4a?channel=rss&album_id=56546063&track_id=514612141&uid=164124031&jt=https://aod.cos.tx.xmcdn.com/storages/adb4-audiofreehighqps/87/59/GKwRIUEGE1NxAGdQNgEvO4bh-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5091210,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T09:51:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾金融的本质与使命，结合邓小平论述及金融行业的真实面貌寄语毕业生。",
+  "kurzfassung": "本期节目是上海交通大学高级金融学院毕业典礼上的演讲，深入探讨了金融的本质与历史使命。演讲梳理了邓小平关于金融的重要论述，总结了金融作为中介、平衡信用与风险以及服务实体经济的三大本质。同时，主讲人剖析了社会对金融业的种种误解，揭示了行业的真实挑战与高风险，并对即将踏入职场的毕业生提出了期望与要求。",
+  "stichpunkte": [
+    "重温邓小平1991年视察浦东时关于金融是现代经济核心的重要论述",
+    "指出人民币实现资本项下自由兑换和国际化是实现金融强国的标志",
+    "传达习近平总书记关于金融作为国家核心竞争力与实体经济血脉的重要指示",
+    "归纳金融本质的三句话：为有钱人立财与为缺钱人融资、信用杠杆风险、为实体经济服务",
+    "澄清社会对金融业的高薪、垄断和神秘化等种种虚幻错觉与浮华误解",
+    "揭示金融从业的高强度工作常态、为钱发愁的压力、残酷竞争及高风险陷阱",
+    "寄语毕业生坚守初心、脚踏实地、恪尽职守并警惕风险，把青春献给金融事业"
+  ],
+  "kapitel": [
+    {
+      "titel": "邓小平关于金融的重要论述与时代传承",
+      "start": 37.82
+    },
+    {
+      "titel": "金融的本质：中介、杠杆与实体经济",
+      "start": 349.22
+    },
+    {
+      "titel": "拨开迷雾：金融行业的真实面貌与职场挑战",
+      "start": 502.58
+    },
+    {
+      "titel": "寄语毕业生：守住本心与奋斗青春",
+      "start": 713.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T09:51:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 836,
+  "veroeffentlicht": "2022-03-25T09:50:20+00:00",
+  "beschreibung": "金融的本质，归纳起来就是三句话在上海交通大学高级金融学院毕业典礼上的演讲",
+  "beschreibung_html": "金融的本质，归纳起来就是三句话在上海交通大学高级金融学院毕业典礼上的演讲",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a335-audiofreehighqps/17/30/GKwRIaIGE1NVAABxlAEvO3Vu.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

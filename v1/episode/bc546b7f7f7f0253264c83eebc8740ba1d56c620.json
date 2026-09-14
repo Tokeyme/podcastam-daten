@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007393270",
+  "apple_collection_id": "1717763505",
+  "show": "半岛码头",
+  "titel": "vol.147 最后生还者的口供，为什么仅她一人活了下来丨哈马尔达班山难",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEOXB4DASzryQTJWIO0.m4a?channel=rss&album_id=79047268&track_id=1007393270&uid=51211899&jt=https://aod.cos.tx.xmcdn.com/storages/1cbd-audiofreehighqps/8C/94/GKwRIJEOXB4DASzryQTJWIO0.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19721161,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T05:29:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "1993年俄罗斯哈马尔达班山难，七人徒步小队六人离奇死亡，仅一人幸存。",
+  "kurzfassung": "1993年夏天，一支哈萨克斯坦徒步小队在俄罗斯哈马尔达班山脉遭遇恶劣天气。在随后的下山途中，领队和五名队员相继出现口吐白沫、眼部渗血等诡异症状并接连身亡，仅有一名17岁少女幸存。官方最终认定死因与重度失温及高原反应引发的肺水肿有关，但各种民间猜测至今流传。",
+  "stichpunkte": [
+    "1993年8月，七人徒步小队在经验丰富的领队柳德米拉带领下进入哈马尔达班山脉。",
+    "队伍在登顶后遭遇突发暴风雨，被迫在毫无遮挡的高山苔原高地扎营过夜。",
+    "次日清晨队伍艰难下山时，队员萨莎突发抽搐、口吐白沫并眼部渗血，随即死亡。",
+    "领队柳德米拉在查看萨莎遗体时也出现相同症状并迅速身亡。",
+    "其余队员在惊恐中相继出现呼吸困难、抓挠喉咙等症状并接连离奇死去。",
+    "17岁少女瓦伦蒂娜独自逃入树林，在昏迷后醒来并最终获救，成为唯一幸存者。",
+    "官方尸检报告将死因归结为重度失温及急性肺水肿，但死者家属对这一结论表示质疑。",
+    "民间对惨剧原因流传着误食毒蘑菇、军方生化武器实验以及误食乌头草等多种猜测。"
+  ],
+  "kapitel": [
+    {
+      "titel": "少女求救与出征背景",
+      "start": 1.18
+    },
+    {
+      "titel": "恶劣天气与高地扎营",
+      "start": 447.04
+    },
+    {
+      "titel": "队员相继离奇死亡",
+      "start": 978.96
+    },
+    {
+      "titel": "幸存者脱险与官方结论",
+      "start": 1416.38
+    },
+    {
+      "titel": "死因分析与民间猜测",
+      "start": 1738.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T05:29:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2436,
+  "veroeffentlicht": "2026-08-20T10:00:00+00:00",
+  "beschreibung": "1993年8月，6名登山者在哈马尔达班山脉离奇死亡。幸存者目睹同伴口吐白沫、撕扯衣物、眼冒鲜血，26年后才现身讲述这场被风雪掩盖的诡异山难。官方结论是失温与营养不良，但撕碎的外套、七窍流血的尸体和幸存者描述的集体癫狂，至今仍是未解之谜。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>1993</span>年<span>8</span>月，<span>6</span>名登山者在哈马尔达班山脉离奇死亡。幸存者目睹同伴口吐白沫、撕扯衣物、眼冒鲜血，<span>26</span>年后才现身讲述这场被风雪掩盖的诡异山难。官方结论是失温与营养不良，但撕碎的外套、七窍流血的尸体和幸存者描述的集体癫狂，至今仍是未解之谜。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2006-audiofreehighqps/22/9B/GAqhJLsOLgGcAAOL3AS3aGbJ.jpeg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_578126960",
+  "apple_collection_id": "1654465480",
+  "show": "罗小新读书～从0到1",
+  "titel": "【直播回听】创始人悖论",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsHJRppAbL2LAGz3pmP.m4a?channel=rss&album_id=71731296&track_id=578126960&uid=164124031&jt=https://aod.cos.tx.xmcdn.com/storages/3c3b-audiofreehighqps/A6/34/GKwRINsHJRppAbL2LAGz3pmP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 28505644,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T12:36:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨《从0到1》最后一章，分析创始人的特质、悖论与企业命运。",
+  "kurzfassung": "本期节目分享了《从0到1》第14章“创始人的悖论”。主播结合书中案例探讨了特立独行的创始人对企业发展的重要作用与潜在危险。同时，节目讨论了名人效应、替罪羊机制以及企业管理者如何成就他人与独立思考。",
+  "stichpunkte": [
+    "PayPal创始团队成员大多具有特立独行的背景，印证了彼得·蒂尔关于颠覆性创新需要非主流看法的核心思想。",
+    "成功企业家的特质往往呈现非正常的倒钟型分布，兼具局内人与局外人的矛盾身份。",
+    "理查德·布兰森、肖恩·帕克等名人的极端特质与公众形象相互强化，呈现出飞轮效应。",
+    "古代文化中的替罪羊机制与现代名人、科技创业者的陨落现象有着相似的心理与社会逻辑。",
+    "霍华德·休斯、比尔·盖茨与史蒂夫·乔布斯的经历表明，创始人对公司的发展具有无可替代的作用。",
+    "马斯克身上融合了乔布斯的封闭专注与盖茨的系统公关能力，成就了今天的成功。",
+    "创始人的真正价值不在于自身完成多少具体工作，而在于发挥公司每个人的所长并成就他人。",
+    "面对生活与创业的阴暗面，最简单有效的摆脱方法是保持行动节奏，切忌沉溺于外界的追捧或嘲弄。"
+  ],
+  "kapitel": [
+    {
+      "titel": "创始人的悖论与特异特质",
+      "start": 2.3
+    },
+    {
+      "titel": "名人效应与飞轮效应",
+      "start": 403.98
+    },
+    {
+      "titel": "历史神话与替罪羊机制",
+      "start": 750.32
+    },
+    {
+      "titel": "科技界传奇创始人的成败",
+      "start": 1064.22
+    },
+    {
+      "titel": "乔布斯与盖茨的综合体：马斯克",
+      "start": 1292.76
+    },
+    {
+      "titel": "创始人的真正价值与知行合一",
+      "start": 2012.4
+    },
+    {
+      "titel": "未来的四种模式与总结反思",
+      "start": 2488.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T12:36:11+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3521,
+  "veroeffentlicht": "2022-10-19T01:47:02+00:00",
+  "beschreibung": "商界最有争议的问题是——成功是靠运气还是靠技能？",
+  "beschreibung_html": "商界最有争议的问题是——成功是靠运气还是靠技能？",
+  "bild_url": "https://fdfs.xmcdn.com/storages/7943-audiofreehighqps/94/F9/GKwRIJEHITnOAABu_AGyNUE_.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

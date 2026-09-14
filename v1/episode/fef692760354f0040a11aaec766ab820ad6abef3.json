@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_716665038",
+  "apple_collection_id": "1582585222",
+  "show": "电丸科技 | SIGNOW 科技周报",
+  "titel": "潘多拉魔盒已经开启 碳基生命也许只是硅基生命的养分 人类将何去何从SIGNOW",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsJ01oFAbafCQK7lHY6-aacv2-48K.m4a?channel=rss&album_id=52475878&track_id=716665038&uid=58993722&jt=https://aod.cos.tx.xmcdn.com/storages/cfcb-audiofreehighqps/5D/8B/GKwRINsJ01oFAbafCQK7lHY6-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 21613222,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T14:22:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨生物演化理论与科技发展的关系，以及人类与硅基生命的前沿思考。",
+  "kurzfassung": "本期节目探讨了生物演化史上的生态位规律，并将其与科技产品和人工智能的发展进行类比。嘉宾和主持人深入讨论了智人崛起、内卷现象、降维打击以及未来硅基生命是否会取代碳基人类等宏大议题。对话结合了大量古生物学与科技战略的跨界思考。",
+  "stichpunkte": [
+    "人类演化速度极快且不遵循传统自然选择，本质上是通过机械与智能器官“开挂”。",
+    "人工智能展现出极强的涌现性和同一性，未来可能演化出类似于当年智人取代尼安德特人的态势。",
+    "硅基生命若满足自我繁衍和代谢的定义，便可被界定为真正的生命形式。",
+    "内卷环境虽然残酷，但能筛选出适应力极强的物种，类似欧亚大陆真兽类对澳洲有袋类的压制。",
+    "科技产品（如手机、平板和手表）的演化路径往往遵循生态位和新器官诞生的底层逻辑。",
+    "鲸鱼重返海洋和鸟类替代翼龙的案例表明，优势物种降维打击简单生态位是一种有效的生存策略。",
+    "面对增长变慢的时代，过度的内卷并非唯一解，低消耗、自洽的生存状态或许更符合长远演化。"
+  ],
+  "kapitel": [
+    {
+      "titel": "人类演化的独特性与科技类比",
+      "start": 0.0
+    },
+    {
+      "titel": "硅基生命的定义与人工智能的崛起",
+      "start": 294.9
+    },
+    {
+      "titel": "内卷的残酷性与物种竞争规律",
+      "start": 1095.16
+    },
+    {
+      "titel": "生态位理论与科技产品的演化路径",
+      "start": 1773.24
+    },
+    {
+      "titel": "降维打击与未来生存策略",
+      "start": 2350.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T14:22:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3550,
+  "veroeffentlicht": "2024-03-23T10:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5cc2-audiofreehighqps/64/6A/CKwRIJEE-9AjAAzz1gDcDn5z.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

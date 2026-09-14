@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group42/M0A/35/86/wKgJ81qVaObBJJzYAGyqUzKJ8u8105.m4a",
+  "apple_collection_id": "1347115750",
+  "show": "风水脱口秀",
+  "titel": "学了各种选好房子的风水方法，关键时候只需要这两个字",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJ81qVaObBJJzYAGyqUzKJ8u8105.m4a?channel=rss&album_id=12885080&track_id=78150790&uid=104211395&jt=https://aod.cos.tx.xmcdn.com/group42/M0A/35/86/wKgJ81qVaObBJJzYAGyqUzKJ8u8105.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7121491,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T20:09:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "用东和西两个字教你如何快速选择风水好房",
+  "kurzfassung": "节目介绍了一种简单实用的选房风水方法，抛弃复杂流派和罗盘，仅通过“东”和“西”两个方向来挑选房屋。主播详细讲解了如何通过出生年份和性别计算余数，判断自己属于东四命还是西四命。最后，针对东西边户及中间户的门向选择给出了具体指导。",
+  "stichpunkte": [
+    "房子住满七天后便会与居住者的运程产生关系，因此选房风水十分重要",
+    "传统风水流派和罗盘计算过于复杂，在购房和租房时往往派不上用场",
+    "介绍基于钱宅八命理论的最简选房法，核心只需记住“东”和“西”两个字",
+    "男生和女生可以通过出生年份加减并除以9的公式计算出自己的余数",
+    "余数对应东四命或西四命，东四命适合东边户，西四命适合西边户",
+    "多人口家庭选房时，建议以一家之主或赚活钱（如做生意）的人为准进行取舍",
+    "若只能选择中间户，则需通过手机指南针测量入户门的方位来判断吉凶",
+    "门是房子的气口，大门开在命卦对应的吉利方位便能催旺运势"
+  ],
+  "kapitel": [
+    {
+      "titel": "选房与风水的关系",
+      "start": 0.52
+    },
+    {
+      "titel": "传统风水在买房时的局限性",
+      "start": 135.4
+    },
+    {
+      "titel": "用东和西两个字选房",
+      "start": 227.9
+    },
+    {
+      "titel": "如何计算自己的命卦余数",
+      "start": 352.58
+    },
+    {
+      "titel": "家庭成员多时的选房取舍",
+      "start": 490.46
+    },
+    {
+      "titel": "中间户如何通过门向来选房",
+      "start": 650.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T20:09:42+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 879,
+  "veroeffentlicht": "2018-03-22T23:30:01+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group42/M00/25/7E/wKgJ9FqVBlTjTEQZAAFl_WMtVZI106.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

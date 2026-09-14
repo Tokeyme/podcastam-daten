@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_774215150",
+  "apple_collection_id": "1779424471",
+  "show": "名人脱口秀 talk show",
+  "titel": "张踩铃这段超顶 跨国婚姻实在太幽默",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaILCeofAEQvDQMuenma.m4a?channel=rss&album_id=84444396&track_id=774215150&uid=110130545&jt=https://aod.cos.tx.xmcdn.com/storages/3363-audiofreehighqps/FC/C9/GKwRIaILCeofAEQvDQMuenma.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4468493,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T06:19:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "脱口秀演员张踩铃分享跨国婚姻中的幽默趣事与文化差异。",
+  "kurzfassung": "张踩铃在节目中讲述了自己的脱口秀段子，涵盖身高与外貌焦虑、生产时的经历以及外国老公对中国文化的误解。她的丈夫曾误将花圈店当成花店连续几个月送黄菊花，还在铁岭遭遇了谦虚大爷的乒乓球和水库游泳挑战。通过这些跨文化生活中的趣事，她展现了幽默诙谐的夫妻日常。",
+  "stichpunkte": [
+    "张踩铃调侃自己的小眼睛和身高困扰，并分享了生产时打麻药的经历",
+    "她谈到产妇对婴儿外貌的过分关注，并用徐志胜作比进行吐槽",
+    "外国老公在两人交往初期曾连续两个月送她黄菊花和白菊花",
+    "两人前往买花的店铺，发现该店实则是兽医花圈店",
+    "张踩铃的老公不理解中国人的谦虚文化，在铁岭老干部活动中心挑战乒乓球大爷",
+    "老公在柴河水库自信地教二姨夫蛙泳，结果被对方轻松超越",
+    "老公将中国式的谦虚用在了成龙大哥身上，闹出了巨大笑话"
+  ],
+  "kapitel": [
+    {
+      "titel": "外貌与身高的自我调侃",
+      "start": 9.76
+    },
+    {
+      "titel": "生产经历与审美吐槽",
+      "start": 197.22
+    },
+    {
+      "titel": "跨国恋的错位花礼",
+      "start": 341.7
+    },
+    {
+      "titel": "对中国谦虚文化的误解",
+      "start": 494.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T06:19:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 732,
+  "veroeffentlicht": "2024-11-13T04:11:44+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5cde-audiofreehighqps/CA/FA/GKwRIJELCSriAAEmdgMuP06I.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

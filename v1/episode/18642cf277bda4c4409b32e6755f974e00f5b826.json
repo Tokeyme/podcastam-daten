@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_720127054",
+  "apple_collection_id": "1753260500",
+  "show": "【全书免费】史上特大案纪实|悬疑推理|刑侦重案|情杀伦理|疑案悬案|特大凶杀案",
+  "titel": "第一集 八仙饭店杀人案之无名残尸",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsJ4sfgACb9MQLBRsgz-aacv2-48K.m4a?channel=rss&album_id=81209659&track_id=720127054&uid=255288141&jt=https://aod.cos.tx.xmcdn.com/storages/7173-audiofreehighqps/40/DF/GKwRINsJ4sfgACb9MQLBRsgz-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1921643,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:37:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨澳门八仙饭店灭门案，剖析真实惨案与同名电影的背后细节。",
+  "kurzfassung": "节目讲述了轰动一时的澳门八仙饭店灭门案。1985年，澳门黑沙滩浮出人体残肢，警方最初误以为是偷渡客遇难，随后通过打捞出的垃圾袋和断肢切口确认这是一起恶性杀人碎尸案。案件不仅被改编为由黄秋生主演的限制级电影，还在坊间流传出将受害者制成叉烧包售卖的骇人传闻。",
+  "stichpunkte": [
+    "黄秋生凭借电影《八仙饭店之人肉叉烧包》夺得第十三届香港金像奖最佳男演员奖。",
+    "该电影根据澳门八仙饭店灭门案真实事件改编，上映后造成叉烧包销量巨减。",
+    "八仙饭店老板郑林一家十口人遇害，凶手杀人后接管饭店长达一年。",
+    "坊间流传凶手将受害者制成人肉叉烧包售卖的传闻，因包中曾吃出指甲。",
+    "1985年8月8日，澳门黑沙滩退潮后浮出人体残肢，游客立刻报警。",
+    "澳门警方初期因治安背景将浮尸误认为偷渡客遇难，并未加以重视。",
+    "警方在水井打捞出装有断掌的黑色垃圾袋后，推翻海难猜测，确认为碎尸凶杀案。",
+    "现场及后续发现的11只残肢切口整齐，且手指被压扁以刻意毁灭指纹。"
+  ],
+  "kapitel": [
+    {
+      "titel": "电影原型与案件背景",
+      "start": 0.0
+    },
+    {
+      "titel": "黑沙滩浮尸与警方初期调查",
+      "start": 153.2
+    },
+    {
+      "titel": "残肢发现与凶案定性",
+      "start": 227.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:37:42+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 315,
+  "veroeffentlicht": "2024-04-03T07:27:20+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4f1b-audiofreehighqps/3F/0A/GKwRIJIJ4eg8AAh6mwLBBifE.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

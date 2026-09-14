@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_562738064",
+  "apple_collection_id": "1607973828",
+  "show": "大白说电影-豆瓣经典电影专业解说彩蛋细节，深挖让你看懂电影",
+  "titel": "怪化猫之海坊主(详解篇)",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAG1nJHAKa1zQGU2sm7.m4a?channel=rss&album_id=55865574&track_id=562738064&uid=375537113&jt=https://aod.cos.tx.xmcdn.com/storages/3836-audiofreehighqps/AF/0F/GKwRIMAG1nJHAKa1zQGU2sm7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 10925517,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T10:12:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深度解析怪化猫之海坊主篇的妖怪历史、隐藏细节与悲剧内核",
+  "kurzfassung": "节目深入解析了动漫《怪化猫》中“海坊主”篇的故事情节与妖怪传说。两位主播详细梳理了片中的各种视觉隐喻、彩蛋细节以及画面构图。此外，他们还探讨了老和尚内心深处的恐惧与禁忌之恋的悲剧内核。",
+  "stichpunkte": [
+    "探讨海坊主在日本妖怪历史中的传说由来及其与海盗盛行的联系",
+    "分析剧中人物独特的妆容造型与美妆达人般的视觉风格",
+    "指出片中通过门扇背景画、扇子图案变化等进行的视觉暗示",
+    "解析鞋子摆放、金鱼缸与罗盘鱼影等场景的深层隐喻",
+    "讨论致敬克里姆特画作的巨幅画像及其所暗示的禁忌之恋",
+    "剖析老和尚长达数十年的谎言与掩盖内心恐惧的自私心理",
+    "总结各角色在故事中鲜明的欲望表现与对剧情的推动作用"
+  ],
+  "kapitel": [
+    {
+      "titel": "海坊主的历史传说与第一印象",
+      "start": 90.0
+    },
+    {
+      "titel": "细节与视觉隐喻解析",
+      "start": 295.12
+    },
+    {
+      "titel": "人物性格与核心故事内核",
+      "start": 786.28
+    },
+    {
+      "titel": "艺术风格与节目尾声",
+      "start": 913.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T10:12:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1349,
+  "veroeffentlicht": "2022-08-20T09:53:00+00:00",
+  "beschreibung": "怪化猫系列，用浮世绘的画风表现人性故事，越看越上头系列，这是第二集《海坊主》的讲解分析版，希望大家多多评论互动哈~~",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>怪化猫系列，用浮世绘的画风表现人性故事，越看越上头系列，这是第二集《海坊主》的讲解分析版，希望大家多多评论互动哈~~</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5337-audiofreehighqps/65/AB/GMCoOScG1m75AAJm6QGU2XsP.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

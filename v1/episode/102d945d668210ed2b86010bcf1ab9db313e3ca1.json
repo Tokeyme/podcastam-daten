@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1004372525",
+  "apple_collection_id": "1614421160",
+  "show": "听着声音趣旅行",
+  "titel": "被误解的网红景点2",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEORgQtAD6HpATBVb1X.m4a?channel=rss&album_id=16391499&track_id=1004372525&uid=2383761&jt=https://aod.cos.tx.xmcdn.com/storages/70a7-audiofreehighqps/01/AF/GKwRIUEORgQtAD6HpATBVb1X.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4097956,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T17:58:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨厦门曾厝垵与成都太古里等网红景点背后的历史文化与前身。",
+  "kurzfassung": "本期节目探讨了厦门曾厝垵和成都太古里这两个网红景点背后的历史变迁与文化内涵。曾厝垵不仅是文艺渔村，更曾是军事要冲、侨乡和闽南族人的聚居地。成都太古里则以大慈寺为核心，延续了千年的商业传统，将传统川西建筑与现代商业完美融合。",
+  "stichpunkte": [
+    "探讨网红景点背后被忽视的历史与文化内涵。",
+    "厦门曾厝垵被称为中国最文艺的渔村，但其前身是厦门岛东南海岸的海陆钥匙。",
+    "曾厝垵因南宋曾公孙后裔定居而得名，明代起成为军事要冲，并留存了大量华侨建造的南洋风情骑楼与闽南红砖古厝。",
+    "成都太古里不仅是街拍和流量中心，也是中国城市更新的优秀案例。",
+    "太古里中心的大慈寺始建于魏晋，历史上曾是成都的商业最中心和夜市所在地。",
+    "太古里融合了传统川西建筑与现代街区，保留了新庐、广东会馆等历史建筑。",
+    "太古里于2025年被评为中国最美的城区，展现了历史文脉与现代商业的交织。",
+    "透过光鲜亮丽的网红外表，理解地方本真的历史故事才是旅行的真正意义。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目导入",
+      "start": 3.84
+    },
+    {
+      "titel": "厦门的曾厝垵：从海陆要塞到文艺渔村",
+      "start": 67.34
+    },
+    {
+      "titel": "成都的太古里：大慈寺与千年商业史",
+      "start": 262.16
+    },
+    {
+      "titel": "节目尾声",
+      "start": 455.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T17:58:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 506,
+  "veroeffentlicht": "2026-08-03T09:20:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5d02-audiofreehighqps/A1/6A/GKwRIDoORgKTAAWAqgTBVIr3.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

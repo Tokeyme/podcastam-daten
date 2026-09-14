@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007940846",
+  "apple_collection_id": "1664311748",
+  "show": "中国式人情世故：让你知人性、懂人心、通人情",
+  "titel": "傻干的人，领导根本看不见你！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OX1k6ABhCPwTKws3g.m4a?channel=rss&album_id=73636936&track_id=1007940846&uid=19559506&jt=https://aod.cos.tx.xmcdn.com/storages/7ba6-audiofreehighqps/EB/1C/GKwRIW4OX1k6ABhCPwTKws3g.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1589823,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:29:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "揭秘职场晋升逻辑：只会傻干活为何总升不了职？",
+  "kurzfassung": "本期节目探讨了职场中只干活却得不到晋升的根本原因。金峰老师指出，努力完成本职工作只是拿工资的本分，并非升职资本。要想获得提拔，必须懂得职场规则，成为让领导放心的自己人并主动争取发展机会。",
+  "stichpunkte": [
+    "努力工作是拿工资的本分，而不是升迁的资本。",
+    "领导不会将有限的资源和机会浪费在不懂得迎合的人身上。",
+    "任人为亲在领导眼里意味着方向和利益一致的自己人。",
+    "晋升不是靠被动等待公平，而是需要积极向领导靠拢并主动争取。",
+    "只知道傻干活的人永远在基层打转，懂规则、敢争取的人才能上位。",
+    "老实人在职场中往往承担苦活累活，却容易错过功劳和好事。"
+  ],
+  "kapitel": [
+    {
+      "titel": "为什么努力干活却无法晋升",
+      "start": 0.0
+    },
+    {
+      "titel": "第一条：本职工作好并非升职资本",
+      "start": 23.8
+    },
+    {
+      "titel": "第二条：成为让领导放心的自己人",
+      "start": 62.62
+    },
+    {
+      "titel": "第三条：晋升需要主动争取而非等待",
+      "start": 100.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:29:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 196,
+  "veroeffentlicht": "2026-08-22T23:00:12+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e300-audiofreehighqps/DD/C3/GMCoOR8IzLY3AAGelwJWBCbF.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

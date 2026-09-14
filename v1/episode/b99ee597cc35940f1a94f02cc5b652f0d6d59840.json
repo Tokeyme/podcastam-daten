@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_549586881",
+  "apple_collection_id": "1712136717",
+  "show": "民间悬疑蹊跷事儿",
+  "titel": "民间故事：老神仙假装瓜农娶少女",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEGm1W2AFpZjQF4rfBT-aacv2-48K.m4a?channel=rss&album_id=69306401&track_id=549586881&uid=319294586&jt=https://aod.cos.tx.xmcdn.com/storages/87f5-audiofreehighqps/E6/F9/GKwRIUEGm1W2AFpZjQF4rfBT-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4452433,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T06:06:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述南北朝梁武帝御马丢失，意外牵出老神仙与少女白日飞升的民间故事。",
+  "kurzfassung": "南北朝时期，官员因寻找梁武帝的白马结识了一位神秘老瓜农。老瓜农随后求娶官员十八岁的女儿，并送上巨额彩礼。最终真相大白，老瓜农与少女原是天上神仙，双双白日飞升。",
+  "stichpunkte": [
+    "梁武帝的一匹名贵白马在雪天走失，官员韦某循着蹄印在远处一户人家找回白马。",
+    "大冬天里老瓜农切出新鲜西瓜招待众人，令围观者称奇。",
+    "韦某携妻女春游答谢老瓜农，饭桌上开玩笑试探老瓜农的婚配心愿。",
+    "老瓜农语出惊人，指明要娶韦某十八岁的小女儿，韦某大怒离去。",
+    "老瓜农相思成疾，派媒婆带着十万贯巨额彩礼前往韦家求亲。",
+    "韦某女儿拿出幼时所得暗合天意的锦囊，韦家无奈只得答应这门亲事。",
+    "七年后韦某儿子归来见妹妹在卖瓜，欲持剑斩杀张公却剑断人失。",
+    "真相揭晓，张公与文女乃天上仙人与玉女，二人当众乘仙鹤白日飞升。",
+    "故事改编自明代冯梦龙的《玉氏名言》，展现了古人对修仙的奇幻想象。"
+  ],
+  "kapitel": [
+    {
+      "titel": "白马丢失与雪中见瓜",
+      "start": 6.54
+    },
+    {
+      "titel": "春游做客与老农求亲",
+      "start": 207.94
+    },
+    {
+      "titel": "巨额彩礼与锦囊天意",
+      "start": 402.2
+    },
+    {
+      "titel": "白日飞升与故事结语",
+      "start": 600.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T06:06:57+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 731,
+  "veroeffentlicht": "2022-07-06T13:48:20+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4b12-audiofreehighqps/50/71/GMCoOR4Gm1RmAAIw1AF4rIml.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

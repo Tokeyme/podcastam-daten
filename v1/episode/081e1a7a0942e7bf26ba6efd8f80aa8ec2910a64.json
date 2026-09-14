@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "guid": "4f3f9bb0-4d10-4147-bdb5-b4ac011cdc92",
+  "apple_collection_id": "1299826850",
+  "show": "Ridiculous History",
+  "titel": "CLASSIC: Patriots, Prisoners and Plants: The World of Political Body Doubles",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dca0d8ad-e0b8-4a52-a2a8-ae300188d1e2/4f3f9bb0-4d10-4147-bdb5-b4ac011cdc92/audio.mp3?utm_source=Podcast&in_playlist=fe9400d8-dd2a-489f-82d9-ae300188d1eb",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 60882189,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:30:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "A historical look at political body doubles from World War II to modern regimes.",
+  "kurzfassung": "This episode explores the history of political body doubles used by leaders for protection and deception. The hosts examine well-documented cases, including General Bernard Montgomery's decoy during World War II, Joseph Stalin's political decoys, and Saddam Hussein's use of lookalikes. They also discuss the unique challenges, risks, and secrecy surrounding individuals forced into these high-stakes roles.",
+  "stichpunkte": [
+    "Body doubles have historically been used by political and military leaders to evade assassination and mislead opponents.",
+    "During World War II, British intelligence employed an Australian actor named M. E. Clifton James as a body double for General Bernard Montgomery to deceive Nazi forces.",
+    "Joseph Stalin utilized political decoys, such as Felix Dadyev, who maintained strict secrecy and lived under an assumed identity for decades.",
+    "Saddam Hussein and his son Uday used body doubles, often forcing individuals into the roles under extreme coercion.",
+    "Donald Rumsfeld demanded DNA testing upon Saddam Hussein's capture in 2003 to verify his identity against potential body doubles.",
+    "Advancements in photography, video, and digital media have made political body doubles increasingly rare in modern times."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction to Doppelgangers and Body Doubles",
+      "start": 0.0
+    },
+    {
+      "titel": "General Bernard Montgomery and Operation Copperhead",
+      "start": 546.48
+    },
+    {
+      "titel": "Joseph Stalin's Decoys and Felix Dadyev",
+      "start": 1170.2
+    },
+    {
+      "titel": "Saddam Hussein and Uday Hussein's Body Doubles",
+      "start": 1945.52
+    },
+    {
+      "titel": "Other Historical Impostors and Closing Thoughts",
+      "start": 2503.96
+    }
+  ],
+  "clips": [
+    {
+      "hook": "An Australian actor became a British general's decoy.",
+      "start": 641.672,
+      "ende": 661.786,
+      "laenge": 20.11,
+      "byte_start": 10327681,
+      "byte_ende": 10649509,
+      "bytes": 321829,
+      "range_header": "bytes=10327681-10649509",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 641.75,
+      "anker_sha256": "b85ba1ba3cebb29fb479f4ae391da7a111572a0891065e69f6b23f94ca08c2f9",
+      "einblendung_ms": 60,
+      "text": "The hosts digress into a discussion regarding the distinct categories and professional classifications of actors."
+    },
+    {
+      "hook": "A Stalin body double outlived the original by decades.",
+      "start": 1500.918,
+      "ende": 1521.032,
+      "laenge": 20.11,
+      "byte_start": 24075612,
+      "byte_ende": 24397440,
+      "bytes": 321829,
+      "range_header": "bytes=24075612-24397440",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1500.996,
+      "anker_sha256": "031525e955e572f84f304c246bf7221db2ee1de7133ab14c0deb554dd54981fc",
+      "einblendung_ms": 60,
+      "text": "Solitude allows for a unique openness to one's surroundings, which often leads to unexpected social interactions with strangers."
+    },
+    {
+      "hook": "Family members were officially notified that the decoy had died.",
+      "start": 1632.157,
+      "ende": 1652.245,
+      "laenge": 20.09,
+      "byte_start": 26175439,
+      "byte_ende": 26496849,
+      "bytes": 321411,
+      "range_header": "bytes=26175439-26496849",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1632.235,
+      "anker_sha256": "64c8f9dd7da49a8856e02f2d05af5aba155b32958369b9e700914351191a3511",
+      "einblendung_ms": 60,
+      "text": "Iosif Vissarionovich Dzhugashvili rebranded himself as Stalin during his thirties to project an image of strength."
+    },
+    {
+      "hook": "Rumsfeld demanded DNA testing to confirm Saddam's identity.",
+      "start": 2135.876,
+      "ende": 2155.964,
+      "laenge": 20.09,
+      "byte_start": 34234946,
+      "byte_ende": 34556356,
+      "bytes": 321411,
+      "range_header": "bytes=34234946-34556356",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2135.954,
+      "anker_sha256": "ed9e3f827806c8c1ef38d354d7d46bb05b68fa55b81dbda922e8f1af7b6be7dd",
+      "einblendung_ms": 60,
+      "text": "A body double attended the Yalta Conference to represent the Soviet leader during high-stakes negotiations with Churchill and Roosevelt."
+    },
+    {
+      "hook": "Wealthy prisoners could allegedly hire replacement convicts in China.",
+      "start": 2705.711,
+      "ende": 2726.74,
+      "laenge": 21.03,
+      "byte_start": 43352307,
+      "byte_ende": 43688763,
+      "bytes": 336457,
+      "range_header": "bytes=43352307-43688763",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2705.789,
+      "anker_sha256": "97eccefc3d3016b6c10f930c9cacd04ba673e9b118db4d3796b0a00aa02b4dac",
+      "einblendung_ms": 60,
+      "text": "Public skepticism regarding Saddam Hussein’s security detail grew because the guards appeared too relaxed to be protecting the actual dictator."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:30:39+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3008,
+  "veroeffentlicht": "2026-08-22T11:00:00+00:00",
+  "beschreibung": "Has anyone ever told you you resemble a celebrity? Have you ever thought of making this resemblance your job? In today’s Classic episode, Ben, Noel and Casey explore real-life stories of body doubles, from World War II to surprisingly recent events.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Has anyone ever told you you resemble a celebrity? Have you ever thought of making this resemblance your job? In today&rsquo;s Classic episode, Ben, Noel and Casey explore real-life stories of body doubles, from World War II to surprisingly recent events.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dca0d8ad-e0b8-4a52-a2a8-ae300188d1e2/image.jpg?t=1749846060&size=Large",
+  "kapitel_quelle": "modell"
+}

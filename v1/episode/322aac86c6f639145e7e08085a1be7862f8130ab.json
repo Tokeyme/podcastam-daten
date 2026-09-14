@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "guid": "gid://art19-episode-locator/V0/XQ_lNXcP03FaoSL0cXvMCRf7NO0oKHQKNcqSiawfkVQ",
+  "apple_collection_id": "415512829",
+  "show": "The Rizzuto Show | Daily Comedy Podcast",
+  "titel": "DAILY PODCAST: David Koechner And Perv With The Horse's Nose | The Rizzuto Comedy Show",
+  "audio": {
+    "url": "https://mgln.ai/e/345/pscrb.fm/rss/p/clrtpod.com/m/rss.art19.com/episodes/60288d74-4581-4a22-b494-e13b5ad10362.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 163266256,
+    "format": "mp3",
+    "geprueft_am": "2026-09-07T02:52:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst art19.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Comedian David Koechner stops by to talk Anchorman, plus wild weekend stories and weird…",
+  "kurzfassung": "The hosts discuss nighttime routines, unexpected hobbies that spiral out of control, and how a relaxing getaway to a private lake ended with a surprise nap on a boat. Guest David Koechner joins the show to share behind-the-scenes stories from the 20th anniversary of Anchorman and his upcoming comedy shows. The episode also covers bizarre news stories, including a hat-stealing CEO at the US Open and the strange reality of Grimace from McDonald's.",
+  "stichpunkte": [
+    "The hosts compare unusual bedtime routines, including journaling, skincare, and sleeping habits.",
+    "A discussion on hobbies that start cheap but quickly become expensive, such as guitars, fishing, and aquariums.",
+    "The host recounts a disastrous weekend trip to a private lake where taking a hit from a cannabis pen led to passing out on a boat.",
+    "Comedian David Koechner joins the show to discuss the 20th anniversary of Anchorman and share stories from the set.",
+    "Trivia segment featuring questions about Todd Packer from The Office, with special guest Clownvis Presley.",
+    "Weekly roundup of fails involving bizarre crimes, laser pointers, and stolen hats.",
+    "A deep dive into viral internet news, including New York City subway mishaps and the mystery of Grimace."
+  ],
+  "kapitel": [
+    {
+      "titel": "Childhood Horse Stories and Expensive Hobbies",
+      "start": 600.0
+    },
+    {
+      "titel": "Nighttime Routines and Sleep Habits",
+      "start": 1555.96
+    },
+    {
+      "titel": "The Disastrous Lake Weekend and Passing Out on a Boat",
+      "start": 3141.48
+    },
+    {
+      "titel": "David Koechner and Clownvis Join the Show",
+      "start": 5896.06
+    },
+    {
+      "titel": "Anchorman Memories and Trivia",
+      "start": 6269.26
+    },
+    {
+      "titel": "Friday Fails and Weird News",
+      "start": 7496.38
+    },
+    {
+      "titel": "Subway Mishaps and Grimace",
+      "start": 8195.08
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The cousin who made sure the horse ride was unforgettable.",
+      "start": 688.666,
+      "ende": 708.78,
+      "laenge": 20.11,
+      "byte_start": 11194738,
+      "byte_ende": 11516566,
+      "bytes": 321829,
+      "range_header": "bytes=11194738-11516566",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 688.745,
+      "anker_sha256": "250f4de6b02cacd6b1199b3cefba30ee06b4fa3810203f89ecdab647dadeb40b",
+      "einblendung_ms": 60,
+      "text": "A chaotic horseback riding experience quickly turns harmless when the bolting animal abruptly stops on a lawn to graze."
+    },
+    {
+      "hook": "When you're the captain, but you're also completely out of commission.",
+      "start": 3735.118,
+      "ende": 3755.206,
+      "laenge": 20.09,
+      "byte_start": 59937971,
+      "byte_ende": 60259380,
+      "bytes": 321410,
+      "range_header": "bytes=59937971-60259380",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 3735.197,
+      "anker_sha256": "8a06f2a892bab1dbaf49ad68499e78b024b467c7c8edecb4b2a3af3f0f5f9527",
+      "einblendung_ms": 60,
+      "text": "The hosts joke about taking command of a slow-moving boat while inventing a flamboyant nautical persona."
+    },
+    {
+      "hook": "Clownvis Presley makes an unexpected entrance.",
+      "start": 5933.296,
+      "ende": 5953.385,
+      "laenge": 20.09,
+      "byte_start": 95108816,
+      "byte_ende": 95430226,
+      "bytes": 321411,
+      "range_header": "bytes=95108816-95430226",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 5933.375,
+      "anker_sha256": "71cbd1ffd1b6720ff5926b1d4981f3c34af865d5e3cd6a393efd7b0965530916",
+      "einblendung_ms": 60,
+      "text": "Comedy performer Clownvis Presley drops in for a quick visit to chat with his friends on the show."
+    },
+    {
+      "hook": "Who brings life into this world?",
+      "start": 7134.981,
+      "ende": 7155.069,
+      "laenge": 20.09,
+      "byte_start": 114335774,
+      "byte_ende": 114657184,
+      "bytes": 321411,
+      "range_header": "bytes=114335774-114657184",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 7135.06,
+      "anker_sha256": "e49f7c369d629875c6fb9cf91a5f4b1892ec0e6897e731b36433697db1c1281a",
+      "einblendung_ms": 60,
+      "text": "The hosts trade sarcastic remarks while debating who actually deserves credit for biological childbirth."
+    },
+    {
+      "hook": "What is Grimace actually supposed to be?",
+      "start": 10045.989,
+      "ende": 10068.846,
+      "laenge": 22.86,
+      "byte_start": 160911892,
+      "byte_ende": 161277605,
+      "bytes": 365714,
+      "range_header": "bytes=160911892-161277605",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 10046.067,
+      "anker_sha256": "417fbd64c3c64d59e5d2c63855cf009dcc7312d4f622ab1f504a220becaa8245",
+      "einblendung_ms": 60,
+      "text": "The team examines McDonald's promotional lore regarding whether the purple mascot Grimace is actually an anthropomorphic taste bud or a beverage."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-07T02:52:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 10193,
+  "veroeffentlicht": "2026-09-04T11:00:00+00:00",
+  "beschreibung": "Apparently, all it takes to make a normal morning completely fall apart is one Florida man, one unfortunate horse, several questionable bedtime habits, an expensive hobby or twelve, and a group of radio professionals who should probably know when to stop asking follow-up questions.\nWelcome back to The Rizzuto Show, the funny podcast where the news is already ridiculous before we get our grubby little hands on it.\nThings get moving with a Florida story involving a man, a horse named Raven, and behavior that forces Rafe to remind humanity of a very important rule: we do not have to have sex with everything. That seems like something adults shouldn't need explained, yet here we are. The whole disaster also inspires “Just Joe,” the imaginary product nobody asked for but everybody immediately understands. Congratulations to marketing. Please never make this real.\nFrom there, we discover another great way to destroy your dignity: hobbies.\nWhat starts as “I think I’ll try fishing” becomes a garage full of equipment and a bank account begging for mercy. Guitar, golf, aquariums, classic cars, cycling, coffee, gaming, woodworking, bowling and disc golf all get thrown into the financial wood chipper as the gang debates which innocent-looking pastime turns into an expensive lifestyle the fastest. Somewhere, a guy with 11 bowling balls just felt personally attacked.\nThen we crawl into everybody’s bedrooms—which sounds significantly worse than it is—for a breakdown of bedtime routines. Shower before bed? Brush your teeth? Journal? Read? Scroll your phone until your brain becomes soup? Sleep with the door open? Let the pets take over the mattress you technically paid for?\nWe learn that Rizz can apparently postpone an argument until tomorrow and immediately go to sleep, which may qualify as either a superpower or psychopath behavior. Moon has to rethink his sacred nap schedule when the kids are home. Lern wisely refuses to bring her journal anywhere near these people. King Scott reads Nancy Drew aloud to his wife. Somehow, every new detail raises additional questions.\nAnd because this funny podcast refuses to remain in one lane for more than seven consecutive seconds, summer officially gets declared dead, Moon celebrates the closing of the swimming pool he barely uses yet still manages to resent, and the crew gets into the viral US Open mess involving a CEO snatching a tennis player's hat that was intended for a kid. Nothing says “successful businessman” quite like becoming internationally famous for fighting a child over free merchandise.\nIt’s daily comedy, weird news, ridiculous personal stories, St. Louis radio chaos and pop culture commentary held together by sarcasm and whatever caffeine was available before sunrise.\nBasically, another completely normal edition of The Rizzuto Show.\nIf you're looking for a funny podcast featuring Rizz and the gang taking unusual news stories, everyday arguments, celebrity and entertainment chaos, listener feedback and their own questionable life choices far more seriously than necessary, you've found your people.\nWe apologize in advance.\n\nFollow The Rizzuto Show → linktr.ee/rizzshow for more from your favorite daily comedy show.\nConnect with The Rizzuto Show Comedy Podcast online → 1057thepoint.com/RizzShow.\nHear The Rizz Show daily on the radio at 105.7 The Point | Hubbard Radio in St. Louis, MO.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+  "beschreibung_html": "<p>Apparently, all it takes to make a normal morning completely fall apart is one Florida man, one unfortunate horse, several questionable bedtime habits, an expensive hobby or twelve, and a group of radio professionals who should probably know when to stop asking follow-up questions.</p><p>Welcome back to The Rizzuto Show, the <strong>funny podcast</strong> where the news is already ridiculous before we get our grubby little hands on it.</p><p>Things get moving with a Florida story involving a man, a horse named Raven, and behavior that forces Rafe to remind humanity of a very important rule: we do not have to have sex with everything. That seems like something adults shouldn't need explained, yet here we are. The whole disaster also inspires “Just Joe,” the imaginary product nobody asked for but everybody immediately understands. Congratulations to marketing. Please never make this real.</p><p>From there, we discover another great way to destroy your dignity: hobbies.</p><p>What starts as “I think I’ll try fishing” becomes a garage full of equipment and a bank account begging for mercy. Guitar, golf, aquariums, classic cars, cycling, coffee, gaming, woodworking, bowling and disc golf all get thrown into the financial wood chipper as the gang debates which innocent-looking pastime turns into an expensive lifestyle the fastest. Somewhere, a guy with 11 bowling balls just felt personally attacked.</p><p>Then we crawl into everybody’s bedrooms—which sounds significantly worse than it is—for a breakdown of bedtime routines. Shower before bed? Brush your teeth? Journal? Read? Scroll your phone until your brain becomes soup? Sleep with the door open? Let the pets take over the mattress you technically paid for?</p><p>We learn that Rizz can apparently postpone an argument until tomorrow and immediately go to sleep, which may qualify as either a superpower or psychopath behavior. Moon has to rethink his sacred nap schedule when the kids are home. Lern wisely refuses to bring her journal anywhere near these people. King Scott reads Nancy Drew aloud to his wife. Somehow, every new detail raises additional questions.</p><p>And because this <strong>funny podcast</strong> refuses to remain in one lane for more than seven consecutive seconds, summer officially gets declared dead, Moon celebrates the closing of the swimming pool he barely uses yet still manages to resent, and the crew gets into the viral US Open mess involving a CEO snatching a tennis player's hat that was intended for a kid. Nothing says “successful businessman” quite like becoming internationally famous for fighting a child over free merchandise.</p><p>It’s daily comedy, weird news, ridiculous personal stories, St. Louis radio chaos and pop culture commentary held together by sarcasm and whatever caffeine was available before sunrise.</p><p>Basically, another completely normal edition of The Rizzuto Show.</p><p>If you're looking for a <strong>funny podcast</strong> featuring Rizz and the gang taking unusual news stories, everyday arguments, celebrity and entertainment chaos, listener feedback and their own questionable life choices far more seriously than necessary, you've found your people.</p><p>We apologize in advance.</p><p><br></p><p>Follow The Rizzuto Show → linktr.ee/rizzshow for more from your favorite daily comedy show.</p><p>Connect with The Rizzuto Show Comedy Podcast online → 1057thepoint.com/RizzShow.</p><p>Hear The Rizz Show daily on the radio at <strong>105.7 The Point | Hubbard Radio</strong> in <strong>St. Louis, MO.</strong></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+  "bild_url": "https://content.production.cdn.art19.com/images/a1/0a/a0/8d/a10aa08d-df55-4731-9b0b-9f752683b414/fc0fe95edc14ff85562aaa7fc95d7969c52350574b9dc2b908af609da92e77cfdf3d455dc5a7c9ae6362c5a22b9c2f7d71cb28c666bb233d87da6b44133eabb5.jpeg",
+  "schlagworte": [
+    "viral stories",
+    "daily comedy show",
+    "weird news",
+    "funny stories",
+    "comedy talk",
+    "fail stories",
+    "comedy podcast",
+    "hilarious fails",
+    "st. louis daily entertainment",
+    "sports events",
+    "moon valjean",
+    "daily comedy",
+    "stl",
+    "celebrity fails",
+    "celebrity news",
+    "the rizzuto show",
+    "funny news",
+    "radio show",
+    "funny celebrity gossip",
+    "celebrity chaos",
+    "rizz show",
+    "saint louis",
+    "daily humor",
+    "daily podcast",
+    "funny morning show",
+    "king scott",
+    "celeb fails",
+    "comedy talk show",
+    "funny podcast",
+    "st louis",
+    "current events",
+    "celeb chaos",
+    "radio",
+    "daily show",
+    "comedy show",
+    "lern",
+    "rizzuto",
+    "rafe williams",
+    "rizz",
+    "funny show"
+  ],
+  "folgennummer": 1842,
+  "kapitel_quelle": "modell"
+}

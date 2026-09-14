@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "guid": "47c443b6-32dc-4f3f-b4e2-b4aa013f3a17",
+  "apple_collection_id": "1531593864",
+  "show": "Therapy Gecko",
+  "titel": "“I’M TERRIFIED OF POPCORN”",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afdfbe50-5753-4d21-8148-b1fc00e0bb99/47c443b6-32dc-4f3f-b4e2-b4aa013f3a17/audio.mp3?utm_source=Podcast&in_playlist=52737813-d34b-409e-a830-b1fc00e0bbe8",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 67920030,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:11:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Callers discuss a severe popcorn phobia, work crushes, and coping with flat-earther…",
+  "kurzfassung": "Lyle speaks with callers about unusual and difficult personal situations. A 25-year-old man shares his intense, lifelong aversion to popcorn and crunchy snacks. Another caller, August, seeks advice on how to finally ask out a coworker he sees daily. Finally, Alicia talks about managing her relationship with her mother, who fell down a TikTok conspiracy and flat-earth rabbit hole.",
+  "stichpunkte": [
+    "A 25-year-old man named Kyle shares his severe, visceral aversion to popcorn and the smell of it.",
+    "Kyle estimates it would take at least 50,000 dollars to get him to jump naked into a vat of popcorn.",
+    "August calls in because he freezes up every time he tries to talk to a female coworker who shares his nerd interests.",
+    "Lyle encourages August to simply start a casual conversation with her since they already know each other.",
+    "Alicia discusses how her mother became a flat earther and fundamentalist Christian after getting on TikTok around 2018.",
+    "Alicia maintains a healthy boundary by visiting her mother about once a month.",
+    "Lyle announces a bonus episode available on Patreon and reviews recent tour stops."
+  ],
+  "kapitel": [
+    {
+      "titel": "Popcorn Phobia",
+      "start": 0.08
+    },
+    {
+      "titel": "The Coworker Crush",
+      "start": 959.76
+    },
+    {
+      "titel": "The Flat-Earther Mom",
+      "start": 1943.04
+    },
+    {
+      "titel": "Outro and Tour Update",
+      "start": 3330.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Extreme reaction to popcorn",
+      "start": 42.475,
+      "ende": 72.568,
+      "laenge": 30.09,
+      "byte_start": 770454,
+      "byte_ende": 1251942,
+      "bytes": 481489,
+      "range_header": "bytes=770454-1251942",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 42.553,
+      "anker_sha256": "b12208d8b7d27f1871a6b8851612b9f3d7628d56ab062b3dbf021e8c631aaa8b",
+      "einblendung_ms": 60,
+      "text": "Julie Pinheiro explains why she prefers traveling alone and hosts the podcast Solita."
+    },
+    {
+      "hook": "Fifty thousand dollars to dive into popcorn",
+      "start": 534.57,
+      "ende": 554.684,
+      "laenge": 20.11,
+      "byte_start": 8643969,
+      "byte_ende": 8965796,
+      "bytes": 321828,
+      "range_header": "bytes=8643969-8965796",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 534.648,
+      "anker_sha256": "6a85f19de41ee10b6eb8fa47540a3b84a7ca4cfc83670ca391be3301ab737109",
+      "einblendung_ms": 60,
+      "text": "A guest firmly states they will never overcome their severe phobia of popcorn."
+    },
+    {
+      "hook": "Sitting right next to the crush and freezing",
+      "start": 1688.947,
+      "ende": 1710.472,
+      "laenge": 21.52,
+      "byte_start": 27114002,
+      "byte_ende": 27458399,
+      "bytes": 344398,
+      "range_header": "bytes=27114002-27458399",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1689.025,
+      "anker_sha256": "348ee4b604c44f135ba7977a9e5997ce303ca5aca4a8c7465ea199d464ab0d76",
+      "einblendung_ms": 60,
+      "text": "The host and a caller discuss how approachable and welcoming a certain woman appears to be."
+    },
+    {
+      "hook": "A bizarre conspiracy theory about the 1930s",
+      "start": 2109.1,
+      "ende": 2129.189,
+      "laenge": 20.09,
+      "byte_start": 33836458,
+      "byte_ende": 34157867,
+      "bytes": 321410,
+      "range_header": "bytes=33836458-34157867",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2109.179,
+      "anker_sha256": "b5f25ea3a4c7f60bd70e812b9aa13f6df3a52cfc7a55870e7f43643318329587",
+      "einblendung_ms": 60,
+      "text": "Encouraging a caller to simply start a conversation because the other person is charismatic and friendly."
+    },
+    {
+      "hook": "Wild claims about fast food ingredients",
+      "start": 2491.272,
+      "ende": 2511.386,
+      "laenge": 20.11,
+      "byte_start": 39951200,
+      "byte_ende": 40273028,
+      "bytes": 321829,
+      "range_header": "bytes=39951200-40273028",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2491.35,
+      "anker_sha256": "be598962864197e36d29f497f794def39f2ac3148d5d1de6fab84576f9f95837",
+      "einblendung_ms": 60,
+      "text": "Discussing the specific details of consuming lime-flavored beverages."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:11:18+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3590,
+  "veroeffentlicht": "2026-08-23T14:00:00+00:00",
+  "beschreibung": "A caller is terrified of popcorn, a caller longs to talk with their coworker more, and a final caller's mom believes the earth is flat.\nTry it. I am a gecko.\nGET TICKETS FOR THERAPY GECKO LIVE: therapygeckotour.com\nGET BONUS EPISODES: https://www.patreon.com/cw/lyleforever\nfollow me on instagram and I’ll post a story when I’m taking calls: instagram.com/lyle4ever\nGET WEIRD EMAILS FROM ME SOMETIMES BY CLICKING HERE.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>A caller is terrified of popcorn, a caller longs to talk with their coworker more, and a final caller's mom believes the earth is flat.</p> <p>Try it. I am a gecko.</p> <p>GET TICKETS FOR THERAPY GECKO LIVE:&nbsp;<a href=\"https://laylo.com/lyle4ever/m/zZTfe\">therapygeckotour.com</a></p> <p>GET BONUS EPISODES: <a href=\"https://www.patreon.com/cw/lyleforever\">https://www.patreon.com/cw/lyleforever</a></p> <p>follow me on instagram and I&rsquo;ll post a story when I&rsquo;m taking calls: <a href=\"https://www.instagram.com/lyle4ever\">instagram.com/lyle4ever</a></p> <p>GET WEIRD EMAILS FROM ME SOMETIMES BY <a href=\"https://forms.gle/EhuXyJt7PH3UPdtV8\">CLICKING HERE</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/afdfbe50-5753-4d21-8148-b1fc00e0bb99/image.jpg?t=1752697328&size=Large",
+  "kapitel_quelle": "modell"
+}

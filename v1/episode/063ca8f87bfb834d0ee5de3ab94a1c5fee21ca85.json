@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_962803216",
+  "apple_collection_id": "1551296625",
+  "show": "实战正面管教 | 回归自我的家庭教育",
+  "titel": "孩子自愿放下手机，全靠这个心理",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4NiqaDADT9pAR5ev_v.m4a?channel=rss&album_id=46191026&track_id=962803216&uid=138033129&jt=https://aod.cos.tx.xmcdn.com/storages/063b-audiofreehighqps/5B/B5/GKwRIW4NiqaDADT9pAR5ev_v.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3472804,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T13:31:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "通过让孩子看清手机背后的套路与算法设计，激发觉察并主动放下手机。",
+  "kurzfassung": "孩子天生排斥被控制，因此家长与其强行管束，不如引导他们认识到手机和奥特曼玩具一样背后布满套路。当孩子意识到自己被平台算法和多巴胺机制操纵时，往往会产生反感并主动减少使用。此外，可以结合福格行为模型通过闹钟提醒和积极庆祝来打断沉迷，并借助相关书籍和影片加深理解。",
+  "stichpunkte": [
+    "孩子天然排斥被控制，强行管束容易引发抵触情绪。",
+    "通过分析玩具或影视套路，让孩子意识到自己正在被设计和操纵。",
+    "揭示手机软件和算法背后的商业目的，让孩子明白注意力被平台消费的真相。",
+    "培养孩子的觉察能力，当他们意识到像鱼一样被钓起时会主动拒绝操纵。",
+    "利用福格行为模型设计自动化任务，通过五分钟闹钟和庆祝动作打断无意识刷手机。",
+    "改变习惯不需要过度坚持，而是要通过积极反馈让自己感到开心。",
+    "推荐和孩子一起阅读《成瘾》和《福格行为模型》等书籍以了解上瘾机制。",
+    "家长可以与孩子共同制定规则，并通过相关网站获取参考范本。"
+  ],
+  "kapitel": [
+    {
+      "titel": "孩子为什么排斥管束与套路觉察",
+      "start": 1.24
+    },
+    {
+      "titel": "识破手机背后的算法与消费陷阱",
+      "start": 111.78
+    },
+    {
+      "titel": "利用福格行为模型建立打破上瘾的微习惯",
+      "start": 210.24
+    },
+    {
+      "titel": "推荐书单影片及规则制定资源",
+      "start": 324.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T13:31:56+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 428,
+  "veroeffentlicht": "2026-03-14T04:26:27+00:00",
+  "beschreibung": "没人愿意被控制，帮孩子看到，手机 app 背后的机制，在如何操控我们",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">没人愿意被控制，帮孩子看到，手机 app 背后的机制，在如何操控我们</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3d01-audiofreehighqps/5D/3F/GKwRIW4MiuWoAAILAgQFmxTp.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

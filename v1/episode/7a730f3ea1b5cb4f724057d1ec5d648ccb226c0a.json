@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "68819e24a9dec92500e1d3eb",
+  "apple_collection_id": "1776170960",
+  "show": "美股财报随心谈 | 英文播客",
+  "titel": "GOOG 2Q25 财报：万亿Token处理的智能基建革命",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/68819e24a9dec92500e1d3eb/media.xyzcdn.net/67184aa70d2f24f2891fd764/ljJr_gfLPqe4IwidrBygNLG-HG43.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9920073,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T09:16:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深入解析Alphabet 2025年第二季度财报与AI驱动的智能基建革命。",
+  "kurzfassung": "本期节目深入分析了Alphabet 2025年第二季度财报，探讨了AI技术如何全面重塑搜索、Google Cloud及YouTube等核心业务。同时，节目讨论了巨额资本支出、算力供需紧张以及AI基础设施建设带来的商业机遇与挑战。",
+  "stichpunkte": [
+    "Alphabet发布2025年第二季度财报，AI成为各项核心业务增长的基础。",
+    "Google Cloud营收大幅增长32%，运营利润率显著提升，大额订单数量翻倍。",
+    "搜索业务通过AI模式和Gemini应用进行双轨革新，反而带动了搜索量的增加。",
+    "计算资源需求激增导致硬件承压，云端计算供需紧张的局面预计将持续到2026年。",
+    "资本支出预期上调，预计2026年资本支出将达到850亿美元以支撑AI基础设施。",
+    "YouTube持续主导美国流媒体观看时长，Shorts短视频的变现能力迅速赶超传统视频。",
+    "Waymo等长期项目持续获得资金投入，展现出Alphabet在未来市场的宏观布局。"
+  ],
+  "kapitel": [
+    {
+      "titel": "财报概览与AI投资策略",
+      "start": 0.0
+    },
+    {
+      "titel": "搜索业务的AI重塑",
+      "start": 192.12
+    },
+    {
+      "titel": "Google Cloud的强劲表现与基建压力",
+      "start": 364.98
+    },
+    {
+      "titel": "YouTube的发展与短视频变现",
+      "start": 544.66
+    },
+    {
+      "titel": "Waymo进展与AI浪潮的未来展望",
+      "start": 635.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T09:16:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 818,
+  "veroeffentlicht": "2025-07-24T02:46:03+00:00",
+  "beschreibung": "当每月处理的Token数量从480万亿暴增至980万亿，当单季度营收突破964亿美元创历史新高，当AI不再只是功能而成为整个商业帝国的底层架构——Alphabet已经不再是一家普通的搜索公司，它正在成为这个星球AI基础设施的总设计师。本期节目，我们将深度解析Alphabet 2025年Q2财报背后的核心密码，解码这家科技巨头如何在AI浪潮中重新定义搜索、云计算和数字世界的未来版图。\n主播\nAlex, Emily\n主要话题\n00:00 开场：Alphabet Q2业绩全面突破\n00:39 财务表现震撼全球\n01:00 AI基础设施称霸全球\n01:58 Token处理量实现历史性跨越\n02:31 搜索革命：AI重新定义核心业务\n03:25 多模态搜索引领交互革命\n04:15 商业模式成功进化\n05:26 Google Cloud业务王者归来\n06:04 企业AI应用遍地开花\n06:48 供需紧张成最大挑战\n07:38 YouTube统治地位不可撼动\n08:49 Shorts商业化实现完美逆袭\n09:20 订阅业务强势增长\n10:12 Waymo自动驾驶全面扩张\n10:35 2026年：AI代理时代即将到来\n11:13 人才争夺战的制胜法宝\n11:50 深度思考：AI基础设施的战略意义\n12:20 四大增长引擎重新定义谷歌帝国\n12:43 终极展望：当AI成为数字世界的水电煤\n来评论区聊聊吧！ 面对如此巨大的AI基础设施投资，你认为Alphabet能否在2026年实现AI代理的广泛应用承诺？当搜索从被动响应进化为主动执行，这将如何改变我们的数字生活方式？在这场AI基础设施军备竞赛中，谁将成为最终的赢家？\n文字稿链接\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>当每月处理的Token数量从480万亿暴增至980万亿，当单季度营收突破964亿美元创历史新高，当AI不再只是功能而成为整个商业帝国的底层架构——Alphabet已经不再是一家普通的搜索公司，它正在成为这个星球AI基础设施的总设计师。本期节目，我们将深度解析Alphabet 2025年Q2财报背后的核心密码，解码这家科技巨头如何在AI浪潮中重新定义搜索、云计算和数字世界的未来版图。</p><p>主播<br>Alex, Emily</p><p>主要话题</p><p>00:00 开场：Alphabet Q2业绩全面突破</p><p>00:39 财务表现震撼全球</p><p>01:00 AI基础设施称霸全球</p><p>01:58 Token处理量实现历史性跨越</p><p>02:31 搜索革命：AI重新定义核心业务</p><p>03:25 多模态搜索引领交互革命</p><p>04:15 商业模式成功进化</p><p>05:26 Google Cloud业务王者归来</p><p>06:04 企业AI应用遍地开花</p><p>06:48 供需紧张成最大挑战</p><p>07:38 YouTube统治地位不可撼动</p><p>08:49 Shorts商业化实现完美逆袭</p><p>09:20 订阅业务强势增长</p><p>10:12 Waymo自动驾驶全面扩张</p><p>10:35 2026年：AI代理时代即将到来</p><p>11:13 人才争夺战的制胜法宝</p><p>11:50 深度思考：AI基础设施的战略意义</p><p>12:20 四大增长引擎重新定义谷歌帝国</p><p>12:43 终极展望：当AI成为数字世界的水电煤</p><p>来评论区聊聊吧！ 面对如此巨大的AI基础设施投资，你认为Alphabet能否在2026年实现AI代理的广泛应用承诺？当搜索从被动响应进化为主动执行，这将如何改变我们的数字生活方式？在这场AI基础设施军备竞赛中，谁将成为最终的赢家？</p><p><a href=\"https://mp.weixin.qq.com/s/o52y9zSyeh0UN2ilLZJJtA\">文字稿链接</a></p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/68819e24a9dec92500e1d3eb?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_810323594",
+  "apple_collection_id": "1652294243",
+  "show": "带上耳朵去旅行",
+  "titel": "3月旅行必去｜十个宝藏地，藏着春天所有的浪漫",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasLmI3uAGAenQNwfvy-.m4a?channel=rss&album_id=47209366&track_id=810323594&uid=1342948&jt=https://aod.cos.tx.xmcdn.com/storages/3018-audiofreehighqps/27/CD/GKwRIasLmI3uAGAenQNwfvy-.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6299293,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:40:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "盘点十个三月春日宝藏旅行地，解锁大江南北的浪漫花海与古城风情。",
+  "kurzfassung": "主播柠檬香香在本期节目中盘点了十个适合三月打卡的春日旅行胜地。从雪域高原的桃花秘境到西北的油菜花海，再到江南水乡与古城古韵，带领听众领略祖国大江南北不同的春日浪漫与风土人情。节目旨在为听众的春季出行提供灵感指南，鼓励大家奔赴山河。",
+  "stichpunkte": [
+    "西藏林芝：拥有雪域高原的桃花秘境，三四月份可赏桃花、杜鹃与油菜花，嘎拉村是桃花节主场。",
+    "陕西汉中：西北的小江南，百万亩油菜花海在秦巴腹地盛开，兼具巴蜀烟火气与碳水美食。",
+    "浙江安吉：万亩竹海冒出新芽，空气清新，是体验隐世田园生活、露营和品白茶的绝佳去处。",
+    "云南大理：三月气候宜人且处于淡季，可赏大理大学的春樱与洱海风光，感受《有风的地方》同款浪漫。",
+    "贵州毕节：拥有世界上野生杜鹃保存最完好的百里杜鹃，同时可探索威宁草海并品尝丰富美食。",
+    "江苏扬州：烟花三月下扬州，瘦西湖垂柳新绿，各类春花次第开放，古城风雅与市井烟火并存。",
+    "福建漳州：保留了未经商业化的古老闽南文化，拥有世界级文化遗产土楼和东山岛清澈海岸。",
+    "河南洛阳：十三朝古都迎来牡丹花开，不仅能赏珍奇牡丹，还能体验龙门石窟的历史底蕴与亲民美食。",
+    "山东济南：泉城三月春意盎然，趵突泉和大明湖水清景美，街头巷尾充满松弛感。",
+    "新疆喀什：帕米尔高原的塔县在三月迎来杏花如雪的景致，老城茶馆与大巴扎充满浓郁的人文风情。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与三月春日旅行概述",
+      "start": 3.42
+    },
+    {
+      "titel": "第一站：西藏林芝",
+      "start": 139.3
+    },
+    {
+      "titel": "第二站：陕西汉中",
+      "start": 235.8
+    },
+    {
+      "titel": "第三站：浙江安吉",
+      "start": 323.46
+    },
+    {
+      "titel": "第四站：云南大理",
+      "start": 394.82
+    },
+    {
+      "titel": "第五站：贵州毕节",
+      "start": 466.98
+    },
+    {
+      "titel": "第六站：江苏扬州",
+      "start": 552.06
+    },
+    {
+      "titel": "第七站：福建漳州",
+      "start": 613.0
+    },
+    {
+      "titel": "第八站：河南洛阳",
+      "start": 667.86
+    },
+    {
+      "titel": "第九站：山东济南",
+      "start": 764.84
+    },
+    {
+      "titel": "第十站：新疆喀什",
+      "start": 818.14
+    },
+    {
+      "titel": "节目尾声与祝福",
+      "start": 892.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:40:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1033,
+  "veroeffentlicht": "2025-03-01T08:52:27+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8e3f-audiofreehighqps/25/6A/GKwRIUEFhdRxAAIWfgD_wc07.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "guid": "ac492e7a-3cf6-4386-8f7d-b4ad0134afbb",
+  "apple_collection_id": "296237493",
+  "show": "Bloomberg Surveillance",
+  "titel": "Bloomberg Money: Bond Moves, Social Security and the US Open",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1b0c2805-9805-43e6-9662-b4ab0110f413/5027f78a-e49c-4422-a40a-b4ad0133551e/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 38288010,
+    "format": "mp3",
+    "geprueft_am": "2026-08-29T23:44:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Analyzing bond market moves, social security challenges, and the US Open in finance.",
+  "kurzfassung": "The hosts and guests discuss recent shifts in the 30-year bond yield and long-term economic uncertainties. They also examine how younger generations approach wealth building through the stock market and hobbies. Finally, the discussion touches on fiscal policy, upcoming midterm dynamics, and cultural topics like the US Open.",
+  "stichpunkte": [
+    "Long-term bond yields reach 2007 levels, creating new financial planning challenges.",
+    "Data centers become a flashpoint in politics, agitating voters over utility bills and noise.",
+    "Millennials and younger investors shift focus away from traditional housing toward equities and the stock market.",
+    "The 'treat economy' trend shows consumers spending on hobbies and small luxuries amid high major costs.",
+    "Rebecca Patterson emphasizes the need for fiscal austerity and social security reforms to prevent a crisis.",
+    "US Open fan week ticket prices draw criticism for steep increases."
+  ],
+  "kapitel": [
+    {
+      "titel": "Tech, Data Centers, and the Political Landscape",
+      "start": 152.96
+    },
+    {
+      "titel": "Bond Market Shifts and Personal Finance",
+      "start": 268.52
+    },
+    {
+      "titel": "Generational Wealth and the Treat Economy",
+      "start": 1088.48
+    },
+    {
+      "titel": "Culture, Books, and the US Open",
+      "start": 2027.92
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Data center backlash",
+      "start": 198.714,
+      "ende": 218.802,
+      "laenge": 20.09,
+      "byte_start": 3224578,
+      "byte_ende": 3545988,
+      "bytes": 321411,
+      "range_header": "bytes=3224578-3545988",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 198.792,
+      "anker_sha256": "0a464c9f88c100c0d3ad21d5d5898605b4c6a275ec0179ba4460230a5932ff8a",
+      "einblendung_ms": 60,
+      "text": "Local residents push back against large server facilities due to soaring utility costs, heavy noise pollution, and minimal long-term employment opportunities."
+    },
+    {
+      "hook": "How bond yields impact retail investors",
+      "start": 667.402,
+      "ende": 687.517,
+      "laenge": 20.11,
+      "byte_start": 10723602,
+      "byte_ende": 11045429,
+      "bytes": 321828,
+      "range_header": "bytes=10723602-11045429",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 667.481,
+      "anker_sha256": "b491b772fbabebbf7d4ae918e7737cdf0c32136b0087fea95679ff80b6563053",
+      "einblendung_ms": 60,
+      "text": "Investors holding long-term bonds face a delicate balance between earning steady coupon payments and absorbing potential price drops if interest rates climb too quickly."
+    },
+    {
+      "hook": "Fixing Social Security",
+      "start": 970.135,
+      "ende": 993.176,
+      "laenge": 23.04,
+      "byte_start": 15567331,
+      "byte_ende": 15935970,
+      "bytes": 368640,
+      "range_header": "bytes=15567331-15935970",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 970.214,
+      "anker_sha256": "cf1b932fa5c598f70814ae6388b96939dea56e0210c8afdb79eee57f7cc5702d",
+      "einblendung_ms": 60,
+      "text": "Fixing the looming retirement fund shortfall requires raising the retirement age, increasing high-earner contributions, and redirecting payments away from wealthier citizens."
+    },
+    {
+      "hook": "Millennial consumer debt",
+      "start": 1297.737,
+      "ende": 1317.825,
+      "laenge": 20.09,
+      "byte_start": 20808957,
+      "byte_ende": 21130366,
+      "bytes": 321410,
+      "range_header": "bytes=20808957-21130366",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1297.815,
+      "anker_sha256": "87db47e6cce212665b75d43078db9d7920477abc596e9e3d6aa205123f3fc2b5",
+      "einblendung_ms": 60,
+      "text": "Household liabilities excluding home loans—such as credit cards and education debt—are accelerating faster among certain demographic groups."
+    },
+    {
+      "hook": "Personal savings at a four-year low",
+      "start": 1907.592,
+      "ende": 1927.706,
+      "laenge": 20.11,
+      "byte_start": 30566632,
+      "byte_ende": 30888459,
+      "bytes": 321828,
+      "range_header": "bytes=30566632-30888459",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1907.67,
+      "anker_sha256": "0e2af6690de4a1513bb003180a74335f46b2b9dd0a508c98a184150a81dfac0a",
+      "einblendung_ms": 60,
+      "text": "Despite household savings dropping to a four-year low amid stubborn inflation, consumers continue to direct discretionary cash toward personal hobbies."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-29T23:44:37+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2382,
+  "veroeffentlicht": "2026-08-21T20:00:00+00:00",
+  "beschreibung": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom.\nThis week's guests include:\nRebecca Patterson, Senior Fellow at the Council on Foreign Relations\nKevin Gordon, Head of Macro Research & Strategy at Schwab Center for Financial Research\n\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom.</p> <p>This week's guests include:</p> <p>Rebecca Patterson, Senior Fellow at the Council on Foreign Relations</p> <p>Kevin Gordon, Head of Macro Research &amp; Strategy at Schwab Center for Financial Research</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/9739700c-72c3-4176-ae55-ae27003e2b96/image.jpg?t=1705949541&size=Large",
+  "kapitel_quelle": "modell"
+}

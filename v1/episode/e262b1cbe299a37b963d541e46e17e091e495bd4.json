@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19685859",
+  "apple_collection_id": "6799129172",
+  "show": "Peace Over Panic: Life Beyond Anxiety",
+  "titel": "Real People, Real Stories: “I Thought I Was Dying” : Alex’s Story of Health Anxiety, Panic & Faith",
+  "audio": {
+    "url": "https://www.buzzsprout.com/2635348/episodes/19685859-real-people-real-stories-i-thought-i-was-dying-alex-s-story-of-health-anxiety-panic-faith.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 55705754,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T02:06:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Alex shares her lifelong battle with health anxiety and panic attacks.",
+  "kurzfassung": "Alex opens up about experiencing severe health anxiety and panic attacks from a young age, often masking physical symptoms as major medical emergencies. She discusses her journey through therapy, medication, and ultimately finding deep solace in faith and community. The conversation highlights the importance of self-advocacy, self-compassion, and realizing that nobody is alone in their struggles with anxiety.",
+  "stichpunkte": [
+    "Alex experienced undiagnosed anxiety symptoms and hypochondriac fears starting in her teenage years.",
+    "Working in a medical office as a young adult heightened her health anxiety, leading to frequent emergency room visits and EKGs for perceived heart attacks.",
+    "A severe episode of preeclampsia during her second pregnancy further exacerbated her health-related fears.",
+    "Alex experienced her first major panic attack in a drive-thru, which finally convinced her that her physical symptoms stemmed from anxiety rather than a medical emergency.",
+    "She reflects on a challenging childhood with functioning alcoholic parents, noting how early hyper-vigilance evolved into a need for strict control.",
+    "After struggling with medication changes and side effects, she emphasizes the value of exploring different treatment tools while remaining her own advocate.",
+    "Faith and finding a supportive community served as the most sustainable sources of peace and healing in her life.",
+    "Both hosts agree on the danger of letting anxiety isolate individuals and stress the healing power of shared lived experiences."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Alex's Background",
+      "start": 20.72
+    },
+    {
+      "titel": "Early Signs of Anxiety and Medical Fears",
+      "start": 306.4
+    },
+    {
+      "titel": "The Turning Point: The First Panic Attack",
+      "start": 712.72
+    },
+    {
+      "titel": "Navigating Medication, Therapy, and Control",
+      "start": 1005.84
+    },
+    {
+      "titel": "Childhood Trauma and Finding Faith",
+      "start": 1451.2
+    },
+    {
+      "titel": "Traveling with Anxiety and Experiencing Supernatural Peace",
+      "start": 2831.04
+    },
+    {
+      "titel": "Building Community and Choosing Peace Over Panic",
+      "start": 3833.36
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Quit saying I have anxiety",
+      "start": 121.861,
+      "ende": 151.98,
+      "laenge": 30.12,
+      "byte_start": 1503321,
+      "byte_ende": 1864750,
+      "bytes": 361430,
+      "range_header": "bytes=1503321-1864750",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 121.94,
+      "anker_sha256": "a15ca82e2c3cfcaab7020dbd29cb2a8353e6173716aa925c1a7e9865d046131a",
+      "einblendung_ms": 60,
+      "text": "Alex shifts her perspective on mental health by replacing identity-defining labels with temporary descriptions of her current state."
+    },
+    {
+      "hook": "You're having a panic attack",
+      "start": 844.069,
+      "ende": 864.183,
+      "laenge": 20.11,
+      "byte_start": 10169809,
+      "byte_ende": 10411179,
+      "bytes": 241371,
+      "range_header": "bytes=10169809-10411179",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 844.147,
+      "anker_sha256": "a6242b07c331aae091683555fbcf31a87b3e8c5d1900a9640ffc22cc3a6707ef",
+      "einblendung_ms": 60,
+      "text": "A doctor dismisses Alex’s severe physical distress after an EKG reveals only elevated blood sugar levels caused by her recent lemonade consumption."
+    },
+    {
+      "hook": "Anxiety is obsessing over yourself",
+      "start": 2018.952,
+      "ende": 2049.045,
+      "laenge": 30.09,
+      "byte_start": 24268408,
+      "byte_ende": 24629524,
+      "bytes": 361117,
+      "range_header": "bytes=24268408-24629524",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2019.03,
+      "anker_sha256": "d9f1eb286e7a85ae81bc88abf8a836585c4cdaa6c34fe8f73d88a3084db5bf12",
+      "einblendung_ms": 60,
+      "text": "A friend suggests that anxiety often manifests as a hyper-fixation on one's own internal physical and mental sensations."
+    },
+    {
+      "hook": "I got on that plane and did not have a single bit of anxiety",
+      "start": 2976.575,
+      "ende": 3006.668,
+      "laenge": 30.09,
+      "byte_start": 35759882,
+      "byte_ende": 36120998,
+      "bytes": 361117,
+      "range_header": "bytes=35759882-36120998",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2976.653,
+      "anker_sha256": "010b87808b14271df0ae2325a822da7c91263d89ebc0c01dc8d737fd3e630846",
+      "einblendung_ms": 60,
+      "text": "Following a period of prayer, Alex experienced a complete absence of panic symptoms during her entire trip to Paris."
+    },
+    {
+      "hook": "Alex, you can be faithful or you can be fearful",
+      "start": 3859.252,
+      "ende": 3889.345,
+      "laenge": 30.09,
+      "byte_start": 46352013,
+      "byte_ende": 46713129,
+      "bytes": 361117,
+      "range_header": "bytes=46352013-46713129",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3859.331,
+      "anker_sha256": "1c9d6285265d1491f7b75b6eea5cf68afd5208ec8e0093c89f06bde768429f6e",
+      "einblendung_ms": 60,
+      "text": "Alex prioritizes her faith and family as essential tools for maintaining a consistent state of tranquility over fear."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T02:06:08+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4638,
+  "veroeffentlicht": "2026-08-22T16:00:00-05:00",
+  "beschreibung": "Send us Fan Mail\nWhat happens when anxiety has been part of your life for so long that you don't even realize it's anxiety? In the first episode of Real People, Real Stories, Taylor sits down with Peace Over Panic community member Alex to have an honest conversation about what it actually looks like to live with health anxiety and panic, not from a textbook, but from someone who has lived it.\nAlex shares how anxiety showed up long before she had a name for it: stomachaches, trouble sleeping, fear around her health, hypervigilance, and constantly feeling like something might be wrong. Then, in her twenties, a terrifying panic attack in a Chick-fil-A drive-thru changed everything.\nWhat followed was the fear of having another panic attack, physical symptoms that felt impossible to believe were anxiety, health anxiety, medication, therapy, avoidance, and the exhausting desire to feel certain and in control.\nBut this episode isn't only about anxiety.\nAlex and Taylor talk about childhood experiences that can shape the way we seek safety as adults, the shame that can come with struggling with mental health, medication and why there isn't one right path for everyone, and what it means to keep living even when anxiety comes with you.\nThey also have an honest conversation about faith, including struggling with anxiety as a Christian, learning to release control, finding peace in God during the moments that feel impossible, and recognizing that having faith doesn't mean never feeling afraid.\nAlex shares how she went from once having to get off a plane because of panic to traveling to Paris, London, Australia, Japan and beyond , sometimes with anxiety still right beside her.\nBecause healing doesn't always mean you never feel anxious again.\nSometimes it means realizing: I can feel anxious and still live my life.\nIn this episode, we talk about:\nAlex's first panic attack and the moment she realized what she had experienced for years was anxiety\nHealth anxiety and physical symptoms that feel incredibly real\nBecoming afraid of having another panic attack\nHow anxiety and hypervigilance can begin early in life\nThe need for control and learning to accept uncertainty\nMedication, therapy, exercise and finding what works for you\nWhy anxiety can make your world smaller\nThe shame and guilt that often accompany mental health struggles\nFaith, fear and what it means to surrender control to God\nThe importance of community and talking to people who truly understand\nDoing things afraid instead of waiting for anxiety to disappear\nWhat choosing Peace Over Panic means to Alex\n\nIf you've ever thought, “No one understands what this feels like,” this conversation is for you.\nYou are not the only one. You are not alone in this experience. And anxiety does not have to become the whole story of your life.\nReal People, Real Stories is a Peace Over Panic series sharing honest conversations with everyday people who have lived through anxiety, panic, OCD, health anxiety and other mental health struggles, because sometimes one of the most healing things we can hear is simply: “Me too.”\n💛 Follow Peace Over Panic for more real conversations, recovery tools, faith-filled encouragement and reminders that there is life beyond anxiety.",
+  "beschreibung_html": "<p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2635348/fan_mail/new\">Send us Fan Mail</a></p><p>What happens when anxiety has been part of your life for so long that you don&apos;t even realize it&apos;s anxiety? In the first episode of <b>Real People, Real Stories</b>, Taylor sits down with Peace Over Panic community member Alex to have an honest conversation about what it actually looks like to live with health anxiety and panic,  not from a textbook, but from someone who has lived it.</p><p>Alex shares how anxiety showed up long before she had a name for it: stomachaches, trouble sleeping, fear around her health, hypervigilance, and constantly feeling like something might be wrong. Then, in her twenties, a terrifying panic attack in a Chick-fil-A drive-thru changed everything.</p><p>What followed was the fear of having another panic attack, physical symptoms that felt impossible to believe were anxiety, health anxiety, medication, therapy, avoidance, and the exhausting desire to feel certain and in control.</p><p>But this episode isn&apos;t only about anxiety.</p><p>Alex and Taylor talk about childhood experiences that can shape the way we seek safety as adults, the shame that can come with struggling with mental health, medication and why there isn&apos;t one right path for everyone, and what it means to keep living even when anxiety comes with you.</p><p>They also have an honest conversation about faith, including struggling with anxiety as a Christian, learning to release control, finding peace in God during the moments that feel impossible, and recognizing that having faith doesn&apos;t mean never feeling afraid.</p><p>Alex shares how she went from once having to get off a plane because of panic to traveling to Paris, London, Australia, Japan and beyond , sometimes with anxiety still right beside her.</p><p>Because healing doesn&apos;t always mean you never feel anxious again.</p><p>Sometimes it means realizing: <b>I can feel anxious and still live my life.</b></p><p>In this episode, we talk about:</p><ul><li>Alex&apos;s first panic attack and the moment she realized what she had experienced for years was anxiety</li><li>Health anxiety and physical symptoms that feel incredibly real</li><li>Becoming afraid of having another panic attack</li><li>How anxiety and hypervigilance can begin early in life</li><li>The need for control and learning to accept uncertainty</li><li>Medication, therapy, exercise and finding what works for you</li><li>Why anxiety can make your world smaller</li><li>The shame and guilt that often accompany mental health struggles</li><li>Faith, fear and what it means to surrender control to God</li><li>The importance of community and talking to people who truly understand</li><li>Doing things afraid instead of waiting for anxiety to disappear</li><li>What choosing <b>Peace Over Panic</b> means to Alex</li></ul><p>If you&apos;ve ever thought, <em>“No one understands what this feels like,”</em> this conversation is for you.</p><p>You are not the only one. You are not alone in this experience. And anxiety does not have to become the whole story of your life.</p><p><b>Real People, Real Stories</b> is a Peace Over Panic series sharing honest conversations with everyday people who have lived through anxiety, panic, OCD, health anxiety and other mental health struggles, because sometimes one of the most healing things we can hear is simply: <b>“Me too.”</b></p><p>💛 Follow Peace Over Panic for more real conversations, recovery tools, faith-filled encouragement and reminders that there is life beyond anxiety.</p>",
+  "schlagworte": [
+    "health anxiety",
+    "panic attacks",
+    "anxiety recovery",
+    "panic disorder",
+    "health anxiety recovery",
+    "anxiety symptoms",
+    "fear of panic attacks",
+    "physical symptoms of anxiety",
+    "anxiety and faith",
+    "Christian anxiety",
+    "faith over fear",
+    "mental health",
+    "mental health recovery"
+  ],
+  "folgennummer": 5,
+  "kapitel_quelle": "modell",
+  "bild_url": "https://storage.buzzsprout.com/sjhgwad61ovkdh8ox9cypmqcx5fc?.jpg"
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008046200",
+  "apple_collection_id": "1688109539",
+  "show": "阿司每日读书分享",
+  "titel": "【政治哲学】利维坦.-重读mp3",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOYBIGAOPX7gTK9bP0.m4a?channel=rss&album_id=39244251&track_id=1008046200&uid=240393916&jt=https://aod.cos.tx.xmcdn.com/storages/184b-audiofreehighqps/FE/1D/GKwRIJIOYBIGAOPX7gTK9bP0.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 14931950,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T22:18:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "重读托马斯·霍布斯的政治哲学著作《利维坦》，探讨人性、自然状态与国家起源。",
+  "kurzfassung": "本期节目深入解读了哲学家霍布斯的经典著作《利维坦》，探讨了其颠覆传统的政治哲学体系。节目分析了基于欲望与恐惧的普遍人性，并由此推演出人与人相互为敌的自然战争状态。最后，阐述了通过社会契约建立国家的必要性及其对现代国际政治的深远影响。",
+  "stichpunkte": [
+    "霍布斯颠覆了古典政治哲学，试图从现实普遍的人性规律出发来建立政治哲学体系。",
+    "霍布斯经历英国内战，其思想主张国家和政府的混乱是最大的不幸根源。",
+    "霍布斯理论的核心在于深刻发掘人性恶，认为人性的两大最强动力是欲望和恐惧。",
+    "在没有社会的自然状态下，由于人与人能力平等且追求无休止的欲望，必然陷入人人相互为敌的战争状态。",
+    "社会契约论认为，为了克服生存危机，人们必须转让自然权利并创造一个比所有人更强大的力量即国家来维护契约。",
+    "在霍布斯的理论中，国家本身与正义或邪恶无关，其核心职责是作为暴力机构来确保契约的有效执行。",
+    "霍布斯的理论为现代国家使用暴力的必要性做了深刻论证，对理解当代地缘冲突和国际政治仍具重大价值。"
+  ],
+  "kapitel": [
+    {
+      "titel": "霍布斯与《利维坦》的背景",
+      "start": 13.66
+    },
+    {
+      "titel": "《利维坦》的四部分结构",
+      "start": 312.84
+    },
+    {
+      "titel": "人性论：欲望、恐惧与自然状态",
+      "start": 423.32
+    },
+    {
+      "titel": "社会契约与国家的诞生",
+      "start": 898.38
+    },
+    {
+      "titel": "国家的本性：超越正义与邪恶",
+      "start": 1150.38
+    },
+    {
+      "titel": "霍布斯理论的历史反响与现实意义",
+      "start": 1455.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T22:18:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1844,
+  "veroeffentlicht": "2026-08-23T01:36:59+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8ac4-audiofreehighqps/FB/20/GMCoOSMHomp7AAFEAAHvb9Un.png",
+  "folgennummer": 11,
+  "kapitel_quelle": "modell"
+}

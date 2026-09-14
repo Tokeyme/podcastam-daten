@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_999564475",
+  "apple_collection_id": "1522890119",
+  "show": "短篇恐怖悬疑灵异鬼故事 | 恐怖小姐姐",
+  "titel": "不归海誓 3 泳池里的亡魂",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOJTgAADGeMgSz6R3-.m4a?channel=rss&album_id=30083754&track_id=999564475&uid=187288018&jt=https://aod.cos.tx.xmcdn.com/storages/e7f6-audiofreehighqps/DA/6A/GKwRIUEOJTgAADGeMgSz6R3-.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3251762,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T23:12:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "林若曦为逼陈默离婚设计了一场泳池恶作剧，却引出了死去的苏婉。",
+  "kurzfassung": "林若曦穿上红比基尼在泳池假装溺水，企图逼迫陈默克服对前妻苏婉溺水的心魔。陈默跳入水中救援，却在水下遭遇了苏婉腐烂的尸体和长发缠绕。最终陈默因惊吓引发心梗溺亡，林若曦被吓疯送入精神病院。",
+  "stichpunkte": [
+    "林若曦伪造应运单并设计泳池恶作剧，假装溺水逼迫陈默下水。",
+    "陈默为救林若曦跳入泳池，却在水下感受到当年苏婉溺水时的阴凉。",
+    "陈默的手被乌黑的长发死死缠住，辨认出那是苏婉的手。",
+    "一双冰冷腐烂的手死死抓住陈默的脚踝，水池里散发着海水的腥味。",
+    "陈默最终溺水身亡，医生的结论是惊吓引发急性心肌梗死。",
+    "林若曦精神失常被送入精神病院，口中语无伦次地坦白这只是一场玩笑。",
+    "陈默的灵车在运往火葬场途中坠海，尸体最终在不归岛被发现。"
+  ],
+  "kapitel": [
+    {
+      "titel": "泳池恶作剧",
+      "start": 0.0
+    },
+    {
+      "titel": "水下的冤魂",
+      "start": 106.82
+    },
+    {
+      "titel": "悲剧与疯狂",
+      "start": 288.88
+    },
+    {
+      "titel": "不归的宿命",
+      "start": 349.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T23:12:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 401,
+  "veroeffentlicht": "2026-07-09T10:16:17+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group77/M01/EE/D9/wKgO3154adOQ4VWRAAYeYHW4UPk669.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

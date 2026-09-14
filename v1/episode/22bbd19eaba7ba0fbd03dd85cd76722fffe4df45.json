@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "guid": "RcUPLa0I2bE",
+  "apple_collection_id": "1784290225",
+  "show": "The Anthropic AI Daily Brief",
+  "titel": "Claude AI's Excel Integration, Financial Automation, and AI Memory Features",
+  "audio": {
+    "url": "https://media.podcastai.com/episodes/RcUPLa0I2bE.mp3?u=1761582933",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13572911,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:18:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Anthropic integrates Claude into Excel and partners with Aiera for financial services.",
+  "kurzfassung": "Anthropic is embedding its Claude AI assistant directly into Microsoft Excel to transform financial analysis workflows. The company has partnered with Aiera to provide real-time market intelligence and secured a massive deal for Google Tensor Processing Units. Additionally, Anthropic is rolling out new memory features for Claude to help users manage ongoing projects across sessions.",
+  "stichpunkte": [
+    "Claude is integrated directly into Microsoft Excel to assist financial analysts with valuations and modeling.",
+    "The integration addresses the AI black box problem by tracking and explaining every change at the cell level.",
+    "Anthropic partnered with Aiera to bring human-verified investor data into Claude for Financial Services.",
+    "Aiera covers over 45,000 events annually, providing comprehensive macroeconomic and corporate data.",
+    "Anthropic plans to secure around one million Google Tensor Processing Units by 2026 in a deal worth tens of billions.",
+    "Anthropic serves over 300,000 business customers, with large accounts increasing nearly sevenfold in the past year.",
+    "A new memory feature for Claude is now available to Pro and Max users, allowing the AI to remember context across sessions."
+  ],
+  "kapitel": [
+    {
+      "titel": "Claude in Microsoft Excel",
+      "start": 0.399
+    },
+    {
+      "titel": "Aiera Integration for Financial Services",
+      "start": 166.409
+    },
+    {
+      "titel": "Google Cloud Partnership and TPU Expansion",
+      "start": 340.24
+    },
+    {
+      "titel": "Claude Memory Feature for Users",
+      "start": 430.319
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Solving the black box problem in financial AI",
+      "start": 65.567,
+      "ende": 88.424,
+      "laenge": 22.86,
+      "byte_start": 1574557,
+      "byte_ende": 2123127,
+      "bytes": 548571,
+      "range_header": "bytes=1574557-2123127",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 65.646,
+      "anker_sha256": "bc07f8849c8e365e0f64c4c4d260acfa140d82b07cd456cf7efa98312804a20d",
+      "einblendung_ms": 60,
+      "text": "Claude’s new Excel integration allows analysts to build financial models and perform stress tests while maintaining full transparency into the AI's reasoning."
+    },
+    {
+      "hook": "Covering 45,000 financial events annually",
+      "start": 266.266,
+      "ende": 287.034,
+      "laenge": 20.77,
+      "byte_start": 6391327,
+      "byte_ende": 6889743,
+      "bytes": 498417,
+      "range_header": "bytes=6391327-6889743",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 266.344,
+      "anker_sha256": "a8a6ff42336e2fa49ccb63170eca7c81071addb1e280e48976f3ab6b04abec9a",
+      "einblendung_ms": 60,
+      "text": "The CLAWD platform for financial services integrates verified event data from IERA to assist professionals with portfolio management, research, and client advisory tasks."
+    },
+    {
+      "hook": "One million Google TPUs by 2026",
+      "start": 361.639,
+      "ende": 381.753,
+      "laenge": 20.11,
+      "byte_start": 8680281,
+      "byte_ende": 9163023,
+      "bytes": 482743,
+      "range_header": "bytes=8680281-9163023",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 361.718,
+      "anker_sha256": "a7fa18eb2c3afcc450cc5b794ec38f1f27ee996c934b8a026da50fe8201081d5",
+      "einblendung_ms": 60,
+      "text": "New secure dashboards and modular components are transforming how investment firms process data and make split-second decisions."
+    },
+    {
+      "hook": "Enterprise customer growth at Anthropic",
+      "start": 404.898,
+      "ende": 425.012,
+      "laenge": 20.11,
+      "byte_start": 9718492,
+      "byte_ende": 10201233,
+      "bytes": 482742,
+      "range_header": "bytes=9718492-10201233",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 404.976,
+      "anker_sha256": "05719db32127656a7d59a709ffee2607cd5b51bf210828bc9130dca7ace79baf",
+      "einblendung_ms": 60,
+      "text": "Google Cloud CEO Thomas Kurian highlights how Anthropic utilizes massive TPU capacity to improve the cost-efficiency and performance of their AI models."
+    },
+    {
+      "hook": "Claude gets a cross-session memory feature",
+      "start": 432.745,
+      "ende": 454.034,
+      "laenge": 21.29,
+      "byte_start": 10386808,
+      "byte_ende": 10897762,
+      "bytes": 510955,
+      "range_header": "bytes=10386808-10897762",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 432.823,
+      "anker_sha256": "d0849c52319a2cde7825c99f0e644d5025afccda3d279aa1937994b59c65ea79",
+      "einblendung_ms": 60,
+      "text": "Anthropic has seen its large-scale business client base grow by nearly 700% over the last year, necessitating significant infrastructure investments to ensure reliable deployment."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:18:47+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 513,
+  "veroeffentlicht": "2025-10-27T17:00:00+00:00",
+  "beschreibung": "In this episode, we start with an introduction and welcome before delving into Claude AI's integration with Microsoft Excel, addressing the \"black box\" problem. We explore the automation of financial analysis through real-time market data integration and highlight success stories in finance, including a collaboration with Aiera. The discussion covers data integration and security using the Model Context Protocol and examines the role of generative AI in financial workflows alongside Aiera's event coverage. Anthropic's partnership with Google Cloud and investment in AI accelerators are discussed. We introduce Claude's memory feature, considering its implications, and conclude with closing remarks and a subscription reminder.\n\n(0:00) Introduction and welcome to the episode\n(0:29) Claude AI in Microsoft Excel & Overcoming the \"black box\" problem\n(1:27) Real-time market data integration and financial analysis automation\n(2:20) Success stories in finance and Aiera collaboration\n(3:36) Data integration and security with Model Context Protocol\n(4:01) Generative AI in financial workflows and Aiera's event coverage\n(5:40) Anthropic's Google Cloud partnership and investment in AI accelerators\n(7:10) Introducing Claude's memory feature and its implications\n(8:13) Closing remarks and subscription reminder",
+  "beschreibung_html": "In this episode, we start with an introduction and welcome before delving into Claude AI's integration with Microsoft Excel, addressing the \"black box\" problem. We explore the automation of financial analysis through real-time market data integration and highlight success stories in finance, including a collaboration with Aiera. The discussion covers data integration and security using the Model Context Protocol and examines the role of generative AI in financial workflows alongside Aiera's event coverage. Anthropic's partnership with Google Cloud and investment in AI accelerators are discussed. We introduce Claude's memory feature, considering its implications, and conclude with closing remarks and a subscription reminder.\n\n(0:00) Introduction and welcome to the episode\n(0:29) Claude AI in Microsoft Excel & Overcoming the \"black box\" problem\n(1:27) Real-time market data integration and financial analysis automation\n(2:20) Success stories in finance and Aiera collaboration\n(3:36) Data integration and security with Model Context Protocol\n(4:01) Generative AI in financial workflows and Aiera's event coverage\n(5:40) Anthropic's Google Cloud partnership and investment in AI accelerators\n(7:10) Introducing Claude's memory feature and its implications\n(8:13) Closing remarks and subscription reminder",
+  "bild_url": "https://data-1.podcastai.com/shows/6KBha9KI2a95IejKjkdjud/episodes/RcUPLa0I2bE/artwork-62cedd2f.jpg",
+  "folgennummer": 101,
+  "kapitel_quelle": "modell"
+}

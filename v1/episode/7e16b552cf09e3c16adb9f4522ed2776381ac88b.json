@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "6a77e7e0c4079d62c57f79fd",
+  "apple_collection_id": "1718702011",
+  "show": "观未来：AI+教育",
+  "titel": "24.文科生的AI突围战（下）",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6a77e7e0c4079d62c57f79fd/media.xyzcdn.net/654b46b39da6ed7e74bc9764/lkj5Cxg8eJI1rnH838JYcZJd3nC9.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 16231288,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:19:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "文科生如何利用AI实现副业破局，从出卖时间走向构建数字公司和智能体系统。",
+  "kurzfassung": "本期节目探讨文科生如何借助AI实现副业突破。主播安蒙老师介绍了如何打造一个人的数字公司以及从卖时间转向卖系统。最后，节目指出了使用AI过程中的常见误区，并强调文科生的核心优势在于人文素养和提出好问题的能力。",
+  "stichpunkte": [
+    "利用AI摆脱单一的打工心态，将节省的时间用于探索人生更多的可能性。",
+    "借鉴单人数字公司的概念，通过AI构建内容杠杆系统，一人完成多部门的工作。",
+    "发挥文科生对情绪和审美的精准把控，实现内容的裂变、放大与分发。",
+    "改变服务型副业出卖时间的线性收入模式，避免陷入收入天花板。",
+    "将个人专业经验封装为知识库和智能体，打造标准化的数字产品实现被动收入。",
+    "警惕外包给AI带来的路径依赖，必须牢牢掌握裁判权和审美标准。",
+    "注意防范大模型的幻觉，在涉及数据和事实的环节必须进行人工核实。",
+    "AI时代的核心竞争力回归到对世界的独特理解以及提出有价值问题的能力。"
+  ],
+  "kapitel": [
+    {
+      "titel": "从职场效率到副业破局",
+      "start": 11.9
+    },
+    {
+      "titel": "打造一个人的数字公司",
+      "start": 212.92
+    },
+    {
+      "titel": "从卖时间到卖系统的操盘手",
+      "start": 438.54
+    },
+    {
+      "titel": "AI副业避坑指南",
+      "start": 675.64
+    },
+    {
+      "titel": "文科生在AI时代的终极思维",
+      "start": 855.96
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:19:56+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1002,
+  "veroeffentlicht": "2026-08-10T10:00:00+00:00",
+  "beschreibung": "上期我们聊了文科生怎么在职场上用AI完成降维打击，上期结尾我留了一个问题：效率提上来了，省下来的时间，你打算用来干嘛？\n这期就是问题的答案。\n我们聊的不是\"怎么更努力地打工\"，而是怎么把溢出的能力变成真正属于自己的资产。一个人怎么活成一家数字公司，怎么把多年积累的经验从\"卖时间\"变成\"卖系统\"，以及在节目最后，我也给大家泼了一盆冷水，聊了那些文科生最容易踩的AI的坑。\n节目时间线：\n01:10 上期回顾与本期切入：省下来的时间，用来干嘛？\n04:15 一个人的数字公司：从\"发推文\"到\"内容杠杆系统\"\n06:43 从\"卖时间\"到\"卖系统\"：打破收入天花板\n11:39 避坑指南：外包给AI，不代表被AI驾驭\n12:58 避坑指南：迷信\"AI一键搞定\"的代价\n14:24 终局思维：文科生在AI时代的真正护城河\n欢迎加小助手微信guanweilai2026，邀请进群，不定期组织线上会\n播客Intro/Outro音乐：Dusk by Next Route\n记得点赞、收藏、分享和关注我的播客呀，也欢迎留下你的点评。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>上期我们聊了文科生怎么在职场上用AI完成降维打击，上期结尾我留了一个问题：效率提上来了，省下来的时间，你打算用来干嘛？</p><p>这期就是问题的答案。</p><p>我们聊的不是\"怎么更努力地打工\"，而是怎么把溢出的能力变成真正属于自己的资产。一个人怎么活成一家数字公司，怎么把多年积累的经验从\"卖时间\"变成\"卖系统\"，以及在节目最后，我也给大家泼了一盆冷水，聊了那些文科生最容易踩的AI的坑。</p><p>节目时间线：</p><p>01:10 上期回顾与本期切入：省下来的时间，用来干嘛？</p><p>04:15 一个人的数字公司：从\"发推文\"到\"内容杠杆系统\"</p><p>06:43 从\"卖时间\"到\"卖系统\"：打破收入天花板</p><p>11:39 避坑指南：外包给AI，不代表被AI驾驭</p><p>12:58 避坑指南：迷信\"AI一键搞定\"的代价</p><p>14:24 终局思维：文科生在AI时代的真正护城河</p><p><strong>欢迎加小助手微信guanweilai2026，邀请进群，不定期组织线上会</strong></p><p>播客Intro/Outro音乐：Dusk by Next Route</p><p><em>记得点赞、收藏、分享和关注我的播客呀，也欢迎留下你的点评。</em></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a77e7e0c4079d62c57f79fd?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

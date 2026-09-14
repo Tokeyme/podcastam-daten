@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1001093862",
+  "apple_collection_id": "1847006775",
+  "show": "金局｜财经故事",
+  "titel": "百年大豆战争：从种子掠夺到大国粮权博弈",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OLjIqATNExgS3gPrM.m4a?channel=rss&album_id=108145778&track_id=1001093862&uid=521421131&jt=https://aod.cos.tx.xmcdn.com/storages/5c2a-audiofreehighqps/03/4E/GKwRIW4OLjIqATNExgS3gPrM.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20137158,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T07:25:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "中国大豆产业从资源外流到重塑全球供应链与保障粮食安全的历史博弈。",
+  "kurzfassung": "本期节目回顾了中国大豆从本土驯化起源、早期向海外传播，到近代遭遇西方种质资源掠夺与跨国粮商资本绞杀的曲折历程。通过国家战略布局、央企海外供应链建设及应对多轮关税极限施压，中国逐步打破了国际垄断，实现了大豆产业的自主可控。节目最后探讨了中国未来在种业创新与多元化供应链建设方面的重要方向。",
+  "stichpunkte": [
+    "大豆起源于中国，其驯化历史悠久并在古代农业和社会经济中占据核心地位，后通过语言和时间梯次传播到全球。",
+    "西方国家在早期通过系统性掠夺中国大豆种质资源，建立了庞大的资源库并选育出高产品种，助推美国成为全球第一大豆生产国。",
+    "孟山都等跨国公司利用从中国野外采集的样本破译关键基因并抢注专利，引发了国际上关于“生物殖民主义”的争议。",
+    "美国大豆产业依托高度资本化、规模化和巨额联邦补贴形成了结构性成本优势，而中国则面临小农分散经营的劣势。",
+    "2004年的“大豆斩首行动”中，国际资本通过期货市场做多和砸盘使中国70%的内资压榨企业陷入破产与外资并购潮。",
+    "中国政府与中储粮、中粮等央企通过平价抛售储备粮和政策支持，在2008年粮食保卫战中击退外资并逐步夺回国内主导权。",
+    "中粮集团通过海外并购和投资巴西桑托斯港等基础设施，建立了不依赖传统粮商的南美至中国独立运输供应链。",
+    "面对中美多轮关税极限施压，中国将大豆作为反制武器，精准打击美国农业票仓，同时加速实现进口来源的多元化和南美化。"
+  ],
+  "kapitel": [
+    {
+      "titel": "大豆的起源、驯化与早期全球传播",
+      "start": 23.68
+    },
+    {
+      "titel": "种质资源的流失与基因专利博弈",
+      "start": 330.96
+    },
+    {
+      "titel": "中美大豆生产模式与成本差异",
+      "start": 710.88
+    },
+    {
+      "titel": "2004年大豆危机与定价权的丧失",
+      "start": 936.84
+    },
+    {
+      "titel": "国家意志与国产大豆产业的绝地反击",
+      "start": 1205.42
+    },
+    {
+      "titel": "南美供应链布局与自主物流走廊的建立",
+      "start": 1408.66
+    },
+    {
+      "titel": "贸易战与关税极限施压下的全球大豆格局重塑",
+      "start": 1656.96
+    },
+    {
+      "titel": "总结与中国粮食安全的未来展望",
+      "start": 2324.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T07:25:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2487,
+  "veroeffentlicht": "2026-07-16T05:40:19+00:00",
+  "beschreibung": "大豆是发源于中国的农耕瑰宝，如今却演变为牵动全球格局的战略大宗商品。近代以来，我国原生大豆种质遭海外系统性掠夺，美国依靠无偿获取的本土豆种实现产业崛起，跨国企业窃取野生大豆基因搭建全球专利壁垒；中美生产模式的巨大成本差距，叠加 2004 年四大粮商联合美方策划的金融收割，国内大豆压榨产业近乎崩盘，食用油产业链一度被外资牢牢把控，一场围绕种子、资本、定价权的无硝烟战争就此拉开序幕。\n\n面对产业命脉失守的危机，我国开启全方位战略反击。对内依托中储粮、中粮完成市场金融阻击战，出台产业政策收缩外资话语权，逐步夺回本土加工主导权；对外深耕南美布局港口、仓储与铁路，搭建脱离国际粮商垄断的自主供应链。在两轮中美贸易博弈中，大豆更成为关键制衡筹码，推动全球粮油贸易格局永久重构。本期节目完整复盘大豆百年博弈脉络，拆解种源安全、供应链自主的深层逻辑，解读大国粮食安全的长远破局之路。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">大豆是发源于中国的农耕瑰宝，如今却演变为牵动全球格局的战略大宗商品。近代以来，我国原生大豆种质遭海外系统性掠夺，美国依靠无偿获取的本土豆种实现产业崛起，跨国企业窃取野生大豆基因搭建全球专利壁垒；中美生产模式的巨大成本差距，叠加 2004 年四大粮商联合美方策划的金融收割，国内大豆压榨产业近乎崩盘，食用油产业链一度被外资牢牢把控，一场围绕种子、资本、定价权的无硝烟战争就此拉开序幕。<br></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">面对产业命脉失守的危机，我国开启全方位战略反击。对内依托中储粮、中粮完成市场金融阻击战，出台产业政策收缩外资话语权，逐步夺回本土加工主导权；对外深耕南美布局港口、仓储与铁路，搭建脱离国际粮商垄断的自主供应链。在两轮中美贸易博弈中，大豆更成为关键制衡筹码，推动全球粮油贸易格局永久重构。本期节目完整复盘大豆百年博弈脉络，拆解种源安全、供应链自主的深层逻辑，解读大国粮食安全的长远破局之路。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/7567-audiofreehighqps/07/7F/GAqhcW4OLjFoAAM1TgS3gKKL.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

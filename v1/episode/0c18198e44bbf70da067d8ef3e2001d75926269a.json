@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "guid": "https://hlbk.lol/episodes/hp2commentary",
+  "apple_collection_id": "1440694407",
+  "show": "哈利播客",
+  "titel": "电影《哈利·波特与密室》吐槽音轨",
+  "audio": {
+    "url": "https://r.typlog.com/eyJzIjoxNjAyLCJlIjo5ODMxLCJ0IjoxfQ.swXwYgD6-hqYC_H4WmwpUpuY7rc/haliboke/8370270520_95906.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 81556338,
+    "format": "mp3",
+    "geprueft_am": "2026-08-27T11:25:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "两位主播边看电影边吐槽《哈利·波特与密室》的加长版细节与原著差异。",
+  "kurzfassung": "两位主播同步观看电影《哈利·波特与密室》，边看边对剧情、演员表演和道具进行实时吐槽。他们结合原著小说，指出了电影中的多处改编、逻辑漏洞和删减情节。同时，两人还分享了关于魔法世界设定和幕后八卦的各种趣闻。",
+  "stichpunkte": [
+    "哔哩哔哩上的片源时长比IMDB记录的电影标准时长多出十三分钟。",
+    "多比的家养小精灵魔法比巫师更厉害，能够自由出入巫师的结界。",
+    "达力长大后出演了《后翼弃兵》中的象棋手角色。",
+    "福特安格里亚车是罗琳中学最好朋友的车型，带有飞行、隐形和无痕伸展咒。",
+    "韦斯利家的钟从书里的一根指针演变成了每人一根指针。",
+    "飞路粉是专利产品，全英国只有一家公司生产。",
+    "电影把许多高光时刻和台词强加给了赫敏。",
+    "邓格拉斯教授举办决斗俱乐部的场景中，哈利学会了除械咒。",
+    "密室入口所在的女生厕所因为常年有哭泣的桃金娘出没而无人使用。",
+    "凤凰福克斯的眼泪成功治愈了哈利被蛇怪咬伤的剧毒。"
+  ],
+  "kapitel": [
+    {
+      "titel": "电影开场与多比登场",
+      "start": 38.16
+    },
+    {
+      "titel": "德思礼家与飞车逃离",
+      "start": 608.14
+    },
+    {
+      "titel": "韦斯利家与斜角巷",
+      "start": 827.14
+    },
+    {
+      "titel": "开学与打人柳",
+      "start": 1687.66
+    },
+    {
+      "titel": "学校遇袭与决斗俱乐部",
+      "start": 3188.48
+    },
+    {
+      "titel": "禁林探险与密室决战",
+      "start": 7103.9
+    },
+    {
+      "titel": "真相大白与学期结束",
+      "start": 9512.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "多比是按照普京建模的？",
+      "start": 319.944,
+      "ende": 340.032,
+      "laenge": 20.09,
+      "byte_start": 2565874,
+      "byte_ende": 2726577,
+      "bytes": 160704,
+      "range_header": "bytes=2565874-2726577",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 320.016,
+      "anker_sha256": "47e5e674bcccc7c69c8dc3bf7a56eec009e825c3b7b6e9be3d0e235a463402e3",
+      "einblendung_ms": 60,
+      "text": "讨论了多比的外貌特征及其瞬间移动的超能力。"
+    },
+    {
+      "hook": "霍格沃茨特快列车的路线之谜",
+      "start": 1866.048,
+      "ende": 1896.144,
+      "laenge": 30.1,
+      "byte_start": 14934706,
+      "byte_ende": 15175473,
+      "bytes": 240768,
+      "range_header": "bytes=14934706-15175473",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 1866.12,
+      "anker_sha256": "9deb998eb45c996b237ead4dc4ef87be7fb3d125d00eb97b160e4b444af54f0d",
+      "einblendung_ms": 60,
+      "text": "指出霍格沃茨特快列车的行驶路线不合常理。"
+    },
+    {
+      "hook": "魔法世界的胶片是怎么冲洗的？",
+      "start": 4257.72,
+      "ende": 4277.808,
+      "laenge": 20.09,
+      "byte_start": 34068082,
+      "byte_ende": 34228785,
+      "bytes": 160704,
+      "range_header": "bytes=34068082-34228785",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 4257.792,
+      "anker_sha256": "1557933d4c6d201878170608c8056096b8acdc9fb87171efb851e7b03c152b28",
+      "einblendung_ms": 60,
+      "text": "吐槽片中的魔法胶片相机完全违背了现实中的摄影常识。"
+    },
+    {
+      "hook": "哈利波特快要看睡着了",
+      "start": 7061.544,
+      "ende": 7084.08,
+      "laenge": 22.54,
+      "byte_start": 56498674,
+      "byte_ende": 56678961,
+      "bytes": 180288,
+      "range_header": "bytes=56498674-56678961",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 7061.616,
+      "anker_sha256": "210fb07f90b18a4e97a6945633f5a782df25304ce29c3404aad8eb0aca95e00f",
+      "einblendung_ms": 60,
+      "text": "描述了波比强打精神、极力克制睡意继续录音的状态。"
+    },
+    {
+      "hook": "演员看到机械道具凤凰的反应",
+      "start": 9202.44,
+      "ende": 9222.528,
+      "laenge": 20.09,
+      "byte_start": 73625842,
+      "byte_ende": 73786545,
+      "bytes": 160704,
+      "range_header": "bytes=73625842-73786545",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 9202.512,
+      "anker_sha256": "601cbfb8b258615454c673b4acac8ed118fc1693426072e6d88650180c2ffcee",
+      "einblendung_ms": 60,
+      "text": "提到剧组道具凤凰的逼真程度让许多演员感到意外。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-27T11:25:51+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 10193,
+  "veroeffentlicht": "2021-08-23T14:41:39+00:00",
+  "beschreibung": "本次吐槽依然是和我完全不看《哈利·波特》的先生 hb 录的，由于电影过于无聊，中间他数度几乎睡着。\n\n这次为了让大家更容易地找到跟我们完全一致的片源，我们是对着哔哩哔哩上的《哈利·波特与密室》录的。与上一次的吐槽音轨一样，为了保证评论音轨与电影同步，我完全没有剪辑，所以中间会有一阵阵的空白，也会有基于电影画面和音乐的闲聊，强烈建议大家打开电影跟我们一起看，不然基本没有办法听。\n\n再次提醒，我乃死硬原著党，电影哪怕客观上有三颗星，在我这儿最多只能打一星。另外，录音中有大量粗口，不适合儿童。请大家根据自己的喜好选择收听与否。\n\n最后，我想最近做几次直播，带大家一起做写稿之前的精读工作。感兴趣的朋友们可以关注「哈利播客」的哔哩哔哩账号，或者注意公众号的通知。暂时没有精力运营别的社交媒体账号，抱歉啦。小宇宙的评论倒是可以顺手回一回。\n\n喜欢本节目请务必考虑到公众号「哈利播客」或者通过 Paypal 打赏，感谢支持！",
+  "beschreibung_html": "<p>本次吐槽依然是和我完全不看《哈利·波特》的先生 hb 录的，由于电影过于无聊，中间他数度几乎睡着。</p>\n<p>这次为了让大家更容易地找到跟我们完全一致的片源，我们是对着<a href=\"https://www.bilibili.com/bangumi/play/ss28296/?from=search&amp;seid=12565664514638565760\">哔哩哔哩上的《哈利·波特与密室》</a>录的。与上一次的吐槽音轨一样，为了保证评论音轨与电影同步，我完全没有剪辑，所以中间会有一阵阵的空白，也会有基于电影画面和音乐的闲聊，强烈建议大家打开电影跟我们一起看，不然基本没有办法听。</p>\n<p>再次提醒，我乃死硬原著党，电影哪怕客观上有三颗星，在我这儿最多只能打一星。另外，录音中有大量粗口，不适合儿童。请大家根据自己的喜好选择收听与否。</p>\n<p>最后，我想最近做几次直播，带大家一起做写稿之前的精读工作。感兴趣的朋友们可以关注「哈利播客」的哔哩哔哩账号，或者注意公众号的通知。暂时没有精力运营别的社交媒体账号，抱歉啦。小宇宙的评论倒是可以顺手回一回。</p>\n<p>喜欢本节目请务必考虑到公众号「哈利播客」或者通过 <a href=\"https://www.paypal.com/paypalme/hpup\">Paypal 打赏</a>，感谢支持！</p>",
+  "bild_url": "https://i.typlog.com/haliboke/8370270530_957222.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/resize,m_fill,w_1920,h_1920/format,jpg",
+  "kapitel_quelle": "modell"
+}

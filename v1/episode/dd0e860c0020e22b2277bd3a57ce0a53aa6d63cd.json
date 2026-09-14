@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_688337766",
+  "apple_collection_id": "1718478371",
+  "show": "佛教音乐大全",
+  "titel": "2023最美禅乐！听一首《今生我在修佛缘》，心静，心境，心净",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwJOe_LAIubMgKDLbjU.m4a?channel=rss&album_id=79340895&track_id=688337766&uid=14074423&jt=https://aod.cos.tx.xmcdn.com/storages/772e-audiofreehighqps/16/76/GKwRIRwJOe_LAIubMgKDLbjU.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9149234,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T04:26:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "2023最美禅乐《今生我在修佛缘》，聆听纯净心灵的佛教音乐。",
+  "kurzfassung": "本期节目分享了2023年最美禅乐《今生我在修佛缘》。歌词探讨了前世轮回、菩提之心以及今生修行的主题。整首歌曲伴随着梵音与旋律，带给听众宁静祥和的体验。",
+  "stichpunkte": [
+    "李宗盛参与词曲创作的禅乐作品",
+    "歌词围绕惊痛、轮回与传说展开",
+    "世人问佛需怀有一颗纯洁的菩提心",
+    "探讨前世遗愿与今生修行成果",
+    "穿插玛尼经文与莲花等佛教意象",
+    "曲风宁静，引领听众进入佛的天堂"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲前奏与轮回主题",
+      "start": 0.0
+    },
+    {
+      "titel": "菩提之心与今生修行",
+      "start": 144.82
+    },
+    {
+      "titel": "莲花之路与佛国天堂",
+      "start": 307.84
+    },
+    {
+      "titel": "尾声与禅意回荡",
+      "start": 569.72
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T04:26:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1129,
+  "veroeffentlicht": "2023-11-27T05:43:55+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/60f4-audiofreehighqps/BB/96/GKwRIRwJOb4XAAHVhQKDGJvY.jpeg",
+  "kapitel_quelle": "modell"
+}

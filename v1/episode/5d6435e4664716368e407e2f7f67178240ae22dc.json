@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1002972574",
+  "apple_collection_id": "1868205200",
+  "show": "体育科技快讯",
+  "titel": "Vol.020 | 环法直播有了“私人解说”：AI 怎样讲懂集团、时间差与战术？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOO5RAAETU4QS9UNoC.m4a?channel=rss&album_id=114911417&track_id=1002972574&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/1577-audiofreehighqps/2B/ED/GKwRIUEOO5RAAETU4QS9UNoC.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4510945,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T20:04:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "环法上线AI数字观赛功能，如何用个性化解说讲懂复杂的自行车赛？",
+  "kurzfassung": "环法自行车赛本届推出了名为Inside My Race的数字观赛功能，结合实时数据与生成式人工智能为观众提供个性化解说。该功能旨在降低新手观赛门槛，根据观众选择的车手定制比赛故事。不过，节目也指出该技术存在信息盲区、准确率未知及视角局限等风险。",
+  "stichpunkte": [
+    "环法推出首个数字观赛功能Inside My Race，结合实时数据与生成式人工智能。",
+    "观众可选择最多4名喜欢的车手，系统会生成随比赛变化的专属观赛故事与三维地图。",
+    "系统整合了比赛实时数据、官方编辑内容以及图片视频，而非凭空想象赛事。",
+    "功能可根据老车迷或新手等不同阅读场景调整讲解重点，并支持九种语言自动翻译。",
+    "公路自行车赛涉及气流阻力、车队分工与战术突围，固定解说难以兼顾所有观众。",
+    "个性化叙事将庞大的直播切成更小的观察窗口，有助于吸引和留住新观众。",
+    "技术存在局限，生成式AI可能将不完整上下文连接得过于确定，存在编造风险。",
+    "个性化视角会放大所选车手的内容，可能导致忽略其他队伍的重要战术变化。",
+    "官方尚未公开该功能的完整准确率和平均延迟，相关指标仍需持续追问。",
+    "AI叙事应作为观赛向导，正式成绩与时间差仍需以官方页面为准。"
+  ],
+  "kapitel": [
+    {
+      "titel": "环法新推出的AI观赛功能",
+      "start": 10.8
+    },
+    {
+      "titel": "功能的数据来源与个性化叙事",
+      "start": 173.72
+    },
+    {
+      "titel": "自行车赛的复杂性与市场需求",
+      "start": 292.84
+    },
+    {
+      "titel": "AI观赛功能的风险与边界",
+      "start": 385.58
+    },
+    {
+      "titel": "总结与展望",
+      "start": 482.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T20:04:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 557,
+  "veroeffentlicht": "2026-07-26T23:00:00+00:00",
+  "beschreibung": "刚刚结束的 2026 年环法，第一次上线了“Inside My Race”：观众最多可以选择 4 名车手，系统再把集团位置、速度、时间差、地形、官方文字、历史资料、图片和视频，组织成一条随比赛变化的个性化赛事叙事。\n\n它不是多摆一张数据表，也不是“机器人裁判”。生成式 AI 怎样把复杂比赛讲成一条更容易跟上的故事？为什么公路自行车赛特别需要解释集团与战术？“接近实时”又为什么不等于零延迟、更不等于绝对正确？\n这一期，小梅带你拆开环法 AI 观赛功能背后的内容链路，也聊聊个性化带来的便利、视角收窄，以及生成式叙事必须守住的事实边界。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">刚刚结束的 2026 年环法，第一次上线了“Inside My Race”：观众最多可以选择 4 名车手，系统再把集团位置、速度、时间差、地形、官方文字、历史资料、图片和视频，组织成一条随比赛变化的个性化赛事叙事。<br></p><br>它不是多摆一张数据表，也不是“机器人裁判”。生成式 AI 怎样把复杂比赛讲成一条更容易跟上的故事？为什么公路自行车赛特别需要解释集团与战术？“接近实时”又为什么不等于零延迟、更不等于绝对正确？<br>这一期，小梅带你拆开环法 AI 观赛功能背后的内容链路，也聊聊个性化带来的便利、视角收窄，以及生成式叙事必须守住的事实边界。",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8c10-audiofreehighqps/94/56/GAqh9TMOO5NeAAWOrgS9UH-5.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

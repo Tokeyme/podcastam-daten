@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_514830109",
+  "apple_collection_id": "1588299412",
+  "show": "我穿越了综漫和电影世界【后宫】【系统】【穿越】",
+  "titel": "无限穿越预告（想听本系列故事的直接从1010集开始听）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsGFD5-ABtT3gEvm2SW-aacv2-48K.m4a?channel=rss&album_id=51937531&track_id=514830109&uid=120916395&jt=https://aod.cos.tx.xmcdn.com/storages/7fd8-audiofreehighqps/8E/4E/GKwRINsGFD5-ABtT3gEvm2SW-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1347037,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:22:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "无限穿越系列故事预告与多重时空冒险介绍",
+  "kurzfassung": "本集为无限穿越系列故事的预告，提示听众直接从第1010集开始收听本系列。内容融合了多部电影与游戏的经典桥段，展开了一场跨越时空的奇幻冒险。主人公刘玉爱在各个神秘空间中经历险境，完成剧情任务并获得奖励。",
+  "stichpunkte": [
+    "刘玉爱作为新人拥有体力一百和战斗力八的初始属性。",
+    "主线任务为永无止境的生存，剧情如同明天般不断延伸。",
+    "在城堡中遭遇东方不败并拜师的奇特经历。",
+    "与李逍遥相识并获取紫金丹等灵丹妙药。",
+    "提及圣斗士星矢以及自身作为记忆组的荒诞体验。",
+    "经历僵尸、生化危机、三国以及仙剑等多个知名世界。",
+    "通过完成剧情任务兑换装备和技能，招募角色进入不同时空。",
+    "故事结合电影与游戏，充满诙谐搞笑与惊险刺激的元素。"
+  ],
+  "kapitel": [
+    {
+      "titel": "新人身份与初始任务",
+      "start": 2.7
+    },
+    {
+      "titel": "时空穿梭与经典剧情交织",
+      "start": 54.06
+    },
+    {
+      "titel": "多元宇宙与冒险总结",
+      "start": 177.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:22:11+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 221,
+  "veroeffentlicht": "2022-03-26T02:33:30+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ca55-audiofreehighqps/33/0F/CMCoOScE-sZaAAKN8QDbyC4t.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

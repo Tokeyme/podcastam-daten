@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "6a89398c1352af56ff3a2665",
+  "apple_collection_id": "1819845149",
+  "show": "Hao的游戏PM笔记",
+  "titel": "【油管解读】AI产业的钱，被谁赚走了？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64a2eb1e891aae15d26a4a3f/6a89398c1352af56ff3a2665/media.xyzcdn.net/64a2eb1e891aae15d26a4a3f/ljWVEsATmKuBMmP0OTnzhf95R8Nc.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 10015444,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:25:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨AI产业的资金流向，分析半导体、基础设施与应用层的利润分配。",
+  "kurzfassung": "本期节目探讨了生成式AI产业的资金流向与经济学结构。通过分析发现，当前AI生态呈现出与传统互联网不同的“倒三角”形态，半导体与底层基础设施赚走了绝大部分利润，而用户众多的应用层相对不赚钱。此外，节目还讨论了消费级AI的变现焦虑、未来分歧以及普通人可观察的两个重要信号。",
+  "stichpunkte": [
+    "AI生态呈现倒三角结构，最底层的半导体与基础设施赚走了绝大部分收入。",
+    "软件的复制成本趋近于零，而AI应用每增加一个用户都需要消耗真实的算力与显卡。",
+    "消费级AI面临变现焦虑，目前的订阅模式和用户规模远低于传统互联网巨头。",
+    "关于倒三角结构何时翻转、训练与推理的比例以及未来变现主力是广告还是订阅，业内存在分歧。",
+    "ASIC专用芯片的突破是半导体层最大的重新定价信号。",
+    "超大规模厂商的资本开支指引是观察市场均衡是否打破的反向指标。",
+    "游戏等内容团队作为AI的使用方，在应用层普遍不赚钱的背景下反而成为受益者，可以享受更便宜的算力与工具。"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI产业的钱被谁赚走了：倒三角结构",
+      "start": 0.0
+    },
+    {
+      "titel": "消费级AI的变现焦虑与流量对比",
+      "start": 193.36
+    },
+    {
+      "titel": "行业的分歧：结构翻转、推理比例与变现路径",
+      "start": 311.48
+    },
+    {
+      "titel": "不可忽视的两个免费信号",
+      "start": 399.54
+    },
+    {
+      "titel": "游戏项目经理视角下的AI成本与应用",
+      "start": 487.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:25:14+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 620,
+  "veroeffentlicht": "2026-08-22T06:09:20+00:00",
+  "beschreibung": "📝 本期摘要\nHao的游戏PM笔记本期拆解了斯坦福《生成式 AI 的经济学》课程第一课。主讲人、投资机构 Altimeter 的 Apoorva 用一张倒三角图回答了「AI 的钱被谁赚走了」：半导体层赚走最多（英伟达数据中心毛利率约 75%），应用层用户最多却最不赚钱（毛利率 0-30%）。过去两年 AI 新增约 3500 亿美元收入，75% 进了半导体。Hao 结合游戏行业同样「底层赚钱、内容不赚钱」的结构，聊了 AI 功能立项的边际成本、算力价格信号，以及游戏 PM 应该盯住的两个免费信号。\n❓ 本期讨论了这些问题\nAI 生态的钱为什么几乎全被底层赚走，应用层却不赚钱？\n\n为什么 AI 应用不像软件那样边际成本趋近于零？\n\n消费级 AI 的变现，广告和订阅哪个才是主力？\n\n游戏团队做 AI 功能，怎么把持续算力成本算进 Sprint 排期和迭代预算？\n\n游戏 PM 怎么用超大规模厂商的资本开支信号，判断 AI 工具的价格走势？\n\n🔥 本期核心内容\nAI 生态是倒三角，钱在底层不在应用层\n\n英伟达数据中心毛利率约 75%，应用层毛利率 0-30%。过去两年 AI 新增约 3500 亿美元收入，75% 进了半导体，应用层涨了十倍仍没撼动结构。\nAI 应用的边际成本不是零，这是它不像软件的根本原因\n\n软件边际成本趋近于零，能做到 80-90% 毛利率；AI 每个增量用户都要烧 GPU，所以很多大收入规模的 AI 公司仍不赚钱。\n消费 AI 的变现，Apoorva 押广告而非订阅\n\nChatGPT 10 亿用户、95% 免费、人均 10 美元/年，对比 Alphabet 人均 100 美元。订阅撑不起，AI 广告因意图理解、归因清晰而更有定价权。\n两个免费信号：ASIC 突破 + 资本开支指引\n\n哪家自研芯片（TPU/MTIA）大规模跑起来，就是半导体层最大重定价；超大规模厂商财报电话会不再指引大额资本开支，说明均衡不成立。\n对游戏 PM：AI 功能立项要算持续成本，AI 能力要当可复用资产管理\n\n游戏行业同样是「底层赚钱、内容不赚钱」的倒三角。算力价格信号决定工具成本，AI 提效的复利在于经验沉淀为下一次起点，就像敏捷迭代里每次 Sprint 都留下改进。\n🏷️ 本期提到的人物与概念\n人物：Apoorva / Apoorva（Altimeter）\n公司/产品：英伟达 / NVIDIA、OpenAI、Google、Meta、Altimeter、DGX Cloud\n概念：生成式 AI 经济学 / Economics of Generative AI、倒三角结构 / Inverted Triangle、毛利率 / Gross Margin、边际成本 / Marginal Cost、推理与训练 / Inference vs Training、ASIC、TPU、MTIA、资本开支 / CapEx、AI 应用变现 / AI Monetization、敏捷迭代 / Agile Sprint、AI 编程版本管理 / AI Coding Version Control、游戏美术项目管理 / Game Art Project Management、外包验收 / Outsourcing Acceptance\n🔗 延伸话题\nQ：游戏团队怎么把 AI 功能的算力成本算进 Sprint 排期？\nA：AI 功能是持续成本，不是一次性开发成本。立项时按「单次调用成本 × 预估调用量」估算月度账单，放进迭代预算，并设一个「账单超预期」的熔断点，避免功能上线后月底成本失控。\nQ：AI 编程进入版本管理后，哪些检查点必须由人确认？\nA：至少保留变更范围确认、核心分支操作、回滚方案和发布结果验收。AI 可以生成提交说明、检查规范、整理发布清单，但不可逆操作和生产环境变更应由人确认。\nQ：游戏美术外包里，哪些环节适合先交给 AI 初检？\nA：命名规范、文件完整性、交付清单比对和版本差异适合 AI 初检；风格一致性、审美质量和是否满足项目目标，仍需美术负责人或 PM 判断。AI 负责可验收的重复环节，人负责质量判断。\nQ：AI 生态的钱会流向应用层吗？\nA：Apoorva 认为倒三角可能比云（约十年）保持更久，因为把底层做对太难。两个催化剂是 ASIC 突破和超大规模厂商资本开支指引变化。对游戏 PM 来说，与其押注翻转时间，不如先算清自己的成本结构。\n🌐 About This Episode\nIn this episode of Hao's Game PM Notes, Hao breaks down where the money actually flows in the AI stack, from NVIDIA's roughly 75% data center gross margin to the thin margins of AI applications. The episode connects CapEx signals and marginal cost to game project management, agile Sprint planning, and how a game PM should budget for AI features.\n📌 关于 Hao 的游戏 PM 笔记\n「Hao 的游戏 PM 笔记」的知识主场是 pmnote.ai——一本持续生长的「游戏项目经理百科全书」，把 10 年游戏项目管理经验整理成开放知识库。\n主理人 Hao，10 年游戏行业经验，策划转项目经理，持有 PMP / PMI-ACP / PSM / PSPO 认证。\n🗺️ 网站你能翻到什么：\n百科：术语库 · PM 证书指南 · 岗位与 JD 观察 · 3D 沙盘\n\n内容：文章库 · AI for PM · 面试训练场（模拟面试）· 播客\n\n工具箱：游戏 PM 日常可复用的工具与模板\n\n成长服务：系统课程与一对一咨询（进阶可选）\n\n📡 全平台：小宇宙播客 · B 站 · 小红书 · 公众号 · 知乎\n一切从这里开始 → pmnote.ai\n📖 本期延伸阅读\n游戏行业的AI转型，没有人能置身事外\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>📝 <strong>本期摘要</strong></p><img src=\"https://image.xyzcdn.net/Fieir-Pr5wBM8TAaULtduJylLN35.png\"><p>Hao的游戏PM笔记本期拆解了斯坦福《生成式 AI 的经济学》课程第一课。主讲人、投资机构 Altimeter 的 Apoorva 用一张倒三角图回答了「AI 的钱被谁赚走了」：半导体层赚走最多（英伟达数据中心毛利率约 75%），应用层用户最多却最不赚钱（毛利率 0-30%）。过去两年 AI 新增约 3500 亿美元收入，75% 进了半导体。Hao 结合游戏行业同样「底层赚钱、内容不赚钱」的结构，聊了 AI 功能立项的边际成本、算力价格信号，以及游戏 PM 应该盯住的两个免费信号。</p><hr><p>❓ <strong>本期讨论了这些问题</strong></p><ul><li><p>AI 生态的钱为什么几乎全被底层赚走，应用层却不赚钱？</p></li><li><p>为什么 AI 应用不像软件那样边际成本趋近于零？</p></li><li><p>消费级 AI 的变现，广告和订阅哪个才是主力？</p></li><li><p>游戏团队做 AI 功能，怎么把持续算力成本算进 Sprint 排期和迭代预算？</p></li><li><p>游戏 PM 怎么用超大规模厂商的资本开支信号，判断 AI 工具的价格走势？</p></li></ul><hr><p>🔥 <strong>本期核心内容</strong></p><ol><li><p><strong>AI 生态是倒三角，钱在底层不在应用层</strong></p></li></ol><p>英伟达数据中心毛利率约 75%，应用层毛利率 0-30%。过去两年 AI 新增约 3500 亿美元收入，75% 进了半导体，应用层涨了十倍仍没撼动结构。</p><ol><li><p><strong>AI 应用的边际成本不是零，这是它不像软件的根本原因</strong></p></li></ol><p>软件边际成本趋近于零，能做到 80-90% 毛利率；AI 每个增量用户都要烧 GPU，所以很多大收入规模的 AI 公司仍不赚钱。</p><ol><li><p><strong>消费 AI 的变现，Apoorva 押广告而非订阅</strong></p></li></ol><p>ChatGPT 10 亿用户、95% 免费、人均 10 美元/年，对比 Alphabet 人均 100 美元。订阅撑不起，AI 广告因意图理解、归因清晰而更有定价权。</p><ol><li><p><strong>两个免费信号：ASIC 突破 + 资本开支指引</strong></p></li></ol><p>哪家自研芯片（TPU/MTIA）大规模跑起来，就是半导体层最大重定价；超大规模厂商财报电话会不再指引大额资本开支，说明均衡不成立。</p><ol><li><p><strong>对游戏 PM：AI 功能立项要算持续成本，AI 能力要当可复用资产管理</strong></p></li></ol><p>游戏行业同样是「底层赚钱、内容不赚钱」的倒三角。算力价格信号决定工具成本，AI 提效的复利在于经验沉淀为下一次起点，就像敏捷迭代里每次 Sprint 都留下改进。</p><hr><p>🏷️ <strong>本期提到的人物与概念</strong></p><p>人物：Apoorva / Apoorva（Altimeter）</p><p>公司/产品：英伟达 / NVIDIA、OpenAI、Google、Meta、Altimeter、DGX Cloud</p><p>概念：生成式 AI 经济学 / Economics of Generative AI、倒三角结构 / Inverted Triangle、毛利率 / Gross Margin、边际成本 / Marginal Cost、推理与训练 / Inference vs Training、ASIC、TPU、MTIA、资本开支 / CapEx、AI 应用变现 / AI Monetization、敏捷迭代 / Agile Sprint、AI 编程版本管理 / AI Coding Version Control、游戏美术项目管理 / Game Art Project Management、外包验收 / Outsourcing Acceptance</p><hr><p>🔗 <strong>延伸话题</strong></p><p>Q：游戏团队怎么把 AI 功能的算力成本算进 Sprint 排期？</p><p>A：AI 功能是持续成本，不是一次性开发成本。立项时按「单次调用成本 × 预估调用量」估算月度账单，放进迭代预算，并设一个「账单超预期」的熔断点，避免功能上线后月底成本失控。</p><p>Q：AI 编程进入版本管理后，哪些检查点必须由人确认？</p><p>A：至少保留变更范围确认、核心分支操作、回滚方案和发布结果验收。AI 可以生成提交说明、检查规范、整理发布清单，但不可逆操作和生产环境变更应由人确认。</p><p>Q：游戏美术外包里，哪些环节适合先交给 AI 初检？</p><p>A：命名规范、文件完整性、交付清单比对和版本差异适合 AI 初检；风格一致性、审美质量和是否满足项目目标，仍需美术负责人或 PM 判断。AI 负责可验收的重复环节，人负责质量判断。</p><p>Q：AI 生态的钱会流向应用层吗？</p><p>A：Apoorva 认为倒三角可能比云（约十年）保持更久，因为把底层做对太难。两个催化剂是 ASIC 突破和超大规模厂商资本开支指引变化。对游戏 PM 来说，与其押注翻转时间，不如先算清自己的成本结构。</p><hr><p>🌐 <strong>About This Episode</strong></p><p>In this episode of Hao's Game PM Notes, Hao breaks down where the money actually flows in the AI stack, from NVIDIA's roughly 75% data center gross margin to the thin margins of AI applications. The episode connects CapEx signals and marginal cost to game project management, agile Sprint planning, and how a game PM should budget for AI features.</p><hr><p>📌 <strong>关于 Hao 的游戏 PM 笔记</strong></p><p>「Hao 的游戏 PM 笔记」的知识主场是 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://pmnote.ai\">pmnote.ai</a>——一本持续生长的「游戏项目经理百科全书」，把 10 年游戏项目管理经验整理成开放知识库。</p><p>主理人 Hao，10 年游戏行业经验，策划转项目经理，持有 PMP / PMI-ACP / PSM / PSPO 认证。</p><p>🗺️ 网站你能翻到什么：</p><ul><li><p>百科：术语库 · PM 证书指南 · 岗位与 JD 观察 · 3D 沙盘</p></li><li><p>内容：文章库 · AI for PM · 面试训练场（模拟面试）· 播客</p></li><li><p>工具箱：游戏 PM 日常可复用的工具与模板</p></li><li><p>成长服务：系统课程与一对一咨询（进阶可选）</p></li></ul><p>📡 全平台：小宇宙播客 · B 站 · 小红书 · 公众号 · 知乎</p><p>一切从这里开始 → <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://pmnote.ai\">pmnote.ai</a></p><hr><p>📖 <strong>本期延伸阅读</strong></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pmnote.ai/articles/ai-transform-game-industry/\">游戏行业的AI转型，没有人能置身事外</a></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a89398c1352af56ff3a2665?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

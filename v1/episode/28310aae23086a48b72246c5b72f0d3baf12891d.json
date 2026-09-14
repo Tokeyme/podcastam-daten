@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007270874",
+  "apple_collection_id": "1539651489",
+  "show": "小黑屋故事",
+  "titel": "小黑屋故事 | 我以千言描绘你",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOWzElAR2ykQTJCtSW.m4a?channel=rss&album_id=29922960&track_id=1007270874&uid=5402299&jt=https://aod.cos.tx.xmcdn.com/storages/44ce-audiofreehighqps/4C/A5/GKwRIUEOWzElAR2ykQTJCtSW.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 18723473,
+    "format": "m4a",
+    "geprueft_am": "2026-09-06T08:57:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "摄影师的互动艺术装置意外唤醒了画作中的超自然存在，改变了所有人的命运。",
+  "kurzfassung": "一位落魄摄影师将自己的艺术装置放入当地画廊展出，装置却开始打印出诡异的文字。随着画廊内其他艺术品的离奇毁灭，照片中的模特竟化为实体并出手干涉。最终，摄影师获得了永久展出的机会，但也永远离开了摄影行业。",
+  "stichpunkte": [
+    "摄影师因展览名额被抢，转而向画廊提供了一个基于诗人西奥文稿的自动图文互动装置。",
+    "装置在夜间调试和运行期间，频繁打印出诡异的旧文句子：“光鲜皮囊之下，藏着你疯癫的图谋。”",
+    "画廊内伊莱扎的古典肖像画无故集体碎裂，现场陷入极度混乱与恐惧。",
+    "伊莱扎心怀怨恨持枪闯入摄影师家中，企图开枪杀害对方。",
+    "关键时刻，摄影师装置前的核心展品肖像画复活，化为八英尺高的巨大实体并制服了伊莱扎。",
+    "神秘实体通过打印机吐出文字，似乎一直在守护摄影师的作品并表达对展览的不满。",
+    "事后画廊馆长辞职，摄影师意外获得了永久办展的机会，但自此放弃摄影转行做纪录片。",
+    "西奥继续留在画廊工作，而伊莱扎搬去外州且创作风格大变。"
+  ],
+  "kapitel": [
+    {
+      "titel": "装置诞生与画廊首秀",
+      "start": 12.0
+    },
+    {
+      "titel": "诡异的小票与文字出处",
+      "start": 767.68
+    },
+    {
+      "titel": "画廊毁灭与实体复活",
+      "start": 1198.52
+    },
+    {
+      "titel": "枪击对峙与神秘救赎",
+      "start": 1550.52
+    },
+    {
+      "titel": "余波与生活的新常态",
+      "start": 2115.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T08:57:48+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2312,
+  "veroeffentlicht": "2026-08-19T13:00:00+00:00",
+  "beschreibung": "每周三晚21:00更新，欢迎收听订阅。\nBilibili：小黑屋的貘_mo，每周四晚20:30直播，欢迎来玩。",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>每周三晚21:00更新，欢迎收听订阅。</span></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span><span>Bilibili：小黑屋的貘_mo</span>，每周四晚20:30直播，欢迎来玩。</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group80/M0B/7E/1E/wKgPEV7NTbXA5RTlAAh71Inibd4918.jpg",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

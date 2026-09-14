@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_497640151",
+  "apple_collection_id": "1615526609",
+  "show": "死亡推演｜悬疑推理 全境追击前传 | 完结",
+  "titel": "没有主播的片花不是好预告|新年快乐啊",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIFy3N1ACFrWAESlc4u-aacv2-48K.m4a?channel=rss&album_id=56594094&track_id=497640151&uid=55760021&jt=https://aod.cos.tx.xmcdn.com/storages/dac1-audiofreehighqps/18/01/GKwRIaIFy3N1ACFrWAESlc4u-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1647200,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:00:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "没有主播的片花不是好预告，新年快乐啊。",
+  "kurzfassung": "多位角色在开场热闹地互动并互道新年快乐。众人讨论了黑猫的主播状态以及录书安排。最后大家齐声向听众送上新年祝福。",
+  "stichpunkte": [
+    "众多角色开场互动并互相调侃",
+    "谈及查案以及陆队的管理",
+    "试图唤醒装睡的主播黑猫未果",
+    "钟玥提及自己还未正式毕业成为法医",
+    "众人在节目中依次向听众做自我介绍",
+    "大家齐声祝愿听众新年快乐、平安喜乐",
+    "黑猫最后表示要去录书并向大家道别"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与角色互动",
+      "start": 4.86
+    },
+    {
+      "titel": "呼唤黑猫与新年祝福",
+      "start": 118.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:00:45+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 270,
+  "veroeffentlicht": "2022-01-29T21:24:01+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9268-audiofreehighqps/42/81/GKwRIaIFwyvEAAEbqgEQah81.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

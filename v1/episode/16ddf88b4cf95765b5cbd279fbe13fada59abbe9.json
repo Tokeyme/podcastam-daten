@@ -6,7 +6,7 @@
   "titel": ",post_title",
   "audio": {
     "url": "https://ad.robotstart.jp/api/for-media/v1/articles/34fa0481/permanent/raw/podcast/6fdb5a54f328a11549a6c22ff092a3b1.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": 73874,
     "format": "mp3",
     "geprueft_am": "2026-08-22T22:58:01+00:00"
@@ -44,7 +44,7 @@
       "inhalt_start": 0.0,
       "anker_sha256": "00ba50e835fd4fd0035f0ab1f140ecf47aa1ec1f855ba392c13bffdb0f7d1352",
       "einblendung_ms": 60,
-      "text": "Eraのニュースです。 Postタイトル"
+      "text": "早稲田スポーツ新聞会が配信する「Era」の最新ニュースと記事のトピックを紹介しています。"
     }
   ],
   "erzeugt": {
@@ -61,5 +61,6 @@
   "veroeffentlicht": "2024-03-16T00:00:00+09:00",
   "beschreibung": "ERRORのニュースです。 ,post_title",
   "beschreibung_html": "ERRORのニュースです。 ,post_title",
-  "kapitel_quelle": "modell"
+  "kapitel_quelle": "modell",
+  "bild_url": "https://api.robotstart.jp/storage/12645/6584eGm2tJS8S3R8k1QzePG7tACqIZiHGBnefuGT.jpeg"
 }

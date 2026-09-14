@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group14/M0A/7D/40/wKgDY1dH5cbgK9vsAG_BhY9cny8903.m4a",
+  "apple_collection_id": "1138196588",
+  "show": "财经观点 ：行业商机与本质",
+  "titel": "骆驼商业本质-发现腾讯成功本质-001",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDY1dH5cbgK9vsAG_BhY9cny8903.m4a?channel=rss&album_id=4323018&track_id=16292562&uid=3049357&jt=https://aod.cos.tx.xmcdn.com/group14/M0A/7D/40/wKgDY1dH5cbgK9vsAG_BhY9cny8903.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7324037,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T21:18:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨腾讯与多款经典产品的成功本质，解析商业上的加法策略与锚定效应。",
+  "kurzfassung": "本期节目探讨了腾讯及微信等产品成功的商业本质，核心在于不断为消费者心理诉求做加法。同时，节目引入了经济学中的“锚定效应”，通过定价实验解释了如何利用诱饵引导用户选择。最后，节目结合录像机、手机等行业演变，分析了商业产品在定位上做加法与做减法的不同风险和规律。",
+  "stichpunkte": [
+    "腾讯的成功不仅依靠技术与人才，更在于其产品精准抓住了消费者心理并不断做加法。",
+    "微信在QQ的基础上通过手机端适配、语音功能以及整合通讯录，再次成功为用户做加法。",
+    "经济学中的“锚定效应”指通过预先设定一个标准或诱饵，引导消费者进行对比并做出购买决策。",
+    "腾讯在产品设计常采用借用现有产品作为坐标并在其基础上做加法的方法。",
+    "从录像机到VCD、DVD再到MP4的技术更迭，本质都是在上一代产品上持续为消费者做加法。",
+    "手机行业从摩托罗拉、爱立信、诺基亚到多普达的发展同样遵循在消费者心理上不断做加法的规律。",
+    "苹果公司是少数在手机行业采取做减法并成功颠覆时代的案例，但做减法伴随着极高的风险。"
+  ],
+  "kapitel": [
+    {
+      "titel": "腾讯与微信的成功本质：持续为用户做加法",
+      "start": 13.72
+    },
+    {
+      "titel": "经济学中的锚定效应与诱饵设计",
+      "start": 400.16
+    },
+    {
+      "titel": "从录像机到手机：产品演变中的加法与减法规律",
+      "start": 601.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T21:18:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 904,
+  "veroeffentlicht": "2016-05-27T06:14:41+00:00",
+  "beschreibung": "解析腾讯成功的本质，",
+  "beschreibung_html": "解析腾讯成功的本质，",
+  "bild_url": "https://fdfs.xmcdn.com/group16/M06/6E/A6/wKgDbFc7uJiTPSWRAAN6lTspldY850.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_973895791",
+  "apple_collection_id": "1896325859",
+  "show": "749局—秦岭镇妖人｜小说同名｜多播惊悚悬疑",
+  "titel": "第1集 秦岭下的小山村",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoNyiskAD2ocQSSvsqy.m4a?channel=rss&album_id=120948059&track_id=973895791&uid=222286636&jt=https://aod.cos.tx.xmcdn.com/storages/9a93-audiofreehighqps/66/05/GKwRIDoNyiskAD2ocQSSvsqy.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4040817,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T15:35:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述秦岭腹地神秘秘闻，村里挖出黑铜棺引发的一系列离奇事件。",
+  "kurzfassung": "主角魏莫修出生在秦岭脚下的小山村，自幼身世坎坷且曾被发现拥有阴阳眼。大学毕业后他在村里做代课教师，过着平静的生活。然而，村民张老腰在河边意外挖出一具神秘的黑铜棺，彻底打破了村子的安宁。",
+  "stichpunkte": [
+    "秦岭自古精怪传说众多，相传秦始皇曾在此修筑镇妖大殿。",
+    "魏莫修自幼丧母丧父，由爷爷奶奶抚养长大。",
+    "魏莫修八岁时随爷爷干活发现地里埋着白骨，随后被张奶奶看出具有阴阳眼。",
+    "魏莫修大学毕业后回乡，在附近小学担任代课教师。",
+    "村里的光棍张老腰在小河滩挖出一具雕有奇特花纹的黑色铜棺。",
+    "村长张大饼和张老腰私下商议想要独吞棺材，引发村民强烈不满和争执。",
+    "天黑将至，张大饼无奈之下只好提议先将棺材运回村里再做打算。"
+  ],
+  "kapitel": [
+    {
+      "titel": "秦岭秘闻与身世",
+      "start": 0.7
+    },
+    {
+      "titel": "阴阳眼与平静的乡村生活",
+      "start": 83.22
+    },
+    {
+      "titel": "张老腰挖出黑铜棺",
+      "start": 174.26
+    },
+    {
+      "titel": "村民哄抢与棺材风波",
+      "start": 412.34
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T15:35:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 498,
+  "veroeffentlicht": "2026-05-01T08:45:10+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8cd4-audiofreehighqps/95/0C/GAqhT9ENyijxAAKHHwSSvhip.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

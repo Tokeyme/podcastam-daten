@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_999535067",
+  "apple_collection_id": "1896873431",
+  "show": "达达财经世界",
+  "titel": "AI模型也不是无所不能",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEOJRCtAGov5QSzz0Si.m4a?channel=rss&album_id=122453607&track_id=999535067&uid=40052660&jt=https://aod.cos.tx.xmcdn.com/storages/c107-audiofreehighqps/19/73/GKwRIJEOJRCtAGov5QSzz0Si.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6959077,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T19:34:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨AI在投资领域的局限性，指出其解释能力极强但缺乏稳定的阅测能力。",
+  "kurzfassung": "本期节目深入剖析了AI在投资领域的局限性，指出其解释能力极强但缺乏稳定的阅测能力，主张将其定位为投研辅助而非决策核心。主持人们围绕文稿中的相关性与因果关系误判、概念界定不清以及结尾缺乏实操指南等问题展开了深度评析，并提出了具体的改进建议。最后，节目呼吁创作者将这些维度的打磨融入后续修改中，以提升文章的专业质感与实操价值。",
+  "stichpunkte": [
+    "AI在投资领域的局限性：解释能力极强，但缺乏稳定的阅测能力，应定位为投研辅助而非决策核心。",
+    "人机共谋风险：探讨了人类如何利用预设立场提问，引导AI将市场噪音编织成完美的逻辑，从而强化自身偏见。",
+    "概念界定盲点：指出文稿在论述AI无法处理真实交易执行时，未能将生成式语言模型与自动化交易的量化AI区分开来。",
+    "实操指南缺失：认为结尾的理论框架虽然完美，但缺乏能让读者立即上手实践的具体操作流程或工作流。",
+    "反偏见提示词：建议教导读者利用逆向思维构建提示词，让AI扮演反方，打破盲区。",
+    "SOP动作拆解：建议在文末提供每日AI辅助复盘的具体步骤，将认知震撼转化为交易习惯的改变。"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI投资局限性与人机共谋风险",
+      "start": 13.02
+    },
+    {
+      "titel": "AI模型与量化交易的概念界定",
+      "start": 281.16
+    },
+    {
+      "titel": "结尾框架的实操落地与回顾",
+      "start": 523.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T19:34:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 859,
+  "veroeffentlicht": "2026-07-09T07:28:04+00:00",
+  "beschreibung": "这篇文章客观地剖析了人工智能在投资领域的局限性，强调其分析效率的提升并不等同于决策能力的替代。作者指出，AI 虽擅长数据整合与逻辑归纳，但在面对数据实时性、虚假因果关系以及市场转折点的预测时存在明显的滞后与短板。文章的核心观点认为，投资者应将 AI 定位为辅助性的投研工具，而非盲目信任的“自动赚钱机器”，因为最终的风险承担与核心判断仍需依赖于人的独立思考与风控纪律。通过界定技术与策略的边界，该文旨在引导投资者建立一个以真实数据为基础、以 AI 为辅助审计层的理性投资框架。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>这篇文章客观地剖析了人工智能在投资领域的局限性，强调其</span><span>分析效率的提升</span><span>并不等同于</span><span>决策能力的替代</span><span>。作者指出，AI 虽擅长</span><span>数据整合与逻辑归纳</span><span>，但在面对数据实时性、虚假因果关系以及</span><span>市场转折点的预测</span><span>时存在明显的滞后与短板。文章的核心观点认为，投资者应将 AI 定位为</span><span>辅助性的投研工具</span><span>，而非盲目信任的“自动赚钱机器”，因为最终的风险承担与核心判断仍需依赖于</span><span>人的独立思考与风控纪律</span><span>。通过界定技术与策略的边界，该文旨在引导投资者建立一个以真实数据为基础、以 AI 为</span><span>辅助审计层</span><span>的理性投资框架。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/fc75-audiofreehighqps/7E/76/GKwRIUEN9flgAAPoUwSioum4.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

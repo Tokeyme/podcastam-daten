@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "813792a7-92fb-4f69-a96f-b4ad01544ce3",
+  "apple_collection_id": "1825878779",
+  "show": "The Scott Jennings Podcast",
+  "titel": "Special Friday Conversation: Mark Halperin",
+  "audio": {
+    "url": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/f34fa276-53e8-412a-ae48-b31400f3c8fb/813792a7-92fb-4f69-a96f-b4ad01544ce3/audio.mp3?utm_source=Podcast&in_playlist=5e7a3fbb-edb6-4cc9-a031-b31400f3cec6",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "unbekannt",
+    "geprueft_am": "2026-08-26T11:15:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": false,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik NICHT geprueft (nicht messbar (HTTP 403)) - die Sprungmarken dieser Folge sind ungeprueft, nicht bestaetigt; CDN beantwortet Range nicht mit 206 (HTTP 403 statt 206)"
+  },
+  "einzeiler": "Scott Jennings analyzes political news and interviews journalist Mark Halperin.",
+  "kurzfassung": "Scott Jennings covers breaking political news, including controversial remarks by James Tallerico and updates on South Carolina Senate candidates. The episode features an in-depth conversation with political journalist Mark Halperin about his career, the media landscape, and the future of political platforms. Additionally, John Hishta joins the show to discuss new AARP polling data from Michigan.",
+  "stichpunkte": [
+    "Scott Jennings discusses recent political developments and primary races in Texas and South Carolina.",
+    "The hosts analyze controversial comments made by James Tallerico regarding criminal justice and racial demographics in juries.",
+    "Jill Biden addresses speculation about Joe Biden's 2024 debate performance during a podcast interview.",
+    "Congressman Ralph Norman joins the show to discuss his runoff campaign for the US Senate in South Carolina.",
+    "John Hishta from AARP presents new polling data for the Michigan Senate and gubernatorial races.",
+    "Mark Halperin reflects on his career in legacy media, his transition to new media, and founding the platform Two Way.",
+    "Halperin and Jennings discuss the impact of AI, data centers, and current voter sentiment on the upcoming midterms.",
+    "Halperin shares insights on potential 2028 presidential contenders and the shifting political landscape."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Opening Monologue",
+      "start": 0.84
+    },
+    {
+      "titel": "Analysis of James Tallerico's Comments",
+      "start": 173.56
+    },
+    {
+      "titel": "South Carolina Senate Race and Ralph Norman Interview",
+      "start": 717.92
+    },
+    {
+      "titel": "Michigan Polling Data with John Hishta",
+      "start": 1880.0
+    },
+    {
+      "titel": "Special Conversation with Mark Halperin",
+      "start": 2216.32
+    },
+    {
+      "titel": "2028 Presidential Contenders Discussion",
+      "start": 4016.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-26T11:15:52+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4349,
+  "veroeffentlicht": "2026-08-21T21:18:39+00:00",
+  "beschreibung": "On today’s edition of The Scott Jennings Show, Scott examines the political fallout surrounding James Talarico’s claim that the absence of Black jurors contributed to Karmelo Anthony’s murder conviction, before turning his attention to the latest headlines involving former First Lady Jill Biden. Rep. Ralph Norman joins the program to discuss the political landscape and his campaign for the U.S. Senate in South Carolina. In Hour Two, veteran political journalist Mark Halperin joins Scott for an extended conversation covering the state of American politics, the 2026 election cycle, and the personalities and issues shaping both parties heading into the midterms.\n\nhttps://salemnewschannel.com/america250/\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>On today&rsquo;s edition of <em data-start=\"22\" data-end=\"47\">The Scott Jennings Show</em>, Scott&nbsp; examines the political fallout surrounding James Talarico&rsquo;s claim that the absence of Black jurors contributed to Karmelo Anthony&rsquo;s murder conviction, before turning his attention to the latest headlines involving former First Lady Jill Biden. Rep. Ralph Norman joins the program to discuss the political landscape and his campaign for the U.S. Senate in South Carolina. In Hour Two, veteran political journalist Mark Halperin joins Scott for an extended conversation covering the state of American politics, the 2026 election cycle, and the personalities and issues shaping both parties heading into the midterms.&nbsp;</p> <p>&nbsp;</p> <p><a href=\"https://salemnewschannel.com/america250/\">https://salemnewschannel.com/america250/</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/f34fa276-53e8-412a-ae48-b31400f3c8fb/5e7a3fbb-edb6-4cc9-a031-b31400f3cec6/image.jpg?t=1756325484&size=Large",
+  "kapitel_quelle": "modell"
+}

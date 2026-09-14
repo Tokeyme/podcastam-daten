@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_942221054",
+  "apple_collection_id": "1301085775",
+  "show": "五分钟心理学",
+  "titel": "做不到也没关系，学会包容心疼自己",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4NG_4DACXhygRKhj5H.m4a?channel=rss&album_id=4627127&track_id=942221054&uid=38876036&jt=https://aod.cos.tx.xmcdn.com/storages/4558-audiofreehighqps/2E/06/GKwRIW4NG_4DACXhygRKhj5H.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2482634,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:18:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "接纳暂时的做不到，放下完美主义，学会温柔地心疼自己。",
+  "kurzfassung": "社会灌输的完美标准常让人陷入“做不到就是失败”的自责循环中。哈佛研究表明，极端严格的自我要求会带来三倍焦虑并扼杀创造力。通过区分理想与现实、采用成长思维以及设置容错机会，人可以学会包容并心疼自己。",
+  "stichpunkte": [
+    "人们常因社会灌输的完美标准，将暂时做不到等同于失败",
+    "社交媒体展示的完美生活容易引发人们定下荒谬的标准",
+    "未达到超高目标时产生的自责和摆烂会形成恶性循环",
+    "哈佛大学研究发现极端严格的自我要求会导致三倍焦虑",
+    "恐惧和压力会杀死创造力，自我接纳才是持续进步的关键",
+    "应区分理想与现实目标，将完美方案拆解为可执行步骤",
+    "用成长思维替代满分思维，关注学到的经验和微小进步",
+    "给自己设置容错机会和缓冲日，提高人生的容错率"
+  ],
+  "kapitel": [
+    {
+      "titel": "引言：面对未完成计划的自责",
+      "start": 0.64
+    },
+    {
+      "titel": "完美主义陷阱与社会期待",
+      "start": 57.52
+    },
+    {
+      "titel": "高自我要求的代价与哈佛研究",
+      "start": 145.58
+    },
+    {
+      "titel": "如何做到包容与心疼自己",
+      "start": 167.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:18:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 306,
+  "veroeffentlicht": "2025-12-28T09:00:00+00:00",
+  "beschreibung": "当你不苛求自己完美，你也会更容易接受别人的不完美，面对工作，你不会因为一点小失误就对自己求全责备；跟朋友相处也不必再小心翼翼，敢于暴露脆弱。\n“不可以，也是可以的”这不是在教你放弃，而是在说人生的容错率，其实比你想象中高得多。\n如果你有其他问题想要咨询，可以直接在绿泡泡搜索【柠檬心理课堂】后台回复【咨询】，我们的咨询师会找到你的问题本质，并会给你专业建议，帮你解决你的困扰。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">当你不苛求自己完美，你也会更容易接受别人的不完美，面对工作，你不会因为一点小失误就对自己求全责备；跟朋友相处也不必再小心翼翼，敢于暴露脆弱。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">“不可以，也是可以的”这不是在教你放弃，而是在说人生的容错率，其实比你想象中高得多。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">如果你有其他问题想要咨询，可以直接在绿泡泡搜索【柠檬心理课堂】后台回复【咨询】，我们的咨询师会找到你的问题本质，并会给你专业建议，帮你解决你的困扰。</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4388-audiofreehighqps/54/E7/GKwRIJII_mP7AADapQJrc02X.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/4531-audiofreehighqps/0F/B5/CKwRIUEEHAHFACtDKwCQFKXT-aacv2-48K.m4a",
+  "apple_collection_id": "1557803953",
+  "show": "99%的人都不知道的历史真相",
+  "titel": "纪晓岚为啥是官场上的“不倒翁”？（下）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIUEEHAHFACtDKwCQFKXT-aacv2-48K.m4a?channel=rss&album_id=47191518&track_id=393702225&uid=44093754&jt=https://aod.cos.tx.xmcdn.com/storages/4531-audiofreehighqps/0F/B5/CKwRIUEEHAHFACtDKwCQFKXT-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2132226,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:54:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "纪晓岚因卢案被贬乌鲁木齐，回京后主持修纂《四库全书》并平步青云。",
+  "kurzfassung": "纪晓岚因涉嫌向亲家卢盐运使通风报信泄露查案机密，被乾隆皇帝贬谪乌鲁木齐。两年半后他奉诏回京，凭借进献文章和出色的文学才华获得重用，受命担任《四库全书》总纂修。此后他历任多职至协办大学士，晚年面对复杂的官场政治选择隐忍顺从，最终以学者和官员的多重身份走完一生。",
+  "stichpunkte": [
+    "1768年因两淮盐政卢鹗增案泄密，纪晓岚被查出通风报信而获罪",
+    "民间传说纪晓岚曾用盐和茶作暗号送信，并以巧妙回答化解皇帝责问",
+    "泄密案后纪晓岚被贬乌鲁木齐约两年半，期间因文采出众主要负责文案工作并开阔了视野",
+    "1770年奉命回京，因进献土尔扈特部归顺的文章获乾隆嘉奖，重回翰林院",
+    "1773年受大学士刘统勋推荐，50岁的纪晓岚被任命为《四库全书》总纂修，历时十年完成",
+    "因编修《四库全书》有功平步青云，历任兵部尚书、礼部尚书及协办大学士等职",
+    "晚年因御史弹劾案受乾隆皇帝怀疑，因而言行愈发隐忍顺从，嘉庆即位后被视作元老对待",
+    "与同时代选择归隐或辞官的袁枚、钱大昕等人相比，纪晓岚兼具学者、官员与作家等多重身份"
+  ],
+  "kapitel": [
+    {
+      "titel": "因泄密获罪被贬乌鲁木齐",
+      "start": 0.94
+    },
+    {
+      "titel": "奉诏回京与总纂《四库全书》",
+      "start": 147.16
+    },
+    {
+      "titel": "晚年官场沉浮与多重身份的评价",
+      "start": 216.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:54:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 350,
+  "veroeffentlicht": "2021-03-14T00:10:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6a5c-audiofreehighqps/CD/7A/CMCoOSMEFA1NAAWYCQCNzTAw.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

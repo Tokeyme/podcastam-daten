@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/506b-audiofreehighqps/5D/02/CKwRIRwEwE2IAIHsSADGT63S.m4a",
+  "apple_collection_id": "1568971199",
+  "show": "资治通鉴 | 365集故事",
+  "titel": "资治通鉴_ 韩魏赵三家分晋 毁形貌豫让报仇",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIRwEwE2IAIHsSADGT63S.m4a?channel=rss&album_id=42639604&track_id=344887533&uid=86557805&jt=https://aod.cos.tx.xmcdn.com/storages/506b-audiofreehighqps/5D/02/CKwRIRwEwE2IAIHsSADGT63S.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8514632,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T02:09:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述晋国韩、魏、赵三家分晋的历史故事及豫让复仇的智勇传奇。",
+  "kurzfassung": "本期节目讲述了战国初期晋国智伯向韩、魏、赵索地并率军围攻赵国晋阳城，最终韩魏反戈、三家分晋的历史过程。随后，智伯的家臣豫让因为主公报仇，屡次行刺赵襄子未遂，最终慷慨赴死。节目通过这些历史事件展现了权谋斗争与忠义之气。",
+  "stichpunkte": [
+    "战国初期晋国大权由智伯及韩、魏、赵四卿把持",
+    "智伯向韩、魏、赵索要土地，韩桓子与魏桓子采纳谋臣建议选择忍让以麻痹智伯",
+    "智伯率韩魏联军进攻赵襄子，并引汾水灌城，使晋阳城陷入绝境",
+    "智伯家臣吃吃察觉韩魏两家神色异常并提醒智伯，但智伯未听从",
+    "赵国谋士张孟谈成功说服韩魏两家倒戈，三家联手击败并消灭了智伯",
+    "三家分晋后，晋国名存实亡，赵襄子将智伯头盖骨制成饮酒容器",
+    "智伯家臣豫让决意为主公报仇，先潜入宫中行刺未遂被赵襄子释放",
+    "豫让毁容吞炭再次行刺，桥头受惊暴露后从容赴死，成全忠义之名"
+  ],
+  "kapitel": [
+    {
+      "titel": "三家分晋与晋阳之战",
+      "start": 26.58
+    },
+    {
+      "titel": "豫让为报主仇历险行刺",
+      "start": 769.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T02:09:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1051,
+  "veroeffentlicht": "2020-10-12T20:34:17+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8191-audiofreehighqps/8A/CE/CKwRIJIEiJ09AAGHAQCyYnHF.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

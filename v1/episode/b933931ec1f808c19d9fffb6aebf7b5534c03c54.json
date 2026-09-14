@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_603972486",
+  "apple_collection_id": "1665624974",
+  "show": "中国历史|青少版|夏朝到清",
+  "titel": "一夏——1夏朝简介",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4HlcwrAC66HAHr6jA_-aacv2-48K.m4a?channel=rss&album_id=73773400&track_id=603972486&uid=67073094&jt=https://aod.cos.tx.xmcdn.com/storages/f186-audiofreehighqps/69/D3/GKwRIW4HlcwrAC66HAHr6jA_-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2302940,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:05:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "中国历史上第一个世袭王朝夏朝的政治、经济与文化简史",
+  "kurzfassung": "本集简要介绍了中国历史上第一个世袭王朝夏朝的建立及其政治、经济和税收制度。内容涵盖了二里头遗址出土的生产工具与青铜器，夏代实行的“五十而供”定额田赋税制，以及夏文化与仰韶文化的渊源。最后回顾了夏朝历经13代16王、共计470年的历史进程。",
+  "stichpunkte": [
+    "启打破禅让制，开创子继父位的世袭王朝制度，建立中国历史上的第一个王朝——夏",
+    "河南偃师二里头遗址发掘出石器、农具及小型青铜兵器，表明当时已出现青铜器和较发达的农业",
+    "夏朝实行“五十而供”的定额税收制度，贫民每户受田五十亩并按距离远近缴纳不同形态的农产品",
+    "“供”作为早期赋税是定额征收，丰年与灾年纳额不变，导致灾荒时百姓苦不堪言",
+    "夏朝的政治中心位于河南偃师、禹州、登封等地，其文化由仰韶文化发展而来",
+    "仰韶文化又称彩陶文化，以陕西西安半坡遗址为早期中心，是新石器时代分布最广、发展最高的重要文化",
+    "夏朝历经13代16个王，共存续470年，至公元前1600年夏桀灭亡"
+  ],
+  "kapitel": [
+    {
+      "titel": "夏朝的建立与出土文物",
+      "start": 0.0
+    },
+    {
+      "titel": "夏朝的农业与五十而供税收制度",
+      "start": 90.02
+    },
+    {
+      "titel": "夏文化的渊源与仰韶文化",
+      "start": 248.98
+    },
+    {
+      "titel": "夏朝的历史进程与传承",
+      "start": 340.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:05:40+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 378,
+  "veroeffentlicht": "2023-01-12T13:20:33+00:00",
+  "beschreibung": "夏公元前2070——公元前1600\n夏禹（部落联盟首领）\n夏朝疆域图\n\n夏朝世系表\n禹——启——太康——仲康——相——少康——予——槐——芒——泄——不降——扃（jiōng）——厪 （jǐn）——孔甲——皋——发——桀（履癸）\n第一个世袭制朝代\n\n是中国最早的奴隶制国家。",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">夏公元前2070——公元前1600</p><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\">夏禹（部落联盟首领）</p><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\">夏朝疆域图</p><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/6684-audiofreehighqps/A6/A3/GMCoOSUHlcawAArwFgHr52qJ.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/6684-audiofreehighqps/A6/A3/GMCoOSUHlcawAArwFgHr52qJ.jpg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/6684-audiofreehighqps/A6/A3/GMCoOSUHlcawAArwFgHr52qJ.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"1083.1977217249796\" data-preview=\"http://imagev2.xmcdn.com/storages/6684-audiofreehighqps/A6/A3/GMCoOSUHlcawAArwFgHr52qJ.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"202.19690805532954\"><br></p><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\">夏朝世系表</p><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\">禹——启——太康——仲康——相——少康——予——槐——芒——泄——不降——扃（<span>jiōng</span>）——厪&nbsp;<span>（jǐn）——孔甲——皋——发——桀（履癸）</span></p><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\"><span><span>第一个世袭制朝代</span><br></span></p><p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\"><span><span>是中国最早的奴隶制国家。</span><br></span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ae0e-audiofreehighqps/E6/72/GKwRIJEHlaX5AAGuVQHr2kJk.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

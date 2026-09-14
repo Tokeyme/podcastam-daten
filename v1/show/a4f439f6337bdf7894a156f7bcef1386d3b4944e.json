@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Quiz Quiz Bang Bang Trivia Podcast",
+  "apple_collection_id": "1464212261",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74322826",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74322826/qb337.mp3",
+      "pfad": "/v1/episode/a15910527cff8f7f83a3632cee36512c78a3e0b4.json",
+      "titel": "Ep 337: General Trivia",
+      "veroeffentlicht": "2026-08-19T16:09:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Test your trivia knowledge with four quiz rounds, a geography bang bang, and banana facts."
+    }
+  ]
+}

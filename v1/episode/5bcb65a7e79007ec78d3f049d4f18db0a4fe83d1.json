@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/016b-audiofreehighqps/07/B1/CMCoOSUDokQoABn6yQBud1Rk.m4a",
+  "apple_collection_id": "1550232940",
+  "show": "《三字经》｜少儿国学启蒙｜学前教育",
+  "titel": "磨耳朵-《三字经》第一集",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOSUDokQoABn6yQBud1Rk.m4a?channel=rss&album_id=44454073&track_id=362119176&uid=3149975&jt=https://aod.cos.tx.xmcdn.com/storages/016b-audiofreehighqps/07/B1/CMCoOSUDokQoABn6yQBud1Rk.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1702601,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:04:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "一起学习经典蒙学读物《三字经》的第一集内容。",
+  "kurzfassung": "本集带领听众学习传统蒙学经典《三字经》的第一部分。内容涵盖人之初性本善、教育贵在专一等核心思想。同时解读了孟母三迁和窦燕山教子的典故。",
+  "stichpunkte": [
+    "诵读并讲解《三字经》开篇内容",
+    "解析人之初性本善与习相远的含义",
+    "强调后天学习环境对人的影响",
+    "阐述教育方法贵在专一的重要意义",
+    "讲解孟母三迁与断机教子的典故",
+    "介绍窦燕山教导五子成才的事迹"
+  ],
+  "kapitel": [
+    {
+      "titel": "三字经诵读与解读",
+      "start": 29.9
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:04:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 210,
+  "veroeffentlicht": "2020-12-05T11:33:16+00:00",
+  "beschreibung": "原文：\nrén zhī chū xìng běn shàn xìng xiāng jìn xí xiāng yuǎn\n人之初，性本善；性相近，习相远。\n\ngǒu bú jiào xìng nǎi qiān jiào zhī dào guì yǐ zhuān\n苟不教，性乃迁；教之道，贵以专。\n\nxī mèng mǔ zé lín chǔ zǐ bù xué duàn jī zhù\n昔孟母，择邻处；子不学，断机杼。\n\ndòu yān shān yǒu yì fāng jiāo wǔ zǐ míng jù yáng\n窦燕山，有义方；教五子，名俱扬。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">原文：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">r&eacute;n zhī chū x&igrave;ng běn sh&agrave;n x&igrave;ng xiāng j&igrave;n x&iacute; xiāng yuǎn</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">人之初，性本善；性相近，习相远。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">gǒu b&uacute; ji&agrave;o x&igrave;ng nǎi qiān ji&agrave;o zhī d&agrave;o gu&igrave; yǐ zhuān</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">苟不教，性乃迁；教之道，贵以专。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">xī m&egrave;ng mǔ z&eacute; l&iacute;n chǔ zǐ b&ugrave; xu&eacute; du&agrave;n jī zh&ugrave;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">昔孟母，择邻处；子不学，断机杼。</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">d&ograve;u yān shān yǒu y&igrave; fāng jiāo wǔ zǐ m&iacute;ng j&ugrave; y&aacute;ng</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">窦燕山，有义方；教五子，名俱扬。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ac41-audiofreehighqps/B9/FB/CMCoOSADoS8qAABraQBuOpeq.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_966657416",
+  "apple_collection_id": "1557703457",
+  "show": "亚！文化人 | 爱玩儿的人都在这儿·游戏影视·小众文化",
+  "titel": "亚文化人没更新的时候都在干什么啊？？？？？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUENoEtsAg3VHASCNa7J.m4a?channel=rss&album_id=46782897&track_id=966657416&uid=79522296&jt=https://aod.cos.tx.xmcdn.com/storages/272e-audiofreehighqps/CF/78/GKwRIUENoEtsAg3VHASCNa7J.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 34460956,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T19:52:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "亚文化人播客重磅回归，四人组畅聊停更期间的生活变迁与未来计划。",
+  "kurzfassung": "停更很长时间的播客节目迎来回归，几位主播在节目中聚首，分享了过去几年各自在工作变动、结婚养宠以及个人健康等方面的经历。他们不仅回忆了做播客的初衷与过往趣事，还吐槽了各种都市传说和阴谋论。最后，主播们展望了节目的未来，并预告了接下来的选题方向。",
+  "stichpunkte": [
+    "播客迎来迟到的回归，主播们解释了长时间停更的原因及各自的生活变化。",
+    "基哥因滑雪导致膝盖受伤未能出席本期录制。",
+    "主播们回忆了节目创立初期的经历、使用的简陋设备以及第一期节目的选题。",
+    "讨论了各自在停更期间的工作变动，包括城市规划、保险行业等经历。",
+    "鱼干分享了婚后生活以及养猫狗的日常，李生气则讲述了自己沉迷剧本杀的体验。",
+    "李生气详细分享了自己饱受腰椎间盘突出折磨并最终接受手术的痛苦经历。",
+    "节目中穿插了关于外星人、地平说、月球纳粹等各种搞笑阴谋论的讨论。",
+    "预告了接下来的节目计划，包括《怪物猎人》系列回顾、剧本杀行业聊聊以及趣味抽签选题。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目回归与近况更新",
+      "start": 2.34
+    },
+    {
+      "titel": "回忆做播客的初衷与过往",
+      "start": 207.56
+    },
+    {
+      "titel": "游戏回忆与《怪物猎人》话题",
+      "start": 859.54
+    },
+    {
+      "titel": "停更期间的生活、工作与阴谋论",
+      "start": 1384.28
+    },
+    {
+      "titel": "剧本杀体验与腰突手术经历",
+      "start": 2546.32
+    },
+    {
+      "titel": "未来规划与节目展望",
+      "start": 4041.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T19:52:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4256,
+  "veroeffentlicht": "2026-03-30T14:25:13+00:00",
+  "beschreibung": "盘一盘哈盘一盘\n剪辑：老曲",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">盘一盘哈盘一盘<br>剪辑：老曲</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6790-audiofreehighqps/98/0C/CKwRIasFFyG-AAS6EADjMen7.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

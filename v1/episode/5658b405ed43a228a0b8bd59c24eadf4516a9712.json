@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "guid": "3d3f4c8d-b3ad-48bb-9bbc-b4a301513369",
+  "apple_collection_id": "1299915173",
+  "show": "This Podcast Will Kill You",
+  "titel": "Ep 219 The Brown Recluse: Fearsome foe or slandered spider?",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e0709a39-232b-4483-8e4f-b24c0111ae2c/3d3f4c8d-b3ad-48bb-9bbc-b4a301513369/audio.mp3?utm_source=Podcast&in_playlist=64b4c224-562e-4b2f-9f31-b24c0111ae53",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 65991408,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:08:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Separating myth from reality regarding brown recluse spiders and their actual risks.",
+  "kurzfassung": "The brown recluse spider is widely feared for its potentially necrotic venom, but severe bites are exceedingly rare. These shy, nocturnal spiders are frequently blamed for skin lesions that actually stem from other medical conditions or infections. Ultimately, spiders play a crucial ecological role globally, consuming hundreds of millions of tons of insects annually.",
+  "stichpunkte": [
+    "Between 40,000 and 50,000 spider species are currently known, with many more yet to be discovered.",
+    "The brown recluse features six eyes arranged in three pairs and lacks patterns on its legs and abdomen.",
+    "Brown recluse venom contains the enzyme sphingomyelinase D, which disintegrates cell membranes and can cause tissue necrosis.",
+    "Around 90 percent of brown recluse bites require no medical intervention at all.",
+    "Many reported brown recluse bites are actually misdiagnosed staph infections, anthrax, or other conditions.",
+    "Brown recluse spiders are notably shy, non-aggressive, and prefer to flee rather than bite.",
+    "Spiders globally consume between 400 and 800 million tons of insects every year.",
+    "Arachnophobia affects an estimated three to six percent of the global population."
+  ],
+  "kapitel": [
+    {
+      "titel": "Historical Case Study and Introduction",
+      "start": 0.12
+    },
+    {
+      "titel": "Biology and Identification of the Brown Recluse",
+      "start": 359.6
+    },
+    {
+      "titel": "Venom Composition and Medical Symptoms",
+      "start": 684.92
+    },
+    {
+      "titel": "Misdiagnosis, Cultural Reputation, and Spider Ecology",
+      "start": 1639.56
+    }
+  ],
+  "clips": [
+    {
+      "hook": "40,000 to 50,000 known spider species",
+      "start": 358.87,
+      "ende": 380.813,
+      "laenge": 21.94,
+      "byte_start": 5786899,
+      "byte_ende": 6137984,
+      "bytes": 351086,
+      "range_header": "bytes=5786899-6137984",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 358.949,
+      "anker_sha256": "1c5c4707cad37b81400b8d73c3fb9eb4fbb2785992c56ed807dc8ddbdca03071",
+      "einblendung_ms": 60,
+      "text": "The hosts introduce a deep dive into the medical reality and cultural reputation of brown recluse spider bites."
+    },
+    {
+      "hook": "Ninety percent of bites need no medical help",
+      "start": 1300.48,
+      "ende": 1320.568,
+      "laenge": 20.09,
+      "byte_start": 20852654,
+      "byte_ende": 21174064,
+      "bytes": 321411,
+      "range_header": "bytes=20852654-21174064",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1300.558,
+      "anker_sha256": "7eeb16199c3bab364d59177a9ab3060cc362b360c85718ffefb2c53f286c1a79",
+      "einblendung_ms": 60,
+      "text": "The researchers discuss the difficulty in measuring the exact quantity of venom transferred during an arachnid attack."
+    },
+    {
+      "hook": "Six months without food, water, or air",
+      "start": 2160.849,
+      "ende": 2180.963,
+      "laenge": 20.11,
+      "byte_start": 34618557,
+      "byte_ende": 34940384,
+      "bytes": 321828,
+      "range_header": "bytes=34618557-34940384",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2160.927,
+      "anker_sha256": "1dd77259c3bf78c38fc12a59801cc06fb024d366a45dce9d9ad6a6f33e86d7bb",
+      "einblendung_ms": 60,
+      "text": "Out of roughly 53,000 known spider species worldwide, brown recluses manage to attract a uniquely intense level of human animosity."
+    },
+    {
+      "hook": "Spiders consume 800 million tons of insects yearly",
+      "start": 2497.385,
+      "ende": 2522.436,
+      "laenge": 25.05,
+      "byte_start": 40003125,
+      "byte_ende": 40403947,
+      "bytes": 400823,
+      "range_header": "bytes=40003125-40403947",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2497.463,
+      "anker_sha256": "a861c76dcdf416e9d3cc3f22f9a88807d5f96ad2f1a5ab3ed092b76e0bac1bcf",
+      "einblendung_ms": 60,
+      "text": "Scientific projections indicate that warming global temperatures will push the habitat of brown recluses northward rather than simply expanding it."
+    },
+    {
+      "hook": "Twenty-five hundred times more likely to be killed by a human",
+      "start": 2739.54,
+      "ende": 2760.777,
+      "laenge": 21.24,
+      "byte_start": 43877607,
+      "byte_ende": 44217407,
+      "bytes": 339801,
+      "range_header": "bytes=43877607-44217407",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2739.618,
+      "anker_sha256": "3cd8a5918d94b5a71d4a82ef4a99c99e52595c3ab6861dc71315c19ca181f5fa",
+      "einblendung_ms": 60,
+      "text": "Brown recluses spend the vast majority of their time completely stationary and reproduce at relatively slow rates."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:08:32+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3492,
+  "veroeffentlicht": "2026-08-18T07:01:00+00:00",
+  "beschreibung": "Few spiders hold the dubious honor of name recognition among the general public. Most that do, like black widows, Australian funnel-web, the Goliath birdeater, are renowned not for their cute colors or weaving skills but for being fearsome, dangerous predators. The brown recluse is no exception. A bite from one of these arachnids can send someone to the hospital with a painful necrotizing wound and weeks of recovery. But do these spiders actually deserve all the hatred they get? In this week’s episode, we argue no. Breaking down not just the bite of thebrown recluse but also its behaviors, its distribution, and its lore, we present a more complete picture of this vilified arachnid. Tune in for the low down on this shy spider.\nSupport this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAu\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p dir=\"auto\">Few spiders hold the dubious honor of name recognition among the general public. Most that do, like black widows, Australian funnel-web, the Goliath birdeater, are renowned not for their cute colors or weaving skills but for being fearsome, dangerous predators. The brown recluse is no exception. A bite from one of these arachnids can send someone to the hospital with a painful necrotizing wound and weeks of recovery. But do these spiders actually deserve all the hatred they get? In this week&rsquo;s episode, we argue no. Breaking down not just the bite of thebrown recluse but also its behaviors, its distribution, and its lore, we present a more complete picture of this vilified arachnid. Tune in for the low down on this shy spider.</p> <p dir=\"auto\">Support this podcast by shopping our latest sponsor deals and promotions at this link: <a href=\"https://bit.ly/3WwtIAu\">https://bit.ly/3WwtIAu</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e0709a39-232b-4483-8e4f-b24c0111ae2c/64b4c224-562e-4b2f-9f31-b24c0111ae53/image.jpg?t=1738340415&size=Large",
+  "kapitel_quelle": "modell"
+}

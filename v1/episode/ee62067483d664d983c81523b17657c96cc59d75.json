@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_715989202",
+  "apple_collection_id": "1591618024",
+  "show": "十号锋球|专业体育评论",
+  "titel": "超锋粤语欧冠分析——谁能从“史上最强欧冠八强”突围而出？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAJ0EdjAJff_AK6ZPjO.m4a?channel=rss&album_id=50069794&track_id=715989202&uid=82774835&jt=https://aod.cos.tx.xmcdn.com/storages/2a93-audiofreehighqps/31/9B/GKwRIMAJ0EdjAJff_AK6ZPjO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9953276,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T07:52:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "史上最强欧冠八强即将开战，全面解析欧冠八强抽签与晋级走势",
+  "kurzfassung": "本期节目详细分析了被誉为“史上最强”的欧冠八强对阵形势。主播深入剖析了死亡半区中皇家马德里对阵曼城、阿森纳对阵拜仁的焦点大战，并对巴黎圣日耳曼对阵巴塞罗那以及马德里竞技对阵多特蒙德的比赛进行了预测。最后，节目还展望了潜在的四强对决与最终的冠军归属。",
+  "stichpunkte": [
+    "本届欧冠八强被称为史上最豪华、竞争最激烈的八强，八支球队全部来自五大联赛且身价与收入居前列。",
+    "死亡半区聚集了最近四个赛季的三座欧冠冠军得主及夺冠赔率最高的前四支球队。",
+    "皇家马德里与曼城迎来五年内的第四次欧冠淘汰赛交手，曼城在主场稳定性和赛程安排上更具优势。",
+    "阿森纳本赛季展现出更强的韧性与争冠气势，相比遭遇危机的拜仁更有机会晋级四强。",
+    "巴黎圣日耳曼与巴塞罗那的对决充满故人重逢的话题，巴塞罗那在实力和近况上不占优势。",
+    "马德里竞技与多特蒙德的对决较为均势，多特蒙德凭借相对稳定的德甲表现和客场因素更被看好。",
+    "主播预测曼城和阿森纳将从死亡半区突围，曼城最终有望在决赛中登顶并实现卫冕。"
+  ],
+  "kapitel": [
+    {
+      "titel": "史上最强欧冠八强抽签形势概述",
+      "start": 1.5
+    },
+    {
+      "titel": "死亡半区焦点：皇家马德里对阵曼城",
+      "start": 282.04
+    },
+    {
+      "titel": "死亡半区焦点：阿森纳对阵拜仁慕尼黑",
+      "start": 630.52
+    },
+    {
+      "titel": "活力半区分析：巴黎圣日耳曼对阵巴塞罗那",
+      "start": 836.54
+    },
+    {
+      "titel": "活力半区分析：马德里竞技对阵多特蒙德",
+      "start": 978.56
+    },
+    {
+      "titel": "欧冠四强与最终冠军归属预测",
+      "start": 1094.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T07:52:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1229,
+  "veroeffentlicht": "2024-03-20T06:37:58+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/db45-audiofreehighqps/8C/13/GKwRIJEGKhCPAAJtAQE6Cyj2.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

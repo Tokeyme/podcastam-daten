@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1005342336",
+  "apple_collection_id": "1578107926",
+  "show": "不靠谱音乐史｜不分析乐谱 不解析音乐 不让你失望",
+  "titel": "走近克拉拉·舒曼：不只是罗伯特的妻子",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOTRaAAHkpJwTD7FU1.m4a?channel=rss&album_id=30392792&track_id=1005342336&uid=30934301&jt=https://aod.cos.tx.xmcdn.com/storages/013c-audiofreehighqps/16/3C/GKwRIUEOTRaAAHkpJwTD7FU1.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7940391,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T01:07:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "走近一代钢琴女王克拉拉·舒曼，了解她作为杰出演奏家与作曲家的一生。",
+  "kurzfassung": "本期节目讲述了音乐家克拉拉·舒曼的一生，展现她从音乐神童到享誉欧洲的钢琴巨匠的历程。她不仅在逆境中抚养多名子女并守护丈夫罗伯特·舒曼的音乐遗产，还凭借杰出的演奏与创作才华确立了自己的历史地位。尽管晚年及身后其作曲家身份曾被长期忽视，但如今她的艺术成就正重新获得世人的认可。",
+  "stichpunkte": [
+    "克拉拉出生于音乐世家，在父亲弗里德里希·维克的严格管教和顶配教育下成长为音乐神童。",
+    "她年少成名，九岁登台，十多岁便在欧洲各大城市巡演，轰动全场。",
+    "她与罗伯特·舒曼历经法律诉讼后于1840年结婚，婚后育有八个孩子并面临巨大的家庭经济压力。",
+    "罗伯特患精神疾病于1854年入院并在两年后离世，克拉拉37岁守寡后独自挑起家庭重担。",
+    "她将大量精力投入到守护、编辑和推广罗伯特·舒曼的音乐作品中，通过漫长巡演将其传遍欧洲。",
+    "克拉拉与小提琴大师约阿西姆及作曲家布拉姆斯结下了深厚的挚友关系，彼此在创作和事业上相互支持。",
+    "作为钢琴家，她的演奏生涯长达60年，坚持忠于原作并推动了纯粹独奏音乐会的发展。",
+    "她同样是一位出色的作曲家，其代表作包括A小调钢琴协奏曲和G小调钢琴三重奏，近年来其创作才华重新受到世人瞩目。"
+  ],
+  "kapitel": [
+    {
+      "titel": "家庭背景与童年教育",
+      "start": 9.36
+    },
+    {
+      "titel": "年少成名与婚姻生活的波折",
+      "start": 155.04
+    },
+    {
+      "titel": "守护舒曼音乐与挚友相伴",
+      "start": 244.94
+    },
+    {
+      "titel": "作为钢琴女王的演奏生涯与风格",
+      "start": 392.84
+    },
+    {
+      "titel": "克拉拉的作曲成就与历史评价",
+      "start": 504.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T01:07:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 980,
+  "veroeffentlicht": "2026-08-08T16:02:48+00:00",
+  "beschreibung": "她是舒曼的妻子，更是19世纪欧洲钢琴女王。谁说女性不能作曲？为何她的才华被埋没百年？从神童到寡妇，她如何用音乐扛起整个时代？\n02:10 音乐家的执着：克拉拉与罗伯特舒曼的传奇爱情故事\n04:13 音乐的女祭司：克拉拉的传奇演奏生涯与艺术贡献\n06:14 欧洲钢琴女王的传奇：克拉拉的音乐之旅\n08:15 克拉拉舒曼：被低估的女性作曲家与钢琴家的辉煌生涯\n10:15 伟大的演奏家与被埋没的作曲家：克拉拉舒曼的音乐之旅",
+  "beschreibung_html": "<p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">她是舒曼的妻子，更是19世纪欧洲钢琴女王。谁说女性不能作曲？为何她的才华被埋没百年？从神童到寡妇，她如何用音乐扛起整个时代？</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">02:10 音乐家的执着：克拉拉与罗伯特舒曼的传奇爱情故事</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">04:13 音乐的女祭司：克拉拉的传奇演奏生涯与艺术贡献</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">06:14 欧洲钢琴女王的传奇：克拉拉的音乐之旅</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">08:15 克拉拉舒曼：被低估的女性作曲家与钢琴家的辉煌生涯</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">10:15 伟大的演奏家与被埋没的作曲家：克拉拉舒曼的音乐之旅</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1d38-audiofreehighqps/D2/29/GKwRIW4OTRUCAAMozQTD6-PO.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

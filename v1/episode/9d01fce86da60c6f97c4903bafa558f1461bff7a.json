@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/61b3-audiofreehighqps/AA/CC/CKwRIMAER4WHABJbOgCdBDhC.m4a",
+  "apple_collection_id": "1562546156",
+  "show": "育儿知识：新生婴儿吐奶怎么办",
+  "titel": "01、怎么预防一个月宝宝吐奶，吐奶的处理办法",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIMAER4WHABJbOgCdBDhC.m4a?channel=rss&album_id=48485453&track_id=404316031&uid=135370948&jt=https://aod.cos.tx.xmcdn.com/storages/61b3-audiofreehighqps/AA/CC/CKwRIMAER4WHABJbOgCdBDhC.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1203002,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:29:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨一个月大婴儿吐奶的预防与科学处理方法",
+  "kurzfassung": "本期节目介绍了针对一个月大婴儿吐奶现象的科学预防与处理方法。主要措施包括帮助宝宝拍嗝、改善喂奶姿势以及控制喂奶量。此外，还需要注意保护宝宝的腹部以防受凉。",
+  "stichpunkte": [
+    "竖抱宝宝并轻轻拍打后背五分钟以上是基本的拍嗝方法",
+    "如果宝宝无法打嗝，可以用手掌按摩后背",
+    "可让宝宝坐起来或趴在腿上轻拍后背来帮助拍嗝",
+    "喂奶时避免让宝宝躺着吸奶以防奶水反流引发吐奶",
+    "建议将宝宝揽在怀里喂奶，且头部要比身体高一些",
+    "喂奶后应将宝宝竖起来并从脊椎中部往上轻轻拍背",
+    "控制每次喂奶量，做到每次少喂、多喂几次",
+    "注意保护宝宝的肚子以免受凉引发肠胃痉挛导致吐奶"
+  ],
+  "kapitel": [
+    {
+      "titel": "预防和处理吐奶的方法",
+      "start": 1.68
+    },
+    {
+      "titel": "应对吐奶的具体措施",
+      "start": 60.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:29:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 148,
+  "veroeffentlicht": "2021-04-10T15:21:38+00:00",
+  "beschreibung": "有部分婴儿经常会有吐奶的现象，一出生的时候就已经会吐奶了，甚至到了1-2个月了，吐奶的现象还时有发生，这让不少妈妈们伤脑筋。\n\n妈妈们害怕宝宝吃进去的奶水全部吐出来了，宝宝吃不饱，会影响宝宝的成长发育。 家有吐奶严重的婴儿，妈妈们该怎么办啊？在这里解决方面都讲给你听。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>有部分婴儿经常会有吐奶的现象，一出生的时候就已经会吐奶了，甚至到了1-2个月了，吐奶的现象还时有发生，这让不少妈妈们伤脑筋。</span></p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>妈妈们害怕宝宝吃进去的奶水全部吐出来了，宝宝吃不饱，会影响宝宝的成长发育。 家有吐奶严重的婴儿，妈妈们该怎么办啊？在这里解决方面都讲给你听。</span></p><span><br /></span><br />",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6fa8-audiofreehighqps/B4/1C/CMCoOSEER4ISAAJjqwCdAx56.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

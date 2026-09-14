@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_991697298",
+  "apple_collection_id": "1549450182",
+  "show": "体育产业独立评论",
+  "titel": "对话赵明：在曼城俱乐部工作是一种怎样的体验？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOCsYVASyuHQSqqRnT.m4a?channel=rss&album_id=45663347&track_id=991697298&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/9021-audiofreehighqps/49/54/GKwRIJIOCsYVASyuHQSqqRnT.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19705373,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T05:42:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "对话曼城俱乐部员工赵明，探讨在英超豪门工作的真实体验与企业文化。",
+  "kurzfassung": "本期节目对话曼城俱乐部员工赵明，深入探讨了曼城的企业文化、跨部门协作机制以及国际化运营模式。赵明分享了自己从布莱克本加入曼城的心路历程，以及俱乐部如何通过长期的内容筹备与情感链接对待离队球员。此外，双方还讨论了曼城对中国市场的战略重视及未来的发展展望。",
+  "stichpunkte": [
+    "曼城俱乐部拥有自上而下的学习文化，重视复盘机制与跨部门协作。",
+    "俱乐部文化既受管理层与主教练瓜迪奥拉的个人魅力影响，也形成了长效的组织习惯。",
+    "媒体和内容部门通常提前数年为球员及教练的离任做长期筹备，确保内容品质高且充满人文关怀。",
+    "曼城与离队球员保持紧密联系，将其视为俱乐部无形资产和历史文化的一部分。",
+    "赵明此前曾任布莱克本市场营销经理，后通过专业能力面试加入曼城负责数字内容与策略。",
+    "曼城高度重视中国市场，将其列为全球最重要的重点市场之一，并通过线上内容及线下巡游拉近与球迷距离。",
+    "曼城在中国市场的吸引力不仅源于竞技成绩，更在于其年轻化、国际化和创新的品牌形象。"
+  ],
+  "kapitel": [
+    {
+      "titel": "曼城的企业文化与内部协作",
+      "start": 600.0
+    },
+    {
+      "titel": "国际化环境与职业体验",
+      "start": 847.72
+    },
+    {
+      "titel": "球员离队筹备与俱乐部人情味",
+      "start": 1124.24
+    },
+    {
+      "titel": "求职经历与体育营销经验",
+      "start": 1494.74
+    },
+    {
+      "titel": "中国市场的战略布局与展望",
+      "start": 2059.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T05:42:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2434,
+  "veroeffentlicht": "2026-06-19T08:50:16+00:00",
+  "beschreibung": "主题：在曼城俱乐部工作是一种什么样的体验？\n嘉宾：张宾（主播）× 赵明（曼城俱乐部数字内容经理）\n\n查了一下资料，我在2020年7月份与赵明老师成为了微信好友，当时他还供职于布莱克本俱乐部。后来，他“转会”加盟了英超豪门曼城俱乐部。我一直有关注他的动态，但并没有太多交流。\n\n这个夏天，对于曼城来说颇为特殊，功勋主帅瓜迪奥拉在英超最后一轮之前突然宣布离任（虽然媒体一直在渲染瓜帅的离任）。在效力这家俱乐部整整十年之后，他留下了20座冠军奖杯，挂印而去。曼城为瓜迪奥拉准备的告别仪式温馨感人，京多安、埃德森等离队的功勋回来，与B席、斯通斯以及瓜帅一起接受曼城球迷的顶礼膜拜。\n\n冠军庆典游行中还有一个特别的环节，现任拜仁主教练的孔帕尼、费尔南迪尼奥等名宿重返曼彻斯特，分别举起自己曾立下汗马功劳的冠军奖杯。这一刻，外界会觉得曼城是一家有人情味的职业俱乐部，其内部“大家庭式”的团队文化令我十分好奇。\n赵明接受了我的采访，分享了他眼中的曼城文化究竟是什么样的？透过他的视角，我们或许能够窥见这家英超豪门如何在十年间，既缔造了“蓝月王朝”，又孕育出一种独特的、充满温度的组织文化。",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">主题：在曼城俱乐部工作是一种什么样的体验？</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span><span><span><span><span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">嘉宾：张宾（主播）× 赵明（曼城俱乐部数字内容经理）</strong></span></span></span></span></span></p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><br><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>查了一下资料，我在2020年7月份与赵明老师成为了微信好友，当时他还供职于布莱克本俱乐部。后来，他“转会”加盟了英超豪门曼城俱乐部。我一直有关注他的动态，但并没有太多交流。</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/7e41-audiofreehighqps/27/65/GKwRIRwOCsVCAAKH0gSqqM8p.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/7e41-audiofreehighqps/27/65/GKwRIRwOCsVCAAKH0gSqqM8p.jpg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/7e41-audiofreehighqps/27/65/GKwRIRwOCsVCAAKH0gSqqM8p.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"499.6875\" data-preview=\"http://imagev2.xmcdn.com/storages/7e41-audiofreehighqps/27/65/GKwRIRwOCsVCAAKH0gSqqM8p.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"93.275\"><br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>这个夏天，对于曼城来说颇为特殊，功勋主帅瓜迪奥拉在英超最后一轮之前突然宣布离任（虽然媒体一直在渲染瓜帅的离任）。在效力这家俱乐部整整十年之后，他留下了20座冠军奖杯，挂印而去。曼城为瓜迪奥拉准备的告别仪式温馨感人，京多安、埃德森等离队的功勋回来，与B席、斯通斯以及瓜帅一起接受曼城球迷的顶礼膜拜。</span></p><br><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>冠军庆典游行中还有一个特别的环节，现任拜仁主教练的孔帕尼、费尔南迪尼奥等名宿重返曼彻斯特，分别举起自己曾立下汗马功劳的冠军奖杯。这一刻，外界会觉得曼城是一家有人情味的职业俱乐部，其内部“大家庭式”的团队文化令我十分好奇。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>赵明接受了我的采访，分享了他眼中的曼城文化究竟是什么样的？透过他的视角，我们或许能够窥见这家英超豪门如何在十年间，既缔造了“蓝月王朝”，又孕育出一种独特的、充满温度的组织文化。</span></p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c2f4-audiofreehighqps/52/BB/CMCoOSMD1a9VAAIDLQB7kR__.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

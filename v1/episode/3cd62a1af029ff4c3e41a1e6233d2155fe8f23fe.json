@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_733973339",
+  "apple_collection_id": "1776371801",
+  "show": "广西龙胜中学24春季读后感访谈",
+  "titel": "龙胜中学peer空间 《自卑与超越》读后感访谈1 罗万颖",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GArM7WkKO6emABAAAALfb1St.m4a?channel=rss&album_id=82016175&track_id=733973339&uid=507659612&jt=https://aod.cos.tx.xmcdn.com/storages/c825-audiofreehighqps/6F/9B/GArM7WkKO6emABAAAALfb1St.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7092571,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:02:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "罗万颖分享阅读《自卑与超越》的感悟与改变。",
+  "kurzfassung": "罗万颖分享了阅读阿德勒著作《自卑与超越》后的深刻改观，谈及该书如何治愈其心伤并成为改变性格的指南。她结合高中生活探讨了生活的意义，并讨论了童年经历以及生理缺陷对个人成长和人际交往的影响。最后，她反思了小孩子的真实天性及周围人对其胎记的不同看法。",
+  "stichpunkte": [
+    "罗万颖因了解作者阿德勒而对《自卑与超越》彻底改观",
+    "阿德勒的思想治愈了罗万颖的心伤，成为她改变性格的指南",
+    "罗万颖通过日本作家的相关书籍接触并反复阅读阿德勒的理论",
+    "面对高中学习生活，罗万颖表示生活意义在于能活一天算一天并保持自由开心",
+    "罗万颖认为童年经历在人生中占据重要位置，行为方式常取决于童年遭遇",
+    "阿德勒主张过去不影响现在，主观想法才是决定的因素",
+    "罗万颖分享了身边人被娇纵及自己曾遭孤立的经历",
+    "罗万颖讨论了童年时因身上胎记遭受异样眼光的心路历程"
+  ],
+  "kapitel": [
+    {
+      "titel": "对《自卑与超越》的改观与阿德勒的影响",
+      "start": 3.78
+    },
+    {
+      "titel": "高中生活与生活意义的探讨",
+      "start": 100.12
+    },
+    {
+      "titel": "童年经历与成长影响",
+      "start": 218.96
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:02:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 447,
+  "veroeffentlicht": "2024-06-09T17:21:59+00:00",
+  "beschreibung": "来自广西龙胜中学学生的读后感访谈",
+  "beschreibung_html": "来自广西龙胜中学学生的读后感访谈",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b303-audiofreehighqps/C6/9C/GArMcTAKO6edAABrMQLfb1Mt.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

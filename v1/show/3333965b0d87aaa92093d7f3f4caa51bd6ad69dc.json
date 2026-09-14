@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "薄荷糖电影季",
+  "apple_collection_id": "919774523",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/07/23/3224629524124237318_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/07/23/3224629524124237318_hd.mp3",
+      "pfad": "/v1/episode/2188a6b21ef5015d74966665ea672f99b62cf3a3.json",
+      "titel": "【大条小条】书架上的当代文学史",
+      "veroeffentlicht": "2026-07-23T21:40:19+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "借着书架上的当代文学藏书，父子二人展开了一场关于中国当代文坛的对谈与普及教育。"
+    }
+  ]
+}

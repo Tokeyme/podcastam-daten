@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "f6908a8a-0adf-4e8f-add5-b4ad013b45a2",
+  "apple_collection_id": "1577457100",
+  "show": "Emergency Intercom",
+  "titel": "SAVE THE BEARS FROM OZEMPIC",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/3aa7a115-3342-4dfd-97f0-b2f100f9dbfc/f6908a8a-0adf-4e8f-add5-b4ad013b45a2/audio.mp3?utm_source=Podcast&in_playlist=8a3cb5f4-f6a6-419b-a8fb-b2f100f9dc1e",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 73851574,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:25:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Comedians discuss animal bears on Ozempic, parking garage meltdowns, and weird internet…",
+  "kurzfassung": "The hosts chat about an absurd rumor regarding bears taking Ozempic and share tour announcements for San Diego and San Francisco. They dive into random tangents including car parking mishaps, misophonia, strange online products, and embarrassing Tumblr history. The episode wraps up with music and media recommendations of the week.",
+  "stichpunkte": [
+    "Tour dates announced for San Diego at the Balboa Theater and San Francisco at the Castro Theater.",
+    "A humorous discussion about whether animal bears could somehow get access to Ozempic in the woods.",
+    "A chaotic parking garage incident at Century City involving a too-tall car scraping its roof.",
+    "Reflections on past misophonia struggles and how medication helped ease sensory irritation.",
+    "An awkward realization about accidentally public likes on Tumblr featuring adult content during a livestream.",
+    "Commentary on worsening app user experiences, especially Amazon and AI shopping tools.",
+    "Media recommendations including music from Raven Renee and Grimes, alongside favorite TV shows."
+  ],
+  "kapitel": [
+    {
+      "titel": "Tour Announcements and Bear Ozempic",
+      "start": 15.84
+    },
+    {
+      "titel": "Body Mod Tales and Parking Garage Meltdowns",
+      "start": 281.72
+    },
+    {
+      "titel": "Misophonia and App Design Grievances",
+      "start": 1243.08
+    },
+    {
+      "titel": "The Mortifying Tumblr Likes Story",
+      "start": 2310.2
+    },
+    {
+      "titel": "Restroom Mishaps and Media Picks",
+      "start": 3340.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Ozempic for bears",
+      "start": 29.78,
+      "ende": 49.894,
+      "laenge": 20.11,
+      "byte_start": 535012,
+      "byte_ende": 856839,
+      "bytes": 321828,
+      "range_header": "bytes=535012-856839",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 29.858,
+      "anker_sha256": "f6c82c7a03582f8e1819faa1cf23dc82b8f6d69f8f1a5a3613aa6fb9ff392a18",
+      "einblendung_ms": 60,
+      "text": "A brief promo for the weekly book club podcast Pro Society highlights its focus on reading and digital culture."
+    },
+    {
+      "hook": "Monster balls filled with saline",
+      "start": 621.061,
+      "ende": 641.149,
+      "laenge": 20.09,
+      "byte_start": 9995516,
+      "byte_ende": 10316926,
+      "bytes": 321411,
+      "range_header": "bytes=9995516-10316926",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 621.14,
+      "anker_sha256": "4004e941e61beacf62788328c549bc30096976d98c1dbeee4f3514ab663ff028",
+      "einblendung_ms": 60,
+      "text": "An observation about men unnecessarily panicking over losing their hair sparks a mutual agreement."
+    },
+    {
+      "hook": "Scraping the roof in a parking garage",
+      "start": 959.843,
+      "ende": 979.958,
+      "laenge": 20.11,
+      "byte_start": 15416029,
+      "byte_ende": 15737857,
+      "bytes": 321829,
+      "range_header": "bytes=15416029-15737857",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 959.922,
+      "anker_sha256": "191c793c426730fb5a36afd8f83470a5dcd2b66be77a31a8a4a94bc6161db2b4",
+      "einblendung_ms": 60,
+      "text": "A movie trip to see Midnight on Oak Street leads to a casual discussion about the film's modest entertainment value."
+    },
+    {
+      "hook": "Public likes exposed on livestream",
+      "start": 2397.806,
+      "ende": 2422.021,
+      "laenge": 24.22,
+      "byte_start": 38423427,
+      "byte_ende": 38810874,
+      "bytes": 387448,
+      "range_header": "bytes=38423427-38810874",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2397.884,
+      "anker_sha256": "2ce3f94236550c2c4ac82519cfbe5c4e0d0628c457f1bb77865d9a330af69556",
+      "einblendung_ms": 60,
+      "text": "An ironic suggestion to create an environmental disaster as an art project segues into a comment on Jason Kelce providing urine to AI facilities."
+    },
+    {
+      "hook": "Blamed for a clogged toilet",
+      "start": 3441.032,
+      "ende": 3463.131,
+      "laenge": 22.1,
+      "byte_start": 55115044,
+      "byte_ende": 55468636,
+      "bytes": 353593,
+      "range_header": "bytes=55115044-55468636",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3441.11,
+      "anker_sha256": "e627e264274edb946f529e794ac68c18ff3d17ff400eea35813c581419fd0894",
+      "einblendung_ms": 60,
+      "text": "An unusual form of synesthesia involving text and hatred is identified after analyzing bizarre political wordplays."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:25:42+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3770,
+  "veroeffentlicht": "2026-08-21T19:57:58+00:00",
+  "beschreibung": "Drew comes out as a bear lover\nSan Diego 10/1 Balboa Theatre, San Diego, CA\nTicket Link: https://www.ticketmaster.com/event/0A0064F605D2E4B4 (https://urldefense.com/v3/__https://www.ticketmaster.com/event/0A0064F605D2E4B4__;!!F_iz1QV3Gc5jkBg!V2RlmogBUunDpATgSlK_Hnkg25n8zGdYqCo750TDZ8q60d9J-datKADXYb32fI5ZcdrzfgGSjFdrgzdWlm4g-75h2ylrN132$)\n\nSan Francisco 10/9 The Castro Theatre, San Francisco, CA\nTicket Link: https://www.ticketmaster.com/event/1C0064FA40BC9934?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet (https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064FA40BC9934?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet__;!!F_iz1QV3Gc5jkBg!V2RlmogBUunDpATgSlK_Hnkg25n8zGdYqCo750TDZ8q60d9J-datKADXYb32fI5ZcdrzfgGSjFdrgzdWlm4g-75h26dmUKbx$)\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Drew comes out as a bear lover</p> <p>San Diego 10/1 Balboa Theatre, San Diego, CA</p> <p>Ticket Link: <a href=\"https://www.ticketmaster.com/event/0A0064F605D2E4B4\">https://www.ticketmaster.com/event/0A0064F605D2E4B4</a> (<a href=\"https://urldefense.com/v3/__https://www.ticketmaster.com/event/0A0064F605D2E4B4__;!!F_iz1QV3Gc5jkBg!V2RlmogBUunDpATgSlK_Hnkg25n8zGdYqCo750TDZ8q60d9J-datKADXYb32fI5ZcdrzfgGSjFdrgzdWlm4g-75h2ylrN132$)\">https://urldefense.com/v3/__https://www.ticketmaster.com/event/0A0064F605D2E4B4__;!!F_iz1QV3Gc5jkBg!V2RlmogBUunDpATgSlK_Hnkg25n8zGdYqCo750TDZ8q60d9J-datKADXYb32fI5ZcdrzfgGSjFdrgzdWlm4g-75h2ylrN132$)</a></p> <p>&nbsp;</p> <p>San Francisco 10/9 The Castro Theatre, San Francisco, CA</p> <p>Ticket Link: <a href=\"https://www.ticketmaster.com/event/1C0064FA40BC9934?camefrom=CFC_ANOTHERPLANET_artist&amp;brand=anotherplanet\">https://www.ticketmaster.com/event/1C0064FA40BC9934?camefrom=CFC_ANOTHERPLANET_artist&amp;brand=anotherplanet</a> (<a href=\"https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064FA40BC9934?camefrom=CFC_ANOTHERPLANET_artist&amp;brand=anotherplanet__;!!F_iz1QV3Gc5jkBg!V2RlmogBUunDpATgSlK_Hnkg25n8zGdYqCo750TDZ8q60d9J-datKADXYb32fI5ZcdrzfgGSjFdrgzdWlm4g-75h26dmUKbx$)\">https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064FA40BC9934?camefrom=CFC_ANOTHERPLANET_artist&amp;brand=anotherplanet__;!!F_iz1QV3Gc5jkBg!V2RlmogBUunDpATgSlK_Hnkg25n8zGdYqCo750TDZ8q60d9J-datKADXYb32fI5ZcdrzfgGSjFdrgzdWlm4g-75h26dmUKbx$)</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3aa7a115-3342-4dfd-97f0-b2f100f9dbfc/8a3cb5f4-f6a6-419b-a8fb-b2f100f9dc1e/image.jpg?t=1752536136&size=Large",
+  "folgennummer": 249,
+  "kapitel_quelle": "modell"
+}

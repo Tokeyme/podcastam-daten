@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007656901",
+  "apple_collection_id": "1809548961",
+  "show": "盲盒读书慧｜读未知遇知己",
+  "titel": "【第17期全】从“为了你好”到生命的涅槃：家庭、艺术与死亡的7次漫游",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEOXan0Aho9WATKBjFw.m4a?channel=rss&album_id=87659386&track_id=1007656901&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/a54f-audiofreehighqps/A4/50/GKwRIJEOXan0Aho9WATKBjFw.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 35274072,
+    "format": "m4a",
+    "geprueft_am": "2026-09-13T09:45:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "一场关于家庭教育、欧洲歌剧与生命死亡的深度读书分享漫游",
+  "kurzfassung": "本期播客记录了一场线下读书分享会，嘉宾与主持人们围绕多部心理学、文学和艺术著作展开讨论。话题从家庭教育中的暴力与亲子关系出发，延伸至歌剧艺术的审美与人文修养。最后，大家通过对书籍的解读，探讨了孤独、自然循环以及如何正确理解自我与世界。",
+  "stichpunkte": [
+    "讨论心理学著作《为了你好》，分析中国家庭教育中常见的暴力与溺爱现象",
+    "结合希特勒童年经历等案例，探讨原生家庭创伤对成年后行为的影响",
+    "分享自传体漫画《无花果之味》，通过兄妹三人重回老宅的故事感悟亲情与告别",
+    "探讨欧洲歌剧的历史与艺术内涵，强调音乐创作与文学、哲学等综合修养的密不可分",
+    "分析历史同义词书籍《镜子》，从微观和被遮蔽的视角重新审视世界史",
+    "讨论青色的文化内涵及其在中国传统文化中的符号意义",
+    "探讨孤独与自由的关系，认为孤独是创作者与心灵对话的必要状态",
+    "探讨生命的消逝与循环更新，通过自然与植物的更替消解对死亡的恐惧"
+  ],
+  "kapitel": [
+    {
+      "titel": "从《为了你好》聊家庭教育与原生家庭创伤",
+      "start": 105.26
+    },
+    {
+      "titel": "从漫画《无花果之味》回望童年与亲情",
+      "start": 890.22
+    },
+    {
+      "titel": "欧洲歌剧的400年历史与艺术修养",
+      "start": 2367.42
+    },
+    {
+      "titel": "历史书《镜子》与青色的文化意涵",
+      "start": 3172.96
+    },
+    {
+      "titel": "孤独、艺术表达与生命的涅槃",
+      "start": 4071.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-13T09:45:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4357,
+  "veroeffentlicht": "2026-08-21T05:47:02+00:00",
+  "beschreibung": "大家好，欢迎来到盲盒读书会的播客，我是小卉。这是一档从线下成长起来的读书谈话类节目。\n这一期，我们从一本心理学著作，也是一句很多中国孩子都听过的话——“为了你好。”开始，大家聊起了关于家庭教育、亲子关系，以及那些藏在成长里的爱与伤害的真实经历。\n接着，一本讲兄妹重回老宅的漫画，让大家重新回望童年，也重新理解了父母和家人；一本关于孤独的绘本，又让我们聊到，一个人如何与自己相处，如何在平凡的生活里找到治愈自己的力量。\n这一期读书会，我们有幸邀请到了《韩老师说歌剧》这本书的作者，韩晓波教授，跟随他书中妙趣横生又严谨专业的讲述，走进欧洲歌剧艺术的世界。\n而另外几本书，则把讨论带到了历史、色彩与生命。大家从不同的视角重新理解文明、自然与时间，也发现，那些看似毫不相关的话题，最后都回到了同一个问题——我们该怎样理解自己，也理解这个世界。\n下面，就让我们一起回到那天下午的聊天现场。\n\n*时间线：\n01:45《为了你好》：那些以爱为名的教育，会留下什么？\n05:33从贝多芬到莫扎特：原生家庭会写进一个人的作品里吗？\n07:49孩子需要的，真的是永远快乐吗？\n14:38《无花果之味》：长大以后，我们才慢慢读懂父母\n22:15一棵果树，为什么总能把离家的人重新叫回来？\n27:09人生真正留恋的，往往是那些细枝末节\n28:05一个人、一条狗和天马行空的世界：当孤独成为创造力\n35:31自由与孤独，原来是一枚硬币的两面\n39:20《韩老师说歌剧》：把400年歌剧史讲到人人都能听懂\n52:54《镜子》：换一个视角，看见那些被遮蔽的世界史\n01:01:49《青色极简史》：一个“青”字里，藏着多少中国文化？\n01:07:53《生命的涅槃》：死亡不是终点，而是生命循环的一部分\n*本期盲盒书单：\n1、《为了你好》【瑞士】爱丽丝·米勒 著，余凤霞、郑世彦 译，北京联合出版公司\n2、《无花果之味》【西班牙】帕科·罗卡（Paco Roca）著，张子祎 译，四川美术出版社\n3、《孤独的夹心是糖做的》， 著者/绘者：法6，湖南文艺出版社\n4、《韩老师说歌剧（上）》韩晓波著，环球出版社\n5、《镜子：一部被遮蔽的世界史》【乌拉圭】爱德华多·加莱亚诺 著，张伟劼 译，民主与建设出版社\n6、《青色极简史》包岩 著，现代出版社\n7、《生命的涅槃：动物的死亡之道》，【美】贝恩德·海因里希 著，徐凤銮、钟灵毓秀 译，上海科技教育出版社\n��参与讨论：你对本期聊到的内容有什么想法？有哪本书让你印象深刻？欢迎在评论区留言，和我们一起交流！\n��联系我们：想和更多有趣的朋友一起讨论好书？欢迎添加我们的联系方式：xiaohuiPHD，加入「盲盒读书慧」的线上社群，一起交流、推荐、分享阅读心得！更有机会受邀来到线下读书会参与互动和节目录制！\n小宇宙/喜马拉雅/苹果播客/微信音频/QQ音乐播客平台，你都可以订阅我们的「盲盒读书慧」，这样就不会错过每一次的精彩分享！\n*创作团队\n小卉博士、范范、王者、张瑞、刘伟、包子、张君",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">大家好，欢迎来到盲盒读书会的播客，我是小卉。这是一档从线下成长起来的读书谈话类节目。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这一期，我们从一本心理学著作，也是一句很多中国孩子都听过的话——“为了你好。”开始，大家聊起了关于家庭教育、亲子关系，以及那些藏在成长里的爱与伤害的真实经历。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">接着，一本讲兄妹重回老宅的漫画，让大家重新回望童年，也重新理解了父母和家人；一本关于孤独的绘本，又让我们聊到，一个人如何与自己相处，如何在平凡的生活里找到治愈自己的力量。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这一期读书会，我们有幸邀请到了《韩老师说歌剧》这本书的作者，韩晓波教授，跟随他书中妙趣横生又严谨专业的讲述，走进欧洲歌剧艺术的世界。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">而另外几本书，则把讨论带到了历史、色彩与生命。大家从不同的视角重新理解文明、自然与时间，也发现，那些看似毫不相关的话题，最后都回到了同一个问题——我们该怎样理解自己，也理解这个世界。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">下面，就让我们一起回到那天下午的聊天现场。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">*时间线：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>01:45</b>《为了你好》：那些以爱为名的教育，会留下什么？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>05:33</b>从贝多芬到莫扎特：原生家庭会写进一个人的作品里吗？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>07:49</b>孩子需要的，真的是永远快乐吗？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>14:38</b>《无花果之味》：长大以后，我们才慢慢读懂父母</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>22:15</b>一棵果树，为什么总能把离家的人重新叫回来？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>27:09</b>人生真正留恋的，往往是那些细枝末节</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>28:05</b>一个人、一条狗和天马行空的世界：当孤独成为创造力</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>35:31</b>自由与孤独，原来是一枚硬币的两面</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>39:20</b>《韩老师说歌剧》：把400年歌剧史讲到人人都能听懂</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>52:54</b>《镜子》：换一个视角，看见那些被遮蔽的世界史</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>01:01:49</b>《青色极简史》：一个“青”字里，藏着多少中国文化？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>01:07:53</b>《生命的涅槃》：死亡不是终点，而是生命循环的一部分</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">*本期盲盒书单：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">1、《为了你好》【瑞士】爱丽丝·米勒&nbsp;著，余凤霞、郑世彦&nbsp;译，北京联合出版公司</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">2、《无花果之味》【西班牙】帕科·罗卡（Paco Roca）著，张子祎&nbsp;译，四川美术出版社</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">3、《孤独的夹心是糖做的》，&nbsp;著者/绘者：法6，湖南文艺出版社</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">4、《韩老师说歌剧（上）》韩晓波著，环球出版社</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">5、《镜子：一部被遮蔽的世界史》【乌拉圭】爱德华多·加莱亚诺&nbsp;著，张伟劼&nbsp;译，民主与建设出版社</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">6、《青色极简史》包岩&nbsp;著，现代出版社</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">7、《生命的涅槃：动物的死亡之道》，【美】贝恩德·海因里希&nbsp;著，徐凤銮、钟灵毓秀&nbsp;译，上海科技教育出版社</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">��参与讨论：你对本期聊到的内容有什么想法？有哪本书让你印象深刻？欢迎在评论区留言，和我们一起交流！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">��联系我们：想和更多有趣的朋友一起讨论好书？欢迎添加我们的联系方式：xiaohuiPHD，加入「盲盒读书慧」的线上社群，一起交流、推荐、分享阅读心得！更有机会受邀来到线下读书会参与互动和节目录制！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">小宇宙/喜马拉雅/苹果播客/微信音频/QQ音乐播客平台，你都可以订阅我们的「盲盒读书慧」，这样就不会错过每一次的精彩分享！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">*创作团队</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>小卉博士、范范、王者、张瑞、刘伟、包子</span>、张君</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/12e9-audiofreehighqps/07/FA/GAqhg3wNhzwDAAExygR4OxWO.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

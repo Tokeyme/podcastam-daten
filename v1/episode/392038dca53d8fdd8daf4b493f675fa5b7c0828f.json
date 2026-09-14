@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group68/M04/2D/86/wKgMbl3JgozxT8OHACJpYa5Vw4o146.m4a",
+  "apple_collection_id": "1484689253",
+  "show": "7分钟获取海外商业财经资讯",
+  "titel": "迪士尼大赚，全球富豪财富正在缩水？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgMbl3JgozxT8OHACJpYa5Vw4o146.m4a?channel=rss&album_id=30351956&track_id=227617184&uid=103867434&jt=https://aod.cos.tx.xmcdn.com/group68/M04/2D/86/wKgMbl3JgozxT8OHACJpYa5Vw4o146.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2255201,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:07:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "迪士尼大赚，全球富豪财富在经历五年增长后于2018年首次下滑",
+  "kurzfassung": "瑞士银行报告显示全球亿万富豪财富在2018年首次出现下滑。迪士尼凭借多部热门电影实现强劲季度业绩，并将重心转向流媒体。美国疾控中心在电子烟肺部损伤患者样本中检测出维生素E油。",
+  "stichpunkte": [
+    "全球亿万富豪的财富在经历五年增长后于2018年首次下滑",
+    "美元走强及股市波动是富豪财富缩水的主要原因",
+    "穆迪下调英国债务评级展望，称脱欧决策过程出现瘫痪",
+    "迪士尼凭借《狮子王》和《玩具总动员4》等大片实现强劲季度业绩",
+    "迪士尼未来业务重心将转向吸引用户使用其流媒体服务",
+    "迪士尼影视娱乐部门收入增长52%至33亿美元",
+    "美国疾控中心在吸电子烟肺部损伤患者的样本中均检测出维生素E油",
+    "维生素E油的发现为调查电子烟肺部损伤原因提供了重要线索"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目简介",
+      "start": 0.0
+    },
+    {
+      "titel": "全球亿万富豪财富下滑",
+      "start": 69.02
+    },
+    {
+      "titel": "穆迪下调英国债务评级展望",
+      "start": 133.22
+    },
+    {
+      "titel": "迪士尼季度业绩强劲",
+      "start": 176.16
+    },
+    {
+      "titel": "电子烟肺部损伤调查进展",
+      "start": 219.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:07:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 278,
+  "veroeffentlicht": "2019-11-12T00:45:00+00:00",
+  "beschreibung": "全球亿万富豪的财富在经历五年增长后于2018年首次下滑\n《狮子王》和《玩具总动员4》等热门大片帮助迪士尼实现强劲季度业绩\n美国疾控中心发现电子烟相关神秘病例的重要线索\n\n以下是美国东部时间11月11日最新最重要的财经消息。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">全球亿万富豪的财富在经历五年增长后于2018年首次下滑</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">《狮子王》和《玩具总动员4》等热门大片帮助迪士尼实现强劲季度业绩</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">美国疾控中心发现电子烟相关神秘病例的重要线索</p><span><br /></span><p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\" data-flag=\"normal\"><b>以下是美国东部时间11</b><b>月11</b><b>日最新最重要的财经消息。</b></p><br />",
+  "bild_url": "https://fdfs.xmcdn.com/group68/M0A/00/E1/wKgMeF23UIXSRKXeAACOIn908xc124.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

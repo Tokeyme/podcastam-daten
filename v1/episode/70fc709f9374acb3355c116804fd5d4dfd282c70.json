@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_957940015",
+  "apple_collection_id": "1893293800",
+  "show": "车载音乐|国会鼓专辑|",
+  "titel": "车载音乐国会鼓DJ欣赏 (1)",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwNbbs1Abzg0QRtiMPk.m4a?channel=rss&album_id=117082067&track_id=957940015&uid=522946258&jt=https://aod.cos.tx.xmcdn.com/storages/e91f-audiofreehighqps/B2/CA/GKwRIRwNbbs1Abzg0QRtiMPk.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29155537,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T16:20:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "车载音乐与DJ节奏精选合集第一部分",
+  "kurzfassung": "本期节目是一场车载音乐与DJ节奏的欣赏合集。内容包含了多首不同风格的英文歌曲和动感旋律。节目中穿插了字幕组信息以及对听众的支持呼吁。",
+  "stichpunkte": [
+    "播放了多首英文流行与电子风格的歌曲",
+    "包含关于情感与内心独白的歌词内容",
+    "穿插了明镜与点点栏目的订阅呼吁",
+    "提供中文字幕及相关制作人员信息",
+    "融入了韩语歌词片段与多国语言元素",
+    "整体呈现为连续的车载DJ音乐串烧"
+  ],
+  "kapitel": [
+    {
+      "titel": "音乐欣赏与歌曲播放",
+      "start": 1.26
+    },
+    {
+      "titel": "频道支持与提示信息",
+      "start": 1423.02
+    },
+    {
+      "titel": "DJ节奏与外语歌曲",
+      "start": 2310.0
+    },
+    {
+      "titel": "动感旋律与尾声",
+      "start": 2880.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T16:20:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3601,
+  "veroeffentlicht": "2026-02-20T05:56:49+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/943b-audiofreehighqps/F0/40/GKwRIUENa6dGAAIEjwRs87wt.jpeg",
+  "kapitel_quelle": "modell"
+}

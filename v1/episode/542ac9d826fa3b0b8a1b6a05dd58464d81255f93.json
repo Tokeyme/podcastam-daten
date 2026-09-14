@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_495329435",
+  "apple_collection_id": "1605545603",
+  "show": "纯音乐/500首无版权音频素材 Vlog BGM",
+  "titel": "XIBE - In Your Mind (Vlog No Copyright Music)",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoFwmn2ABcYKQEQHykl.m4a?channel=rss&album_id=56032756&track_id=495329435&uid=37260008&jt=https://aod.cos.tx.xmcdn.com/storages/2722-audiofreehighqps/B2/F8/GKwRIDoFwmn2ABcYKQEQHykl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1513513,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:01:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "收听XIBE的音乐作品In Your Mind。",
+  "kurzfassung": "本期节目为XIBE的音乐作品《In Your Mind》。歌曲表达了对陪伴的渴望与离别的感伤。整体旋律围绕孤独与寻找真相展开。",
+  "stichpunkte": [
+    "李宗盛参与词曲创作。",
+    "歌词表达了无法轻易放手的复杂情感。",
+    "反复请求不要再次陷入孤独。",
+    "回忆了曾经作为彼此避风港的过往。",
+    "在回忆与思念中寻找循环与真相。",
+    "歌曲结尾传达出孤独的心境。"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲播放",
+      "start": 25.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:01:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 186,
+  "veroeffentlicht": "2022-01-23T00:53:04+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6a65-audiofreehighqps/4F/D4/GKwRIJEFqCJQAAKlFwEJh4ER.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

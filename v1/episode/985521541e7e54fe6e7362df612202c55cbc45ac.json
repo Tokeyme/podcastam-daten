@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "guid": "6a857f8afb87252df2ec6a64",
+  "apple_collection_id": "1809736974",
+  "show": "你，静不下来",
+  "titel": "对谈心理学家陈海贤：中国式家庭里，逃避真的有用吗？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a857f8afb87252df2ec6a64/media.xyzcdn.net/67b6e9f7c58770a6e0030003/loHFGmhprDPPeO7tbfHKt0WrZMzC.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 62010961,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T17:10:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 210 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "心理学家陈海贤做客对谈，探讨中国式家庭中的爱、纠缠与改变。",
+  "kurzfassung": "心理学家陈海贤携新书《中国式家庭》做客，通过书中31个真实咨询案例，深度剖析了家庭关系中的情感纠缠与沟通困境。节目探讨了为何人们在面对父母时容易陷入回避或冲突，并强调了通过真诚对话与自我觉察来打破病态模式、重建亲密关系的可能性。嘉宾们一致认为，爱是人类文明的基石，学会如何去爱与被爱是人生中至关重要的修行。",
+  "stichpunkte": [
+    "陈海贤新书《中国式家庭》基于31个真实咨询案例，还原了复杂的人际关系与对话过程。",
+    "心理咨询师在工作中需要保持情感投入与理性超脱的双重状态，培养“坐在肩膀上的小人”以审视对话。",
+    "家庭是安全感的来源，但若缺乏有效沟通，爱也可能演变成沉重的负担与伤害。",
+    "许多人因恐惧改变而选择维持病态的“舒适圈”，宁可忍受痛苦也不愿面对矛盾。",
+    "面对父母时，人们常不自觉地退回到孩童时期的反应模式，导致沟通失效。",
+    "通过真诚的对话与面对矛盾，即使是破裂的婚姻或亲子关系也有机会获得修复与新生。",
+    "心理咨询并非简单的消费，而是一种高性价比的自我投资，能帮助个体理清深层心理困境。",
+    "嘉宾强调，无论家庭关系如何，个体都应保持独立的人格，不应以牺牲自我为代价去适应病态关系。"
+  ],
+  "kapitel": [
+    {
+      "titel": "新书分享：从31个真实案例看家庭关系",
+      "start": 55.04
+    },
+    {
+      "titel": "心理咨询师的自我修养：投入与超脱",
+      "start": 169.32
+    },
+    {
+      "titel": "MBTI与星座：心理咨询师如何看待人格分类",
+      "start": 226.12
+    },
+    {
+      "titel": "原生家庭的纠缠：为什么我们无法与父母好好说话",
+      "start": 513.92
+    },
+    {
+      "titel": "爱与文明：现代人为何无法摆脱关系",
+      "start": 644.08
+    },
+    {
+      "titel": "心理咨询的价值：从回避矛盾到直面真相",
+      "start": 777.04
+    },
+    {
+      "titel": "案例解析：如何打破病态的婚姻模式",
+      "start": 2080.62
+    },
+    {
+      "titel": "结语：人生只有一件事，就是活好",
+      "start": 3517.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T17:10:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3834,
+  "veroeffentlicht": "2026-08-19T16:00:00+00:00",
+  "beschreibung": "【本期内容】\n为什么有人宁愿困在糟糕的关系里反复内耗，也不肯迈出改变的一步？ 为什么面对父母的寻常话语，我们总忍不住失去耐心、瞬间破防？ 童年埋下的情感印记，真的会在成年后，持续左右我们的亲密关系吗？\n本期《你静不下来》，静姐与养鸡特邀心理学家陈海贤老师，携新书《中国式家庭》展开一场关于爱、羁绊与自我和解的深度对话。\n与父亲断亲却又反复拉扯的女儿、在咨询室里完成“二次婚礼”的夫妻、因旧日恩情隐忍丈夫出轨的妻子……书中31个真实咨询案例，照见了当代中国家庭的普遍困境：代际之间纠缠不清的情感羁绊，婚姻里避而不谈的回避模式，面对伤害时的恐惧与内耗，以及我们人人都可能陷入的——对“熟悉的痛苦”的路径依赖。而结束痛苦的第一步，就是你愿意找到解决方法并实践它。\n欢迎听友们参与我们的话题讨论#你觉得亲密关系里最重要的是什么？“听友来信”系列持续征稿中，如果你也有一些不想和身边人诉说的困扰，爱情、生活、职场上无法解决的问题，都可以通过 my.feishu.cn 投稿给树洞或微信联系小助理ni_jingbuxialai，让我们像老朋友一样聊聊天。\n【本期嘉宾】\n陈海贤——心理学博士，知名心理咨询师，心理学家；得到APP课程“自我发展心理学”、“亲密关系”、“家庭关系”主理人；著有豆瓣高分图书《了不起的我》《爱需要学习》《走出黑森林》《中国式家庭》《重新找回自己》\n【时间轴】\n16:20 拆解亲密关系通病：回避矛盾，最终只会拉远彼此\n19:43 “我爱你，但我不喜欢你” 道尽代际复杂情感\n24:28 经典案例：拉黑父亲的女儿 —— 为什么可笑的话会激怒我们\n31:17 相处之道：这两点，是所有好关系的前提\n34:43 咨询室里的婚礼：为什么伴侣变了我们却看不见\n38:00 困住你的不是舒适圈，是 “熟悉圈”\n40:05 案例分享：隐忍丈夫出轨的妻子 —— 婚姻生病了也需要治疗\n46:56 为什么有人宁愿失去自我，也要守住糟糕的关系\n47:46 拆解内耗本质：用内心冲突，代替处理真实的外在问题\n50:34 关系警示：当你觉得什么都不重要，恰恰是生命力在流失\n52:33 中国式家庭的底色：爱不是绑架，是永远可以回头的底气\n【本期音乐】\n《我变了 我没变》——张碧晨\n【本期剧照】\n【本期书籍】\n《中国式家庭》-陈海贤\n可以点击《中国式家庭》购买陈海贤老师新书～\n【关于我们】\n欢迎大家扫码或搜索ni_jingbuxialai 添加小助理，或通过播客主页公告内的二维码，加入听友群~\n在群里大家可以：\n1.针对发布当期内容话题进行深度讨论\n2.参与节目话题和互动问题的征集\n3.分享关于节目内容和形式的建议\n4.定期发放群福利\n听友群开放入群时间为每周一、周五的10:30～12:30，感谢大家对我们的支持！\n/Contact\n商务合作：46884813@qq.com\n新浪微博：@李静\n抖音：@主持人李静\n小红书：@李静lijing，@你，静不下来\nB站：@李静- LIJING",
+  "beschreibung_html": "<p><strong>【本期内容】</strong></p><p>为什么有人宁愿困在糟糕的关系里反复内耗，也不肯迈出改变的一步？ 为什么面对父母的寻常话语，我们总忍不住失去耐心、瞬间破防？ 童年埋下的情感印记，真的会在成年后，持续左右我们的亲密关系吗？</p><p>本期《你静不下来》，静姐与养鸡特邀心理学家陈海贤老师，携新书《中国式家庭》展开一场关于爱、羁绊与自我和解的深度对话。</p><p>与父亲断亲却又反复拉扯的女儿、在咨询室里完成“二次婚礼”的夫妻、因旧日恩情隐忍丈夫出轨的妻子……书中31个真实咨询案例，照见了当代中国家庭的普遍困境：代际之间纠缠不清的情感羁绊，婚姻里避而不谈的回避模式，面对伤害时的恐惧与内耗，以及我们人人都可能陷入的——对“熟悉的痛苦”的路径依赖。而结束痛苦的第一步，就是你愿意找到解决方法并实践它。</p><p>欢迎听友们参与我们的话题讨论#你觉得亲密关系里最重要的是什么？“听友来信”系列持续征稿中，如果你也有一些不想和身边人诉说的困扰，爱情、生活、职场上无法解决的问题，都可以通过 my.feishu.cn 投稿给树洞或微信联系小助理ni_jingbuxialai，让我们像老朋友一样聊聊天。</p><p><strong>【本期嘉宾】</strong></p><p>陈海贤——心理学博士，知名心理咨询师，心理学家；得到APP课程“自我发展心理学”、“亲密关系”、“家庭关系”主理人；著有豆瓣高分图书《了不起的我》《爱需要学习》《走出黑森林》《中国式家庭》《重新找回自己》</p><p><strong>【时间轴】</strong></p><p><a class=\"timestamp\">16:20</a> 拆解亲密关系通病：回避矛盾，最终只会拉远彼此</p><p><a class=\"timestamp\">19:43</a> “我爱你，但我不喜欢你” 道尽代际复杂情感</p><p><a class=\"timestamp\">24:28</a> 经典案例：拉黑父亲的女儿 —— 为什么可笑的话会激怒我们</p><p><a class=\"timestamp\">31:17</a> 相处之道：这两点，是所有好关系的前提</p><p><a class=\"timestamp\">34:43</a> 咨询室里的婚礼：为什么伴侣变了我们却看不见</p><p><a class=\"timestamp\">38:00</a> 困住你的不是舒适圈，是 “熟悉圈”</p><p><a class=\"timestamp\">40:05</a> 案例分享：隐忍丈夫出轨的妻子 —— 婚姻生病了也需要治疗</p><p><a class=\"timestamp\">46:56</a> 为什么有人宁愿失去自我，也要守住糟糕的关系</p><p><a class=\"timestamp\">47:46</a> 拆解内耗本质：用内心冲突，代替处理真实的外在问题</p><p><a class=\"timestamp\">50:34</a> 关系警示：当你觉得什么都不重要，恰恰是生命力在流失</p><p><a class=\"timestamp\">52:33</a> 中国式家庭的底色：爱不是绑架，是永远可以回头的底气</p><p><strong>【本期音乐】</strong></p><p>《我变了 我没变》——张碧晨</p><p><strong>【本期剧照】</strong></p><img src=\"https://image.xyzcdn.net/lkOHpUzqERoY7iq4g0BqcBAhu-LY.jpg\"><img src=\"https://image.xyzcdn.net/ll77fXMwvwb_IqtQgMQMWaXdPwEF.jpg\"><p><strong>【本期书籍】</strong></p><p>《中国式家庭》-陈海贤</p><p>可以点击<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://v.douyin.com/TPvmLlTNSFw/\">《中国式家庭》</a>购买陈海贤老师新书～</p><img src=\"https://image.xyzcdn.net/FmORBCAm2NLEMQKj8pxd7cObAK_9.png\"><p><strong>【关于我们】</strong></p><figure><img src=\"https://image.xyzcdn.net/FrdB4P_usYLDgIu0bcGpjjjNA8QL.png\"></figure><p>欢迎大家扫码或搜索ni_jingbuxialai 添加小助理，或通过播客主页公告内的二维码，加入听友群~</p><p>在群里大家可以：</p><p>1.针对发布当期内容话题进行深度讨论</p><p>2.参与节目话题和互动问题的征集</p><p>3.分享关于节目内容和形式的建议</p><p>4.定期发放群福利</p><p>听友群开放入群时间为每周一、周五的<a class=\"timestamp\">10:30</a>～<a class=\"timestamp\">12:30</a>，感谢大家对我们的支持！</p><p>/Contact</p><p>商务合作：46884813@qq.com</p><p>新浪微博：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/u/1610536214\">@李静</a></p><p>抖音：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://v.douyin.com/Xa8ONPHBluk/%208@7.com\">@主持人李静</a></p><p>小红书：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/5acda6c711be100f565d8173?xsec_token=YBCJ04ZWYz47okHzs3fzAkbmLmBzUtYOUeV-Rg91Sd0nE=&amp;xsec_source=app_share&amp;xhsshare=CopyLink&amp;appuid=5b82008e26cd5c00011fc94b&amp;apptime=1756301531&amp;share_id=76f0137a1f4048468c2707b27f300728\">@李静lijing</a>，<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/65f3a58e0000000005009c6b?xsec_token=YB8hh1DP34tD37PbWAs__iWZXGK0zTudqAOr131wcGopw=&amp;xsec_source=app_share&amp;xhsshare=CopyLink&amp;appuid=5b82008e26cd5c00011fc94b&amp;apptime=1756290868&amp;share_id=2830debfcfb5421fb8ede7de171c9ed0\">@你，静不下来</a></p><p>B站：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://b23.tv/5yZJLPj\">@李静- LIJING</a></p><p></p>",
+  "bild_url": "https://image.xyzcdn.net/FgmwlCojuDEaS0EAIsbrUDSVMkEu.png",
+  "kapitel_quelle": "modell"
+}

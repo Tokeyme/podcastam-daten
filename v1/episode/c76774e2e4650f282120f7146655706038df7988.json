@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "guid": "6a8052ca17676351c57251bf",
+  "apple_collection_id": "1868871179",
+  "show": "有序生活",
+  "titel": "35.原来我们的生活，都曾被陌生人的善意照亮",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/695a02e38ecc57ffb5b1b2e4/6a8052ca17676351c57251bf/media.xyzcdn.net/695a02e38ecc57ffb5b1b2e4/ltpKx8vrm2bC915AaMBkKjrDI7W0.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 40214067,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T06:55:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾生活中那些来自陌生人的善意与温暖瞬间，点亮疲惫日子。",
+  "kurzfassung": "本期节目探讨了生活中来自陌生人的种种善意与温暖瞬间。Effie分享了自己从早班机司机、大理与丽江旅行中的陌生人，到医院医生以及播客听众身上感受到的纯粹善意。这些不求回报的默契与举动，化作微光治愈了疲惫的生活，让人依然相信世界的美好。",
+  "stichpunkte": [
+    "早班机司机细心留出边界感并主动帮助拾荒老人的温暖举动。",
+    "在大理独自旅行遭遇大雨与打车难时，被路过的好心女老师搭救。",
+    "在大理民宿退房时，受到年轻店员“想像你一样独自旅行”的羡慕与触动。",
+    "在丽江猫咖偶遇高冷女孩主动且耐心帮忙拍照的暖心经历。",
+    "超市保安大叔主动提醒花期并试图帮忙更换打折鲜花的可爱细节。",
+    "在上海跑步和越野赛中收获路人、外卖小哥与外国友人的加油鼓励。",
+    "在丽江进急诊抢救时，医生一句温柔的安慰让其瞬间安心。",
+    "因做播客与听众暖暖结缘，收到暖暖赠送的播客节门票与长期支持。",
+    "生活中随处可见的陌生人默契，如垃圾分类时留出的纸箱和避开拍照的行人。",
+    "爱自己固然重要，但去爱这个世界并被这个世界爱着是更美好的事。"
+  ],
+  "kapitel": [
+    {
+      "titel": "早班机司机的边界感与善意",
+      "start": 66.96
+    },
+    {
+      "titel": "大理独自旅行中的惊险与相助",
+      "start": 409.92
+    },
+    {
+      "titel": "大理民宿退房时被小店员看见",
+      "start": 800.52
+    },
+    {
+      "titel": "丽江猫咖偶遇热心女孩帮忙拍照",
+      "start": 974.26
+    },
+    {
+      "titel": "超市里保安大叔的贴心提醒",
+      "start": 1306.88
+    },
+    {
+      "titel": "跑步路上的加油声与击掌瞬间",
+      "start": 1561.34
+    },
+    {
+      "titel": "医院里的温柔安慰与病理科的惊喜",
+      "start": 1818.28
+    },
+    {
+      "titel": "因为播客结识听众暖暖的暖心故事",
+      "start": 1957.1
+    },
+    {
+      "titel": "结语：爱自己与爱世界",
+      "start": 2205.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T06:55:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2486,
+  "veroeffentlicht": "2026-08-17T16:00:00+00:00",
+  "beschreibung": "那些被陌生人温暖的瞬间，是这个世界爱我的痕迹。\n01:07善良的司机师傅，对老奶奶和对我，都一样好！\n06:51第一次一个人的旅行，幸亏有好心的女孩子们救我啊，想原地磕头的程度。\n13:20小妹妹对我说的那句话，让我觉得自己在她的视野里不只是陌生路人。\n16:15高冷妹妹，居然是热心肠？\n21:47超市里的保安大叔，眼神儿也太好了吧！\n24:26每次都和我说“have a nice day”的超市收银员。\n26:02跑步路上和我high5失败的外国朋友。\n27:23谢谢那些为我喊加油的人，我才知道，原来也不是轻而易举可以说出口的！\n30:18医院里的暖心时刻：医生随口的一句话，就是我的救赎。\n32:37因为做播客发生的暖心故事，谢谢你在想要传递善意的时候选择了我——ps：暖暖的播客在这里：此岸拾光。\n36:45陌生人之间的默契，总是更加动人，因为这些付出自然且纯粹\n39:29爱自己固然很好，但爱这个世界，也被这个世界爱者，是更好的事。\n大家有什么和陌生人之间发生的温暖小事，欢迎来评论区一起聊聊天，身心俱疲的Effy也需要大家的治愈～\n\n小红书：\n了解主播：Effy海菲仔仔\n播客金句总结：有序生活\n\nBGM：\n《咏客》仙童\n《If I Wrote You a Song》Mélanie Bell\n\n播客歌单：Effy的播客歌单 https://163cn.tv/baR60S5r (@网易云音乐)\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><strong>那些被陌生人温暖的瞬间，是这个世界爱我的痕迹。</strong></p><p><a class=\"timestamp\">01:07</a>善良的司机师傅，对老奶奶和对我，都一样好！</p><p><a class=\"timestamp\">06:51</a>第一次一个人的旅行，幸亏有好心的女孩子们救我啊，想原地磕头的程度。</p><p><a class=\"timestamp\">13:20</a>小妹妹对我说的那句话，让我觉得自己在她的视野里不只是陌生路人。</p><p><a class=\"timestamp\">16:15</a>高冷妹妹，居然是热心肠？</p><p><a class=\"timestamp\">21:47</a>超市里的保安大叔，眼神儿也太好了吧！</p><p><a class=\"timestamp\">24:26</a>每次都和我说“have a nice day”的超市收银员。</p><p><a class=\"timestamp\">26:02</a>跑步路上和我high5失败的外国朋友。</p><p><a class=\"timestamp\">27:23</a>谢谢那些为我喊加油的人，我才知道，原来也不是轻而易举可以说出口的！</p><p><a class=\"timestamp\">30:18</a>医院里的暖心时刻：医生随口的一句话，就是我的救赎。</p><p><a class=\"timestamp\">32:37</a>因为做播客发生的暖心故事，谢谢你在想要传递善意的时候选择了我——ps：暖暖的播客在这里：此岸拾光。</p><p><a class=\"timestamp\">36:45</a>陌生人之间的默契，总是更加动人，因为这些付出自然且纯粹</p><p><a class=\"timestamp\">39:29</a>爱自己固然很好，但爱这个世界，也被这个世界爱者，是更好的事。</p><p><strong>大家有什么和陌生人之间发生的温暖小事，欢迎来评论区一起聊聊天，身心俱疲的Effy也需要大家的治愈～</strong></p><p></p><p>小红书：</p><p>了解主播：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://xhslink.com/m/9PtBKU4zJU4\"><strong>Effy海菲仔仔</strong></a></p><p>播客金句总结：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://xhslink.com/m/7xKs87VUUms\"><strong>有序生活</strong></a></p><p></p><p>BGM：</p><p>《咏客》仙童</p><p>《If I Wrote You a Song》Mélanie Bell</p><p></p><p>播客歌单：Effy的播客歌单 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://163cn.tv/baR60S5r\">https://163cn.tv/baR60S5r</a> (@网易云音乐)</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8052ca17676351c57251bf?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FjyB-mQ-pVhMLCyRxXliNduH4OPs.jpg",
+  "kapitel_quelle": "modell"
+}

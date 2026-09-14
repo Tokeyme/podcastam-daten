@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_999996767",
+  "apple_collection_id": "1800023411",
+  "show": "夫妻生活丨男人那点事",
+  "titel": "6个简单小妙招助你排除湿气健脾强身",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OKCTmABySggS1Ds2Q.m4a?channel=rss&album_id=49368256&track_id=999996767&uid=88437562&jt=https://aod.cos.tx.xmcdn.com/storages/0a31-audiofreehighqps/CC/27/GKwRIW4OKCTmABySggS1Ds2Q.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1872514,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:37:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "六个简单小妙招，教你如何有效排除体内湿气。",
+  "kurzfassung": "体内湿气过重会引发手脚酸痛等不适，可以通过多种方式进行调理。节目介绍了运动、改善环境以及饮食调整等六个实用方法。坚持这些小妙招能帮助健脾强身，将湿气拒之门外。",
+  "stichpunkte": [
+    "多运动以疏通筋骨、促进新陈代谢并排出体内湿气",
+    "保持居住环境空气流通，必要时使用空调除湿模式",
+    "注意洗澡后擦干身体、吹干头发，避免穿未干的贴身衣物",
+    "少吃苦瓜、西瓜、海带等寒凉食物以及甜食和油腻食物",
+    "多吃薏米以健脾、消肿、去湿",
+    "烹饪时多放生姜以驱寒去湿",
+    "每周饮用两次玉米须水以利尿消肿"
+  ],
+  "kapitel": [
+    {
+      "titel": "湿气重的原因与预防概述",
+      "start": 14.08
+    },
+    {
+      "titel": "第一招：多运动排湿",
+      "start": 56.32
+    },
+    {
+      "titel": "第二招：减少湿气环境影响",
+      "start": 77.82
+    },
+    {
+      "titel": "第三招：少吃寒凉与油腻食物",
+      "start": 119.48
+    },
+    {
+      "titel": "第四招：多吃薏米去湿",
+      "start": 148.56
+    },
+    {
+      "titel": "第五招：多吃生姜驱寒",
+      "start": 164.42
+    },
+    {
+      "titel": "第六招：饮用玉米须水",
+      "start": 179.48
+    },
+    {
+      "titel": "结语与总结",
+      "start": 198.16
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:37:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 231,
+  "veroeffentlicht": "2026-07-11T15:31:42+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/34cd-audiofreehighqps/10/2A/GKwRIDoGSXnYAAFoUwFLh-OY.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

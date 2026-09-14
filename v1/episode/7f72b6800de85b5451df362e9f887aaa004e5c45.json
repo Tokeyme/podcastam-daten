@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_787190348",
+  "apple_collection_id": "1536883261",
+  "show": "探秘 | 美食与世界",
+  "titel": "番外：本帮菜&淮扬菜——选自《上海滩纪事》之 “细说海派文化 55”",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwLQEXTABHp_gNGXfHX.m4a?channel=rss&album_id=38114716&track_id=787190348&uid=171093641&jt=https://aod.cos.tx.xmcdn.com/storages/b9db-audiofreehighqps/89/9F/GKwRIRwLQEXTABHp_gNGXfHX.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1174014,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:18:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探寻上海咖啡文化的发展渊源及其与作家张爱玲的深厚渊源。",
+  "kurzfassung": "本集探讨了上海咖啡文化的历史渊源与城市生活哲学的契合。自上海开埠以来，咖啡逐渐成为当地人情有独钟的饮品。节目重点介绍了曾居住于长德公寓的作家张爱玲与楼下咖啡馆的渊源。",
+  "stichpunkte": [
+    "海派饮食文化融合了源远流长的茶文化与独特的咖啡文化",
+    "上海午后的咖啡馆展现出慢节奏的悠闲生活氛围与爵士情调",
+    "咖啡自两个世纪前上海开埠后登陆并融入当地人的生活方式",
+    "上海人包容开放的性格特质促成了对西方外来品的快速接受",
+    "张爱玲于1942年至1948年在长德路公寓楼下咖啡馆写作",
+    "在此期间张爱玲创作了《金锁记》《红玫瑰》与《白玫瑰》等作品",
+    "现今的千彩书坊咖啡馆陈列着张爱玲的作品、老照片与旧物",
+    "咖啡馆推出名为《清城之恋》的特饮以纪念张爱玲及其文学作品"
+  ],
+  "kapitel": [
+    {
+      "titel": "上海咖啡文化的历史渊源",
+      "start": 0.0
+    },
+    {
+      "titel": "张爱玲与千彩书坊咖啡馆",
+      "start": 82.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:18:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 192,
+  "veroeffentlicht": "2025-01-03T09:46:00+00:00",
+  "beschreibung": "漫步上海老街，阳光与咖啡香中寻觅一段旧时光。这里，每间咖啡馆都藏着故事，特别是那家张爱玲常去的，如今已成书迷圣地。走进千彩书房，仿佛能听见岁月的声音。一杯倾城之恋，不仅品味着苦后回甘，更是感受海派文化的独特韵味。想了解更多吗？欢迎继续探索。\n02:00 上海咖啡馆中的张爱玲风情，倾城之恋特饮的浪漫邂逅",
+  "beschreibung_html": "<p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">漫步上海老街，阳光与咖啡香中寻觅一段旧时光。这里，每间咖啡馆都藏着故事，特别是那家张爱玲常去的，如今已成书迷圣地。走进千彩书房，仿佛能听见岁月的声音。一杯倾城之恋，不仅品味着苦后回甘，更是感受海派文化的独特韵味。想了解更多吗？欢迎继续探索。</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">02:00 上海咖啡馆中的张爱玲风情，倾城之恋特饮的浪漫邂逅</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e14b-audiofreehighqps/1D/B7/GKwRIRwJKOa2AAQcBQJ9JPQe.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_953292609",
+  "apple_collection_id": "1874762111",
+  "show": "八方斋·睡前听 | 情感·八卦·婚恋",
+  "titel": "结婚有啥好处？（高赞合集）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4NUeOqALTgYgRibGsP.m4a?channel=rss&album_id=86149532&track_id=953292609&uid=255579333&jt=https://aod.cos.tx.xmcdn.com/storages/c273-audiofreehighqps/D6/0D/GKwRIW4NUeOqALTgYgRibGsP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11853922,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T13:29:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨当代年轻人对结婚有啥好处的看法与高赞回答",
+  "kurzfassung": "节目探讨了当代年轻人关于结婚好处的种种思考，分析了婚姻中创造增量与消耗存量的区别。通过剖析网友的高赞回答，节目展示了婚姻在陪伴、患难与共以及治愈创伤等方面的意义。同时，也指出了伴侣之间语言暴力和错误经营对亲密关系带来的负面影响。",
+  "stichpunkte": [
+    "探讨结婚的好处需要理解能量守恒，婚姻应当共同创造增量而非消耗存量。",
+    "经济调整期中，许多人倾向于保守和吃存量，导致家庭矛盾增加。",
+    "日常生活中消极的语言和抱怨容易激发伴侣的恶，形成自证预言。",
+    "苏格拉底认为无论如何都应该结婚，好妻子带来幸福，糟糕的妻子让人成为哲学家。",
+    "婚姻最大的利益体现在逆境中的相互扶持与风雨同舟。",
+    "好的婚姻能够治愈原生家庭带来的创伤，帮助双方找回真实的自己。",
+    "现代女性大多具备独立生存能力，结婚的意义更多在于寻找长期的陪伴与商量。"
+  ],
+  "kapitel": [
+    {
+      "titel": "结婚有啥好处与增量逻辑",
+      "start": 0.0
+    },
+    {
+      "titel": "婚姻中的语言暴力与自证预言",
+      "start": 325.2
+    },
+    {
+      "titel": "结婚给男人带来了什么",
+      "start": 489.48
+    },
+    {
+      "titel": "婚姻的意义：陪伴、战友与患难与共",
+      "start": 531.24
+    },
+    {
+      "titel": "现代人为什么要结婚",
+      "start": 1126.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T13:29:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1464,
+  "veroeffentlicht": "2026-01-30T03:07:29+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/317a-audiofreehighqps/FB/73/GKwRIRwLwQRrAAFB7gOMW_4I.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

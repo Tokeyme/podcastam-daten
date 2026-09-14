@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_960467867",
+  "apple_collection_id": "1882270502",
+  "show": "抖音爆火欧美流行英文歌（2026年2月）",
+  "titel": "rosalÍa&yahritza y su esencia-la perla",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaINfYjiABgvKgR0H3Hf.m4a?channel=rss&album_id=117831576&track_id=960467867&uid=23190670&jt=https://aod.cos.tx.xmcdn.com/storages/7165-audiofreehighqps/C8/8A/GKwRIaINfYjiABgvKgR0H3Hf.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1584938,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:22:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨李宗盛的音乐作品创作背景。",
+  "kurzfassung": "本期节目主要探讨了音乐人李宗盛的词曲创作。通过对相关歌曲的讨论，解析了其音乐作品的特点。内容聚焦于词曲作者的背景信息。",
+  "stichpunkte": [
+    "节目聚焦于音乐人李宗盛的词曲创作",
+    "列举了李宗盛作词作曲的相关音乐作品"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨李宗盛的词曲创作",
+      "start": 29.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:22:57+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 195,
+  "veroeffentlicht": "2026-04-09T09:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c5a7-audiofreehighqps/9B/6B/GAqhp50NfWi0AARwwQR0DRXG.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

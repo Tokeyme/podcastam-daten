@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_925289863",
+  "apple_collection_id": "1665977500",
+  "show": "曹晨脱口秀|东北话脱口秀",
+  "titel": "爷爷奶奶，你们追的曹哥更新了！脱口秀十二周年限时返场",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasM1O4aAGnNhQQqoFC9.m4a?channel=rss&album_id=239837&track_id=925289863&uid=6974324&jt=https://aod.cos.tx.xmcdn.com/storages/6c4e-audiofreehighqps/A1/41/GKwRIasM1O4aAGnNhQQqoFC9.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6933893,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T19:23:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "曹哥限时返场庆祝脱口秀节目播出十二周年，并宣布在抖音恢复日常直播。",
+  "kurzfassung": "主播曹哥在脱口秀节目开播十二周年之际限时返场，吐槽粉丝们“用完就丢”的搞笑日常。他澄清了自己并未彻底退网，目前正活跃在抖音直播间，并邀请大家共同庆祝。最后，他感谢了听众多年的陪伴，并阐述了节目对听众心灵的陪伴与治愈作用。",
+  "stichpunkte": [
+    "曹哥限时返场庆祝脱口秀节目十二周年，并吐槽听众在不同人生阶段听节目却又在过后“遗忘”的趣事。",
+    "澄清自己并未彻底离开互联网，小说仍在连载，日常也一直在抖音进行直播。",
+    "回忆了12年前10月31号万圣节推出第一期节目的经历，并宣布举办周年庆活动。",
+    "幽默回应粉丝催婚及关于“先成家后立业”和“穷养儿富养女”等古语的错误解读。",
+    "谈到复出的原因，一方面是个人还有未完成的梦想，另一方面是被粉丝多年来的深厚情感所打动。",
+    "剖析节目与听众的关系，认为节目只是起到了止痛药和陪伴的作用，真正的力量源自听众内心。",
+    "宣布老平台虽已停播，但精神家园仍在，并正式邀请听众周五晚九点到抖音直播间共同庆祝相识12年。"
+  ],
+  "kapitel": [
+    {
+      "titel": "十二周年限时返场与听众趣事",
+      "start": 12.12
+    },
+    {
+      "titel": "回应催婚与古语的重新解读",
+      "start": 378.34
+    },
+    {
+      "titel": "复出的原因与对节目的感悟",
+      "start": 532.44
+    },
+    {
+      "titel": "时代在变，换个地方重逢",
+      "start": 656.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T19:23:37+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 856,
+  "veroeffentlicht": "2025-10-27T08:19:07+00:00",
+  "beschreibung": "10月31日晚9点，某音@曹晨（10月31日12周年庆）直播，都来嗷！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">10月31日晚9点，某音@曹晨（10月31日12周年庆）直播，都来嗷！</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group58/M01/9F/AD/wKgLc1zOjeyzctJNAAJNLudpmqE477.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

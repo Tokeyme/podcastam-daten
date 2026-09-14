@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group39/M08/8A/B1/wKgJn1pxkFbSXPf0ABZTbplKxbM101.m4a",
+  "apple_collection_id": "1340153679",
+  "show": "小玖潮流音乐",
+  "titel": "【小玖】 车载炸场",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJn1pxkFbSXPf0ABZTbplKxbM101.m4a?channel=rss&album_id=233151&track_id=69530831&uid=5715677&jt=https://aod.cos.tx.xmcdn.com/group39/M08/8A/B1/wKgJn1pxkFbSXPf0ABZTbplKxbM101.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1463150,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:52:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "播放了一段动感的车载音乐节奏。",
+  "kurzfassung": "本期节目主要包含强烈的节奏感和动感的音乐。整个音频以重复的节拍和动感的口号为主。没有包含其他具体的故事或讨论内容。",
+  "stichpunkte": [
+    "播放强烈的电子节拍音乐",
+    "包含多次反复的口号和呼喊",
+    "节奏明快适合车载环境",
+    "整体氛围充满活力",
+    "未涉及其他对话或访谈内容",
+    "音频以动感的音乐片段结束"
+  ],
+  "kapitel": [
+    {
+      "titel": "车载音乐节奏",
+      "start": 1.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:52:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 180,
+  "veroeffentlicht": "2018-01-31T09:49:47+00:00",
+  "beschreibung": "下载音乐请关注微信公众号",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"font-size:16px;color:#333333;line-height:30px;font-weight:normal;word-break:break-all;font-family:Helvetica, Arial, sans-serif\"><b>下载音乐请关注微信公众号    <br /><img data-key=\"0\" src=\"http://image.xmcdn.com/group34/M09/D5/DD/wKgJYVpgOu3CQuynAACY2l8-le4105.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_large\" alt=\"\" data-origin=\"http://image.xmcdn.com/group34/M09/D5/DD/wKgJYVpgOu3CQuynAACY2l8-le4105.jpg?op_type=0\" data-large=\"http://image.xmcdn.com/group34/M09/D5/DD/wKgJYVpgOu3CQuynAACY2l8-le4105.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_large\" data-large-width=\"750\" data-large-height=\"750\" data-preview=\"http://image.xmcdn.com/group34/M09/D5/DD/wKgJYVpgOu3CQuynAACY2l8-le4105.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"140\" /></b></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group9/M05/A2/67/wKgDYld07ZWAnW6uAAAcCZytwvI448.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

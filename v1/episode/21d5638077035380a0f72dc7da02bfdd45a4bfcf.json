@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_669680458",
+  "apple_collection_id": "1710058381",
+  "show": "为你读书-波德莱尔《恶之花》",
+  "titel": "为你读书-波德莱尔《恶之花》-朗读1",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAI6w1vACAAAAJic3HT.mp3.m4a?channel=rss&album_id=78377440&track_id=669680458&uid=120365706&jt=https://aod.cos.tx.xmcdn.com/storages/55dc-audiofreehighqps/63/25/GKwRIMAI6w1vACAAAAJic3HT.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15230980,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T21:19:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨波德莱尔生平创作、诗集《恶之花》的版本演变及其现代诗歌史地位。",
+  "kurzfassung": "本集探讨了法国现代派诗歌鼻祖波德莱尔及其不朽诗集《恶之花》的创作历程与文学史地位。节目详细梳理了该诗集的出版经过、引发的法律诉讼及后来的平反过程。同时，深入分析了诗集结构、化丑为美的艺术手法以及“恶之花”所蕴含的复杂社会与美学意义。",
+  "stichpunkte": [
+    "波德莱尔被尊为现代派诗歌鼻祖与象征派先驱，对世界现代情诗影响深远。",
+    "《恶之花》初版于1857年，出版后因涉嫌触犯公德与善良风俗遭到起诉并被判罚款和删诗。",
+    "法国最高法院直到1949年才正式宣布撤销对《恶之花》的当年的有罪判决。",
+    "《恶之花》并非简单按年代编排，而是具有严密内在结构和红线贯穿的有机整体。",
+    "诗集分为多个部分，层层深入地展现了人类生存状况、现实的丑恶、反叛以及向死亡求解脱的探索。",
+    "波德莱尔提出“化丑为美”的创作主张，主张从恶与忧郁中发掘内在的美感。",
+    "诗作中展现的并非单纯形式美，而是通过通感将宇宙万物、主客观世界紧密联系在一起的内在精神。"
+  ],
+  "kapitel": [
+    {
+      "titel": "波德莱尔的历史地位与《恶之花》的创作历程",
+      "start": 0.46
+    },
+    {
+      "titel": "《恶之花》的出版、审判与平反",
+      "start": 387.52
+    },
+    {
+      "titel": "《恶之花的结构与诗集编排",
+      "start": 756.72
+    },
+    {
+      "titel": "化丑为美与“恶”的复杂美学意涵",
+      "start": 999.8
+    },
+    {
+      "titel": "象征主义的通感理论与诗人的民主倾向",
+      "start": 1382.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T21:19:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1803,
+  "veroeffentlicht": "2023-09-28T09:42:11+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1645-audiofreehighqps/8B/FC/GMCoOR4I6wyKAAJ5cwJictMo.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

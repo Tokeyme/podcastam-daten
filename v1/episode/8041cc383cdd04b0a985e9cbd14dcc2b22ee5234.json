@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_971917855",
+  "apple_collection_id": "1807921312",
+  "show": "一字未删，重现世纪教育之光|陶行知全集·有声典藏版",
+  "titel": "第27集 附录 读陶知行先生的《学生自治问题之研究》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUENvj4SADhg6QSOViy5.m4a?channel=rss&album_id=88598623&track_id=971917855&uid=449804266&jt=https://aod.cos.tx.xmcdn.com/storages/fe92-audiofreehighqps/D0/5E/GKwRIUENvj4SADhg6QSOViy5.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3694825,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:17:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨陶行之《学生自治问题之研究》中的观点并指出其弊端",
+  "kurzfassung": "节目深入探讨了陶行之先生关于学生自治的文章，指出其将学校等同于执教员的观念漏洞。评论认为学生自治应当强调自主与责任，而非依赖执教员的指导与学校的认可。通过分析，节目重新厘清了学生自治的定义与核心精神。",
+  "stichpunkte": [
+    "分析新教育第二卷第二期中关于学生自治的三篇文章",
+    "指出陶行之将学校等同于执教员的概念错误",
+    "批判将学校与学生自治主体对立起来的观点",
+    "强调学生自治应自担责任而非推诿给教员",
+    "反对执教员对学生自治进行所谓的指导与参与",
+    "驳斥学生自治之权出自学校认可的说法",
+    "阐明学生自治的权力与生俱来且无需学校批准",
+    "重新定义学生自治为学生结团自己管自己"
+  ],
+  "kapitel": [
+    {
+      "titel": "引言与对陶行之文章的喜悦",
+      "start": 0.0
+    },
+    {
+      "titel": "第一点批评：误把学校当作执教员",
+      "start": 77.44
+    },
+    {
+      "titel": "第二点批评：自治中的责任与拒绝教员指导",
+      "start": 163.04
+    },
+    {
+      "titel": "第三点批评：反对学生自治之权出自学校认可",
+      "start": 304.9
+    },
+    {
+      "titel": "总结与学生自治的正确定义",
+      "start": 404.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:17:16+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 456,
+  "veroeffentlicht": "2026-05-19T13:29:00+00:00",
+  "beschreibung": "新教育第二卷第二期里面，论“学生自治”的文共三篇：两篇是杜威和蒋梦麟两先生的演说；一篇是陶知行先生做的，题目叫做《学生自治问题之研究》。我读了非常欢喜。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">新教育第二卷第二期里面，论“学生自治”的文共三篇：两篇是杜威和蒋梦麟两先生的演说；一篇是陶知行先生做的，题目叫做《学生自治问题之研究》。我读了非常欢喜。</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6c0a-audiofreehighqps/FF/30/GAqh1QQLupr8AAIgoAOHxiu9.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

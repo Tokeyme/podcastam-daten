@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "guid": "94c715e3-b593-44b8-bb40-b4b100e74b01",
+  "apple_collection_id": "1711277020",
+  "show": "Burden of Guilt",
+  "titel": "The D.A.'s Decision | EP 6 | Season 3",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/94c715e3-b593-44b8-bb40-b4b100e74b01/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 45355949,
+    "format": "mp3",
+    "geprueft_am": "2026-09-06T09:42:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Kenny Hamp faces felony charges until the DA uncovers evidence of parental fabrication.",
+  "kurzfassung": "Kenny Hamp faced felony child abuse charges after an ex-husband accused him of assaulting his son in Steamboat Springs, Colorado. Numerous medical exams found no serious injuries, and subsequent forensic interviews revealed clear signs of parental coaching. District Attorney Matt Carson ultimately dismissed all criminal charges against Kenny after concluding he was likely framed.",
+  "stichpunkte": [
+    "Kenny Hamp was initially charged with misdemeanor child abuse, which was later escalated to a felony carrying up to 16 years in prison.",
+    "Multiple medical professionals and a sexual assault nurse examiner found no evidence of serious injury despite extensive doctor shopping.",
+    "Kenny rejected a plea deal because admitting guilt would brand him as a child sexual predator.",
+    "District Attorney Matt Carson ordered a second round of forensic interviews after noticing suspicious inconsistencies in the children's statements.",
+    "The second interviews and case evidence strongly indicated that the allegations were fabricated and coached by the boys' father, Steve.",
+    "District Attorney Matt Carson dropped all criminal charges against Kenny in June 2020 upon realizing he may have been framed.",
+    "Despite the criminal dismissal, a family court judge later ruled in a custody hearing that inappropriate contact had occurred.",
+    "Kenny and Cindy subsequently filed a civil lawsuit against Steve to clear their names and hold him accountable."
+  ],
+  "kapitel": [
+    {
+      "titel": "The Escalating Case and Public Backlash",
+      "start": 90.08
+    },
+    {
+      "titel": "Investigating the Timeline and Evidence",
+      "start": 323.8
+    },
+    {
+      "titel": "The District Attorney's Investigation and Decision",
+      "start": 1347.76
+    },
+    {
+      "titel": "Aftermath and Civil Litigation",
+      "start": 1782.84
+    }
+  ],
+  "clips": [
+    {
+      "hook": "December is retail's biggest month, but it became the worst.",
+      "start": 175.909,
+      "ende": 196.023,
+      "laenge": 20.11,
+      "byte_start": 2847993,
+      "byte_ende": 3169821,
+      "bytes": 321829,
+      "range_header": "bytes=2847993-3169821",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 175.987,
+      "anker_sha256": "12f48d1f00e72b97ee97284fd40d55b544ff6fad2753d8efb8f7c5f535ebfc2c",
+      "einblendung_ms": 60,
+      "text": "Steve pushes for medical evaluations of his son, convinced the boy has suffered physical harm."
+    },
+    {
+      "hook": "The emotional reaction to child sexual assault allegations lowers the standard o",
+      "start": 545.75,
+      "ende": 575.843,
+      "laenge": 30.09,
+      "byte_start": 8765459,
+      "byte_ende": 9246947,
+      "bytes": 481489,
+      "range_header": "bytes=8765459-9246947",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 545.829,
+      "anker_sha256": "04f3f28b4a139e88402bf4503f31883248ab2ff3228596f876fb7d55eede55ce",
+      "einblendung_ms": 60,
+      "text": "Cindy attempts to prove her son’s injury resulted from a bicycle accident by providing a receipt and video evidence to caseworker Kamala."
+    },
+    {
+      "hook": "A 10.5 million dollar settlement preceded the abuse allegations.",
+      "start": 1171.801,
+      "ende": 1201.894,
+      "laenge": 30.09,
+      "byte_start": 18782268,
+      "byte_ende": 19263756,
+      "bytes": 481489,
+      "range_header": "bytes=18782268-19263756",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1171.879,
+      "anker_sha256": "e05a93a8de88a1b051a4bc4065a71128ece02df6cc942311b887c768932c41ac",
+      "einblendung_ms": 60,
+      "text": "Kenny and Cindy were preparing to finalize the purchase of a five-bedroom home during the same week Kenny faced arrest."
+    },
+    {
+      "hook": "When you realize someone is actually innocent and framed, you drop the case.",
+      "start": 1691.899,
+      "ende": 1712.013,
+      "laenge": 20.11,
+      "byte_start": 27103835,
+      "byte_ende": 27425663,
+      "bytes": 321829,
+      "range_header": "bytes=27103835-27425663",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1691.977,
+      "anker_sha256": "ca831fbaeecafe393dc1fa8ca2fc7d8f6aea5636cd23736130d4caca25461cc3",
+      "einblendung_ms": 60,
+      "text": "Matt Carson introduces himself as the district attorney for Colorado’s 14th Judicial District, which encompasses Steamboat Springs."
+    },
+    {
+      "hook": "When kids are ripped away and given to the other parent, real abuse begins.",
+      "start": 1962.475,
+      "ende": 1983.242,
+      "laenge": 20.77,
+      "byte_start": 31433056,
+      "byte_ende": 31765332,
+      "bytes": 332277,
+      "range_header": "bytes=31433056-31765332",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1962.553,
+      "anker_sha256": "f7af54a6e3ee79756b4eab96ee9e3cbb479a5c537741b5f13427f61ed64f3956",
+      "einblendung_ms": 60,
+      "text": "The speaker discusses how authors utilize complex characters as a narrative device to embed deeper, hidden messages within their stories."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-06T09:42:03+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2129,
+  "veroeffentlicht": "2026-09-02T04:00:00+00:00",
+  "beschreibung": "Seven months after the twin boys’ initial forensic interviews, they had another. What the boys said in that second interview led District Attorney Matt Karzen to make a stunning decision.\nYou can reach out to the Burden of Guilt team at Burdenofguiltpod@gmail.com. For more Burden of Guilt, follow us on Instagram @glasspodcasts.\n\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Seven months after the twin boys&rsquo; initial forensic interviews, they had another. What the boys said in that second interview led District Attorney Matt Karzen to make a stunning decision.&nbsp;</p> <p>You can reach out to the Burden of Guilt team at <a href=\"mailto:Burdenofguiltpod@gmail.com\" data-outlook-id=\"9b156eb1-0bb7-43f5-9703-ab0bf79b74b2\">Burdenofguiltpod@gmail.com</a>. &nbsp;For more Burden of Guilt, follow us on Instagram <a href=\"https://www.instagram.com/glasspodcasts/\" data-outlook-id=\"50d5bad1-8638-4e9e-a72c-af487075bc18\">@glasspodcasts</a>.&nbsp;</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/94c715e3-b593-44b8-bb40-b4b100e74b01/image.jpg?t=1787666625&size=Large",
+  "folgennummer": 6,
+  "kapitel_quelle": "modell"
+}

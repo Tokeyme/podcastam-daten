@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "69b11a3884bce022f9de9595",
+  "apple_collection_id": "1855430681",
+  "show": "咸蛋菜籽的播客",
+  "titel": "dy两百万播放的催婚集来啦",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/691b18ae4761bd8caeb86da0/69b11a3884bce022f9de9595/media.xyzcdn.net/691b18ae4761bd8caeb86da0/lpoEI5RcwBw6LSS_1Gn0_KN0v2u5.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13133595,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T08:34:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨双方父母花式催婚的趣事，分享长辈对两人物关系与标准的各种脑洞。",
+  "kurzfassung": "两人在节目中回顾了双方父母频繁催婚的搞笑经历。妈妈不仅直接询问两人睡觉是否会尴尬，还讨论了未来的婚房和基因改善。爸爸在大年初一的家庭聚会上也公开支持两人在一起，并探讨了适合当老公的标准。",
+  "stichpunkte": [
+    "节目开场录制了多条“官宣”和表白短句的借位拍摄。",
+    "两人已经在南昌同居租房三四个月。",
+    "妈妈曾直接询问两人旅游时是否睡同一张床。",
+    "爸爸在大年初一的亲戚饭桌上公开表示刘逸琳不错，并催促结婚。",
+    "长辈对儿媳的身高和性格标准进行了各种讨论，希望能改善下一代基因。",
+    "刘逸琳首次去对方家里拜访，虽然因为没化妆没能过多交流，但留下了不错的印象。",
+    "双方父母对两人的关系从最初的试探和担心，逐渐转变为积极支持并催促在一起。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场录制与借位拍摄",
+      "start": 2.7
+    },
+    {
+      "titel": "双方父母的催婚与询问",
+      "start": 199.24
+    },
+    {
+      "titel": "拜访家长与基因改善的讨论",
+      "start": 548.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T08:34:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 812,
+  "veroeffentlicht": "2026-03-11T07:40:06+00:00",
+  "beschreibung": "这集的封面是我们搬离南昌的家的最后一张照片\n哈哈哈哈啊哈哈哈\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>这集的封面是我们搬离南昌的家的最后一张照片</p><p>哈哈哈哈啊哈哈哈</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69b11a3884bce022f9de9595?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqudcK_h5CI0dV4nonBTAK_UpJT4.png",
+  "kapitel_quelle": "modell"
+}

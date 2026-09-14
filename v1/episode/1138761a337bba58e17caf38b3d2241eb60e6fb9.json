@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_953368183",
+  "apple_collection_id": "1875670358",
+  "show": "原声电影看大片",
+  "titel": "《乡村爱情》第十七部 (1)",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoNUjJeAT31zwRimJlN.m4a?channel=rss&album_id=91798571&track_id=953368183&uid=522946258&jt=https://aod.cos.tx.xmcdn.com/storages/54ca-audiofreehighqps/6E/EC/GKwRIDoNUjJeAT31zwRimJlN.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20837839,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T10:40:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "象牙山家庭矛盾频发，谢广坤筹划成立集团公司。",
+  "kurzfassung": "象牙山村民近期面临诸多家庭与生意上的烦恼。谢广坤为解决永强和王小萌聚少离多的问题，建议成立谢氏集团。与此同时，村中其他家庭也因生意、夜宿以及带娃等琐事产生了各种摩擦。",
+  "stichpunkte": [
+    "谢广坤提议成立谢氏集团来整合果园和豆腐厂，从而解决永强和小萌夫妻分居两地的问题",
+    "刘能夫妇前往外地体验生活并借宿，引发了一系列关于风水和旅游的争执",
+    "花谱生意受阻，引发了转让以及真假玫瑰花销售的矛盾",
+    "电话沟通中出现误会，导致相约见面计划落空",
+    "家庭成员因琐事和疲劳在深夜发生争吵，随后互相调解",
+    "孩子将他人认作父亲，最终认作干爸并缓解了尴尬气氛"
+  ],
+  "kapitel": [
+    {
+      "titel": "筹备集团公司",
+      "start": 352.84
+    },
+    {
+      "titel": "花谱生意与风水争执",
+      "start": 583.58
+    },
+    {
+      "titel": "卖花风波",
+      "start": 964.24
+    },
+    {
+      "titel": "体验生活与夜宿风波",
+      "start": 1452.82
+    },
+    {
+      "titel": "深夜争吵与认干亲",
+      "start": 2104.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T10:40:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2570,
+  "veroeffentlicht": "2026-01-30T08:42:40+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0c55-audiofreehighqps/16/13/GKwRIW4L2_aZAAYvJAOcVR7f.jpeg",
+  "kapitel_quelle": "modell"
+}

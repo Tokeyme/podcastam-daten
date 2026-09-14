@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "69dba8ece2c8be315504c089",
+  "apple_collection_id": "1892234140",
+  "show": "AI对谈室",
+  "titel": "你的SBTI是什么？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/69d6858f56796341b9db7dbe/69dba8ece2c8be315504c089/media.xyzcdn.net/69d6858f56796341b9db7dbe/FqG6vS4Z0m9Lt_D1Lysf6nw9YU2J.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3757280,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:42:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "解密SBTI测试全网爆火现象：年轻人如何用荒诞玩梗进行情绪解压和轻松社交？",
+  "kurzfassung": "网络爆火的SBTI测试引发年轻人疯狂刷屏，其非专业和娱乐性质却精准击中了当代群体的心理痛点。通过反向自嘲与防御性悲观，年轻人得以消解职场与学业带来的精神内耗。同时，零门槛的互动属性使其成为新型社交货币，但主流媒体与网友也提醒大众应理性看待玩梗。",
+  "stichpunkte": [
+    "SBTI测试近期在各大社交平台全面刷屏，热度超越传统的MBTI人格测试。",
+    "测试源于博主劝朋友戒酒的随手之作，却因荒诞标签引发网友的大型狂欢。",
+    "相比MBTI的规训感，SBTI通过反向自嘲和摆烂提供了一个毫无压力的情绪出口。",
+    "心理类科普号指出，SBTI的爆火是年轻人利用防御性悲观完成自我保护的表现。",
+    "测试具备零门槛和巴纳姆效应等特征，迅速成为年轻人推崇的顶流社交货币。",
+    "主流媒体如人民日报提醒，网络玩梗虽能适度解压，但自嘲不能替代现实成长。"
+  ],
+  "kapitel": [
+    {
+      "titel": "SBTI测试全网爆火与网友的狂欢反应",
+      "start": 0.0
+    },
+    {
+      "titel": "情绪出口：年轻人如何借SBTI消解内耗",
+      "start": 72.98
+    },
+    {
+      "titel": "社交货币：零门槛与巴纳姆效应下的裂变",
+      "start": 171.62
+    },
+    {
+      "titel": "理性提醒：玩梗解压不能替代现实成长",
+      "start": 254.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:42:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 309,
+  "veroeffentlicht": "2026-04-12T14:53:44+00:00",
+  "beschreibung": "本期「AI对话室」聚焦全网刷屏的SBTI趣味测试，针对这一作者自称“并不专业”却挤崩服务器、引发年轻人集体玩梗的现象展开深度探讨。\n节目结合网友真实评论与心理、媒体类官方大V观点，对比MBTI从性格测试沦为标签化规训工具的异化问题，剖析SBTI爆火的核心内核：它以自嘲、摆烂的荒诞形式，成为当代年轻人消解内卷压力、反抗标签绑架的情绪出口，同时凭借低门槛社交属性，成为原子化社会中年轻人寻求情绪抱团、缓解孤独的社交载体，本质是年轻人从渴望被定义到主动夺回身份话语权的心态转变。\n此外节目也结合主流媒体与社会学视角进行理性反思，指出SBTI式自嘲是适度解压的生存智慧，而非自我放弃的虚无逃避，提醒听众不必被任何测试标签束缚，真正的精神成长，是接纳不完美的自我、不被成功学裹挟，按照自身节奏生活。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本期「AI对话室」聚焦全网刷屏的SBTI趣味测试，针对这一作者自称“并不专业”却挤崩服务器、引发年轻人集体玩梗的现象展开深度探讨。</p><p>节目结合网友真实评论与心理、媒体类官方大V观点，对比MBTI从性格测试沦为标签化规训工具的异化问题，剖析SBTI爆火的核心内核：它以自嘲、摆烂的荒诞形式，成为当代年轻人消解内卷压力、反抗标签绑架的情绪出口，同时凭借低门槛社交属性，成为原子化社会中年轻人寻求情绪抱团、缓解孤独的社交载体，本质是年轻人从渴望被定义到主动夺回身份话语权的心态转变。</p><p>此外节目也结合主流媒体与社会学视角进行理性反思，指出SBTI式自嘲是适度解压的生存智慧，而非自我放弃的虚无逃避，提醒听众不必被任何测试标签束缚，真正的精神成长，是接纳不完美的自我、不被成功学裹挟，按照自身节奏生活。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69dba8ece2c8be315504c089?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FpXwsnXvzPWA58d92xS-TQGP5zBo.png",
+  "kapitel_quelle": "modell"
+}

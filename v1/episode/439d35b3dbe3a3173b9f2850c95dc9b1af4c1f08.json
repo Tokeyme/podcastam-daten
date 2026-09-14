@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_944731723",
+  "apple_collection_id": "1665506815",
+  "show": "亲子教育会客厅",
+  "titel": "带娃干货300秒68 可以做偷懒的父母吗2",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMANKEenACT8tQRPmMBW.m4a?channel=rss&album_id=73424418&track_id=944731723&uid=406343583&jt=https://aod.cos.tx.xmcdn.com/storages/a4bb-audiofreehighqps/5B/AD/GKwRIMANKEenACT8tQRPmMBW.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2423989,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:06:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨如何通过科学智慧的引导让父母在育儿过程中做到适度偷懒",
+  "kurzfassung": "本期节目探讨了父母在育儿过程中如何通过科学的引导实现智慧偷懒。三到六岁是培养孩子自我服务能力、房间整理习惯以及社交礼貌的关键时期。父母在前期建立好规矩和习惯，才能避免后期辅导作业时的鸡飞狗跳。",
+  "stichpunkte": [
+    "四岁半之前要培养孩子所有能服务自己的能力，父母通过制定标准和验收来偷懒",
+    "智慧偷懒的背后是给予孩子充分的动手机会、生活实践、信任和试错练习",
+    "三到六岁阶段要引导孩子学会收拾自己的房间、学具和玩具，并设定量化标准与奖励",
+    "关注三到六岁孩子的言语敏感期与礼貌问题，在孩子遇到困难时积极帮助并教会其适应",
+    "三到六岁更需关注孩子的心理变化及敏感期层次，建立良好的亲子关系",
+    "小学写作业的鸡飞狗跳现象，根源在于三到六岁时习惯养成的基础是否扎实",
+    "家长必须建立目标，明确孩子自己的事情终究要自己完成，不能包办代替"
+  ],
+  "kapitel": [
+    {
+      "titel": "三到六岁如何科学智慧地偷懒",
+      "start": 19.54
+    },
+    {
+      "titel": "培养孩子整理房间与习惯养成",
+      "start": 64.96
+    },
+    {
+      "titel": "关注心理变化与亲子关系",
+      "start": 156.4
+    },
+    {
+      "titel": "早期习惯对未来的影响",
+      "start": 190.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:06:14+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 299,
+  "veroeffentlicht": "2025-12-29T22:01:00+00:00",
+  "beschreibung": "幸运的人用童年治愈一生，不幸的人用一生治愈童年。\n落实到带娃的实践上就是：\n您用6年时间认真带娃，娃幸福地让您安心一生！\n为了您和孩子明天的幸福，每周二上午6:01分我们不见不散！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">幸运的人用童年治愈一生，不幸的人用一生治愈童年。</a></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">落实到带娃的实践上就是：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">您用<span>6</span>年时间认真带娃，娃幸福地让您安心一生！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">为了您和孩子明天的幸福，<b>每周二</b>上午<span>6:01</span>分我们不见不散！</p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2c39-audiofreehighqps/0C/4A/GArMPQoKXjQrAAJdVgLsge3i.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

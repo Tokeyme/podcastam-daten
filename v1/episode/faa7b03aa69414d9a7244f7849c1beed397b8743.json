@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "82680d6b-46ea-4904-8dcf-b4ac017bf8c7",
+  "apple_collection_id": "1730587238",
+  "show": "Better Offline",
+  "titel": "Monologue: AI Hits A Wall",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/82680d6b-46ea-4904-8dcf-b4ac017bf8c7/audio.mp3?utm_source=Podcast&in_playlist=53ed270b-7147-4f70-81c2-b0fc015fe4ed",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13935506,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:19:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "OpenAI and Anthropic hit a wall as revenue growth slows and compute limits bite.",
+  "kurzfassung": "OpenAI and Anthropic are facing severe industry headwinds, marked by slowing revenue growth and executives departing. OpenAI has paused certain frontier model training, signaling potential compute shortages and financial strain. These developments threaten the broader AI market and the viability of upcoming public offerings.",
+  "stichpunkte": [
+    "OpenAI completed a 7 billion dollar employee share sale using its own cash at an 865 billion dollar valuation.",
+    "Top executives Brad Lightcap and Denise Dresser departed OpenAI shortly after the share sale.",
+    "Anthropic accelerated its IPO plans, aiming for a September or October listing.",
+    "Bloomberg reported OpenAI reached a 40 billion dollar annualized revenue run rate, trailing Anthropic's 65 billion dollars.",
+    "OpenAI paused some frontier reinforcement learning training to focus on alignment and safety.",
+    "Infrastructure bottlenecks and slow data center expansion are constraining model training and inference.",
+    "Slowing enterprise spending and the end of tokenmaxing are dragging down revenue growth across the industry.",
+    "OpenAI faces potential financial collapse as funding options narrow and profitability remains out of reach."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Executive Departures",
+      "start": 2.8
+    },
+    {
+      "titel": "Revenue Run Rates and Market Competition",
+      "start": 108.32
+    },
+    {
+      "titel": "OpenAI Pauses Model Training",
+      "start": 249.56
+    },
+    {
+      "titel": "Compute Constraints and Infrastructure Realities",
+      "start": 346.48
+    },
+    {
+      "titel": "Broader Industry Ramifications and Outlook",
+      "start": 492.12
+    }
+  ],
+  "clips": [
+    {
+      "hook": "OpenAI's 7 billion dollar employee share sale",
+      "start": 44.304,
+      "ende": 64.418,
+      "laenge": 20.11,
+      "byte_start": 823036,
+      "byte_ende": 1144864,
+      "bytes": 321829,
+      "range_header": "bytes=823036-1144864",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 44.382,
+      "anker_sha256": "ba05487452e2bd8e10658890b39f5401fa5f00650054ec65195b828c3d886df5",
+      "einblendung_ms": 60,
+      "text": "The host investigates the pursuit of radical longevity by speaking with researchers, biohackers, and cryotherapy specialists."
+    },
+    {
+      "hook": "Anthropic hits 65 billion in annualized run rate",
+      "start": 156.186,
+      "ende": 176.3,
+      "laenge": 20.11,
+      "byte_start": 2613154,
+      "byte_ende": 2934981,
+      "bytes": 321828,
+      "range_header": "bytes=2613154-2934981",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 156.264,
+      "anker_sha256": "3d8718255974e1b6fab33e2b65f9613695ed8ed2aa9b5ebf866bcf7fd960a6f1",
+      "einblendung_ms": 60,
+      "text": "Skyline Drive"
+    },
+    {
+      "hook": "When an AI model hacks Hugging Face",
+      "start": 269.296,
+      "ende": 289.411,
+      "laenge": 20.11,
+      "byte_start": 4422917,
+      "byte_ende": 4744744,
+      "bytes": 321828,
+      "range_header": "bytes=4422917-4744744",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 269.375,
+      "anker_sha256": "58afa9eb8b1234353d28b64ac9dbc8948c01638923272d47998d4fc6e3fbc0f3",
+      "einblendung_ms": 60,
+      "text": "Skyline Drive"
+    },
+    {
+      "hook": "The massive power demands of AI data centers",
+      "start": 439.04,
+      "ende": 459.128,
+      "laenge": 20.09,
+      "byte_start": 7138816,
+      "byte_ende": 7460225,
+      "bytes": 321410,
+      "range_header": "bytes=7138816-7460225",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 439.118,
+      "anker_sha256": "170961ad1a3349b39920ca7ffd7e8d6cac72984ef76c47618f8cb71741388c62",
+      "einblendung_ms": 60,
+      "text": "Skyline Drive"
+    },
+    {
+      "hook": "OpenAI's limited options for future funding",
+      "start": 557.244,
+      "ende": 577.358,
+      "laenge": 20.11,
+      "byte_start": 9030081,
+      "byte_ende": 9351909,
+      "bytes": 321829,
+      "range_header": "bytes=9030081-9351909",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 557.322,
+      "anker_sha256": "46883c1948a4613a81b1086b4d557de0ae5d31246c09a093b93c9ac2a2c93cb5",
+      "einblendung_ms": 60,
+      "text": "Skyline Drive"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:19:35+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 590,
+  "veroeffentlicht": "2026-08-21T04:00:00+00:00",
+  "beschreibung": "In this week's Better Offline monologue, Ed Zitron runs through how Anthropic and OpenAI’s revenue growth is decelerating, and how OpenAI’s pause on model development and collapsing economics create the very real possibility it could collapse.\n\nEDITOR’s NOTE: I incorrectly say at the beginning of this that NVIDIA’s earnings were this week. They’re next week. Sorry!\n\nNewsletter: What If OpenAI Dies? https://www.wheresyoured.at/what-happens-if-openai-dies/\n\nSave $10 off a year of my premium newsletter: https://edzitronswheresyouredatghostio.outpost.pub/public/promo-subscription/gzqwkv54e1 - I’d be so grateful!\nYOU CAN NOW BUY BETTER OFFLINE MERCH! Go to https://cottonbureau.com/people/better-offline and use code FREE99 for free shipping on orders of $99 or more.\n---\nLINKS: https://www.tinyurl.com/betterofflinelinks\nNewsletter: https://www.wheresyoured.at/\nReddit: https://www.reddit.com/r/BetterOffline/\nDiscord: chat.wheresyoured.at\nEd's Socials:\nhttps://twitter.com/edzitron\nhttps://www.instagram.com/edzitron\nhttps://bsky.app/profile/edzitron.com\nhttps://www.threads.net/@edzitron\nEmail Me: ez@betteroffline.com\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>In this week's Better Offline monologue, Ed Zitron runs through how Anthropic and OpenAI&rsquo;s revenue growth is decelerating, and how OpenAI&rsquo;s pause on model development and collapsing economics create the very real possibility it could collapse.<br><br>EDITOR&rsquo;s NOTE: I incorrectly say at the beginning of this that NVIDIA&rsquo;s earnings were this week. They&rsquo;re next week. Sorry!<br><br>Newsletter: What If OpenAI Dies? https://www.wheresyoured.at/what-happens-if-openai-dies/ <br><br></p> <p>Save $10 off a year of my premium newsletter: <a href=\"https://edzitronswheresyouredatghostio.outpost.pub/public/promo-subscription/gzqwkv54e1\">https://edzitronswheresyouredatghostio.outpost.pub/public/promo-subscription/gzqwkv54e1</a>&nbsp;- I&rsquo;d be so grateful!&nbsp;</p> <p>YOU CAN NOW BUY BETTER OFFLINE MERCH! Go to&nbsp;<a href=\"https://cottonbureau.com/people/better-offline\">https://cottonbureau.com/people/better-offline</a> and use code&nbsp;<strong>FREE99</strong> for free shipping on orders of $99 or more.</p> <p>---</p> <p>LINKS: <a href=\"https://www.tinyurl.com/betterofflinelinks\">https://www.tinyurl.com/betterofflinelinks</a></p> <p>Newsletter: <a href=\"https://www.wheresyoured.at/\">https://www.wheresyoured.at/</a></p> <p>Reddit: <a href=\"https://www.reddit.com/r/BetterOffline/\">https://www.reddit.com/r/BetterOffline/</a>&nbsp;</p> <p>Discord: <a href=\"https://discord.com/invite/QUUQUP9szv\">chat.wheresyoured.at</a></p> <p>Ed's Socials:</p> <p><a href=\"https://twitter.com/edzitron\">https://twitter.com/edzitron</a></p> <p><a href=\"https://www.instagram.com/edzitron\">https://www.instagram.com/edzitron</a></p> <p><a href=\"https://bsky.app/profile/edzitron.com\">https://bsky.app/profile/edzitron.com</a></p> <p><a href=\"https://www.threads.net/@edzitron\">https://www.threads.net/@edzitron</a></p> <p>Email Me: <a href=\"mailto:ez@betteroffline.com\">ez@betteroffline.com</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/image.jpg?t=1771968551&size=Large",
+  "kapitel_quelle": "modell"
+}

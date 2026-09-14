@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1005001362",
+  "apple_collection_id": "6799908147",
+  "show": "雾之聊教育｜高中数学学习诊断",
+  "titel": "高中数学总说“会做但马虎”？先判断孩子卡在哪一步",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOSmCwAKtCuQTDAQg6.m4a?channel=rss&album_id=128104321&track_id=1005001362&uid=461311783&jt=https://aod.cos.tx.xmcdn.com/storages/25b3-audiofreehighqps/1D/64/GKwRIUEOSmCwAKtCuQTDAQg6.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11223737,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T11:39:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "高中数学总说“会做但马虎”？先判断孩子卡在哪一步",
+  "kurzfassung": "高中数学成绩不好时，学生常归咎于“太难”，家长则常归咎于“马虎”或“基础差”，但这些模糊的说法无法解决根本问题。真正的卡点往往在于概念理解不深、方法没有形成体系或计算过程不扎实。通过让学生完整讲解解题步骤和翻译题意，可以精准找出卡在哪一步并制定解决方案。",
+  "stichpunkte": [
+    "学生常将数学不好归结为太难，家长则常归咎于马虎或基础差，这些模糊表述无法指导实际教学。",
+    "大部分所谓的“马虎”本质上是知识点学得不扎实或根本不会，导致对答案时无法自我检查。",
+    "高中数学的基础不仅是背公式，更在于知道公式的适用条件、使用场景及多角度理解。",
+    "学生不会做题常表现为看不懂题、想不到方法或只记住方法标签但写不出完整过程。",
+    "通过引导学生独立翻译题干条件和板书计算过程，可以不给选项地精准找出卡点。",
+    "家长可以通过观察学生是否逃避做题以及能否具体描述薄弱环节来判断问题严重性。",
+    "AI在辅助高中数学备考时存在局限性，往往忽视考试边界和时间成本，更适合先赋能老师。",
+    "有效的诊断应当明确具体问题、评估知识边界，并给出包含先后顺序和材料选择的具体学习计划。"
+  ],
+  "kapitel": [
+    {
+      "titel": "模糊的描述：从“太难”到“马虎”",
+      "start": 0.0
+    },
+    {
+      "titel": "重新定义高中数学的“基础差”",
+      "start": 393.1
+    },
+    {
+      "titel": "层层拆解：学生到底卡在哪里",
+      "start": 502.66
+    },
+    {
+      "titel": "如何进行无提示的精准诊断",
+      "start": 681.74
+    },
+    {
+      "titel": "AI在高中数学备考中的局限与应用",
+      "start": 986.3
+    },
+    {
+      "titel": "诊断的终点是可执行的解决方案",
+      "start": 1151.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T11:39:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1386,
+  "veroeffentlicht": "2026-08-06T14:43:12+00:00",
+  "beschreibung": "孩子说“我都会，就是马虎”，为什么这句话反而最值得警惕？\n\n本期从一个高三学生的真实学习问题出发，讨论“马虎”“基础差”“不会做题”为什么常常只是结果，而不是诊断。我们会进一步拆解：怎样把模糊标签变成可以观察、验证和改进的具体问题；家长和老师又该怎样判断孩子究竟卡在概念、读题、方法、计算，还是知识结构。\n节目观点、案例和教学判断来自高中数学老师雾之的真实教学经验。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">孩子说“我都会，就是马虎”，为什么这句话反而最值得警惕？<br></p><br>本期从一个高三学生的真实学习问题出发，讨论“马虎”“基础差”“不会做题”为什么常常只是结果，而不是诊断。我们会进一步拆解：怎样把模糊标签变成可以观察、验证和改进的具体问题；家长和老师又该怎样判断孩子究竟卡在概念、读题、方法、计算，还是知识结构。<br>节目观点、案例和教学判断来自高中数学老师雾之的真实教学经验。",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9828-audiofreehighqps/CC/33/GAqh9TMOSlm5AAnq2QTC_ap7.jpeg",
+  "kapitel_quelle": "modell"
+}

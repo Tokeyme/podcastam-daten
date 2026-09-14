@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "guid": "2073f832-5201-4294-bd7a-5a08527d5c0a",
+  "apple_collection_id": "1533676657",
+  "show": "宅道出遊",
+  "titel": "EP269｜【GQ】Dinoblade 這龍帶刀/聽眾回信",
+  "audio": {
+    "url": "https://rss.soundon.fm/rssf/1ab11d67-1444-4b40-b620-abd62b1c4924/feedurl/2073f832-5201-4294-bd7a-5a08527d5c0a/rssFileVip.mp3?timestamp=1786882097671",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 96154258,
+    "format": "mp3",
+    "geprueft_am": "2026-08-26T02:27:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "聊聊奇葩動作遊戲《 Dinoblade 這龍帶刀 》的遊玩心得與聽眾來信回覆。",
+  "kurzfassung": "主持人分享了獨立動作遊戲《 Dinoblade 這龍帶刀 》的破關心得，點評其搞笑的中文字幕、魂系玩法與豐富武器。節目後半段則回覆聽眾來信，暢聊生存遊戲的心得以及桌遊與模型坑的萬年不歸路。最後也提及近期表現亮眼的新番動畫。",
+  "stichpunkte": [
+    "《 Dinoblade 這龍帶刀 》源自網路動作測試動畫，玩家操作一隻咬著刀的恐龍展開冒險。",
+    "遊戲中文翻譯極度奇葩搞笑，但動作與彈反機制具備一定的魂系難度。",
+    "武器系統豐富，包含多種特殊刀劍並附帶專屬的華麗招式。",
+    "BOSS戰設計充滿挑戰性，玩家可吸收亡魂來解鎖被動能力或召喚助陣。",
+    "最終頭目戰與結局展開相當熱血，主角身分也在最後揭曉。",
+    "聽眾來信分享遊玩《 現代戰爭 》系列與多人戰術射擊遊戲的心得。",
+    "探討戰鎚桌遊與模型坑的高昂花費，以及拉朋友入坑的過程。"
+  ],
+  "kapitel": [
+    {
+      "titel": "《 Dinoblade 這龍帶刀 》遊戲心得",
+      "start": 67.0
+    },
+    {
+      "titel": "武器系統與BOSS戰挑戰",
+      "start": 643.42
+    },
+    {
+      "titel": "最終決戰與結局揭曉",
+      "start": 2264.04
+    },
+    {
+      "titel": "聽眾來信：射擊遊戲與模型坑",
+      "start": 3338.24
+    }
+  ],
+  "clips": [
+    {
+      "hook": "看到遊戲預告的真實反應",
+      "start": 78.144,
+      "ende": 98.232,
+      "laenge": 20.09,
+      "byte_start": 2499986,
+      "byte_ende": 2982097,
+      "bytes": 482112,
+      "range_header": "bytes=2499986-2982097",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 78.216,
+      "anker_sha256": "60a97efb16d6d4c3f04dc85a6e470bfe883b70436ea7a55a4506c136fb2ae794",
+      "einblendung_ms": 60,
+      "text": "觀看完首支宣傳影片後，內心既錯愕又充滿驚喜。"
+    },
+    {
+      "hook": "破關時數與遊戲定位",
+      "start": 132.192,
+      "ende": 152.28,
+      "laenge": 20.09,
+      "byte_start": 3797138,
+      "byte_ende": 4279249,
+      "bytes": 482112,
+      "range_header": "bytes=3797138-4279249",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 132.264,
+      "anker_sha256": "b4bd3597bc34ce442a96bb5506e3e84ab44300fc8bbd7ca7867261b38b7eacf5",
+      "einblendung_ms": 60,
+      "text": "這款作品規模迷你，大約花費五到六小時便能迅速通關。"
+    },
+    {
+      "hook": "恐龍版隻狼的戰鬥體驗",
+      "start": 710.376,
+      "ende": 730.464,
+      "laenge": 20.09,
+      "byte_start": 17673554,
+      "byte_ende": 18155665,
+      "bytes": 482112,
+      "range_header": "bytes=17673554-18155665",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 710.448,
+      "anker_sha256": "b99daea0994f05a538f455783eda05d69cdb892eb40390531053b1ac053274d7",
+      "einblendung_ms": 60,
+      "text": "敵人的強度與戰鬥節奏接近隻狼的風格，因此很適合歸類為同類作品。"
+    },
+    {
+      "hook": "通關前的死亡次數統計",
+      "start": 2333.304,
+      "ende": 2353.392,
+      "laenge": 20.09,
+      "byte_start": 56623826,
+      "byte_ende": 57105937,
+      "bytes": 482112,
+      "range_header": "bytes=56623826-57105937",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 2333.376,
+      "anker_sha256": "8f85432d2565a1d18270b678ad483ca2a83f54ffaed3e726cd0321fc0d0e62b3",
+      "einblendung_ms": 60,
+      "text": "挑戰完整個流程的過程中，總共累計了九次失敗紀錄。"
+    },
+    {
+      "hook": "掉進模型坑的悲慘錢包",
+      "start": 3710.208,
+      "ende": 3730.296,
+      "laenge": 20.09,
+      "byte_start": 89669522,
+      "byte_ende": 90151633,
+      "bytes": 482112,
+      "range_header": "bytes=89669522-90151633",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 3710.28,
+      "anker_sha256": "35b4f2d1b1f358751aae526134056b3245643ecdda4632ece71da530bd44ac58",
+      "einblendung_ms": 60,
+      "text": "頻繁購買各大品牌的遊戲周邊導致荷包大失血，已經完全無法自拔。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-26T02:27:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3980,
+  "veroeffentlicht": "2026-08-16T23:00:00+00:00",
+  "beschreibung": "【可樂旅遊17瘋搶日】\n\n每月限定3天搶限量優惠！\n\n1號訂房，享9折優惠，最高折千元\n\n7號票券，享7%優惠，最高折300元\n\n17號機票，享1.7%折扣，最高折千元\n\nhttps://sofm.pse.is/9gqqau\n\n－－－－以上為 SoundOn 動態廣告－－－－\n\n這集有：\n\n恐龍咬著刀刃互砍，有什麼比這更熱心！《Dinoblade 這龍帶刀》才是男人的浪漫！\n\n感謝7274BT、fuchen來信，歡迎各位寫信以及斗內喔～～\n\n斗內連結：https://pay.soundon.fm/podcasts/1ab11d67-1444-4b40-b620-abd62b1c4924\n\n外國聽眾斗內連結：https://ko-fi.com/indooorsy2020\n\n宅道出遊DC群：https://discord.gg/Zr59fdDNp6\n\n--\n\nHosting provided by SoundOn",
+  "beschreibung_html": "<p><br />【可樂旅遊17瘋搶日】 <br />\n每月限定3天搶限量優惠！ <br />\n1號訂房，享9折優惠，最高折千元 <br />\n7號票券，享7%優惠，最高折300元 <br />\n17號機票，享1.7%折扣，最高折千元<br />\n<a href=\"https://sofm.pse.is/9gqqau\">https://sofm.pse.is/9gqqau</a> \n<br />－－－－以上為 SoundOn 動態廣告－－－－ \n<br />這集有： \n<br />恐龍咬著刀刃互砍，有什麼比這更熱心！《Dinoblade 這龍帶刀》才是男人的浪漫！ \n<br /> <br />\n感謝7274BT、fuchen來信，歡迎各位寫信以及斗內喔～～ \n<br /> <br />\n斗內連結：<a href=\"https://pay.soundon.fm/podcasts/1ab11d67-1444-4b40-b620-abd62b1c4924\">https://pay.soundon.fm/podcasts/1ab11d67-1444-4b40-b620-abd62b1c4924</a> \n<br />外國聽眾斗內連結：<a href=\"https://ko-fi.com/indooorsy2020\">https://ko-fi.com/indooorsy2020</a> \n<br />宅道出遊DC群：<a href=\"https://discord.gg/Zr59fdDNp6\">https://discord.gg/Zr59fdDNp6</a> \n<br />--<br />\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> </p>",
+  "bild_url": "https://files.soundon.fm/1688551173000-0866c1b6-c526-4b5d-8a45-f114924c1dd5.jpeg",
+  "schlagworte": [
+    "龍",
+    "這龍帶刀",
+    "侏儸紀",
+    "大滅絕",
+    "刀",
+    "魂類遊戲",
+    "遊戲",
+    "獨立遊戲",
+    "網路梗",
+    "地球",
+    "斬月?",
+    "心魔"
+  ],
+  "folgennummer": 269,
+  "kapitel_quelle": "modell"
+}

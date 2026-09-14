@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group50/M07/C7/DC/wKgKmVv1NWuCB1tRAGwHUJGhLZU481.m4a",
+  "apple_collection_id": "1073847019",
+  "show": "周六·不老情歌",
+  "titel": "嘿女孩，你会等到他来爱你的 - 泽南",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgKmVv1NWuCB1tRAGwHUJGhLZU481.m4a?channel=rss&album_id=3523943&track_id=138388155&uid=1000519&jt=https://aod.cos.tx.xmcdn.com/group50/M07/C7/DC/wKgKmVv1NWuCB1tRAGwHUJGhLZU481.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7079760,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T19:57:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨女孩对爱情的矛盾心思与期待，并结合《美女与野兽》分享对爱的感悟。",
+  "kurzfassung": "节目探讨了女孩在感情中的矛盾心理，认为适度的波折与挣扎能让爱情更深刻。通过提及迪士尼音乐剧《美女与野兽》，节目引导听众去发现身边的爱与心动。最后，节目伴随歌曲表达了对纯粹爱情和美好结局的祝愿。",
+  "stichpunkte": [
+    "女孩对爱情常怀矛盾心思，既渴望被爱又希望经历坎坷",
+    "感情中的适度挣扎与波折能让爱情更加深刻难忘",
+    "许多女孩可能曾渴望拥有一个带来惊喜的野兽系男朋友",
+    "提及迪士尼中文版音乐剧《美女与野兽》，并介绍购票方式",
+    "探讨喜欢是一种柔软而直接的情绪，伴随心跳加速而来",
+    "分享关于孤独与陪伴的细腻情感，以及对恋爱结局的美好祝愿"
+  ],
+  "kapitel": [
+    {
+      "titel": "女孩的爱情心思与音乐剧分享",
+      "start": 13.14
+    },
+    {
+      "titel": "关于喜欢与心动的细腻独白",
+      "start": 375.56
+    },
+    {
+      "titel": "爱情歌曲与节目尾声",
+      "start": 659.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T19:57:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 874,
+  "veroeffentlicht": "2018-11-21T12:00:01+00:00",
+  "beschreibung": "hi，好久不见~我是陪你们听歌的泽南，这么久了，你有没有找到那个，与你携手一起看一场音乐剧的TA呢？",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"line-height:30px;hyphens:auto;color:#333333;text-align:justify;font-size:16px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;\">hi，好久不见~我是陪你们听歌的泽南，这么久了，你有没有找到那个，与你携手一起看一场音乐剧的TA呢？</p><p data-flag=\"normal\" style=\"line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:justify;color:#333333;font-size:16px;\"><img data-key=\"0\" src=\"http://image.xmcdn.com/group49/M0B/CF/F0/wKgKmFv1WAiQYFYRAAFy-BUPy7k831.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_large\" alt=\"\" data-origin=\"http://image.xmcdn.com/group49/M0B/CF/F0/wKgKmFv1WAiQYFYRAAFy-BUPy7k831.jpg?op_type=0\" data-large=\"http://image.xmcdn.com/group49/M0B/CF/F0/wKgKmFv1WAiQYFYRAAFy-BUPy7k831.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_large\" data-large-width=\"750\" data-large-height=\"750\" data-preview=\"http://image.xmcdn.com/group49/M0B/CF/F0/wKgKmFv1WAiQYFYRAAFy-BUPy7k831.jpg?op_type=4&device_type=ios&upload_type=attachment&name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"140\" /></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group9/M08/E1/9B/wKgDZlaRBFGAKZg5AAF9h34b-gU358.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

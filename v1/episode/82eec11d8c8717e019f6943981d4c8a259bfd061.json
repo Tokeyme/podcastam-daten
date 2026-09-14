@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007312295",
+  "apple_collection_id": "740315966",
+  "show": "潮音乐",
+  "titel": "潮音乐 Vol.552 华语细糠系列-情歌篇2",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOW2UTAVx9hgTJJvWb.m4a?channel=rss&album_id=225568&track_id=1007312295&uid=4788395&jt=https://aod.cos.tx.xmcdn.com/storages/534c-audiofreehighqps/FA/B2/GKwRIDoOW2UTAVx9hgTJJvWb.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 22838662,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T05:51:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "华语经典情歌第二篇，重温那些岁月沉淀的走心旋律。",
+  "kurzfassung": "主播胡子哥带来华语细糠系列情歌第二期，分享多首华语经典老歌。节目中串联播放了伍佰的《泪桥》、郭富城的《我是不是该安静的走开》、金海心的《阳光下的星星》等多首作品。同时，节目探讨了老歌翻红的原因以及对当下音乐人过度改编老歌现象的看法。",
+  "stichpunkte": [
+    "节目推出华语细糠系列情歌第二篇，延续经典华语音乐分享",
+    "分享伍佰的《泪桥》，探讨老歌翻红现象与真实录音的底噪价值",
+    "播放郭富城的《我是不是该安静的走开》，批评部分音乐人对经典老歌的过度改编与炫技",
+    "推荐金海星的《阳光下的星星》，回忆2006年相对超前的独立流行风格",
+    "播放林忆莲的经典情歌《伤痕》，探讨女性在爱情中的勇敢与自留分寸",
+    "分享张宇的《我期待》，表达对优秀音乐人离去的遗憾",
+    "播放莫文蔚演唱、李宗盛创作的《阴天》，感受阴雨天的独特情感共鸣",
+    "分享范晓萱早期的作品《雪人》，带来冬日的情感记忆",
+    "以张震悦《OK》专辑中的《再见（真情版）》收尾，探讨离别背后的悲伤底色"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与伍佰《泪桥》",
+      "start": 5.24
+    },
+    {
+      "titel": "郭富城《我是不是该安静的走开》与翻唱现象探讨",
+      "start": 405.44
+    },
+    {
+      "titel": "金海星《阳光下的星星》",
+      "start": 725.68
+    },
+    {
+      "titel": "林忆莲《伤痕》",
+      "start": 1008.38
+    },
+    {
+      "titel": "张宇《我期待》",
+      "start": 1747.94
+    },
+    {
+      "titel": "莫文蔚《阴天》",
+      "start": 1792.0
+    },
+    {
+      "titel": "范晓萱《雪人》",
+      "start": 2076.98
+    },
+    {
+      "titel": "张震悦《再见（真情版）》与结语",
+      "start": 2403.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T05:51:01+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2821,
+  "veroeffentlicht": "2026-08-19T12:29:30+00:00",
+  "beschreibung": "感谢大家的支持\n华语细糠系列迎来了第二期\n这起依然是情歌篇\n因为华语经典情歌真的太多了\n就请各位和我一起洗洗耳朵吧",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">感谢大家的支持<br>华语细糠系列迎来了第二期<br>这起依然是情歌篇<br>因为华语经典情歌真的太多了<br>就请各位和我一起洗洗耳朵吧<br><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/3fd0-audiofreehighqps/E0/5A/GKwRIW4OW2RlAEdmsgTJJn_P.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/3fd0-audiofreehighqps/E0/5A/GKwRIW4OW2RlAEdmsgTJJn_P.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/3fd0-audiofreehighqps/E0/5A/GKwRIW4OW2RlAEdmsgTJJn_P.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"750\" data-preview=\"http://imagev2.xmcdn.com/storages/3fd0-audiofreehighqps/E0/5A/GKwRIW4OW2RlAEdmsgTJJn_P.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"140\"><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group11/M0A/94/01/wKgDbVdVRx3xGtnnAAHpPx5-seg355.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

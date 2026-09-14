@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_655696122",
+  "apple_collection_id": "1619586327",
+  "show": "徒步旅行｜户外原创播客",
+  "titel": "贡嘎雪山——子梅村到冷噶措，惊险刺激的一天",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEIqo19AEClfwJG3j1e-aacv2-48K.m4a?channel=rss&album_id=57611160&track_id=655696122&uid=114309919&jt=https://aod.cos.tx.xmcdn.com/storages/110c-audiofreehighqps/A4/D2/GKwRIJEIqo19AEClfwJG3j1e-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3185906,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T18:50:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾从子梅村到冷噶措的惊险旅程与遗憾错过的雪山美景。",
+  "kurzfassung": "讲述者一行在大雪天乘皮卡前往子梅亚口，一路惊险刺激却遭遇大雾未能看到风景。随后前往冷嘎措轻装登山，依然因大雾弥漫和队友催促而遗憾下山。尽管行程充满遗憾且未能尽兴，但亲历这条知名路线仍有其独特价值。",
+  "stichpunkte": [
+    "在大雪天乘坐皮卡车前往子梅亚口，山路崎岖湿滑且坡度陡峭，过程十分惊险",
+    "车辆多次打滑爬坡困难，甚至需要后斗乘客下车减轻重量才得以通过",
+    "行进途中雾气偶有散开，云开雾散的瞬间让众人看到了短暂的雪山美景",
+    "顺利到达子梅亚口后大雾复来，能见度不足十米，未能看到理想的景观",
+    "到达冷嘎措下方的村子卸下背包，随后轻装徒步上山试图观景",
+    "上山途中再次遭遇大雾，加上未带背包无法露营等待以及队友催促，最终选择放弃并下山",
+    "一行人包车出山并在路上用餐，随后抵达康定，结束了此次贡嘎雪山行程",
+    "尽管此次行程天气不佳且错过风景，但走过这条知名路线本身依然值得"
+  ],
+  "kapitel": [
+    {
+      "titel": "大雪天乘皮卡车惊险前往子梅亚口",
+      "start": 9.94
+    },
+    {
+      "titel": "到达子梅亚口遭遇大雾未能尽兴",
+      "start": 253.2
+    },
+    {
+      "titel": "徒步冷嘎措受阻与行程的遗憾结束",
+      "start": 313.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T18:50:23+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 523,
+  "veroeffentlicht": "2023-08-10T11:31:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f72a-audiofreehighqps/E4/40/GMCoOSUIqo1zAADDtAJG3jd9.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

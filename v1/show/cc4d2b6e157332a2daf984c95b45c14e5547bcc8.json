@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "show": "That's Messed Up: An SVU Podcast",
+  "apple_collection_id": "1540370040",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "94bc1628-9a7d-4a64-8d9e-b4b700f46b8c",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cf7e6913-a01e-4666-a095-b24c0047c637/94bc1628-9a7d-4a64-8d9e-b4b700f46b8c/audio.mp3?utm_source=Podcast&in_playlist=c3a2c876-20bf-449b-8d54-b24c0047c64d",
+      "pfad": "/v1/episode/b6eb0b672a61182d5d498942c63feb9c81d866e7.json",
+      "titel": "Bang w/ John Stamos",
+      "veroeffentlicht": "2026-09-01T07:01:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Celebrating 300 episodes with a deep dive into the Law & Order: SVU episode featuring…"
+    },
+    {
+      "guid": "99e5a4f5-2f1a-46e0-98be-b4a901023b2c",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cf7e6913-a01e-4666-a095-b24c0047c637/99e5a4f5-2f1a-46e0-98be-b4a901023b2c/audio.mp3?utm_source=Podcast&in_playlist=c3a2c876-20bf-449b-8d54-b24c0047c64d",
+      "pfad": "/v1/episode/3babd97218bee18ba3d8c3605e1a120f20e0984e.json",
+      "titel": "Weak",
+      "veroeffentlicht": "2026-08-18T07:01:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep dive into Law and Order: SVU season six, episode nine, \"Weak\"."
+    }
+  ]
+}

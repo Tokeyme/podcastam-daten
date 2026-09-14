@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_823791161",
+  "apple_collection_id": "1592943141",
+  "show": "四处观察：离谱新闻批发部",
+  "titel": "行业‖2.6元引发的商KTV地震",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUELtFLhABAAAAODfb2P.m4a?channel=rss&album_id=51971145&track_id=823791161&uid=77230225&jt=https://aod.cos.tx.xmcdn.com/storages/c793-audiofreehighqps/EF/70/GKwRIUELtFLhABAAAAODfb2P.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3285180,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T15:46:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "代驾因2.6元小费报警举报，竟引发杭州高端KTV行业大地震。",
+  "kurzfassung": "一名代驾司机因宝马车主拒绝支付2.6元零头而选择报警并举报涉事KTV的色情服务。这一举动导致涉事KTV停业整顿，并引发了杭州整个高端KTV行业的突击检查与连锁灾难。事件折射出富人对底层劳动者的傲慢以及弱者捍卫尊严的强力反击。",
+  "stichpunkte": [
+    "宝马车主在KTV消费数千元，却拒绝支付代驾司机52.6元中的2.6元零头。",
+    "代驾司机多次索要无果后报警，并举报该KTV存在有偿陪侍等色情服务。",
+    "涉事KTV随即被通知停业整顿，并引发全市商KTV行业的突击检查。",
+    "事件产生多米诺骨牌效应，导致杭州曼哈顿天际线等投资几十亿的高档KTV停业。",
+    "大量从业人员因此流向其他城市，对整个KTV行业造成巨大灾难。",
+    "事件暴露出部分富人对底层劳动者尊严的轻视与傲慢。",
+    "展现了底层劳动者在权益受损时，光脚不怕穿鞋的强力反击。"
+  ],
+  "kapitel": [
+    {
+      "titel": "代驾因2.6元引发举报",
+      "start": 11.2
+    },
+    {
+      "titel": "引发KTV行业大地震",
+      "start": 103.88
+    },
+    {
+      "titel": "社会反思与底层反击",
+      "start": 147.02
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T15:46:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 199,
+  "veroeffentlicht": "2025-03-22T10:24:35+00:00",
+  "beschreibung": "宝马车主 代驾 商K 陪侍服务 停业整顿 就因为不给2.6元",
+  "beschreibung_html": "宝马车主 代驾 商K 陪侍服务 停业整顿 就因为不给2.6元",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9a6e-audiofreehighqps/18/DA/GMCoOSQJEXrLAAcJPAJ0hH3G.jpg",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_538516686",
+  "apple_collection_id": "1593824936",
+  "show": "听游云南丨七十迈旅行故事",
+  "titel": "云南和法国的深厚渊源（芦伟）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoGaWvUACBBPQFf7yuV-aacv2-48K.m4a?channel=rss&album_id=52413488&track_id=538516686&uid=317877191&jt=https://aod.cos.tx.xmcdn.com/storages/8974-audiofreehighqps/FE/E2/GKwRIDoGaWvUACBBPQFf7yuV-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1589825,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:20:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨云南与法国因历史上的滇越铁路而结下的深厚文化渊源。",
+  "kurzfassung": "本期节目讲述了云南与法国之间长久的历史渊源。通过滇越铁路的修建，法国文化深入影响了云南人的日常生活、建筑和饮食。同时，法国传教士和探险家也促进了云南葡萄种植、咖啡引入以及外语教育的发展。",
+  "stichpunkte": [
+    "滇越铁路于1904年正式通车，将云南与法国文化紧密相连。",
+    "法国文化改变了云南人的生活，带来了法式建筑、花砖、面包及咖啡等。",
+    "法国传教士在云南无意间种下了葡萄，成就了玫瑰蜜品种。",
+    "法国传教士田德能神父在大理种植了中国第一株咖啡树。",
+    "法国摄影师留下了大量极为珍贵的晚清云南历史照片与文字档案。",
+    "薄熙文等人物在云南创办学校，为当地培养了大批外语人才。",
+    "昆明街头常见的法国梧桐实际上是三球悬铃木，因历史渊源而得名。"
+  ],
+  "kapitel": [
+    {
+      "titel": "云南与法国的历史渊源与滇越铁路",
+      "start": 1.1
+    },
+    {
+      "titel": "法国文化对云南生活的影响",
+      "start": 36.06
+    },
+    {
+      "titel": "传教士与云南的葡萄和咖啡种植",
+      "start": 102.34
+    },
+    {
+      "titel": "法国摄影师的珍贵历史记录",
+      "start": 127.34
+    },
+    {
+      "titel": "薄熙文与云南的教育及外语人才培养",
+      "start": 160.44
+    },
+    {
+      "titel": "法国梧桐的真相与结语",
+      "start": 219.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:20:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 260,
+  "veroeffentlicht": "2022-05-30T08:00:00+00:00",
+  "beschreibung": "云南除了面积和法国差不多大，原来还有那么多历史渊源。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">云南除了面积和法国差不多大，原来还有那么多历史渊源。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2aa7-audiofreehighqps/A9/CB/GKwRINsGaWuiAAXhGgFf7xpl.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

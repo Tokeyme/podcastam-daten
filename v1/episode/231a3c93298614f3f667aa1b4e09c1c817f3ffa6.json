@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006998216",
+  "apple_collection_id": "1557484618",
+  "show": "大元宝的财经圈",
+  "titel": "【0818点评】沪指重返年线，逐步逢高落袋",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOWXdvACL2WgTIRNLE.m4a?channel=rss&album_id=46896798&track_id=1006998216&uid=227035007&jt=https://aod.cos.tx.xmcdn.com/storages/4b7c-audiofreehighqps/24/5B/GKwRIRwOWXdvACL2WgTIRNLE.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2291290,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:19:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "沪指重返年线，建议投资者逐步逢高落袋减仓。",
+  "kurzfassung": "沪指近期重返年线并逼近4000点，符合此前预期的超跌反弹空间。市场风格趋于均衡，前期跌幅较深板块及医药等非AI股轮动补涨。建议投资者在当前阶段适当进行减持落袋操作，边走边看。",
+  "stichpunkte": [
+    "A股经历两周多超跌反弹，沪指重返年线并逼近4000点",
+    "反弹空间符合预期，建议低位超跌部分逐步逢高减仓落袋",
+    "赚钱核心在于低买高卖，极端行情下可适当加仓并及时止盈",
+    "市场风格更趋均衡，前期杀跌深或有利好催化的板块反弹幅度更大",
+    "滞胀龙头大票出现预期中的补涨，板块轮动已基本过半",
+    "医药行业等非AI股表现健康良性，收复上半年跌幅且趋势拔高",
+    "创新药景气度高且底部出现连续阳线，呈现反转信号",
+    "短期医药与科技反弹均至阶段性位置，建议逢高减仓后边走边看"
+  ],
+  "kapitel": [
+    {
+      "titel": "行情回顾与减仓建议",
+      "start": 0.0
+    },
+    {
+      "titel": "市场风格与板块轮动",
+      "start": 107.1
+    },
+    {
+      "titel": "医药与创新药表现",
+      "start": 161.04
+    },
+    {
+      "titel": "短期展望与操作策略",
+      "start": 258.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:19:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 282,
+  "veroeffentlicht": "2026-08-18T01:24:51+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/76ff-audiofreehighqps/8C/49/GAqhfZkNRibDAAL9WwRdHwI7.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

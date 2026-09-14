@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_508303106",
+  "apple_collection_id": "1615080193",
+  "show": "诡异墓书｜悬疑恐怖｜盗墓｜多播精品有声小说",
+  "titel": "000诡异墓书楔子",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEF-pQAAD7D2AEkSfKr-aacv2-48K.m4a?channel=rss&album_id=57573971&track_id=508303106&uid=393704735&jt=https://aod.cos.tx.xmcdn.com/storages/99f3-audiofreehighqps/DC/A3/GKwRIJEF-pQAAD7D2AEkSfKr-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3093200,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T18:02:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探险队被困洛河地下墓室，杨木为寻找家族真相与博书秘密踏入险境。",
+  "kurzfassung": "杨木随探险队被困洛河地下墓室三天，面临断粮与同伴状态异常的危机。他怀揣父亲从楚王墓带出的半部《杜千秋阴阳博书》，试图查明家族灭门与父亲失踪的真相。黑暗中诡异事件频发，同伴门三和周震相继遭遇异常状况。",
+  "stichpunkte": [
+    "冬初的一场风雪中，五岁的杨木怀揣金布包着的半部博书踏上寻真之路",
+    "探险队六七人被困洛河地下墓室长达三天，面临绝境与物资耗尽",
+    "爬子点燃最后一根火柴，内心对参与此次探险充满后悔",
+    "杨木在黑暗中看到门三身体背对、头部却转过来并闪烁红光的诡异一幕",
+    "周震在黑暗中挨了一记耳光，怀疑是爬子所为并引发争执",
+    "杨木握着夏洛依送的狼牙吊坠，担忧脱水的夏洛依无法坚持",
+    "回忆起夏叔展示的半部《杜千秋阴阳博书》以及父亲前往洛河的往事",
+    "门三右胳膊突然被烈火燃烧并发出尖叫，众人陷入极度恐怖之中"
+  ],
+  "kapitel": [
+    {
+      "titel": "地下墓室的困境",
+      "start": 90.88
+    },
+    {
+      "titel": "黑暗中的诡异现象",
+      "start": 175.04
+    },
+    {
+      "titel": "往事与博书的秘密",
+      "start": 345.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T18:02:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 507,
+  "veroeffentlicht": "2022-03-06T15:19:14+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f253-audiofreehighqps/8B/EE/GKwRIaIF-pHFAAO88gEkSTbM.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

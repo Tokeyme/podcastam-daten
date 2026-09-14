@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_721639066",
+  "apple_collection_id": "1744865602",
+  "show": "《性学入门》李银河｜性教育性科普（三联书店新版）",
+  "titel": "1.1 源与流（上）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEJ7cjBADFznALFAZWo.m4a?channel=rss&album_id=81305801&track_id=721639066&uid=127453564&jt=https://aod.cos.tx.xmcdn.com/storages/6adb-audiofreehighqps/72/5E/GKwRIUEJ7cjBADFznALFAZWo.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3240860,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T23:14:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨性学的历史发展、跨学科研究领域及其多元视角。",
+  "kurzfassung": "本集探讨了《性学入门》中关于性学历史与流变的内容。性学在19世纪末至20世纪初创建时主要作为医学分支，随后研究领域扩展至社会学、政治学和哲学。节目详细梳理了生物医学、心理学、社会学和人类学等不同学科对性学研究作出的贡献。",
+  "stichpunkte": [
+    "探讨《性学入门》第一章关于性学的历史与源流",
+    "介绍德国性研究者赫斯菲尔及其创办的世界首个性学研究所",
+    "性学是一个涵盖身体形态学、心理学、人类学及哲学等领域的跨学科研究",
+    "性学初创期主要建立在对病患群体的医学研究基础之上",
+    "20世纪性学研究领域从医学迅速扩大到社会学、政治学和哲学领域",
+    "生物医学科学对性学研究的贡献主要在性器官、功能和疾病治疗方面",
+    "心理学家在性差别研究上作出了重要贡献",
+    "社会学家重点关注婚姻、家庭、性别关系及性角色研究",
+    "人类学在所有社会科学学科中对人类性活动表现出最长久的兴趣"
+  ],
+  "kapitel": [
+    {
+      "titel": "性学的历史源流与定义",
+      "start": 2.7
+    },
+    {
+      "titel": "性学研究领域的扩大",
+      "start": 223.9
+    },
+    {
+      "titel": "各学科对性学的贡献与研究角度",
+      "start": 265.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T23:14:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 400,
+  "veroeffentlicht": "2024-04-09T17:07:55+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4836-audiofreehighqps/8D/E6/GMCoOSEJ6zipAAZ9OwLEHNQU.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

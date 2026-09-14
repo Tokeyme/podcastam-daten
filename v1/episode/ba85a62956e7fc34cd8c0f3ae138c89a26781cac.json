@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "6a6f8837ab3a91c24a0eace6",
+  "apple_collection_id": "1714428325",
+  "show": "吴说不加密播客",
+  "titel": "EP-115 支付人圆桌：2026 Web3 支付将走向何方？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a6f8837ab3a91c24a0eace6/media.xyzcdn.net/6443f642c719e0a1189a5d3e/luCRKlLRkeQEM8cEHGNIxtxhxw2V.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 51939997,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T19:20:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨2026年Web3支付走向，涵盖合规监管、稳定币应用与AI支付等趋势。",
+  "kurzfassung": "本期播客邀请多位行业嘉宾，围绕全球支付报告解读2026年Web3支付的发展方向。嘉宾们深入探讨了数字钱包与稳定币在跨境支付、新兴市场的应用现状，以及合规壁垒对资本估值逻辑的影响。此外，节目还前瞻性地分析了AI Agent支付与自主交易的未来场景。",
+  "stichpunkte": [
+    "数字钱包已超越单纯支付工具属性，成为重要的流量入口。",
+    "加密支付目前在电商交易中占比较低，但在B2B和跨境支付场景中变化明显。",
+    "资本市场对支付赛道的估值逻辑正在从单纯的交易量转向合规壁垒与牌照。",
+    "USDT在当前新兴市场和跨境贸易中仍占绝对主流，USDC则在机构和合规市场增长迅速。",
+    "东南亚和拉美等地区的扫码支付及稳定币需求由真实的生活和商业刚需驱动。",
+    "Cardly等聚合服务商通过企业卡切入细分市场，满足无法获得传统银行账户群体的需求。",
+    "AI Agent支付分为“AI替人购物”和“AI自主交易”两类，未来支付生态与钱包入口将深度结合。"
+  ],
+  "kapitel": [
+    {
+      "titel": "全球支付报告解读与开场",
+      "start": 6.04
+    },
+    {
+      "titel": "资本市场对支付赛道的估值逻辑转变",
+      "start": 348.2
+    },
+    {
+      "titel": "合规政策与稳定币监管趋势",
+      "start": 770.0
+    },
+    {
+      "titel": "东南亚与拉美市场的扫码支付与应用落地",
+      "start": 1138.54
+    },
+    {
+      "titel": "优卡赛道与跨境业务中的USDT与USDC",
+      "start": 1471.08
+    },
+    {
+      "titel": "AI Agent支付的前景与未来预测",
+      "start": 2543.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T19:20:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3208,
+  "veroeffentlicht": "2026-08-03T01:00:00+00:00",
+  "beschreibung": "本期播客录制时间为 2026 年 4 月，是一期围绕《2026 年全球支付报告》展开的 Space，由来自钱包、支付基础设施、发卡和跨境业务一线的从业者结合各自的实操经验，共同探讨了支付行业正在发生的变化。参与嘉宾包括加幂科技品牌负责人 Cindy、AllScale Co-founder Khalil Lin、垦丁律师事务所合伙人 Will 阿望、Cardly 创始人 Andrew、VelaFi BD Helen Shi、Bitget Wallet 亚太区负责人 Will Wu。\n讨论从报告中的几个关键结论切入，比如数字钱包正在成为新的流量入口、全球支付市场依旧高度本地化，以及加密支付在消费场景中的占比仍然有限。随后嘉宾们把讨论重点放到稳定币支付的真实进展上，尤其是在跨境结算、商户收款、B2B 贸易和拉美等新兴市场中的落地情况，并讨论了一些行业里正在升温的话题，包括资本市场为何越来越看重合规和牌照、USDT 与 USDC 在不同区域和客户类型中的使用差异、东南亚扫码支付为何比发卡补贴更容易做出高频场景，以及 U 卡在特定人群中的实际需求。最后话题延伸到 AI 支付的新叙事，重点拆解了“AI 替人购物”和“AI 自主交易”两种不同路径，分析它们在产品体验、支付方式和责任划分上的区别。\n嘉宾发言不代表吴说观点，不构成任何投资建议，请严格遵循当地法律法规。\n加入吴说播客听友群，可添加小助手微信 ipo19841984\n关注更多吴说快讯深度等内容渠道：吴说官网\n时间线：\n00:00 解读全球支付报告三大核心结论\n02:22 加密支付占比低，稳定币支付带来红利\n06:13 资本市场为何开始重估 Web3 支付赛道\n08:47 AllScale 对标 Stripe 与 Airwallex 的逻辑\n11:37 VelaFi 谈支付赛道估值为何转向“合规优先”\n15:57 稳定币更可能先进入支付后台，而非直接走向前台\n18:07 美国、欧洲与亚太稳定币监管路径差异\n20:58 Bitget Wallet 为何率先在东南亚推广扫码支付\n24:10 Cardly 为何选择从 U 卡赛道切入创业\n26:14 U 卡用户画像：有稳定币资产、缺传统银行服务的人群\n29:18 AllScale：新兴市场以 USDT 为主，合规市场 USDC 增速更快\n36:01 拉美支付市场特征：高通胀、外汇管制与跨境结算需求\n42:00 支付新叙事浮现：AI Agent Payment、Nano Payment 与 X402\n46:33 AI 自主交易场景仍处早期，商业规模尚待验证\n51:37 预测：2026 年 Web3 支付将告别实验期\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本期播客录制时间为 2026 年 4 月，是一期围绕《2026 年全球支付报告》展开的 Space，由来自钱包、支付基础设施、发卡和跨境业务一线的从业者结合各自的实操经验，共同探讨了支付行业正在发生的变化。参与嘉宾包括加幂科技品牌负责人 Cindy、AllScale Co-founder Khalil Lin、垦丁律师事务所合伙人 Will 阿望、Cardly 创始人 Andrew、VelaFi BD Helen Shi、Bitget Wallet 亚太区负责人 Will Wu。</p><p>讨论从报告中的几个关键结论切入，比如数字钱包正在成为新的流量入口、全球支付市场依旧高度本地化，以及加密支付在消费场景中的占比仍然有限。随后嘉宾们把讨论重点放到稳定币支付的真实进展上，尤其是在跨境结算、商户收款、B2B 贸易和拉美等新兴市场中的落地情况，并讨论了一些行业里正在升温的话题，包括资本市场为何越来越看重合规和牌照、USDT 与 USDC 在不同区域和客户类型中的使用差异、东南亚扫码支付为何比发卡补贴更容易做出高频场景，以及 U 卡在特定人群中的实际需求。最后话题延伸到 AI 支付的新叙事，重点拆解了“AI 替人购物”和“AI 自主交易”两种不同路径，分析它们在产品体验、支付方式和责任划分上的区别。</p><p>嘉宾发言不代表吴说观点，不构成任何投资建议，请严格遵循当地法律法规。</p><p>加入吴说播客听友群，可添加小助手微信 ipo19841984 <br>关注更多吴说快讯深度等内容渠道：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wublock123.com/html/app/\">吴说官网</a></p><p><strong>时间线：</strong><br><a class=\"timestamp\">00:00</a> 解读全球支付报告三大核心结论  <br><a class=\"timestamp\">02:22</a> 加密支付占比低，稳定币支付带来红利  <br><a class=\"timestamp\">06:13</a> 资本市场为何开始重估 Web3 支付赛道  <br><a class=\"timestamp\">08:47</a> AllScale 对标 Stripe 与 Airwallex 的逻辑  <br><a class=\"timestamp\">11:37</a> VelaFi 谈支付赛道估值为何转向“合规优先”  <br><a class=\"timestamp\">15:57</a> 稳定币更可能先进入支付后台，而非直接走向前台  <br><a class=\"timestamp\">18:07</a> 美国、欧洲与亚太稳定币监管路径差异  <br><a class=\"timestamp\">20:58</a> Bitget Wallet 为何率先在东南亚推广扫码支付<br><a class=\"timestamp\">24:10</a> Cardly 为何选择从 U 卡赛道切入创业  <br><a class=\"timestamp\">26:14</a> U 卡用户画像：有稳定币资产、缺传统银行服务的人群  <br><a class=\"timestamp\">29:18</a> AllScale：新兴市场以 USDT 为主，合规市场 USDC 增速更快  <br><a class=\"timestamp\">36:01</a> 拉美支付市场特征：高通胀、外汇管制与跨境结算需求  <br><a class=\"timestamp\">42:00</a> 支付新叙事浮现：AI Agent Payment、Nano Payment 与 X402<br><a class=\"timestamp\">46:33</a> AI 自主交易场景仍处早期，商业规模尚待验证  <br><a class=\"timestamp\">51:37</a> 预测：2026 年 Web3 支付将告别实验期</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a6f8837ab3a91c24a0eace6?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqogNsg_L7O0rSj4wQ5jJLCQQMqH.png",
+  "kapitel_quelle": "modell"
+}

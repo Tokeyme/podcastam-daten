@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "80b31629-e3d6-4283-8bad-b49e0156b257",
+  "apple_collection_id": "1711277020",
+  "show": "Burden of Guilt",
+  "titel": "Laying in the Weeds | EP 4 | Season 3",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/80b31629-e3d6-4283-8bad-b49e0156b257/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 49852356,
+    "format": "mp3",
+    "geprueft_am": "2026-08-29T07:11:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Kenny Hamp is arrested after a child abuse allegation escalates into a custody battle.",
+  "kurzfassung": "While Cindy and Kenny are on vacation in Hawaii, Cindy's ex-husband Steve and his wife Christine report a suspicious injury on one of the children to the police. The incident, initially dismissed as a rough wedgie, quickly escalates into criminal child abuse allegations and a Department of Human Services investigation. Following pressure from Steve, his mother, and various witnesses, a judge ultimately grants emergency custody of the children to Steve.",
+  "stichpunkte": [
+    "Kenny Hamp is arrested on September 30, 2019, and charged with child abuse following a vacation in Hawaii.",
+    "Steve and his second wife, Christine, report to the Steamboat Springs Police Department that one of Cindy's nine-year-old twin boys has a severe injury.",
+    "Police and DHS launch separate investigations, reviewing medical exams, text messages, and a post-trial journal kept by Steve and Christine.",
+    "Medical professionals and family members offer conflicting accounts, noting physical symptoms could stem from constipation or a wedgie.",
+    "Steve's mother, Alida, meets with police to share claims that her grandson is afraid of Kenny and made graphic disclosures.",
+    "Steve files an emergency motion for custody supported by letters from a teacher and a therapist.",
+    "Judge Mary Hope rules in favor of Steve, granting him and Christine emergency custody of the children pending the DHS investigation."
+  ],
+  "kapitel": [
+    {
+      "titel": "Kenny's Arrest",
+      "start": 2.84
+    },
+    {
+      "titel": "Police Meeting and Medical Claims",
+      "start": 195.88
+    },
+    {
+      "titel": "DHS Involvement and Custody Concerns",
+      "start": 640.28
+    },
+    {
+      "titel": "Alida's Testimony at the Police Department",
+      "start": 1410.24
+    },
+    {
+      "titel": "Emergency Custody Ruling",
+      "start": 2025.56
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Did you do it? The surprising question after a misdemeanor arrest",
+      "start": 46.158,
+      "ende": 66.246,
+      "laenge": 20.09,
+      "byte_start": 771992,
+      "byte_ende": 1093402,
+      "bytes": 321411,
+      "range_header": "bytes=771992-1093402",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 46.237,
+      "anker_sha256": "ad824d6fdc80160977a659234a455d00eba7f5a170c8943a238cb5742267c69f",
+      "einblendung_ms": 60,
+      "text": "The hosts discuss their weekly format that combines literary analysis and pop culture commentary with authors and online creators."
+    },
+    {
+      "hook": "Photographs taken in Vegas become the only physical proof",
+      "start": 386.064,
+      "ende": 406.178,
+      "laenge": 20.11,
+      "byte_start": 6210476,
+      "byte_ende": 6532303,
+      "bytes": 321828,
+      "range_header": "bytes=6210476-6532303",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 386.142,
+      "anker_sha256": "dbfb0b3d3b2a61aca66698da6a4028a4fd3401de3c94f839f67c1c566bd33ef0",
+      "einblendung_ms": 60,
+      "text": "Discrepancies emerge regarding a Hawaiian vacation while the group shifts focus to ongoing discomfort from a wedgie."
+    },
+    {
+      "hook": "Why a child welfare assessment typically takes sixty days",
+      "start": 839.784,
+      "ende": 859.899,
+      "laenge": 20.11,
+      "byte_start": 13470009,
+      "byte_ende": 13791836,
+      "bytes": 321828,
+      "range_header": "bytes=13470009-13791836",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 839.863,
+      "anker_sha256": "3866d6023c25786725648955ab07a122a6745be9b6867d5932bcb1e6d528f3ea",
+      "einblendung_ms": 60,
+      "text": "A survivor recounts waking up to an intruder at the foot of her bed, highlighting extreme cases of stalking and control."
+    },
+    {
+      "hook": "What a misdemeanor charge means in Colorado",
+      "start": 1358.864,
+      "ende": 1378.978,
+      "laenge": 20.11,
+      "byte_start": 21775275,
+      "byte_ende": 22097102,
+      "bytes": 321828,
+      "range_header": "bytes=21775275-22097102",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1358.942,
+      "anker_sha256": "3c8cd713a475fbe2b6127546eee6011f200b2ea40481f88e91c7796044c0a5d5",
+      "einblendung_ms": 60,
+      "text": "Kamala reviews a post-trial journal and questions Steve and Christine about paperwork they are examining together."
+    },
+    {
+      "hook": "High praise for a stepmother in the middle of a family crisis",
+      "start": 1774.759,
+      "ende": 1794.847,
+      "laenge": 20.09,
+      "byte_start": 28429603,
+      "byte_ende": 28751012,
+      "bytes": 321410,
+      "range_header": "bytes=28429603-28751012",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1774.838,
+      "anker_sha256": "05dbbcb76aae3b17de378b8f08f45694bb741ea177600fe5c985a636a41ed9a7",
+      "einblendung_ms": 60,
+      "text": "Legal definitions are clarified regarding a class one misdemeanor in Colorado, which carries a maximum jail term of 364 days and a fine."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-29T07:11:51+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2269,
+  "veroeffentlicht": "2026-08-19T04:00:00+00:00",
+  "beschreibung": "Cindy has a simple explanation for her son’s injury, but the boy’s father, stepmother and grandmother told investigators a completely different story. All three met with the Steamboat Springs Police Department and shared a much darker version.\nYou can reach out to the Burden of Guilt team at Burdenofguiltpod@gmail.com. For more Burden of Guilt, follow us on Instagram @glasspodcasts.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Cindy has a simple explanation for her son&rsquo;s injury, but the boy&rsquo;s father, stepmother and grandmother told investigators a completely different story. All three met with the Steamboat Springs Police Department and shared a much darker version.</p> <p>You can reach out to the Burden of Guilt team at <a href=\"mailto:Burdenofguiltpod@gmail.com\" data-outlook-id=\"9b156eb1-0bb7-43f5-9703-ab0bf79b74b2\">Burdenofguiltpod@gmail.com</a>. &nbsp;For more Burden of Guilt, follow us on Instagram <a href=\"https://www.instagram.com/glasspodcasts/\" data-outlook-id=\"50d5bad1-8638-4e9e-a72c-af487075bc18\">@glasspodcasts</a>.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/80b31629-e3d6-4283-8bad-b49e0156b257/image.jpg?t=1786049433&size=Large",
+  "folgennummer": 4,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1003033192",
+  "apple_collection_id": "1135365119",
+  "show": "猫猫脱口秀",
+  "titel": "【猫猫脱口秀】果然苦难是文学的温床",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEOO_DtAB4pRQS9e7E9.m4a?channel=rss&album_id=3644623&track_id=1003033192&uid=28111287&jt=https://aod.cos.tx.xmcdn.com/storages/1afa-audiofreehighqps/8C/4D/GKwRIJEOO_DtAB4pRQS9e7E9.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1976645,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:45:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨生活中的种种苦难与幽默瞬间，感受苦难作为文学温床的魅力。",
+  "kurzfassung": "本期节目聚焦生活中的各种趣事与无奈，从成年后不再有寒暑假的现实感，到沈阳暴雨中展现出的松弛感。同时探讨了奇特的游戏、网名宝典以及家长辅导孩子引发的文学创作，幽默展现了苦难如何成为文学的温床。",
+  "stichpunkte": [
+    "成年人的夏天不再有暑假，只有暴雨和通勤的狼狈",
+    "沈阳暴雨中市民展现出划船、冲浪等苦中作乐的松弛感",
+    "网友翻出上学时的爆款网名宝典，重温当年的各种酷炫ID",
+    "介绍了一款通过积累和更换鞋袜散发脚臭来攻击敌人的小众游戏",
+    "感叹如今学生放学晚、家长辅导孩子被逼成大文豪的现状",
+    "炒股炒到最后只求回本，感悟人生追求与苦难的关系",
+    "分享家里养猫后从无老鼠到有老鼠的崩溃体验",
+    "通过想吃的食物类型来分析身体的健康与压力状态"
+  ],
+  "kapitel": [
+    {
+      "titel": "成年人的夏天与沈阳暴雨",
+      "start": 0.0
+    },
+    {
+      "titel": "网名宝典与小众游戏",
+      "start": 92.64
+    },
+    {
+      "titel": "辅导作业与苦难文学",
+      "start": 132.78
+    },
+    {
+      "titel": "养猫日常与食物健康状态分析",
+      "start": 182.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:45:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 243,
+  "veroeffentlicht": "2026-07-26T15:55:08+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group29/M03/61/D6/wKgJXVlrAizDoPqrAAOq8gp0hu8918.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

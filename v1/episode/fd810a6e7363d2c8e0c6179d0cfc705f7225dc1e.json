@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_637822903",
+  "apple_collection_id": "1687253081",
+  "show": "科技沉思录",
+  "titel": "大模型只是起点：朝向多智能体和人类紧密协作的未来｜对话清华叉院吴翼",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAISilvAcaUNwIiu9nK.m4a?channel=rss&album_id=75918257&track_id=637822903&uid=469270785&jt=https://aod.cos.tx.xmcdn.com/storages/b664-audiofreehighqps/29/7B/GKwRIMAISilvAcaUNwIiu9nK.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29791287,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T12:13:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨大模型之后的AI未来：多智能体强化学习与人机紧密协作",
+  "kurzfassung": "清华大学交叉信息院助理教授吴翼在-科技沉思路-播客中探讨了人工智能的未来发展。他认为大语言模型只是起点，真正的目标是实现能够与人类紧密协作的通用私人助手。访谈还深入讨论了学术界与工业界的区别、游戏在AI研究中的重要作用以及机器人技术的挑战。",
+  "stichpunkte": [
+    "大语言模型作为重要的交互媒介，极大地推动了通用私人助手梦想的前进。",
+    "大模型并非万能，高复杂性任务仍需领域增强、多模态以及多智能体配合。",
+    "学术界追求创新和自由度，而工业界更侧重于产品落地和确定性。",
+    "游戏作为现实世界的复杂映射，是强化学习和人机交互研究的完美试验场。",
+    "机器人技术受制于硬件和真实世界的数据稀缺，发展速度相对较慢。",
+    "触觉传感器和物理世界的复杂动态交互是机器人领域亟待突破的难题。",
+    "AI的安全与对齐问题至关重要，需要确保AI的目标与人类价值观相符。",
+    "吴翼团队正在积极筹备创业公司，致力于打造通用的私人助手和机器人。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与研究方向",
+      "start": 59.12
+    },
+    {
+      "titel": "大模型时代的AI研究与预期",
+      "start": 190.42
+    },
+    {
+      "titel": "学术界与工业界的异同",
+      "start": 584.46
+    },
+    {
+      "titel": "游戏作为AI研究的试验场",
+      "start": 1037.88
+    },
+    {
+      "titel": "机器人技术的挑战与未来",
+      "start": 1800.2
+    },
+    {
+      "titel": "AI安全、对齐与未来展望",
+      "start": 2716.68
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T12:13:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3680,
+  "veroeffentlicht": "2023-05-29T08:45:00+00:00",
+  "beschreibung": "在OpenAI的YouTube官方账号里，一个小红人追着小蓝人玩捉迷藏游戏的视频有最高的点击率。\n\n在强化学习算法下，小红和小蓝这些AI小人在虚拟世界里面不停玩游戏，一开始的小蓝只会躲，在日夜重复玩了上万轮之后，它们开始发现策略、学会协作、甚至反制。\n\n第一期节目，我们邀请到了清华大学交叉信息研究院助理教授吴翼，他也是捉迷藏游戏的团队成员之一。在2022年回国任教前，他曾在OpenAI工作了一年半的时间。在他现在的办公室里，有意思的AI实验还在发生，有的训练AI玩游戏，有的指挥机器狗追小球，而这些共同的目的是想做一个能与人交互的通用AI。\n\n在本期播客，你将听到：学术界与工业界之间、中美公司之间研究AI的区别在哪里？为什么将游戏作为AI的研究对象？机器人的GPT-3时刻是什么？ChatGPT对机器人有什么帮助？如何考虑AI的安全与对齐？\n\n【主持人】戴雨森 真格基金管理合伙人\n\n【嘉宾】吴翼 清华大学交叉信息研究院助理教授\n\n【时间轴】\n\n01:56 打游戏，指挥机器狗追小球，吴翼的团队正在做什么\n\n03:39 ChatGPT不能把事情全做完，它只是起点\n\n10:44 OpenAI的研究方式不同于传统的学术界和工业界\n\n11:50 如何看待OpenAI从非盈利组织转为盈利性公司？\n\n14:42 字节会做出中国领先的大模型吗？\n\n17:36 AI喜欢研究游戏，因为游戏是足够复杂的模拟世界\n\n30:28 机器人的GPT-3时刻：机械手拧魔方\n\n38:25 AI可以写小说、玩游戏，但做不到给你递一杯咖啡\n\n50:24 给大模型加一些不确定性，防止它自信地胡说八道\n\n55:08 未来人们的工作可能都在为AI创造数据\n\n58:37 吴翼最近在筹备的创业团队\n\n【相关资料】\n\n吴翼清华主页\n\nMulti-Agent Hide and Seek\n\n这个小AI后来学会了一些奇技淫巧，我们看到以后就第二次地崩溃了 | 吴翼 一席第811位讲者\n\n【联系我们】\n\n公众号：真格基金（ID: zhenfund）\n\n收听渠道：小宇宙｜Apple Podcast｜喜马拉雅\n\n邮箱：yusen_dai@zhenfund.com\n\n如对节目有任何的建议与期待，也欢迎大家在留言中互动～",
+  "beschreibung_html": "<span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>在OpenAI的YouTube官方账号里，一个小红人追着小蓝人玩捉迷藏游戏的视频有最高的点击率。</span></p><span><br></span><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/a404-audiofreehighqps/EA/C7/GKwRIRwIW5moAE5H3wIoTA32.gif!op_type=4&amp;upload_type=attachment&amp;device_type=ios&amp;name=mobile_large\" data-origin=\"http://fdfs.xmcdn.com/storages/a404-audiofreehighqps/EA/C7/GKwRIRwIW5moAE5H3wIoTA32.gif\" data-preview-width=\"140\" data-large=\"http://imagev2.xmcdn.com/storages/a404-audiofreehighqps/EA/C7/GKwRIRwIW5moAE5H3wIoTA32.gif!op_type=4&amp;upload_type=attachment&amp;device_type=ios&amp;name=mobile_large\" data-large-height=\"421\" data-preview=\"http://imagev2.xmcdn.com/storages/a404-audiofreehighqps/EA/C7/GKwRIRwIW5moAE5H3wIoTA32.gif!op_type=4&amp;upload_type=attachment&amp;device_type=ios&amp;name=mobile_small\" data-large-width=\"750\" data-preview-height=\"78\"></p><span><br></span><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>在强化学习算法下，小红和小蓝这些AI小人在虚拟世界里面不停玩游戏，一开始的小蓝只会躲，在日夜重复玩了上万轮之后，它们开始发现策略、学会协作、甚至反制。</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>第一期节目，我们邀请到了清华大学交叉信息研究院助理教授吴翼，他也是捉迷藏游戏的团队成员之一。在2022年回国任教前，他曾在OpenAI工作了一年半的时间。在他现在的办公室里，有意思的AI实验还在发生，有的训练AI玩游戏，有的指挥机器狗追小球，而这些共同的目的是想做一个能与人交互的通用AI。</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>在本期播客，你将听到：学术界与工业界之间、中美公司之间研究AI的区别在哪里？为什么将游戏作为AI的研究对象？机器人的GPT-3时刻是什么？ChatGPT对机器人有什么帮助？如何考虑AI的安全与对齐？</span></p><span><br></span><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【主持人】戴雨森 真格基金管理合伙人</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【嘉宾】吴翼 清华大学交叉信息研究院助理教授</span></p><span><br></span><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【时间轴】</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>01:56</span></a><span> 打游戏，指挥机器狗追小球，吴翼的团队正在做什么</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>03:39</span></a><span> ChatGPT不能把事情全做完，它只是起点</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>10:44</span></a><span> OpenAI的研究方式不同于传统的学术界和工业界</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>11:50</span></a><span> 如何看待OpenAI从非盈利组织转为盈利性公司？</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>14:42</span></a><span> 字节会做出中国领先的大模型吗？</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>17:36</span></a><span> AI喜欢研究游戏，因为游戏是足够复杂的模拟世界</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>30:28</span></a><span> 机器人的GPT-3时刻：机械手拧魔方</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>38:25</span></a><span> AI可以写小说、玩游戏，但做不到给你递一杯咖啡</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>50:24</span></a><span> 给大模型加一些不确定性，防止它自信地胡说八道</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>55:08</span></a><span> 未来人们的工作可能都在为AI创造数据</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\"><span>58:37</span></a><span> 吴翼最近在筹备的创业团队</span></p><span><br></span><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【相关资料】</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><a style=\"color:#4990E2;text-decoration:none;\"><span>吴翼清华主页</span></a></span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><a style=\"color:#4990E2;text-decoration:none;\"><span>Multi-Agent Hide and Seek</span></a></span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><a style=\"color:#4990E2;text-decoration:none;\"><span>这个小AI后来学会了一些奇技淫巧，我们看到以后就第二次地崩溃了 | 吴翼 一席第811位讲者</span></a></span></p><span><br></span><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>【联系我们】</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>公众号：真格基金（ID: zhenfund）</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>收听渠道：小宇宙｜Apple Podcast｜喜马拉雅</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>邮箱：yusen_dai@zhenfund.com</span></p><span><br></span><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>如对节目有任何的建议与期待，也欢迎大家在留言中互动～</span></p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/109d-audiofreehighqps/D2/AA/GKwRIasILlOZAAFuhAIZIFJM.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

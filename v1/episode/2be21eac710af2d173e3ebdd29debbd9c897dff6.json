@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_954034010",
+  "apple_collection_id": "1781387850",
+  "show": "情感留声机、午夜电台（持续更新中）",
+  "titel": "岁月煮酒，亲情念长",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMANVdI-AHU0wgRkGkEY.m4a?channel=rss&album_id=76270016&track_id=954034010&uid=179571672&jt=https://aod.cos.tx.xmcdn.com/storages/897b-audiofreehighqps/3C/F0/GKwRIMANVdI-AHU0wgRkGkEY.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7681218,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T00:16:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "跨越六十余载的姐妹重逢与离别，诉说岁月沉淀的深沉亲情。",
+  "kurzfassung": "本期节目讲述了一对跨越六十余载的姐妹历经二十天相聚后的依依惜别。通过回忆过往的艰难岁月与当下的点滴幸福，展现了亲情跨越山海、历经岁月而不变的厚重。节目最后呼吁听众珍惜当下，多陪伴和关爱身边的亲人。",
+  "stichpunkte": [
+    "一对跨越六十余载的姐妹在甘肃重逢，展开了二十天的相聚",
+    "姐妹俩回忆陕北过往岁月中的艰难与苦难，也感慨如今的安稳生活",
+    "短暂的相聚后迎来离别，车窗内外的沉默与不舍充满温情",
+    "离别后的怅然引发对亲情本质的思考，亲情平淡如水却深入人心",
+    "亲情经得起岁月考验与距离阻隔，始终是人生最坚实的后盾",
+    "日常的问候与一句“我想你了”承载着最深的牵挂与安心",
+    "呼吁听众趁时光未老、亲人尚在，多陪伴和珍惜相聚的每一刻",
+    "节目最后以音乐和寄语收尾，愿世间亲情在岁月里温暖绵长"
+  ],
+  "kapitel": [
+    {
+      "titel": "跨越六十年的重逢",
+      "start": 10.82
+    },
+    {
+      "titel": "岁月长河中的相伴与回忆",
+      "start": 131.04
+    },
+    {
+      "titel": "离别时刻的依依不舍",
+      "start": 251.64
+    },
+    {
+      "titel": "离别后的思念与亲情感悟",
+      "start": 336.54
+    },
+    {
+      "titel": "珍惜当下与亲人的陪伴",
+      "start": 519.96
+    },
+    {
+      "titel": "尾声与歌曲",
+      "start": 637.22
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T00:16:15+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 948,
+  "veroeffentlicht": "2026-02-02T02:42:33+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a3c3-audiofreehighqps/4E/2D/GMCoOR8Iw7koAAVxhgJSBwfz.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

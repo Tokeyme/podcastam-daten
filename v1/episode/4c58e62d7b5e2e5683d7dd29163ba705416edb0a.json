@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "http://bowuzhi.fm/episodes/wzcjw",
+  "apple_collection_id": "1030448996",
+  "show": "博物志",
+  "titel": "与段志强谈崇明乡野博物志：《我住长江尾》",
+  "audio": {
+    "url": "https://r.typlog.com/eyJzIjoxNTI4LCJlIjo4OTI3MywidCI6MX0.VkAvEEGupWnJ3MGK-8PqTdbw4pg/bowuzhi/8212963740_775078.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 46632384,
+    "format": "mp3",
+    "geprueft_am": "2026-08-27T03:39:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "与段志强聊新书《我住长江尾》，分享崇明种地日常与历史考证的趣味碰撞。",
+  "kurzfassung": "历史学者段志强分享了他在上海崇明乡村种地的真实经历与心路历程，并将其与新书《我住长江尾》的创作过程相结合。节目中探讨了传统农业劳动的辛苦与乐趣、小红书平台的“垂直化”生存，以及古籍文献与田野生活交织的独特趣味。两人以轻松幽默的方式，展现了从泥土到书本的奇妙转化。",
+  "stichpunkte": [
+    "段志强分享了在上海崇明乡村种地的日常，包括种西瓜、玉米的趣事与挫折。",
+    "新书《我住长江尾》源于他在劳动时的零碎想法与历史考证，历时两三个月顺畅写成。",
+    "探讨了中国古代农民与现代乡村劳动的辛苦，指出体力劳动对脑力劳动者而言是一种独特的解压。",
+    "书中融合了大量历史文献、诗词与个人体验，展现了用实际农耕经验反观古籍的独特视角。",
+    "谈及书名选择的波折，庆幸最终保留了带有辨识度和趣味性的《我住长江尾》。",
+    "提到了出版过程中的全员“开心”状态，甚至意外收获了AI工具帮忙捉虫（如将马其诺防线误写成马其顿防线）。",
+    "反思了历史学者的专业训练如何与日常生活中的一切事物相连接，把体验转化为生产资料。"
+  ],
+  "kapitel": [
+    {
+      "titel": "崇明种地日常与短视频时代",
+      "start": 0.0
+    },
+    {
+      "titel": "从碎碎念到新书《我住长江尾》的诞生",
+      "start": 1095.86
+    },
+    {
+      "titel": "历史文献与田野经验的碰撞",
+      "start": 2020.8
+    },
+    {
+      "titel": "北方农村劳动的痛苦回忆",
+      "start": 3562.8
+    },
+    {
+      "titel": "出版过程中的趣事与AI捉虫",
+      "start": 5197.76
+    }
+  ],
+  "clips": [
+    {
+      "hook": "80岁地主拆掉重搭西瓜棚",
+      "start": 92.904,
+      "ende": 118.584,
+      "laenge": 25.68,
+      "byte_start": 743424,
+      "byte_ende": 948863,
+      "bytes": 205440,
+      "range_header": "bytes=743424-948863",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 92.976,
+      "anker_sha256": "465b95528c1263fc0fe0394d18f554a3d27147b77ecf1ea73046d252fd434905",
+      "einblendung_ms": 60,
+      "text": "为了避开邻居的过多关注和议论，决定放弃在大田种植西瓜，改在自家院子里的小块土地上尝试。"
+    },
+    {
+      "hook": "被别人一夸就迅速膨胀",
+      "start": 1271.952,
+      "ende": 1302.048,
+      "laenge": 30.1,
+      "byte_start": 10175808,
+      "byte_ende": 10416575,
+      "bytes": 240768,
+      "range_header": "bytes=10175808-10416575",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 1272.024,
+      "anker_sha256": "3880050cb108355ca6497b0b582bf917b8465b7c8a869da9966d57d2c72f85cc",
+      "einblendung_ms": 60,
+      "text": "面对外界的评价时总是选择全盘接受赞美而忽视批评，稍微听到一点好评就会变得异常自信。"
+    },
+    {
+      "hook": "河南民间迷之发力的荠菜味香肠",
+      "start": 2321.784,
+      "ende": 2351.88,
+      "laenge": 30.1,
+      "byte_start": 18574464,
+      "byte_ende": 18815231,
+      "bytes": 240768,
+      "range_header": "bytes=18574464-18815231",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 2321.856,
+      "anker_sha256": "bcd6a879d05a9c7832c34ed8a929920d5e418bf62d2df210879c8d1fba3fca57",
+      "einblendung_ms": 60,
+      "text": "探讨了一种带有特殊清香的植物在解腻方面的妙用，并分享了将其加入饮品中的独特吃法。"
+    },
+    {
+      "hook": "骑着电动三轮车赤兔在暴雨中盲开",
+      "start": 3628.272,
+      "ende": 3658.368,
+      "laenge": 30.1,
+      "byte_start": 29026368,
+      "byte_ende": 29267135,
+      "bytes": 240768,
+      "range_header": "bytes=29026368-29267135",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 3628.344,
+      "anker_sha256": "bd9fab8ea6aea4a333de1684bc1d24bad5189e5910b551e470a2c1141033a924",
+      "einblendung_ms": 60,
+      "text": "骑电动车出行时遭遇暴雨，不仅视线受阻而且车辆电池也险些进水，最终冒险骑行回了家。"
+    },
+    {
+      "hook": "AI帮忙捉虫把马其诺防线写成马其顿防线",
+      "start": 5367.144,
+      "ende": 5397.24,
+      "laenge": 30.1,
+      "byte_start": 42937344,
+      "byte_ende": 43178111,
+      "bytes": 240768,
+      "range_header": "bytes=42937344-43178111",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 5367.216,
+      "anker_sha256": "e72c6148d9072c246491863fa3ad0d224722db1c1dfb6ea95e3320336196ab2c",
+      "einblendung_ms": 60,
+      "text": "聊到了写作过程中由人工智能工具和人工校对共同漏掉的一个词语笑话，并引发了随后的趣事。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-27T03:39:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5828,
+  "veroeffentlicht": "2026-08-18T12:07:20+00:00",
+  "beschreibung": "段志强老师在崇明种了五年地，终于在瓜菜之外收获了一个新的果实——《我住长江尾》。本台大力推荐，本台甚至为了这本书更新了。\n\n虽然你在哪里都可以买到，但是也可以直接从婉莹的小红书橱窗下单。\n\n爱发电上赞助",
+  "beschreibung_html": "<p>段志强老师在崇明种了五年地，终于在瓜菜之外收获了一个新的果实——《我住长江尾》。本台大力推荐，本台甚至为了这本书更新了。</p>\n<p>虽然你在哪里都可以买到，但是也可以直接从<a href=\"https://xhslink.com/m/4N9rC7R7hMH\">婉莹的小红书橱窗</a>下单。</p>\n<hr /><p><a rel=\"payment\" href=\"https://afdian.com/a/bowuzhi\">爱发电上赞助</a></p>",
+  "bild_url": "https://i.typlog.com/bowuzhi/8212964037_563626.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/resize,m_fill,w_1920,h_1920/format,jpg",
+  "kapitel_quelle": "modell"
+}

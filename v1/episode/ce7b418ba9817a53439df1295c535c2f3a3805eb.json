@@ -6,7 +6,7 @@
   "titel": "017 | 在智能驾驶的开发中，为什么仿真的作用越来越重要?",
   "audio": {
     "url": "https://jt.ximalaya.com//wKg5H179fjbyf6dPAfhRgraOaOk093.mp3.m4a?channel=rss&album_id=38096483&track_id=312845044&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group85/M05/5A/BD/wKg5H179fjbyf6dPAfhRgraOaOk093.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": 33051010,
     "format": "mp3",
     "geprueft_am": "2026-08-24T15:22:57+00:00"
@@ -67,7 +67,7 @@
       "inhalt_start": 62.302,
       "anker_sha256": "b7532a310ecf229f6f42d942ba34b030f0ea668533a03cf128b7361bc39ba44b",
       "einblendung_ms": 60,
-      "text": "所以智能驾驶汽车的研发 很像是西西福斯 每个车型就是一块巨石 痛苦和成就交替 周而复始 而最近这款车型 是我从事智能驾驶量产这些年中 最狼狈的一次"
+      "text": "郭继舜回顾了近期一款车型研发过程中的极度挫败感，形容开发工作如同推石上山的西西弗斯式循环。"
     },
     {
       "hook": "实验样车成本惊人：每台车买两台保时捷绰绰有余",
@@ -82,7 +82,7 @@
       "inhalt_start": 269.531,
       "anker_sha256": "b26cd5aa8830c45dbc4ab38297a791d25257a9b307d0170ad8bbe699829e5673",
       "einblendung_ms": 60,
-      "text": "最终这款旗舰车型的样车需求统计下来 数字惊人 加上实验样车因为量少 零部件的成本非常的昂贵 样车总计的成本几乎上亿 所以大家以后在路上看到有伪装的实验样车 可别笑它们破破烂烂 每台车买一两台保时捷718是绰绰有余的"
+      "text": "这款旗舰测试车的研发总成本接近一亿元，其昂贵的造价远超数台保时捷718跑车。"
     },
     {
       "hook": "为什么自动驾驶开发离不开虚拟仿真？",
@@ -97,7 +97,7 @@
       "inhalt_start": 294.008,
       "anker_sha256": "cd4bf14c1165243112ff1f561daff752293c9d757db57651a63243da498c7fef",
       "einblendung_ms": 60,
-      "text": "首先简单总结自动驾驶为什么需要仿真技术 第一点 虚拟仿真能够以非常快的便利速度和极高的场景密度 让自动驾驶系统在更多的场景下 对算法逻辑和功能进行验证 其算法逻辑验证的效率是实车测试的数百倍上千倍 第二 虚拟仿真能够还原极少出现 但理论上还是会遇到的corner case"
+      "text": "虚拟仿真技术能将算法验证效率提升千倍，并能有效覆盖实车测试中难以捕捉的极端边缘场景。"
     },
     {
       "hook": "一文读懂自动驾驶仿真中的MILS、SILS与HILS",
@@ -112,7 +112,7 @@
       "inhalt_start": 512.418,
       "anker_sha256": "905d5291320b2004cf1618d07f8de8c5a30c4710c8632cd5f24d4a344e1e0a2d",
       "einblendung_ms": 60,
-      "text": "在自动驾驶虚拟仿真测试中 根据真实子系统和虚拟子系统的不同划分 可以分为Mail Model in Loop 模型再还仿真 Sale Software in Loop 软件再还仿真 Pail Hardware in Loop 硬件再还仿真"
+      "text": "自动驾驶仿真测试主要依据软硬件的介入程度，划分为模型、软件及硬件在环等不同架构。"
     },
     {
       "hook": "盘点自动驾驶开发中常用的四类仿真工具软件",
@@ -127,7 +127,7 @@
       "inhalt_start": 781.322,
       "anker_sha256": "5684155f35e2609a7d2b940cd329bf3fd407e37df8108ccf22e166d42bf183e7",
       "einblendung_ms": 60,
-      "text": "主要分为四类 第一类就是传统的汽车仿真的软件 包括了CarMaker CarSim VTD Pre-scan等等 特点就是和当前的汽车的 A-SPICE开发流程结合的紧密 认证链比较完善 试试台价测试等等 黑油测试验证 常用于功能验证和车辆的动力学的验证"
+      "text": "传统汽车仿真软件如CarMaker和VTD，因其符合A-SPICE标准且认证体系成熟，常被用于车辆动力学及功能验证。"
     }
   ],
   "erzeugt": {

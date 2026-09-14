@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group81/M0B/92/82/wKgPEl7N2t2Dbr7OAJFqiGLajkY809.m4a",
+  "apple_collection_id": "1508343023",
+  "show": "楚楚读书 | 《小王子》",
+  "titel": "小王子（小王子的离开）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgPEl7N2t2Dbr7OAJFqiGLajkY809.m4a?channel=rss&album_id=36791570&track_id=301242767&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group81/M0B/92/82/wKgPEl7N2t2Dbr7OAJFqiGLajkY809.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9529992,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T06:05:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "楚楚读书为您带来经典童话《小王子》的结局篇章与读后感悟。",
+  "kurzfassung": "主播楚楚继续讲述《小王子》的故事，记录了小王子在地球上的最后时刻与蛇的接触、他的离开以及六年后的思念。通过对小王子星空与玫瑰花故事的回顾，节目表达了对这部充满哲理的童话作品的深刻感悟。最后，主播分享了自己的读书体会，并介绍了正在录制其他文学作品的专辑。",
+  "stichpunkte": [
+    "小王子在古老石墙废墟旁与一条黄色毒蛇交谈，并做好了离开地球的准备",
+    "主播急忙赶到墙边抱住脸色苍白的小王子，并为他解开围巾、喂水",
+    "小王子谈到自己要回去了，并安慰主播说星空会因为他而充满笑声和铃铛般的清泉",
+    "小王子强调自己必须对那朵弱小而天真的花负责，随后在一道黄色的光中倒下",
+    "六年过去了，主播再也没有讲过这个故事，并在黎明时分发现小王子的躯体已经消失",
+    "主播时常思考小王子的星球上发生的事情，担心羊是否吃掉了那朵玫瑰花",
+    "主播分享了自己重新阅读《小王子》的感悟，认为每个人心中都有一个属于自己的小王子",
+    "主播感谢听众的支持，并预告了接下来将录制奥斯卡·王尔德和张爱玲的作品"
+  ],
+  "kapitel": [
+    {
+      "titel": "小王子与毒蛇的相遇",
+      "start": 1.1
+    },
+    {
+      "titel": "离别前的倾诉与星空的意义",
+      "start": 202.14
+    },
+    {
+      "titel": "小王子的离开与六年后的思念",
+      "start": 629.78
+    },
+    {
+      "titel": "主播的读后感悟与专辑推荐",
+      "start": 1032.16
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T06:05:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1177,
+  "veroeffentlicht": "2020-05-27T03:13:06+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group75/M0A/F8/B3/wKgO3V6ZG4Wj2gejAACQVUq60W8600.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

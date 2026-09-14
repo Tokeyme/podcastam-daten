@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_608720897",
+  "apple_collection_id": "1706892356",
+  "show": "《功能性瑜伽解剖学》（每天学一点有用的小知识）",
+  "titel": "《功能性瑜伽解剖学》—引言",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIHss-HAFI7uQHzwoJQ.m4a?channel=rss&album_id=74146434&track_id=608720897&uid=112496629&jt=https://aod.cos.tx.xmcdn.com/storages/149d-audiofreehighqps/8F/37/GKwRIJIHss-HAFI7uQHzwoJQ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5389241,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T03:52:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨瑜伽与解剖学的关系，以及如何通过身体探索实现自我认知。",
+  "kurzfassung": "本书旨在通过通俗易懂的语言，带领读者探索复杂的人体与瑜伽解剖学。作者指出，虽然传统的瑜伽旨在平定心绪，但体式练习是绝大多数人开启身心净化和自我探索的重要途径。通过结合解剖学知识与长期的身体实践，瑜伽练习者和老师能够更好地理解整体的身体，培养批判性思维。",
+  "stichpunkte": [
+    "瑜伽的本质是平定心绪的修行，而哈他瑜伽的体式练习是无法直接静坐者的入门途径。",
+    "体式练习能提升灵活性、力量、净化身体组织并影响体内能量系统。",
+    "长期的体式练习能带来深刻的运动感觉，这是单靠书本学不到的身体知识。",
+    "面对练习中的限制与疼痛，书中不会给出刻板的最终答案，而是提供框架与可能性。",
+    "解剖学学习会将身体人为划分为不同部分，但实际练习中必须以整体的眼光来看待身体。",
+    "作者希望通过本书激发读者的批判性思维，将书本知识与实际练习结合，成为更好的老师和练习者。"
+  ],
+  "kapitel": [
+    {
+      "titel": "引言与瑜伽的定义",
+      "start": 0.0
+    },
+    {
+      "titel": "体式练习与身体探索",
+      "start": 132.28
+    },
+    {
+      "titel": "解剖学在教学与练习中的应用",
+      "start": 245.92
+    },
+    {
+      "titel": "整体看待身体与结语",
+      "start": 474.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T03:52:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 665,
+  "veroeffentlicht": "2023-02-03T13:30:33+00:00",
+  "beschreibung": "让瑜伽持续精进的动态身体详解\n为什么练习瑜伽需要学习解剖学知识",
+  "beschreibung_html": "让瑜伽持续精进的动态身体详解<br>为什么练习瑜伽需要学习解剖学知识",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b1f9-audiofreehighqps/1B/FC/GKwRIDoHss9UAAGfmAHzwmeP.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

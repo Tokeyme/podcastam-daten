@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "guid": "cf439a1f-01cd-464b-a332-b4ac0051d694",
+  "apple_collection_id": "1473523403",
+  "show": "The Spill",
+  "titel": "The One Piece Of Evidence That Meghan Markle Just Lost Her New Acting Role",
+  "audio": {
+    "url": "https://traffic.omny.fm/d/clips/3ea926be-9be7-482a-8ac3-a44f016e43d1/d3342ef4-a947-4a6c-b5f6-aa870057eef3/cf439a1f-01cd-464b-a332-b4ac0051d694/audio.mp3?utm_source=Podcast&in_playlist=d3448b18-db73-4069-8135-aa8700584545",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 39962202,
+    "format": "mp3",
+    "geprueft_am": "2026-08-29T23:40:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst omny.fm) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Pop culture updates on Dakota Johnson, Margaret Qualy's footwear, and Meghan Markle.",
+  "kurzfassung": "The hosts discuss Dakota Johnson and Role Model's breakup, highlighted by a public dinner with Taylor Swift. They analyze Margaret Qualy's controversial barefoot-style shoes at a movie premiere and examine reports that Meghan Markle's role in a Netflix series was withdrawn due to backlash.",
+  "stichpunkte": [
+    "Dakota Johnson and Role Model split up after dating since late last year",
+    "Taylor Swift and Dakota Johnson were seen having dinner together in Los Angeles",
+    "Margaret Qualy wore controversial Chanel heels that resemble bare feet at a red carpet premiere",
+    "Tina Brown reported that Meghan Markle's casting in season three of The Gentleman was withdrawn due to UK backlash",
+    "Speculation continues around potential plans for Meghan Markle and Prince Harry to spend time in the UK"
+  ],
+  "kapitel": [
+    {
+      "titel": "Dakota Johnson and Role Model Break Up",
+      "start": 74.28
+    },
+    {
+      "titel": "Margaret Qualy's Barefoot Shoes",
+      "start": 500.12
+    },
+    {
+      "titel": "Meghan Markle and Acting Rumors",
+      "start": 1393.359
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Taylor Swift at the scene of a breakup",
+      "start": 341.969,
+      "ende": 362.083,
+      "laenge": 20.11,
+      "byte_start": 5541174,
+      "byte_ende": 5863002,
+      "bytes": 321829,
+      "range_header": "bytes=5541174-5863002",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 342.047,
+      "anker_sha256": "a247093bd8d9302aeb67ef314cd9767ce090b93d7adbfa4737486c3a2635e276",
+      "einblendung_ms": 60,
+      "text": "Public displays of affection by famous couples can be completely misleading, as demonstrated by Jennifer Aniston and Brad Pitt shortly before their divorce."
+    },
+    {
+      "hook": "Chanel's controversial shoe design",
+      "start": 579.918,
+      "ende": 600.006,
+      "laenge": 20.09,
+      "byte_start": 9348364,
+      "byte_ende": 9669774,
+      "bytes": 321411,
+      "range_header": "bytes=9348364-9669774",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 579.997,
+      "anker_sha256": "2821fa6c08224d973e2e3f63bb4ec723d83284cfb9e33fec607ad9eeac0a045d",
+      "einblendung_ms": 60,
+      "text": "At a film premiere for The Dog Stars, Jacob Elordi attracted attention by posing with a dog alongside his co-star."
+    },
+    {
+      "hook": "Quentin Tarantino's well-known foot fetish",
+      "start": 979.905,
+      "ende": 1000.02,
+      "laenge": 20.11,
+      "byte_start": 15748155,
+      "byte_ende": 16069983,
+      "bytes": 321829,
+      "range_header": "bytes=15748155-16069983",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 979.984,
+      "anker_sha256": "826cc5b1acbcc1011d53a07c7b660cfb34c89bdb8bd98224740751699b013dc5",
+      "einblendung_ms": 60,
+      "text": "Internet users mocked Margaret Qualley for her appearance at an event, leading to a discussion about dancers' feet and potential hazards."
+    },
+    {
+      "hook": "Tina Brown reports on Meghan Markle's casting",
+      "start": 1602.116,
+      "ende": 1622.204,
+      "laenge": 20.09,
+      "byte_start": 25703524,
+      "byte_ende": 26024934,
+      "bytes": 321411,
+      "range_header": "bytes=25703524-26024934",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1602.194,
+      "anker_sha256": "9e9f7af73918b0d2810ec521ba28a4a546b47529248c1478017ef860125b7c23",
+      "einblendung_ms": 60,
+      "text": "Speculation about Meghan Markle joining a Netflix series seemed plausible due to the timing of potential third-season production talks."
+    },
+    {
+      "hook": "What do you want Meghan Markle to do?",
+      "start": 1798.06,
+      "ende": 1818.175,
+      "laenge": 20.11,
+      "byte_start": 28838636,
+      "byte_ende": 29160464,
+      "bytes": 321829,
+      "range_header": "bytes=28838636-29160464",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1798.139,
+      "anker_sha256": "4833dacb32b25281bcb89939a26908026b1189d4cb9ee541de980dfbdfae63ed",
+      "einblendung_ms": 60,
+      "text": "Rumors suggest David Beckham may have influenced Guy Ritchie's professional choices regarding Meghan Markle, with support from William and Kate."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-29T23:40:54+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2373,
+  "veroeffentlicht": "2026-08-24T04:55:43+00:00",
+  "beschreibung": "Dakota Johnson and Role Model and the timing is wild given she was literally the female voice on his new album weeks ago. We're unpacking the whiplash of that breakup, and why Taylor Swift's suspiciously well-timed dinner date with Dakota this weekend has us convinced it's very real.\n\nAnd we're still not over Margaret Qualley's barely-there Chanel shoes from last week's red carpet. We're revisiting the internet's meltdown over the world's most controversial \"shoe,\" plus whether it even counts as a fashion moment.\n\nPlus, a bombshell Substack from a legendary royal insider has seemingly confirmed exactly why Meghan Markle's big Netflix return got pulled, and we're digging into what it means for her and Harry's rumoured move back to the UK.\n\nTAKE THE SPILL'S WEEKLY POP CULTURE QUIZ HERE\nBecome a Mamamia subscriber and get an all-access pass to everything we make, including exclusive podcasts and early listening, subscriber-only articles, monthly giveaways and our home workout app, MOVE.\nRight now, every Mamamia subscriber is automatically entered to win a $5,000 Dreamworld holiday for four; flights, accommodation, express passes and more included. Subscribe here to enter. T&Cs apply.\nGet access to Very Peri, Mamamia's exclusive perimenopause series, for just $59. 25 world-leading experts, over 20 on-demand sessions, available now. We’ve sorted through the noise so you don't have to. Go to veryperi.com.au and join me today. You hot? Same. Buy today and save 40%\n\nTHE END BITS\nFind and follow us on socials:\nInstagram: https://www.instagram.com/thespillpodcast/\nTikTok: https://www.tiktok.com/@thespillpod\nFacebook: https://www.facebook.com/thespillpodcast/\nSupport independent women's media\n\nWant to join the conversation?\nHave feedback or a topic you want us to discuss? Send us a voice message or email us at thespill@mamamia.com.au and we’ll get back to you ASAP!\nExecutive Producer: Monisha Iswaran\nAudio & Video Producer: Michael Kean\nMamamia acknowledges the traditional owners of the land on which we have recorded this podcast.\nBecome a Mamamia subscriber: https://www.mamamia.com.au/subscribe\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Dakota Johnson and Role Model and the timing is wild given she was literally the female voice on his new album weeks ago. We're unpacking the whiplash of that breakup, and why Taylor Swift's suspiciously well-timed dinner date with Dakota this weekend has us convinced it's very real.<br><br>And we're still not over Margaret Qualley's barely-there Chanel shoes from last week's red carpet. We're revisiting the internet's meltdown over the world's most controversial \"shoe,\" plus whether it even counts as a fashion moment.<br><br>Plus, a bombshell Substack from a legendary royal insider has seemingly confirmed exactly why Meghan Markle's big Netflix return got pulled, and we're digging into what it means for her and Harry's rumoured move back to the UK.<em></em><strong><em><br><br>TAKE THE SPILL'S WEEKLY POP CULTURE QUIZ <a href=\"https://www.mamamia.com.au/the-spill-quiz-august-20-2026/\">HERE</a></em></strong></p> <p><strong><em>Become a </em><em>Mamamia subscriber </em><em>and get an all-access pass to everything we make, including exclusive podcasts and early listening, subscriber-only articles, monthly giveaways and our home workout app, <a href=\"https://www.mamamia.com.au/subscribe/?utm_source=shownotes&amp;utm_medium=podcast&amp;utm_campaign=spill\">MOVE</a>.</em></strong></p> <p><strong><em>Right now, every Mamamia subscriber is automatically entered to win a $5,000 Dreamworld holiday for four; flights, accommodation, express passes and more included.<a href=\"https://www.mamamia.com.au/subscribe\"> </a>Subscribe here to enter. <a href=\"https://www.mamamia.com.au/subscribe/?utm_source=shownotes&amp;utm_medium=podcast&amp;utm_campaign=spill&amp;utm_content=dreamworld-giveaway\">T&amp;Cs apply</a>.</em></strong></p> <p><strong><em>Get access to Very Peri, Mamamia's exclusive perimenopause series, for just $59. 25 world-leading experts, over 20 on-demand sessions, available now. We&rsquo;ve sorted through the noise so you don't have to. Go to</em><em><a href=\"http://veryperi.com.au/\">&nbsp;veryperi.com.au</a></em><em> and join me today. You hot? Same. Buy today and save 40%<br></em></strong><br>THE END BITS</p> <p><strong>Find and follow us on socials:</strong></p> <p>Instagram:<a href=\"https://www.instagram.com/thespillpodcast/\"> https://www.instagram.com/thespillpodcast/</a></p> <p>TikTok:<a href=\"https://www.tiktok.com/@thespillpod\"> https://www.tiktok.com/@thespillpod</a></p> <p>Facebook:<a href=\"https://www.facebook.com/thespillpodcast/\"> https://www.facebook.com/thespillpodcast/</a></p> <p><a href=\"https://www.mamamia.com.au/subscribe/?utm_source=shownotes&amp;utm_medium=podcast&amp;utm_campaign=spill\">Support independent women's media</a><strong><br></strong></p> <p><strong>Want to join the conversation?</strong></p> <p>Have feedback or a topic you want us to discuss? Send us a voice message or email us at <strong>thespill@mamamia.com.au</strong> and we&rsquo;ll get back to you ASAP!</p> <p>Executive Producer: Monisha Iswaran</p> <p>Audio &amp; Video Producer: Michael Kean</p> <p>Mamamia acknowledges the traditional owners of the land on which we have recorded this podcast.</p><p><a href=\"https://www.mamamia.com.au/subscribe\" rel=\"payment\">Become a Mamamia subscriber: https://www.mamamia.com.au/subscribe</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/3ea926be-9be7-482a-8ac3-a44f016e43d1/d3342ef4-a947-4a6c-b5f6-aa870057eef3/image.jpg?t=1757456382&size=Large",
+  "schlagworte": [
+    "margaret qualley",
+    "qualley",
+    "dakota johnson",
+    "role model",
+    "tucker pillsbury",
+    "taylor swift",
+    "meghan markle",
+    "prince harry",
+    "king charles",
+    "the gentleman",
+    "guy ritchie",
+    "netflix",
+    "tina brown",
+    "chanel",
+    "red carpet fashion",
+    "celebrity breakup",
+    "celebrity scandal",
+    "royal family",
+    "royal news",
+    "pop culture",
+    "podcast gossip",
+    "entertainment news",
+    "celebrity style",
+    "fashion moment",
+    "celebrity dating",
+    "hollywood",
+    "streaming",
+    "daily podcast",
+    "the spill",
+    "celebrity tea"
+  ],
+  "kapitel_quelle": "modell"
+}

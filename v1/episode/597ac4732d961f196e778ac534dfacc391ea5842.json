@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "686917f060f8f77d40fbee07",
+  "apple_collection_id": "1820334604",
+  "show": "英文论文对谈",
+  "titel": "【英文播客 vol.032】WebSailor如何超越人类的认知极限？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68492ca1f0461f0ca76e3b09/686917f060f8f77d40fbee07/media.xyzcdn.net/68492ca1f0461f0ca76e3b09/FtDdWxZ9FOV7HF9S2XGLPmU-Ajx1.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2770165,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T04:03:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨阿里巴巴的WebSailer如何通过创新的训练方法突破开源AI的复杂任务瓶颈。",
+  "kurzfassung": "本期节目深入探讨了阿里巴巴推出的WebSailer项目，分析其如何通过特殊的合成数据流程和强化学习策略来解决开源AI在复杂网络浏览任务中的痛点。通过精心设计的高不确定性训练数据和“Dupo”强化学习算法，WebSailer在多项基准测试中取得了显著超越传统模型的成绩。同时，节目也指出了该技术目前在上下文窗口限制和长流程训练方面面临的挑战。",
+  "stichpunkte": [
+    "探讨了开源模型在处理诸如BrowseComp等复杂情报寻求任务时面临的困难与不足。",
+    "介绍了阿里巴巴推出的WebSailer项目及其核心理念：重点攻克高难度、高不确定性的三级训练任务。",
+    "详细说明了Sailor Fog QA数据测试流程，通过构建复杂的知识网络和提示词重组，生成极具挑战性的训练数据。",
+    "解释了如何利用强力开放式大模型生成思考过程，并通过过滤和重构来消除上下文窗口的阻塞与风格模仿问题。",
+    "介绍了包含两阶段过程的训练方法，以及用于提升训练效率的Dupo强化学习算法。",
+    "对比了WebSailer在不同规模（如7B、32B、72B）下于英文和中文BrowseComp测试中的亮眼成绩。",
+    "指出WebSailer在攻克复杂任务的同时，并未丢失回答简单问题的能力，展现了出色的泛化表现。",
+    "总结了当前系统仍面临的32k上下文限制和强化学习瓶颈，并认为这是一次推动开源AI向前迈进的重要进步。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开源AI在复杂任务中的挑战与WebSailer的提出",
+      "start": 0.0
+    },
+    {
+      "titel": "三级训练任务与Sailor Fog QA数据生成流程",
+      "start": 104.46
+    },
+    {
+      "titel": "数据过滤、短线思考与两阶段训练方法",
+      "start": 239.6
+    },
+    {
+      "titel": "Dupo强化学习算法与性能测试结果",
+      "start": 355.48
+    },
+    {
+      "titel": "简单任务表现、局限性与未来展望",
+      "start": 503.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T04:03:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 671,
+  "veroeffentlicht": "2025-07-07T12:30:00+00:00",
+  "beschreibung": "在这个数字信息泛滥的时代，AI如何能够超越人类的认知局限，变得更聪明、更有效率？——本期播客将探讨WebSailor这一突破性研究，它通过后训练方法赋予开放源代码模型超人类的推理能力，能够在复杂的信息搜索任务中与行业领先的专有系统相媲美。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>在这个数字信息泛滥的时代，AI如何能够超越人类的认知局限，变得更聪明、更有效率？——本期播客将探讨WebSailor这一突破性研究，它通过后训练方法赋予开放源代码模型超人类的推理能力，能够在复杂的信息搜索任务中与行业领先的专有系统相媲美。</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/686917f060f8f77d40fbee07?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

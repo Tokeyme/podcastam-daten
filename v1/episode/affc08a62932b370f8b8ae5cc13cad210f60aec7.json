@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group76/M07/1D/AA/wKgO3l5Z0rSjcFZSAE2r4NX0x_U634-aacv2-48K.m4a",
+  "apple_collection_id": "1504181629",
+  "show": "少儿西游记",
+  "titel": "1.从前有座花果山",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgO3l5Z0rSjcFZSAE2r4NX0x_U634-aacv2-48K.m4a?channel=rss&album_id=34875808&track_id=260863194&uid=105465447&jt=https://aod.cos.tx.xmcdn.com/group76/M07/1D/AA/wKgO3l5Z0rSjcFZSAE2r4NX0x_U634-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3787944,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:28:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "从前有座花果山，一只石头里蹦出来的小石猴开启了传奇历程。",
+  "kurzfassung": "花果山上一块仙石裂开蹦出一只小石猴，它勇敢闯过水帘洞被群猴推举为美猴王。为了学习长生不老的本事，它独自漂洋过海来到人类世界寻找神仙。最终它找到了菩提祖师，并拜师拥有了“孙悟空”这个名字。",
+  "stichpunkte": [
+    "花果山顶的仙石裂开，诞生了一只机灵可爱的小石猴。",
+    "玉皇大帝派千里眼和顺风耳查探石猴来历，得知是花果山的猴子后便不再在意。",
+    "小石猴勇敢跳过瀑布发现了水帘洞，被群猴推举为大王，号称美猴王。",
+    "美猴王不满足于日常玩耍，决定出海寻找神仙老师学习本领。",
+    "美猴王用松树筏子漂洋过海来到人类世界，学会了说人话和人类的习俗。",
+    "他在山中遇到砍柴的樵夫，得知灵台方寸山斜月三星洞住着菩提祖师。",
+    "孙悟空顺利拜入菩提祖师门下，并正式得到了“孙悟空”这个名字。"
+  ],
+  "kapitel": [
+    {
+      "titel": "花果山与石猴诞生",
+      "start": 1.92
+    },
+    {
+      "titel": "发现水帘洞与成为美猴王",
+      "start": 133.26
+    },
+    {
+      "titel": "出海寻师与拜入三星洞",
+      "start": 298.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:28:40+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 622,
+  "veroeffentlicht": "2020-02-29T02:55:35+00:00",
+  "beschreibung": "播出时间：每天18：00\n您的支持是我的动力，感谢订阅分享。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">播出时间：每天18：00</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>您的支持是我的动力，感谢订阅分享。</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group76/M02/08/C3/wKgO3l55chzB4wsgAAM14Qna5Y8275.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "guid": "997d975e-82d3-4eda-b2fd-b4ad01548a1c",
+  "apple_collection_id": "350359306",
+  "show": "Stuff To Blow Your Mind",
+  "titel": "From the Vault: Folkloric Cats of the British Isles",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/997d975e-82d3-4eda-b2fd-b4ad01548a1c/audio.mp3?utm_source=Podcast&in_playlist=d8936746-9e22-4dba-b762-ae2f0056b126",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 76728764,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:16:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Exploring magical and folkloric cats of the British Isles, from myth to monster cats.",
+  "kurzfassung": "The hosts explore supernatural and folkloric felines from the British Isles, drawing on Celtic and Arthurian traditions. The discussion covers tales of mystical creatures like the cat sith and cath palug, alongside historical divination rituals. Listeners learn how domestic cats and wildcats have inspired centuries of myth and monster stories.",
+  "stichpunkte": [
+    "Domestic cats in Britain date back to the Roman occupation, while wildcats predate them.",
+    "The cat sith is a Scottish folkloric black cat described as large as a dog.",
+    "Historical Scottish divination rituals involved wrapping a person in an animal hide near a riverbank.",
+    "Cat torture rituals were believed to summon the King of the Cats and his feline attendants.",
+    "Irish poet William Butler Yeats collected tales involving the feline king Irosan.",
+    "Cath palug is a monster cat from Welsh triads and Arthurian literature.",
+    "Some French Arthurian romances depict King Arthur being killed by a swamp cat.",
+    "Monster cats appear in various forms across Celtic myth, ranging from house cat size to massive beasts."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction to Cat Week and Feline Lore",
+      "start": 6.44
+    },
+    {
+      "titel": "The Cat Sith and Hide Divination Rituals",
+      "start": 333.64
+    },
+    {
+      "titel": "The King of the Cats and Yeats' Poetry",
+      "start": 1406.8
+    },
+    {
+      "titel": "Cath Palug and Arthurian Monster Cats",
+      "start": 1996.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The duality of the domestic cat",
+      "start": 236.957,
+      "ende": 265.613,
+      "laenge": 28.66,
+      "byte_start": 3858163,
+      "byte_ende": 4316663,
+      "bytes": 458501,
+      "range_header": "bytes=3858163-4316663",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 237.035,
+      "anker_sha256": "e7df9ef1380270c512a89b9caddbfcd8e7e946bfbb3e6c49c982ca461e0f3726",
+      "einblendung_ms": 60,
+      "text": "The hosts introduce a structured series of themed programming and invite the audience to submit suggestions for future topics."
+    },
+    {
+      "hook": "Keeping the spit turning to survive",
+      "start": 1262.158,
+      "ende": 1292.278,
+      "laenge": 30.12,
+      "byte_start": 20261388,
+      "byte_ende": 20743294,
+      "bytes": 481907,
+      "range_header": "bytes=20261388-20743294",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1262.237,
+      "anker_sha256": "f547319a803e26b1a529a9abe35e52bb7aa8ea71d97c865110a34b2257acb518",
+      "einblendung_ms": 60,
+      "text": "A solo traveler shares her motivation for exploring the world independently and embracing spontaneous decisions."
+    },
+    {
+      "hook": "A poet's satire kills ten mice",
+      "start": 1578.318,
+      "ende": 1603.37,
+      "laenge": 25.05,
+      "byte_start": 25319948,
+      "byte_ende": 25720770,
+      "bytes": 400823,
+      "range_header": "bytes=25319948-25720770",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1578.397,
+      "anker_sha256": "86df2bb1018ebecbd1453001d3e6598cf11aeb65c7844f1535645a1db39d8d93",
+      "einblendung_ms": 60,
+      "text": "An old Scottish legend describes a ritual involving cats meant to help a man named Ewan figure out how to make amends for his past."
+    },
+    {
+      "hook": "A magical monster pig gives birth",
+      "start": 2348.8,
+      "ende": 2377.012,
+      "laenge": 28.21,
+      "byte_start": 37647654,
+      "byte_ende": 38099049,
+      "bytes": 451396,
+      "range_header": "bytes=37647654-38099049",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2348.878,
+      "anker_sha256": "d05b81fe08aab0c558246a7aa52de00710f45fecaf17cc7668917a712e68e8f5",
+      "einblendung_ms": 60,
+      "text": "A speaker reflects on a life of crime, discussing past misdeeds and an unusual connection to elaborate traditional costumes."
+    },
+    {
+      "hook": "Did a cat kill King Arthur?",
+      "start": 2882.011,
+      "ende": 2912.104,
+      "laenge": 30.09,
+      "byte_start": 46179036,
+      "byte_ende": 46660524,
+      "bytes": 481489,
+      "range_header": "bytes=46179036-46660524",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2882.09,
+      "anker_sha256": "33949268885c2a9be5f9f820fc91a67a5cc3997f4618080fd82e39a7c11e6b5a",
+      "einblendung_ms": 60,
+      "text": "Traditional British lore preserves historical and legendary triads that catalog notable chieftains, warriors, and generous figures."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:16:40+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3656,
+  "veroeffentlicht": "2026-08-22T10:00:00+00:00",
+  "beschreibung": "In this classic episode of Stuff to Blow Your Mind, Robert and Joe discuss some of the magical and folkloric cats of the British Isles, including Scotland's cat-sith and the Grimalkin. (originally published 8/5/2025)\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>In this classic episode of Stuff to Blow Your Mind, Robert and Joe discuss some of the magical and folkloric cats of the British Isles, including Scotland's cat-sith and the Grimalkin. (originally published 8/5/2025)</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/image.jpg?t=1749837114&size=Large",
+  "kapitel_quelle": "modell"
+}

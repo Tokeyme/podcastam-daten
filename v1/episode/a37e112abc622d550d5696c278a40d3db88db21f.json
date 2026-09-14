@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "6a888487ef65145dfcc3587a",
+  "apple_collection_id": "1878554738",
+  "show": "即兴对谈",
+  "titel": "即兴演员，不要断开你与观众的链接",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a888487ef65145dfcc3587a/media.xyzcdn.net/698de39e95b36fce11ddc9ca/ljUec969yKOhpkXgxbKXM6pt5ySo.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4917182,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:25:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "即兴演员如何与观众保持连接？佳哥分享了三个实用方法。",
+  "kurzfassung": "即兴喜剧最怕演员与观众失去连接，犹如情侣各自刷手机。主播佳哥总结了保持连接的三点建议：利用热身融入场地、给新手提供安全感以及通过提示词增加观众参与感。观众不仅是旁观者，更是共创者，让他们感受到被需要至关重要。",
+  "stichpunkte": [
+    "即兴演员与观众失去连接的场景类似于情侣各自刷手机",
+    "演员和观众各玩各的、互不关心是即兴喜剧的一大忌讳",
+    "第一点：利用热身游戏提升场温，让观众放下防备并融入演出",
+    "第二点：通过主持人和演员的认真介绍，给初次观看的新人提供安全感",
+    "第三点：利用提示词增加观众的参与感，让观众成为演出的共创者",
+    "收集提示词时应多留时间鼓励观众多说，避免敷衍了事",
+    "让每位走进剧场的观众都觉得被需要、被欢迎是连接的关键"
+  ],
+  "kapitel": [
+    {
+      "titel": "即兴喜剧中的连接断裂",
+      "start": 0.94
+    },
+    {
+      "titel": "保持连接的三点建议",
+      "start": 64.28
+    },
+    {
+      "titel": "总结与展望",
+      "start": 293.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:25:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 303,
+  "veroeffentlicht": "2026-08-22T02:00:00+00:00",
+  "beschreibung": "这一期依旧是向前一步的喜剧分享~\n\n本次分享的是即兴喜剧演员需要和你的观众建立好链接关系，保持“亲密”与“信任”，来让他们感受到演员和即兴本身对他们的善意，这样观众才会更容易感受到即兴的魅力~\n\n所有的问题都是真实发生过，踩过坑，分享出来希望感兴趣的你不要踩坑~\n\n欢迎你的收听~\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>这一期依旧是向前一步的喜剧分享~</p><p></p><p>本次分享的是即兴喜剧演员需要和你的观众建立好链接关系，保持“亲密”与“信任”，来让他们感受到演员和即兴本身对他们的善意，这样观众才会更容易感受到即兴的魅力~</p><p></p><p>所有的问题都是真实发生过，踩过坑，分享出来希望感兴趣的你不要踩坑~</p><p></p><p>欢迎你的收听~</p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a888487ef65145dfcc3587a?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fo8vf4reJbh7P5QsKUtTcFiVruDg.png",
+  "kapitel_quelle": "modell"
+}

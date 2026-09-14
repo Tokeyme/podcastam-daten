@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_643844459",
+  "apple_collection_id": "1679269764",
+  "show": "商业至简：60天在早餐桌旁读完商学院",
+  "titel": "庆祝胜利",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4IbU0lACroxgIuauyl.m4a?channel=rss&album_id=75052141&track_id=643844459&uid=164124031&jt=https://aod.cos.tx.xmcdn.com/storages/d2f5-audiofreehighqps/F0/DE/GKwRIW4IbU0lACroxgIuauyl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2812102,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:52:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "建立庆祝团队胜利的惯例，肯定成员转变，提升团队士气与绩效。",
+  "kurzfassung": "在高效执行系统中，建立庆祝胜利的惯例对团队成功至关重要。庆祝胜利需要关注胜利、纪念胜利并回报做出重大贡献的人。同时，庆祝应留给真正实现的目标，从而让工作充满乐趣并不断进步。",
+  "stichpunkte": [
+    "在一个有效的执行系统中，庆祝团队的胜利至关重要。",
+    "人们需要被承认，庆祝胜利能够肯定团队成员向价值驱动性人才的转变。",
+    "庆祝胜利需要做到三点：关注胜利、纪念胜利、回报带来胜利的人。",
+    "利用计分牌来追踪指标，并在超越时进行庆祝。",
+    "领导者必须用语言明确说明庆祝活动的内容，以真正鼓舞士气。",
+    "必须将庆祝留给真正的胜利，没有取得胜利就不要庆祝。",
+    "设置计分牌和庆祝胜利能让工作充满乐趣、富有成效和变革性。",
+    "掌握书中的商业策略与知识，能够成为极具价值的专业人才。"
+  ],
+  "kapitel": [
+    {
+      "titel": "庆祝胜利的重要性",
+      "start": 0.9
+    },
+    {
+      "titel": "庆祝胜利的三种方法",
+      "start": 107.62
+    },
+    {
+      "titel": "真正的胜利与结语",
+      "start": 187.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:52:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 347,
+  "veroeffentlicht": "2023-06-25T00:28:14+00:00",
+  "beschreibung": "本书完结",
+  "beschreibung_html": "本书完结",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d8f2-audiofreehighqps/F8/19/GKwRIRwH7tl1AAC1YwIE_VSX.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

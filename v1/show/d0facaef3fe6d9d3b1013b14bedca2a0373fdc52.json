@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
+  "apple_collection_id": "328076847",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "https://robhasawebsite.com/?p=447731",
+      "audio_url": "https://media.blubrry.com/rob_has_a_podcast_survivor/traffic.megaphone.fm/RHAPN5589809026.mp3",
+      "pfad": "/v1/episode/665a172bace46d8674a48bd1d7f7c50e808cf7c7.json",
+      "titel": "RAANAP 328: “Detective” Akiva",
+      "veroeffentlicht": "2026-09-05T08:00:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Akiva acts as a private detective, trying to solve listener-submitted mysteries."
+    }
+  ]
+}

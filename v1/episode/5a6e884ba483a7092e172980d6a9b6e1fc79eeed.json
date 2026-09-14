@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "6a87de391352af56ff39a90d",
+  "apple_collection_id": "1833736150",
+  "show": "财经小盲盒",
+  "titel": "AI制药为何至今零获批",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/689ec7bdfb5ff2ccdcec406a/6a87de391352af56ff39a90d/media.xyzcdn.net/689ec7bdfb5ff2ccdcec406a/lt_c6OuegQfX8ZYnLGLO5dZ-Ndd5.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 25979405,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T17:27:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深度剖析人工智能驱动药物研发领域的泡沫、物理边界与商业变现模式。",
+  "kurzfassung": "尽管资本在过去五年中疯狂涌入人工智能驱动的药物研发领域，但截至目前全球由人工智能完全主导并获批上市的药物数量依然为零。节目深入拆解了该赛道面临的数据噪音、人体复杂代偿机制以及物理递送等核心边界。同时，播客分析了三种主流的商业变现模式，并探讨了行业内关于设计派与解释派的终极路线之争。",
+  "stichpunkte": [
+    "截至目前，全球真正完全由人工智能主导研发且获批上市的药物数量为零。",
+    "人工智能在药物研发中目前主要充当超级算力筛选器，极大地提升了早期临床前靶点发现和化合物优化的效率。",
+    "算法仅能识别相关性，无法完全建立因果推断，也无法轻易穿透人体复杂的代偿机制。",
+    "小分子药物领域面临严重的标注质量问题和实验室环境噪音，导致数据常常成为无效噪音。",
+    "大分子抗体由于结构可解释性强且天然适合机器人自动化流水线生产，成为目前商业落地概率最高的路径。",
+    "核酸与多态类药物受困于纯粹的物理递送难题，极易在血液中被酶降解。",
+    "行业存在纯卖软件、医药研发外包和创新药企这三种主流商业模式，其中自建重资产自动化实验室才是真正的护城河。",
+    "全球顶尖专家目前在路线上存在显著分歧，分为相信人工智能可凭空设计的“设计派”与坚信其只能作为过滤器的“解释派”。"
+  ],
+  "kapitel": [
+    {
+      "titel": "资本狂热与零获批的现实",
+      "start": 0.0
+    },
+    {
+      "titel": "人工智能在研发前期的角色与局限",
+      "start": 68.76
+    },
+    {
+      "titel": "不同药物模态的底层约束：小分子、大分子与核酸",
+      "start": 387.82
+    },
+    {
+      "titel": "商业变现模式与科技巨头的入局博弈",
+      "start": 771.0
+    },
+    {
+      "titel": "临床战场为何扎堆肿瘤：成本与物理摩擦力",
+      "start": 1077.66
+    },
+    {
+      "titel": "构建闭环验证系统与设计派对解释派的路线之争",
+      "start": 1356.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T17:27:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1606,
+  "veroeffentlicht": "2026-08-21T05:16:37+00:00",
+  "beschreibung": "前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<br><a href=\"https://www.xiaoyuzhoufm.com/episode/6a87de391352af56ff39a90d?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

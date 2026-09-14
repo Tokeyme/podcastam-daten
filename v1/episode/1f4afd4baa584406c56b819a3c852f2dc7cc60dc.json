@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006519004",
+  "apple_collection_id": "1762849572",
+  "show": "夏冰雹的播客",
+  "titel": "全英Talk｜AI时代的残酷真相：会思考的人持续变强，不会思考的人沦为韭菜",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OVYiRACxbowTG5fh7.m4a?channel=rss&album_id=83112827&track_id=1006519004&uid=9722728&jt=https://aod.cos.tx.xmcdn.com/storages/fbee-audiofreehighqps/3B/B5/GKwRIW4OVYiRACxbowTG5fh7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2907043,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:31:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "AI时代的残酷真相：会思考的人持续变强，不会思考的人沦为韭菜。",
+  "kurzfassung": "人工智能放大了深度思考者与缺乏辨别能力者之间的差距。AI生成的虚假信息和数据污染容易使缺乏批判性思维的人成为被操纵的目标。因此，核实原始来源、保持怀疑态度以及培养独立思考能力至关重要。",
+  "stichpunkte": [
+    "AI时代放大了会思考者与不会思考者之间的差距",
+    "AI常将事实与虚构混合，导致用户得到错误信息",
+    "存在专业商人通过数据污染故意制造虚假报告以牟利",
+    "缺乏批判性思维的人极易成为诈骗和信息操纵的目标",
+    "必须核实信息原始来源，并识别信源的专业性与可信度",
+    "分析网络信息时需思考缺失的角度、利益相关方及资金支持",
+    "引用艾基温·里奇的名言强调自己思考和承担责任的重要性"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI时代的两极分化与幻觉问题",
+      "start": 0.0
+    },
+    {
+      "titel": "数据污染与虚假信息的危害",
+      "start": 108.14
+    },
+    {
+      "titel": "培养批判性思维与独立核实能力",
+      "start": 200.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:31:50+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 358,
+  "veroeffentlicht": "2026-08-15T01:48:28+00:00",
+  "beschreibung": "AI不会让所有人同时变得更聪明，它更可能成为一个巨大的“认知放大器”：善于思考、懂得判断和核查信息的人，会借助AI变得越来越强；而缺乏批判性思维、习惯照单全收的人，则更容易被错误信息误导，甚至被操纵和收割。\n\n在AI几乎可以随时给我们答案的时代，真正稀缺的能力或许不再是“知道答案”，而是判断：这个答案是真的吗？信息从哪里来？谁在提供它？背后有没有利益和偏见？\n\nAI可以帮助我们思考，但不要把思考本身外包给AI。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">AI不会让所有人同时变得更聪明，它更可能成为一个巨大的“认知放大器”：善于思考、懂得判断和核查信息的人，会借助AI变得越来越强；而缺乏批判性思维、习惯照单全收的人，则更容易被错误信息误导，甚至被操纵和收割。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">在AI几乎可以随时给我们答案的时代，真正稀缺的能力或许不再是“知道答案”，而是判断：这个答案是真的吗？信息从哪里来？谁在提供它？背后有没有利益和偏见？</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">AI可以帮助我们思考，但不要把思考本身外包给AI。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e368-audiofreehighqps/30/18/GKwRIaIKkok4AAgUhAMAG-D0.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

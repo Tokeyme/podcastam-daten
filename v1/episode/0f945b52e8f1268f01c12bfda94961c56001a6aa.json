@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_658994840",
+  "apple_collection_id": "1705335729",
+  "show": "我的前半生--爱新觉罗·溥仪",
+  "titel": "第一章 醇贤亲王的一生",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4IudcTAKJ8lwJNLKC7.m4a?channel=rss&album_id=77686693&track_id=658994840&uid=449997866&jt=https://aod.cos.tx.xmcdn.com/storages/81bb-audiofreehighqps/38/6B/GKwRIW4IudcTAKJ8lwJNLKC7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 10648727,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T09:03:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "末代皇帝回忆家族命运，追溯淳贤亲王一生及清廷权力核心。",
+  "kurzfassung": "本书回顾了末代皇帝溥仪的出生及淳王府的变迁，详细记述了其祖父淳贤亲王在晚清政治风暴中的崛起与生存之道。通过宫廷秘闻与历史细节，展现了慈禧太后严酷专断的统治以及清廷内部复杂的权力博弈。全书最终延伸至光绪朝的政治困境与甲午战败，折射出清王朝不可挽回的没落命运。",
+  "stichpunkte": [
+    "作者于1906年生于北京淳王府，三岁时被慈禧太后立为皇帝，宣统年间退位。",
+    "淳王府因政治局势与皇权更迭曾三次搬迁，最终在辛亥革命爆发时彻底终结。",
+    "祖父淳贤亲王在咸丰帝死后借助慈禧的权势平步青云，掌握多项军政大权。",
+    "1861年北京政变中，恭亲王与两宫太后联合肃清顾命大臣，开启了慈禧垂帘听政的时期。",
+    "同治帝与其皇后之死充满宫廷悲剧色彩，进一步暴露了慈禧专横残暴的性格。",
+    "淳贤亲王面对慈禧的权势如履薄冰，通过百般讨好与谨小慎微来保全家族。",
+    "海军经费被挪用修建颐和园，最终导致北洋海军在甲午海战中惨败。"
+  ],
+  "kapitel": [
+    {
+      "titel": "淳王府的变迁与末代皇帝的登基",
+      "start": 0.0
+    },
+    {
+      "titel": "淳贤亲王的崛起与1861年政变",
+      "start": 163.0
+    },
+    {
+      "titel": "同治帝之死与慈禧的专权统治",
+      "start": 705.8
+    },
+    {
+      "titel": "如履薄冰的生存之道与颐和园的修建",
+      "start": 945.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T09:03:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1315,
+  "veroeffentlicht": "2023-08-22T01:48:43+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/23a8-audiofreehighqps/7C/81/GKwRIRwIudaQAANkrgJNLF6m.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

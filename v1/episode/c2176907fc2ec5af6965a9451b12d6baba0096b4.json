@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2024/11/14/3110278130845969926_hd.mp3",
+  "apple_collection_id": "1603200493",
+  "show": "信睿播客",
+  "titel": "45从Chiikawa看妖怪学如何影响日本的奇幻世界｜陆薇薇",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2024/11/14/3110278130845969926_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 50634487,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T19:24:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "从《Chiikawa》热潮切入，探讨日本妖怪学的发展历程及其文化内涵。",
+  "kurzfassung": "本期节目邀请学者陆薇薇，从人气动漫《Chiikawa》出发探讨日本妖怪学。嘉宾梳理了日本妖怪学从近代到现代的发展脉络，分析了妖怪文化中边界、秩序与他者的概念。同时，节目还介绍了山老、人鱼等经典妖怪形象及其在不同媒介中的演变过程。",
+  "stichpunkte": [
+    "《Chiikawa》表面可爱治愈，其暗黑内核折射出日本妖怪学中的秩序与神秘世界关系。",
+    "小松和彦指出妖怪学存在两类说明体系，妖怪与人类生活息息相关且不会消失。",
+    "日本妖怪学研究经历了近代科学破除迷信、昭和时期的都市怪谈，到现代跨学科新妖怪学的三个阶段。",
+    "日本妖怪具有神妖转换、万物皆有灵以及无绝对善恶的独到特征。",
+    "山老与人鱼等经典妖怪形象在历史传说中承载着不同的民俗意义与预言象征。",
+    "从口传文艺、江户绘卷到当代动漫游戏，媒介形式的变化深刻影响了妖怪故事的演变与传播。",
+    "现代人对萌系妖怪的喜爱与对《Chiikawa》的共鸣，折射出当代社会的心理压力与疗愈需求。"
+  ],
+  "kapitel": [
+    {
+      "titel": "从《Chiikawa》的暗黑内核聊起",
+      "start": 28.64
+    },
+    {
+      "titel": "妖怪学中的日常与神秘世界",
+      "start": 251.6
+    },
+    {
+      "titel": "日本妖怪学的发展学术史",
+      "start": 726.5
+    },
+    {
+      "titel": "经典妖怪形象与历史流变",
+      "start": 1336.92
+    },
+    {
+      "titel": "媒介形式如何改变妖怪传播",
+      "start": 2065.76
+    },
+    {
+      "titel": "跨文化视角下的日本妖怪文化",
+      "start": 2415.6
+    },
+    {
+      "titel": "当代人为何喜爱萌系妖怪",
+      "start": 2845.64
+    }
+  ],
+  "clips": [
+    {
+      "hook": "《Chiikawa》的暗黑内核",
+      "start": 64.287,
+      "ende": 91.82,
+      "laenge": 27.53,
+      "byte_start": 1081246,
+      "byte_ende": 1521774,
+      "bytes": 440529,
+      "range_header": "bytes=1081246-1521774",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 64.366,
+      "anker_sha256": "595f7031031ef7312b7f745959917f84bfd54e54923637c1060bdacc1f9d88ca",
+      "einblendung_ms": 60,
+      "text": "吉伊卡哇表面上天真烂漫，但故事暗含阶层分化、丛林法则与社会规训，其阴暗残酷的内核反而成了核心吸引力。"
+    },
+    {
+      "hook": "只要人类存在，妖怪便不会消失",
+      "start": 1016.842,
+      "ende": 1036.957,
+      "laenge": 20.11,
+      "byte_start": 16322128,
+      "byte_ende": 16643955,
+      "bytes": 321828,
+      "range_header": "bytes=16322128-16643955",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1016.921,
+      "anker_sha256": "c11b7e0ffeac0ad3b991c72fe09481e4c1b73afb607c7661a67a67269b33c20d",
+      "einblendung_ms": 60,
+      "text": "妖怪研究学者认为，只要人类社会存在，妖怪就不会消亡，这反映出妖怪与人类之间密不可分的深层联系。"
+    },
+    {
+      "hook": "山老传说的恐怖内核",
+      "start": 1373.597,
+      "ende": 1393.711,
+      "laenge": 20.11,
+      "byte_start": 22030196,
+      "byte_ende": 22352024,
+      "bytes": 321829,
+      "range_header": "bytes=22030196-22352024",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1373.675,
+      "anker_sha256": "64b300bdcf6a1013ab7ce4c19aac7814452a9b9148665bd1680eff05530b05d5",
+      "einblendung_ms": 60,
+      "text": "部分民间传说中的旅店主人起初表现得十分热情周到，却会在深夜熟睡之际将投宿的旅客残忍吞食。"
+    },
+    {
+      "hook": "河童形象的历史演变",
+      "start": 1777.319,
+      "ende": 1797.407,
+      "laenge": 20.09,
+      "byte_start": 28489755,
+      "byte_ende": 28811165,
+      "bytes": 321411,
+      "range_header": "bytes=28489755-28811165",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1777.398,
+      "anker_sha256": "2da04c6a9d4e616dbe6c1dfb2751b73daae3a5650bee2bc4f779503c7ee6cf53",
+      "einblendung_ms": 60,
+      "text": "现代大众文化中的河童形象通常拥有青绿色的皮肤、鸟喙般的尖嘴、背部的甲壳以及头顶盛水的碟状凹陷。"
+    },
+    {
+      "hook": "历经百年的器物化身：付丧神",
+      "start": 2725.172,
+      "ende": 2745.26,
+      "laenge": 20.09,
+      "byte_start": 43655404,
+      "byte_ende": 43976814,
+      "bytes": 321411,
+      "range_header": "bytes=43655404-43976814",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2725.251,
+      "anker_sha256": "94f846d57d9c5b0f0ac0434bad471a109b5080c86da88e8571745b7b332c57e0",
+      "einblendung_ms": 60,
+      "text": "某些日常使用的器物在经历漫长岁月后能够获得灵气，最终演变成具有超自然力量的妖怪。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-25T19:24:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3161,
+  "veroeffentlicht": "2024-11-14T14:11:24+08:00",
+  "beschreibung": "“新晋二次元顶流” Chiikawa是一部可以多层次欣赏的作品。我们既可以完全脱离故事情节，使用发疯表情包和怪叫乌萨奇解构表达与意义；也可以细细品味一分钟剧情中的微妙转折，体会作用在这些又小又可爱的生物之上的“无稽法则”：Chiikawa的世界中不仅有贫富差距、弱肉强食，还充满着社会控制、突发事件与超自然危险。动荡不安的外部世界与小可爱们纯真钝感的应对，构成了这部“暗黑萌系”作品的独特魅力。“萌感”直观地来自造型与对话设计，而制造出幽暗气质的元素与结构，则吸收了多个历史层累中的文化遗产。本期节目希望能够聊聊影响了Chiikawa创作的其中一支文化源流：日本妖怪文化。\n\n在前现代的日本，妖怪文化在民俗社会中发挥着重要作用：它不断改写着“日常”与“非日常”的边界，促成着“他者”的树立与转化。有趣的是，妖怪文化并未在日本现代化的过程中被完全消灭和驱散，这些被警惕与不安激发的想象力跨越古今，在当下仍激起了广泛共鸣。本期节目，我们邀请到东南大学外国语学院的教授陆薇薇老师。我们将从Chiikawa中的妖怪元素聊起，探讨妖怪文化如何深刻影响了日本的虚构世界、如何独立为一门“学问”，又如何反过来被新的作品与媒介形式丰富和塑造。\n\n——本期嘉宾——\n\n陆薇薇 东南大学外国语学院教授，主要研究领域为日本民俗学、性别研究\n\n——本期节目您将听到——\n\n02:46 铠、小可爱与奇美拉：失控的边界与不可预料的转化\n\n04:36 解释“反常”与树立“他者”：民俗社会中的妖怪起源\n\n10:32 Chiikawa的世界是一个对玄怪开放的科技世界：日本妖怪为何未被现代化驱逐？\n\n12:06从井上圆了、柳田国南到小松和彦：日本妖怪学的起源、发展与演变\n\n18:18 妖怪学作为探寻人类精神历史的跨学科场所\n\n22:17 Chiikawa中出现的日本妖怪：山姥与人鱼的起源与流变\n\n27:56 从河童传说的演变看日本妖怪的善恶两面性\n\n33:56 塑形与“萌”化：媒介如何重塑妖怪文化？\n\n40:14 中国文化与博物学如何影响了日本的妖怪文化\n\n47:23 警戒、不安与想象力：Chiikawa爆火背后妖怪学的恒常魅力\n\n——关键概念、作品、任务及拓展阅读——\n\nl 《要求太多的餐厅》：宫泽贤治 著，刘子倩 译，江苏凤凰文艺出版社，2019\n\nl “凭物”信仰：小松和彦妖怪研究著作《凭灵信仰论》中提出，小松把“凭物”一词拆分为“凭”与“物”，“凭”为附身的现象，“物”为出现这种现象的原因。“物”既可能是有形的，也可能是无形的，比如咒术。小松通过大量案例的论证，揭示出“凭物”信仰背后的日本社会组织结构及民众心理。\n\nl 小松和彦：当代日本妖怪研究代表人物，其以柳田国男的妖怪学为起点，借鉴了宫田登等都市妖怪研究的成果，提出了“新妖怪学”构想。小松认为，妖怪来源于人们的警戒心与不安，是不被祭祀的“神”。\n\nl 井上圆了：日本近代著名哲学家与教育家，精于佛学，日本妖怪学与东洋哲学之先驱，1887年创办“哲学馆”（现东洋大学前身）。代表作有《妖怪学讲义》《纯正哲学》《佛教活论本论》等。\n\nl “狸猫鼓腹”传说：深夜时分不知从哪里传来的钲鼓之声。据说，鼓声是狸猫拍打自己的大肚子发出来的，也叫“狸子鼓腹”。古时候，京都有会弹琴的隐者，传说经常在有月亮的晚上与狸的腹鼓合奏，乐音相当美妙。\n\nl 柳田国男：被誉为“日本民俗学之父”，于20世纪30年代中期确立了日本民俗学的理论体系，指导了系统的民俗调查和全国规模的组织活动。他认为妖怪故事的传承和民众的心理和信仰有密切关系，将妖怪研究视为理解日本历史和民族性格的方法之一。早期的作品《远野物语》详述天狗、河童、座敷童子、山男，使这些妖怪声名大噪，蔚为主流。\n\nl 都市妖怪研究：与都市生活、文化和心理有着紧密的联系。其兴起主要源于现代社会的快速发展和变化。著名的都市传说有“裂口女” “八尺大人” “人面犬”等。\n\nl 《妖怪の民俗学》：宫田登 著，筑摩書房，2022\n\nl 《學校の怪談》：常光徹 著，株式會社講談社，2012\n\nl 中日妖怪学研究专题研讨会：由中日两国知名研究机构共同打造的高层次合作研究盛会，会议旨在通过两国学者在妖怪学领域的深入交流，促进两国学界的相互学习，探讨和展望该学科的发展趋势。2019年3月23日，“中日妖怪学研究专题研讨会”在北京东岳庙召开，这也是中国大陆地区第一次举办该类研讨会。\n\nl 人鱼传说：在日本，因吃了人鱼肉而活到800岁的“八百比丘尼”的故事广为流传。\n\nl 《妖怪、妖怪学与天狗：中日思想的冲突与融合》：王鑫 著，社会科学文献出版社，2019\n\nl 清水崑：漫画家，代表作有漫画《河童川太郎》等。\n\nl 水木茂：日本漫画家，日本鬼怪漫画第一人、怪谈系题材的元祖。代表作有《鬼太郎》《恶魔君》《河童三平》等，其中《鬼太郎》多次被动漫影视化。\n\nl 《百鬼夜行图》：以“百鬼夜行”为题材的日本各种妖怪画，通常俗称之为“百鬼夜行图”，一般是指江户时代（1603-1867）著名妖怪画家鳥山石燕创作的《画図百鬼夜行》《今昔画図続百鬼》《今昔百鬼拾遺》《画図百器徒然袋》四部妖怪绘卷，合称《画図百鬼夜行全画集》。\n\nl 江户时代的“汉学”和“兰学”：兰学是江户时代末期西方洋学来到亚洲（特别是日本）后，日本学界通过荷兰来讨论西洋的一种学问、概念或称历史；“汉学”是研究儒学（经学）及汉民族传统历史文化的学问的总称，形成于将儒学作为官方哲学的江户时代前中期（公元17世纪）。\n\nl 《失落的天书：<山海经>与古代华夏世界观》：刘宗迪 著，商务印书馆，2016\n\nl “附丧神”信仰：日本的妖怪传说概念，指器物放置不理百年，吸收天地精华、积聚怨念或感受佛性、灵力而得到灵魂化成的妖怪。也被称作“九十九神”，“九十九” 象征着漫长的时间及经历。“附丧神”信仰反映了日本文化中 “万物皆有灵” 的观念，也体现了人们对于旧物的一种特殊情感和思考。在现代，付丧神更多地成为了一种文化符号和创作素材。\n\nl 暗恐（Uncanny)：弗洛伊德在文章《暗恐》中对这一概念进行了阐述，指出“暗恐”有两层含义：一方面是熟悉的﹑令人愉悦的事物；另一方面是隐匿起来看不见的。在心理学的角度，“暗恐”来自“被压抑了的熟悉事物。\n\n——片头片尾音乐——\n\n片头音乐：ひとりごつ- Chiikawa插曲\n\n片尾音乐：百变酒精（乌萨奇版）- 新鲜鲈鱼\n\n（感谢 @新鲜鲈鱼 同学授权使用）\n\n——关于信睿播客——\n\n这是一档由《信睿周报》团队出品的学者谈话类播客节目。在这里，我们力图打破学科界限，将更多思想资源接入知识图谱，为每个“偶然”进入我们视域的话题、事件或文化产品，提供结构化的思考与历史的景深。\n\n——制作团队——\n\n策划/制作/后期：周天悦\n\n视觉设计：杨楠",
+  "beschreibung_html": "<myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"> “新晋二次元顶流”&nbsp;Chiikawa是一部可以多层次欣赏的作品。我们既可以完全脱离故事情节，使用发疯表情包和怪叫乌萨奇解构表达与意义；也可以细细品味一分钟剧情中的微妙转折，体会作用在这些又小又可爱的生物之上的“无稽法则”：Chiikawa的世界中不仅有贫富差距、弱肉强食，还充满着社会控制、突发事件与超自然危险。动荡不安的外部世界与小可爱们纯真钝感的应对，构成了这部“暗黑萌系”作品的独特魅力。“萌感”直观地来自造型与对话设计，而制造出幽暗气质的元素与结构，则吸收了多个历史层累中的文化遗产。本期节目希望能够聊聊影响了Chiikawa创作的其中一支文化源流：日本妖怪文化。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"> 在前现代的日本，妖怪文化在民俗社会中发挥着重要作用：它不断改写着“日常”与“非日常”的边界，促成着“他者”的树立与转化。有趣的是，妖怪文化并未在日本现代化的过程中被完全消灭和驱散，这些被警惕与不安激发的想象力跨越古今，在当下仍激起了广泛共鸣。本期节目，我们邀请到东南大学外国语学院的教授陆薇薇老师。我们将从Chiikawa中的妖怪元素聊起，探讨妖怪文化如何深刻影响了日本的虚构世界、如何独立为一门“学问”，又如何反过来被新的作品与媒介形式丰富和塑造。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">&nbsp;</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"><strong>——本期嘉宾——&nbsp;</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"><strong>陆薇薇</strong>&nbsp;东南大学外国语学院教授，主要研究领域为日本民俗学、性别研究</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">&nbsp;</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"><strong>——本期节目您将听到——</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">02:46 铠、小可爱与奇美拉：失控的边界与不可预料的转化</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">04:36&nbsp;解释“反常”与树立“他者”：民俗社会中的妖怪起源</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">10:32&nbsp;Chiikawa的世界是一个对玄怪开放的科技世界：日本妖怪为何未被现代化驱逐？</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">12:06从井上圆了、柳田国南到小松和彦：日本妖怪学的起源、发展与演变</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">18:18 妖怪学作为探寻人类精神历史的跨学科场所</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">22:17&nbsp;Chiikawa中出现的日本妖怪：山姥与人鱼的起源与流变</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">27:56 从河童传说的演变看日本妖怪的善恶两面性</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">33:56 塑形与“萌”化：媒介如何重塑妖怪文化？</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">40:14 中国文化与博物学如何影响了日本的妖怪文化</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">47:23 警戒、不安与想象力：Chiikawa爆火背后妖怪学的恒常魅力</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">&nbsp;</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"><strong>——关键概念、作品、任务及拓展阅读——</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;《要求太多的餐厅》：宫泽贤治&nbsp;著，刘子倩 译，江苏凤凰文艺出版社，2019</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;“凭物”信仰：小松和彦妖怪研究著作《凭灵信仰论》中提出，小松把“凭物”一词拆分为“凭”与“物”，“凭”为附身的现象，“物”为出现这种现象的原因。“物”既可能是有形的，也可能是无形的，比如咒术。小松通过大量案例的论证，揭示出“凭物”信仰背后的日本社会组织结构及民众心理。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;小松和彦：当代日本妖怪研究代表人物，其以柳田国男的妖怪学为起点，借鉴了宫田登等都市妖怪研究的成果，提出了“新妖怪学”构想。小松认为，妖怪来源于人们的警戒心与不安，是不被祭祀的“神”。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;井上圆了：日本近代著名哲学家与教育家，精于佛学，日本妖怪学与东洋哲学之先驱，1887年创办“哲学馆”（现东洋大学前身）。代表作有《妖怪学讲义》《纯正哲学》《佛教活论本论》等。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;“狸猫鼓腹”传说：深夜时分不知从哪里传来的钲鼓之声。据说，鼓声是狸猫拍打自己的大肚子发出来的，也叫“狸子鼓腹”。古时候，京都有会弹琴的隐者，传说经常在有月亮的晚上与狸的腹鼓合奏，乐音相当美妙。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;柳田国男：被誉为“日本民俗学之父”，于20世纪30年代中期确立了日本民俗学的理论体系，指导了系统的民俗调查和全国规模的组织活动。他认为妖怪故事的传承和民众的心理和信仰有密切关系，将妖怪研究视为理解日本历史和民族性格的方法之一。早期的作品《远野物语》详述天狗、河童、座敷童子、山男，使这些妖怪声名大噪，蔚为主流。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;都市妖怪研究：与都市生活、文化和心理有着紧密的联系。其兴起主要源于现代社会的快速发展和变化。著名的都市传说有“裂口女”&nbsp;“八尺大人”&nbsp;“人面犬”等。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;《妖怪の民俗学》：宫田登&nbsp;著，筑摩書房，2022</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;《學校の怪談》：常光徹&nbsp;著，株式會社講談社，2012</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;中日妖怪学研究专题研讨会：由中日两国知名研究机构共同打造的高层次合作研究盛会，会议旨在通过两国学者在妖怪学领域的深入交流，促进两国学界的相互学习，探讨和展望该学科的发展趋势。2019年3月23日，“中日妖怪学研究专题研讨会”在北京东岳庙召开，这也是中国大陆地区第一次举办该类研讨会。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;人鱼传说：在日本，因吃了人鱼肉而活到800岁的“八百比丘尼”的故事广为流传。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;《妖怪、妖怪学与天狗：中日思想的冲突与融合》：王鑫&nbsp;著，社会科学文献出版社，2019</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;&nbsp;清水崑：漫画家，代表作有漫画《河童川太郎》等。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;&nbsp;水木茂：日本漫画家，日本鬼怪漫画第一人、怪谈系题材的元祖。代表作有《鬼太郎》《恶魔君》《河童三平》等，其中《鬼太郎》多次被动漫影视化。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;&nbsp;《百鬼夜行图》：以“百鬼夜行”为题材的日本各种妖怪画，通常俗称之为“百鬼夜行图”，一般是指江户时代（1603-1867）著名妖怪画家鳥山石燕创作的《画図百鬼夜行》《今昔画図続百鬼》《今昔百鬼拾遺》《画図百器徒然袋》四部妖怪绘卷，合称《画図百鬼夜行全画集》。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;江户时代的“汉学”和“兰学”：兰学是江户时代末期西方洋学来到亚洲（特别是日本）后，日本学界通过荷兰来讨论西洋的一种学问、概念或称历史；“汉学”是研究儒学（经学）及汉民族传统历史文化的学问的总称，形成于将儒学作为官方哲学的江户时代前中期（公元17世纪）。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;《失落的天书：&lt;山海经&gt;与古代华夏世界观》：刘宗迪&nbsp;著，商务印书馆，2016</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;&nbsp;“附丧神”信仰：日本的妖怪传说概念，指器物放置不理百年，吸收天地精华、积聚怨念或感受佛性、灵力而得到灵魂化成的妖怪。也被称作“九十九神”，“九十九” 象征着漫长的时间及经历。“附丧神”信仰反映了日本文化中 “万物皆有灵” 的观念，也体现了人们对于旧物的一种特殊情感和思考。在现代，付丧神更多地成为了一种文化符号和创作素材。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">l&nbsp;暗恐（Uncanny)：弗洛伊德在文章《暗恐》中对这一概念进行了阐述，指出“暗恐”有两层含义：一方面是熟悉的﹑令人愉悦的事物；另一方面是隐匿起来看不见的。在心理学的角度，“暗恐”来自“被压抑了的熟悉事物。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>&nbsp;</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>——片头片尾音乐——</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>片头音乐：ひとりごつ- Chiikawa插曲</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>片尾音乐：百变酒精（乌萨奇版）- 新鲜鲈鱼</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">（感谢&nbsp;<em>@新鲜鲈鱼</em>&nbsp;同学授权使用）</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">&nbsp;</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p><strong>——关于信睿播客——</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">这是一档由《信睿周报》团队出品的学者谈话类播客节目。在这里，我们力图打破学科界限，将更多思想资源接入知识图谱，为每个“偶然”进入我们视域的话题、事件或文化产品，提供结构化的思考与历史的景深。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">&nbsp;</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"><strong>——制作团队——</strong></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">策划/制作/后期：周天悦</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">视觉设计：杨楠</p>\n</myfont>",
+  "untertitel": "45从Chiikawa看妖怪学如何影响日本的奇幻世界｜陆薇薇",
+  "kapitel_quelle": "modell",
+  "bild_url": "https://cdn.lizhi.fm/podcast_cover/2021/12/29/2915253896971030087.jpg"
+}

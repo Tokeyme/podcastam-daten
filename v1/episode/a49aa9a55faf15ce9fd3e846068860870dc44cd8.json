@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_778046898",
+  "apple_collection_id": "1787684724",
+  "show": "【免费】1段和女上司荒岛求生的日子|荒岛规则怪谈|逃生之权利的游戏|试炼一出好戏",
+  "titel": "免费订阅《和女上司荒岛求生的日子》第1章 荒岛生活",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJILGel9ADs19QM1aktn.m4a?channel=rss&album_id=84630335&track_id=778046898&uid=28156120&jt=https://aod.cos.tx.xmcdn.com/storages/323e-audiofreehighqps/D1/B1/GKwRIJILGel9ADs19QM1aktn.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3880437,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:57:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "邮轮失事后实习生在荒岛与女上司求生",
+  "kurzfassung": "邮轮失事后，幸存者在荒岛上面临物资分配和生存挑战。公司副总杨洪提议让女白领选择男同事以获取物资，实习生陈海意外被美女部长杨华芳和前台张小玉选择。陈海凭借野外生存经验带领两女寻找山洞并制作工具，随后深入充满危险的丛林寻找食物和防毒草药。",
+  "stichpunkte": [
+    "邮轮失事近半个月，幸存者面临救援迟迟不来的困境",
+    "副总杨洪提出分家方案，让女白领选择男同事以分配物资",
+    "实习生陈海本未受关注，却意外被杨华芳和张小玉选择",
+    "陈海凭借对野外生存的了解赢得两女信任，并带她们寻找闲置山洞",
+    "三人在山洞生火取暖并制作长矛等简易防身工具",
+    "陈海回忆起海难中失散的恋人萧美玉，担忧其在岛上的处境",
+    "陈海带两女冒险进入毒虫蛇蚁横行的丛林寻找物资",
+    "陈海利用自制药草成功驱赶毒虫，展现出色的生存能力"
+  ],
+  "kapitel": [
+    {
+      "titel": "荒岛分家与选择",
+      "start": 0.0
+    },
+    {
+      "titel": "新山洞与生存计划",
+      "start": 260.26
+    },
+    {
+      "titel": "回忆与丛林探险",
+      "start": 478.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:57:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 636,
+  "veroeffentlicht": "2024-11-25T07:25:29+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ea7b-audiofreehighqps/B6/B0/GKwRIW4LA63fAANOLgMr8bYE.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

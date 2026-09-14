@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_486648603",
+  "apple_collection_id": "1509642568",
+  "show": "奇妈妈睡前故事",
+  "titel": "赛罗奥特曼帮小趣摘苹果",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasFnvt2ADJCqAEHT38F-aacv2-48K.m4a?channel=rss&album_id=6715518&track_id=486648603&uid=73780629&jt=https://aod.cos.tx.xmcdn.com/storages/8da0-audiofreehighqps/F9/DD/GKwRIasFnvt2ADJCqAEHT38F-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2477034,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T23:21:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "赛罗奥特曼帮助小区和甜甜在苹果森林摘苹果，一起品尝美味的苹果派。",
+  "kurzfassung": "奇妈妈准备制作苹果派，派小区去苹果森林摘苹果。小区在路上遇到了小兔甜甜并邀请她同行，但两人因树太高而无法摘到苹果。最终，塞罗奥特曼出现并帮他们摘满了苹果，大家一起开心地回家享用苹果派。",
+  "stichpunkte": [
+    "奇妈妈正在制作苹果派，并让小区去苹果森林摘苹果。",
+    "小区在路上遇到小兔甜甜，并邀请她一起去摘苹果。",
+    "小区和甜甜到达苹果森林，发现苹果树太高，跳起来也够不着。",
+    "塞罗奥特曼路过并主动提出帮忙，顺利帮他们摘满了一篮子苹果。",
+    "小区邀请塞罗奥特曼一起去家里吃苹果派。",
+    "大家回到小区家，一起品尝奇妈妈做的美味苹果派。"
+  ],
+  "kapitel": [
+    {
+      "titel": "出发摘苹果",
+      "start": 0.0
+    },
+    {
+      "titel": "遇到甜甜与摘果困难",
+      "start": 97.38
+    },
+    {
+      "titel": "塞罗奥特曼帮忙",
+      "start": 247.74
+    },
+    {
+      "titel": "分享苹果派",
+      "start": 341.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T23:21:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 406,
+  "veroeffentlicht": "2022-01-30T09:52:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/28a2-audiofreehighqps/D6/13/GKwRINsFnvtGAAfxOgEHT3CF.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

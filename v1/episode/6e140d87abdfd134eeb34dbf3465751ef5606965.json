@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "guid": "814d083e-ce9c-4afd-8cad-829a53897b30",
+  "apple_collection_id": "1057255460",
+  "show": "The NPR Politics Podcast",
+  "titel": "Trump's oil \"deal\" and gunboat diplomacy | Sources & Methods",
+  "audio": {
+    "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/8a9a5900-5fdb-4feb-b4a0-a5c82564656a/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=8a9a5900-5fdb-4feb-b4a0-a5c82564656a&feed=iDPaKWvZ&t=podcast&e=nx-s1-5957842&p=510310&d=1626&size=26024272",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29568133,
+    "format": "mp3",
+    "geprueft_am": "2026-09-06T10:07:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, AIS markiert den Abruf als streaming, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Trump's strategy in Latin America and the ongoing war with Iran",
+  "kurzfassung": "The Trump administration pursues an assertive foreign policy in Latin America, marked by an unprecedented oil deal in Venezuela and controversial strikes against alleged drug boats. Meanwhile, the military conflict with Iran enters its seventh month with no clear end in sight, drawing comparisons to past protracted wars. NPR correspondents analyze these developments and their implications for U.S. national security.",
+  "stichpunkte": [
+    "The Trump administration partners with a private Venezuelan oil company, granting the U.S. majority control over vast oil reserves.",
+    "Critics and human rights groups raise legal and ethical concerns regarding the ongoing U.S. military strikes against alleged drug boats in Latin America.",
+    "Latin American reactions to U.S. intervention are mixed, balancing support for regime change against frustration with tariffs and unpredictable diplomacy.",
+    "The military conflict with Iran stretches into its seventh month, settling into a repetitive pattern of maritime skirmishes and retaliatory strikes.",
+    "Analysts draw parallels between the current conflict with Iran and long-term U.S. military engagements in Iraq and Afghanistan."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T10:07:58+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1848,
+  "veroeffentlicht": "2026-09-04T18:00:00+00:00",
+  "beschreibung": "The U.S. military is now in the oil business and once again targeting what it says are \"narco terrorist\" drug boats. What is the Trump administration trying to achieve in the Western Hemisphere?\n\nIn this episode of NPR's national security podcast Sources & Methods, guest host Scott Detrow, national security correspondent Greg Myre and international reporter John Otis break down how the Trump administration's \"Donroe Doctrine\" is playing out. They also unpack parallels between the Iran war and the post-9/11 conflicts that eventually became quagmires.\n\nWe're back with a new episode of the NPR Politics Podcast next Tuesday, September 8.\n\nSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.\n\nSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.\n\nNPR Privacy Policy",
+  "beschreibung_html": "The U.S. military is now in the oil business and once again targeting what it says are \"narco terrorist\" drug boats. What is the Trump administration trying to achieve in the Western Hemisphere?<br/><br/>In this episode of NPR's national security podcast <em>Sources & Methods</em>, guest host Scott Detrow, national security correspondent Greg Myre and international reporter John Otis break down how the Trump administration's \"Donroe Doctrine\" is playing out. They also unpack parallels between the Iran war and the post-9/11 conflicts that eventually became quagmires.<br> <br>We're back with a new episode of the <em>NPR Politics Podcast</em> next Tuesday, September 8. <br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at </em><em><a href=\"http://plus.npr.org/\"target=\"_blank\"   >plus.npr.org</a></em><em>.</em><br><br/><br/>See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+  "bild_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F3d%2F54e9d7f1467283ab7d997bd27302%2Fa1ab285a-074b-4235-a88f-68b814eca7b0.jpg"
+}

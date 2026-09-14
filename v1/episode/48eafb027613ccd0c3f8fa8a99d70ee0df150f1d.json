@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006947595",
+  "apple_collection_id": "6798534860",
+  "show": "科技有意思",
+  "titel": "科技有意思020|Anthropic的IPO，Dario“唯一公司论”和开源模型",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OWOe9ANLmqQTIK5mh.m4a?channel=rss&album_id=127977114&track_id=1006947595&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/668b-audiofreehighqps/7D/49/GKwRIW4OWOe9ANLmqQTIK5mh.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13821609,
+    "format": "m4a",
+    "geprueft_am": "2026-09-02T21:07:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨Anthropic的IPO与唯一公司论，以及国内开源模型的新进展。",
+  "kurzfassung": "本期节目聚焦Anthropic备受瞩目的IPO及其发布的186页风险报告，探讨了Dario关于“唯一公司”的言论引发的权力集中争议。同时，节目梳理了国内开源模型阵营的新动作，包括DeepSeek V4 Pro、DeepSeek Harness以及智谱GLM-5.3的发布。最后，嘉宾对比了Anthropic的精英主义安全路线与开源社区的技术普惠路线。",
+  "stichpunkte": [
+    "Anthropic计划于2026年10月上市，估值预期高达2万亿美元，面临营收爆发与投资者对竞争、政策及市场震动的追问。",
+    "Anthropic在上市前夕发布186页风险报告，自曝拥有更强的Model 2却暂不发布，并披露了多起安全流程事故。",
+    "Gavin Baker透露Dario Amodei曾在内部表示Anthropic可能成为世界上唯一的私营公司，引发David Sachs等人的强烈批评与争议。",
+    "DeepSeek V4 Pro正式版上线，采用混合注意力架构，在Agent能力上大幅提升，逼近闭源旗舰水平。",
+    "DeepSeek Harness开发者预览版开源，核心理念为“Everything is a Plugin”，旨在为递归Harness自我改进（RHI）实验提供土壤。",
+    "智谱发布开源大模型GLM-5.3，总参数7530亿，在编程和网络安全漏洞发现等任务上表现优异。",
+    "节目最后对比了AI安全的两条路线：Anthropic主张由最负责任的公司掌控，而开源阵营则致力于将权力分散给全球开发者。"
+  ],
+  "kapitel": [
+    {
+      "titel": "Anthropic的IPO与186页风险报告",
+      "start": 16.0
+    },
+    {
+      "titel": "唯一公司论与监管争议",
+      "start": 509.36
+    },
+    {
+      "titel": "国内开源模型新进展：DeepSeek V4 Pro与DeepSeek Harness",
+      "start": 762.94
+    },
+    {
+      "titel": "智谱GLM-5.3发布与安全能力的涌现",
+      "start": 1356.48
+    },
+    {
+      "titel": "总结：AI安全的两种路线与权力集中",
+      "start": 1456.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-02T21:07:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1707,
+  "veroeffentlicht": "2026-08-17T15:10:51+00:00",
+  "beschreibung": "大家好，欢迎收听兔美科技《科技有意思》第二十期。\n\nAnthropic计划于10月上市，投资者估值预期已达2万亿美元，有望刷新SpaceX创下的IPO纪录。\n但比IPO更值得关注的，是Anthropic在冲刺前夕主动发布的一份186页风险报告——首次披露内部存在比旗舰更强的Model 2但不发布，自曝智能体集体“偏航”、生物安全分类器关闭近一年等安全流程事故。\n同日，Dario Amodei被曝曾在内部表示“Anthropic有朝一日可能成为世界上唯一的私营公司”，引发硅谷巨大争议。\n\n本期我们聚焦一个核心问题：AI的权力，应该交给谁？\n\n· Anthropic的万亿估值从何而来？\n· 186页风险报告：为什么要在IPO前自曝家丑？\n· Dario的“唯一公司论”：”Anthropic有朝一日可能成为世界上唯一的私营公司“\n· DeepSeek Harness开源：Everything is a Plugin\n· GLM-5.3发布：后训练让网络安全能力涌现\n· AI的权利在哪里：Anthropic说“信任我们”，开源模型说“信任代码”\n\nAnthropic的IPO，把AI权力集中的问题摆到了台面上。而开源模型正在用另一种方式回答：如果权力注定会集中，那至少让更多人有机会参与竞争。\n\n主播：Ming、子桐\n出品：兔美科技",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">大家好，欢迎收听兔美科技《科技有意思》第二十期。<br><br>Anthropic计划于10月上市，投资者估值预期已达2万亿美元，有望刷新SpaceX创下的IPO纪录。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">但比IPO更值得关注的，是Anthropic在冲刺前夕主动发布的一份186页风险报告——首次披露内部存在比旗舰更强的Model 2但不发布，自曝智能体集体“偏航”、生物安全分类器关闭近一年等安全流程事故。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">同日，Dario Amodei被曝曾在内部表示“Anthropic有朝一日可能成为世界上唯一的私营公司”，引发硅谷巨大争议。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><br>本期我们聚焦一个核心问题：AI的权力，应该交给谁？<br><br>· Anthropic的万亿估值从何而来？<br>· 186页风险报告：为什么要在IPO前自曝家丑？<br>· Dario的“唯一公司论”：”Anthropic有朝一日可能成为世界上唯一的私营公司“<br>· DeepSeek Harness开源：Everything is a Plugin<br>· GLM-5.3发布：后训练让网络安全能力涌现<br>· AI的权利在哪里：Anthropic说“信任我们”，开源模型说“信任代码”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><br><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Anthropic的IPO，把AI权力集中的问题摆到了台面上。而开源模型正在用另一种方式回答：如果权力注定会集中，那至少让更多人有机会参与竞争。</strong></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">主播：Ming、子桐<br>出品：兔美科技</p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/95f7-audiofreehighqps/CE/0F/GAqhuykORxkPAAbngATBuF6d.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

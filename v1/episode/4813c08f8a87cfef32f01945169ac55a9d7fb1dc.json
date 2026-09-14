@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "c5d8a8ac-5d66-4bca-aedc-b4ad002e5aa7",
+  "apple_collection_id": "283605519",
+  "show": "Stuff You Missed in History Class",
+  "titel": "SYMHC Classics: Astronaut Origins of Food Safety",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/c5d8a8ac-5d66-4bca-aedc-b4ad002e5aa7/audio.mp3?utm_source=Podcast&in_playlist=fb626e1f-112c-4246-a40d-ae2701747e7d",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 47954615,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T04:05:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "How the US space program and NASA shaped modern food safety systems.",
+  "kurzfassung": "Food safety standards have evolved from ancient preservation methods and 19th-century industrial regulations into systematic protocols. A major turning point occurred when NASA and Pillsbury developed the HACCP framework to protect astronauts from foodborne illness in space. Today, HACCP principles serve as the global standard for preventing contamination across the food industry.",
+  "stichpunkte": [
+    "Early food safety relied on religious dietary laws, cultural traditions, and basic government regulations.",
+    "The Industrial Revolution and urbanization led to mass food production, adulteration, and international trade concerns.",
+    "Crises like the publication of Upton Sinclair's The Jungle sparked major US consumer protection legislation in 1906.",
+    "NASA faced the catastrophic risk of spaceborne food poisoning, requiring a shift from testing final products to controlling entire processes.",
+    "Pillsbury and NASA developed the Hazard Analysis and Critical Control Points (HACCP) system in the late 1960s and 1970s.",
+    "The HACCP framework expanded from three to seven core principles, focusing on prevention rather than end-product testing.",
+    "High-profile outbreaks, such as the 1993 Jack in the Box E. coli incident, drove widespread adoption of HACCP in the meat industry and globally.",
+    "Despite global standards like the Codex Alimentarius, food safety regulations remain a complex patchwork with ongoing challenges."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Early History of Food Safety",
+      "start": 2.4
+    },
+    {
+      "titel": "Industrialization, Scandals, and Early Legislation",
+      "start": 285.72
+    },
+    {
+      "titel": "The Space Program and the Birth of HACCP",
+      "start": 773.24
+    },
+    {
+      "titel": "Implementation, Recalls, and the Seven Principles",
+      "start": 1315.359
+    },
+    {
+      "titel": "Global Standards, Modern Challenges, and Current Statistics",
+      "start": 1877.2
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Urbanization changed how people bought food during the Industrial Revolution.",
+      "start": 293.407,
+      "ende": 317.806,
+      "laenge": 24.4,
+      "byte_start": 4731948,
+      "byte_ende": 5122320,
+      "bytes": 390373,
+      "range_header": "bytes=4731948-5122320",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 293.486,
+      "anker_sha256": "74b316573a915a5512056cf79f72b419a9b1b96fc7f08025da3706279c4fbf5a",
+      "einblendung_ms": 60,
+      "text": "The hosts discuss a recent vegan dessert recall and previous podcast episodes dedicated to food safety and historical figures like Harvey Washington Wiley."
+    },
+    {
+      "hook": "Even a telephone in a processing plant could cause cross-contamination.",
+      "start": 1135.125,
+      "ende": 1162.266,
+      "laenge": 27.14,
+      "byte_start": 18199427,
+      "byte_ende": 18633686,
+      "bytes": 434260,
+      "range_header": "bytes=18199427-18633686",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1135.203,
+      "anker_sha256": "239b3a7ed07d62a1ef279830a016a4b33ace1c8530deda03911717310aeb229a",
+      "einblendung_ms": 60,
+      "text": "Early American space missions required developing specialized methods to ensure that meals consumed in orbit would not cause illness."
+    },
+    {
+      "hook": "One case of botulism led to the seizure of 1.5 million cans of food.",
+      "start": 1455.125,
+      "ende": 1475.239,
+      "laenge": 20.11,
+      "byte_start": 23319428,
+      "byte_ende": 23641255,
+      "bytes": 321828,
+      "range_header": "bytes=23319428-23641255",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1455.203,
+      "anker_sha256": "9e1e598d31e44193cbacc8a3f13fe5af2ef43d627c252aa0b1b2d1648d61f953",
+      "einblendung_ms": 60,
+      "text": "Manufacturing safe space rations required rigorous health checks for factory workers, sterilized packaging materials, and secure containers."
+    },
+    {
+      "hook": "The 1993 Jack in the Box E. coli outbreak sickened over 700 people.",
+      "start": 1739.86,
+      "ende": 1759.974,
+      "laenge": 20.11,
+      "byte_start": 27875183,
+      "byte_ende": 28197010,
+      "bytes": 321828,
+      "range_header": "bytes=27875183-28197010",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1739.938,
+      "anker_sha256": "471ccb2a126ce571d01c664ffae95eb60f9f0f7b0a77c60927f738b78f6d76b7",
+      "einblendung_ms": 60,
+      "text": "The Hazard Analysis and Critical Control Points system was introduced at the 1971 National Conference on Food Protection to stop contamination before it happens."
+    },
+    {
+      "hook": "The WHO estimates 600 million people get sick from food every year.",
+      "start": 2122.58,
+      "ende": 2145.332,
+      "laenge": 22.75,
+      "byte_start": 33998702,
+      "byte_ende": 34362743,
+      "bytes": 364042,
+      "range_header": "bytes=33998702-34362743",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2122.658,
+      "anker_sha256": "745d2b405f16a2c4ffa273ba58da41dd342f4498f4000c92032786692a63fb45",
+      "einblendung_ms": 60,
+      "text": "Public distrust in the FDA grew after the government confiscated millions of cans from a facility that had gone uninspected for over four years."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T04:05:21+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2195,
+  "veroeffentlicht": "2026-08-22T13:00:00+00:00",
+  "beschreibung": "This 2022 episode examines the development of a systematic approach to food safety, which didn’t happen until the 20th century. And it's tied directly to NASA trying to make sure astronauts didn’t get food poisoning in space.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>This 2022 episode examines the development of a systematic approach to food safety, which didn&rsquo;t happen until the 20th century. And it's tied directly to NASA trying to make sure astronauts didn&rsquo;t get food poisoning in space.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/image.jpg?t=1749829805&size=Large",
+  "kapitel_quelle": "modell"
+}

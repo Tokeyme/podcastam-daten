@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_916316340",
+  "apple_collection_id": "1838639919",
+  "show": "侃电影",
+  "titel": "《同甘共苦》推荐给情侣",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIMsPxAACFSYAQZpIxZ.m4a?channel=rss&album_id=102856939&track_id=916316340&uid=127026896&jt=https://aod.cos.tx.xmcdn.com/storages/8ff3-audiofreehighqps/28/FB/GKwRIaIMsPxAACFSYAQZpIxZ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2183776,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:55:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨恐怖片《同甘共苦》中亲密关系的极端设定与对专偶制的讽刺。",
+  "kurzfassung": "节目深入探讨了恐怖片《同甘共苦》中情侣饮用神秘液体后身体融合的极端设定。主持人们分析了该片对专偶制爱情神话的讽刺，以及现代亲密关系中的孤独感与安全感。最后，他们指出这部电影能够引发情侣观影后的深度讨论，适合各类伴侣观看。",
+  "stichpunkte": [
+    "讨论恐怖片《同甘共苦》的极端设定与亲密关系融合",
+    "情侣饮用神秘液体后皮肤和骨骼会互相吸引并融为一体",
+    "男女主角曾用电锯抗拒融合，但结局在柔和光线中彻底合二为一",
+    "部分观众对结局难以接受，而主播认为个体消失展现了真正的恐怖",
+    "电影将专偶制爱情神话推向极致，讽刺了毫无保留的融合要求",
+    "探讨现代人为了追求安全感而走进婚姻所承受的巨大压力",
+    "分析异性恋专偶伴侣之外的群体所面临的不安全感与困境",
+    "推荐情侣共同观看此片以探讨亲密与独立的界限"
+  ],
+  "kapitel": [
+    {
+      "titel": "恐怖片《同甘共苦》的极端设定",
+      "start": 0.0
+    },
+    {
+      "titel": "电影结局的争议与个体消失的恐怖",
+      "start": 65.7
+    },
+    {
+      "titel": "对专偶制爱情神话与婚姻压力的讽刺",
+      "start": 133.38
+    },
+    {
+      "titel": "边缘化群体的困境与情侣观影推荐",
+      "start": 190.02
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:55:48+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 269,
+  "veroeffentlicht": "2025-09-30T01:58:09+00:00",
+  "beschreibung": "我想给你推荐这部电影，适合任何一类情侣去看。如果你也喜欢看恐怖片，它将陪你和伴侣，度过一个无法遗忘的夜晚。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>我想给你推荐这部电影，适合任何一类情侣去看。如果你也喜欢看恐怖片，它将陪你和伴侣，度过一个无法遗忘的夜晚。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e405-audiofreehighqps/A5/35/GAqh1QQMoSsbAA_sNwQRzbgt.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

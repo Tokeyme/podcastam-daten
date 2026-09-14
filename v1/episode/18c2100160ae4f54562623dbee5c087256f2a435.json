@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_856868791",
+  "apple_collection_id": "1822695829",
+  "show": "睡前读书会：高效能人士的七个习惯",
+  "titel": "睡前读书会：高效能人士的七个习惯 01",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasMBK6jANje0QO1LkG7.m4a?channel=rss&album_id=93132857&track_id=856868791&uid=114108658&jt=https://aod.cos.tx.xmcdn.com/storages/ee3c-audiofreehighqps/04/90/GKwRIasMBK6jANje0QO1LkG7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 14212817,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T19:38:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "子泉和桑恩开始共读《高效能人士的七个习惯》，并结合序言分享各自的阅读期待与感悟。",
+  "kurzfassung": "子泉和桑恩开启了新书《高效能人士的七个习惯》的共读，本期主要围绕序言部分展开。两人分别交流了阅读这本书的期待，并深入探讨了作者的初心、书中提及的系统理论以及对比尔盖茨等杰出人物行为的感悟。同时，他们也结合自身的职场经历与性格特质，反思了谦逊、积极主动以及团队合作等核心议题。",
+  "stichpunkte": [
+    "子泉与桑恩开启《高效能人士的七个习惯》的共读，本期聚焦于最新的序言部分。",
+    "桑恩最初因书名类似地摊书而对该书缺乏期待，但在多处听到提及后产生了浓厚兴趣。",
+    "子泉分享了阅读该书的三个期待：寻找与弗兰克林品质培养计划的相通之处、了解本书与此前职场书的关系、以及获取提升领导力的实际操作手段。",
+    "序言中提到本书旨在塑造读者性格而非单纯追求成功，这与财富管理中先提升管理智慧的理念不谋而合。",
+    "两位主播对序言作者及书中展现的谦逊态度深有触动，探讨了在安全团体中承认错误与面对外界批评的挑战。",
+    "结合书中对比尔盖茨辍学编程的描述，探讨了面对外界质疑时如何保持积极主动与专注。",
+    "桑恩反思了自己作为独立工作者在团队合作和“一加一大于二”方面的恐惧与挑战。",
+    "子泉分享了自己对与熟人做生意的担忧，源于童年看到亲戚因砍价而影响关系的记忆。"
+  ],
+  "kapitel": [
+    {
+      "titel": "新书开启与阅读期待",
+      "start": 21.16
+    },
+    {
+      "titel": "序言印象：性格塑造与谦逊态度",
+      "start": 467.2
+    },
+    {
+      "titel": "积极主动与合作挑战的反思",
+      "start": 1254.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T19:38:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1755,
+  "veroeffentlicht": "2025-05-22T09:16:16+00:00",
+  "beschreibung": "本次阅读的是本书的最新序和作者儿子做的序\n分享主题：对这本书的期待，谦虚（别人践踏自己的谦虚要如何做呢？），积极主动和1+1>2的挑战\n\n睡前读书会，你身边的阅读伙伴。欢迎点赞关注^_^\n每晚10点，在我们线下交替朗读一本书30分钟后，直播各自聊聊体会。\n每本书分多次读完。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本次阅读的是本书的最新序和作者儿子做的序<br>分享主题：对这本书的期待，谦虚（别人践踏自己的谦虚要如何做呢？），积极主动和1+1&gt;2的挑战<br><br>睡前读书会，你身边的阅读伙伴。欢迎点赞关注^_^<br>每晚10点，在我们线下交替朗读一本书30分钟后，直播各自聊聊体会。<br>每本书分多次读完。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/80c4-audiofreehighqps/C3/D9/GAqhQ6cMBKyzAAL0wQO1LMrU.jpeg",
+  "kapitel_quelle": "modell"
+}

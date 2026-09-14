@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "69315fb93fec3166cf40d1f7",
+  "apple_collection_id": "1673616963",
+  "show": "日本旅行观察",
+  "titel": "no.20 日本人旅行公司和顾客也不靠谱",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/63e4d5bde99bdef7d356f42c/69315fb93fec3166cf40d1f7/media.xyzcdn.net/63e4d5bde99bdef7d356f42c/luYObpfU8vQ9DyYz9wFk8T-t83Bu.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 43169317,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T14:14:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "日本旅行社如何花式坑客：特种兵行程、难吃餐饮与奇葩团建",
+  "kurzfassung": "本期节目由前日本旅行社从业者祥宇和金天宫共同聊聊日本国内旅行社的种种套路。旅行社常以“神秘景点”或“红叶秘境”为噱头，安排一天打卡四五个景点的走马观花式行程，且常常由于时间紧凑导致游客无法按时集合。除了行程坑人，部分大型旅行社如阪急交通社安排的餐饮也因难吃和分量少而备受诟病。",
+  "stichpunkte": [
+    "日本旅行社常在宣传时将行程包装成“神秘秘境”，实际去的却是大众熟知且人满为患的景点。",
+    "日本旅游法规定旅行社不强制配备导游，仅需领队（添乘员）负责安排行程和数人数，讲解需由巴士公司另行安排。",
+    "部分一日游行程极为赶时间，例如GTV的京都红叶团在十小时内安排了五个景点，清水寺仅给半小时停车时间。",
+    "阪急交通社等大社安排的餐食质量堪忧，汤豆腐定食不仅难吃且分量极少，导游甚至会提醒新人带好吃的充饥。",
+    "奈良观光等外地旅行社常在异地招揽本地客人，甚至不派领队，直接交由当地地接社和巴士公司接待。",
+    "日本的中学修学旅行对导游要求极高，部分名校甚至要求导游一字不差地讲解古坟等历史细节。",
+    "公司团建包车常出现乘客喝醉呕吐或把导游当成服务员使唤的情况，让带团人员感到头疼。"
+  ],
+  "kapitel": [
+    {
+      "titel": "日本旅行社的“神秘行程”与走马观花",
+      "start": 21.84
+    },
+    {
+      "titel": "日本旅游法与导游、领队的分工",
+      "start": 216.76
+    },
+    {
+      "titel": "各大旅行社的坑人案例：从GTV到阪急交通社",
+      "start": 442.68
+    },
+    {
+      "titel": "日本学校的修学旅行及其奇葩要求",
+      "start": 1494.92
+    },
+    {
+      "titel": "令人头疼的公司团建包车",
+      "start": 2120.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T14:14:12+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2677,
+  "veroeffentlicht": "2025-12-04T10:29:20+00:00",
+  "beschreibung": "本期节目让翔语老师来讲讲自己在日本旅行公司上班时候遇到的不靠谱事情\n不光旅行公司在行程和团餐上有着不尽如人意的表现，就连客人们也各有各得离谱，其中修学旅行和公司团建是麻烦的主要来源，\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本期节目让翔语老师来讲讲自己在日本旅行公司上班时候遇到的不靠谱事情</p><p>不光旅行公司在行程和团餐上有着不尽如人意的表现，就连客人们也各有各得离谱，其中修学旅行和公司团建是麻烦的主要来源，</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69315fb93fec3166cf40d1f7?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

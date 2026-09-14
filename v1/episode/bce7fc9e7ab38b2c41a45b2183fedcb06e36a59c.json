@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "6a77ecdc000a55a9bb050384",
+  "apple_collection_id": "1823983682",
+  "show": "健康有方FM",
+  "titel": "颈腰椎反复痛？冬病夏治，少走调理弯路",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/6a77ecdc000a55a9bb050384/media.xyzcdn.net/670e3d971985fe85db1fd06b/lkc8N9M7dW_NQ-QtYOj34UU4-Tsx.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 46806944,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T07:30:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨中医疗法在三伏天治疗颈腰椎等筋骨寒湿疼痛的应用。",
+  "kurzfassung": "中医专家在节目中解析了寒湿侵袭筋骨的成因及不同阶段的表现，指出三伏天是采用冬病夏治的黄金周期。节目详细介绍了火龙督脉灸和神雀穴位敷贴两种特色外治法，以及内服外治相结合的调理原则。同时，专家还提供了日常居家食疗建议和辨别市面贴敷产品的注意事项。",
+  "stichpunkte": [
+    "不良生活习惯如吹空调、吃冷饮和熬夜会导致阳气受损，使寒湿之邪潜伏体内损伤筋骨",
+    "晨起僵硬、空调房久坐难受、常年手脚冰凉及症状反复发作是寒湿侵入深处的信号",
+    "夏天自然界阳气最盛且人体能量向外发散，是顺势而为治疗偏寒性筋骨疾病的黄金周期",
+    "筋骨疼痛在中医上主要分为不通则痛和不容则痛两大类型，虚实夹杂情况亦较为常见",
+    "火龙督脉灸通过在脊柱涂抹中药并烧艾条，能达到温通经脉、驱除风寒湿邪的作用",
+    "神雀贴针对不同穴位结合温肺健脾、补益肝肾的药物，适用于不便长时间趴服的患者",
+    "专家推荐生姜杜仲排骨汤作为居家食疗方，可起到温补肝肾、散寒去湿的作用",
+    "面对市面上琳琅满目的贴敷产品，消费者应谨慎辨别，建议前往正规医疗机构就诊"
+  ],
+  "kapitel": [
+    {
+      "titel": "筋骨受寒的成因与信号",
+      "start": 2.22
+    },
+    {
+      "titel": "三伏天为何是治疗黄金期",
+      "start": 553.48
+    },
+    {
+      "titel": "筋骨疼痛的分型与病根差异",
+      "start": 1149.66
+    },
+    {
+      "titel": "火龙灸与神雀贴的特色疗法",
+      "start": 1617.02
+    },
+    {
+      "titel": "居家调理与注意事项",
+      "start": 2686.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T07:30:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2894,
+  "veroeffentlicht": "2026-08-09T03:01:18+00:00",
+  "beschreibung": "久坐办公、低头刷手机、常年吹空调、产后体虚、中老年骨骼自然退化……如今，几乎人人都被颈腰椎不适“缠上”过。贴膏药、做按摩、推拿正骨，不少人试了一圈，当时松快了，可一到秋冬降温、阴雨连绵或空调房里多待一会儿，老毛病就又找上门，反反复复，好像永远断不了根。\n为什么普通按摩治标不治本？为什么夏天反而调理筋骨老寒痛的最佳时机？不同体质的筋骨疼痛，调理方式到底有什么区别？哪些人群最适合做筋骨冬病夏治？\n本期《健康有方FM》邀请上海中医药大学附属曙光医院、国家非物质文化遗产石氏伤科的三位代表性传承人，带大家解锁两大特色疗法：火龙灸、神阙贴，顺势养护颈腰椎，驱散体内陈年寒湿。\n《全民健康大讲堂》由上海市卫生健康委员会、上海申康医院发展中心、上海报业集团联合主办，上海市健康促进中心、澎湃新闻联合承办。\n时间轴\n\n02:27 吹空调、熬夜、喝冷饮，这些习惯在给寒湿“开门”\n06:05 3个信号提醒你，寒湿已经“住进”身体\n13:47 慢性劳损、寒湿积累，为什么总是一起来\n19:19 筋骨疼痛中医分型：不通则痛与不荣则痛\n24:13 三类人，三种痛：中老年、上班族、产后\n27:01 石氏伤科特色疗法：火龙灸与神阙贴\n27:32 火龙灸的治疗原理和适应人群\n32:02 神阙贴的治疗原理和适应人群\n41:22 三伏天治疗，时间、疗程怎么安排\n46:13 三伏贴不是“万能贴”：一定要面诊专科医生\n制作团队\n\n主播/诗妍\n剪辑/曾谙\n策划、监制/徐婉\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>久坐办公、低头刷手机、常年吹空调、产后体虚、中老年骨骼自然退化……如今，几乎人人都被颈腰椎不适“缠上”过。贴膏药、做按摩、推拿正骨，不少人试了一圈，当时松快了，可一到秋冬降温、阴雨连绵或空调房里多待一会儿，老毛病就又找上门，反反复复，好像永远断不了根。</p><p>为什么普通按摩治标不治本？为什么夏天反而调理筋骨老寒痛的最佳时机？不同体质的筋骨疼痛，调理方式到底有什么区别？哪些人群最适合做筋骨冬病夏治？</p><p>本期《健康有方FM》邀请上海中医药大学附属曙光医院、国家非物质文化遗产石氏伤科的三位代表性传承人，带大家解锁两大特色疗法：火龙灸、神阙贴，顺势养护颈腰椎，驱散体内陈年寒湿。</p><p>《全民健康大讲堂》由上海市卫生健康委员会、上海申康医院发展中心、上海报业集团联合主办，上海市健康促进中心、澎湃新闻联合承办。</p><img src=\"https://image.xyzcdn.net/Fiar0-AkIcIq3E4srrCaKKcMjuzb.jpg\" alt=\"\" width=\"1116\" height=\"1760\"><blockquote><p><strong>时间轴</strong></p></blockquote><p><a class=\"timestamp\"><strong>02:27</strong></a><strong> </strong>吹空调、熬夜、喝冷饮，这些习惯在给寒湿“开门”</p><p><a class=\"timestamp\"><strong>06:05</strong></a><strong> </strong>3个信号提醒你，寒湿已经“住进”身体</p><p><a class=\"timestamp\"><strong>13:47</strong></a><strong> </strong>慢性劳损、寒湿积累，为什么总是一起来</p><p><a class=\"timestamp\"><strong>19:19</strong></a><strong> </strong>筋骨疼痛中医分型：不通则痛与不荣则痛</p><p><a class=\"timestamp\"><strong>24:13</strong></a><strong> </strong>三类人，三种痛：中老年、上班族、产后</p><p><a class=\"timestamp\"><strong>27:01</strong></a><strong> </strong>石氏伤科特色疗法：火龙灸与神阙贴</p><p><a class=\"timestamp\"><strong>27:32</strong></a><strong> </strong>火龙灸的治疗原理和适应人群</p><p><a class=\"timestamp\"><strong>32:02</strong></a><strong> </strong>神阙贴的治疗原理和适应人群</p><p><a class=\"timestamp\"><strong>41:22</strong></a><strong> </strong>三伏天治疗，时间、疗程怎么安排</p><p><a class=\"timestamp\"><strong>46:13</strong></a><strong> </strong>三伏贴不是“万能贴”：一定要面诊专科医生</p><blockquote><p><strong>制作团队</strong></p></blockquote><p>主播/诗妍</p><p>剪辑/曾谙</p><p>策划、监制/徐婉</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a77ecdc000a55a9bb050384?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

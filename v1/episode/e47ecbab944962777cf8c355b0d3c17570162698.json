@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_548584457",
+  "apple_collection_id": "1687918258",
+  "show": "英文磨耳朵 | 3-10岁幼儿童英语听力睡前故事",
+  "titel": "英国原版睡前故事-001 Hare and Tortoise Go to School",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwGlw7LACUbiwF2gVwa.m4a?channel=rss&album_id=68434169&track_id=548584457&uid=220699636&jt=https://aod.cos.tx.xmcdn.com/storages/9fbb-audiofreehighqps/8F/8C/GKwRIRwGlw7LACUbiwF2gVwa.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2431883,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:55:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "Hare and Tortoise Go to School的英语睡前故事音频内容。",
+  "kurzfassung": "本集讲述了Hare和Tortoise上学的故事。故事中提到了Hare感到饥饿并寻找食物的情节。随后公交车行驶在路上，Hare跑步赶往学校并最终到达。",
+  "stichpunkte": [
+    "故事围绕Hare和Tortoise上学及比赛展开",
+    "Hare表示自己饿了并获取了食物",
+    "公交车行驶在路上",
+    "Hare跑步前往学校并最终到达",
+    "故事结尾认输并练习了相关词汇"
+  ],
+  "kapitel": [
+    {
+      "titel": "故事开始与上学",
+      "start": 0.0
+    },
+    {
+      "titel": "饥饿与赶路",
+      "start": 80.14
+    },
+    {
+      "titel": "词汇复习",
+      "start": 200.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:55:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 300,
+  "veroeffentlicht": "2022-07-03T07:56:53+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/85b7-audiofreehighqps/7D/28/GKwRIUEGjKpEAAFzCwFxzy-C.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

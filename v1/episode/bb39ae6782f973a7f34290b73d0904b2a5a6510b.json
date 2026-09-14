@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007853563",
+  "apple_collection_id": "6798075324",
+  "show": "晨间定价｜美股新闻深度早报",
+  "titel": "2026年8月22日：美股反弹只是喘息？利率、油价、AI估值下周定调",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOXqJcAGBn7gTKaxHI.m4a?channel=rss&album_id=128022483&track_id=1007853563&uid=17425830&jt=https://aod.cos.tx.xmcdn.com/storages/6ed2-audiofreehighqps/16/34/GKwRIJIOXqJcAGBn7gTKaxHI.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6318062,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T07:40:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "美股周五反弹难掩宏观压力，利率、油价与AI估值成下周焦点",
+  "kurzfassung": "美股三大指数周五集体反弹，但全周来看科技股和大盘依然录得跌幅。当前市场正密切权衡强劲的经济数据与高企的长端美债收益率及油价之间的矛盾。下周市场走势将由宏观经济数据、通胀表现以及英伟达的财报共同决定。",
+  "stichpunkte": [
+    "标普500、道指和纳斯达克指数在周五出现明显修复，但全周整体表现依然走弱。",
+    "美国8月初值服务业PMI升至近两年高位，显示经济保持韧性但并未自动减轻股市压力。",
+    "10年期美债收益率升至4.73%附近，30年期收益率逼近2007年以来高位，债券市场持续要求高回报。",
+    "美国财政部宣布提高长期国债回购操作规模，但未能彻底消除市场对长期债务供给的担忧。",
+    "中东供应扰动推升布伦特原油接近94美元/桶，加剧了市场对通胀重新抬头的敏感度。",
+    "小盘股周五表现略好于大盘，显示市场风险偏好并未出现单向恶化。",
+    "英伟达将在下周三盘后公布财报，成为验证AI基础设施需求和高资本开支回报的关键事件。",
+    "下周即将公布的耐用品订单、二季度GDP修正值及PCE数据将重新定义美联储政策路径预期。",
+    "美联储即将举行杰克逊霍尔年度经济政策研讨会，相关表述可能进一步放大市场波动。"
+  ],
+  "kapitel": [
+    {
+      "titel": "周五美股反弹与全周表现回顾",
+      "start": 0.0
+    },
+    {
+      "titel": "美国经济数据强劲与债券市场压力",
+      "start": 134.1
+    },
+    {
+      "titel": "财政部回购动作与油价通胀风险",
+      "start": 239.72
+    },
+    {
+      "titel": "AI估值逻辑与英伟达财报看点",
+      "start": 386.78
+    },
+    {
+      "titel": "下周宏观变量与核心观察节点",
+      "start": 589.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T07:40:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 780,
+  "veroeffentlicht": "2026-08-21T23:29:14+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/7d17-audiofreehighqps/7F/79/GKwRIW4OTgSqAAPM0wTEMuSJ.jpeg",
+  "kapitel_quelle": "modell"
+}

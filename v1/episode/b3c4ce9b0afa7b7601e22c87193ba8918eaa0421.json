@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "guid": "7cbd3dcd-8b5c-414e-a5ac-004252ea4f47",
+  "apple_collection_id": "1451676874",
+  "show": "Real Life Real Crime",
+  "titel": "True Crime Time for August 22, 2026 | Justice Is Coming, A Pastor Convicted & Three Bodies in Three Days",
+  "audio": {
+    "url": "https://pscrb.fm/rss/p/mgln.ai/e/137/audio4.redcircle.com/episodes/5d69f15d-ae71-40be-a20b-ff50b4e45c52/stream.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 41380830,
+    "format": "mp3",
+    "geprueft_am": "2026-08-29T23:55:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst mgln.ai) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "A look at recent true crime updates, legal battles, and ongoing pursuit of justice.",
+  "kurzfassung": "Host Woody Overton breaks down several true crime cases and legal developments, including the publication of a book detailing the fight for justice in the Courtney Coco case. The episode covers the conviction of a Tennessee pastor for child sexual abuse, a suspicious teen death in Houston initially labeled as suicide, the discovery of three bodies in three days in Minneapolis, and a Florida man pleading guilty and asking for the death penalty. Overton also discusses the upcoming judicial race of prosecutor Hugo Holland.",
+  "stichpunkte": [
+    "Stephanie's book chronicling the long battle for justice in the Courtney Coco murder case is now available for purchase.",
+    "Special prosecutor Hugo Holland reflects on the difficult 40-year career that led him to run for district judge in northwest Louisiana.",
+    "Tennessee pastor Benjamin Garlie is sentenced to life in prison without parole for the aggravated rape of a child, while his wife Shantel faces sentencing for facilitating the abuse.",
+    "In Houston, Jose Gregorio Blanco Moreno is charged with the murder of 16-year-old Hernandez Castro after changing his story about an alleged suicide.",
+    "Police in Minneapolis are investigating three bodies found within three days across the city.",
+    "Stephen Gress pleads guilty in Pasco County, Florida, to kidnapping and murdering 16-year-old Miranda Corset, and asks the judge to hand down the death penalty."
+  ],
+  "kapitel": [
+    {
+      "titel": "Courtney Coco's Case and Book Release",
+      "start": 15.39
+    },
+    {
+      "titel": "Hugo Holland's Judicial Campaign",
+      "start": 507.398
+    },
+    {
+      "titel": "Tennessee Pastor Convicted of Child Abuse",
+      "start": 1103.472
+    },
+    {
+      "titel": "Houston Teen Death Investigated as Murder",
+      "start": 1682.293
+    },
+    {
+      "titel": "Three Bodies Found in Minneapolis",
+      "start": 1885.92
+    },
+    {
+      "titel": "Florida Murder Case and Death Penalty Request",
+      "start": 2068.15
+    }
+  ],
+  "clips": [
+    {
+      "hook": "A three-year battle for justice in the Courtney Coco case",
+      "start": 131.5,
+      "ende": 161.62,
+      "laenge": 30.12,
+      "byte_start": 2105206,
+      "byte_ende": 2587112,
+      "bytes": 481907,
+      "range_header": "bytes=2105206-2587112",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 131.579,
+      "anker_sha256": "ca39e7c15e29bb04252905b3b674b3eee77a72d5b3436f94e96a7b86672f0d84",
+      "einblendung_ms": 60,
+      "text": "A nearly three-year legal battle led to a conviction, driven by the persistent efforts of a victim's mother named Stephanie."
+    },
+    {
+      "hook": "The hardest case in almost 40 years of prosecution",
+      "start": 611.944,
+      "ende": 642.064,
+      "laenge": 30.12,
+      "byte_start": 9792311,
+      "byte_ende": 10274217,
+      "bytes": 481907,
+      "range_header": "bytes=9792311-10274217",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 612.023,
+      "anker_sha256": "477f71f04144ebc474fd2b38d21718a09b6991e3ded5c72e445078c37b20410b",
+      "einblendung_ms": 60,
+      "text": "Prosecutor Hugo Holland discusses tackling the most severe criminal cases that inevitably go to trial instead of resulting in plea deals."
+    },
+    {
+      "hook": "A Tennessee pastor sentenced to life without parole",
+      "start": 1185.489,
+      "ende": 1215.608,
+      "laenge": 30.12,
+      "byte_start": 18969023,
+      "byte_ende": 19450929,
+      "bytes": 481907,
+      "range_header": "bytes=18969023-19450929",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1185.567,
+      "anker_sha256": "2ba80ffc25f17ae93063d01a8b7428538ce402a766bcc80e401986cdeb94cb2a",
+      "einblendung_ms": 60,
+      "text": "Judge Barry Tidwell sentenced Garlick to life in prison without parole in Rutherford County following a two-week trial."
+    },
+    {
+      "hook": "Contradicted statements expose a fake suicide story",
+      "start": 1795.736,
+      "ende": 1820.003,
+      "laenge": 24.27,
+      "byte_start": 28732967,
+      "byte_ende": 29121250,
+      "bytes": 388284,
+      "range_header": "bytes=28732967-29121250",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1795.814,
+      "anker_sha256": "473bb847c77d7f07bf62e31faeda510a7a28078f7b83546a214df089a94e6441",
+      "einblendung_ms": 60,
+      "text": "Blanco Moreno gave shifting accounts to investigators regarding a fatal gunshot, ranging from claiming he slept through the noise to hiding the weapon in a kitchen cabinet."
+    },
+    {
+      "hook": "A defendant asking for the death penalty",
+      "start": 2186.736,
+      "ende": 2206.825,
+      "laenge": 20.09,
+      "byte_start": 34988980,
+      "byte_ende": 35310390,
+      "bytes": 321411,
+      "range_header": "bytes=34988980-35310390",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2186.815,
+      "anker_sha256": "df3ccbd068fd84569af2d8ff3a6dd3e512f1dea724824f9cc604a62717a5da28",
+      "einblendung_ms": 60,
+      "text": "Prosecutors are pursuing the death penalty in a murder case that is heading toward a jury trial and verdict."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-29T23:55:20+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2534,
+  "veroeffentlicht": "2026-08-22T05:00:38+00:00",
+  "beschreibung": "On today’s episode of True Crime Time, Woody opens with a message the Lifers have been waiting to hear: justice is coming. While he cannot yet reveal which case or exactly what is happening, Woody says he has received confirmation that a major step forward is coming in one of the cases the Real Life Real Crime community has helped fight for. He asks listeners to continue calling 313-RLRC-TIP, reminding everyone that there is no such thing as too much information when pursuing justice.\nWoody also celebrates the release of A Mother’s Fight for Justice, written by Stephanie Belgard, Courtney Coco’s mother. The book tells Courtney’s story and Stephanie’s decade-long fight for answers and accountability from her own perspective. Woody credits Stephanie’s refusal to give up as one of the reasons Real Life Real Crime continues taking on difficult Justice For cases today. Signed copies are available directly, while Kindle, paperback, and hardcover editions are available through Amazon.\nFor On This Day in Crime, Woody remembers 13-year-old Mary Catherine Olchuck, whose decomposed body was discovered beneath hay on a Maine property in 1970 after she had been missing for nearly two weeks. More than five decades later, no one has been charged with her murder—another reminder that every unsolved case represents a family still waiting for justice.\nWoody then gives a personal shout-out to former special prosecutor Hugo Holland, who prosecuted David Anthony Burns for Courtney Coco’s murder. Woody reflects on their early differences during the case, Holland’s courtroom performance, and why he considers him one of the strongest prosecutors he has ever watched work. Holland is now running for district judge in Louisiana’s First Judicial District.\nIn F’d Up Professionals, a Tennessee pastor who spent years traveling the country through his ministry is convicted of multiple counts of aggravated rape of a child and aggravated sexual battery. His wife was also convicted of facilitating sexual abuse and child neglect. Investigators say the case began with allegations involving a five-year-old child and eventually expanded to additional victims. Woody discusses how positions of trust, religious authority, language barriers, and vulnerable communities can all be exploited by predators.\nNext, Woody covers the case of 16-year-old Howl Rafael Hernandez Castro, whose death was initially reported as a suicide. Investigators became suspicious when the witness’s story repeatedly changed. Detectives later found evidence inconsistent with suicide—including the distance of the shot, trajectory, and lack of gunshot residue—and the victim’s 21-year-old roommate was ultimately charged with murder. Woody connects the case directly to Justice for Hailey, where scientific evidence has likewise challenged an original suicide narrative.\nIn Minneapolis, police are investigating three bodies discovered in three days, all found in or near bodies of water. Authorities have not publicly said the deaths are connected, but Woody discusses why the geographical clustering immediately catches his investigative attention and why victimology and forensic findings will be critical in determining whether the cases share a connection.\nThe episode also covers a disturbing Florida murder case involving 16-year-old Miranda Corsett, who prosecutors say was held captive, tortured, killed, and dismembered. Defendant Stephen Gress has pleaded guilty and has taken the unusual step of asking that the judge—not a jury—decide whether he receives the death penalty. Woody compares the situation to another defendant he encountered who voluntarily sought execution rather than spend decades appealing his sentence.\nWoody closes with several announcements, including plans for Real Life Real Crime to potentially host and moderate a public candidate forum in his local community. Most importantly, he again tells listeners that a major development is coming in one of the Justice For cases and asks the Lifers to hold on just a little longer.\n\nTrue Crime Time, Real Life Real Crime, Woody Overton, Justice for Hailey, What Happened to Madison, Courtney Coco, Stephanie Belgard, A Mother’s Fight for Justice, Hugo Holland, Tennessee pastor, child sexual abuse, Howl Rafael Hernandez Castro, staged suicide, homicide investigation, Minneapolis bodies, possible serial killer, Miranda Corsett, Stephen Gress, death penalty, true crime podcast\nMajor Justice For case development\n313-RLRC-TIP\nStephanie Belgard’s A Mother’s Fight for Justice\nCourtney Coco\nMary Catherine Olchuck cold case\nHugo Holland\nCourtney Coco prosecution\nTennessee pastor convicted of child rape\nAbuse of positions of trust\nTeen death staged as suicide\nJustice for Hailey comparison\nThree bodies found in Minneapolis\nPossible connection between deaths\nMiranda Corsett murder\nStephen Gress guilty plea\nDefendant requesting death penalty\nUpcoming RLRC candidate forum\nWoody says he has confirmed information that a significant justice-related development is coming, though he cannot yet reveal the case or details.\nStephanie Belgard’s book represents more than Courtney Coco’s case—it documents what a family endured while refusing to give up on justice.\nPositions of trust, including religious leadership, can make vulnerable victims easier for predators to access and harder for victims to report.\nA death initially presented as suicide should still be investigated against the physical evidence; when the evidence does not fit the story, investigators must keep digging.\nThree deaths in a tight geographical area and short time period do not automatically establish a serial offender, but the pattern warrants careful comparison of victimology, locations, timelines, and forensic evidence.\nThe recurring message throughout the episode is simple: justice often takes time, but never giving up can change the outcome.\n\nOur Sponsors:\n* Check out BetterHelp: https://www.betterhelp.com\n* Check out Greenlight and use my code greenlight.com/rlrc for a great deal: https://greenlight.com\n\nSupport this podcast at — https://redcircle.com/real-life-real-crime/donations\n\nAdvertising Inquiries: https://redcircle.com/brands\n\nPrivacy & Opt-Out: https://redcircle.com/privacy",
+  "beschreibung_html": "<p>On today’s episode of <strong>True Crime Time</strong>, Woody opens with a message the Lifers have been waiting to hear: <strong>justice is coming</strong>. While he cannot yet reveal which case or exactly what is happening, Woody says he has received confirmation that a major step forward is coming in one of the cases the Real Life Real Crime community has helped fight for. He asks listeners to continue calling <strong>313-RLRC-TIP</strong>, reminding everyone that there is no such thing as too much information when pursuing justice. </p><p>Woody also celebrates the release of <strong>A Mother’s Fight for Justice</strong>, written by <strong>Stephanie Belgard</strong>, Courtney Coco’s mother. The book tells Courtney’s story and Stephanie’s decade-long fight for answers and accountability from her own perspective. Woody credits Stephanie’s refusal to give up as one of the reasons Real Life Real Crime continues taking on difficult Justice For cases today. Signed copies are available directly, while Kindle, paperback, and hardcover editions are available through Amazon. </p><p>For <strong>On This Day in Crime</strong>, Woody remembers 13-year-old <strong>Mary Catherine Olchuck</strong>, whose decomposed body was discovered beneath hay on a Maine property in 1970 after she had been missing for nearly two weeks. More than five decades later, no one has been charged with her murder—another reminder that every unsolved case represents a family still waiting for justice. </p><p>Woody then gives a personal shout-out to former special prosecutor <strong>Hugo Holland</strong>, who prosecuted David Anthony Burns for Courtney Coco’s murder. Woody reflects on their early differences during the case, Holland’s courtroom performance, and why he considers him one of the strongest prosecutors he has ever watched work. Holland is now running for district judge in Louisiana’s First Judicial District. </p><p>In <strong>F’d Up Professionals</strong>, a Tennessee pastor who spent years traveling the country through his ministry is convicted of multiple counts of aggravated rape of a child and aggravated sexual battery. His wife was also convicted of facilitating sexual abuse and child neglect. Investigators say the case began with allegations involving a five-year-old child and eventually expanded to additional victims. Woody discusses how positions of trust, religious authority, language barriers, and vulnerable communities can all be exploited by predators. </p><p>Next, Woody covers the case of <strong>16-year-old Howl Rafael Hernandez Castro</strong>, whose death was initially reported as a suicide. Investigators became suspicious when the witness’s story repeatedly changed. Detectives later found evidence inconsistent with suicide—including the distance of the shot, trajectory, and lack of gunshot residue—and the victim’s 21-year-old roommate was ultimately charged with murder. Woody connects the case directly to <strong>Justice for Hailey</strong>, where scientific evidence has likewise challenged an original suicide narrative. </p><p>In Minneapolis, police are investigating <strong>three bodies discovered in three days</strong>, all found in or near bodies of water. Authorities have not publicly said the deaths are connected, but Woody discusses why the geographical clustering immediately catches his investigative attention and why victimology and forensic findings will be critical in determining whether the cases share a connection. </p><p>The episode also covers a disturbing Florida murder case involving 16-year-old <strong>Miranda Corsett</strong>, who prosecutors say was held captive, tortured, killed, and dismembered. Defendant <strong>Stephen Gress</strong> has pleaded guilty and has taken the unusual step of asking that the judge—not a jury—decide whether he receives the death penalty. Woody compares the situation to another defendant he encountered who voluntarily sought execution rather than spend decades appealing his sentence. </p><p>Woody closes with several announcements, including plans for Real Life Real Crime to potentially host and moderate a public candidate forum in his local community. Most importantly, he again tells listeners that a major development is coming in one of the Justice For cases and asks the Lifers to hold on just a little longer. </p><h2><br></h2><p>True Crime Time, Real Life Real Crime, Woody Overton, Justice for Hailey, What Happened to Madison, Courtney Coco, Stephanie Belgard, A Mother’s Fight for Justice, Hugo Holland, Tennessee pastor, child sexual abuse, Howl Rafael Hernandez Castro, staged suicide, homicide investigation, Minneapolis bodies, possible serial killer, Miranda Corsett, Stephen Gress, death penalty, true crime podcast</p><ul><li>Major Justice For case development</li><li>313-RLRC-TIP</li><li>Stephanie Belgard’s <em>A Mother’s Fight for Justice</em></li><li>Courtney Coco</li><li>Mary Catherine Olchuck cold case</li><li>Hugo Holland</li><li>Courtney Coco prosecution</li><li>Tennessee pastor convicted of child rape</li><li>Abuse of positions of trust</li><li>Teen death staged as suicide</li><li>Justice for Hailey comparison</li><li>Three bodies found in Minneapolis</li><li>Possible connection between deaths</li><li>Miranda Corsett murder</li><li>Stephen Gress guilty plea</li><li>Defendant requesting death penalty</li><li>Upcoming RLRC candidate forum</li><li>Woody says he has <strong>confirmed information that a significant justice-related development is coming</strong>, though he cannot yet reveal the case or details. </li><li>Stephanie Belgard’s book represents more than Courtney Coco’s case—it documents what a family endured while refusing to give up on justice. </li><li>Positions of trust, including religious leadership, can make vulnerable victims easier for predators to access and harder for victims to report.</li><li>A death initially presented as suicide should still be investigated against the physical evidence; when the evidence does not fit the story, investigators must keep digging. </li><li>Three deaths in a tight geographical area and short time period do not automatically establish a serial offender, but the pattern warrants careful comparison of victimology, locations, timelines, and forensic evidence. </li><li>The recurring message throughout the episode is simple: <strong>justice often takes time, but never giving up can change the outcome.</strong> </li></ul><p><br></p><p><br></p><br/><br/>Our Sponsors:<br/>* Check out BetterHelp: https://www.betterhelp.com<br/>* Check out Greenlight and use my code greenlight.com/rlrc for a great deal: https://greenlight.com<br/><br/><br/>Support this podcast at — <a rel='payment' href='https://redcircle.com/real-life-real-crime/donations'>https://redcircle.com/real-life-real-crime/donations</a><br/><br/>Advertising Inquiries: <a href='https://redcircle.com/brands'>https://redcircle.com/brands</a><br/><br/>Privacy & Opt-Out: <a href='https://redcircle.com/privacy'>https://redcircle.com/privacy</a>",
+  "folgennummer": 257,
+  "kapitel_quelle": "modell",
+  "bild_url": "https://media.redcircle.com/images/2025/5/21/19/3889c83c-356b-4ff6-a336-9449b7166eaa_-da5f224f79da_98627294298f4781fcbdbf1c779658db.jpg"
+}

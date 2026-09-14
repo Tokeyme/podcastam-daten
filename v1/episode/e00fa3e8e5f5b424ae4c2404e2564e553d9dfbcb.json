@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_653053634",
+  "apple_collection_id": "1764768181",
+  "show": "《1947罗斯威尔事件外星人访谈录》",
+  "titel": "《1947罗斯威尔外星人访谈录》063.来自马克艾罗伊夫人邮递的稿件",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsInZlXAC2RfgJBL4yN-aacv2-48K.m4a?channel=rss&album_id=76242595&track_id=653053634&uid=28281816&jt=https://aod.cos.tx.xmcdn.com/storages/bb62-audiofreehighqps/E5/AA/GKwRINsInZlXAC2RfgJBL4yN-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2245835,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:41:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨存在者多具身体运作的现象以及突破旧帝国控制的希望。",
+  "kurzfassung": "本集探讨了同一个存在者如何同时或在不同轮回中在多个身体中运作的现象。马克艾罗伊夫人讲述了地球上的存在者如何通过恢复记忆和公开真相来摆脱控制。她希望通过公开这些访谈记录，让人们勇敢面对现实并找回自我。",
+  "stichpunkte": [
+    "存在者能够在不同生命中经历多次轮回并统治不同帝国。",
+    "精炼钢铁的方法和电话由不同地点的身体同时发明。",
+    "部分丢失的军队成员在睡眠状态下恢复了远征军的工作职责。",
+    "马克艾罗伊夫人寄出这些信件和访谈记录以公开发表真相。",
+    "地球生活在旧帝国电子操控的幻觉与记忆清除之中。",
+    "怀疑与保密是旧帝国用来维持控制的最强武器。",
+    "通过公开讨论和传递信息，地球上的存在者可以恢复记忆并实现自我释放。"
+  ],
+  "kapitel": [
+    {
+      "titel": "多具身体运作与发明实例",
+      "start": 0.54
+    },
+    {
+      "titel": "恢复工作职责与逃脱希望",
+      "start": 118.84
+    },
+    {
+      "titel": "公开真相与摆脱旧帝国控制",
+      "start": 195.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:41:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 368,
+  "veroeffentlicht": "2023-08-08T02:03:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9c93-audiofreehighqps/3D/C1/GKwRIasIUeg2AAe3dAIlLglh.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

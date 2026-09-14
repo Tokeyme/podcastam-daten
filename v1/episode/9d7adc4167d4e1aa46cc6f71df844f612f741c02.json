@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "67e4d32651d887b229301070",
+  "apple_collection_id": "1802831484",
+  "show": "智者访谈",
+  "titel": "11. 上海交大张拳石：思维链只是表象，DeepSeek凭什么更强",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67e4d32651d887b229301070/media.xyzcdn.net/6650363fac69187b785025bc/liSZ5gIIBKxt9c7gS7jeI7IwGp56.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 91212133,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T14:31:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨大模型可解释性，解析神经网络背后的数学机理与等效交互体系。",
+  "kurzfassung": "本期节目邀请上海交通大学副教授张全石，深入探讨深度学习的可解释性方向。嘉宾指出大模型的思维链本质上仍是经验性拟合，并介绍了通过等效交互体系在数学上严谨解释神经网络内在表征的创新成果。访谈还涵盖了大模型的潜在风险、两阶段训练现象以及对青年学者的科研建议。",
+  "stichpunkte": [
+    "思维链本质上是大模型端对端的输出，属于对人类QA数据的经验性拟合，其严谨的推理机制仍存疑问。",
+    "解释性算法分为迎合人类主观认知与从数学上严格解释神经网络内在心理处理机制两类。",
+    "提出等效交互的解释性体系，证明了任何神经网络在输入上的输出都可以用符号化的语或图模型精确拟合。",
+    "大模型内部表征呈现出殊途同归的趋势，模型越大交互越稀疏且越可靠。",
+    "大模型在复杂任务的正确输出中可能包含大量盲猜和潜在的表征错误，例如法律判案中出现张冠李戴的交互。",
+    "解释性技术旨在构建人工智能的第二套系统（自顶向下系统），实现对神经网络的内观与总结。",
+    "神经网络的训练存在两阶段现象：先消除噪声交互，再逐步提升交互复杂度以处理复杂数据，这解释了过拟合的内在机理。",
+    "科研选题应选择公共的本质问题，进行数学建模定义边界，并走一条前人较少探索的差异化路径。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与嘉宾介绍",
+      "start": 0.0
+    },
+    {
+      "titel": "思维链的本质与大模型解释性分类",
+      "start": 177.6
+    },
+    {
+      "titel": "等效交互体系：从数学上严谨解释神经网络",
+      "start": 342.8
+    },
+    {
+      "titel": "表征的殊途同归与大模型的潜在风险",
+      "start": 684.64
+    },
+    {
+      "titel": "构建人工智能的第二套系统与评测指标",
+      "start": 1321.24
+    },
+    {
+      "titel": "神经网络训练的两阶段现象与过拟合机理",
+      "start": 2038.26
+    },
+    {
+      "titel": "对青年学者的科研建议与十年磨一剑",
+      "start": 3261.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T14:31:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3770,
+  "veroeffentlicht": "2025-03-27T04:42:46+00:00",
+  "beschreibung": "DeepSeek-R1 等模型通过展示思维链（CoT）让用户一窥大模型的「思考过程」，然而，模型展示的思考过程真的代表了模型的内在推理机制吗？在医疗诊断、自动驾驶、法律判决等高风险领域，我们能否真正信任 AI 的决策？\n本期《智者访谈》邀请到上海交通大学张拳石教授，他在神经网络可解释性研究领域开创了新的理论框架。\n不同于传统的工程技术层面的解释方法，张教授提出了「等效与或交互」解释性理论，用严谨的数学符号化方式证明神经网络的内在表征逻辑，为理解泛化性、鲁棒性和过拟合提供了新的视角。\n面对大模型发展的各种挑战，张教授强调了理论创新的重要性。他说：「所谓十年磨一剑，相比用十年时间去优化一个复杂系统，更多是用十年去等待一个真正值得投入的问题。」\n【时间线】\n01:20 思维链是模型的真实思考过程吗？\n05:39 将表征逻辑严谨解释为符号化交互概念\n14:16 幻觉、欺骗与创意：本质相同\n20:49 结果导向，模型的自我纠正与提升：潜在风险\n28:00 从表征角度理解泛化性、鲁棒性的根因\n31:56 过拟合的内在机理\n38:43 大模型的质量评估、安全与商业发展\n46:06 从 Scaling 的维度到维度的 Scaling\n50:10 用 CoT 数据反哺训练的潜在风险\n52:36 如何在 AI 研究中找到真正的「大问题」\n【栏目简介】\n这是国内人工智能垂直媒体机器之心旗下的「智者访谈」播客栏目。栏目聚焦于人工智能领域的顶尖专家和学者，旨在洞悉人工智能的核心技术与行业趋势，深化行业认知，激发创新思考。\n【主播】\n闻菲，机器之心合伙人总监\n【嘉宾】\n张拳石\n• 上海交通大学长聘教轨副教授，博导\n• 上海交通大学电院计算机科学与工程系长聘教轨副教授，博士生导师，入选国家级海外高层次人才引进计划，获 ACM China 新星奖。在神经网络可解释性方向取得了多项具有国际影响力的创新性成果。\n• 担任 TMLR 责任编辑，NeurlPS 2024领域主席以及 AAAI 2019，CVPR 2019，ICML 2021 大会可解释性方向分论坛主席。\n【联系方式】\n公众号：机器之心\n收听渠道：Apple Podcast | 小宇宙 | 喜马拉雅\n其他平台：bilibili（机器之心官方） | 视频号（机器之心）| 小红书（机器之心）\n联系我们：zhaoyunfeng@jiqizhixin.com | xiewenfei@jiqizhixin.com\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>DeepSeek-R1 等模型通过展示思维链（CoT）让用户一窥大模型的「思考过程」，然而，模型展示的思考过程真的代表了模型的内在推理机制吗？在医疗诊断、自动驾驶、法律判决等高风险领域，我们能否真正信任 AI 的决策？</p><p>本期《智者访谈》邀请到上海交通大学张拳石教授，他在神经网络可解释性研究领域开创了新的理论框架。</p><p>不同于传统的工程技术层面的解释方法，张教授提出了「等效与或交互」解释性理论，用严谨的数学符号化方式证明神经网络的内在表征逻辑，为理解泛化性、鲁棒性和过拟合提供了新的视角。</p><p>面对大模型发展的各种挑战，张教授强调了理论创新的重要性。他说：「所谓十年磨一剑，相比用十年时间去优化一个复杂系统，更多是用十年去等待一个真正值得投入的问题。」</p><p>【时间线】</p><p><strong>01:20 &nbsp;</strong>思维链是模型的真实思考过程吗？</p><p><strong>05:39 &nbsp;</strong>将表征逻辑严谨解释为符号化交互概念</p><p><strong>14:16 &nbsp;</strong>幻觉、欺骗与创意：本质相同</p><p><strong>20:49 &nbsp;</strong>结果导向，模型的自我纠正与提升：潜在风险</p><p><strong>28:00 &nbsp;</strong>从表征角度理解泛化性、鲁棒性的根因</p><p><strong>31:56 &nbsp;</strong>过拟合的内在机理</p><p><strong>38:43 &nbsp;</strong>大模型的质量评估、安全与商业发展</p><p><strong>46:06 &nbsp;</strong>从 Scaling 的维度到维度的 Scaling</p><p><strong>50:10 &nbsp;</strong>用 CoT 数据反哺训练的潜在风险</p><p><strong>52:36 &nbsp;</strong>如何在 AI 研究中找到真正的「大问题」</p><p>【栏目简介】</p><p>这是国内人工智能垂直媒体机器之心旗下的「智者访谈」播客栏目。栏目聚焦于人工智能领域的顶尖专家和学者，旨在洞悉人工智能的核心技术与行业趋势，深化行业认知，激发创新思考。</p><p>【主播】</p><p>闻菲，机器之心合伙人总监</p><p>【嘉宾】</p><p>张拳石</p><p>• 上海交通大学长聘教轨副教授，博导</p><p>• 上海交通大学电院计算机科学与工程系长聘教轨副教授，博士生导师，入选国家级海外高层次人才引进计划，获 ACM China 新星奖。在神经网络可解释性方向取得了多项具有国际影响力的创新性成果。</p><p>• 担任 TMLR 责任编辑，NeurlPS 2024领域主席以及 AAAI 2019，CVPR 2019，ICML 2021 大会可解释性方向分论坛主席。</p><figure><img src=\"https://image.xyzcdn.net/FrVIHEz4dZXPkyJcAhBCtnqMsgPF.png\"/></figure><p>【联系方式】</p><p>公众号：机器之心</p><p>收听渠道：Apple Podcast | 小宇宙 | 喜马拉雅</p><p>其他平台：bilibili（机器之心官方） | 视频号（机器之心）| 小红书（机器之心）</p><p>联系我们：zhaoyunfeng@jiqizhixin.com | xiewenfei@jiqizhixin.com</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/67e4d32651d887b229301070?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fl0c5UxF6n1RQ3DU5kwoERx5JBTp.png",
+  "kapitel_quelle": "modell"
+}

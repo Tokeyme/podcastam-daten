@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_605017692",
+  "apple_collection_id": "1560087887",
+  "show": "365个获奖绘本故事 | 好玩有趣的哄睡故事，亲子共成长",
+  "titel": "小老鼠和小飞龙的城市奇遇",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoHmzn4ADEzAQHtiF4p-aacv2-48K.m4a?channel=rss&album_id=47604204&track_id=605017692&uid=226380652&jt=https://aod.cos.tx.xmcdn.com/storages/2274-audiofreehighqps/FD/0E/GKwRIDoHmzn4ADEzAQHtiF4p-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2424757,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T23:02:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "小老鼠杰德奥内和小飞龙帕克在城市里历险并协助抓获小偷。",
+  "kurzfassung": "赢得飞行比赛后，小老鼠杰德奥内和飞龙帕克前往城市参加全球环游飞行大赛的报名。在城市中游玩并享用美食时，他们凭借帕克的敏锐嗅觉帮商店老板找回了被偷的冰淇淋车。虽然他们因此错过报名，但因见义勇为受到了市长的奖励和市民的欢呼。",
+  "stichpunkte": [
+    "杰德奥内和帕克赢得山谷杯后收到全球环游飞行比赛的邀请函",
+    "两个伙伴出发前往城市报名，并在高空俯瞰城市美景",
+    "他们在城市里品尝草莓冰淇淋、喂鸽子、洗澡并观看电影",
+    "商店老板的冰淇淋车被偷，杰德奥内决定帮助寻找小偷",
+    "帕克凭着草莓的香气迅速追上小偷并将车归还给店主",
+    "因帮忙抓小偷导致他们赶到报名处时晚了半分钟",
+    "市长和市民为表彰他们的见义勇为送上了美味的奖励"
+  ],
+  "kapitel": [
+    {
+      "titel": "前往城市与精彩的城市生活",
+      "start": 1.84
+    },
+    {
+      "titel": "抓捕小偷与错过报名",
+      "start": 208.88
+    },
+    {
+      "titel": "见义勇为获得市民奖励",
+      "start": 354.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T23:02:01+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 398,
+  "veroeffentlicht": "2023-01-16T16:10:21+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/749d-audiofreehighqps/C3/81/GKwRIJEHmzmpABAAAAHtiE_T.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

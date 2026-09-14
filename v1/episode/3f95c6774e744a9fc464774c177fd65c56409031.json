@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "guid": "29101197",
+  "apple_collection_id": "1493713716",
+  "show": "说归说",
+  "titel": "马家辉：做个温柔的父亲，是我的“无上律令”",
+  "audio": {
+    "url": "http://tchwod-sign.qtfm.cn/m4a/67dacc2437973c000790170b_30116606_24.m4a?auth_key=6aaffe56-191471-0-392238fe1f7e60c61992dbdb013b2a02",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13848446,
+    "format": "m4a",
+    "geprueft_am": "2026-09-13T16:48:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "作家马家辉谈新书《你不必着急成为一个大人》及父亲角色与家庭关系。",
+  "kurzfassung": "作家马家辉携新书做客节目，畅谈三十年来记录女儿成长的心路历程。他分享了自己对父亲角色、家庭关系、生命遗憾以及追求温柔与善良的深刻体悟。访谈中，他也探讨了原生家庭对个人的影响及如何与过往和解。",
+  "stichpunkte": [
+    "马家辉出版新书《你不必着急成为一个大人》，收录了三十多年来写给女儿及记录家庭生活的文章。",
+    "他认为写作主要是为了自我探索和记录生命经验，而非刻意写给女儿看，甚至坦言平时会把书藏起来避免女儿阅读。",
+    "面对父女间的摩擦与人生遗憾，他主张保持坦然、学会放手，并强调“都是可怜的人间”，应体谅父母也是不完美的人。",
+    "他视对自己要求“温柔”和“善良”为生活的“无上律令”，并在面对发脾气或挫败时学会自我反省。",
+    "他指出成长是一个漫长且脆弱的过程，父母面对脆弱的孩子应当加倍谨慎和善良。",
+    "探讨了年轻人与原生家庭的种种矛盾，他认为原生家庭的问题离不开整个社会的资源与文明支持。",
+    "分享了女儿在成长过程中展现独立人格的时刻，并认为独立意志的显现无需强行定义界限。",
+    "谈及名字“嘉辉”带给自己的责任感，以及从父亲一生的经历中体会到的家族根源与心志。"
+  ],
+  "kapitel": [
+    {
+      "titel": "新书《你不必着急成为一个大人》的创作初衷",
+      "start": 51.98
+    },
+    {
+      "titel": "为自己而写的文字与对女儿阅读的避讳",
+      "start": 323.86
+    },
+    {
+      "titel": "追求温柔与善良：父亲的“无上律令”",
+      "start": 682.64
+    },
+    {
+      "titel": "面对脆弱的生命：父职的责任与遗憾",
+      "start": 902.54
+    },
+    {
+      "titel": "如何看待原生家庭与和解或割裂的选择",
+      "start": 1563.32
+    },
+    {
+      "titel": "大女孩的独立人格与成长的点滴累积",
+      "start": 1810.6
+    },
+    {
+      "titel": "乐观作为面对困难与挫败的意志力",
+      "start": 2677.22
+    },
+    {
+      "titel": "名字中的责任感与对父亲的理解",
+      "start": 4280.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-13T16:48:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4703,
+  "veroeffentlicht": "2025-03-19T13:52:36+00:00",
+  "bild_url": "http://pic.qingting.fm/device/74c10598776f4060b2af3c0535bc2226/1578037781686_GNqgoME5.jpeg",
+  "kapitel_quelle": "modell"
+}

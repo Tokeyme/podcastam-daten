@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Stuff You Should Know",
   "apple_collection_id": "278981407",
-  "erzeugt_am": "2026-08-25T03:19:50+00:00",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
   "folgen": [
+    {
+      "guid": "436385ef-9ea7-427e-8fe8-b4ac00d8e963",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/436385ef-9ea7-427e-8fe8-b4ac00d8e963/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "pfad": "/v1/episode/37a9027b6f3030eaab234c5b88228d4505acead6.json",
+      "titel": "Selects: How Narcolepsy Works",
+      "veroeffentlicht": "2026-08-22T09:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep dive into the science, symptoms, and history of the chronic sleep disorder…"
+    },
     {
       "guid": "7ed1fbda-af64-402d-b3a6-b4ab014226d7",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7ed1fbda-af64-402d-b3a6-b4ab014226d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",

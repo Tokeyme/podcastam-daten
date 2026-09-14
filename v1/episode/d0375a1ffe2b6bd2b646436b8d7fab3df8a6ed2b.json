@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_720767193",
+  "apple_collection_id": "1875669479",
+  "show": "运动音乐DJ",
+  "titel": "运动音乐37",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEJ5rQKABNMDwLCenOI.m4a?channel=rss&album_id=81249858&track_id=720767193&uid=497558577&jt=https://aod.cos.tx.xmcdn.com/storages/98c3-audiofreehighqps/F8/76/GKwRIJEJ5rQKABNMDwLCenOI.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1264655,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:35:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "欣赏由李宗盛作词作曲并演唱的运动音乐37。",
+  "kurzfassung": "本期节目播放了由李宗盛作词作曲并演唱的音乐作品。内容聚焦于李宗盛的词曲创作与演唱。整体展示了音乐的完整表演。",
+  "stichpunkte": [
+    "作词由李宗盛担任",
+    "作曲由李宗盛完成",
+    "演唱者为李宗盛",
+    "节目主要内容为音乐作品欣赏"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲欣赏",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:35:36+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 156,
+  "veroeffentlicht": "2024-12-19T08:50:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4494-audiofreehighqps/53/23/GKwRIMAJ5rFQAAINsgLCeXlS.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

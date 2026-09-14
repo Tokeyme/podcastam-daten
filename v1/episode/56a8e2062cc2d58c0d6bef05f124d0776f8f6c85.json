@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_963561265",
+  "apple_collection_id": "1058319169",
+  "show": "【CC讲坛】科技 未来",
+  "titel": "刘鼎：别怕孤独，社交是大脑的生理本能",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMANjs3gAIVu9gR7M9zp.m4a?channel=rss&album_id=389178&track_id=963561265&uid=20643815&jt=https://aod.cos.tx.xmcdn.com/storages/0613-audiofreehighqps/F1/67/GKwRIMANjs3gAIVu9gR7M9zp.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8744694,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T03:11:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "孤独是大脑的生理本能，其神经机制与饥饿、口渴相似。",
+  "kurzfassung": "脑科学研究发现，社交需求是人类基本的生理需求，孤独感由下丘脑中的特定神经元编码。实验表明，隔离会导致小鼠产生“社交反弹”，而触觉在缓解孤独感中起着至关重要的作用。未来，随着AI陪伴的普及和神经药物的发展，人类的社交方式与性格调控可能面临新的变革。",
+  "stichpunkte": [
+    "社交不足对生命的损害程度与每天抽15支烟相当，孤独是时代病。",
+    "实验室通过“剥夺实验”范式研究小鼠，发现隔离后存在“社交反弹”现象。",
+    "不同品种小鼠对隔离的敏感度不同，提示性格可能由基因决定。",
+    "下丘脑中存在编码孤独感的“社交需求神经元”和产生愉悦的“社交满足神经元”。",
+    "隔板实验和绒布管道实验证明，触觉输入对缓解孤独感至关重要。",
+    "语音聊天和缺乏触觉的AI互动尚不足以完全满足人类的底层社交需求。",
+    "AI陪伴虽然能提供零评判环境，但也引发了人类情感能力退化和被操纵的担忧。",
+    "未来有望通过生物学手段（如研发调节神经元的药物）来干预和控制人类的性格与社交需求。"
+  ],
+  "kapitel": [
+    {
+      "titel": "孤独的本质与小鼠社交反弹实验",
+      "start": 30.0
+    },
+    {
+      "titel": "下丘脑中的孤独与社交神经元",
+      "start": 386.1
+    },
+    {
+      "titel": "触觉的重要性与绒布管道实验",
+      "start": 600.0
+    },
+    {
+      "titel": "研究总结与对AI时代及未来的展望",
+      "start": 856.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T03:11:46+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1080,
+  "veroeffentlicht": "2026-03-18T10:06:00+00:00",
+  "beschreibung": "独居时代，为何依旧孤独？AI陪伴，能否满足远古大脑？他揭秘大脑“社交开关”，断言线下连接无可替代。在独处与共鸣间，找到平衡的生物学答案。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>独居时代，为何依旧孤独？AI陪伴，能否满足远古大脑？他揭秘大脑“社交开关”，断言线下连接无可替代。在独处与共鸣间，找到平衡的生物学答案。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group32/M02/7E/C3/wKgJS1meRxyx-cGoAABmPINV3Mo246.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "guid": "33697962",
+  "apple_collection_id": "1615508466",
+  "show": "梓约健康",
+  "titel": "Vol.5 张永杰：侠胆仁心 胆结石要不要开？",
+  "audio": {
+    "url": "http://tchwod-sign.qtfm.cn/m4a/6a632e106219d60008571f6f_34399470_24.m4a?auth_key=6aaa727b-172250-0-bc99be285576eebfd23880ffff7c3370",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 10240700,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T11:10:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "著名胆道外科专家张永杰详解胆结石与肝胆健康",
+  "kurzfassung": "本期节目邀请著名胆道外科专家张永杰，深入探讨胆囊炎、胆结石的成因、潜在风险及规范治疗。张永杰指出，胆结石并非无害的小毛病，切勿盲目迷信保胆取石，应遵循科学理性的原则及早干预。同时，节目强调了医学科普与常识对患者做出正确抉择的重要作用。",
+  "stichpunkte": [
+    "胆囊结石在人群中发病率约达10%，切不可将其视为无害的小毛病。",
+    "胆结石与胆囊癌高度相关，潜伏着发炎、穿孔及恶变等严重风险。",
+    "保胆取石并未消除结石成因，且存在复发和癌变隐患，国际上早已弃用。",
+    "外科手术是目前应对结构性病变不可或缺、但并非最聪明的手段。",
+    "胆囊息肉若伴有血液供应，大概率存在恶变风险，需及时手术干预。",
+    "面对复杂的肝胆疾病，患者应相信专业与科学，避免盲目主观决策。"
+  ],
+  "kapitel": [
+    {
+      "titel": "胆囊结石的常见性与潜在风险",
+      "start": 161.36
+    },
+    {
+      "titel": "肝胆胰系统的结构与外科手术的局限性",
+      "start": 275.3
+    },
+    {
+      "titel": "剖析保胆取石的争议与历史",
+      "start": 1001.06
+    },
+    {
+      "titel": "不吃早饭与胆结石的关系及胆囊息肉的鉴别",
+      "start": 1267.5
+    },
+    {
+      "titel": "外科医生的思维逻辑与科学决策",
+      "start": 1733.26
+    },
+    {
+      "titel": "胆结石何时需要手术切除",
+      "start": 2445.14
+    },
+    {
+      "titel": "急腹症的识别与专家就诊信息",
+      "start": 3307.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T11:10:56+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3478,
+  "veroeffentlicht": "2026-07-24T09:19:12+00:00",
+  "beschreibung": "对于传统观念，身体发肤受之父母，胆道外科最经典最纠结的问题之一：胆囊结石，到底要不要开？保胆取石可以吗？为什么外科手术中，肝胆胰手术难度好比攀登珠穆拉玛峰？本期嘉宾：我国著名胆道外科专家、原东方肝胆外科医院胆道片区首席专家、现任苏大附四院普外科主任医师、教授、博导张永杰。",
+  "beschreibung_html": "对于传统观念，身体发肤受之父母，胆道外科最经典最纠结的问题之一：胆囊结石，到底要不要开？保胆取石可以吗？为什么外科手术中，肝胆胰手术难度好比攀登珠穆拉玛峰？本期嘉宾：我国著名胆道外科专家、原东方肝胆外科医院胆道片区首席专家、现任苏大附四院普外科主任医师、教授、博导张永杰。",
+  "bild_url": "https://upload-up.qtfm.cn/user/58befc4cabc3562c456bf09d9853e32c/1646624996_0001-550958859.png",
+  "kapitel_quelle": "modell"
+}

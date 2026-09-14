@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_681548721",
+  "apple_collection_id": "1337609312",
+  "show": "过山情感脱口秀",
+  "titel": "新158期 日常沟通里，到底什么是该有的边界感？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoJHi4UAdpG0QJ5OYAr-aacv2-48K.m4a?channel=rss&album_id=11903827&track_id=681548721&uid=79942235&jt=https://aod.cos.tx.xmcdn.com/storages/9298-audiofreehighqps/7D/1A/GKwRIDoJHi4UAdpG0QJ5OYAr-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 23370185,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T17:37:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨日常沟通中的边界感，分享半夜乱发消息与人际交往的真实困扰。",
+  "kurzfassung": "节目探讨了日常生活中的沟通边界感与人际交往中的微妙困扰。主播们结合自身经历，讨论了深夜冲动消费、微信问候边界以及伴侣间的沟通方式。大家认为，直接坦诚地表达真实需求和感受，往往是化解矛盾和减少内耗的最好方式。",
+  "stichpunkte": [
+    "探讨深夜醒来刷手机、冲动购物以及半夜发消息的奇妙习惯。",
+    "分析人际交往中边界感的模糊地带，例如朋友发微信询问“落地了吗”是否越界。",
+    "讨论社交平台上的点赞留言与夸奖，以及如何面对带有贬低性质的“捧杀”。",
+    "结合热门节目分析沟通中的隐忍与紧绷感，指出不直接表达真实需求会导致关系紧张。",
+    "分享出差行程安排中的心理纠结与伴侣间的沟通磨合。",
+    "强调直接坦诚、勇敢说出内心的真实想法和诉求是维系健康关系的捷径。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场闲聊与深夜状态",
+      "start": 29.88
+    },
+    {
+      "titel": "探讨沟通中的边界感与微信问候的困扰",
+      "start": 1366.82
+    },
+    {
+      "titel": "朋友圈留言与人际赞美的分寸感",
+      "start": 2256.14
+    },
+    {
+      "titel": "出差行程与伴侣间的沟通摩擦",
+      "start": 2825.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T17:37:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3839,
+  "veroeffentlicht": "2023-11-13T11:00:00+00:00",
+  "beschreibung": "到底怎样表达才算是良好的沟通？日常该遵循什么样的边界感？本期我们探讨下如何在微信语境下好好说话，以及真实表达自己的感受有多重要。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">到底怎样表达才算是良好的沟通？日常该遵循什么样的边界感？本期我们探讨下如何在微信语境下好好说话，以及真实表达自己的感受有多重要。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/efaf-audiofreehighqps/78/1D/GKwRIUEGO-AGAAEKNgFDfQNE.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

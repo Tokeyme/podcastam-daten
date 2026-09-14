@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_501030318",
+  "apple_collection_id": "1472307819",
+  "show": "Tech Buzz China 英文科技评论",
+  "titel": "Livecast #14: Richard Turrin on China's Digital Yuan",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasF3BiBAMDdaQEWFwU4.m4a?channel=rss&album_id=15006724&track_id=501030318&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/6c99-audiofreehighqps/96/50/GKwRIasF3BiBAMDdaQEWFwU4.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 12639593,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T16:15:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨中国数字人民币的设计特点、与第三方支付的关系及对全球的影响。",
+  "kurzfassung": "本期节目邀请专家探讨中国央行数字货币（CBDC）的设计架构。数字人民币通过双层服务器架构实现了交易的伪匿名性与KYC监管数据的分离。同时，数字人民币并非旨在消灭微信支付和支付宝，而是为了构建更深植于社会的数字经济基础设施。",
+  "stichpunkte": [
+    "中国数字人民币采用双服务器设计，将KYC数据与伪匿名交易数据相互隔离。",
+    "在持有人隐私方面，不同国家设计的CBDC对国家获取数据的权限有所不同。",
+    "数字人民币的研发与微信支付和支付宝的推出时间重合，并非为了取代它们。",
+    "中国央行不向国内个人及商业交易收取手续费，对现有支付平台有一定影响但不会破坏其商业模式。",
+    "数字人民币作为免费的支付替代方案，旨在为未来智能设备和AI之间的自动支付打下基础。",
+    "数字元短期内不会对美元霸权造成直接冲击，但长期来看需要保持关注。",
+    "数字人民币支持离线NFC支付功能，在没有网络信号时也能正常使用。"
+  ],
+  "kapitel": [
+    {
+      "titel": "数字人民币的双服务器架构与隐私设计",
+      "start": 449.46
+    },
+    {
+      "titel": "数字人民币与微信支付、支付宝的关系",
+      "start": 600.0
+    },
+    {
+      "titel": "数字人民币对全球货币体系的影响及使用体验",
+      "start": 1185.48
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T16:15:11+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1561,
+  "veroeffentlicht": "2022-02-11T12:23:59+00:00",
+  "beschreibung": "Richard (Rich) Turrin is the international best-selling author of “Cashless - China’s Digital Currency Revolution” and “Innovation Lab Excellence.” He is an Onalytica Top 100 Fintech Influencer and an award-winning executive previously heading fintech teams at IBM following a twenty-year career in investment banking. Living in Shanghai for the last decade, Rich experienced China going cashless first-hand. Hear about:\n\nWhat is the Chinese digital yuan, and why it is different from cryptocurrencies;\nWhat are the different levels of anonymity the digital yuan offers;\nWill the Chinese digital yuan help break the duopoly of the Alibaba and WeChat mobile payments in China;\nHow will the Chinese digital yuan impact the world;\nRich's personal experience using the digital yuan in Shanghai;\nHow does PBOC enable the digital yuan to be used without internet access?\nFind Rich on LinkedIn, Twitter, and check out his book Cashless on apple books, Amazon, and any other digital bookstores across the planet.",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Richard (Rich) Turrin is the international best-selling author of “Cashless - China’s Digital Currency Revolution” and “Innovation Lab Excellence.” He is an Onalytica Top 100 Fintech Influencer and an award-winning executive previously heading fintech teams at IBM following a twenty-year career in investment banking. Living in Shanghai for the last decade, Rich experienced China going cashless first-hand. Hear about:</p><br><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">What is&nbsp;the Chinese digital yuan, and why it is different from&nbsp;cryptocurrencies;&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">What are the different levels of&nbsp;anonymity the digital yuan offers;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Will the&nbsp;Chinese digital yuan&nbsp;help break the duopoly of the Alibaba and WeChat mobile payments in China;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">How will the Chinese digital yuan impact the world;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Rich's personal experience using the&nbsp;digital yuan in Shanghai;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">How does PBOC enable the digital yuan to be used without internet access?</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Find Rich on LinkedIn, Twitter, and check out his book&nbsp;Cashless on apple books, Amazon, and any other digital bookstores across the planet.</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group40/M08/DE/99/wKgJVFrW4yvjaJF3AANuX9XpBoc912.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

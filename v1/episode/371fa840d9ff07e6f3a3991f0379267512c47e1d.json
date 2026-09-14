@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "guid": "6a8838651352af56ff39dd91",
+  "apple_collection_id": "1786983813",
+  "show": "琪鑫邪力｜夫妻关系与情感故事",
+  "titel": "如何才能没有分别心的看待世界？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65601e9931d050e54c4a4efd/6a8838651352af56ff39dd91/media.xyzcdn.net/65601e9931d050e54c4a4efd/lpUFEWkT3VQOhGG__6WaClgC32AR.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 50256500,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T14:20:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "如何才能没有分别心地看待世界？",
+  "kurzfassung": "本期节目中，张欣和雅琪从近期闷热的天气和即将到来的假期聊起，深入探讨了他们在日常生活中观察他人时产生的“分别心”。张欣坦言自己习惯在初见陌生人时暗中挑剔对方缺点、贴标签，并剖析了这种心理的成效与内心的痛苦。两人在轻松幽默的对话中，探讨了如何消除对路人的偏见以及看待世界的不同视角。",
+  "stichpunkte": [
+    "讨论近期闷热潮湿的处暑节气天气，以及即将到来的中秋和国庆假期安排。",
+    "张欣分享了自己在日常生活中观察陌生人时，总是下意识给对方起外号和贴标签的现象。",
+    "探讨佛教中的“平常心”与“分别心”，反思在生活中如何看待和对待不同的人。",
+    "结合香港通行证办理经历与医疗资源差异，讨论地域和现实条件带来的客观区别对待。",
+    "剖析张欣在成长过程中受到的比较教育，这导致了他习惯先看别人缺点和与人比较的心理机制。",
+    "探讨在健身房等场景下，面对不同体型和特征的陌生人时产生的内心戏与自我优越感。",
+    "雅琪指出张欣的这种心态本质上是一种自负和内心阴暗的表现，而张欣则希望通过在节目中袒露心声来直面并尝试改变这一毛病。"
+  ],
+  "kapitel": [
+    {
+      "titel": "闲聊天气与假期",
+      "start": 16.24
+    },
+    {
+      "titel": "观察他人与分别心",
+      "start": 271.46
+    },
+    {
+      "titel": "地域差异与现实区别",
+      "start": 522.44
+    },
+    {
+      "titel": "成长环境与比较心理",
+      "start": 1280.3
+    },
+    {
+      "titel": "健身房的内心戏与偏见",
+      "start": 1746.04
+    },
+    {
+      "titel": "直面内心阴暗与结语",
+      "start": 2885.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T14:20:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3107,
+  "veroeffentlicht": "2026-08-21T11:41:56+00:00",
+  "beschreibung": "收听提示：\n1.最近北京怎么又热起来了？\n2.为什么我会思考关于“分别心”的问题\n3.如何产生的这种“分别心”\n4.如何避免产生分别心\n\n夫妻情感类声音播客《琪鑫邪力》为您分享最真实夫妻生活经验、情感故事、两性问题\n每周一、三、五晚8:30分左右更新，欢迎留言说出你的问题和建议\n听友群入口：\nNixCheung\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>收听提示：</p><p>1.最近北京怎么又热起来了？</p><p>2.为什么我会思考关于“分别心”的问题</p><p>3.如何产生的这种“分别心”</p><p>4.如何避免产生分别心</p><p></p><p>夫妻情感类声音播客《琪鑫邪力》为您分享最真实夫妻生活经验、情感故事、两性问题</p><p>每周一、三、五晚<a class=\"timestamp\">8:30</a>分左右更新，欢迎留言说出你的问题和建议</p><p>听友群入口：</p><p>NixCheung</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8838651352af56ff39dd91?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

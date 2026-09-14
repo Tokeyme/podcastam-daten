@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "放个播客",
+  "apple_collection_id": "1882964811",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/20/3229817264796931078_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/20/3229817264796931078_hd.mp3",
+      "pfad": "/v1/episode/e3dbe38438b31b6f99b85c59f2050fe64e45c578.json",
+      "titel": "52.都市传说：天津日报大厦、消失的母女与凶宅直播",
+      "veroeffentlicht": "2026-08-21T00:30:00+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨天津日报大厦、台湾彰化母女失踪案及西安街头灵异传说等都市传说。"
+    }
+  ]
+}

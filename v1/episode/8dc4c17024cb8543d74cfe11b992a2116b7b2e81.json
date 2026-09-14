@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_574861416",
+  "apple_collection_id": "1648704300",
+  "show": "FM1122音乐电台｜TOP音乐",
+  "titel": "FM1122音乐电台｜TOP音乐 Vol.15 再见和日落的意义，都是未完待续…",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsHFKhWAGgrHgGs6d9H.m4a?channel=rss&album_id=70997135&track_id=574861416&uid=43433750&jt=https://aod.cos.tx.xmcdn.com/storages/7f1a-audiofreehighqps/B0/FA/GKwRINsHFKhWAGgrHgGs6d9H.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6826782,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T19:12:43+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨热歌恐惧症，分享电影音乐及回春丹与新裤子乐队的经典作品。",
+  "kurzfassung": "本期节目由许愿主持，探讨了大众对热门歌曲的“热歌恐惧症”这一互动话题。节目中重点推荐了电影《北京粤语录》及其插曲，回顾了片中的摇滚情怀与北漂故事。同时，节目还介绍了回春丹乐队的复古单曲以及新裤子乐队的经典曲目。",
+  "stichpunkte": [
+    "节目开篇引入互动话题“热歌恐惧症”，探讨人们对歌曲因爆红而失去独特品味的心态。",
+    "听众婉姑分享了对电影《北京粤语录》的看法，片中吴彦祖与耿乐展现了独特的摇滚与北漂青春。",
+    "节目播放了电影《北京粤语录》的插曲《回忆之前 忘记之后》。",
+    "听众们纷纷留言分享自己对热歌恐惧症的共鸣，如圈养的猪被偷等生动比喻。",
+    "介绍独立摇滚乐队回春丹及其复古disco风格的单曲《梦特别娇》。",
+    "听众Joy分享了新裤子乐队的歌曲《没有理想的人不伤心》，引发对追梦与理想的感悟。",
+    "公布下一期节目预告与互动话题，鼓励听众持续关注与留言点歌。"
+  ],
+  "kapitel": [
+    {
+      "titel": "热歌恐惧症与节目开场",
+      "start": 0.0
+    },
+    {
+      "titel": "电影音乐分享：北京粤语录",
+      "start": 90.32
+    },
+    {
+      "titel": "听众互动：关于热歌恐惧症的讨论",
+      "start": 352.52
+    },
+    {
+      "titel": "乐队推荐：回春丹与《梦特别娇》",
+      "start": 417.44
+    },
+    {
+      "titel": "遇见一首歌：新裤子乐队与理想",
+      "start": 668.08
+    },
+    {
+      "titel": "节目尾声与下期预告",
+      "start": 791.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T19:12:43+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 843,
+  "veroeffentlicht": "2022-10-06T13:50:23+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b856-audiofreehighqps/D1/90/GMCoOSAG-Ln9AAQwfAGhlSox.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

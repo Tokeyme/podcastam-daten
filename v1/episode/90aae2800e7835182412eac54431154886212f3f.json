@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_954682672",
+  "apple_collection_id": "1747678844",
+  "show": "成人睡前故事｜听故事轻松入睡",
+  "titel": "纸人复活了！村里鬼故事背后的秘密",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaINWPMKACRWxwRloUNm.m4a?channel=rss&album_id=51782946&track_id=954682672&uid=84869317&jt=https://aod.cos.tx.xmcdn.com/storages/9786-audiofreehighqps/BE/1B/GKwRIaINWPMKACRWxwRloUNm.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2381511,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:47:59+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "村里扎纸人手艺人臣婆不小心点错朱砂，引发了一场诡异的纸人复活事件。",
+  "kurzfassung": "村里的扎纸匠臣婆手艺高超，但在为郭寿制作寿堂纸人时，不慎将朱砂点在了第九个纸人的眉心。半夜里，丫鬟发现十个纸人竟然在寿堂里围着转圈并露出诡异的笑容。道士赶来后要求将所有纸人烧毁，此后臣婆关店搬离，而郭寿家中夜里则总能听到诡异的沙沙声。",
+  "stichpunkte": [
+    "臣婆靠扎纸糊口，手艺精湛，纸人各个眉眼精致且带有生气",
+    "郭寿家订购了十个纸人用于寿堂道场，臣婆连夜赶工",
+    "臣婆在点朱砂时手抖点错位置，将第九个纸人的眉心点上红点",
+    "半夜丫鬟起夜发现十个纸人在寿堂里整齐转圈跳舞，露出阴森笑容",
+    "道士查看后指出眉心红点开了阴眼使纸人复活，必须全部烧毁",
+    "纸人焚烧时发出惨叫，眉心红点的纸人最后甚至直挺挺站起来盯着屋子",
+    "臣婆得知后烧毁店内剩余纸人并关店搬离村子",
+    "郭寿家自此夜里总能听到沙沙的走动声，传说纸人灰烬在等待再次复活"
+  ],
+  "kapitel": [
+    {
+      "titel": "臣婆扎纸与诡异的第九个纸人",
+      "start": 0.54
+    },
+    {
+      "titel": "寿堂半夜纸人复活",
+      "start": 98.98
+    },
+    {
+      "titel": "道士做法焚烧纸人及后续怪谈",
+      "start": 184.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:47:59+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 293,
+  "veroeffentlicht": "2026-02-04T11:39:45+00:00",
+  "beschreibung": "本期播客分享了一个发生在村里的鬼故事，讲述了陈婆的纸人手艺与意外复活的惊悚事件。陈婆在为富人家准备纸人时，因手抖误点了朱砂，导致其中一个纸人眉心出现红点。夜里，纸人们竟在灵堂里围着转圈，吓得丫鬟昏倒。经过道士的解释，纸人被判定为“活了”，最终在火中化为灰烬，然而富人家却始终无法摆脱那诡异的声音。故事引发了对灵魂与手艺之间关系的深思。",
+  "beschreibung_html": "本期播客分享了一个发生在村里的鬼故事，讲述了陈婆的纸人手艺与意外复活的惊悚事件。陈婆在为富人家准备纸人时，因手抖误点了朱砂，导致其中一个纸人眉心出现红点。夜里，纸人们竟在灵堂里围着转圈，吓得丫鬟昏倒。经过道士的解释，纸人被判定为“活了”，最终在火中化为灰烬，然而富人家却始终无法摆脱那诡异的声音。故事引发了对灵魂与手艺之间关系的深思。<br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/82f8-audiofreehighqps/11/06/GKwRIUENWPMBAAVp5gRloT8C.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

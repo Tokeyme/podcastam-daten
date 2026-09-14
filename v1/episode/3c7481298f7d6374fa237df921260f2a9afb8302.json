@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_515207029",
+  "apple_collection_id": "1618466865",
+  "show": "阴阳摆渡人｜悬疑｜灵异｜精品有声小说",
+  "titel": "001阴阳摆渡人第一集",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIGFbkbAFlouwEwPgFM-aacv2-48K.m4a?channel=rss&album_id=61035303&track_id=515207029&uid=393704735&jt=https://aod.cos.tx.xmcdn.com/storages/6e20-audiofreehighqps/66/4B/GKwRIJIGFbkbAFlouwEwPgFM-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4406068,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T05:58:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "女孩李苗去小区便利店买盐，对神秘的年轻老板心动并发现了奇怪的鱼骨。",
+  "kurzfassung": "内向的初中女生李苗受母亲差遣，前往小区里一家名为“444”的24小时便利店买盐。这家店由一位外表清秀但面色苍白、神秘的年轻帅哥独自经营。李苗在店里再次感受到强烈的心跳，并在货架角落发现了一条被啃食得极其干净的鱼骨。",
+  "stichpunkte": [
+    "李苗性格内向，因戴眼镜和成绩平平而自卑，视同桌沈嘉丽为耀眼的明星。",
+    "沈嘉丽在小区便利店偶遇李苗，并调侃她是否是专门来看帅哥老板的。",
+    "小区里新开了一家名为“444”的24小时便利店，由一位外表清秀绝伦的年轻男子独自经营。",
+    "店老板皮肤苍白且几乎全年无休，但每周五会雷打不动地休息半天。",
+    "李苗每次见到店老板都会心跳加速，既惊艳又忍不住心疼对方太过操劳。",
+    "李苗在调味品货架的角落意外发现了一条被舔食得整整齐齐、宛如艺术品的鱼骨。"
+  ],
+  "kapitel": [
+    {
+      "titel": "起始与日常生活",
+      "start": 1.34
+    },
+    {
+      "titel": "偶遇同学与便利店",
+      "start": 280.22
+    },
+    {
+      "titel": "神秘的老板与诡异的发现",
+      "start": 491.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T05:58:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 723,
+  "veroeffentlicht": "2022-03-28T01:30:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2556-audiofreehighqps/3A/B4/GKwRIJIGFOHiAALK8AEv968-.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

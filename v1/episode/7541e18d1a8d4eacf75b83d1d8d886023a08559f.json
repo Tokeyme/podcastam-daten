@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_746643396",
+  "apple_collection_id": "1758314090",
+  "show": "180步频跑步音乐",
+  "titel": "180步频跑步音乐｜精准踩点｜EXO",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEKh-uKARRU7gL8Hw2U.m4a?channel=rss&album_id=82722590&track_id=746643396&uid=514758338&jt=https://aod.cos.tx.xmcdn.com/storages/5569-audiofreehighqps/E7/E1/GKwRIUEKh-uKARRU7gL8Hw2U.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 18109678,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T09:31:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "180步频跑步音乐精准踩点，收录EXO相关曲目。",
+  "kurzfassung": "本期节目为180步频跑步音乐，旨在帮助跑步者精准踩点。节目中播放了EXO的多首歌曲及相关音乐内容。整体节奏适合跑步训练使用。",
+  "stichpunkte": [
+    "提供180步频的跑步音乐",
+    "精准踩点设计，适合跑步训练",
+    "包含EXO的相关曲目",
+    "融入多种人声与旋律片段",
+    "持续的音乐节奏编排",
+    "专注于运动场景的音频内容"
+  ],
+  "kapitel": [
+    {
+      "titel": "音乐开场与前奏",
+      "start": 28.58
+    },
+    {
+      "titel": "节奏展开与人声片段",
+      "start": 600.0
+    },
+    {
+      "titel": "高潮与核心旋律",
+      "start": 1351.8
+    },
+    {
+      "titel": "尾声与结束",
+      "start": 1737.68
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T09:31:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2971,
+  "veroeffentlicht": "2024-08-09T10:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/92c0-audiofreehighqps/A3/9D/GArMXbIKb__9AANW6QLzTlFC.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "6a869896ef65145dfcc276be",
+  "apple_collection_id": "1812602503",
+  "show": "第一财经",
+  "titel": "当AI开始\"自我进化\"，人类还踩得住刹车吗？|两说",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6a869896ef65145dfcc276be/media.xyzcdn.net/64c75555e8176c3ff81de98c/lhBr0YZkNZlyoFCVuBMEAwVlGgmv.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20093558,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T08:17:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨人工智能快速发展带来的治理挑战、教育变革及人类价值。",
+  "kurzfassung": "本期节目探讨了人工智能时代的治理路径与风险防范，对比了欧盟与中国的监管模式。嘉宾分析了AI对教育体制和人类知识获取方式的颠覆性影响。最后，节目讨论了机器超越人类背景下人类存在的独特价值以及建立刹车机制的重要性。",
+  "stichpunkte": [
+    "人工智能技术发展速度极快且风险具有隐蔽性，无法完全依靠事前预测来进行治理。",
+    "中国采取渐进式的治理路径，以基础法律为底座并针对具体应用快速出台相应法规。",
+    "深度伪造诈骗、版权侵权以及认知卸载等局部与深层风险需要全社会共同高度重视。",
+    "面对AI带来的知识获取革命，传统工业化时代的教育体系与文理分科亟需进行调整。",
+    "未来的教育将更侧重于培养人类的基础认知能力，并转向高度个性化与跨界发展。",
+    "人类在审美、判断力、共情能力、好奇心和创造力等方面具有不可替代的价值。",
+    "政府、企业和公众需要尽早建立起AI的刹车机制，以确保未来人机智能伙伴关系的安全。"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI治理的特点与中欧路径对比",
+      "start": 600.66
+    },
+    {
+      "titel": "新型犯罪与认知卸载的深层风险",
+      "start": 805.62
+    },
+    {
+      "titel": "人工智能时代的教育变革",
+      "start": 911.88
+    },
+    {
+      "titel": "人类价值与建立AI刹车机制",
+      "start": 1138.72
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T08:17:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1242,
+  "veroeffentlicht": "2026-08-23T00:00:00+00:00",
+  "beschreibung": "如果人工智能越过某条临界线，自主进化到人类无法理解、无法干预的地步，我们该怎么办？这不是科幻情节,而是真实可能发生的未来。本期《两说》，由第一财经总编辑杨宇东对谈清华大学苏世民书院院长/教授薛澜，从失控红线到国际协作，从教育重塑到人类价值的再发现，这场对话，关乎每一个人的未来。\n主持人：\n杨宇东 | 第一财经总编辑\n对话嘉宾：\n薛澜 | 清华大学苏世民书院院长/教授\n你将听到以下内容：\n00:34 分化世界下的技术失控\n04:19人类如何踩住\"刹车\"？\n08:13中国人工智能的\"渐进式\"治理路径\n10:37AI风险与核武器截然不同，AI技术存在巨大的未知\n13:25从诈骗\"失智\"到失控红线，如何守护人类的未来？\n15:12教育将迎来根本性重塑\n18:59人类存在的独特价值\n播客编辑：派ris\n监制：yoiyo\n“一财，两说，三思笃行”，全新财经洞察节目《两说》，通过第一财经与顶级专业人士的共创，以专业、深度、独到见解为标尺，通过巅峰对话的表达样态，发现、探讨与深入思考经济领域的前沿热点问题。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>如果人工智能越过某条临界线，自主进化到人类无法理解、无法干预的地步，我们该怎么办？这不是科幻情节,而是真实可能发生的未来。本期《两说》，由第一财经总编辑杨宇东对谈清华大学苏世民书院院长/教授薛澜，从失控红线到国际协作，从教育重塑到人类价值的再发现，这场对话，关乎每一个人的未来。</p><p><strong>主持人：</strong></p><p>杨宇东&nbsp;| 第一财经总编辑</p><p><strong>对话嘉宾：</strong></p><p>薛澜&nbsp;| 清华大学苏世民书院院长/教授</p><p><strong>你将听到以下内容：</strong></p><p><a class=\"timestamp\">00:34</a> 分化世界下的技术失控</p><p><a class=\"timestamp\">04:19</a>人类如何踩住\"刹车\"？</p><p><a class=\"timestamp\">08:13</a>中国人工智能的\"渐进式\"治理路径</p><p><a class=\"timestamp\">10:37</a>AI风险与核武器截然不同，AI技术存在巨大的未知</p><p><a class=\"timestamp\">13:25</a>从诈骗\"失智\"到失控红线，如何守护人类的未来？</p><p><a class=\"timestamp\">15:12</a>教育将迎来根本性重塑</p><p><a class=\"timestamp\">18:59</a>人类存在的独特价值</p><p>播客编辑：派ris</p><p>监制：yoiyo</p><p>“一财，两说，三思笃行”，全新财经洞察节目《两说》，通过第一财经与顶级专业人士的共创，以专业、深度、独到见解为标尺，通过巅峰对话的表达样态，发现、探讨与深入思考经济领域的前沿热点问题。</p><p>&nbsp;</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a869896ef65145dfcc276be?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FkUcO5PW4uQ9vWfhuxWWUyAhiihR.png",
+  "kapitel_quelle": "modell"
+}

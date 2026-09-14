@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_898138655",
+  "apple_collection_id": "1822503893",
+  "show": "财经二人转",
+  "titel": "原来过度关注别人也会让你失去自我",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4MbzGPABAAAAP1wRqe.m4a?channel=rss&album_id=94633809&track_id=898138655&uid=53462763&jt=https://aod.cos.tx.xmcdn.com/storages/fa70-audiofreehighqps/FA/F1/GKwRIW4MbzGPABAAAAP1wRqe.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7107732,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:49:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨过度关注外界符号与网络传言如何导致自我迷失，呼吁回归真实生活。",
+  "kurzfassung": "节目探讨了过度关注外界符号和网络传言如何导致人们失去自我。主持人结合日常生活中的孤独感，分析了媒体对热点事件缺乏深度的跟风报道以及网络上离谱的财富传言。最终，节目呼吁听众摆脱外界干扰，将注意力拉回身边的真实生活与内心情感。",
+  "stichpunkte": [
+    "过度关注外界事物和远方的人容易导致自我迷失",
+    "独自留守城市的生活容易引发孤独感与孤立无援的状态",
+    "网络热点事件的报道多为整合网络信息，缺乏深度和可信度",
+    "关于杨岚岚等网传人物的天价财富传言极不合逻辑",
+    "盲目轻信网络传言容易让人产生不必要的焦虑和愤怒",
+    "应当将注意力拉回真实生活，珍惜身边的每一个人与每一件事",
+    "时常与自己的灵魂对话，保持内心的清醒以对抗外界干扰"
+  ],
+  "kapitel": [
+    {
+      "titel": "探讨过度关注外界如何导致自我迷失",
+      "start": 0.0
+    },
+    {
+      "titel": "独自留守城市的孤独感与生活反思",
+      "start": 29.08
+    },
+    {
+      "titel": "媒体跟风报道的局限性与网络传言分析",
+      "start": 136.58
+    },
+    {
+      "titel": "回归真实生活与内心的清醒",
+      "start": 232.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:49:48+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 292,
+  "veroeffentlicht": "2025-08-12T00:50:00+00:00",
+  "beschreibung": "在这一期的播客中，我们探讨了过度关注外界符号可能导致的自我迷失。通过杨兰兰事件的讨论，主持人分享了如何在信息泛滥的时代保持内心的清醒。节目中提到，孤独感和对生活的失落源于我们对外界的过度关注，反而忽视了身边的人和事。我们应该珍惜身边的真实情感，保持与自己内心的对话，才能重新找到生活的重心和温暖。\n00:02:01:网络新闻背后的真相：杨兰兰事件引发的思考\n00:04:04:爱与符号：我们被网络牵着走，却忽视真实生活中的美好",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">在这一期的播客中，我们探讨了过度关注外界符号可能导致的自我迷失。通过杨兰兰事件的讨论，主持人分享了如何在信息泛滥的时代保持内心的清醒。节目中提到，孤独感和对生活的失落源于我们对外界的过度关注，反而忽视了身边的人和事。我们应该珍惜身边的真实情感，保持与自己内心的对话，才能重新找到生活的重心和温暖。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:02:01:网络新闻背后的真相：杨兰兰事件引发的思考</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">00:04:04:爱与符号：我们被网络牵着走，却忽视真实生活中的美好</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/caf3-audiofreehighqps/F5/F1/GKwRIJEMbzGEAEuKXQP1wRI_.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

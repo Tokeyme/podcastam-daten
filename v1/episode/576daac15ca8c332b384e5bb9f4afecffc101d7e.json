@@ -6,32 +6,32 @@
   "titel": "Pretrial Hearing - Nov 18 2025",
   "audio": {
     "url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69522037/69522037_norm.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": null,
     "format": "mp3",
-    "geprueft_am": "2026-08-21T16:32:04+00:00"
+    "geprueft_am": "2026-08-25T03:49:24+00:00"
   },
   "faehigkeiten": {
     "clips": false,
     "range": true,
     "kapitel": false,
     "dynamik": "dynamisch",
-    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (mittlere Haltbarkeit rund 4,8 h, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
   },
-  "einzeiler": "Court debates change of venue and defendant transportation logistics in pretrial hearing.",
-  "kurzfassung": "The court hears arguments regarding a motion for a change of venue, which is ultimately denied by the judge. Representatives discuss media exposure, community impact, and prior case law comparisons. Additionally, the session covers transportation logistics and security measures for the defendant.",
+  "einzeiler": "Court denies change of venue and addresses transport logistics in high-profile trial.",
+  "kurzfassung": "A pre-trial hearing addresses a defense motion for a change of venue, which the judge ultimately denies after arguments from both sides. The court also discusses logistical and security arrangements for transporting the defendant, who requires a wheelchair and medical accommodations. Additionally, the Sheriff's Department outlines specific security protocols and addresses an ADA request filed by the defense.",
   "stichpunkte": [
-    "The defense requests a change of venue from Plymouth County to Suffolk Superior Court due to intense media publicity.",
-    "The prosecution opposes the venue change, citing the passage of time, community size, and lack of public demonstrations.",
-    "The judge denies the motion for a change of venue and states a written decision will follow.",
-    "The Sheriff's Department outlines transportation plans for the defendant, who is confined to a wheelchair.",
-    "The defense files an ADA request regarding custody conditions and transport.",
-    "The Sheriff's Department raises security concerns regarding self-harm risks and potential threats from the public due to high-profile attention."
+    "The defense files a motion for a change of venue from Plymouth County to Suffolk Superior Court, citing intense media publicity.",
+    "The prosecution opposes the venue change, arguing that sufficient time has passed and that the community size and nature of the press do not warrant it.",
+    "The judge denies the motion for a change of venue and announces a written decision will follow.",
+    "The Sheriff's Department details transport plans using a wheelchair-accessible van equipped with a nurse and corrections officers.",
+    "The defense has filed an ADA request with the trial court rather than directly with the Sheriff's Department.",
+    "The Sheriff's Department raises security concerns regarding self-harm and potential threats from the public given the case's high-profile nature."
   ],
   "kapitel": [],
   "clips": [],
   "erzeugt": {
-    "am": "2026-08-21T16:32:04+00:00",
+    "am": "2026-08-25T03:49:24+00:00",
     "transkript_modell": "feed",
     "transkript_quelle": "feed",
     "verstehen_modell": "gemini-flash-lite-latest",
@@ -39,9 +39,9 @@
   },
   "sprache": "en",
   "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
   "dauer": 939,
   "veroeffentlicht": "2026-01-20T18:29:50+00:00",
   "bild_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/678fc4100643755eec85407088187ee6.jpg",
-  "folgennummer": 1,
-  "texte_herkunft": "erzeugt"
+  "folgennummer": 1
 }

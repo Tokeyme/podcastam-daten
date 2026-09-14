@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19678720",
+  "apple_collection_id": "6798839942",
+  "show": "In the Kitchen with Monica",
+  "titel": "What's on your Plate? - 8/20/26",
+  "audio": {
+    "url": "https://www.buzzsprout.com/2634675/episodes/19678720-what-s-on-your-plate-8-20-26.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 39319408,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:43:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Wie verändern historische Ernährungspyramiden und der Fokus auf lebendige Lebensmittel…",
+  "kurzfassung": "Monica Corrado analysiert im Podcast die Entwicklung der offiziellen US-Ernährungsempfehlungen seit 1992 und kritisiert deren hohen Anteil an Kohlenhydraten und Zucker. Als Gegenmodell stellt sie das Konzept \"tot versus lebendig\" vor, bei dem rohe, fermentierte und naturbelassene Lebensmittel im Vordergrund stehen. Zudem beantwortet sie Fragen aus dem Chat zu Themen wie Rohmilch, gesunden Fetten und Ballaststoffen.",
+  "stichpunkte": [
+    "Kritik an der Ernährungspyramide von 1992 für ihren hohen Kohlenhydrat- und Zuckeranteil",
+    "Darstellung der Entwicklung von Pyramiden und Tellern hin zu den Richtlinien für 2025",
+    "Einführung des Konzepts \"tot versus lebendig\" zur Bewertung der eigenen Ernährung",
+    "Definition von totem Essen: verpackt, konserviert, gekocht, pasteurisiert und mikrowelliert",
+    "Definition von lebendem Essen: roh, gekeimt, kulturiert und laktofermentiert",
+    "Empfehlung für gesunde Fette und den regelmäßigen Verzehr von rohen Tierprodukten",
+    "Erklärung von Fermentationsprozessen und der schrittweisen Gewöhnung des Darms an Probiotika",
+    "Ablehnung von hochraffinierten Lebensmittelfraktionen wie MCT-Öl zugunsten von Vollwertprodukten"
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and the 1992 Food Pyramid",
+      "start": 0.08
+    },
+    {
+      "titel": "Evolution of Dietary Guidelines: 2005 to 2025",
+      "start": 604.8
+    },
+    {
+      "titel": "The Core Concept: Dead Versus Alive Food",
+      "start": 1420.16
+    },
+    {
+      "titel": "Q&A Session on Dairy, Fats, and Fermentation",
+      "start": 2304.8
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The bottom of the pyramid that threw Americans into obesity",
+      "start": 214.256,
+      "ende": 244.375,
+      "laenge": 30.12,
+      "byte_start": 2620792,
+      "byte_ende": 2982221,
+      "bytes": 361430,
+      "range_header": "bytes=2620792-2982221",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 214.335,
+      "anker_sha256": "d0eddaf595d6d792fbef6e5a3407cd8b82ff15b44e8fc6b9c13c400754abbb58",
+      "einblendung_ms": 60,
+      "text": "The host blames the official dietary guidelines introduced in 1992 for rising rates of obesity and diabetes in the United States."
+    },
+    {
+      "hook": "You have permission and an invitation to have more fat in your diet",
+      "start": 807.001,
+      "ende": 829.205,
+      "laenge": 22.2,
+      "byte_start": 9733726,
+      "byte_ende": 10000174,
+      "bytes": 266449,
+      "range_header": "bytes=9733726-10000174",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 807.079,
+      "anker_sha256": "8605335bad16dfd6d351d598396d4b3d0c199e535e3938fb1d509ce52a389fef",
+      "einblendung_ms": 60,
+      "text": "Listeners are advised to gradually increase their daily fat intake up to eight tablespoons, noting that a low-fat diet trend began in the country in 1983."
+    },
+    {
+      "hook": "How much of your food came out of a box? If it's in a box, it's dead",
+      "start": 1633.28,
+      "ende": 1663.399,
+      "laenge": 30.12,
+      "byte_start": 19649076,
+      "byte_ende": 20010505,
+      "bytes": 361430,
+      "range_header": "bytes=19649076-20010505",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1633.358,
+      "anker_sha256": "27b499e136547595c02489d15135db0a43306f77373c9ba297aad57968caf7bd",
+      "einblendung_ms": 60,
+      "text": "Any packaged food sold in a box is categorized as dead sustenance that can remain on shelves indefinitely."
+    },
+    {
+      "hook": "All cooked food is dead, no matter what it is",
+      "start": 1921.306,
+      "ende": 1951.425,
+      "laenge": 30.12,
+      "byte_start": 23105389,
+      "byte_ende": 23466819,
+      "bytes": 361431,
+      "range_header": "bytes=23105389-23466819",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1921.384,
+      "anker_sha256": "e5b3f14da4700ec8571cfed0e7080dbbe7b339beaca4d6ddc4741bf8ebdf9942",
+      "einblendung_ms": 60,
+      "text": "The speaker defines all cooked meals, whether prepared on a stove or in a microwave, as dead nourishment."
+    },
+    {
+      "hook": "Whenever you hear the word highly refined, you should shun it entirely",
+      "start": 2470.896,
+      "ende": 2501.015,
+      "laenge": 30.12,
+      "byte_start": 29700472,
+      "byte_ende": 30061901,
+      "bytes": 361430,
+      "range_header": "bytes=29700472-30061901",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2470.975,
+      "anker_sha256": "4256da1d0a5645bdc4a97ce420f98f009f72eba6af0b186840bf4ef52f95eb2c",
+      "einblendung_ms": 60,
+      "text": "Highly processed items like medium-chain triglyceride oil derived from coconuts should be avoided because the human body rejects refined ingredients."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:43:12+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3271,
+  "veroeffentlicht": "2026-08-20T18:00:00-04:00",
+  "beschreibung": "Monica Corrado opens this week’s In the Kitchen with Monica livestream with a look at what makes a nourishing plate. Building on previous conversations about real food and nourishment, she reviews changing dietary guidelines before sharing her own framework for thinking about the foods we eat.\n\nHighlights include:\n-A look back at food pyramids and dietary guidelines and how recommendations around grains, fats, protein, fruits, and vegetables have changed over time\n-Monica’s perspective on traditional fats, animal foods, whole milk, cultured dairy, and properly prepared grains\n-The distinction she draws between “dead” foods that are cooked, canned, packaged, or highly processed and “live” foods that are raw, cultured, sprouted, or fermented\n-Ideas for incorporating raw and cultured dairy, lacto-fermented foods, sprouted foods, and other traditionally prepared foods into meals\n-A Q&A covering fermented foods, cultured dairy, oats, MCT oil, fiber, cooking fats, and more\n\nMonica closes by encouraging viewers to look beyond conventional food pyramids and plates and instead consider how much fresh, raw, cultured, sprouted, or fermented food they are including in their meals—starting with one doable change at a time.\nWebsite\nhttps://www.drcowansgarden.com/\n\nVideo Platforms\nYouTube https://www.youtube.com/@DrCowansGarden\n\nSocial Media\nFacebook https://www.facebook.com/drcowansgarden/\nInstagram https://www.instagram.com/drcowanspowders/\nLinkedIn https://www.linkedin.com/company/dr-cowan-s-garden/\nPinterest https://www.pinterest.com/drcowansgarden/\n\nBecome an Affiliate\nhttps://drcowansgarden.goaffpro.com/",
+  "beschreibung_html": "<p>Monica Corrado opens this week’s <em>In the Kitchen with Monica</em> livestream with a look at what makes a nourishing plate. Building on previous conversations about real food and nourishment, she reviews changing dietary guidelines before sharing her own framework for thinking about the foods we eat.<br/><br/>Highlights include:<br/>-A look back at food pyramids and dietary guidelines and how recommendations around grains, fats, protein, fruits, and vegetables have changed over time<br/>-Monica’s perspective on traditional fats, animal foods, whole milk, cultured dairy, and properly prepared grains<br/>-The distinction she draws between “dead” foods that are cooked, canned, packaged, or highly processed and “live” foods that are raw, cultured, sprouted, or fermented<br/>-Ideas for incorporating raw and cultured dairy, lacto-fermented foods, sprouted foods, and other traditionally prepared foods into meals<br/>-A Q&amp;A covering fermented foods, cultured dairy, oats, MCT oil, fiber, cooking fats, and more<br/><br/>Monica closes by encouraging viewers to look beyond conventional food pyramids and plates and instead consider how much fresh, raw, cultured, sprouted, or fermented food they are including in their meals—starting with one doable change at a time.</p><p><b>Website</b><br/> <a href='https://www.drcowansgarden.com/'>https://www.drcowansgarden.com/</a><br/><br/> <b>Video Platforms</b><br/> <b>YouTube</b> <a href='https://www.youtube.com/@DrCowansGarden'>https://www.youtube.com/@DrCowansGarden</a><br/><br/><b>Social Media</b><br/> <b>Facebook</b> <a href='https://www.facebook.com/drcowansgarden/'>https://www.facebook.com/drcowansgarden/</a><br/> <b>Instagram</b> <a href='https://www.instagram.com/drcowanspowders/'>https://www.instagram.com/drcowanspowders/</a><br/> <b>LinkedIn</b> <a href='https://www.linkedin.com/company/dr-cowan-s-garden/'>https://www.linkedin.com/company/dr-cowan-s-garden/</a><br/> <b>Pinterest</b> <a href='https://www.pinterest.com/drcowansgarden/'>https://www.pinterest.com/drcowansgarden/</a><br/><br/> <b>Become an Affiliate</b><br/> <a href='https://drcowansgarden.goaffpro.com/'>https://drcowansgarden.goaffpro.com/</a></p>",
+  "kapitel_quelle": "modell",
+  "bild_url": "https://storage.buzzsprout.com/7jal3pwjkqf8b8eqdqs6ie809lxo?.jpg"
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "guid": "flightcast:uj4qzkcoc1z57mfpeqcnnyk0",
+  "apple_collection_id": "1896877726",
+  "show": "Travel Better with Chris - Yellow Productions Podcast",
+  "titel": "55 Travel Apps You Should Have Before Your Next Trip",
+  "audio": {
+    "url": "https://episode.flightcast.com/uj4qzkcoc1z57mfpeqcnnyk0.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 55559628,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T02:03:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "A comprehensive compilation of 55 essential travel apps recommended by travelers.",
+  "kurzfassung": "This guide covers 55 must-have travel apps for flights, hotels, navigation, and local transport. It aggregates viewer recommendations and personal favorites to streamline trip planning. Viewers discuss the practical benefits and drawbacks of various apps ranging from Flighty to Google Maps.",
+  "stichpunkte": [
+    "Flighty is the top-recommended iOS app for tracking flights, delays, and baggage carousels.",
+    "Mobile Passport Control speeds up US customs entry for travelers without Global Entry.",
+    "Hotel apps like Marriott and Hilton allow users to check in early and select specific rooms.",
+    "Google Maps remains essential, especially with downloaded offline maps for remote areas.",
+    "Ride-sharing and transport apps include Uber, Lyft, Grab in Southeast Asia, and GoTaxi in Japan.",
+    "Spot Hero helps drivers save money on parking in major US cities.",
+    "Google Translate and Google Lens provide real-time language translation and image identification.",
+    "TripIt aggregates travel itineraries, though users note alternative tracking reliability."
+  ],
+  "kapitel": [
+    {
+      "titel": "Flight Apps",
+      "start": 66.88
+    },
+    {
+      "titel": "Hotel and Accommodation Apps",
+      "start": 428.817
+    },
+    {
+      "titel": "Weather and Map Apps",
+      "start": 862.981
+    },
+    {
+      "titel": "Transport and Ride-Sharing Apps",
+      "start": 1455.262
+    },
+    {
+      "titel": "Booking and Food Apps",
+      "start": 2100.149
+    },
+    {
+      "titel": "Language and Itinerary Apps",
+      "start": 2603.195
+    },
+    {
+      "titel": "Money and Bank Apps",
+      "start": 3118.765
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The number one app travelers can't live without",
+      "start": 71.811,
+      "ende": 100.624,
+      "laenge": 28.81,
+      "byte_start": 862041,
+      "byte_ende": 1207797,
+      "bytes": 345757,
+      "range_header": "bytes=862041-1207797",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 71.889,
+      "anker_sha256": "d60b5f6e113730feeb7c20503d77e1fb5dd3f241218fc77f871c01bb8df8974d",
+      "einblendung_ms": 60,
+      "text": "Travelers frequently cite Flighty as an indispensable application for tracking aircraft locations, anticipating schedule disruptions, monitoring gate assignments, and locating baggage."
+    },
+    {
+      "hook": "Finding the Aurora with millions of downloads",
+      "start": 960.94,
+      "ende": 981.029,
+      "laenge": 20.09,
+      "byte_start": 11531599,
+      "byte_ende": 11772656,
+      "bytes": 241058,
+      "range_header": "bytes=11531599-11772656",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 961.019,
+      "anker_sha256": "38c31b713f9675b064ac73743cfeaaf6255c88b1f9f67206f905b2ac9cf63d87",
+      "einblendung_ms": 60,
+      "text": "The Aurora app has accumulated five million downloads among travelers heading northward to observe the northern lights."
+    },
+    {
+      "hook": "Save hundreds of dollars on city parking",
+      "start": 1959.471,
+      "ende": 1989.564,
+      "laenge": 30.09,
+      "byte_start": 23513966,
+      "byte_ende": 23875082,
+      "bytes": 361117,
+      "range_header": "bytes=23513966-23875082",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1959.549,
+      "anker_sha256": "692169604327cfa88e8c4c184e5da036e106cd138f9aad3cd38ed17397f579e2",
+      "einblendung_ms": 60,
+      "text": "Using Spot Hero in metropolitan areas like San Francisco cuts parking expenses significantly, dropping rates from ninety dollars down to twelve dollars through pre-booked QR codes."
+    },
+    {
+      "hook": "From pointing and smiling to real-time translation",
+      "start": 2675.409,
+      "ende": 2695.523,
+      "laenge": 20.11,
+      "byte_start": 32105222,
+      "byte_ende": 32346592,
+      "bytes": 241371,
+      "range_header": "bytes=32105222-32346592",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2675.487,
+      "anker_sha256": "a3e6ede63ccc013adf31db4a2bd27da3e3f39f51d94c86ebe5aec06eaa80adf9",
+      "einblendung_ms": 60,
+      "text": "Translation software sometimes requires multiple attempts during conversations with taxi drivers, yet it remains an improvement over non-verbal communication."
+    },
+    {
+      "hook": "Why mixing Apple and Android works in a household",
+      "start": 3894.753,
+      "ende": 3921.633,
+      "laenge": 26.88,
+      "byte_start": 46737346,
+      "byte_ende": 47059905,
+      "bytes": 322560,
+      "range_header": "bytes=46737346-47059905",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 3894.831,
+      "anker_sha256": "107b086dd10aafc60ff0e36be52aa3cbbc01c2693f045f7d5167cf763f8e1444",
+      "einblendung_ms": 60,
+      "text": "The host explains a long-standing preference for Android and the Google ecosystem, utilizing calendar, photo storage, drive, and video platforms across devices."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T02:03:58+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4629,
+  "veroeffentlicht": "2026-08-12T04:45:07+00:00",
+  "beschreibung": "55 essential travel apps you need to download before you pack your bags! Whether you want to track your flight in real-time with Flighty, breeze through US customs using Mobile Passport Control, find dog-friendly hotels with BringFido, or navigate foreign transit like a pro with Rome2Rio, this comprehensive list covers every aspect of your journey. Featuring awesome tips from our own community of fellow explorers, we dive deep into the best tools for booking, weather tracking, offline navigation, language translation, and even money management. Grab your phone, hit play, and let's build your perfect digital travel toolkit!\n✅ Get 10% off eSIM at Simlocal with code \"YELLOW\" here: https://yelloww.co/simlocal\nTABLE OF CONTENTS:\n0:00 Intro\nFlights\n1:15 1. Flighty\n2:18 2. Flightradar24\n3:01 3. FlightAware\n3:58 4. Airline Apps\n5:24 5. Mobile Passport Control\n5:48 6. Priority Pass\nHotels & Accommodation\n7:13 7. Hotel App\n9:18 Bonus: Airbnb & Vrbo\n10:40 8. Tripadvisor\n11:20 9. Bring Fido\n12:47 Bonus: Rover\n14:05 10. iOverlander\n14:14 11. The Dyrt\nWeather\n14:31 12. The Weather Channel\n14:48 13. AccuWeather\n14:57 14. Wunderground\n15:28 15. Windy\n16:08 16. Aurora\nNavigation & Transport\nChapters\n00:17:00 17. Google Maps\n00:19:08 18. Waze\n00:19:42 19. Simlocal eSIM App\n00:20:31 20. Google Earth\n00:24:18 21. Uber\n00:24:34 22. Lyft\n00:24:49 23. Grab\n00:25:13 24. TaxiGo (Go Taxi)\n00:26:57 25. Waymo\n00:27:33 26. Citymapper\n00:27:58 27. Transit\n00:28:13 28. Rome2Rio\n00:29:56 29. Rental Car App\n00:30:30 30. SpotHero\n00:31:11 Bonus: Turo\n00:33:54 31. AllTrails\n00:34:27 Bonus: Zoox\n\nBooking & Things to Do\n35:06 32. Kayak\n35:56 33. Expedia\n36:12 Bonus: Booking.com & Hotels.com\n36:19 34. Skyscanner\n36:28 35. Klook\n36:45 36. Agoda\n38:17 37. Viator\n38:33 38. Get Your Guide\n38:44 39. Playground Buddy\n39:49 Bonus: Wanderlog\nFood & Dining\n40:18 40. Yelp\n41:31 41. OpenTable\n41:46 Bonus: Resy\n41:55 42. The Fork\n42:05 Bonus: Tabelog\nLanguage\n43:18 43. Google Translate\n45:17 44. Google Lens\n46:20 Bonus: Apple Translate & Papago\nTrip Planning & Organization\n46:45 45. TripIt\n47:32 46. Roadtrippers\n48:56 47. Google Sheets\n49:12 48. Google Keep\n49:52 Bonus: Apple Notes\n50:09 49. Google Docs\nMoney & Financial\n52:04 50. XE Currency Conversion\n52:16 Bonus: Wise\n53:02 Bonus: PayPal & Venmo\n56:46 51. Bank App\n56:58 52. Amex App\n59:31 Bonus: Charles Schwab\nDestination-Specific & Miscellaneous\n57:50 Bonus: Starwalk 2\n58:40 Bonus: Shaka Guide\n59:04 53. WeChat\n59:10 54. Alipay\n1:00:06 Bonus: WhatsApp\n1:00:31 Bonus: Bounce\n1:01:06 55. Hawaii Revealed\n1:01:36 Q&A and Giveaway\nWatch or Listen to Yellow Productions Podcast on your favorite podcast platform:\n✅ Spotify: https://open.spotify.com/show/5FJ8lRjqdF2di912hqad8t\n✅ Apple: https://podcasts.apple.com/us/podcast/travel-better-with-chris-yellow-productions-podcast/id1896877726\nTABLE OF CONTENTS:\n💡 Yellow Productions on Social Media:\nFACEBOOK: https://facebook.com/YellowProductionsTravel\nINSTAGRAM: https://instagram.com/yellowwproductions/\nTIKTOK: https://www.tiktok.com/@yellowproductionstravel\nX: https://x.com/chrisraney\n💡 Meet the Yellow Productions Team:\nOCgirl (behind the camera): https://www.instagram.com/ocgirl.notebook/\nYusaku (in the editing studio): https://www.instagram.com/yusaku_otagiri/\nThe Princess (in the playground): https://www.youtube.com/channel/UC_KMPZF0v8pGR6ZN8QToJXg\n🔔 BUSINESS INQUIRIES: chris@yellow-productions.com\n😀 Yellow Productions Merchandise:\nhttps://shop.yellow-productions.com/\n📢 Check out my blog:\nhttp://yelloww.net\n🚀 My travel video gear:\nMain Camera: DJI Osmo Pocket 3 Creator Combo - https://amzn.to/3H5MjL3\n2nd Camera: Samsung Galaxy S26 Ultra - https://amzn.to/3Ryq1ds\nMicrophone: DJI Mic 3 - https://amzn.to/3JUvcQT\n🎵 We use music from Epidemic Sound: https://yelloww.co/epidemic",
+  "beschreibung_html": "<p>55 essential travel apps you need to download before you pack your bags! Whether you want to track your flight in real-time with Flighty, breeze through US customs using Mobile Passport Control, find dog-friendly hotels with BringFido, or navigate foreign transit like a pro with Rome2Rio, this comprehensive list covers every aspect of your journey. Featuring awesome tips from our own community of fellow explorers, we dive deep into the best tools for booking, weather tracking, offline navigation, language translation, and even money management. Grab your phone, hit play, and let&#39;s build your perfect digital travel toolkit!</p><p>✅ Get 10% off eSIM at Simlocal with code &quot;YELLOW&quot; here: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://yelloww.co/simlocal\">https://yelloww.co/simlocal</a>  </p><p>TABLE OF CONTENTS:<br />0:00 Intro</p><p>Flights<br />1:15 1. Flighty<br />2:18 2. Flightradar24<br />3:01 3. FlightAware<br />3:58 4. Airline Apps<br />5:24 5. Mobile Passport Control<br />5:48 6. Priority Pass</p><p>Hotels &amp; Accommodation<br />7:13 7. Hotel App<br />9:18 Bonus: Airbnb &amp; Vrbo<br />10:40 8. Tripadvisor<br />11:20 9. Bring Fido<br />12:47 Bonus: Rover<br />14:05 10. iOverlander<br />14:14 11. The Dyrt</p><p>Weather<br />14:31 12. The Weather Channel<br />14:48 13. AccuWeather<br />14:57 14. Wunderground<br />15:28 15. Windy<br />16:08 16. Aurora</p><p>Navigation &amp; Transport<br /><h3>Chapters</h3><ul><li><strong>00:17:00</strong> 17. Google Maps</li><li><strong>00:19:08</strong> 18. Waze</li><li><strong>00:19:42</strong> 19. Simlocal eSIM App</li><li><strong>00:20:31</strong> 20. Google Earth</li><li><strong>00:24:18</strong> 21. Uber</li><li><strong>00:24:34</strong> 22. Lyft</li><li><strong>00:24:49</strong> 23. Grab</li><li><strong>00:25:13</strong> 24. TaxiGo (Go Taxi)</li><li><strong>00:26:57</strong> 25. Waymo</li><li><strong>00:27:33</strong> 26. Citymapper</li><li><strong>00:27:58</strong> 27. Transit</li><li><strong>00:28:13</strong> 28. Rome2Rio</li><li><strong>00:29:56</strong> 29. Rental Car App</li><li><strong>00:30:30</strong> 30. SpotHero</li><li><strong>00:31:11</strong> Bonus: Turo</li><li><strong>00:33:54</strong> 31. AllTrails</li><li><strong>00:34:27</strong> Bonus: Zoox</li></ul></p><p>Booking &amp; Things to Do<br />35:06 32. Kayak<br />35:56 33. Expedia<br />36:12 Bonus: Booking.com &amp; Hotels.com<br />36:19 34. Skyscanner<br />36:28 35. Klook<br />36:45 36. Agoda<br />38:17 37. Viator<br />38:33 38. Get Your Guide<br />38:44 39. Playground Buddy<br />39:49 Bonus: Wanderlog</p><p>Food &amp; Dining<br />40:18 40. Yelp<br />41:31 41. OpenTable<br />41:46 Bonus: Resy<br />41:55 42. The Fork<br />42:05 Bonus: Tabelog</p><p>Language<br />43:18 43. Google Translate<br />45:17 44. Google Lens<br />46:20 Bonus: Apple Translate &amp; Papago</p><p>Trip Planning &amp; Organization<br />46:45 45. TripIt<br />47:32 46. Roadtrippers<br />48:56 47. Google Sheets<br />49:12 48. Google Keep<br />49:52 Bonus: Apple Notes<br />50:09 49. Google Docs</p><p>Money &amp; Financial<br />52:04 50. XE Currency Conversion<br />52:16 Bonus: Wise<br />53:02 Bonus: PayPal &amp; Venmo<br />56:46 51. Bank App<br />56:58 52. Amex App<br />59:31 Bonus: Charles Schwab</p><p>Destination-Specific &amp; Miscellaneous<br />57:50 Bonus: Starwalk 2<br />58:40 Bonus: Shaka Guide<br />59:04 53. WeChat<br />59:10 54. Alipay<br />1:00:06 Bonus: WhatsApp<br />1:00:31 Bonus: Bounce<br />1:01:06 55. Hawaii Revealed<br />1:01:36 Q&amp;A and Giveaway</p><p>Watch or Listen to Yellow Productions Podcast on your favorite podcast platform:<br />✅ Spotify: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://open.spotify.com/show/5FJ8lRjqdF2di912hqad8t\">https://open.spotify.com/show/5FJ8lRjqdF2di912hqad8t</a><br />✅ Apple: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://podcasts.apple.com/us/podcast/travel-better-with-chris-yellow-productions-podcast/id1896877726\">https://podcasts.apple.com/us/podcast/travel-better-with-chris-yellow-productions-podcast/id1896877726</a></p><p>TABLE OF CONTENTS:</p><p>💡 Yellow Productions on Social Media:<br />FACEBOOK: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://facebook.com/YellowProductionsTravel\">https://facebook.com/YellowProductionsTravel</a><br />INSTAGRAM: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://instagram.com/yellowwproductions/\">https://instagram.com/yellowwproductions/</a><br />TIKTOK: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://www.tiktok.com/@yellowproductionstravel\">https://www.tiktok.com/@yellowproductionstravel</a><br />X: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/chrisraney\">https://x.com/chrisraney</a></p><p>💡 Meet the Yellow Productions Team:<br />OCgirl (behind the camera): <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://www.instagram.com/ocgirl.notebook/\">https://www.instagram.com/ocgirl.notebook/</a><br />Yusaku (in the editing studio): <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://www.instagram.com/yusaku_otagiri/\">https://www.instagram.com/yusaku_otagiri/</a><br />The Princess (in the playground): <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://www.youtube.com/channel/UC_KMPZF0v8pGR6ZN8QToJXg\">https://www.youtube.com/channel/UC_KMPZF0v8pGR6ZN8QToJXg</a></p><p>🔔 BUSINESS INQUIRIES: chris@yellow-productions.com</p><p>😀 Yellow Productions Merchandise:<br /><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://shop.yellow-productions.com/\">https://shop.yellow-productions.com/</a></p><p>📢 Check out my blog:<br /><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"http://yelloww.net\">http://yelloww.net</a></p><p>🚀 My travel video gear:<br />Main Camera: DJI Osmo Pocket 3 Creator Combo - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://amzn.to/3H5MjL3\">https://amzn.to/3H5MjL3</a><br />2nd Camera: Samsung Galaxy S26 Ultra - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://amzn.to/3Ryq1ds\">https://amzn.to/3Ryq1ds</a><br />Microphone: DJI Mic 3 - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://amzn.to/3JUvcQT\">https://amzn.to/3JUvcQT</a></p><p>🎵 We use music from Epidemic Sound: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://yelloww.co/epidemic\">https://yelloww.co/epidemic</a></p>",
+  "bild_url": "https://files.flightcast.com/workspaces/ylc051mjxl9hsesth4hc5h3e/01KVPT8CQ9GZ9NJXY0EJHQQRQ2/spotify_podcas__1_.jpg",
+  "kapitel_quelle": "modell"
+}

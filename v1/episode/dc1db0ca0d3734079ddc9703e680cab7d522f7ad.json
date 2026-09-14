@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "664afe9f251bd96e6c84324e",
+  "apple_collection_id": "1740117060",
+  "show": "大力读书",
+  "titel": "011-心法贰:认真是态度，也是能力（中）",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/664afe9f251bd96e6c84324e/media.xyzcdn.net/lqSVxzDQxF5AuPABPOJel0VwwXMS.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9085630,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T20:10:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨如何通过专注、设定目标和记录来训练认真的能力。",
+  "kurzfassung": "本期节目探讨了如何通过具体方法来训练认真的能力。主持人爱读书的大力分享了提升专注力、设定科学目标以及通过记录进行反思的实用技巧。同时强调成长中应当以和自己比较为主，关注自身的进步与退步。",
+  "stichpunkte": [
+    "专注力是把事情做好的关键，核心在于一次只做一件事。",
+    "提升专注力的小秘诀包括创造专注空间、设定小目标和给予自己适当奖励。",
+    "设定明确合理的目标能够提供清晰的方向并带来更多动力。",
+    "目标管理的方法包括将大任务拆分为小目标、写下目标并一步一步执行。",
+    "记录是本期重点，涵盖记录进步、错误以及总结挑战与困难。",
+    "成长是一场长跑，应当以和自己比较为主，选择一把好尺子测量真实距离。",
+    "通过写日记可以系统总结一天的表现、反思并计划下一步的改进。"
+  ],
+  "kapitel": [
+    {
+      "titel": "如何训练专注力",
+      "start": 55.5
+    },
+    {
+      "titel": "设定明确的目标",
+      "start": 177.66
+    },
+    {
+      "titel": "记录与自我比较",
+      "start": 287.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T20:10:18+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 556,
+  "veroeffentlicht": "2024-05-20T07:41:17+00:00",
+  "beschreibung": "📚 播客简介 | 大力大力，读书出奇迹！📚\n大家好，我是爱读书的大力！🎉\n你知道如何真正做到专注吗？ 🌟\n设定目标真的有用吗？ 🎯\n记录每天的进步会改变什么？ 📈\n本期播客，我们将继续深入探讨“认真”这一宝贵的品质。上周，我们聊了聊“认真是什么”以及它对我们的价值。而这次，我将具体分享如何训练自己拥有“认真”这项能力。\n🔍 专注：一次只做一件事，真的有效吗？\n我会分享亲身实践的小秘诀，让你在任务中更加专注，提高效率。\n🎯 目标：如何设定科学合理的目标？\n小目标，大成就。我会告诉你如何设定明确的目标，带来动力和高效。\n📝 记录：每天的记录如何帮助你持续进步？\n写日记不仅仅是记录，而是自我反思和成长的关键。听听我的故事，看看如何通过记录改变自己。\n这些秘诀都是我亲身实践的经验，希望对你们有所帮助！\n学会和自己比较，你会发现自己每天都在变得更好。欢迎大家亲身尝试这些方法，期待你的成长故事！\n🎧 点击收听，和大力一起成长吧！\n今天的节目就到这里，我们下期再会！💖\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<h2>📚 播客简介 | 大力大力，读书出奇迹！📚</h2><p>大家好，我是爱读书的大力！🎉</p><h3><strong>你知道如何真正做到专注吗？</strong> 🌟</h3><h3><strong>设定目标真的有用吗？</strong> 🎯</h3><h3><strong>记录每天的进步会改变什么？</strong> 📈</h3><p>本期播客，我们将继续深入探讨“认真”这一宝贵的品质。上周，我们聊了聊“认真是什么”以及它对我们的价值。而这次，我将具体分享如何训练自己拥有“认真”这项能力。</p><p><strong>🔍 专注：一次只做一件事，真的有效吗？</strong></p><p>我会分享亲身实践的小秘诀，让你在任务中更加专注，提高效率。</p><p><strong>🎯 目标：如何设定科学合理的目标？</strong></p><p>小目标，大成就。我会告诉你如何设定明确的目标，带来动力和高效。</p><p><strong>📝 记录：每天的记录如何帮助你持续进步？</strong></p><p>写日记不仅仅是记录，而是自我反思和成长的关键。听听我的故事，看看如何通过记录改变自己。</p><h3><strong>这些秘诀都是我亲身实践的经验，希望对你们有所帮助！</strong></h3><p>学会和自己比较，你会发现自己每天都在变得更好。欢迎大家亲身尝试这些方法，期待你的成长故事！</p><p>🎧 <strong>点击收听，和大力一起成长吧！</strong></p><p>今天的节目就到这里，我们下期再会！💖</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/664afe9f251bd96e6c84324e?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/Fi4xAa3SNxsQQwQ9M1ad0yGdVkYf.png",
+  "kapitel_quelle": "modell"
+}

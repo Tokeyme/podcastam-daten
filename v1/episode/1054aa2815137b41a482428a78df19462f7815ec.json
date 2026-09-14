@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "6a6836c3b581962ce2bc9aba",
+  "apple_collection_id": "1168421399",
+  "show": "半斤八两抡电影",
+  "titel": "两厢情愿的身份错认——《镜的第三乐章》#半斤硬话#Vol",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6773e4a515a5fd520e0fb5bc/6a6836c3b581962ce2bc9aba/media.xyzcdn.net/6773e4a515a5fd520e0fb5bc/lo-j9nvKTIKurfpZW26TDZPE0pmp.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 40346489,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T07:52:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨柏林学派导演佩策尔德影片《镜的第三乐章》中的身份错认与疗愈。",
+  "kurzfassung": "本期节目深度解析德国导演佩策尔德的影片《镜的第三乐章》。通过分析片中的车祸巧合、文学隐喻以及镜像关系，探讨了幸存女孩劳拉与丧女母亲贝蒂之间双向奔赴的身份错认。节目剖析了二人如何在诡异而温情的关系中相互疗愈，最终找回自我。",
+  "stichpunkte": [
+    "影片《镜的第三乐章》由德国导演佩策尔德执导，聚焦其一贯迷恋的身份议题。",
+    "故事讲述女孩劳拉遭遇车祸，男友当场身亡，她随后借住在丧女的中年女人贝蒂家中。",
+    "劳拉与贝蒂之间逐渐产生了类似于母女的依恋，彼此模糊了原有的身份。",
+    "叙事中巧妙融入了桌游“Celebrity Heads”的规则，暗示了角色对真实身份的盲区。",
+    "影片直接引用了马克·吐温的《汤姆·索亚历险记》，贝蒂借此将劳拉定义为孤儿身份。",
+    "劳拉在车祸前后的游魂状态，以及与神秘黑衣人、贝蒂的对视，带有强烈的死亡轮回色彩。",
+    "麦克斯的愤怒与劳拉流血的萌醒时刻，成为打破镜像、找回自我的转折点。",
+    "最终，通过音乐演奏这一公共空间，劳拉与贝蒂一家各自厘清了镜像与真实，回归各自的生活。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目引言与影片背景介绍",
+      "start": 9.62
+    },
+    {
+      "titel": "第一章节：Celebrity Heads与隐秘的魔术秀",
+      "start": 328.6
+    },
+    {
+      "titel": "第二章节：汤姆索亚的文学隐喻与身份重塑",
+      "start": 891.94
+    },
+    {
+      "titel": "第三章节：森然的对视、轮回与镜像打破",
+      "start": 1638.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T07:52:36+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2492,
+  "veroeffentlicht": "2026-07-30T08:30:00+00:00",
+  "beschreibung": "详情可搜索公众号“半斤八两抡电影”。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>详情可搜索公众号“半斤八两抡电影”。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a6836c3b581962ce2bc9aba?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fuml4-5ZMk7USkWSdd22nkhEMgHW.jpg",
+  "kapitel_quelle": "modell"
+}

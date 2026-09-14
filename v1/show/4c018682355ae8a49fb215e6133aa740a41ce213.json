@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "show": "Life Will Be the Death of Me with Chelsea Handler",
+  "apple_collection_id": "1462096941",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "9f1e2ac3-85d3-4fd9-aa70-b4b9017e4820",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/9f1e2ac3-85d3-4fd9-aa70-b4b9017e4820/audio.mp3?utm_source=Podcast&in_playlist=b6ae1030-2ee8-4665-aa9d-ae39005b2508",
+      "pfad": "/v1/episode/d2b5d6f4bf37ad258fb17ddac299e5b428fac3e7.json",
+      "titel": "Stimulation Junkie with Kristen Johnston",
+      "veroeffentlicht": "2026-09-03T07:05:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Kristen Johnston joins to talk about sobriety, aging, and life after 40."
+    },
+    {
+      "guid": "55551d32-c1b1-41ec-a116-b4ab011282e2",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/55551d32-c1b1-41ec-a116-b4ab011282e2/audio.mp3?utm_source=Podcast&in_playlist=b6ae1030-2ee8-4665-aa9d-ae39005b2508",
+      "pfad": "/v1/episode/f422e894cf2b0bc5c3a9618bda1e98e61361c48d.json",
+      "titel": "Retirement? with Anna Faris",
+      "veroeffentlicht": "2026-08-20T07:05:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Chelsea Handler chats with Anna Faris about aging, comedy, and life's unexpected turns."
+    }
+  ]
+}

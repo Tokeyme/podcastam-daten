@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_998113212",
+  "apple_collection_id": "1851366837",
+  "show": "小段说体育",
+  "titel": "勒布朗詹姆斯",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOGuxkACs6XgSwGJNJ.m4a?channel=rss&album_id=110591512&track_id=998113212&uid=375910794&jt=https://aod.cos.tx.xmcdn.com/storages/997a-audiofreehighqps/59/20/GKwRIDoOGuxkACs6XgSwGJNJ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2832990,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:04:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "勒布朗詹姆斯宣布离开湖人队并将在NBA继续职业生涯。",
+  "kurzfassung": "勒布朗詹姆斯官宣离开湖人队，但并未选择退役，而是计划寻找新球队继续征战。目前热火、骑士以及勇士被视为他的热门下家。他在NBA的悠久生涯和历史级的身体状态证明了自己依然具备强大的竞争力。",
+  "stichpunkte": [
+    "勒布朗詹姆斯宣布离开湖人队并寻找新NBA球队继续生涯",
+    "其在湖人的8年是其单段效力时间最长的球队经历",
+    "热火、骑士和勇士是目前讨论度较高的三支潜在下家",
+    "勇士队面临薪资空间和交易筹码的限制，引进过程存疑",
+    "下赛季将成为NBA历史上首位征战第24个赛季的球员",
+    "勒布朗詹姆斯兼具商业头脑、历史级身体天赋与极高自律性",
+    "西部竞争激烈，勇士若引进他仍将面临雷霆、掘金等强队挑战"
+  ],
+  "kapitel": [
+    {
+      "titel": "勒布朗詹姆斯宣布离开湖人",
+      "start": 1.18
+    },
+    {
+      "titel": "潜在下家分析与转会传闻",
+      "start": 104.98
+    },
+    {
+      "titel": "漫长职业生涯与竞技状态",
+      "start": 196.62
+    },
+    {
+      "titel": "天赋自律与未来展望",
+      "start": 251.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:04:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 349,
+  "veroeffentlicht": "2026-07-01T14:51:01+00:00",
+  "beschreibung": "老詹何去何从",
+  "beschreibung_html": "老詹何去何从",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1109-audiofreehighqps/97/A9/GAqh6-4OGuxRAAEeCQSwGIcC.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_927682221",
+  "apple_collection_id": "1543400506",
+  "show": "食聊｜健康饮食、运动和生活方式",
+  "titel": "食聊#35-乳制品消费与心血管代谢健康",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAM3gK7ANiDxwQvLvKK.m4a?channel=rss&album_id=44421358&track_id=927682221&uid=275164883&jt=https://aod.cos.tx.xmcdn.com/storages/d064-audiofreehighqps/0C/E7/GKwRIMAM3gK7ANiDxwQvLvKK.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 14189511,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T19:48:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨不同类型乳制品对人体心血管代谢健康的影响及科学消费建议",
+  "kurzfassung": "本期节目探讨了乳制品对心血管代谢健康的影响，重点区分了牛奶、酸奶和奶酪在脂肪含量和发酵状态上的差异。通过专家的研究成果，分析了酸奶与二型糖尿病风险降低、乳制品与心脑血管疾病以及高血压之间的关联。最后，结合全球饮食指南的变化，给出了关于日常乳制品选择和食用的科学建议。",
+  "stichpunkte": [
+    "乳制品在国人饮食中日益普及，但不同类型的乳制品对健康的影响并不完全相同。",
+    "区分乳制品的两大关键指标是脂肪含量和发酵状态，固体的奶酪热量密度远高于液体乳制品。",
+    "非发酵乳保留了原奶的完整成分和乳糖，而发酵乳则有助于乳糖不耐受人群且富含有益菌。",
+    "研究表明，酸奶的摄入与二型糖尿病患病风险降低相关，这可能与其中的益生菌及体重控制有关。",
+    "尽管奶酪属于高脂肪高钠食品，但多数分析显示其与心脑血管疾病风险没有直接关联，这体现了食物基质效应。",
+    "钙质与饱和脂肪的结合是解释奶酪对低密度胆固醇影响较小的主要机制假说之一。",
+    "长期饮用牛奶与高血压风险降低相关，这与美国DASH饮食实验的研究结果相符。",
+    "加拿大等国的新版饮食指南将乳制品并入蛋白质食物组，反映了鼓励植物性食物的全球趋势。",
+    "评估食物对健康的影响必须考虑替代效应和对照物，用乳制品替代加工肉类对身体有益。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目导入与赞助商介绍",
+      "start": 19.94
+    },
+    {
+      "titel": "专家背景介绍与乳制品的分类标准",
+      "start": 191.02
+    },
+    {
+      "titel": "酸奶与二型糖尿病风险的相关性",
+      "start": 731.9
+    },
+    {
+      "titel": "乳制品与心脑血管疾病及食物基质效应",
+      "start": 914.94
+    },
+    {
+      "titel": "乳制品与高血压的关联",
+      "start": 1179.56
+    },
+    {
+      "titel": "饮食指南的变革与乳制品的合理消费",
+      "start": 1377.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T19:48:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1752,
+  "veroeffentlicht": "2025-11-07T11:00:00+00:00",
+  "beschreibung": "Show Notes：\n00:21 INTRO\n01:35 赞助商——卡士餐后一小时\n03:11 Jean‑Philippe Drouin‑Chartier 教授简介\n04:15 乳制品的类型以及区分类别的重要性\n12:12 酸奶与二型糖尿病风险降低相关联\n15:15 奶酪与心血管疾病风险并无明显相关性（食物基质效应）\n19:40 牛奶对抵抗高血压有潜在益处\n22:57 乳制品在食物结构中的地位以及如何选择和消费乳制品\n\nBGM：\nJulian Lage – Day and Age\n\nReference：\n1. Prof. Jean-Philippe Drouin-Chartier: How Does Dairy Impact Cardiometabolic Health?\n2. Drouin-Chartier et al., 2016: Comprehensive Review of the Impact of Dairy Foods and Dairy Fat on Cardiometabolic Risk\n3. Drouin-Chartier et al., 2019: Changes in dairy product consumption and risk of type 2 diabetes: results from 3 large prospective cohorts of US men and women\n4. Drouin-Chartier et al., 2017: Differential impact of the cheese matrix on the postprandial lipid response: a randomized, crossover, controlled trial\n5. Drouin-Chartier et al., 2014: Impact of dairy consumption on essential hypertension: a clinical study\n6. Drouin-Chartier et al., 2016: Systematic Review of the Association between Dairy Product Consumption and Risk of Cardiovascular-Related Clinical Outcomes",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/17e6-audiofreehighqps/70/EF/GAqh4zIM3gIVAAD6bwQvLpg5.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/17e6-audiofreehighqps/70/EF/GAqh4zIM3gIVAAD6bwQvLpg5.jpeg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/17e6-audiofreehighqps/70/EF/GAqh4zIM3gIVAAD6bwQvLpg5.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"1052.6315789473683\" data-preview=\"http://imagev2.xmcdn.com/storages/17e6-audiofreehighqps/70/EF/GAqh4zIM3gIVAAD6bwQvLpg5.jpeg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"196.49122807017542\"><br>Show Notes：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>00:21 INTRO</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>01:35 </span>赞助商——卡士餐后一小时</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>03:11 Jean‑Philippe Drouin‑Chartier </span>教授简介</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>04:15 </span>乳制品的类型以及区分类别的重要性</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>12:12 </span>酸奶与二型糖尿病风险降低相关联</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>15:15 </span>奶酪与心血管疾病风险并无明显相关性（食物基质效应）</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>19:40 </span>牛奶对抵抗高血压有潜在益处</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>22:57 </span>乳制品在食物结构中的地位以及如何选择和消费乳制品</p><br><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>BGM</span>：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>Julian Lage – Day and Age</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span><span>Reference</span>：</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span><span>1. Prof. Jean-Philippe Drouin-Chartier: How Does Dairy Impact Cardiometabolic Health?&nbsp;</span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span>2. <span>Drouin-Chartier et al., 2016: Comprehensive Review of the Impact of Dairy Foods and Dairy Fat on Cardiometabolic Risk</span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span>3. <span>Drouin-Chartier et al., 2019: Changes in dairy product consumption and risk of type 2 diabetes: results from 3 large prospective cohorts of US men and women</span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span>4. <span>Drouin-Chartier et al., 2017: Differential impact of the cheese matrix on the postprandial lipid response: a randomized, crossover, controlled trial</span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span>5. <span>Drouin-Chartier et al., 2014: Impact of dairy consumption on essential hypertension: a clinical study</span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span>6. <span>Drouin-Chartier et al., 2016: Systematic Review of the Association between Dairy Product Consumption and Risk of Cardiovascular-Related Clinical Outcomes</span></span></p><span><br></span>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d535-audiofreehighqps/E3/3C/CMCoOSEDn8xVAADqrwBt2xHM.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "cc2a6e70-e468-4bae-90f0-b4ae008d34be",
+  "apple_collection_id": "1654809850",
+  "show": "Merryn Talks Money",
+  "titel": "What Happens When Quantum Computing Actually Works?",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1742e0df-336e-4798-9bdf-af4d00f3c918/cc2a6e70-e468-4bae-90f0-b4ae008d34be/audio.mp3?utm_source=Podcast&in_playlist=b65f5d94-dd18-419c-9276-af4d00f43c32",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 38578368,
+    "format": "mp3",
+    "geprueft_am": "2026-08-29T07:13:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "How quantum computing will transform industries, disrupt cybersecurity, and challenge…",
+  "kurzfassung": "Daniel Don Steinberg explains the current state of AI and large language models before diving into quantum computing. He details how logical qubits, optimization, and simulation will revolutionize industries like drug discovery and finance. Finally, he discusses the geopolitical landscape, investment strategies, and the philosophical implications of quantum mechanics.",
+  "stichpunkte": [
+    "AI large language models mimic human writing styles and are set to disrupt rule-based professions like law and accounting.",
+    "Quantum computing operates on probabilistic bits rather than binary ones and zeros, representing a complete break from traditional compute.",
+    "The two primary strengths of quantum computing are complex optimization and molecular simulation.",
+    "Physical qubits are raw working units, while logical qubits are error-corrected and reliable, with around 50 to 100 logical qubits marking the threshold of practical utility.",
+    "Quantum encryption breaking (QDA) poses threats to digital security, though major cloud providers are already building defenses.",
+    "Quantum hardware will likely be supply-restricted and heavily regulated, creating winner-takes-all scenarios for early adopters in pharmaceuticals and logistics.",
+    "The UK holds a strong global position in quantum expertise and material science.",
+    "Quantum technological advancements will eventually challenge fundamental human assumptions about reality, necessitating a turn to philosophy."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and AI Models",
+      "start": 2.72
+    },
+    {
+      "titel": "The Fundamentals of Quantum Computing",
+      "start": 652.32
+    },
+    {
+      "titel": "Logical Cubits and Practical Timelines",
+      "start": 874.32
+    },
+    {
+      "titel": "Security Threats and Commercial Applications",
+      "start": 1128.76
+    },
+    {
+      "titel": "Geopolitics, Investments, and Philosophy",
+      "start": 1653.88
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Why rule-based professions are facing massive disruption from LLMs",
+      "start": 355.448,
+      "ende": 377.365,
+      "laenge": 21.92,
+      "byte_start": 5747257,
+      "byte_ende": 6097924,
+      "bytes": 350668,
+      "range_header": "bytes=5747257-6097924",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 355.526,
+      "anker_sha256": "3cb4e1ecd08e06509d7adcee3a6337f083f4a6e62f7260ba4c5c4912b4ba2ec7",
+      "einblendung_ms": 60,
+      "text": "How artificial intelligence generates novel content by imitating various writing styles based on existing training material."
+    },
+    {
+      "hook": "The staggering number of combinations in a simple table plan",
+      "start": 733.1,
+      "ende": 763.22,
+      "laenge": 30.12,
+      "byte_start": 11789693,
+      "byte_ende": 12271599,
+      "bytes": 481907,
+      "range_header": "bytes=11789693-12271599",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 733.179,
+      "anker_sha256": "04afca60f88a45cc9b2d4dfa01d95ceb978d239ff4f4acd7660cfa17e9572bf0",
+      "einblendung_ms": 60,
+      "text": "The historical development of quantum mechanics from Richard Feynman's 1970s proposals to IBM's early experiments moving beyond binary bits."
+    },
+    {
+      "hook": "The massive difference between physical and logical qubits",
+      "start": 916.402,
+      "ende": 936.516,
+      "laenge": 20.11,
+      "byte_start": 14722512,
+      "byte_ende": 15044340,
+      "bytes": 321829,
+      "range_header": "bytes=14722512-15044340",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 916.48,
+      "anker_sha256": "a8811e4cc4cd27c21499f570a8ef335f7075634425b7525cf51c0fdc3dab82fe",
+      "einblendung_ms": 60,
+      "text": "An assessment of whether current quantum hardware is genuinely functional and stable through the mechanics of qubits."
+    },
+    {
+      "hook": "How quantum computing leads inevitably to winner-takes-all scenarios",
+      "start": 1399.876,
+      "ende": 1429.995,
+      "laenge": 30.12,
+      "byte_start": 22458101,
+      "byte_ende": 22940007,
+      "bytes": 481907,
+      "range_header": "bytes=22458101-22940007",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1399.954,
+      "anker_sha256": "32c7af07cf9a9b6bfc39eadc15256ad5a0bbdd73eb5719e6930be52402ae7987",
+      "einblendung_ms": 60,
+      "text": "The massive commercial advantage a pharmaceutical company would gain by using advanced quantum computers to discover new drugs faster than competitors."
+    },
+    {
+      "hook": "When reality itself gets challenged by quantum data",
+      "start": 2199.641,
+      "ende": 2229.734,
+      "laenge": 30.09,
+      "byte_start": 35254339,
+      "byte_ende": 35735827,
+      "bytes": 481489,
+      "range_header": "bytes=35254339-35735827",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2199.719,
+      "anker_sha256": "46e80b1ef92beb9d92c0ba94de266551ed9449dbf179479e410ebf43e93a98f2",
+      "einblendung_ms": 60,
+      "text": "Personal investment strategies regarding gold and Bitcoin, alongside current reading preferences focusing on philosophy."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-29T07:13:38+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2290,
+  "veroeffentlicht": "2026-08-24T04:00:00+00:00",
+  "beschreibung": "Merryn Somerset Webb talks to Daniel Doll-Steinberg, Co-Founder & Partner at EdenBase, an investment firm that invests in quantum computing, about why the next great technological leap may arrive sooner than investors expect. They explore how quantum could transform drug discovery, finance and encryption. They also look at how investors can get meaningful exposure to the quantum boom, what “Q-Day” really means for Bitcoin, and why understanding philosophy goes hand-in-hand with understanding quantum.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Merryn Somerset Webb talks to Daniel Doll-Steinberg, Co-Founder &amp; Partner at EdenBase, an investment firm that invests in quantum computing, about why the next great technological leap may arrive sooner than investors expect. They explore how quantum could transform drug discovery, finance and encryption. They also look at how investors can get meaningful exposure to the quantum boom, what &ldquo;Q-Day&rdquo; really means for Bitcoin, and why understanding philosophy goes hand-in-hand with understanding quantum.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/1742e0df-336e-4798-9bdf-af4d00f3c918/image.jpg?t=1668543575&size=Large",
+  "kapitel_quelle": "modell"
+}

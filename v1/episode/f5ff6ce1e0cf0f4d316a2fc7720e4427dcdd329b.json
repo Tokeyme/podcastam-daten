@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_779184204",
+  "apple_collection_id": "1824101609",
+  "show": "【免费】冥夫别过来|她她演播制作|悬疑言情|甜宠",
+  "titel": "冥夫别过来-001-光着身子的小孩(新人主播求宝贝们推荐、好评~)",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUELHlfYACxRxAM3iCoC.m4a?channel=rss&album_id=84679663&track_id=779184204&uid=35515292&jt=https://aod.cos.tx.xmcdn.com/storages/9f38-audiofreehighqps/B5/97/GKwRIUELHlfYACxRxAM3iCoC.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2904516,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T14:51:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "楚瑶在22岁 Lingshengyuandian 遭遇诡异事件与恐怖小孩。",
+  "kurzfassung": "楚瑶年满二十二岁之际，家中发生诡异的烧纸和香灰事件。随后母亲与外婆神秘失踪，屋内陷入黑暗并出现诡异声响。她在屋内遭遇了一个腐烂流血、面部空洞的恐怖婴孩。",
+  "stichpunkte": [
+    "楚瑶21岁，外婆曾算命称其22岁是大劫",
+    "正月初三深夜，母亲与外婆在院中烧纸磕头",
+    "供桌上的香炉出现两长一短的无火香",
+    "进屋后突然停电，母亲与外婆神秘失踪",
+    "屋内的黑暗中传来诡异的孩童笑声",
+    "楚瑶额头上滴落刺鼻的血迹",
+    "房内出现一个光着身子、面部腐烂流蛆的恐怖婴孩"
+  ],
+  "kapitel": [
+    {
+      "titel": "诡异的烧纸仪式",
+      "start": 1.18
+    },
+    {
+      "titel": "母亲与外婆的担忧",
+      "start": 131.12
+    },
+    {
+      "titel": "屋内停电与亲人失踪",
+      "start": 247.26
+    },
+    {
+      "titel": "血迹与恐怖婴孩",
+      "start": 354.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T14:51:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 476,
+  "veroeffentlicht": "2024-11-28T16:05:31+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/16b5-audiofreehighqps/FF/04/GKwRIRwLHiG2AAroQgM3ZWkJ.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

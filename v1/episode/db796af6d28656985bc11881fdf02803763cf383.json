@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_758100980",
+  "apple_collection_id": "1535785868",
+  "show": "CLUB100骑行播客",
+  "titel": "VOL.27 Ironman世锦赛前的采访",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4KwiC5AHxTcAMSZJ00.m4a?channel=rss&album_id=40196403&track_id=758100980&uid=244858086&jt=https://aod.cos.tx.xmcdn.com/storages/7b22-audiofreehighqps/F7/19/GKwRIW4KwiC5AHxTcAMSZJ00.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8147824,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T09:41:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨在工作繁忙与身体变故下，普通人如何备战Ironman世锦赛。",
+  "kurzfassung": "本期节目采访了即将参加尼斯Ironman世锦赛的音乐。面对严重的身体健康问题、高强度的工作压力以及新开始的恋爱，她调整了对比赛成绩的期待。最终，她选择放下训练计划带来的焦虑，以享受过程和陪伴家人为重。",
+  "stichpunkte": [
+    "今年Ironman世锦赛在尼斯举行，女子组选手音乐在出发前接受了采访",
+    "音乐在五月份被查出前庭神经瘤，导致持续头晕，严重影响了系统的训练",
+    "作为咨询行业的工作者，高强度的工作压力和项目制交付挤占了大量训练时间",
+    "在经历三年单身空窗期后开始谈恋爱，生活重心和节奏发生了变化",
+    "面对身体和工作上的双重打击，她逐渐放下了训练打卡带来的焦虑",
+    "此次参赛的主要意义在于享受过程，并带从未出过国看她大比赛的父母去现场",
+    "教练也开解她无需纠结成绩，只需将比赛当成长距离的骑行和漫步",
+    "她计划在世锦赛结束后暂停年底前的所有训练课表，未来会继续尝试不同类型的比赛"
+  ],
+  "kapitel": [
+    {
+      "titel": "赛事背景与备战现状",
+      "start": 0.0
+    },
+    {
+      "titel": "应对伤病、高强度工作与恋爱的平衡",
+      "start": 102.42
+    },
+    {
+      "titel": "调整世锦赛目标与心态转变",
+      "start": 356.56
+    },
+    {
+      "titel": "享受比赛过程与未来的运动规划",
+      "start": 779.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T09:41:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1336,
+  "veroeffentlicht": "2024-09-19T17:20:59+00:00",
+  "beschreibung": "本周末是Ironman世锦赛女子的部分，之前上过我们播客的殷悦，去年赢得了Ironman世锦赛的资格。一年过后，她真的要出发法国尼斯了，但是这一年人生却有很多变故。\n\n同时欢迎关注我们各平台的视频内容。\nB站/小红书：CLUB100，公众号：CLUB100自行车",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本周末是Ironman世锦赛女子的部分，之前上过我们播客的殷悦，去年赢得了Ironman世锦赛的资格。一年过后，她真的要出发法国尼斯了，但是这一年人生却有很多变故。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">同时欢迎关注我们各平台的视频内容。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">B<span>站</span>/<span>小红书：</span>CLUB100<span>，公众号：</span>CLUB100<span>自行车</span></p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/dfbb-audiofreehighqps/F7/A5/CMCoOSQDgaU8ABSr_wBl9qiQ.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

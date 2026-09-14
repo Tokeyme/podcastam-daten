@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "PokerGO Podcast",
+  "apple_collection_id": "1197012668",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74469057",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74469057/pokergo_podcast_8_21_26.mp3",
+      "pfad": "/v1/episode/f5151b5711eb45003c9fddd03ce314cdf0f510c8.json",
+      "titel": "WSOP Ratings and Future of Broadcasts with Lance Bradley",
+      "veroeffentlicht": "2026-08-21T17:40:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Lance Bradley joins Donnie Peters to discuss the WSOP ratings, ESPN return, and poker's…"
+    }
+  ]
+}

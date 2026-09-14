@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_824117627",
+  "apple_collection_id": "1525185337",
+  "show": "晓东讲故事-奇闻档案",
+  "titel": "387.法医遇到的那些奇葩案子",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwLtYoJAUaFXwOEHiOt.m4a?channel=rss&album_id=30327212&track_id=824117627&uid=33235239&jt=https://aod.cos.tx.xmcdn.com/storages/631b-audiofreehighqps/9D/F3/GKwRIRwLtYoJAUaFXwOEHiOt.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 21398879,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T11:52:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨法医在职业生涯中遇到的种种离奇古怪案件与死亡谜题。",
+  "kurzfassung": "节目盘点并探讨了法医在职业生涯中遇到的多起离奇案件，包括雪地无足迹谋杀、无伤口中毒、人体自燃以及消失的子弹等。这些案件展现了各种匪夷所思的死亡方式与现场。主持人们对这些案件的真实性与细节展开了讨论与吐槽。",
+  "stichpunkte": [
+    "雪地无足迹谋杀案：死者中枪身亡但周围雪地毫无痕迹，最终破案证实凶手使用了小型遥控直升机。",
+    "无伤口的中毒死亡：女子家中身亡且体内有大量毒物，但没有伤口和口服痕迹，调查显示可能与长期使用的口红有关。",
+    "人体自燃现象：客厅宠物狗报警发现主人身体正在燃烧，火势从体内蔓延，探讨了蜡烛效应、静电和体内气体燃烧等理论。",
+    "尸体会说话：荒野发现高度腐烂尸体，法医在喉咙中发现一张写有自杀原因的碎纸片遗书。",
+    "消失的子弹：一人室内双手拿枪自杀，身上有弹孔但屋内各处均未找到弹头。",
+    "一截断指：入室盗窃案现场的手套大拇指内发现了一截带血的断指，怀疑因搬运保险箱时不慎压断。",
+    "火柴引发的案件：法医分享一人用火柴掏耳朵不慎捅破血管导致流血过多死亡的案例。",
+    "冰淇淋引发的案件：老人吃完温度极低的冰淇淋后因严重心血管疾病导致血管收缩猝死。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与离奇案件概述",
+      "start": 0.0
+    },
+    {
+      "titel": "雪地无足迹谋杀案",
+      "start": 104.82
+    },
+    {
+      "titel": "无伤口的中毒死亡",
+      "start": 381.76
+    },
+    {
+      "titel": "人体自燃现象",
+      "start": 763.08
+    },
+    {
+      "titel": "尸体会说话",
+      "start": 1211.32
+    },
+    {
+      "titel": "消失的子弹",
+      "start": 1368.42
+    },
+    {
+      "titel": "一截断指与自杀炸弹",
+      "start": 1625.44
+    },
+    {
+      "titel": "日常物件与离奇死法讨论",
+      "start": 2094.94
+    },
+    {
+      "titel": "浴室猝死与半截尸体水泥案",
+      "start": 2492.72
+    },
+    {
+      "titel": "差点错过的谋杀与桥上自杀之谜",
+      "start": 2910.32
+    },
+    {
+      "titel": "冰淇淋猝死与结语",
+      "start": 3354.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T11:52:56+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3510,
+  "veroeffentlicht": "2025-04-26T03:35:59+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9068-audiofreehighqps/BE/EF/GAqhp50LtYmNAAFxQAOEHdOY.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

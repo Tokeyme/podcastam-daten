@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "67f657d659699d74dc9cbcaa",
+  "apple_collection_id": "1518854082",
+  "show": "实习生活 Interns of Life",
+  "titel": "出前e丁 | 《实习生活》出书啦！",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/67f657d659699d74dc9cbcaa/media.xyzcdn.net/5ee745a5418a84a0467e1c39/lhbaw7zdUBhiKnLq0uaP6WRQxGes.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4345998,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:02:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "播客《实习生活》与微信读书合作推出精选电子书",
+  "kurzfassung": "播客《实习生活》宣布与微信读书合作推出同名电子书。该书精选了过去五年来节目中的二十多期精彩内容，将播客音频转化为文字形式。两位主播通过回顾整理过程，分享了她们对职场成长和节目开办五周年的感悟。",
+  "stichpunkte": [
+    "播客《实习生活》与微信读书合作推出精选电子书",
+    "电子书内容精选自过去五年间的二十多期播客节目",
+    "两位主播从小益和丁丁的实习生身份成长为资场人",
+    "整理文稿的过程让主播们重温了当年的启发与收获",
+    "书中探讨了争取机会、处理职场关系及新人态度等话题",
+    "电子书序言总结了播客五年来的发展历程与心路历程",
+    "节目自2020年上线以来已获得十多万职场新人的喜爱",
+    "主播希望通过播客和电子书陪伴年轻人看到更广阔的世界"
+  ],
+  "kapitel": [
+    {
+      "titel": "宣布电子书上线",
+      "start": 0.0
+    },
+    {
+      "titel": "电子书背后的感悟",
+      "start": 57.46
+    },
+    {
+      "titel": "宣读电子书序言",
+      "start": 99.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:02:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 268,
+  "veroeffentlicht": "2025-04-09T11:20:16+00:00",
+  "beschreibung": "我们和微信读书合作的电子书《机智的实习生活》上线啦！\n距离《实习生活》第一期节目的上线，已经过去了近五年，这个播客见证了小e丁丁的成长，见证了我们与嘉宾与听友们的友谊，我们都已经从实习生成为了职场人。\n回看之前的内容，每一位嘉宾的经历都闪闪发光，许多嘉宾分享的经验干货让已经在职场摸爬滚打了几年的我们都觉得再一次受益。所以我们决定与微信读书合作，将我们节目的音频对话以文字的形式呈现出来，希望能帮助到更多对求职和职场有所迷茫的朋友们。\n在微信读书app🔍搜索《机智的实习生活》或扫描下图二维码就可以找到我们的电子书啦！希望大家点击阅读、加入书架、并积极给我们评分和评论哦！\n感谢大家五年来的陪伴和共同成长，我们在微信读书见！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>我们和微信读书合作的电子书《机智的实习生活》上线啦！</p><p>距离《实习生活》第一期节目的上线，已经过去了近五年，这个播客见证了小e丁丁的成长，见证了我们与嘉宾与听友们的友谊，我们都已经从实习生成为了职场人。</p><p>回看之前的内容，每一位嘉宾的经历都闪闪发光，许多嘉宾分享的经验干货让已经在职场摸爬滚打了几年的我们都觉得再一次受益。所以我们决定与微信读书合作，将我们节目的音频对话以文字的形式呈现出来，希望能帮助到更多对求职和职场有所迷茫的朋友们。</p><p>在微信读书app🔍搜索《机智的实习生活》或扫描下图二维码就可以找到我们的电子书啦！希望大家点击阅读、加入书架、并积极给我们评分和评论哦！</p><p>感谢大家五年来的陪伴和共同成长，我们在微信读书见！</p><figure><img src=\"https://image.xyzcdn.net/FjBnAh9qN3jlZJU3GZ_NgvyAbnva.jpeg\"/></figure><br><a href=\"https://oia.xiaoyuzhoufm.com/player/67f657d659699d74dc9cbcaa?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FuwWgCRlhLtC1BGJyQ9TS_09fIPN.png",
+  "kapitel_quelle": "modell"
+}

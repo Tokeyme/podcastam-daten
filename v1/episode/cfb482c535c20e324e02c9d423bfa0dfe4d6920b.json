@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_951942673",
+  "apple_collection_id": "1581613641",
+  "show": "虎谈体育|用吐槽的方式，带你了解不一样的体育资讯！",
+  "titel": "U23国足0-4日本，失利背后未来之路何去何从？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwNS1szACfPLARfaQDP.m4a?channel=rss&album_id=51492705&track_id=951942673&uid=258062169&jt=https://aod.cos.tx.xmcdn.com/storages/c1dd-audiofreehighqps/79/9F/GKwRIRwNS1szACfPLARfaQDP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2608940,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:00:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "U23国足0比4负于日本获亚洲杯亚军，理性看待差距与未来之路",
+  "kurzfassung": "中国U23男足在亚洲杯决赛中0比4不敌日本队，获得亚军并创造了历史最佳战绩。赛后球员情绪失落，教练组暖心鼓励引发热议。这场失利暴露出中日两国在整体实力、青训体系及球员技术上的显著差距。",
+  "stichpunkte": [
+    "中国U23男足在亚洲杯决赛中0比4负于日本队，获得亚军，创造队史最佳战绩",
+    "比赛过程中日本队凭借折射、远射和点球多次破门，实力优势明显",
+    "赛后球员痛哭，教练组大喊鼓励令球员抬起头来，该场景登上热搜",
+    "失利根源在于中日两国在整体实力和青训体系上的巨大差距",
+    "日本全国注册青少年球员超50万，中国不足10万，且多名日本球员在欧洲顶级联赛效力",
+    "中国队在控球、盘带、停球等技术能力以及中场衔接和心态上均有待加强",
+    "需通过扩大足球人口、完善青训体系和提升心理抗压能力来谋求未来发展",
+    "尽管比分扎眼，但球队已拼到最后一刻，无需为亚军道歉"
+  ],
+  "kapitel": [
+    {
+      "titel": "比赛回顾",
+      "start": 0.0
+    },
+    {
+      "titel": "赛后反应",
+      "start": 67.78
+    },
+    {
+      "titel": "失利原因与差距",
+      "start": 115.22
+    },
+    {
+      "titel": "未来展望",
+      "start": 223.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:00:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 322,
+  "veroeffentlicht": "2026-01-25T04:12:25+00:00",
+  "beschreibung": "2026年1月24日，U23亚洲杯决赛在沙特吉达举行，以第四档身份参赛的中国U23男足对阵卫冕冠军日本队，最终中国队0比4失利，获得亚军，但这个亚军也创造了中国男足在U23亚洲杯上的历史最佳战绩。\n\n对此，你怎么看？",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">2026年1月24日，U23亚洲杯决赛在沙特吉达举行，以第四档身份参赛的中国U23男足对阵卫冕冠军日本队，最终中国队0比4失利，获得亚军，但这个亚军也创造了中国男足在U23亚洲杯上的历史最佳战绩。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">对此，你怎么看？</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b883-audiofreehighqps/9C/49/GKwRIUENS1s9AAR2YARfaQZl.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

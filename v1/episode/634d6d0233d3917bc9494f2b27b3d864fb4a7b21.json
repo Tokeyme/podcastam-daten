@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_695334095",
+  "apple_collection_id": "1725631737",
+  "show": "富爸爸：真实世界的商业教育",
+  "titel": "1.穷爸爸富爸爸1",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasJXLIQACHZeAKRKTFr.m4a?channel=rss&album_id=79750885&track_id=695334095&uid=132859201&jt=https://aod.cos.tx.xmcdn.com/storages/8caa-audiofreehighqps/28/E5/GKwRIasJXLIQACHZeAKRKTFr.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2218360,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:54:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨穷爸爸富爸爸的理财观念，解析穷人与富人的思维差异。",
+  "kurzfassung": "节目探讨了年轻人努力工作却难以摆脱财务困境的普遍现象。通过审视《穷爸爸富爸爸》一书，指出贫穷的根本原因在于思维模式而非单纯缺钱。真正的财富变革始于思想观念的更新，应当用富人的思维方式去看待金钱与生活。",
+  "stichpunkte": [
+    "许多年轻人努力工作多年，收支平衡却很难攒下积蓄",
+    "面对房价背负沉重负债，导致对工作的依赖不断加深",
+    "为了消费而工作、再为了更多消费而努力，陷入永无止境的循环",
+    "父母将自己的思维方式传递给孩子，让下一代重复同样的道路",
+    "《穷爸爸富爸爸》出版虽久，但其关于财富的核心观念并未过时",
+    "贫穷的根本原因是贫穷的思维模式，让人无法抓住财富机会",
+    "所有生存状况的改变，都必然始于思想上的改变",
+    "富人富有的根本原因在于拥有富人的大脑，而非单纯拥有金钱"
+  ],
+  "kapitel": [
+    {
+      "titel": "打工挣钱的循环与困境",
+      "start": 0.66
+    },
+    {
+      "titel": "审视《穷爸爸富爸爸》与财富观念",
+      "start": 153.44
+    },
+    {
+      "titel": "贫穷思维的本质与思想变革",
+      "start": 199.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:54:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 273,
+  "veroeffentlicht": "2023-12-23T16:30:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d76f-audiofreehighqps/7E/3C/GMCoOR8JXLDDAAIv8AKRKIqR.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

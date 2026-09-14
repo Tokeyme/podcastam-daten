@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "6a01a7fd1b7bd50295ecd1dc",
+  "apple_collection_id": "1706465600",
+  "show": "「电影考尴赏」粤语播客",
+  "titel": "豆瓣9.1分神作《给阿嬷的情书》：不止爱情，两位女性的\"托举\"与跨越江海的大爱",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6316d0ee4337559012241210/6a01a7fd1b7bd50295ecd1dc/media.xyzcdn.net/6316d0ee4337559012241210/ljhQsA8fbzi6SgfRGqePMsXDNDy6.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 63964241,
+    "format": "m4a",
+    "geprueft_am": "2026-09-12T07:01:43+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨华语高分电影《给阿嬷的情书》，解析潮汕文化背景下跨越山海的真挚情感。",
+  "kurzfassung": "三位主播深入探讨了在豆瓣获得高分的华语电影《给阿嬷的情书》。节目从潮汕冷知识切入，分析了片中独特的银信历史背景与“出花园”成人礼习俗。他们盛赞该片以素人演员阵容呈现了超越爱情的女性互助与宏大情感。",
+  "stichpunkte": [
+    "探讨华语真人电影在豆瓣斩获9.1高分的现象与黑马之姿",
+    "介绍潮汕地区的特色历史文化，包括“平安批”、“银信”与“出花园”成人礼",
+    "分析影片从开局的家庭故事到后段展现两位女性跨越江海、守望相助的深刻转变",
+    "评价全素人演员阵容的真实表演与导演在镜头语言上的升级",
+    "对比同类型作品，探讨该片如何回归人心暖意与汉字书信的古典浪漫",
+    "分享各自的观影感动与最终评分，普遍给予高度赞赏"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与潮汕文化冷知识问答",
+      "start": 0.0
+    },
+    {
+      "titel": "电影《给阿嬷的情书》的走红背景与高分意义",
+      "start": 356.82
+    },
+    {
+      "titel": "解密潮汕“出花园”成人礼与历史背景",
+      "start": 848.02
+    },
+    {
+      "titel": "素人演员表现、方言魅力与书信传情",
+      "start": 1261.34
+    },
+    {
+      "titel": "女性互助的大爱与影片最终评分",
+      "start": 2503.92
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-12T07:01:43+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3955,
+  "veroeffentlicht": "2026-05-11T10:13:15+00:00",
+  "beschreibung": "【2026年华语电影口碑之王《给阿嬷的情书》深度解码：“真挚”才是最强的票房密码】\n\n[ 收看本期【播客视频版】：点击收看（国语字幕）]\n\n一部没有流量明星、全素人出演的潮汕方言电影，上映后豆瓣评分一路飙升至9.1分，与《我不是药神》并列近十年华语真人电影最高分。本期节目，粤语影评三子“尴尬”、“左考”、“阮导”带着被彻底征服的心情，为您带来这部年度神作的终极解读。\n节目中，我们不仅分享了各自9.4分、9分、8.5分的超高个人评价与观影时“哭湿衣衫”的亲身经历，更从多个维度拆解了它的成功密码：\n《给阿嬷的情书》：一部没有明星、全是素人，却拍出了最顶级中文韵味的电影\n\n“文化前菜”热身：我们以电影中出现的“平安批”、“批脚”、“出花园”等潮汕文化冷知识快问快答开场，带你瞬间穿越回那个“侨批”传情的年代。\n\n情感内核引爆：为何我们认为这部电影的内核超越了常见的爱情与家庭叙事，升华为两个素未谋面的女性之间“相互托举”的宏大情感？片中“江海万里，心中念你”的中文韵律，何以成为击中所有华人的情感密码？\n\n高级的“克制”美学：我们重点分析了导演如何用极度克制的镜头和表演，避免廉价煽情，反而让观众的情绪如山洪般自然决堤。片中那些“以为要爆发却选择沉默”的瞬间，为何后劲十足？\n\n真诚的胜利：在浮躁的产业环境下，这部小成本、实景拍摄、讲述“情与义”的电影，如何用极致的真诚，完成了对当下大量套路化作品的“降维打击”？\n\n此外，我们还分享了买错普通话配音版的“出糗”经历、对素人演员演技的盛赞，以及电影如何让人重拾进入影院、沉浸于大银幕的幸福感。如果你好奇一部电影如何能用最朴素的方式释放最强大的情感力量，好奇它为何能赢得近乎“零差评”的口碑，这期有笑有泪、有文化、有深度的节目，就是你最好的“观影指南”。\n收听提示：节目后半段含部分情节讨论，建议观影后收听体验更佳。但无论如何，请先走进电影院，亲身感受这份来自大银幕的深情。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<figure><img src=\"https://image.xyzcdn.net/FjQQlzRh7Kuggs014qjjeuWXcQ_4.jpg\"></figure><blockquote><p><strong>【2026年华语电影口碑之王《给阿嬷的情书》深度解码：“真挚”才是最强的票房密码】</strong></p></blockquote><ul><li><p>[ 收看本期【播客视频版】：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bilibili.com/video/BV1kF5u6NEqY/?spm_id_from=333.1387.0.0&amp;vd_source=2bbecf78b8c0ce3518bc47f671acb026\"><strong>点击收看</strong></a>（国语字幕）]</p></li></ul><p>一部没有流量明星、全素人出演的潮汕方言电影，上映后豆瓣评分一路飙升至<strong>9.1分</strong>，与《我不是药神》并列近十年华语真人电影最高分。本期节目，粤语影评三子“尴尬”、“左考”、“阮导”带着被彻底征服的心情，为您带来这部年度神作的终极解读。</p><p>节目中，我们不仅分享了各自<strong>9.4分、9分、8.5分</strong>的超高个人评价与观影时“哭湿衣衫”的亲身经历，更从多个维度拆解了它的成功密码：</p><blockquote><p><strong>《给阿嬷的情书》：一部没有明星、全是素人，却拍出了最顶级中文韵味的电影</strong></p></blockquote><ul><li><p><strong>“文化前菜”热身</strong>：我们以电影中出现的“<strong>平安批</strong>”、“<strong>批脚</strong>”、“<strong>出花园</strong>”等潮汕文化冷知识快问快答开场，带你瞬间穿越回那个“侨批”传情的年代。</p></li><li><p><strong>情感内核引爆</strong>：为何我们认为这部电影的内核超越了常见的爱情与家庭叙事，升华为<strong>两个素未谋面的女性之间“相互托举”的宏大情感</strong>？片中“<strong>江海万里，心中念你</strong>”的中文韵律，何以成为击中所有华人的情感密码？</p></li><li><p><strong>高级的“克制”美学</strong>：我们重点分析了导演如何用<strong>极度克制的镜头和表演</strong>，避免廉价煽情，反而让观众的情绪如山洪般自然决堤。片中那些“以为要爆发却选择沉默”的瞬间，为何后劲十足？</p></li><li><p><strong>真诚的胜利</strong>：在浮躁的产业环境下，这部小成本、实景拍摄、讲述“情与义”的电影，如何用极致的真诚，完成了对当下大量套路化作品的“降维打击”？</p></li></ul><p>此外，我们还分享了买错普通话配音版的“出糗”经历、对素人演员演技的盛赞，以及电影如何让人重拾<strong>进入影院、沉浸于大银幕的幸福感</strong>。如果你好奇一部电影如何能用最朴素的方式释放最强大的情感力量，好奇它为何能赢得近乎“零差评”的口碑，这期有笑有泪、有文化、有深度的节目，就是你最好的“观影指南”。</p><p><strong>收听提示</strong>：节目后半段含部分情节讨论，建议观影后收听体验更佳。但无论如何，请先走进电影院，亲身感受这份来自大银幕的深情。</p><figure><img src=\"https://image.xyzcdn.net/FhZFL0hy2dw907Exb0ljXI18KuGz.jpg\"></figure><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a01a7fd1b7bd50295ecd1dc?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqUsENNTv0mDCqQOuRbDgwcbDiQR.jpg",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "guid": "73260835-8cc1-4687-92ee-b4ac0042f0f5",
+  "apple_collection_id": "1436616330",
+  "show": "Daniel and Kelly’s Extraordinary Universe",
+  "titel": "Origins of life (featuring Dr. Katrine Whiteson)",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f5d5fac6-77be-47e6-9aee-ae32006cd8c3/73260835-8cc1-4687-92ee-b4ac0042f0f5/audio.mp3?utm_source=Podcast&in_playlist=b26cbbeb-86eb-4b97-9b34-ae32006cd8d6",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 66177756,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:46:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Exploring the scientific mysteries and theories behind how life began on Earth.",
+  "kurzfassung": "Scientists examine the profound mystery of how life began on Earth, treating it as a complex chemistry problem. Joined by guest Dr. Katrine Whiteson, the hosts discuss potential definitions of life, early Earth conditions, and leading hypotheses like hydrothermal vents and the RNA world. They explore whether life emerged once or multiple times and why modern conditions make spontaneous generation unlikely today.",
+  "stichpunkte": [
+    "Defining life proves difficult because rigid criteria often exclude fascinating entities like viruses.",
+    "Stromatolites from Australia provide the most widely accepted fossil evidence of life from 3.5 billion years ago.",
+    "Earth's Hadean period was characterized by a hot, volatile environment and intense asteroid bombardment.",
+    "The Miller-Urey experiment demonstrated that Earth's early building blocks, such as amino acids, form spontaneously.",
+    "Hydrothermal vent theories suggest metabolism may have sparked life using natural chemical and pH gradients.",
+    "The RNA world hypothesis proposes that RNA preceded DNA by acting as both genetic storage and a catalyst.",
+    "All known life on Earth shares a single common ancestor, though independent strains may have existed initially."
+  ],
+  "kapitel": [
+    {
+      "titel": "What is life?",
+      "start": 29.76
+    },
+    {
+      "titel": "Fossils and early Earth",
+      "start": 1279.56
+    },
+    {
+      "titel": "The Miller-Urey experiment and metabolism",
+      "start": 2327.84
+    },
+    {
+      "titel": "RNA world and modern perspectives",
+      "start": 2839.28
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Do viruses count as life?",
+      "start": 399.308,
+      "ende": 419.422,
+      "laenge": 20.11,
+      "byte_start": 6482900,
+      "byte_ende": 6804727,
+      "bytes": 321828,
+      "range_header": "bytes=6482900-6804727",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 399.386,
+      "anker_sha256": "1bf7be33cb5e3146d9810258b9535d444d44d68b2dd0c4196bae374cfa3d5da9",
+      "einblendung_ms": 60,
+      "text": "Biological life relies on water and genetic storage through DNA or RNA, moving beyond the previous assumption that solar energy is a mandatory requirement."
+    },
+    {
+      "hook": "Deep time on Earth",
+      "start": 1516.878,
+      "ende": 1536.993,
+      "laenge": 20.11,
+      "byte_start": 24364029,
+      "byte_ende": 24685856,
+      "bytes": 321828,
+      "range_header": "bytes=24364029-24685856",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1516.957,
+      "anker_sha256": "5a9b785b0ff1a662d48ff7d165257a80493dc43957d734be9a9a064785928797",
+      "einblendung_ms": 60,
+      "text": "Public indifference and a lack of basic conceptual understanding often hinder meaningful communication about complex topics."
+    },
+    {
+      "hook": "Did life come from Mars?",
+      "start": 2215.419,
+      "ende": 2235.533,
+      "laenge": 20.11,
+      "byte_start": 35540675,
+      "byte_ende": 35862502,
+      "bytes": 321828,
+      "range_header": "bytes=35540675-35862502",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2215.497,
+      "anker_sha256": "889e9ab3ac81ee31377f5e2f897e15a84f6602fc10e49715736eb368e0925761",
+      "einblendung_ms": 60,
+      "text": "Autoclaves effectively sanitize equipment through intense heat and pressure, creating an environment that is hostile to living organisms."
+    },
+    {
+      "hook": "Building blocks of life",
+      "start": 2380.748,
+      "ende": 2402.795,
+      "laenge": 22.05,
+      "byte_start": 38185938,
+      "byte_ende": 38538695,
+      "bytes": 352758,
+      "range_header": "bytes=38185938-38538695",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2380.826,
+      "anker_sha256": "d829b9e638b01cf4294854b614f620692905f7026c83d394d2bc749a519ce875",
+      "einblendung_ms": 60,
+      "text": "Scientists reconstruct the conditions of early Earth by analyzing the historical absence of atmospheric oxygen, acknowledging the limitations of these ancient models."
+    },
+    {
+      "hook": "Why RNA is special",
+      "start": 2868.82,
+      "ende": 2898.939,
+      "laenge": 30.12,
+      "byte_start": 45995087,
+      "byte_ende": 46476993,
+      "bytes": 481907,
+      "range_header": "bytes=45995087-46476993",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2868.898,
+      "anker_sha256": "bf2ad7b5cbddcb33cf10bb30fbf038206be24198718ebb12cd928fae4fcc7e70",
+      "einblendung_ms": 60,
+      "text": "Fragile egos and societal apathy frequently prevent influential figures from engaging with or comprehending fundamental ideas."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:46:13+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3287,
+  "veroeffentlicht": "2026-08-20T09:05:00+00:00",
+  "beschreibung": "Daniel, Kelly, and Katrine take on the origins of life. They discuss competing definitions for \"life\", whether it's even helpful to have a definition, the oldest evidence we have for life, and how we think life got started.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Daniel, Kelly, and Katrine take on the origins of life. They discuss competing definitions for \"life\", whether it's even helpful to have a definition, the oldest evidence we have for life, and how we think life got started.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/f5d5fac6-77be-47e6-9aee-ae32006cd8c3/image.jpg?t=1752774683&size=Large",
+  "kapitel_quelle": "modell"
+}

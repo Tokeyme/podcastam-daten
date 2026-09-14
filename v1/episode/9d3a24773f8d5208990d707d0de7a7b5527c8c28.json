@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_777799735",
+  "apple_collection_id": "1735101932",
+  "show": "2024火爆全网流行热歌| 热门音乐歌曲推荐",
+  "titel": "70陈雅森-不知何时才相见",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4LGNZ-ABdZ-QM09maH.m4a?channel=rss&album_id=80798722&track_id=777799735&uid=461968067&jt=https://aod.cos.tx.xmcdn.com/storages/f658-audiofreehighqps/D9/5D/GKwRIW4LGNZ-ABdZ-QM09maH.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1530361,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:05:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "陈雅森演唱歌曲《不知何时才相见》，由李宗盛作词作曲。",
+  "kurzfassung": "本期节目播放了由陈雅森演唱、李宗盛作词作曲的歌曲《不知何时才相见》。歌曲表达了冬日里对远方之人的深深思念与守候。歌词描绘了时光流逝中对重逢的期盼与对过往情缘的眷恋。",
+  "stichpunkte": [
+    "歌曲由李宗盛作词作曲，陈雅森演唱",
+    "歌词以雪花飞舞的冬日离别为背景",
+    "表达了跨越千山万水的守候与思念",
+    "将爱意藏于心间，使泪水也变得甘甜",
+    "感叹时光匆匆流逝，往事不断浮现",
+    "流露出月升时分对孤单的畏惧",
+    "期盼春暖花开之时能够再度相见"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲播放",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:05:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 250,
+  "veroeffentlicht": "2024-11-24T11:52:22+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/64bf-audiofreehighqps/91/AF/GMCoOSAJvzI0AAIQQQKz2pi5.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

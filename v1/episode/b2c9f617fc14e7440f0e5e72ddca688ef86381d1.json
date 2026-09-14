@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group14/M04/41/F7/wKgDZFWidbOBzMe5AHEDWAwX3v4380.m4a",
+  "apple_collection_id": "937664006",
+  "show": "新加坡小吃货的音乐美食之旅",
+  "titel": "新加坡音乐美食之旅-下",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDZFWidbOBzMe5AHEDWAwX3v4380.m4a?channel=rss&album_id=1450&track_id=79224&uid=1018929&jt=https://aod.cos.tx.xmcdn.com/group14/M04/41/F7/wKgDZFWidbOBzMe5AHEDWAwX3v4380.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7406424,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T21:28:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "新加坡音乐美食之旅下集，感受慢节奏的小岛风情与夜市生活。",
+  "kurzfassung": "本期节目继续新加坡音乐美食之旅，带听众走进节奏缓慢的小岛和热闹的夜市。节目中穿插多首经典歌曲，营造出放松惬意的氛围。最后正值中秋佳节，节目向大家送上节日祝福并以歌曲结束。",
+  "stichpunkte": [
+    "节目延续新加坡音乐美食之旅的主题",
+    "介绍节奏缓慢、人情淳朴的小岛风情",
+    "描绘夜市里热闹吃海鲜和沙爹的场景",
+    "播放多首音乐作品如We Will Rock You等",
+    "结合歌曲表达想要放空和休息的心情",
+    "节目最后向听众送上中秋节快乐的祝福",
+    "以2005年超级女生演唱的歌曲作为结尾"
+  ],
+  "kapitel": [
+    {
+      "titel": "小岛风情与夜市生活",
+      "start": 501.58
+    },
+    {
+      "titel": "中秋祝福与节目尾声",
+      "start": 775.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T21:28:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 915,
+  "veroeffentlicht": "2012-12-19T07:17:11+00:00",
+  "beschreibung": "黑胡椒螃蟹，配上Tiger啤酒，看上一场球赛，喜结天下好友，岂不快哉！新加坡音乐美食之旅还在继续，跟着叶小愚一起走进狮城的大街小巷，来寻找美味的食物吧！节目结尾有惊喜喔！",
+  "beschreibung_html": "黑胡椒螃蟹，配上Tiger啤酒，看上一场球赛，喜结天下好友，岂不快哉！新加坡音乐美食之旅还在继续，跟着叶小愚一起走进狮城的大街小巷，来寻找美味的食物吧！节目结尾有惊喜喔！",
+  "bild_url": "https://fdfs.xmcdn.com/group1/M00/04/EE/wKgDrlDRaK-Rdq6bAAA8G7ymV3s232.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

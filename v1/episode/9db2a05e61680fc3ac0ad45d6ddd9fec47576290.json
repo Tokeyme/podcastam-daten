@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "6a886fc3ef65145dfcc351bb",
+  "apple_collection_id": "1849067963",
+  "show": "Acrux心理占星世界",
+  "titel": "爱出者爱返：其实我们从没真正爱过谁",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/66289bb12e0936361a6945b6/6a886fc3ef65145dfcc351bb/media.xyzcdn.net/66289bb12e0936361a6945b6/lu8PoNOrjZGASMRW7ObYp5bMdGNG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 60941126,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T15:24:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨星体能量如何影响亲密关系与个人成长，反思我们对爱的真实理解与付出。",
+  "kurzfassung": "节目深入探讨了占星学中火星、海王星等星体对个人成长和防御机制的阻碍与启示。主持人结合个人经历与经典剧集，剖析了当代人的恋爱脑、对虚拟偶像的执念以及对亲密关系的恐惧。同时，节目讨论了星体庙旺落线与因果业力的关系，指出真正的爱需要足够的能量与觉知。",
+  "stichpunkte": [
+    "分析火星与海王星在早年人格发展中作为拦路虎的角色，它们容易引发懦弱与自我欺骗。",
+    "探讨天海冥三颗星体与心理学中防御机制的紧密联系，以及它们在心灵发展中的双面性。",
+    "回顾古早偶像剧对80后、90后爱情观的深远影响，分析恋爱脑背后的心理补偿机制。",
+    "指出沉迷虚拟偶像和对亲密关系的恐惧，本质上是对真正建立深度亲密关系的逃避。",
+    "探讨星体庙旺落线与前世因果业力的关联，庙旺代表过往积累，落线则带来纠错契机。",
+    "反思“爱出者爱返”的真正含义，指出过去在关系中多为索取与算计，缺乏真正的共情与付出。"
+  ],
+  "kapitel": [
+    {
+      "titel": "星体能量与防御机制",
+      "start": 0.0
+    },
+    {
+      "titel": "古早偶像剧与恋爱脑的成因",
+      "start": 682.34
+    },
+    {
+      "titel": "虚拟恋情与亲密关系的恐惧",
+      "start": 2341.1
+    },
+    {
+      "titel": "星体庙旺落线与因果业力",
+      "start": 2434.08
+    },
+    {
+      "titel": "反思爱的能量与真实付出",
+      "start": 3328.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T15:24:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3768,
+  "veroeffentlicht": "2026-08-21T15:45:18+00:00",
+  "beschreibung": "公众号：Acrux心理占星实验室 （咨询 学习都在这里）\n直播在微信视频号：Acrux心理实验室\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>公众号：Acrux心理占星实验室 （咨询 学习都在这里）</p><p>直播在微信视频号：Acrux心理实验室</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a886fc3ef65145dfcc351bb?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FveK9gMq8Q0GztTx9JbsOj-MckEz.png",
+  "kapitel_quelle": "modell"
+}

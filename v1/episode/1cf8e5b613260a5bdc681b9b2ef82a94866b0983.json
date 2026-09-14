@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "guid": "694c5d61946dca09252f48f0",
+  "apple_collection_id": "1847059448",
+  "show": "幕间对谈",
+  "titel": "Vol.3 再见，朋友",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68d414d7e09329d994b561ba/694c5d61946dca09252f48f0/media.xyzcdn.net/68d414d7e09329d994b561ba/lhKxBFMFHj3aUa2OP8OVKQ2vCdPR.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 28928112,
+    "format": "m4a",
+    "geprueft_am": "2026-09-05T20:48:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨友情中的复杂性、绝交经历、孤独感以及朋友在人生不同阶段扮演的角色。",
+  "kurzfassung": "节目深入探讨了成年人之间微妙且复杂的友情，涵盖了因游戏或精力耗尽而导致的深刻绝交经历。同时，嘉宾们分享了如何通过兴趣和生活阶段来划分不同的朋友圈，以及面对孤独与战友欲时的真实心理活动。最后，节目建议对未竟的关系好好道别，或让记忆停留在最美好的时刻。",
+  "stichpunkte": [
+    "友情的复杂性在于随着时间和人生阶段的变化，身边的朋友会不断变换且产生摩擦。",
+    "分享了因玩《王者荣耀》引发的古早且深刻的初二绝交经历，以及对闹掰对象过得好坏的矛盾心理。",
+    "不同的交友阶段与类型：外向者朋友较多且多自然淡忘，内向者朋友圈精简且流失率低。",
+    "随着成长，朋友被细分为核心朋友、饭搭子、网友等不同圈层，承担着不同的生活职能。",
+    "探讨了友情中的“战友欲”与嫉妒心理，追求在核心关系中获得独属一份的偏爱。",
+    "通过打麻将等游戏风格可以窥见朋友真实的性格、阴暗面以及现实生活中的处事方式。",
+    "面对世界末日等极端假设时，探讨了对牺牲软弱朋友的社会达尔文主义倾向与圣母心态的抉择。",
+    "总结认为如果关系已结束应好好说声再见，若没有机会说出口则让记忆停留在最好的时候。"
+  ],
+  "kapitel": [
+    {
+      "titel": "友情的复杂性与深刻绝交经历",
+      "start": 9.04
+    },
+    {
+      "titel": "朋友圈的阶段性划分与淡忘",
+      "start": 313.16
+    },
+    {
+      "titel": "孤独感与面对孤独的调节能力",
+      "start": 729.32
+    },
+    {
+      "titel": "友情中的战友欲与嫉妒心理",
+      "start": 897.52
+    },
+    {
+      "titel": "从麻将牌风看朋友的真实性格",
+      "start": 1066.28
+    },
+    {
+      "titel": "交友标准与世界末日的极端抉择",
+      "start": 1370.26
+    },
+    {
+      "titel": "结语：向友情与曾经的朋友道别",
+      "start": 1579.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-05T20:48:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1788,
+  "veroeffentlicht": "2025-12-26T16:00:00+00:00",
+  "beschreibung": "这是「幕间对谈」的第三期。当“再见朋友”这个选题被多次提及，我们才发现分开的朋友比爱人更加恨海情天。我们从曾经绝交的朋友讲起，聊到朋友的三六九等，牌品和人品，世界末日的脑洞。关于朋友，每个人都有自己的烦恼和幸福，这或许是你最珍视的关系，或许有你最开心的瞬间，但如果这段关系即将走到尽头，你要怎么开口说再见？\n“再见，朋友”还是“再，见朋友”？或许你会有自己的答案。\n收听愉快。\n🎭\n- 时间轴\n00:00 为何“再见朋友”是一个如此精妙的主题？友情比爱情更复杂吗？\n02:08 大型青春绝交故事会\n12:40 搭子or朋友，我们不得不面临的孤独课\n15:02 友情中的阴暗面：嫉妒与占有欲\n17:46 牌桌见人品：麻将桌上的性格显微镜\n23:00 危险的问题：你会希望朋友过得没你好吗？\n24:48 世界末日来了，必须牺牲一个朋友，你会选谁？\n26:22 如何对待那些静静躺在朋友圈的“旧友”？\n26:56 从“李逗逗的婚礼”看见朋友的三六九等\n- 本期拉幕人\n郑再\n想转行导演的青年演员\n盐盐梅\n艺术留子\n四月\n青年演员、编剧\n- 本期音乐\n莎哟娜啦 - 旺福\n姊妹仔 - 旺福\n- 找到我们\n微博：幕间对谈\n- 来信投稿 or 商务合作\nzhengshizhe@outlook.com\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>这是「幕间对谈」的第三期。当“再见朋友”这个选题被多次提及，我们才发现分开的朋友比爱人更加恨海情天。我们从曾经绝交的朋友讲起，聊到朋友的三六九等，牌品和人品，世界末日的脑洞。关于朋友，每个人都有自己的烦恼和幸福，这或许是你最珍视的关系，或许有你最开心的瞬间，但如果这段关系即将走到尽头，你要怎么开口说再见？</p><p>“再见，朋友”还是“再，见朋友”？或许你会有自己的答案。</p><p>收听愉快。</p><p>🎭</p><p><strong>- 时间轴</strong></p><p>&nbsp;00:00 为何“再见朋友”是一个如此精妙的主题？友情比爱情更复杂吗？</p><p>&nbsp;02:08 大型青春绝交故事会</p><p>&nbsp;12:40 搭子or朋友，我们不得不面临的孤独课</p><p>&nbsp;15:02 友情中的阴暗面：嫉妒与占有欲</p><p>&nbsp;17:46 牌桌见人品：麻将桌上的性格显微镜</p><p>&nbsp;23:00 危险的问题：你会希望朋友过得没你好吗？</p><p>&nbsp;24:48 世界末日来了，必须牺牲一个朋友，你会选谁？</p><p>&nbsp;26:22 如何对待那些静静躺在朋友圈的“旧友”？</p><p>&nbsp;26:56 从“李逗逗的婚礼”看见朋友的三六九等</p><p><strong>- 本期拉幕人</strong></p><p>郑再</p><p>想转行导演的青年演员</p><p>盐盐梅</p><p>艺术留子</p><p>四月</p><p>青年演员、编剧</p><p><strong>- 本期音乐</strong></p><p>莎哟娜啦 - 旺福</p><p>姊妹仔 - 旺福</p><p><strong>- 找到我们</strong></p><p>微博：幕间对谈</p><p><strong>- 来信投稿 or 商务合作</strong></p><p>zhengshizhe@outlook.com</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/694c5d61946dca09252f48f0?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

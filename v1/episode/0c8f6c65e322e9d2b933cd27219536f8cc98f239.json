@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "6a251f437444b5722234b5b6",
+  "apple_collection_id": "1777834697",
+  "show": "职场有意思",
+  "titel": "011 Jack｜麦肯锡学霸的算命副业：玄学世界的人生选择",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/6a251f437444b5722234b5b6/media.xyzcdn.net/6726be63396654ffd73bde4c/lmDQ15RYrr5JcfzkUv2gIAtFV9aD.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 61208134,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T16:25:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "麦肯锡学霸Jack将物理学与紫微斗数结合，探讨如何用科学精神看待命理。",
+  "kurzfassung": "本期节目邀请了拥有半导体、直播管理及欧洲顶级商学院MBA背景、即将入职麦肯锡的Jack，分享他将理科思维与紫微斗数相结合的算命副业。他认为算命并非给人生剧本，而是提供一张人生地图，帮助人们在了解自身命盘后做出更好的选择。节目探讨了玄学与科学的关系、不同门派的差异以及如何通过理性态度面对命运的起伏。",
+  "stichpunkte": [
+    "Jack曾就职于半导体和直播行业，拥有欧洲商学院MBA背景，即将入职麦肯锡，业余爱好是紫微斗数。",
+    "他以物理学背景和理科思维看待玄学，认为算命类似于大数据统计学，是古人智慧累积的系统。",
+    "算命主要分为入命数派与占卜通灵派，紫微斗数属于前者，通过命盘与命主的互动来推演人生方向。",
+    "学习紫微斗数需要经历初阶看个性、中阶看大线运势、高阶看流年势力的过程。",
+    "Jack坚持免费帮人算命并保持初学者心态，强调算命的目的是给出解决方案与方向，而非制造恐惧。",
+    "命盘并不能完全决定人生，好坏盘都可以通过个人的选择、努力和因果来改变。",
+    "面对命运时，算命提供的是地图和路线选择，而如何走、如何避坑决定权依然在个人手中。",
+    "Jack对成功的定义是活得开心，并希望通过自身的能力对周围人产生正向影响。"
+  ],
+  "kapitel": [
+    {
+      "titel": "理科生的玄学副业",
+      "start": 13.54
+    },
+    {
+      "titel": "玄学分类与紫微斗数",
+      "start": 343.22
+    },
+    {
+      "titel": "如何看待通灵与科学",
+      "start": 529.9
+    },
+    {
+      "titel": "紫微斗数的学习阶段与实战",
+      "start": 932.2
+    },
+    {
+      "titel": "算命的行业规则与建议",
+      "start": 1686.66
+    },
+    {
+      "titel": "命运、选择与人生地图",
+      "start": 2147.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T16:25:42+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3784,
+  "veroeffentlicht": "2026-06-07T07:44:47+00:00",
+  "beschreibung": "【本期嘉宾】\n姓名：Jack｜年龄：30+｜职业：麦肯锡咨询顾问\nJack，是一个妥妥的学霸加跨界小能手，物理学出身，做过艺术策展人，去过半导体公司，又在直播公司一路做到管理层。去年他放下一切，去欧洲顶尖商学院就读MBA，今年刚入职麦肯锡。他最大的业余爱好，是算命。\n他说过一句话我印象深刻：“算命不是给你人生剧本，而是给你一张人生地图。命理师告诉你前面有河、有桥、有路，但走哪一条——决定权在你手里。”\n这一期，我们不鼓吹玄学，不贩卖焦虑。只聊一个理科生，如何用科学精神看待命理，以及——知道自己的命之后，如何去做更好的选择。\n【内容摘要】\n02:02 学物理，为何信玄学\n05:43 算命流派小科普，算命行业有鄙视链吗？\n08:50 通灵、风水是否是骗局？\n14:34 命盘如何看，拆解生年盘、大限和流年\n17:56 为什么算命不收钱？\n19:29 算命的互动性：同一个盘，为何会有不同的解读？\n23:11 Jack老师的算命学习之路；算命是一门“良心事业”\n28:07 算命是提供解决方案，不是贩卖焦虑\n29:54 命会越算越薄吗？算多会改变运势吗？\n33:29 如何算“好命”？好命还需要努力吗？\n38:00 有关玄学的一些闲扯：我们的命是否早已注定？\n41:41 玄学提供思路，让科学解决科学的事情\n43:34 拆解：一命二运三风水四阴德五读书\n51:28 算命的意义：提供游戏攻略，选择权依然在你手中\n53:44 Jack老师：我的命很“糟糕”\n57:19 信不信和选不选，是两回事？\n59:51 如何度过这一生：俯仰之间 无愧于心\n【友情提示】\n本期在于对“算命”和“玄学”的探讨，不倾向信与不信，也不提倡算与不算，请大家理性对待。不管命理师给出怎样的反馈，如何度过这一生，始终是自己的命题。就像Jack老师所说，“俯仰之间 无愧于心”，就是成功的一生。\n【节目收听平台】\n职场有意思：小宇宙｜苹果播客｜喜马拉雅\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><strong>【本期嘉宾】</strong></p><p>姓名：Jack｜年龄：30+｜职业：麦肯锡咨询顾问</p><p>Jack，是一个妥妥的学霸加跨界小能手，物理学出身，做过艺术策展人，去过半导体公司，又在直播公司一路做到管理层。去年他放下一切，去欧洲顶尖商学院就读MBA，今年刚入职麦肯锡。他最大的业余爱好，是算命。</p><p>他说过一句话我印象深刻：<strong>“算命不是给你人生剧本，而是给你一张人生地图。命理师告诉你前面有河、有桥、有路，但走哪一条——决定权在你手里。”</strong></p><p>这一期，我们不鼓吹玄学，不贩卖焦虑。只聊一个理科生，如何用科学精神看待命理，以及——<strong>知道自己的命之后，如何去做更好的选择。</strong></p><p><strong>【内容摘要】</strong></p><p><a class=\"timestamp\">02:02</a> 学物理，为何信玄学</p><p><a class=\"timestamp\">05:43</a> 算命流派小科普，算命行业有鄙视链吗？</p><p><a class=\"timestamp\">08:50</a> 通灵、风水是否是骗局？</p><p><a class=\"timestamp\">14:34</a> 命盘如何看，拆解生年盘、大限和流年</p><p><a class=\"timestamp\">17:56</a> 为什么算命不收钱？</p><p><a class=\"timestamp\">19:29</a> 算命的互动性：同一个盘，为何会有不同的解读？</p><p><a class=\"timestamp\">23:11</a> Jack老师的算命学习之路；算命是一门“良心事业”</p><p><a class=\"timestamp\">28:07</a> 算命是提供解决方案，不是贩卖焦虑</p><p><a class=\"timestamp\">29:54</a> 命会越算越薄吗？算多会改变运势吗？</p><p><a class=\"timestamp\">33:29</a> 如何算“好命”？好命还需要努力吗？</p><p><a class=\"timestamp\">38:00</a> 有关玄学的一些闲扯：我们的命是否早已注定？</p><p><a class=\"timestamp\">41:41</a> 玄学提供思路，让科学解决科学的事情</p><p><a class=\"timestamp\">43:34</a> 拆解：一命二运三风水四阴德五读书</p><p><a class=\"timestamp\">51:28</a> 算命的意义：提供游戏攻略，选择权依然在你手中</p><p><a class=\"timestamp\">53:44</a> Jack老师：我的命很“糟糕”</p><p><a class=\"timestamp\">57:19</a> 信不信和选不选，是两回事？</p><p><a class=\"timestamp\">59:51</a> 如何度过这一生：俯仰之间 无愧于心</p><p><strong>【友情提示】</strong></p><p>本期在于对“算命”和“玄学”的探讨，不倾向信与不信，也不提倡算与不算，请大家理性对待。不管命理师给出怎样的反馈，如何度过这一生，始终是自己的命题。就像Jack老师所说，“俯仰之间 无愧于心”，就是成功的一生。</p><p><strong>【节目收听平台】</strong></p><p>职场有意思：小宇宙｜苹果播客｜喜马拉雅</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a251f437444b5722234b5b6?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FnXa7pf5saKhDkVs401XCroN6kIa.jpg",
+  "kapitel_quelle": "modell"
+}

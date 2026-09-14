@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "https://audio.xmcdn.com/group12/M0B/09/BA/wKgDW1bL-uqy8vtmAMpeJWkma7M992.m4a",
+  "apple_collection_id": "1073850778",
+  "show": "翻唱可以这么美",
+  "titel": "用自己的方式讲别人的故事，走心翻唱集（上）~优品音乐72",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDW1bL-uqy8vtmAMpeJWkma7M992.m4a?channel=rss&album_id=3118349&track_id=12518405&uid=31877738&jt=https://audio.xmcdn.com/group12/M0B/09/BA/wKgDW1bL-uqy8vtmAMpeJWkma7M992.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 13262373,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T18:17:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "男生翻唱女生经典歌曲，用独特视角讲述别人的音乐故事。",
+  "kurzfassung": "本期节目聚焦男生翻唱女生经典歌曲的特别主题，通过李维演绎的《梦醒了》和刘胡逸演绎的《怎样》等作品，展现男声诠释女性细腻情感时的独特温暖与凄美。节目在深夜的氛围中分享音乐背后的故事与情感共鸣，最后还回顾了阿桑的经典原唱作品《叶子》。主讲人通过温柔的串场，带领听众在安静的歌声中感受音乐的暖心魅力。",
+  "stichpunkte": [
+    "节目聚焦男生翻唱女声的经典歌曲主题。",
+    "李维演唱的《梦醒了》多了一种奋不顾身的感觉。",
+    "李维的嗓音充满温暖柔情与隐隐的伤痛。",
+    "刘胡逸演唱了戴佩妮的作品《怎样》。",
+    "刘胡逸曾在《中国好歌曲》舞台上展现其音乐才华。",
+    "节目探讨了深夜聆听音乐时独特的孤独与情感共鸣。",
+    "节目最后分享了阿桑出道时的经典歌曲《叶子》。"
+  ],
+  "kapitel": [
+    {
+      "titel": "男生翻唱女声专题导入",
+      "start": 381.68
+    },
+    {
+      "titel": "李维翻唱歌曲《梦醒了》",
+      "start": 410.38
+    },
+    {
+      "titel": "刘胡逸翻唱歌曲《怎样》",
+      "start": 987.28
+    },
+    {
+      "titel": "阿桑经典原唱《叶子》",
+      "start": 1313.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T18:17:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1639,
+  "veroeffentlicht": "2016-02-24T02:45:09+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group7/M08/0A/E5/wKgDX1bL_AqDb1AqAABixWuTsDE680.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

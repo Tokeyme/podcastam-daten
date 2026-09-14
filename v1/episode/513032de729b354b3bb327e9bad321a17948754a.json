@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008213103",
+  "apple_collection_id": "1835080582",
+  "show": "头条热榜 | 每天精选最有价值的新闻",
+  "titel": "头条热榜 | 襄阳市委书记调整",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOYQ_9ABKV9wTLYkFk.m4a?channel=rss&album_id=100545755&track_id=1008213103&uid=216314831&jt=https://aod.cos.tx.xmcdn.com/storages/64a8-audiofreehighqps/0B/C8/GKwRIUEOYQ_9ABKV9wTLYkFk.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1218039,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:34:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "彭勇任襄阳市委书记，吴海涛不再担任此职。",
+  "kurzfassung": "襄阳市召开领导干部会议宣布人事调整决定，彭勇接任襄阳市委书记。湖北省委书记关志欧出席会议并讲话，要求贯彻省委决定。会上介绍了彭勇和吴海涛的个人简历及职务变动情况。",
+  "stichpunkte": [
+    "彭勇接任襄阳市委书记，吴海涛不再担任该职务并另有任用。",
+    "湖北省于8月23日召开襄阳市领导干部会议宣布人事调整。",
+    "湖北省委书记关志欧出席会议并发表讲话。",
+    "省委常委、组织部长何良军主持会议并宣读调整决定。",
+    "关志欧表示该调整是根据换届需要经过慎重研究作出的。",
+    "彭勇出生于1970年11月，曾任中国大唐集团副总经理及湖北省副省长等职。",
+    "吴海涛出生于1967年6月，此次卸任襄阳市委书记。"
+  ],
+  "kapitel": [
+    {
+      "titel": "襄阳市委主要负责人调整情况",
+      "start": 1.74
+    },
+    {
+      "titel": "领导干部会议详情与省委要求",
+      "start": 22.48
+    },
+    {
+      "titel": "彭勇与吴海涛的个人简历",
+      "start": 85.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:34:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 150,
+  "veroeffentlicht": "2026-08-23T19:41:44+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/21af-audiofreehighqps/83/2E/GAqh1QQMfxplABAAAAP-zJLS.jpeg",
+  "folgennummer": 13,
+  "kapitel_quelle": "modell"
+}

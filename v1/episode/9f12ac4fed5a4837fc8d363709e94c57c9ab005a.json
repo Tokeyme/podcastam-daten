@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_934037104",
+  "apple_collection_id": "1634801963",
+  "show": "电影剥壳｜过度解读又何妨",
+  "titel": "《狂野时代》佛法科幻，解梦指南",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasM-NVBAWnoLgQ65feW.m4a?channel=rss&album_id=69552050&track_id=934037104&uid=35221521&jt=https://aod.cos.tx.xmcdn.com/storages/b24f-audiofreehighqps/1C/F8/GKwRIasM-NVBAWnoLgQ65feW.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 23717934,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T08:06:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "深度解读毕赣电影《狂野时代》的结构、六个故事及佛法科幻意象",
+  "kurzfassung": "本期播客对毕赣导演的新作《狂野时代》进行了深入的二刷解读。主播详细拆解了影片类似《红楼梦》的多层结构，探讨了贯穿全片的视觉、听觉与精神分析符号。节目逐一分析了影片的六个部分及其折射出的不同时代风貌。",
+  "stichpunkte": [
+    "影片结构酷似《红楼梦》，采用多感官的视觉与设定体系，对普通观众观看艺术电影非常友好。",
+    "导演在片中融入了拉康精神分析学派的“大他者”概念，通过摄影和第四堵墙的打破与观众互动。",
+    "影片透过疯子和迷魂者的内心视角来抽象和折射时代，而非采用传统的现实主义宏大叙事。",
+    "第一部分致敬了早期默片，精准抓住了早期电影影像带给人的恐怖感和惊惧梦境感。",
+    "第二部分运用了西区柯克式的危险关系和声音隐喻，探讨了有声电影对感官与欲望的颠覆。",
+    "第三部分的文革故事通过苦味符号和错置的梦境，展现了特定历史时期的伤痛与记忆。",
+    "第四部分的80年代故事呈现了一个充满骗局和虚无氛围的社会转型期，探讨了良心与意义的代价。",
+    "第五部分将故事拉到1999年，延续了导演的舒适区，展现了千禧年前夕边缘人物的纯真情感。",
+    "影片结尾的烛光并非比喻创作者，而是象征用心观影的观众，体现了导演对观众的极高尊重。"
+  ],
+  "kapitel": [
+    {
+      "titel": "《狂野时代》观影态度与整体结构解析",
+      "start": 0.0
+    },
+    {
+      "titel": "视觉部分：默片时代、惊惧感与精神分析符号",
+      "start": 108.36
+    },
+    {
+      "titel": "听觉部分：西区柯克式危险关系与有声电影的冲击",
+      "start": 1159.52
+    },
+    {
+      "titel": "味觉与历史：文革时期的苦难记忆与梦境虚实",
+      "start": 1691.82
+    },
+    {
+      "titel": "80年代与1999年：骗局、虚无及千禧年前夕的边缘情感",
+      "start": 2099.36
+    },
+    {
+      "titel": "尾声：烛光与观众的羁绊",
+      "start": 2829.24
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T08:06:46+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2929,
+  "veroeffentlicht": "2025-11-23T13:53:26+00:00",
+  "beschreibung": "04:03 《狂野时代》：揭示现实痛苦，让历史混乱的电影之旅\n08:05 电影艺术中的自我发现与独立思考\n16:16 默片时代之美：空间与表演的奇妙结合\n20:20 男性扮演的蛇蝎美女：解读易烊千玺在电影中的角色形象\n24:22 有声电影的奇妙之旅：从默片到立体声的时代转变\n28:26 电影拍摄中的故事与传说：六十年代在八十年代的导演视角\n32:29 咬文嚼字与梦境现实：一段充满迷惑的故事\n36:32 八十年代的骗局与意义：一个商界与政界的结合\n40:41 错乱的时间：一九九九年的晚上与地球最后的夜晚\n44:41 一个被时代摧残的歌厅女孩儿的复仇之路",
+  "beschreibung_html": "<p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">04:03 《狂野时代》：揭示现实痛苦，让历史混乱的电影之旅</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">08:05 电影艺术中的自我发现与独立思考</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">16:16 默片时代之美：空间与表演的奇妙结合</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">20:20 男性扮演的蛇蝎美女：解读易烊千玺在电影中的角色形象</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">24:22 有声电影的奇妙之旅：从默片到立体声的时代转变</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">28:26 电影拍摄中的故事与传说：六十年代在八十年代的导演视角</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">32:29 咬文嚼字与梦境现实：一段充满迷惑的故事</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">36:32 八十年代的骗局与意义：一个商界与政界的结合</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">40:41 错乱的时间：一九九九年的晚上与地球最后的夜晚</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">44:41 一个被时代摧残的歌厅女孩儿的复仇之路</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/632e-audiofreehighqps/11/92/GKwRIJEM-NPxAAaGHAQ65JgZ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

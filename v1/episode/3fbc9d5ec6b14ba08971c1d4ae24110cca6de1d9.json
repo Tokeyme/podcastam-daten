@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "guid": "2f2f873c-604d-432c-9474-b4aa00ef08a3",
+  "apple_collection_id": "1119389968",
+  "show": "Revisionist History: The Staten Island Problem",
+  "titel": "The Other Johnson and Johnson | From Planet Money",
+  "audio": {
+    "url": "https://pdrl.fm/ebe9fc/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2f2f873c-604d-432c-9474-b4aa00ef08a3/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 30083645,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T03:48:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "How George and Joan Johnson built a Black hair care empire and funded the civil rights…",
+  "kurzfassung": "George and Joan Johnson built Johnson Products Company into a multi-million-dollar Black hair care empire by recognizing the economic power of Black consumers in the mid-20th century. Their success fueled the rise of Black entrepreneurship, financed Martin Luther King Jr., and sponsored Soul Train before corporate competition and changing trends led to its sale. Today, their legacy lives on through the foundation they laid for the modern Black hair care industry.",
+  "stichpunkte": [
+    "George Johnson started working at age six during the Great Depression, eventually learning chemistry and working in a cosmetics lab.",
+    "He partnered with barber Orville Nelson to stabilize a chemical hair straightener, launching Ultra Wave Hair Culture in 1954.",
+    "Joan Johnson joined the business, managing operations and aggressively collecting debts while facing 1950s gender barriers.",
+    "The company's success funded community initiatives, including taking over a neighborhood bank and financially supporting the civil rights movement.",
+    "A 1966 visit from Martin Luther King Jr. highlighted the company's headquarters as a symbol of Black power, leading to a substantial bank loan when King's organization missed payroll.",
+    "Johnson Products became the first Black-owned company listed on the American Stock Exchange in 1971.",
+    "Sponsoring Soul Train in the 1970s helped skyrocket sales as the company marketed products for the afro hairstyle.",
+    "Going public brought increased regulatory scrutiny and detailed financial reporting that alerted mainstream competitors like Revlon to the profitable market.",
+    "Missed trends like the Jerry Curl and increased competition led to financial struggles, resulting in Joan Johnson selling the company in 1993."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction",
+      "start": 15.92
+    },
+    {
+      "titel": "The Rise of Ultra Wave",
+      "start": 372.8
+    },
+    {
+      "titel": "Building an Empire and Supporting Civil Rights",
+      "start": 864.08
+    },
+    {
+      "titel": "Soul Train and Wall Street",
+      "start": 1099.12
+    },
+    {
+      "titel": "Challenges and Sale of the Company",
+      "start": 1346.48
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Wearing custom Chanel and Dior from the South Side of Chicago",
+      "start": 159.19,
+      "ende": 180.402,
+      "laenge": 21.21,
+      "byte_start": 2601157,
+      "byte_ende": 2940539,
+      "bytes": 339383,
+      "range_header": "bytes=2601157-2940539",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 159.269,
+      "anker_sha256": "e67edaabeb24aa4c7b2a15ecb2bb92b4d4a8b0f7b4a0ae3988d47df694ed99db",
+      "einblendung_ms": 60,
+      "text": "Olivia Joan explains why she shares photographs of her Chicago grandmother dressed by elite couturiers who previously styled icons like Audrey Hepburn and Princess Diana."
+    },
+    {
+      "hook": "Scraping tinfoil from cigarette packs for real money",
+      "start": 489.926,
+      "ende": 510.041,
+      "laenge": 20.11,
+      "byte_start": 7892938,
+      "byte_ende": 8214766,
+      "bytes": 321829,
+      "range_header": "bytes=7892938-8214766",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 490.005,
+      "anker_sha256": "0ea5284b14ea696afd9317fb212c041806d63c6ef4edc14d2a337b587c2959a6",
+      "einblendung_ms": 60,
+      "text": "George earned cash by selling scrap metal and working odd jobs like shining shoes and delivering papers before attending a famous Chicago high school."
+    },
+    {
+      "hook": "Martin Luther King Jr. cried when given the bank loan",
+      "start": 1074.625,
+      "ende": 1094.74,
+      "laenge": 20.11,
+      "byte_start": 17248118,
+      "byte_ende": 17569946,
+      "bytes": 321829,
+      "range_header": "bytes=17248118-17569946",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1074.704,
+      "anker_sha256": "63f7db89c9470f48e38b70395bef516c188fa1ad5eb04dea916a0235bf67b4f2",
+      "einblendung_ms": 60,
+      "text": "After funding the Civil Rights Movement, the Johnson family built a new headquarters and prepared to market a product to a broader demographic."
+    },
+    {
+      "hook": "The first Black-owned company on the American Stock Exchange",
+      "start": 1224.542,
+      "ende": 1245.153,
+      "laenge": 20.61,
+      "byte_start": 19646786,
+      "byte_ende": 19976555,
+      "bytes": 329770,
+      "range_header": "bytes=19646786-19976555",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1224.62,
+      "anker_sha256": "955531ce822c167dcee181db6d66a262aeb20246b6ca673c111c995e574969da",
+      "einblendung_ms": 60,
+      "text": "An eventful trip to Manhattan involving red-carpet treatment confirmed to the speaker that they had finally achieved professional success."
+    },
+    {
+      "hook": "Michael Jackson's Thriller and the Jerry Curl explosion",
+      "start": 1482.371,
+      "ende": 1502.485,
+      "laenge": 20.11,
+      "byte_start": 23772043,
+      "byte_ende": 24093871,
+      "bytes": 321829,
+      "range_header": "bytes=23772043-24093871",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1482.449,
+      "anker_sha256": "95cc1b5ddc7085b68df52c63e4e97877e54b638e2c122e6120787e287b8440cc",
+      "einblendung_ms": 60,
+      "text": "Competitors beat Johnson Products to consumers demanding the Jheri curl hairstyle, leaving the company playing catch-up."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T03:48:11+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1886,
+  "veroeffentlicht": "2026-08-20T04:01:00+00:00",
+  "beschreibung": "The Afro is one of the most iconic hairstyles of the last century. And one of its main ingredients was a product: Afro Sheen. But Afro Sheen did so much more than make Black afros shine. It was the money behind the television show Soul Train and it helped fuel the civil rights movement, all because of an entrepreneur named George Johnson. This week we're bringing you an episode from our friends at NPR's Planet Money. For decades, Joan and George Johnson ran Johnson Products Company, a Black hair care company out of Chicago. They helped turn the Black haircare industry into what is now a multi-billion-dollar industry. But although they helped create this industry, they no longer have a part in it. If you enjoy this episode, hear Planet Money wherever you get your podcasts.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>The Afro is one of the most iconic hairstyles of the last century. And one of its main ingredients was a product: Afro Sheen. But Afro Sheen did so much more than make Black afros shine. It was the money behind the television show Soul Train and it helped fuel the civil rights movement, all because of an entrepreneur named George Johnson. This week we're bringing you an episode&nbsp;from our friends at NPR's Planet Money. For decades, Joan and George Johnson ran Johnson Products Company, a Black hair care company out of Chicago. They helped turn the Black haircare industry into what is now a multi-billion-dollar industry. But although they helped create this industry, they no longer have a part in it. If you enjoy&nbsp;this episode, hear Planet Money wherever you get your podcasts.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/2f2f873c-604d-432c-9474-b4aa00ef08a3/image.jpg?t=1787064012&size=Large",
+  "kapitel_quelle": "modell"
+}

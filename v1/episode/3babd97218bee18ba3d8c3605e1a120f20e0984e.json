@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "guid": "99e5a4f5-2f1a-46e0-98be-b4a901023b2c",
+  "apple_collection_id": "1540370040",
+  "show": "That's Messed Up: An SVU Podcast",
+  "titel": "Weak",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cf7e6913-a01e-4666-a095-b24c0047c637/99e5a4f5-2f1a-46e0-98be-b4a901023b2c/audio.mp3?utm_source=Podcast&in_playlist=c3a2c876-20bf-449b-8d54-b24c0047c64d",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 105174922,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T02:42:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "A deep dive into Law and Order: SVU season six, episode nine, \"Weak\".",
+  "kurzfassung": "The hosts recap Law and Order: SVU season six, episode nine, titled \"Weak\". They discuss the episode's plot, featuring a serial perpetrator targeting vulnerable women, and guest star Amanda Plummer's Emmy-winning performance. They also explore the real-life criminal cases that inspired the episode.",
+  "stichpunkte": [
+    "Recap of Law and Order: SVU season six, episode nine, \"Weak\"",
+    "Discussion of guest star Amanda Plummer's Emmy-winning role as a witness with schizophrenia",
+    "Analysis of the perpetrator's modus operandi targeting women with vulnerabilities",
+    "Exploration of the real-life Center City rapist case involving Troy Graves",
+    "Comparison to the crimes of Richard Speck and nurse nursing student murders",
+    "Examination of police and prosecutorial handling of sexual assault cases",
+    "Mention of podcast guests and actors who appeared across multiple SVU episodes"
+  ],
+  "kapitel": [
+    {
+      "titel": "Intro and Vacation Updates",
+      "start": 0.52
+    },
+    {
+      "titel": "Episode Recap: \"Weak\"",
+      "start": 1550.16
+    },
+    {
+      "titel": "True Crime Deep Dive and Real-Life Cases",
+      "start": 4178.16
+    },
+    {
+      "titel": "Outro and Sister Peg Segment",
+      "start": 6164.24
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Swimming with leopard sharks in La Jolla",
+      "start": 110.916,
+      "ende": 131.03,
+      "laenge": 20.11,
+      "byte_start": 1850816,
+      "byte_ende": 2172643,
+      "bytes": 321828,
+      "range_header": "bytes=1850816-2172643",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 110.994,
+      "anker_sha256": "30c841fac23a4c14f83856c2d51a90a84520690c885087e27a0cc637ede072fc",
+      "einblendung_ms": 60,
+      "text": "The hosts reflect on the positive energy of their recent live tour and express appreciation for the themed presents received from fans."
+    },
+    {
+      "hook": "Stabler's questionable detective advice",
+      "start": 1654.282,
+      "ende": 1674.397,
+      "laenge": 20.11,
+      "byte_start": 26544680,
+      "byte_ende": 26866507,
+      "bytes": 321828,
+      "range_header": "bytes=26544680-26866507",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1654.361,
+      "anker_sha256": "9de3e512273593ba937f1c6a07bc292b647d08c905557916feacbce080e00151",
+      "einblendung_ms": 60,
+      "text": "The hosts encourage listeners to support educators by fulfilling supply requests posted on a community wish list."
+    },
+    {
+      "hook": "Consensual sex and trauma in psychiatric patients",
+      "start": 3297.672,
+      "ende": 3317.786,
+      "laenge": 20.11,
+      "byte_start": 52838909,
+      "byte_ende": 53160737,
+      "bytes": 321829,
+      "range_header": "bytes=52838909-53160737",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3297.75,
+      "anker_sha256": "69fd3fedb5c07becaf8e2508116d3b97bc127724d39b276f58d05cf6bae296b6",
+      "einblendung_ms": 60,
+      "text": "The discussion explores the complex intersection of PTSD and schizophrenia, focusing on a character's struggle to distinguish traumatic memories from reality."
+    },
+    {
+      "hook": "The medical twist behind the DNA mismatch",
+      "start": 4451.056,
+      "ende": 4475.246,
+      "laenge": 24.19,
+      "byte_start": 71293061,
+      "byte_ende": 71680090,
+      "bytes": 387030,
+      "range_header": "bytes=71293061-71680090",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 4451.135,
+      "anker_sha256": "b851b7d5318f12b048a846077df29868b876b07a88022b079d60868bcd5cb55d",
+      "einblendung_ms": 60,
+      "text": "The hosts note their success in interviewing nearly every cast member from the current episode and express regret over missing a chance to feature Hetty."
+    },
+    {
+      "hook": "Richard Speck's chilling prison interview quote",
+      "start": 5671.419,
+      "ende": 5691.533,
+      "laenge": 20.11,
+      "byte_start": 90818860,
+      "byte_ende": 91140688,
+      "bytes": 321829,
+      "range_header": "bytes=90818860-91140688",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 5671.497,
+      "anker_sha256": "35700ba7021509195249b0eff4144ae4c0bfbea6b8ff96bed0e90f9bf8b7d493",
+      "einblendung_ms": 60,
+      "text": "A psychiatric evaluation reveals a character's obsessive-compulsive personality disorder and his tendency to categorize women into rigid, binary archetypes."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T02:42:21+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 6343,
+  "veroeffentlicht": "2026-08-18T07:01:00+00:00",
+  "beschreibung": "Today, Liza and Kara discuss the SVU episode “Weak” (Season 6, Episode 9) and investigate the horrific crimes of Chicago mass murderer Richard Speck.\nSOURCES:\nThe Pennsylvania Gazette\nWikipedia - Troy Graves\nThe Marshall Project\nThe Philadelphia Inquirer\nWikipedia - Richard Speck\nChicago History Museum\nTime\nCBS News\nWHAT WOULD SISTER PEG DO:\nWomen’s Law Project\nNext week’s episode will be “Guardians and Gladiators” (Season 22, Episode 1).\nSupport this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3yb7hqu\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Today, Liza and Kara discuss the SVU episode &ldquo;Weak&rdquo; (Season 6, Episode 9) and investigate the horrific crimes of Chicago mass murderer Richard Speck.</p> <p>SOURCES:<br><a href=\"http://thepenngazette.com/students-killer-behind-bars/\">The Pennsylvania Gazette</a><br><a href=\"https://en.wikipedia.org/wiki/Troy_Graves\">Wikipedia - Troy Graves</a><br><a href=\"https://www.themarshallproject.org/2015/12/18/rape-is-rape-isn-t-it\">The Marshall Project</a><br><a href=\"https://www.inquirer.com/opinion/commentary/special-victims-unit-rapes-womens-law-project-philadelphia-20250714.html\">The Philadelphia Inquirer</a><br><a href=\"https://en.wikipedia.org/wiki/Richard_Speck\">Wikipedia - Richard Speck</a><br><a href=\"https://www.chicagohistory.org/first-mass-murderer-richard-speck/\">Chicago History Museum</a><br><a href=\"https://web.archive.org/web/20080308025756/http://www.time.com/time/magazine/article/0,9171,984604,00.html\">Time</a><br><a href=\"https://www.cbsnews.com/chicago/news/killer-richard-speck-confessing-video-1996-report/\">CBS News</a></p> <p>WHAT WOULD SISTER PEG DO:<br><a href=\"https://www.womenslawproject.org/\">Women&rsquo;s Law Project</a></p> <p>Next week&rsquo;s episode will be &ldquo;Guardians and Gladiators&rdquo; (Season 22, Episode 1).</p> <p>Support this podcast by shopping our latest sponsor deals and promotions at this link: <a href=\"https://bit.ly/3yb7hqu\">https://bit.ly/3yb7hqu</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf7e6913-a01e-4666-a095-b24c0047c637/c3a2c876-20bf-449b-8d54-b24c0047c64d/image.jpg?t=1738340183&size=Large",
+  "folgennummer": 298,
+  "kapitel_quelle": "modell"
+}

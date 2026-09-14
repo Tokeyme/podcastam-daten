@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group18/M05/ED/10/wKgJJVfSJgjybc_sAbx9SqhNCOE426.m4a",
+  "apple_collection_id": "1006508472",
+  "show": "全亚音乐榜",
+  "titel": "118期：暖心神曲荣获第一 新曲领跑亚洲榜-",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJJVfSJgjybc_sAbx9SqhNCOE426.m4a?channel=rss&album_id=2352787&track_id=21167622&uid=12377514&jt=https://aod.cos.tx.xmcdn.com/group18/M05/ED/10/wKgJJVfSJgjybc_sAbx9SqhNCOE426.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29130058,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T07:28:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "全亚音乐榜新一期华语流行音乐及少儿榜单揭晓",
+  "kurzfassung": "本期全亚音乐榜公布了华语流行音乐及少儿榜单的最新排名情况。节目盘点了多首上榜新歌与冠军曲目，展示了多元化的音乐风格。同时向听众介绍了榜单的投票方式与互动渠道。",
+  "stichpunkte": [
+    "节目由DJ夏夜主持，带来新一周的华语榜接榜部分。",
+    "华语榜上榜歌曲涵盖了多位知名歌手的新曲与影视原声带。",
+    "陈柯宇的《套路》荣获本期华语榜冠军。",
+    "榜单曲目风格多样，融合了传统乐器、流行、R&B与摇滚等元素。",
+    "节目穿插介绍了少儿榜的全新榜单及多首少儿新歌。",
+    "听众可以通过官方网站或短信参与歌手和歌曲的投票。"
+  ],
+  "kapitel": [
+    {
+      "titel": "华语流行音乐榜单揭晓",
+      "start": 39.72
+    },
+    {
+      "titel": "少儿榜全新单曲盘点",
+      "start": 2431.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T07:28:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3598,
+  "veroeffentlicht": "2016-09-09T02:59:11+00:00",
+  "beschreibung": "全亚音乐榜，打造亚洲公信力第一权威榜单！",
+  "beschreibung_html": "<p>全亚音乐榜，打造亚洲公信力第一权威榜单！    <br /></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group11/M02/3A/79/wKgDa1WbSgngKnFpAAkEneYTbEs478.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

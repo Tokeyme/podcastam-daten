@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_656502959",
+  "apple_collection_id": "1700070918",
+  "show": "财经早餐",
+  "titel": "【财经七点半】国内票还在ICU，港票要求撤销印花税",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIIrytoACskVQJImGU7.m4a?channel=rss&album_id=77305498&track_id=656502959&uid=223911716&jt=https://aod.cos.tx.xmcdn.com/storages/875e-audiofreehighqps/5B/50/GKwRIaIIrytoACskVQJImGU7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2827349,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T21:01:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "复盘本周A股行情，分析多空影响因素并展望市场走向",
+  "kurzfassung": "节目回顾了本周A股市场的整体行情，指出成交量持续低迷及多重利空因素对短期走势的影响。同时，香港证券及期货专业总会要求撤销股票印花税，多家上市公司发布了财报与回购公告。最后还简要提及了美国实验室再次完成核聚变点火实验的科技动态。",
+  "stichpunkte": [
+    "本周A股市场整体呈震荡下跌态势，成交量萎缩至8000亿以下",
+    "技术面上存在上下缺口压制，周五指数单边下行预示今日可能跳空低开",
+    "医药商业板块因美股带动及反腐预期出现超跌反弹，证券板块领跌",
+    "美元指数保持强势，国内经济数据偏弱及多起利空消息导致外资持续流出",
+    "热门中概股普跌，A50和纳斯达克金融指数下滑，短期市场信心受挫",
+    "香港证券及期货专业总会响应施政报告咨询，要求撤销股票印花税",
+    "公布多起热股公告，中微半岛与佰航生物等进行股份回购，东方财富、科大讯飞、金龙鱼等发布上半年业绩",
+    "美国劳伦斯利弗莫尔国家实验室再次完成核聚变点火实验并实现净能量增益突破"
+  ],
+  "kapitel": [
+    {
+      "titel": "本周行情回顾",
+      "start": 0.0
+    },
+    {
+      "titel": "今日开盘走向分析",
+      "start": 64.82
+    },
+    {
+      "titel": "热股公告",
+      "start": 244.6
+    },
+    {
+      "titel": "前沿科技",
+      "start": 311.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T21:01:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 349,
+  "veroeffentlicht": "2023-08-13T23:33:34+00:00",
+  "beschreibung": "今天大盘绿盘开的概率大，指数预计在3144--3190之间震荡",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\"><span>今天大盘绿盘开的概率大，指数预计在3144--3190之间震荡</span></strong><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/cca3-audiofreehighqps/8D/EE/GKwRIJEIm7KuAACM_wJAYwI8.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

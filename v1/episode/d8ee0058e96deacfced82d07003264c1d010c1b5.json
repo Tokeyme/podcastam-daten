@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_572706878",
+  "apple_collection_id": "1619793365",
+  "show": "夜夜陪伴—情感频道",
+  "titel": "一想起你，我还是忍不住会怦然心动",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIHCN2rAFhKYQGoUAka.m4a?channel=rss&album_id=46651566&track_id=572706878&uid=256471567&jt=https://aod.cos.tx.xmcdn.com/storages/9e13-audiofreehighqps/B8/FD/GKwRIJIHCN2rAFhKYQGoUAka.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5786209,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T05:40:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述青岛理工大学西门一家羹汤店的故事，以及店主王嬷嬷长达十年的遗憾暗恋。",
+  "kurzfassung": "九六在青岛理工大学西门的一家羹汤店里，结识了店主王嬷嬷。王嬷嬷讲述了她与无闻从高中地震相识、大学相伴到最终遗憾错过的十年暗恋故事。最后，王嬷嬷虽然释怀了过去，但依然选择将这份无法送出的情书和遗憾留在店里。",
+  "stichpunkte": [
+    "青岛理工大学西门外有一家名为“耕耕鱼怀汤”的小餐厅，店里墙上贴满了遗憾的故事，收银台纸盒里装着送不出的情书。",
+    "店主王嬷嬷回忆起两人的初识：高二地震时无闻拉着她的手跑出教室，从此两人的命运紧密相连。",
+    "高中时期，无闻曾在晚自习偷偷给王嬷嬷买炸鸡而被班主任抓住，两人在楼道里罚站并互动手心写字。",
+    "王嬷嬷复读一年后考入与无闻相同的学校，毕业后又一同进入无闻上班的公司实习。",
+    "在一次喝酒时，无闻曾开玩笑般问王嬷嬷要不要跟自己一辈子，但最终在三十岁时辞职并与他人结婚。",
+    "王嬷嬷把暗恋比作在街角开糖果屋，默默看着喜欢的人带着别人幸福，却选择独自承担遗憾。",
+    "王嬷嬷认为不需要劝暗恋的人大胆表白，也不需要劝付出的人及时止损，耿耿于怀的喜欢也挺好的。"
+  ],
+  "kapitel": [
+    {
+      "titel": "羹汤店与王嬷嬷的故事",
+      "start": 2.28
+    },
+    {
+      "titel": "高中相识与地震的回忆",
+      "start": 130.76
+    },
+    {
+      "titel": "食堂分享与偷吃炸鸡",
+      "start": 261.28
+    },
+    {
+      "titel": "大学相伴与无闻的离去",
+      "start": 393.82
+    },
+    {
+      "titel": "关于暗恋的遗憾与释怀",
+      "start": 531.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T05:40:11+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 714,
+  "veroeffentlicht": "2022-09-27T15:45:24+00:00",
+  "beschreibung": "人生何止七味。我爱你，百感交集。大家好，我是九六。好久不见，除了青岛理工大学的西门。走到路口，然后在左拐。走个几十步的样子吧。有一家专门做羹汤的小餐厅，名字叫做耕耕于怀汤。店里面有一面墙，墙上多是一些遗憾的故事。吃完羹汤，你可以在收银台的大纸盒里面抽一封情书带走。是什么情书呢，是那些时刻永远也送不出去的情书。是一个又一个关于遗憾的故事。店主是一个三十岁的姑娘。叫做王某某第一次见他的时候，他问我。汤里面放胡椒面吗？我摇了摇头我问他说店里面有没有藏着自己的故事啊。他笑着说。你不要随便暗恋一个人。到最后你等",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">人生何止七味。我爱你，百感交集。大家好，我是九六。好久不见，除了青岛理工大学的西门。走到路口，然后在左拐。走个几十步的样子吧。有一家专门做羹汤的小餐厅，名字叫做耕耕于怀汤。店里面有一面墙，墙上多是一些遗憾的故事。吃完羹汤，你可以在收银台的大纸盒里面抽一封情书带走。是什么情书呢，是那些时刻永远也送不出去的情书。是一个又一个关于遗憾的故事。店主是一个三十岁的姑娘。叫做王某某第一次见他的时候，他问我。汤里面放胡椒面吗？我摇了摇头我问他说店里面有没有藏着自己的故事啊。他笑着说。你不要随便暗恋一个人。到最后你等<br><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/a190-audiofreehighqps/5F/4A/GMCoOSIHCN2GAAA42QGoT_wH.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/a190-audiofreehighqps/5F/4A/GMCoOSIHCN2GAAA42QGoT_wH.jpg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/a190-audiofreehighqps/5F/4A/GMCoOSIHCN2GAAA42QGoT_wH.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"319.1666666666667\" data-preview=\"http://imagev2.xmcdn.com/storages/a190-audiofreehighqps/5F/4A/GMCoOSIHCN2GAAA42QGoT_wH.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"59.57777777777778\"></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/109f-audiofreehighqps/AE/3F/GKwRIJIGEbkEAAEc6gEunsSq.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Sherlock Holmes Bedtime Stories",
+  "apple_collection_id": "1687383822",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "7abaed0f-2c69-4dc1-a083-91191f53c70a",
+      "audio_url": "https://audio4.redcircle.com/episodes/a058ac82-d6ac-462a-a0be-e92ed1f3a063/stream.mp3",
+      "pfad": "/v1/episode/b73b9c3c0e575987df1ee332505220521734d53a.json",
+      "titel": "Summer Bonus: The Man with the Twisted Lip",
+      "veroeffentlicht": "2026-08-19T20:00:18+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Sherlock Holmes investigates the mysterious disappearance of a wealthy gentleman in…"
+    }
+  ]
+}

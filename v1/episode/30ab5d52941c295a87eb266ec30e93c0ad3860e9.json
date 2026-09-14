@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_981922701",
+  "apple_collection_id": "1753972668",
+  "show": "晚睡的一牛 | 睡前夜听、情感短文、治愈美文",
+  "titel": "把夜晚还给自己",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAN-3fWAD-uywSkuKgG.m4a?channel=rss&album_id=82201471&track_id=981922701&uid=95538021&jt=https://aod.cos.tx.xmcdn.com/storages/f41e-audiofreehighqps/E0/04/GKwRIMAN-3fWAD-uywSkuKgG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4173515,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T18:12:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨为什么人们会报复性熬夜，并引导身心回归放松与真正的睡眠。",
+  "kurzfassung": "报复性熬夜并非因为事情没做完，而是白天被琐事切割后，人们试图通过延迟入睡来夺回对生活的掌控感。这种深夜的抗议虽然能带来片刻自由，但最终付出代价的依然是疲惫和焦虑的自己。节目最后通过引导放松的练习，帮助听众卸下一天的防备，安心回归睡眠。",
+  "stichpunkte": [
+    "报复性熬夜是白天时间被工作和人情世故切割后的一种无声抗议",
+    "人们通过深夜刷手机或追剧来延迟入睡，以此索取属于灵魂的空间",
+    "朋友阿婉深夜卸下职业伪装，在老电影中找回敏感而真实的自己",
+    "深夜亮起的窗户是无数灵魂在偷来的时间里进行的一场捍卫自我的微型叛逃",
+    "熬夜看似是对白天的报复，最终承担代价的却是变得更疲惫和焦虑的自己",
+    "报复性熬夜是一场只有自己受伤的静默战争，自由不应该以牺牲身体为代价",
+    "通过引导身体各部位从脚趾到眉心的放松练习，卸下积攒一整天的紧绷",
+    "把白天的自己交还给白天，把夜晚的自己还给睡眠，在梦中获得无需抵抗的自由"
+  ],
+  "kapitel": [
+    {
+      "titel": "把夜晚还给自己",
+      "start": 10.48
+    },
+    {
+      "titel": "身体扫描与放松练习",
+      "start": 260.74
+    },
+    {
+      "titel": "晚安道别",
+      "start": 481.2
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T18:12:39+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 515,
+  "veroeffentlicht": "2026-08-17T12:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/17c1-audiofreehighqps/D4/01/GAqhcW4N-3auAAHk2QSkuG0-.jpeg",
+  "kapitel_quelle": "modell"
+}

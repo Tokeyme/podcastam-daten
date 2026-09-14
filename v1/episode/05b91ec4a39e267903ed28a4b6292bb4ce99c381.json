@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "iRaAHaLB8ZD",
+  "apple_collection_id": "1783414563",
+  "show": "The OpenAI Daily Brief",
+  "titel": "OpenAI's Major Moves: Investments, Partnerships, and the Future of AI Music and Industry",
+  "audio": {
+    "url": "https://media.podcastai.com/episodes/iRaAHaLB8ZD.mp3?u=1761583385",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 20115873,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:21:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "OpenAI secures massive funding, new partnerships, and pushes into music and…",
+  "kurzfassung": "SoftBank has completed a $30 billion investment in OpenAI as the company restructures to prepare for a public offering. OpenAI has also formed a hardware partnership with AMD and acquired the Mac interface tool Sky. Additionally, the company is exploring AI music generation and outlining a vision to reindustrialize the U.S. through infrastructure investments.",
+  "stichpunkte": [
+    "SoftBank finalized a $30 billion investment following OpenAI's corporate restructuring for a potential IPO",
+    "OpenAI partnered with AMD to leverage advanced semiconductor hardware for running complex AI models",
+    "The acquisition of Software Applications brings the creators of the Mac interface Sky into OpenAI",
+    "OpenAI is reportedly developing an AI music creation tool, though Juilliard has denied a reported collaboration",
+    "Competitors like Spotify, Suno, and ElevenLabs are navigating ongoing music industry copyright challenges",
+    "OpenAI's regulatory filing outlines a vision to reindustrialize the U.S. and boost GDP through AI infrastructure",
+    "Chris Lehane calls for closing the electron gap with China by building 100 gigawatts of new energy capacity annually"
+  ],
+  "kapitel": [
+    {
+      "titel": "SoftBank's $30 Billion Investment",
+      "start": 19.125
+    },
+    {
+      "titel": "Partnership with AMD",
+      "start": 171.62
+    },
+    {
+      "titel": "Acquisition of Software Applications",
+      "start": 283.324
+    },
+    {
+      "titel": "AI Music Tool Development",
+      "start": 409.3
+    },
+    {
+      "titel": "U.S. Reindustrialization and Infrastructure Vision",
+      "start": 569.894
+    }
+  ],
+  "clips": [
+    {
+      "hook": "SoftBank's $30 billion investment",
+      "start": 29.568,
+      "ende": 55.008,
+      "laenge": 25.44,
+      "byte_start": 710433,
+      "byte_ende": 1320992,
+      "bytes": 610560,
+      "range_header": "bytes=710433-1320992",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 29.64,
+      "anker_sha256": "6caf7124a49f8d01436d8e333bfc0e46156d0c282a9fd3a8d85d8b1793258158",
+      "einblendung_ms": 60,
+      "text": "SoftBank is injecting $30 billion into OpenAI, marking a significant shift in the artificial intelligence landscape as of October 27, 2025."
+    },
+    {
+      "hook": "OpenAI and AMD join forces",
+      "start": 206.328,
+      "ende": 226.44,
+      "laenge": 20.11,
+      "byte_start": 4952673,
+      "byte_ende": 5435360,
+      "bytes": 482688,
+      "range_header": "bytes=4952673-5435360",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 206.4,
+      "anker_sha256": "5b6907ff2e41c9186714007190dd641749c48ce8c4501bc45d58bbc3f4f43041",
+      "einblendung_ms": 60,
+      "text": "Thank you."
+    },
+    {
+      "hook": "The team behind Workflow joins OpenAI",
+      "start": 332.424,
+      "ende": 362.52,
+      "laenge": 30.1,
+      "byte_start": 7978977,
+      "byte_ende": 8701280,
+      "bytes": 722304,
+      "range_header": "bytes=7978977-8701280",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 332.496,
+      "anker_sha256": "ccfee790790da77714dee35dd57a06d1c21d84801a466fbdd93f0d8ae7686a19",
+      "einblendung_ms": 60,
+      "text": "Thank you. Thank you. Thank you. Thank you. Thank you."
+    },
+    {
+      "hook": "Copyright challenges in AI music",
+      "start": 510.048,
+      "ende": 532.344,
+      "laenge": 22.3,
+      "byte_start": 12241953,
+      "byte_ende": 12777056,
+      "bytes": 535104,
+      "range_header": "bytes=12241953-12777056",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 510.12,
+      "anker_sha256": "5615f956d09977794e9875c8793a438a627431104a3e59ceb687f7859d4ba67a",
+      "einblendung_ms": 60,
+      "text": "OpenAI is entering the music production market, while competitors like Spotify collaborate with Sony, Universal, and Warner to manage AI integration in the industry."
+    },
+    {
+      "hook": "Trillion-dollar infrastructure impact on GDP",
+      "start": 624.888,
+      "ende": 650.808,
+      "laenge": 25.92,
+      "byte_start": 14998113,
+      "byte_ende": 15620192,
+      "bytes": 622080,
+      "range_header": "bytes=14998113-15620192",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 624.96,
+      "anker_sha256": "e1a64434b856cf6fee228a75b660ddd5de154ed5e16e952d8a707c72a66e2aba",
+      "einblendung_ms": 60,
+      "text": "OpenAI aims to revitalize American manufacturing and energy infrastructure by leveraging AI to optimize supply chains and increase national economic output."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:21:48+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 771,
+  "veroeffentlicht": "2025-10-27T17:00:00+00:00",
+  "beschreibung": "In this episode, we begin by discussing SoftBank's recent investment in OpenAI, highlighting its potential impact on OpenAI's growth. We then examine AMD's partnership with OpenAI, exploring how this collaboration could influence future AI developments. The episode continues with news of OpenAI's acquisition of Software Applications, Inc., and what it means for the company's expansion into new domains. We also introduce OpenAI's latest AI tool designed for music creation, analyzing its implications for the creative industry. Lastly, we delve into OpenAI's vision for reindustrializing the U.S. with AI. The episode concludes with a summary and closing remarks.\n\n(0:00) Introduction and SoftBank's investment in OpenAI\n(2:51) AMD's partnership with OpenAI\n(4:43) OpenAI acquires Software Applications, Inc.\n(6:49) OpenAI's new AI tool for music creation\n(9:29) OpenAI's vision for U.S. reindustrialization with AI\n(12:09) Summary and closing remarks",
+  "beschreibung_html": "In this episode, we begin by discussing SoftBank's recent investment in OpenAI, highlighting its potential impact on OpenAI's growth. We then examine AMD's partnership with OpenAI, exploring how this collaboration could influence future AI developments. The episode continues with news of OpenAI's acquisition of Software Applications, Inc., and what it means for the company's expansion into new domains. We also introduce OpenAI's latest AI tool designed for music creation, analyzing its implications for the creative industry. Lastly, we delve into OpenAI's vision for reindustrializing the U.S. with AI. The episode concludes with a summary and closing remarks.\n\n(0:00) Introduction and SoftBank's investment in OpenAI\n(2:51) AMD's partnership with OpenAI\n(4:43) OpenAI acquires Software Applications, Inc.\n(6:49) OpenAI's new AI tool for music creation\n(9:29) OpenAI's vision for U.S. reindustrialization with AI\n(12:09) Summary and closing remarks",
+  "bild_url": "https://data-1.podcastai.com/shows/2KWXZvec5SRWBEVITDBAOT/episodes/iRaAHaLB8ZD/artwork-3982983d.jpg",
+  "folgennummer": 115,
+  "kapitel_quelle": "modell"
+}

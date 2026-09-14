@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_613777456",
+  "apple_collection_id": "1226860584",
+  "show": "格物心理丨Outside In",
+  "titel": "告白与告别，亦是新的开始",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasHz-tFAC_3SQH8MPjE-aacv2-48K.m4a?channel=rss&album_id=7301087&track_id=613777456&uid=5511041&jt=https://aod.cos.tx.xmcdn.com/storages/4106-audiofreehighqps/73/11/GKwRIasHz-tFAC_3SQH8MPjE-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2363990,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:40:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "心理学播客Outside In正式迎来完结，主播回顾创作历程并分享全新生活感悟。",
+  "kurzfassung": "心理学播客Outside In在经历了从早期的周更到后来的不定期更新后，主播最终决定正式告别这档节目。回顾过去几年，节目不仅传播了心理学知识，也给听众和主播本人留下了深刻而温暖的回忆。如今主播将重心回归生活，通过观察植物开启了全新的视频记录尝试。",
+  "stichpunkte": [
+    "Outside In于2017年3月26日开播，最初旨在让更多人了解真正的心理学。",
+    "节目在早期保持数年周更，但在2020年初生病停更后节奏被打乱。",
+    "尝试过通过整合访谈录音维持更新，但最终发现难以恢复常态。",
+    "主播正式宣布节目完结，感谢听众一路以来的陪伴、留言和支持。",
+    "看到听众因节目选择心理学或神经科学专业，主播感到非常有意义且没有遗憾。",
+    "停更后主播将重心拉回生活，开始在阳台种花并尝试用视频记录生长过程。",
+    "保持好奇心就能发现更广阔的世界，这正是Outside In一直以来表达的内核。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开播与早期的坚持",
+      "start": 1.06
+    },
+    {
+      "titel": "节奏打破与艰难的维持",
+      "start": 94.5
+    },
+    {
+      "titel": "正式告别与感悟",
+      "start": 188.24
+    },
+    {
+      "titel": "回归生活与新的开始",
+      "start": 252.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:40:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 388,
+  "veroeffentlicht": "2023-02-25T15:24:42+00:00",
+  "beschreibung": "好久不见。上一次更新还是在2021年。没想到已经过去这么久。而大家都还在。\n告别是需要勇气的。幸好，我已经把想要说的话在节目里说得差不多了。\n今天，算是给Outside In画上一个句号吧。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>好久不见。上一次更新还是在2021年。没想到已经过去这么久。而大家都还在。</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">告别是需要勇气的。幸好，我已经把想要说的话在节目里说得差不多了。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">今天，算是给Outside In画上一个句号吧。</p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/group66/M02/9F/10/wKgMdV17cg3wL7ERAADfPPVWF1E530.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

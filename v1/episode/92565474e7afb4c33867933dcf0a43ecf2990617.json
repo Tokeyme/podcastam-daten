@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007536039",
+  "apple_collection_id": "1620809210",
+  "show": "治愈电台 | 情感文案|治愈陪伴",
+  "titel": "沉默坦然才是最好的辩白",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOXLEVADZrSATJrBYG.m4a?channel=rss&album_id=44610475&track_id=1007536039&uid=18807974&jt=https://aod.cos.tx.xmcdn.com/storages/c091-audiofreehighqps/26/0C/GKwRIRwOXLEVADZrSATJrBYG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3566408,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T13:47:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "面对误解与质疑，沉默坦然才是最好的辩白。",
+  "kurzfassung": "本期节目探讨了面对误解时人们常常陷入拼命解释的困境。主播珍珍指出，过度的解释不仅无效，反而容易交出自己人生的主导权。真正的智者在面对外界的流言蜚语时，能够保持沉默坦然，过好自己的日子。",
+  "stichpunkte": [
+    "珍珍指出人们被误解时往往急于解释，试图讲清前因后果",
+    "村上春树的观点表明，无法理解的事即使解释也无法明白",
+    "过度解释容易让人心虚，甚至开始怀疑自我、丢失立场",
+    "误解本是人生常态，理解反而是稀缺的例外",
+    "画家陈丹青认为向别人不停诉说是无效的，只会越描越黑",
+    "与其在别人的误解里消耗自己，不如在自己的笃定里安顿下来",
+    "当你不再试图被理解、不再拼命解释时，反而会获得更多的相信",
+    "在被误解和质疑时保持平静不乱，沉默坦然才是最好的辩白"
+  ],
+  "kapitel": [
+    {
+      "titel": "面对误解的无效解释",
+      "start": 15.02
+    },
+    {
+      "titel": "误解是常态与沉默的力量",
+      "start": 116.04
+    },
+    {
+      "titel": "节目尾声与音乐",
+      "start": 252.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T13:47:03+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 440,
+  "veroeffentlicht": "2026-08-21T12:30:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e8a3-audiofreehighqps/5C/4B/GMCoOSEJsyWxAAF30gKuR73r.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

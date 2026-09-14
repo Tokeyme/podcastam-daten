@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The Joe Budden Podcast",
+  "apple_collection_id": "1535809341",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "57608d76-f83b-40c8-ac6d-5aa125ea26a9",
+      "audio_url": "https://verifi.podscribe.com/rss/p/traffic.libsyn.com/secure/jbpod/Joe_Budden_Podcast_961.mp3?dest-id=2422538",
+      "pfad": "/v1/episode/c76d6a71b9b14f26a01d00a80ee7578e5e048a13.json",
+      "titel": "Episode 961 | \"Bashful\"",
+      "veroeffentlicht": "2026-09-05T09:30:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The hosts discuss birthday vibes, the NBA's massive Clippers penalty, and new music drops."
+    }
+  ]
+}

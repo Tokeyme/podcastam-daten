@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_702956802",
+  "apple_collection_id": "1605961196",
+  "show": "【Tracy Talk】 中英双语脱口秀| 听英文 看世界",
+  "titel": "【Tracy Talk】HT：为什么人们热衷于新年下决心？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4Jjh01AJT-1gKiJL2-.m4a?channel=rss&album_id=46629232&track_id=702956802&uid=34207073&jt=https://aod.cos.tx.xmcdn.com/storages/a54f-audiofreehighqps/2E/DA/GKwRIW4Jjh01AJT-1gKiJL2-.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 9764566,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T06:54:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨为什么人们热衷于制定新年决心以及如何让目标真正实现",
+  "kurzfassung": "本期节目探讨了新年愿望的制定与实现。节目指出超过半数的人无法坚持新年决心，并给出了具体的可行建议。此外，主播还带领听众学习了多篇英文文章中的核心词汇与发音技巧。",
+  "stichpunkte": [
+    "临床心理学研究表明，仅有46%的人能成功实现新年愿望",
+    "没有制定新年愿望但有目标的非设定者成功率仅为4%",
+    "实现新年愿望需要做好心理准备并设定具体的、可控的小目标",
+    "建议借助Notion等智能应用监督目标完成并定期回顾",
+    "详细讲解了ambitious、numerous、concrete等核心英文词汇",
+    "分析了文中长难句的发音技巧与朗读时的停顿处理"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目导入与新年愿望的背景",
+      "start": 0.0
+    },
+    {
+      "titel": "新年决心的成功率研究数据",
+      "start": 58.7
+    },
+    {
+      "titel": "实现新年愿望的具体方法",
+      "start": 132.1
+    },
+    {
+      "titel": "重点英文词汇讲解",
+      "start": 194.96
+    },
+    {
+      "titel": "发音技巧与句型跟读练习",
+      "start": 749.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T06:54:22+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1206,
+  "veroeffentlicht": "2024-01-30T02:08:23+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/52cf-audiofreehighqps/42/5E/GMCoOSEJjhzWAASc9gKiJIdJ.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

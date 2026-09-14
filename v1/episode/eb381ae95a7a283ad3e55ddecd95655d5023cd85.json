@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "guid": "6a7d6e2017676351c5714284",
+  "apple_collection_id": "1879743524",
+  "show": "澳洲创业访谈录",
+  "titel": "AI产品上线了，但没流量？真正的战场是增长｜对话 Vincent",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a7d6e2017676351c5714284/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lmk_U932HdL7EwvNF3PYXv9S0xVc.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 58489880,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T08:54:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨AI产品如何通过精准定位和增长策略破解流量困局",
+  "kurzfassung": "本期节目对话WorkFX AI创始人Vincent，分享了他从早期AI旅游创业到大厂历练，再到第二次AI应用创业的完整心路历程。节目深入探讨了AI产品在流量获取、大客户拓展、团队管理以及寻找用户真实痛点方面的宝贵经验。Vincent还分享了AI时代下独立开发者和中小企业如何利用SEO与GEO实现业务增长。",
+  "stichpunkte": [
+    "Vincent分享了早年在莫道克大学接触AI及第一次做定制旅游创业的曲折经历。",
+    "回顾了在阿里和微软大厂的经历，认为大厂系统化流程和人才密度为商业化打下了基础。",
+    "第二次创业初期推出Shopping Agent遭遇付费意愿低谷，认识到技术并非用户的第一痛点。",
+    "通过研究领英profile和CXO的焦虑，成功切入并开拓了大客户业务。",
+    "经历融资坎坷与合伙人离开后，团队经历重组与深刻复盘，修炼了创业者的心态与韧性。",
+    "业务转型聚焦AI Visibility与GEO（生成式引擎优化），帮助中小企业获取自然流量。",
+    "分享了AI时代创业的增长三步法：公开构建（Building in Public）、用户互动以及利用SEO和GEO获取流量。",
+    "探讨了AI时代AI Coding的应用、大厂与小公司的竞争优势以及未来的护城河构建。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与早期AI旅游创业经历",
+      "start": 42.72
+    },
+    {
+      "titel": "大厂历练：在阿里与微软学到的商业化与体系化",
+      "start": 283.22
+    },
+    {
+      "titel": "第二次创业：从Shopping Agent的失误到痛点复盘",
+      "start": 495.3
+    },
+    {
+      "titel": "攻克大客户与领英获客实战策略",
+      "start": 922.52
+    },
+    {
+      "titel": "融资挫折、合伙人离开与团队心态重塑",
+      "start": 1294.28
+    },
+    {
+      "titel": "业务转型Pivot：锁定AI流量与GEO方向",
+      "start": 1756.04
+    },
+    {
+      "titel": "AI时代的增长秘籍：从Building in Public到SEO/GEO",
+      "start": 2173.46
+    },
+    {
+      "titel": "AI Coding时代的团队构建、AI焦虑与护城河",
+      "start": 2460.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T08:54:42+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3616,
+  "veroeffentlicht": "2026-08-13T07:17:11+00:00",
+  "beschreibung": "🇦🇺 欢迎加入「澳洲创业交流群」\n听完节目还想继续聊？欢迎添加小助理微信入群 👉 微信号：Cutie_Sydney\n复制后打开微信搜索添加，备注：创业交流群\nAI让产品越来越容易做。\nVibe coding、一人公司、Agent……过去可能需要一个团队做几个月的产品，现在几周甚至几天就能做出来。但当产品供给越来越多，另一个问题反而变得更重要：\n产品做出来以后，用户从哪里来？\n这期嘉宾 Vincent，是悉尼 AI 创业公司 WorkFX AI 的创始人。十多年前，他就在墨尔本大学开始接触 AI；第一次创业做了四年，最后把公司卖给一家德国企业。后来进入阿里、微软，又在 ChatGPT 出现后开始第二次创业。\n这一次，他也踩了不少坑：产品很快做到 2万美金 MRR、2000+商户，却发现付费转化并不好；融资已经接近完成，最后还是没有 close；团队也从最多30多人重新收缩。\n后来他们花了两个月访谈约 300家商户，重新寻找用户真正愿意付钱的 First Pay Point，最终把方向转向 AI Visibility / GEO。新的产品上线后，3个月新增1000+用户，自己的流量也翻了十多倍。\n所以这期我们重点聊了：\nAI产品增长怎么做： 产品做出来之后，Build in Public、Community、SEO/GEO、付费增长应该怎么一步步做？\n\nFirst Pay Point怎么找： 为什么“技术很强”不代表“用户愿意付钱”？怎么判断用户真正的第一痛点？\n\n澳洲怎么做ToB大客户： 小型AI创业公司，怎么找到C-level决策人？大企业买AI到底在买什么？\n\nAI创业怎么融资： 为什么Vincent认为“资本永远是锦上添花”？澳洲、美国的融资环境有什么不同？\n\n⏰ 时间轴\n00:02:10 从F35项目开始，十多年前第一次接触AI\n00:03:31 第一次AI创业：公司卖掉后，买家看中的却不是技术\n00:04:41 为什么选择回国加入大厂：去阿里、微软？\n00:08:26 ChatGPT出现，开启第二次AI创业\n00:12:50 3–4个月做到2万美金MRR，但产品真的成立了吗？\n00:14:12 最大的教训：技术不是产品，用户有自己的First Pay Point\n00:15:25 澳洲小公司怎么直接拿下ToB大客户？\n00:22:32 融资接近完成，却在最后阶段没有close\n00:25:35 两个月访谈300家商户，重新寻找方向\n00:30:17 Pivot之后发现：商家真正愿意花钱解决的是流量\n00:33:52 AI产品越来越容易做，为什么Distribution越来越重要？\n00:36:04 产品已经做出来，没有流量怎么办？从Build in Public开始\n00:39:38 注册到付费10%+，怎么判断产品有没有PMF？\n00:43:28 下一阶段：ARR、增长与融资目标\n00:48:32 为什么澳洲公司选择美国市场和美国融资？\n00:50:46 澳洲、中国、美国做AI创业，各有什么优势和短板？\n00:52:51 怎么管理越来越严重的AI FOMO？\n00:56:04 Vibe coding时代，AI创业公司的护城河到底是什么？\n🧰 术语工具箱\nAI Visibility：让品牌、产品在搜索、推荐和大模型回答中更容易被看见\n\nAI Distribution：AI时代的产品分发，核心解决“产品做出来以后，用户从哪里来”\n\nSEO（Search Engine Optimization）：传统搜索引擎流量优化\n\nGEO（Generative Engine Optimization）：让品牌和内容更容易出现在ChatGPT、Gemini等生成式AI的答案里\n\nRAG：让大模型先从资料库检索，再根据检索结果生成答案\n\nAgent：能够代表用户执行一系列任务的智能体，不只是聊天框\n\nMRR / ARR：月度 / 年度经常性收入，订阅制公司常用的经营指标\n\nPMF（Product-Market Fit）：产品与市场匹配，用户愿意持续使用和付费\n\nFirst Pay Point：用户预算有限时，最优先愿意付钱解决的问题\n\nBuild in Public：公开分享产品从想法、开发到迭代的过程，同时积累第一批用户和关注\n\nFOMO：Fear of Missing Out，害怕错过新技术、新趋势带来的焦虑\n\nVibe Coding：大量借助AI完成代码生成和产品开发\n\n✨ 金句精选\n技术不是产品。你可以把很复杂的技术堆进去，但它不一定是用户的 First Pay Point。\n\n现在整个生产力爆炸，做开发变得更简单，大家竞争最主要的点，是怎么分发你的产品。\n\nIdea价值不高。真正难的是把Idea变成MVP、变成Production Level，再不断迭代和分发。\n\n对于独立开发者来说，第一步就应该 Build in Public，让大家知道你在做什么。\n\n创业的时候，往往坏的事情会同时发生。\n\n资本从来不会雪中送炭，它永远是锦上添花。\n\n判断用户第一痛点：预算有限的时候，他愿意把最多的钱花在哪里，那里就是第一需求。\n\n🎯 本期关键词\n澳洲创业｜悉尼创业｜澳洲AI｜AI创业｜AI创业公司｜AI产品｜AI产品增长｜AI产品怎么增长｜AI获客｜AI商业化｜AI SaaS｜B2B AI｜ToB大客户｜澳洲大客户｜企业销售｜LinkedIn获客｜海外增长｜美国市场｜AI融资｜澳洲融资｜美国融资｜创业融资｜MRR｜ARR｜PMF｜First Pay Point｜第一付费点｜用户需求｜创业Pivot｜AI Distribution｜AI Visibility｜流量增长｜SEO｜GEO｜生成式搜索｜Build in Public｜Vibe Coding｜AI Agent | WorkFX AI\n🌟 联系方式\n微信：jiangbeixuan\n\n小红书：萱萱Michelle\n\n澳洲创业交流群：微信添加 Cutie_Sydney\n\n播客：小宇宙 / Apple Podcasts / Spotify 搜索《澳洲创业访谈录》\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<h2>🇦🇺 <strong>欢迎加入「澳洲创业交流群」</strong></h2><p>听完节目还想继续聊？欢迎添加小助理微信入群 👉 微信号：<strong>Cutie_Sydney</strong><br>复制后打开微信搜索添加，备注：<strong>创业交流群</strong></p><img src=\"https://image.xyzcdn.net/FjMmrTcp8oFo61v06C2F4gb78YVu.png\"><p>AI让产品越来越容易做。</p><p>Vibe coding、一人公司、Agent……过去可能需要一个团队做几个月的产品，现在几周甚至几天就能做出来。但当产品供给越来越多，另一个问题反而变得更重要：</p><p><strong>产品做出来以后，用户从哪里来？</strong></p><p>这期嘉宾 <strong>Vincent</strong>，是悉尼 AI 创业公司 <strong>WorkFX AI </strong>的创始人。十多年前，他就在墨尔本大学开始接触 AI；第一次创业做了四年，最后把公司卖给一家德国企业。后来进入阿里、微软，又在 ChatGPT 出现后开始第二次创业。</p><p>这一次，他也踩了不少坑：产品很快做到 <strong>2万美金 MRR、2000+商户</strong>，却发现付费转化并不好；融资已经接近完成，最后还是没有 close；团队也从最多30多人重新收缩。</p><p>后来他们花了两个月访谈约 <strong>300家商户</strong>，重新寻找用户真正愿意付钱的 <strong>First Pay Point</strong>，最终把方向转向 AI Visibility / GEO。新的产品上线后，3个月新增1000+用户，自己的流量也翻了十多倍。</p><p>所以这期我们重点聊了：</p><ul><li><p><strong>AI产品增长怎么做：</strong> 产品做出来之后，Build in Public、Community、SEO/GEO、付费增长应该怎么一步步做？</p></li><li><p><strong>First Pay Point怎么找：</strong> 为什么“技术很强”不代表“用户愿意付钱”？怎么判断用户真正的第一痛点？</p></li><li><p><strong>澳洲怎么做ToB大客户：</strong> 小型AI创业公司，怎么找到C-level决策人？大企业买AI到底在买什么？</p></li><li><p><strong>AI创业怎么融资：</strong> 为什么Vincent认为“资本永远是锦上添花”？澳洲、美国的融资环境有什么不同？</p></li></ul><h2><strong>⏰ 时间轴</strong></h2><p><a class=\"timestamp\">00:02:10</a> 从F35项目开始，十多年前第一次接触AI</p><p><a class=\"timestamp\">00:03:31</a> 第一次AI创业：公司卖掉后，买家看中的却不是技术</p><p><a class=\"timestamp\">00:04:41</a> 为什么选择回国加入大厂：去阿里、微软？</p><p><a class=\"timestamp\">00:08:26</a> ChatGPT出现，开启第二次AI创业</p><p><a class=\"timestamp\">00:12:50</a> 3–4个月做到2万美金MRR，但产品真的成立了吗？</p><p><a class=\"timestamp\">00:14:12</a> 最大的教训：技术不是产品，用户有自己的First Pay Point</p><p><a class=\"timestamp\">00:15:25</a> 澳洲小公司怎么直接拿下ToB大客户？</p><p><a class=\"timestamp\">00:22:32</a> 融资接近完成，却在最后阶段没有close</p><p><a class=\"timestamp\">00:25:35</a> 两个月访谈300家商户，重新寻找方向</p><p><a class=\"timestamp\">00:30:17</a> Pivot之后发现：商家真正愿意花钱解决的是流量</p><p><a class=\"timestamp\">00:33:52</a> AI产品越来越容易做，为什么Distribution越来越重要？</p><p><a class=\"timestamp\">00:36:04</a> 产品已经做出来，没有流量怎么办？从Build in Public开始</p><p><a class=\"timestamp\">00:39:38</a> 注册到付费10%+，怎么判断产品有没有PMF？</p><p><a class=\"timestamp\">00:43:28</a> 下一阶段：ARR、增长与融资目标</p><p><a class=\"timestamp\">00:48:32</a> 为什么澳洲公司选择美国市场和美国融资？</p><p><a class=\"timestamp\">00:50:46</a> 澳洲、中国、美国做AI创业，各有什么优势和短板？</p><p><a class=\"timestamp\">00:52:51</a> 怎么管理越来越严重的AI FOMO？</p><p><a class=\"timestamp\">00:56:04</a> Vibe coding时代，AI创业公司的护城河到底是什么？</p><h2><strong>🧰 术语工具箱</strong></h2><ul><li><p><strong>AI Visibility</strong>：让品牌、产品在搜索、推荐和大模型回答中更容易被看见</p></li><li><p><strong>AI Distribution</strong>：AI时代的产品分发，核心解决“产品做出来以后，用户从哪里来”</p></li><li><p><strong>SEO（Search Engine Optimization）</strong>：传统搜索引擎流量优化</p></li><li><p><strong>GEO（Generative Engine Optimization）</strong>：让品牌和内容更容易出现在ChatGPT、Gemini等生成式AI的答案里</p></li><li><p><strong>RAG</strong>：让大模型先从资料库检索，再根据检索结果生成答案</p></li><li><p><strong>Agent</strong>：能够代表用户执行一系列任务的智能体，不只是聊天框</p></li><li><p><strong>MRR / ARR</strong>：月度 / 年度经常性收入，订阅制公司常用的经营指标</p></li><li><p><strong>PMF（Product-Market Fit）</strong>：产品与市场匹配，用户愿意持续使用和付费</p></li><li><p><strong>First Pay Point</strong>：用户预算有限时，最优先愿意付钱解决的问题</p></li><li><p><strong>Build in Public</strong>：公开分享产品从想法、开发到迭代的过程，同时积累第一批用户和关注</p></li><li><p><strong>FOMO</strong>：Fear of Missing Out，害怕错过新技术、新趋势带来的焦虑</p></li><li><p><strong>Vibe Coding</strong>：大量借助AI完成代码生成和产品开发</p></li></ul><p></p><p><strong>✨ 金句精选</strong></p><blockquote><p>技术不是产品。你可以把很复杂的技术堆进去，但它不一定是用户的 First Pay Point。</p></blockquote><blockquote><p>现在整个生产力爆炸，做开发变得更简单，大家竞争最主要的点，是怎么分发你的产品。</p></blockquote><blockquote><p>Idea价值不高。真正难的是把Idea变成MVP、变成Production Level，再不断迭代和分发。</p></blockquote><blockquote><p>对于独立开发者来说，第一步就应该 Build in Public，让大家知道你在做什么。</p></blockquote><blockquote><p>创业的时候，往往坏的事情会同时发生。</p></blockquote><blockquote><p>资本从来不会雪中送炭，它永远是锦上添花。</p></blockquote><blockquote><p>判断用户第一痛点：预算有限的时候，他愿意把最多的钱花在哪里，那里就是第一需求。</p></blockquote><h3>🎯 本期关键词</h3><p>澳洲创业｜悉尼创业｜澳洲AI｜AI创业｜AI创业公司｜AI产品｜AI产品增长｜AI产品怎么增长｜AI获客｜AI商业化｜AI SaaS｜B2B AI｜ToB大客户｜澳洲大客户｜企业销售｜LinkedIn获客｜海外增长｜美国市场｜AI融资｜澳洲融资｜美国融资｜创业融资｜MRR｜ARR｜PMF｜First Pay Point｜第一付费点｜用户需求｜创业Pivot｜AI Distribution｜AI Visibility｜流量增长｜SEO｜GEO｜生成式搜索｜Build in Public｜Vibe Coding｜AI Agent | WorkFX AI</p><h3>🌟 联系方式</h3><ul><li><p>微信：jiangbeixuan</p></li><li><p>小红书：萱萱Michelle</p></li><li><p>澳洲创业交流群：微信添加 Cutie_Sydney</p></li><li><p>播客：小宇宙 / Apple Podcasts / Spotify 搜索《澳洲创业访谈录》</p></li></ul><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a7d6e2017676351c5714284?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FibFGqWRcby9M7S1BuPemijwvm8I.png",
+  "kapitel_quelle": "modell"
+}

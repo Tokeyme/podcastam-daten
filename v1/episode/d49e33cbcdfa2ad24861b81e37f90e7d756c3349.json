@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "guid": "14515461",
+  "apple_collection_id": "1499798726",
+  "show": "宝力佳育儿｜孕产百科",
+  "titel": "别再给你的孩子喂饭了！（上）",
+  "audio": {
+    "url": "http://tchwod-sign.qtfm.cn/m4a/5e730a37d93ae55ff9b58eaa_16057392_24.m4a?auth_key=6a995eb8-655196-0-239451819c920166fff2d6c4b8a8c368",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 531489,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:56:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨家长追着喂饭给孩子带来的五大危害。",
+  "kurzfassung": "许多家长习惯追着孩子喂饭，但这会导致一系列严重的发育和心理问题。本期节目详细分析了喂饭对儿童造成的五大负面影响。内容涵盖饥饿感缺失、手口协调受阻、口腔及面部发育不良等方面。",
+  "stichpunkte": [
+    "喂饭导致孩子缺乏饥饿感，失去进食兴趣且饮食无节制",
+    "长期被喂饭影响手部灵活性和手口协调能力",
+    "缺乏咀嚼阻碍口腔功能，进而影响语言发音",
+    "三岁前缺乏口腔活动可能导致面部肌肉僵硬或颌骨发育问题",
+    "喂饭剥夺童年乐趣，影响性格、生活态度及对美食的热爱"
+  ],
+  "kapitel": [
+    {
+      "titel": "喂饭现象及五大坏处引言",
+      "start": 12.34
+    },
+    {
+      "titel": "喂饭的五大坏处",
+      "start": 48.98
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:56:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 180,
+  "veroeffentlicht": "2020-03-19T05:59:19+00:00",
+  "kapitel_quelle": "modell"
+}

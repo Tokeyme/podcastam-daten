@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "guid": "3e6924db-b816-4d84-806e-b4a20131d864",
+  "apple_collection_id": "6795534064",
+  "show": "At The Table: The Food Allergy Podcast",
+  "titel": "The Table Abroad - Traveling with Food Allergies",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/3c8671f6-aca5-407a-9ddd-b43b0112e845/3e6924db-b816-4d84-806e-b4a20131d864/audio.mp3?utm_source=Podcast&in_playlist=78f3b403-4205-4f2a-8e96-b43b0112ecc1",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 18678792,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:44:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "How to navigate travel and dining abroad safely with food allergies.",
+  "kurzfassung": "Traveling abroad with food allergies requires careful planning, effective communication, and thorough preparation. The hosts and guests share practical strategies, including bringing your own meals, researching local food culture, using allergy cards translated into the local language, and preparing for emergencies. Ultimately, thorough preparation allows travelers with food allergies to explore the world safely without missing out on new experiences.",
+  "stichpunkte": [
+    "Preparation and planning provide the freedom to travel safely with food allergies.",
+    "Bringing your own food, such as cold sesame noodles, is a reliable option during transit.",
+    "Researching destination cuisines and local ingredient lists helps avoid hidden allergens.",
+    "Using allergy cards translated into the local language bridges communication gaps at restaurants.",
+    "Booking accommodations with kitchens, like Airbnbs, offers a safe alternative to dining out for every meal.",
+    "Restaurant protocols like stop sheets and direct conversations with chefs help prevent cross-contamination.",
+    "Emergency preparedness includes carrying multiple doses of epinephrine and identifying local hospitals.",
+    "Traveling with food allergies requires extra planning, but everyone deserves to enjoy new experiences safely."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Travel Challenges",
+      "start": 25.04
+    },
+    {
+      "titel": "In-Flight Food Safety Risks",
+      "start": 199.639
+    },
+    {
+      "titel": "Travel-Friendly In-Flight Recipe",
+      "start": 335.48
+    },
+    {
+      "titel": "Planning and Safety Tips for Abroad",
+      "start": 563.72
+    },
+    {
+      "titel": "Restaurant Protocols and Emergency Preparedness",
+      "start": 788.4
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The reality of travel with food allergies",
+      "start": 116.088,
+      "ende": 136.202,
+      "laenge": 20.11,
+      "byte_start": 1894965,
+      "byte_ende": 2216793,
+      "bytes": 321829,
+      "range_header": "bytes=1894965-2216793",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 116.166,
+      "anker_sha256": "5b900c1bcaec4957ac0aa537e3ececbd572cf79d142cfa296057afc337b34678",
+      "einblendung_ms": 60,
+      "text": "Navigating foreign dining options while dealing with severe dietary restrictions transforms standard vacation planning into a complex logistical challenge."
+    },
+    {
+      "hook": "Airlines and peanut allergy protocols",
+      "start": 248.033,
+      "ende": 269.113,
+      "laenge": 21.08,
+      "byte_start": 4006077,
+      "byte_ende": 4343369,
+      "bytes": 337293,
+      "range_header": "bytes=4006077-4343369",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 248.111,
+      "anker_sha256": "e3a02b273ff51c66036574ad98c57dc2477f918753ab6d7804886c5366dab303",
+      "einblendung_ms": 60,
+      "text": "Preparing for a high school theater trip involving severe peanut precautions highlighted how early organizational measures become routine for allergic travelers."
+    },
+    {
+      "hook": "Advocating for yourself is a skill",
+      "start": 621.714,
+      "ende": 641.802,
+      "laenge": 20.09,
+      "byte_start": 9984983,
+      "byte_ende": 10306393,
+      "bytes": 321411,
+      "range_header": "bytes=9984983-10306393",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 621.793,
+      "anker_sha256": "37657087d78607f95182f2522b95fb152d1d4f7bc2009ec77f3310f0f9fc2f61",
+      "einblendung_ms": 60,
+      "text": "Using translated dietary cards and speaking up about food restrictions fosters positive culinary connections rather than hindering overseas trips."
+    },
+    {
+      "hook": "Restaurant protocol for food allergies",
+      "start": 821.577,
+      "ende": 841.665,
+      "laenge": 20.09,
+      "byte_start": 13182789,
+      "byte_ende": 13504198,
+      "bytes": 321410,
+      "range_header": "bytes=13182789-13504198",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 821.655,
+      "anker_sha256": "3b7b8037a240fdb578aee8a2450d04998098299b5e1c5d8ed4a0a2cbc6a77ad6",
+      "einblendung_ms": 60,
+      "text": "Restaurant kitchens utilize dedicated paper forms handed to servers to track specific dietary requests and prevent cross-contamination."
+    },
+    {
+      "hook": "Taking responsibility for your own safety",
+      "start": 987.925,
+      "ende": 1008.039,
+      "laenge": 20.11,
+      "byte_start": 15844353,
+      "byte_ende": 16166180,
+      "bytes": 321828,
+      "range_header": "bytes=15844353-16166180",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 988.003,
+      "anker_sha256": "ccc7a69b071f90385c02e795b045936bddfef41a1dde456851c9c28bc8f1553e",
+      "einblendung_ms": 60,
+      "text": "Traveling companions offer helpful support, but managing food safety abroad ultimately remains an individual responsibility requiring careful preparation."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:44:31+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1145,
+  "veroeffentlicht": "2026-08-11T05:30:00+00:00",
+  "beschreibung": "For most people, travel is about discovering new places, new cultures and new food. For people with food allergies, it can also mean navigating unfamiliar ingredients, language barriers, and moments where a simple meal can be a real risk. In this episode of At the Table, we pull up a seat at the Table Abroad and explore what it really means to travel with food allergies.\nThis show is brought to you in partnership with Genentech and Novartis.\nWhat is XOLAIR?\nXOLAIR® (omalizumab) for subcutaneous use is an injectable prescription medicine used to treat food allergy in people 1 year of age and older to reduce allergic reactions that may occur after accidentally eating one or more foods to which you are allergic. While taking XOLAIR you should continue to avoid all foods to which you are allergic. It is not known if XOLAIR is safe and effective in people with food allergy under 1 year of age.\nXOLAIR should not be used for the emergency treatment of any allergic reactions, including anaphylaxis.\nWhat is the most important information I should know about XOLAIR?\nSevere allergic reaction. A severe allergic reaction called anaphylaxis can happen when you receive XOLAIR. The reaction can occur after the first dose, or after many doses. It may also occur right after a XOLAIR injection or days later. Anaphylaxis is a life-threatening condition and can lead to death. Go to the nearest emergency room right away if you have any of these symptoms of an allergic reaction:\nwheezing, shortness of breath, cough, chest tightness, or trouble breathing\nlow blood pressure, dizziness, fainting, rapid or weak heartbeat, anxiety, or feeling of “impending doom”\nflushing, itching, hives, or feeling warm\nswelling of the throat or tongue, throat tightness, hoarse voice, or trouble swallowing\n\nYour healthcare provider will monitor you closely for symptoms of an allergic reaction while you are receiving XOLAIR and for a period of time after treatment is initiated. Your healthcare provider should talk to you about getting medical treatment if you have symptoms of an allergic reaction.\nPlease see the full Prescribing Information for additional safety information, including Boxed Warning, and Medication Guide by visiting bit.ly/XOLPI\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>For most people, travel is about discovering new places, new cultures and new food. For&nbsp;people with food allergies, it can also mean navigating unfamiliar ingredients, language&nbsp;barriers, and moments where a simple meal can be a real risk. In this episode of At the Table,&nbsp;we pull up a seat at the Table Abroad and explore what it really means to travel with food&nbsp;allergies.</p> <p>This show is brought to you in partnership with Genentech and Novartis.</p> <p>What is XOLAIR?</p> <p>XOLAIR&reg; (omalizumab) for subcutaneous use is an injectable prescription medicine used to treat food allergy in people 1 year of age and older to reduce allergic reactions that may occur after accidentally eating one or more foods to which you are allergic. While taking XOLAIR you should continue to avoid all foods to which you are allergic. It is not known if XOLAIR is safe and effective in people with food allergy under 1 year of age.</p> <p>XOLAIR should not be used for the emergency treatment of any allergic reactions, including anaphylaxis.</p> <p>What is the most important information I should know about XOLAIR?</p> <p>Severe allergic reaction. A severe allergic reaction called anaphylaxis can happen when you receive XOLAIR. The reaction can occur after the first dose, or after many doses. It may also occur right after a XOLAIR injection or days later. Anaphylaxis is a life-threatening condition and can lead to death. Go to the nearest emergency room right away if you have any of these symptoms of an allergic reaction:</p> <ul> <li>wheezing, shortness of breath, cough, chest tightness, or trouble breathing</li> <li>low blood pressure, dizziness, fainting, rapid or weak heartbeat, anxiety, or feeling of &ldquo;impending doom&rdquo;&nbsp;</li> <li>flushing, itching, hives, or feeling warm</li> <li>swelling of the throat or tongue, throat tightness, hoarse voice, or trouble swallowing</li> </ul> <p>Your healthcare provider will monitor you closely for symptoms of an allergic reaction while you are receiving XOLAIR and for a period of time after treatment is initiated. Your healthcare provider should talk to you about getting medical treatment if you have symptoms of an allergic reaction.</p> <p>Please see the full Prescribing Information for additional safety information, including<strong> Boxed Warning, </strong>and Medication Guide by visiting bit.ly/XOLPI</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3c8671f6-aca5-407a-9ddd-b43b0112e845/78f3b403-4205-4f2a-8e96-b43b0112ecc1/image.jpg?t=1780656565&size=Large",
+  "schlagworte": [
+    "traveling with food allergies",
+    "food allergies abroad",
+    "food allergy travel tips",
+    "eating abroad with allergies",
+    "airline food allergies",
+    "food allergy safety",
+    "allergy card travel",
+    "managing food allergies"
+  ],
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

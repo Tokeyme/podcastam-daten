@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1006684535",
+  "apple_collection_id": "1450485512",
+  "show": "晓东讲故事-大案追踪",
+  "titel": "新坟藏尸案",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAOVv6ZAG7ysgTHYlvr.m4a?channel=rss&album_id=20386717&track_id=1006684535&uid=33235239&jt=https://aod.cos.tx.xmcdn.com/storages/4907-audiofreehighqps/7E/48/GKwRIMAOVv6ZAG7ysgTHYlvr.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7271090,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T20:56:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "贵州深山新坟藏男尸，潜逃十八年的杀人犯在广东落网揭开家族惨剧。",
+  "kurzfassung": "2003年，贵州盐河县的一处新坟中发现了一具遭受残忍虐杀的男尸，死者为同村的杨老三。警方调查发现，凶手竟是死者的二哥杨老二，其大嫂也曾协助掩埋尸体。杨老二在作案后潜逃十八年，最终于2021年在广东东莞因重病和思乡向警方自首。",
+  "stichpunkte": [
+    "2003年3月，贵州省盐河县警方在一处山林的新坟中发现一具遭受严重虐杀的男尸，死者身份确认系同村杨老三。",
+    "死者二嫂向警方交代，杨老三是被其丈夫杨老二用斧头砍死，大嫂随后协助掩埋了尸体，而杨老二则在作案后潜逃。",
+    "由于当年侦破手段落后，杨老二人间蒸发，这一逃就是整整18年。",
+    "2021年1月，东莞警方在客运车站附近救助了一名虚弱的流浪汉，该男子自称杨国二，实则是潜逃多年的杨老二。",
+    "杨老二随身携带的破布包里装有13万5千多元现金，这是他多年来靠捡破烂和打零工攒下、准备留给两个儿子的补偿款。",
+    "随着杨老二落网，这起长达18年的命案背后的畸形家族丑闻浮出水面。",
+    "杨老三从小备受溺爱却性格暴躁，成年后不仅游手好闲，更长期胁迫并侵犯二嫂，甚至将其搞大肚子。",
+    "为了家族名声和孩子，杨家人选择了一再隐忍，但杨老三变本加厉，企图彻底霸占二嫂并多次对二哥下死手。",
+    "最终在2003年春节前夕，忍无可忍的杨老二在冲突中反杀弟弟，酿成了一场令人唏嘘的家族血案。"
+  ],
+  "kapitel": [
+    {
+      "titel": "深山新坟",
+      "start": 1.74
+    },
+    {
+      "titel": "锁定嫌犯",
+      "start": 191.12
+    },
+    {
+      "titel": "东莞流浪汉",
+      "start": 324.22
+    },
+    {
+      "titel": "十三万现金",
+      "start": 419.34
+    },
+    {
+      "titel": "家族丑闻",
+      "start": 514.92
+    },
+    {
+      "titel": "血案爆发",
+      "start": 756.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T20:56:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 898,
+  "veroeffentlicht": "2026-08-16T10:00:00+00:00",
+  "beschreibung": "2003年，贵州新坟藏尸案：“畸情丑闻”酿血案，凶手潜逃18年。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">2003年，贵州新坟藏尸案：“畸情丑闻”酿血案，凶手潜逃18年。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group63/M02/A2/02/wKgMcl0LP-KwQYRJAAhNfxGkbk0032.jpg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

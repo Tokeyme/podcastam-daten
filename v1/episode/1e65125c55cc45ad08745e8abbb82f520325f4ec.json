@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007294862",
+  "apple_collection_id": "1524136171",
+  "show": "奇了怪了 | 真·奇幻访谈",
+  "titel": "小张和小七的灵异经历——奇了怪了",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_pQkxZawUyPuJryTcvhECYGYGGUWWuNRzTLKVSncZzPsXbKHfQvNesTVwaT-ca.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 26707247,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T21:19:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "分享两则离奇经历，涵盖屠牛老人的诡异晚年与小七遭遇的狐仙因果。",
+  "kurzfassung": "节目中讲述了两位嘉宾的神秘经历。首先是小张分享了一位以宰牛为生的老人在临终前遭受痛苦折磨、且下葬时怪事频发的往事，并延伸探讨了路边捡红包的禁忌与精神病院的诡异现象。随后，小七分享了自己在2011年跟随师父处理的一起东北农村男子因贪图一张大狐狸皮而招致诡异祸端并最终设坛供奉的传奇故事。",
+  "stichpunkte": [
+    "广东屠牛老人在临终前一个月表现出牛的习性，日夜牛鸣且痛苦不堪。",
+    "屠牛老人下葬行至放牛地时，棺材绳索不断且无法前行，最终只能就地掩埋。",
+    "朋友捡了路边红包后遭遇车祸，监控显示电车踏板在无人踩动的情况下自行下压。",
+    "武警三叔认为精神病院最恐怖，部分精神失常现象实则是被外界力量夺舍或附体。",
+    "小张回忆小学时经历月食，在大榕树上看到如人生果般悬挂的恐怖人头。",
+    "小张幼时在幼儿园小黑屋被关禁闭时，曾亲眼目睹一只猴状的不明生物蹲在上方。",
+    "小七讲述其师父董奶奶曾处理过一桩东北男子捕杀并剥皮大红狐狸而遭邪气缠身的灵异事件。"
+  ],
+  "kapitel": [
+    {
+      "titel": "屠牛老人的诡异晚年",
+      "start": 19.66
+    },
+    {
+      "titel": "路边红包与车祸监控之谜",
+      "start": 506.5
+    },
+    {
+      "titel": "精神分裂与夺舍的联想",
+      "start": 864.92
+    },
+    {
+      "titel": "月食之夜与幼儿园的恐怖遭遇",
+      "start": 1100.32
+    },
+    {
+      "titel": "小七讲述狐仙因果事件",
+      "start": 1570.5
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T21:19:35+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3299,
+  "veroeffentlicht": "2026-08-19T18:52:41+08:00",
+  "bild_url": "https://fdfs.xmcdn.com/group87/M07/FA/E4/wKg5J18OXmzwZS36ABFTLi4FgnM474.JPG",
+  "folgennummer": 3,
+  "kapitel_quelle": "modell"
+}

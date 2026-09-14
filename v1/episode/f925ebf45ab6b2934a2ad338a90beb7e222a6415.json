@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "guid": "http://radiomd.com/weillcornellpsych/item/69253-on-our-evolving-understanding-of-personality-a-clinical-guide-to-assessment",
+  "apple_collection_id": "1680788667",
+  "show": "On the Mind with Dr. Daniel Knoepflmacher",
+  "titel": "On Our Evolving Understanding of Personality: A Clinical Guide to Assessment",
+  "audio": {
+    "url": "https://support.doctorpodcasting.com/download/69253/weill_cornell_psych/wcp043.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 111059373,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T02:01:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Why personality assessment is vital in psychiatric evaluations and treatment",
+  "kurzfassung": "Daniel Knoepflmacher and Frank Yeomans discuss why assessing personality is a crucial component of psychiatric evaluations. They explore the shift from categorical to dimensional models of personality disorders and examine core elements like identity, defenses, and aggression. The conversation offers practical guidance for clinicians on recognizing personality pathology and discussing diagnoses with patients.",
+  "stichpunkte": [
+    "Personality assessments are frequently skipped by busy clinicians when obvious pathology is absent.",
+    "The DSM-5 includes both a categorical model and a dimensional alternative model for personality disorders.",
+    "Core features of personality disorders involve difficulties in one's sense of self and interpersonal interactions.",
+    "Object relations theory explains how internal representations of self and others shape our perception of reality.",
+    "Six key areas to assess include identity, defenses, reality testing, aggression, interpersonal relationships, and moral functioning.",
+    "Discussing a personality disorder diagnosis openly with patients leads to better treatment outcomes."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction to Personality Assessment",
+      "start": 4.212
+    },
+    {
+      "titel": "Defining Personality and Nosology",
+      "start": 328.688
+    },
+    {
+      "titel": "Categorical vs. Dimensional Models in the DSM-5",
+      "start": 553.469
+    },
+    {
+      "titel": "Object Relations Theory and Clinical Applications",
+      "start": 1267.811
+    },
+    {
+      "titel": "Evaluating Identity, Defenses, and Aggression",
+      "start": 1658.031
+    },
+    {
+      "titel": "Reality Testing, Relationships, and Moral Functioning",
+      "start": 2954.105
+    },
+    {
+      "titel": "Discussing Diagnoses with Patients",
+      "start": 3683.429
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Over two billion online personality tests completed annually",
+      "start": 115.017,
+      "ende": 145.11,
+      "laenge": 30.09,
+      "byte_start": 2761342,
+      "byte_ende": 3483574,
+      "bytes": 722233,
+      "range_header": "bytes=2761342-3483574",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 115.096,
+      "anker_sha256": "2939fbd8e081f1bd39b50b1b2b558a1969eb105846b99b2f47e6eb912fe0c9e1",
+      "einblendung_ms": 60,
+      "text": "Dr. Daniel Knoepflmacher examines how personality evaluation permeates modern digital culture, corporate hiring, and clinical psychiatry."
+    },
+    {
+      "hook": "How a simple self-description reveals a solid personality",
+      "start": 1155.422,
+      "ende": 1185.515,
+      "laenge": 30.09,
+      "byte_start": 27731060,
+      "byte_ende": 28453292,
+      "bytes": 722233,
+      "range_header": "bytes=27731060-28453292",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1155.5,
+      "anker_sha256": "b29d7d0422e0489fbe4580816df079318d885b7b3e93192bc8908648857679fe",
+      "einblendung_ms": 60,
+      "text": "An integrated personality allows a person to balance core values, family, career, spirituality, and leisure in a coherent way."
+    },
+    {
+      "hook": "Borderline personality disorder distribution: women vs. men",
+      "start": 2886.191,
+      "ende": 2916.284,
+      "laenge": 30.09,
+      "byte_start": 69269515,
+      "byte_ende": 69991748,
+      "bytes": 722234,
+      "range_header": "bytes=69269515-69991748",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2886.269,
+      "anker_sha256": "ba5bd65ede658c0b57d2f11031b74047072b427ec745beefb3275d28e8fc6329",
+      "einblendung_ms": 60,
+      "text": "While community surveys show an equal split of men and women with borderline personality disorder, clinical settings treat vastly more female patients."
+    },
+    {
+      "hook": "Why personality disorders are part of the human spectrum",
+      "start": 3086.759,
+      "ende": 3116.852,
+      "laenge": 30.09,
+      "byte_start": 74083151,
+      "byte_ende": 74805383,
+      "bytes": 722233,
+      "range_header": "bytes=74083151-74805383",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3086.838,
+      "anker_sha256": "0e5b1ba1223f668978ad7a83e4900dcd9c8177befb4654a70a1c7c02d0e5a619",
+      "einblendung_ms": 60,
+      "text": "Internal memory traces shape how individuals evaluate new environments, leading to varying degrees of accuracy in reality testing."
+    },
+    {
+      "hook": "The main takeaway for every clinician: be more curious",
+      "start": 4463.308,
+      "ende": 4483.396,
+      "laenge": 20.09,
+      "byte_start": 107120317,
+      "byte_ende": 107602432,
+      "bytes": 482116,
+      "range_header": "bytes=107120317-107602432",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 4463.386,
+      "anker_sha256": "8b57c9d0ea53fb58e6f523afa0a0f43a1b9c1479305c6814c4ea5de96bab4adb",
+      "einblendung_ms": 60,
+      "text": "The conversation concludes with an appreciation for the guest's dedication and enthusiasm for psychological research and clinical work."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T02:01:54+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4627,
+  "veroeffentlicht": "2026-07-28T05:00:00-05:00",
+  "beschreibung": "In this episode of On the Mind, host Dr. Daniel Knoepflmacher speaks with Dr. Frank Yeomans, a clinical professor of psychiatry at Weill Cornell Medicine and Director of Training at the Personality Disorders Institute, about how to assess personality in a comprehensive psychiatric evaluation. Dr. Yeomans traces the shift from the DSM-5’s traditional categorical model of personality disorders to its dimensional alternative model, which identifies difficulties in one’s sense of self and relationships with others as the core features underlying all personality pathology. Drawing on decades of clinical experience, he walks through six key dimensions clinicians can assess in any patient: identity, defenses, aggression, reality testing, interpersonal relationships, and moral functioning, illustrating each with vivid case examples. The conversation also addresses how to sensitively discuss a personality disorder diagnosis with patients, the key distinctions between borderline and narcissistic personality disorder, and why understanding personality pathology as existing on a spectrum we all share can reduce stigma in clinical practice.",
+  "beschreibung_html": "<a href=\"https://support.doctorpodcasting.com/media/k2/items/cache/dd2f6c31ed5ca0d2ee99429f4bec140c_Generic.jpg\"><img align=\"right\" border=\"0\" src=\"https://support.doctorpodcasting.com/media/k2/items/cache/dd2f6c31ed5ca0d2ee99429f4bec140c_S.jpg\" alt=\"on-our-evolving-understanding-of-personality-a-clinical-guide-to-assessment\" /></a><p>In this episode of On the Mind, host Dr. Daniel Knoepflmacher speaks with Dr. Frank Yeomans, a clinical professor of psychiatry at Weill Cornell Medicine and Director of Training at the Personality Disorders Institute, about how to assess personality in a comprehensive psychiatric evaluation. Dr. Yeomans traces the shift from the DSM-5’s traditional categorical model of personality disorders to its dimensional alternative model, which identifies difficulties in one’s sense of self and relationships with others as the core features underlying all personality pathology. Drawing on decades of clinical experience, he walks through six key dimensions clinicians can assess in any patient: identity, defenses, aggression, reality testing, interpersonal relationships, and moral functioning, illustrating each with vivid case examples. The conversation also addresses how to sensitively discuss a personality disorder diagnosis with patients, the key distinctions between borderline and narcissistic personality disorder, and why understanding personality pathology as existing on a spectrum we all share can reduce stigma in clinical practice.</p>",
+  "schlagworte": [
+    "Personalty"
+  ],
+  "kapitel_quelle": "modell",
+  "bild_url": "https://support.doctorpodcasting.com/images/podcast-images/podcast-on-the-mind-weill.png"
+}

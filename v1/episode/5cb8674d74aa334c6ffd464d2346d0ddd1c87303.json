@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_830034216",
+  "apple_collection_id": "1753227960",
+  "show": "DeepTalk | 发现改变世界的新兴科技",
+  "titel": "普通人如何用好AI：从技术到应用的全方位解读",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqhqKwLwXXzACAAAAOMu3Tj.mp3.m4a?channel=rss&album_id=47378426&track_id=830034216&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/ce0d-audiofreehighqps/8B/58/GAqhqKwLwXXzACAAAAOMu3Tj.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 110499614,
+    "format": "mp3",
+    "geprueft_am": "2026-08-26T10:31:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "探讨大模型时代下普通人如何使用AI，涵盖思维链、应用分类与行业影响。",
+  "kurzfassung": "本期播客邀请清华大学智能产业研究院助理教授赵浩，深度探讨了以DeepSeek为代表的大模型给普通人生活和工作带来的变革。节目分析了思维链、算力与架构的最新进展，并详细梳理了AI在文职、知识和分析类工作中的应用场景。同时，嘉宾还就AI是否会替代编程、外语以及如何重塑科研与教育等话题分享了务实的观点。",
+  "stichpunkte": [
+    "DeepSeek凭借吸引人的思维链、出色的中文能力和专业的生产力性能引爆行业。",
+    "思维链的成功展现和自我反思机制，引发了关于人工智能是否具备智能的讨论。",
+    "大模型推动了体系结构在训练中的优化，使传统的底层架构重新受到重视。",
+    "AI应用主要分为填空型政务工作、知识性工作和分析性工作三大类。",
+    "医疗、法律和科研等领域正在被大模型深刻改变，但一手私域信息仍难以被替代。",
+    "在教育和学习中，掌握底层原理和提示词技巧能够更好地帮助人们使用AI。",
+    "大模型在翻译、游戏开发以及日常办公自动化中展现出了巨大的应用潜力。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与DeepSeek的爆火原因",
+      "start": 30.66
+    },
+    {
+      "titel": "Scaling Law与体系结构的重要性",
+      "start": 249.08
+    },
+    {
+      "titel": "AI应用的分类与落地场景",
+      "start": 1068.98
+    },
+    {
+      "titel": "Agent智能体的研究与应用",
+      "start": 1533.34
+    },
+    {
+      "titel": "普通人如何用好AI与提示词技巧",
+      "start": 1816.9
+    },
+    {
+      "titel": "语言、编程、科研与教育的未来",
+      "start": 2695.64
+    }
+  ],
+  "clips": [
+    {
+      "hook": "DeepSeek的思维链与中文能力",
+      "start": 185.88,
+      "ende": 215.976,
+      "laenge": 30.1,
+      "byte_start": 4469406,
+      "byte_ende": 5191709,
+      "bytes": 722304,
+      "range_header": "bytes=4469406-5191709",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 185.952,
+      "anker_sha256": "b5bfd23d17122758da7407cc0e62e01ba4067568d7249100c22b10cb2d71bf71",
+      "einblendung_ms": 60,
+      "text": "探讨了该人工智能出色的中文幽默创作能力以及令人惊叹的思维链推导机制。"
+    },
+    {
+      "hook": "传统计算机体系结构的再次复兴",
+      "start": 572.496,
+      "ende": 602.592,
+      "laenge": 30.1,
+      "byte_start": 13748190,
+      "byte_ende": 14470493,
+      "bytes": 722304,
+      "range_header": "bytes=13748190-14470493",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 572.568,
+      "anker_sha256": "d190ccc51eeb911d49f339ac685e6ed7ad9907c350f19932ff17b6e36444d36e",
+      "einblendung_ms": 60,
+      "text": "回顾了计算机体系结构和流水线技术在清华大学等高校计算机系的发展变迁。"
+    },
+    {
+      "hook": "AI应用的四大类划分",
+      "start": 1265.904,
+      "ende": 1285.992,
+      "laenge": 20.09,
+      "byte_start": 30389982,
+      "byte_ende": 30872093,
+      "bytes": 482112,
+      "range_header": "bytes=30389982-30872093",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 1265.976,
+      "anker_sha256": "5f6b753de7155247a62fbb1e620e1d76e38bbe235a502a11be80cab3462ea042",
+      "einblendung_ms": 60,
+      "text": "分析了人工智能在政务填空、知识检索和数据分析等领域的应用价值及存在的幻觉风险。"
+    },
+    {
+      "hook": "日常使用大模型的两个实用技巧",
+      "start": 2078.544,
+      "ende": 2108.64,
+      "laenge": 30.1,
+      "byte_start": 49893342,
+      "byte_ende": 50615645,
+      "bytes": 722304,
+      "range_header": "bytes=49893342-50615645",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 2078.616,
+      "anker_sha256": "945f7c3b3630270ee0e38b97a2384b1e34771748c83ff0ad8cfcf41de7e2f4de",
+      "einblendung_ms": 60,
+      "text": "分享了利用负向提示词和宏观与微观指令结合来优化邮件撰写等日常工作流的技巧。"
+    },
+    {
+      "hook": "AI能否进行科研与创造",
+      "start": 3330.888,
+      "ende": 3357.192,
+      "laenge": 26.3,
+      "byte_start": 79949598,
+      "byte_ende": 80580893,
+      "bytes": 631296,
+      "range_header": "bytes=79949598-80580893",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 3330.96,
+      "anker_sha256": "87e08edb487136fdeef5a3b313683ded5fee413b767b8fa72eef21d62432341a",
+      "einblendung_ms": 60,
+      "text": "指出人工智能将在套路化的初级科研创作中占据一席之地，而颠覆性的原创研究依然高度依赖哲学思考和可遇不可求的资深科学家。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-26T10:31:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4603,
+  "veroeffentlicht": "2025-04-01T09:34:12+00:00",
+  "beschreibung": "大模型以其强大的语言处理能力、高效的专业任务表现以及仿佛具有“人工智能觉醒”般的特性，成功吸引了全球众多用户的关注。在应用领域，AI 已经在医疗、科研、教育、法律等多个领域展现出广泛的应用现状和巨大的潜力。对普通人来说，迎接 AI、拥抱 AI 需要准备什么？需要怎么做？本地部署还是云端部署？下一个值得关注的方向是什么？本期 DeepTalk 将从尽量落地的角度，聊一聊人工智能正在如何改变我们的生活和工作，作为普通人的我们如何更好地使用 AI，帮助生活、工作更加高效。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>大模型以其强大的语言处理能力、高效的专业任务表现以及仿佛具有“人工智能觉醒”般的特性，成功吸引了全球众多用户的关注。在应用领域，AI 已经在医疗、科研、教育、法律等多个领域展现出广泛的应用现状和巨大的潜力。对普通人来说，迎接 AI、拥抱 AI 需要准备什么？需要怎么做？本地部署还是云端部署？下一个值得关注的方向是什么？本期 DeepTalk 将从尽量落地的角度，聊一聊人工智能正在如何改变我们的生活和工作，作为普通人的我们如何更好地使用 AI，帮助生活、工作更加高效。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/965f-audiofreehighqps/81/C5/CMCoOSMEG6HEAACwFACPyc3s.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

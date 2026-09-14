@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "HRBP Lab的播客",
+  "apple_collection_id": "1759318223",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "698c9d68a22480add6c098e4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/698c9d68a22480add6c098e4/media.xyzcdn.net/6433caf09421ca43923f8da6/lmWon35DmpMNb127iFHmsvL5XiUs.m4a",
+      "pfad": "/v1/episode/54e250dcfac3a552f4bd638ddc3574eaa7c81595.json",
+      "titel": "67期丨Chat with AI（HR年度报告解读）",
+      "veroeffentlicht": "2026-02-11T23:30:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "解读Gartner 2025年HR领袖报告，探讨AI浪潮下HR的转型与挑战。"
+    }
+  ]
+}

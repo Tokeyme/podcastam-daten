@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007706436",
+  "apple_collection_id": "1554431313",
+  "show": "36氪·商业情报局（第二季）",
+  "titel": "尧乐科技发布一体针织数据手套，让触觉采集回归真实人手动作",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOXcRlACNVOQTKGA0n.m4a?channel=rss&album_id=36264240&track_id=1007706436&uid=73880812&jt=https://aod.cos.tx.xmcdn.com/storages/6e27-audiofreehighqps/72/2F/GKwRIDoOXcRlACNVOQTKGA0n.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2315577,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:35:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "尧乐科技发布Teknit Glove G1一体针织数据手套，解决机器人触觉采集难题",
+  "kurzfassung": "尧乐科技推出了Teknit Glove G1深度触觉数据手套，旨在解决机器人触觉数据短缺和行业主流采集方案的瓶颈。该手套采用一体织造柔性传感技术，具备轻量化、全掌触觉覆盖以及长期数据稳定性。产品通过全链路自研与标准化量产，降低了大规模触觉数据采集的成本，推动机器人从实验室走向真实场景。",
+  "stichpunkte": [
+    "机器人精细操作面临触觉数据短缺制约，现有采集方案存在各自瓶颈",
+    "尧乐科技推出Teknit Glove G1深度触觉数据手套，采用一体织造柔性传感技术",
+    "单只手套重约60克，内置216个有效传感点，覆盖指腹与掌心核心区域",
+    "硬件采用分离式设计，主控盒集成超广角摄像头实现多模态同步采集",
+    "实现导电纱线材料、纺织设备改造与信号处理算法的全链路自研",
+    "产品定位为标准化工业消耗品，通过规模化量产降低数据获取门槛",
+    "已进入头部灵巧手厂商供应链开展落地测试，并计划搭建数据服务平台闭环",
+    "低成本、高一致性的触觉采集终端将加速机器人真实场景应用落地"
+  ],
+  "kapitel": [
+    {
+      "titel": "机器人触觉采集的行业痛点",
+      "start": 0.68
+    },
+    {
+      "titel": "Teknit Glove G1的核心设计与功能",
+      "start": 45.36
+    },
+    {
+      "titel": "全链路自研与商业化路径",
+      "start": 158.04
+    },
+    {
+      "titel": "行业展望与未来规划",
+      "start": 232.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:35:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 285,
+  "veroeffentlicht": "2026-08-21T07:42:16+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group76/M00/E5/EB/wKgO3l6G4ouh9R1sAANAIW_5ex4015.jpg",
+  "folgennummer": 13,
+  "kapitel_quelle": "modell"
+}

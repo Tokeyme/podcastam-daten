@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_922379421",
+  "apple_collection_id": "1875668977",
+  "show": "相声",
+  "titel": "笑谈日本",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEMyVm7ARPTZAQlBsM9.m4a?channel=rss&album_id=80933983&track_id=922379421&uid=497558577&jt=https://aod.cos.tx.xmcdn.com/storages/7129-audiofreehighqps/22/D3/GKwRIUEMyVm7ARPTZAQlBsM9.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 18076516,
+    "format": "m4a",
+    "geprueft_am": "2026-09-06T07:36:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "相声演员畅谈世界各地的礼仪文化与方言趣事",
+  "kurzfassung": "两位相声演员在节目中幽默风趣地探讨了不同地区和国家的礼仪文化。他们通过独特的视角和方言误会，演绎了中国传统礼仪、日本及法国的社交风俗。整场表演充满了笑料与互动，展现了相声艺术的魅力。",
+  "stichpunkte": [
+    "节目开场讨论方言在日常交流中容易造成的各种误会",
+    "分享了去山东青岛演出时因方言产生的趣事与交流插曲",
+    "推广陕西话并将其幽默地称为古代的“大唐雅音”",
+    "详细讲解并现场表演了中国传统的见面作揖与磕头礼",
+    "探讨了满族清朝时期的碰肩礼并进行了现场情景演绎",
+    "介绍日本文化的源流，并模拟了天皇邀请相声艺人的场景",
+    "提及非洲食人族的独特握手礼并展开搞笑的动作表演",
+    "探讨法国浪漫的亲吻礼，并在现场模拟了搭讪与交友过程"
+  ],
+  "kapitel": [
+    {
+      "titel": "方言误会与山东之行",
+      "start": 30.0
+    },
+    {
+      "titel": "陕西话与大唐雅音",
+      "start": 314.66
+    },
+    {
+      "titel": "中国传统礼仪与磕头礼",
+      "start": 599.34
+    },
+    {
+      "titel": "满族碰肩礼与日本文化溯源",
+      "start": 804.5
+    },
+    {
+      "titel": "非洲食人族与法国亲吻礼",
+      "start": 1676.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T07:36:40+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2232,
+  "veroeffentlicht": "2025-10-18T13:30:25+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/88d1-audiofreehighqps/74/EB/GAqhF9kL2shXAAG3XwObt6J8.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

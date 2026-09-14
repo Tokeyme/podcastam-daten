@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_905055713",
+  "apple_collection_id": "1544070542",
+  "show": "中国历史经典传奇（初篇）",
+  "titel": "用计谋打败强敌，古代权谋的现代价值探秘",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIMhzxiABiZyAQDm_yF.m4a?channel=rss&album_id=42337595&track_id=905055713&uid=30415196&jt=https://aod.cos.tx.xmcdn.com/storages/836e-audiofreehighqps/0B/45/GKwRIJIMhzxiABiZyAQDm_yF.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1612232,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T15:48:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探索古代战争权谋的智慧，分析经典逆袭案例及其在现代战争中的应用价值。",
+  "kurzfassung": "本期节目深入探讨了中国古代战争中的权谋智慧与策略应用。通过分析三国、楚汉等时期的经典战役，阐述了弱势方如何借助权谋实现逆袭。同时，节目还将古代兵法思想与现代信息化战争及商业竞争进行了对比。",
+  "stichpunkte": [
+    "古代战争权谋指冷兵器时代交战双方通过谋略和战术达到军事目标的手段",
+    "《孙子兵法》和《三十六纪》体现了兵不厌诈和以智取胜的核心思想",
+    "赤壁之战中诸葛亮和周瑜利用火功、东风和诈降以少胜多击败曹操",
+    "韩信通过明修栈道、暗渡陈仓成功实现战略奇袭",
+    "巨鹿之战中项羽采用破釜沉舟激发士兵斗志击败秦军主力",
+    "肥水之战展示了通过巧妙部署和心理攻势以少胜多的战例",
+    "现代海湾战争中的左勾拳战术与古代声东击西有异曲同工之妙",
+    "知己知彼的思想在现代情报战、商业竞争和国际博弈中依然具有指导意义"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目导入与权谋定义",
+      "start": 0.0
+    },
+    {
+      "titel": "权谋在战场上的实际应用",
+      "start": 49.96
+    },
+    {
+      "titel": "弱势方的逆袭案例分析",
+      "start": 91.12
+    },
+    {
+      "titel": "古代权谋在现代战争中的价值",
+      "start": 127.42
+    },
+    {
+      "titel": "互动问答与结语",
+      "start": 168.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T15:48:23+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 198,
+  "veroeffentlicht": "2025-08-29T09:56:44+00:00",
+  "beschreibung": "在本期播客中，我们深入探讨了古代战争权谋的定义及其策略应用。通过经典案例，如赤壁之战和巨鹿之战，分析了权谋如何帮助弱者逆袭强敌。节目还探讨了权谋思想在现代战争中的延续，强调心理战、信息战和战术欺骗的重要性。古代兵法中的智慧不仅适用于军事行动，更在商业竞争和国际博弈中具有指导意义。欢迎听众分享您对权谋的看法和喜爱的案例！",
+  "beschreibung_html": "在本期播客中，我们深入探讨了古代战争权谋的定义及其策略应用。通过经典案例，如赤壁之战和巨鹿之战，分析了权谋如何帮助弱者逆袭强敌。节目还探讨了权谋思想在现代战争中的延续，强调心理战、信息战和战术欺骗的重要性。古代兵法中的智慧不仅适用于军事行动，更在商业竞争和国际博弈中具有指导意义。欢迎听众分享您对权谋的看法和喜爱的案例！<br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/72dc-audiofreehighqps/70/AE/GAqh4zIMhzxbAAuNVwQDm_jo.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

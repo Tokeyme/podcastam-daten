@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007791523",
+  "apple_collection_id": "1493043971",
+  "show": "凝思|古典音乐精品赏析",
+  "titel": "第五十一集：肖邦的《B大调夜曲》，静谧夜色下的灵魂独白",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4OXjkAAF-mZATKV3V5.m4a?channel=rss&album_id=31890993&track_id=1007791523&uid=204239058&jt=https://aod.cos.tx.xmcdn.com/storages/6991-audiofreehighqps/8F/C4/GKwRIW4OXjkAAF-mZATKV3V5.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6268516,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T07:26:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "剖析肖邦晚期杰作《B大调夜曲》，感受静谧夜色下的灵魂独白与生命回眸。",
+  "kurzfassung": "本期节目深入解析了肖邦晚期作品《B大调夜曲》，探讨了其创作背景、自由复杂的曲式结构以及丰富的和声变化。主播宁思结合自身艰难的习琴经历，分享了对这首充满内省气质与情感张力的杰作的独特感悟。乐曲在华丽的装饰音与空灵的尾声中，展现了天才作曲家在生命暮年对爱与美的深情回眸。",
+  "stichpunkte": [
+    "作品背景：创作于1846年，是肖邦生前出版的最后两首夜曲中的第一首，诞生于其健康恶化、感情受挫及祖国命运堪忧的时期。",
+    "风格转变：不同于早期的沙龙音乐，这首夜曲纯粹为了表达内省的内心世界而存在，结构松散自由，和声大胆复杂。",
+    "曲式结构：采用慢版三部曲式，打破了简单的歌唱性旋律加伴奏模式，多旋律线自由交织。",
+    "A段特征：B大调，和声平稳，旋律从容温柔，散发着柔和的光芒。",
+    "B段对比：转为关系小调，大量使用切分音和调性犹疑，营造出不安、焦虑与动荡的质感。",
+    "再现与装饰：A段再现时加入了极为复杂的大段颤音和花腔，成为情感表达的倍增器与内心独白的流露。",
+    "尾声与意境：全曲在极轻的和弦中结束，高音区游走的旋律营造出梦境般的透明感，如同一篇关于灵魂救赎的忏悔录。",
+    "主播体验：宁思分享了自己练习这首升号繁多、转调复杂的曲子时经历的艰难过程，以及通过弹奏对作品产生的更深层感知。"
+  ],
+  "kapitel": [
+    {
+      "titel": "《B大调夜曲》的创作背景与艺术价值",
+      "start": 1.34
+    },
+    {
+      "titel": "乐曲结构与三部曲式的音乐表现",
+      "start": 120.28
+    },
+    {
+      "titel": "华丽装饰音背后的情感独白",
+      "start": 308.94
+    },
+    {
+      "titel": "尾声的超脱与全曲的深刻意境",
+      "start": 335.22
+    },
+    {
+      "titel": "主播的习琴感悟与结语",
+      "start": 513.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T07:26:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 774,
+  "veroeffentlicht": "2026-08-21T15:59:30+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8e74-audiofreehighqps/1B/F3/GKwRIUEOXjhEAAVMugTKVyEt.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

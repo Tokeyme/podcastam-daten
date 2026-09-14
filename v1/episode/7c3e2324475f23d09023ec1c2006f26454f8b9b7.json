@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_695692724",
+  "apple_collection_id": "1553600136",
+  "show": "散文经典·老高读书",
+  "titel": "苗传江 缅怀林老师",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwJXxywAQa1FAKSDMhi.m4a?channel=rss&album_id=31185556&track_id=695692724&uid=6803836&jt=https://aod.cos.tx.xmcdn.com/storages/2b90-audiofreehighqps/F0/A9/GKwRIRwJXxywAQa1FAKSDMhi.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 17216788,
+    "format": "m4a",
+    "geprueft_am": "2026-09-06T01:15:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "苗传江深情缅怀恩师林信光先生逝世二十周年，追忆生活与学业点滴。",
+  "kurzfassung": "作者苗传江撰文深切缅怀硕士导师、语言文字研究所教授林信光先生逝世二十周年。文章回忆了林老师在学业指导、生活照顾以及为人处世上给予他的无微不至的关怀与教诲。同时，作者也表达了对师母多年深切牵挂与照顾的感恩之情。",
+  "stichpunkte": [
+    "林信光教授是中国人民大学语言文字研究所的教授，也是作者的硕士导师。",
+    "林老师在学业上严格训练学生的基本功，传授记卡片等做学问的方法。",
+    "林老师在生活上对作者关爱备至，常亲自下厨做生菜鸡蛋面和口袋豆腐。",
+    "林老师积极推荐作者拜访老学者、参加学术会议并参与机器翻译等科研项目。",
+    "在林老师的悉心安排下，作者提前一年获得硕士学位并顺利入职北京语言大学。",
+    "林老师生前关心作者的博士深造与终身大事，师徒情谊形同父子。",
+    "林老师于二十年前的中秋节前夕逝世，安葬于八达岭长城外的公墓。",
+    "师母在林老师去世后依然对作者关怀备至，令作者感念至今。"
+  ],
+  "kapitel": [
+    {
+      "titel": "初识恩师与生活关怀",
+      "start": 0.0
+    },
+    {
+      "titel": "学业指导与学术训练",
+      "start": 436.34
+    },
+    {
+      "titel": "开阔视野与科研锻炼",
+      "start": 589.26
+    },
+    {
+      "titel": "毕业工作与悉心栽培",
+      "start": 836.38
+    },
+    {
+      "titel": "恩师逝去与梦境追忆",
+      "start": 1134.26
+    },
+    {
+      "titel": "师母的关爱与后记",
+      "start": 1634.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T01:15:40+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2126,
+  "veroeffentlicht": "2023-12-25T10:29:20+00:00",
+  "beschreibung": "读苗老师的这篇文章，心里其实很没底——这篇文章很重，我怕我的声音太轻，更担心我的情感太轻。去年苗老师便将此文嘱托于我，我却延宕至今，其间试着录过几次，皆不如意，然后是我所教班级到了高三，再然后疫情突然就开放了，于是高三的各种任务就可以“肆无忌惮”地布置下来，此前两年的“闲工夫”就这样被秒杀了，我在喜马上的几个本就寂寥的专栏因为很少更新就更加寂寥了，只有“高考必背诗文”的收听次数还在比较稳定地增长……就这么忽忽悠悠地来到了2023年的年末，必须录好了。11月我在日常抄写诗文时抄写了清朝诗人黄景仁（黄仲则）悼念老师的诗句，其中有“料得夜台闻太息，此时忆我定彷徨”的句子，更让我觉得我的拖延实在是要不得的，甚至是种罪过——虽然拖延症的根源是对自己从事该事的不自信。于是有了现在传上来的这则朗读。此为不正式的读后感，先想到哪里写到哪里吧。\n读一篇文章，读一个人，读一位尊长，读一位朋友，自有一段成长的收获。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">读苗老师的这篇文章，心里其实很没底——这篇文章很重，我怕我的声音太轻，更担心我的情感太轻。去年苗老师便将此文嘱托于我，我却延宕至今，其间试着录过几次，皆不如意，然后是我所教班级到了高三，再然后疫情突然就开放了，于是高三的各种任务就可以“肆无忌惮”地布置下来，此前两年的“闲工夫”就这样被秒杀了，我在喜马上的几个本就寂寥的专栏因为很少更新就更加寂寥了，只有“高考必背诗文”的收听次数还在比较稳定地增长……就这么忽忽悠悠地来到了2023年的年末，必须录好了。11月我在日常抄写诗文时抄写了清朝诗人黄景仁（黄仲则）悼念老师的诗句，其中有“料得夜台闻太息，此时忆我定彷徨”的句子，更让我觉得我的拖延实在是要不得的，甚至是种罪过——虽然拖延症的根源是对自己从事该事的不自信。于是有了现在传上来的这则朗读。此为不正式的读后感，先想到哪里写到哪里吧。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">读一篇文章，读一个人，读一位尊长，读一位朋友，自有一段成长的收获。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group6/M0B/52/59/wKgDhFTvPR7xDGiQAAD9IlMAnUA254.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

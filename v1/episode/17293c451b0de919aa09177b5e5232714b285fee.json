@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group64/M01/04/02/wKgMc11wrpOxxnQYABRbtpiZq5A966-aacv2-48K.m4a",
+  "apple_collection_id": "1523040624",
+  "show": "一分钟看透对方心理|识人秘术",
+  "titel": "《一分钟看透对方心理》【前言】",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgMc11wrpOxxnQYABRbtpiZq5A966-aacv2-48K.m4a?channel=rss&album_id=28880923&track_id=209863068&uid=187288018&jt=https://aod.cos.tx.xmcdn.com/group64/M01/04/02/wKgMc11wrpOxxnQYABRbtpiZq5A966-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1003614,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:39:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "学会读懂他人心理，在人际交往中获得和谐与成功。",
+  "kurzfassung": "在现实社会中，良好的人际关系是获得支持和实现事业成功的基础。要拥有良好的人际关系，关键在于学会读懂他人的内心。通过观察非语言行为、情感流露、行为动作以及生理变化，人们可以准确了解他人。",
+  "stichpunkte": [
+    "人际关系理顺能获得更多支持并远离祸患",
+    "世间万物有迹可循，人的心理也是可以被了解的",
+    "非语言行为比正常语言更能让人了解别人",
+    "心理学家赫拉比恩提出沟通效果公式：7%语言加38%语调语速加55%表情动作",
+    "内心通过外部情感流露反映内在心境和情绪",
+    "内心通过行为动作和生理变化等方式流露出来",
+    "留心观察能让人练就一眼看穿他人的技巧",
+    "快速读懂他人能让人在为人处事中更加从容机警"
+  ],
+  "kapitel": [
+    {
+      "titel": "前言与人际关系的重要性",
+      "start": 0.0
+    },
+    {
+      "titel": "非语言行为与心理分析",
+      "start": 60.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:39:56+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 164,
+  "veroeffentlicht": "2019-09-05T04:31:38+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group64/M09/02/70/wKgMc11wj1iipasKAAXCYDFFOxo634.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

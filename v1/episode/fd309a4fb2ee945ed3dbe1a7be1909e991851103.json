@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "guid": "Buzzsprout-19663777",
+  "apple_collection_id": "1502307717",
+  "show": "Fiction Writing Made Easy with Savannah Gilbo | How to Write a Novel & Writing Advice",
+  "titel": "#261. 5 Mistakes Writers Make Using the Save the Cat! Beat Sheet",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/791087/episodes/19663777-261-5-mistakes-writers-make-using-the-save-the-cat-beat-sheet.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 16822033,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:59:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Five common mistakes writers make when plotting a novel with the Save the Cat beat sheet.",
+  "kurzfassung": "Many writers struggle when using the Save the Cat beat sheet because they approach it as a rigid recipe rather than a flexible tool. Savannah Gilbo breaks down five common plotting mistakes, including skipping story foundations and neglecting internal conflict. Addressing these pitfalls helps writers build a more cohesive and emotionally resonant novel outline.",
+  "stichpunkte": [
+    "Mistake one involves filling in the beat sheet before developing the story's core foundation.",
+    "Mistake two is losing track of the central story question while mapping out major beats.",
+    "Mistake three is treating every individual beat on the sheet as a single scene.",
+    "Mistake four involves writing the fun and games section with little to no conflict for the protagonist.",
+    "Mistake five is keeping the bad guys close in section entirely external instead of incorporating internal struggles.",
+    "A solid foundation including character goals, stakes, and genre expectations must precede outlining."
+  ],
+  "kapitel": [
+    {
+      "titel": "Why Beats Still Fail",
+      "start": 0.0
+    },
+    {
+      "titel": "Mistake One Missing Story Foundation",
+      "start": 259.21
+    },
+    {
+      "titel": "Mistake Two Losing The Main Question",
+      "start": 408.21
+    },
+    {
+      "titel": "Mistake Three Beats Are Not Scenes",
+      "start": 677.21
+    },
+    {
+      "titel": "Mistake Four Fun Needs Conflict",
+      "start": 852.21
+    },
+    {
+      "titel": "Mistake Five Internal Pressure Matters",
+      "start": 1068.21
+    },
+    {
+      "titel": "Recap Resources And Next Steps",
+      "start": 1257.21
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Why writers turn to Save the Cat",
+      "start": 102.191,
+      "ende": 132.31,
+      "laenge": 30.12,
+      "byte_start": 1261284,
+      "byte_ende": 1622713,
+      "bytes": 361430,
+      "range_header": "bytes=1261284-1622713",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 102.269,
+      "anker_sha256": "f13195682758a47cc5d058d4a644efd5c9c28fcb87f93c4063049b36f15799f8",
+      "einblendung_ms": 60,
+      "text": "Writers often adopt the structural framework popularized by Save the Cat to simplify the daunting process of outlining a book."
+    },
+    {
+      "hook": "Brainstorming the All Is Lost moment",
+      "start": 452.389,
+      "ende": 482.508,
+      "laenge": 30.12,
+      "byte_start": 5463655,
+      "byte_ende": 5825084,
+      "bytes": 361430,
+      "range_header": "bytes=5463655-5825084",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 452.467,
+      "anker_sha256": "757b9c056c1406204e1c5414aa11e666bd24e21c5bba424b66df8d63c925afcf",
+      "einblendung_ms": 60,
+      "text": "Brainstorming major disasters for a main character can yield numerous options, such as marital separation, unemployment, or physical injury."
+    },
+    {
+      "hook": "The trap of one beat per scene",
+      "start": 649.587,
+      "ende": 679.706,
+      "laenge": 30.12,
+      "byte_start": 7830035,
+      "byte_ende": 8191464,
+      "bytes": 361430,
+      "range_header": "bytes=7830035-8191464",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 649.665,
+      "anker_sha256": "05ab6cbaff60bcfe33cecdfe65612f17661393ff3cb7251ed9a518b94f1c013a",
+      "einblendung_ms": 60,
+      "text": "Authors frequently misinterpret the fifteen labeled narrative milestones as a direct blueprint requiring a one-to-one match with every scene in a manuscript."
+    },
+    {
+      "hook": "Fun for the reader, hard for the protagonist",
+      "start": 892.604,
+      "ende": 922.697,
+      "laenge": 30.09,
+      "byte_start": 10746241,
+      "byte_ende": 11107357,
+      "bytes": 361117,
+      "range_header": "bytes=10746241-11107357",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 892.682,
+      "anker_sha256": "1f5f1483de862f336001c91a24354a69abb40099d277879eb446506f122c2b58",
+      "einblendung_ms": 60,
+      "text": "The entertainment value experienced by the audience during the middle section of a book should not translate into an easy journey for the main character."
+    },
+    {
+      "hook": "Closing in from both directions",
+      "start": 1150.067,
+      "ende": 1174.439,
+      "laenge": 24.37,
+      "byte_start": 13835795,
+      "byte_ende": 14128261,
+      "bytes": 292467,
+      "range_header": "bytes=13835795-14128261",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1150.145,
+      "anker_sha256": "1fadbe75a14ff3b6fa911eada811e2c3dcd7e177a86c0988484895b080003b2a",
+      "einblendung_ms": 60,
+      "text": "Compounding external pressure with a protagonist's internal flaws creates escalating tension that forces personal growth and transformation."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:59:31+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1337,
+  "veroeffentlicht": "2026-08-18T00:00:00-07:00",
+  "beschreibung": "If you’re using the Save the Cat! beat sheet to outline your novel but your story still feels flat, disconnected, or hard to draft, one of these five common mistakes may be the reason why.\nThe Save the Cat! beat sheet is a popular story structure framework because it gives fiction writers fifteen clear landmarks to plot toward. But filling in all fifteen beats doesn’t automatically give you a story that works.\nIn this episode, I’m breaking down five mistakes writers make when using the Save the Cat! beat sheet—and what to think about instead so you can build a stronger, more connected novel outline.\nYou’ll hear me talk about things like:\n[03:10] Why jumping straight into the Save the Cat! beat sheet can leave you with plot points that technically fit the framework but don’t feel rooted in your story.\n[05:35] Why having the “right” story beats in the “right” places isn’t enough—and what keeps a novel from feeling like a series of disconnected events.\n[10:00] Why fifteen beats do not equal fifteen scenes, and how misunderstanding the difference between a beat sheet and a scene-by-scene outline can distort your story.\n[12:50] The Fun and Games mistake that can leave you stuck in the middle, scrambling to figure out what should happen next.\n[16:30] The often-missed internal side of Bad Guys Close In (and how it can give your All Is Lost moment much more emotional weight).\nIf you use Save the Cat! Writes a Novel for plotting or outlining, this episode will help you understand what the framework is actually designed to do—so you can use it to support your story instead of forcing your story into fifteen boxes.\n🔗 Links mentioned in this episode:\nLearn more about Notes to Novel\nEp. 47 - Save the Cat! The Beginning Beats\nEp. 48 - Save the Cat! The Middle Beats (Part One)\nEp. 49 - Save the Cat! The Middle Beats (Part Two)\nEp. 50 - Save the Cat! The Ending Beats\nGrab your free Save the Cat! Plotting Guide\n\n⭐ Follow & Review\nIf you loved this episode, please take a moment to follow the show and leave a review on Apple Podcasts! Your review will help other writers find this podcast and get the insights they need to finish their books. Thanks for tuning in to The Fiction Writing Made Easy Podcast! See you next week!\nFREE TRAINING: Why You Keep Getting Stuck & How to Finally Finish Your Novel - Join me LIVE to learn 3 secrets for turning your ideas into a complete first draft—without getting stuck in the middle, constantly second-guessing, or spending years rewriting instead of finishing. Save your seat here.\n\nFREE QUIZ: Take this 30-second quiz to get a custom action plan that'll help you move from stuck writer to published author!\nSupport the show",
+  "beschreibung_html": "<p><b>If you’re using the Save the Cat! beat sheet to outline your novel but your story still feels flat, disconnected, or hard to draft, one of these five common mistakes may be the reason why.</b></p><p>The Save the Cat! beat sheet is a popular story structure framework because it gives fiction writers fifteen clear landmarks to plot toward. But filling in all fifteen beats doesn’t automatically give you a story that works.</p><p>In this episode, I’m breaking down five mistakes writers make when using the Save the Cat! beat sheet—and what to think about instead so you can build a stronger, more connected novel outline.</p><p><b>You’ll hear me talk about things like:</b></p><p>[03:10] Why jumping straight into the Save the Cat! beat sheet can leave you with plot points that technically fit the framework but don’t feel rooted in <em>your</em> story.</p><p>[05:35] Why having the “right” story beats in the “right” places isn’t enough—and what keeps a novel from feeling like a series of disconnected events.</p><p>[10:00] Why fifteen beats do not equal fifteen scenes, and how misunderstanding the difference between a beat sheet and a scene-by-scene outline can distort your story.</p><p>[12:50] The Fun and Games mistake that can leave you stuck in the middle, scrambling to figure out what should happen next.</p><p>[16:30] The often-missed internal side of Bad Guys Close In (and how it can give your All Is Lost moment much more emotional weight).</p><p>If you use <em>Save the Cat! Writes a Novel</em> for plotting or outlining, this episode will help you understand what the framework is actually designed to do—so you can use it to support your story instead of forcing your story into fifteen boxes.</p><p><b>🔗 Links mentioned in this episode:</b></p><ul><li><a href='https://www.savannahgilbo.com/waitlist'>Learn more about Notes to Novel</a></li><li><a href='https://www.savannahgilbo.com/blog/save-the-cat-beginning'>Ep. 47 - Save the Cat! The Beginning Beats</a></li><li><a href='https://www.savannahgilbo.com/blog/save-the-cat-middle-1'>Ep. 48 - Save the Cat! The Middle Beats (Part One)</a></li><li><a href='https://www.savannahgilbo.com/blog/save-the-cat-middle-2'>Ep. 49 - Save the Cat! The Middle Beats (Part Two)</a></li><li><a href='https://www.savannahgilbo.com/blog/save-the-cat-ending'>Ep. 50 - Save the Cat! The Ending Beats</a></li><li><a href='https://www.savannahgilbo.com/savethecat'>Grab your free Save the Cat! Plotting Guide</a></li></ul><p><b>⭐ Follow &amp; Review</b></p><p>If you loved this episode, please take a moment to follow the show and <a href='https://podcasts.apple.com/us/podcast/fiction-writing-made-easy/id1502307717'>leave a review on Apple Podcasts!</a> Your review will help other writers find this podcast and get the insights they need to finish their books. Thanks for tuning in to The Fiction Writing Made Easy Podcast! See you next week!</p><p><b>FREE TRAINING: Why You Keep Getting Stuck &amp; How to Finally Finish Your Novel</b> - Join me LIVE to learn 3 secrets for turning your ideas into <b>a complete first draft</b>—without getting stuck in the middle, constantly second-guessing, or spending years rewriting instead of finishing. <a href='https://www.savannahgilbo.com/training?utm_source=podcast&amp;utm_medium=dynamic_ad&amp;utm_campaign=notes_to_novel_august_2026'>Save your seat here.</a><br/><br/></p> <p><a href='https://www.savannahgilbo.com/quiz?utm_source=podcast&amp;utm_medium=show-notes&amp;utm_campaign=quiz-launch'><b>FREE QUIZ: </b>Take this 30-second quiz to get a custom action plan that&apos;ll help you move from stuck writer to published author!</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/791087/support\">Support the show</a></p>",
+  "folgennummer": 261,
+  "kapitel_quelle": "betreiber",
+  "bild_url": "https://storage.buzzsprout.com/sev1d8kj880757lotvg6n2vqf4rb?.jpg"
+}

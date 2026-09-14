@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007332403",
+  "apple_collection_id": "896050464",
+  "show": "默默道来｜讲个故事给你听",
+  "titel": "那些“西瓜少年”们",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOW32SAIWoOwTJNK8X.m4a?channel=rss&album_id=258244&track_id=1007332403&uid=3893464&jt=https://aod.cos.tx.xmcdn.com/storages/63ed-audiofreehighqps/D3/93/GKwRIJIOW32SAIWoOwTJNK8X.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 8759355,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T03:05:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回忆童年两位小学同学小虎和剑男的坎坷身世与成长轨迹",
+  "kurzfassung": "本期节目讲述了作者方林威默回忆二十多年前的两位小学同学小虎和剑男的故事。两人成长于艰难困苦的家庭环境，经历了家庭变故与内心的挣扎。作者通过分享当年的交往点滴与过往回忆，表达了对这些苦难少年的关怀与祝福。",
+  "stichpunkte": [
+    "方林威默分享了记忆中两位小学同学小虎和剑男的故事",
+    "作者与小虎从起初打架结怨到后来成为好友并邀请其到家中吃饭",
+    "小虎身世凄凉，从小跟着爷爷奶奶下地劳作，手掌布满老茧",
+    "作者后来与剑男成为同桌并目睹其用小刀自残",
+    "剑男因父母离异后抛弃自己而产生巨大恨意，通过刻伤宣泄痛苦",
+    "作者通过陪伴和美食给予他们温暖，但童年分别后便杳无音信",
+    "作者希望世间再无此类苦难少年，愿他们往后平安幸福"
+  ],
+  "kapitel": [
+    {
+      "titel": "引入童年回忆",
+      "start": 1.62
+    },
+    {
+      "titel": "与小虎的不打不相识",
+      "start": 79.16
+    },
+    {
+      "titel": "小虎的身世与饭量",
+      "start": 218.12
+    },
+    {
+      "titel": "剑男的出现与自残行为",
+      "start": 591.2
+    },
+    {
+      "titel": "童年的分别与尾声",
+      "start": 951.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T03:05:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1081,
+  "veroeffentlicht": "2026-08-19T14:15:13+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/265e-audiofreehighqps/F7/D5/CMCoOSQDiG96AADPdABnpTYp.jpg",
+  "kapitel_quelle": "modell"
+}

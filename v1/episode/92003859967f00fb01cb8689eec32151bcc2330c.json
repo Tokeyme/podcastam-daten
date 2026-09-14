@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_684274833",
+  "apple_collection_id": "1665854585",
+  "show": "行行好吧 | 阿球喜剧对谈播客",
+  "titel": "vol.42 李奕 ：成为非洲农场主的中国女孩！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4JKLOYAV8m3wJ9DxM_.m4a?channel=rss&album_id=62765008&track_id=684274833&uid=27498569&jt=https://aod.cos.tx.xmcdn.com/storages/203a-audiofreehighqps/4C/CE/GKwRIW4JKLOYAV8m3wJ9DxM_.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 23013087,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T06:22:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨非传统人生选择、情绪觉知、能量审计与创业者的团队管理之道",
+  "kurzfassung": "本期节目邀请李懿作客，与阿秋一起畅谈非传统的生活路径与人生选择。两人从非洲见闻和“死前无憾”的活法切入，深入探讨了情绪觉知、能量审计以及如何直面恐惧。随后，他们结合自身经验，分享了好老板的标准、团队建设中的天才象限以及拥有观察家视角的重要性。",
+  "stichpunkte": [
+    "李懿分享了自己前往肯尼亚的经历，以及设立Safari团和乞力马扎罗登山团的缘由。",
+    "探讨“死前无憾”的生活态度，指出人们往往会后悔没做过的事情，而不是做过的事情。",
+    "讨论能量审计的概念，通过将活动分类找出给自己增添或消耗能量的事项。",
+    "分析管理者与老师的双重身份，强调好老板应当学会将员工放在最适合的天才象限。",
+    "探讨面对恐惧的感受，认为情绪没有好坏之分，应像对待做客的小朋友一样去接纳它。",
+    "分享回到国内后产生的观察家视角，通过改变沟通模式来跳出家庭的固有争吵循环。",
+    "探讨多线程工作与对不确定性的包容度，指出随着成长会逐渐减轻对未知的焦虑。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与非洲旅行团",
+      "start": 48.3
+    },
+    {
+      "titel": "死前无憾的人生选择",
+      "start": 275.44
+    },
+    {
+      "titel": "能量审计与角色管理",
+      "start": 885.98
+    },
+    {
+      "titel": "直面恐惧与情绪觉知",
+      "start": 1338.4
+    },
+    {
+      "titel": "好老板的标准与团队建设",
+      "start": 1729.98
+    },
+    {
+      "titel": "观察家视角与沟通模式",
+      "start": 2017.8
+    },
+    {
+      "titel": "不确定性与多线程工作",
+      "start": 2438.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T06:22:21+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2842,
+  "veroeffentlicht": "2023-11-14T03:57:17+00:00",
+  "beschreibung": "《行行好吧》第42期！\n请到了从麦肯锡辞职去了非洲开农场的中国女孩：李奕！\n聊了能量审计，你到底能做什么？擅长什么？天才什么？\n聊了不确定性，确定和不确定的边界在哪里？\n聊了后悔总比遗憾强。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>《行行好吧》第42期！</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>请到了从麦肯锡辞职去了非洲开农场的中国女孩：李奕！&nbsp;</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>聊了能量审计，你到底能做什么？擅长什么？天才什么？</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>聊了不确定性，确定和不确定的边界在哪里？&nbsp;</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>聊了后悔总比遗憾强。&nbsp;</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/54a3-audiofreehighqps/FE/01/GKwRIasHnByxAA1TKQHty74C.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

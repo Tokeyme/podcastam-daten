@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1005966260",
+  "apple_collection_id": "1868636118",
+  "show": "愚勒个豆｜愚鸿和豆包的脱口秀",
+  "titel": "第16期～信息洁癖可以有，情绪对线没必要",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAOUbWxAE1WLQTFhY7M.m4a?channel=rss&album_id=115014497&track_id=1005966260&uid=159141637&jt=https://aod.cos.tx.xmcdn.com/storages/a428-audiofreehighqps/6F/7A/GKwRIMAOUbWxAE1WLQTFhY7M.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5068333,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:43:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "信息洁癖不必有，网络对线太内耗",
+  "kurzfassung": "互联网上常见针对不同观点的“厌蠢”情绪和长篇大论的驳斥。主播与豆包探讨了这种“信息洁癖”背后的心理，指出强行说服他人不仅无效，反而会造成垃圾信息的二次传播并引发精神内耗。面对网络争议，保持淡然、直接滑走或举报有害内容才是保护自己情绪的最佳方式。",
+  "stichpunkte": [
+    "网络上流行“厌蠢情绪”，逐渐演变成看不惯与自己不同的观点并试图长篇大论说服对方。",
+    "互联网是认知参差的集合，试图叫醒不想改变的人只会互相添堵并导致自身情绪变差。",
+    "在社交平台发长篇大论批判不端言论，往往会无意中帮负面内容做二次传播和广告。",
+    "驳斥过程易滑向情绪宣泄，不仅说服不了对方，还可能激发旁观者的逆反心理。",
+    "面对不同观念，如果不是恶性造谣或煽动，长篇大论的收益很低而代价不小。",
+    "旁观者的应对策略分为零消耗直接滑走、熟人圈温和简短评论以及针对有害内容的平台举报。",
+    "无需承担纠正网民的责任，把精力和情绪留给真正值得的人和事是一种自我保护。"
+  ],
+  "kapitel": [
+    {
+      "titel": "朋友圈的厌蠢情绪与信息洁癖",
+      "start": 59.46
+    },
+    {
+      "titel": "驳斥垃圾言论的悖论与内耗",
+      "start": 203.46
+    },
+    {
+      "titel": "旁观者的三种应对策略与情绪保护",
+      "start": 396.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:43:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 625,
+  "veroeffentlicht": "2026-08-12T04:12:12+00:00",
+  "beschreibung": "和豆包聊聊互联网信息洁癖与情绪对线。",
+  "beschreibung_html": "和豆包聊聊互联网信息洁癖与情绪对线。<br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/871a-audiofreehighqps/BA/A6/GKwRIRwNOvjqAAHj9gRYTFCc.jpg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

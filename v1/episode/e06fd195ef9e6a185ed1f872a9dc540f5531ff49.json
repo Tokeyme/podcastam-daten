@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_969413324",
+  "apple_collection_id": "1890064501",
+  "show": "R福睡前讲故事",
+  "titel": "R福讲故事 | 小狗旺旺和灰毛狼",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwNr7sJACiR5gSIliId.m4a?channel=rss&album_id=118855034&track_id=969413324&uid=148427867&jt=https://aod.cos.tx.xmcdn.com/storages/5354-audiofreehighqps/DF/45/GKwRIRwNr7sJACiR5gSIliId.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2658790,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:13:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "小狗汪汪用智慧惩罚了狡猾的灰毛狼。",
+  "kurzfassung": "冬天里，小狗汪汪钓到了一条大草鱼，却被狡猾的灰毛狼盯上并试图抢夺。汪汪将计就计，骗灰毛狼将尾巴伸进冰洞里钓鱼，导致其尾巴被冻住无法动弹。最后，猎人轻易抓走了灰毛狼，而汪汪则在家开心地喝着鲜美的鱼汤。",
+  "stichpunkte": [
+    "冬天林子大雪纷飞，小狗汪汪在河边的冰面上成功钓到了一条大草鱼。",
+    "林子里名声很坏的灰毛狼看到了这条鱼，动起了歪心思想要抢走它。",
+    "汪汪识破了灰毛狼的诡计，假装热情地告诉对方一个绝佳的钓鱼方法。",
+    "灰毛狼信以为真，按照汪汪说的把尾巴泡进冰水里等待大鱼上钩。",
+    "天越来越冷，灰毛狼的尾巴被死死冻在冰面上，根本拔不出来。",
+    "一个路过的猎人发现了动弹不得的灰毛狼，轻轻松松将其捕获。",
+    "汪汪坐在温暖的窗台前，一边喝着热乎乎的鱼汤一边享受胜利。"
+  ],
+  "kapitel": [
+    {
+      "titel": "汪汪钓鱼与灰毛狼的阴谋",
+      "start": 7.34
+    },
+    {
+      "titel": "汪汪将计就计",
+      "start": 105.64
+    },
+    {
+      "titel": "灰毛狼受骗被捕",
+      "start": 249.02
+    },
+    {
+      "titel": "大功告成享用鱼汤",
+      "start": 305.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:13:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 328,
+  "veroeffentlicht": "2026-04-11T12:01:00+00:00",
+  "beschreibung": "爱讲故事的阿福，会用心讲好每一个故事，陪伴每一位收听阿福讲故事的小朋友，安心入睡，快乐成长。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">爱讲故事的阿福，会用心讲好每一个故事，陪伴每一位收听阿福讲故事的小朋友，安心入睡，快乐成长。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/c438-audiofreehighqps/A6/00/GKwRIJINlBtwAAhfrQR9OPlc.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

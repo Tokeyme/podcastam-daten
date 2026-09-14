@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/2664-audiofreehighqps/8A/02/CKwRIJIFNb98AEGiEADqiYnj-aacv2-48K.m4a",
+  "apple_collection_id": "1615212499",
+  "show": "全境追击 | 悬疑推理 刑侦破案｜完结 免费",
+  "titel": "网络作家之死001_断更死亡预告",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIJIFNb98AEGiEADqiYnj-aacv2-48K.m4a?channel=rss&album_id=53689382&track_id=460358680&uid=55760021&jt=https://aod.cos.tx.xmcdn.com/storages/2664-audiofreehighqps/8A/02/CKwRIJIFNb98AEGiEADqiYnj-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3234524,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T18:57:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "知名悬疑作家西音心突发离世，警方因一条诡异的断更公告展开侦查。",
+  "kurzfassung": "悬疑推理网络作家西音心突然死亡，法医初步判断为普通猝死，但舆论压力巨大。新入职的严峰发现死者生前曾发布过暗示自己会遇害的群公告，令警方意识到案情并不简单。于熙带严峰前往法医科查看遗体并展开深入调查。",
+  "stichpunkte": [
+    "刑侦支队因网络作家西音心疑似遇害一事面临巨大的舆论压力",
+    "法医初步尸检结果显示死者为普通猝死，但公众和警方对死因存疑",
+    "新入职的严峰透露西音心三天前曾在读者群发布暗示断更即死亡的公告",
+    "副支队长和组长于熙决定将严峰纳入专案组，一同参与此案的调查",
+    "严峰凭借细致的观察力，敏锐地看穿了韩淼和郑月的隐婚关系",
+    "严峰查阅资料时发现死者生前自称未婚，对妻子这一身份产生怀疑",
+    "于熙带着严峰前往法医科进一步查看西音心的遗体"
+  ],
+  "kapitel": [
+    {
+      "titel": "突发案件与舆论压力",
+      "start": 0.56
+    },
+    {
+      "titel": "断更公告引发重视",
+      "start": 183.34
+    },
+    {
+      "titel": "同事间的闲聊与疑点",
+      "start": 312.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T18:57:56+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 531,
+  "veroeffentlicht": "2021-10-08T08:08:14+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/f09e-audiofreehighqps/CC/39/CKwRIDoFNb1bAAJYzQDqiPvS.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group18/M03/5A/E1/wKgJJVf2XbajCE2AAfZe0FkyJaU481.m4a",
+  "apple_collection_id": "1140397637",
+  "show": "股市早参",
+  "titel": "2016-10-06 影响股价涨跌的四个因数",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJJVf2XbajCE2AAfZe0FkyJaU481.m4a?channel=rss&album_id=4275014&track_id=22751107&uid=36616931&jt=https://aod.cos.tx.xmcdn.com/group18/M03/5A/E1/wKgJJVf2XbajCE2AAfZe0FkyJaU481.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 32923344,
+    "format": "m4a",
+    "geprueft_am": "2026-09-06T01:42:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨影响股价涨跌的四个核心因素与当前A股市场的投资策略。",
+  "kurzfassung": "节目分析了国庆长假期间的国内外重要经济资讯，并指出货币政策与楼市限购对股市的潜在资金引流作用。在此基础上，重点阐述了决定股票价格涨跌的四大核心因素：国家政策、公司基本面、市场题材以及主力资金风格。最后，重申了长线看空、中短线看多的观点，并分享了当前的持仓策略。",
+  "stichpunkte": [
+    "英镑对美元创1985年来新低，英国脱欧事件持续发酵",
+    "9月官方制造业PMI为50.4与上月持平，表现较为理想",
+    "多地楼市限购将部分资金分流至股市，反映市场流动性充裕",
+    "恒大入股深深房A并承诺高额业绩，构成明显的无风险套利模型与利好",
+    "维持2016年年内美国加息可能性几乎为零的判断",
+    "重申长线进阶看空、中短线进阶看多的市场观点，维持现金满仓中兴海质",
+    "影响股价的四个因素：国家政策因素、公司政策与盈利能力、题材因素、庄家风格",
+    "股市核心理论在于政策市与主力市，散户应采取波段投机操作"
+  ],
+  "kapitel": [
+    {
+      "titel": "国庆长假消息面梳理与盘面分析",
+      "start": 0.56
+    },
+    {
+      "titel": "影响股价涨跌的四个核心因素概述",
+      "start": 463.0
+    },
+    {
+      "titel": "第一大因素：国家政策与货币供应",
+      "start": 580.66
+    },
+    {
+      "titel": "第二大因素：公司基本面与盈利预期",
+      "start": 937.16
+    },
+    {
+      "titel": "第三大因素：市场题材与概念炒作",
+      "start": 1162.86
+    },
+    {
+      "titel": "第四大因素：庄家与主力资金风格",
+      "start": 1571.94
+    },
+    {
+      "titel": "总结与当前操作策略",
+      "start": 2090.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-06T01:42:07+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2152,
+  "veroeffentlicht": "2016-10-06T14:20:40+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group18/M03/5A/2E/wKgJKlf2XZCRGZUFAAA9stBqfs0008.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group85/M06/FF/85/wKg5H19U9gazmHfBAG8C21ATevM660.m4a",
+  "apple_collection_id": "1542307347",
+  "show": "李芳：流量裂变思维|商业模式|社群",
+  "titel": "1、微信财商：【信念系统】强大的信念究竟从哪里来！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKg5H19U9gazmHfBAG8C21ATevM660.m4a?channel=rss&album_id=41551114&track_id=334249015&uid=160397796&jt=https://aod.cos.tx.xmcdn.com/group85/M06/FF/85/wKg5H19U9gazmHfBAG8C21ATevM660.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7275227,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T20:50:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探索信念系统，找到人生说明书与内在开关以开启无限可能。",
+  "kurzfassung": "李方探讨了人类缺乏人生说明书导致的盲目试错与成长困境。他指出，人生的核心在于认识自我并找到内在开关，从而点亮人生并实现无限可能。接下来的课程将通过系统升级与引导，帮助学员重塑人生模式。",
+  "stichpunkte": [
+    "探讨信念系统的来源，指出许多人并不真正了解自己",
+    "分析人们在忙碌与创业中陷入不断试错的困境",
+    "对比手机和汽车等物品的说明书，指出人类缺乏自我说明书",
+    "指出人生最大成本是试错成本，导致许多人未能活成想要的模样",
+    "强调人生需要一套说明书来寻找内在开关并引爆潜能",
+    "阐述教育与培训的差别在于启发内在系统而非单纯灌输能力",
+    "介绍喜马拉雅上的付费专辑与社群营销实战课程的作用",
+    "重新定位课程，旨在帮助学员升级人生模式并攀越更高山峰"
+  ],
+  "kapitel": [
+    {
+      "titel": "认识自我与人生的三大问题",
+      "start": 1.24
+    },
+    {
+      "titel": "人生说明书与试错成本",
+      "start": 142.68
+    },
+    {
+      "titel": "寻找内在开关与无限可能",
+      "start": 428.0
+    },
+    {
+      "titel": "教育的本质与课程新定位",
+      "start": 612.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T20:50:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 898,
+  "veroeffentlicht": "2020-09-06T14:45:08+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group86/M06/01/29/wKg5IF9U9Mrhdi9LAAg5uu1SOhk146.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

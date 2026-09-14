@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "https://api.spreaker.com/episode/74604885",
+  "apple_collection_id": "1489897256",
+  "show": "Forensic Psychology",
+  "titel": "Cut Lines: The Anatomy of a Parachute Murder: PART ONE: THE FALL IN BELGIUM",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74604885/podcast_1787526357.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T03:49:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Investigation into the 2006 Belgian parachute murder and its calculated sabotage.",
+  "kurzfassung": "In 2006, experienced Belgian skydiver Els van Doren plunged to her death after both her main and reserve parachutes failed to open. Investigators discovered that the equipment had been deliberately sabotaged prior to the jump. The case pointed toward a love triangle within her skydiving community, highlighting a murder engineered through precise technical manipulation.",
+  "stichpunkte": [
+    "Els van Doren died in 2006 when both her main and backup parachutes failed during a routine jump.",
+    "Skydiving safety relies entirely on equipment redundancy and earned trust in gear.",
+    "Investigators found that both independent parachute systems had been deliberately and simultaneously compromised.",
+    "The perpetrator did not need physical proximity during the jump, relying solely on rigging knowledge and access.",
+    "The investigation led to a suspect within the close-knit skydiving community involved in a love triangle.",
+    "Sabotage leaves distinct physical signatures, such as cut lines, that trained riggers can easily spot.",
+    "The murder was planned like a demolition to resemble an equipment failure rather than a crime.",
+    "The case demonstrates a calculated mindset that transfers forensic evidence from a physical body to mechanical equipment."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-25T03:49:02+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 191,
+  "veroeffentlicht": "2026-08-23T23:10:57+00:00",
+  "beschreibung": "In 2006, an experienced Belgian skydiver stepped out of a plane and discovered mid-air that neither of her parachutes would open. What looked at first like an unthinkable equipment failure turned out to be something far colder — a killing engineered days in advance by someone who never had to be in the room. This part covers the jump, the investigation, and the rival who built a death out of patience.",
+  "beschreibung_html": "In 2006, an experienced Belgian skydiver stepped out of a plane and discovered mid-air that neither of her parachutes would open. What looked at first like an unthinkable equipment failure turned out to be something far colder — a killing engineered days in advance by someone who never had to be in the room. This part covers the jump, the investigation, and the rival who built a death out of patience.",
+  "untertitel": "In 2006, an experienced Belgian skydiver stepped out of a plane and discovered mid-air that neither of her parachutes would open. What looked at first like an unthinkable equipment failure turned out to be something far colder — a killing engineered...",
+  "bild_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d3a9501c22a0558d58d28717f1b56945.jpg",
+  "schlagworte": [
+    "crime",
+    "crimes",
+    "education",
+    "forensic",
+    "law",
+    "legal",
+    "murder",
+    "physics",
+    "psychology",
+    "science",
+    "skydiving",
+    "true"
+  ]
+}

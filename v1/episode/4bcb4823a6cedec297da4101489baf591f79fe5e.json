@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "024beb96-86bb-11f1-b6b6-47594d169cb2",
+  "apple_collection_id": "1244784611",
+  "show": "30 for 30 Podcasts",
+  "titel": "THE BETRAYAL OF SHOHEI OHTANI Episode 6: Footnote",
+  "audio": {
+    "url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP1029710329.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 34246857,
+    "format": "mp3",
+    "geprueft_am": "2026-09-07T00:10:26+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Examining ePay Mizuhara's sentencing, letters, and the ongoing erasure of his legacy.",
+  "kurzfassung": "ePay Mizuhara was sentenced to 57 months in prison and ordered to pay over $18 million in restitution following his gambling and fraud scandal involving Shohei Ohtani. During sentencing, prosecutors revealed further deceptive acts, including a diverted dental check, while the judge dismissed ePay's claims of hardship. Meanwhile, Shohei achieved historic athletic success with the Dodgers, effectively turning the scandal into a footnote as ePay faces erasure in both the US and Japan.",
+  "stichpunkte": [
+    "ePay Mizuhara was sentenced to 57 months in federal prison and ordered to pay over $18 million in restitution.",
+    "Ahead of sentencing, ePay submitted a letter detailing his demanding workload and financial pressures, which IRS special agent Chris Seymour and prosecutors argued minimized his culpability.",
+    "Prosecutors revealed a $60,000 dental check written by Shohei Ohtani that ePay deposited into his own account while still paying the bill using Shohei's funds.",
+    "The judge dismissed ePay's letter as misleading and handed down a sentence nearly five times longer than that of bookmaker Matt Boyer.",
+    "Investigators and former U.S. Attorney Martin Estrada noted that gambling addiction schemes involving trusted confidants are common, though ePay's 19,000 bets made his case exceptionally extreme.",
+    "Shohei Ohtani's historic athletic achievements, including consecutive World Series titles with the Dodgers, helped overshadow the scandal.",
+    "ePay has been systematically erased from public visibility in both the United States and Japan, including removed photos, edited children's books, and scrubbed alumni profiles."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T00:10:26+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2139,
+  "veroeffentlicht": "2026-08-11T09:00:00+00:00",
+  "beschreibung": "One man begins a prison sentence and the other goes on a World Series run, but putting to rest questions about what really happened between these two men isn’t so simple.\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>One man begins a prison sentence and the other goes on a World Series run, but putting to rest questions about what really happened between these two men isn’t so simple.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/024beb96-86bb-11f1-b6b6-47594d169cb2/image/71057f7e229d19a041e578d4ee694558.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "folgennummer": 6
+}

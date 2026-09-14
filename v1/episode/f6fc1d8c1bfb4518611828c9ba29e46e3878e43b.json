@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_892178010",
+  "apple_collection_id": "1829138861",
+  "show": "郭德纲单口高清版《张小乙下南京》",
+  "titel": "01、张小乙下南京 第一集（关注我，只做精品节目）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasMWk3BAGQxZAPqajop.m4a?channel=rss&album_id=99450958&track_id=892178010&uid=4584385&jt=https://aod.cos.tx.xmcdn.com/storages/99c6-audiofreehighqps/70/1A/GKwRIasMWk3BAGQxZAPqajop.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6566244,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T08:40:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "听郭德纲讲述清末民初北京茶馆与皮裤胡同凶宅奇案的民间传说。",
+  "kurzfassung": "本集开篇探讨了城市中关于凶宅的种种灵异传说与民间忌讳。随后，主持人引出清末民初北京茶馆的文化背景，详细介绍了大茶馆、棋茶馆、书茶馆和野茶馆的行业规矩与生活意境。故事最终落脚于宣武门的一家名为松阴宣的大茶馆，拉开了皮裤胡同奇案的序幕。",
+  "stichpunkte": [
+    "探讨各大城市中流传的凶宅传说与各种灵异恐怖故事",
+    "讲述北京虎坊桥等地的凶宅传闻及清末民初的背景设定",
+    "说明该故事属于民间传说，流传深远且版本复杂",
+    "介绍老北京茶馆的文化、历史以及八旗子弟的悠闲生活方式",
+    "描述老北京大茶馆、棋茶馆、书茶馆和野茶馆的分类与经营特色",
+    "讲解书茶馆说书先生的演出时间规矩、排期以及分账传统",
+    "故事正式切入宣武门名为松阴宣的大茶馆"
+  ],
+  "kapitel": [
+    {
+      "titel": "凶宅传说",
+      "start": 25.1
+    },
+    {
+      "titel": "皮裤胡同奇案背景",
+      "start": 299.48
+    },
+    {
+      "titel": "老北京茶馆文化",
+      "start": 401.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T08:40:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 810,
+  "veroeffentlicht": "2025-07-26T10:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a79f-audiofreehighqps/61/C5/GKwRIasMWknKAAKtOAPqaAeF.jpeg",
+  "kapitel_quelle": "modell"
+}

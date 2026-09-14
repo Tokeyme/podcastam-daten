@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_748561494",
+  "apple_collection_id": "1761928979",
+  "show": "《普通心理学》第六版磨耳朵（入睡版）",
+  "titel": "第十四章第四节",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4KkhAwAG9r1QL_24V2.m4a?channel=rss&album_id=82351483&track_id=748561494&uid=202838094&jt=https://aod.cos.tx.xmcdn.com/storages/cf1b-audiofreehighqps/AA/60/GKwRIW4KkhAwAG9r1QL_24V2.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7302101,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T06:38:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨心理社会性发展，涵盖情绪、依恋、道德及埃里克森人格发展理论。",
+  "kurzfassung": "本集探讨了人类从婴儿期到老年期的心理社会性发展，涵盖情绪、依恋关系以及道德判断的发展过程。详细介绍了皮亚杰与科尔伯格的道德发展阶段理论。最后阐述了埃里克森关于人一生八个阶段的心理社会性发展理论。",
+  "stichpunkte": [
+    "婴儿期与童年期的情绪发展，以及青少年情绪受环境和压力因素的影响显著大于激素。",
+    "老年人相比年轻人报告了更多积极情绪，且对负面信息的反应更为平和。",
+    "依恋始于婴儿期，哈洛对猴子的研究表明接触舒适是依恋的重要成分。",
+    "安斯沃斯通过陌生情景测验将母子依恋关系分为四种类型：安全性、回避性、抗拒性和混乱性。",
+    "儿童道德发展经历他律阶段和自律阶段，皮亚杰通过两难故事进行研究。",
+    "科尔伯格提出道德推理包含前习俗、习俗和后习俗三个水平共六个阶段。",
+    "埃里克森提出人格发展的八个阶段理论，强调社会和文化因素对自我及危机解决的影响。"
+  ],
+  "kapitel": [
+    {
+      "titel": "情绪的发展",
+      "start": 6.5
+    },
+    {
+      "titel": "依恋的发展",
+      "start": 354.34
+    },
+    {
+      "titel": "道德的发展",
+      "start": 656.84
+    },
+    {
+      "titel": "埃里克森的心理社会性发展理论",
+      "start": 1053.38
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T06:38:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1197,
+  "veroeffentlicht": "2024-08-17T12:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ac4b-audiofreehighqps/AA/95/GKwRINsKkg_yAAKHlwL_22pe.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

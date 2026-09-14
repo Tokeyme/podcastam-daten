@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "少数派播客 SSPAI Podcast",
+  "apple_collection_id": "1483157529",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "https://sspai.typlog.io/episodes/tim-and-nike",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3",
+      "pfad": "/v1/episode/78f198e949e10967f68fc0bc8fc705bf3bcda9ee.json",
+      "titel": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+      "veroeffentlicht": "2026-06-16T03:09:31+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨 Apple、Nike 与 Tim Cook 之间若隐若现的商业三角关系。"
+    }
+  ]
+}

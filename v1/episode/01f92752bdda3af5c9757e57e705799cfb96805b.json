@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_898735862",
+  "apple_collection_id": "1831286144",
+  "show": "魔法树屋 英文启蒙故事播客",
+  "titel": "Chapter 10 Home Before Dark Part 3",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4McS1rAB9o0QP26d3K.m4a?channel=rss&album_id=100004891&track_id=898735862&uid=566909748&jt=https://aod.cos.tx.xmcdn.com/storages/dd31-audiofreehighqps/7D/0F/GKwRIW4McS1rAB9o0QP26d3K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2058449,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:04:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "Jack和Annie通过金色的徽章确认了恐龙时代的冒险是真实发生的。",
+  "kurzfassung": "Jack通过触摸口袋里的金色徽章和上面的字母M，确信之前的恐龙冒险不是梦。他和Annie决定明天再次回到树林，爬上魔法树屋迎接新的冒险。两人最后开心地比赛跑回家。",
+  "stichpunkte": [
+    "Jack把手伸进口袋，紧紧握住带有字母M的金色徽章。",
+    "徽章上的雕刻让Jack的手指感到发麻，这让他确信之前的经历真实存在。",
+    "Jack突然感到非常开心，并且不再怀疑当天的经历。",
+    "Jack和Annie约定明天返回树林，再次爬上魔法树屋。",
+    "两人期待接下来的事情，并比赛跑着回了家。"
+  ],
+  "kapitel": [
+    {
+      "titel": "金色的徽章与触感",
+      "start": 18.48
+    },
+    {
+      "titel": "确信真实的冒险",
+      "start": 91.72
+    },
+    {
+      "titel": "约定明天的重返",
+      "start": 163.48
+    },
+    {
+      "titel": "比赛跑回家",
+      "start": 211.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:04:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 254,
+  "veroeffentlicht": "2025-08-15T00:00:00+00:00",
+  "beschreibung": "小朋友们好呀！上回我们讲到，Jack和Annie从恐龙时代坐着魔法树屋回来后，觉得这段经历像梦一样不真实，他们决定不告诉别人。不过今天这段故事里，Jack好像有了新发现，我们一起来看看吧～",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">小朋友们好呀！上回我们讲到，Jack和Annie从恐龙时代坐着魔法树屋回来后，觉得这段经历像梦一样不真实，他们决定不告诉别人。不过今天这段故事里，Jack好像有了新发现，我们一起来看看吧～<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5408-audiofreehighqps/54/F6/GAqh4zIMcS02AAQdJQP26cxY.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

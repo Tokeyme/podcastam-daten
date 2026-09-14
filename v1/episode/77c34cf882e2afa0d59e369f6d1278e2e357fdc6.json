@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_659067192",
+  "apple_collection_id": "1703944025",
+  "show": "初生之路【女性成长｜闺蜜语录｜亲子育儿】",
+  "titel": "叮咚！来告诉你那些妈妈没有告诉我们的生育疼痛！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSUIujTxABAAAAJNYScT.m4a?channel=rss&album_id=77691744&track_id=659067192&uid=248540329&jt=https://aod.cos.tx.xmcdn.com/storages/6ce6-audiofreehighqps/C4/06/GMCoOSUIujTxABAAAAJNYScT.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 36138516,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T03:17:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "两位十年闺蜜在三十岁相隔一个月分别顺产与剖腹产，坦诚分享真实的生育疼痛。",
+  "kurzfassung": "两位三十岁的新手妈妈、十年的闺蜜，分别以顺产和剖腹产的方式迎来了各自的宝宝。她们在节目中毫无保留地打破了外界对生育的轻松滤镜，坦诚交流了孕期体重管理、宫缩剧痛、产后清宫以及剖腹产带来的身体与心理挑战。同时，两人也深入探讨了新手妈妈在母乳喂养和极度睡眠剥离中面临的巨大压力，呼吁女性在生育过程中放宽心态并积极寻求外部帮助。",
+  "stichpunkte": [
+    "两位主播在三十岁相隔一个月分别生下女儿和儿子，体验完全不同的生育方式。",
+    "孕期体重管理常给新手妈妈带来精神折磨，不应盲目与网络上的极低增重进行比较。",
+    "宫缩剧痛极具挑战，挂催产素引起的规律宫缩更让产妇难以忍受。",
+    "顺产和剖腹产各有风险，大瑶顺产后遇到了胎膜残留需要进行清宫手术的意外情况。",
+    "剖腹产虽然避开了下体损伤，但术后伤口牵拉、夜间盗汗以及疤痕增生同样令人痛苦。",
+    "产检过程中的排队焦虑以及医生冷淡的态度给新手妈妈增加了不少心理压力。",
+    "过度追求母乳喂养和高频喂奶导致睡眠被严重碎片化，成为育儿阶段最大的酷刑之一。",
+    "呼吁女性在产后不要过度勉强自己，应当多借助家人或月嫂的帮助，预防产后抑郁。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目引言与生育方式的初体验",
+      "start": 17.64
+    },
+    {
+      "titel": "孕期身体变化、体重管理的焦虑与罕见症状",
+      "start": 128.06
+    },
+    {
+      "titel": "顺产经历、宫缩剧痛与胎膜残留的清宫经历",
+      "start": 342.82
+    },
+    {
+      "titel": "剖腹产的决策过程、术后恢复与疤痕增生",
+      "start": 853.36
+    },
+    {
+      "titel": "产前检查的焦虑与医患沟通的心理压力",
+      "start": 1593.28
+    },
+    {
+      "titel": "母乳喂养的执念、碎片化睡眠与产后抑郁防范",
+      "start": 1953.32
+    },
+    {
+      "titel": "结语与对女性自我成长的期许",
+      "start": 2570.04
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T03:17:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2742,
+  "veroeffentlicht": "2023-08-22T08:29:50+00:00",
+  "beschreibung": "第一期我们来聊聊生育，因为我们取名初生之路，其一因为生育后的我们，都感觉恍若新生，身体出现了翻天覆地的变化；其二是因为结婚生子，内心也完全不一样。借此记录一下人生变化，也分享这份感受。\n-\nHi这里是小许大姚的频道",
+  "beschreibung_html": "第一期我们来聊聊生育，因为我们取名初生之路，其一因为生育后的我们，都感觉恍若新生，身体出现了翻天覆地的变化；其二是因为结婚生子，内心也完全不一样。借此记录一下人生变化，也分享这份感受。<br>-<br>Hi这里是小许大姚的频道",
+  "bild_url": "https://fdfs.xmcdn.com/storages/da39-audiofreehighqps/77/07/GMCoOR4IujTxAACiHwJNYSbV.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

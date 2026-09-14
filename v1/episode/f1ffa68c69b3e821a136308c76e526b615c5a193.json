@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/2c42-audiofreehighqps/40/86/CKwRIUEEerjuAC_D5QCtb4JU-aacv2-48K.m4a",
+  "apple_collection_id": "1592613635",
+  "show": "冰雪奇缘系列故事",
+  "titel": "冰雪奇缘1",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIUEEerjuAC_D5QCtb4JU-aacv2-48K.m4a?channel=rss&album_id=49654603&track_id=416733693&uid=57176765&jt=https://aod.cos.tx.xmcdn.com/storages/2c42-audiofreehighqps/40/86/CKwRIUEEerjuAC_D5QCtb4JU-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2354098,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:24:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述艾莎与安娜的魔幻冒险及真爱化解冰雪危机的《冰雪奇缘1》故事。",
+  "kurzfassung": "艾莎年幼时魔力失控误伤妹妹安娜，导致姐妹俩多年疏远。艾莎在加冕礼上再次失控并逃往北山，安娜踏上寻找姐姐的旅程。最终，在真爱的力量下，安娜融化了冰冻的心，拯救了王国。",
+  "stichpunkte": [
+    "艾莎年幼时魔法误伤安娜，地精国王出手治愈并建议艾莎隐藏魔力",
+    "艾莎成年后继任女王，加冕礼上魔力失控，逃往荒凉的北山并筑起冰雪城堡",
+    "安娜为了拯救冰封的阿伦代尔，独自前往北山寻找姐姐",
+    "安娜在途中结识了采冰人克斯托夫和雪人雪宝，三人一同踏上寻姐之路",
+    "安娜到达冰雪宫殿劝说艾莎遭拒，魔法再次击中安娜的心脏",
+    "汉斯王子露出真面目，企图杀死艾莎以夺取王位",
+    "安娜拼尽最后一丝力气挡住利剑化为冰雕，姐妹真爱最终融化坚冰拯救了王国"
+  ],
+  "kapitel": [
+    {
+      "titel": "姐妹疏远与加冕礼失控",
+      "start": 8.9
+    },
+    {
+      "titel": "北山寻姐与结识同伴",
+      "start": 166.72
+    },
+    {
+      "titel": "宫殿重逢与汉斯的阴谋",
+      "start": 265.36
+    },
+    {
+      "titel": "真爱拯救王国",
+      "start": 337.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:24:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 386,
+  "veroeffentlicht": "2021-05-19T11:26:30+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d394-audiofreehighqps/FB/BE/CKwRIaIEerUqAAK3KwCtbLcw.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

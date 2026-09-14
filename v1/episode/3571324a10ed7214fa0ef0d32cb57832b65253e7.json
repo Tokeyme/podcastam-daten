@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "66275e90c3e09d8f37e5084c",
+  "apple_collection_id": "1742804484",
+  "show": "日本商业观察室",
+  "titel": "日本 半导体芯片行业曾经的大哥 要重出江湖 RAPIDUS半导体工厂是否能成",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/662757c0200abebe6eb0163c/66275e90c3e09d8f37e5084c/media.xyzcdn.net/lvWU3zbmTnnwnMKcPtDD3rqVxP51.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15246288,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T23:56:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "日本半导体行业曾称霸全球后遭美打压，如今组建Rapidus试图重出江湖。",
+  "kurzfassung": "日本半导体产业在20世纪70至80年代曾占据全球过半市场份额并引领多项科技标准，随后因美国的多轮协议与贸易限制遭到沉重打击。如今，日本经济产业省联合多家国内顶尖企业成立了Rapidus，并计划与IBM合作在2027年前实现两纳米芯片的量产。尽管面临技术断层和严重的人才缺口等挑战，日本半导体工厂的建设已开始带动显著的区域经济效益。",
+  "stichpunkte": [
+    "70至80年代日本半导体曾占据全球50%以上市场份额，DRAM领域甚至超过80%",
+    "日本曾定义多项全球科技与音频标准，如笔记本电脑、随身听和MIDI接口等",
+    "美国通过1985年广场协议及1986年后的半导体协议对日本实施强力干预与限制",
+    "美方要求日本提高外国芯片份额、公开生产成本并由美方制定公正价格",
+    "90年代后日本半导体人才流失至韩国等地，产业遭遇严重打击",
+    "日本经济产业省主导丰田、索尼等8家企业成立Rapidus半导体公司",
+    "Rapidus计划与IBM合作，以2027年量产两纳米芯片为目标",
+    "日本当前面临技术断层和尖端科技人才严重短缺的双重挑战",
+    "台积电熊本厂及Rapidus等大厂的建设为当地带来了百年一遇的经济效益",
+    "日本企业虽长期缺席最终成品，但在半导体材料和化学领域仍占据垄断地位"
+  ],
+  "kapitel": [
+    {
+      "titel": "日本半导体的辉煌过去与科技引领",
+      "start": 49.46
+    },
+    {
+      "titel": "美国的不平等协议与对日本半导体的打击",
+      "start": 361.16
+    },
+    {
+      "titel": "Rapidus成立与重出江湖的计划",
+      "start": 641.8
+    },
+    {
+      "titel": "技术与人才挑战及供应链现状",
+      "start": 723.28
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T23:56:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 942,
+  "veroeffentlicht": "2024-04-23T07:09:04+00:00",
+  "beschreibung": "最近关于台积电啥的在日本建厂的新闻挺多，研究了一下。一聊到昭和时代的日本电子产品就停不下来\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>最近关于台积电啥的在日本建厂的新闻挺多，研究了一下。一聊到昭和时代的日本电子产品就停不下来</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/66275e90c3e09d8f37e5084c?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "6a8a6f7a1352af56ff3a7b55",
+  "apple_collection_id": "1887001111",
+  "show": "亮眼看财经",
+  "titel": "长江存储VS长鑫科技：谁更可能成为中国的“存储之王”？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/682adce118356262a6ab8f29/6a8a6f7a1352af56ff3a7b55/media.xyzcdn.net/682adce118356262a6ab8f29/lpk_ewX8UtB8oRUPp9q5GDYd99XK.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15157225,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T23:39:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "长江存储与长兴科技：中国存储双巨头的实力对比与IPO前景分析",
+  "kurzfassung": "长江存储即将登陆A股科创板，募资规模达330亿元，预计在今年四季度完成上市。本期节目对比了长江存储与长兴科技这两家中国存储双巨头。两家公司在主营业务、核心产品及全球排名上各有侧重，并在AI浪潮下展现出强劲的增长势头。",
+  "stichpunkte": [
+    "长江存储IPO进程正处于受理阶段，募资330亿元用于技术升级与前沿研发，预计今年四季度登陆科创板。",
+    "长江存储与长兴科技被称为中国存储双巨头，两家公司受益于AI浪潮，在全球市场份额中均位居中国市场首位。",
+    "核心产品方面，长江存储主打NAND闪存及SSD等应用，长兴科技则以DRAM及DDR4/DDR5技术为主。",
+    "营收与利润表现上，长兴科技在2026年一季度营收实现反超，但长江存储的净利润与净利率水平明显更高。",
+    "技术护城河方面，长江存储在3D NAND核心技术和专利数量上表现突出，已累计获得大量发明专利授权。",
+    "两家公司的产能利用率均已达到90%以上，实现了从技术突破向规模化商业化的跨越。",
+    "IPO将为两家企业提供资金支持，助力其在技术工艺、良率提升和全球市场排名上实现进一步突破。"
+  ],
+  "kapitel": [
+    {
+      "titel": "长江存储的IPO进程与募资规划",
+      "start": 0.0
+    },
+    {
+      "titel": "中国存储双巨头：长江存储与长兴科技的对比",
+      "start": 106.5
+    },
+    {
+      "titel": "两家公司的财务表现与营收反超",
+      "start": 336.38
+    },
+    {
+      "titel": "技术护城河与专利实力分析",
+      "start": 538.62
+    },
+    {
+      "titel": "IPO对存储双巨头的战略意义",
+      "start": 802.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T23:39:08+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 937,
+  "veroeffentlicht": "2026-08-23T04:03:41+00:00",
+  "beschreibung": "长江存储科创板IPO获受理，中国存储芯片“双雄”再次成为市场焦点。一个主攻NAND Flash，一个深耕DRAM，两家公司虽然业务不同，却共同承担着中国存储芯片国产替代的重要使命。\n长江存储凭借Xtacking技术和3D NAND持续突破，目前已经进入全球NAND第一梯队；长鑫科技则在DRAM领域快速追赶三星、SK海力士和美光，并在DDR、LPDDR等产品上不断扩大市场份额。随着AI算力需求爆发，HBM、高性能DRAM以及企业级SSD成为新的增长方向，两家公司也将迎来新的产业机遇。\n那么，长江存储和长鑫科技究竟谁的技术壁垒更高？谁的全球竞争力更强？谁更有可能成为中国下一家世界级半导体巨头？\n本期节目将从全球市场份额、核心技术、专利、产能、研发投入、客户结构、盈利能力以及AI产业链等多个维度，全面拆解两家公司的竞争力。\n长江存储VS长鑫科技：谁更可能成为中国的“存储之王”？欢迎收听！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>长江存储科创板IPO获受理，中国存储芯片“双雄”再次成为市场焦点。一个主攻NAND Flash，一个深耕DRAM，两家公司虽然业务不同，却共同承担着中国存储芯片国产替代的重要使命。</p><p>长江存储凭借Xtacking技术和3D NAND持续突破，目前已经进入全球NAND第一梯队；长鑫科技则在DRAM领域快速追赶三星、SK海力士和美光，并在DDR、LPDDR等产品上不断扩大市场份额。随着AI算力需求爆发，HBM、高性能DRAM以及企业级SSD成为新的增长方向，两家公司也将迎来新的产业机遇。</p><p>那么，长江存储和长鑫科技究竟谁的技术壁垒更高？谁的全球竞争力更强？谁更有可能成为中国下一家世界级半导体巨头？</p><p>本期节目将从全球市场份额、核心技术、专利、产能、研发投入、客户结构、盈利能力以及AI产业链等多个维度，全面拆解两家公司的竞争力。</p><p>长江存储VS长鑫科技：谁更可能成为中国的“存储之王”？欢迎收听！</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8a6f7a1352af56ff3a7b55?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

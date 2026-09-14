@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "guid": "a047806b-d548-479c-8e16-b4ad0146c4c0",
+  "apple_collection_id": "1220200987",
+  "show": "Bobby Bones Presents: The BobbyCast",
+  "titel": "#664 - Blippi, Bluey and Addictive Dancing Fruit with Punk Goes Princess Star Lauren Paley",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a69fc5d5-e818-4c23-8d21-ae320081d883/a047806b-d548-479c-8e16-b4ad0146c4c0/audio.mp3?utm_source=Podcast&in_playlist=87c8bef8-9ed4-45bf-b882-ae320081d891",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 66985689,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T00:50:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Lauren Paley talks about her viral Disney princess covers and new EP.",
+  "kurzfassung": "Lauren Paley joins the show to discuss her viral social media success singing pop and punk hits in a Disney princess style. She talks about transitioning from musical theater and songwriting to content creation, and collaborating with Simple Plan's lead singer. The conversation also touches on parenting, children's media empires like Blippy and Bluey, and live vocal performances in the studio.",
+  "stichpunkte": [
+    "Lauren Paley gained massive social media following by singing 2000s punk and emo songs in a Disney princess style.",
+    "Her first viral hit in this genre was covering 'Teenage Dirtbag'.",
+    "She studied musical theater and initially moved to Nashville to pursue country songwriting before finding her niche online.",
+    "She released a five-song EP titled 'Punk Goes Princess', featuring a collaboration with Pierre, the lead singer of Simple Plan.",
+    "The hosts and guest discuss the massive scale and monetization of children's entertainment properties like Blippy, Bluey, and Baby Shark.",
+    "Paley performs live snippets of classic and children's songs in her signature princess vocal style during the interview."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Punk Goes Princess",
+      "start": 0.2
+    },
+    {
+      "titel": "Musical Background and Nashville Beginnings",
+      "start": 351.279
+    },
+    {
+      "titel": "Collaborating with Simple Plan",
+      "start": 553.28
+    },
+    {
+      "titel": "Children's Media, Blippy, and Baby Shark",
+      "start": 1364.48
+    },
+    {
+      "titel": "Live Singing and Closing",
+      "start": 2618.84
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The song that started the viral Disney princess trend",
+      "start": 206.524,
+      "ende": 232.542,
+      "laenge": 26.02,
+      "byte_start": 3374137,
+      "byte_ende": 3790423,
+      "bytes": 416287,
+      "range_header": "bytes=3374137-3790423",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 206.602,
+      "anker_sha256": "72b30a8f8b3b1521e2e0ba1959a05a565adfd1b420d27b0ec30924b179337940",
+      "einblendung_ms": 60,
+      "text": "Lauren Paley discusses her new EP featuring collaborations with members of Simple Plan and Good Charlotte, drawing on her classical background and viral social media performances."
+    },
+    {
+      "hook": "Getting a direct message from a childhood crush",
+      "start": 666.619,
+      "ende": 688.3,
+      "laenge": 21.68,
+      "byte_start": 10735652,
+      "byte_ende": 11082557,
+      "bytes": 346906,
+      "range_header": "bytes=10735652-11082557",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 666.697,
+      "anker_sha256": "9d0550530c9206e1b038f8ce10a5e0f126c154a16979852fd08ea91063fb8b03",
+      "einblendung_ms": 60,
+      "text": "Lauren Paley explains how her musical theater training shapes her vocal style and shares stories about original artists reaching out after hearing her covers."
+    },
+    {
+      "hook": "The multi-billion dollar buyout of a children's icon",
+      "start": 1537.123,
+      "ende": 1557.238,
+      "laenge": 20.11,
+      "byte_start": 24663724,
+      "byte_ende": 24985552,
+      "bytes": 321829,
+      "range_header": "bytes=24663724-24985552",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1537.202,
+      "anker_sha256": "3e9c823584dac0ce61d31689140e77b4eebda46d229172bd4a2fbd1b5272e031",
+      "einblendung_ms": 60,
+      "text": "The host reflects on the possibility of actor Danny McBride appearing on the program, noting a willingness to welcome him if the opportunity arises."
+    },
+    {
+      "hook": "The staggering view count of Baby Shark",
+      "start": 2003.827,
+      "ende": 2026.867,
+      "laenge": 23.04,
+      "byte_start": 32130982,
+      "byte_ende": 32499621,
+      "bytes": 368640,
+      "range_header": "bytes=32130982-32499621",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2003.905,
+      "anker_sha256": "25e4bab3fa4e84784e375700e81c8ccc419ea88d5ae611c5d2a2c3baf9cc29bc",
+      "einblendung_ms": 60,
+      "text": "The conversation turns to the casting of the children's character Blippi, with the hosts expressing surprise that multiple actors have portrayed the role."
+    },
+    {
+      "hook": "Singing a children's classic as a Disney princess",
+      "start": 2789.015,
+      "ende": 2819.109,
+      "laenge": 30.09,
+      "byte_start": 44693999,
+      "byte_ende": 45175487,
+      "bytes": 481489,
+      "range_header": "bytes=44693999-45175487",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2789.094,
+      "anker_sha256": "a3c28ac5b358db68829c4d0237956ccffa8e33c9bfe14d9103502dd920ac59b3",
+      "einblendung_ms": 60,
+      "text": "The hosts reminisce about their past comedy project, The Raging Idiots, and the release of their children's music album, The Raging Kitties."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T00:50:16+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3336,
+  "veroeffentlicht": "2026-08-22T07:00:00+00:00",
+  "beschreibung": "On this episode of Current Stuff, Bobby and Eddie are joined by Lauren Paley who is the singer behind \"Punk Goes Princess\" which reimagines iconic 2000s pop-punk and rock anthems with cinematic, Disney-style princess vocals! Lauren joins Bobby to talk about how a DM to Simple Plan’s Pierre Bouvier turned into an actual collaboration. They also get into Lauren’s life as a mom, singing for her daughter, the world of Blippi, Bluey, Cocomelon, Dancing Fruit and Ms. Rachel, and whether she’d ever take her act on the road for kids. Plus, sings a couple of songs for us!\nCheck out Punk Goes Princess HERE\nWatch The BobbyCast on Netflix!\nFollow on Instagram: @TheBobbyCast\nFollow on TikTok: @TheBobbyCast\n\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>On this episode of Current Stuff, Bobby and Eddie are joined by&nbsp;<a href=\"https://www.tiktok.com/@laurenpaley?lang=en\">Lauren Paley</a>&nbsp;who is the singer behind \"Punk Goes Princess\" which reimagines iconic 2000s pop-punk and rock anthems with cinematic, Disney-style princess vocals!&nbsp;Lauren joins Bobby to talk about&nbsp; how a DM to Simple Plan&rsquo;s Pierre Bouvier turned into an actual collaboration.&nbsp;They also get into Lauren&rsquo;s life as a mom, singing for her daughter, the world of Blippi, Bluey, Cocomelon, Dancing Fruit and Ms. Rachel, and whether she&rsquo;d ever take her act on the road for kids. Plus, sings a couple of songs for us!</p> <p>Check out Punk Goes Princess <a href=\"https://too.fm/xgqkeob\">HERE</a></p> <p><strong>Watch The BobbyCast on&nbsp;</strong><a href=\"http://netflix.com/bobbycast\"><strong>Netflix</strong></a><strong>!</strong></p> <p><strong>Follow on Instagram:&nbsp;</strong><a href=\"https://www.instagram.com/thebobbycast/\"><strong>@TheBobbyCast</strong></a></p> <p><strong>Follow on TikTok:&nbsp;</strong><a href=\"https://www.tiktok.com/@thebobbycast\"><strong>@TheBobbyCast</strong></a></p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a69fc5d5-e818-4c23-8d21-ae320081d883/a047806b-d548-479c-8e16-b4ad0146c4c0/image.jpg?t=1787402971&size=Large",
+  "kapitel_quelle": "modell"
+}

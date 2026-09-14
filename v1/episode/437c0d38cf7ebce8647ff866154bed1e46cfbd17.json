@@ -6,7 +6,7 @@
   "titel": "161019～3上英语M2U3",
   "audio": {
     "url": "http://cdn.lizhi.fm/audio/2016/10/19/2563321220127298566_hd.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": 2391347,
     "format": "mp3",
     "geprueft_am": "2026-08-22T23:12:08+00:00"
@@ -61,7 +61,7 @@
       "inhalt_start": 5.094,
       "anker_sha256": "8338ce4d10775fb56bb51831a61d775a97fd045fd630f216d14a5ff163f759bd",
       "einblendung_ms": 60,
-      "text": "Hello, my name is Linda I'm 9, I'm tall, I'm thin My hair is long, my nose is small My mouth is big, my eyes are big"
+      "text": "Linda describes her physical appearance, mentioning her height, build, and facial features."
     },
     {
       "hook": "描述眼睛、鼻子和嘴巴的外貌特征",
@@ -76,7 +76,7 @@
       "inhalt_start": 38.714,
       "anker_sha256": "096e26dc43bdaa3d3af6a93ceb0e30a2523c5b2db9efa74ca064756af99dce64",
       "einblendung_ms": 60,
-      "text": "Look at my eyes My eyes are small and brown My nose is big, my mouth is big too Look, I'm tall and fat"
+      "text": "A speaker details their physical traits, highlighting eye color, facial features, and body shape."
     },
     {
       "hook": "听兔子和小狗描述它们的身体部位",
@@ -91,7 +91,7 @@
       "inhalt_start": 61.466,
       "anker_sha256": "a354349c299214b4d116ef0e4046dcbce52502fa8eb860e0062631c29117755d",
       "einblendung_ms": 60,
-      "text": "Hello, I'm a rabbit My eyes are red My tail is short Hello, I'm a dog"
+      "text": "An animal introduces itself by describing its eyes and tail before another animal speaks."
     },
     {
       "hook": "老鼠描述自己瘦小的身材和长尾巴",
@@ -106,7 +106,7 @@
       "inhalt_start": 82.469,
       "anker_sha256": "ef066b463ae285d12564e91783a25a19a07224c00d41d307d4b4005189647c7b",
       "einblendung_ms": 60,
-      "text": "Hello, I'm a mouse I'm thin My eyes are small My tail is long"
+      "text": "A mouse shares details about its slender body, tiny eyes, and extended tail."
     },
     {
       "hook": "苏西喜欢粉色球并引入吉姆的大猪",
@@ -121,7 +121,7 @@
       "inhalt_start": 121.678,
       "anker_sha256": "73ee3fec8de7c481393f3356b3fea2b63b6fadb37cf126ff384e94410f938718",
       "einblendung_ms": 60,
-      "text": "I like playing with my pink ball I eat pig Jim has a pig His pig is big"
+      "text": "A person talks about enjoying a pink ball, consuming pork, and a character named Jim who owns a large pig."
     }
   ],
   "erzeugt": {
@@ -139,5 +139,6 @@
   "beschreibung": "感谢收听，期待你对本期节目的评论留言哦~",
   "beschreibung_html": "感谢收听，期待你对本期节目的评论留言哦~",
   "untertitel": "感谢收听，期待你对本...",
-  "kapitel_quelle": "modell"
+  "kapitel_quelle": "modell",
+  "bild_url": "http://cdn.lizhi.fm/podcast_cover/podcast_imgthum_7499133488066766467.jpg"
 }

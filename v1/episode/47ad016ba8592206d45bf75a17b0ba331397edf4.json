@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_765678859",
+  "apple_collection_id": "1616591984",
+  "show": "因吹思听【趣闻脱口秀】",
+  "titel": "车祸赔偿2500，事后发现被碰瓷？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4K5SpUAC3tDgMfkvHG.m4a?channel=rss&album_id=8990238&track_id=765678859&uid=62098744&jt=https://aod.cos.tx.xmcdn.com/storages/e79c-audiofreehighqps/57/9A/GKwRIW4K5SpUAC3tDgMfkvHG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3009806,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T15:27:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨食用野生动物中毒、交通碰瓷骗局以及酒驾肇事逃逸等安全警示案例。",
+  "kurzfassung": "节目通过三起真实案例探讨了日常生活中的安全隐患。首先讲述了海南三人因食用自己捕捉的癞蛤蟆导致一人死亡、两人重伤的悲剧。接着分析了江苏邱先生因轻信索赔而遭遇电动车碰瓷诈骗，最终警方将犯罪团伙抓获。最后通报了一起酒后驾车擦碰巡逻车后选择逃逸并让儿子顶包，最终被判刑的违法案件。",
+  "stichpunkte": [
+    "海南三人因食用自行捕捉的癞蛤蟆中毒，导致一人死亡、两人抢救",
+    "癞蛤蟆毒素会影响心肌引起心率失常，且常规烹调无法破坏其毒性",
+    "江苏邱先生驾车时撞倒电动车男子，转账赔偿2500元后发觉异常并报警",
+    "警方通过监控查明该电动车男子系碰瓷团伙成员，法院最终以诈骗罪判处三人刑罚",
+    "林某酒后驾车擦碰治安巡逻车后选择肇事逃逸，并让儿子替其顶包",
+    "林某因危险驾驶罪被判处拘役两个月十五日并处罚金"
+  ],
+  "kapitel": [
+    {
+      "titel": "食用癞蛤蟆中毒的悲剧",
+      "start": 0.74
+    },
+    {
+      "titel": "遭遇碰瓷诈骗的交通纠纷",
+      "start": 185.3
+    },
+    {
+      "titel": "酒驾逃逸与顶包的违法案件",
+      "start": 307.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T15:27:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 493,
+  "veroeffentlicht": "2024-10-16T07:12:04+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group57/M0A/53/86/wKgLd1xuIH3gYRARAAGBVDowp0E042.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

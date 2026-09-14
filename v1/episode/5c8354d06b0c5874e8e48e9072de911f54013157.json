@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_690032510",
+  "apple_collection_id": "1710532191",
+  "show": "音乐酒馆丨聆听音乐 细感热评",
+  "titel": "音乐酒馆｜期待的样子",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwJQN2YAB7VFQKFuUCT.m4a?channel=rss&album_id=48084926&track_id=690032510&uid=77044142&jt=https://aod.cos.tx.xmcdn.com/storages/4512-audiofreehighqps/61/6E/GKwRIRwJQN2YAB7VFQKFuUCT.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2020629,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:08:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "听马迪演唱的歌曲《期待的样子》及热评背后的亲情故事。",
+  "kurzfassung": "本期节目分享了歌手马迪的歌曲《期待的样子》。节目中读出了一则关于高考前夕亲人相继离世的热评。歌曲与故事共同表达了对逝去亲人的思念与成长感悟。",
+  "stichpunkte": [
+    "播放歌手马迪演唱的歌曲《期待的样子》。",
+    "分享了一则关于高考与爷爷的感人热评。",
+    "讲述了高考那年爷爷、奶奶和老爷相继离世的遗憾。",
+    "提及亲人未能等到“我”长大和有出息的时刻。",
+    "歌曲展现了对陪伴、夸奖和家庭温暖的期待。",
+    "表达了对过往岁月和离去亲人的深切思念。"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲与热评分享",
+      "start": 0.82
+    },
+    {
+      "titel": "歌曲正文与情感表达",
+      "start": 62.42
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:08:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 249,
+  "veroeffentlicht": "2023-12-06T11:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/89ef-audiofreehighqps/50/FB/GMCoOSEJFCr9AAEMngJ1h3xt.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

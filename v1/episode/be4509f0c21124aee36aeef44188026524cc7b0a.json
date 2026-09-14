@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_804240352",
+  "apple_collection_id": "1795821468",
+  "show": "水浒传 原著解读|四大名著|中小学生必读书目",
+  "titel": "水浒传 第一回 张天师祈禳瘟疫 洪太尉误走妖魔",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJILf14iABCtxwNkE_IQ.m4a?channel=rss&album_id=85812651&track_id=804240352&uid=280062915&jt=https://aod.cos.tx.xmcdn.com/storages/40d3-audiofreehighqps/1F/7C/GKwRIJILf14iABCtxwNkE_IQ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1093063,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:50:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "解析水浒传首回洪太尉误走妖魔的北宋末年统治隐喻。",
+  "kurzfassung": "北宋汴京突发瘟疫，宋仁宗派洪太尉前往龙虎山请张天师。洪太尉一路傲慢并强行砸开伏魔殿千年封印。三十六天罡与七十二地煞化作黑气逃入人间，揭开官逼民反的乱世序幕。",
+  "stichpunkte": [
+    "北宋仁宗年间汴京暴发瘟疫，皇帝派洪太尉前往龙虎山祈求张天师消灾。",
+    "瘟疫被视为北宋末年政治腐败、土地兼并严重的王朝隐喻。",
+    "洪太尉登龙虎山时摆官架子，对道童态度傲慢且毫无敬畏之心。",
+    "洪太尉无视禁忌，执意打开伏魔殿并砸开刻有符篆的千年青石碑。",
+    "三十六天罡与七十二地煞化作百道黑气冲出殿外，散入人间。",
+    "潜逃的妖魔即是日后被逼上梁山的各路英雄豪杰。",
+    "开篇神魔故事暗指官逼民反，揭示封建王朝动乱的根源。"
+  ],
+  "kapitel": [
+    {
+      "titel": "汴京瘟疫与洪太尉奉命请天师",
+      "start": 8.12
+    },
+    {
+      "titel": "龙虎山之行与伏魔殿的封印",
+      "start": 69.1
+    },
+    {
+      "titel": "妖魔出世与官逼民反的隐喻",
+      "start": 103.42
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:50:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 179,
+  "veroeffentlicht": "2025-02-10T06:22:19+00:00",
+  "beschreibung": "书生为您解读中国四大名著最具江湖气的《水浒传》，帮助初读水浒的学子和追忆经典的同志，更好的理解施耐庵先生笔下的水浒。水浒不只有36天罡和72地煞荡气回肠的英雄故事，还有对当时社会状况的分析，比如北宋的积弊、阶级矛盾等，帮助大家更好的理解故事背后的深意。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>书生为您解读中国四大名著最具江湖气的《水浒传》，帮助初读水浒的学子和追忆经典的同志，更好的理解施耐庵先生笔下的水浒。水浒不只有36天罡和72地煞荡气回肠的英雄故事，还有对当时社会状况的分析，比如北宋的积弊、阶级矛盾等，帮助大家更好的理解故事背后的深意。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/93b7-audiofreehighqps/42/56/GAqhntALfoVAAAHIqANjsn4z.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

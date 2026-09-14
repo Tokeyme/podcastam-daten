@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1005091967",
+  "apple_collection_id": "6790029254",
+  "show": "商业AI实战",
+  "titel": "34产品的MVP怎么做砍功能不减价值",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoOSy8gAGNprQTDNzz0.m4a?channel=rss&album_id=125193922&track_id=1005091967&uid=580932930&jt=https://aod.cos.tx.xmcdn.com/storages/6a2b-audiofreehighqps/40/12/GKwRIDoOSy8gAGNprQTDNzz0.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6515117,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T08:06:48+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "AI产品的MVP如何做到砍功能不减价值，核心在于精准聚焦和快速上线。",
+  "kurzfassung": "许多AI产品在初期容易陷入功能贪大求全的误区，导致产品臃肿且缺乏核心竞争力。节目总结了MVP砍功能的七个关键方向，指导团队如何通过精简功能来保留产品核心价值。同时，通过一句话公式帮助开发者检验产品定位是否聚焦，强调通过快速上线收集真实用户反馈。",
+  "stichpunkte": [
+    "AI产品初期常见功能过多的贪大求全现象，导致用户体验不佳",
+    "第一刀：砍掉缺乏真实用户数据支持、仅凭开发者主观猜测的功能",
+    "第二刀：砍掉盲目模仿竞品的功能，MVP功能应当直接来源于目标客户的真实痛点",
+    "第三刀和第四刀：砍掉不影响核心任务的装饰性功能以及复杂的自动化过渡功能",
+    "第五刀和第六刀：砍掉需要客户提前准备繁重数据的工作，并收敛多场景的野心",
+    "第七刀：克服完美主义执念，核心功能在多数场景下正常工作即可快速上线",
+    "提供了一句话检验工具，确保MVP功能清单保持高度聚焦和简单明了",
+    "强调MVP是起点而非终点，核心是以最小成本验证假设并依据真实反馈持续迭代"
+  ],
+  "kapitel": [
+    {
+      "titel": "AI产品MVP的功能膨胀现象",
+      "start": 0.9
+    },
+    {
+      "titel": "砍功能的七个方向",
+      "start": 107.68
+    },
+    {
+      "titel": "MVP定位检验方法与核心总结",
+      "start": 641.34
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T08:06:48+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 804,
+  "veroeffentlicht": "2026-08-07T05:24:16+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8413-audiofreehighqps/56/C1/GAqhuykOFQa7AAW2zwSt7k0t.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

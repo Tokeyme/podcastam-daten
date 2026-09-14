@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "6a85bac7fb87252df2ec86eb",
+  "apple_collection_id": "1757424186",
+  "show": "那么问题来了",
+  "titel": "「龙餐馆」观后感：真想天天都能「包饺子」！",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/661b51a136e8d0ca6230c0ab/6a85bac7fb87252df2ec86eb/media.xyzcdn.net/661b51a136e8d0ca6230c0ab/lq26Eby43nqReTRc6bpeEhb3h1KU.m4a",
+    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "groesse": 49458313,
+    "format": "m4a",
+    "geprueft_am": "2026-09-08T12:05:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "三位主播热议空降电影《欢迎来到龙餐馆》，分享观影感动与沈腾突破性演技。",
+  "kurzfassung": "三位主播加更一期，热烈讨论了近期空降上映的电影《欢迎来到龙餐馆》。他们从电影中的东北美食文化、意料之外的剧情走向，聊到沈腾与蒋其明颠覆以往形象的出色演技。节目最后，主播们表达了这部作品带给中国观众的平视世界的视角与民族自豪感。",
+  "stichpunkte": [
+    "电影《欢迎来到龙餐馆》空降上映，票房与口碑实现逆袭，引发观影热潮。",
+    "影片融合了东北特色幽默与美食文化，沈腾在片中的铁锅炖等桥段充满生活气息。",
+    "剧情走向屡屡出乎观众意料，打破了关于开心麻花喜剧的刻板印象。",
+    "沈腾抛弃以往的综艺感，贡献了极具层次感和生活气息的严肃正剧演技。",
+    "蒋其明饰演的餐厅运营经理演技自然，塑造了立体生动的配角形象。",
+    "影片展现了中国小人物在世界战火背景下的在场感，跳出了传统的宏大叙事。",
+    "片中对美国大兵及伊拉克当地各方势力的塑造较为立体，配角故事线完整。",
+    "作品传递出“好好吃饭、好好养孩子”的质朴情感，引发观众强烈的共鸣与民族自豪感。"
+  ],
+  "kapitel": [
+    {
+      "titel": "加更缘起与《欢迎来到龙餐馆》的票房逆袭",
+      "start": 2.02
+    },
+    {
+      "titel": "对开心麻花喜剧的刻板印象与意料之外的剧情",
+      "start": 247.96
+    },
+    {
+      "titel": "片中的东北美食文化与幽默梗",
+      "start": 691.14
+    },
+    {
+      "titel": "沈腾与蒋其明的突破性演技与角色塑造",
+      "start": 1327.34
+    },
+    {
+      "titel": "世界视角下的中国小人物与电影带来的民族自豪感",
+      "start": 1830.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-08T12:05:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3055,
+  "veroeffentlicht": "2026-08-19T23:00:00+00:00",
+  "beschreibung": "看完《欢迎来龙餐馆》，「好好吃饭」四个字的意义与难得，在我们仨心里具象化了。\n整个观影过程，就是我们仨「刻板印象」不断被打破的过程。\n整个录制过程，就是我们仨因为之前的「刻板印象」不断道歉的过程。\n欢迎大家走进电影院，观看「欢迎来龙餐馆」\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>看完《欢迎来龙餐馆》，「好好吃饭」四个字的意义与难得，在我们仨心里具象化了。</p><p>整个观影过程，就是我们仨「刻板印象」不断被打破的过程。</p><p>整个录制过程，就是我们仨因为之前的「刻板印象」不断道歉的过程。</p><p>欢迎大家走进电影院，观看「欢迎来龙餐馆」</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a85bac7fb87252df2ec86eb?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

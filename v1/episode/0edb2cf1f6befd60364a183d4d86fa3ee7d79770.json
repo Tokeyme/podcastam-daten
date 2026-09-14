@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "guid": "c5c84f3b-1cf8-480b-9b11-b4ad015b2ee2",
+  "apple_collection_id": "1193068130",
+  "show": "Crime Stories with Nancy Grace",
+  "titel": "Former UKY Cheerleader Pleads Guilty in Death of Newborn Son | Crime Alert 08.24.26",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/mgln.ai/e/101/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2dbb83f5-53f6-4048-84fa-ae510011dbf6/c5c84f3b-1cf8-480b-9b11-b4ad015b2ee2/audio.mp3?utm_source=Podcast&in_playlist=d8d2d357-5feb-4992-8bb3-ae510011dc04",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5864017,
+    "format": "mp3",
+    "geprueft_am": "2026-08-28T02:15:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Former UKY cheerleader pleads guilty in newborn's death and other crime updates.",
+  "kurzfassung": "A former University of Kentucky athlete pleaded guilty to first-degree manslaughter in the death of her newborn son. In Pennsylvania, an incoming college freshman was murdered by her boyfriend with his mother's alleged help in the cover-up. Meanwhile, in Colorado, a husband's claim that his wife died by suicide collapsed after police found evidence pointing to murder.",
+  "stichpunkte": [
+    "Lacyn Snelling changed her plea to guilty for first-degree manslaughter regarding her newborn son's death.",
+    "Court records showed Snelling deprived the infant of oxygen and hid the remains in a closet trash bag.",
+    "Caroline Heinz, an 18-year-old college freshman, was stabbed to death by her boyfriend Royce Moser in Pennsylvania.",
+    "Royce Moser's mother, Rachel Moser, allegedly helped clean the vehicle, dispose of the weapon, and wash bloody clothes.",
+    "In Colorado, Patrick Barnett claimed his wife Lindsay died by suicide in the shower.",
+    "Investigators doubted the suicide claim due to blood on the bedroom mattress and defensive scratches on Patrick's body.",
+    "Police uncovered Patrick's extramarital affair, and Lindsay's family refuted any claims of suicidal ideation."
+  ],
+  "kapitel": [
+    {
+      "titel": "Former UKY Cheerleader Pleads Guilty",
+      "start": 4.08
+    },
+    {
+      "titel": "Pennsylvania College Freshman Murder",
+      "start": 151.84
+    },
+    {
+      "titel": "Colorado Husband Arrested for Murder",
+      "start": 247.2
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Former athlete faces up to ten years in prison",
+      "start": 9.326,
+      "ende": 30.38,
+      "laenge": 21.05,
+      "byte_start": 205462,
+      "byte_ende": 542336,
+      "bytes": 336875,
+      "range_header": "bytes=205462-542336",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 9.404,
+      "anker_sha256": "c7f76c69ad1f8247a67de2119a50e74dc3aff97a72f856e4c0157c17cccc7be4",
+      "einblendung_ms": 60,
+      "text": "Former University of Kentucky athlete Laken Snelling admitted guilt in the death of her newborn son and faces up to a decade behind bars."
+    },
+    {
+      "hook": "Plea deal for first degree manslaughter accepted",
+      "start": 93.179,
+      "ende": 113.293,
+      "laenge": 20.11,
+      "byte_start": 1547111,
+      "byte_ende": 1868939,
+      "bytes": 321829,
+      "range_header": "bytes=1547111-1868939",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 93.257,
+      "anker_sha256": "d0aeb6332839037acad0e66972596c4eff5b83fb134533a15e52020c066effb1",
+      "einblendung_ms": 60,
+      "text": "Prosecutor Kimberly Baird outlined the manslaughter plea agreement accepted before Judge Diane Minifield after the defendant broke down in court."
+    },
+    {
+      "hook": "Suspect claims a demon took over before stabbing",
+      "start": 181.107,
+      "ende": 201.221,
+      "laenge": 20.11,
+      "byte_start": 2953962,
+      "byte_ende": 3275789,
+      "bytes": 321828,
+      "range_header": "bytes=2953962-3275789",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 181.185,
+      "anker_sha256": "8ba96c7b06cc69bde53a3c41f3011ad9e479ecffe20c7adcb8900cae1153ce78",
+      "einblendung_ms": 60,
+      "text": "Investigators report that a man blamed a demonic possession for a fatal knife attack on his girlfriend following a dispute inside a car."
+    },
+    {
+      "hook": "Mother helps her son cover up a murder",
+      "start": 200.96,
+      "ende": 223.686,
+      "laenge": 22.73,
+      "byte_start": 3271611,
+      "byte_ende": 3635234,
+      "bytes": 363624,
+      "range_header": "bytes=3271611-3635234",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 201.038,
+      "anker_sha256": "5ce88d1199889116d888960db48402d86389a583eff8e6d32eee3884dd9e53a7",
+      "einblendung_ms": 60,
+      "text": "Police state that Rachel Moser advised her son to use disinfectant and latex gloves to clean up a crime scene involving his dead girlfriend."
+    },
+    {
+      "hook": "Police find blood on the bed and scratches on the husband",
+      "start": 275.958,
+      "ende": 302.42,
+      "laenge": 26.46,
+      "byte_start": 4471572,
+      "byte_ende": 4894963,
+      "bytes": 423392,
+      "range_header": "bytes=4471572-4894963",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 276.036,
+      "anker_sha256": "17863b5a42f570baa01c611ef1b834b07e12db9ddf8c62ccf967704c70b41ac9",
+      "einblendung_ms": 60,
+      "text": "First responders received an August 13 emergency call about a suicide, but investigators quickly questioned the narrative due to conflicting blood evidence."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-28T02:15:42+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 350,
+  "veroeffentlicht": "2026-08-24T10:00:00+00:00",
+  "beschreibung": "Former University of Kentucky cheerleader Laken Snelling enters a guilty plea after her newborn infant was discovered deceased in a trash bag inside a closet. In Pennsylvania, an incoming college soccer player is brutally stabbed to death by her boyfriend, whose mother allegedly helped clean the crime scene and conceal evidence. A Colorado husband faces first-degree murder charges after claiming his wife committed suicide, as investigators uncover defensive fingernail wounds and an undisclosed extramarital affair. Sydney Silvagni reports.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Former University of Kentucky cheerleader Laken Snelling enters a guilty plea after her newborn infant was discovered deceased in a trash bag inside a closet. In Pennsylvania, an incoming college soccer player is brutally stabbed to death by her boyfriend, whose mother allegedly helped clean the crime scene and conceal evidence. A Colorado husband faces first-degree murder charges after claiming his wife committed suicide, as investigators uncover defensive fingernail wounds and an undisclosed extramarital affair. Sydney Silvagni reports.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2dbb83f5-53f6-4048-84fa-ae510011dbf6/c5c84f3b-1cf8-480b-9b11-b4ad015b2ee2/image.jpg?t=1787346410&size=Large",
+  "kapitel_quelle": "modell"
+}

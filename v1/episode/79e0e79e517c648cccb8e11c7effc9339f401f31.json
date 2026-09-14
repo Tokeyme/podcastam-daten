@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/0fc8-audiofreehighqps/65/8E/CMCoOSUDsO8HACMoSAByOwBi.m4a",
+  "apple_collection_id": "1549493045",
+  "show": "法医丑妃：王爷，晚上见｜穿越破案悬疑（永久免费）",
+  "titel": "《法医丑妃：王爷，晚上见》000（猴十四&乔木免费精品双播）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOSUDsO8HACMoSAByOwBi.m4a?channel=rss&album_id=42622023&track_id=355724055&uid=169161862&jt=https://aod.cos.tx.xmcdn.com/storages/0fc8-audiofreehighqps/65/8E/CMCoOSUDsO8HACMoSAByOwBi.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2304072,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T18:24:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "天才女法医意外穿越古代，携手王爷破解离奇悬疑命案",
+  "kurzfassung": "天才法医苏黎意外穿越至古代并与系统绑定，不仅顶着阴阳脸遭遇神秘黑手，还卷入了重重迷雾的离奇命案中。她与墨连锦等人相遇并展开调查，直面太子墨连轩的弑君谋反阴谋。最终，这场悬疑爽文展现了惊心动魄的宫廷较量与命运纠葛。",
+  "stichpunkte": [
+    "天才法医在遭到袭击后意外穿越至古代世界并完成灵魂绑定",
+    "黑衣人发现苏黎历经痛苦后不仅活着，脸上还变成了阴阳脸",
+    "苏黎苏醒后偶遇俊俏男子墨连锦，并因意外碰撞与其产生交集",
+    "宫廷与民间出现离奇命案，伴随有闹鬼传闻和复仇行径",
+    "随着调查深入，湛王妃苏黎迅速查到了墨连轩的头上",
+    "墨连轩承认自己意图谋反，企图推翻老王并发动大殿火海阴谋",
+    "作品由星空文学独家制作出品，涵盖重生、悬疑与爽文元素",
+    "参与演播与制作人员包括侯十四、乔木、权助及衍波等人"
+  ],
+  "kapitel": [
+    {
+      "titel": "穿越异世与阴阳脸之谜",
+      "start": 4.6
+    },
+    {
+      "titel": "邂逅王爷与离奇命案",
+      "start": 112.64
+    },
+    {
+      "titel": "宫廷阴谋与结局预告",
+      "start": 190.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T18:24:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 284,
+  "veroeffentlicht": "2020-11-16T03:44:27+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a7ee-audiofreehighqps/72/0A/CMCoOSEDWfR6AA5K4ABcYwo1.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_640719395",
+  "apple_collection_id": "1692792936",
+  "show": "百岁人生：长寿时代的生活和工作——人生规划参考书",
+  "titel": "01：绪论",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsIWyDaACp4iQIoGBnF.m4a?channel=rss&album_id=76451601&track_id=640719395&uid=42087099&jt=https://aod.cos.tx.xmcdn.com/storages/82b0-audiofreehighqps/95/A5/GKwRINsIWyDaACp4iQIoGBnF.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2783369,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:50:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "人类寿命正持续延长，我们需要重新规划人生阶段以应对未来。",
+  "kurzfassung": "人类预期寿命在过去两百年中稳步增长，活到百岁以上的概率大幅上升。然而，大众传媒和公众往往将长寿视为伴随疾病和财务危机的诅咒。本书旨在证明长寿是一份天赐的礼物，并通过时间规划和改变传统的三阶段人生来应对这一转变。",
+  "stichpunkte": [
+    "人类正处于一个过渡期，延长的寿命将深刻改变生活和工作方式。",
+    "西方国家新生儿有至少50%的概率活到105岁以上。",
+    "过去200年中，预期寿命稳步上升，每10年增加2岁以上。",
+    "不同年龄段的人面临不同的长寿概率，20岁的人有50%概率活过百岁。",
+    "长寿带来的压力将促使新模式和新规范的出现。",
+    "大众传媒对长寿话题的忽视令人困惑，人们常将其与衰老和疾病等诅咒联系在一起。",
+    "传统的三阶段人生（受教育、就业、退休）在长寿背景下面临养老金和工作年限的严峻挑战。",
+    "合理规划时间是享受长寿这份礼物的关键所在。"
+  ],
+  "kapitel": [
+    {
+      "titel": "绪论与长寿趋势",
+      "start": 0.0
+    },
+    {
+      "titel": "预期寿命的显著增长",
+      "start": 71.72
+    },
+    {
+      "titel": "长寿是礼物还是诅咒",
+      "start": 235.3
+    },
+    {
+      "titel": "人生阶段的挑战与规划",
+      "start": 292.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:50:23+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 343,
+  "veroeffentlicht": "2023-06-11T05:38:24+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d51d-audiofreehighqps/2D/8E/GMCoOR4IWk1eAANNJAIn6anB.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

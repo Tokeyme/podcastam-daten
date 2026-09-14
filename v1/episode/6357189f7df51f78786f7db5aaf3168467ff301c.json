@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "694a892b0f2ae6a867bebb3a",
+  "apple_collection_id": "1842853107",
+  "show": "财经早咖啡",
+  "titel": "400万亿！A股创纪录！",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/694a892b0f2ae6a867bebb3a/media.xyzcdn.net/68d638532fbf9f0c649263e8/lg3W5tzDCLwunb15UpMzGStSOrCD.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4836797,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:08:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "A股成交额首破400万亿创新高，上期所调整白银期货交易规则",
+  "kurzfassung": "A股年内成交额首次突破400万亿创下历史新高，市场化改革与量化交易成为主要推动因素。上期所针对白银期货交易规则进行调整，以管控市场过热风险并抑制短线过度炒作。商务部裁定欧盟进口乳制品存在补贴并实施反补贴措施，同时国内成品油价迎来年内最后一次下调。",
+  "stichpunkte": [
+    "A股成交额首破400万亿创历史记录，市场化改革、资金供给及产业景气共振推动市场发展。",
+    "量化策略高频交易放大了成交热度，但也带来了更大的流动性风险，未来需优化监管。",
+    "上期所自12月24日夜盘起调整白银期货交易规则，对特定合约设置开仓限额并调整手续费。",
+    "华欣认为调整白银期货规则的核心是对近期过热交易降温，防止非理性风险。",
+    "商务部裁定欧盟进口乳制品存在补贴并造成实质损害，自2025年12月23日起实施反补贴措施。",
+    "广东陆丰核电项目密集开工，总投资近400亿元，采用自主第三代核电技术。",
+    "国内成品油价格迎来年内最后一次下调，92号汽油每升下调0.13元。"
+  ],
+  "kapitel": [
+    {
+      "titel": "A股成交额创历史新高",
+      "start": 5.74
+    },
+    {
+      "titel": "白银期货交易规则调整",
+      "start": 98.02
+    },
+    {
+      "titel": "产业新闻：乳制品反补贴、核电开工与油价下调",
+      "start": 209.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:08:45+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 298,
+  "veroeffentlicht": "2025-12-23T22:00:00+00:00",
+  "beschreibung": "A 股交出历史级成绩单！2025 年成交额首破 400 万亿元，年内 4 个交易日成交额超 3 万亿，19 只个股成交额超万亿，AI 算力、新能源等新生产力板块成核心推手，量化交易进一步放大交易热度。南开大学田利辉指出，这是市场化改革、资金供给、产业景气与交易结构共振的结果，低利率环境下居民储蓄搬家、长钱入市也提供了多元增量。\nA 股 400 万亿成交额是价值回归还是过度投机？\n欢迎你留言、评论，与我们交流。\n更多全球财经动态、股市核心事件、行业趋势资讯，尽在财经早咖啡。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>A 股交出历史级成绩单！2025 年成交额首破 400 万亿元，年内 4 个交易日成交额超 3 万亿，19 只个股成交额超万亿，AI 算力、新能源等新生产力板块成核心推手，量化交易进一步放大交易热度。南开大学田利辉指出，这是市场化改革、资金供给、产业景气与交易结构共振的结果，低利率环境下居民储蓄搬家、长钱入市也提供了多元增量。</p><p><strong>A 股 400 万亿成交额是价值回归还是过度投机？</strong></p><p><strong>欢迎你留言、评论，与我们交流。</strong></p><p><strong>更多全球财经动态、股市核心事件、行业趋势资讯，尽在财经早咖啡。</strong></p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/694a892b0f2ae6a867bebb3a?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/Fi-J79C9pM2EFjmuUMzJAGcJNOYv.png",
+  "kapitel_quelle": "modell"
+}

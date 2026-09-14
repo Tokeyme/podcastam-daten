@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_777837882",
+  "apple_collection_id": "1783470304",
+  "show": "穿越成庶子利用现代美食知识挑战逆袭古代食肆美食日常",
+  "titel": "第一章",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsLGPDBABhGXAM1CQMO.m4a?channel=rss&album_id=84615392&track_id=777837882&uid=176145352&jt=https://aod.cos.tx.xmcdn.com/storages/bc2b-audiofreehighqps/8F/C4/GKwRINsLGPDBABhGXAM1CQMO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1590876,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:18:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "汴京城庙会热闹非凡，百位楼前冷清，灵儿正为生病的一哥焦急。",
+  "kurzfassung": "汴京城三月庙会正值热闹，唯独百位楼前无人问津。王氏来到小院，不仅拒绝请大夫，反而送来喜服，要将发烧的一哥嫁入富豪苏家。灵儿发现王氏是为了给自家儿子凑聘礼，一气之下与王氏拉扯起来。",
+  "stichpunkte": [
+    "汴京城三月庙会热闹非凡，但百位楼前却无人问津。",
+    "灵儿焦急敲门等待大夫，王氏却带着丫鬟送来盖着红布的木托牌。",
+    "王氏表示家中无钱请大夫，并拿出一套干净衣服催促试穿。",
+    "王氏宣布明日午更苏家将派人来接亲，以此让一哥当赘婿。",
+    "灵儿震惊并猜到对方是将一哥嫁给苏家的傻儿子。",
+    "王氏坦言已收了二十贯钱聘礼，并承认是为了给自己的儿子沐儿凑齐聘礼。",
+    "灵儿明白真相后大怒，死死抓住王氏的袖口讨要钱财。",
+    "王氏恼羞成怒，命丫鬟柳枝动手教训灵儿。"
+  ],
+  "kapitel": [
+    {
+      "titel": "汴京春阳与百位楼的冷清",
+      "start": 0.0
+    },
+    {
+      "titel": "王氏登门逼婚",
+      "start": 46.78
+    },
+    {
+      "titel": "主仆争执与冲突",
+      "start": 216.62
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:18:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 260,
+  "veroeffentlicht": "2024-11-24T13:44:24+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8613-audiofreehighqps/52/1A/GKwRIJILGJXcAAKlggM00eY5.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

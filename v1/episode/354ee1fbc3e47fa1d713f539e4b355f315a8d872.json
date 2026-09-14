@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group63/M04/44/7A/wKgMcl0r8wehs0GLADA0-Eg0mtY942.m4a",
+  "apple_collection_id": "1266562827",
+  "show": "很好听音乐台 | 亲子音乐课",
+  "titel": "040 夏天：最爱鲜榨果汁",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgMcl0r8wehs0GLADA0-Eg0mtY942.m4a?channel=rss&album_id=8696335&track_id=197776486&uid=75110688&jt=https://aod.cos.tx.xmcdn.com/group63/M04/44/7A/wKgMcl0r8wehs0GLADA0-Eg0mtY942.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3159288,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:32:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "夏日炎炎，和小朋友们一起动手制作并分享美味的新鲜果汁。",
+  "kurzfassung": "夏天天气炎热，最适合喝清凉降温的饮料。大家从冰箱里找出各种水果，一起动手榨果汁。做好的果汁分不完，于是邀请了小鸭子、小猫、小狗和小青蛙等好朋友一起来分享。",
+  "stichpunkte": [
+    "夏天天气炎热，需要喝降温的饮料来解暑",
+    "讨论了西瓜汁、苹果汁、酸奶等各种夏日饮品",
+    "强调咖啡是大人喝的东西，小朋友不能喝",
+    "从冰箱里找到了香蕉、苹果、草莓、蓝莓和西瓜",
+    "大家一起动手制作鲜榨果汁",
+    "因为果汁做得太多喝不完，决定邀请好朋友一起来喝",
+    "小鸭子、小猫、小狗和小青蛙等小伙伴们都赶来分享果汁"
+  ],
+  "kapitel": [
+    {
+      "titel": "夏日解暑与寻找水果",
+      "start": 0.0
+    },
+    {
+      "titel": "动手榨果汁与邀请朋友",
+      "start": 92.16
+    },
+    {
+      "titel": "分享果汁与道晚安",
+      "start": 146.76
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:32:16+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 390,
+  "veroeffentlicht": "2019-07-15T03:38:38+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group62/M04/43/08/wKgMcV0r9S7DIJl0AALer4SMWeY649.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

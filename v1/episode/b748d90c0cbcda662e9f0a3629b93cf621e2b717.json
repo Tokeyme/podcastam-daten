@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "guid": "https://hosting.wavpub.cn/xiaoshuaifm/?p=1177",
+  "apple_collection_id": "1591860301",
+  "show": "佐治亚小帅｜北美华人故事访谈",
+  "titel": "S8E9 FDE就是替客户公司ONCALL？跟硅谷最热AI公司一起聊前端部署｜串台仨言俩语",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_ZwqxVghSMhQNQTBRSNBJxpHyMzcNrqTgbYETJKhcqEuDNLTfEfvqYgphKJ-6f.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 26417524,
+    "format": "mp3",
+    "geprueft_am": "2026-08-25T20:07:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "探讨硅谷热门职业FDE：AI时代的送水工如何为客户做前端部署",
+  "kurzfassung": "本期节目邀请了播客“撒言两语”的主播Harry，深入探讨了硅谷目前最热的AI职业——前端部署工程师（FDE）。嘉宾详细拆解了FDE的工作内容、与传统解决方案架构师的区别，以及为什么顶尖AI公司都在大力发展这一岗位。节目还讨论了2B业务中的定制化需求、AI对开发工作的影响及创业心得。",
+  "stichpunkte": [
+    "前端部署工程师（FDE）的核心职责是直接面向客户，解决大模型生产级部署的最后一公里问题。",
+    "FDE与传统咨询公司或解决方案架构师有本质区别，他们通常直接参与代码交付和技术实现。",
+    "AI技术的不确定性和快速迭代，催生了市场对FDE提供深度定制化服务的巨大需求。",
+    "FDE岗位需要极强的复合能力，既要有扎实的工程背景，又需要出色的跨界沟通与项目管理能力。",
+    "在2B业务中，通过深度定制与客户实现“Co-engineering”，能为公司产品迭代带来宝贵的市场反馈。",
+    "AI工具已深度渗透开发流程，许多FDE日常主要进行代码审查和自然语言协作，大幅减少了手写代码。",
+    "FDE的工作虽然琐碎且面临多任务切换，但对于想要了解市场和产品的未来创业者来说是绝佳的跳板。"
+  ],
+  "kapitel": [
+    {
+      "titel": "什么是前端部署工程师",
+      "start": 91.72
+    },
+    {
+      "titel": "FDE与解决方案架构师的区别",
+      "start": 684.36
+    },
+    {
+      "titel": "为什么AI时代需要FDE",
+      "start": 1242.64
+    },
+    {
+      "titel": "FDE的日常工作与痛点",
+      "start": 2310.22
+    },
+    {
+      "titel": "AI对开发效率的改变与FDE的选拔标准",
+      "start": 2645.36
+    }
+  ],
+  "clips": [
+    {
+      "hook": "FDE究竟是做什么的？",
+      "start": 208.091,
+      "ende": 238.185,
+      "laenge": 30.09,
+      "byte_start": 1828358,
+      "byte_ende": 2069101,
+      "bytes": 240744,
+      "range_header": "bytes=1828358-2069101",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 208.17,
+      "anker_sha256": "4cad8562455d6bf9ae56be043cf3d06910b11ff3ac1ed02c378d020e2a9c523f",
+      "einblendung_ms": 60,
+      "text": "解释了前端部署工程师这一岗位的起源，最初由Palantir派驻工程师到波音、空客或美国国防部等客户现场驻扎数月，直接对接并定制内部项目。"
+    },
+    {
+      "hook": "FDE与传统架构师的本质区别",
+      "start": 789.577,
+      "ende": 814.916,
+      "laenge": 25.34,
+      "byte_start": 6480244,
+      "byte_ende": 6682953,
+      "bytes": 202710,
+      "range_header": "bytes=6480244-6682953",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 789.655,
+      "anker_sha256": "5769038ae8e02225b8753a26a20d8a889f096aa2c68155c04114ca18e9e104e1",
+      "einblendung_ms": 60,
+      "text": "介绍了一种涵盖全流程的部署工作模式，通常由一名销售和一名工程师配合，从方案交付、售后维护一直持续到客户签约稳定运行为止。"
+    },
+    {
+      "hook": "重写AI推理架构的真实案例",
+      "start": 1521.371,
+      "ende": 1547.024,
+      "laenge": 25.65,
+      "byte_start": 12334598,
+      "byte_ende": 12539815,
+      "bytes": 205218,
+      "range_header": "bytes=12334598-12539815",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1521.45,
+      "anker_sha256": "4af7b78debba83b998ec6b020df2cc1b90a28a86e65f660304594c2a02a23f53",
+      "einblendung_ms": 60,
+      "text": "通过重写人工智能推理架构并定制OpenAI的Whisper语音转录模型来满足客户的具体需求，最终成功拿下订单。"
+    },
+    {
+      "hook": "创业早期CTO给客户做on call",
+      "start": 2368.549,
+      "ende": 2398.642,
+      "laenge": 30.09,
+      "byte_start": 19112015,
+      "byte_ende": 19352759,
+      "bytes": 240745,
+      "range_header": "bytes=19112015-19352759",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2368.627,
+      "anker_sha256": "4a6afe969374ba6d91f0d74f789ac35efaadce98f40318f4cf21530564128ac6",
+      "einblendung_ms": 60,
+      "text": "回忆了公司初期为了拿下客户，首席技术官甚至亲自全天候待命响应客户需求，面对凌晨的故障求助和抱怨，必须放下身段提供极致的服务。"
+    },
+    {
+      "hook": "AI时代程序员还手写代码吗",
+      "start": 2683.298,
+      "ende": 2713.156,
+      "laenge": 29.86,
+      "byte_start": 21630010,
+      "byte_ende": 21868873,
+      "bytes": 238864,
+      "range_header": "bytes=21630010-21868873",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2683.376,
+      "anker_sha256": "8b79b627daf12352e5aa062592152a5b55b4d1e6753a565eaf93e156c4e387f2",
+      "einblendung_ms": 60,
+      "text": "探讨了当前编程工具的普及情况，指出多数人已经不再手写代码，甚至连集成开发环境也很少打开，日常工作主要集中在网页端进行代码审查。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-25T20:07:57+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3281,
+  "veroeffentlicht": "2026-06-26T06:49:00+08:00",
+  "beschreibung": "同一天，OpenAI 和 Anthropic 各自成立子公司，疯狂招同一种人。本期请来硅谷 AI 推理公司 Baseten的 FDE Harry，聊聊这个半工程师、半销售、整个创始人的神奇角色。\n\n嘉宾 (☆▽☆)\n\nHarry @ 仨言俩语｜硅谷打工人 https://www.xiaoyuzhoufm.com/podcast/5f3aa3039504bbdb778ceb9d\n\n本集赞助 (๑˃ᴗ˂)\n\n本节目由 ⁠⁠fastaijobs.com⁠⁠⁠ 赞助播出，只收集快速成长的AI初创公司数据库！不管你是跳槽还是失业上岸，都是非常高品质的公司数据库。不断更新中。\n\n===\n\n本节目由⁠⁠aduplot.com⁠⁠ 赞助播出。专注加建ADU可行性分析。\n\n===\n\n课代表立正「AI Builders」课程\n\nAI Builders 是由课代表立正和鸭哥两位藤校博士主讲的Top AI 课程，已经持续迭代了两年多，迭代了 11 期，在 Maven 上评分 4.9/5，累计学员2000+。课程承诺一次购买，终身更新、终身答疑、终身社区。\n\n这门课程最大的感受是：不再依赖零散对话和运气，而是建立了一套 Builder 的方法，能主动设计 AI 在工作中的位置。如果你也已经开始用 AI 做事，但总觉得效果不稳定、难以复用，这门课很可能正好对症。\n\n在 AI Builders 的基础上，AI Architect 进一步把视角拉到系统层面。更适合已经开始 Build，但不想停留在一次性项目阶段的人。配套的 Builder Space 平台，统一解决把境搭建和部署等琐碎问题，让注意力可以真正放在系统结构、演化路径，以及 AI 如何协作上。这套课程最终帮你建立的，是一种能长期复利，随着模型和需求变化持续演进的 AI 架构思维。\n\n👉 听众专属 Bundle Coupon: 课程主页：⁠⁠⁠http://ai-builders.com/⁠⁠ Agentic⁠ AI 小课（中文）：$149 → $99，用码 XIAOSHUAIAI。AI 主课：立减 $125，用码 XIAOSHUAI。直播课：立减 $250，用码 XIAOSHUAI\n\n👉 当然也可以先进入社区看看：go.ai-builders.com/xiaoshuai\n\n致谢 ฅʕ•̫͡•ʔฅ\n\n剪辑：闪耀\n\n音乐：Auld Lang Syne Ronny Matthes\n\n如果你使用苹果或者Spotify，欢迎给节目好评；如果你使用小宇宙，请疯狂评论。你的鼓励可以帮助更多人听到我，更可以激励我继续制作下去。 East or west, Xiaoshuai is the best. 朋友们我们评论区或者听友群（加xiaoshuaifm）再见。如果需要赞助节目，欢迎联系xiaoshuaifm@xiaoshuaifm",
+  "beschreibung_html": "<p>同一天，OpenAI 和 Anthropic 各自成立子公司，疯狂招同一种人。本期请来硅谷 AI 推理公司 Baseten的 FDE Harry，聊聊这个半工程师、半销售、整个创始人的神奇角色。</p>\n\n\n\n<p><strong>嘉宾 (☆▽☆)</strong></p>\n\n\n\n<p>Harry @ 仨言俩语｜硅谷打工人 https://www.xiaoyuzhoufm.com/podcast/5f3aa3039504bbdb778ceb9d</p>\n\n\n\n<p><strong>本集赞助 (๑˃ᴗ˂)</strong></p>\n\n\n\n<p><strong>本节目由 </strong><a href=\"http://fastaijobs.com⁠\">⁠⁠fastaijobs.com⁠⁠⁠</a><strong> 赞助播出，只收集快速成长的AI初创公司数据库！不管你是跳槽还是失业上岸，都是非常高品质的公司数据库。不断更新中。</strong></p>\n\n\n\n<p>===</p>\n\n\n\n<p><strong>本节目由</strong><a href=\"https://creators.spotify.com/pod/show/5PYwSTPm3wWugDCMPK8Gwh/episode/3lOSwsiQleRdeRuaBph1r1/aduplot.com\">⁠⁠aduplot.com⁠⁠</a><strong>&nbsp;赞助播出。专注加建ADU可行性分析。</strong></p>\n\n\n\n<p>===</p>\n\n\n\n<p><strong>课代表立正「AI Builders」课程</strong></p>\n\n\n\n<p>AI Builders 是由课代表立正和鸭哥两位藤校博士主讲的Top AI 课程，已经持续迭代了两年多，迭代了 11 期，在 Maven 上评分 4.9/5，累计学员2000+。课程承诺一次购买，终身更新、终身答疑、终身社区。</p>\n\n\n\n<p>这门课程最大的感受是：不再依赖零散对话和运气，而是建立了一套 <strong>Builder 的方法</strong>，能主动设计 AI 在工作中的位置。如果你也已经开始用 AI 做事，但总觉得效果不稳定、难以复用，这门课很可能正好对症。</p>\n\n\n\n<p>在 AI Builders 的基础上，<strong>AI Architect</strong> 进一步把视角拉到系统层面。更适合已经开始 Build，但不想停留在一次性项目阶段的人。配套的 <strong>Builder Space</strong> 平台，统一解决把境搭建和部署等琐碎问题，让注意力可以真正放在<strong>系统结构、演化路径，以及 AI 如何协作上</strong>。这套课程最终帮你建立的，是一种能长期复利，随着模型和需求变化持续演进的 AI 架构思维。</p>\n\n\n\n<p>👉<strong> 听众专属 Bundle Coupon:&nbsp;</strong>课程主页：<a href=\"http://ai-builders.com/\">⁠⁠⁠http://ai-builders.com/⁠⁠</a> Agentic⁠ AI 小课（中文）：$149 → $99，用码 XIAOSHUAIAI。AI 主课：立减 $125，用码 XIAOSHUAI。直播课：立减 $250，用码 XIAOSHUAI</p>\n\n\n\n<p><strong>👉 当然也可以先进入社区看看：go.ai-builders.com/xiaoshuai</strong></p>\n\n\n\n<p><strong>致谢 ฅʕ•̫͡•ʔฅ</strong></p>\n\n\n\n<p>剪辑：闪耀</p>\n\n\n\n<p>音乐：Auld Lang Syne&nbsp;&nbsp;Ronny Matthes</p>\n\n\n\n<p>如果你使用苹果或者Spotify，欢迎给节目好评；如果你使用小宇宙，请疯狂评论。你的鼓励可以帮助更多人听到我，更可以激励我继续制作下去。 East or west, Xiaoshuai is the best. 朋友们我们评论区或者听友群（加xiaoshuaifm）再见。如果需要赞助节目，欢迎联系xiaoshuaifm@xiaoshuaifm</p>",
+  "kapitel_quelle": "modell",
+  "bild_url": "https://media-one.wavpub.com/covers/61ecb122-77c1-4640-9451-01da90f843c8/d370fc6673e70040.jpg"
+}

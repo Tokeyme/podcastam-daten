@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007328988",
+  "apple_collection_id": "1694158803",
+  "show": "读书助你博古通今",
+  "titel": "《二十四节气——中国人诗意的时间哲学》引领人们通过节气体悟生命哲学",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOW3ndACo9zATJMo7v.m4a?channel=rss&album_id=52529618&track_id=1007328988&uid=160902245&jt=https://aod.cos.tx.xmcdn.com/storages/2621-audiofreehighqps/B4/FB/GKwRIRwOW3ndACo9zATJMo7v.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2768332,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T20:29:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "通过《二十四节气——中国人诗意的时间哲学》体悟生命哲学",
+  "kurzfassung": "介绍了一本全面解析二十四节气的书籍。该书超越了单纯的民俗和饮食养生，从天文历法、义理哲学等深度角度切入。书中通过十二消息卦等理论，展现了节气中深邃的生命意识与人生哲理。",
+  "stichpunkte": [
+    "推荐书籍《二十四节气——中国人诗意的时间哲学》",
+    "本书避免成为单纯的饮食养生指南或百科全书",
+    "从义理哲学、天文历法和节日流变等深入角度分析节气",
+    "书中的创意批注扩展了古文字和天文历法等知识含量",
+    "采用十二消息卦配演节气，理论简洁易懂且影响深远",
+    "强调节气中蕴含的深邃生命意识与人生哲学",
+    "探讨四季轮回与人生阶段的关联及积累"
+  ],
+  "kapitel": [
+    {
+      "titel": "推荐书籍与内容概述",
+      "start": 0.0
+    },
+    {
+      "titel": "图书架构与批注特点",
+      "start": 76.98
+    },
+    {
+      "titel": "义理哲学与十二消息卦",
+      "start": 137.78
+    },
+    {
+      "titel": "节气中的生命意识与人生感悟",
+      "start": 183.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T20:29:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 341,
+  "veroeffentlicht": "2026-08-23T02:36:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d7c6-audiofreehighqps/1D/8D/GKwRIaIOW3mNAAEZeATJMlmU.jpeg",
+  "folgennummer": 4,
+  "kapitel_quelle": "modell"
+}

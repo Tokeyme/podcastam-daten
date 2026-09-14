@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_970315326",
+  "apple_collection_id": "1812824815",
+  "show": "郝郝读书|在美文中疗愈，在格局中成长",
+  "titel": "人到一定年纪才懂：活着，其实就两件事",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMANtRHrACG5KgSKlhwF.m4a?channel=rss&album_id=87965560&track_id=970315326&uid=5613711&jt=https://aod.cos.tx.xmcdn.com/storages/4a85-audiofreehighqps/AB/8A/GKwRIMANtRHrACG5KgSKlhwF.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2210090,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:57:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "人生无需强求圆满，活着其实就两件事：身体舒服自在，心灵自由轻盈。",
+  "kurzfassung": "人到一定年纪会明白，高级的活法是向内安顿而非向外追逐。活着其实只需要做好两件事：一是保持身体舒服自在，这是顶级的自律；二是让心灵自由轻盈，做到不内耗、不纠结。人生下半场拼的不是富贵输赢，而是健康的身体与清静的内心。",
+  "stichpunkte": [
+    "人生不必太圆满与内耗，真正高级的活法是向内安顿",
+    "活着其实就两件事：让身体舒服自在，让心灵自由轻盈",
+    "年轻时常熬夜拼命硬扛，健康才是人生守住的最大福气",
+    "心灵疲惫源于心太拥挤，包括内耗、纠结、讨好与解释",
+    "真正的自由是不强求他人理解，不活在别人的眼光里",
+    "接纳世事无常与聚散离合，允许一切发生也允许一切结束",
+    "人生的追求是安稳踏实，饿了吃饭困了睡觉，心里无烦恼",
+    "人生下半场不拼富贵输赢，拼的是健康身体和清静内心"
+  ],
+  "kapitel": [
+    {
+      "titel": "活着的核心：两件大事",
+      "start": 0.54
+    },
+    {
+      "titel": "第一件事：让身体舒服",
+      "start": 34.44
+    },
+    {
+      "titel": "第二件事：让心灵自由",
+      "start": 110.32
+    },
+    {
+      "titel": "人生下半场的追求",
+      "start": 183.44
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:57:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 272,
+  "veroeffentlicht": "2026-04-15T08:39:58+00:00",
+  "beschreibung": "往后余生，愿你我：\n善待身体，不透支，不硬扛；\n安顿心灵，不纠结，不内耗。\n在平凡的日子里，活得舒服、自在、从容、坦荡。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">往后余生，愿你我：<br>善待身体，不透支，不硬扛；<br>安顿心灵，不纠结，不内耗。<br>在平凡的日子里，活得舒服、自在、从容、坦荡。<br><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5174-audiofreehighqps/FB/A6/GKwRIDoMy6qnAALecwQmJzC3.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

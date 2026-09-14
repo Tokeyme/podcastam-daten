@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_699613984",
+  "apple_collection_id": "1728579077",
+  "show": "【免费】诡事档案｜短篇恐怖故事｜悬疑反转｜灵异",
+  "titel": "档案1-1|疯子|公寓外的阴影",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEJeDYQAFWSWQKa1L0S-aacv2-48K.m4a?channel=rss&album_id=79981303&track_id=699613984&uid=4336429&jt=https://aod.cos.tx.xmcdn.com/storages/5a01-audiofreehighqps/4B/DE/GKwRIJEJeDYQAFWSWQKa1L0S-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4216978,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T05:03:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "沉浸式恐怖故事：地下室公寓外的诡异黑夜与神秘来电。",
+  "kurzfassung": "主角因埋头编程而长期待在地下室公寓，因与外界隔离开始感到现实感模糊。当他终于决定出门时，却发现外面是诡异的深夜，街道空无一人且笼罩在阴霾中。随后接到的几通陌生电话和好友小米的反常言行，让他陷入了更深的恐惧与谜团之中。",
+  "stichpunkte": [
+    "主角华子为了完成编程项目，长时间待在无窗的地下室公寓里。",
+    "由于数日未出门且不与他人交流，他的记忆开始模糊，并感到局促不安。",
+    "华子终于决定出门，来到大楼前门时却发现外面并非午餐时间，而是诡异的深夜景象。",
+    "手机信号显示满格，他尝试拨打好友小米的电话但被迅速挂断。",
+    "随后他接到一个陌生年轻男子的错打电话，对方的声音让他感到异样。",
+    "小米用另一个陌生号码回电，声称自己在派对并提出要来接他。",
+    "通话中小米的背景异常安静，且对两人距离的认知出现了矛盾，引发华子的怀疑。",
+    "华子惊慌失措地逃回房间，通过文字记录来理清思绪并寻找理性解释。"
+  ],
+  "kapitel": [
+    {
+      "titel": "地下室的隔离与不安",
+      "start": 1.58
+    },
+    {
+      "titel": "门外的诡异深夜",
+      "start": 156.26
+    },
+    {
+      "titel": "神秘的错打电话",
+      "start": 321.64
+    },
+    {
+      "titel": "小米的异常来电",
+      "start": 429.0
+    },
+    {
+      "titel": "恐惧与理性的挣扎",
+      "start": 556.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T05:03:52+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 692,
+  "veroeffentlicht": "2024-01-13T11:24:49+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/dca9-audiofreehighqps/AD/C4/GKwRIaIJcvkCAATb1wKY4SwY.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

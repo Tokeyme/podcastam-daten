@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/e6d4-audiofreehighqps/01/BD/CMCoOR4D26j_AHKegQB9Lv29-aacv2-48K.m4a",
+  "apple_collection_id": "1549728842",
+  "show": "格林童话 睡前故事",
+  "titel": "29魔鬼的三根金发",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOR4D26j_AHKegQB9Lv29-aacv2-48K.m4a?channel=rss&album_id=45812186&track_id=376173665&uid=158158342&jt=https://aod.cos.tx.xmcdn.com/storages/e6d4-audiofreehighqps/01/BD/CMCoOR4D26j_AHKegQB9Lv29-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5648014,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T23:32:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "讲述一个幸运年轻人历经磨难娶得公主并惩治贪婪国王的故事。",
+  "kurzfassung": "一个出生时带有好运的贫穷男孩命中注定要娶国王的女儿，国王为阻挠婚事多次设计陷害他。在经历送信阴谋和地狱寻宝的重重冒险后，年轻人不仅成功获取魔王的三根金头发，还解开了沿途的谜题。最终，贪婪的国王自食恶果，被永远留在了湖上当船夫。",
+  "stichpunkte": [
+    "国王得知穷苦男孩将与自己女儿结婚的预言后，将其买下并装进箱子扔进河里。",
+    "箱子漂流到一处末房，男孩被末房主夫妇收养并抚养长大。",
+    "十三年后国王认出男孩，写信给王后企图借刀杀人，信件却在途中被强盗篡改成了催办婚礼的指令。",
+    "国王回宫后大怒，逼迫年轻人必须取得魔王头上的三根金头发才能娶公主。",
+    "年轻人踏上旅途，答应沿途的城市和船夫寻找喷泉干枯、果树不结果及无法脱身的原因。",
+    "在地狱中，魔王的奶奶将年轻人变成蚂蚁藏起，并在魔王睡觉时拔下了三根金头发。",
+    "年轻人利用从魔王那里听来的答案帮助了沿途的人，获得了大量金银财宝并顺利完婚。",
+    "贪婪的国王听闻金子的事情后赶往湖边，最终被迫接替船夫的位置永远在湖上摆渡。"
+  ],
+  "kapitel": [
+    {
+      "titel": "预言与谋害",
+      "start": 0.0
+    },
+    {
+      "titel": "重逢与送信阴谋",
+      "start": 153.96
+    },
+    {
+      "titel": "强盗改信与完婚",
+      "start": 227.24
+    },
+    {
+      "titel": "地狱寻发之旅",
+      "start": 346.48
+    },
+    {
+      "titel": "解谜与国王的下场",
+      "start": 775.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T23:32:28+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 927,
+  "veroeffentlicht": "2021-01-18T19:47:55+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ae66-audiofreehighqps/BC/03/CMCoOSID25FQAAL2_gB9LnEk.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group81/M0A/7D/59/wKgPDV6mq5LwR21eAF8KS7Dc2iI181-aacv2-48K.m4a",
+  "apple_collection_id": "928747757",
+  "show": "燃料来了！",
+  "titel": "爆笑来袭！然廖组合时隔四年重出江湖！——《燃料来了》2020",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgPDV6mq5LwR21eAF8KS7Dc2iI181-aacv2-48K.m4a?channel=rss&album_id=284838&track_id=289164828&uid=4604413&jt=https://aod.cos.tx.xmcdn.com/group81/M0A/7D/59/wKgPDV6mq5LwR21eAF8KS7Dc2iI181-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4634497,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T07:15:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "然廖组合时隔四年重出江湖，爆笑畅聊网络热点、恋爱日常与妈妈的金句。",
+  "kurzfassung": "然廖组合时隔四年重归大众视野，在节目中畅谈了娱乐圈八卦、网友的吃瓜心态以及理想男女朋友的话题。随后，他们深入剖析了女生生气的三个阶段与五大快乐源泉。最后，两人还分享了疫情期间与妈妈相处时的搞笑趣事及独特的唠叨风格。",
+  "stichpunkte": [
+    "讨论近期网络娱乐新闻及大众的吃瓜心态",
+    "探讨男女之间的相处之道与理想女友的标准",
+    "总结女生生气的三个阶段和哄女生的科学方法",
+    "盘点当代女生的五大快乐源泉",
+    "分享疫情期间与妈妈相处的搞笑经历",
+    "吐槽妈妈们的语言天赋、万能逻辑和俗语金句",
+    "回顾辅导孩子作业时的崩溃瞬间与奇葩作业答案",
+    "宣布时隔四年节目重新回归并感谢听众支持"
+  ],
+  "kapitel": [
+    {
+      "titel": "网络热点与吃瓜心态",
+      "start": 30.0
+    },
+    {
+      "titel": "理想女友与哄女生的科学方法",
+      "start": 173.18
+    },
+    {
+      "titel": "女生的五大快乐源泉",
+      "start": 363.32
+    },
+    {
+      "titel": "妈妈的万能逻辑与搞笑日常",
+      "start": 459.82
+    },
+    {
+      "titel": "辅导作业的崩溃瞬间",
+      "start": 667.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T07:15:46+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 761,
+  "veroeffentlicht": "2020-04-27T09:53:02+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group13/M00/B4/B9/wKgDXVZdNr2TvAVFAALQQywMdFo092.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

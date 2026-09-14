@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1003500432",
+  "apple_collection_id": "1211621741",
+  "show": "智慧父母学堂",
+  "titel": "孩子高考差 3 分想复读却放不下手机，家长很内耗，如何开导？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOP3JSAGn_cQS-2Om0.m4a?channel=rss&album_id=6858200&track_id=1003500432&uid=74067029&jt=https://aod.cos.tx.xmcdn.com/storages/cfaa-audiofreehighqps/6C/F6/GKwRIUEOP3JSAGn_cQS-2Om0.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 6946673,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T19:39:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "孩子高考失利想复读却放不下手机，家长陷入支持与否的内耗中。",
+  "kurzfassung": "一位母亲在节目中倾诉，孩子高考差三分落榜想复读，但因沉迷手机且缺乏冲劲，让她和丈夫在支持复读还是读专科之间举棋不定。导师引导她厘清内心的真实诉求，指出向孩子索要“态度”是由于内心没底和逃避风险的失智状态。最后，导师建议她抛开对无法掌控态度的执念，坦诚面对自己是否愿意承担风险并给出明确的支持或拒绝。",
+  "stichpunkte": [
+    "孩子高考失利仅差三分，面临复读还是走专科的选择，但沉迷手机引发家长担忧。",
+    "母亲一方面心疼复读的高昂成本，一方面看不到孩子的学习动力和冲劲，感到内心没底。",
+    "母亲试图通过要求孩子“拿出态度”来为复读做担保，却让孩子感到受伤和压力。",
+    "导师指出，要求别人拿态度是一种失智状态，因为态度本身无法掌控且充满变数。",
+    "导师分析，家长本质上是在逃避风险和美化自己，不敢直接面对支持或不支持的决定。",
+    "导师建议家长应基于对孩子的了解，坦诚且大方地选择支持并承担风险，或者直接拒绝。",
+    "母亲在梳理后认识到自己只能决定自己的态度，并需要与犹豫不决的丈夫进行充分沟通。"
+  ],
+  "kapitel": [
+    {
+      "titel": "倾诉困境：孩子想复读却放不下手机",
+      "start": 0.0
+    },
+    {
+      "titel": "导师剖析：要求孩子拿态度是失智状态",
+      "start": 277.02
+    },
+    {
+      "titel": "厘清内心：坦诚面对支持与否的风险",
+      "start": 769.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T19:39:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 857,
+  "veroeffentlicht": "2026-08-21T23:29:00+00:00",
+  "beschreibung": "孩子高考差 3 分想复读却放不下手机，家长很内耗，如何开导？",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">孩子高考差 3 分想复读却放不下手机，家长很内耗，如何开导？<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/12f8-audiofreehighqps/B1/64/GKwRIJEKWRzdAAJusQLqcXIN.jpeg",
+  "folgennummer": 5,
+  "kapitel_quelle": "modell"
+}

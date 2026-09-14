@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "guid": "flightcast:01M0GSBGR85QKK504HPGJJVZ43",
+  "apple_collection_id": "1499409058",
+  "show": "Bankless",
+  "titel": "ROLLUP: Is the Bull Market Back? | Treasury QE | Trump Pumps Crypto | SEC Token Rules",
+  "audio": {
+    "url": "https://pscrb.fm/rss/p/episode.flightcast.com/01M0GSBGR8ED3C567SYMSWRAPV.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 45340840,
+    "format": "mp3",
+    "geprueft_am": "2026-08-30T01:28:21+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Crypto markets surge on Treasury QE, White House buzz, and massive short liquidations.",
+  "kurzfassung": "Crypto markets experienced a massive rally driven by Treasury QE announcements, a pro-crypto White House event, and the liquidation of short positions. The SEC introduced a comprehensive 402-page proposal outlining safe harbors and exemptions for crypto assets and token issuances. Additionally, major protocols and platforms like Venice, Pump.fun, and Uniswap showed strong fundamental growth and revenue.",
+  "stichpunkte": [
+    "Bitcoin and Ethereum saw double-digit weekly gains, heavily fueled by short squeezes and bullish macroeconomic catalysts.",
+    "The U.S. Treasury announced an increase in long-end liquidity support buybacks, sparking the debasement trade.",
+    "Donald Trump hosted industry leaders at the White House, explicitly mentioning projects like Hyperliquid.",
+    "The SEC released a 402-page proposed rule providing clearer pathways for token raises and defining when a network is no longer a security.",
+    "FASB moved toward allowing stablecoins to be considered cash equivalents on corporate balance sheets.",
+    "Venice crossed $100 million in ARR while AI and token aggregators saw major activity and acquisitions.",
+    "Uniswap founder Hayden Adams published a blog post arguing that AMMs will eventually eat traditional trading markets like passive index funds."
+  ],
+  "kapitel": [
+    {
+      "titel": "Market Rally and Macro Catalysts",
+      "start": 4.253
+    },
+    {
+      "titel": "White House Crypto Event",
+      "start": 1034.708
+    },
+    {
+      "titel": "SEC Regulation Crypto Assets Proposal",
+      "start": 2458.232
+    },
+    {
+      "titel": "Stablecoins, Venice, and DeFi Growth",
+      "start": 3060.916
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Is the bull market back?",
+      "start": 10.867,
+      "ende": 32.993,
+      "laenge": 22.13,
+      "byte_start": 130717,
+      "byte_ende": 396225,
+      "bytes": 265509,
+      "range_header": "bytes=130717-396225",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 10.945,
+      "anker_sha256": "32160be4436d10e72f1bc3d31d019a5b227ff892f5040a10db8e344f152d4be5",
+      "einblendung_ms": 60,
+      "text": "Crypto assets have seen double-digit gains this week, prompting a discussion on whether a new bull market cycle has officially begun."
+    },
+    {
+      "hook": "ETH's eighth largest single-day move since 2018",
+      "start": 476.891,
+      "ende": 498.756,
+      "laenge": 21.86,
+      "byte_start": 5723011,
+      "byte_ende": 5985384,
+      "bytes": 262374,
+      "range_header": "bytes=5723011-5985384",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 476.97,
+      "anker_sha256": "b6314090efc57fb14029e50fb665c8a7be2073a200cb3022d9dacab7ac8db7bf",
+      "einblendung_ms": 60,
+      "text": "Historical data suggests that significant single-day price surges often precede further upward momentum over the following three to six months."
+    },
+    {
+      "hook": "I named it after myself: The Genius Act",
+      "start": 1293.766,
+      "ende": 1318.452,
+      "laenge": 24.69,
+      "byte_start": 15525512,
+      "byte_ende": 15821740,
+      "bytes": 296229,
+      "range_header": "bytes=15525512-15821740",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1293.845,
+      "anker_sha256": "fe40164868eb501d75a0b426d7dae5a722b49526e83678de20d6cf523da854aa",
+      "einblendung_ms": 60,
+      "text": "Donald Trump claims credit for enacting the Genius Act, a piece of legislation he says he named after himself."
+    },
+    {
+      "hook": "5% is lava",
+      "start": 1851.376,
+      "ende": 1871.465,
+      "laenge": 20.09,
+      "byte_start": 22216830,
+      "byte_ende": 22457887,
+      "bytes": 241058,
+      "range_header": "bytes=22216830-22457887",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1851.455,
+      "anker_sha256": "b369f18302149cb26e5f5e21e0b60670235432258696ebb9497892681096553d",
+      "einblendung_ms": 60,
+      "text": "Market participants are expressing extreme caution regarding the five percent interest rate threshold, treating it as a dangerous level to approach."
+    },
+    {
+      "hook": "Now we have paths to issue tokens that are confirmed not to be securities",
+      "start": 2642.73,
+      "ende": 2672.823,
+      "laenge": 30.09,
+      "byte_start": 31713072,
+      "byte_ende": 32074187,
+      "bytes": 361116,
+      "range_header": "bytes=31713072-32074187",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2642.808,
+      "anker_sha256": "51bfe90d49f1f2abb1dbe4883d40110323ad9ccd544956aa54d5281cc1bbed12",
+      "einblendung_ms": 60,
+      "text": "Proposed SEC guidelines offer a framework for transition, detailing how investment contracts can evolve into decentralized commodities once managerial control is removed."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-30T01:28:21+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3755,
+  "veroeffentlicht": "2026-08-21T10:30:00+00:00",
+  "beschreibung": "Crypto just had one of its biggest breakout days in years. Ryan and David unpack the Treasury’s QE-like move, the White House and SEC’s crypto push, ETH’s violent rebound, and whether this rally finally broke the back of the bear market.\n\n---\n📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24\nhttps://bankless.cc/spotify-premium\n\n---\nBANKLESS SPONSOR TOOLS:\n\n🔓 NEAR | TRADE CONFIDENTIALLY, GET 20% BACK\nhttps://bankless.cc/near-pod\n\n🔑 BITKEY | GET 10% OFF USE CODE: BANKLESS | #bitkeypartner\nhttps://bankless.cc/bitkey\n\n📊 BITGET | TOKENIZED STOCKS 2.0\nhttps://bankless.cc/bitget-stocks\n\n🎯 THE DEFI REPORT | ONCHAIN INSIGHTS\nhttps://thedefireport.io/bankless\n\n👑 BANKLESS CONTENT MCP\nhttps://www.bankless.com/premium\n\n---\nTIMESTAMPS & RESOURCES\n\n0:00 Intro\n\n0:08 Crypto Market Breakout: BTC, ETH & ETFs\nhttps://x.com/Matt_Hougan/status/2090070306199089249\nhttps://x.com/HHorsley/status/2090198850485338569\nhttps://x.com/jonnym1ller/status/2090196488500723745\nhttps://x.com/TheBlockCo/status/2089338657605898711\n\n17:14 White House Pumps Crypto\nhttps://x.com/WhiteHouse/status/2090152688302411815\nhttps://x.com/Bankless/status/2090449581171454021\nhttps://x.com/ChairmanSelig/status/2090159414170771778/video/1\nhttps://x.com/tradfi/status/2090154939675021396\n\n22:40 Treasury's QE-Like Move\nhttps://home.treasury.gov/news/press-releases/sb0607\nhttps://x.com/Hedgeye/status/2090058257180029345\nhttps://x.com/biancoresearch/status/2090065814581911653\nhttps://x.com/KobeissiLetter/status/2090212967317115053\nhttps://x.com/fejau_inc/status/2090071008652980699\n\n31:42 Did the Bear Market Just End?\n\n40:58 SEC Unveils New Crypto Rules\nhttps://x.com/SECGov/status/2089784594409103507\nhttps://x.com/SECPaulSAtkins/status/2089788275913322994\n\n50:53 Stablecoins Get Accounting Boost\nhttps://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-enhance-cash-equivalents-disclosures-and-clarify-the-cash-equivalents-evaluation-for-certain-digital-assets-425287\nhttps://x.com/TrustlessState/status/2090230682781938071\nhttps://x.com/austincampbell/status/2090231550080094599\n\n53:01 Crypto Apps & DeFi Momentum\nhttps://x.com/ErikVoorhees/status/2089375845425287610\nhttps://x.com/business/status/2089077253778915636\nhttps://x.com/paulerlanger/status/2089733900109021486\nhttps://x.com/TrustlessState/status/2090140422513348899\nhttps://x.com/Compound_xyz/status/2089386082441871388\n\n1:01:11 Bullish Into the Close\n\n---\nNot financial or tax advice. See our investment disclosures here:\nhttps://www.bankless.com/disclosures",
+  "beschreibung_html": "<p class=\"text-node\">Crypto just had one of its biggest breakout days in years. Ryan and David unpack the Treasury’s QE-like move, the White House and SEC’s crypto push, ETH’s violent rebound, and whether this rally finally broke the back of the bear market.</p><p class=\"text-node\"></p><p class=\"text-node\"></p><p class=\"text-node\">---</p><p class=\"text-node\">📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://bankless.cc/spotify-premium\">https://bankless.cc/spotify-premium</a></p><p class=\"text-node\"></p><p class=\"text-node\"></p><p class=\"text-node\">---</p><p class=\"text-node\">BANKLESS SPONSOR TOOLS:</p><p class=\"text-node\"><br></p><p class=\"text-node\">🔓 NEAR | TRADE CONFIDENTIALLY, GET 20% BACK</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://bankless.cc/near-pod\">https://bankless.cc/near-pod</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">🔑 BITKEY | GET 10% OFF USE CODE: BANKLESS | #bitkeypartner</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://bankless.cc/bitkey\">https://bankless.cc/bitkey</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">📊 BITGET | TOKENIZED STOCKS 2.0</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://bankless.cc/bitget-stocks\">https://bankless.cc/bitget-stocks</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">🎯 THE DEFI REPORT | ONCHAIN INSIGHTS</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://thedefireport.io/bankless\">https://thedefireport.io/bankless</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">👑 BANKLESS CONTENT MCP</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://www.bankless.com/premium\">https://www.bankless.com/premium</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">---</p><p class=\"text-node\">TIMESTAMPS &amp; RESOURCES</p><p class=\"text-node\"><br></p><p class=\"text-node\">0:00 Intro</p><p class=\"text-node\"><br></p><p class=\"text-node\">0:08 Crypto Market Breakout: BTC, ETH &amp; ETFs</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/Matt_Hougan/status/2090070306199089249\">https://x.com/Matt_Hougan/status/2090070306199089249</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/HHorsley/status/2090198850485338569\">https://x.com/HHorsley/status/2090198850485338569</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/jonnym1ller/status/2090196488500723745\">https://x.com/jonnym1ller/status/2090196488500723745</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/TheBlockCo/status/2089338657605898711\">https://x.com/TheBlockCo/status/2089338657605898711</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">17:14 White House Pumps Crypto</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/WhiteHouse/status/2090152688302411815\">https://x.com/WhiteHouse/status/2090152688302411815</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/Bankless/status/2090449581171454021\">https://x.com/Bankless/status/2090449581171454021</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/ChairmanSelig/status/2090159414170771778/video/1\">https://x.com/ChairmanSelig/status/2090159414170771778/video/1</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/tradfi/status/2090154939675021396\">https://x.com/tradfi/status/2090154939675021396</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">22:40 Treasury's QE-Like Move</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://home.treasury.gov/news/press-releases/sb0607\">https://home.treasury.gov/news/press-releases/sb0607</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/Hedgeye/status/2090058257180029345\">https://x.com/Hedgeye/status/2090058257180029345</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/biancoresearch/status/2090065814581911653\">https://x.com/biancoresearch/status/2090065814581911653</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/KobeissiLetter/status/2090212967317115053\">https://x.com/KobeissiLetter/status/2090212967317115053</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/fejau_inc/status/2090071008652980699\">https://x.com/fejau_inc/status/2090071008652980699</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">31:42 Did the Bear Market Just End?</p><p class=\"text-node\"><br></p><p class=\"text-node\">40:58 SEC Unveils New Crypto Rules</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/SECGov/status/2089784594409103507\">https://x.com/SECGov/status/2089784594409103507</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/SECPaulSAtkins/status/2089788275913322994\">https://x.com/SECPaulSAtkins/status/2089788275913322994</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">50:53 Stablecoins Get Accounting Boost</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-enhance-cash-equivalents-disclosures-and-clarify-the-cash-equivalents-evaluation-for-certain-digital-assets-425287\">https://www.fasb.org/news-and-meetings/in-the-news/fasb-seeks-public-comment-on-proposal-to-enhance-cash-equivalents-disclosures-and-clarify-the-cash-equivalents-evaluation-for-certain-digital-assets-425287</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/TrustlessState/status/2090230682781938071\">https://x.com/TrustlessState/status/2090230682781938071</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/austincampbell/status/2090231550080094599\">https://x.com/austincampbell/status/2090231550080094599</a></p><p class=\"text-node\"><br></p><p class=\"text-node\">53:01 Crypto Apps &amp; DeFi Momentum</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/ErikVoorhees/status/2089375845425287610\">https://x.com/ErikVoorhees/status/2089375845425287610</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/business/status/2089077253778915636\">https://x.com/business/status/2089077253778915636</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/paulerlanger/status/2089733900109021486\">https://x.com/paulerlanger/status/2089733900109021486</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/TrustlessState/status/2090140422513348899\">https://x.com/TrustlessState/status/2090140422513348899</a></p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://x.com/Compound_xyz/status/2089386082441871388\">https://x.com/Compound_xyz/status/2089386082441871388</a></p><p class=\"text-node\"><br>1:01:11 Bullish Into the Close</p><p class=\"text-node\"><br></p><p class=\"text-node\">---</p><p class=\"text-node\">Not financial or tax advice. See our investment disclosures here:</p><p class=\"text-node\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"https://www.bankless.com/disclosures\">https://www.bankless.com/disclosures</a></p>",
+  "bild_url": "https://files.flightcast.com/workspaces/vzyepv1wunc8uo4au6e1tld4/01M0GSEYR6C88QKG5KDZTHY0K1/sq_-_bb_-_wru_8.21.jpg",
+  "kapitel_quelle": "modell"
+}

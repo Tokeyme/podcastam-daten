@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_686218778",
+  "apple_collection_id": "1717353986",
+  "show": "活学活用厚黑学：中国顶级的心理术与处世术",
+  "titel": "【厚黑学】107 找人卖命（完）【活学活用】",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GMCoOSYJMIPVACAAAAJ_wrK7.m4a?channel=rss&album_id=79227718&track_id=686218778&uid=178303752&jt=https://aod.cos.tx.xmcdn.com/storages/ea02-audiofreehighqps/6C/02/GMCoOSYJMIPVACAAAAJ_wrK7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 10570702,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T23:29:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨如何通过体恤与真情赢得人心，让员工愿意为主事者全力卖命。",
+  "kurzfassung": "本集探讨了成功的用人之道在于洞悉能人所需并以真情相待。通过讲述梁庆德在面对特大洪灾时的果断抉择与对员工的深切关怀，说明了心换心的管理哲学能够凝聚人心并度过难关。节目指出，善良与情义比冷酷的金钱更能换得长远的回报。",
+  "stichpunkte": [
+    "成功的用人之道在于了解能人所求并加以利用，使其愿意为自己卖命。",
+    "梁庆德被称为德叔，其管理风格以笑容和体谅为主，而非霸气和专横。",
+    "1994年6月，一场突如其来的特大洪水使格兰市工厂陷入汪洋。",
+    "面对灾难，梁庆德果断下令撤离，将保障员工生命安全放在首位。",
+    "洪水过后，全员无人员伤亡，梁庆德因巨大的经济损失和压力而一夜愁白头。",
+    "复工后，梁庆德为员工发放生活费和外地员工三个月工资，允许想走的人离开。",
+    "梁庆德在危急关头展现的重情义之举深深打动了员工，使众人决心团结并挺过难关。",
+    "社会中最有价值的不是钱生钱，而是心换心，拥有人心就能度过难关并创造辉煌。"
+  ],
+  "kapitel": [
+    {
+      "titel": "用人之道与德叔其人",
+      "start": 1.1
+    },
+    {
+      "titel": "遭遇特大洪灾与果断撤离",
+      "start": 119.68
+    },
+    {
+      "titel": "灾后清点人员与巨大压力",
+      "start": 294.98
+    },
+    {
+      "titel": "患难见真情与重振旗鼓",
+      "start": 413.6
+    },
+    {
+      "titel": "总结心换心的用人哲学",
+      "start": 601.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T23:29:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 651,
+  "veroeffentlicht": "2023-11-20T02:13:44+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/dbf7-audiofreehighqps/68/B3/GMCoOSAJMHJLAAJh6AJ_uwOL.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

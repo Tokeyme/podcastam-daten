@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_974014680",
+  "apple_collection_id": "1556612475",
+  "show": "淘白白的晚安故事（深度助眠）",
+  "titel": "260413晚安故事轮播",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMANyxbLAS3CLwSTBNBO.m4a?channel=rss&album_id=47239404&track_id=974014680&uid=79452937&jt=https://aod.cos.tx.xmcdn.com/storages/5f1d-audiofreehighqps/9F/39/GKwRIMANyxbLAS3CLwSTBNBO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 19776047,
+    "format": "m4a",
+    "geprueft_am": "2026-09-07T05:59:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "播客更新，朗读小说《不便的便利店：人生充电站》部分章节。",
+  "kurzfassung": "主播时隔数月重新更新播客，朗读了金浩然所著的小说《不便的便利店：人生充电站》。故事聚焦于便利店店长吴善书在疫情期间的生活、与店员老郭及老板之间的日常，以及各自家庭的琐事与情感纠葛。朗读在老郭女儿向善书倾诉家庭往事时暂停。",
+  "stichpunkte": [
+    "主播时隔数月重新录制播客，分享微信读书上的免费小说《不便的便利店：人生充电站》。",
+    "作者金浩然在致读者信中表达了对中国读者喜爱的感谢，并强调沟通与关系的重要性。",
+    "故事主角吴善书在疫情背景下担任青坡洞Always便利店的店长，面对生意清淡和防疫压力。",
+    "便利店夜班员工老郭突然提出辞职，计划回光州老家当保安，让善书感到意外与不舍。",
+    "便利店老板江老板对经营漫不经心，且对员工态度恶劣，引发善书的不满。",
+    "善书的儿子在疫情期间找到了一份电视剧制片人的工作，母子关系逐渐变得融洽与理解。",
+    "老郭的女儿来到便利店找善书，并向她倾诉了父母离婚后自己与父亲疏远的家庭心结。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与作者致辞",
+      "start": 7.46
+    },
+    {
+      "titel": "店长吴善书的日常与老郭辞职",
+      "start": 224.46
+    },
+    {
+      "titel": "与江老板的交涉与儿子的近况",
+      "start": 933.2
+    },
+    {
+      "titel": "老郭的女儿来访与倾诉",
+      "start": 2088.2
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T05:59:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2442,
+  "veroeffentlicht": "2026-05-02T01:29:00+00:00",
+  "beschreibung": "晚安故事为了让难眠之人得以入眠，声音不是很清晰，发音不是很标准，还有磕磕绊绊，但请相信，听下去，就会有绵绵的睡意。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">晚安故事为了让难眠之人得以入眠，声音不是很清晰，发音不是很标准，还有磕磕绊绊，但请相信，听下去，就会有绵绵的睡意。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/4d82-audiofreehighqps/05/6A/GKwRIW4NyxZVAAWJDwSTBIUy.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

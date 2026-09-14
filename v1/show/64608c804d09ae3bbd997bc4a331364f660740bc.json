@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The Game Informer Show",
+  "apple_collection_id": "335246945",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74489737",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74489737/781_audio.mp3",
+      "pfad": "/v1/episode/2a98ca60dfbba981f6fbfa873c036f0e9df9badc.json",
+      "titel": "The Duskbloods Preview, Plus The Sinking City 2",
+      "veroeffentlicht": "2026-08-22T00:22:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hands-on impressions of The Duskbloods, plus reviews of The Sinking City 2 and Fields of…"
+    }
+  ]
+}

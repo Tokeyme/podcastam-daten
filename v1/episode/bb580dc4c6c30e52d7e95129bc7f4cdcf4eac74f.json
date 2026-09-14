@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/dd96-audiofreehighqps/60/B1/GKwRIRwFYqhIAErSggD2IYLZ-aacv2-48K.m4a",
+  "apple_collection_id": "1074650165",
+  "show": "然哥讲故事丨谈古论今",
+  "titel": "谁说中国古代没有科学？这些成就让人惊掉下巴",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwFYqhIAErSggD2IYLZ-aacv2-48K.m4a?channel=rss&album_id=3418284&track_id=471268881&uid=4604413&jt=https://aod.cos.tx.xmcdn.com/storages/dd96-audiofreehighqps/60/B1/GKwRIRwFYqhIAErSggD2IYLZ-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3687312,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T22:05:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨中国古代领先世界的科技成就及李约瑟难题",
+  "kurzfassung": "节目盘点了中国古代在数学、天文、水利和医学等领域的卓越科技成就。从都江堰、算筹到祖冲之的圆周率计算以及人痘接种技术，展现了中国长期领先世界的科技水平。最后引出了关于近代为何未能率先爆发工业革命的“李约瑟难题”。",
+  "stichpunkte": [
+    "中国古代在天文、物理、数学、医药等领域的科技水平曾长期领先世界，直至16世纪文艺复兴及18世纪工业革命后才逐渐落后。",
+    "《河图洛书》和八卦周易等古代理论，承载了古人对农耕时节和世界运行规律的观察总结。",
+    "战国时期诞生的算筹是世界上最早的十进位值制计算法，刘辉在此基础上提出了正负数和分数的表达方法。",
+    "都江堰作为2000多年前的超级工程，巧妙地同时满足了防洪、灌溉和清淤需求，堪称东方建筑史奇迹。",
+    "刘辉与后辈祖冲之将圆周率分别推进到小数点后四位和七位，祖冲之创立的大明历对朔望月长度的测算极其精准。",
+    "北宋时期发明的水运仪象台集天文观测、演示和报时于一体，使用了世界上最早的擒纵器。",
+    "中国古代的人痘接种技术在唐代已有出现，经康熙时期的发展后传入亚欧大陆，成为现代疫苗的先驱。",
+    "英国科学技术史专家李约瑟指出中国古代科学技术水平曾远超欧洲，并由此引发了关于近代中国为何未诞生工业革命的“李约瑟难题”。"
+  ],
+  "kapitel": [
+    {
+      "titel": "中国古代科技的辉煌成就与历史地位",
+      "start": 0.0
+    },
+    {
+      "titel": "河图洛书与都江堰水利工程",
+      "start": 87.86
+    },
+    {
+      "titel": "算筹的诞生与中国古代数学的发展",
+      "start": 214.38
+    },
+    {
+      "titel": "祖冲之与古代天文历法突破",
+      "start": 317.02
+    },
+    {
+      "titel": "水运仪象台与古代机械力学",
+      "start": 389.98
+    },
+    {
+      "titel": "人痘接种技术的历史与演变",
+      "start": 436.38
+    },
+    {
+      "titel": "李约瑟难题的提出",
+      "start": 543.34
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T22:05:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 605,
+  "veroeffentlicht": "2021-11-11T09:41:09+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group8/M09/D6/30/wKgDYFZ-Vu3AwxTtAAMR_6wyu6o293.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

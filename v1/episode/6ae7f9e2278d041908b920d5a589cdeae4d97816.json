@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_673412331",
+  "apple_collection_id": "1540534873",
+  "show": "晨风说 | 真实情感连线，情感心理解惑",
+  "titel": "没钱别看病：金钱考验亲情 时间磨平怨恨",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasI_7LJAE74LgJsHTeV-aacv2-48K.m4a?channel=rss&album_id=12995758&track_id=673412331&uid=51145671&jt=https://aod.cos.tx.xmcdn.com/storages/1c28-audiofreehighqps/79/F0/GKwRIasI_7LJAE74LgJsHTeV-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3891660,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T23:08:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "女孩因病遭家人放弃心生怨恨，陈峰劝其换位思考放下仇恨。",
+  "kurzfassung": "一位24岁女孩因患肺结核拖延病情导致家庭经济困难，母亲和姐姐因怕花钱曾劝其放弃治疗，让她感到心寒并心生怨恨。陈峰在节目中分析了农村家庭的经济压力与母亲的局限性，劝导女孩理解亲人的难处并放下恨意。节目最后还连线并解答了另一位听众关于男朋友突然提出分手的感情困惑。",
+  "stichpunkte": [
+    "女孩高中毕业后患上肺结核，因倔强未去正规医院治疗导致病情加重，花费十多万元。",
+    "农村家庭条件不好，父母年迈，母亲和姐姐因心疼钱曾打电话劝她放弃治疗，令她感到绝望。",
+    "女孩独自前往上海打工维生，因怨恨家人而长期不肯回家，但在经历一年多后心态逐渐转变。",
+    "陈峰指出金钱最能考验亲情，但解释了母亲作为家庭妇女在经济压力下的局限和无奈。",
+    "陈峰劝导女孩理解父母和兄弟姐妹的难处，认为亲人之间不应该记恨，应保持宽容。",
+    "节目后半段读出听众来信，讨论了一位女孩遭遇男朋友无故失联并突然提出分手的感情问题。",
+    "陈峰分析男友突然分手可能是因为感情出现问题、对女孩没出钱装房子有想法或另结新欢。"
+  ],
+  "kapitel": [
+    {
+      "titel": "女孩讲述因病遭家人放弃的经历",
+      "start": 4.36
+    },
+    {
+      "titel": "陈峰剖析家庭经济困境与亲情考验",
+      "start": 255.8
+    },
+    {
+      "titel": "听众来信：男友突然提出分手的感情困惑",
+      "start": 416.28
+    },
+    {
+      "titel": "听众评论与节目尾声",
+      "start": 508.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T23:08:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 639,
+  "veroeffentlicht": "2023-11-02T04:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b130-audiofreehighqps/45/EE/CKwRINsEgrHrAAMxygCwQYdp.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

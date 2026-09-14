@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_956293137",
+  "apple_collection_id": "1608325557",
+  "show": "相约成长之亲子对谈|10后vs80后",
+  "titel": "【马年快乐】上学快乐至上，初中生上学的真实原因分析",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJINYbPgALgg_QRpacb4.m4a?channel=rss&album_id=56788230&track_id=956293137&uid=23655181&jt=https://aod.cos.tx.xmcdn.com/storages/4fe5-audiofreehighqps/12/AF/GKwRIJINYbPgALgg_QRpacb4.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 12067069,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T14:02:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "初中生真实上学原因分析：内卷、友情与寻找乐趣",
+  "kurzfassung": "初中生坚持上学的真实原因各不相同，既有追求成绩排名的学霸，也有为了春游秋游和社交活动的乐天派。校园生活中不仅有同龄人间的互损与温馨的友情时刻，还夹杂着复杂的同学关系和让人头疼的小摩擦。尽管会遇到各种讨厌的人和突发状况，但坚持上学依然能收获意料之外的快乐与成长。",
+  "stichpunkte": [
+    "学霸群体纯粹为了争夺成绩排名的靠前位置而积极上学",
+    "部分学生坚持上课的核心动力是为了集体秋游等社交活动",
+    "秋游鬼屋经历展现了同学间的互助以及独特的解压方式",
+    "班级内部存在复杂的同学关系和令人烦恼的恶作剧",
+    "同龄人之间的交往充满互损，有时会戳中痛点引发情绪波动",
+    "面对同学间的无理取闹和摩擦，需要强大的心理素质去应对",
+    "学生时代虽有紧张的竞争和矛盾，但也伴随着温暖的时刻",
+    "坚持上学不仅是为了学习，更是为了体验意料之外的友情和乐趣"
+  ],
+  "kapitel": [
+    {
+      "titel": "上学的心态与分类",
+      "start": 79.42
+    },
+    {
+      "titel": "秋游与康复神迹",
+      "start": 272.96
+    },
+    {
+      "titel": "鬼屋历险记",
+      "start": 573.44
+    },
+    {
+      "titel": "班级里的内卷与友情",
+      "start": 1137.1
+    },
+    {
+      "titel": "同学摩擦与总结",
+      "start": 1176.64
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T14:02:15+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1490,
+  "veroeffentlicht": "2026-02-11T02:59:46+00:00",
+  "beschreibung": "微阳与喵喵探讨了同学们上学的心理状态，分析了为什么有些同学热爱学校，而另一些则感到厌学。通过分享各种真实的课堂趣事与个人经历，他们了班级中不同类型学生的心态，充满幽默感，还引发了对学习动机和校园生活的思考。",
+  "beschreibung_html": "微阳与喵喵探讨了同学们上学的心理状态，分析了为什么有些同学热爱学校，而另一些则感到厌学。通过分享各种真实的课堂趣事与个人经历，他们了班级中不同类型学生的心态，充满幽默感，还引发了对学习动机和校园生活的思考。<br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/87ee-audiofreehighqps/AE/76/GAqhfZkNYbOhAAKzVwRpaZ8M.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

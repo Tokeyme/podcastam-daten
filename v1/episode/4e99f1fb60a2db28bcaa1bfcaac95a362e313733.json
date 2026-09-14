@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "6a5f1756a3fec224d5a0eafa",
+  "apple_collection_id": "1731683344",
+  "show": "揭秘科技",
+  "titel": "E166 从王虹、邓煜获得菲尔兹奖，聊聊人生为什么不是线性的",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65cd6b8bf9285ad6a89e7c88/6a5f1756a3fec224d5a0eafa/media.xyzcdn.net/65cd6b8bf9285ad6a89e7c88/liLRHyPCEQVOO6ajh3YJXUV_eJWH.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 15393109,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T00:21:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "从王虹和邓煜获得菲尔兹奖的经历出发，探讨人生为什么不是线性的。",
+  "kurzfassung": "中国数学家王虹和邓煜获得了2026年菲尔兹奖，两人虽然同为北大数学科学学院校友，但成长路径截然不同。邓煜是一路领先的天才精英，而王虹则经历过逆袭与曲折。节目借此探讨顶层的培养机制、人才的非线性成长以及未来AI时代真正稀缺的能力。",
+  "stichpunkte": [
+    "中国数学家王虹和邓煜获得2026年菲尔兹奖，引发对人才成长路径的关注。",
+    "邓煜拥有标准的精英成长轨迹，从深圳名校到北大、麻省理工及普林斯顿，一路领先。",
+    "王虹起步相对普通，从地方学校到北大后经历成绩中下、转系和海外求学的曲折，最终逆袭。",
+    "数学教育往往因入门老师而异，每个人都具备学好数学的基本能力。",
+    "人的成长不是线性的，过去的表现不等于最终高度，考试无法衡量好奇心和判断力等核心能力。",
+    "北大数学学院对天才主要采取保护而非刻意培养的态度，提供宽松自由的发挥空间。",
+    "在AI时代，标准化能力不再稀缺，提出问题、判断重要性以及创造新方向的能力才最重要。"
+  ],
+  "kapitel": [
+    {
+      "titel": "王虹与邓煜获得菲尔兹奖及引发的思考",
+      "start": 18.52
+    },
+    {
+      "titel": "邓煜的标准精英成长路径",
+      "start": 215.0
+    },
+    {
+      "titel": "王虹的非典型逆袭轨迹",
+      "start": 301.5
+    },
+    {
+      "titel": "人生非线性：为什么早期表现不决定最终高度",
+      "start": 478.62
+    },
+    {
+      "titel": "大学的作用与教育的本质",
+      "start": 576.76
+    },
+    {
+      "titel": "AI时代真正稀缺的人才能力",
+      "start": 867.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T00:21:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 950,
+  "veroeffentlicht": "2026-07-21T06:55:33+00:00",
+  "beschreibung": "中国数学家王虹和邓煜获得2026 年菲尔兹奖。这是第一次有在中国大陆接受本科教育的数学家获得菲尔兹奖，而且是一次就有两位获奖。这听起来应该是个喜大普奔的新闻，但几天过去了，都没有成为热点话题。\n00:48 在这个“赢学”充斥着自媒体时代，似乎有点让人不太理解。\n01:47 两个人似乎是经历一样，成就也一样。但如果细看两个人的完整的成长经历，就完全不一样了。\n02:29 本期节目并不想聊“数学”这个对大多数人来说，既枯燥又可能恐怖的话题。\n03:24 到底应该如何理解顶尖人才或者所谓天才这件事儿？普通人是否或者是如何也能成为顶级人才？\n03:35 首先，我们先来看看邓煜，他的人生就是那种传说中的人人羡慕的天才二字的模板。\n04:29 邓煜的经历看起来是那种完美的，在每一个关键节点都精准的踏上了最优路径上。\n05:08 而王虹则在广西桂林平乐县沙子镇出生长大，直到初中都在镇上的学校学习。\n07:04 王虹北大数院毕业后去法国读硕士，这个出路，在北大那些顶流的毕业生里面，可能算不上有多好。\n08:01 人的早期表现不一定等于人的最终高度。\n08:59 我们今天很多评价体系有一个隐性的、隐含的假设：就是过去优秀的人，未来也会优秀\n09:08 今天的媒体和自媒体也营造了一种不切实际的氛围：那就是今天优秀的人，是因为他过去一直都优秀，从来都是优秀的\n09:37 那顶尖人才是培养出来的吗？需要培养吗？\n10:01 北大数院在王虹和邓煜成长的过程当中起到了多大的作用呢？这可能是一个见仁见智的问题。\n12:48 好的组织不应该试图把所有人变成同一种类型，而应该是去创造环境，让不同的人发挥自己的优势。\n13:05 而“最好”的老师，不一定非要是学术造诣最高的、科研水平最高的，或者是名气最大的，更不需要是资历最深的。\n14:30 我们今天是不是正在用错误的方法来寻找未来的人才呢？\n15:22 人生并不一定会按照我们的期待成长。\n15:28 一个优秀的环境，不是只奖励已经成功的人，更重要的是，有没有能力去保护每一个未来可能成功的人。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>中国数学家王虹和邓煜获得2026 年菲尔兹奖。这是第一次有在中国大陆接受本科教育的数学家获得菲尔兹奖，而且是一次就有两位获奖。这听起来应该是个喜大普奔的新闻，但几天过去了，都没有成为热点话题。</p><p><a class=\"timestamp\"><strong>00:48</strong></a><strong> </strong>在这个“赢学”充斥着自媒体时代，似乎有点让人不太理解。</p><p><a class=\"timestamp\"><strong>01:47</strong></a> 两个人似乎是经历一样，成就也一样。但如果细看两个人的完整的成长经历，就完全不一样了。</p><p><a class=\"timestamp\"><strong>02:29</strong></a><strong> </strong>本期节目并不想聊“数学”这个对大多数人来说，既枯燥又可能恐怖的话题。</p><p><a class=\"timestamp\"><strong>03:24</strong></a><strong> </strong>到底应该如何理解顶尖人才或者所谓天才这件事儿？普通人是否或者是如何也能成为顶级人才？</p><p><a class=\"timestamp\"><strong>03:35</strong></a><strong> </strong>首先，我们先来看看邓煜，他的人生就是那种传说中的人人羡慕的天才二字的模板。</p><p><a class=\"timestamp\"><strong>04:29</strong></a><strong> </strong>邓煜的经历看起来是那种完美的，在每一个关键节点都精准的踏上了最优路径上。</p><p><a class=\"timestamp\"><strong>05:08</strong></a><strong> </strong>而王虹则在广西桂林平乐县沙子镇出生长大，直到初中都在镇上的学校学习。</p><p><a class=\"timestamp\"><strong>07:04</strong></a><strong> </strong>王虹北大数院毕业后去法国读硕士，这个出路，在北大那些顶流的毕业生里面，可能算不上有多好。</p><p><a class=\"timestamp\"><strong>08:01</strong></a><strong> </strong>人的早期表现不一定等于人的最终高度。</p><p><a class=\"timestamp\">08:59</a> 我们今天很多评价体系有一个隐性的、隐含的假设：就是过去优秀的人，未来也会优秀</p><p><a class=\"timestamp\">09:08</a> 今天的媒体和自媒体也营造了一种不切实际的氛围：那就是今天优秀的人，是因为他过去一直都优秀，从来都是优秀的</p><p><a class=\"timestamp\">09:37</a> 那顶尖人才是培养出来的吗？需要培养吗？</p><p><a class=\"timestamp\"><strong>10:01</strong></a> 北大数院在王虹和邓煜成长的过程当中起到了多大的作用呢？这可能是一个见仁见智的问题。</p><p><a class=\"timestamp\"><strong>12:48</strong></a><strong> </strong>好的组织不应该试图把所有人变成同一种类型，而应该是去创造环境，让不同的人发挥自己的优势。</p><p><a class=\"timestamp\"><strong>13:05</strong></a><strong> </strong>而“最好”的老师，不一定非要是学术造诣最高的、科研水平最高的，或者是名气最大的，更不需要是资历最深的。</p><p><a class=\"timestamp\"><strong>14:30</strong></a><strong> </strong>我们今天是不是正在用错误的方法来寻找未来的人才呢？</p><p><a class=\"timestamp\"><strong>15:22</strong></a><strong> </strong>人生并不一定会按照我们的期待成长。</p><p><a class=\"timestamp\"><strong>15:28</strong></a><strong> </strong>一个优秀的环境，不是只奖励已经成功的人，更重要的是，有没有能力去保护每一个未来可能成功的人。<br></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a5f1756a3fec224d5a0eafa?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Frj_a9uirJ8cwP90rZAURk2LMVAD.jpeg",
+  "kapitel_quelle": "modell"
+}

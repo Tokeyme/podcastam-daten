@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_968337114",
+  "apple_collection_id": "1891009059",
+  "show": "动物界的育儿智慧",
+  "titel": "大象妈妈的智慧：孩子受挫时别代劳和打气",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUENqYoaABpV0QSGFeAp.m4a?channel=rss&album_id=119669024&track_id=968337114&uid=99819095&jt=https://aod.cos.tx.xmcdn.com/storages/0d98-audiofreehighqps/7E/4E/GKwRIUENqYoaABpV0QSGFeAp.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1725905,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T15:59:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "借鉴大象妈妈的育儿智慧，孩子受挫时家长应克制代劳与盲目打气。",
+  "kurzfassung": "本期节目探讨了如何借鉴云南大象的育儿方式来应对孩子的挫折。象妈妈在小象遭遇树枝卡住或泥坑阻碍时，选择克制并给予空间，让小象自行克服。相比之下，人类家长常有的代劳或盲目鼓励往往会否定孩子的真实感受，正确的做法应当是静静陪伴并允许孩子经历情绪低谷。",
+  "stichpunkte": [
+    "云南大象回家的纪录片展示了大象独特的自然育儿方式",
+    "象妈妈在小象被树枝卡住或过泥坑时选择不帮忙，给予其独立成长的空间",
+    "人类孩子面对拼图失败或系不好鞋带等小挫折时常会情绪崩溃",
+    "家长的典型反应是立刻代劳或盲目说“没事的你行”",
+    "盲目正能量的鼓励实际上否定了孩子的真实感受，使其感到更加憋屈",
+    "大象法则核心在于让孩子经历情绪低谷，不急于干预",
+    "等待孩子自行平静并再次尝试，是锻炼反脆弱能力和真正长本事的关键"
+  ],
+  "kapitel": [
+    {
+      "titel": "大象妈妈的自然育儿方式",
+      "start": 21.38
+    },
+    {
+      "titel": "人类家长的常见反应与误区",
+      "start": 69.56
+    },
+    {
+      "titel": "大象法则与情绪管理的运用",
+      "start": 150.36
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T15:59:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 212,
+  "veroeffentlicht": "2026-04-06T14:45:37+00:00",
+  "beschreibung": "孩子发脾气、总喊妈、胆小粘人？\n不用吼、不用逼、不用内耗。大象、小熊猫、企鹅、猴子，用最朴素的动物生存智慧，教你读懂孩子的情绪、独立与安全感。暖心故事和一用就灵的育儿法则，让你做松弛妈妈，养出内心强大的小孩。在当妈，也在成长，take it EZ。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">孩子发脾气、总喊妈、胆小粘人？</p>不用吼、不用逼、不用内耗。大象、小熊猫、企鹅、猴子，用最朴素的动物生存智慧，教你读懂孩子的情绪、独立与安全感。暖心故事和一用就灵的育儿法则，让你做松弛妈妈，养出内心强大的小孩。<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">在当妈，也在成长，take it EZ。</p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e495-audiofreehighqps/A2/9B/GKwRIJINqDz4AALx5QSFgXop.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_558594846",
+  "apple_collection_id": "1671701557",
+  "show": "【夜听|电台】✨睡前情感美文",
+  "titel": "夜听：对待家人的态度，是你最真实的情商",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAH43aDABLg2gIBkGGd.m4a?channel=rss&album_id=53458663&track_id=558594846&uid=295108268&jt=https://aod.cos.tx.xmcdn.com/storages/e137-audiofreehighqps/5B/85/GKwRIMAH43aDABLg2gIBkGGd.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1237210,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T11:34:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "对待家人的态度，藏着最真实的情商与教养。",
+  "kurzfassung": "本期节目探讨了人际交往中常见的一个误区，即把好脾气留给外人却把怨气留给至亲。高情商的标志是懂得善待家人，将压力消化在门外。家是讲爱的地方，应当充满温暖而非负面情绪。",
+  "stichpunkte": [
+    "对待家人的态度最能体现一个人的真实情商",
+    "人们常对陌生人和风细雨，却对亲近之人苛刻",
+    "与父母相处最难的是保持温和的脸色",
+    "真正的教养是将好情绪留给身边最亲近的人",
+    "高情商的人懂得在家人面前卸下伪装并善待他们",
+    "家是讲爱的地方，不应该成为情绪的垃圾场",
+    "切莫因为关系亲密就用言语和坏情绪伤害家人",
+    "真正的教养要求把压力和不良情绪消化在家门之外",
+    "最好的脾气应当留给最值得的亲人"
+  ],
+  "kapitel": [
+    {
+      "titel": "对待家人的态度见证情商",
+      "start": 13.24
+    },
+    {
+      "titel": "把坏脾气留给亲人的误区",
+      "start": 61.16
+    },
+    {
+      "titel": "家是讲爱而非发泄情绪的地方",
+      "start": 96.86
+    },
+    {
+      "titel": "结语与晚安",
+      "start": 135.82
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T11:34:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 152,
+  "veroeffentlicht": "2022-08-05T12:01:35+00:00",
+  "beschreibung": "给家人多点耐心，那是你最坚强的后盾",
+  "beschreibung_html": "给家人多点耐心，那是你最坚强的后盾",
+  "bild_url": "https://fdfs.xmcdn.com/storages/8bcb-audiofreehighqps/60/20/GKwRIDoHwBytAAJV7wH3ebu6.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group11/M01/14/B6/wKgDa1boMOLiKRwbAEP_7t4qbhk830-aacv2-48K.m4a",
+  "apple_collection_id": "1095957604",
+  "show": "印度│我们的旅行是个烂笑话",
+  "titel": "印度│莫名其妙小费合辑",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDa1boMOLiKRwbAEP_7t4qbhk830-aacv2-48K.m4a?channel=rss&album_id=3550537&track_id=13410594&uid=40825632&jt=https://aod.cos.tx.xmcdn.com/group11/M01/14/B6/wKgDa1boMOLiKRwbAEP_7t4qbhk830-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3354664,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T19:37:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "盘点在印度旅行时遇到的各种索要小费的奇葩经历。",
+  "kurzfassung": "主播盘点了在印度旅行期间遭遇的形形色色的小费和索要钱财现象。从摩科菩提寺里由导游和和尚组合发起的“高价善款”连环套，到主动帮忙拍照却索要小费的警察。节目还讲述了街头儿童和背书包的学生索要零钱的经历，并对当地这种现象背后的社会原因表达了感慨。",
+  "stichpunkte": [
+    "在菩提伽耶参观摩科菩提寺时，遇到当地年轻人带路并引荐师父赠送菩提叶，随后以寺庙慈善名义索要高额捐款。",
+    "寺庙里的僧人和导游通过分步套路，先给甜头再要求捐赠，让旅行者产生被强制消费的负面感受。",
+    "在寺庙遇到主动帮忙拍照、指导姿势并清空闲杂人等的警察，离去时索要小费。",
+    "在瓦拉纳西街头偶遇背着书包、笑容天真的可爱小学生，打招呼后直接索要10卢比。",
+    "在菜市场遭到三十多个三到六岁的小朋友围住索要10卢比，且无法用才艺互动拒绝。",
+    "Hosts认为从小习惯伸手要钱的成长状态对当地人自身的性格会造成阴影，并提及印度依然存在的等级制度让人感到难过和心疼。",
+    "节目最后预告下一期将分享国内搭车旅行的有趣故事。"
+  ],
+  "kapitel": [
+    {
+      "titel": "菩提伽耶寺庙的高价善款套路",
+      "start": 60.7
+    },
+    {
+      "titel": "主动帮忙拍照的印度警察",
+      "start": 317.28
+    },
+    {
+      "titel": "街头儿童与学生的索贿经历",
+      "start": 380.0
+    },
+    {
+      "titel": "对印度小费现象的社会观察与节目预告",
+      "start": 464.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T19:37:40+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 550,
+  "veroeffentlicht": "2016-03-21T02:53:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group7/M03/EE/D9/wKgDWlagqV3SuKs4AAG1DXmlbv8627.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

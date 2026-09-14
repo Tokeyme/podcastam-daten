@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "guid": "e5a8b412-4de3-446d-9ac5-b4ad012ce6a9",
+  "apple_collection_id": "1611767434",
+  "show": "Bloomberg Tech",
+  "titel": "Anthropic Preps for Blockbuster Public Listing",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/e5a8b412-4de3-446d-9ac5-b4ad012ce6a9/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 44732842,
+    "format": "mp3",
+    "geprueft_am": "2026-08-29T23:59:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Anthropic plans a record-breaking IPO, and Broadcom discusses a massive debt deal.",
+  "kurzfassung": "Anthropic is preparing for a public listing that could match or exceed SpaceX's record-setting IPO. Meanwhile, Broadcom is reportedly in talks to raise over sixty billion dollars in debt to finance an AI chip deal. Additionally, tech giants like Samsung and Meta are navigating major shareholder return programs and legal challenges.",
+  "stichpunkte": [
+    "Anthropic expects an IPO that could match or surpass SpaceX's record-setting debut.",
+    "Anthropic plans to give enterprise customers more data storage control to address privacy concerns.",
+    "Broadcom is reportedly in talks to raise over sixty billion dollars in debt for an AI chip financing vehicle.",
+    "Samsung announced a massive shareholder return program, planning to return eighty billion dollars.",
+    "Meta faces a high-profile trial brought by twenty-nine states over child safety and platform design.",
+    "Discovery Loop, founded by former Google scientists including Jeff Dean, launched with backing from Coast Ventures.",
+    "Nvidia's upcoming earnings report is highly anticipated as analysts watch for supply chain and revenue updates."
+  ],
+  "kapitel": [
+    {
+      "titel": "Anthropic's IPO Plans",
+      "start": 0.04
+    },
+    {
+      "titel": "Broadcom's Debt Talks and AI Infrastructure",
+      "start": 478.92
+    },
+    {
+      "titel": "Samsung's Record Shareholder Returns",
+      "start": 1027.84
+    },
+    {
+      "titel": "Meta's Legal Battle and Antitrust Scrutiny",
+      "start": 1351.48
+    },
+    {
+      "titel": "Discovery Loop and AI Startups",
+      "start": 1912.0
+    },
+    {
+      "titel": "Nvidia Earnings Preview",
+      "start": 2407.08
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Anthropic's net losses surge",
+      "start": 74.789,
+      "ende": 101.982,
+      "laenge": 27.19,
+      "byte_start": 1242100,
+      "byte_ende": 1677195,
+      "bytes": 435096,
+      "range_header": "bytes=1242100-1677195",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 74.867,
+      "anker_sha256": "e7e3d31e4d30a69d08efacb34a6703483f611270cb12316ef2df954d6e16315d",
+      "einblendung_ms": 60,
+      "text": "Anthropic is preparing for a public offering that could match SpaceX's IPO record, while Broadcom negotiates over $60 billion in debt to fund AI chips."
+    },
+    {
+      "hook": "Over $220 billion in AI debt issued",
+      "start": 752.118,
+      "ende": 773.068,
+      "laenge": 20.95,
+      "byte_start": 12079364,
+      "byte_ende": 12414566,
+      "bytes": 335203,
+      "range_header": "bytes=12079364-12414566",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 752.196,
+      "anker_sha256": "75a336a36c6881bde9ef795941ccefa0c7aed300ea2f4b9ad03c6fbc8f0c0dbd",
+      "einblendung_ms": 60,
+      "text": "Broadcom shares rose one percent following news of its massive debt talks, highlighting ongoing market anxiety regarding the extreme costs of artificial intelligence investments."
+    },
+    {
+      "hook": "Samsung's $80 billion cash return",
+      "start": 1207.432,
+      "ende": 1233.424,
+      "laenge": 25.99,
+      "byte_start": 19364392,
+      "byte_ende": 19780261,
+      "bytes": 415870,
+      "range_header": "bytes=19364392-19780261",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1207.51,
+      "anker_sha256": "f36536e3d9db2b9313506745133762ed49aa3301433e90997b16562a0cf9f601",
+      "einblendung_ms": 60,
+      "text": "Software companies are adopting aggressive tactics to survive the industry downturn, including executive shakeups, hostile analyst calls, and rebranding products around artificial intelligence."
+    },
+    {
+      "hook": "Meta's $1.4 trillion potential penalty",
+      "start": 1578.057,
+      "ende": 1598.171,
+      "laenge": 20.11,
+      "byte_start": 25294397,
+      "byte_ende": 25616225,
+      "bytes": 321829,
+      "range_header": "bytes=25294397-25616225",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1578.136,
+      "anker_sha256": "3aa97d1f70e3d08770106633146248958010020da49afc97b4b5f8d034684c6d",
+      "einblendung_ms": 60,
+      "text": "Meta's internal studies challenge prevailing safety claims about artificial intelligence systems, as discussed by Marianne."
+    },
+    {
+      "hook": "From unicorn rarity to trillion-dollar giants",
+      "start": 2299.899,
+      "ende": 2325.786,
+      "laenge": 25.89,
+      "byte_start": 36843863,
+      "byte_ende": 37258059,
+      "bytes": 414197,
+      "range_header": "bytes=36843863-37258059",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2299.977,
+      "anker_sha256": "8e953cf9a7a6a51f30e2702b65d6edf6b24259e6bd4a421e90db7058ed22ff6b",
+      "einblendung_ms": 60,
+      "text": "Pioneering AI firms like Anthropic and OpenAI are evaluated based on their future market potential rather than their historical achievements."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-08-29T23:59:53+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2628,
+  "veroeffentlicht": "2026-08-21T18:23:38+00:00",
+  "beschreibung": "Bloomberg’s Ed Ludlow takes a look at Anthropic as the AI company expects to match or top the size of SpaceX’s record-setting IPO. Plus, sources say Broadcom is in talks to raise more than $60 billion in debt to help Anthropic and others secure chips and computing power, and all eyes are on Nvidia as the chipmaker reports earnings next week.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Bloomberg&rsquo;s Ed Ludlow takes a look at Anthropic as the AI company expects to match or top the size of SpaceX&rsquo;s record-setting IPO. Plus, sources say Broadcom is in talks to raise more than $60 billion in debt to help Anthropic and others secure chips and computing power, and all eyes are on Nvidia as the chipmaker reports earnings next week.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large",
+  "kapitel_quelle": "modell"
+}

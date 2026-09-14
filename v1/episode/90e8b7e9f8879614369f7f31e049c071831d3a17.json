@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1005588757",
+  "apple_collection_id": "1606841073",
+  "show": "黑刀鱼｜高校访谈录",
+  "titel": "G僧东：三十多岁，最好的年纪，什么都好",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOTzv1Acgq-gTEnM8I.m4a?channel=rss&album_id=56131242&track_id=1005588757&uid=171959377&jt=https://aod.cos.tx.xmcdn.com/storages/5ad2-audiofreehighqps/02/43/GKwRIUEOTzv1Acgq-gTEnM8I.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 29895418,
+    "format": "m4a",
+    "geprueft_am": "2026-09-10T12:32:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨三十岁作为人生黄金期的种种转变与对青春的回忆。",
+  "kurzfassung": "两位主播在节目中深入探讨了三十岁这一人生阶段的种种感悟与变化。他们认为三十岁往往是个人事业与心智的巅峰期，同时也伴随着体力下降和社交圈层的变迁。通过对比二十岁时的鲁莽冲动，他们感慨成熟带来的不仅是沉稳，还有对生活更为复杂的体察。",
+  "stichpunkte": [
+    "吉森东认为三十岁是男性的黄金时期，许多名人和普通人的事业巅峰都在这个阶段。",
+    "随着年龄增长，心智逐渐成熟，过去二十多岁时的鲁莽和幼稚一去不复返。",
+    "男性的生理机能和花期相对较短，四十岁之后在社会上面临的友好度和关爱明显降低。",
+    "社交圈子和与人相处的方式发生变化，单身者与已婚朋友的生活轨迹逐渐分化。",
+    "年轻人对待生活和学业（如考研）的态度更为开放和适应，学历贬值现象普遍。",
+    "爱好和饮食习惯随年龄改变，从年轻时的随意吃喝转变为如今的体重控制与健康管理。",
+    "体力与身体机能不可避免地出现退化，剧烈运动后的恢复期明显变长。",
+    "对年轻时的追星、球迷骂战等行为有了全新的审视，认为那正是青春特有的热血与莽撞。"
+  ],
+  "kapitel": [
+    {
+      "titel": "三十岁是最好的年纪",
+      "start": 15.6
+    },
+    {
+      "titel": "心智成熟与为人处事的转变",
+      "start": 312.02
+    },
+    {
+      "titel": "男性的花期与中年危机感",
+      "start": 499.28
+    },
+    {
+      "titel": "与年轻一代的相处与对比",
+      "start": 994.86
+    },
+    {
+      "titel": "爱好、饮食与身体机能的退化",
+      "start": 1249.34
+    },
+    {
+      "titel": "告别青春的冲动与对长大的感悟",
+      "start": 3193.42
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-10T12:32:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3692,
+  "veroeffentlicht": "2026-08-10T07:06:24+00:00",
+  "beschreibung": "和十六号线主播、自媒体博主G僧东老师的一次对谈\n\n合作讨论、听众群请联系：jxh19941114\n本期主播：@G僧东 @喜剧诗人姜小黑\n开头结尾Bgm：Wish you were here—Pink Floyd\n结尾Bgm：《莽撞》演唱、作曲：汪紫芸；作词：姜小黑",
+  "beschreibung_html": "<p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">和十六号线主播、自媒体博主G僧东老师的一次对谈</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><br>合作讨论、听众群请联系：jxh19941114<br>本期主播：@G僧东 @喜剧诗人姜小黑&nbsp;<br>开头结尾Bgm：Wish you were here—Pink Floyd<br>结尾Bgm：《莽撞》演唱、作曲：汪紫芸；作词：姜小黑</p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6b24-audiofreehighqps/E2/54/GMCoOSYIxOa6AAkSRQJSnvaR.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

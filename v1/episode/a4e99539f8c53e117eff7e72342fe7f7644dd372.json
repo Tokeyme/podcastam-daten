@@ -6,7 +6,7 @@
   "titel": "00.著者・吹き込み者紹介",
   "audio": {
     "url": "https://qingyuan.sakura.ne.jp/OPU_podcast/podcast-lang/zh/travel/zh00.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": 448888,
     "format": "mp3",
     "geprueft_am": "2026-08-22T22:59:31+00:00"
@@ -49,7 +49,7 @@
       "inhalt_start": 0.0,
       "anker_sha256": "1d2a88a4fcb655e3cb0b18844e24a8f7821840a9655af4f4bd5663d9e36058cb",
       "einblendung_ms": 60,
-      "text": "大阪府立大学中国語Podcast旅行会话篇 著者 清原文佑 顾春芳 吹哭 顾春芳 张新明 船本弥宥"
+      "text": "本期节目介绍了大阪府立大学中文旅游会话播客的编者清原文佑与顾春芳，以及参与录音的顾春芳、张新明和船本弥宥。"
     }
   ],
   "erzeugt": {
@@ -74,5 +74,6 @@
     "汉语",
     "大阪府立大学"
   ],
-  "kapitel_quelle": "modell"
+  "kapitel_quelle": "modell",
+  "bild_url": "https://qingyuan.sakura.ne.jp/OPU_podcast/podcast-lang/logo.jpg"
 }

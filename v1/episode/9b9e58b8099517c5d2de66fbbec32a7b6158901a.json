@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007050240",
+  "apple_collection_id": "1503858543",
+  "show": "天才捕手FM-最带劲的职业故事",
+  "titel": "受害人被散落在鱼塘，饥饿的鱼群让“真相”浮出水面 ｜ 刑警陈文章10",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPTK_uVoKJ861HIhzJWUx-02556bcf0984.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 26957607,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T05:17:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "刑警陈文章回顾未成年盗窃群体变化，并解析两起熟人恶性杀人碎尸案。",
+  "kurzfassung": "本期节目中，刑警陈文章做客天才不守FM，回顾了近年来未成年“爆破手”群体的现状转变与防范措施。随后，节目深入剖析了两起熟人之间的恶性命案，详细讲述了警方如何通过监控追踪、审讯突破以及在渔塘捞取关键证物的办案过程。最后，嘉宾探讨了当前恶性案件中“双输”的极端心理趋势。",
+  "stichpunkte": [
+    "未成年“爆破手”随着法律修改与烟酒行防范升级，大案减少，转为小偷小摸。",
+    "部分早期“爆破手”已洗白回归正常生活，或转而衍生出网络违法问题。",
+    "公安机关通过多部门联动协作，采取强制送教等方式对屡教不改的未成年人进行矫正。",
+    "近年来恶性犯罪尤其是熟人之间的情杀、藏尸及抛尸案件有所增多。",
+    "第一起案件中，凶手杀死情人后在家中分尸、焚烧并抛尸河中，警方通过监控和床垫血迹迅速破案。",
+    "警方在村民帮助与无人机搜索下，最终在废弃房屋内抓获潜逃的凶手。",
+    "在第二起案件中，屠夫出身的凶手在酒店杀害情人并割下头颅，伪造跳水自杀假象后被警方快速抓获。",
+    "警方在渔塘中打捞受害人头颅时历经波折，最终成功固定证据并结案。"
+  ],
+  "kapitel": [
+    {
+      "titel": "未成年“爆破手”群体的现状与演变",
+      "start": 33.92
+    },
+    {
+      "titel": "烟酒行安防升级与未成年犯罪新动向",
+      "start": 610.92
+    },
+    {
+      "titel": "第一起恶性杀人碎尸案的侦破过程",
+      "start": 1387.46
+    },
+    {
+      "titel": "特警合围与渔塘打捞关键证物",
+      "start": 2418.24
+    },
+    {
+      "titel": "第二起酒店凶杀案及极端心理剖析",
+      "start": 3011.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T05:17:16+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3330,
+  "veroeffentlicht": "2026-08-18T18:00:00+08:00",
+  "beschreibung": "大家好，我是猛哥。\n\n这期后半段讲了两个案子，有非常“不下饭”的场景描述，介意的话听前半段就好！\n\n一年不见，这次和陈文章录的第一期就聊到了“爆破手”，就是那些在16岁之前疯狂盗窃的孩子们。\n\n我们这几年一直关注这个群体的演变过程，从刚刚出现到法律条文为之完善，过去一年来他们竟然还有新消息。\n\n不堪其扰的商户们开始集体购买安保服务，每天夜里“义警”都会在街上巡逻，店里也纷纷装上了最新款的防盗锁，一旦被破拆就会释放催泪瓦斯。\n\n陈文章说，监控里的“爆破手”们捂住口鼻，狼狈地搬运着烟酒，即使站不住也要把东西偷出去。\n\n但这并没什么用，即使他们躲过了“义警”、催泪瓦斯，这种大额的盗窃，警方很快就会破案，“爆破手”群体正在减小。\n\n随着“爆破手”们逐渐销声匿迹，哪些案子又成为了刑警陈文章的难题呢？\n\n这期我们会讲到两起藏尸案，两个凶手都是当下非常罕见的，有着缜密计划的杀人犯。\n\n用陈文章的话说，虽然破案过程令人极其不适，但抓住他们是一定的。\n\n相比可怕的案发现场，更令陈文章担忧的是人们面对争议的态度似乎出现了一种趋势：宁可双输，不能独赢。\n\n这期相对敏感的词汇较多，所以我就不做片头和时间轴了，再次提醒，本期是免费节目中尺度偏大的一期，介意的话听完爆破手就关掉。\n\n今天这期节目是刑警陈文章三期连更的第一期，说来惭愧，第三期我想做一期付费节目，希望大家多多支持啦。\n\n一起听节目吧！\n\n嘉宾：\n刑警陈文章，天才捕手计划作者\n主播：\n@猛哥天才捕手\n剪辑：\n一雪",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">大家好，我是猛哥。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期后半段讲了两个案子，有非常“不下饭”的场景描述，介意的话听前半段就好！</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">一年不见，这次和陈文章录的第一期就聊到了“爆破手”，就是那些在16岁之前疯狂盗窃的孩子们。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我们这几年一直关注这个群体的演变过程，从刚刚出现到法律条文为之完善，过去一年来他们竟然还有新消息。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">不堪其扰的商户们开始集体购买安保服务，每天夜里“义警”都会在街上巡逻，店里也纷纷装上了最新款的防盗锁，一旦被破拆就会释放催泪瓦斯。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">陈文章说，监控里的“爆破手”们捂住口鼻，狼狈地搬运着烟酒，即使站不住也要把东西偷出去。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">但这并没什么用，即使他们躲过了“义警”、催泪瓦斯，这种大额的盗窃，警方很快就会破案，“爆破手”群体正在减小。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">随着“爆破手”们逐渐销声匿迹，哪些案子又成为了刑警陈文章的难题呢？</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期我们会讲到两起藏尸案，两个凶手都是当下非常罕见的，有着缜密计划的杀人犯。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">用陈文章的话说，虽然破案过程令人极其不适，但抓住他们是一定的。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">相比可怕的案发现场，更令陈文章担忧的是人们面对争议的态度似乎出现了一种趋势：宁可双输，不能独赢。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期相对敏感的词汇较多，所以我就不做片头和时间轴了，再次提醒，本期是免费节目中尺度偏大的一期，介意的话听完爆破手就关掉。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">今天这期节目是刑警陈文章三期连更的第一期，说来惭愧，第三期我想做一期付费节目，希望大家多多支持啦。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">一起听节目吧！</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">嘉宾：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">刑警陈文章，天才捕手计划作者</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">主播：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">@猛哥天才捕手</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">剪辑：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">一雪</p><span></span><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2bf4-audiofreehighqps/E8/DB/GKwRIJEOWcDMABAAAATIbF0N.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

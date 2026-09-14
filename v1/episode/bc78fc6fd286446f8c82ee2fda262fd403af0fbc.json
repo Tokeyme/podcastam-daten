@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_731716629",
+  "apple_collection_id": "1778364732",
+  "show": "童话镇的夜|玲玲姐姐睡前故事|培养孩子好习惯高情商",
+  "titel": "公交车上的音乐会【菡声嫣语睡前故事】",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIKLJDIABhs1gLZ-q85.m4a?channel=rss&album_id=82001426&track_id=731716629&uid=509597124&jt=https://aod.cos.tx.xmcdn.com/storages/74e7-audiofreehighqps/1F/C3/GKwRIJIKLJDIABhs1gLZ-q85.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1600726,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:35:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "艾米丽在公交车上发现了能听懂鸟语的奶奶并开启了一场音乐会",
+  "kurzfassung": "能听懂鸟语的女孩艾米丽在等车时和麻雀聊天。她登上了一辆色彩斑斓的公交车，并在车上遇到了一位同样能听懂鸟语的老奶奶。两人和鸟儿们一起唱歌，欢快的氛围感染了全车乘客。",
+  "stichpunkte": [
+    "艾米丽是一个能听懂鸟类语言的金发小女孩。",
+    "她在公交车站等车时与一只麻雀愉快地交谈。",
+    "一辆画满卡通动物和花朵的色彩斑斓的公交车缓缓驶来。",
+    "戴着有趣帽子的司机大叔用夸张的语气和艾米丽打招呼。",
+    "艾米丽注意到车厢角落里坐着一位周围环绕着小鸟的老奶奶。",
+    "老奶奶告诉艾米丽她不仅能听懂鸟语还能和鸟儿唱歌。",
+    "艾米丽和老奶奶一起和小鸟唱歌，感染了车上的其他乘客。",
+    "车上每个人都带着愉悦的心情下车，度过了一个奇妙的早晨。"
+  ],
+  "kapitel": [
+    {
+      "titel": "艾米丽与麻雀的对话",
+      "start": 0.0
+    },
+    {
+      "titel": "登上色彩斑斓的公交车",
+      "start": 67.28
+    },
+    {
+      "titel": "公交车上的音乐会",
+      "start": 115.54
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:35:49+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 197,
+  "veroeffentlicht": "2024-05-29T06:40:03+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/a84a-audiofreehighqps/F4/DE/GArM538KLI0_AAshOgLZ-XGg.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

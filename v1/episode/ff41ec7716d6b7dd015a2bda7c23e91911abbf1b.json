@@ -6,7 +6,7 @@
   "titel": "【08月21日比特币快讯】Dalio加持 BTC创2023最佳周表现",
   "audio": {
     "url": "https://media.transistor.fm/a787b85e/9776c600.mp3",
-    "user_agent": "AppleCoreMedia/1.0.0.21F79 (iPhone; U; CPU OS 17_5 like Mac OS X)",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
     "groesse": 1022581,
     "format": "mp3",
     "geprueft_am": "2026-08-22T23:04:18+00:00"
@@ -54,7 +54,7 @@
       "inhalt_start": 7.001,
       "anker_sha256": "1085a3650eb3a6e94645e910307dca5e1da0a0c3bcd4c817c0a1aff321cb3414",
       "einblendung_ms": 60,
-      "text": "大家好,欢迎收听本周的加密货币市场分析 最近比特币价格持续上涨 Pentair Capital的投资组合经理表示 看到比特币近期的价格飙升"
+      "text": "该音频节目向听众朋友们播报了本周数字资产的行情，并提及某机构的一位基金主管注意到了该加密货币近来的行情走高。"
     },
     {
       "hook": "Ray Dalio加入看涨阵营",
@@ -69,7 +69,7 @@
       "inhalt_start": 17.398,
       "anker_sha256": "06780a60f1f00d97879388cd8f6fe6e5113a726ad3a2a39ad17b87ba5dc09aee",
       "einblendung_ms": 60,
-      "text": "很难不保持乐观态度 他们认为聪明资金正在支持比特币的反弹 有趣的是,传奇投资者Ray Dalio也加入了看涨阵营 他推荐比特币和黄金作为对冲即将到来的债务危机的工具"
+      "text": "知名投资人雷·达里奥建议配置比特币与黄金，用来应对潜在的债务风险。"
     },
     {
       "hook": "创下自2023年以来最好的周表现",
@@ -84,7 +84,7 @@
       "inhalt_start": 31.347,
       "anker_sha256": "a17f7e1f9b69ce6b343b22af4e5dc106a27a8eb5d69952caa5e0961ff59d76ca",
       "einblendung_ms": 60,
-      "text": "Dalio认为比特币在政府印钞的环境下会有良好表现 这为比特币的长期前景增添了更多机构支持 数据显示,比特币确实有强劲表现 创下自2023年以来最好的周表现"
+      "text": "由于机构资金的持续注入，比特币创下了2023年以来的最佳周度涨幅。"
     },
     {
       "hook": "做空投资者遭受重大损失",
@@ -99,7 +99,7 @@
       "inhalt_start": 43.99,
       "anker_sha256": "aadb3e8a4d1ca099a410e5e4138de347c23ec53a407cf9dbeb422099ebf17522",
       "einblendung_ms": 60,
-      "text": "那些做空比特币的投资者正在遭受重大损失 这种市场动态表明 许多投资者正在重新评估对比特币的立场 市场情绪明显转向乐观"
+      "text": "看跌比特币的交易员遭遇了沉重打击，整体市场氛围发生了明显改变。"
     },
     {
       "hook": "宏观经济不确定性与价格预测",
@@ -114,7 +114,7 @@
       "inhalt_start": 54.622,
       "anker_sha256": "0e2b9d947787ec0edbadfacafec2fab687ad966c907615f40ac9ccefed66ff23",
       "einblendung_ms": 60,
-      "text": "不过,市场观点并不完全一样 比特币的CEO Gracie Chen预测 宏观经济的不确定性可能使比特币保持在当前水平附近 年底时价格不会大幅偏离当前区间"
+      "text": "Bitget首席执行官Gracie Chen认为，受宏观经济影响，年底前价格预计维持在现有区间。"
     }
   ],
   "erzeugt": {
@@ -141,5 +141,6 @@
     "金融",
     "新闻"
   ],
-  "kapitel_quelle": "modell"
+  "kapitel_quelle": "modell",
+  "bild_url": "https://img.transistorcdn.com/nMJ_ZeMHmW0UNP2BPxwK65JBlmxPv75QaGd1zfrHHQk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NmEz/ODIxN2M5ODAwNzkz/MDhhNTcwNTQ3NjRj/YTBlZS5wbmc.jpg"
 }

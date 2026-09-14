@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group41/M05/6C/65/wKgJ8lqij_TgZoF1AJ07jA6V7dc047.m4a",
+  "apple_collection_id": "1073846779",
+  "show": "周五·欧美复古控",
+  "titel": "不容错过的奥斯卡提名歌曲",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJ8lqij_TgZoF1AJ07jA6V7dc047.m4a?channel=rss&album_id=3523862&track_id=75696762&uid=1000519&jt=https://aod.cos.tx.xmcdn.com/group41/M05/6C/65/wKgJ8lqij_TgZoF1AJ07jA6V7dc047.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 10304396,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T08:33:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾奥斯卡提名音乐的经典之作",
+  "kurzfassung": "本期节目带听众回顾奥斯卡历史上那些不容错过的提名歌曲。主播小九分享了多首经典电影金曲及其背后的故事。内容涵盖多位知名音乐人在电影中的难忘献声。",
+  "stichpunkte": [
+    "节目聚焦奥斯卡提名音乐的经典作品",
+    "介绍奥斯卡颁奖季与音乐盛典的关联",
+    "回顾迈克尔·杰克逊在奥斯卡舞台的表演经历",
+    "赏析惠特尼·休斯顿为电影《保镖》献唱的歌曲",
+    "探讨恩雅演唱的电影主题曲及其影响",
+    "串联多首跨越年代的电影原声与音乐故事"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与奥斯卡提名歌曲介绍",
+      "start": 1.12
+    },
+    {
+      "titel": "迈克尔·杰克逊的奥斯卡提名歌曲",
+      "start": 392.04
+    },
+    {
+      "titel": "惠特尼·休斯顿与电影《保镖》原声",
+      "start": 632.42
+    },
+    {
+      "titel": "恩雅演唱的电影主题曲",
+      "start": 889.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T08:33:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1272,
+  "veroeffentlicht": "2018-03-09T13:49:33+00:00",
+  "beschreibung": "本期歌单：\nHow Do I Live - How Do I Live\nBen - Michael Jackson\nI Have Nothing - Whitney Houston\nMay It Be - Enya\nA Love Before Time - 李玟",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\" lang=\"en\"><b>本期歌单：</b></p><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica, Arial, sans-serif;font-weight:normal;text-align:justify\" data-flag=\"normal\" lang=\"en\"><span>How Do I Live - </span><span>How Do I Live</span></p><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\" lang=\"en\"><span>Ben - </span><span>Michael Jackson</span></p><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\" lang=\"en\"><span>I Have Nothing - </span><span>Whitney Houston</span></p><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\" lang=\"en\"><span>May It Be - </span><span>Enya</span></p><p style=\"font-size:16px;color:#333333;line-height:30px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;text-align:justify;hyphens:auto\" data-flag=\"normal\" lang=\"en\"><span>A Love Before Time - </span><span>李玟</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group42/M07/69/F7/wKgJ9FqikLuBs-_7AACa53LUX1U171.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

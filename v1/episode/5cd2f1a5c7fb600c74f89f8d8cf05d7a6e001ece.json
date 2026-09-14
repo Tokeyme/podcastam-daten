@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/88a9-audiofreehighqps/F1/54/CKwRIJIFEJBdADwF8gDhkf46-aacv2-48K.m4a",
+  "apple_collection_id": "1598255310",
+  "show": "揭露宇宙5 太空科技知识",
+  "titel": "5C太空科技知识67P秘密面纱7",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIJIFEJBdADwF8gDhkf46-aacv2-48K.m4a?channel=rss&album_id=46493849&track_id=452156678&uid=158341344&jt=https://aod.cos.tx.xmcdn.com/storages/88a9-audiofreehighqps/F1/54/CKwRIJIFEJBdADwF8gDhkf46-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2958098,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T15:06:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨汤普金斯的爆料、兰德公司历史以及海军秘密太空计划的相关内幕。",
+  "kurzfassung": "本期节目深入探讨了威廉·汤普金斯的爆料内容及其与海军机密项目的关联。嘉宾们分析了兰德公司的成立背景、早期对外星技术的研究以及汤普金斯参与的智库工作。此外，节目还讨论了太空计划指挥结构的信息隔阂以及解密信息的真实性。",
+  "stichpunkte": [
+    "汤普金斯提供的文档和智库记录经交叉比对后被证实完全准确",
+    "汤普金斯曾在TRW生命中心参与研究金字塔建造和长寿等前沿课题",
+    "兰德公司最初是道格拉斯为研究外星人问题而建立的智库机构",
+    "兰德公司曾将科学家分为两组，其中一组负责研究真实的坠毁飞船复原数据",
+    "主讲人曾从事苏联弹道导弹防御系统的机密研究工作",
+    "汤普金斯晚年仍受邀参加海军西部会议并接触到机密信息",
+    "汤普金斯声称是在海军上将韦伯斯特的鼓励下才决定将一切公之于众"
+  ],
+  "kapitel": [
+    {
+      "titel": "汤普金斯的智库工作与文档核实",
+      "start": 0.0
+    },
+    {
+      "titel": "兰德公司的成立背景与外星研究",
+      "start": 92.62
+    },
+    {
+      "titel": "早期的机密工作与苏联导弹防御研究",
+      "start": 215.78
+    },
+    {
+      "titel": "汤普金斯与海军机密会议的持续联系",
+      "start": 252.52
+    },
+    {
+      "titel": "节目总结与对完全揭露的展望",
+      "start": 437.32
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T15:06:57+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 485,
+  "veroeffentlicht": "2021-09-10T03:13:18+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ed1d-audiofreehighqps/EC/AF/CKwRIUEFDJ3cAAPKaADglkMx.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

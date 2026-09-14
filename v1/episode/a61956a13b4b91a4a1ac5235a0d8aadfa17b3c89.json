@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "guid": "http://audio.xmcdn.com/group23/M06/B5/8A/wKgJNFhOKyzxvFOJADu5oGGzsMw693.m4a",
+  "apple_collection_id": "905890634",
+  "show": "非常爱聊【嗨聊脱口秀 老司机的啪啪同学会】",
+  "titel": "莫文蔚的腿真耀眼，歌声还动人，她是越了解越有惊喜的人",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJNFhOKyzxvFOJADu5oGGzsMw693.m4a?channel=rss&album_id=270442&track_id=26761807&uid=8914100&jt=http://audio.xmcdn.com/group23/M06/B5/8A/wKgJNFhOKyzxvFOJADu5oGGzsMw693.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3914144,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T15:24:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "莫文蔚的腿真耀眼，歌声还动人，她是越了解越有惊喜的人",
+  "kurzfassung": "莫文蔚不仅拥有令人惊艳的健康身材和多年保持的优美腿部线条，在歌唱、演戏及舞台表现上也展现出极高的专业素养。她曾多次斩获金曲奖并参演多部影视作品，凭借认真的敬业态度和丰富的才华惊艳大众。这位全能艺人兼具东西方文化底蕴，在岁月流转中不断释放独特魅力。",
+  "stichpunkte": [
+    "莫文蔚身高一米六七，拥有长达104厘米的健康紧实腿部线条，曾在二十世纪因大胆前卫的专辑封面造型引发讨论。",
+    "她的性感健康自然，46岁时依然保持着优美的身材与极佳的状态。",
+    "莫文蔚在音乐领域实力出众，演唱过多首经典代表作，并多次获得台湾金曲奖最佳国语女歌手及最佳国语专辑奖。",
+    "她在真人秀节目中展现出丰富的舞台经验与专业指导能力，排练时极其认真，甚至在曲谱上密密麻麻标注音标来练习昆曲发音。",
+    "她不仅歌唱得好，二十年前就拿过香港金像奖最佳女配角，演技备受认可。",
+    "莫文蔚出身书香世家，精通多国语言和西方文学，从小学习古筝和古典舞，同时还具备词曲创作能力。",
+    "她低调生活，但在每次表演时都毫无保留地展现风采，凭借扎实的专业积累和不断涌现的新惊喜赢得观众喜爱。"
+  ],
+  "kapitel": [
+    {
+      "titel": "惊艳的身材与独特的性感",
+      "start": 6.22
+    },
+    {
+      "titel": "出众的音乐实力与金曲奖成就",
+      "start": 181.98
+    },
+    {
+      "titel": "敬业的舞台表现与幕后花絮",
+      "start": 258.9
+    },
+    {
+      "titel": "影视成就与多面才华",
+      "start": 338.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T15:24:09+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 483,
+  "veroeffentlicht": "2016-12-12T10:41:19+00:00",
+  "untertitel": "莫文蔚的腿真耀眼，歌声还动人，她是越了解越有惊喜的人",
+  "bild_url": "https://fdfs.xmcdn.com/group23/M01/B5/BC/wKgJL1hOKyXALi3eAABJShGsCQw460.jpg",
+  "kapitel_quelle": "modell"
+}

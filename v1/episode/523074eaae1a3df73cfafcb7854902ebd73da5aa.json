@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "b7bdd32c-a0a6-11f1-a327-e7662f0457c3",
+  "apple_collection_id": "784889506",
+  "show": "The BOB & TOM Show Free Podcast",
+  "titel": "B&T Extra:  Letters, Josh's Tarantula, & A Squirrel Bite",
+  "audio": {
+    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/WWO8198089523.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 18452068,
+    "format": "mp3",
+    "geprueft_am": "2026-09-07T00:13:33+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher"
+  },
+  "einzeiler": "Listener letters, the Colorado tarantula migration, squirrel stories, and quirky camp…",
+  "kurzfassung": "The hosts read listener mail covering topics like the Colorado tarantula mating season and pet squirrels. They share personal experiences with spiders, bird feeders, and group dinners. The episode also features funny quotes overheard by children at a summer camp.",
+  "stichpunkte": [
+    "Listeners write in about the annual tarantula mating season in Colorado.",
+    "The hosts discuss spiders, cobwebs, and getting bitten by animals.",
+    "Conversations touch on pet squirrels, squirrel recipes, and bird feeders.",
+    "The team talks about Minions movies and a family connection to the Ice Age franchise.",
+    "A listener shares feedback on co-ed bachelor and bachelorette trips.",
+    "The hosts debate the ideal group size for going out to dinner.",
+    "A letter from an abnormal psychology background pokes fun at the studio's phobia discussions.",
+    "Funny quotes and childishisms from a girls' summer camp are read aloud."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-07T00:13:33+00:00",
+    "transkript_modell": "cloud:gemini-flash-lite-latest",
+    "transkript_quelle": "cloud",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1150,
+  "veroeffentlicht": "2026-09-04T19:00:00+00:00",
+  "beschreibung": "On today's Extra, Letters, Josh's Tarantula, & A Squirrel Bite\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>On today's Extra, Letters, Josh's Tarantula, &amp; A Squirrel Bite</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>"
+}

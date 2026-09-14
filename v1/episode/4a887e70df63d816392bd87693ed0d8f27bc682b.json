@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1004525086",
+  "apple_collection_id": "1893898001",
+  "show": "火花设计思维商业创新",
+  "titel": "适老化改造：从产品到用户",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAORyMkAGzgBQTBvULG.m4a?channel=rss&album_id=120177370&track_id=1004525086&uid=593682596&jt=https://aod.cos.tx.xmcdn.com/storages/ea15-audiofreehighqps/7D/04/GKwRIMAORyMkAGzgBQTBvULG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7135237,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T20:14:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "适老化改造不应只堆砌标准产品，而需从老年人的真实需求和个性化生活出发。",
+  "kurzfassung": "目前的适老化改造常陷入堆砌标准产品和功能错配的误区，忽视了老人的实际生活动线与心理需求。正确的路径应当以用户需求为中心，根据不同身体机能细分人群，提供兼顾共性与个性的精准方案。改造的核心是通过环境适应人，在保持熟悉感的同时保护老人的尊严与独立。",
+  "stichpunkte": [
+    "市面上的适老化改造多如购物清单，存在功能错配和忽视老人真实生活动线的问题。",
+    "单纯依赖技术和材料的创新容易导致产品看似科技却不实用，甚至让老人产生病房般的抵触心理。",
+    "正确的创新路径应当从细分人群开始，通过找寻共性规律制定基础方案，再结合个人习惯进行个性化调整。",
+    "长者被分为轻度自理、半失能（如中风偏瘫）和失智（如阿尔茨海默症）三类，其改造重点各不相同。",
+    "适老化改造的三大通用原则是：环境适应人、时机要尽早介入以及保护老人的尊严感。",
+    "针对不同人群的产品设计各异，例如轻度自理重在隐形预防，半失能重在动线优化，失智重在认知支持与安全保障。",
+    "创新的突破口不仅在物理空间，还包括评估体系的创新和服务链条的无缝衔接。",
+    "适老化改造的本质是一项专业服务，核心在于读懂老人，让技术和材料真正服务于人的温度与尊严。"
+  ],
+  "kapitel": [
+    {
+      "titel": "适老化改造的现状与痛点",
+      "start": 1.44
+    },
+    {
+      "titel": "从共性到个性的正确改造路径",
+      "start": 158.12
+    },
+    {
+      "titel": "三大通用原则与三类人群的方案设计",
+      "start": 268.96
+    },
+    {
+      "titel": "评估体系、服务链条与创新的本质",
+      "start": 543.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T20:14:50+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 881,
+  "veroeffentlicht": "2026-08-04T03:44:05+00:00",
+  "beschreibung": "《康养融合说》本期聚焦居家适老化改造。打破 “扶手、防滑垫万能改造” 的行业误区，结合广东省康复医学会线下沙龙专家研讨成果，拆解三类老年群体真实需求，分享以 “读懂老人” 为核心的适老化创新方法论，重新定义居家养老改造新思路。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">《康养融合说》本期聚焦居家适老化改造。打破 “扶手、防滑垫万能改造” 的行业误区，结合广东省康复医学会线下沙龙专家研讨成果，拆解三类老年群体真实需求，分享以 “读懂老人” 为核心的适老化创新方法论，重新定义居家养老改造新思路。<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/0fbc-audiofreehighqps/34/9D/GKwRIMAORyKhAAi-OwTBvQKl.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

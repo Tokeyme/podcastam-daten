@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_735686521",
+  "apple_collection_id": "1749942874",
+  "show": "黔味儿，坐着高铁吃遍贵州｜秋食讲述｜贵州美食攻略",
+  "titel": "黔味儿坐着高铁吃遍贵州-055惠水的三大名吃（完）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4KRxdlABxQcALjtfEl.m4a?channel=rss&album_id=81974953&track_id=735686521&uid=474646541&jt=https://aod.cos.tx.xmcdn.com/storages/e022-audiofreehighqps/A0/55/GKwRIW4KRxdlABxQcALjtfEl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1855600,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T16:33:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "搭乘高铁品尝惠水三大名吃：马肉、毛肚火锅与连江鱼",
+  "kurzfassung": "本期节目介绍了贵州惠水县的丰富物产与独特的饮食文化。详细盘点了当地的三大名吃，包括风靡省城的惠水马肉、名扬内外的毛肚火锅以及以连江水产为特色的连江鱼火锅。同时，节目也宣告了本书内容的完结。",
+  "stichpunkte": [
+    "惠水县地处黔中高原南部边坡，自然条件优越，多民族聚居。",
+    "惠水马肉食用历史悠久，主要品种包括清水马肉、麻辣马肉和干锅马肉。",
+    "马肉火锅辅以多种马杂和佐料，在冬夜食用可使身体暖和。",
+    "惠水毛肚火锅资源丰富，采用农家家传做法，汤味鲜美开胃。",
+    "毛肚火锅制作时采用多种油脂混合炒香辣椒，加入牛肉原汤烫食鲜毛肚。",
+    "连江是惠水境内最大河流，水产丰富，孕育了特色辣水煮鱼等美食。",
+    "辣水煮鱼以鲜活乌浆鱼为主料，制成后麻辣香糯且没有鱼刺。",
+    "节目最后介绍了连江狮头鹅和豆花鸡等特色美食，并宣告全书播讲完毕。"
+  ],
+  "kapitel": [
+    {
+      "titel": "走进惠水县",
+      "start": 11.58
+    },
+    {
+      "titel": "惠水马肉",
+      "start": 56.22
+    },
+    {
+      "titel": "毛肚火锅",
+      "start": 108.56
+    },
+    {
+      "titel": "连江鱼火锅与特色美食",
+      "start": 162.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T16:33:24+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 229,
+  "veroeffentlicht": "2024-06-18T09:30:45+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/27be-audiofreehighqps/28/0F/GMCoOScKIQi8AAiFrwLV0EwL.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

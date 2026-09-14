@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_959304656",
+  "apple_collection_id": "1622325488",
+  "show": "嗨！职场|麦田的独家职场生存攻略",
+  "titel": "副业指南：如何做一期音频播客（学习副业两不误）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJENduVRAElsMwRw1tCL.m4a?channel=rss&album_id=64650639&track_id=959304656&uid=201349639&jt=https://aod.cos.tx.xmcdn.com/storages/7e77-audiofreehighqps/B1/55/GKwRIJENduVRAElsMwRw1tCL.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4811827,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T21:32:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨从零开始制作音频播客的主流工具、核心步骤与进阶技巧。",
+  "kurzfassung": "本期节目详细探讨了如何利用各种工具将声音文件制作成完整的播客。节目首先梳理了从新手免费软件到专业制作平台的主流工具选择，接着介绍了导入、剪辑、多轨编辑和导出的核心步骤，最后分享了数字音频工作站的进阶操作以及AI自动生成播客的实用方法。",
+  "stichpunkte": [
+    "对比了Audacity、OCNodeo、Adobe Audition等主流播客制作软件的特点与适用人群。",
+    "指出当前播客工具呈现出云端协作与AI功能深度融合的新趋势。",
+    "介绍了音频制作的核心步骤，包括导入、时间线裁剪、降噪和多轨编辑。",
+    "强调了前期准备中高质量音频格式与统一采样率的重要性。",
+    "针对电脑和手机端在不同场景下的需求，推荐了相应的工具搭配。",
+    "讲解了数字音频工作站在项目管理、分轨录制和音量统一方面的独特优势。",
+    "介绍了利用AI工具将文本、PDF或代码库一键转换为多语言播客的方法。",
+    "分享了通过效果链、降噪、均衡及规范化项目管理来提升播客质量的进阶技巧。"
+  ],
+  "kapitel": [
+    {
+      "titel": "多样的工具来帮你制作播客",
+      "start": 19.1
+    },
+    {
+      "titel": "简单的步骤让你上手音频制作",
+      "start": 173.86
+    },
+    {
+      "titel": "进阶的操作来打造一个完整的播客",
+      "start": 346.34
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T21:32:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 594,
+  "veroeffentlicht": "2026-02-27T04:48:59+00:00",
+  "beschreibung": "当下时代的副业选择好象已经成为了每个人竞争力的必选项，这期节目详细聊聊“播客”这个副业，感兴趣的朋友快来听听吧！\n新手做播客该用啥工具？\n免费的、专业的、AI一键生成的，到底怎么选？\n剪辑、降噪、多轨导出有哪些关键细节？无论你是在电脑、手机还是云端，总有一款适合你。\n02:06 音频制作工具的新趋势和步骤详解，让你轻松制作博客音频！\n04:07 数字音频工作站：播客制作中的专业优势\n06:11 AI工具在播客制作中的应用：从自动生成内容到多平台分发\n08:14 声音文件处理技巧：用不同的工具创建完整的播客",
+  "beschreibung_html": "<p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">当下时代的副业选择好象已经成为了每个人竞争力的必选项，这期节目详细聊聊“播客”这个副业，感兴趣的朋友快来听听吧！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">新手做播客该用啥工具？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">免费的、专业的、AI一键生成的，到底怎么选？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">剪辑、降噪、多轨导出有哪些关键细节？无论你是在电脑、手机还是云端，总有一款适合你。</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">02:06 音频制作工具的新趋势和步骤详解，让你轻松制作博客音频！</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">04:07 数字音频工作站：播客制作中的专业优势</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">06:11 AI工具在播客制作中的应用：从自动生成内容到多平台分发</p><p style=\"color:#1C1D20;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">08:14 声音文件处理技巧：用不同的工具创建完整的播客</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/2962-audiofreehighqps/E7/DB/GAqhfD0NduTVAAOmTARw1omV.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

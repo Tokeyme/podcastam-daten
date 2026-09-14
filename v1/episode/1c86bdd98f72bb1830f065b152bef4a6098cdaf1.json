@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group19/M02/8B/7C/wKgJJletLCaiplQYAFzGwuSv_EE261-aacv2-48K.m4a",
+  "apple_collection_id": "1089044761",
+  "show": "天涯客美食季之一人一味",
+  "titel": "寻味顺德，大开眼界的奇葩美食之旅",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJJletLCaiplQYAFzGwuSv_EE261-aacv2-48K.m4a?channel=rss&album_id=3376092&track_id=19831902&uid=38654803&jt=https://aod.cos.tx.xmcdn.com/group19/M02/8B/7C/wKgJJletLCaiplQYAFzGwuSv_EE261-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4572095,
+    "format": "m4a",
+    "geprueft_am": "2026-08-30T06:43:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探寻广东顺德的奇葩美食，品尝各种刁钻古怪的特色食材。",
+  "kurzfassung": "本期节目跟随旅行达人走进顺德的一家低调餐馆，品尝了鱼头根、鲤鱼肠、水蛇春等平时少见的奇特食材。这些稀有的美味不仅极具视觉冲击力，也充分展现了顺德人将食材用到极致的饮食文化。节目最后还介绍了黄鱼春、鸡冠以及特色黄沙蚬等当季风味。",
+  "stichpunkte": [
+    "顺德饮食文化以敢吃、刁钻著称，许多食材在其他地方难以见到",
+    "鱼头根是大头鱼喉咙处独有的软骨，口感爽脆鲜美且极为珍贵",
+    "鲤鱼肠煎蛋深受老饕喜爱，但因其外观具有极大的视觉冲击力",
+    "水蛇春即水蛇的卵，口感粉沙，带有独特的风味",
+    "黄鱼春在每年四到六月最肥美，香煎后甘香绵长、爽口弹牙",
+    "鸡冠被老饕视为鸡头中最美味的部分，老鸡爽脆而嫩鸡嫩滑如冻",
+    "鱼鳔具有滋补功效，用重口味酱汁调味后带韧劲且风味十足",
+    "特色黄沙蚬肉质肥美，现炒入味，成为等待奇葩美食时的绝佳前菜"
+  ],
+  "kapitel": [
+    {
+      "titel": "顺德美食与奇特食材引言",
+      "start": 0.82
+    },
+    {
+      "titel": "鱼头根与鲤鱼肠",
+      "start": 181.12
+    },
+    {
+      "titel": "水蛇春与黄鱼春",
+      "start": 440.8
+    },
+    {
+      "titel": "鸡冠、鱼鳔与黄沙蚬",
+      "start": 538.92
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-30T06:43:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 750,
+  "veroeffentlicht": "2016-08-12T02:15:19+00:00",
+  "beschreibung": "本期电台文字原帖：\n\nhttp://bbs.tianya.cn/post-travel-762679-1.shtml",
+  "beschreibung_html": "<span>本期电台文字原帖：</span>\n<span>&nbsp;</span>\n<u><a href=\"http://bbs.tianya.cn/post-travel-30335-1.shtml\"></a><a href=\"http://bbs.tianya.cn/post-travel-762679-1.shtml\"><u>http://bbs.tianya.cn/post-travel-762679-1.shtml</u></a></u>",
+  "bild_url": "https://fdfs.xmcdn.com/group19/M0B/8B/4B/wKgJK1etMJ-h7dJdAAF3wC5sgc0705.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

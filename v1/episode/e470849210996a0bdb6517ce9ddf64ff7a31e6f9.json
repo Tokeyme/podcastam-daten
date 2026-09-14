@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "guid": "6a8839f01352af56ff39de3f",
+  "apple_collection_id": "1813599424",
+  "show": "PivotCast｜转点播客",
+  "titel": "【今天市场怎么了】20260821：美国长期国债收益率重新上升，BTC连续三天大涨",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6a8839f01352af56ff39de3f/media.xyzcdn.net/67ffc937497fe940d4248c97/Fj1IglSNUGSydx19z28L0mcXcPYg.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 4144193,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:25:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "美国长期国债收益率重新上升，比特币连续三天大涨突破六个月高位。",
+  "kurzfassung": "全球金融市场在过去24小时内出现明显分化，美国长期国债收益率重新上升导致美股三大指数集体下跌。与此同时，A股呈现结构性板块轮动实现连续第二个交易日上涨。比特币则在现货ETF持续大额净流入的推动下加速冲高，价格逼近8万美元。",
+  "stichpunkte": [
+    "美国财政部扩大长期国债回购的短期刺激效果未能持续，收益率重新上升",
+    "美国10年期国债收益率升至4.7%左右，30年期回到了5.25%附近",
+    "美股三大指数集体下跌，道琼斯指数下跌1.32%，标普500下跌0.87%，纳斯达克下跌1%",
+    "高油价与沃尔玛季度销售未达预期表明消费支出受到影响，通胀压力持续",
+    "A股三大指数连续第二个交易日上涨，实现缩量技术性修复并伴随板块轮动",
+    "A股涨幅居前的板块为硅金属、能源金属和通信设备，硅金属板块大涨4.64%",
+    "国际金价升至每盎司4600美元，受美国财政债务风险及美元走弱推动",
+    "比特币价格突破此前6周震荡区间，24小时上涨约8.1%至78000美元附近",
+    "美国现货比特币ETF连续两日大额净流入，贝莱德IBIT基金单日流入约5亿美元"
+  ],
+  "kapitel": [
+    {
+      "titel": "市场概况与美股表现",
+      "start": 0.0
+    },
+    {
+      "titel": "A股市场走势与板块轮动",
+      "start": 101.18
+    },
+    {
+      "titel": "比特币行情与机构资金流入",
+      "start": 163.1
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:25:12+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 255,
+  "veroeffentlicht": "2026-08-21T11:44:34+00:00",
+  "beschreibung": "00:08 8月21日全球金融市场概览\n00:45 美股市场分析：美股三大指数集体下跌，道琼斯指数下跌1.32%，标普500下跌0.87%，纳斯达克综合指数下跌1%。\n01:40 A股市场分析：A股三大指数集体上涨，上证指数上涨0.04%，深证成指上涨0.87%，创业板指上涨1.43%。\n02:34 BTC市场分析：过去24小时，BTC上涨大约8%，来到7.8万美元附近，一度接近8w美元。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><a class=\"timestamp\">00:08</a> 8月21日全球金融市场概览</p><p><a class=\"timestamp\">00:45</a> 美股市场分析：美股三大指数集体下跌，道琼斯指数下跌1.32%，标普500下跌0.87%，纳斯达克综合指数下跌1%。</p><p><a class=\"timestamp\">01:40</a> A股市场分析：A股三大指数集体上涨，上证指数上涨0.04%，深证成指上涨0.87%，创业板指上涨1.43%。</p><p><a class=\"timestamp\">02:34</a> BTC市场分析：过去24小时，BTC上涨大约8%，来到7.8万美元附近，一度接近8w美元。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8839f01352af56ff39de3f?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FvgewXMt8B_OCUNOcdyF5rGux5vy.png",
+  "kapitel_quelle": "modell"
+}

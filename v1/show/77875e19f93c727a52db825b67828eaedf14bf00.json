@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "电影山海经",
+  "apple_collection_id": "1742505289",
+  "erzeugt_am": "2026-09-14T06:32:09+00:00",
+  "folgen": [
+    {
+      "guid": "6968f0bcef1cf272a792dd4b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662075a3d12dc4aea29896b3/6968f0bcef1cf272a792dd4b/media.xyzcdn.net/662075a3d12dc4aea29896b3/lv2oN2SmQrMI4Iyi5NwzKuS7E3NM.m4a",
+      "pfad": "/v1/episode/61c0594cb4c341d41292c54ce0e27ce6ed9a4cab.json",
+      "titel": "21.2026上海影展新年旧气象",
+      "veroeffentlicht": "2026-01-16T16:00:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "回顾2025年上海日常影展表现，分析票房数据、审批困境及对未来的展望。"
+    }
+  ]
+}

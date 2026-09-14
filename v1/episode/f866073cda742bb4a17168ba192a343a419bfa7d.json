@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "6a560db0ca0de6c44ae6f99c",
+  "apple_collection_id": "1597056557",
+  "show": "鹰眼时间 - 体育运动播客",
+  "titel": "Vol.129 哈兰德之歌：成吉思汗、莫斯科，与林子祥",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a560db0ca0de6c44ae6f99c/media.xyzcdn.net/6196345ba4dca238c0def1cf/lrJzlCPkWMTbtthqD9N3Bxli-T23.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 21689854,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T10:03:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 28 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "一首迪斯科舞曲如何跨越半个世纪，从莫斯科奥运会变成哈兰德之歌。",
+  "kurzfassung": "节目追溯了洗脑神曲《哈兰德之歌》的旋律源头，揭示其前身是德国迪斯科组合成吉思汗于1979年创作的歌曲《莫斯科》。这首带有冷战印记和西欧视角的作品历经奥运风波、游戏传播与跨国翻唱，最终在数十年后与挪威球星哈兰德的形象奇妙结合。主播借此回顾了这首魔性旋律跨越时空的流行文化奇旅，并表达了对哈兰德球技与性格的欣赏。",
+  "stichpunkte": [
+    "王老吉广告中的《哈兰德之歌》走红，其旋律魔性且带有苏联风格。",
+    "这首歌最早由多特蒙德球迷根据足球比赛背景改编，随后曼城球迷也填入了新词。",
+    "旋律真正的源头是德国慕尼黑迪斯科组合成吉思汗于1979年发行的歌曲《莫斯科》。",
+    "《莫斯科》原曲带有西欧视角的刻板想象，在1980年莫斯科奥运会期间广为流传，但也曾遭苏联禁播。",
+    "这首歌在香港被林子祥翻唱为粤语版《试运在莫斯科》，充满理想主义色彩。",
+    "2006年通过游戏《太鼓达人》进入日本视野，并在YouTube上成为斯拉夫迷因的代表符号。",
+    "2018年世界杯期间，成吉思汗乐队受邀前往莫斯科重新录制该曲，弥补了当年的遗憾。",
+    "2021年，一位德国油管博主发现“哈兰德”与“莫斯科”的德语发音韵律相似，为其重新填词并走红球迷群体。",
+    "主播最后分享了对哈兰德球场冲击力与真实性格的喜爱与评价。"
+  ],
+  "kapitel": [
+    {
+      "titel": "哈兰德之歌与球迷文化",
+      "start": 0.0
+    },
+    {
+      "titel": "莫斯科：一首迪斯科舞曲的诞生",
+      "start": 305.36
+    },
+    {
+      "titel": "冷战、奥运与时代的印记",
+      "start": 516.74
+    },
+    {
+      "titel": "从游戏迷因到世界杯的圆满",
+      "start": 798.28
+    },
+    {
+      "titel": "跨越半个世纪的奇妙重合",
+      "start": 971.1
+    },
+    {
+      "titel": "结语：评价哈兰德与节目尾声",
+      "start": 1062.88
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T10:03:42+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1341,
+  "veroeffentlicht": "2026-07-14T10:28:45+00:00",
+  "beschreibung": "一首《哈兰德之歌》，经历了五次生命。\n1979年，德国disco组合Dschinghis Khan（成吉思汗）发布了《Moskau》，它是德国人对莫斯科的异域想象；\n1980年，冷战让莫斯科奥运会成为最复杂的一届，但世界各地，甚至远在香港，都有人在唱这首《Moskau》；\n2006年，一款游戏让这首歌重出江湖，它也成为了新世纪互联网的斯拉夫迷因；\n2021年，一个德国YouTuber给它谱上了哈兰德的歌词，在多特蒙德和曼彻斯特，人们歌唱哈兰德；\n2026年，王老吉的广告里，它变成了中文洗脑神曲。\n这是一期音乐节目，溯源《哈兰德之歌》和它不断被赋予的意义。\n主播：刘易非，《鹰眼时间》主播，小红书（来看本台的视频播客！）、微博@特特非\n相关版本：\n《Moskau》- Dschinghis Khan（1979）\n《世运在莫斯科》- 林子祥（1980）\n《奋斗》- 大张伟（2009）\n《Der Haaland》- 多特蒙德版（2021）\n《Haaland Man City Chants》- 曼城版（2022）\n「鹰眼时间」开设听友群了！期待认识热爱体育的朋友们，多多找我们交流，欢迎微信搜索“yingyanshijian”，添加小助手入群。\n\n合作：1960157818@qq.com；Jessiehe0818@outlook.com\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>一首《哈兰德之歌》，经历了五次生命。</p><p>1979年，德国disco组合Dschinghis Khan（成吉思汗）发布了《Moskau》，它是德国人对莫斯科的异域想象；</p><p>1980年，冷战让莫斯科奥运会成为最复杂的一届，但世界各地，甚至远在香港，都有人在唱这首《Moskau》；</p><p>2006年，一款游戏让这首歌重出江湖，它也成为了新世纪互联网的斯拉夫迷因；</p><p>2021年，一个德国YouTuber给它谱上了哈兰德的歌词，在多特蒙德和曼彻斯特，人们歌唱哈兰德；</p><p>2026年，王老吉的广告里，它变成了中文洗脑神曲。</p><p>这是一期音乐节目，溯源《哈兰德之歌》和它不断被赋予的意义。</p><p><strong>主播：</strong>刘易非，《鹰眼时间》主播，<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaohongshu.com/user/profile/5d5b14ba0000000001018493?xhsshare=CopyLink&amp;appuid=5d5b14ba0000000001018493&amp;apptime=1720448087&amp;share_id=5a1a2a32611a453dba0fec06e87f3c3e\">小红书</a><strong>（来看本台的视频播客！）、</strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/u/6455245469\">微博</a>@特特非</p><p><strong>相关版本：</strong></p><p>《Moskau》- Dschinghis Khan（1979）</p><p>《世运在莫斯科》- 林子祥（1980）</p><p>《奋斗》- 大张伟（2009）</p><p>《Der Haaland》- 多特蒙德版（2021）</p><p>《Haaland Man City Chants》- 曼城版（2022）</p><blockquote><p>「鹰眼时间」开设听友群了！期待认识热爱体育的朋友们，多多找我们交流，欢迎微信搜索“yingyanshijian”，添加小助手入群。</p></blockquote><p><strong>合作：</strong>1960157818@qq.com；Jessiehe0818@outlook.com</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a560db0ca0de6c44ae6f99c?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007937645",
+  "apple_collection_id": "1896869282",
+  "show": "《如约》访谈播客",
+  "titel": "Vol.11《岑儿周记》坚持和专注，命运会把你带到彼岸",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIOX1OKACBtSwTKv8Ft.m4a?channel=rss&album_id=122205452&track_id=1007937645&uid=596909953&jt=https://aod.cos.tx.xmcdn.com/storages/7d9d-audiofreehighqps/0A/3B/GKwRIJIOX1OKACBtSwTKv8Ft.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2125131,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T17:44:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨陈丽老师一生专注竹编手艺、传播中国文化并坚持助残尊严的动人故事。",
+  "kurzfassung": "本期节目讲述了竹编非遗传承人陈丽老师的故事。她早年因生活所迫接触竹编，凭借执着与善良走向世界，将竹编文化传播到全球。同时，她在开展残疾人公益时拒绝捐款，坚持让残障人士通过自己的劳动赢得尊严。",
+  "stichpunkte": [
+    "陈丽老师作为竹编非遗传承人，其作品被美国国会议员和中国公益美术馆收藏。",
+    "她最初学习竹编是因为农村女孩少有选择，且该手艺当时免交学费。",
+    "陈丽凭借专业与质朴打动了曾任卡特总统翻译的陈老先生，从而走向世界舞台进行文化交流。",
+    "在频繁赴世界各地讲课与交流的过程中，竹编成为了她传播中国文化的符号。",
+    "2017年她因帮助残障人士获得全国唯一的公益奖，却拒绝了外界的直接捐款。",
+    "她反感用残障博取同情，坚持让残障人士靠自己的能力和劳动有尊严地活着。",
+    "一生专注做好一件事情，屏蔽外界噪音，本身就是一场了不起的顶级人生体验。"
+  ],
+  "kapitel": [
+    {
+      "titel": "陈丽老师与竹编的不解之缘",
+      "start": 0.0
+    },
+    {
+      "titel": "走向世界：让竹编成为文化传播的符号",
+      "start": 85.6
+    },
+    {
+      "titel": "助残之举：为残障人士争取尊严",
+      "start": 161.28
+    },
+    {
+      "titel": "一生专注一件事的顶级人生体验",
+      "start": 216.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T17:44:17+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 262,
+  "veroeffentlicht": "2026-08-22T12:05:20+00:00",
+  "beschreibung": "这一期《岑儿周记》，想和你聊聊程丽老师的故事。\n她一生只做了一件事——竹编。\n但是，就是这份坚持和专注，\n让她从一个“没有选择”的农村女孩，到走进美国国会、走向世界，成为传播中国竹编文化的使者，也成为一批残障人士心中的灯塔。\n有时候，人生真正珍贵的，或许不是我们做了多少事情\n而是有没有一件事，值得我们用一生去坚持。\n一生只做好一件事，究竟意味着什么？",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这一期《岑儿周记》，想和你聊聊程丽老师的故事。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">她一生只做了一件事——竹编。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">但是，就是这份坚持和专注，<br>让她从一个“没有选择”的农村女孩，到走进美国国会、走向世界，成为传播中国竹编文化的使者，也成为一批残障人士心中的灯塔。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">有时候，人生真正珍贵的，或许不是我们做了多少事情</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">而是有没有一件事，值得我们用一生去坚持。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">一生只做好一件事，究竟意味着什么？</strong></p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/946a-audiofreehighqps/8D/CA/GKwRIJIOFbLSAAOZ-gSuMlkw.jpeg",
+  "kapitel_quelle": "modell"
+}
