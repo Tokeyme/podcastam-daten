@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_814304138",
+  "apple_collection_id": "1711363332",
+  "show": "UCG游戏播客",
+  "titel": "Vol.50 有啥必玩的武器吗？ 《怪物猎人 荒野》体验分享【UCG杂谈会】",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4LoHByAd38rwN2CN4C.m4a?channel=rss&album_id=73367705&track_id=814304138&uid=451398419&jt=https://aod.cos.tx.xmcdn.com/storages/87a6-audiofreehighqps/E2/00/GKwRIW4LoHByAd38rwN2CN4C.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 31325359,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T19:09:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "《怪物猎人 荒野》体验分享：武器改动、怪物设计与中盘内容评价",
+  "kurzfassung": "本期节目深入探讨了《怪物猎人 荒野》的游戏体验，嘉宾们详细分享了各武器的操作手感与数值优劣，并对游戏中的怪物设计、生态互动及剧情叙事进行了全面吐槽与点评。同时，节目也指出了本作在后期中盘内容和刷刷玩法上的不足。尽管存在一些争议与痛点，但扎实的核心玩法依然让玩家们直呼过瘾。",
+  "stichpunkte": [
+    "斩斧的超解逻辑被削弱且前置条件繁琐，但电锯模式和数值表现依然强势；双刀的弱点处决位移过大且容易脱离战斗位置。",
+    "太刀的逻辑彻底改变，红刃后的战桩输出频率极高且手感爽快，大锤则因招式单调、动作前摇长和数值较低成为体验最差的武器之一。",
+    "大剑凭借伤口机制和集中模式的操作优化，整体强度与容错率大幅提升；铳枪被誉为新一代强力轮椅，炮击伤害与射程表现极其亮眼。",
+    "远程武器中重弩和轻弩依赖属性弹及特定弹药，弓箭输出虽低但操作体验优秀，锁刃龙和黑石龙等高难度怪物的战斗表现给玩家留下了深刻印象。",
+    "游戏强化了环境生态互动，玩家可以利用钩爪触发场景机关对怪物造成巨额百分比伤害，增强了狩猎过程中的策略感。",
+    "猎人生活系统带来了全新的烤肉动画与更具挑战性的钓鱼小游戏，但NPC吃饭邀请的判定机制存在一些让人哭笑不得的小Bug。",
+    "叙事方面融入了大量的生态前置演出和JRPG式的角色成长，主角首次加入语音并在解禁战中有高光表现。",
+    "中盘内容量不足是目前最大的痛点，后期刷怪选择相对单一，高级铠玉和武器零件的消耗让刷刷玩法演变成了一个不小的肝度大坑。"
+  ],
+  "kapitel": [
+    {
+      "titel": "武器体验分享与吐槽：斩斧、双刀与太刀",
+      "start": 19.76
+    },
+    {
+      "titel": "大锤的低迷与大剑、铳枪的强势翻盘",
+      "start": 588.92
+    },
+    {
+      "titel": "长枪、片手盾防流及远程武器表现",
+      "start": 1318.46
+    },
+    {
+      "titel": "怪物生态设计：锁刃龙、黑石龙与八爪鱼怪",
+      "start": 1692.22
+    },
+    {
+      "titel": "战斗系统与环境要素互动机制",
+      "start": 2507.56
+    },
+    {
+      "titel": "猎人生活：做饭、钓鱼与奇妙的NPC互动",
+      "start": 3076.92
+    },
+    {
+      "titel": "剧情叙事与主角配角的塑造",
+      "start": 3523.84
+    },
+    {
+      "titel": "中盘内容不足与后期刷刷玩法的反思",
+      "start": 4389.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T19:09:00+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5139,
+  "veroeffentlicht": "2025-03-07T08:23:22+00:00",
+  "beschreibung": "距离《怪物猎人 荒野》发售已经过去了一周，游戏内容如何相信各位猎人们都已经有了自己的结论。本期节目将由新生铳枪侠德雷克、大剑侠刹翼和太刀侠睡魔带来他们的分享，来听听编辑们喜欢《荒野》的哪些地方，又狠狠吐槽了哪里吧~\n\n策划/监制：德雷克\n统筹/主持：德雷克\n分享人：德雷克/刹翼/睡魔\n剪辑：比卡\n合作联络：稀饭/白鲸/山茶/六段音速",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">距离《怪物猎人&nbsp;荒野》发售已经过去了一周，游戏内容如何相信各位猎人们都已经有了自己的结论。本期节目将由新生铳枪侠德雷克、大剑侠刹翼和太刀侠睡魔带来他们的分享，来听听编辑们喜欢《荒野》的哪些地方，又狠狠吐槽了哪里吧~<br><br>策划/监制：德雷克<br>统筹/主持：德雷克<br>分享人：德雷克/刹翼/睡魔<br>剪辑：比卡<br>合作联络：稀饭/白鲸/山茶/六段音速<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/d01a-audiofreehighqps/25/18/GKwRIMALoEXfAArZYQN162EP.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

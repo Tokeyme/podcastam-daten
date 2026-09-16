@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "guid": "6a5df345a3fec224d5a0747f",
+  "apple_collection_id": "1525513899",
+  "show": "鼓腹而游",
+  "titel": "051｜“都有什么热点啊？”",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/6a5df345a3fec224d5a0747f/media.xyzcdn.net/5f2162169504bbdb772facc3/lj17xJ-FevtHQq9cflDm-356ApXB.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 77693545,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T11:15:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨近期热门电影《给阿妈的情书》、文学作品、 AI应用及地方文化在当代网络语境下的传播。",
+  "kurzfassung": "本期节目主要讨论了现象级电影《给阿妈的情书》背后的潮汕文化、历史记忆与观众共鸣。主播们还延伸探讨了当代文学作品、社交媒体上的地方认同与逆反心理。此外，节目也交流了各自使用AI大模型及短剧的真实体验。",
+  "stichpunkte": [
+    "电影《给阿妈的情书》引发全国范围内的热烈讨论，并唤起了公众对潮汕人下南洋历史及中文书信之美的关注。",
+    "影片通过细腻的设计触动了观众的泪点，但也引发了关于其历史真实性与乡土叙事浪漫化的讨论。",
+    "多位主播探讨了当代读者和观众对“中心城市文化”产生的逆反与审美疲劳现象。",
+    "周佳宁的新小说《永结无情友》引发了关于上海本土文学及其叙事节奏的讨论。",
+    "互联网和短剧生态在AI技术的加持下迅速发展，呈现出强烈的反传统叙事和解构色彩。",
+    "主播们分享了各自与AI大模型对话的有趣经历，并探讨了大模型作为信息校正工具的优缺点。"
+  ],
+  "kapitel": [
+    {
+      "titel": "电影《给阿妈的情书》与潮汕文化",
+      "start": 600.0
+    },
+    {
+      "titel": "代笔书信与历史记忆的重构",
+      "start": 1340.72
+    },
+    {
+      "titel": "中心城市的文化输出与逆反心理",
+      "start": 2481.08
+    },
+    {
+      "titel": "AI短剧的兴起与时代情绪",
+      "start": 3367.56
+    },
+    {
+      "titel": "与AI大模型交互的真实体验",
+      "start": 3859.42
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T11:15:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4803,
+  "veroeffentlicht": "2026-07-20T10:13:15+00:00",
+  "beschreibung": "- 本期话题成员 -\n筱狸（微博@BeulahDong）\nNelly（微博@林奶粒）\n程衍樑（微博@GrenadierGuard2）\n\n- 收听方式 -\n推荐您使用苹果播客、Spotify、小宇宙App或任意泛用型播客客户端订阅收听《鼓腹而游》，也可以在喜马拉雅、网易云音乐、蜻蜓FM到我们的专辑。\n- 联系方式 -\n商务合作：ad@justpod.fm\n微博：@鼓腹而游微博\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>- 本期话题成员 -</p><p>筱狸（微博<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/ziqilianzhi?topnav=1&amp;wvr=6&amp;topsug=1\">@BeulahDong</a>）</p><p>Nelly（微博<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/nelly900707?topnav=1&amp;wvr=6&amp;topsug=1\">@林奶粒</a>）</p><p>程衍樑（微博<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/u/7151076970\">@GrenadierGuard2</a>）</p><p></p><p>- 收听方式 -</p><p>推荐您使用<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://podcasts.apple.com/cn/podcast/id1525513899\">苹果播客</a>、<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://open.spotify.com/show/3GR30fYFRAwBq7hTYmabM5\">Spotify</a>、<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.xiaoyuzhoufm.com/podcasts/5f2162169504bbdb772facc3\">小宇宙App</a>或<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://justpodmedia.com/rss/gufueryou.xml\">任意泛用型播客客户端</a>订阅收听《鼓腹而游》，也可以在<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://m.ximalaya.com/album/47378023\">喜马拉雅</a>、<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://music.163.com/#/djradio?id=970480477\">网易云音乐</a>、蜻蜓FM到我们的专辑。</p><p>- 联系方式 -</p><p>商务合作：ad@justpod.fm</p><p>微博：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/u/6322267157\">@鼓腹而游微博</a></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a5df345a3fec224d5a0747f?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FhVj9IIvZo1R_6ug9TpF-gAAlGgL",
+  "kapitel_quelle": "modell"
+}

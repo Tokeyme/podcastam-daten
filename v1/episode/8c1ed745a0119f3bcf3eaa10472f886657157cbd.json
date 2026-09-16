@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_991206912",
+  "apple_collection_id": "1515695525",
+  "show": "橘猫看球 - 足球的商业世界",
+  "titel": "Vol.84 世界杯特辑：起底“足球公敌”因凡蒂诺，毁掉足球的邪恶光头？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOB1E7AlgnnwSplMST.m4a?channel=rss&album_id=37752212&track_id=991206912&uid=231162584&jt=https://aod.cos.tx.xmcdn.com/storages/77d8-audiofreehighqps/05/BE/GKwRIRwOB1E7AlgnnwSplMST.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 39331743,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T12:47:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "起底国际足联主席因凡蒂诺，剖析其执掌之下的足球商业化与权力博弈。",
+  "kurzfassung": "本期节目深入探讨了国际足联主席因凡蒂诺的生平背景及其执政十年的功过是非。主播通过商业和管理的独特视角，分析了世界杯扩军、财政分配改革以及因凡蒂诺饱受争议的个人执政风格。节目旨在还原一个更为客观、视角丰富的因凡蒂诺，探讨现代足球在资本与政治包裹下的发展趋势。",
+  "stichpunkte": [
+    "因凡蒂诺出身意大利移民家庭，早年曾任律师，凭借多语言能力与出色的职业规划进入欧足联并最终当选国际足联主席。",
+    "国际足联历史上经历了雷米特、阿维兰热和布拉特等几代掌门人，逐渐从纯粹的体育组织演变为掌控巨额资产的庞大商业帝国。",
+    "因凡蒂诺通过大幅提高各成员协会的Forward发展基金，成功赢得了众多中小国家足协的支持与长期忠诚。",
+    "在其任内，男足世界杯成功扩军至48支球队，新版世俱杯也顺利落地，进一步扩张了国际足联在俱乐部赛事领域的版图。",
+    "因凡蒂诺因卡塔尔世界杯期间的著名演讲以及对各国政要（如特朗普）的迎合姿态，招致了西方主流媒体的猛烈抨击与道德审判。",
+    "尽管个人风格和追求聚光灯的做法备受争议，但因凡蒂诺在任期间使国际足联的收入和储备金实现了翻倍增长。",
+    "从欧洲传统视角来看，因凡蒂诺被视为将足球浪漫纯粹兑换成筹码的反派；但在非欧洲和边缘足协眼中，他是重新分配资源的重要推手。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目缘起与对大赛舆论的宏观思考",
+      "start": 11.12
+    },
+    {
+      "titel": "因凡蒂诺的早年经历与法律职业生涯",
+      "start": 446.22
+    },
+    {
+      "titel": "国际足联的历史演变：从雷米特到布拉特",
+      "start": 1113.4
+    },
+    {
+      "titel": "因凡蒂诺上台与国际足联权力的重组",
+      "start": 1817.02
+    },
+    {
+      "titel": "世界杯扩军、卡塔尔世界杯与资金重新分配",
+      "start": 2159.4
+    },
+    {
+      "titel": "新版世俱杯落地、门票争议与与政要的相处之道",
+      "start": 3123.48
+    },
+    {
+      "titel": "如何评价因凡蒂诺：商业化机器与足球的未来",
+      "start": 3726.84
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T12:47:58+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4858,
+  "veroeffentlicht": "2026-06-16T23:00:00+00:00",
+  "beschreibung": "世界杯的哨声吹响，但进球之外，引人注目的是场外的天价门票、签证困局与政治角力。而站在所有争议中心的，是国际足联主席因凡蒂诺——这位从瑞士小镇走出的意大利移民后代，十年间将FIFA从腐败泥潭中拽出，却也把它推向了一条商业化狂奔的争议道路：世界杯扩军至48队、世俱杯横空出世、发展基金撒向全球211个会员协会……\n\n他究竟是重塑足球秩序的改革者，还是撕裂传统浪漫主义的“反派”？当足球越来越像一台冷酷的全球机器，这项运动的未来该由谁定义？本期不聊世界杯筹办中的边角料，只聚焦因凡蒂诺的权力棋局，以及他身后那个正在被重新书写的足球世界。\n\n详情提要：\n0:00:10 开场 · 为什么世界杯总在争议中开球？\n\n0:07:00 攀升之路 · 从移民之子到欧足联秘书长\n\n0:18:10 意外上位 · FIFA演变史与横空出世的黑马\n\n0:31:28 足球之王 · 扩军、发钱与权力游戏\n\n1:02:02 人物评价 · 务实派还是无耻政客？足球往何处去？\n\n关联节目：\nVol.47 世界杯特辑：卡塔尔世界杯，生来带着原罪？\n\n参考资料：\nTheWorld Cup According to Gianni Infantino丨The New Yorker\n\nWho is the real Gianni Infantino, FIFA president and ‘the king of soccer’?丨The Athletic\n\nBGM: Shakira & BurnaBoy「Dai Dai」,\n「The Official FIFA World Cup 26™ Theme」,\nChris_record「Building Suspense」,\nL'Orchestra Cinematique「Light of the Seven」\n公众号：橘猫看球（ID: Jumaofootball）\n知乎：橘猫看球\n听友群：公众号回复口令“听友群”\n橘猫，CFA/CICPA，曾就职于四大会计师事务所及国际足球管理公司，业余时间从事足球商业内容创作。欢迎私信交流，如果喜欢我的作品，请大力分享，欢迎打赏！也欢迎关注本人旗下另一档播客【忠橙电台丨泰山球迷播客】，以及体育观察者系列播客的其他节目【翻转体育】【FreeKick-不止于足球场】。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>世界杯的哨声吹响，但进球之外，引人注目的是场外的天价门票、签证困局与政治角力。而站在所有争议中心的，是国际足联主席因凡蒂诺——这位从瑞士小镇走出的意大利移民后代，十年间将FIFA从腐败泥潭中拽出，却也把它推向了一条商业化狂奔的争议道路：世界杯扩军至48队、世俱杯横空出世、发展基金撒向全球211个会员协会……</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>他究竟是重塑足球秩序的改革者，还是撕裂传统浪漫主义的“反派”？当足球越来越像一台冷酷的全球机器，这项运动的未来该由谁定义？本期不聊世界杯筹办中的边角料，只聚焦因凡蒂诺的权力棋局，以及他身后那个正在被重新书写的足球世界。</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>详情提要：</b></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span><span>0:00:10 开场 · 为什么世界杯总在争议中开球？</span></span><br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>0:07:00 攀升之路 · 从移民之子到欧足联秘书长</span><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>0:18:10 意外上位 · FIFA演变史与横空出世的黑马</span><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>0:31:28 足球之王 · 扩军、发钱与权力游戏</span><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>1:02:02 人物评价 · 务实派还是无耻政客？</span>足球往何处去？</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><b>关联节目：</b></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>Vol.47 世界杯特辑：卡塔尔世界杯，生来带着原罪？</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><b>参考资料：</b></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>TheWorld Cup According to Gianni Infantino丨<span>The New Yorker</span><br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">&nbsp;Who is the real Gianni Infantino, FIFA president and ‘the king of soccer’?丨<span>The Athletic</span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/eaeb-audiofreehighqps/80/EB/GAqhuykOB0ugAAkcvQSplAC3.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/eaeb-audiofreehighqps/80/EB/GAqhuykOB0ugAAkcvQSplAC3.jpg?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/eaeb-audiofreehighqps/80/EB/GAqhuykOB0ugAAkcvQSplAC3.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"421.875\" data-preview=\"http://imagev2.xmcdn.com/storages/eaeb-audiofreehighqps/80/EB/GAqhuykOB0ugAAkcvQSplAC3.jpg!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"78.75\"><br></span></p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b>BGM:&nbsp;</b>Shakira &amp; BurnaBoy<span>「Dai Dai」,</span></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span><span><span>「</span>The Official FIFA World Cup 26™ Theme<span>」</span>,</span></span></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\"><span><span><span>Chris_record「Building Suspense</span><span>」<span>,</span></span></span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">L'Orchestra Cinematique「Light of the Seven」</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b>公众号：</b><b>橘猫看球（</b><span><b>ID: Jumaofootball</b></span><b>）</b></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b>知乎：</b><b>橘猫看球</b></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><b>听友群：</b><b>公众号回复口令“听友群”</b></p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">橘猫，<span>CFA/CICPA</span>，曾就职于四大会计师事务所及国际足球管理公司，业余时间从事足球商业内容创作。欢迎私信交流，如果喜欢我的作品，请大力分享，欢迎打赏！也欢迎关注本人旗下另一档播客【忠橙电台丨泰山球迷播客】，以及体育观察者系列播客的其他节目【翻转体育】【FreeKick-不止于足球场】。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/9bd0-audiofreehighqps/74/80/GAqh9TMOB8O1AARQUQSpqRlK.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

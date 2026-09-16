@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1008100774",
+  "apple_collection_id": "1642886094",
+  "show": "左聊右侃丨恐怖灵异 悬疑案件 奇闻轶事娱乐八卦播客",
+  "titel": "红旗沟特大惨案！一场灭绝人性的农场大屠杀直接引发83年严打",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIUEOYGdBAknDUQTLHVlo.m4a?channel=rss&album_id=60101630&track_id=1008100774&uid=116910663&jt=https://aod.cos.tx.xmcdn.com/storages/3e90-audiofreehighqps/E1/AC/GKwRIUEOYGdBAknDUQTLHVlo.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 38388561,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T09:24:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾1983年呼伦贝尔红旗沟特大杀人强奸爆炸案的惨烈细节。",
+  "kurzfassung": "1983年6月，内蒙古呼伦贝尔红旗沟农场发生了一起特大杀人强奸爆炸案。以于洪杰为首的几名年轻人毫无理由地在农场内展开血腥屠杀，共造成27人死亡。该案手段极其残忍，最终成为了1983年严打的重要导火索之一。",
+  "stichpunkte": [
+    "案件发生在1983年6月16日的内蒙古呼伦贝尔红旗沟农场。",
+    "主犯于洪杰因不满被分配至农场，加之受“二王案”影响，萌生了屠杀整座农场以求“一臭万年”的邪恶想法。",
+    "于洪杰纠集了杨万春、韩立军等多名年轻同伙，并在酒后开始在农场内逐个房间进行血腥屠杀。",
+    "凶手甚至杀害了农场的指导员，并夺取了其随身配备的半自动步枪及子弹。",
+    "除农场职工外，凶手还残忍杀害了附近居住的一家六口及多名无辜村民。",
+    "在屠杀过程中，部分女知青遭到凶手们的侮辱和残害。",
+    "案发后，部分涉案人员逃跑，主犯于洪杰与韩立军最终在农场引爆汽油和炸药身亡。",
+    "该案最终造成27人死亡，主犯于洪杰、杨万春和韩立军被判处死刑，其余从犯被判处有期徒刑。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与案件背景",
+      "start": 0.0
+    },
+    {
+      "titel": "红旗沟农场与犯罪团伙的形成",
+      "start": 260.0
+    },
+    {
+      "titel": "6月16日：屠杀计划的实施与蔓延",
+      "start": 1074.72
+    },
+    {
+      "titel": "袭击宿舍、厨房与杀害无辜村民",
+      "start": 1771.24
+    },
+    {
+      "titel": "控制女知青与同伙内讧逃跑",
+      "start": 2894.12
+    },
+    {
+      "titel": "最终爆炸、抓捕与案件定性",
+      "start": 4405.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T09:24:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4742,
+  "veroeffentlicht": "2026-08-23T16:03:00+00:00",
+  "beschreibung": "这起发生在38年前的616红旗沟特大血案，一夜之间26人被残杀，并且有多名妇女被强暴受辱，堪称内蒙古第一血案，即便放在全国，在建国后也是极为罕见的。那么凶手是谁，竟如此疯狂？且细细听来…",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这起发生在38年前的616红旗沟特大血案，一夜之间26人被残杀，并且有多名妇女被强暴受辱，堪称内蒙古第一血案，即便放在全国，在建国后也是极为罕见的。那么凶手是谁，竟如此疯狂？且细细听来…<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5bad-audiofreehighqps/61/12/GKwRIJEOYGTIAANatQTLHD69.jpeg",
+  "folgennummer": 9,
+  "kapitel_quelle": "modell"
+}

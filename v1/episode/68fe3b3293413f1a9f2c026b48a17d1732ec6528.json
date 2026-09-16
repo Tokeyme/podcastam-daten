@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007819195",
+  "apple_collection_id": "1552685472",
+  "show": "远方周末计划 | 全网最滞后聊电影，及其他",
+  "titel": "从《奥德赛》读到《巴别塔之犬》，站长私藏主题书单 Vol.175",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOXkjeAle8bgTKXJIe.m4a?channel=rss&album_id=45690835&track_id=1007819195&uid=31082939&jt=https://aod.cos.tx.xmcdn.com/storages/41b5-audiofreehighqps/C9/2A/GKwRIRwOXkjeAle8bgTKXJIe.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 39304302,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T12:17:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "站长TC分享六部私藏书单，涵盖古希腊史诗到现代社会小说。",
+  "kurzfassung": "主播站长TC在节目中分享了自己精选的六部私人书单。每本书对应不同的人生阶段与阅读主题，包括锻炼耐性的《荷马史诗》、提升幽默感的《七侠五义》、反思职场的《六个说谎的大学生》、探讨沟通的《巴别塔之犬》、激发想象力的星新一短篇小说集，以及直面失去的《献给阿尔吉农的花束》。通过这些作品，主播探讨了阅读在不同人生时期的实际意义与心灵启发。",
+  "stichpunkte": [
+    "第一本推荐《荷马史诗》（包含《伊利亚特》与《奥德赛》），适合大学生阅读，能够有效锻炼阅读名著的耐性。",
+    "第二本推荐《七侠五义》，虽然剧情一般，但书中保留了大量生动的北京土话和诙谐幽默的语言，对提升中学生的写作与文风很有帮助。",
+    "第三本推荐日本推理小说《六个说谎的大学生》，适合应届毕业生阅读，能够帮助读者提前抹除对互联网大厂的美好滤镜，理性看待职场。",
+    "第四本推荐《巴别塔之犬》，以一起意外事件和教狗说话为切入点，核心探讨的是夫妻之间因缺乏沟通而渐行渐远的问题。",
+    "第五本推荐星新一的短篇小说集（以《喂——出来》为代表），充满科幻脑洞与社会讽刺，适合利用碎片时间阅读以培养想象力。",
+    "第六本推荐《献给阿尔吉农的花束》，讲述智障青年查理通过手术智商暴增又跌落的过程，启发读者坦然接受生命中可能失去的一切。",
+    "主播认为阅读不必过于功利或纠结于是否能记住具体剧情，更重要的是享受阅读的过程并在其中提炼属于自己的主题。"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与私人书单的初衷",
+      "start": 8.56
+    },
+    {
+      "titel": "第一本：《荷马史诗》——锻炼阅读耐性",
+      "start": 350.92
+    },
+    {
+      "titel": "第二本：《七侠五义》——幽默语言与写作灵感",
+      "start": 1207.54
+    },
+    {
+      "titel": "第三本：《六个说谎的大学生》——职场滤镜与社会现实",
+      "start": 1838.52
+    },
+    {
+      "titel": "第四本：《巴别塔之犬》——反思亲密关系中的沟通",
+      "start": 3302.22
+    },
+    {
+      "titel": "第五本：星新一短篇小说集——脑洞科幻与想象力",
+      "start": 3766.3
+    },
+    {
+      "titel": "第六本：《献给阿尔吉农的花束》与书单总结",
+      "start": 4195.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T12:17:10+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4855,
+  "veroeffentlicht": "2026-08-21T22:55:00+00:00",
+  "beschreibung": "一期迟到的暑假书单节目，所以标题我就不敢说暑假了。秉承读书永远不算晚的心态，我还是录了这期，一共推荐六本书，从中学生到大学生到毕业生，以及人生各个阶段，总有一本适合你。\n\n主播：站长TC\n\n本期聊到\n- 曾经的《大学生必读100本书》\n- 有没有人为了《奥德赛》去看原著呢？\n- 布拉德皮特《特洛伊》和《伊利亚特》哪个好玩\n- 《荷马史诗》读书主题——关于耐性\n- 《七侠五义》读书主题——关于幽默\n- 所以《三侠五义》和《七侠五义》读哪个？\n- 《六个说谎的大学生》读书主题——职场\n- 应届生必读，提前摘掉大厂滤镜\n- 老杂志推荐天蝎座必读《巴别塔之犬》\n- 《巴别塔之犬》读书主题——沟通\n- 再聊星新一《喂——出来》\n- 《喂——出来》读书主题——想象力\n- 《先给阿尔吉侬的花束》——学会失去\n\n播出时间：半月刊，每隔一周的周五早晨\n微博 : @远方周末计划\n公众号 : yuanfangfm（远方补完计划）",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">一期迟到的暑假书单节目，所以标题我就不敢说暑假了。秉承读书永远不算晚的心态，我还是录了这期，一共推荐六本书，从中学生到大学生到毕业生，以及人生各个阶段，总有一本适合你。<br><br>主播：站长TC<br><br>本期聊到<br>- 曾经的《大学生必读100本书》<br>- 有没有人为了《奥德赛》去看原著呢？<br>- 布拉德皮特《特洛伊》和《伊利亚特》哪个好玩<br>- 《荷马史诗》读书主题——关于耐性<br>- 《七侠五义》读书主题——关于幽默<br>- 所以《三侠五义》和《七侠五义》读哪个？<br>- 《六个说谎的大学生》读书主题——职场<br>- 应届生必读，提前摘掉大厂滤镜<br>- 老杂志推荐天蝎座必读《巴别塔之犬》<br>- 《巴别塔之犬》读书主题——沟通<br>- 再聊星新一《喂——出来》<br>- 《喂——出来》读书主题——想象力<br>- 《先给阿尔吉侬的花束》——学会失去<br><br>播出时间：半月刊，每隔一周的周五早晨<br>微博 : @远方周末计划<br>公众号 : yuanfangfm（远方补完计划）<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6dc5-audiofreehighqps/0F/0C/GKwRIaIOXkdmAAQRJATKXDzr.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

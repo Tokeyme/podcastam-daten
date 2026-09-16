@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "699515a5a22480add6622ef7",
+  "apple_collection_id": "1778887263",
+  "show": "虾图一乐",
+  "titel": "ft.翟佳宁 海外华人怎么过春节",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6727fddecbe0e69c8bd85969/699515a5a22480add6622ef7/media.xyzcdn.net/6727fddecbe0e69c8bd85969/lg-NBGXM6zZe7KI4fdVbxW9WbglE.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 83910383,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T20:45:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨海外华人春晚的趣事、先锋喜剧创作以及海外过年的独特体验。",
+  "kurzfassung": "西雅图脱口秀演员们齐聚一堂，围绕海外华人春晚的种种奇葩现象、各大科技公司春晚的幕后趣事展开了爆笑吐槽。节目中还深入聊到了他们在海外自创的大尺度先锋Sketch（小品）剧本，以及海外华人异乡过年的独特生活方式。整期对话氛围轻松幽默，充满了对喜剧创作的热情与对生活调侃的智慧。",
+  "stichpunkte": [
+    "西雅图脱口秀演员陈希、Tina、迪迪曼和张浩元做客节目，分享海外华人春晚的真实经历。",
+    "海外春晚节目形式多样但报酬微薄甚至倒贴，演员们调侃其为“精神创伤”与“追梦舞台”。",
+    "吐槽部分春晚主办方的奇葩操作，如强制演员买票、场地争夺战以及尺度惊人的热舞表演。",
+    "分享了多部自创的先锋Sketch喜剧，包括以“大姨妈”和“精子”为主题的先锋荒诞剧本。",
+    "讨论海外大厂（如微软、亚马逊、TikTok）员工在海外过年时的公司年会与文化差异。",
+    "聊到海外华人争取“Chinese New Year”称谓的坚持，以及各族裔在公司内部的文化碰撞。",
+    "回忆海外过春节的传统项目，如包饺子、打麻将、看央视春晚重播，以及写春联的趣事。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与海外春晚初印象",
+      "start": 53.38
+    },
+    {
+      "titel": "海外春晚的奇葩经历与演出报酬",
+      "start": 125.12
+    },
+    {
+      "titel": "春晚现场的大尺度热舞与观众反应",
+      "start": 255.34
+    },
+    {
+      "titel": "海外大厂春晚与“正名”风波",
+      "start": 1611.8
+    },
+    {
+      "titel": "先锋Sketch喜剧创作大赏",
+      "start": 3104.64
+    },
+    {
+      "titel": "海外华人的年夜饭与春节习俗",
+      "start": 4102.86
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T20:45:04+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5188,
+  "veroeffentlicht": "2026-02-18T16:00:00+00:00",
+  "beschreibung": "剪辑：keyone studio\n技术支持：cwan\n策划：郝好&chenxi\n本期主播团：翟佳宁，东晓，郝好，chenxi，张好圆，Tina，迪迪曼\n2:05 海外华人春晚有必要吗？\n10:20 春晚是舞台，感觉自己当成了明星！\n19:29 一到春节，我老板就想找某脱口秀演员谈恋爱\n22:16 春晚，竟然有这么劲爆的舞蹈！\n40:32 春晚女主持人百花齐放，男主持人凋零殆尽\n51:19 我的大姨妈和棉条跳舞的舞台演出\n58:50 我的一部伟大作品，让大翟充满好奇\n1:08:38 除了春晚外，春节我们还会干啥？\n1:17:40 聊聊美国春晚，海鹰队夺冠啦！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>剪辑：keyone studio</p><p>技术支持：cwan</p><p>策划：郝好&amp;chenxi</p><p>本期主播团：翟佳宁，东晓，郝好，chenxi，张好圆，Tina，迪迪曼</p><p>2:05 海外华人春晚有必要吗？</p><p>10:20 春晚是舞台，感觉自己当成了明星！</p><p>19:29 一到春节，我老板就想找某脱口秀演员谈恋爱</p><p>22:16 春晚，竟然有这么劲爆的舞蹈！</p><p>40:32 春晚女主持人百花齐放，男主持人凋零殆尽</p><p>51:19 我的大姨妈和棉条跳舞的舞台演出</p><p>58:50 我的一部伟大作品，让大翟充满好奇</p><p>1:08:38 除了春晚外，春节我们还会干啥？</p><p>1:17:40 聊聊美国春晚，海鹰队夺冠啦！</p><figure><img src=\"https://image.xyzcdn.net/FrZiQXIbKDY0Ynyy-vijEQp4KSBV.JPG\"/></figure><br><a href=\"https://oia.xiaoyuzhoufm.com/player/699515a5a22480add6622ef7?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FuKNnwR4M7MYJO4MY5HMmmELKuUI.png",
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "6a818ff436641f136d890176",
+  "apple_collection_id": "1778349074",
+  "show": "菠萝健康派",
+  "titel": "罗敏敏教授：给大脑加上“分子开关”，抑郁、帕金森、阿尔茨海默能不能精准治疗？vol.121",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a818ff436641f136d890176/media.xyzcdn.net/6693ae814ce7c8de0f47e220/ljGW2KvKeCBks91wmUmkRpz7rrGP.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 76698593,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T10:19:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨如何通过基因治疗和脑机接口等技术精准干预神经细胞电活动以治疗脑疾病。",
+  "kurzfassung": "本期节目邀请了罗敏敏教授，深入探讨了神经科学前沿技术的临床转化应用。双方讨论了利用光遗传学技术通过基因治疗帮助盲人恢复视力、治疗难治性局灶性癫痫以及慢性疼痛等重大突破。此外，节目还涉及了抑郁症与帕金森症的神经机制、脑机接口技术的最新进展及未来面临的伦理挑战。",
+  "stichpunkte": [
+    "科学家开发了对光超级敏感的鸡视蛋白5，将其通过基因治疗导入盲人视网膜，成功使失明患者重见光明。",
+    "针对难治性局灶性癫痫，通过微创手术将基因药物精准注射到癫痫灶，利用抑制性受体控制过度兴奋的神经元。",
+    "团队研发的基因疗法针对中枢痛等慢性疼痛，能够有效抑制疼痛情绪感受脑区，显著改善患者的情绪与睡眠。",
+    "抑郁症被提出“病态吸引子”理论，认为大脑神经网络陷入过度顽固的病理状态，治疗核心在于促进神经重塑。",
+    "神经退行性疾病如帕金森症和阿尔茨海默症的底层病因被广泛指向不同类型的神经炎症。",
+    "脑机接口公司星智达研发的半侵入式和侵入式产品在四肢瘫痪患者中开展临床，帮助患者恢复抓握、行走等功能。",
+    "脑机接口与神经调控的结合不仅局限于重症治疗，未来在功能增强和闭环调控方面展现出广阔的应用前景。",
+    "跨学科背景的罗敏敏教授分享了自己从科研走向产业化的心路历程，并强调享受当下、拒绝焦虑的人生哲学。"
+  ],
+  "kapitel": [
+    {
+      "titel": "基因治疗帮助盲人重见光明",
+      "start": 6.9
+    },
+    {
+      "titel": "基因治疗攻克难治性癫痫与慢性疼痛",
+      "start": 688.54
+    },
+    {
+      "titel": "抑郁症的神经机制与“病态吸引子”理论",
+      "start": 1854.84
+    },
+    {
+      "titel": "帕金森症与阿尔茨海默症的神经炎症本质",
+      "start": 2636.56
+    },
+    {
+      "titel": "脑机接口的临床进展与未来伦理挑战",
+      "start": 3380.58
+    },
+    {
+      "titel": "从基础科研到产业化转化及人生感悟",
+      "start": 4155.02
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T10:19:20+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4742,
+  "veroeffentlicht": "2026-08-16T23:00:00+00:00",
+  "beschreibung": "失明多年的人，重新感受到光是怎样一种体验？癫痫、慢性疼痛，竟是大脑的神经活动失控？精准调节脑信号，我们有机会改变抑郁症、帕金森、阿尔茨海默病的治疗方式吗？\n这一期，我邀请到北京脑科学与类脑研究所所长、北京生命科学研究所资深研究员罗敏敏教授，一起聊聊神经科学最前沿的探索，看看科学家们正在寻找的脑“开关”！\n🎵本期BGM\n仓央嘉措吉他曲 - 曲木老表（罗教授自选专属BGM~）\n💡“点亮”大脑\n01:27 失明十几年，重新看到光！\n04:55 在鸡身上发现恢复人类光感的秘密\n🎬找到大脑“开关”\n12:51 癫痫原来是大脑突然失控\n15:54 精准基因治疗如何控制癫痫？\n19:59 疼痛如何熬成了慢性病？\n23:58 从7分降到3分，如何改善慢性疼痛？\n🧠重新理解大脑疾病\n31:50 抑郁症是如何发生的？为什么诊断这么难？\n39:07 从心理治疗到脑刺激，抑郁症有哪些治疗方式？\n43:31 帕金森，除了吃药还有什么办法？\n47:40 阿尔茨海默病治疗新方向\n⚙️脑科学的未来\n51:32 动动“脑子”，会改变一个人的性格吗？\n56:25 脑机接口对人类意味着？\n🎙️主播\n罗敏敏：北京脑科学与类脑研究所所长、北京生命科学研究所资深研究员\n\n李治中（菠萝🍍）：杜克大学癌症生物学博士，北京大学药学院客座教授（微信公众号@菠萝因子）\n\n剪辑 | 川川\n✉️商务合作请＋VX：xyusummer\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>失明多年的人，重新感受到光是怎样一种体验？癫痫、慢性疼痛，竟是大脑的神经活动失控？精准调节脑信号，我们有机会改变抑郁症、帕金森、阿尔茨海默病的治疗方式吗？</p><p>这一期，我邀请到<strong>北京脑科学与类脑研究所所长、北京生命科学研究所资深研究员罗敏敏教授</strong>，一起聊聊神经科学最前沿的探索，看看科学家们正在寻找的脑“开关”！</p><img src=\"https://image.xyzcdn.net/FmWk_rIiPACscB2J7eNOEtfBrPRT.png\"><p><strong>🎵本期BGM</strong></p><p>仓央嘉措吉他曲 - 曲木老表（罗教授自选专属BGM~）</p><p><strong>💡“点亮”大脑</strong></p><p><a class=\"timestamp\">01:27</a> 失明十几年，重新看到光！</p><p><a class=\"timestamp\">04:55</a> 在鸡身上发现恢复人类光感的秘密</p><p><strong>🎬找到大脑“开关”</strong></p><p><a class=\"timestamp\">12:51</a> 癫痫原来是大脑突然失控</p><p><a class=\"timestamp\">15:54</a> 精准基因治疗如何控制癫痫？</p><p><a class=\"timestamp\">19:59</a> 疼痛如何熬成了慢性病？</p><p><a class=\"timestamp\">23:58</a> 从7分降到3分，如何改善慢性疼痛？</p><p><strong>🧠重新理解大脑疾病</strong></p><p><a class=\"timestamp\">31:50</a> 抑郁症是如何发生的？为什么诊断这么难？</p><p><a class=\"timestamp\">39:07</a> 从心理治疗到脑刺激，抑郁症有哪些治疗方式？</p><p><a class=\"timestamp\">43:31</a> 帕金森，除了吃药还有什么办法？</p><p><a class=\"timestamp\">47:40</a> 阿尔茨海默病治疗新方向</p><p><strong>⚙️脑科学的未来</strong></p><p><a class=\"timestamp\">51:32</a> 动动“脑子”，会改变一个人的性格吗？</p><p><a class=\"timestamp\">56:25</a> 脑机接口对人类意味着？</p><p><strong>🎙️主播</strong></p><ul><li><p>罗敏敏：北京脑科学与类脑研究所所长、北京生命科学研究所资深研究员</p></li><li><p>李治中（菠萝🍍）：杜克大学癌症生物学博士，北京大学药学院客座教授（微信公众号@菠萝因子）</p></li></ul><p><strong>剪辑</strong> | &nbsp;川川</p><p><strong>✉️商务合作请＋VX：xyusummer</strong></p><figure><img src=\"https://image.xyzcdn.net/FgJGxmpryFjOkLdp2E2NjreGzaUB.png\"></figure><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a818ff436641f136d890176?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FoaxfDShhBdRgJRtPdd4znKnYsqR.jpg",
+  "kapitel_quelle": "modell"
+}

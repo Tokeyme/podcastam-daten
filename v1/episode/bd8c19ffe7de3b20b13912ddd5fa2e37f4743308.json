@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_514021431",
+  "apple_collection_id": "1616584717",
+  "show": "睡眠花园|多巴胺分泌 轻松入睡 音乐助眠 提升专注力",
+  "titel": "助眠音乐-有助于长期失眠者心灵放松十秒入睡",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIDoGEOgvAo2whAEua6n-.m4a?channel=rss&album_id=39933657&track_id=514021431&uid=244261247&jt=https://aod.cos.tx.xmcdn.com/storages/439a-audiofreehighqps/43/A7/GKwRIDoGEOgvAo2whAEua6n-.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 42840196,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T22:08:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "助眠音乐与李宗盛作品相关音频内容",
+  "kurzfassung": "本期节目包含音乐相关的内容与制作人员信息。音频中提及了李宗盛的词曲创作及演唱等工作。同时穿插了频道的相关支持与订阅提示。",
+  "stichpunkte": [
+    "涉及李宗盛的词曲创作与演唱相关信息",
+    "包含Zither Harp相关内容",
+    "多次提及明镜与点点栏目的支持与订阅提示",
+    "包含优优独播剧场相关内容"
+  ],
+  "kapitel": [
+    {
+      "titel": "音乐创作与节目信息",
+      "start": 3.78
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T22:08:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5292,
+  "veroeffentlicht": "2022-03-23T13:46:03+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/e01b-audiofreehighqps/23/76/GMCoOR8GEK1TAAGDAgEuSL5V.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1007283867",
+  "apple_collection_id": "1784271973",
+  "show": "奇案柳叶刀 | 悬疑惊悚大案解析",
+  "titel": "264.彷徨之刃：正义的刀究竟应该指向谁？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwOWz7kAn1UjATJE_5X.m4a?channel=rss&album_id=51853319&track_id=1007283867&uid=1072807&jt=https://aod.cos.tx.xmcdn.com/storages/b43a-audiofreehighqps/54/22/GKwRIRwOWz7kAn1UjATJE_5X.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 41768076,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T19:40:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨东野圭吾离世与代表作《彷徨之刃》，剖析未成年犯罪与司法困境。",
+  "kurzfassung": "本期节目追忆了近期离世的知名作家东野圭吾，并深入探讨其经典社会派作品《彷徨之刃》。通过书中未成年人恶性犯罪及受害者家属艰难复仇的故事情节，主播与嘉宾展开了关于死刑必要性、私力救济与司法公正的深刻讨论。结合法律与法医视角，节目探讨了公权力在面对类似案件时的局限性与社会反思。",
+  "stichpunkte": [
+    "作家东野圭吾近期因结直肠癌离世，留下了庞大的版权库与孤独死的结局，引发法律界对其遗产继承与税负的讨论。",
+    "东野圭吾的作品高产且高度商业化，其中社会派小说深刻剖析了人性与社会现实，具有持久的生命力。",
+    "本期重点解读东野圭吾的代表作《彷徨之刃》，该书聚焦未成年人犯罪及少年的有恃无恐心理。",
+    "单亲父亲长峰惠摩的女儿遭不良少年残忍杀害并抛尸，因凶手受少年法保护面临轻判，父亲踏上复仇之路。",
+    "长峰根据匿名线索找到凶手住所并将其反杀，随后潜逃追查另一名在逃主犯。",
+    "节目探讨了私力救济与自然法的存在合理性，指出杀人偿命的朴素正义感根植于人类文明。",
+    "讨论了死刑存在的必要性，批判了过度强调服刑人员人权而对受害者家属造成的二次乃至三次伤害。",
+    "案件最终以长峰被警察枪杀、凶手面临轻判告终，深刻讽刺了公权力缺位时司法与正义的困境。"
+  ],
+  "kapitel": [
+    {
+      "titel": "追忆东野圭吾及其作品的社会派价值",
+      "start": 0.0
+    },
+    {
+      "titel": "《彷徨之刃》案件背景与少女遇害",
+      "start": 930.28
+    },
+    {
+      "titel": "父亲的复仇与长野县的追逃",
+      "start": 2729.78
+    },
+    {
+      "titel": "结局的反思：死刑、私力救济与司法公正",
+      "start": 4497.08
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T19:40:57+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5159,
+  "veroeffentlicht": "2026-08-21T04:00:00+00:00",
+  "beschreibung": "未成年人明知道自己不会被判死刑，还要故意行凶杀人，真就无法受到应有的惩罚吗？他的权益得到保证了，受害者家属的权益，又该怎么保证呢？",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">未成年人明知道自己不会被判死刑，还要故意行凶杀人，真就无法受到应有的惩罚吗？他的权益得到保证了，受害者家属的权益，又该怎么保证呢？</p><span><br></span><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ac50-audiofreehighqps/B8/71/CKwRIW4E6ranAAO7pwDWpz3U.jpg",
+  "folgennummer": 4,
+  "kapitel_quelle": "modell"
+}

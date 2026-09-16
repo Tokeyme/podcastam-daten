@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "guid": "6a82c8535aeb2a5712e8143d",
+  "apple_collection_id": "1776850152",
+  "show": "付少的读书圈",
+  "titel": "66.《康熙的红票》：雍正不当皇帝，清朝是不是就不会闭关锁国了？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a82c8535aeb2a5712e8143d/media.xyzcdn.net/62c58fc358b1ee616a26be0a/lvxQAqLrLRn3l8Qi-32m9JdEAmPi.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 83786133,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T20:10:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨《康熙的红票》与清朝闭关锁国、传教士及皇权政治的多元历史。",
+  "kurzfassung": "本期节目拆解了2024至2025年度热门历史图书《康熙的红票》。两位主播围绕康熙与雍正时期的传教士、内务府集权及闭关锁国等议题展开讨论。他们分析了海外汉学的写作特点，探讨了历史事件中的偶然性与宏大叙事的关系。",
+  "stichpunkte": [
+    "拆解热门历史书《康熙的红票》，探讨其依托新史料还原历史的中立视角。",
+    "分析康熙与雍正对传教士的不同政策，指出雍正禁教对中西交流及后世外交的深远影响。",
+    "探讨清朝内务府与包衣奴才制度，指出这是君主专制强化与权力集中的关键路径。",
+    "反思传统教科书关于“闭关锁国”的单一结论，认为历史演进充满偶然性与复杂性。",
+    "对比《大明的崩溃》和《叫魂》等经典历史著作，探讨文史类读物对公众认知的影响。",
+    "讨论历史人物的个人决策与时代潮流的关系，分析历史偶然性对王朝走向的决定作用。",
+    "延伸探讨影视作品与舆论环境的变化，以及公众对历史特权与现代职场视角的反思。"
+  ],
+  "kapitel": [
+    {
+      "titel": "新书《康熙的红票》的阅读体验与切入点",
+      "start": 0.0
+    },
+    {
+      "titel": "康雍乾时期的闭关锁国与中西交流",
+      "start": 298.92
+    },
+    {
+      "titel": "清朝的内务府机制与包衣奴才身份",
+      "start": 1682.74
+    },
+    {
+      "titel": "历史书写中的偶然性与个体影响",
+      "start": 2942.5
+    },
+    {
+      "titel": "历史与现实的映射及舆论环境的变化",
+      "start": 4963.52
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T20:10:02+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5180,
+  "veroeffentlicht": "2026-08-17T08:46:23+00:00",
+  "beschreibung": "关于“康熙的红票”这个概念，第一反应是什么；\n\n这本书改变了你对清朝的哪些固有印象；\n\n书里一个判断：传教士不是\"文化使者\"，是康熙的\"包衣奴才\"。你怎么理解这种现象；\n\n南怀仁在蒸汽动力和汽车发展史中的位置被西方科学史家认可，类似这样让人意外的信息有哪些；\n\n从康熙到雍正的政策转向，不是\"文明冲突\"导致的，而是雍正个人不信天主教、又刚好在夺嫡中赢了，怎么看到这种历史的偶然性；\n\n这本书直接挑战了\"闭关锁国\"和\"朝贡体系\"的说法，作者说这些是后人用结果倒推动机，你同意吗；\n\n海外档案补史的现状盛行，怎么看待正史和野史的关系；\n\n这本书写的是300年前的事，但它对今天有什么启示；\n\n如果让你向一个觉得\"历史书很无聊\"的人推荐，你会怎么说；\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<ol><li><p>关于“康熙的红票”这个概念，第一反应是什么；</p></li><li><p>这本书改变了你对清朝的哪些固有印象；</p></li><li><p>书里一个判断：传教士不是\"文化使者\"，是康熙的\"包衣奴才\"。你怎么理解这种现象；</p></li><li><p>南怀仁在蒸汽动力和汽车发展史中的位置被西方科学史家认可，类似这样让人意外的信息有哪些；</p></li><li><p>从康熙到雍正的政策转向，不是\"文明冲突\"导致的，而是雍正个人不信天主教、又刚好在夺嫡中赢了，怎么看到这种历史的偶然性；</p></li><li><p>这本书直接挑战了\"闭关锁国\"和\"朝贡体系\"的说法，作者说这些是后人用结果倒推动机，你同意吗；</p></li><li><p>海外档案补史的现状盛行，怎么看待正史和野史的关系；</p></li><li><p>这本书写的是300年前的事，但它对今天有什么启示；</p></li><li><p>如果让你向一个觉得\"历史书很无聊\"的人推荐，你会怎么说；</p></li></ol><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a82c8535aeb2a5712e8143d?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FngYOBRPeUqDS5kG7C5RvGiISWt-.jpg",
+  "kapitel_quelle": "modell"
+}

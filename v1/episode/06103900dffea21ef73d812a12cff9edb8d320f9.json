@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_920097723",
+  "apple_collection_id": "1617779812",
+  "show": "49个教育故事",
+  "titel": "26. 聊聊厌学这场“病”：跨界物理教学这12年 ｜张宇成 49个教育故事",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJIMwSpEAmDT5AQgz-aL.m4a?channel=rss&album_id=60632084&track_id=920097723&uid=83761300&jt=https://aod.cos.tx.xmcdn.com/storages/ea12-audiofreehighqps/EF/CE/GKwRIJIMwSpEAmDT5AQgz-aL.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 39900132,
+    "format": "m4a",
+    "geprueft_am": "2026-09-15T15:47:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "跨界物理老师张宇辰探讨如何将心理学融入物理教学，疗愈厌学并点亮学生思维。",
+  "kurzfassung": "物理老师张宇辰结合心理学工具，探讨了帮助学生应对厌学、PTSD及双相情感障碍等心理问题的教学经验。他分享了自己从学渣逆袭的经历，强调教育的本质在于点亮学生思维而非制造得分机器。同时，节目也探讨了家校沟通、教辅选择以及高考志愿规划等教育热点话题。",
+  "stichpunkte": [
+    "张宇辰分享了自己从小学到高中有众多老师耐心陪伴和支持，最终从学渣逆袭为学霸的经历。",
+    "指出传统教育方法难以解决现代学生的厌学、PTSD、躯体化和双相情感障碍等心理问题，必须借助心理学工具。",
+    "物理学科门槛较高，不仅需要理科思维，还需要优秀的阅读和快速处理长文本的能力。",
+    "提出通过降低威胁感、重构认知、使用积极日记和思维导图等方法，帮助学生克服物理学习的恐惧。",
+    "分析了家长在教育中的常见误区，强调家长应成为情绪容器，为孩子创造安全的失败环境。",
+    "详细解释了PTSD、双相情感障碍和躯体化等心理学专有名词在校园和家庭环境中的具体表现。",
+    "批评了市场上泛滥且方向错误的教辅资料，建议回归教材和老师的核心讲义。",
+    "兼任高考志愿规划师，通过生涯规划和心理疏导，帮助学生实现从高一到研一的育人闭环。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与物理聊心的教育理念",
+      "start": 44.18
+    },
+    {
+      "titel": "个人逆袭经历与对好教育的理解",
+      "start": 196.7
+    },
+    {
+      "titel": "物理学科的特点与学习门槛",
+      "start": 832.06
+    },
+    {
+      "titel": "职业转型与心理学在物理教学中的应用",
+      "start": 1437.36
+    },
+    {
+      "titel": "家校沟通与应对学生心理障碍的案例",
+      "start": 2897.88
+    },
+    {
+      "titel": "高考志愿规划与教育生态的反思",
+      "start": 3984.42
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-15T15:47:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4928,
+  "veroeffentlicht": "2025-10-12T08:27:48+00:00",
+  "beschreibung": "我曾经遇到过的物理老师有什么共同点呢？松弛、幽默，有时候看起来还挺放荡不羁（爱不爱自由就不得而知了）。更有意思的是，这几个物理老师还都是男老师。从这几年的职业性别议题上来说，我不确定这是性别特质还是职业选择的结果。\n跟张老师的交流中，我总能在不经意间联想到我认识的仅有的几个物理老师的特性。\n正式录制前，我跟张老师进行了北京vs其他城市教育现状的信息交换。这没法定义为“交流”，基于现实，我们把自己了解到的信息进行互相分享与补充。在这片广袤的土地上，很难用一两个标签就来定义因为地域不同而造成的教育差异。这个过程，是我在过往将近三十期采访中少有的额外闲聊机会，即使有，也只发生在熟识了至少三年以上的教师朋友之间。\n正式录制过程中，张老师的很多见闻、观点、经历都让我产生了数不尽的好奇，每个点我都想挖得更深，这个行动对于采访者这个身份来说已经完全脱离了“需要克制”的工作要求。但是站在一线教育者的身份上，我真的忍不住啥都想了解更多的冲动。于是，我不断地把自己拉回到正轨上，在笔记里和脑子里鞭策自己：你是在做采访，不是在无主题无目的地闲聊！\n什么是好的教育，学生需要什么样的学科教育和心理支持，如何在家庭、学校和教育机构等等的单位集体中支持到学生，如何看待木桶理论和优势特长，通过物理科目教学、心理学、生涯规划和高考志愿填报等方面提升学生对于物理学科的外在分数和内在自信……\n这期节目听起来可能会比较分散。我在采访手记里写道：“得拜托剪辑伙伴和我自己，尽可能找出一条有逻辑有层次的脉络进行二次创作，让张老师的个人魅力、业务能力和教育理想能够最大化地被更多人听到。”\n于是，这期节目就此展开。\n【嘉宾介绍】\n\n【主播介绍】\n\n剪辑：胖鱼酱团队-懒懒（微信 pangyujiang01）\n【49个教育故事】是海内外教育人的空中会客厅，我们关注教育工作者的成长路径，以及台前幕后真实发生的故事。 本期由中央新影中学生频道素质教育访谈节目《对话名师名校》联合制作联合制作。对话素质教育引路人，见证智慧教育先行者！\n03:34 “学渣到学霸”，开窍？其实是因为老师的不放弃\n10:18 “有些孩子可能真的不适合传统考学”\n17:48 什么样的孩子才能学好物理？\n24:15 为什么选择放弃“微软”，成为一名老师？\n32:57 独创教育法：“物理+疗心”\n49:04 破除教育壁垒：用“正念呼吸法”提升课堂吸收率\n56:41 成为孩子的“情绪容器”而不是“压力来源”\n01:00:35 孩子可能出现的心理问题：PTSD、双向与躯体化\n01:17:07 关于教辅：“没几本我看得上，你别买了”",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我曾经遇到过的物理老师有什么共同点呢？松弛、幽默，有时候看起来还挺放荡不羁（爱不爱自由就不得而知了）。更有意思的是，这几个物理老师还都是男老师。从这几年的职业性别议题上来说，我不确定这是性别特质还是职业选择的结果。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">跟张老师的交流中，我总能在不经意间联想到我认识的仅有的几个物理老师的特性。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">正式录制前，我跟张老师进行了北京vs其他城市教育现状的信息交换。这没法定义为“交流”，基于现实，我们把自己了解到的信息进行互相分享与补充。在这片广袤的土地上，很难用一两个标签就来定义因为地域不同而造成的教育差异。这个过程，是我在过往将近三十期采访中少有的额外闲聊机会，即使有，也只发生在熟识了至少三年以上的教师朋友之间。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">正式录制过程中，张老师的很多见闻、观点、经历都让我产生了数不尽的好奇，每个点我都想挖得更深，这个行动对于采访者这个身份来说已经完全脱离了“需要克制”的工作要求。但是站在一线教育者的身份上，我真的忍不住啥都想了解更多的冲动。于是，我不断地把自己拉回到正轨上，在笔记里和脑子里鞭策自己：你是在做采访，不是在无主题无目的地闲聊！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">什么是好的教育，学生需要什么样的学科教育和心理支持，如何在家庭、学校和教育机构等等的单位集体中支持到学生，如何看待木桶理论和优势特长，通过物理科目教学、心理学、生涯规划和高考志愿填报等方面提升学生对于物理学科的外在分数和内在自信……</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这期节目听起来可能会比较分散。我在采访手记里写道：“得拜托剪辑伙伴和我自己，尽可能找出一条有逻辑有层次的脉络进行二次创作，让张老师的个人魅力、业务能力和教育理想能够最大化地被更多人听到。”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">于是，这期节目就此展开。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>【嘉宾介绍】</b></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/f405-audiofreehighqps/F5/70/GKwRIW4MwpH_ABFTEAQhfqIC.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/f405-audiofreehighqps/F5/70/GKwRIW4MwpH_ABFTEAQhfqIC.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/f405-audiofreehighqps/F5/70/GKwRIW4MwpH_ABFTEAQhfqIC.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"750\" data-preview=\"http://imagev2.xmcdn.com/storages/f405-audiofreehighqps/F5/70/GKwRIW4MwpH_ABFTEAQhfqIC.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"140\"><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>【主播介绍】</b><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><img data-key=\"1\" src=\"http://imagev2.xmcdn.com/storages/dc14-audiofreehighqps/C5/2B/GAqh9sAMwSkOAB2vbgQgzx7N.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/dc14-audiofreehighqps/C5/2B/GAqh9sAMwSkOAB2vbgQgzx7N.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/dc14-audiofreehighqps/C5/2B/GAqh9sAMwSkOAB2vbgQgzx7N.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"750\" data-preview=\"http://imagev2.xmcdn.com/storages/dc14-audiofreehighqps/C5/2B/GAqh9sAMwSkOAB2vbgQgzx7N.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"140\"><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">剪辑：胖鱼酱团队-懒懒（微信 pangyujiang01）</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">【49个教育故事】是海内外教育人的空中会客厅，我们关注教育工作者的成长路径，以及台前幕后真实发生的故事。 本期由中央新影中学生频道素质教育访谈节目《对话名师名校》联合制作联合制作。对话素质教育引路人，见证智慧教育先行者！</p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">03:34 “学渣到学霸”，开窍？其实是因为老师的不放弃</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">10:18 “有些孩子可能真的不适合传统考学”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">17:48 什么样的孩子才能学好物理？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">24:15 为什么选择放弃“微软”，成为一名老师？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">32:57 独创教育法：“物理+疗心”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">49:04 破除教育壁垒：用“正念呼吸法”提升课堂吸收率</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">56:41 成为孩子的“情绪容器”而不是“压力来源”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">01:00:35 孩子可能出现的心理问题：PTSD、双向与躯体化</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">01:17:07 关于教辅：“没几本我看得上，你别买了”</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/fab0-audiofreehighqps/0E/4E/GAqhqKwMwSRWAAEpVQQgy781.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}
