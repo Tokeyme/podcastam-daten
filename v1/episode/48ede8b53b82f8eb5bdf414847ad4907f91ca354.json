@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0p9p685",
+  "apple_collection_id": "262026989",
+  "show": "Learning English Conversations",
+  "titel": "The English We Speak: Hot take",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9p4tv.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2341555,
+    "format": "mp3",
+    "geprueft_am": "2026-09-17T06:24:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "学习使用“hot take”表达出人 A 的观点",
+  "kurzfassung": "本期节目介绍了英语短语“hot take”的含义和用法。主持人们通过讨论鞋袜搭配等生活话题，解释了如何用这个词来表达出人意料或具争议性的观点。此外，节目还区分了“hot take”与不太常用的“cold take”。",
+  "stichpunkte": [
+    "解释“hot take”指具有争议性或令人惊讶的观点",
+    "用于表达可能引起他人反对或辩论的想法",
+    "常用于社交媒体、播客及日常非正式对话中",
+    "可以在发表观点前用作预警提示",
+    "该表达也可以用来幽默地形容普通的观点",
+    "对比介绍了指代普遍共识的“cold take”一词"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与短语引出",
+      "start": 73.6
+    },
+    {
+      "titel": "解析“hot take”的定义与例句",
+      "start": 116.06
+    },
+    {
+      "titel": "用法细节与“cold take”的补充说明",
+      "start": 174.14
+    }
+  ],
+  "clips": [
+    {
+      "hook": "人字拖配袜子",
+      "start": 85.42,
+      "ende": 105.535,
+      "laenge": 20.11,
+      "byte_start": 787793,
+      "byte_ende": 948706,
+      "bytes": 160914,
+      "range_header": "bytes=787793-948706",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 85.499,
+      "anker_sha256": "83a21071ad99ee4ac513f6380d0f3b5c8ca094aa756393b321b6cbddef16f7c0",
+      "einblendung_ms": 60,
+      "text": "Feifei 注意到 Becca 穿着一双人字拖并且里面还套着袜子。Becca 解释说是因为雨天把工作鞋弄湿了，又不想在公司露脚趾。"
+    },
+    {
+      "hook": "舒适的室内搭配",
+      "start": 109.114,
+      "ende": 129.202,
+      "laenge": 20.09,
+      "byte_start": 977337,
+      "byte_ende": 1138042,
+      "bytes": 160706,
+      "range_header": "bytes=977337-1138042",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 109.192,
+      "anker_sha256": "b29d2b98a16289260871fe4a7f968a02bd5f057b8ab54c03a9170009691cbecf",
+      "einblendung_ms": 60,
+      "text": "Becca 认为自己穿凉鞋配袜子的做法很舒服，并主张每个人在室内都应该尝试这种穿着。"
+    },
+    {
+      "hook": "凤梨披萨引发的争议",
+      "start": 128.914,
+      "ende": 149.002,
+      "laenge": 20.09,
+      "byte_start": 1135744,
+      "byte_ende": 1296448,
+      "bytes": 160705,
+      "range_header": "bytes=1135744-1296448",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 128.993,
+      "anker_sha256": "fc53297df977e25bba9855788926e497d1db4600ad872f0aac69b27fc0be55e4",
+      "einblendung_ms": 60,
+      "text": "Feifei 举例说，宣称自己认为凤梨应该放在披萨上，就是一种典型的有争议言论。"
+    },
+    {
+      "hook": "巧克力被高估了",
+      "start": 158.903,
+      "ende": 179.017,
+      "laenge": 20.11,
+      "byte_start": 1375652,
+      "byte_ende": 1536566,
+      "bytes": 160915,
+      "range_header": "bytes=1375652-1536566",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 158.981,
+      "anker_sha256": "5827b82e786013f8d99b4b6fa4ad7e260327ab336ae9a243c2a8217b9610a0b2",
+      "einblendung_ms": 60,
+      "text": "其中一位发言者提出巧克力其实并没有人们想象的那么好，这种看法被用来举例说明有争议的个人偏好。"
+    },
+    {
+      "hook": "并非所有的争议都需要耸人听闻",
+      "start": 200.516,
+      "ende": 225.254,
+      "laenge": 24.74,
+      "byte_start": 1708557,
+      "byte_ende": 1906460,
+      "bytes": 197904,
+      "range_header": "bytes=1708557-1906460",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 200.594,
+      "anker_sha256": "dd362757f82dfce06fd3de60d45c71f6e4b67da70e34fe99216fcab7a6981d4c",
+      "einblendung_ms": 60,
+      "text": "节目指出这类观点并不一定需要极端惊人，人们有时会故意把普通看法说成争议观点来挑起讨论。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-17T06:24:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 279,
+  "veroeffentlicht": "2026-09-15T08:35:00+00:00",
+  "beschreibung": "Do you want to share a surprising opinion? Learn how to use 'hot take' with Feifei and Becca.\nGet a free transcript to read while you listen here: https://www.bbc.co.uk/learningenglish/english//features/the-english-we-speak_2026/ep-260914\nGet weekly updates and tips for improving your English here: https://www.bbc.co.uk/send/u178220599\nAnd check out our new website layout! We've given the homepage an update to make it easier to navigate: https://www.bbc.co.uk/learningenglish/english/\nWe'd love some feedback about our website, or any of our programmes. Just email us at learningenglish@bbc.co.uk",
+  "beschreibung_html": "<p>Do you want to share a surprising opinion? Learn how to use 'hot take' with Feifei and Becca. </p><p>Get a free transcript to read while you listen here: <a href=\"https://www.bbc.co.uk/learningenglish/english//features/the-english-we-speak_2026/ep-260914\">https://www.bbc.co.uk/learningenglish/english//features/the-english-we-speak_2026/ep-260914</a></p><p>Get weekly updates and tips for improving your English here: <a href=\"https://www.bbc.co.uk/send/u178220599\">https://www.bbc.co.uk/send/u178220599</a></p><p>And check out our new website layout! We've given the homepage an update to make it easier to navigate: <a href=\"https://www.bbc.co.uk/learningenglish/english/\">https://www.bbc.co.uk/learningenglish/english/</a></p><p>We'd love some feedback about our website, or any of our programmes. Just email us at <a href=\"mailto:learningenglish@bbc.co.uk\">learningenglish@bbc.co.uk</a></p>",
+  "untertitel": "Do you want to share a surprising opinion? Learn how to use 'hot take' here",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p9p68t.jpg",
+  "kapitel_quelle": "modell"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "FUND财经早班车",
   "apple_collection_id": "1720079181",
-  "erzeugt_am": "2026-09-16T06:11:48+00:00",
+  "erzeugt_am": "2026-09-17T18:11:17+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007341420",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/2235f435550be11428364e03e75296e0a919a3ff.json",
       "titel": "一次复飞改写行业！朱雀三号能否兑现2029盈利诺言？",
       "veroeffentlicht": "2026-08-19T23:30:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "朱雀三号复飞与回收验证成关键，蓝箭航天冲击2029年盈利"
     }

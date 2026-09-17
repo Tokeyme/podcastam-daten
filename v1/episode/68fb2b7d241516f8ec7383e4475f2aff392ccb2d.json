@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "guid": "4af7ca65-c87b-440f-83e5-9f291d895968",
+  "apple_collection_id": "985396258",
+  "show": "The Learning Leader Show With Ryan Hawk",
+  "titel": "706: Daniel Lubetzky - KIND Snacks Founder & Shark Tank Investor on Kindness, Grit, Values-Driven Leadership. and Building a Billion-Dollar Brand",
+  "audio": {
+    "url": "https://traffic.libsyn.com/secure/learningleadershow/LLP_-_706_Daniel_Lubetzky_FINAL.mp3?dest-id=259291",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 106992000,
+    "format": "mp3",
+    "geprueft_am": "2026-09-17T09:33:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "Daniel Lubetzky on building Kind, the lessons of Shark Tank, and the power of kindness.",
+  "kurzfassung": "Daniel Lubetzky shares how his father's Holocaust survival shaped his worldview and entrepreneurial journey. He discusses the decade of struggles leading up to the creation of the billion-dollar snack brand Kind and his role as an investor on Shark Tank. Additionally, he explains his philosophy on bridging divides through business and launching the Builders Movement.",
+  "stichpunkte": [
+    "Growing up as the son of a Holocaust survivor profoundly influenced his perspective on life and business.",
+    "His father's survival story intersected decades later with a member of the legendary 442nd Regimental Combat Team.",
+    "Early ventures like Peaceworks taught him vital lessons through years of mistakes before launching Kind.",
+    "Transitioning from a scarcity mindset to an abundance mindset transformed product sampling into a massive growth driver.",
+    "Founding principles for entrepreneurs require the right balance of grit, wit, and market fit.",
+    "As an investor on Shark Tank, he values integrity, passion, and resilience above all else.",
+    "True kindness differs from being nice because it involves telling hard truths and engaging constructively.",
+    "The Builders Movement aims to unite citizens across political divides by emphasizing curiosity, compassion, creativity, and courage."
+  ],
+  "kapitel": [
+    {
+      "titel": "A Father's Survival and Historical Connections",
+      "start": 182.2
+    },
+    {
+      "titel": "From Peaceworks to Kind",
+      "start": 646.18
+    },
+    {
+      "titel": "Grit, Wit, and Early Struggles",
+      "start": 806.16
+    },
+    {
+      "titel": "The Magic of Sampling and Abundance",
+      "start": 2120.82
+    },
+    {
+      "titel": "Shark Tank Philosophy and Being Kind vs. Nice",
+      "start": 2486.56
+    },
+    {
+      "titel": "The Builders Movement and the Four C's",
+      "start": 2928.52
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Six feet tall and weighing less than 70 pounds at the end of the war.",
+      "start": 268.944,
+      "ende": 289.032,
+      "laenge": 20.09,
+      "byte_start": 8800000,
+      "byte_ende": 9442815,
+      "bytes": 642816,
+      "range_header": "bytes=8800000-9442815",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 269.016,
+      "anker_sha256": "0c479a67ed2332cd2816381e77498f7d434f74a5c91e111d767700084d9834db",
+      "einblendung_ms": 60,
+      "text": "The guest describes his father's extreme physical condition upon entering the final stages of the concentration camp ordeal."
+    },
+    {
+      "hook": "Selling door-to-door in New York supermarkets with a Stanford Law degree.",
+      "start": 840.048,
+      "ende": 870.144,
+      "laenge": 30.1,
+      "byte_start": 27075328,
+      "byte_ende": 28038399,
+      "bytes": 963072,
+      "range_header": "bytes=27075328-28038399",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 840.12,
+      "anker_sha256": "f8921618d7d6176437fc485c14ab2626f6821bdaabe169813878ac3869ff8793",
+      "einblendung_ms": 60,
+      "text": "The founder recounts turning down lucrative law firm offers to pay himself a tiny salary while aggressively pitching store buyers in New York."
+    },
+    {
+      "hook": "Scaling from an $800 sampling budget to millions in free product.",
+      "start": 2256.36,
+      "ende": 2283.096,
+      "laenge": 26.74,
+      "byte_start": 72397312,
+      "byte_ende": 73252863,
+      "bytes": 855552,
+      "range_header": "bytes=72397312-73252863",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 2256.432,
+      "anker_sha256": "9a20565a00c13409b6b90bfa5941b6e1d61848d9d9113b1ed877c81ef5ba6e05",
+      "einblendung_ms": 60,
+      "text": "The speaker explains how shifting from a restrictive budget mindset to a major investment in product trials unlocked massive company growth."
+    },
+    {
+      "hook": "Being nice is easy and costs nothing, but being kind requires strength.",
+      "start": 2589.744,
+      "ende": 2609.832,
+      "laenge": 20.09,
+      "byte_start": 83065600,
+      "byte_ende": 83708415,
+      "bytes": 642816,
+      "range_header": "bytes=83065600-83708415",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 2589.816,
+      "anker_sha256": "78bbc326b63fc9456ba8077b6cae9f03e32cd7852aec818c41ac00ab7e169046",
+      "einblendung_ms": 60,
+      "text": "The conversation draws a sharp line between polite avoidance and the courage needed to offer honest, helpful feedback."
+    },
+    {
+      "hook": "Ninety percent of Americans actually agree on major divisive issues.",
+      "start": 3023.424,
+      "ende": 3053.52,
+      "laenge": 30.1,
+      "byte_start": 96943360,
+      "byte_ende": 97906431,
+      "bytes": 963072,
+      "range_header": "bytes=96943360-97906431",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 3023.496,
+      "anker_sha256": "672c6d536040c014564247a3f2f1453af50c845f2ec34f3d016a4e598d298f54",
+      "einblendung_ms": 60,
+      "text": "The discussion highlights how widespread agreement on fundamental topics gets overshadowed by polarization used for political fundraising."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-17T09:33:41+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3337,
+  "veroeffentlicht": "2026-09-13T23:00:00+00:00",
+  "beschreibung": "The Learning Leader Show with Ryan Hawk www.LearningLeader.com\nThe Price of Becoming is a USA Today, LA Times, and Publishers Weekly National Best-Seller!\nwww.LearningLeader.com/Becoming\nThis is brought to you by Insight Global. If you need to hire one person, hire a team of people, or transform your business through Talent or Technical Services, Insight Global's team of 30,000 people around the world has the hustle and grit to deliver.\nMy Guest: Daniel Lubetzky graduated from Stanford Law School. And then declined lucrative job offers to start his own business, only paying himself $24,000 a year for a decade. And then he founded KIND and grew it into a snack brand that Mars later valued at $5 billion dollars. Today he invests full-time on Shark Tank, and he's the son of a Holocaust survivor whose story shaped everything he's built.\nFind work that gives you energy, purpose, and meaning. If you enjoy what you're doing, you're far more likely to be great at it. And you're already winning, because you get up every morning doing something satisfying.\nThe danger of loving your work is overworking. Daniel did it building PeaceWorks and KIND. You have to pace yourself.\nHis father survived a death march out of Dachau. Twelve and a half when he entered the camp, fifteen and a half during the march. Six feet tall and under 70 pounds, and no shoes. The Nazis were walking prisoners up a mountain to push them off a cliff because they didn't have enough bullets.\nA snowstorm saved his life. His father, grandfather, and uncle hugged to say goodbye. The snow buried them and formed a kind of igloo that kept them warm through the night. They woke, dug out, and the Nazis were gone.\nThe soldiers who liberated them were Japanese American. The 442nd, the most decorated unit of its size in American history, was made up of men whose own families were being held in internment camps back home. Daniel's family had never seen an Asian person and didn't understand what they were witnessing.\nSeventy years later, he got to say thank you. A friend called saying they were sitting with a doctor who had a postcard from Larry Lubetzky. That was Daniel's uncle, who had just died. Daniel reconnected with the captain, who had gone on to become a scientist at Harvard, and eventually gave a eulogy at his funeral.\nThe lesson he takes from it isn't perseverance. It's the power of one person to change another person's life.\nYou won't pull off a rescue every day. You can still look someone in the eye at the supermarket. \"You have no idea what that person's been going through.\"\nHuman connection is what pulls people back. At a conference on fighting hate, Daniel heard how young people vulnerable to recruitment were pulled back by ordinary human connection. Being kind in your daily life makes it harder for the people trying to recruit them.\nThere's no such thing as failure or success. Daniel keeps shelves of successes in one office and shelves of failures in another, and now thinks the separation is a mistake. He never would have built KIND without ten years of mistakes at PeaceWorks.\nPeaceWorks was a college thesis turned into a company. The argument: get neighbors on opposite sides of a conflict doing business together, and you shatter stereotypes, build relationships, and give both sides a stake in each other. He got Israelis, Palestinians, Jordanians, Egyptians, and Turks trading with one another.\nDaniel turned down $86,000 out of Stanford Law to pay himself $24,000. That's what he could afford, and it's what he paid his team.\nGrit, wit, and fit. Grit is the work ethic and refusing to give up. Wit is the strategy, the creativity to outthink competitors. Fit is whether the product actually matches what people want. Grit alone isn't enough.\nDo not assume he was invincible. He cried alone in his studio apartment more than once, convinced he'd made a mistake and was wasting his life. He questioned himself multiple times a day.\nThe jerk who broke him was also right. At a trade show, a buyer told him to stop, that he was way too pushy, to give people space and get out of his life. Daniel was 25 and it broke him. Then he reflected and realized the man was correct.\nDon't be the ultra-passive person watching the world happen. Don't be the person who only pushes. The job is to be persistent enough to win and be loved for it, which is very hard.\n\"I prepare for anything that I'm not prepared for.\" Daniel loves winging it and hates preparing. But if there's something he doesn't know, he'll put in the work today, tomorrow, and the day after.\nActive listening takes real energy. Daniel needs an hour to decompress after every interview he conducts. He's blunt that listening isn't his greatest strength, which is exactly why he's leaning into it.\nHis dad was the best interviewer he ever knew, because he was a coach. When Daniel asked him a question, his father would answer with another question and let him find it himself. A great coach or parent doesn't tell you what to do. They help you ask the questions you need to ask yourself. Telling is the easier skill.\nKids keep you humble, and that's the point. You need someone in your life who can call you out when you start thinking too much of yourself, whether that's your kids, your spouse, or your team.\nKIND started because the healthy snack aisle didn't exist. Training for the 2002 New York City Marathon, Daniel's options were food that tasted like astronaut rations or pure indulgence. Nothing was portable, wholesome, and convenient at the same time.\nKIND was named after his father, who died the year they launched. Everyone who met him described him the same way. He saw his mission in life as bringing smiles to others. The name became the three pillars: kind to your body, kind to your taste buds, kind to the world.\nThey took a vote on whether to quit. Six or seven people around a table, ten hard years behind them, a major account just lost. The choice was one more shot or two months to go find jobs. They all voted to try again. Then KIND launched.\nSampling was the inflection point. Daniel had been treating it as a cost. It was an investment. They went from $800 in 2008 to $800,000 in 2009 to $20 million in free product within a few years, which is what let them scale.\nSampling only works if the mousetrap is right. If one in ten people like it, you'll lose your shirt. Nine in ten people who tried a KIND bar wanted to buy more. Those people became the ambassadors.\nScarcity, gluttony, and resourcefulness. A wasteful culture runs you into the ground. A scarcity mentality preserves every dollar but caps your potential, because everything looks like a cost center. Resourcefulness is the middle: think like an owner, spend less where you can, and invest where it compounds.\nNice and kind are not the same thing. \"If you're nice, it doesn't cost you. It's easy. You can be weak and nice. But to be kind, you need to be strong.\"\nKindness requires you to be a protagonist.\nWhat Daniel looks for in a founder:\nIntegrity. If he doesn't trust them, no amount of upside matters.\nSomeone worth helping. It's going to be a rollercoaster, and he'll be in the trenches with them.\nReal passion. Enough that he can sense they'll outwork everyone else.\n\nYou don't find integrity by asking about integrity. You ask other questions and watch how the person performs. Daniel says Barbara Corcoran is the best on the show at reading people this way.\nThe four C's of a builder's mindset: curious, compassionate, creative, and courageous. Daniel credits them with building KIND, the OneVoice Movement, and everything since.\nDaniel's champagne moment a year from now: the Builders Movement making real progress. His argument is that every industry has a lobby representing it, and the only group without one is the overwhelming majority of citizens who agree with each other on most issues and want problems solved. He wants a movement that holds all parties and all special interests accountable to that majority.\nA scarcity mindset versus an abundance mindset. Viewing something as a cost instead of viewing it as an investment. This was Daniel's early mistake with Kind bars. He only budgeted $800 a year for samples. He viewed it as a cost. He changed his mind and realized it was an investment. He upped it to $800,000 per year in samples. And eventually to $20 million a year. Scarcity versus abundance. View it as an investment instead of a cost\nDaniel's 4 C's of a builder's mindset – curiosity, compassion, creativity, and courage for That's how you build both a company and a movement.\nThe difference between being nice and being kind. Being nice avoids conflict to protect feelings in the moment. Being kind is about being willing to risk the moment, telling the hard truth because you actually care about them.\nHis dad, grandfather, and uncle – Near the end of the war, Roman, his father, and his brother were death-marched out of Dachau toward the mountains, where the guards meant to push them off a cliff. A freak overnight blizzard scattered the guards; by morning they were gone. The men who found the survivors were the 522nd Field Artillery Battalion — the only all–Japanese–American unit in the U.S. Army, many of whose own families were sitting in American internment camps at that very moment. Daniel has said those soldiers showed a tenderness that \"had not been seen in 1945.\"\n\nMagic – Daniel taught himself magic as a kid in Mexico City and actually worked as a traveling magician through Europe and the Middle East for the better part of a year. He still performs one magic show a year for his team... And he's said it's the only thing all year he genuinely prepares for. Everything else, he improvises. \"My team is always very concerned that I just jump into stuff.\"\nA scarcity mindset versus an abundance mindset. Viewing something as a cost instead of viewing it as an investment. This was Daniel's early mistake with Kind bars. He only budgeted $800 a year for samples. He viewed it as a cost. He changed his mind and realized it was an investment. He upped it to $800,000 per year in samples. And eventually to $20 million a year. Scarcity versus abundance. View it as an investment instead of a cost.\nReflection Questions\nWhere in your work are you all grit and no wit or fit? What would change if you spent an hour on strategy before your next hundred hours of effort?\nThink of the harshest feedback you've ever received. Set aside how it was delivered. Was any of it correct, and what did you do with it?\nWhere in your life are you being nice when the situation calls for you to be kind?",
+  "beschreibung_html": "<p>The Learning Leader Show with Ryan Hawk <a href= \"https://www.LearningLeader.com\">www.LearningLeader.com</a></p> <p><em>The Price of Becoming</em> is a USA Today, LA Times, and Publishers Weekly National Best-Seller!</p> <p><a href= \"https://www.LearningLeader.com/Becoming\">www.LearningLeader.com/Becoming</a></p> <p>This is brought to you by <a href= \"https://insightglobal.com/learningleader/\" target=\"_blank\" rel= \"noopener\">Insight Global</a>. If you need to hire one person, hire a team of people, or transform your business through Talent or Technical Services, Insight Global's team of 30,000 people around the world has the hustle and grit to deliver.</p> <p>My Guest: Daniel Lubetzky graduated from Stanford Law School. And then declined lucrative job offers to start his own business, only paying himself $24,000 a year for a decade. And then he founded KIND and grew it into a snack brand that Mars later valued at $5 billion dollars. Today he invests full-time on Shark Tank, and he's the son of a Holocaust survivor whose story shaped everything he's built.</p> <p>Find work that gives you energy, purpose, and meaning. If you enjoy what you're doing, you're far more likely to be great at it. And you're already winning, because you get up every morning doing something satisfying.</p> <p>The danger of loving your work is overworking. Daniel did it building PeaceWorks and KIND. You have to pace yourself.</p> <p>His father survived a death march out of Dachau. Twelve and a half when he entered the camp, fifteen and a half during the march. Six feet tall and under 70 pounds, and no shoes. The Nazis were walking prisoners up a mountain to push them off a cliff because they didn't have enough bullets.</p> <p>A snowstorm saved his life. His father, grandfather, and uncle hugged to say goodbye. The snow buried them and formed a kind of igloo that kept them warm through the night. They woke, dug out, and the Nazis were gone.</p> <p>The soldiers who liberated them were Japanese American. The 442nd, the most decorated unit of its size in American history, was made up of men whose own families were being held in internment camps back home. Daniel's family had never seen an Asian person and didn't understand what they were witnessing.</p> <p>Seventy years later, he got to say thank you. A friend called saying they were sitting with a doctor who had a postcard from Larry Lubetzky. That was Daniel's uncle, who had just died. Daniel reconnected with the captain, who had gone on to become a scientist at Harvard, and eventually gave a eulogy at his funeral.</p> <p>The lesson he takes from it isn't perseverance. It's the power of one person to change another person's life.</p> <p>You won't pull off a rescue every day. You can still look someone in the eye at the supermarket. <em>\"You have no idea what that person's been going through.\"</em></p> <p>Human connection is what pulls people back. At a conference on fighting hate, Daniel heard how young people vulnerable to recruitment were pulled back by ordinary human connection. Being kind in your daily life makes it harder for the people trying to recruit them.</p> <p>There's no such thing as failure or success. Daniel keeps shelves of successes in one office and shelves of failures in another, and now thinks the separation is a mistake. He never would have built KIND without ten years of mistakes at PeaceWorks.</p> <p>PeaceWorks was a college thesis turned into a company. The argument: get neighbors on opposite sides of a conflict doing business together, and you shatter stereotypes, build relationships, and give both sides a stake in each other. He got Israelis, Palestinians, Jordanians, Egyptians, and Turks trading with one another.</p> <p>Daniel turned down $86,000 out of Stanford Law to pay himself $24,000. That's what he could afford, and it's what he paid his team.</p> <p>Grit, wit, and fit. Grit is the work ethic and refusing to give up. Wit is the strategy, the creativity to outthink competitors. Fit is whether the product actually matches what people want. Grit alone isn't enough.</p> <p>Do not assume he was invincible. He cried alone in his studio apartment more than once, convinced he'd made a mistake and was wasting his life. He questioned himself multiple times a day.</p> <p>The jerk who broke him was also right. At a trade show, a buyer told him to stop, that he was way too pushy, to give people space and get out of his life. Daniel was 25 and it broke him. Then he reflected and realized the man was correct.</p> <p>Don't be the ultra-passive person watching the world happen. Don't be the person who only pushes. The job is to be persistent enough to win and be loved for it, which is very hard.</p> <p>\"I prepare for anything that I'm not prepared for.\" Daniel loves winging it and hates preparing. But if there's something he doesn't know, he'll put in the work today, tomorrow, and the day after.</p> <p>Active listening takes real energy. Daniel needs an hour to decompress after every interview he conducts. He's blunt that listening isn't his greatest strength, which is exactly why he's leaning into it.</p> <p>His dad was the best interviewer he ever knew, because he was a coach. When Daniel asked him a question, his father would answer with another question and let him find it himself. A great coach or parent doesn't tell you what to do. They help you ask the questions you need to ask yourself. Telling is the easier skill.</p> <p>Kids keep you humble, and that's the point. You need someone in your life who can call you out when you start thinking too much of yourself, whether that's your kids, your spouse, or your team.</p> <p>KIND started because the healthy snack aisle didn't exist. Training for the 2002 New York City Marathon, Daniel's options were food that tasted like astronaut rations or pure indulgence. Nothing was portable, wholesome, and convenient at the same time.</p> <p>KIND was named after his father, who died the year they launched. Everyone who met him described him the same way. He saw his mission in life as bringing smiles to others. The name became the three pillars: kind to your body, kind to your taste buds, kind to the world.</p> <p>They took a vote on whether to quit. Six or seven people around a table, ten hard years behind them, a major account just lost. The choice was one more shot or two months to go find jobs. They all voted to try again. Then KIND launched.</p> <p>Sampling was the inflection point. Daniel had been treating it as a cost. It was an investment. They went from $800 in 2008 to $800,000 in 2009 to $20 million in free product within a few years, which is what let them scale.</p> <p>Sampling only works if the mousetrap is right. If one in ten people like it, you'll lose your shirt. Nine in ten people who tried a KIND bar wanted to buy more. Those people became the ambassadors.</p> <p>Scarcity, gluttony, and resourcefulness. A wasteful culture runs you into the ground. A scarcity mentality preserves every dollar but caps your potential, because everything looks like a cost center. Resourcefulness is the middle: think like an owner, spend less where you can, and invest where it compounds.</p> <p>Nice and kind are not the same thing. <em>\"If you're nice, it doesn't cost you. It's easy. You can be weak and nice. But to be kind, you need to be strong.\"</em></p> <p>Kindness requires you to be a protagonist.</p> <p>What Daniel looks for in a founder:</p> <ul> <li style=\"font-weight: 400;\" aria-level=\"1\"> Integrity. If he doesn't trust them, no amount of upside matters.</li> <li style=\"font-weight: 400;\" aria-level=\"1\">Someone worth helping. It's going to be a rollercoaster, and he'll be in the trenches with them.</li> <li style=\"font-weight: 400;\" aria-level=\"1\">Real passion. Enough that he can sense they'll outwork everyone else.</li> </ul> <p>You don't find integrity by asking about integrity. You ask other questions and watch how the person performs. Daniel says Barbara Corcoran is the best on the show at reading people this way.</p> <p>The four C's of a builder's mindset: curious, compassionate, creative, and courageous. Daniel credits them with building KIND, the OneVoice Movement, and everything since.</p> <p>Daniel's champagne moment a year from now: the Builders Movement making real progress. His argument is that every industry has a lobby representing it, and the only group without one is the overwhelming majority of citizens who agree with each other on most issues and want problems solved. He wants a movement that holds all parties and all special interests accountable to that majority.</p> <ul> <li>A scarcity mindset versus an abundance mindset. Viewing something as a cost instead of viewing it as an investment. This was Daniel's early mistake with Kind bars. He only budgeted $800 a year for samples. He viewed it as a cost. He changed his mind and realized it was an investment. He upped it to $800,000 per year in samples. And eventually to $20 million a year. Scarcity versus abundance. View it as an investment instead of a cost</li> <li>Daniel's 4 C's of a builder's mindset – curiosity, compassion, creativity, and courage for That's how you build both a company and a movement. </li> <li>The difference between being nice and being kind. Being nice avoids conflict to protect feelings in the moment. Being kind is about being willing to risk the moment, telling the hard truth because you actually care about them.</li> <li>His dad, grandfather, and uncle – Near the end of the war, Roman, his father, and his brother were death-marched out of Dachau toward the mountains, where the guards meant to push them off a cliff. A freak overnight blizzard scattered the guards; by morning they were gone. The men who found the survivors were the 522nd Field Artillery Battalion — the only all–Japanese–American unit in the U.S. Army, many of whose own families were sitting in American internment camps at that very moment. Daniel has said those soldiers showed a tenderness that \"had not been seen in 1945.\"</li> </ul> <p>Magic – Daniel taught himself magic as a kid in Mexico City and actually worked as a traveling magician through Europe and the Middle East for the better part of a year. He still performs one magic show a year for his team... And he's said it's <em>the only thing all year he genuinely prepares for.</em> Everything else, he improvises. \"My team is always very concerned that I just jump into stuff.\"</p> <p>A scarcity mindset versus an abundance mindset. Viewing something as a cost instead of viewing it as an investment. This was Daniel's early mistake with Kind bars. He only budgeted $800 a year for samples. He viewed it as a cost. He changed his mind and realized it was an investment. He upped it to $800,000 per year in samples. And eventually to $20 million a year. Scarcity versus abundance. View it as an investment instead of a cost.</p> <p>Reflection Questions</p> <ol> <li>Where in your work are you all grit and no wit or fit? What would change if you spent an hour on strategy before your next hundred hours of effort?</li> <li>Think of the harshest feedback you've ever received. Set aside how it was delivered. Was any of it correct, and what did you do with it?</li> <li>Where in your life are you being nice when the situation calls for you to be kind?</li> </ol>",
+  "bild_url": "https://static.libsyn.com/p/assets/1/5/2/e/152e4268d7a65c08e55e3c100dce7605/Untitled_design.png",
+  "kapitel_quelle": "modell"
+}

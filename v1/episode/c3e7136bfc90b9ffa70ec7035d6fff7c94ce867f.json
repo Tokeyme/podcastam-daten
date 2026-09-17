@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1004536746",
+  "apple_collection_id": "1604488313",
+  "show": "机智的律师生活",
+  "titel": "EP65 执业观察｜拆还是不拆？红筹结构从哪里来？到哪里去？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMAORzgIApEjDATBxtr5.m4a?channel=rss&album_id=56054422&track_id=1004536746&uid=384998629&jt=https://aod.cos.tx.xmcdn.com/storages/cd82-audiofreehighqps/82/EE/GKwRIMAORzgIApEjDATBxtr5.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 43066124,
+    "format": "m4a",
+    "geprueft_am": "2026-09-17T04:44:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "红筹架构的前世今生与拆除实务解析",
+  "kurzfassung": "本期节目梳理了红筹架构与VIE模式的发展历程、兴起原因及当前面临的监管和市场变化。嘉宾魏子威律师详细探讨了企业在转向硬科技和人民币基金主导的背景下，为何逐渐将红筹架构视为绕远路。同时，节目深入解析了拆除红筹架构的核心步骤、税务痛点以及投资人博弈的实务要点。",
+  "stichpunkte": [
+    "红筹架构与VIE模式在过去20多年中作为中国互联网企业获得美元融资和境外上市的标准方案。",
+    "VIE架构本质上是法律形式与经济实质的分离，依赖合同法、商誉以及资本市场的重复博弈来维持。",
+    "随着港股制度包容性提升及美股中概股估值承压，红筹架构在近期港股IPO中的占比出现断崖式下降。",
+    "产业风口从互联网商业模式创新转向硬科技，加之人民币基金在股权市场中占据主导地位，促使企业重新评估架构选择。",
+    "837号令及境外投资限制等强监管政策的出台，使敏感行业的企业面临严峻的选边站和合规审查压力。",
+    "拆除红筹架构的主要步骤包括明确上市主体、设计权益回落方案、处理税务及注销境外公司等。",
+    "在拆除红筹过程中，股权转让带来的高额税费以及投资人的税基损失是博弈最激烈的核心痛点。"
+  ],
+  "kapitel": [
+    {
+      "titel": "红筹与VIE架构的概念厘清",
+      "start": 257.2
+    },
+    {
+      "titel": "红筹架构兴起的历史背景与VIE的法律逻辑",
+      "start": 436.18
+    },
+    {
+      "titel": "监管态度与红筹从超近路变为绕远路的原因",
+      "start": 1425.9
+    },
+    {
+      "titel": "三大资本市场的适合企业与拆红筹的动因",
+      "start": 1901.42
+    },
+    {
+      "titel": "拆红筹的实务步骤与投资者博弈",
+      "start": 3399.06
+    },
+    {
+      "titel": "红筹架构的未来趋势与全球化展望",
+      "start": 4407.12
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-17T04:44:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5320,
+  "veroeffentlicht": "2026-08-04T09:30:00+00:00",
+  "beschreibung": "本期节目将从红筹、VIE与境外上市的关系谈起，回顾红筹架构为何兴起并延续二十余年，以及在监管、地缘政治和资本市场变化下，它为何从融资“捷径”变成需要反复权衡的复杂选择。\n我们也会重点讨论企业是否应当拆除红筹、哪些企业更适合保留，以及股权置换、VIE终止、税务、外汇、业务许可、员工激励和投资人退出等实务难点，并延伸至837号令、AI企业架构选择及“制度身份”问题。\n本期嘉宾是礼丰律师事务所合伙人魏紫薇律师。魏律师长期专注于私募股权和风险投资交易，曾参与及主导上百个项目，并入选LEGALBAND 2023年度中国律界俊杰榜30强。她也曾做客本节目第46期，讨论基金回购与退出问题。\n在这期节目里，你可以听到：\n00:00 红筹架构为何从标准答案变成一道选择题\n04:17 红筹、VIE与境外上市究竟是什么关系\n08:00 红筹为何兴起：美元融资、外资准入与互联网企业的现实困境\n13:23 VIE协议靠什么维系：合同效力、声誉与资本市场的重复博弈\n23:16 红筹为何从“抄近路”变成“绕远路”\n31:37 A股、港股和美股分别适合哪些企业\n41:09 产业与资本风向变化：为什么“搭V”逐渐转向“拆V”\n46:15 企业到底要不要拆红筹：行业、资本来源、上市地与837号令\n56:39 拆红筹实务：上市主体、股权回落、VIE终止、税务与投资人谈判\n01:13:56 红筹与VIE的未来，以及人民币国际化和中国企业出海\nBGM\ncoordination-by-alex-productions\nCool Cats – Smith The Mister\ncoming-home-tomorrow-by-snoozybeats\n声明\n本播客的内容仅代表个人观点，并不代表任何律师事务所或律师出具的任何形式的法律意见或建议。未经本播客的授权，不得转载或使用播客节目中的任何内容。\n联系方式\nhz_studio@outlook.com",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本期节目将从红筹、VIE与境外上市的关系谈起，回顾红筹架构为何兴起并延续二十余年，以及在监管、地缘政治和资本市场变化下，它为何从融资“捷径”变成需要反复权衡的复杂选择。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我们也会重点讨论企业是否应当拆除红筹、哪些企业更适合保留，以及股权置换、VIE终止、税务、外汇、业务许可、员工激励和投资人退出等实务难点，并延伸至837号令、AI企业架构选择及“制度身份”问题。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本期嘉宾是礼丰律师事务所合伙人魏紫薇律师。魏律师长期专注于私募股权和风险投资交易，曾参与及主导上百个项目，并入选LEGALBAND 2023年度中国律界俊杰榜30强。她也曾做客本节目第46期，讨论基金回购与退出问题。</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\">在这期节目里，你可以听到：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">00:00</strong> 红筹架构为何从标准答案变成一道选择题&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">04:17</strong> 红筹、VIE与境外上市究竟是什么关系&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">08:00</strong> 红筹为何兴起：美元融资、外资准入与互联网企业的现实困境&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">13:23</strong> VIE协议靠什么维系：合同效力、声誉与资本市场的重复博弈&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">23:16</strong> 红筹为何从“抄近路”变成“绕远路”&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">31:37</strong> A股、港股和美股分别适合哪些企业&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">41:09</strong> 产业与资本风向变化：为什么“搭V”逐渐转向“拆V”&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">46:15</strong> 企业到底要不要拆红筹：行业、资本来源、上市地与837号令&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">56:39</strong> 拆红筹实务：上市主体、股权回落、VIE终止、税务与投资人谈判&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">01:13:56</strong> 红筹与VIE的未来，以及人民币国际化和中国企业出海</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\">BGM</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">coordination-by-alex-productions</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Cool Cats – Smith The Mister&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">coming-home-tomorrow-by-snoozybeats</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\">声明</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本播客的内容仅代表个人观点，并不代表任何律师事务所或律师出具的任何形式的法律意见或建议。未经本播客的授权，不得转载或使用播客节目中的任何内容。</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\">联系方式</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">hz_studio@outlook.com</p><span></span><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/7bdf-audiofreehighqps/F7/EE/GAqhQKIORzayABAAAATBxkBi.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "陈果的播客｜好的，生活",
   "apple_collection_id": "1896644862",
-  "erzeugt_am": "2026-09-16T06:11:48+00:00",
+  "erzeugt_am": "2026-09-17T18:11:17+00:00",
   "folgen": [
     {
       "guid": "6a80644217676351c572581f",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/f96e236af9ca966e5042252fc69ee369534a89d5.json",
       "titel": "陈果｜S1E4 人能掌握自己的命运吗？",
       "veroeffentlicht": "2026-08-15T22:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨在充满不确定性的科技时代，人是否能掌握自己的命运。"
     }

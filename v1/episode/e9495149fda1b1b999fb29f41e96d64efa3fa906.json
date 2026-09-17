@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "guid": "5e71a62a-e071-4e7a-a4bf-8e0101f48700",
+  "apple_collection_id": "1463141074",
+  "show": "雅思口语IELTS English2026",
+  "titel": "在雅思口语考场遇到没练过的题目应该怎么办",
+  "audio": {
+    "url": "https://traffic.libsyn.com/secure/ieltsjason/17092026_.mp3?dest-id=1269143",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 5612289,
+    "format": "mp3",
+    "geprueft_am": "2026-09-17T08:06:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "雅思口语考场遇到没练过的新题时，如何应对与作答的实用技巧。",
+  "kurzfassung": "在雅思口语考试中遇到生疏或听不懂的题目时，切忌不懂装懂，应当大方请求考官解释或根据真实情况作答。对于第一和第三部分的对话题，保持真情实感比编造故事更为重要。如果在第二部分遇到完全无法回答的话题，考生甚至可以尝试请考官换题。",
+  "stichpunkte": [
+    "进入9月换题季后，考生常会在考场上遇到未曾练习过的新题",
+    "面对听不懂的题目时，千万不要硬着头皮不懂装懂，应当让考官解释",
+    "第一和第三部分问及抽象或八卦类问题时，直接实话实说即可，避免后续无法自圆其说",
+    "第二部分若遇到如描述自身坏习惯等完全不符合自身情况的题目，可以大胆要求换题",
+    "若不想换题，第二部分也可以在自己身上寻找一些小事或正面习惯作为素材进行发挥",
+    "考官更看重考生的临场反馈能力，保持顺畅沟通即使词汇语法普通也能维持不错的分数"
+  ],
+  "kapitel": [
+    {
+      "titel": "面对生疏和听不懂的题目",
+      "start": 0.0
+    },
+    {
+      "titel": "第一与第三部分的真实作答",
+      "start": 78.22
+    },
+    {
+      "titel": "第二部分如何应对与换题",
+      "start": 130.72
+    }
+  ],
+  "clips": [
+    {
+      "hook": "听不懂考官问题时，千万别硬着头皮装懂",
+      "start": 32.64,
+      "ende": 52.728,
+      "laenge": 20.09,
+      "byte_start": 791617,
+      "byte_ende": 1273728,
+      "bytes": 482112,
+      "range_header": "bytes=791617-1273728",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 32.712,
+      "anker_sha256": "434c8cd82f36d1e28c741600483280114d0ae7bfe93e598dd7f5edee9fc099c9",
+      "einblendung_ms": 60,
+      "text": "当面对听不懂或带有生僻词汇的问题时，考生不应勉强回答，而应主动用英语礼貌地请考官提供解释。"
+    },
+    {
+      "hook": "口语考试千万别编造故事，实话实说最安全",
+      "start": 97.92,
+      "ende": 118.008,
+      "laenge": 20.09,
+      "byte_start": 2358337,
+      "byte_ende": 2840448,
+      "bytes": 482112,
+      "range_header": "bytes=2358337-2840448",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 97.992,
+      "anker_sha256": "9a723c644bd8f360c99ba6ac81e3a58c525a6e14bb0050e93619fd719a3c62e1",
+      "einblendung_ms": 60,
+      "text": "面对抽象或八卦类的问题，直接表达真实的个人观点即可，不需要为了迎合考试而凭空捏造经历。"
+    },
+    {
+      "hook": "觉得自己太完美没有坏习惯，怎么跟考官交代",
+      "start": 140.904,
+      "ende": 161.016,
+      "laenge": 20.11,
+      "byte_start": 3389953,
+      "byte_ende": 3872640,
+      "bytes": 482688,
+      "range_header": "bytes=3389953-3872640",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 140.976,
+      "anker_sha256": "ddf4da4626d43ee867090f634404794e4e4ac588d275d7c9864e11a10f19987a",
+      "einblendung_ms": 60,
+      "text": "如果抽到描述坏习惯的卡片但自己觉得自己很完美，这种尴尬的情况让部分考生不知如何开口。"
+    },
+    {
+      "hook": "雅思口语第二部分抽到不会的题，其实可以换",
+      "start": 164.448,
+      "ende": 184.56,
+      "laenge": 20.11,
+      "byte_start": 3955009,
+      "byte_ende": 4437696,
+      "bytes": 482688,
+      "range_header": "bytes=3955009-4437696",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 164.52,
+      "anker_sha256": "aa2f8e424684c395a78726b7c3fab3006cfb9cd5e684e72da39b89b635e6c5e7",
+      "einblendung_ms": 60,
+      "text": "考生在考场上并不一定非要死守抽到的题目，如果确实缺乏相关经历，胆子大一点完全可以请考官更换题目。"
+    },
+    {
+      "hook": "只要沟通顺畅，词汇语法普通也能拿六分",
+      "start": 202.416,
+      "ende": 222.504,
+      "laenge": 20.09,
+      "byte_start": 4866241,
+      "byte_ende": 5348352,
+      "bytes": 482112,
+      "range_header": "bytes=4866241-5348352",
+      "vorlauf_s": 0.072,
+      "inhalt_start": 202.488,
+      "anker_sha256": "64840a58a7732d232c853422fbe73d799ddb5bdfa413e8c22bcc966cc8b04e1c",
+      "einblendung_ms": 60,
+      "text": "考官主要考察的是临场的语言反应和沟通交流能力，因此保持镇定和流畅比纠结高级词汇更重要。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-17T08:06:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 233,
+  "veroeffentlicht": "2026-09-16T22:00:00+00:00",
+  "beschreibung": "1. p13听不懂问题要提问 不要迎着头皮回答 让考官解释一下explain a little bit这样 2. P13没练过 尽量真实回答 别编造 不然不好收场 3. P2胆子大一点 让考官换题",
+  "beschreibung_html": "<p>1. p13听不懂问题要提问 不要迎着头皮回答 让考官解释一下explain a little bit这样 2. P13没练过 尽量真实回答 别编造 不然不好收场 3. P2胆子大一点 让考官换题 </p>",
+  "bild_url": "https://static.libsyn.com/p/assets/f/0/4/8/f0488afd2ae4dc0c16c3140a3186d450/.png",
+  "kapitel_quelle": "modell"
+}

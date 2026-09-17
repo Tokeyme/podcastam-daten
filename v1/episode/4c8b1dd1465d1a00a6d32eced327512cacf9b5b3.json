@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "guid": "gid://art19-episode-locator/V0/kzRDWLqNCHGMmKQfhttzwaLNu6dZhda-PedVHLLF5ds",
+  "apple_collection_id": "1896943121",
+  "show": "Notes from the Edge",
+  "titel": "Are you performing your worth? Trauma, Treatment-Resistant Depression & ECT with Simone Bowyer",
+  "audio": {
+    "url": "https://mgln.ai/e/345/rss.art19.com/episodes/d277c38c-6813-4672-aec7-cf1f86457603.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 44044813,
+    "format": "mp3",
+    "geprueft_am": "2026-09-17T12:43:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst art19.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Why survival traits become personality and overcoming treatment-resistant depression.",
+  "kurzfassung": "Guest Simone Bowyer discusses how childhood trauma creates survival mechanisms like perfectionism and people-pleasing that persist into adulthood. She shares her journey through treatment-resistant depression, finding relief through electroconvulsive therapy, and her work in human-centered leadership. The conversation emphasizes that healing is non-linear and requires compassion rather than judgment.",
+  "stichpunkte": [
+    "Survival traits like perfectionism and hyperindependence originate as protective mechanisms in childhood trauma.",
+    "The nervous system continues to respond with old patterns even after the actual danger has passed.",
+    "Inpatient treatment introduced vital concepts like codependency, schema therapy, and inner child healing.",
+    "Treatment-resistant depression led to years of severe suffering and suicidal ideation despite trying numerous medications and therapies.",
+    "Electroconvulsive therapy provided necessary mental space to consider alternatives to suicide, supported by ongoing maintenance sessions.",
+    "Workplaces need to transition to human-centered leadership that values psychological safety over constant high performance.",
+    "The book Chasing Light reflects a journey from seeking external validation to recognizing internal resilience.",
+    "Healing has no fixed timeline, and standing still or experiencing setbacks is a normal part of the process."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and the Language of Survival",
+      "start": 4.08
+    },
+    {
+      "titel": "Recognizing Maladaptive Patterns in Adulthood",
+      "start": 502.54
+    },
+    {
+      "titel": "Treatment-Resistant Depression and ECT",
+      "start": 964.7
+    },
+    {
+      "titel": "Human-Centered Leadership and Workplace Safety",
+      "start": 1418.66
+    },
+    {
+      "titel": "Writing Chasing Light and Finding Color Again",
+      "start": 1792.74
+    },
+    {
+      "titel": "Performing Worth and the Reality of Healing",
+      "start": 2373.0
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Perfectionism and invisibility as safety strategies",
+      "start": 296.229,
+      "ende": 326.322,
+      "laenge": 30.09,
+      "byte_start": 5087675,
+      "byte_ende": 5569163,
+      "bytes": 481489,
+      "range_header": "bytes=5087675-5569163",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 296.307,
+      "anker_sha256": "7980bffc582a7b55452fdf3d0e953a771294a9239d7d7c5ae9f91047d5f0802a",
+      "einblendung_ms": 60,
+      "text": "The guest explains that striving for perfection and trying to remain unnoticed served as protective measures against getting yelled at and facing danger during childhood."
+    },
+    {
+      "hook": "Entering long-term treatment for eating disorders and trauma",
+      "start": 587.912,
+      "ende": 618.005,
+      "laenge": 30.09,
+      "byte_start": 9754607,
+      "byte_ende": 10236095,
+      "bytes": 481489,
+      "range_header": "bytes=9754607-10236095",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 587.99,
+      "anker_sha256": "1c54c222e244694ddc25b3886fc807e804c83345a890ac1d1520abbb9f694df7",
+      "einblendung_ms": 60,
+      "text": "A hospital admission at a long-term treatment facility introduced the guest to codependency and schema therapy while forcing her to confront pain without her usual coping mechanisms."
+    },
+    {
+      "hook": "Existing in a dark hole every single day",
+      "start": 1069.453,
+      "ende": 1089.541,
+      "laenge": 20.09,
+      "byte_start": 17459266,
+      "byte_ende": 17780676,
+      "bytes": 321411,
+      "range_header": "bytes=17459266-17780676",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1069.531,
+      "anker_sha256": "69ff7344292a8f37f7cfa8e026edaee60115792ea77b4881d8ea3cea197d1a3e",
+      "einblendung_ms": 60,
+      "text": "Living with treatment-resistant depression felt less like actual living and more like mere existence within a dark and painful daily reality."
+    },
+    {
+      "hook": "High performance or a nervous system that cannot stop?",
+      "start": 1574.818,
+      "ende": 1594.906,
+      "laenge": 20.09,
+      "byte_start": 25545104,
+      "byte_ende": 25866514,
+      "bytes": 321411,
+      "range_header": "bytes=25545104-25866514",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1574.896,
+      "anker_sha256": "872b3f6cd53cfaa5f9a2e870006edc6b386a20d450d264461064c0aa1a5fbd34",
+      "einblendung_ms": 60,
+      "text": "Corporate environments often praise high performance when what is actually observed is a nervous system that never learned how to feel safe enough to rest."
+    },
+    {
+      "hook": "Believing that love and peace had to be earned",
+      "start": 2413.479,
+      "ende": 2443.572,
+      "laenge": 30.09,
+      "byte_start": 38963683,
+      "byte_ende": 39445171,
+      "bytes": 481489,
+      "range_header": "bytes=38963683-39445171",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2413.558,
+      "anker_sha256": "d57f3b9e07527bedc19fdb5f926c5ef865c206a7d4c33a62c983c08a2a7f9d8a",
+      "einblendung_ms": 60,
+      "text": "A passage from her book highlights the long-held belief that personal worth had to be constantly performed and that peace had to be actively proven."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-17T12:43:45+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2731,
+  "veroeffentlicht": "2026-09-17T00:00:00+00:00",
+  "beschreibung": "What if the traits you think are your personality are actually things you learned to do to survive?\nSimone Bowyer is a writer and founder of The Light Within Collective, whose work explores what she calls the “language of survival,” the patterns we develop to feel safe, loved, worthy, and less likely to be abandoned.\nIn this conversation, Simone and I talk about perfectionism, hyper-independence, control, and overachievement as survival adaptations rather than simply personality traits. She shares her experience with severe treatment-resistant depression, years of psychiatric treatment, and ultimately electroconvulsive therapy, or ECT, which she describes not as a cure, but as something that finally created enough space for her to consider life beyond the darkness.\nWe also take the conversation into the workplace, exploring why we cannot simply leave our wounds at home, what human-centered leadership can look like, and why psychological safety matters when the person who appears to be your highest performer may actually have a nervous system that never learned it was safe to stop.\n\nIn this episode:\n• How childhood trauma can become perfectionism, people-pleasing, control, and hyper-independence\n• Treatment-resistant depression and Simone’s experience with ECT\n• Why recovery does not erase survival patterns overnight\n• Performing worth in order to feel lovable and avoid abandonment\n• Trauma, the nervous system, and high achievement\n• Psychological safety and human-centered leadership in the workplace\n• Why healing is not linear and does not have a timeline\n• Simone’s book, Chasing Light, and finding color again after years of depression\n• Moving from asking “What is wrong with me?” to asking “What did I learn to do to survive?”\n\nConnect with Simone Bowyer:\nThe Light Within Collective\nhttps://lightwithincollective.co.za\n\nConnect with Lisa Lacy:\nhttps://lisalacy.com\nWhat did you perform in order to survive?\nWelcome to the Edge.\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+  "beschreibung_html": "<p>What if the traits you think are your personality are actually things you learned to do to survive?</p><p>Simone Bowyer is a writer and founder of <strong>The Light Within Collective</strong>, whose work explores what she calls the “language of survival,” the patterns we develop to feel safe, loved, worthy, and less likely to be abandoned.</p><p>In this conversation, Simone and I talk about perfectionism, hyper-independence, control, and overachievement as survival adaptations rather than simply personality traits. She shares her experience with severe treatment-resistant depression, years of psychiatric treatment, and ultimately electroconvulsive therapy, or ECT, which she describes not as a cure, but as something that finally created enough space for her to consider life beyond the darkness.</p><p>We also take the conversation into the workplace, exploring why we cannot simply leave our wounds at home, what human-centered leadership can look like, and why psychological safety matters when the person who appears to be your highest performer may actually have a nervous system that never learned it was safe to stop.</p><p><br></p><p><strong>In this episode:</strong></p><p>• How childhood trauma can become perfectionism, people-pleasing, control, and hyper-independence</p><p>• Treatment-resistant depression and Simone’s experience with ECT</p><p>• Why recovery does not erase survival patterns overnight</p><p>• Performing worth in order to feel lovable and avoid abandonment</p><p>• Trauma, the nervous system, and high achievement</p><p>• Psychological safety and human-centered leadership in the workplace</p><p>• Why healing is not linear and does not have a timeline</p><p>• Simone’s book, <strong>Chasing Light</strong>, and finding color again after years of depression</p><p>• Moving from asking “What is wrong with me?” to asking “What did I learn to do to survive?”</p><p><br></p><p><strong>Connect with Simone Bowyer:</strong></p><p>The Light Within Collective</p><p><a href=\"https://lightwithincollective.co.za/\" rel=\"noopener noreferrer\" target=\"_blank\">https://lightwithincollective.co.za</a></p><p><br></p><p><strong>Connect with Lisa Lacy:</strong></p><p><a href=\"https://lisalacy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">https://lisalacy.com</a></p><p><strong>What did you perform in order to survive?</strong></p><p>Welcome to the Edge.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+  "bild_url": "https://content.production.cdn.art19.com/images/ef/ac/0e/6f/efac0e6f-2c99-4b76-bbd4-b18ce13cb474/ab47a9b5ceb1d14bc1891adc697b58544f39954eb77afc4faabd1ff5a9d00b78e52844f8393e6d4f51417222599a39628455878e306aefcc4818263896ee3a52.jpeg",
+  "folgennummer": 101,
+  "kapitel_quelle": "modell"
+}

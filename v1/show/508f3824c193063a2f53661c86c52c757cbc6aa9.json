@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "硅谷101",
+  "apple_collection_id": "1498541229",
+  "erzeugt_am": "2026-09-17T18:11:17+00:00",
+  "folgen": [
+    {
+      "guid": "786d63c4-d46c-4ff3-80f8-fc895b2a57f0",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/786d63c4-d46c-4ff3-80f8-fc895b2a57f0.mp3",
+      "pfad": "/v1/episode/dff864b3dd2f65c71d8641f37ddaaea0281d225f.json",
+      "titel": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+      "veroeffentlicht": "2026-09-15T17:00:00-07:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨AI推理芯片的三大技术路径，以及英伟达芯片大师Bill Dally的设计哲学。"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "gid://art19-episode-locator/V0/PjwUvnL7FSsP5n2APFweLQJ1tXg6J84SK_8vFEgSJ_o",
+  "apple_collection_id": "1233834541",
+  "show": "Wow in the World",
+  "titel": "Teach Like an Orangutan! What Makes These Great Apes Such Great Teachers? (Encore)",
+  "audio": {
+    "url": "https://pscrb.fm/rss/p/rss.art19.com/episodes/15980a1a-a119-4611-a8af-e6fdbeb3df88.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 28767459,
+    "format": "mp3",
+    "geprueft_am": "2026-09-17T05:46:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst art19.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "红毛猩猩如何像人类u00a0一样教育它们的下一代",
+  "kurzfassung": "两位主持人前往苏门答腊岛观察红毛猩猩母亲如何教育幼崽。研究发现猩猩幼崽跟随父母生活多年并分阶段学习复杂的觅食技能。这种循序渐进的抚育方式为人类教学提供了有趣的启示。",
+  "stichpunkte": [
+    "红毛猩猩与人类共享约97%的DNA",
+    "幼崽会跟随父母生活长达近12年之久",
+    "小猩猩需要学习识别并准备两百多种食物",
+    "觅食教学从易到难从植物逐步过渡到猎物",
+    "猩猩母亲会允许幼崽拿走自己找到的食物",
+    "随着年龄增长幼崽必须学会独立寻找食物",
+    "红毛猩猩的长期育儿法启发了有效的教学技巧"
+  ],
+  "kapitel": [
+    {
+      "titel": "寻找独特的老师",
+      "start": 143.58
+    },
+    {
+      "titel": "前往苏门答腊岛",
+      "start": 425.2
+    },
+    {
+      "titel": "观察红毛猩猩育儿",
+      "start": 597.08
+    },
+    {
+      "titel": "树冠上的生动一课",
+      "start": 929.48
+    },
+    {
+      "titel": "听众留言与节目鸣谢",
+      "start": 1520.08
+    }
+  ],
+  "clips": [
+    {
+      "hook": "人类与猩猩的惊人相似",
+      "start": 518.4,
+      "ende": 538.488,
+      "laenge": 20.09,
+      "byte_start": 8530713,
+      "byte_ende": 8852122,
+      "bytes": 321410,
+      "range_header": "bytes=8530713-8852122",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 518.478,
+      "anker_sha256": "eff50a8c4d5f42ac9057f0f28cbe0649578b898fbf29c0903308b47c318b6730",
+      "einblendung_ms": 60,
+      "text": "这两种动物与人类拥有极高的基因相似度，在本质上可以说是人类的表亲。"
+    },
+    {
+      "hook": "动物王国里的超长童年",
+      "start": 623.673,
+      "ende": 643.762,
+      "laenge": 20.09,
+      "byte_start": 10215088,
+      "byte_ende": 10536498,
+      "bytes": 321411,
+      "range_header": "bytes=10215088-10536498",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 623.752,
+      "anker_sha256": "da3951fd39b50308d23a164d9a5fb5bf41394b45d948349a2d557b9cef4ce730",
+      "einblendung_ms": 60,
+      "text": "年轻的猩猩会长时间和父母生活在一起，在动物界中这种成长周期算是相当漫长的。"
+    },
+    {
+      "hook": "望远镜里的意外发现",
+      "start": 930.246,
+      "ende": 950.361,
+      "laenge": 20.11,
+      "byte_start": 15120257,
+      "byte_ende": 15442085,
+      "bytes": 321829,
+      "range_header": "bytes=15120257-15442085",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 930.325,
+      "anker_sha256": "e2c83622bfc544c555f7569f9c1d77241c36a17ea80470289b18f3e48c8c98d7",
+      "einblendung_ms": 60,
+      "text": "经过放大镜观察确认了森林中两只动物的年龄以及它们各自喜爱的热带水果。"
+    },
+    {
+      "hook": "冷静而坚定的育儿拒绝",
+      "start": 1086.851,
+      "ende": 1106.965,
+      "laenge": 20.11,
+      "byte_start": 17625922,
+      "byte_ende": 17947750,
+      "bytes": 321829,
+      "range_header": "bytes=17625922-17947750",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1086.929,
+      "anker_sha256": "857059772f9ba6a7b448a1b3ed631d813089b3420d6dc5f849723ae7dbf67c4e",
+      "einblendung_ms": 60,
+      "text": "面对较大幼崽的索取，母亲通过平和的信号明确传达出应当独立寻找食物的信息。"
+    },
+    {
+      "hook": "被大猩猩误认为是宝宝",
+      "start": 1349.512,
+      "ende": 1369.626,
+      "laenge": 20.11,
+      "byte_start": 21828502,
+      "byte_ende": 22150330,
+      "bytes": 321829,
+      "range_header": "bytes=21828502-22150330",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1349.59,
+      "anker_sha256": "863c55a97c2345b949e7e9fc73d8aa800128b492707c71b72860e45960601d66",
+      "einblendung_ms": 60,
+      "text": "其中一位主持人被成年猩猩紧紧抱住，场面十分滑稽且无法脱身。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-17T05:46:27+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1783,
+  "veroeffentlicht": "2026-09-14T07:01:00+00:00",
+  "beschreibung": "When Guy Raz needs help preparing to teach his \"Faster-Class,\" Mindy decides the best \"people\" to teach him are… orangutans in the jungles of Sumatra? In this episode about orangutan intelligence, animal learning, and teaching, Mindy and Guy embark on a wild adventure to discover how orangutan moms teach their babies the skills they need to survive! Listen and discover how young orangutans spend years learning everything from how to find flowers and fruits to using tools! By connecting laughter to learning, this animal learning episode shows how some of the best lessons can come from the most unexpected teachers.\nObserving orangutans in the wild, Guy learns an important strategy for his Faster-Class: be patient, don’t yell, and demonstrate! And when a mother orangutan shares a hard-to-find meal with both of her babies, Guy discovers another valuable lesson: break learning into manageable and digestible steps!\nGet ready for a tree-climbing adventure full of hilarious chaos, clever science, and lots of laughter. From a disastrous Faster-Class filming session, to a crash landing in Sumatra, Mindy and Guy discover how orangutan moms make some of the best teachers in the animal kingdom! This is the Who, What, When, Where, Why, How, and Wow in the World of orangutan intelligence, animal learning, and the surprising science of teaching, brought to life with humor, curiosity, and a whole lot of WOW!\n✨ Don’t miss the chance to explore even further with Wow in the World:\nGrownups can visit tinkercast.com/join-twaaw to join the World Organization of Wowzers (WOW) and unlock exclusive activities, birthday cards, quarterly mailings, first dibs at events, and a welcome kit with an autographed photo of Mindy & Guy Raz! Plus, Grownups help support our podcast and our mission to create content and experiences that connect laughter to learning, curiosity to innovation and kids to the WOWs in their world!\nThis episode of Wow in the World is a perfect blend of storytelling, humor, and animal science, inviting kids and families to swing into the jungle and meet some incredible orangutan teachers—all while laughing, learning, and wowing together.\nOriginally aired 5/23/22.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+  "beschreibung_html": "<p>When Guy Raz needs help preparing to teach his \"Faster-Class,\" Mindy decides the best \"people\" to teach him are… orangutans in the jungles of Sumatra? In this episode about orangutan intelligence, animal learning, and teaching, Mindy and Guy embark on a wild adventure to discover how orangutan moms teach their babies the skills they need to survive! Listen and discover how young orangutans spend years learning everything from how to find flowers and fruits to using tools! By connecting laughter to learning, this animal learning episode shows how some of the best lessons can come from the most unexpected teachers.</p><p>Observing orangutans in the wild, Guy learns an important strategy for his Faster-Class: be patient, don’t yell, and demonstrate! And when a mother orangutan shares a hard-to-find meal with both of her babies, Guy discovers another valuable lesson: break learning into manageable and digestible steps!</p><p>Get ready for a tree-climbing adventure full of hilarious chaos, clever science, and lots of laughter. From a disastrous Faster-Class filming session, to a crash landing in Sumatra, Mindy and Guy discover how orangutan moms make some of the best teachers in the animal kingdom! This is the Who, What, When, Where, Why, How, and Wow in the World of orangutan intelligence, animal learning, and the surprising science of teaching, brought to life with humor, curiosity, and a whole lot of WOW!</p><p>✨ Don’t miss the chance to explore even further with Wow in the World:</p><p>Grownups can visit tinkercast.com/join-twaaw to join the World Organization of Wowzers (WOW) and unlock exclusive activities, birthday cards, quarterly mailings, first dibs at events, and a welcome kit with an autographed photo of Mindy &amp; Guy Raz! Plus, Grownups help support our podcast and our mission to create content and experiences that connect laughter to learning, curiosity to innovation and kids to the WOWs in their world!</p><p>This episode of Wow in the World is a perfect blend of storytelling, humor, and animal science, inviting kids and families to swing into the jungle and meet some incredible orangutan teachers—all while laughing, learning, and wowing together.</p><p>Originally aired 5/23/22.</p><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+  "bild_url": "https://content.production.cdn.art19.com/images/5e/69/e5/2b/5e69e52b-233f-4e63-b54a-f4a493f5c8a8/4fb44cbb5331d71c940a9766f722aa28ea0e063465094269a645a8aa1e2db79aeeade92e71ae29bc90b53276325cbeab1e68e5afd103ba02ce848d23c89801af.jpeg",
+  "folgennummer": 1243,
+  "kapitel_quelle": "modell"
+}
