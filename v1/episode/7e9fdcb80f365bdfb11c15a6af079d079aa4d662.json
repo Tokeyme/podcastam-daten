@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-26T01:31:51+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "探讨幼儿园外部督导会议心得，剖析幼教乱象与特殊生融合教育。",
   "kurzfassung": "主持人分享了参加非营利幼儿园期末外部督导会议的心得，探讨了幼教行业的低薪高压现状以及师资短缺问题。节目深入讨论了幼儿园中特殊生（如自闭倾向儿童）的融合教育，强调制度支持与观念调整的重要性。最后呼吁社会及政策应侧重于提供实质性的育儿支持，而非仅靠金钱补助。",

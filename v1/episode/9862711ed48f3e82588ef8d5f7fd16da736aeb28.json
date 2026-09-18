@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:59:58+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "A compilation of the week's episodes covering US imperialism, labor issues, and AI.",
   "kurzfassung": "This compilation episode gathers the week's coverages into a single stream. It begins with a history of US overseas expansion and colonies, followed by reports on labor struggles and silica health risks. Finally, it explores the future of AI intimacy and the expanding digital surveillance of political activism.",

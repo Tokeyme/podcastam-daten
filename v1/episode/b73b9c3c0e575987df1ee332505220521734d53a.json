@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:08:54+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Sherlock Holmes investigates the mysterious disappearance of a wealthy gentleman in…",
   "kurzfassung": "Dr. Watson joins Sherlock Holmes to investigate the sudden disappearance of Neville St. Clair from a London opium den. Traces of blood, a missing body, and a beggar named Hugh Boone complicate the case. Holmes ultimately discovers that the wealthy gentleman and the beggar are the exact same person.",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-24T16:47:58+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "statisch",
-    "grund": null
+    "grund": "Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "探讨语音聊天软件Clubhouse的爆红原因及产品体验",
   "kurzfassung": "本期节目深入探讨了近期爆红的语音聊天软件Clubhouse。主播分析了其产品本质、爆红背后的明星效应与疫情影响，并对比了它与播客的区别。同时，节目还讨论了这类应用在东亚文化背景下的适应性以及未来是否能成为5G杀手级应用。",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:50:39+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Bubba Sparxxx reflects on his hip-hop journey, southern roots, and resilience.",
   "kurzfassung": "Bubba Sparxxx joins the hosts to discuss his unique path in hip-hop as a white southern artist. He reflects on being discovered by Fred Durst and working with Jimmy Iovine and Timbaland on his breakout hits. Throughout the conversation, he also opens up candidly about his struggles with addiction and his enduring love for the culture.",

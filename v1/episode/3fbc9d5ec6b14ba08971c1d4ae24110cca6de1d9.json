@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T03:48:11+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "How George and Joan Johnson built a Black hair care empire and funded the civil rights…",
   "kurzfassung": "George and Joan Johnson built Johnson Products Company into a multi-million-dollar Black hair care empire by recognizing the economic power of Black consumers in the mid-20th century. Their success fueled the rise of Black entrepreneurship, financed Martin Luther King Jr., and sponsored Soul Train before corporate competition and changing trends led to its sale. Today, their legacy lives on through the foundation they laid for the modern Black hair care industry.",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-29T23:55:20+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst mgln.ai) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst mgln.ai) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "A look at recent true crime updates, legal battles, and ongoing pursuit of justice.",
   "kurzfassung": "Host Woody Overton breaks down several true crime cases and legal developments, including the publication of a book detailing the fight for justice in the Courtney Coco case. The episode covers the conviction of a Tennessee pastor for child sexual abuse, a suspicious teen death in Houston initially labeled as suicide, the discovery of three bodies in three days in Minneapolis, and a Florida man pleading guilty and asking for the death penalty. Overton also discusses the upcoming judicial race of prosecutor Hugo Holland.",

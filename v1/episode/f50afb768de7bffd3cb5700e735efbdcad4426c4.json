@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T00:11:08+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "How the controversial model of Moscow, Idaho, inspires Christian nationalist projects.",
   "kurzfassung": "Residents in Gainesboro look to Moscow, Idaho, as a blueprint after venture-backed developers target their town for a Christian nationalist community. Led by Pastor Doug Wilson, Christ Church spent decades deeply dividing Moscow through schools, businesses, and ideological real estate acquisitions. While Wilson views Moscow as a successful model for national transformation, local residents are now organizing to buy property and push back.",

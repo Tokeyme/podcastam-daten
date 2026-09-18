@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T00:16:35+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "The rise and fall of John DeLorean, fraud, and the iconic gull-wing sports car.",
   "kurzfassung": "John DeLorean rose through the ranks at General Motors, created the iconic Pontiac GTO, and later left to found his own car company. To fund the production of his stainless steel sports car with gull-wing doors, he secured massive backing from the UK government to build a factory in Northern Ireland. The venture ultimately collapsed amidst financial fraud, poor car quality, and a cocaine sting operation orchestrated by the FBI.",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T00:50:16+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Lauren Paley talks about her viral Disney princess covers and new EP.",
   "kurzfassung": "Lauren Paley joins the show to discuss her viral social media success singing pop and punk hits in a Disney princess style. She talks about transitioning from musical theater and songwriting to content creation, and collaborating with Simple Plan's lead singer. The conversation also touches on parenting, children's media empires like Blippy and Bluey, and live vocal performances in the studio.",

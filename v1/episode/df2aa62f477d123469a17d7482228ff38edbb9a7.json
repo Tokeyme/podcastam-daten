@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:43:26+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Chris Young shares how country music became his lifeline through life's toughest moments.",
   "kurzfassung": "Country music star Chris Young discusses his musical roots, personal struggles, and tenth studio album, I Didn't Come Here to Leave. He reflects on how heartbreak and loss shaped his songwriting and why music serves as an essential lifeline. Additionally, he highlights the importance of supporting music education and giving back through philanthropy.",

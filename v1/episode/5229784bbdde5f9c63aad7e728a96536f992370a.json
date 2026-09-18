@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-25T18:42:30+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "世界麵包冠軍王鵬傑分享從陣頭少年到烘焙名匠的翻轉人生。",
   "kurzfassung": "世界麵包冠軍王鵬傑接受專訪，坦言童年遭受霸凌、加入陣頭及混跡幫派的荒唐過往。在經歷朋友遭槍擊身亡的震撼後，他下定決心離開中部並考入高雄餐旅大學。憑藉對烘焙的極致投入與師長貴人的指引，他最終奪得世界麵包大賽金牌，如今更投身矯正學校演講，希望能拉拔迷途少年重返正途。",

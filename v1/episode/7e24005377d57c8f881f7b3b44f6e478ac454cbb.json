@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T03:12:12+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "A comedian attends a hockey game at Madison Square Garden with his con-man father.",
   "kurzfassung": "Gary Vider attends a New York Rangers game at Madison Square Garden with his estranged father for the first time in decades. Despite discovering that his father still smuggles weapons and pulls off cons, Gary manages to let go of his resentment. The outing brings their complex relationship full circle as they share a nostalgic night at the iconic arena.",

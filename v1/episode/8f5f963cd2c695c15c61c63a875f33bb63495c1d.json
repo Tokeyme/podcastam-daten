@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:30:10+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "How a Scottish fruit seller and her stool triggered a century of British revolutions.",
   "kurzfassung": "In 1637, fruit merchant Jenny Geddes threw her three-legged stool at a dean in Saint Giles's Cathedral after a sneakily introduced prayer book sparked outrage. This bold act of defiance triggered a massive riot that snowballed into the Bishop's Wars and the wider Wars of the Three Kingdoms. Historians debate her actual existence, but she remains a celebrated Scottish folk hero and symbol of resistance.",

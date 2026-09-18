@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T00:36:46+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Host Mongesha explores the modern obsession with longevity, biohacking, and life…",
   "kurzfassung": "Host Mongesha explores the growing cultural and scientific obsession with longevity and biohacking as he approaches middle age. He consults television historians, astrologers, and longevity doctors like Nir Barzilai and Ron Primus to examine whether humans can realistically extend their lifespans. Along the way, family discussions and personal medical exams challenge his initial acceptance of mortality.",

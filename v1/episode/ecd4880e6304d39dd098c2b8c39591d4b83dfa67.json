@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-29T23:46:28+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Comedian Canise Mobley shares her wild dating adventures and limits of saying yes abroad.",
   "kurzfassung": "Comedian Canise Mobley reflects on her solo travels and dating experiences across Europe, influenced by romantic movie tropes. She recounts a memorable, bizarre date in Paris that escalated from a museum visit to a sex club and pizza dinner. Through these encounters, she learns to balance the thrill of saying yes with her personal boundaries and identity.",

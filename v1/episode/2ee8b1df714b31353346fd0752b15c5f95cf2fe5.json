@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-22T04:29:38+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Two true crime cases and the bizarre 1973 Acolli Expedition sex raft experiment.",
   "kurzfassung": "The hosts cover two distinct historical stories involving isolation and conflict. First, they detail how two Atlanta detectives quickly linked and solved a string of murders in the 1980s. Second, they examine the Acolli Expedition, a 1973 scientific raft journey designed to study human aggression that ultimately proved the power of cooperation.",

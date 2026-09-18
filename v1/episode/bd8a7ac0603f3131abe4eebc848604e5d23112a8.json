@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:33:01+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "US imposes tariffs on Canada as trade talks collapse and Treasury prepares Iran sanctions.",
   "kurzfassung": "The United States has slapped 50 percent tariffs on approximately 20 billion dollars of Canadian goods after trade talks collapsed, prompting retaliation plans from Ottawa. Meanwhile, Treasury Secretary Scott Bessent prepares new secondary sanctions against countries trading with Iran. In the markets, investors await comments from Kevin Warsh at Jackson Hole and Nvidia's upcoming earnings report.",

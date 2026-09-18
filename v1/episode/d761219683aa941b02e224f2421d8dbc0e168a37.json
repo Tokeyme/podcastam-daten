@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:41:59+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Why sabbatical travel is the ultimate way for women over 50 to rest and renew.",
   "kurzfassung": "Sabbatical travel offers women over 50 a purposeful way to step away from daily routines for an extended period of rest, spiritual renewal, and reflection. Grounded in biblical principles of Sabbath, taking time away helps reset health, process emotions, and break free from constant productivity. Planning this journey requires addressing logistics like finances, caregiving support, and allowing at least two to three weeks to fully decompress.",

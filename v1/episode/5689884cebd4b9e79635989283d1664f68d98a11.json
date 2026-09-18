@@ -12,11 +12,13 @@
     "geprueft_am": "2026-09-06T10:10:41+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Examining the broader fallout and controversies surrounding the Maya Kowalski child…",
   "kurzfassung": "This episode explores the widespread impact of the Maya Kowalski case and the legal battles over mandatory child abuse reporting. Host Andrea Dunlop examines how media narratives and documentaries have fueled a fringe \"medical kidnapping\" movement that targets hospitals and pediatric specialists. Through legal analysis and expert interviews, the show investigates the vital role of medical professionals in protecting vulnerable children.",

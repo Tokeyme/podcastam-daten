@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T01:23:36+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Alex Morris on distilling three decades of Berkshire Hathaway meetings into a book.",
   "kurzfassung": "Alex Morris discusses his book \"Buffett and Munger Unscripted,\" which distills three decades of Berkshire Hathaway annual meetings. He shares insights on his concentrated investment strategy, the evolution of value investing, and lessons learned from studying Warren Buffett and Charlie Munger. Additionally, Morris reflects on his transition from a buy-side analyst to launching an independent research service.",

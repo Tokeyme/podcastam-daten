@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:12:07+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Comedian Nicki Glaser announces the final episode of her podcast after four years.",
   "kurzfassung": "Nicki Glaser announces in this final episode that her podcast is ending after four years due to her increasingly demanding schedule. Reflecting on her time on the show, she shares personal stories, including a stressful day when her dog went missing. Joined by co-hosts and former team members, she thanks her dedicated fans, known as besties, for their unwavering support.",

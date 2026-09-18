@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-22T23:24:13+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "走入福山植物園水深植物池，聆聽山林秘境中生生不息的自然之聲。",
   "kurzfassung": "本集帶領聽眾回到民國91年2月28日的早晨，實地探訪福山植物園的美麗景致。節目中記錄了水深植物池畔的生態風貌，包含各式水生植物與鳥類蛙鳴。這些豐富的自然聲音交織成一幅宛如莫內畫作的動人景象。",

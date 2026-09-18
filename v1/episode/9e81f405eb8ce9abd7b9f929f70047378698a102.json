@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T04:03:53+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Joe Jonas and friends talk with Jake Shane about pop culture, tours, and location sharing.",
   "kurzfassung": "The hosts welcome internet personality and podcaster Jake Shane to discuss his recent career highlights, including his Broadway run and guest spots. They dive into random topics like unwanted location sharing, awkward TV viewing moments, and word pet peeves. Finally, they react to listener voicemails asking for life and friendship advice.",

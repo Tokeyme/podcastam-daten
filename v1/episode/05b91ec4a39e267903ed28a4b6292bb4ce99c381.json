@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:21:48+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "OpenAI secures massive funding, new partnerships, and pushes into music and…",
   "kurzfassung": "SoftBank has completed a $30 billion investment in OpenAI as the company restructures to prepare for a public offering. OpenAI has also formed a hardware partnership with AMD and acquired the Mac interface tool Sky. Additionally, the company is exploring AI music generation and outlining a vision to reindustrialize the U.S. through infrastructure investments.",

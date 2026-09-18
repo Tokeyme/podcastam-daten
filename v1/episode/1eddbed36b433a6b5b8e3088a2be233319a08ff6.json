@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T03:16:34+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Comedian Brian Bates on turning anxiety and a resting worried face into comedy gold.",
   "kurzfassung": "Comedian Brian Bates discusses his new stand-up special \"Worried,\" which streams on YouTube and was filmed in Nashville. He shares his journey from corporate television production to full-time stand-up following his father's passing in 2006. The conversation also covers his work on podcasts like The Public Figures and his minor role in Nate Bargatze's film The Breadwinner.",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T03:57:28+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Embracing single life and dating standards during hot divorce summer.",
   "kurzfassung": "Deanna Pappas is joined by guests Luise and Courtney to discuss the rising cultural trend of hot divorce summer. The conversation explores the joys of independence, the challenges of dating after divorce, and how women redefine partnership on their own terms. They share personal stories about navigating single life, building supportive communities, and raising their standards.",

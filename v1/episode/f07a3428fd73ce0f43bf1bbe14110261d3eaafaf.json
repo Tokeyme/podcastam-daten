@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T04:00:46+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Kristen Johnston talks about her iconic role as Lexi on Sex and the City.",
   "kurzfassung": "Kristin Davis and guest Kristen Johnston discuss the challenges of being actresses in their fifties and sixties, and working with creators like Chuck Lorre and Michael Patrick King. They reminisce about New York theater days and the enduring legacy of Sex and the City. Johnston shares hilarious memories of filming her famous party-girl demise as Lexi and opens up about her journey with sobriety.",

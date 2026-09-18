@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:38:52+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Analyzing the highs, lows, and box office hits of the 2026 summer movie season.",
   "kurzfassung": "The hosts break down the 2026 summer movie season, analyzing major box office hits and flops. They discuss how original storytelling, premium formats, and cultural moments shaped audience turnout. The episode also features audience questions covering topics like biographical films and the impact of AI.",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-24T13:22:17+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "優秀小學生分享英語演講與作文競賽的準備心得與學習策略",
   "kurzfassung": "主持人嚴安秀邀請兩位在語文競賽中獲得優異成績的小朋友，分享他們參加英語看圖說故事與作文比賽的經歷。節目中談到了練習過程中的挫折、師長與家人的鼓勵，以及他們各自總結出的學習與寫作策略。兩位同學也表達了未來想將所學傳授給其他小朋友的意願。",

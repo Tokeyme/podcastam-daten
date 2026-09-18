@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:45:47+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Ole Miss alumna Elise Stacy shares real stories and standards board fears from Southern…",
   "kurzfassung": "Elise Stacy joins the podcast to discuss her experiences going through sorority rush at Ole Miss. She shares the strict rules, the terror of facing the standards board over a minor infraction, and how southern Greek life compares to other regions. Stacy also offers advice for panicked parents and girls currently going through the rush process.",

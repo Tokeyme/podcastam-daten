@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:34:17+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Prominent guests share childhood food memories and family stories connected to meals.",
   "kurzfassung": "Prominent figures share personal stories about their childhood meals, family backgrounds, and how food shaped their lives. Guests discuss kitchen memories, immigration histories, and the cultural significance of traditional dishes. The episode celebrates how food connects people across generations and backgrounds.",

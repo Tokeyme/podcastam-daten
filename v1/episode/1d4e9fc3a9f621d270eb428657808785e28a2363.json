@@ -12,11 +12,13 @@
     "geprueft_am": "2026-09-06T14:04:17+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (ETag vorhanden, max-age=86400, Last-Modified 64 h alt - feste Datei, Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (ETag vorhanden, max-age=86400, Last-Modified 64 h alt - feste Datei, Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Bill Burr discusses electric surveillance cars, modern rebellion, and his latest movie.",
   "kurzfassung": "Bill Burr rants about modern electric surveillance cars, shares his thoughts on a breakdancing controversy and a thrilling MotoGP race, and discusses his upcoming role in Aaron Sorkin's film. He also answers listener emails about dating, dancing, and diet while preparing for a holiday weekend.",

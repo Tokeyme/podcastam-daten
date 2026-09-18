@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:42:21+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "A deep dive into Law and Order: SVU season six, episode nine, \"Weak\".",
   "kurzfassung": "The hosts recap Law and Order: SVU season six, episode nine, titled \"Weak\". They discuss the episode's plot, featuring a serial perpetrator targeting vulnerable women, and guest star Amanda Plummer's Emmy-winning performance. They also explore the real-life criminal cases that inspired the episode.",

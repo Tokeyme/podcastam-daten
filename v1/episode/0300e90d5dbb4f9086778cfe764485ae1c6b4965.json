@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T03:19:31+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Listeners share wild family genealogy surprises, childhood schemes, and celebrity…",
   "kurzfassung": "This minisode features listener-submitted hometown stories covering unexpected genealogical ties, bizarre childhood businesses, and a funeral suit mix-up. Other tales include a chaotic Tinder group chat and a late-night sidewalk hangout with Alan Cumming. The hosts wrap up with updates on their pets and community shout-outs.",

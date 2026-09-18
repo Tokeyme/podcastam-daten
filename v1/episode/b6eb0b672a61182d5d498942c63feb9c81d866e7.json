@@ -12,11 +12,13 @@
     "geprueft_am": "2026-09-06T11:40:51+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Celebrating 300 episodes with a deep dive into the Law & Order: SVU episode featuring…",
   "kurzfassung": "The hosts celebrate their 300th episode by recapping a memorable Law & Order: SVU episode guest-starring John Stamos as a serial procreator. They discuss the plot involving an abandoned baby and reproductive abuse, and they share behind-the-scenes stories with Stamos himself in a special interview. The episode also covers real-world true crime cases related to the themes and highlights the hosts' ongoing dedication to the podcast.",

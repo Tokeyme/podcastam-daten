@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T00:41:52+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "A deep dive into the science, symptoms, and history of the chronic sleep disorder…",
   "kurzfassung": "Narcolepsy is a misunderstood chronic sleep disorder characterized by excessive daytime sleepiness and often cataplexy, a sudden loss of muscle control. While historically misattributed or misunderstood, modern research points to a hypocretin deficiency caused by an autoimmune response. Although currently without a cure, symptoms can be managed effectively through medications and lifestyle adjustments.",

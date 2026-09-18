@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T00:35:26+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Hunter Biden discusses politics, double standards, grief, and the price of his name.",
   "kurzfassung": "Hunter Biden joins the podcast for the second part of a candid interview discussing political shifts, double standards in federal investigations and pardons, and the lasting impact of grief. He reflects on his legal battles, his father's presidential legacy, and the personal toll of public scrutiny. The conversation also touches on family, loss, and how memory shapes daily life.",

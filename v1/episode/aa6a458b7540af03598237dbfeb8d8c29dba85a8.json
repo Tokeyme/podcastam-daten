@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:38:47+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Using simple automations to manage ADHD, reduce decision fatigue, and build habits",
   "kurzfassung": "The episode explores how automation can help people with ADHD by reducing routine tasks, decision fatigue, and human error. It outlines frameworks for systemizing and minimizing processes before automating them, with examples ranging from digital templates to home smart lights. Special focus is given to using automated accountability systems to help establish habits and ensure follow-through.",

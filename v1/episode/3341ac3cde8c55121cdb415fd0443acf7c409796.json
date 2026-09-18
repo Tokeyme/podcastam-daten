@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:37:09+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Exploring encounters with mantis beings through psychedelic and spontaneous states.",
   "kurzfassung": "Professor David Luke discusses survey data on encounters with mantis beings reported by individuals under the influence of psychedelics and in non-drug states like meditation. The research reveals that most experiences are perceived positively and provide life-enriching insights, despite potential psychological risks. The discussion also highlights the absence of praying mantises in the UK, making these encounter reports particularly intriguing from a cultural and zoological perspective.",

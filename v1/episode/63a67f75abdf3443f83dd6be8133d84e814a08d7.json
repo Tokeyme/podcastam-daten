@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:29:48+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst omny.fm) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst omny.fm) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Juvenile and B.G. drop in to talk hip-hop history, the Cash Money & No Limit tour, and…",
   "kurzfassung": "Juvenile and B.G. join the podcast to discuss their upcoming joint tour and share stories from the golden era of Cash Money and No Limit. Before the interview, the hosts dive into debates about online negativity, haircuts, and awkward vacation mishaps. The episode wraps up with a chaotic voicemail about relationship standards.",

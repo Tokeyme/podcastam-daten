@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:17:17+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "AI shifts from luxury to necessity in chips, cybersecurity, and European startups.",
   "kurzfassung": "Artificial intelligence is rapidly transitioning from a luxury to a vital necessity across multiple industries, driven by soaring demand in the semiconductor sector. Major financial institutions are joining Anthropic's Project Glasswing to leverage the Mythos model for advanced cybersecurity. Meanwhile, Paris-based startup hub Station F prepares a new edition of its F slash AI accelerator program to propel European tech companies toward rapid commercialization.",

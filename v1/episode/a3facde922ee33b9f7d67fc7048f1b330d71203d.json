@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T02:23:51+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst pdst.fm) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst pdst.fm) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "How fatherhood reshapes the male brain, hormones, and relationships according to science.",
   "kurzfassung": "Dr. Darby Saxby explains how becoming a father triggers significant biological and neurological transformations, including gray matter reduction and a drop in testosterone. The discussion covers how these changes foster empathy and adaptation, alongside the critical role of relationship health during pregnancy. Additionally, the conversation addresses global fertility declines and offers evidence-based advice for expectant parents.",

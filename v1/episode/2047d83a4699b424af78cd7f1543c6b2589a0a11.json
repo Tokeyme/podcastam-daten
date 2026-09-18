@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-29T23:49:28+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Kelly Reilly unpacks her iconic role as Beth Dutton and her passion for gardening.",
   "kurzfassung": "Kelly Reilly sits down with Martha Stewart to discuss playing the fierce character Beth Dutton on Yellowstone and Dutton Ranch. She shares how she developed her Montana accent, her love for horses and country life, and her plans for a much-needed break. The two also bond over their shared appreciation for old houses, nature, and the hard work of ranching.",

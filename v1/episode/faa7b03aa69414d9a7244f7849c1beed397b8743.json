@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:19:35+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "OpenAI and Anthropic hit a wall as revenue growth slows and compute limits bite.",
   "kurzfassung": "OpenAI and Anthropic are facing severe industry headwinds, marked by slowing revenue growth and executives departing. OpenAI has paused certain frontier model training, signaling potential compute shortages and financial strain. These developments threaten the broader AI market and the viability of upcoming public offerings.",

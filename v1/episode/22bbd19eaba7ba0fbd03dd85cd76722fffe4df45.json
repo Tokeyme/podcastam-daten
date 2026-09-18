@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:18:47+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (kein ETag und Cache-Control \"no-cache, no-store, must-revalidate\") - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Anthropic integrates Claude into Excel and partners with Aiera for financial services.",
   "kurzfassung": "Anthropic is embedding its Claude AI assistant directly into Microsoft Excel to transform financial analysis workflows. The company has partnered with Aiera to provide real-time market intelligence and secured a massive deal for Google Tensor Processing Units. Additionally, Anthropic is rolling out new memory features for Claude to help users manage ongoing projects across sessions.",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-24T14:16:59+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "小女孩妮妮通过一场奇妙的地下冒险，学会了如何真正尊重和爱护蚯蚓。",
   "kurzfassung": "小女孩妮妮在花圃遇到下雨天爬出来的蚯蚓，试图用肥皂帮它洗澡，却差点害蚯蚓窒息。在蚯蚓先生的带领下，妮妮缩小进入地下世界参观，明白了每种生物都有适合自己的生活环境。她不仅解救了一只被关在塑料盒里的小蚯蚓，也懂得了真正的关心是理解与尊重而非盲目给予。",

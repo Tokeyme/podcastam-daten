@@ -12,11 +12,13 @@
     "geprueft_am": "2026-09-06T10:16:50+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Reddit co-founder Alexis Ohanian on tech, family, and investments in pets and sports.",
   "kurzfassung": "Reddit co-founder Alexis Ohanian discusses his journey from leaving law school to build Reddit, his venture firm Seven Seven Six, and investing in women's sports and pet travel. He reflects on partnering with his wife, tennis legend Serena Williams, raising their daughters, and building a family farm. Ohanian also shares his outlook on AI, authenticity, and the future of technology.",

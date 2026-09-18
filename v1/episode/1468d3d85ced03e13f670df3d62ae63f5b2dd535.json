@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T01:07:09+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Listener Q&A on HSA viability, single stock investing, and real estate strategies.",
   "kurzfassung": "The hosts answer listener questions covering Health Savings Accounts, investing in single stocks and REITs, and getting started in physical real estate. They also discuss retirement cash bucket strategies and evaluate the pros and cons of live-and-flip real estate investing. Throughout the episode, they offer practical financial guidance paired with personal anecdotes.",
