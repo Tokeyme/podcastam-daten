@@ -12,11 +12,13 @@
     "geprueft_am": "2026-09-06T10:26:38+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Survivor Amber Keel shares how anti-trafficking founder Candace Leard defrauded donors.",
   "kurzfassung": "Amber Keel survived a severe background of addiction and sex trafficking before dedicating herself to helping other survivors in Utah. She partnered with high-profile anti-trafficking activist Candace Rivera, founder of the nonprofit Exodus, to build support systems for victims. However, investigations later revealed that Candace was operating a massive fraud, embezzling hundreds of thousands of dollars and fabricating her credentials.",

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-30T00:44:36+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Daniel Kessler on the new Interpol album and three decades of band history.",
   "kurzfassung": "Interpol guitarist Daniel Kessler discusses the making of the band's eighth album, *This Mirror Weighs a Ton*, produced by Andrew Wyatt in New York. He shares stories from the band's early days, including a surprise backstage visit from David Bowie. Kessler also reflects on his enduring creative routines and passion for songwriting after more than twenty years.",

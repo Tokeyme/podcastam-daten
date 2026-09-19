@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Perspectives英文播客",
   "apple_collection_id": "1839833872",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "68d54154b4befcf730eae095",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/91abe940e2ac321c93ffbce0495962d2a9f17c04.json",
       "titel": "1分钟轻松播客 去陌生地方旅行的心理",
       "veroeffentlicht": "2025-09-25T13:23:10+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨前往陌生地方旅行时的心理状态，解析兴奋与担忧并存的原因。"
     }

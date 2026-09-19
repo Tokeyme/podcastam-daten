@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "圈内故事会",
   "apple_collection_id": "1776538486",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a89dd33ef65145dfcc3bc20",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/ecbfd414cdf1b7beba48abda05d8e2c899f651d4.json",
       "titel": "Vol.103 再亲密的关系，也难免需要「场面戏」",
       "veroeffentlicht": "2026-08-23T16:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "亲密关系和日常交往中，为什么我们总免不了要演一点“场面戏”？"
     }

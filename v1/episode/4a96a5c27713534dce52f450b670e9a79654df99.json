@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/c4bc-audiofreehighqps/03/42/CMCoOSADzOeuAC93jAB5WRY3.m4a",
+  "apple_collection_id": "1503388138",
+  "show": "空雨静心禅乐 | 助眠 治愈 放空",
+  "titel": "步溪谷",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOSADzOeuAC93jAB5WRY3.m4a?channel=rss&album_id=22086820&track_id=372602744&uid=166290706&jt=https://aod.cos.tx.xmcdn.com/storages/c4bc-audiofreehighqps/03/42/CMCoOSADzOeuAC93jAB5WRY3.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3110796,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T22:25:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "李宗盛词曲并演唱的歌曲《步溪谷》。",
+  "kurzfassung": "本期节目播放了由李宗盛作词、作曲并演唱的歌曲《步溪谷》。内容主要为该歌曲的音频展示。节目末尾包含频道独播剧场的标识。",
+  "stichpunkte": [
+    "词曲作者为李宗盛",
+    "演唱者为李宗盛",
+    "曲名为《步溪谷》",
+    "包含完整的歌曲音频演绎",
+    "节目结尾附带优优独播剧场信息"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲《步溪谷》",
+      "start": 2.18
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T22:25:55+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 384,
+  "veroeffentlicht": "2021-01-07T15:11:31+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group76/M01/C7/13/wKgO3l6UnyLjDMGRAAa2wLARILs055.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

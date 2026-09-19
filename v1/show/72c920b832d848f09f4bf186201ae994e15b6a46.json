@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "香港电影风云",
   "apple_collection_id": "1573106043",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1008145168",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/e49d2cd69172ec698fbfd3ddafa4f53661c4fbae.json",
       "titel": "借壳港片的内地影人们:从《空枪》说起",
       "veroeffentlicht": "2026-08-23T12:42:45+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨内地影人如何借用港片母题，从《空枪》看华语犯罪片的创新与局限。"
     }

@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "guid": "gid://art19-episode-locator/V0/_BTVKVw3oOk8KJ5Sh0EIPHg2GW-6qf4o9D8cwVx_As0",
+  "apple_collection_id": "1782960381",
+  "show": "The Oprah Podcast",
+  "titel": "Oprah’s Greatest Conversations with Authors:  30 Years of Oprah’s Book Club",
+  "audio": {
+    "url": "https://rss.art19.com/episodes/1575ee26-3d44-4fb8-91fa-88a58612a54f.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 152555343,
+    "format": "mp3",
+    "geprueft_am": "2026-09-18T04:24:38+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst art19.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Celebrating 30 years of Oprah’s Book Club through treasured author conversations.",
+  "kurzfassung": "The episode celebrates the 30th anniversary of Oprah's Book Club by revisiting some of the most memorable conversations with celebrated authors. Oprah discusses powerful themes of literature, identity, trauma, and resilience with writers like Toni Morrison, Ocean Vuong, and Elie Wiesel. Special guests also share how these profound literary works and book club discussions impacted their lives.",
+  "stichpunkte": [
+    "Oprah marks the 30th anniversary of her book club, reflecting on its humble beginnings and radical roots.",
+    "Toni Morrison discusses the emotional depth behind writing The Bluest Eye and the persistent impact of colorism.",
+    "Ocean Vuong reflects on his mother's life, immigration, and how the show made reading accessible to working-class communities.",
+    "Anthony Ray Hinton shares his harrowing 30-year ordeal on death row and how finding a book club brought humanity to the cells.",
+    "Elie Wiesel revisits Auschwitz with Oprah, reflecting on memory, surviving the Holocaust, and the enduring scars of evil.",
+    "Maya Angelou hosts a dinner with readers whose lives were transformed by her book The Heart of a Woman.",
+    "Abraham Verghese discusses the intricate planning and the metaphor of water in his epic novel The Covenant of Water.",
+    "Elizabeth Strout reflects on the creation of her character Olive Kittredge and the quiet realities of aging.",
+    "Tayari Jones and Wally Lamb join Oprah to discuss family, forgiveness, and the universal power of storytelling."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and the Origins of the Book Club",
+      "start": 1.24
+    },
+    {
+      "titel": "Toni Morrison on The Bluest Eye",
+      "start": 230.16
+    },
+    {
+      "titel": "Ocean Vuong on Literature and Working-Class Immigrants",
+      "start": 812.14
+    },
+    {
+      "titel": "Anthony Ray Hinton on Surviving Death Row",
+      "start": 1160.96
+    },
+    {
+      "titel": "Elie Wiesel at Auschwitz",
+      "start": 2761.94
+    },
+    {
+      "titel": "Maya Angelou and The Heart of a Woman Dinner",
+      "start": 3293.3
+    },
+    {
+      "titel": "Abraham Verghese on The Covenant of Water",
+      "start": 4154.0
+    },
+    {
+      "titel": "Elizabeth Strout on Olive Again",
+      "start": 4732.54
+    },
+    {
+      "titel": "Tayari Jones on Kin",
+      "start": 5224.2
+    },
+    {
+      "titel": "Wally Lamb on I Know This Much Is True",
+      "start": 6560.08
+    },
+    {
+      "titel": "Barbara Kingsolver on Demon Copperhead",
+      "start": 7392.74
+    },
+    {
+      "titel": "Cormac McCarthy on The Road",
+      "start": 7853.04
+    },
+    {
+      "titel": "Colson Whitehead on The Underground Railroad",
+      "start": 8201.38
+    },
+    {
+      "titel": "Nathan Harris on The Sweetness of Water",
+      "start": 8498.02
+    },
+    {
+      "titel": "Sidney Poitier on The Measure of a Man",
+      "start": 9058.82
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Talking about books on TV was once a radical idea.",
+      "start": 65.437,
+      "ende": 95.53,
+      "laenge": 30.09,
+      "byte_start": 1233638,
+      "byte_ende": 1715126,
+      "bytes": 481489,
+      "range_header": "bytes=1233638-1715126",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 65.515,
+      "anker_sha256": "141ea7f9b8650ff65b3f0758a8f2b2ebcbcc5a6a9ba312a79b494c72a61e38f6",
+      "anker_ende_sha256": "51be3555803fea0dbcfde08e73acdfb2cba7888676e7cb969bcf3fb3f8737561",
+      "einblendung_ms": 60,
+      "text": "The hosts explain how calling authors from the phone book evolved into the unconventional idea of discussing novels on television."
+    },
+    {
+      "hook": "Witnessing 54 executions and smelling burning flesh on death row.",
+      "start": 1905.45,
+      "ende": 1935.543,
+      "laenge": 30.09,
+      "byte_start": 30673847,
+      "byte_ende": 31155335,
+      "bytes": 481489,
+      "range_header": "bytes=30673847-31155335",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1905.528,
+      "anker_sha256": "394d04037010bd3ff5591e180f0f28e3bb5a03f8c2f040bc66cc59cecc347ade",
+      "anker_ende_sha256": "da7842cef346a66744e1034c25130e0371880b6f1cb761d170cc3c2d0cee2ff1",
+      "einblendung_ms": 60,
+      "text": "Anthony Ray Hinton describes the horrific reality of living feet away from the execution chamber and how he retreated into his mind to survive."
+    },
+    {
+      "hook": "A reader shares how a book literally saved her life at age 13.",
+      "start": 3472.091,
+      "ende": 3502.184,
+      "laenge": 30.09,
+      "byte_start": 55740113,
+      "byte_ende": 56221601,
+      "bytes": 481489,
+      "range_header": "bytes=55740113-56221601",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 3472.17,
+      "anker_sha256": "957ffcf2a64302cde9c97abbb42ff15a4e2341199546013107cd5bbc9dd751a7",
+      "anker_ende_sha256": "3b2fc705eecbfe52c2ded590e0b7f89ddb6a7e20385edfee0b4afee32bfa4aeb",
+      "einblendung_ms": 60,
+      "text": "A letter from a reader is read aloud, detailing how reading Maya Angelou provided a lifeline of understanding during severe abuse and suicidal depression."
+    },
+    {
+      "hook": "Different lives do not mean that you have different hearts.",
+      "start": 5460.062,
+      "ende": 5490.181,
+      "laenge": 30.12,
+      "byte_start": 87547643,
+      "byte_ende": 88029549,
+      "bytes": 481907,
+      "range_header": "bytes=87547643-88029549",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 5460.14,
+      "anker_sha256": "a384df769ed1ce79db59b910b3c1c7466fca32815c4cb7ebc6daf55e0b829990",
+      "anker_ende_sha256": "cc18db973ae7abbad69f557037b0038bfdff1a642400d44421b0358e1e4452bb",
+      "einblendung_ms": 60,
+      "text": "Tayari Jones explains that diverging life paths between friends do not sever their deep emotional bonds or shared humanity."
+    },
+    {
+      "hook": "A prophetic reading for a premature baby who would grow up to walk with kings.",
+      "start": 9254.139,
+      "ende": 9284.232,
+      "laenge": 30.09,
+      "byte_start": 148252871,
+      "byte_ende": 148734359,
+      "bytes": 481489,
+      "range_header": "bytes=148252871-148734359",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 9254.217,
+      "anker_sha256": "2cdc89d27fc59baab988542af048f3d33234d49685ccee2a6918a01eeb6f06a6",
+      "anker_ende_sha256": "ee21117d02a1a24d41b5bf0f1390f05686cb3c316e2f85e1b8859453d08adffe",
+      "einblendung_ms": 60,
+      "text": "Sidney Poitier recounts how a soothsayer told his mother that her sickly newborn son would travel the earth and meet world leaders."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-18T04:24:38+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 9523,
+  "veroeffentlicht": "2026-09-16T07:00:00+00:00",
+  "beschreibung": "BUY THE BOOKS!\nThe Oprah Book Club storefront\nhttps://amzn.to/4j5y1xW\n\nIn this special bonus episode Oprah celebrates the 30th anniversary of Oprah’s Book Club and reflects on how her lifelong love of reading became a cultural phenomenon. Oprah revisits some of her most treasured conversations with the writers she calls her “rock stars” and celebrates three decades of connecting readers with great books.\nWe hear her conversations with Toni Morrison, Ocean Vuong, Wally Lamb, Anthony Ray Hinton, Abraham Verghese, Maya Angelou, Elizabeth Strout, Tayari Jones, Barbara Kingsolver, Cormac McCarthy, Colson Whitehead, Elie Wiesel, Nathan Harris, and Oscar winner Sidney Poitier.\n\nFollow Oprah Winfrey on Social:\nInstagram\nFacebook\n\nListen to the full podcast:\nSpotify\nApple Podcasts\n\n#oprahsbookclub",
+  "beschreibung_html": "<p>BUY THE BOOKS!</p><p>The Oprah Book Club storefront</p><p><a href=\"https://amzn.to/4j5y1xW\" rel=\"noopener noreferrer\" target=\"_blank\">https://amzn.to/4j5y1xW</a></p><p><br></p><p>In this special bonus episode Oprah celebrates the 30th anniversary of Oprah’s Book Club and reflects on how her lifelong love of reading became a cultural phenomenon. Oprah revisits some of her most treasured conversations with the writers she calls her “rock stars” and celebrates three decades of connecting readers with great books.&nbsp;</p><p>We hear her conversations with Toni Morrison, Ocean Vuong, Wally Lamb, Anthony Ray Hinton, Abraham Verghese,&nbsp;Maya Angelou, Elizabeth Strout, Tayari Jones, Barbara Kingsolver, Cormac McCarthy, Colson Whitehead, Elie Wiesel, Nathan Harris, and Oscar winner Sidney Poitier.</p><p><br></p><p>Follow Oprah Winfrey on Social:</p><p><a href=\"https://www.instagram.com/oprahpodcast/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></p><p><a href=\"https://www.facebook.com/oprahwinfrey\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></p><p><br></p><p>Listen to the full podcast:&nbsp;</p><p><a href=\"https://open.spotify.com/show/0tEVrfNp92a7lbjDe6GMLI\" rel=\"noopener noreferrer\" target=\"_blank\">Spotify</a></p><p><a href=\"https://podcasts.apple.com/us/podcast/the-oprah-podcast/id1782960381\" rel=\"noopener noreferrer\" target=\"_blank\">Apple Podcasts</a></p><p><br></p><p>#oprahsbookclub</p><p><br></p>",
+  "bild_url": "https://content.production.cdn.art19.com/images/3d/fd/b1/af/3dfdb1af-b17b-43f1-b9bc-5c1727d2677c/58297b0f5985e7c56e26fd684a6e11ac00e468daff7ea08e6bd03a979b34f3f4531e1d2f26a7d5200871182ffeb5c6091da519ac026e8d496663a73324010db3.jpeg",
+  "folgennummer": 104,
+  "kapitel_quelle": "modell"
+}

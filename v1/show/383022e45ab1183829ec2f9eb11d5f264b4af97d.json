@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "原声电影看大片",
   "apple_collection_id": "1875670358",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_953368183",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/1138761a337bba58e17caf38b3d2241eb60e6fb9.json",
       "titel": "《乡村爱情》第十七部 (1)",
       "veroeffentlicht": "2026-01-30T08:42:40+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "象牙山家庭矛盾频发，谢广坤筹划成立集团公司。"
     }

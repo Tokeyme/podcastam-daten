@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "魔法树屋 英文启蒙故事播客",
   "apple_collection_id": "1831286144",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_898735862",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/01f92752bdda3af5c9757e57e705799cfb96805b.json",
       "titel": "Chapter 10 Home Before Dark Part 3",
       "veroeffentlicht": "2025-08-15T00:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "Jack和Annie通过金色的徽章确认了恐龙时代的冒险是真实发生的。"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "三个电影--从电影看人生",
   "apple_collection_id": "6790628851",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007123578",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/4f224fce3856b4a91339ea1b850cf8797f1c87d1.json",
       "titel": "《奥德赛》---3000年前的人性弱点，今天一个没少",
       "veroeffentlicht": "2026-08-18T14:04:20+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "借诺兰电影聊《奥德赛》与人性弱点"
     }

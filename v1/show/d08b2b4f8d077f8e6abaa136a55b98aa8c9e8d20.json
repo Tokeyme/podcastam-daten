@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "36氪·商业情报局（第二季）",
   "apple_collection_id": "1554431313",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007706436",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/b891e58b8eeb4b280525c7d9632fef07de3b43f4.json",
       "titel": "尧乐科技发布一体针织数据手套，让触觉采集回归真实人手动作",
       "veroeffentlicht": "2026-08-21T07:42:16+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "尧乐科技发布Teknit Glove G1一体针织数据手套，解决机器人触觉采集难题"
     }

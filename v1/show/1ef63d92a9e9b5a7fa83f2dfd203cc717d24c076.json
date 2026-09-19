@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "你，静不下来",
   "apple_collection_id": "1809736974",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
+    {
+      "guid": "6aaa5e83051af796b9e91ded",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6aaa5e83051af796b9e91ded/media.xyzcdn.net/67b6e9f7c58770a6e0030003/ljIrSbJjiEc8KjH8ByH7R1KBlvAM.m4a",
+      "pfad": "/v1/episode/be0dae77434c61cbfffb58b313f463f90feba096.json",
+      "titel": "对谈乒乓球世界冠军朱雨玲× 冰壶国手凌智：人生不会一直赢，学会像运动员一样思考",
+      "veroeffentlicht": "2026-09-16T16:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "乒乓球世界冠军朱雨玲与冰壶国手凌智做客播客，分享如何像运动员一样思考并化解人生焦虑。"
+    },
     {
       "guid": "6a857f8afb87252df2ec6a64",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a857f8afb87252df2ec6a64/media.xyzcdn.net/67b6e9f7c58770a6e0030003/loHFGmhprDPPeO7tbfHKt0WrZMzC.m4a",

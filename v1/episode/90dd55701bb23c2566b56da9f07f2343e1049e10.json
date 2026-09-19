@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "guid": "c08cff46-fb97-4410-8ba6-b4c50122dc46",
+  "apple_collection_id": "1529931681",
+  "show": "This Is Important",
+  "titel": "Ep 316: Don't Get Too Real",
+  "audio": {
+    "url": "https://pdrl.fm/7b6b05/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a41bd365-c6bc-4966-9ac2-ae28005326f5/c08cff46-fb97-4410-8ba6-b4c50122dc46/audio.mp3?utm_source=Podcast&in_playlist=6097c5b8-233a-45bf-8f11-ae2800532703",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 68903444,
+    "format": "mp3",
+    "geprueft_am": "2026-09-18T01:50:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt"
+  },
+  "einzeiler": "Mattress setups, home defense weapons, and existential dread about artificial…",
+  "kurzfassung": "The hosts discuss domestic routines like separate beds and late-night energy drinks, debate unconventional home defense weapons, and share absurd theories about artificial intelligence taking over the world. They also reflect on childhood memories, wrestling legends, and upcoming tour dates in Canada.",
+  "stichpunkte": [
+    "Bedtime habits and the reality of couples eventually sleeping on separate floors or in separate beds",
+    "Caffeine consumption habits, energy drinks, and unverified warnings about sleep aids causing memory loss",
+    "Humorous debates on home defense, ranging from machetes and hatchets to airsoft guns and non-lethal deterrents",
+    "Absurd discussions surrounding artificial intelligence, rogue language models, and hypothetical doomsday scenarios",
+    "Nostalgia and critiques regarding 90s television shows, professional wrestling legends, and internet content creators",
+    "Upcoming live show announcements for the podcast at the Fallsview Casino in Niagara Falls, Ontario"
+  ],
+  "kapitel": [
+    {
+      "titel": "Mattresses and Sleep Habits",
+      "start": 55.84
+    },
+    {
+      "titel": "Caffeine and Health Warnings",
+      "start": 270.18
+    },
+    {
+      "titel": "Home Defense Weapons",
+      "start": 843.33
+    },
+    {
+      "titel": "Artificial Intelligence Takeover",
+      "start": 1428.02
+    },
+    {
+      "titel": "Wrestling Memories and Legends",
+      "start": 2297.59
+    },
+    {
+      "titel": "Live Tour Announcements",
+      "start": 3948.2
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Splitting floors in the house",
+      "start": 118.23,
+      "ende": 144.901,
+      "laenge": 26.67,
+      "byte_start": 1928154,
+      "byte_ende": 2354889,
+      "bytes": 426736,
+      "range_header": "bytes=1928154-2354889",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 118.309,
+      "anker_sha256": "4d3b76d934afeb1a2786a3bcf5a21e16ad7a69eb62a321027e33c3ed154a6205",
+      "anker_ende_sha256": "ea96003302f8f46a07fe7b954fc68398320c7db2b5429ac60ee699653888336e",
+      "einblendung_ms": 60,
+      "text": "Older couples stop sharing a bed and eventually move to completely separate floors in the house."
+    },
+    {
+      "hook": "Z-Quil and Alzheimer's risk",
+      "start": 424.516,
+      "ende": 444.604,
+      "laenge": 20.09,
+      "byte_start": 6828725,
+      "byte_ende": 7150135,
+      "bytes": 321411,
+      "range_header": "bytes=6828725-7150135",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 424.594,
+      "anker_sha256": "33be84e9d01051a362809ce7d45ba34804cc5d42cbd8e7931142f8e50fc85eb0",
+      "anker_ende_sha256": "5f612bd147151a0e197f0485c33d451e3e5d8dd453bd48038c536e8869fe77ce",
+      "einblendung_ms": 60,
+      "text": "Taking over-the-counter sleep aids drastically increases the likelihood of developing Alzheimer's disease."
+    },
+    {
+      "hook": "Throwing a mace grenade at home invaders",
+      "start": 1080.633,
+      "ende": 1105.842,
+      "laenge": 25.21,
+      "byte_start": 17326606,
+      "byte_ende": 17729935,
+      "bytes": 403330,
+      "range_header": "bytes=17326606-17729935",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1080.712,
+      "anker_sha256": "4de3131fb8842d6a53bcc1d0af948b8173997b20afab5ad12527e07ed2fd40b0",
+      "anker_ende_sha256": "1f5a7512bfd54c5a0abc18da7a5c74b91c064455bf0f493b50084321a6ddd6a3",
+      "einblendung_ms": 60,
+      "text": "Rolling a gas grenade out during a home invasion to surprise intruders rather than confronting them directly."
+    },
+    {
+      "hook": "Percentage chance of AI ruining humanity",
+      "start": 1638.113,
+      "ende": 1658.201,
+      "laenge": 20.09,
+      "byte_start": 26246273,
+      "byte_ende": 26567682,
+      "bytes": 321410,
+      "range_header": "bytes=26246273-26567682",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1638.191,
+      "anker_sha256": "0d1105565dd1c69de359961f542d15952ca6e729e45067be45636333aad8fbf8",
+      "anker_ende_sha256": "5bad1e7bbbbbf4e67cf32a54ab1c707433757696756f826c22afaa6f8c557732",
+      "einblendung_ms": 60,
+      "text": "Artificial intelligence models estimate a ten percent probability that humanity will be ruined within the decade."
+    },
+    {
+      "hook": "Wrestler tights and body design",
+      "start": 2358.309,
+      "ende": 2378.397,
+      "laenge": 20.09,
+      "byte_start": 37769407,
+      "byte_ende": 38090817,
+      "bytes": 321411,
+      "range_header": "bytes=37769407-38090817",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 2358.387,
+      "anker_sha256": "070a5b5d94c016fd8315c7e5731dcf18ddb27b0de8dc4a24d81ab824cd00d899",
+      "anker_ende_sha256": "4d5658db7c2dadf13c5e9bfaa0621b03c1d058e2823e1c0fc5885cb78cac4b80",
+      "einblendung_ms": 60,
+      "text": "Professional wrestlers from past eras featured incredible physiques and unique wardrobe choices."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-18T01:50:25+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 4109,
+  "veroeffentlicht": "2026-09-15T08:20:00+00:00",
+  "beschreibung": "Today, this is what's important:\nSelf-defense, AI, porn, school, Hulk Hogan, business, & more.\nGet your tickets NOW to our live show in Ontario, Canada on Sept. 25th, 2026!\nOr go to TIITour.com for more info.\nCheck out Sam Jay and Alex English's new show Look Back At It now!\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Today, this is what's important:</p> <p>Self-defense, AI, porn, school, Hulk Hogan, business, &amp; more.&nbsp;</p> <p><a href=\"https://www.ticketmaster.ca/event/100064889B7A8E9F\">Get your tickets NOW to our live show in Ontario, Canada on Sept. 25th, 2026! </a></p> <p><a href=\"https://tiitour.com/\">Or go to TIITour.com for more info.</a></p> <p><a href=\"https://podcasts.apple.com/us/podcast/look-back-at-it/id1895128596\">Check out Sam Jay and Alex English's new show Look Back At It now!&nbsp;</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a41bd365-c6bc-4966-9ac2-ae28005326f5/image.jpg?t=1758484339&size=Large",
+  "schlagworte": [
+    "this is important",
+    "Adam devine",
+    "Blake anderson",
+    "anders holm",
+    "episode 316",
+    "Don't Get Too Real"
+  ],
+  "folgennummer": 316,
+  "kapitel_quelle": "modell"
+}

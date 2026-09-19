@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "一个人听|都市情感电台",
   "apple_collection_id": "1757391125",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_719123203",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/dcda165366b80172c78efd48de1bf196ef58eb7d.json",
       "titel": "还是想跟你说一句对不起",
       "veroeffentlicht": "2024-03-30T13:43:20+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "回顾人生中的遗憾与无法说出口的对不起，探讨如何与愧疚和平相处。"
     }

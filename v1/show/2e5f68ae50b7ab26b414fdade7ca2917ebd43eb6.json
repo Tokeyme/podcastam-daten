@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "兰亭思叙｜李思思个人播客",
   "apple_collection_id": "6783665121",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1004358185",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/dc4a729d59982ffca17c221ae14907cc907d9f14.json",
       "titel": "vol.03 李思思对谈米雷：AI不会替代插画师？米雷：美是独属于人的生命力",
       "veroeffentlicht": "2026-08-04T04:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "插画师米蕾做客节目，探讨艺术创作、自律人生与AI时代的生命力。"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "体育科技快讯",
   "apple_collection_id": "1868205200",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1002972574",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/5d6435e4664716368e407e2f7f67178240ae22dc.json",
       "titel": "Vol.020 | 环法直播有了“私人解说”：AI 怎样讲懂集团、时间差与战术？",
       "veroeffentlicht": "2026-07-26T23:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "环法上线AI数字观赛功能，如何用个性化解说讲懂复杂的自行车赛？"
     }

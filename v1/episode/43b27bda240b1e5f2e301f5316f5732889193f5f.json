@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group53/M09/1D/13/wKgLcVv8wYOxwnw7AAGxweTLqas919.m4a",
+  "apple_collection_id": "1444712094",
+  "show": "体育24小时",
+  "titel": "体育24小时",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgLcVv8wYOxwnw7AAGxweTLqas919.m4a?channel=rss&album_id=19596464&track_id=139836990&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/group53/M09/1D/13/wKgLcVv8wYOxwnw7AAGxweTLqas919.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 111041,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:38:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾体育24小时内的重要动态与赛事热点。",
+  "kurzfassung": "本期节目聚焦体育领域的最新动态与热点新闻。节目梳理了全天候的比赛结果和重要体育事件。各项赛事的最新进展在节目中得到了详细盘点。",
+  "stichpunkte": [
+    "盘点过去24小时内的体育热点新闻",
+    "关注各项重要赛事的最新战报与结果",
+    "分析运动员与球队的表现及近期状态",
+    "讨论体育界的重要突发事件与转会传闻",
+    "展望即将开赛的焦点比赛与赛程安排"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:38:25+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 13,
+  "veroeffentlicht": "2018-11-27T04:01:23+00:00",
+  "beschreibung": "体育24小时",
+  "beschreibung_html": "<p style=\"line-height:30px;hyphens:auto;color:#333333;text-align:justify;font-size:16px;font-family:Helvetica,Arial,sans-serif;font-weight:normal;\" data-flag=\"normal\">体育24小时</p>",
+  "bild_url": "https://fdfs.xmcdn.com/group52/M0A/1D/27/wKgLcFv8v5mCBQosAAHznVOnzIw094.jpg",
+  "folgennummer": 1
+}

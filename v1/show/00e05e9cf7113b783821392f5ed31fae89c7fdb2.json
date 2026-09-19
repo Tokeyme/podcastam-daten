@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "运动与健康",
   "apple_collection_id": "1887189428",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_999710394",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/67395a5709d1a7e32072aa30ad66eabb6e227e92.json",
       "titel": "医生也中招脂肪肝？元凶+逆转4招",
       "veroeffentlicht": "2026-07-10T16:30:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "医生也查出脂肪肝？解析元凶与科学逆转的四个方法"
     }

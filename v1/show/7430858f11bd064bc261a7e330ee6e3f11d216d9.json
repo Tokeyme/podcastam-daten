@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "教育与我和我的家庭 | 玖悦CC 演播 探讨教育 与 家庭",
   "apple_collection_id": "1713496519",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_672825019",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/55f26291d14a61e8b389a0363b77ef1e64d02ec6.json",
       "titel": "教育与我和我的家庭 001 痛苦与挫折",
       "veroeffentlicht": "2023-10-12T03:30:02+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨挫折教育的真实内涵与深度思考在人生逆境中的关键作用。"
     }

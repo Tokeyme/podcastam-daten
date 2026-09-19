@@ -12,11 +12,13 @@
     "geprueft_am": "2026-09-06T11:41:59+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Laura Owens pleads guilty to four felony counts in Arizona court",
   "kurzfassung": "Laura Owens pleaded guilty to four felony counts, including fraudulent schemes and perjury, during a settlement conference in Arizona. The surprise plea deal avoids a trial and dismisses ten other charges, with sentencing scheduled for October 23rd. Victims and commentators shared mixed reactions of relief and shock as accountability was finally reached.",

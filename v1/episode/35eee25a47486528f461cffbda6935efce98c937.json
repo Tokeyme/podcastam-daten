@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-29T23:44:37+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Analyzing bond market moves, social security challenges, and the US Open in finance.",
   "kurzfassung": "The hosts and guests discuss recent shifts in the 30-year bond yield and long-term economic uncertainties. They also examine how younger generations approach wealth building through the stock market and hobbies. Finally, the discussion touches on fiscal policy, upcoming midterm dynamics, and cultural topics like the US Open.",

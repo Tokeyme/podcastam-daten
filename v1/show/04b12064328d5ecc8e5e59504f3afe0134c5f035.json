@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "一人出海播客",
   "apple_collection_id": "1668475263",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "69cc75f8b977fb2c47c99a2e",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/eef1a179c366d2722a1eea03ee884a9079136444.json",
       "titel": "在美国开店是一种什么体验?",
       "veroeffentlicht": "2026-04-01T01:38:32+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨中国品牌在美国开店的真实体验、选址难点与本地化运营策略。"
     }

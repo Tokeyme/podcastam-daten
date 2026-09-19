@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "c8ef6687-2332-470d-875f-61d9d9a02697",
+  "apple_collection_id": "1758855019",
+  "show": "The Headlines",
+  "titel": "Fuel Riots Spread Around the World, and Trump Approves $2.8 Billion Arms Sale to Israel",
+  "audio": {
+    "url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/6be9f004-3e81-4fb7-9ff7-a70c01563962/episodes/c0316b9a-4581-4aad-9da6-35cfe32faed1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6be9f004-3e81-4fb7-9ff7-a70c01563962&awEpisodeId=c0316b9a-4581-4aad-9da6-35cfe32faed1&feed=ydACIPHO",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 11661158,
+    "format": "mp3",
+    "geprueft_am": "2026-09-18T00:27:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Clip-Erzeugung lieferte keinen verwendbaren Ausschnitt"
+  },
+  "einzeiler": "Global fuel protests, a U.S. arms sale to Israel, and Donald Trump Jr.'s wedding party.",
+  "kurzfassung": "Protests over soaring energy prices spread globally as shortages hit multiple countries. The U.S. House passed a measure directing President Trump to end the war, while the administration approved a major arms sale to Israel. Meanwhile, scrutiny surrounds a Russian businessman funding Donald Trump Jr.'s wedding after-party.",
+  "stichpunkte": [
+    "Soaring energy prices driven by the war in Iran spark global protests and fuel shortages.",
+    "The U.S. House passes a measure urging President Trump to end the war, reflecting low public approval.",
+    "The White House approves a $2.8 billion arms sale to Israel, including thousands of bombs.",
+    "The U.S. Senate blocks a major cryptocurrency bill amid concerns over the Trump family's ties to the industry.",
+    "ProPublica reveals that Russian businessman Umar Kremlev helped pay for Donald Trump Jr.'s wedding after-party.",
+    "Election poll watcher trainings increasingly prime volunteers to expect wrongdoing and distrust the process.",
+    "A growing debate in China questions the mandatory teaching of English amid shifting national visions and AI translation advancements."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-18T00:27:15+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 728,
+  "veroeffentlicht": "2026-09-16T10:00:46+00:00",
+  "beschreibung": "Plus, the Russian businessman who rented an island for Donald Trump Jr.\nHere’s what we’re covering:\nRising Fuel Prices Set Off Anger and Protests Around the World, by Damien Cave\nHouse Directs Trump to Halt War With Iran or Secure Congress’s Approval, by Robert Jimison\nTrump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs, by Michael Crowley and Edward Wong\nSenate Votes to Block Crypto Bill in Major Blow to the Industry, by David Yaffe-Bellany\nRussian Businessman Paid for Donald Trump Jr.’s Lavish Wedding After-Party, by Ben Protess\nIt’s Poll Watcher Training Season. Distrust Is on the Lesson Plan., by Tiffany Hsu\nIn the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble, by Tiffany May and Berry Wang\n\nTune in every weekday morning, and tell us what you think at: theheadlines@nytimes.com.\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.\n\nHosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+  "beschreibung_html": "<p>Plus, the Russian businessman who rented an island for Donald Trump Jr.&nbsp;</p><p>Here’s what we’re covering:</p><ul><li><a href=\"https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rising Fuel Prices Set Off Anger and Protests Around the World</a>, by Damien Cave</li><li><a href=\"https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html\" target=\"_blank\" rel=\"noopener noreferrer\">House Directs Trump to Halt War With Iran or Secure Congress’s Approval</a>, by Robert Jimison</li><li><a href=\"https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html\" target=\"_blank\" rel=\"noopener noreferrer\">Trump Approves $2.8 Billion Arms Sale to Israel, Including 40,000 One-Ton Bombs</a>, by Michael Crowley and Edward Wong</li><li><a href=\"https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html\" target=\"_blank\" rel=\"noopener noreferrer\">Senate Votes to Block Crypto Bill in Major Blow to the Industry</a>, by David Yaffe-Bellany</li><li><a href=\"https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html\" target=\"_blank\" rel=\"noopener noreferrer\">Russian Businessman Paid for Donald Trump Jr.’s Lavish Wedding After-Party</a>, by Ben Protess</li><li><a href=\"https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html\" target=\"_blank\" rel=\"noopener noreferrer\">It’s Poll Watcher Training Season. Distrust Is on the Lesson Plan.</a>, by Tiffany Hsu</li><li><a href=\"https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html\" target=\"_blank\" rel=\"noopener noreferrer\">In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble</a>, by Tiffany May and Berry Wang</li></ul>\n<p><p>Tune in every weekday morning, and tell us what you think at: <a href=\"mailto:theheadlines@nytimes.com\">theheadlines@nytimes.com</a>.</p><p> </p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+  "untertitel": "Plus, the Russian businessman who rented an island for Donald Trump Jr.",
+  "bild_url": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/69a2e776-38ed-4e25-b331-df514d73d24f/3000x3000/nyt-headlines-albumart-3000px.jpg?aid=rss_feed"
+}

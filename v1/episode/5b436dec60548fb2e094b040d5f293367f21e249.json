@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group26/M09/7D/C7/wKgJRlkUHuujdp4cACW36B2Cyus280.mp3",
+  "apple_collection_id": "1192617607",
+  "show": "财经日历",
+  "titel": "汇通财经日历 2017.05.12",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJRlkUHuujdp4cACW36B2Cyus280.mp3.m4a?channel=rss&album_id=4932296&track_id=37665905&uid=56663477&jt=https://aod.cos.tx.xmcdn.com/group26/M09/7D/C7/wKgJRlkUHuujdp4cACW36B2Cyus280.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2471912,
+    "format": "mp3",
+    "geprueft_am": "2026-08-22T23:13:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Clip-Erzeugung lieferte keinen verwendbaren Ausschnitt"
+  },
+  "einzeiler": "汇通财经日历节目，提供财经信息与频道支持。",
+  "kurzfassung": "本期节目为汇通财经日历。内容包含节目的基础支持与互动。听众可通过点赞、订阅、转发和打赏来支持明镜与点点栏目。",
+  "stichpunkte": [
+    "节目名称为汇通财经日历",
+    "播出日期为2017年5月12日",
+    "号召听众点赞订阅转发",
+    "提供打赏支持明镜与点点栏目",
+    "持续更新财经相关内容",
+    "感谢听众对栏目的长期支持"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目开场与支持",
+      "start": 16.46
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-22T23:13:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 151,
+  "veroeffentlicht": "2017-05-11T09:30:00+00:00",
+  "beschreibung": "汇通视讯提醒您，5月12日星期五需要重点关注的财经数据",
+  "beschreibung_html": "<p style=\"font-size:16px;color:#333333;line-height:30px;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight:normal\" data-flag=\"normal\"><span style=\"font-size:16px;color:#333333;line-height:30px;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight:normal\" data-flag=\"normal\">汇通视讯提醒您，5月12日星期五需要重点关注的财经数据</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group17/M0A/23/39/wKgJJFfjhP_yopFmAAEYdljnOUs140.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

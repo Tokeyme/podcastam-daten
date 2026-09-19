@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "HD播客 | 体育运动相关深度访谈",
   "apple_collection_id": "1490362437",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_799594392",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/b72fdbd16715123844572cdcd4e47cd376e85276.json",
       "titel": "HD播客 #50：铁三游泳的要义与迷思 *番外*",
       "veroeffentlicht": "2025-01-26T00:17:27+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "HD播客线下游泳课年终聚会实录，学员们分享2024年游泳关键词与2025年展望。"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "余华文学深度剖析",
   "apple_collection_id": "1827812069",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_889291745",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/e000a769225dab77313a264d5f757819c234f5dd.json",
       "titel": "余华《活着》余华写尽失去，却让 “活着” 成为最终的答案",
       "veroeffentlicht": "2025-07-19T02:17:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨余华经典小说《活着》的创作背景、各版本序言及福贵充满苦难的一生。"
     }

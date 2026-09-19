@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "AI对谈室",
   "apple_collection_id": "1892234140",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "69dba8ece2c8be315504c089",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/530a91020615460c1dc46e336f12b1a38aa2c0a9.json",
       "titel": "你的SBTI是什么？",
       "veroeffentlicht": "2026-04-12T14:53:44+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "解密SBTI测试全网爆火现象：年轻人如何用荒诞玩梗进行情绪解压和轻松社交？"
     }

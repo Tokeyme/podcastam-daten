@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "AI那些事儿：每日 10 分钟AI科技解读",
   "apple_collection_id": "1814837614",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_876442807",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/780cf18d47c602003c42c82df45f3c9d2c92d83e.json",
       "titel": "2025年6月25日AI要闻",
       "veroeffentlicht": "2025-06-25T11:41:52+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "梳理AI领域最新进展，涵盖具身智能、情感语音、数字永生及量子计算等核心突破。"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "所有女性的健康指南",
   "apple_collection_id": "1729987520",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_719363361",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/6f791260048efc4a3099e6571bfaca15b8d1d06b.json",
       "titel": "vol.4 母婴健康：负担还是礼物？聊聊正确母乳喂养 | 对谈徐凌燕副主任",
       "veroeffentlicht": "2024-03-31T12:51:54+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨母乳喂养的科学方法、常见误区以及如何缓解新手妈妈的焦虑。"
     }

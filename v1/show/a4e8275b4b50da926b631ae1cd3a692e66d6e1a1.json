@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "故事会 StoryTime",
   "apple_collection_id": "1892917941",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007942613",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/8f7aa2ad101e877e938c91c02a530533c71006e0.json",
       "titel": "11 - 社交滤镜下的双面人生：网红、癌症与百万骗局",
       "veroeffentlicht": "2026-08-22T12:42:33+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "揭秘澳大利亚现象级健康博主Belle Gibson的惊天癌症骗局。"
     }

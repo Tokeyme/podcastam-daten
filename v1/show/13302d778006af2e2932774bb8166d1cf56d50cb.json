@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "梓约健康",
   "apple_collection_id": "1615508466",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "33697962",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/a127a01859d339730b4f043033dd2f4d5a40e98a.json",
       "titel": "Vol.5 张永杰：侠胆仁心 胆结石要不要开？",
       "veroeffentlicht": "2026-07-24T09:19:12+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "著名胆道外科专家张永杰详解胆结石与肝胆健康"
     }

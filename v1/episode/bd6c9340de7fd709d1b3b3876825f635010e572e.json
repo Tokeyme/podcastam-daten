@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-22T01:30:38+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Two wrongful conviction cases reveal how flawed witness testimony destroys innocent lives.",
   "kurzfassung": "This episode investigates two wrongful conviction cases built on questionable witness testimony and lacking physical evidence. Gloria Killian spent over sixteen years in prison for a murder she did not commit before a federal appeals court set aside her conviction due to prosecutorial misconduct. Similarly, Clarence Elkins was imprisoned for life based largely on his six-year-old niece's testimony before new DNA evidence eventually cleared him years later.",

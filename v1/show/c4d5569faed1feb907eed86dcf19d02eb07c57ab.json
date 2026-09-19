@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "音乐酒馆丨聆听音乐 细感热评",
   "apple_collection_id": "1710532191",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_690032510",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/5c8354d06b0c5874e8e48e9072de911f54013157.json",
       "titel": "音乐酒馆｜期待的样子",
       "veroeffentlicht": "2023-12-06T11:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "听马迪演唱的歌曲《期待的样子》及热评背后的亲情故事。"
     }

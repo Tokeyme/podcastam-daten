@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "大公鸡播客",
   "apple_collection_id": "6801953955",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a89b747ef65145dfcc3b257",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/8b067621e0a5953dc6475357d1153a8355172376.json",
       "titel": "【鸡鸣怪谈】第17期：兔子洞冰山图系列12",
       "veroeffentlicht": "2026-08-23T16:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨网红离世与都市怪谈背后的巧合、心理暗示及真实法院判决记录。"
     }

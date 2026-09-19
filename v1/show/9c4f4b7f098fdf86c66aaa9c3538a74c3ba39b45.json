@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "我们生活在中国（西班牙语播客）",
   "apple_collection_id": "1724280956",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_697901306",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/e34551b17a66fe8e21a7c2ee427841abaf186412.json",
       "titel": "我们生活在中国｜推动文体交流的“西语帮”足球俱乐部",
       "veroeffentlicht": "2024-01-05T02:15:12+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "推动文体交流的“西语帮”足球俱乐部"
     }

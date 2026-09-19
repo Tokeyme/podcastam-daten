@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技新生活",
   "apple_collection_id": "1867372514",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_965542347",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/6866592cdd53abfadca20d932d8c6a0281c1cbba.json",
       "titel": "数字医疗的升维——从“治病”到“治未病”的硬核真相",
       "veroeffentlicht": "2026-03-25T13:33:33+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨数字医疗如何从被动治病转向主动预防，并剖析其中的数据焦虑与隐私隐患。"
     }

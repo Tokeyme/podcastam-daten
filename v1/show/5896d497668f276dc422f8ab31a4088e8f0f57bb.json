@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "BOXBOX｜F1全女子赛车播客",
   "apple_collection_id": "1884241044",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a8a7e40ef65145dfcc3da59",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/3f8917e0a0925fdd4d1b62a75f54ec245b397df6.json",
       "titel": "【与F1同行】EP17：特派回访｜明年想去银石的车迷要准备买票咯！",
       "veroeffentlicht": "2026-08-23T05:39:01+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "分享银石大奖赛观赛体验：交通、车手看台与签名攻略。"
     }

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group23/M0B/0A/A9/wKgJNFgUGZrgrryCACfJW3EnQp4728.m4a",
+  "apple_collection_id": "1173428978",
+  "show": "古典音乐收割机",
+  "titel": "Klavierstücke op. 119 Intermezzo, Andantino un poco agitato（布拉姆斯钢琴音乐）",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgJNFgUGZrgrryCACfJW3EnQp4728.m4a?channel=rss&album_id=5672716&track_id=24135667&uid=18266633&jt=https://aod.cos.tx.xmcdn.com/group23/M0B/0A/A9/wKgJNFgUGZrgrryCACfJW3EnQp4728.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2607451,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:58:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "勃拉姆斯钢琴作品布拉姆斯钢琴音乐演奏与赏析。",
+  "kurzfassung": "本期节目聚焦于勃拉姆斯的钢琴音乐作品。主要播放并赏析了勃拉姆斯的钢琴曲目。节目展现了古典音乐的艺术魅力。",
+  "stichpunkte": [
+    "节目聚焦于勃拉姆斯的钢琴音乐作品",
+    "播放并赏析了相关钢琴曲目",
+    "展现了古典音乐的独特艺术魅力"
+  ],
+  "kapitel": [
+    {
+      "titel": "勃拉姆斯钢琴音乐赏析",
+      "start": 0.96
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:58:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 321,
+  "veroeffentlicht": "2016-10-29T03:41:11+00:00",
+  "beschreibung": "音乐是财富是一种心情、是一个改变自己的方式。\n\n它能表达出你的心情，释放你的压力，找到你的共鸣！",
+  "beschreibung_html": "音乐是财富是一种心情、是一个改变自己的方式。\n<br /> 它能表达出你的心情，释放你的压力，找到你的共鸣！\n<br />",
+  "bild_url": "https://fdfs.xmcdn.com/group25/M01/0A/40/wKgJMVgT8UuzhSm9AAH1C9-x0bw494.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

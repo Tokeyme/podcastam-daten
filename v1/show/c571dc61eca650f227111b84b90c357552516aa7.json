@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小火车商业进化论",
   "apple_collection_id": "1710783153",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1006656375",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/d616b5fc8e37bacffd35ed59c0f5d96b21ae9a28.json",
       "titel": "谁在100年前，就靠标题党建立了世界上第一个媒体帝国？",
       "veroeffentlicht": "2026-08-16T23:45:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探秘赫斯特家族传奇，揭秘百年媒体帝国的建立与古堡社交密码"
     }

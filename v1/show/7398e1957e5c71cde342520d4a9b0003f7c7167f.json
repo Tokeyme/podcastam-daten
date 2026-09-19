@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "饱暖读书会",
   "apple_collection_id": "1587356756",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007441154",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/a389a44f8d584e5fb54abd4fbbf76c892394d6ff.json",
       "titel": "118集：一座庭院，和它之外的世界|《光与线》韩江",
       "veroeffentlicht": "2026-08-20T10:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨诺贝尔文学奖得主韩江的首本散文集《光与线》，分享阅读感悟与生活思考。"
     }

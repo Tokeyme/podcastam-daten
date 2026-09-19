@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "-纵横说-",
   "apple_collection_id": "6802993620",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a79890f17676351c56f8ffb",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/961f2d2f7d115371c99c1c8ff9de1e52f6424672.json",
       "titel": "西塔四百年：从一座喇嘛塔到网红美食街的微观全球史",
       "veroeffentlicht": "2026-08-11T00:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨沈阳西塔街区近四百年历史及其折射出的微观全球史"
     }

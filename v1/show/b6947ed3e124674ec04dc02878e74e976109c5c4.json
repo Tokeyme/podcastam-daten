@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "今夜不进站 || F1赛车播客",
   "apple_collection_id": "6789399109",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1004560884",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/76b28ed54895bacf051cd522569fc5c0eac1cba9.json",
       "titel": "F1赛车播客今夜不进站013期xRobinYu｜F1周边入坑指南",
       "veroeffentlicht": "2026-08-04T07:48:26+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "F1赛车周边入坑指南，系统盘点服饰、模型与纪念品的挑选经验与避坑建议。"
     }

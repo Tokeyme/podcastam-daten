@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "guid": "gid://art19-episode-locator/V0/JfWzkUc1v6EcU_apKDznTAHc03ei_KvOUeMKUIhEiMA",
+  "apple_collection_id": "1702258458",
+  "show": "Handsome",
+  "titel": "Elizabeth Banks asks about love affairs",
+  "audio": {
+    "url": "https://s.gum.fm/s-64da7e573d833e9c418c5266/mgln.ai/e/209/pscrb.fm/rss/p/prfx.byspotify.com/e/clrtpod.com/m/rss.art19.com/episodes/14e2df0d-06bc-4f1d-86c5-44380508b1b1.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 61702337,
+    "format": "mp3",
+    "geprueft_am": "2026-09-17T23:23:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst art19.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "Elizabeth Banks asks the hosts about their passionate non-human love affairs.",
+  "kurzfassung": "Fortune Feimster, Mae Martin, and Tig Notaro gather in the studio to discuss therapy, childhood memories, and their intense non-human passions. They reflect on the passing of music and comedy legends Dolly Parton and Tim Curry. Finally, guest Elizabeth Banks poses the central question of the episode about objects, activities, or animals they have loved deeply.",
+  "stichpunkte": [
+    "Recording in-person in the studio brings a special energy compared to Zoom.",
+    "Fortune accidentally hits the front fence with her car upon arrival.",
+    "The hosts share memories and pay tribute to Dolly Parton and Tim Curry.",
+    "Elizabeth Banks asks the main question about non-human love affairs.",
+    "Fortune describes her deep, ongoing passion for espresso and iced cortados.",
+    "Tig shares her past dedication to long-distance cycling and outdoor treks.",
+    "Mae confesses a strong former obsession with smoking weed and its role in her youth.",
+    "Elizabeth Banks reveals her current intense obsession with playing Mahjong."
+  ],
+  "kapitel": [
+    {
+      "titel": "In-Studio Energy and Therapist Stories",
+      "start": 123.32
+    },
+    {
+      "titel": "Car Incidents and Childhood Tales",
+      "start": 448.98
+    },
+    {
+      "titel": "Tribute to Dolly Parton and Tim Curry",
+      "start": 1374.04
+    },
+    {
+      "titel": "Elizabeth Banks' Question on Non-Human Passions",
+      "start": 1966.6
+    },
+    {
+      "titel": "Espresso, Cycling, Weed, and Mahjong",
+      "start": 2078.0
+    },
+    {
+      "titel": "Tour Dates and Sign-Off",
+      "start": 3598.12
+    }
+  ],
+  "clips": [
+    {
+      "hook": "And the wheelchair went off of the ramp and her leg came off.",
+      "start": 540.656,
+      "ende": 560.745,
+      "laenge": 20.09,
+      "byte_start": 8884420,
+      "byte_ende": 9205829,
+      "bytes": 321410,
+      "range_header": "bytes=8884420-9205829",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 540.735,
+      "anker_sha256": "e0ca44721895ebd311ee247a50f959bb00305786b1b6e45c26d6a83a5d8d7897",
+      "anker_ende_sha256": "282a320e6b2475067df147e2be539e8f92eca258ab9c08565f7ddba4fe2b442d",
+      "einblendung_ms": 60,
+      "text": "A childhood visit to a nursing home led to a young girl opening a door for a wheelchair user, resulting in a surprising prosthetic mishap."
+    },
+    {
+      "hook": "Why am I Lumiere? That's the obvious choice.",
+      "start": 824.529,
+      "ende": 844.643,
+      "laenge": 20.11,
+      "byte_start": 13426382,
+      "byte_ende": 13748210,
+      "bytes": 321829,
+      "range_header": "bytes=13426382-13748210",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 824.607,
+      "anker_sha256": "6ca3f212acc2410b4d3488dc0ffbf336412c6e577e5f7f9ead0d3c0d04cfa73b",
+      "anker_ende_sha256": "47992af0c2b238953dd62b1002b8b4bdd656e7f2bd8c84540996647c344a5d7a",
+      "einblendung_ms": 60,
+      "text": "Preparing for a musical theater outing in elaborate character costumes led to immediate regret and confusion about costume choices."
+    },
+    {
+      "hook": "500 million dollars.",
+      "start": 1534.302,
+      "ende": 1554.416,
+      "laenge": 20.11,
+      "byte_start": 24782750,
+      "byte_ende": 25104578,
+      "bytes": 321829,
+      "range_header": "bytes=24782750-25104578",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1534.38,
+      "anker_sha256": "8a3dcba5dcc338271907eb228430675968b9e76481880db5d8ee68e4b6856be6",
+      "anker_ende_sha256": "c71d37a18f69da4a33860dba7184367d216fdf35adefcad1c511a0083eb88a7e",
+      "einblendung_ms": 60,
+      "text": "The staggering financial philanthropy and massive generosity demonstrated throughout a legendary career."
+    },
+    {
+      "hook": "I have a love affair with espresso.",
+      "start": 2104.66,
+      "ende": 2124.748,
+      "laenge": 20.09,
+      "byte_start": 33908471,
+      "byte_ende": 34229880,
+      "bytes": 321410,
+      "range_header": "bytes=33908471-34229880",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2104.738,
+      "anker_sha256": "1b30af220d5ffccc3e712c078538799f07f2a97958861cee3139f10c8f9329d1",
+      "anker_ende_sha256": "609b2cf7eaeb2c678ea6189859d32fab7ebf05f6c2ba2bec8a3cedd40a7639a8",
+      "einblendung_ms": 60,
+      "text": "A daily coffee routine is elevated to a passionate romance fueled by genuine excitement for the morning."
+    },
+    {
+      "hook": "I performed in Portland, Oregon and then cycled to Seattle, Washington.",
+      "start": 2782.877,
+      "ende": 2802.991,
+      "laenge": 20.11,
+      "byte_start": 44759943,
+      "byte_ende": 45081771,
+      "bytes": 321829,
+      "range_header": "bytes=44759943-45081771",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2782.955,
+      "anker_sha256": "e939382c13cd6e8ecce4509619f63ab180ab254d24d2f58def5610286c1ec248",
+      "anker_ende_sha256": "5bfc16a52bed40a9678fa1061f2cb9b375560a215c1d33d3f471b0652ae50d16",
+      "einblendung_ms": 60,
+      "text": "Touring routines involved extreme physical endurance and riding hundreds of miles between comedy gigs."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-17T23:23:54+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3841,
+  "veroeffentlicht": "2026-09-15T08:30:00+00:00",
+  "beschreibung": "Elizabeth Banks delights Handsome with a lovely question about love affairs on a super-giggly episode of Handsome! Plus a tribute to Dolly, Fortune losing her box, a thoughtful gift from Mae, and more!\nHandsome is hosted by Tig Notaro, Mae Martin, and Fortune Feimster\nFollow us on social media @handsomepod\nMerch at handsomepod.com\nWatch Handsome on YouTube and Hulu\nThis is a Headgum podcast. Follow Headgum on Twitter, Instagram, and Tiktok. Advertise on Handsome via Gumball.fm.\n\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+  "beschreibung_html": "<p>Elizabeth Banks delights Handsome with a lovely question about love affairs on a super-giggly episode of Handsome! Plus a tribute to Dolly, Fortune losing her box, a thoughtful gift from Mae, and more!</p><ul><li><em>Handsome is hosted by Tig Notaro, Mae Martin, and Fortune Feimster</em></li><li><em>Follow us on social media @handsomepod</em></li><li><em>Merch at </em><a href=\"http://handsomepod.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>handsomepod.com</em></a></li><li><em>Watch Handsome on </em><a href=\"http://youtube.com/@handsomepod\" rel=\"noopener noreferrer\" target=\"_blank\"><em>YouTube</em></a><em> and </em><a href=\"https://www.hulu.com/series/b583d0bc-eeb0-4560-8b2b-5c8ae0248a19?play=false&amp;utm_source=shared_link\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Hulu</em></a></li><li><em>This is a </em><a href=\"https://headgum.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Headgum</em></a><em> podcast. Follow Headgum on </em><a href=\"https://x.com/headgum\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Twitter</em></a><em>, </em><a href=\"https://www.instagram.com/headgum/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Instagram</em></a><em>, and </em><a href=\"https://www.tiktok.com/@headgum\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Tiktok</em></a><em>. Advertise on </em><a href=\"https://gumball.fm/shows/handsome\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Handsome</em></a><em> via </em><a href=\"http://gumball.fm/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Gumball.fm</em></a><em>.</em></li></ul><p>See Privacy Policy at <a href=\"https://art19.com/privacy\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy</a> and California Privacy Notice at <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"noopener noreferrer\" target=\"_blank\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+  "bild_url": "https://content.production.cdn.art19.com/images/8d/e3/0c/c2/8de30cc2-2518-4242-be71-4b77949619eb/8c861c08048989df50ab481fb898db47467b2a5845d6a8112e3b0fea24dfb489181d49bb4e42d17b8361c88a0b66bd6352a50392993442ae6afc1918aa418ca0.jpeg",
+  "schlagworte": [
+    "comedy"
+  ],
+  "kapitel_quelle": "modell"
+}

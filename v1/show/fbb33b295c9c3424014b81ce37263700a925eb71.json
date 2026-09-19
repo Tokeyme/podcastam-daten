@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "巴黎对谈录",
   "apple_collection_id": "1869135397",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "696026128f388c61e1eaa913",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/bf7851aad0c0ec0c9ef98e47b5cebf983276fbad.json",
       "titel": "巴黎的生存哲学 vs 上海职场的戾气",
       "veroeffentlicht": "2026-01-08T23:30:16+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨巴黎松弛生活哲学与上海职场内卷现象的碰撞与反思。"
     }

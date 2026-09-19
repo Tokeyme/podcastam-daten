@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "音乐记事本|一首歌一个故事",
   "apple_collection_id": "1652293906",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_826168969",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/0fe5cf3b67bddf016f41c12966d4ff1688e3592f.json",
       "titel": "《座位》于东然",
       "veroeffentlicht": "2025-04-08T02:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "于东然单曲《座位》用温暖纯净的嗓音勾勒青春与回忆。"
     }

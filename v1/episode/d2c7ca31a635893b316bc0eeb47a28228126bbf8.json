@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "guid": "19503799",
+  "apple_collection_id": "1596207377",
+  "show": "学习背景音乐Study Session",
+  "titel": "欧美学习背景音",
+  "audio": {
+    "url": "http://vohwod-sign.qtfm.cn/m4a/6195f5c795a7c676d8fd978c_20926221_24.m4a?auth_key=6a9e8847-199537-0-28ad94ef0eb7f9472d2da98b6678dfa2",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3957217,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T09:55:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "欧美学习背景音歌曲及相关音乐制作信息",
+  "kurzfassung": "本期节目包含了由李宗盛负责作词、作曲、编曲以及混音的音乐内容。同时，节目提到了明镜与点点栏目的相关信息。最后，音频中包含了英文歌曲片段和中文字幕提示。",
+  "stichpunkte": [
+    "李宗盛担任本期歌曲的作词",
+    "李宗盛负责歌曲的作曲工作",
+    "李宗盛参与了歌曲的编曲",
+    "李宗盛负责歌曲的混音制作",
+    "节目中包含明镜与点点栏目的相关宣传",
+    "音频结尾包含英文歌词内容",
+    "节目附带中文字幕制作信息"
+  ],
+  "kapitel": [
+    {
+      "titel": "音乐制作信息",
+      "start": 0.0
+    },
+    {
+      "titel": "栏目支持与背景音乐",
+      "start": 343.94
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T09:55:05+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1343,
+  "veroeffentlicht": "2021-11-18T06:42:15+00:00",
+  "kapitel_quelle": "modell"
+}

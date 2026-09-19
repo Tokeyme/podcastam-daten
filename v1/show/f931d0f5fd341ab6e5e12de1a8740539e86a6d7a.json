@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "过山情感脱口秀",
   "apple_collection_id": "1337609312",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_681548721",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/c4bf4c683940cdd1bb72d42ea3776b783c9d2d98.json",
       "titel": "新158期 日常沟通里，到底什么是该有的边界感？",
       "veroeffentlicht": "2023-11-13T11:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨日常沟通中的边界感，分享半夜乱发消息与人际交往的真实困扰。"
     }

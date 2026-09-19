@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "夏冰雹的播客",
   "apple_collection_id": "1762849572",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1006519004",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/1f4afd4baa584406c56b819a3c852f2dc7cc60dc.json",
       "titel": "全英Talk｜AI时代的残酷真相：会思考的人持续变强，不会思考的人沦为韭菜",
       "veroeffentlicht": "2026-08-15T01:48:28+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "AI时代的残酷真相：会思考的人持续变强，不会思考的人沦为韭菜。"
     }

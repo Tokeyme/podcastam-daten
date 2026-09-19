@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/bcd9-audiofreehighqps/E9/4F/CMCoOR4DnjdQAJ-iyABtbhMe-aacv2-48K.m4a",
+  "apple_collection_id": "1726783892",
+  "show": "尖叫影院|精品恐怖电影专题盘点解说",
+  "titel": "01 鬼屋电影｜野火烧不尽的鬼屋电影",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CMCoOR4DnjdQAJ-iyABtbhMe-aacv2-48K.m4a?channel=rss&album_id=4159506&track_id=15992017&uid=47570257&jt=https://aod.cos.tx.xmcdn.com/storages/bcd9-audiofreehighqps/E9/4F/CMCoOR4DnjdQAJ-iyABtbhMe-aacv2-48K.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 7866196,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T08:49:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "回顾鬼屋电影半个多世纪的发展历程与经典之作",
+  "kurzfassung": "本期节目回顾了鬼屋电影半个多世纪以来的发展脉络。从早期简单的悬疑喜剧到威廉·卡索的沉浸式体验，再到《邪巫》《闪灵》等经典之作，节目梳理了不同年代鬼屋题材的风格演变。最后探讨了新世纪后伪纪录片和跨国恐怖片对该类型的持续推动。",
+  "stichpunkte": [
+    "20至50年代：鬼屋电影多见于悬疑、喜剧和爱情片，主要靠装神弄鬼营造轻松气氛。",
+    "1959年威廉·卡索的《猛鬼屋》上映，标志着现代恐怖鬼屋电影的正式到来。",
+    "60年代诞生了《无辜的人》和《面视》等哥特风格与心理暗示的经典名作。",
+    "1973年英国的《古屋传奇》尝试用科学和血腥场面来重新诠释鬼屋。",
+    "1979年《鬼哭神号》大获成功，将真实案例改编和驱魔仪式引入鬼屋电影。",
+    "1980年斯坦利·库布里克执导的《闪灵》成为恐怖电影史上的里程碑。",
+    "80年代中期至90年代：随着《鬼玩人》等B级片兴起及VCD普及，鬼屋电影一度进入低谷与冬眠期。",
+    "2001年后迎来复苏，好莱坞翻拍潮、亚洲恐怖片及伪纪录片《鬼影实录》带来全新繁荣。"
+  ],
+  "kapitel": [
+    {
+      "titel": "鬼屋电影的早期萌芽与威廉·卡索的创新",
+      "start": 14.4
+    },
+    {
+      "titel": "60至70年代的经典奠基与心理悬疑",
+      "start": 183.4
+    },
+    {
+      "titel": "80年代的多元混搭与低谷期",
+      "start": 591.68
+    },
+    {
+      "titel": "2001年后的复苏与全球化繁荣",
+      "start": 884.96
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T08:49:53+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1292,
+  "veroeffentlicht": "2016-05-20T13:44:04+00:00",
+  "beschreibung": "尖叫影院 第一期 鬼屋电影，盘点了恐怖电影史上最全面的鬼屋电影。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>尖叫影院 第一期 鬼屋电影，盘点了恐怖电影史上最全面的鬼屋电影。<br /><br /></span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group7/M02/72/EA/wKgDWlc_E1KhmtWnAA08n1OmwQA916.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

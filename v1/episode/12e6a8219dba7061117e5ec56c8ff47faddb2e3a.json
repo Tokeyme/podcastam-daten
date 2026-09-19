@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_486807883",
+  "apple_collection_id": "1599464313",
+  "show": "脱颖而出-职场中的生存法则",
+  "titel": "131-善于倾听忠告",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasFn3jNABAAAAEHfmG7.m4a?channel=rss&album_id=54706423&track_id=486807883&uid=375006997&jt=https://aod.cos.tx.xmcdn.com/storages/5215-audiofreehighqps/E1/D2/GKwRIasFn3jNABAAAAEHfmG7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 22117403,
+    "format": "unbekannt",
+    "geprueft_am": "2026-08-31T14:22:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Audioformat nicht bestimmbar - ohne bekanntes Format waeren die Byte-Grenzen geraten"
+  },
+  "einzeiler": "职场生存指南：倾听前辈建议、消除人际距离与克制情绪",
+  "kurzfassung": "本期探讨了职场中的三大生存法则：善于倾听老员工的宝贵经验与忠告，通过零距离沟通和情绪自控来建立良好人际关系，以及摒弃过度追求完美的完美主义，注重实际行动与解决问题。内容结合了具体职场案例与管理学视角，分析了情绪失控与细节纠缠带来的负面影响。同时强调在面对冲突时应当紧扣核心、避开无谓争辩并寻求彼此让步。",
+  "stichpunkte": [
+    "职场新人应当多听取老员工的意见和前辈的无字真经，以更快熟悉公司规章制度和融入环境。",
+    "沃尔玛创始人山姆·沃尔顿通过卫星网络系统等手段消除总部与商店之间的距离，实现了零距离沟通和竞争优势。",
+    "与他人沟通时保持情绪同步能让对方产生被理解和尊重的感受，从而建立融洽的亲近感。",
+    "缺乏情绪自控力、在关键时刻沉不住气大发雷霆会毁掉个人职业形象并招致负面评价。",
+    "某知名企业培训部主管因完美主义和火爆脾气在会议上失控，最终导致停职与辞职的遗憾结局。",
+    "塔克商学院教授芬克尔斯坦指出，学习成功经验最好的方法是从研究失败的教训中获得。",
+    "完美主义者往往因为害怕不完美而迟迟不敢行动，应当转变为注重实际成果的行动派。",
+    "在职场对抗中应当紧扣问题核心、避开无谓争辩，并通过彼此让步和寻找折中方案来解决问题。"
+  ],
+  "kapitel": [
+    {
+      "titel": "倾听职场前辈的忠告",
+      "start": 0.92
+    },
+    {
+      "titel": "工作交往中的零距离沟通",
+      "start": 212.6
+    },
+    {
+      "titel": "职场情绪自控与案例分析",
+      "start": 534.12
+    },
+    {
+      "titel": "借鉴他人成功与失败的经验",
+      "start": 890.72
+    },
+    {
+      "titel": "行动派与告别完美主义",
+      "start": 1093.36
+    },
+    {
+      "titel": "解决问题而非推辞与对抗",
+      "start": 1274.14
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T14:22:34+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1511,
+  "veroeffentlicht": "2021-12-27T12:47:52+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/401e-audiofreehighqps/6B/70/GKwRIaIFn3jLAAEWaQEHfmCA.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

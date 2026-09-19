@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "梁永安的播客",
   "apple_collection_id": "1611482051",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "69f31081038707a77196b7fc",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/2b2eb4457a2a04bee2dbb23e87949ead3585de54.json",
       "titel": "70.「奥德赛时期」该明白的道理，都在这本书里了……【复旦 梁永安】",
       "veroeffentlicht": "2026-04-30T12:30:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "梁永安聊当代青年的阅读现状，并推荐乔伊斯的短篇小说集《都柏林人》。"
     }

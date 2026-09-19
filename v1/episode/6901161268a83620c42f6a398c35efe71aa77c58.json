@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "guid": "bc53322c-c823-47cb-b8d7-0e644d998a45",
+  "apple_collection_id": "1896801264",
+  "show": "AI Business Daily",
+  "titel": "The Future of AI, Automation, and Global Business Transformation",
+  "audio": {
+    "url": "https://cdn.simplecast.com/media/audio/transcoded/4d224c0c-d65f-4f21-9408-f066505d8276/93a1a414-dc71-453f-a2a7-07e9fdd63b3a/episodes/audio/group/718a7e4f-556a-462d-8a9f-efa2196ed562/group-item/0f60cfc4-c73e-4a6e-9d80-22104fd77bc7/128_default_tc.mp3?aid=rss_feed&feed=KH15z61n",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 36644196,
+    "format": "mp3",
+    "geprueft_am": "2026-09-18T04:52:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": null
+  },
+  "einzeiler": "How artificial intelligence is driving global business transformation and automation.",
+  "kurzfassung": "Artificial intelligence is reshaping global business through advanced automation, data analytics, and personalized customer experiences. While intelligent systems drive efficiency and scalability, long-term success relies on combining technology with human leadership, creativity, and trust. Professionals and organizations must embrace continuous learning and ethical practices to thrive in the evolving digital economy.",
+  "stichpunkte": [
+    "Intelligent automation streamlines operations, reduces costs, and enables scalability across industries.",
+    "Advanced data analytics and predictive intelligence allow businesses to monitor trends and make faster, informed decisions.",
+    "Customer expectations are shifting toward rapid, personalized digital experiences supported by AI.",
+    "Maintaining customer trust, data privacy, and cybersecurity is critical as digital operations expand.",
+    "Human leadership, creativity, and emotional intelligence remain essential alongside automated systems.",
+    "The future workforce requires continuous learning, digital literacy, and adaptability to collaborate effectively with AI."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction to AI and Automation",
+      "start": 0.0
+    },
+    {
+      "titel": "Data, Analytics, and Smarter Decision-Making",
+      "start": 326.78
+    },
+    {
+      "titel": "Transforming Customer Experience",
+      "start": 492.82
+    },
+    {
+      "titel": "Trust, Privacy, and Digital Responsibility",
+      "start": 639.9
+    },
+    {
+      "titel": "Human Leadership in an Automated World",
+      "start": 809.76
+    },
+    {
+      "titel": "The Future Workforce and AI Collaboration",
+      "start": 979.08
+    },
+    {
+      "titel": "Global Economic Impact and Sustainable Growth",
+      "start": 1295.14
+    },
+    {
+      "titel": "Next Chapter of Global Digital Transformation",
+      "start": 1780.92
+    },
+    {
+      "titel": "Human Potential in the AI Economy",
+      "start": 2114.46
+    }
+  ],
+  "clips": [
+    {
+      "hook": "The scalability advantage of automation",
+      "start": 200.803,
+      "ende": 220.918,
+      "laenge": 20.11,
+      "byte_start": 3213313,
+      "byte_ende": 3535140,
+      "bytes": 321828,
+      "range_header": "bytes=3213313-3535140",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 200.882,
+      "anker_sha256": "5c8bf24d28336418f8bec65db3c582df437b9c4291e03c4bd2f689f0e18a9bec",
+      "anker_ende_sha256": "00ea40cf73d858c81264c2ba8bbde8495e01ff5a9c613b16eda7fefb3718a3ad",
+      "einblendung_ms": 60,
+      "text": "Companies can expand their services and handle larger information volumes without increasing operational complexity."
+    },
+    {
+      "hook": "Around-the-clock customer responsiveness",
+      "start": 533.473,
+      "ende": 556.669,
+      "laenge": 23.2,
+      "byte_start": 8536023,
+      "byte_ende": 8907170,
+      "bytes": 371148,
+      "range_header": "bytes=8536023-8907170",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 533.551,
+      "anker_sha256": "a4f5df09c235ffac60c7dc2f0ad3722f55011b63444d61ddb2fcc2ee49f75bff",
+      "anker_ende_sha256": "95eb04e498e80bd25be652073a14ffe9f9ebe7d191f7b1680476289993915773",
+      "einblendung_ms": 60,
+      "text": "Intelligent systems enable continuous customer service operations to address inquiries with greater speed and efficiency."
+    },
+    {
+      "hook": "Enhancing human capabilities instead of replacing workers",
+      "start": 1017.678,
+      "ende": 1041.424,
+      "laenge": 23.75,
+      "byte_start": 16283314,
+      "byte_ende": 16663238,
+      "bytes": 379925,
+      "range_header": "bytes=16283314-16663238",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1017.757,
+      "anker_sha256": "caf41ffbae6c0d627c2a90cee63567a69aa72a0086cd2d83a1ac3a1577ce36d1",
+      "anker_ende_sha256": "725bd18fb9e6668d0423f2cedaf2454b9b20287af518a7b59e66fb12671aa9d9",
+      "einblendung_ms": 60,
+      "text": "Organizations utilize artificial intelligence as a support tool to process data rapidly while employees concentrate on problem-solving."
+    },
+    {
+      "hook": "Leveling the playing field for small businesses",
+      "start": 1362.834,
+      "ende": 1382.922,
+      "laenge": 20.09,
+      "byte_start": 21805809,
+      "byte_ende": 22127219,
+      "bytes": 321411,
+      "range_header": "bytes=21805809-22127219",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 1362.913,
+      "anker_sha256": "340d0228be080b7d53c69c0037d07699e98facfbd5e73e1c43291cf52c64cc2d",
+      "anker_ende_sha256": "b280d575fc0597de82fcb06f9bc22ec50605269301c1843dd0b5f7d3f0ddf608",
+      "einblendung_ms": 60,
+      "text": "Digital platforms and automated operations allow startups to compete on an international scale against large corporations."
+    },
+    {
+      "hook": "Democratizing access to advanced innovation",
+      "start": 2211.631,
+      "ende": 2231.745,
+      "laenge": 20.11,
+      "byte_start": 35386557,
+      "byte_ende": 35708384,
+      "bytes": 321828,
+      "range_header": "bytes=35386557-35708384",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2211.709,
+      "anker_sha256": "eca7c837224c50c688c102235679636ef4195ea7177233fd34cc00f7fb2381c0",
+      "anker_ende_sha256": "9e5a6f09beefc5eb1e132bb2e6e56074fc4b892f6c7df88dd7ff75f065f2d812",
+      "einblendung_ms": 60,
+      "text": "Smaller enterprises and independent creators now gain entry to sophisticated technologies previously restricted to major corporations."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-18T04:52:47+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2290,
+  "veroeffentlicht": "2026-06-10T06:57:40+00:00",
+  "beschreibung": "Artificial intelligence is reshaping the global economy, transforming industries, and redefining how businesses innovate, compete, and grow. In this episode of AI Business Daily, we explore the future of AI-driven business transformation and how organizations can thrive in an increasingly automated world.\n\nWe discuss:\n\nintelligent automation,\n\ndata-driven decision-making,\n\ncustomer experience and personalization,\n\ncybersecurity and digital trust,\n\nAI-powered entrepreneurship,\n\nworkforce transformation,\n\nsustainable growth,\n\nand the future of human leadership in the digital economy.\n\nAs AI continues to accelerate innovation worldwide, businesses that successfully combine technology, trust, adaptability, and human-centered values may become the leaders of the next generation economy.\n\nAI Business Daily is proudly part of the Cast Nexa media network.\n\nFor sponsorships, advertising opportunities, collaborations, or podcast promotion inquiries, visit CastNexa.com or contact us directly at contact@castnexa.com.\n\nAI Business Daily is proudly part of the Cast Nexa media network.\n\nFor sponsorships, advertising opportunities, collaborations, or podcast promotion inquiries, visit CastNexa.com or contact us directly at contact@castnexa.com.",
+  "beschreibung_html": "<p>Artificial intelligence is reshaping the global economy, transforming industries, and redefining how businesses innovate, compete, and grow. In this episode of AI Business Daily, we explore the future of AI-driven business transformation and how organizations can thrive in an increasingly automated world.</p>\n<p>We discuss:</p>\n<ul>\n <li>intelligent automation,</li>\n <li>data-driven decision-making,</li>\n <li>customer experience and personalization,</li>\n <li>cybersecurity and digital trust,</li>\n <li>AI-powered entrepreneurship,</li>\n <li>workforce transformation,</li>\n <li>sustainable growth,</li>\n <li>and the future of human leadership in the digital economy.</li>\n</ul>\n<p>As AI continues to accelerate innovation worldwide, businesses that successfully combine technology, trust, adaptability, and human-centered values may become the leaders of the next generation economy.</p>\n<p>AI Business Daily is proudly part of the Cast Nexa media network.</p>\n<p>For sponsorships, advertising opportunities, collaborations, or podcast promotion inquiries, visit CastNexa.com or contact us directly at contact@castnexa.com.</p>\n<p><p>AI Business Daily is proudly part of the Cast Nexa media network.</p><p>&nbsp;</p><p>For sponsorships, advertising opportunities, collaborations, or podcast promotion inquiries, visit CastNexa.com or contact us directly at contact@castnexa.com.</p></p>",
+  "untertitel": "In this episode of AI Business Daily, we explore how artificial intelligence is driving global business transformation through automation, analytics, innovation, and digital leadership. We examine how organizations are using AI-powered technologies to improve efficiency, enhance customer experiences, and create sustainable long-term growth.\n\nThe episode also covers:\n\n* intelligent automation,\n* predictive analytics,\n* customer trust and cybersecurity,\n* entrepreneurship and digital innovation,\n* workforce evolution,\n* leadership in the AI era,\n* and the future relationship between human creativity and intelligent systems.\n\nAs businesses navigate a rapidly changing technological landscape, those that balance innovation with responsibility and automation with authentic human value may be best positioned for long-term success.\n\n⸻\n\nEpisode Notes\n\nTopics Covered:\n\n* The rise of intelligent automation\n* Data-driven business strategies\n* AI-powered customer experiences\n* Digital trust and cybersecurity\n* Human leadership in an automated world\n* Future workforce trends\n* Innovation and entrepreneurship\n* Sustainable digital growth\n* Global digital transformation\n* The future of human potential in the AI economy\n\nKey Takeaway:\n\nArtificial intelligence is transforming every aspect of modern business, but long-term success will likely belong to organizations that combine technology, trust, innovation, and human-centered leadership.",
+  "bild_url": "https://image.simplecastcdn.com/images/5c0dfb93-80c6-4da7-9150-2db181bea15b/13921c1c-587e-45ea-bbf4-a68ca081b377/3000x3000/ai_business_daily.jpg?aid=rss_feed",
+  "schlagworte": [
+    "future workforce",
+    "digital transformation",
+    "global business",
+    "digital leadership",
+    "artificial intelligence",
+    "automation",
+    "data analytics",
+    "customer experience",
+    "business innovation",
+    "entrepreneurship",
+    "sustainable growth",
+    "ai business",
+    "cybersecurity",
+    "technology trends",
+    "ai economy"
+  ],
+  "folgennummer": 8,
+  "kapitel_quelle": "modell"
+}

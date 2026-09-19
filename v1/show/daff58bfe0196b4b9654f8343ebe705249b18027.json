@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "早点生活",
   "apple_collection_id": "1718906980",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007642941",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/24c47395ef0d6a24920378adc9e80ee5b062cee5.json",
       "titel": "原宇粥的每周生活指南 EP30——那条你深信不疑的“真理”",
       "veroeffentlicht": "2026-08-21T04:00:51+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨从小到大听过的老话与座右铭，以及它们如何随着人生经历改变人们的认知。"
     }

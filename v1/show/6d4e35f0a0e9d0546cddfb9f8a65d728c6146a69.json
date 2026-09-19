@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "跟着艺术去旅行",
   "apple_collection_id": "1757791278",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a638e0b6356eb2d9be7efa5",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/2cace2c9f9ce42c7f8d5893b856bdc814ed5a41b.json",
       "titel": "EP42走进响堂山：鼓山石壁间，读懂半部北朝石窟艺术史",
       "veroeffentlicht": "2026-07-24T23:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "走进响堂山石窟，在鼓山石壁间读懂半部北朝石窟艺术史"
     }

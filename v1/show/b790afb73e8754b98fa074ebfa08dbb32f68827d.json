@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "从心聊电影",
   "apple_collection_id": "1546528783",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a854c285aeb2a5712e92dc3",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/c63c8aeada0956da87ee2b860b046dd7f0ab3a4b.json",
       "titel": "Vol. 216- 《死神的十字路口》：夏末纳凉小合集",
       "veroeffentlicht": "2026-08-19T06:28:50+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "细品经典泰国恐怖短片合集《死神的十字路口》中的四个惊悚故事。"
     }

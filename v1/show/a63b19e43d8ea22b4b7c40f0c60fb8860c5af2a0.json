@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "运动旅行家",
   "apple_collection_id": "1820456356",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "69abb4c7c8cdeb38c2429c97",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/3b84a2fa5c6de30c7c4729275032e6440e173b32.json",
       "titel": "E10 HYROX训练经历与感受，我跟大家一样！痛苦，挣扎，但热爱",
       "veroeffentlicht": "2026-03-07T05:20:15+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "分享半年备赛HYROX的痛苦与挣扎，探讨这项耐力赛带来的生活方式转变。"
     }

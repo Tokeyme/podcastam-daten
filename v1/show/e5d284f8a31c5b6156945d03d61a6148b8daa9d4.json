@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "这个月的播客",
   "apple_collection_id": "1851932557",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a8958c51352af56ff3a3324",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/4b98df84c66001a8b403a8e697a0307f0d9df628.json",
       "titel": "025.漆漆✖️这个月：后来我发现，再「不正当的」感受，都是在保护我的。",
       "veroeffentlicht": "2026-08-22T08:29:10+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "脱口秀演员七七做客，探讨如何信任、看见并接纳自己的真实感受。"
     }

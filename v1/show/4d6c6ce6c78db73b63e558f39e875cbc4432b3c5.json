@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "茶道茶艺与健康饮茶",
   "apple_collection_id": "1831422726",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_896238954",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/5c44dbc207ff3c0304bacae99260410aba26e5b1.json",
       "titel": "1 茶从药用走向饮用的历程",
       "veroeffentlicht": "2025-08-06T03:51:46+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨茶从古代药用到食用再到唐宋巅峰与现代饮品的文明旅程"
     }

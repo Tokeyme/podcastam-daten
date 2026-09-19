@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "逆水读书|20分钟看完一本好书",
   "apple_collection_id": "1133108921",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1005236705",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/c0264ec364c3b80352c7064cf4b2fa18b7cd140d.json",
       "titel": "春秋左传故事6｜屈原先祖屈瑕之败与楚国崛起",
       "veroeffentlicht": "2026-08-08T02:38:30+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "屈原先祖屈瑕之败与楚国崛起的故事"
     }

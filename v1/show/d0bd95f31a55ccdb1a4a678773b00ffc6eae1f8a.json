@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小茶铺|悬疑案件",
   "apple_collection_id": "1796116743",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007517654",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/8f936b912fc1f1b4c8d237b87da03a68d779f21d.json",
       "titel": "阿纳托利的亡灵之屋",
       "veroeffentlicht": "2026-08-22T16:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "俄罗斯天才历史学家家中藏有数十具女性干尸，揭开震惊世界的死灵术盗墓案。"
     }

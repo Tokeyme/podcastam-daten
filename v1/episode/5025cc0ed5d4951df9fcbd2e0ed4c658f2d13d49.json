@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_487951396",
+  "apple_collection_id": "1589556628",
+  "show": "女性健康百科手册",
+  "titel": "这位女明星为何主动切除乳腺？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4FpDlnAASEaQEIqZ9k.m4a?channel=rss&album_id=52525459&track_id=487951396&uid=65818266&jt=https://aod.cos.tx.xmcdn.com/storages/8414-audiofreehighqps/6F/D3/GKwRIW4FpDlnAASEaQEIqZ9k.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 296041,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:49:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨安吉丽娜朱丽切除乳腺背后的基因风险与癌症预防。",
+  "kurzfassung": "好莱坞知名女星安吉丽娜朱丽因遗传危险基因面临极高的乳腺癌和卵巢癌患病概率，因此选择主动切除乳腺。无症状并不代表没有疾病风险，许多癌症一旦发现已是晚期。节目将于3月8日上午10点直播探讨看不到的疾病风险与基因的关系。",
+  "stichpunkte": [
+    "安吉丽娜朱丽的母亲曾与癌症斗争近十年",
+    "朱丽遗传了危险基因，患乳腺癌概率达87%",
+    "朱丽患卵巢癌的概率达50%",
+    "朱丽选择主动切除乳腺以防患未然",
+    "没有症状并不代表没有疾病风险",
+    "许多癌症一旦被发现就已经是晚期",
+    "3月8日上午10点将开启直播探讨隐藏疾病风险"
+  ],
+  "kapitel": [
+    {
+      "titel": "朱丽切除乳腺的原因与基因风险",
+      "start": 0.0
+    },
+    {
+      "titel": "癌症风险与直播预告",
+      "start": 27.06
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:49:12+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 36,
+  "veroeffentlicht": "2022-01-03T12:00:00+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b7af-audiofreehighqps/B0/53/GMCoOSEFiQlLAAQP8gEAzcqc.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

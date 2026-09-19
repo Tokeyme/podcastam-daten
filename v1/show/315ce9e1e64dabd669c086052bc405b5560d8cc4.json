@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "CLUB100骑行播客",
   "apple_collection_id": "1535785868",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_758100980",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/db796af6d28656985bc11881fdf02803763cf383.json",
       "titel": "VOL.27 Ironman世锦赛前的采访",
       "veroeffentlicht": "2024-09-19T17:20:59+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨在工作繁忙与身体变故下，普通人如何备战Ironman世锦赛。"
     }

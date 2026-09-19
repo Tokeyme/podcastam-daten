@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "我们一起聊电影",
   "apple_collection_id": "1645842698",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_957213743",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/9fbf7b06886010919c98b5633c7d8e107ba724af.json",
       "titel": "为什么要杀死汝爱？",
       "veroeffentlicht": "2026-02-15T11:35:37+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "深度剖析电影《杀死汝爱》与垮掉的一代文学起源"
     }

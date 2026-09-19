@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "经典DJ音乐",
   "apple_collection_id": "1875672999",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_773796314",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/894df480609e6f64cf32235ece86af7700cc9c78.json",
       "titel": "30分钟中文DJ",
       "veroeffentlicht": "2024-11-12T04:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "中文DJ音乐串烧与歌曲片段合集"
     }

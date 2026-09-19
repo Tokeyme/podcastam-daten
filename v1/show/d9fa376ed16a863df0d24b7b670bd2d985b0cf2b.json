@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "抑扬格",
   "apple_collection_id": "1819879009",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a71e0abab3a91c24a0fbddd",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/4dba5380e839f393f321f7d34de24a30625cb24b.json",
       "titel": "37 漫谈｜关于写作的想象力",
       "veroeffentlicht": "2026-08-04T16:01:44+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨大学哲学教育中的写作训练，反思论文规范与学术表达的意义。"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "游戏八分半",
   "apple_collection_id": "1809287844",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a62d248a3fec224d5a280e6",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/966115db5f536b63675bea10483bbc73a6841a1c.json",
       "titel": "对话勿巽与：一边做策划外包，一边做GB独游，持续性身无分文但很快乐",
       "veroeffentlicht": "2026-07-28T00:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "全职接外包并开发独立游戏的开发者，分享高压与创作的经历。"
     }

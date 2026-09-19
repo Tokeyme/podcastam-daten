@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "后续移步《慕柏读书》|精选美文",
   "apple_collection_id": "1076239915",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1008115201",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/d66fb4c8f7d7ed86ec3ce520390fd91c0b2148de.json",
       "titel": "鲍尔吉·原野：我们的秋天",
       "veroeffentlicht": "2026-08-23T13:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "细品鲍尔吉·原野的散文，感受秋天从初秋、中秋到深秋悄然渗透生活的温柔与宁静。"
     }

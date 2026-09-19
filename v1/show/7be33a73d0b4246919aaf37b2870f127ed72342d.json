@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "乐普医疗健康调频",
   "apple_collection_id": "1217715562",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007415249",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/0538e842aedf44ca89653489061bc9554b77cb71.json",
       "titel": "377. 哪一种心脏瓣膜病最危险？术后出院3个硬指标，少一个都不行",
       "veroeffentlicht": "2026-08-20T08:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "详解心脏瓣膜病的危险程度及术后出院的三个硬指标"
     }

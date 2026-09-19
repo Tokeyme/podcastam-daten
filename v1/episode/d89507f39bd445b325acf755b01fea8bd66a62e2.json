@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://audio.xmcdn.com/group15/M08/42/6B/wKgDZVWis1jA1vNPACeMd2h9Dmg594.m4a",
+  "apple_collection_id": "981048079",
+  "show": "财经头条",
+  "titel": "43 世界那么大，我想去看看！",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDZVWis1jA1vNPACeMd2h9Dmg594.m4a?channel=rss&album_id=341593&track_id=6470764&uid=22104768&jt=https://audio.xmcdn.com/group15/M08/42/6B/wKgDZVWis1jA1vNPACeMd2h9Dmg594.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 2591863,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T19:52:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "河南女教师辞职信引发共鸣，探讨“世界这么大，我想去看看”背后的心境。",
+  "kurzfassung": "节目探讨了一位河南女教师富有情怀的辞职信引发广泛共鸣的现象。这一口号触动了人们渴望摆脱日复一日的现实生活、追求更广阔世界的心理。然而，现实的安稳与农耕文化带来的生存诉求，使得大多数人最终选择留在原地。",
+  "stichpunkte": [
+    "河南女教师最具情怀的辞职信引发无数人的共鸣",
+    "辞职看世界代表了打破常规、追求精神成长的渴望",
+    "电影中的公路片与看世界在精神上有默契的一致性",
+    "一个正常且稳定的社会能够让每个人找到自己的位置",
+    "情怀不能当饭吃，真正辞职远行的人毕竟是少数",
+    "数千年的农耕文明让生存状态的稳定性成为根本诉求",
+    "出门看世界与回到老地方成为当代中国人的心结",
+    "过好当下的每一天，走好每一步同样可以拥有精彩的人生"
+  ],
+  "kapitel": [
+    {
+      "titel": "节目导入",
+      "start": 0.0
+    },
+    {
+      "titel": "世界那么大，我想去看看的共鸣",
+      "start": 48.18
+    },
+    {
+      "titel": "现实安稳与文化的根本诉求",
+      "start": 137.7
+    },
+    {
+      "titel": "回归当下与节目尾声",
+      "start": 240.4
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T19:52:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 320,
+  "veroeffentlicht": "2015-04-21T13:13:48+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group6/M07/53/B2/wKgDg1U2TNTS3rfHAACsxH4f8p4759.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

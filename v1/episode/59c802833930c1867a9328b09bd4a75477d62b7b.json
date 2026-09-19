@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group12/M06/33/46/wKgDW1WTMWrBVRX7AbfLszdkpKY378.m4a",
+  "apple_collection_id": "874932600",
+  "show": "NJ百度：娱乐脱口秀（第七季）",
+  "titel": "点歌传情一2014.1.1",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDW1WTMWrBVRX7AbfLszdkpKY378.m4a?channel=rss&album_id=246813&track_id=2369466&uid=8056399&jt=https://aod.cos.tx.xmcdn.com/group12/M06/33/46/wKgDW1WTMWrBVRX7AbfLszdkpKY378.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 28822451,
+    "format": "m4a",
+    "geprueft_am": "2026-09-09T14:58:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "主持人百度在2014年元旦开启点歌节目，与听众互动并分享生活趣事。",
+  "kurzfassung": "主持人百度在2014年1月1日主持了新年首档点歌节目。节目中，他分享了自己近期的生活经历，包括生病就医和盲人按摩的趣事，并与听众互动交流。此外，他还针对听众的提问给出了独特的建议，并播放了多首点播歌曲。",
+  "stichpunkte": [
+    "主持人百度在元旦当天开启2014年首档节目，并进行自我介绍。",
+    "百度分享了自己2013年底生病就医及体验盲人按摩的尴尬经历。",
+    "节目设置了点歌环节，听众通过公众号点歌，百度负责播放并回应听众留言。",
+    "百度与听众讨论了关于秋裤设计、恋爱套路及安慰他人的技巧。",
+    "节目中提及了关于保护儿童安全及防范恋童癖变态行为的严肃话题。",
+    "百度对平台运营者“青菜”表达了不满，并调侃了直播间的人气状况。",
+    "主持人针对听众关于职场和人际关系的提问给出了个人见解。",
+    "节目最后，百度呼吁听众关注直播间并送上新年祝福。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与自我介绍",
+      "start": 0.0
+    },
+    {
+      "titel": "点歌环节与新年愿望",
+      "start": 211.56
+    },
+    {
+      "titel": "分享生病与按摩经历",
+      "start": 234.04
+    },
+    {
+      "titel": "互动问答与情感建议",
+      "start": 662.32
+    },
+    {
+      "titel": "讨论儿童安全与防范变态",
+      "start": 1924.6
+    },
+    {
+      "titel": "节目总结与新年祝福",
+      "start": 3446.26
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-09T14:58:32+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-3.1-flash-lite",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 3564,
+  "veroeffentlicht": "2014-03-27T04:35:48+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group4/M00/25/8E/wKgDs1Mzqp_DZA1fAAHrBwEduPw630.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

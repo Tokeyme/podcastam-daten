@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "脚印留声机|美妙旅行指南",
   "apple_collection_id": "1598915813",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1001777514",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/f684a5015be6da4c3fb180b2905f7c748f80ed0e.json",
       "titel": "Vol.56 扬州｜隋炀帝、运河和一碗早茶：扬州慢里的千年烟火",
       "veroeffentlicht": "2026-07-20T22:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "独行扬州三天，在汉墓与运河博物馆中串联起真实的隋朝与千年烟火。"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "190步频跑步音乐",
   "apple_collection_id": "1759904999",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_744626989",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/b31db19df365419dbc81966e1d2c7ebced867e2b.json",
       "titel": "190步频跑步音乐｜精准踩点｜林俊杰",
       "veroeffentlicht": "2024-07-29T05:25:58+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "精选林俊杰的音乐串烧节目，提供适合190步频跑步的节奏陪伴。"
     }

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "guid": "12931656",
+  "apple_collection_id": "1590829510",
+  "show": "财经",
+  "titel": "把握外汇市场每天的最佳交易时间高效赚钱",
+  "audio": {
+    "url": "http://vohwod-sign.qtfm.cn/m4a/5d6602fa7cb89160c48bbb54_13685224_24.m4a?auth_key=6a9c6ac3-178297-0-79c39c5061605694b63bd2cb41504f64",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1637893,
+    "format": "m4a",
+    "geprueft_am": "2026-08-29T19:49:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "掌握外汇市场每日波动规律，在最佳时间段高效交易赚钱。",
+  "kurzfassung": "外汇市场的波动具有明显的时间规律，其中欧洲盘与美洲盘交汇的傍晚至夜间是波动最大、赚钱效率最高的时段。亚太早盘通常较为清淡，主要以调整为主。中国投资者恰好拥有下班后无缝衔接夜间黄金交易时段的时间优势。",
+  "stichpunkte": [
+    "外汇市场波动剧烈的时间段通常集中在北京时间下午16点到24点，此时欧洲盘与美洲盘交汇且重要经济数据密集发布",
+    "北京时间凌晨5点到下午15点为亚太盘时间，行情相对清淡，震荡幅度通常在20到30个点以内，多为前一日行情的回调",
+    "下午15点至晚上20点为欧洲早盘，随着资金入场，市场活跃度增加，波动一般在30到50个点左右",
+    "晚上20点至午夜12点是全天最为精华的时段，欧美市场交叉重合，波动可达80到100个点且通常走势为主趋势",
+    "午夜12点以后欧洲休市、美国进入下午盘，行情主要针对前期走势进行调整，不再走单边",
+    "中国投资者拥有独特的时间优势，正好利用下午下班后至夜间12点的自由时间参与全天波动最大的行情",
+    "清淡时段偶发的大单交易可能引发闪崩等突发性行情，但由于不可预测且可操作性低，仅需了解即可",
+    "早盘一路单边至晚间的极端行情概率极低，属于罕见例外"
+  ],
+  "kapitel": [
+    {
+      "titel": "外汇市场波动的时间规律概述",
+      "start": 13.8
+    },
+    {
+      "titel": "亚太盘时间的行情特点",
+      "start": 119.02
+    },
+    {
+      "titel": "欧洲早盘的资金入场与波动",
+      "start": 184.84
+    },
+    {
+      "titel": "欧美盘交叉重合的黄金交易时段",
+      "start": 259.22
+    },
+    {
+      "titel": "中国投资者的独特时间优势与行情例外",
+      "start": 339.3
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-29T19:49:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 555,
+  "veroeffentlicht": "2019-08-28T04:28:42+00:00",
+  "kapitel_quelle": "modell"
+}

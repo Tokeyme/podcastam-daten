@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "有序生活",
   "apple_collection_id": "1868871179",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a8052ca17676351c57251bf",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/c76774e2e4650f282120f7146655706038df7988.json",
       "titel": "35.原来我们的生活，都曾被陌生人的善意照亮",
       "veroeffentlicht": "2026-08-17T16:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "回顾生活中那些来自陌生人的善意与温暖瞬间，点亮疲惫日子。"
     }

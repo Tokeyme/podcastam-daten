@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "智者访谈",
   "apple_collection_id": "1802831484",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "67e4d32651d887b229301070",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/9d7adc4167d4e1aa46cc6f71df844f612f741c02.json",
       "titel": "11. 上海交大张拳石：思维链只是表象，DeepSeek凭什么更强",
       "veroeffentlicht": "2025-03-27T04:42:46+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨大模型可解释性，解析神经网络背后的数学机理与等效交互体系。"
     }

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_621167305",
+  "apple_collection_id": "1462849638",
+  "show": "安娜妈咪频道活动",
+  "titel": "课间互动《磨杵成针》",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIasH9ZaDAANvGQIHCXC7.m4a?channel=rss&album_id=257331&track_id=621167305&uid=1374220&jt=https://aod.cos.tx.xmcdn.com/storages/2274-audiofreehighqps/A0/89/GKwRIasH9ZaDAANvGQIHCXC7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 225049,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:46:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "李白与老婆婆关于“磨杵成针”的对话。",
+  "kurzfassung": "李白偶遇一位正在磨铁杵的老婆婆。老婆婆表示只要功夫深，铁杵也能磨成针。这段对话启发了李白。",
+  "stichpunkte": [
+    "李白询问老婆婆磨铁杵的目的",
+    "老婆婆回答要将其磨成一根针",
+    "李白感到十分吃惊并质疑铁杵能否磨成针",
+    "老婆婆坚信只要功夫深铁杵就能磨成针"
+  ],
+  "kapitel": [
+    {
+      "titel": "磨杵成针的故事",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:46:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 27,
+  "veroeffentlicht": "2023-03-26T05:09:21+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group16/M09/2E/F2/wKgDalb2FHnTEyimAAHxBMz9XiY394.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T02:50:31+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Investigating the massive gambling scandal surrounding baseball star Shohei Ohtani.",
   "kurzfassung": "ESPN reporters trace how a confidential tip linked baseball superstar Shohei Ohtani to an illegal sports betting ring operated by Mathew Boyer. The investigation reveals the immense pressure surrounding Ohtani's flawless public image and his close-knit, highly guarded private life. Facing potential lifetime bans similar to Pete Rose's historical case, journalists had to navigate explosive allegations carefully.",

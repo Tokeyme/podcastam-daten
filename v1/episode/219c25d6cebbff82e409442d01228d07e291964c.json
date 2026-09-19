@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/5f68-audiofreehighqps/74/1A/CKwRIW4E2ZF-ABjAigDQDeWu.m4a",
+  "apple_collection_id": "1573154360",
+  "show": "电子琴重低音车载音乐（四）",
+  "titel": "音味有你 - 女人是老虎",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIW4E2ZF-ABjAigDQDeWu.m4a?channel=rss&album_id=50520230&track_id=438596507&uid=172156079&jt=https://aod.cos.tx.xmcdn.com/storages/5f68-audiofreehighqps/74/1A/CKwRIW4E2ZF-ABjAigDQDeWu.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 1622154,
+    "format": "m4a",
+    "geprueft_am": "2026-08-27T12:34:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "本期节目由李宗盛担任作词、作曲、编曲及混音。",
+  "kurzfassung": "本期节目围绕音乐作品展开。李宗盛独自承担了作词、作曲、编曲以及混音的工作。节目整体聚焦于该音乐制作过程的相关幕后信息。",
+  "stichpunkte": [
+    "作词由李宗盛完成",
+    "作曲由李宗盛完成",
+    "编曲由李宗盛完成",
+    "混音由李宗盛完成"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲制作与人员信息",
+      "start": 1.56
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-27T12:34:06+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 200,
+  "veroeffentlicht": "2021-07-30T10:02:13+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/storages/00b3-audiofreehighqps/75/F7/CMCoOR8EpO4BAAH5bAC8S7QU.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

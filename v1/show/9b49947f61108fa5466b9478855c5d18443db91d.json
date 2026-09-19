@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "一人游戏局",
   "apple_collection_id": "1696217343",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a8929b4ef65145dfcc3789b",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/d9f643add6049d422ecabc7419b277d4c89e0352.json",
       "titel": "中元节特辑.4 如果死后世界是一场游戏，你要过多少关？",
       "veroeffentlicht": "2026-08-22T09:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "中国人的死后世界为何如此复杂？探秘民间神鬼体系与生死观。"
     }

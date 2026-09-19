@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "3e5d6362-b1ea-11f1-9962-2f8ede39a4b8",
+  "apple_collection_id": "620967489",
+  "show": "The Glenn Beck Program",
+  "titel": "What Everyone's Missing About the Ed Sheeran-Macklemore Drama | Guests: Danny Burmawi & Orlando Salazar | 9/16/26",
+  "audio": {
+    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC4236426952.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 304624094,
+    "format": "mp3",
+    "geprueft_am": "2026-09-18T01:48:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Clip-Erzeugung lieferte keinen verwendbaren Ausschnitt"
+  },
+  "einzeiler": "Glenn Beck discusses the Ed Sheeran-Macklemore controversy, geopolitics, and guests…",
+  "kurzfassung": "Glenn Beck examines the controversy surrounding Macklemore being barred from Ed Sheeran's tour venues over political statements and explores the broader issues of forced speech. In subsequent segments, he speaks with Danny Burmawi about Islam and ideology, and with Orlando Salazar about Hispanic political shifts and immigration policy. Additionally, Beck touches on recent Russian intelligence indictments, space capabilities, and political races in Texas.",
+  "stichpunkte": [
+    "Glenn Beck analyzes the Ed Sheeran and Macklemore tour controversy, focusing on private property rights and venue restrictions.",
+    "Comparisons are drawn between forced public statements today and historical suppression under Stalin in the Soviet Union.",
+    "Recent Department of Justice indictments regarding Russian assassination plots and U.S. space capabilities are examined as strategic messaging.",
+    "Guest Danny Burmawi discusses his journey from being a devout Muslim in Jordan to converting to Christianity and founding the Ideological Defense Institute.",
+    "Burmawi argues that Islam functions as a political ideology with a religious component rather than solely as a religion.",
+    "A foiled ISIS-inspired mass casualty plot in Pennsylvania involving a converted American is highlighted.",
+    "Guest Orlando Salazar joins to discuss Hispanic voter trends, immigration enforcement PR challenges, and the need for a practical guest worker program.",
+    "Beck critiques Texas political candidate James Talarico, raising questions about his positions and statements."
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-18T01:48:44+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 7614,
+  "veroeffentlicht": "2026-09-16T18:35:00+00:00",
+  "beschreibung": "Democrat Rep. Alexandria Ocasio-Cortez (N.Y.) was confronted by TMZ and explained why she's boycotting Ed Sheeran as the drama surrounding his tour and Macklemore's removal continues. Since then, every opening act and Sheeran's touring band have dropped out of the show. Glenn breaks down the Left's hypocrisy in this instance, the impossible situation Ed Sheeran was placed in, and how almost nobody is thinking about the hardworking people who will be left empty-handed if the tour gets canceled. Glenn explains how both the Rose Garden unsealing of a Russian assassination-network indictment and the public acknowledgment of U.S. space weapons look like a coordinated warning signal to Moscow and China. Former Muslim Danny Burmawi joins to discuss why he proudly identifies as an \"infidel\" as he breaks down the dangers rooted within Islam. Does Senate candidate James Talarico (D-Texas) have a chance at turning Texas blue? Glenn, Jason, and Rikki go through some of the worst Talarico statements that should end his campaign in Texas. Voz Media founder and CEO Orlando Salazar joins to discuss whether Hispanics can be convinced not to be one-issue voters on immigration enforcement.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+  "beschreibung_html": "<p>Democrat Rep. Alexandria Ocasio-Cortez (N.Y.) was confronted by TMZ and explained why she's boycotting Ed Sheeran as the drama surrounding his tour and Macklemore's removal continues. Since then, every opening act and Sheeran's touring band have dropped out of the show. Glenn breaks down the Left's hypocrisy in this instance, the impossible situation Ed Sheeran was placed in, and how almost nobody is thinking about the hardworking people who will be left empty-handed if the tour gets canceled. Glenn explains how both the Rose Garden unsealing of a Russian assassination-network indictment and the public acknowledgment of U.S. space weapons look like a coordinated warning signal to Moscow and China. Former Muslim Danny Burmawi joins to discuss why he proudly identifies as an \"infidel\" as he breaks down the dangers rooted within Islam. Does Senate candidate James Talarico (D-Texas) have a chance at turning Texas blue? Glenn, Jason, and Rikki go through some of the worst Talarico statements that should end his campaign in Texas. Voz Media founder and CEO Orlando Salazar joins to discuss whether Hispanics can be convinced not to be one-issue voters on immigration enforcement.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/7586997c-28de-11ea-a81b-df17619e3f68/image/0e6aebc7ffa180e006b325ab3542a7b2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

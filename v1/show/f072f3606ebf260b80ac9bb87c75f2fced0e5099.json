@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "零點播客",
   "apple_collection_id": "1886178757",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "6a71eae41b5e24969ce8e130",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/c1d32384a2dbc2449d527adc1287ddf3fead8110.json",
       "titel": "No.21长春砍手案：我有钱可以摆平一切",
       "veroeffentlicht": "2026-08-07T16:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "复盘2011年吉林长春百亿会馆球场冲突案，剖析校园摩擦如何演变成恶性凶杀。"
     }

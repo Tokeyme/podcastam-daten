@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group85/M04/5E/76/wKg5H18XF3egmJ3XAQ3V7Ugaspw206.m4a",
+  "apple_collection_id": "1660063456",
+  "show": "自控力-斯坦福大学最受欢迎心理学课程",
+  "titel": "导言",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKg5H18XF3egmJ3XAQ3V7Ugaspw206.m4a?channel=rss&album_id=40112753&track_id=319199598&uid=98253473&jt=https://aod.cos.tx.xmcdn.com/group85/M04/5E/76/wKg5H18XF3egmJ3XAQ3V7Ugaspw206.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 17683949,
+    "format": "m4a",
+    "geprueft_am": "2026-08-31T06:13:33+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "探讨意志力的科学原理，帮助人们理解自控机制、克服拖延并实现个人目标。",
+  "kurzfassung": "本集介绍了斯坦福大学广受欢迎的意志力科学课程及其背后的核心理念。节目指出，人们对意志力的传统理解往往存在误区，导致自控时精疲力竭。通过结合心理学、神经学等最新研究，课程旨在帮助读者认清失控原因并掌握行之有效的自控策略。",
+  "stichpunkte": [
+    "意志力关乎控制注意力、情绪和欲望，对身心健康和事业成功至关重要。",
+    "多数人认为缺乏意志力是最大绊脚石，且传统自控方法往往适得其反。",
+    "斯坦福大学开设的意志力科学课程大受欢迎，显著提升了学生的自控力。",
+    "了解自己如何以及为何失控，是提高自控力的最有效途径。",
+    "过度自信或自诩意志坚定的人反而更容易在诱惑面前失败。",
+    "每章破除一个错误观念，并提供深入剖析和意志力实验等实践练习。",
+    "建议读者将自己视为科学家，针对特定的意志力挑战进行实验并收集数据。",
+    "全书分为十章，鼓励读者循序渐进地尝试策略，实现持久的生活改变。"
+  ],
+  "kapitel": [
+    {
+      "titel": "意志力科学课程的背景与反响",
+      "start": 1.42
+    },
+    {
+      "titel": "理解失控是自控的基础",
+      "start": 398.96
+    },
+    {
+      "titel": "如何像科学家一样阅读本书",
+      "start": 628.96
+    },
+    {
+      "titel": "选择你的意志力挑战",
+      "start": 859.6
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-31T06:13:33+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 1177,
+  "veroeffentlicht": "2020-07-21T16:27:35+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group85/M04/5E/73/wKg5H18XF1WTv9lxAAD85JDkq8A360.JPG",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

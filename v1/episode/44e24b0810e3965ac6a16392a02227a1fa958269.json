@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/group10/M06/18/91/wKgDaVVxvmLBbuqCAAUxoG9EAck262.m4a",
+  "apple_collection_id": "1017301339",
+  "show": "我们一起读书1",
+  "titel": "quanbu",
+  "audio": {
+    "url": "https://jt.ximalaya.com//wKgDaVVxvmLBbuqCAAUxoG9EAck262.m4a?channel=rss&album_id=2697324&track_id=7179709&uid=28371222&jt=https://aod.cos.tx.xmcdn.com/group10/M06/18/91/wKgDaVVxvmLBbuqCAAUxoG9EAck262.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 340384,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:56:57+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "一首关于离别与思念的歌曲。",
+  "kurzfassung": "本期节目播放了一首关于离别与思念的歌曲。歌词表达了在没有对方的时刻对过去的追忆。整首歌曲充满了悲伤和情感的宣泄。",
+  "stichpunkte": [
+    "播放了一首情感丰富的歌曲",
+    "歌词探讨了离开与孤独的主题",
+    "回忆了有对方陪伴的时光",
+    "表达了在歌曲结尾时的悲伤情绪",
+    "反复吟唱离别时的内心感受",
+    "全篇围绕着思念与失去展开"
+  ],
+  "kapitel": [
+    {
+      "titel": "歌曲开场与离别主题",
+      "start": 0.0
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:56:57+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 41,
+  "veroeffentlicht": "2015-06-05T15:22:09+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group12/M03/2B/9F/wKgDW1WJD_uBDtxhAABb7AHNHoQ336.png",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

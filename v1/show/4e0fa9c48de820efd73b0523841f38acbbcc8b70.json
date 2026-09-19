@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "咸蛋菜籽的播客",
   "apple_collection_id": "1855430681",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "69b11a3884bce022f9de9595",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/78eca93d79358df4a1be4f0b5548d6931583dbbb.json",
       "titel": "dy两百万播放的催婚集来啦",
       "veroeffentlicht": "2026-03-11T07:40:06+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨双方父母花式催婚的趣事，分享长辈对两人物关系与标准的各种脑洞。"
     }

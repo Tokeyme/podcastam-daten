@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_630107374",
+  "apple_collection_id": "1497848361",
+  "show": "土味情话｜脱口秀",
+  "titel": "我爱泥",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRINsIIqDcAAOsCQIVSD__.m4a?channel=rss&album_id=16448766&track_id=630107374&uid=63043120&jt=https://aod.cos.tx.xmcdn.com/storages/129e-audiofreehighqps/EB/FF/GKwRINsIIqDcAAOsCQIVSD__.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 240649,
+    "format": "m4a",
+    "geprueft_am": "2026-08-23T21:44:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Sprungtabelle liegt am Dateiende, ein Roh-Ausschnitt ist unbrauchbar"
+  },
+  "einzeiler": "情话与谐音梗的趣味互动。",
+  "kurzfassung": "本期节目包含了一系列幽默的土味情话和互动问答。对话以手指缝隙和随身携带贵重物品为引子展开。最后通过红豆泥和田园泥的谐音梗，引出了“我爱泥”的主题。",
+  "stichpunkte": [
+    "讨论手指之间的缝隙是为了等待对方填满",
+    "提出出门要一直牵着对方因为贵重物品要随身携带",
+    "列举红豆可以做成红豆泥",
+    "列举土豆可以做成土豆泥",
+    "通过谐音得出对方可以做成“我爱泥”的结论"
+  ],
+  "kapitel": [
+    {
+      "titel": "土味情话互动",
+      "start": 0.0
+    },
+    {
+      "titel": "谐音梗与表白",
+      "start": 15.8
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-08-23T21:44:31+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 2
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 29,
+  "veroeffentlicht": "2023-04-29T09:05:31+00:00",
+  "bild_url": "https://fdfs.xmcdn.com/group48/M09/28/7D/wKgKnFtKnMvRkiAZAAEVDjYaUNM515.jpg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

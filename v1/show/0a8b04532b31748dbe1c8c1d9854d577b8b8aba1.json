@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "艺术生访谈录",
   "apple_collection_id": "1792425641",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "66abcc137349f7a55729771b",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/368e3a7474df0a32ace491269a4f46ec8f73a358.json",
       "titel": "艺术家高子涵｜纽约 NYU Tisch",
       "veroeffentlicht": "2024-08-01T17:55:30+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "纽约大学表演研究专业毕业生高子涵分享艺术创作与纽约生活"
     }

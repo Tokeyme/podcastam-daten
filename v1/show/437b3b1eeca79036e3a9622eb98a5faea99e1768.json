@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "凝思|古典音乐精品赏析",
   "apple_collection_id": "1493043971",
-  "erzeugt_am": "2026-09-17T18:45:02+00:00",
+  "erzeugt_am": "2026-09-19T04:57:36+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007791523",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/7575d9a88b9249f9c5bd2ab173ed2a4378f5bdb1.json",
       "titel": "第五十一集：肖邦的《B大调夜曲》，静谧夜色下的灵魂独白",
       "veroeffentlicht": "2026-08-21T15:59:30+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "剖析肖邦晚期杰作《B大调夜曲》，感受静谧夜色下的灵魂独白与生命回眸。"
     }

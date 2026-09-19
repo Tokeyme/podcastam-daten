@@ -12,11 +12,13 @@
     "geprueft_am": "2026-08-28T03:03:27+00:00"
   },
   "faehigkeiten": {
-    "clips": true,
+    "clips": false,
     "range": true,
     "kapitel": true,
     "dynamik": "unbestimmt",
-    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Ausschnitte dieser Sendung waren in zwei Messungen mit Stunden Abstand stumm - die Datei wird je Abruf neu zusammengesetzt",
+    "clips_suche": true,
+    "clips_aac": false
   },
   "einzeiler": "Discover which business models are actually thriving and how to stay relevant in 2026.",
   "kurzfassung": "The business landscape is shifting rapidly due to AI and market changes, making frequent strategy check-ins essential. In-person experiences, handmade goods, and local services are currently thriving as consumers seek authentic human connections. Conversely, traditional online courses and standard e-commerce models face heavy saturation and require hybrid approaches or strong personal branding to succeed.",

@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "guid": "ca826616-92bc-4492-a862-b4c10002a47a",
+  "apple_collection_id": "1549249596",
+  "show": "Examined: The Backfire Effect",
+  "titel": "Episode 2: The Hypnotist",
+  "audio": {
+    "url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/e27c90/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/31bb1c28-0fb5-4627-b8a7-ae32006cd7c1/ca826616-92bc-4492-a862-b4c10002a47a/audio.mp3?utm_source=Podcast&in_playlist=093755db-b947-43f4-a067-ae32006cd7cf",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 43639316,
+    "format": "mp3",
+    "geprueft_am": "2026-09-18T00:58:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Abruf laeuft ueber den Werbedienst podtrac.com) - zu wenig fuer ein Urteil, aber nicht nichts"
+  },
+  "einzeiler": "The investigation into Scott Macklem's murder is marred by police misconduct.",
+  "kurzfassung": "Following the 1986 murder of Scott Macklem in Michigan, police quickly zeroed in on Temujin Kensu as the primary suspect. However, the initial investigation was severely compromised by botched crime scene management, missing evidence, and questionable police reports filed by lead investigator John Bounds. Furthermore, a key eyewitness was subjected to deeply flawed hypnosis sessions that introduced false memories into the case.",
+  "stichpunkte": [
+    "Temujin Kensu lived a nomadic lifestyle in Michigan before briefly dating Crystal, the former girlfriend of murder victim Scott Macklem.",
+    "Scott Macklem was shot and killed in November 1986 in a college parking lot in Port Huron.",
+    "The Port Huron Police Department failed to properly secure the crime scene, document it thoroughly, or collect vital physical evidence.",
+    "Lead investigator John Bounds had a history of misconduct and produced police reports containing uncorroborated interviews and false claims.",
+    "Police utilized a psychologist to hypnotize a key eyewitness, resulting in a session later criticized as an egregious example of leading questioning.",
+    "Temujin learned he was wanted for murder through a confusing chain of phone calls while staying in the Upper Peninsula.",
+    "Despite having no physical evidence and relying heavily on a compromised investigation, police arrested Temujin for the crime."
+  ],
+  "kapitel": [
+    {
+      "titel": "Introduction and Temujin's Background",
+      "start": 15.811
+    },
+    {
+      "titel": "The Murder of Scott Macklem",
+      "start": 1115.261
+    },
+    {
+      "titel": "A Bungled Crime Scene",
+      "start": 1216.301
+    },
+    {
+      "titel": "The Investigation and John Bounds",
+      "start": 1529.001
+    },
+    {
+      "titel": "Flawed Hypnosis and Arrest",
+      "start": 1714.991
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Living on bicycles in the snow",
+      "start": 121.339,
+      "ende": 147.122,
+      "laenge": 25.78,
+      "byte_start": 1997368,
+      "byte_ende": 2409893,
+      "bytes": 412526,
+      "range_header": "bytes=1997368-2409893",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 121.417,
+      "anker_sha256": "71b4d9950109b14bbe7db3e7e8a3f2ce74c228bb82870c71ebbbb6bd4af0429b",
+      "anker_ende_sha256": "b072054f41951547f4694f9177b78a4bee1477f8c6e7bb2f963a65e33f69a172",
+      "einblendung_ms": 60,
+      "text": "The subject fondly recalls spending winter months traveling by ten-speed bicycles and sleeping in sleeping bags out in the snowy woods."
+    },
+    {
+      "hook": "Fearing you are blamed for a friend's murder",
+      "start": 846.184,
+      "ende": 866.299,
+      "laenge": 20.11,
+      "byte_start": 13594899,
+      "byte_ende": 13916727,
+      "bytes": 321829,
+      "range_header": "bytes=13594899-13916727",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 846.263,
+      "anker_sha256": "e2f23fec8676220e95d9041e8eb3ad6c56f93aa65224700a3e9d328d5b92b4a3",
+      "anker_ende_sha256": "a47bd6ed8bbcf01406b47147bc181f42b8b27b7b33b67b5b4506871189aed008",
+      "einblendung_ms": 60,
+      "text": "Upon hearing a rumor that a childhood acquaintance has been killed, the speaker immediately panics because he had recently argued with him and told everyone about it."
+    },
+    {
+      "hook": "Why crime scene photos matter",
+      "start": 1274.723,
+      "ende": 1298.364,
+      "laenge": 23.64,
+      "byte_start": 20451519,
+      "byte_ende": 20829771,
+      "bytes": 378253,
+      "range_header": "bytes=20451519-20829771",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1274.802,
+      "anker_sha256": "97380d59deae8dc2748b7a7920af8912fac3e4e18f78e10b07e71f797f43de23",
+      "anker_ende_sha256": "a8d4deaefba176211d10a22df7ceac53f20dbec731f27331db58231e7d832dca",
+      "einblendung_ms": 60,
+      "text": "Moving a piece of evidence immediately ruins the original context, making photographs the only reliable record left."
+    },
+    {
+      "hook": "Comparing hypnosis to drugs",
+      "start": 1779.618,
+      "ende": 1801.613,
+      "laenge": 22.0,
+      "byte_start": 28529834,
+      "byte_ende": 28881755,
+      "bytes": 351922,
+      "range_header": "bytes=28529834-28881755",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 1779.696,
+      "anker_sha256": "143432e61c5d6e5673038a5f21a8c10bbb4cb8f925e1a192793054bc475a44d3",
+      "anker_ende_sha256": "d839ce281ca1891026abaaf694bb0b3d28e558daec08c4e127934ed79e060f4a",
+      "einblendung_ms": 60,
+      "text": "A psychology professor expresses skepticism about the effectiveness of hypnosis, noting that it creates an altered state much like drugs do."
+    },
+    {
+      "hook": "A police officer's illegal drug use",
+      "start": 2094.994,
+      "ende": 2125.087,
+      "laenge": 30.09,
+      "byte_start": 33575855,
+      "byte_ende": 34057343,
+      "bytes": 481489,
+      "range_header": "bytes=33575855-34057343",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 2095.073,
+      "anker_sha256": "12dab485bf5e91f42aafde1716bfc04e87eb25b7d06736fe770e15fb0450f725",
+      "anker_ende_sha256": "146235e94fd91b3fae1b1b5a22b1ddaaa1300f9b2f90527390fb21acb95072af",
+      "einblendung_ms": 60,
+      "text": "An eyewitness casually reveals that a lead investigator regularly consumed cocaine while getting drunk at parties."
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-18T00:58:20+00:00",
+    "transkript_modell": "feed",
+    "transkript_quelle": "feed+whisper-fenster",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "erzeugt",
+  "dauer": 2596,
+  "veroeffentlicht": "2026-09-14T04:15:00+00:00",
+  "beschreibung": "Temujin Kensu spent much of his youth wandering, mainly in his home state of Michigan. In 1986 he and his then-fiancée moved to a cabin outside Port Huron, where he briefly dated someone else. A few weeks later, he and his fiancée moved again, more than 400 miles away, to Michigan’s Upper Peninsula. He says he was there on November 5, 1986. But that didn’t stop police from accusing him of a murder he said he could never have committed.\nYou can hear the entire season of Examined: The Backfire Effect, ad-free, right now by subscribing to Pushkin+. Sign up on the show page on Apple Podcasts or at Pushkin.fm/plus. Pushkin+ subscribers can access ad-free episodes, full audiobooks, and exclusive binges of other true crime podcasts throughout the year.\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Temujin Kensu spent much of his youth wandering, mainly in his home state of Michigan. In 1986 he and his then-fianc&eacute;e moved to a cabin outside Port Huron, where he briefly dated someone else. A few weeks later, he and his fianc&eacute;e moved again, more than 400 miles away, to Michigan&rsquo;s Upper Peninsula. He says he was there on November 5, 1986. But that didn&rsquo;t stop police from accusing him of a murder he said he could never have committed.</p> <p>You can hear the entire season of Examined: The Backfire Effect, ad-free, right now by subscribing to Pushkin+. Sign up on the show page on <a href=\"https://podcasts.apple.com/us/podcast/examined-the-backfire-effect/id1549249596\">Apple Podcasts</a> or at <a href=\"http://pushkin.fm/plus\">Pushkin.fm/plus</a>. Pushkin+ subscribers can access ad-free episodes, full audiobooks, and exclusive binges of other true crime podcasts throughout the year.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/31bb1c28-0fb5-4627-b8a7-ae32006cd7c1/ca826616-92bc-4492-a862-b4c10002a47a/image.jpg?t=1788999286&size=Large",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}
