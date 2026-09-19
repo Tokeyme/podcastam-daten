@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Fall of Civilizations Podcast",
   "apple_collection_id": "1449884495",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "d1c81579-ac54-4270-9174-4544caad51ff",
@@ -13,6 +13,96 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "The rise and fall of Majapahit, medieval Indonesia's greatest thalassocracy."
+    },
+    {
+      "guid": "d3cce01b-65a7-4b91-a845-e8ecfc12b590",
+      "audio_url": "https://traffic.megaphone.fm/APO9318872854.mp3",
+      "pfad": "/v1/episode/436e3635d3c2fa0ca3ea4bcac38e49fa1b400868.json",
+      "titel": "20. Persia - An Empire in Ashes",
+      "veroeffentlicht": "2025-11-12T14:39:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and fall of the Achaemenid Persian Empire."
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1970519687",
+      "audio_url": "https://traffic.megaphone.fm/APO2079893865.mp3",
+      "pfad": "/v1/episode/bdb88d28ec7d75d4cd4a05720e202878aa42840e.json",
+      "titel": "19. The Mongols - Terror of the Steppe (Part 2)",
+      "veroeffentlicht": "2024-12-09T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and expansion of the Mongol Empire across Eurasia."
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1965345999",
+      "audio_url": "https://traffic.megaphone.fm/APO3060656483.mp3",
+      "pfad": "/v1/episode/73647750fecb063749bbd13f22a7a6dd1e884090.json",
+      "titel": "19. The Mongols - Terror of the Steppe (Part 1)",
+      "veroeffentlicht": "2024-12-05T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and expansion of the Mongol Empire across Eurasia"
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1722098430",
+      "audio_url": "https://traffic.megaphone.fm/APO1817055452.mp3",
+      "pfad": "/v1/episode/4dc10d415c1c5c78ce6e7dba66dd085f35356f9a.json",
+      "titel": "18. Egypt - Fall of the Pharaohs",
+      "veroeffentlicht": "2024-02-01T16:36:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The rise and catastrophic fall of the civilizations of ancient Egypt."
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1485675907",
+      "audio_url": "https://traffic.megaphone.fm/APO5981304566.mp3",
+      "pfad": "/v1/episode/7956cbc57f09039338a8f076e07bc4866356c8ab.json",
+      "titel": "17. Carthage - Empire Of The Phoenicians",
+      "veroeffentlicht": "2023-04-11T16:23:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The rise and fall of the ancient Phoenician empire of Carthage."
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1350204019",
+      "audio_url": "https://traffic.megaphone.fm/APO7784777580.mp3",
+      "pfad": "/v1/episode/88ca0541de513e694fd17d1354a17638ad00f5a8.json",
+      "titel": "16. Bagan - City Of Temples",
+      "veroeffentlicht": "2022-10-02T11:35:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and collapse of the medieval Bagan Empire in Myanmar."
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1285376140",
+      "audio_url": "https://traffic.megaphone.fm/APO6459819817.mp3",
+      "pfad": "/v1/episode/706067aebe20c0ba3988bbeea049e0441737e636.json",
+      "titel": "15. The Nabataeans - The Last Days of Petra",
+      "veroeffentlicht": "2022-06-15T15:00:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and eventual fall of the ancient Nabataeans in Jordan."
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1214626663",
+      "audio_url": "https://traffic.megaphone.fm/APO3678824778.mp3",
+      "pfad": "/v1/episode/56b81965f2543003f8198324508e63d970f3ec3e.json",
+      "titel": "14. Vijayanagara - The Last Emperors Of South India",
+      "veroeffentlicht": "2022-02-18T10:56:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and legacy of the Vijayanagara Empire in South India."
+    },
+    {
+      "guid": "tag:soundcloud,2010:tracks/1067147848",
+      "audio_url": "https://traffic.megaphone.fm/APO3303969728.mp3",
+      "pfad": "/v1/episode/406adbc2ce8894b05742137ba4b19e341ca74d0c.json",
+      "titel": "13. The Assyrians - Empire of Iron",
+      "veroeffentlicht": "2021-06-14T17:08:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history, rise, and collapse of the Neo-Assyrian Empire."
     }
   ]
 }

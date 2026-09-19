@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "d299fbb2-a1e6-11f1-8fe5-13e7ed4f7b20",
+  "apple_collection_id": "751574016",
+  "show": "All Ears English Podcast",
+  "titel": "AEE 2687: Learn English Anywhere, Anytime, With Anyone",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/ALLE1019691198.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:09:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探索英语中课堂和教科书未曾教授的隐形社交层面。",
+  "kurzfassung": "本集探讨英语中课本未曾教过的隐形社交层面。节目教导如何解读社交信号并理解人们的真实意图。内容旨在帮助听众掌握更地道的英语交流方式。",
+  "stichpunkte": [
+    "英语中课堂和教科书未曾教授的隐形社交层面",
+    "如何解读社交信号并理解真实意图",
+    "英语学习方法与相关资源介绍"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:09:56+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1269,
+  "veroeffentlicht": "2026-09-15T05:00:00+00:00",
+  "beschreibung": "Want to understand the Invisible Social Layer of English that your classrooms and textbooks never taught you? ⁠Join the early-interest list⁠ for our new Socializing in English method and be the first to hear when it opens later this month. -Read social signals and understand what people really mean.\n\nWant to know your English level? Take our free English-level quiz here to find out what your current English level is.\n\nDo you love All Ears English? Try our other podcasts here:\n\nBusiness English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey\n\nIELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes\n\nVisit our website here or https://lnk.to/website-sn\n\nIf you love this podcast, hit the follow button now so that you don't miss five fresh and fun episodes every single week.\n\nDon’t forget to leave us a review wherever you listen to the show.\n\nSend your English question or episode topic idea to support@allearsenglish.com\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>Want to understand the <a href=\"https://www.allearsenglish.com/social\"><u>Invisible Social Layer of English</u></a> that your classrooms and textbooks never taught you?<a href=\"https://www.allearsenglish.com/social\"> <u>⁠Join the early-interest list⁠</u></a> for our new <strong>Socializing in English</strong> method and be the first to hear when it opens later this month. -Read social signals and understand what people really mean.</p>\n<p><br></p>\n<p>Want to know your English level? Take our <a href=\"https://lnk.to/fluency-quiz-sn\"><u>free English-level quiz</u></a> here to find out what your current English level is.&nbsp;</p>\n<p><br></p>\n<p>Do you love All Ears English?&nbsp; Try our other podcasts here:</p>\n<p><a href=\"https://lnk.to/business-sn\"><u>Business English Podcast</u></a>: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey</p>\n<p><a href=\"https://lnk.to/ielts-sn\"><u>IELTS Energy Podcast</u></a>: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes</p>\n<p>Visit our website<a href=\"https://www.allearsenglish.com/\"><u> </u></a><a href=\"https://lnk.to/website-sn\"><u>here</u></a> or <a href=\"https://lnk.to/website-sn\"><u>https://lnk.to/website-sn</u></a></p>\n<p>If you love this podcast, hit the follow button now so that you don't miss five fresh and fun episodes every single week.&nbsp;</p>\n<p>Don’t forget to leave us a review wherever you listen to the show.</p>\n<p>Send your English question or episode topic idea to support@allearsenglish.com</p>\n<p><br>\n\n<br>\n\n</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "untertitel": "Get new ways to learn English",
+  "bild_url": "https://megaphone.imgix.net/podcasts/88b85f10-a0c0-11ec-9e52-bfcf9441f742/image/All_Ears_English_New_Cover_with_Michelle_Under_500_KB.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "folgennummer": 2687
+}

@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "Geschichten aus der Geschichte",
   "apple_collection_id": "1044844618",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "e74e878bf47ae00a0eec02388e62106d",
+      "audio_url": "https://audio.podigee-cdn.net/2589603-m-3a071f5ba0c2f4575851c9184b535d2b.mp3?source=feed",
+      "pfad": "/v1/episode/33fc4ad2859b1a67706a5055546ac92aeab9797a.json",
+      "titel": "GAG573: Scrip, Truck und der Company Store",
+      "veroeffentlicht": "2026-09-16T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ersatzgeld und Abhängigkeiten im 19. und frühen 20. Jahrhundert"
+    },
+    {
+      "guid": "7aa12684787d400d7011b50dfd0c206e",
+      "audio_url": "https://audio.podigee-cdn.net/2579779-m-688b77805c2a652b3f6ada81704f4eca.mp3?source=feed",
+      "pfad": "/v1/episode/a674a655d455bd78322264e402aca0d2f5b748c3.json",
+      "titel": "GAG572: Houdini und der Spiritismus",
+      "veroeffentlicht": "2026-09-09T04:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Streit zwischen Sir Arthur Conan Doyle und Harry Houdini."
+    },
+    {
+      "guid": "5f1ef014598b6b67304f918a68a61867",
+      "audio_url": "https://audio.podigee-cdn.net/2574210-m-aa186840b1e639eaf7ae41e7975b6527.mp3?source=feed",
+      "pfad": "/v1/episode/05309d8414d3a45880fdf06992e69434abdbba9d.json",
+      "titel": "GAG571: Die Katastrophe von Kamarina und die erste Flotte Roms",
+      "veroeffentlicht": "2026-09-02T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die ersten römischen Flotten und die Katastrophe von Kamarina"
+    },
+    {
+      "guid": "017f62bf5c12cfaa7925637813560b05",
+      "audio_url": "https://audio.podigee-cdn.net/2572837-m-987b3abcce09a8b562d0b7538b0f2fae.mp3?source=feed",
+      "pfad": "/v1/episode/291158505ad7e76925a9556197c5150e0891b5bb.json",
+      "titel": "GAG570: Die Erfindung der Konservendose",
+      "veroeffentlicht": "2026-08-26T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte von Nicolas Appert und der Erfindung der Konservendose"
+    },
     {
       "guid": "4e69b87ce05372aed0409d2681a3b6cb",
       "audio_url": "https://audio.podigee-cdn.net/2568143-m-aa97b53b6e442068fbfa50c55e80e9a4.mp3?source=feed",
@@ -13,6 +53,56 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Zwei Geschichten über Zheng Yisao als mächtigste Piratin und die Siedler von Posuso in…"
+    },
+    {
+      "guid": "7d5c36fb68de1ea27dd2256859e5874b",
+      "audio_url": "https://audio.podigee-cdn.net/2563405-m-834f699de5363ec15a0b8a7f2d56bbf9.mp3?source=feed",
+      "pfad": "/v1/episode/e1fb41067e8f53e8fc51e2621336f35db97f1937.json",
+      "titel": "GAG568: Suffragetten, eine Prinzessin und das Ende des Sikh-Reichs",
+      "veroeffentlicht": "2026-08-12T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Über Sophia Duleep Singh und ihren Einsatz für das Frauenwahlrecht"
+    },
+    {
+      "guid": "f5468c0aa5245146c37e1664d3c1866d",
+      "audio_url": "https://audio.podigee-cdn.net/2553721-m-a0399e9cdea10cd3737491b5cfcf9437.mp3?source=feed",
+      "pfad": "/v1/episode/e80da88d93ff4c3b0006e06addc8d5887889c554.json",
+      "titel": "GAG567: Die Fibonacci-Folge",
+      "veroeffentlicht": "2026-08-05T04:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte der Fibonacci-Folge und der indisch-arabischen Ziffern."
+    },
+    {
+      "guid": "303fdda0c932087db27f0ddc12c0c0af",
+      "audio_url": "https://audio.podigee-cdn.net/2552061-m-2d8ab0de5194321d55b135164200aa8b.mp3?source=feed",
+      "pfad": "/v1/episode/ba39f6a37f7d4f1ff83c78d78b8626de9a9bc86d.json",
+      "titel": "GAG566: Die doppelte Ratte",
+      "veroeffentlicht": "2026-07-29T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte der Ratte als menschgemachter Schädling und Labortier."
+    },
+    {
+      "guid": "da9bec99748b2e167a82e536caff7e0c",
+      "audio_url": "https://audio.podigee-cdn.net/2545489-m-55ef4b47b3bf93c0e705b74e67163f29.mp3?source=feed",
+      "pfad": "/v1/episode/7b50fac5e61651f09afa86f29d9a0de6b29ed69f.json",
+      "titel": "GAG565: Nofretete und Echnaton",
+      "veroeffentlicht": "2026-07-22T04:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Entdeckung der Nofretete und das rätselhafte Kapitel des Alten Ägyptens"
+    },
+    {
+      "guid": "0c62d2572f36391ccf34e0980a4b8386",
+      "audio_url": "https://audio.podigee-cdn.net/2538739-m-fee0b2bc6e0d330cd36263f65bb9a336.mp3?source=feed",
+      "pfad": "/v1/episode/2dc84e1c72a8df59884ade3aa61a704b53d5da09.json",
+      "titel": "GAG564: Sarah Winchester und ihr Mystery House",
+      "veroeffentlicht": "2026-07-15T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das Winchester Mystery House in San José und die Entstehung seiner Legende"
     }
   ]
 }

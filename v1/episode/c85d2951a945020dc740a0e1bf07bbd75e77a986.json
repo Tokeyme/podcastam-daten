@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0p7p9b8",
+  "apple_collection_id": "262026947",
+  "show": "6 Minute English",
+  "titel": "Climate change and extreme weather",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7p91r.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:53:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨气候变化是否正在加剧飓风和台风等热带风暴的破坏力。",
+  "kurzfassung": "本期节目探讨了热带风暴每年造成的严重破坏以及气候变化对其影响。节目中介绍了相关的新词汇，帮助听众提升英语水平。主持人Phil邀请了BBC气象主播兼气象学家Sarah Keith-Lucas共同探讨这一话题。",
+  "stichpunkte": [
+    "热带风暴（如飓风、气旋和台风）造成的每年破坏",
+    "气候变化是否正在加剧风暴的影响",
+    "BBC气象主播兼气象学家Sarah Keith-Lucas参与讨论",
+    "节目中学习与主题相关的新词汇"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:53:35+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 396,
+  "veroeffentlicht": "2026-09-03T08:33:00+00:00",
+  "beschreibung": "Every year we see damage, death and destruction caused by hurricanes, cyclones and typhoons - tropical storms. Is climate change making this impact worse? Climate change may be making this destruction worse. Phil is joined by BBC weather presenter and meteorologist Sarah Keith-Lucas to learn more about this and teach you some new vocabulary.\nGet a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260903\nPractise your listening with The Listening Room here: https://www.bbc.co.uk/learningenglish/english/features/the_listening_room\nSubscribe to our newsletters here: https://www.bbc.co.uk/send/u178220599",
+  "beschreibung_html": "<p>Every year we see damage, death and destruction caused by hurricanes, cyclones and typhoons - tropical storms. Is climate change making this impact worse? Climate change may be making this destruction worse. Phil is joined by BBC weather presenter and meteorologist Sarah Keith-Lucas to learn more about this and teach you some new vocabulary.</p><p>Get a free worksheet, quiz and transcript for this episode: <a href=\"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260903\">https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260903</a></p><p>Practise your listening with The Listening Room here: <a href=\"https://www.bbc.co.uk/learningenglish/english/features/the_listening_room\">https://www.bbc.co.uk/learningenglish/english/features/the_listening_room</a></p><p>Subscribe to our newsletters here: <a href=\"https://www.bbc.co.uk/send/u178220599\">https://www.bbc.co.uk/send/u178220599</a></p>",
+  "untertitel": "Every year we see damage. Is climate change making the weather worse?",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg"
+}

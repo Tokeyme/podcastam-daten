@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Learning English Conversations",
   "apple_collection_id": "262026989",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "urn:bbc:podcast:p0p9p685",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "学习使用“hot take”表达出人 A 的观点"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0p8jckw",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8j55f.mp3",
+      "pfad": "/v1/episode/46e56d1aacd811b92436de36192ab32ec331126b.json",
+      "titel": "The English We Speak: Try it on",
+      "veroeffentlicht": "2026-09-08T09:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "英语习语“try it on”的含义与用法"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0p79z34",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p79x32.mp3",
+      "pfad": "/v1/episode/7c9bc005ae7dafd2b76b376e61265bfa31861c9a.json",
+      "titel": "The English We Speak: Non-starter",
+      "veroeffentlicht": "2026-09-01T08:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "学习英语表达“non-starter”的含义与用法"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0p65g48",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p65cdp.mp3",
+      "pfad": "/v1/episode/1a9f2c31de155f471ee27bfdffac53f98488d700.json",
+      "titel": "The English We Speak: No notes",
+      "veroeffentlicht": "2026-08-25T09:13:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英语习语“no notes”的含义与用法"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0p52zs2",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p52zh1.mp3",
+      "pfad": "/v1/episode/28639a8d7756eeb3b9a4faae2ac825cf92f26bb7.json",
+      "titel": "The English We Speak: Say less",
+      "veroeffentlicht": "2026-08-18T09:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨现代英语表达“say less”的含义与用法"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0p3v486",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3v3m8.mp3",
+      "pfad": "/v1/episode/3f2f73a93c9f12c852607069490e99309e982c9c.json",
+      "titel": "The English We Speak: Share your life story",
+      "veroeffentlicht": "2026-08-11T08:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "学习英语习语“share your life story”的用法。"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0p2kdft",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2kc63.mp3",
+      "pfad": "/v1/episode/de4275cce7153b917cad5c38ee914e0102798de5.json",
+      "titel": "The English We Speak: Keep yourself to yourself",
+      "veroeffentlicht": "2026-08-04T10:44:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "英语习惯用语：keep yourself to yourself"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0ny1vkp",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny1t2h.mp3",
+      "pfad": "/v1/episode/ad075ab5e144eb6d83241378ca0e27dadff0f011.json",
+      "titel": "The English We Speak: One size fits all",
+      "veroeffentlicht": "2026-07-28T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨习语“one size fits all”的含义及用法"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0ny1spf",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny1r1v.mp3",
+      "pfad": "/v1/episode/2c437bf6961110aafaa1e4e29b90b3658a11c58c.json",
+      "titel": "The English We Speak: Side quest",
+      "veroeffentlicht": "2026-07-21T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "学习英语表达“side quest”，谈论偏离主线任务的趣味小插曲。"
+    },
+    {
+      "guid": "urn:bbc:podcast:p0ny1qsl",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny1pmb.mp3",
+      "pfad": "/v1/episode/87c89f276ccf62e52c8ccb041659b6fd43299985.json",
+      "titel": "The English We Speak: Passing Ships",
+      "veroeffentlicht": "2026-07-14T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "使用英语表达形容成年人忙碌的生活节奏。"
     }
   ]
 }

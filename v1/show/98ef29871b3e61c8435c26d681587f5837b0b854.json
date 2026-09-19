@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小馬聊遊戲",
   "apple_collection_id": "1554757205",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "f79c9723-c905-4698-837d-1f483c0042a1",
@@ -13,6 +13,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "宝可梦世界锦标赛登场，盘点现场活动、线上转播奖励与赛事层级。"
+    },
+    {
+      "guid": "49abf47e-2edb-477a-8c1b-6e51c6f6104e",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/49abf47e-2edb-477a-8c1b-6e51c6f6104e/rssFileVip.mp3?timestamp=1718373989260",
+      "pfad": "/v1/episode/2a765087174b8a404e75a9d6366a4752770835e5.json",
+      "titel": "EP38 歐洲國家盃在德國開踢！一邊玩新的足球策略遊戲吧",
+      "veroeffentlicht": "2024-06-14T12:07:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊2024歐洲國家盃與足球策略遊戲EA FC Tactical"
+    },
+    {
+      "guid": "3a9f426d-ff35-480a-abda-fcbf801a8f50",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/3a9f426d-ff35-480a-abda-fcbf801a8f50/rssFileVip.mp3?timestamp=1687882368046",
+      "pfad": "/v1/episode/06b32f68f596e607c59171ce6a18b37851b8094d.json",
+      "titel": "EP37 Sony Project Q發表！也聊聊近年推出的幾台遊戲掌機吧！",
+      "veroeffentlicht": "2023-06-02T10:28:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Sony Project Q与近年推出的游戏掌机"
+    },
+    {
+      "guid": "ec8e65d9-6b90-4263-bf43-1f319d4c054f",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/ec8e65d9-6b90-4263-bf43-1f319d4c054f/rssFileVip.mp3?timestamp=1687882368401",
+      "pfad": "/v1/episode/8ba7a3f5803145c0f871ce3b5012422bac81438a.json",
+      "titel": "EP36 薩爾達傳說王國之淚終於上市～但我還在玩曠野之息啊！",
+      "veroeffentlicht": "2023-05-19T09:42:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊薩爾達傳說王國之淚與前作曠野之息"
+    },
+    {
+      "guid": "1141f99d-5f9f-4a39-a4d5-fa1c377c857e",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/1141f99d-5f9f-4a39-a4d5-fa1c377c857e/rssFileVip.mp3?timestamp=1687882366627",
+      "pfad": "/v1/episode/663cfd8deba61d0483ac6530baf1741cb937b93b.json",
+      "titel": "EP35 寶可夢台灣冠軍賽即將開打！也聊聊國際上各種規模的賽事吧～",
+      "veroeffentlicht": "2023-05-05T09:39:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討寶可夢台灣冠軍賽與國際賽事規模"
+    },
+    {
+      "guid": "2f6e347d-4c30-4723-aacc-80d33f1a92e8",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/2f6e347d-4c30-4723-aacc-80d33f1a92e8/rssFileVip.mp3?timestamp=1687882366546",
+      "pfad": "/v1/episode/4a5ee23f14885c372933619fcc455a5833f7a7d0.json",
+      "titel": "EP34 寶可夢朱紫卡牌國際版上市～來用手機打牌囉！",
+      "veroeffentlicht": "2023-04-07T08:00:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "討論寶可夢朱紫卡牌國際版上市與手機版線上遊戲"
+    },
+    {
+      "guid": "38cd5717-5707-4302-8cfb-90b6ef924c74",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/38cd5717-5707-4302-8cfb-90b6ef924c74/rssFileVip.mp3?timestamp=1687882366323",
+      "pfad": "/v1/episode/108672ccfb5b3e8937a74940bd094439cfa64843.json",
+      "titel": "EP32 寶可夢日發表會2023/2/27，更新消息通通來",
+      "veroeffentlicht": "2023-03-02T11:12:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊寶可夢日發表會2023年2月27日所發佈的全新消息"
+    },
+    {
+      "guid": "fa6e1030-4135-4aed-89ca-1116c08a1b59",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/fa6e1030-4135-4aed-89ca-1116c08a1b59/rssFileVip.mp3?timestamp=1687882368947",
+      "pfad": "/v1/episode/cf5864b59eff293c350a559c5ed56927b051ddeb.json",
+      "titel": "EP31 任天堂直面會 2023/2/9 新作、擴充票、冷飯通通來",
+      "veroeffentlicht": "2023-02-12T14:08:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊 2023 年 2 月 9 日任天堂直面會的觀看心得。"
+    },
+    {
+      "guid": "7af9ac52-3502-4921-b0af-4eb74a140e37",
+      "audio_url": "https://rss.soundon.fm/rssf/2586d825-d654-4471-9d2c-39634be5ac2c/feedurl/7af9ac52-3502-4921-b0af-4eb74a140e37/rssFileVip.mp3?timestamp=1687882368116",
+      "pfad": "/v1/episode/83a341a2109ba4d082eef352a2b5bb898dfcb09a.json",
+      "titel": "EP30 新年快樂！睽違近三年回台灣！感受各種逆文化衝擊～",
+      "veroeffentlicht": "2023-01-23T12:13:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "睽違近三年回台灣的所見所聞與逆文化衝擊。"
     }
   ]
 }

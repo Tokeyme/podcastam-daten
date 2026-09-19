@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "https://sspai.typlog.io/episodes/ep139",
+  "apple_collection_id": "1483157529",
+  "show": "少数派播客 SSPAI Podcast",
+  "titel": "小猫补光灯：一款独立开发作品的简单与复杂",
+  "audio": {
+    "url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MjQzMiwidCI6MX0.wzNOvuv6n1m_HDd2O5wgoxoPY5Y/sspai/8250536650_045532.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:56:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨独立作品《小猫补光灯》的开发历程与AI工具应用",
+  "kurzfassung": "本期节目介绍了独立开发者花生从互联网大厂离职后，如何利用AI工具开发并推出爆款应用《小猫补光灯》。内容涵盖产品开发背景、通过公开构建理念与用户共创的过程，以及用户反馈处理和AI编程入门方法。同时探讨了自由职业的时间管理和产品发布的时机选择。",
+  "stichpunkte": [
+    "《小猫补光灯》的开发背景与契机",
+    "利用AI工具实现无代码开发爆款产品的过程",
+    "通过公开构建理念与用户共创产品",
+    "如何看待用户评价尤其是负面评价",
+    "自由职业者的个人时间管理",
+    "产品在不完美时刻发布的常态与开发者建议"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:56:44+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3854,
+  "veroeffentlicht": "2025-06-09T10:03:17+00:00",
+  "beschreibung": "本期节目源于小红书独立开发者大赛、Tech PodFest 和少数派的联动。节目中谈到的《小猫补光灯》是一款神奇的 app，它看似功能简单，却在小红书上获得了超高人气，而它的开发者花生也凭借这款产品荣获了小红书独立开发大赛的「社区人气奖」。\n\n作为一名拥有多年互联网大厂运营老手，花生在 2023 年选择从大厂离职，开始探索 AI 领域，并通过 AI 开发工具在〇代码经验的基础上成功打造了一款爆款产品。在节目中，我们深入探讨了《小猫补光灯》的开发背景和契机，以及他在小红书上通过「build with public」理念进行共创的过程。\n\n同时，我们还聊到了用户反馈、恶评、AI 编程入门方法等话题。在 AI 浪潮翻涌的当下，花生的成功路径或许将成为你的灵感来源。\n\n节目章节\n\n00:00:15 开场，介绍一下聊天背景\n\n00:02:51 AI 工具逐渐成熟，小猫补光灯应运而生\n\n00:11:15 运气与黑盒：如何判断一款产品能否爆火\n\n00:15:02 如何看待与用户共创产品？\n\n00:19:44 小红书真的是「中国版 App Store」吗？\n\n00:26:47 如何看待用户评价，特别是负评？\n\n00:35:51 如何借助 AI 工具创造产品？\n\n00:51:34 自由职业者如何管理自己的时间？\n\n00:56:37 一款产品在不完美的时刻发布才是常态\n\n00:59:36 给开发者们的小建议\n\n订阅《少数派播客》\n\n节目 RSS 链接\n\nApple Podcasts\n\n小宇宙\n\nSpotify\n\n其它平台\n\n登场人物\n\n花生：独立开发者，《小猫补光灯》开发者\n\n明艾：Tech PodFest 发起人\n\n张奕源 Nick：少数派成员 | 小红书 | 微博\n\n欢迎写信至 nick@sspai.com",
+  "beschreibung_html": "<p>本期节目源于小红书独立开发者大赛、Tech PodFest 和少数派的联动。节目中谈到的《小猫补光灯》是一款神奇的 app，它看似功能简单，却在小红书上获得了超高人气，而它的开发者花生也凭借这款产品荣获了小红书独立开发大赛的「社区人气奖」。</p>\n<p>作为一名拥有多年互联网大厂运营老手，花生在 2023 年选择从大厂离职，开始探索 AI 领域，并通过 AI 开发工具在〇代码经验的基础上成功打造了一款爆款产品。在节目中，我们深入探讨了《小猫补光灯》的开发背景和契机，以及他在小红书上通过「build with public」理念进行共创的过程。</p>\n<p>同时，我们还聊到了用户反馈、恶评、AI 编程入门方法等话题。在 AI 浪潮翻涌的当下，花生的成功路径或许将成为你的灵感来源。</p>\n<h2>节目章节</h2>\n<ul>\n<li><a href=\"#t=00:00:15\">00:00:15</a> 开场，介绍一下聊天背景</li>\n<li><a href=\"#t=00:02:51\">00:02:51</a> AI 工具逐渐成熟，小猫补光灯应运而生</li>\n<li><a href=\"#t=00:11:15\">00:11:15</a> 运气与黑盒：如何判断一款产品能否爆火</li>\n<li><a href=\"#t=00:15:02\">00:15:02</a> 如何看待与用户共创产品？</li>\n<li><a href=\"#t=00:19:44\">00:19:44</a> 小红书真的是「中国版 App Store」吗？</li>\n<li><a href=\"#t=00:26:47\">00:26:47</a> 如何看待用户评价，特别是负评？</li>\n<li><a href=\"#t=00:35:51\">00:35:51</a> 如何借助 AI 工具创造产品？</li>\n<li><a href=\"#t=00:51:34\">00:51:34</a> 自由职业者如何管理自己的时间？</li>\n<li><a href=\"#t=00:56:37\">00:56:37</a> 一款产品在不完美的时刻发布才是常态</li>\n<li><a href=\"#t=00:59:36\">00:59:36</a> 给开发者们的小建议</li>\n</ul>\n<h2>订阅《少数派播客》</h2>\n<ul>\n<li><a href=\"https://sspai.com/link?target=https%3A%2F%2Fsspai.typlog.io%2Ffeed%2Faudio.xml\">节目 RSS 链接</a></li>\n<li><a href=\"https://podcasts.apple.com/hk/podcast/%E4%B8%80%E6%B4%BE-podcast/id1483157529\">Apple Podcasts</a></li>\n<li><a href=\"https://sspai.com/link?target=https%3A%2F%2Fwww.xiaoyuzhoufm.com%2Fpodcast%2F5e280fb1418a84a0461fc567\">小宇宙</a></li>\n<li><a href=\"https://sspai.com/link?target=https%3A%2F%2Fopen.spotify.com%2Fshow%2F7pJ5EHWj7i5wQwqzY9kHr5\">Spotify</a></li>\n<li><a href=\"https://sspai.com/link?target=https%3A%2F%2Fpod.link%2F1483157529\">其它平台</a></li>\n</ul>\n<h2>登场人物</h2>\n<ul>\n<li>花生：独立开发者，《小猫补光灯》开发者</li>\n<li>明艾：Tech PodFest 发起人</li>\n<li>张奕源 Nick：少数派成员 | <a href=\"https://www.xiaohongshu.com/user/profile/65abda61000000001300a145\">小红书</a> | <a href=\"https://weibo.com/u/7374687199\">微博</a></li>\n</ul>\n<p>欢迎写信至 <a href=\"https://sspai.com/link?target=mailto%3Anick%40sspai.com\">nick@sspai.com</a></p>",
+  "untertitel": "在节目中，我们深入探讨了《小猫补光灯》的开发背景和契机，以及通过「build with public」理念进行共创的过程。",
+  "bild_url": "https://i.typlog.com/sspai/8250536654_996183.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/resize,m_fill,w_1920,h_1920/format,jpg",
+  "folgennummer": 139
+}

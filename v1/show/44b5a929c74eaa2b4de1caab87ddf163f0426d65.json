@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "声东击西",
   "apple_collection_id": "1183662640",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "16a80abc-0826-4ec8-8c94-54ecb79161ef",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/16a80abc-0826-4ec8-8c94-54ecb79161ef.mp3",
+      "pfad": "/v1/episode/85e42a680e27b7289612e3769504e1966d55c4d9.json",
+      "titel": "#405  从地理边界到思维边界：我们如何被「划界」塑造？",
+      "veroeffentlicht": "2026-09-17T19:15:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨边界如何被划定和跨越，以及我们如何被思维边界塑造。"
+    },
     {
       "guid": "f96bdc7a-c667-4594-8719-2070d24f8231",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/f96bdc7a-c667-4594-8719-2070d24f8231.mp3",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "硅谷华人市议员邵阳讲述十年地方政治亲历"
+    },
+    {
+      "guid": "53eaa77d-973d-4ad2-b733-cc55e586497a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/53eaa77d-973d-4ad2-b733-cc55e586497a.mp3",
+      "pfad": "/v1/episode/60c07aa851405c36d8c79269a713acb646f0f1e2.json",
+      "titel": "#403  从八十年飞行史，看城市、社会和我们自己的改变丨国泰航空 x 声东击西",
+      "veroeffentlicht": "2026-09-03T18:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从八十年飞行史看城市、社会和我们自己的改变"
+    },
+    {
+      "guid": "fa63b0de-01f3-44b7-bf44-f1077c09f438",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/fa63b0de-01f3-44b7-bf44-f1077c09f438.mp3",
+      "pfad": "/v1/episode/e36ddff8418a9b4b0c4ecef96b51a45471ed113b.json",
+      "titel": "#402  即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
+      "veroeffentlicht": "2026-08-27T18:45:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "南苏丹难民营面临粮食援助中断，援助工作者讲述当地饥饿现状"
+    },
+    {
+      "guid": "f7495e05-2c4d-4f21-9814-ffdc997630d3",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/f7495e05-2c4d-4f21-9814-ffdc997630d3.mp3",
+      "pfad": "/v1/episode/a56e4ac854f450cc22d44e47e18b01974df66a9f.json",
+      "titel": "#401  边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
+      "veroeffentlicht": "2026-08-20T19:15:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾人工智能起点达特茅斯会议，探讨原始创新的边缘生长与慢聚漫奏。"
+    },
+    {
+      "guid": "32ada8c4-0584-42b5-a062-a336275a2cb5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/32ada8c4-0584-42b5-a062-a336275a2cb5.mp3",
+      "pfad": "/v1/episode/75ab64d194374922d0f910d61335a526e2ed233d.json",
+      "titel": "#400  社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+      "veroeffentlicht": "2026-08-13T16:15:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨青少年社媒禁令争议与平台责任边界"
+    },
+    {
+      "guid": "b8cd9085-c37e-4dd3-92d7-5d7be257f078",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/b8cd9085-c37e-4dd3-92d7-5d7be257f078.mp3",
+      "pfad": "/v1/episode/afcddee3976e99db6df6011d0c1958c49278fa01.json",
+      "titel": "#399 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨十周年特别节目",
+      "veroeffentlicht": "2026-08-06T19:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话贾扬清，回顾人工智能过去十年的发展与未来趋势"
+    },
+    {
+      "guid": "b28f7eaa-c801-4d5f-a6e5-35326d335df7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/b28f7eaa-c801-4d5f-a6e5-35326d335df7.mp3",
+      "pfad": "/v1/episode/d4215e96c4906de67385fc19c4d36adfc3410b54.json",
+      "titel": "#398   一场美国观察漫谈：世界杯红牌、南非白人劳工",
+      "veroeffentlicht": "2026-07-16T18:15:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨南非白人劳工赴美现象及背后的移民与政治叙事"
+    },
+    {
+      "guid": "31c69f95-d493-47a1-a6f8-905eb22c3e41",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/31c69f95-d493-47a1-a6f8-905eb22c3e41.mp3",
+      "pfad": "/v1/episode/c2980e2c9bef0baadccb054f163bbb4052a0d50b.json",
+      "titel": "#397   从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
+      "veroeffentlicht": "2026-07-14T15:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "透视安卡拉北约峰会，探讨美欧关系重塑与全球地缘格局变化"
+    },
+    {
+      "guid": "92f097c7-3ae4-4a2b-87d0-e23b518b590a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/92f097c7-3ae4-4a2b-87d0-e23b518b590a.mp3",
+      "pfad": "/v1/episode/6ba65e9899847972f828738036877930f94a5cc7.json",
+      "titel": "#396   脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
+      "veroeffentlicht": "2026-07-09T17:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "脱欧十年后，英国经济与身份叙事的变化"
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0p2yh63",
+  "apple_collection_id": "262026947",
+  "show": "6 Minute English",
+  "titel": "How do climate scientists make predictions?",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2ygrc.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:53:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "气候科学家如何对未来的气候变化进行预测",
+  "kurzfassung": "全球气候变化正在改变人类的生活方式。科学家们几十年来一直在探讨未来变化的规模和类型。本期节目探讨了科学家如何预测未来的气候趋势。",
+  "stichpunkte": [
+    "气候变化对人类生活的影响",
+    "科学家如何预测未来的气候变化",
+    "应对气候变化后果的准备工作",
+    "英语词汇学习"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:53:40+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 399,
+  "veroeffentlicht": "2026-08-06T09:11:00+00:00",
+  "beschreibung": "Across the world, climate change is already beginning to change the way we live our lives. But how big will that change be and what kinds of change will occur? These are the kinds of questions that scientists have been asking for decades. So, how exactly do they try to find answers to such complex questions about the future? Understanding where we are heading might help humanity prepare for the consequences of climate change. Phil and Pippa discuss this and teach you some new vocabulary.\nLearn English from authentic BBC programme clips. Get a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260806\nPractise your listening with The Listening Room here:\nhttps://www.bbc.co.uk/learningenglish/english/features/the_listening_room\nSubscribe to our newsletters here: https://www.bbc.co.uk/send/u178220599",
+  "beschreibung_html": "<p>Across the world, climate change is already beginning to change the way we live our lives. But how big will that change be and what kinds of change will occur? These are the kinds of questions that scientists have been asking for decades. So, how exactly do they try to find answers to such complex questions about the future? Understanding where we are heading might help humanity prepare for the consequences of climate change. Phil and Pippa discuss this and teach you some new vocabulary.</p><p>Learn English from authentic BBC programme clips. Get a free worksheet, quiz and transcript for this episode: <a href=\"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260806\">https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260806</a></p><p>Practise your listening with The Listening Room here:</p><p><a href=\"https://www.bbc.co.uk/learningenglish/english/features/the_listening_room\">https://www.bbc.co.uk/learningenglish/english/features/the_listening_room</a></p><p>Subscribe to our newsletters here: <a href=\"https://www.bbc.co.uk/send/u178220599\">https://www.bbc.co.uk/send/u178220599</a></p>",
+  "untertitel": "How big will climate change be and what kinds of change will occur?",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg"
+}

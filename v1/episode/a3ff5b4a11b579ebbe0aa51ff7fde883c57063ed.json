@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "81e371adaa7c40248f26002a1b2c936e",
+  "apple_collection_id": "1608172567",
+  "show": "Stammplatz – Fußball News täglich",
+  "titel": "Bayern-Gala gegen Union! Klopps Torwart-Ranking! Neuer Trainer-Kandidat für Gladbach!",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2598572-m-97cb94bda0e81915938c38ca977dbb90.mp3?source=feed",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:56:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Bayern-Gala gegen Union, Klopps Torwart-Ranking und Gladbachs Trainersuche.",
+  "kurzfassung": "Der Podcast bespricht den deutlichen Sieg der Bayern gegen Union Berlin und hebt dabei die Leistung von Michael Olise hervor. Zudem geht es um das Torwart-Ranking von Jürgen Klopp. Weitere aktuelle Themen aus der Welt des Fußballs werden ebenfalls behandelt.",
+  "stichpunkte": [
+    "Bayern-Sieg gegen Union Berlin",
+    "Die Leistung von Michael Olise",
+    "Jürgen Klopps Torwart-Ranking",
+    "Weitere aktuelle Fußballthemen"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:56:53+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1112,
+  "veroeffentlicht": "2026-09-18T22:02:00+00:00",
+  "beschreibung": "Stammplatz – tägliche Fußball-News\nDie Bayern fertigen Union Berlin ab, demonstrieren einmal mehr die eigene Klasse. Überragend dabei: Michael Olise! Darüber und über Klopps Torwart-Ranking und weitere Themen sprechen Noah und Flo in der aktuellen Folge.\n\nBetonter Text_- Instagram\n\nStammplatz-Handy: 015165587282\n\nE-Mail: stammplatz@bild.de\n\nAdresse: Stammplatz, André Albers, Noah Friedmann und Niklas Heising, Axel-Springer-Straße 65, 10888 Berlin\n\nDu möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos & Rabatte: https://linktr.ee/Stammplatz",
+  "beschreibung_html": "Stammplatz – tägliche Fußball-News\n<p>Die Bayern fertigen Union Berlin ab, demonstrieren einmal mehr die eigene Klasse. Überragend dabei: Michael Olise! Darüber und über Klopps Torwart-Ranking und weitere Themen sprechen Noah und Flo in der aktuellen Folge.</p>\n<p>Betonter Text_- <a href=\"https://www.instagram.com/stammplatz.pod/\">Instagram</a></p>\n<ul>\n<li>Stammplatz-Handy: 015165587282</li>\n<li>E-Mail: <a href=\"mailto:stammplatz@bild.de\">stammplatz@bild.de</a></li>\n<li>Adresse: Stammplatz, André Albers, Noah Friedmann und Niklas Heising, Axel-Springer-Straße 65, 10888 Berlin</li>\n</ul>\n<p>Du möchtest mehr über unsere Werbepartner erfahren? Hier findest du alle Infos &amp; Rabatte: <a href=\"https://linktr.ee/Stammplatz\">https://linktr.ee/Stammplatz</a></p>",
+  "untertitel": "Stammplatz – tägliche Fußball-News",
+  "bild_url": "https://images.podigee-cdn.net/0x,s0BaDVjVj53YApS9S4to6Ual2MQeIEKFfeS2JFTUTF-I=/https://main.podigee-cdn.net/uploads/u59990/3e614cc6-90fd-4560-a382-7774634cd4ae.jpeg"
+}

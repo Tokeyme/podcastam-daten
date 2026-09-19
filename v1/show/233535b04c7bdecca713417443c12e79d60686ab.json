@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Adam Carolla Show",
   "apple_collection_id": "306390087",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "gid://art19-episode-locator/V0/ky_TR5utPWW2yDaRJwCxoS9rMdJtdev6PeYV9m-DR8A",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/ddd14dc2-08ca-434c-93ee-790f3600eabe.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/0002eb0d11c7f0eec4f668bfc40f7cf91da59d07.json",
+      "titel": "Dolph Lundgren on Living with Stallone, Wild Times with Grace Jones & Why He Is Grateful for Cancer",
+      "veroeffentlicht": "2026-09-17T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Dolph Lundgren on his career, plus current news from California and Hollywood."
+    },
     {
       "guid": "gid://art19-episode-locator/V0/WJoqhyHfUE3miYRC_VV5yooIOPXFrfgpKw2CMlkrHuw",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/6c8bff9b-dabc-4fbd-b2e1-060910545ea9.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Comedian Jeremiah Watkins discusses his new special, impressions, and morning talk shows."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/aVAy2Xz6xlmGdG27RF5RK_ureoIwGpJ_uw5gCf6kWfo",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/caa89944-5c3f-42f6-9322-5bbc242103c5.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/22ad17fa144396665188ca8d522d77f50b38e2d1.json",
+      "titel": "Chris Hansen GOES OFF On Robert Pattinson’s Primetime Movie",
+      "veroeffentlicht": "2026-09-15T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Chris Hansen reacts to Robert Pattinson's primetime movie and current news topics."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/iAuvMsa66grC_HPRp5VU5FnONaoJCvoz69DBQ9NwW_M",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/19d77110-f81f-4a77-bb83-1ee3996ac10f.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/5240d03ef3708b68cc17337038c9358a74b1bad5.json",
+      "titel": "Tanya Tucker: Dolly Parton’s Death, Dating Merle Haggard, & Partying At Studio 54",
+      "veroeffentlicht": "2026-09-14T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Conversation with country music legend Tanya Tucker and current news topics."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/AaK1DtGDoUbGr5zkOrTRsbCBKLNIKsR3HHy5NIi4_eQ",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/c7846442-a55e-4188-8cd7-7f43dfcc3b46.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/5656a664d408a86208f9da9a609fa90482e1b90c.json",
+      "titel": "Matt Nathanson + Alison and Bryan (Carolla Classics)",
+      "veroeffentlicht": "2026-09-13T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A compilation of classic episodes featuring various guests and hosts."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/Ls7wNbDYhpuG9CIx0b2BNqt_UxxYQg1EGxMCCP13bkk",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/cb0bb2a6-b4b9-41be-ab89-937a8e77d2ae.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/e76a98f584606094bd3cf43b9398d19b42f2b6a9.json",
+      "titel": "Larry Miller + Ryan Bingham  (Carolla Classics)",
+      "veroeffentlicht": "2026-09-12T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Classic archive clips featuring Larry Miller and Ryan Bingham."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/RoI-Gy7ObIxVPzN3HlGvZwh8bsshMF43WmW2o655x68",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/98a5bafa-bfaa-4a9b-a161-fe8a2671204f.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/d73ef3174a401604ff731824c713aa62e738ddf8.json",
+      "titel": "Glen Phillips + Deaf Frat Guy (Carolla Classics)",
+      "veroeffentlicht": "2026-09-11T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Classic Adam Carolla podcast clips featuring guests like Glen Phillips and Deaf Frat Guy."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/0Fe80y_lJ9cTCq6xZRP7a76xdM39xGj03ZBuj3MM51s",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/e7d21256-b52a-4d63-973b-86244ac6fecc.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/974bc8dd343bf03c7d36b3ca2289689e3671f4b9.json",
+      "titel": "Stewart Copeland: Sting Would Suck At Standup & Dad’s CIA Job",
+      "veroeffentlicht": "2026-09-10T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Stewart Copeland on The Police, his career, and current news topics."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/zbO7oY6fwl8RZJO5KXLyqUBRYo1ZnQFJEB5rP5fcEpU",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/df819826-a6db-4233-a554-d8e83f1ad495.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/bd799bf67621729a6dbc28acd44501f1de3b6513.json",
+      "titel": "Kevin Ryan and H. Foley from Are You Garbage Talk Male Cheerleaders, Sandwiches, & Dolly Parton",
+      "veroeffentlicht": "2026-09-09T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Kevin Ryan and H. Foley discuss comedy, podcasts, and current news topics."
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/SjICRZUdm0jpAN7DrfBXZ7A4gtILHoA4mr8x3ommSeA",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/9b4717f0-1e35-4ef0-9a4f-d2017ec12a80.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/87f0ac94f3d04f0e3c8d5c18557ec54d53b15551.json",
+      "titel": "Grant Cardone DESTROYS The Coastal Commission & Says Cash is Trash",
+      "veroeffentlicht": "2026-09-08T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Grant Cardone on real estate, business strategy, and current news topics."
     }
   ]
 }

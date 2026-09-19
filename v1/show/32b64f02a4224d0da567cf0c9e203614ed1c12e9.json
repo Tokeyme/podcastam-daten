@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "Springerstiefel – Alpha oder Opfer?",
   "apple_collection_id": "1709109870",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "mdrde-2304d546-586f-463d-98ed-412258f7e563",
+      "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2026/08/17/mdrde-2304d546-586f-463d-98ed-412258f7e563.mp3128.mp3",
+      "pfad": "/v1/episode/871968f455ff0691859b9250f348e64909a5b470.json",
+      "titel": "Episode 5 – \"Einer von den Guten\"",
+      "veroeffentlicht": "2026-09-08T07:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Elias über den Ausstieg aus der Manosphere und Annes Erfahrungen mit Radikalisierung."
+    },
+    {
+      "guid": "mdrde-d2040d03-d5fb-48d7-bd5d-1ae967c707cd",
+      "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2026/08/17/mdrde-d2040d03-d5fb-48d7-bd5d-1ae967c707cd.mp3128.mp3",
+      "pfad": "/v1/episode/7b9194e573b1a0f67d8f46e426383ca928965652.json",
+      "titel": "Episode 4 – \"Männer unter sich\"",
+      "veroeffentlicht": "2026-09-01T07:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Männlichkeitsbilder im Wandel und Umgang mit rechtsextremen Ansichten im Umfeld"
+    },
+    {
+      "guid": "mdrde-9c31d378-cf2a-49e9-a418-8145bb51eac9",
+      "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2026/08/17/mdrde-9c31d378-cf2a-49e9-a418-8145bb51eac9.mp3128.mp3",
+      "pfad": "/v1/episode/be4ffc31b0c231ef94e9e0a2ac954bcfb4f46823.json",
+      "titel": "Episode 3 – \"Große Brüder\"",
+      "veroeffentlicht": "2026-08-25T07:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Elias beeinflussen die Tate-Brüder und Clemens berichtet aus der Altmark über CSDs."
+    },
+    {
+      "guid": "mdrde-d9a656bb-a1d6-44f6-a5f6-8f67a6d29f1c",
+      "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2026/08/17/mdrde-d9a656bb-a1d6-44f6-a5f6-8f67a6d29f1c.mp3128.mp3",
+      "pfad": "/v1/episode/c8fab810efa02c9611083f4ed467d03477b65229.json",
+      "titel": "Episode 2 – \"Anders als die anderen\"",
+      "veroeffentlicht": "2026-08-18T07:02:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Lebensrealitäten von schwulen Menschen, Drag-Künstlern und Konsumenten von…"
+    },
     {
       "guid": "mdrde-e56cfb64-4e24-4beb-aa11-ec7f72b9c73f",
       "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2026/08/17/mdrde-e56cfb64-4e24-4beb-aa11-ec7f72b9c73f.mp3128.mp3",
@@ -13,6 +53,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Wie junge Männer in Ostdeutschland mit toxischen Männlichkeitsbildern aufwachsen."
+    },
+    {
+      "guid": "0b20990e-dc11-47be-985e-b1a9a6b501ab",
+      "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2025/02/13/mdrde-da8bb2a6-ea6e-43a4-82a5-a7f98e78721f.mp3128.mp3",
+      "pfad": "/v1/episode/bcdcd65c0cf11f11af79217090a7dc0f10f5c878.json",
+      "titel": "Springerstiefel – Spezial: Wo steht die Jugend?",
+      "veroeffentlicht": "2025-02-13T14:02:01+01:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Gespräche mit ostdeutschen Erstwählenden vor der Bundestagswahl."
+    },
+    {
+      "guid": "5c938be5-5c8e-4ae5-b3d6-e11bb2c77f6c",
+      "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2024/08/02/mdrde-e288f68b-1827-4d1a-9b4c-12b93393bbeb.mp3128.mp3",
+      "pfad": "/v1/episode/e55d0acc8f28195fa365a76f85e05347ec2ec905.json",
+      "titel": "Episode 3 – \"Verschwende deine Jugend\"",
+      "veroeffentlicht": "2024-08-06T09:24:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Daniela schildert die Radikalisierung ihres Sohnes in der Pandemie."
     }
   ]
 }

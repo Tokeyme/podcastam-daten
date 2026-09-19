@@ -2,8 +2,58 @@
   "schema_version": 1,
   "show": "Schwarze Akte - True Crime",
   "apple_collection_id": "1512453641",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "75a32582-8be9-4b65-b806-f2f7ab7549b1",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/253257-326-kann-eine-heuschrecke-das-perfekte-alibi-zerstoeren-der-bakersfield-fall.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=253257",
+      "pfad": "/v1/episode/2b2115f440b62bc8ed997d917efb7d4f3d3569bd.json",
+      "titel": "#326 Kann eine Heuschrecke das perfekte Alibi zerstören? Der Bakersfield-Fall",
+      "veroeffentlicht": "2026-09-15T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Mordfall an Joanie und ihrer Familie in Bakersfield, Kalifornien"
+    },
+    {
+      "guid": "05f179f7-0fa2-4c8f-97c1-4b1f40dc9e8a",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/253376-325-ein-sack-voll-unterwaesche-die-bestie-von-beelitz.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=253376",
+      "pfad": "/v1/episode/28b1dcfd4d78b7fbf173cbaf439e32b4769c7254.json",
+      "titel": "#325 Ein Sack voll Unterwäsche - Die Bestie von Beelitz",
+      "veroeffentlicht": "2026-09-08T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Eine Verbrechensserie versetzt Ende der 1980er-Jahre eine Region in Brandenburg in Angst."
+    },
+    {
+      "guid": "68818c07-ad49-4122-b2c4-6f53a6cc811b",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/252677-324-pass-auf-deine-toechter-auf-das-freeway-phantom-lauert-da-draussen.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=252677",
+      "pfad": "/v1/episode/821a14d81d54a46061f3d0689a7c91ab213e0a0b.json",
+      "titel": "#324 Pass auf deine Töchter auf - das Freeway Phantom lauert da draußen",
+      "veroeffentlicht": "2026-09-01T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die ungeklärte Mordserie an jungen Mädchen und Frauen durch das Freeway Phantom."
+    },
+    {
+      "guid": "f5009b23-e1fa-48a3-8ac0-e55b9f638413",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/252316-14-die-wahre-geschichte-hinter-conjuring.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=252316",
+      "pfad": "/v1/episode/cf581cd63bdd51cfeb63a6a5bd10870b55d3de9a.json",
+      "titel": "#14 Die Dame im Fenster: Würdest du im Conjuring House übernachten?",
+      "veroeffentlicht": "2026-08-27T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte des Conjuring House und seiner düsteren Vergangenheit."
+    },
+    {
+      "guid": "d1c0d756-04b3-4088-a2bb-80b1676951a3",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/251875-323-ein-sturm-zieht-auf-der-untergang-der-sarah-joe.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=251875",
+      "pfad": "/v1/episode/30b017c17841b9a4e66d2862ba1b448b4d38ce31.json",
+      "titel": "#323 Ein Sturm zieht auf: Der Untergang der Sarah Joe",
+      "veroeffentlicht": "2026-08-25T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der rätselhafte Vermisstenfall der Sarah Joe und ihrer Crew vor Hawaii"
+    },
     {
       "guid": "da7502ef-63a5-40ca-89f0-fba1047c8a99",
       "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/251471-321-das-inszenierte-ende-der-adrienne-s-2.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=251471",
@@ -13,6 +63,46 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Der brutale Mord an einer Auswanderin in Namibia und seine juristischen Folgen"
+    },
+    {
+      "guid": "69a24318-8031-44b8-aab5-0dcb17138b56",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/250920-321-das-inszenierte-ende-der-adrienne-s.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=250920",
+      "pfad": "/v1/episode/10a1fa8359e73522688b5712773ffecf020eb637.json",
+      "titel": "#321 Das inszenierte Ende der Adrienne S.",
+      "veroeffentlicht": "2026-08-11T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der ungeklärte Tod von Adrienne S. kurz vor ihrem großen Karriereerfolg."
+    },
+    {
+      "guid": "906f2414-b4f5-4dd8-974a-bfdd6966681d",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/250328-320-ein-brief-der-alles-veraendert-cathys-verzweifelte-suche-nach-ihrer-tochter.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=250328",
+      "pfad": "/v1/episode/336f84c5a13f6e4fd1ac5e52d9d102af5f91b6d4.json",
+      "titel": "#320 Ein Brief, der alles verändert - Cathys verzweifelte Suche nach ihrer Tochter",
+      "veroeffentlicht": "2026-08-04T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Cathys jahrzehntelange Suche nach ihrer vermissten Tochter Aundria"
+    },
+    {
+      "guid": "f0796458-5d71-4e9d-8db2-b28a6f7ef71c",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/249641-12-das-tal-der-toten-maenner-warum-fehlen-ihnen-die-koepfe.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=249641",
+      "pfad": "/v1/episode/398245ab6d2f46553b31f1abc8d720ee255b7ed5.json",
+      "titel": "#13 Das Tal der toten Männer - Warum fehlen ihnen die Köpfe?",
+      "veroeffentlicht": "2026-07-30T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das Geheimnis des Valley of Headless Men in der kanadischen Wildnis."
+    },
+    {
+      "guid": "d8644dc1-a702-402d-b19a-dc8b38da282b",
+      "audio_url": "https://ads.julephosting.de/podcasts/70-schwarze-akte-true-crime/249989-319-sie-erkennt-den-toten-sohn-im-fernsehen-wer-ermordet-eine-ganze-familie.mp3?v=2&awCollectionId=julep_c3bd9a&awEpisodeId=249989",
+      "pfad": "/v1/episode/3354426e67a19060959bf356aa7cbff715ea0776.json",
+      "titel": "#319 Sie erkennt den toten Sohn im TV - Warum muss eine ganze Familie sterben?",
+      "veroeffentlicht": "2026-07-28T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ein toter Junge, eine verschwundene Familie und ein flüchtiger Täter."
     }
   ]
 }

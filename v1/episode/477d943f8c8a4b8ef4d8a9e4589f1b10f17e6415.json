@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "audioboom-01a04a27-3d55-71d8-9c40-099d233105ce",
+  "apple_collection_id": "1192761536",
+  "show": "Pod Save America",
+  "titel": "Obama's Campaign Manager's 2028 Scouting Report",
+  "audio": {
+    "url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8946649.mp3?modified=1787950570&sid=5166624&source=rss",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Analysis of the congressional races and early 2028 presidential contenders.",
+  "kurzfassung": "Jon sits down with Democratic strategist David Plouffe to analyze the current races for the Senate and House. They discuss the new roster of early primary states and their underlying political dynamics. Additionally, they provide an early assessment of potential 2028 contenders, including Kamala Harris, AOC, and Jon Ossoff.",
+  "stichpunkte": [
+    "Assessment of the race for the Senate and House",
+    "Discussion on the new roster of early primary states",
+    "Political dynamics at play in the primary states",
+    "Early handicapping of rumored 2028 presidential contenders",
+    "Analysis of potential candidates including Kamala Harris, AOC, and Jon Ossoff"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:53+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3892,
+  "veroeffentlicht": "2026-08-30T09:55:00+00:00",
+  "beschreibung": "Jon sits down with legendary Democratic strategist David Plouffe to assess the race for the Senate and House and — why not? — look forward to 2028. The two talk through the new roster of early primary states and the political dynamics at play in each, and then do some (very) early handicapping of the rumored '28 contenders, from Kamala Harris to AOC and Jon Ossoff.\nHate listening to ads? Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at crooked.com/friends, on Apple Podcasts, or through the Pod Save America YouTube channel.\nYou can request a transcript by emailing transcripts@crooked.com. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.",
+  "beschreibung_html": "<div>\n<p>Jon sits down with legendary Democratic strategist David Plouffe to assess the race for the Senate and House and — why not? — look forward to 2028. The two talk through the new roster of early primary states and the political dynamics at play in each, and then do some (very) early handicapping of the rumored '28 contenders, from Kamala Harris to AOC and Jon Ossoff.</p><p><strong>Hate listening to ads? </strong>Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at <a href=\"http://crooked.com/friends\">crooked.com/friends</a>, on Apple Podcasts, or through the Pod Save America YouTube channel.</p><p>You can request a transcript by emailing <a href=\"mailto:transcripts@crooked.com\">transcripts@crooked.com</a>. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</p></div>",
+  "bild_url": "https://audioboom.com/i/43813882.jpg",
+  "folgennummer": 1206
+}

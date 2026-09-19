@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0p65g48",
+  "apple_collection_id": "262026989",
+  "show": "Learning English Conversations",
+  "titel": "The English We Speak: No notes",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p65cdp.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:04:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨英语习语“no notes”的含义与用法",
+  "kurzfassung": "本期节目介绍了英语表达“no notes”的含义。这个短语源自对负面反馈的处理，用来形容某事物完美无缺。节目由Feifei和Georgie共同主持并讲解具体用法。",
+  "stichpunkte": [
+    "解析英语习惯用语“no notes”",
+    "解释该表达与负面反馈的关联",
+    "说明“no notes”表示完美无缺的用法",
+    "由主持人Feifei和Georgie共同讲解"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:04:03+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 124,
+  "veroeffentlicht": "2026-08-25T09:13:00+00:00",
+  "beschreibung": "Notes here is about negative feedback, so ‘no notes’ means that something is perfect. Use it when you have nothing negative to say. Learn about this expression and how to use it with Feifei and Georgie.\nAs always, find a free transcript here:\n✔️ https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260824\nWe send a newsletter with our weekly highlights - subscribe here:\n✔️ https://www.bbc.co.uk/learningenglish/newsletters",
+  "beschreibung_html": "<p>Notes here is about negative feedback, so ‘no notes’ means that something is perfect. Use it when you have nothing negative to say. Learn about this expression and how to use it with Feifei and Georgie.</p><p>As always, find a free transcript here:</p><p>✔️ <a href=\"https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260824\">https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260824</a></p><p>We send a newsletter with our weekly highlights - subscribe here:</p><p>✔️ <a href=\"https://www.bbc.co.uk/learningenglish/newsletters\">https://www.bbc.co.uk/learningenglish/newsletters</a></p>",
+  "untertitel": "The singer’s performance was incredible – no notes!",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p65g8d.jpg"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "audioboom-01a0a2ca-b228-7f68-b7f7-507e51519bf0",
+  "apple_collection_id": "1192761536",
+  "show": "Pod Save America",
+  "titel": "Artificial Intelligence, Actual Idiots",
+  "audio": {
+    "url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952783.mp3?modified=1789437732&sid=5166624&source=rss",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Trump on AI regulation, 2028 election impacts, and Sarah Longwell",
+  "kurzfassung": "The hosts discuss Trump's dismissal of AI CEOs calling for regulation and the unexpected alliance between Dario Amodei, Sam Altman, and Elon Musk. They also examine AI's potential impact on the 2028 presidential election, a Russian oligarch's involvement in Donald Trump Jr.'s wedding, and Texas Republicans. Finally, Sarah Longwell joins to discuss her book, \"How to Eat an Elephant.\"",
+  "stichpunkte": [
+    "Trump's response to AI CEOs calling for a global development slowdown",
+    "The alliance between Dario Amodei, Sam Altman, and Elon Musk",
+    "Chances of meaningful AI regulation passing before the election or in a lame-duck Congress",
+    "AI's impact on the 2028 presidential election",
+    "A Russian oligarch's involvement in Donald Trump Jr.'s wedding",
+    "An overview of Republicans on and off the ballot in Texas",
+    "Sarah Longwell on her book \"How to Eat an Elephant\""
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:44+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 5590,
+  "veroeffentlicht": "2026-09-15T09:55:00+00:00",
+  "beschreibung": "Trump dismisses the AI CEOs at Anthropic, OpenAI, and xAI who are calling for a \"global slowdown\" of AI development, saying the only government regulation the industry needs is a \"high IQ\" president.\nJon, Tommy, and Lovett break down the \"sick conspiracy\" claim the administration and tech investors have leveled at AI makers, the recent developments that united Dario Amodei, Sam Altman, and Elon Musk, and the chances that meaningful AI regulation could pass before the election or in a lame-duck Congress.\nThen they turn to AI's impact on the 2028 presidential election, a Russian oligarch's unusual involvement in Donald Trump Jr.'s wedding festivities, and the worst Republicans on and off the ballot in Texas. Then, Sarah Longwell, publisher of The Bulwark, stops by the studio to talk to Jon about her new book, \"How to Eat an Elephant.\"\nHate listening to ads? Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at crooked.com/friends, on Apple Podcasts, or through the Pod Save America YouTube channel.\nYou can request a transcript by emailing transcripts@crooked.com. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.",
+  "beschreibung_html": "<div>\n<p>Trump dismisses the AI CEOs at Anthropic, OpenAI, and xAI who are calling for a \"global slowdown\" of AI development, saying the only government regulation the industry needs is a \"high IQ\" president. </p><p>Jon, Tommy, and Lovett break down the \"sick conspiracy\" claim the administration and tech investors have leveled at AI makers, the recent developments that united Dario Amodei, Sam Altman, and Elon Musk, and the chances that meaningful AI regulation could pass before the election or in a lame-duck Congress. </p><p>Then they turn to AI's impact on the 2028 presidential election, a Russian oligarch's unusual involvement in Donald Trump Jr.'s wedding festivities, and the worst Republicans on and off the ballot in Texas. Then, Sarah Longwell, publisher of The Bulwark, stops by the studio to talk to Jon about her new book, \"How to Eat an Elephant.\"</p><p><strong>Hate listening to ads? </strong>Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at <a href=\"http://crooked.com/friends\">crooked.com/friends</a>, on Apple Podcasts, or through the Pod Save America YouTube channel.</p><p>You can request a transcript by emailing <a href=\"mailto:transcripts@crooked.com\">transcripts@crooked.com</a>. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</p></div>",
+  "bild_url": "https://audioboom.com/i/43837992.jpg",
+  "folgennummer": 1213
+}

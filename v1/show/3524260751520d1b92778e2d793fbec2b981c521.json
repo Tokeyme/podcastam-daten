@@ -2,8 +2,98 @@
   "schema_version": 1,
   "show": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
   "apple_collection_id": "1428670057",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "cfde0725fec8ca542bcef8590d902faf",
+      "audio_url": "https://audio.podigee-cdn.net/2598666-m-e74438c733a2a943d84fb1092c42c9f6.mp3?source=feed",
+      "pfad": "/v1/episode/80c03120f3d7642b7921279b76d24a5709493624.json",
+      "titel": "Persönliche Kritik hilft nicht weiter",
+      "veroeffentlicht": "2026-09-19T02:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Friedrich Merz unter Druck und Markus Söder als Kontrast"
+    },
+    {
+      "guid": "5394c494d9f21048671ff2504bc2f0db",
+      "audio_url": "https://audio.podigee-cdn.net/2597858-m-6e1fbb9152ea027393cc293376e3ec93.mp3?source=feed",
+      "pfad": "/v1/episode/4ec1c351b6a7132945f17461854033f6ef731e10.json",
+      "titel": "Von der Leyens Kanada-Plan | Huthi-Angriff auf Mekka | Berlin und MV vor der Wahl",
+      "veroeffentlicht": "2026-09-18T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Kanada als EU-Partner, Vorstoß nach Mekka und Olympia mit Krokodilen"
+    },
+    {
+      "guid": "1bbd0ea3fac5fbba955b2a2ee04327d4",
+      "audio_url": "https://audio.podigee-cdn.net/2597064-m-677a9889f721825479e41a2b0f3b1460.mp3?source=feed",
+      "pfad": "/v1/episode/4ebb20cf828e27511633a39bbeeba47b714a1edd.json",
+      "titel": "Was Merz von Klopp lernen kann | Charité-Chef Kroemer im Gespräch | Jahrhundertjahrgang 2026",
+      "veroeffentlicht": "2026-09-17T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Jürgen Klopp als Vorbild für Merz, Charité-Chef Kroemer und der Jahrgang 2026"
+    },
+    {
+      "guid": "56a7ee8cdae825293f03b93a40e5704a",
+      "audio_url": "https://audio.podigee-cdn.net/2596171-m-5a56d80579b6382f6284a3c886178e95.mp3?source=feed",
+      "pfad": "/v1/episode/070b22fc4a1dda8515242a74e3a8e63390a4bec6.json",
+      "titel": "Der Staat jagt die Reichen | Katharina Zweig über die KI-Gefahr | New York liebt ein 60 Dollar Brot",
+      "veroeffentlicht": "2026-09-16T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Soziale Gerechtigkeit, KI-Gefahren und ein teures Brot in New York"
+    },
+    {
+      "guid": "b8bd4009b3329c0b296a22ff5a3a6666",
+      "audio_url": "https://audio.podigee-cdn.net/2594890-m-90574798a60cb6fde27c6e46699afb43.mp3?source=feed",
+      "pfad": "/v1/episode/2a6ca9d1f26027507abd9aabf24b1153359798c9.json",
+      "titel": "Merz unter Druck | Udo di Fabio über die Demokratie | KI auf der Kanzel",
+      "veroeffentlicht": "2026-09-15T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Merz unter Druck, Udo di Fabio zur Demokratie und KI in der Kirche"
+    },
+    {
+      "guid": "83dfc024754f9e2e0c800672b0ff0537",
+      "audio_url": "https://audio.podigee-cdn.net/2593953-m-10b65a7f0308f93a15802b083c3d88e0.mp3?source=feed",
+      "pfad": "/v1/episode/8308cbee59559e1e67e590ddcd7e031d71dc8462.json",
+      "titel": "Trump gegen die Fed | Kretschmer über die CDU | Muskeln als Geschäftsmodell",
+      "veroeffentlicht": "2026-09-14T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Trump gegen die Fed, Kretschmer über die CDU und Muskeln als Geschäftsmodell"
+    },
+    {
+      "guid": "291b26d444edf7ede9b0a6ada0da92b4",
+      "audio_url": "https://audio.podigee-cdn.net/2593200-m-f697b78cc0c1fe62e60354e783f6c777.mp3?source=feed",
+      "pfad": "/v1/episode/1540a4478c73b3dd8acc7111f3c5096cedf02cef.json",
+      "titel": "Zwischen Wahlen und Werkzeugkiste - Wer sind eigentlich „Die Menschen”?",
+      "veroeffentlicht": "2026-09-13T02:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Jörg Thadeusz über den Umgang von Politik und Medien mit dem Begriff „die Menschen“."
+    },
+    {
+      "guid": "2f6be96a07be2d0537668c69e4d51499",
+      "audio_url": "https://audio.podigee-cdn.net/2592996-m-6e2c5fe40aec0a3274eef5967e2dd143.mp3?source=feed",
+      "pfad": "/v1/episode/ff3ab697f6055ef36b4878181513fbf917df9b82.json",
+      "titel": "Politik wie ein Busunternehmen: Abgeholt und mitgenommen",
+      "veroeffentlicht": "2026-09-12T02:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wahlen in Sachsen-Anhalt, Trump-Versprechen und KI-Risiken."
+    },
+    {
+      "guid": "78dffa5cc27a8718110f1a9e1344aaf5",
+      "audio_url": "https://audio.podigee-cdn.net/2592285-m-b0396e663871724a7f47ca2a734de161.mp3?source=feed",
+      "pfad": "/v1/episode/4167a9c10abcac3219cc74eb04cb70523c5910ea.json",
+      "titel": "25 Jahre 9/11 - eine Bilanz | Cyberexperte Sandro Gaycken über das Berliner Datenleak | Open AI auf der MyWay",
+      "veroeffentlicht": "2026-09-11T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Eine Bilanz zu 25 Jahre 9/11, das Berliner Datenleak und Gastronomie im Handel."
+    },
     {
       "guid": "2a4cbb711cd116fc2a0fb134a3da1cda",
       "audio_url": "https://audio.podigee-cdn.net/2573772-m-2b0fe688c3157327f10c6f4e00cbdf65.mp3?source=feed",

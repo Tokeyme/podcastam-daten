@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "The NPR Politics Podcast",
   "apple_collection_id": "1057255460",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "7e4922d8-ae8f-4970-bda0-303c53dbd1a6",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/ccfde1db-7ad9-41bc-8295-de1f5d4efc6f/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=ccfde1db-7ad9-41bc-8295-de1f5d4efc6f&feed=iDPaKWvZ&t=podcast&e=nx-s1-5973936&p=510310&d=1765&size=28246143",
+      "pfad": "/v1/episode/e3670e06ff402b6c03d13a7d7f93e1d862efcb7c.json",
+      "titel": "Campaign messaging, concerts & Can't Let It Go",
+      "veroeffentlicht": "2026-09-18T20:21:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Republican campaign rhetoric, Macklemore's tour controversy, and Can't Let It Go."
+    },
+    {
+      "guid": "66fe39d0-fd16-43cf-8d41-5e30c15c8bf7",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/be757fd7-9438-4961-89ee-3470efd476df/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=be757fd7-9438-4961-89ee-3470efd476df&feed=iDPaKWvZ&t=podcast&e=nx-s1-5943123&p=510310&d=1249&size=19994793",
+      "pfad": "/v1/episode/9fcbc33cab5740bcb8680212b148dd4a0ea76fa4.json",
+      "titel": "How to watch the midterms like we do",
+      "veroeffentlicht": "2026-09-17T20:31:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "How reporters select key races and issues to watch during upcoming elections."
+    },
+    {
+      "guid": "3d6adc93-e2fe-4dcb-a635-b83849f3b203",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/f546ec4b-65be-4896-8892-ab2ecba0a113/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=f546ec4b-65be-4896-8892-ab2ecba0a113&feed=iDPaKWvZ&t=podcast&e=nx-s1-5971119&p=510310&d=1094&size=17517967",
+      "pfad": "/v1/episode/e8cf29e1b2853bfc67adb898241dfa63fb95ed9e.json",
+      "titel": "How do you solve a problem like AI?",
+      "veroeffentlicht": "2026-09-16T19:57:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Examining the risks of artificial intelligence and potential congressional regulation."
+    },
+    {
+      "guid": "13f989a7-cbc1-4e72-b8ac-e09749966527",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/094e0669-2ad9-4507-ab25-9f650a9bcd45/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=094e0669-2ad9-4507-ab25-9f650a9bcd45&feed=iDPaKWvZ&t=podcast&e=nx-s1-5969759&p=510310&d=1131&size=18108125",
+      "pfad": "/v1/episode/61d4386a0eccb022f118ea3fcf1587305aa6b885.json",
+      "titel": "Voters say the American Dream is dead. Why?",
+      "veroeffentlicht": "2026-09-15T19:55:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Why swing voters in Michigan feel frustrated with the economy and politics."
+    },
+    {
+      "guid": "03f94c57-aea3-4b1f-9aae-b5f592a79596",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/d2012667-36a0-4666-8b89-04f7f6e1f0e7/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=d2012667-36a0-4666-8b89-04f7f6e1f0e7&feed=iDPaKWvZ&t=podcast&e=nx-s1-5968511&p=510310&d=1133&size=18140309",
+      "pfad": "/v1/episode/52430ea8b38a2e68ea5caf39e7c6083629d8ae8c.json",
+      "titel": "Missouri's map mayhem",
+      "veroeffentlicht": "2026-09-14T19:56:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Missouri's efforts to redraw congressional maps face court orders and a referendum."
+    },
+    {
+      "guid": "196a15b0-f498-4f8c-ab60-da4d4a1982d8",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/7754cec7-8665-4ba5-8d7c-02142d0b5857/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=7754cec7-8665-4ba5-8d7c-02142d0b5857&feed=iDPaKWvZ&t=podcast&e=nx-s1-5966633&p=510310&d=3576&size=57224507",
+      "pfad": "/v1/episode/b7ad73afc2c52f01477f2d855fb7f7e4f334295e.json",
+      "titel": "How 9/11 reshaped U.S. intelligence | Sources & Methods",
+      "veroeffentlicht": "2026-09-12T18:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "How the events of 9/11 reshaped U.S. national security and intelligence"
+    },
+    {
+      "guid": "0b6cb44d-4be4-449b-9d98-1403b64a115c",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/6d5491ca-69db-4d64-a866-f56664c4b10d/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=6d5491ca-69db-4d64-a866-f56664c4b10d&feed=iDPaKWvZ&t=podcast&e=nx-s1-5962734&p=510310&d=2168&size=34689820",
+      "pfad": "/v1/episode/a9259ef2908929e433213b3ce39137bd7bc1c82b.json",
+      "titel": "The legacy of 9/11",
+      "veroeffentlicht": "2026-09-11T20:56:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "How U.S. domestic and foreign policy have changed since September 11, 2001."
+    },
+    {
+      "guid": "8cf1f3af-2b6e-4dc2-92cf-2204797bd3bb",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/18192971-01fa-442b-bff4-54c5db3988c9/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=18192971-01fa-442b-bff4-54c5db3988c9&feed=iDPaKWvZ&t=podcast&e=nx-s1-5964756&p=510310&d=934&size=14955877",
+      "pfad": "/v1/episode/11c2f964bbab6df6e0f8b199b99b30303d7815da.json",
+      "titel": "The young conservative movement post-Charlie Kirk",
+      "veroeffentlicht": "2026-09-10T19:50:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The future of the young conservative movement and Trump's midterms pitch."
+    },
+    {
+      "guid": "51c55b52-b8a4-44c5-bf6d-c87b6fff273c",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/5fdcc9f9-aaa0-4cb5-8f52-5beddf2165a5/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=5fdcc9f9-aaa0-4cb5-8f52-5beddf2165a5&feed=iDPaKWvZ&t=podcast&e=nx-s1-5962731&p=510310&d=1320&size=21130807",
+      "pfad": "/v1/episode/d3d5dd22987c7f7310d350ddc1cfe3756762a964.json",
+      "titel": "How Trump's immigration policy has evolved",
+      "veroeffentlicht": "2026-09-09T20:49:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "How US immigration policy has shifted to limit all forms of immigration."
+    },
+    {
+      "guid": "184f5ec2-9116-4bee-a738-582ff4b14179",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/dd17bf49-452d-4a15-a6b1-7f1a912ebf8f/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=dd17bf49-452d-4a15-a6b1-7f1a912ebf8f&feed=iDPaKWvZ&t=podcast&e=nx-s1-5961146&p=510310&d=1090&size=17441062",
+      "pfad": "/v1/episode/753ab7d7b7ae64b8601394200a3ca1215e07f959.json",
+      "titel": "What is the GOP convention happening this week?",
+      "veroeffentlicht": "2026-09-08T20:07:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The GOP midterm convention in Dallas and Republican strategy to win voters"
+    },
     {
       "guid": "814d083e-ce9c-4afd-8cad-829a53897b30",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/8a9a5900-5fdb-4feb-b4a0-a5c82564656a/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=8a9a5900-5fdb-4feb-b4a0-a5c82564656a&feed=iDPaKWvZ&t=podcast&e=nx-s1-5957842&p=510310&d=1626&size=26024272",

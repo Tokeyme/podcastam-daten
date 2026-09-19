@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "0630 - der News-Podcast",
   "apple_collection_id": "1530957169",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "/742bc0adc1b18357766562cfd5e23537",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/da757b05-2320-4ec9-bc03-1558bbbac733/da757b05-2320-4ec9-bc03-1558bbbac733_MP3-128.mp3",
+      "pfad": "/v1/episode/c9adfda2b2fe63ab0547ce34cb735231d338c56c.json",
+      "titel": "Macklemore spendet Millionen für Palästinenser | Eine Frau will die AfD stoppen | Wie der Iran-Krieg die Umwelt zerstört",
+      "veroeffentlicht": "2026-09-18T04:01:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Macklemores Spenden, die Wahl in Mecklenburg-Vorpommern und die Umweltfolgen im Iran."
+    },
+    {
+      "guid": "/34b51f17a5cb436f7867129410087a54",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/17/cdb627ca-373c-4cad-80f7-16f28ce93400/cdb627ca-373c-4cad-80f7-16f28ce93400_MP3-128.mp3",
+      "pfad": "/v1/episode/27cf4d3d22ab2ab1d405b00b25d55471e450bf27.json",
+      "titel": "Wird Kanada bald EU-Mitglied? | EU macht Shein & Co teurer | Das wird bei der Berlin-Wahl wichtig",
+      "veroeffentlicht": "2026-09-17T04:12:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ozon-Loch, EU und Kanada, teurere Online-Pakete sowie die Berlin-Wahl."
+    },
+    {
+      "guid": "/c7e141684e89aecaacf0efc503097d9a",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/16/21079938-9599-4306-ab17-27fbb570ea7f/21079938-9599-4306-ab17-27fbb570ea7f_MP3-128.mp3",
+      "pfad": "/v1/episode/6b782e928a5762c7d4a6148a5902b6e1591d5ada.json",
+      "titel": "Teures Tanken: Was plant Merz? | Macklemore ausgeladen: Ärger für Ed Sheeran | Russische Kriegsschiffe in der Ostsee",
+      "veroeffentlicht": "2026-09-16T04:15:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Teure Benzinpreise, Macklemore-Ausschluss und die Sicherheitslage in der Ostsee"
+    },
+    {
+      "guid": "/9106b81f32cd06603981226d8ac08860",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/15/c9c98846-783a-46ac-80e9-eff837282630/c9c98846-783a-46ac-80e9-eff837282630_MP3-128.mp3",
+      "pfad": "/v1/episode/eeb6c7888c4432071d505b1540009ec04ad65c48.json",
+      "titel": "Steht Merz vor dem Ende? | KI-Bedrohung: Deswegen wird gewarnt | Angst vor Haarausfall: So geht's Männern",
+      "veroeffentlicht": "2026-09-15T03:56:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Kiosk in Gelsenkirchen, Kanzlerdiskussion, KI-Bedrohungen und Haarverlust bei Männern."
+    },
+    {
+      "guid": "/4ec9b4244726b27d9d71b8865af91e0d",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/f5f4986c-00d6-40fd-a527-a24e72becb5d/f5f4986c-00d6-40fd-a527-a24e72becb5d_MP3-128.mp3",
+      "pfad": "/v1/episode/0b0a85994869c34b8f5e4c574b7705baeee4e26d.json",
+      "titel": "Niedersachsen-Wahl: So lief's für die AfD | Russland greift Zug nahe Polen an | Türkei nimmt LGBTQ-Aktivisten fest",
+      "veroeffentlicht": "2026-09-14T03:59:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Niedersachsen-Wahl, Zugangriff in der Ukraine und Festnahmen in der Türkei."
+    },
+    {
+      "guid": "/0370fd7a683e7fb729fa7d4bb290b74a",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/11/3dcca326-7e2e-48c4-9610-5466377cd32b/3dcca326-7e2e-48c4-9610-5466377cd32b_MP3-128.mp3",
+      "pfad": "/v1/episode/1d930375c8e93ffa8e9dce6ce752ee5acd776b90.json",
+      "titel": "Minderheiten-Ängste in Sachsen-Anhalt | Nächste Wahlen: MV & Berlin | KI dribbelt Mathe-Problem",
+      "veroeffentlicht": "2026-09-11T04:16:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Themen von Basketball-WM bis zu Wahlen in Sachsen-Anhalt, MV und Berlin"
+    },
+    {
+      "guid": "/bfd1987ea44ca161f69eb0ba92e9fdc6",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/10/77b78884-b4ce-4982-a371-4b4a1ab48c20/77b78884-b4ce-4982-a371-4b4a1ab48c20_MP3-128.mp3",
+      "pfad": "/v1/episode/b1d6a8203d41dbb8f3dd2cda4d23306314716879.json",
+      "titel": "Papa wählt AfD, ich nicht: Wie polarisiert wir sind | SO viele Menschen sterben durch Suizid | Bye Bye Plastikkarten?",
+      "veroeffentlicht": "2026-09-10T04:14:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Warntag, politische Spaltung, Suizidprävention, digitale Dokumente und ein Umzug."
+    },
+    {
+      "guid": "/0c67b4383b88a06ed1bc7146ccc4a636",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/09/b4c503e2-aa55-4d85-93e2-aa06681e8530/b4c503e2-aa55-4d85-93e2-aa06681e8530_MP3-128.mp3",
+      "pfad": "/v1/episode/8db3614878efae2322ae8ce54077fd575c7cb8bd.json",
+      "titel": "Hamas-Massaker: Wusste Netanjahu vorher Bescheid? | PISA: Deutsche Bildungs-Fails | Daniel V. festgenommen",
+      "veroeffentlicht": "2026-09-09T03:56:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Rutschen im Nahverkehr, PISA-Ergebnisse und der Fall Daniel V."
+    },
+    {
+      "guid": "/74fa97d03202b3077dda09c8444839af",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/08/e872fc9f-b054-4099-afe6-2765f22cc3b0/e872fc9f-b054-4099-afe6-2765f22cc3b0_MP3-128.mp3",
+      "pfad": "/v1/episode/e5fb68ff687b8ecd6b393327dae0f6cba8d13495.json",
+      "titel": "Entscheidet das BSW über eine AfD-Regierung? | Strom-Sabotage: Suche nach Daniel V. | Studentin gewinnt Insel",
+      "veroeffentlicht": "2026-09-08T04:03:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Themen von Wimbledon bis zu einer gewonnenen schwedischen Insel."
+    },
+    {
+      "guid": "/8568cd2271a59df2b8d5b7f9fd1fb893",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/07/f85ea9d5-8443-4734-9a3d-0558f1376317/f85ea9d5-8443-4734-9a3d-0558f1376317_MP3-128.mp3",
+      "pfad": "/v1/episode/185ed0f6ba1a7818427c040e08c9804d17ef6859.json",
+      "titel": "\"Grusel\" & \"Glücksgefühle\": So realistisch ist eine AfD-Regierung in Sachsen-Anhalt | Weltkarte: Werden USA kleiner?",
+      "veroeffentlicht": "2026-09-07T04:05:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Landtagswahl in Sachsen-Anhalt, Regierungsbildung, neue Weltkarte und Basketball-WM"
+    },
     {
       "guid": "/b45e526c64f079aeb50649e86b127da8",
       "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/19/362ad1c1-dd81-4b9c-b2ae-1c625d32cd1a/362ad1c1-dd81-4b9c-b2ae-1c625d32cd1a_MP3-128.mp3",

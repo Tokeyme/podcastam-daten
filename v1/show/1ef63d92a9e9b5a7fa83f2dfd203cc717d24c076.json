@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "你，静不下来",
   "apple_collection_id": "1809736974",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "6aaa5e83051af796b9e91ded",
@@ -15,6 +15,16 @@
       "einzeiler": "乒乓球世界冠军朱雨玲与冰壶国手凌智做客播客，分享如何像运动员一样思考并化解人生焦虑。"
     },
     {
+      "guid": "6a97c947f03e74ee6b03ccc2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a97c947f03e74ee6b03ccc2/media.xyzcdn.net/67b6e9f7c58770a6e0030003/lg1zF4hqNON46mncZta_reNCVBH3.m4a",
+      "pfad": "/v1/episode/c924d8daed5ccc20d04d1052ccaa20e464684b7d.json",
+      "titel": "老友对谈vol.41 那英&小柯：岁月偷走了青春，但没偷走我们的友情",
+      "veroeffentlicht": "2026-09-02T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "那英与小柯多年重聚，畅聊音乐记忆与人生感悟。"
+    },
+    {
       "guid": "6a857f8afb87252df2ec6a64",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a857f8afb87252df2ec6a64/media.xyzcdn.net/67b6e9f7c58770a6e0030003/loHFGmhprDPPeO7tbfHKt0WrZMzC.m4a",
       "pfad": "/v1/episode/985521541e7e54fe6e7362df612202c55cbc45ac.json",
@@ -23,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "心理学家陈海贤做客对谈，探讨中国式家庭中的爱、纠缠与改变。"
+    },
+    {
+      "guid": "6a7c353b36641f136d871f30",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a7c353b36641f136d871f30/media.xyzcdn.net/67b6e9f7c58770a6e0030003/ljrjQMEv8cWP-n0WdFdj5F5BQOQT.m4a",
+      "pfad": "/v1/episode/95cebbf8aaaffaa1f5ddfc19de8e84a3d8cad63a.json",
+      "titel": "闻香疗愈精油课vol.1 把大师课搬进播客，学会用精油调出你的芳香生活",
+      "veroeffentlicht": "2026-08-12T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近正统芳疗世界，学会用精油调配日常生活与安顿身心。"
+    },
+    {
+      "guid": "6a69734556a3f3491ba6ad84",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a69734556a3f3491ba6ad84/media.xyzcdn.net/67b6e9f7c58770a6e0030003/lrlrerzBLWAtaQnoU3qMtyuayjpj.m4a",
+      "pfad": "/v1/episode/5f58326379f83cd77e41170c70237ded34e1ae77.json",
+      "titel": "老友对谈vol.40 满江：人到中年回头看，感谢那些没成全我的",
+      "veroeffentlicht": "2026-07-29T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "满江做客老友对谈，分享音乐转型、中年低谷与生活感悟"
+    },
+    {
+      "guid": "6a57331927a4eec16c40fd38",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a57331927a4eec16c40fd38/media.xyzcdn.net/67b6e9f7c58770a6e0030003/luBbn5V0kZdBhotQdz53u0UtxNFC.m4a",
+      "pfad": "/v1/episode/99bdd3daafeefbb3122f8d7853f6fd36538f296d.json",
+      "titel": "老友对谈vol.39 秋微：试着放下执念，对自己说一句“我允许”",
+      "veroeffentlicht": "2026-07-15T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何放下执念，在真实人生的故事中面对焦虑与掌控"
+    },
+    {
+      "guid": "6a44abf82e335a35a80c42e2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a44abf82e335a35a80c42e2/media.xyzcdn.net/67b6e9f7c58770a6e0030003/lniZCyTCHB_0cpXqoXgHix9pSUd4.m4a",
+      "pfad": "/v1/episode/5c7421167b4dba9d01717e5be1f864b44e8f98e1.json",
+      "titel": "老友对谈vol.38 范湉湉：坚硬外壳下，我们都渴望爱与被爱",
+      "veroeffentlicht": "2026-07-01T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "老友对谈：对话范湉湉，探讨保护色、低谷期与亲密关系。"
+    },
+    {
+      "guid": "6a3216944233e62bc54b3573",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a3216944233e62bc54b3573/media.xyzcdn.net/67b6e9f7c58770a6e0030003/li-YDKj-EfnVWO-eHFtn4nvRg9Uh.m4a",
+      "pfad": "/v1/episode/dbd6ef79dc46f31da397b13e5cd9f1d3324f3d07.json",
+      "titel": "老友对谈vol.37罗海琼：十年全职妈妈重新出发，需要多大勇气？",
+      "veroeffentlicht": "2026-06-17T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "演员罗海琼谈十年全职妈妈后重返职场的心路历程"
+    },
+    {
+      "guid": "6a28df753eedf1f4b2683f47",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a28df753eedf1f4b2683f47/media.xyzcdn.net/67b6e9f7c58770a6e0030003/lqKZPRPtv8YpXj5WTQkUkI706Iws.m4a",
+      "pfad": "/v1/episode/9acd5df9c8eac661840a22b52b4853edf4e86c1c.json",
+      "titel": "播客更新公告：想跟大家说一声抱歉",
+      "veroeffentlicht": "2026-06-10T03:53:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "播客更新节奏调整及近期动态说明"
+    },
+    {
+      "guid": "6a1fa7f3b30e1571ae9fd24c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6a1fa7f3b30e1571ae9fd24c/media.xyzcdn.net/67b6e9f7c58770a6e0030003/lrTKA3z90TLgufeuUBopwXc2x-BI.m4a",
+      "pfad": "/v1/episode/6d11575ff9f1d2f90d2c53531f3e4ced0132ea80.json",
+      "titel": "听友来信时间|当孤独成为常态，你准备好与自己为伍了吗？",
+      "veroeffentlicht": "2026-06-03T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孤独、亲子关系、婚姻背叛、职场压力与多胎家庭平衡等听友来信问题"
     }
   ]
 }

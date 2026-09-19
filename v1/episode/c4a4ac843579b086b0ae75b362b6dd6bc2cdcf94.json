@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0p8w5sh",
+  "apple_collection_id": "262026947",
+  "show": "6 Minute English",
+  "titel": "Can apps teach you a language?",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8w5by.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 3656121,
+    "format": "mp3",
+    "geprueft_am": "2026-09-17T05:25:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": true,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts"
+  },
+  "einzeiler": "语言学习App真的有用吗？科学研究揭示真相",
+  "kurzfassung": "本期节目探讨了Duolingo、Babbel等语言学习App的实际效果。专家指出，与儿童时期的全沉浸式隐性学习不同，成年人通常每周只能学习几小时，因此结合显性语法教学会更有帮助。研究表明，App用户在书面测试中表现更好，而传统课堂学习者在听力方面更具优势。",
+  "stichpunkte": [
+    "语言学习App通过短小的重复课程提供隐性学习",
+    "儿童通过全沉浸环境隐性习得母语，但成年人难以实现",
+    "研究表明成人学习外语需要适度的显性教学，如解释语法规则",
+    "对比研究发现App用户在书面语法测试中表现更好",
+    "传统课堂学习者在听力理解能力的提升上表现更佳",
+    "专家建议将App练习与真人教学、播客或语言伙伴交流相结合",
+    "Duolingo平台上可以学习拉丁语和《星际迷航》中的克灵顿语"
+  ],
+  "kapitel": [
+    {
+      "titel": "语言学习App与隐性学习",
+      "start": 56.02
+    },
+    {
+      "titel": "成人学习与显性教学",
+      "start": 142.5
+    },
+    {
+      "titel": "App与课堂教学的对比研究",
+      "start": 225.14
+    },
+    {
+      "titel": "如何结合多种方式提升语言能力",
+      "start": 313.3
+    },
+    {
+      "titel": "趣味问答与词汇总结",
+      "start": 347.52
+    }
+  ],
+  "clips": [
+    {
+      "hook": "Duolingo学不到哪种语言？",
+      "start": 85.708,
+      "ende": 105.822,
+      "laenge": 20.11,
+      "byte_start": 763636,
+      "byte_ende": 924549,
+      "bytes": 160914,
+      "range_header": "bytes=763636-924549",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 85.786,
+      "anker_sha256": "89eb8e70c41c44d57bf180b9ce68d4841b2e039864bfaed9f742711ac35b28ea",
+      "einblendung_ms": 60,
+      "text": "主持人抛出一个关于语言学习软件的趣味选择题，测试哪些语言无法在平台上学到。"
+    },
+    {
+      "hook": "成人与儿童语言学习的巨大差异",
+      "start": 157.858,
+      "ende": 184.215,
+      "laenge": 26.36,
+      "byte_start": 1340837,
+      "byte_ende": 1551697,
+      "bytes": 210861,
+      "range_header": "bytes=1340837-1551697",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 157.936,
+      "anker_sha256": "4f11e81b66416ab6cc7789b859cdf9b40db78af600f7f4c659f838070af11b19",
+      "einblendung_ms": 60,
+      "text": "专家解释了持续暴露在语言环境中的儿童与每周仅学习几小时的成年人之间存在本质区别。"
+    },
+    {
+      "hook": "App用户与课堂学习者的测试对比",
+      "start": 248.242,
+      "ende": 268.356,
+      "laenge": 20.11,
+      "byte_start": 2063907,
+      "byte_ende": 2224820,
+      "bytes": 160914,
+      "range_header": "bytes=2063907-2224820",
+      "vorlauf_s": 0.0784,
+      "inhalt_start": 248.32,
+      "anker_sha256": "831c72e36fe98dc649f0a3d2559203385c318322c553e159a7ffb5ce85edf087",
+      "einblendung_ms": 60,
+      "text": "一项研究发现使用软件的人在书面语法上进步更大，而课堂学习者在听力方面更有优势。"
+    },
+    {
+      "hook": "最高效的语言学习组合方式",
+      "start": 313.208,
+      "ende": 342.726,
+      "laenge": 29.52,
+      "byte_start": 2583639,
+      "byte_ende": 2819785,
+      "bytes": 236147,
+      "range_header": "bytes=2583639-2819785",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 313.286,
+      "anker_sha256": "3ba2fe9bdda78468549ad3ea5c5c04ca7e3917a4d9f53f719debe8ff76cf7b6a",
+      "einblendung_ms": 60,
+      "text": "专家总结认为，将人际教学与平台的重复训练结合起来，并多练习听说读写，才是正确的方向。"
+    },
+    {
+      "hook": "在软件里学习科幻虚构语言",
+      "start": 358.844,
+      "ende": 378.958,
+      "laenge": 20.11,
+      "byte_start": 2948726,
+      "byte_ende": 3109639,
+      "bytes": 160914,
+      "range_header": "bytes=2948726-3109639",
+      "vorlauf_s": 0.0783,
+      "inhalt_start": 358.922,
+      "anker_sha256": "168af937900734c2f33b18aaadfc2d28c1e6beb2f8bec60da9ffa93d5a7b1fc4",
+      "einblendung_ms": 60,
+      "text": "揭晓问答环节的答案，确认平台上确实可以学到拉丁语以及科幻剧集里的虚构语言。"
+    }
+  ],
+  "erzeugt": {
+    "am": "2026-09-17T05:25:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 447,
+  "veroeffentlicht": "2026-09-10T07:46:00+00:00",
+  "beschreibung": "Have you ever used Duolingo, Babbel, Busuu or perhaps another language-learning app? How did you get on? Some people love the convenience of these apps – you can learn on the go, like during your commute to work, rather than committing to a certain time each week, like learning in a class. But are they teaching the languages effectively? Neil and Pippa discuss this and teach you some new vocabulary.\nGet a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260910\nPractise your listening with The Listening Room here: https://www.bbc.co.uk/learningenglish/english/features/the_listening_room\nSubscribe to our newsletters here: https://www.bbc.co.uk/send/u178220599",
+  "beschreibung_html": "<p>Have you ever used Duolingo, Babbel, Busuu or perhaps another language-learning app? How did you get on? Some people love the convenience of these apps – you can learn on the go, like during your commute to work, rather than committing to a certain time each week, like learning in a class. But are they teaching the languages effectively? Neil and Pippa discuss this and teach you some new vocabulary.</p><p>Get a free worksheet, quiz and transcript for this episode: <a href=\"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260910\">https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260910</a></p><p>Practise your listening with The Listening Room here: <a href=\"https://www.bbc.co.uk/learningenglish/english/features/the_listening_room\">https://www.bbc.co.uk/learningenglish/english/features/the_listening_room</a></p><p>Subscribe to our newsletters here: <a href=\"https://www.bbc.co.uk/send/u178220599\">https://www.bbc.co.uk/send/u178220599</a></p>",
+  "untertitel": "What's better for learning languages – an app or a class?",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
+  "kapitel_quelle": "modell"
+}

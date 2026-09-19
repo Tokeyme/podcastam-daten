@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Collector Nation",
   "apple_collection_id": "1832831782",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "flightcast:01M2SM1Q9T6E6F9CBWZCXQWTV0",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M2SM1Q9T6E6F9CBWZCXQWTV0.mp3",
+      "pfad": "/v1/episode/ca9a3c43b4b5838345727cbca98e2657b71276e3.json",
+      "titel": "Inside a Massive Scottie Pippen Collection + Why 90s Inserts Are Heating Up",
+      "veroeffentlicht": "2026-09-18T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Updates on card grading, sports card markets, and the Pokémon 30th celebration."
+    },
     {
       "guid": "flightcast:01M2JAR6TKF68282Z8FWCMZQ57",
       "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M2JAR6TKF68282Z8FWCMZQ57.mp3",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Rob Goff on selling his historic Michael Jordan NBA Finals jersey and owning Jai Alai"
+    },
+    {
+      "guid": "flightcast:01M27T1HHR1EKKNV8FNX9RF6F2",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M27T1HHR1EKKNV8FNX9RF6F2.mp3?fcv=f8die75k82wb4bs6exhr45ci",
+      "pfad": "/v1/episode/1b8babf81181d8a57019f18ff5237d8ce24b05a3.json",
+      "titel": "Zero Rookie Quarterbacks Starting: What's Driving the Card Market Now?",
+      "veroeffentlicht": "2026-09-11T09:10:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Analysis of the football card market as the new season begins without starting rookies."
+    },
+    {
+      "guid": "flightcast:01M1ZQPEBZK34CSPT8P2FNVA73",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M1ZQPEBZK34CSPT8P2FNVA73.mp3",
+      "pfad": "/v1/episode/535e42d6deb1e6907df2f26dcbcf517992464112.json",
+      "titel": "The Future of the Local Card Shop with Burbank Sports Cards",
+      "veroeffentlicht": "2026-09-08T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The evolution and business of Burbank Sports Cards with owner Rob Veres."
+    },
+    {
+      "guid": "flightcast:01M1NEYMZN3JNMANN5W9DFE8RE",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M1NEYMZN3JNMANN5W9DFE8RE.mp3",
+      "pfad": "/v1/episode/f732a5cf0c16e3a93944c377cfcc1daada0bdd4b.json",
+      "titel": "Are “Junk Wax” Cards About to EXPLODE?!",
+      "veroeffentlicht": "2026-09-04T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Shifts in the sports card hobby, new formats, and market trends"
+    },
+    {
+      "guid": "flightcast:01M1E1SS5E5SKS8SSTXBHG9NG0",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M1E1SS5E5SKS8SSTXBHG9NG0.mp3",
+      "pfad": "/v1/episode/eadfd8663a2b7ab645c535dae0011eb1cfd6789a.json",
+      "titel": "Why Pristine Auction Is Betting Big on Live Selling | Jared Kavlie",
+      "veroeffentlicht": "2026-09-01T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Jared Kavlie on live selling and the evolution of Pristine Auction"
+    },
+    {
+      "guid": "flightcast:01M13DAD3FS2BJFP11JPM8RVXR",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M13DAD3F62Z0P6CK5Q18QHGP.mp3",
+      "pfad": "/v1/episode/ced37d1478ac7e37be43a8100cac1d7e39b6633f.json",
+      "titel": "Is Michael Jordan’s Game-Worn Finals Jersey Worth $15 MILLION?!",
+      "veroeffentlicht": "2026-08-28T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discussion on Michael Jordan's 1998 jersey valuation and sports memorabilia."
+    },
+    {
+      "guid": "flightcast:01M0V6GZFBXQPYEGEARNDRJ5SX",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M0V6GZFBCTR1VVZ2N3VJ5QQW.mp3",
+      "pfad": "/v1/episode/cbfcdf4679bfd564a1046b6885697881b68f8607.json",
+      "titel": "How Do You Prove a Jersey Is Game-Worn? Photo Matching Explained",
+      "veroeffentlicht": "2026-08-25T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "How photo-matching and authentication transformed game-worn sports memorabilia."
+    },
+    {
+      "guid": "flightcast:01M0HSTMXTWX324ENXQ0XZY422",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M0HSTMXTKAW16XDY7YSH8V5A.mp3",
+      "pfad": "/v1/episode/bc8f017b15bc4650d3b4a2fc30551a72be6b92a2.json",
+      "titel": "Why Are Some Sports Cards Worth 30X More? The Reality of Today’s Card Market",
+      "veroeffentlicht": "2026-08-21T09:38:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "An analysis of the sports card market, pricing trends, and modern hobby dynamics."
+    },
+    {
+      "guid": "flightcast:01M09ZCK9KA95JET1XEQFQCQS8",
+      "audio_url": "https://p.podderapp.com/5273779416/pscrb.fm/rss/p/episode.flightcast.com/01M09ZCK9KC5EHSX0A6KJ3F4GY.mp3",
+      "pfad": "/v1/episode/e932a3794370bdd5738ad2fd338a763f5370a824.json",
+      "titel": "From Storage Wars to a $50M Sports Card Business | Rene Nezhoda at The National",
+      "veroeffentlicht": "2026-08-18T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Rene Nezhoda on his shift from Storage Wars to a $50M sports card business."
     }
   ]
 }

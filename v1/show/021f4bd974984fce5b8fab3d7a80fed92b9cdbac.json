@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "地球真好玩",
   "apple_collection_id": "1693139174",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "https://hosting.wavpub.cn/ritanbbpark/?p=270",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探秘吉尼斯世界纪录：揭秘正经公司背后的趣味挑战与认证官的极端经历"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/ritanbbpark/?p=242",
+      "audio_url": "https://tk.wavpub.com/WPDL_JWtJcwudTCHZSXpEWMjfjNTFkzmaQdLJzYjtbDnJmeRLwLDuDkSkRhRMHG-2c.mp3",
+      "pfad": "/v1/episode/9bf2d297f134ed155b55bed8697654ad6da2137d.json",
+      "titel": "vol.06 名为死神的辣椒，真的非吃不可吗？",
+      "veroeffentlicht": "2023-07-06T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨辣椒的辣度测量、吃辣能力与吃辣成瘾的原因"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/ritanbbpark/?p=236",
+      "audio_url": "https://tk.wavpub.com/WPDL_AMJTTbMGGdaUVRKKLLBUHfwExPNqjwDZjshhuWLReyhqGZREBwfNkfVtCf-7b.mp3",
+      "pfad": "/v1/episode/a6d9050f983141cd4e25b83b45b1844866dc5d05.json",
+      "titel": "vol.05  这也能幸存？灾难电影都不敢这么拍！",
+      "veroeffentlicht": "2023-06-29T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "盘点那些令人难以置信的极端幸存者经历与世界纪录"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/ritanbbpark/?p=222",
+      "audio_url": "https://tk.wavpub.com/WPDL_jmQJSnpNsEnzpZUancELBqMTmDtrbJgqYxLjXCBgqaNVcHQBSPbfKZDzYe-cf.mp3",
+      "pfad": "/v1/episode/ee15b1163956adf3967b1b13b59e39585ee777c5.json",
+      "titel": "vol.04 约好了，100岁一起做朋克奶奶！",
+      "veroeffentlicht": "2023-06-15T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年龄焦虑与百岁人生的话题"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/ritanbbpark/?p=211",
+      "audio_url": "https://tk.wavpub.com/WPDL_WRfGeajKYcyuvgvNazVhmWQSAqJLUXnVTHCRQxftCMYJhUaeSNZUddsmqX-bd.mp3",
+      "pfad": "/v1/episode/f4c700b7a36bbd3c002861598ad3b055ac2ab37f.json",
+      "titel": "vol.03 叮~预警！本期含毒量100%",
+      "veroeffentlicht": "2023-06-08T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨自然界与网络中的各种剧毒杀手及精神层面的“中毒”现象。"
+    },
+    {
+      "guid": "http://xmly_track_638485538",
+      "audio_url": "https://tk.wavpub.com/WPDL_VUCWyzwDDxdnFGNbcnEzEmshbMKgtXtQMyrjyuQrkbkqHPvSkjHUUKRtye-0e.mp3",
+      "pfad": "/v1/episode/3d5805c0af13a27053ab619ffa00f7cb9e5608b4.json",
+      "titel": "vol.02 鬼屋历险记，不吓破胆不罢休！",
+      "veroeffentlicht": "2023-06-01T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨世界上首屈一指的恐怖元素与鬼屋体验"
+    },
+    {
+      "guid": "http://xmly_track_636744658",
+      "audio_url": "https://tk.wavpub.com/WPDL_zKuwVHqGZqhkFfJQyuAhxyUkkZMaNNHPCtsyMwEKtaYaajZTPVtHmMPFLq-a4.mp3",
+      "pfad": "/v1/episode/23471fbeaea39773e971823f559c0efa55bf48af.json",
+      "titel": "vol.01 地球没了科学家，硬撑罢了！",
+      "veroeffentlicht": "2023-05-25T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近科学家的趣味故事与奇妙经历"
     }
   ]
 }

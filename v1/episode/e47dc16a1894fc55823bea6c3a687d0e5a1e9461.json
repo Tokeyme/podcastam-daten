@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "b1fb6dc6-f5d2-4170-9142-8c64e7004ad4",
+  "apple_collection_id": "1526697745",
+  "show": "PBD Podcast",
+  "titel": "Fed Hikes Rates, Oil Affordability Crisis & Paramount Threatens California Exit",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/APO1823358095.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Discussion on Fed rate hikes, the oil crisis, and Paramount's California exit.",
+  "kurzfassung": "Patrick Bet-David and the team discuss the Federal Reserve raising interest rates amidst surging inflation and fuel prices. They examine Saudi Arabia's conflict with the Houthis and the broader global oil crisis. Additional topics include Paramount considering leaving California and the ongoing battle over artificial intelligence.",
+  "stichpunkte": [
+    "Federal Reserve raising interest rates for the first time since 2023",
+    "Surging inflation and rising fuel prices",
+    "Saudi Arabia's escalating fight with the Houthis",
+    "The growing global oil crisis",
+    "Paramount threatening to leave California",
+    "The ongoing battle over artificial intelligence"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:23+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 7596,
+  "veroeffentlicht": "2026-09-18T16:27:03+00:00",
+  "beschreibung": "Patrick Bet-David and the Home Team react to the Federal Reserve raising interest rates for the first time since 2023 as inflation and fuel prices surge. They also break down Saudi Arabia’s escalating fight with the Houthis, the growing global oil crisis, Paramount threatening to leave California, the battle over AI, Lindsay Clancy’s holdout juror, and much more.\n------\n👞 Get the NEW Billionaire Suede Loafer: https://bit.ly/4ym5oRA\n.\n👕 SHOP THE ICON COLLECTION: https://bit.ly/3TuUU3x\n.\nⓂ️ CONNECT ON MINNECT: https://bit.ly/4kSVkso\n.\nⓂ️ PBD PODCAST CIRCLES: https://bit.ly/4mAWQAP\n.\n👔 BET-DAVID CONSULTING: https://bit.ly/4lzQph2\n.\n🥃 BOARDROOM CIGAR LOUNGE: https://bit.ly/4pzLEXj\n.\n🇰 KALSHI: http://kalshi.com/pbd\n.\nSUBSCRIBE TO:\n@VALUETAINMENT\n@ValuetainmentComedy\n\nABOUT US:\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal Bestseller \"Your Next Five Moves\" (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida. He currently resides in Ft. Lauderdale, Florida.",
+  "beschreibung_html": "<p>Patrick Bet-David and the Home Team react to the Federal Reserve raising interest rates for the first time since 2023 as inflation and fuel prices surge. They also break down Saudi Arabia’s escalating fight with the Houthis, the growing global oil crisis, Paramount threatening to leave California, the battle over AI, Lindsay Clancy’s holdout juror, and much more.</p><p>------ </p><p>👞 Get the NEW Billionaire Suede Loafer: https://bit.ly/4ym5oRA</p><p>.</p><p>👕 SHOP THE ICON COLLECTION: https://bit.ly/3TuUU3x</p><p>.</p><p>Ⓜ️ CONNECT ON MINNECT: https://bit.ly/4kSVkso</p><p>.</p><p>Ⓜ️ PBD PODCAST CIRCLES: https://bit.ly/4mAWQAP</p><p>.</p><p>👔 BET-DAVID CONSULTING: https://bit.ly/4lzQph2</p><p>.</p><p>🥃 BOARDROOM CIGAR LOUNGE: https://bit.ly/4pzLEXj</p><p>.</p><p>🇰 KALSHI: http://kalshi.com/pbd</p><p>.</p><p>SUBSCRIBE TO:</p><p> @VALUETAINMENT </p><p> @ValuetainmentComedy </p><p><br></p><p>ABOUT US:</p><p>Patrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal Bestseller &quot;Your Next Five Moves&quot; (Simon &amp; Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida. He currently resides in Ft. Lauderdale, Florida.</p><p><br></p><p><br></p>",
+  "bild_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7893453/7893453-1789748700324-b34d7c877a2e5.jpg"
+}

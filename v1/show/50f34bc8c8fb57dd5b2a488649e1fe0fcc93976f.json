@@ -2,8 +2,78 @@
   "schema_version": 1,
   "show": "Die OpenAI Story",
   "apple_collection_id": "1814608156",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "https://podcast-mp3.dradio.de/podcast/2026/05/19/die_openai_story_16_der_grosse_verkaeufer_dlf_20260519_0001_48bf72b8.mp3?refId=die-peter-thiel-story-100",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/05/19/die_openai_story_16_der_grosse_verkaeufer_dlf_20260519_0001_48bf72b8.mp3?refId=die-peter-thiel-story-100",
+      "pfad": "/v1/episode/470b5fb711250fdf0f2fa67502c2246ba6d0dcc1.json",
+      "titel": "Die OpenAI Story (1/6) - Der große Verkäufer",
+      "veroeffentlicht": "2026-05-19T00:01:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Gründung von OpenAI durch Sam Altman und Elon Musk im Jahr 2015"
+    },
+    {
+      "guid": "https://podcast-mp3.dradio.de/podcast/2026/05/05/die_openai_story_trailer_dlf_20260505_1701_55ca382a.mp3?refId=die-peter-thiel-story-100",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/05/05/die_openai_story_trailer_dlf_20260505_1701_55ca382a.mp3?refId=die-peter-thiel-story-100",
+      "pfad": "/v1/episode/8401192dd3735762e5a4b4fb242a4a3f4169a07d.json",
+      "titel": "Von den Machern der Peter Thiel Story - Die OpenAI Story",
+      "veroeffentlicht": "2026-05-05T17:01:26+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Entstehungsgeschichte von OpenAI durch Sam Altman und Elon Musk."
+    },
+    {
+      "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_66_antichrist_dlf_20250605_2036_f00a7da3.mp3?refId=die-peter-thiel-story-100",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_66_antichrist_dlf_20250605_2036_f00a7da3.mp3?refId=die-peter-thiel-story-100",
+      "pfad": "/v1/episode/915faaa866dea6c16504366d8df5b05a1e7f7692.json",
+      "titel": "Die Peter Thiel Story (6/6) - Antichrist",
+      "veroeffentlicht": "2025-06-05T20:36:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Peter Thiels Visionen zwischen Politik, Religion und Apokalypse"
+    },
+    {
+      "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_56_im_zentrum_der_macht_dlf_20250605_2035_fc501bed.mp3?refId=die-peter-thiel-story-100",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_56_im_zentrum_der_macht_dlf_20250605_2035_fc501bed.mp3?refId=die-peter-thiel-story-100",
+      "pfad": "/v1/episode/571ace4b14694f9dd9b2ef90fc2794f15b0138a9.json",
+      "titel": "Die Peter Thiel Story (5/6) - Im Zentrum der Macht",
+      "veroeffentlicht": "2025-06-05T20:35:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Peter Thiels politischer Einfluss in Washington und der Aufstieg von Palantir."
+    },
+    {
+      "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_46_der_raecher_dlf_20250605_2034_73c2dde5.mp3?refId=die-peter-thiel-story-100",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_46_der_raecher_dlf_20250605_2034_73c2dde5.mp3?refId=die-peter-thiel-story-100",
+      "pfad": "/v1/episode/d66da12af2728dd7a66176d42d01a0817c4e0439.json",
+      "titel": "Die Peter Thiel Story (4/6) - Der Rächer",
+      "veroeffentlicht": "2025-06-05T20:34:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Konflikt zwischen Peter Thiel und Gawker sowie dessen politische Ambitionen."
+    },
+    {
+      "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_36_dunkle_propheten_dlf_20250605_2033_4293a88b.mp3?refId=die-peter-thiel-story-100",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_36_dunkle_propheten_dlf_20250605_2033_4293a88b.mp3?refId=die-peter-thiel-story-100",
+      "pfad": "/v1/episode/8eabebfa4d3588d40fe55c6eb9b6ad6addd55779.json",
+      "titel": "Die Peter Thiel Story (3/6) - Dunkle Propheten",
+      "veroeffentlicht": "2025-06-04T12:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Einfluss libertärer und rechter Denker auf Peter Thiels antidemokratische Haltung."
+    },
+    {
+      "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_26_der_tod_und_die_steuern_dlf_20250605_2032_3c987adc.mp3?refId=die-peter-thiel-story-100",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_26_der_tod_und_die_steuern_dlf_20250605_2032_3c987adc.mp3?refId=die-peter-thiel-story-100",
+      "pfad": "/v1/episode/fc7844979fef3565029a0491bff776ffcd677d7f.json",
+      "titel": "Die Peter Thiel Story (2/6) - Der Tod und die Steuern",
+      "veroeffentlicht": "2025-05-27T15:05:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Geldtransfers, Machtkämpfe und Peter Thiels Visionen zu Steuern und Unsterblichkeit."
+    },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_16_willkommen_im_thielverse_dlf_20250605_2031_ec6ef4b9.mp3?refId=die-peter-thiel-story-100",
       "audio_url": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_16_willkommen_im_thielverse_dlf_20250605_2031_ec6ef4b9.mp3?refId=die-peter-thiel-story-100",

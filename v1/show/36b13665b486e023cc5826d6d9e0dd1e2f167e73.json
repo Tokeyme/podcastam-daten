@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "Pod Save America",
   "apple_collection_id": "1192761536",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "audioboom-01a0b298-88d5-7250-ab9b-01832525006b",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8954166.mp3?modified=1789705371&sid=5166624&source=rss",
+      "pfad": "/v1/episode/a06ea80c9d578427b49b3eccc22b069760d299e2.json",
+      "titel": "Will the Blue Wave Be Bigger Than 2018?",
+      "veroeffentlicht": "2026-09-18T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Political analysis of new polls, Senate races, and JD Vance's recent remarks."
+    },
+    {
+      "guid": "audioboom-01a0a2ca-b228-7f68-b7f7-507e51519bf0",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952783.mp3?modified=1789437732&sid=5166624&source=rss",
+      "pfad": "/v1/episode/9501f3695ade84ad8f020a6f6e92adf60962cd01.json",
+      "titel": "Artificial Intelligence, Actual Idiots",
+      "veroeffentlicht": "2026-09-15T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Trump on AI regulation, 2028 election impacts, and Sarah Longwell"
+    },
+    {
+      "guid": "audioboom-01a09367-9384-77db-8cf9-b33f7d575110",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952057.mp3?modified=1789179568&sid=5166624&source=rss",
+      "pfad": "/v1/episode/171dcbf549abe309269f324fe74f4f708523c444.json",
+      "titel": "On the Ground in Michigan with Abdul El-Sayed",
+      "veroeffentlicht": "2026-09-13T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Tommy Vietor reports from Michigan on Senate nominee Abdul El-Sayed's campaign."
+    },
+    {
+      "guid": "audioboom-01a08f3b-0c7a-7659-8dea-7c3111e03a3d",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8951660.mp3?modified=1789109612&sid=5166624&source=rss",
+      "pfad": "/v1/episode/ecb3eb7425002a7ac727292bd3c0fdfc4d77eaf3.json",
+      "titel": "Dallas Bribers Club",
+      "veroeffentlicht": "2026-09-11T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Analysis of the GOP midterm convention in Dallas and an interview with Steve Hilton."
+    },
+    {
+      "guid": "audioboom-01a06e9c-9583-78af-b28b-d2e68acb5887",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8949154.mp3?modified=1788876473&sid=5166624&source=rss",
+      "pfad": "/v1/episode/6be0ed9bf40387acd26e68e9650863379ae177c5.json",
+      "titel": "Will Trump's Postal Service Seize This Mail Bag?",
+      "veroeffentlicht": "2026-09-08T09:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Listener questions, favorite political ads, and the 2026 midterms."
+    },
+    {
+      "guid": "audioboom-01a06f4a-44b3-769f-af4d-9de5247e13ab",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8949192.mp3?modified=1788573654&sid=5166624&source=rss",
+      "pfad": "/v1/episode/5b007c24b97d0f3b362ccfe1e566cb4b6d6ffaad.json",
+      "titel": "Poll Me Twice, Shame On Me",
+      "veroeffentlicht": "2026-09-06T09:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Nate Silver and the Still Counting crew analyze upcoming Senate races and polls."
+    },
+    {
+      "guid": "audioboom-01a06a3b-e832-7755-a604-b7958ade17b0",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948797.mp3?modified=1788495701&sid=5166624&source=rss",
+      "pfad": "/v1/episode/25262221f119cfe1a5de65fa6a141333f6c36ca7.json",
+      "titel": "Republicans Suddenly Have Plans Next Week",
+      "veroeffentlicht": "2026-09-04T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Republican midterm convention absence, primary results, and West Bank violence."
+    },
+    {
+      "guid": "audioboom-01a05af2-8ffd-7272-957f-c287a63fa140",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8947437.mp3?modified=1788232409&sid=5166624&source=rss",
+      "pfad": "/v1/episode/d85893c7cceeece7c30672ddb1061576f748ae0e.json",
+      "titel": "Is Trump Trying to Lose the Midterms?",
+      "veroeffentlicht": "2026-09-01T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Trump weighs in on AI data centers and foreign policy amid Republican concerns."
+    },
+    {
+      "guid": "audioboom-01a04a27-3d55-71d8-9c40-099d233105ce",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8946649.mp3?modified=1787950570&sid=5166624&source=rss",
+      "pfad": "/v1/episode/477d943f8c8a4b8ef4d8a9e4589f1b10f17e6415.json",
+      "titel": "Obama's Campaign Manager's 2028 Scouting Report",
+      "veroeffentlicht": "2026-08-30T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Analysis of the congressional races and early 2028 presidential contenders."
+    },
+    {
+      "guid": "audioboom-01a0462a-30a7-774e-8a17-49fbc60e2ba7",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8946310.mp3?modified=1787883692&sid=5166624&source=rss",
+      "pfad": "/v1/episode/2a58e47970eadfdf1e5f327004a3b4d06bf84603.json",
+      "titel": "Lake America Great Again",
+      "veroeffentlicht": "2026-08-28T09:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Trump's midterm strategy, Lake Ontario, and the Republican convention."
+    },
     {
       "guid": "audioboom-01a02227-c59f-783c-b8e2-117620ad71bd",
       "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943727.mp3?modified=1787279569&sid=5166624&source=rss",

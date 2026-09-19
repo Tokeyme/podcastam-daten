@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0p2kdft",
+  "apple_collection_id": "262026989",
+  "show": "Learning English Conversations",
+  "titel": "The English We Speak: Keep yourself to yourself",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2kc63.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:04:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "英语习惯用语：keep yourself to yourself",
+  "kurzfassung": "本期节目介绍了一个英语习语。该表达用于描述一个人不太常与他人社交、更愿意独处的情况。节目通过具体例句解析了这一习惯用语的用法。",
+  "stichpunkte": [
+    "介绍英语习惯用语 keep yourself to yourself",
+    "解析该表达的含义：不喜欢社交、倾向于独处"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:04:07+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 157,
+  "veroeffentlicht": "2026-08-04T10:44:00+00:00",
+  "beschreibung": "Learn an expression to use when someone doesn't socialise much with other people and prefers to be alone.\nYou can get a free transcript for this programme here: https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260803\nFind programmes to help you improve your reading, listening, speaking and writing skills here: https://www.bbc.co.uk/learningenglish/english/skills\nAnd don't forget to sign up to our free newsletter to receive a message from your favourite presenters and our tips to help you improve your English: https://www.bbc.co.uk/send/u178220599\nCome back here this time next week for the next episode of The English We Speak",
+  "beschreibung_html": "<p>Learn an expression to use when someone doesn't socialise much with other people and prefers to be alone. </p><p>You can get a free transcript for this programme here: <a href=\"https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260803\">https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260803</a></p><p>Find programmes to help you improve your reading, listening, speaking and writing skills here: <a href=\"https://www.bbc.co.uk/learningenglish/english/skills\">https://www.bbc.co.uk/learningenglish/english/skills</a></p><p>And don't forget to sign up to our free newsletter to receive a message from your favourite presenters and our tips to help you improve your English: <a href=\"https://www.bbc.co.uk/send/u178220599\">https://www.bbc.co.uk/send/u178220599</a></p><p>Come back here this time next week for the next episode of The English We Speak</p>",
+  "untertitel": "I'm just going to keep myself to myself today. I’m so tired.",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p2kdq6.jpg"
+}

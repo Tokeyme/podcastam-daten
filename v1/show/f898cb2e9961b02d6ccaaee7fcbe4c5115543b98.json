@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "旅行熱炒店：世界地理人文探索頻道",
   "apple_collection_id": "1518914711",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "GUID-268",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep268.mp3",
+      "pfad": "/v1/episode/2f82aa0cac2ce8799f8f1aefa8c579f001233012.json",
+      "titel": "EP268 美洲概論：相似的起點，迥異的命運，南美北美為何走上不同道路？",
+      "veroeffentlicht": "2026-09-18T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討美洲名稱來源、歷史差異與各地旅行重點。"
+    },
+    {
+      "guid": "GUID-267",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep267.mp3",
+      "pfad": "/v1/episode/248f158282208cdfd7b6108ec81383a256e3446d.json",
+      "titel": "EP267 八月隨筆：漫遊太平洋西北，在荒野裡的255年古蹟裡過夜",
+      "veroeffentlicht": "2026-09-04T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "八月隨筆：北美西海岸漫遊與古蹟過夜體驗"
+    },
     {
       "guid": "GUID-266",
       "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep266.mp3",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "分享大峡谷日出与苏格兰小岛的疗愈旅程"
+    },
+    {
+      "guid": "GUID-265",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep265.mp3",
+      "pfad": "/v1/episode/61f80d2c53285e23e48f5ca475b0064034130894.json",
+      "titel": "EP265 當創作按下暫停鍵，六週年小感言",
+      "veroeffentlicht": "2026-07-06T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "旅行熱炒店迎來六週年，並宣佈將暫停更新一段時間。"
+    },
+    {
+      "guid": "GUID-264",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep264.mp3",
+      "pfad": "/v1/episode/7fbc5f9ab69aab14053dd0e2d33c05dccac22736.json",
+      "titel": "EP264 羅馬尼亞：拉丁語言、東正教與共產過往，「看了西歐小說才知道我們國家有吸血鬼！」 ft. Ponie 涵芃",
+      "veroeffentlicht": "2026-05-30T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨罗马尼亚的地理位置、语言历史、东正教文化及吸血鬼传说。"
+    },
+    {
+      "guid": "GUID-263",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep263.mp3",
+      "pfad": "/v1/episode/aa6e97e920cfb182df05f44570dbecacf43eb3ee.json",
+      "titel": "EP263 新北市新莊區：台北盆地第一城，隱身都市叢林裡的三百年記憶傳承 ft. 晉弘",
+      "veroeffentlicht": "2026-05-20T05:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探索新北市新莊區的歷史發展與在地傳統。"
+    },
+    {
+      "guid": "GUID-262",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep262-1.mp3",
+      "pfad": "/v1/episode/be7b8908e01ae6f943a1161325424b84afb190f7.json",
+      "titel": "EP262 旅行中的療癒故事．下集 ft. 熱心投稿的聽眾們",
+      "veroeffentlicht": "2026-05-12T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享聽眾投稿的旅行療癒故事（下集）"
+    },
+    {
+      "guid": "GUID-261",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep261.mp3",
+      "pfad": "/v1/episode/8cdaa9726067fa02a2c1b2f3ace22c9300f4c348.json",
+      "titel": "EP261 旅行中的療癒故事．上集 ft. 熱心投稿的聽眾們",
+      "veroeffentlicht": "2026-05-07T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "听众分享的旅行疗愈故事与人生感悟（上集）"
+    },
+    {
+      "guid": "GUID-260",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep260.mp3",
+      "pfad": "/v1/episode/cdc7506125ee9c2a867886d3722a49bbcbe96954.json",
+      "titel": "EP260 「都督魯都大大大」與「阿三」的背後真相，來聊聊旁遮普與錫克教",
+      "veroeffentlicht": "2026-04-08T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨旁遮普的地理历史、锡克教文化及印度旅行体验"
+    },
+    {
+      "guid": "GUID-259",
+      "audio_url": "https://jeromecyang.github.io/travel-wok-files-04/ep259.mp3",
+      "pfad": "/v1/episode/404e49b82d5eeec513f7a431e031df7583a4319c.json",
+      "titel": "EP259 Holi：肉身體驗最色彩繽紛的印度節日！旅行路上被搶，兇手竟然是⋯⋯",
+      "veroeffentlicht": "2026-03-27T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "親身體驗印度侯麗節的瘋狂慶典與神話傳說"
     }
   ]
 }

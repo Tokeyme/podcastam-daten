@@ -2,8 +2,78 @@
   "schema_version": 1,
   "show": "PBD Podcast",
   "apple_collection_id": "1526697745",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "b1fb6dc6-f5d2-4170-9142-8c64e7004ad4",
+      "audio_url": "https://traffic.megaphone.fm/APO1823358095.mp3",
+      "pfad": "/v1/episode/e47dc16a1894fc55823bea6c3a687d0e5a1e9461.json",
+      "titel": "Fed Hikes Rates, Oil Affordability Crisis & Paramount Threatens California Exit",
+      "veroeffentlicht": "2026-09-18T16:27:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discussion on Fed rate hikes, the oil crisis, and Paramount's California exit."
+    },
+    {
+      "guid": "a9749bb1-91e2-4aaf-ae4f-e6c6d60659b8",
+      "audio_url": "https://traffic.megaphone.fm/APO6495088377.mp3",
+      "pfad": "/v1/episode/16be3f6e1405998b19361bda8c26fb55d81abc31.json",
+      "titel": "5 Things That Could Destroy America - Victor Davis Hanson | PBD Podcast #856",
+      "veroeffentlicht": "2026-09-17T16:15:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Five potential forces threatening the future of America with Victor Davis Hanson."
+    },
+    {
+      "guid": "cca6abcd-c6b8-43d0-bfb5-d04921f092a9",
+      "audio_url": "https://traffic.megaphone.fm/APO5205100696.mp3",
+      "pfad": "/v1/episode/27f2ef5b080196ad667c68f3cfa928deb9ec8e2f.json",
+      "titel": "Logan Paul Reveals the $100 Million Mistake He Made With Prime | PBD Podcast #856",
+      "veroeffentlicht": "2026-09-15T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Logan Paul discusses his business ventures, the Prime brand, and content creation."
+    },
+    {
+      "guid": "69ac6876-5524-4997-bc71-a388fda98783",
+      "audio_url": "https://traffic.megaphone.fm/APO8867470251.mp3",
+      "pfad": "/v1/episode/120f3314679da48dbc24d813831edd67a167e4f4.json",
+      "titel": "Anthropic AI Warning, Houthis Seize Oil Chokepoint & Lindsay Clancy Juror Doxxed | PBD #855",
+      "veroeffentlicht": "2026-09-14T16:43:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Debating AI safety, Red Sea shipping threats, and political controversies."
+    },
+    {
+      "guid": "bb4828c7-ecd3-4a9e-a375-35a49d6cec31",
+      "audio_url": "https://traffic.megaphone.fm/APO2308530692.mp3",
+      "pfad": "/v1/episode/61615e2d35267ae948f34c6ceb003ba6210a2516.json",
+      "titel": "Anthropic Insider Makes Doomsday Warning & Trump Promises $5,000 if Republicans Win",
+      "veroeffentlicht": "2026-09-11T16:31:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discussion on AI safety warnings, political proposals, and current news."
+    },
+    {
+      "guid": "ac64c484-1547-49e6-9454-782936565d84",
+      "audio_url": "https://traffic.megaphone.fm/APO7546015706.mp3",
+      "pfad": "/v1/episode/474dee40b20ccb0d4768faa1442b48350e0bdf89.json",
+      "titel": "The Hard Truth About Success, Family & Love | PBD Podcast #853",
+      "veroeffentlicht": "2026-09-09T19:52:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Arthur C. Brooks on success, anxiety, family, and meaning."
+    },
+    {
+      "guid": "befd5ced-e058-4f91-8532-95ecc7b8d6ae",
+      "audio_url": "https://traffic.megaphone.fm/APO5914118248.mp3",
+      "pfad": "/v1/episode/400e8d1896ad67537f7feb33aa0ba2eea8684597.json",
+      "titel": "Lindsey Clancy Mistrial, August Jobs Report & J.D. Vance Defends Tucker | PBD Podcast #852",
+      "veroeffentlicht": "2026-09-07T16:56:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discussion on Apple's leadership, the Lindsay Clancy trial, and current news."
+    },
     {
       "guid": "e5c0500e-e743-494d-b3d5-090eb9bd9592",
       "audio_url": "https://traffic.megaphone.fm/APO8144897924.mp3",
@@ -13,6 +83,26 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Ted Cruz discusses his political career, Donald Trump, and his new book on Clarence…"
+    },
+    {
+      "guid": "07c5f613-3dd7-45de-bb9a-04f8f13b7885",
+      "audio_url": "https://traffic.megaphone.fm/APO7197856717.mp3",
+      "pfad": "/v1/episode/41c695e1d15d7b7dc42fa275f367a620266f71c5.json",
+      "titel": "Trump vs Canada, Iran Hit with New Sanctions & Florida Cracks Down on SNAP | PBD Podcast #850",
+      "veroeffentlicht": "2026-08-28T18:19:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Analysis of political tensions, international disputes and corporate accountability."
+    },
+    {
+      "guid": "354a0202-7296-47ff-bcb9-39db115c326c",
+      "audio_url": "https://traffic.megaphone.fm/APO7099241334.mp3",
+      "pfad": "/v1/episode/beaf4a0c85f6f36afa0c40a2f8e140d4dacdbb90.json",
+      "titel": "AI Expert’s Chilling Warning About Super-intelligence - 99.9999% Chance Human Extinction",
+      "veroeffentlicht": "2026-08-26T14:33:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Roman Yampolskiy on AI super-intelligence and human extinction risks."
     }
   ]
 }

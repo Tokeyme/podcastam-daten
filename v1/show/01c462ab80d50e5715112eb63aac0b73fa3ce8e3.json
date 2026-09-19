@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Romance of the Three Kingdoms Podcast",
   "apple_collection_id": "873437344",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "johnzhu.podbean.com/1f441a97-bd28-33ad-9e19-629a895be621",
@@ -13,6 +13,56 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Celebrating ten years of the Romance of the Three Kingdoms podcast."
+    },
+    {
+      "guid": "johnzhu.podbean.com/6aec68be-243c-3748-83bf-cecaf4bea04c",
+      "audio_url": "https://mcdn.podbean.com/mf/web/vva9j3/gods_launch_announcement_2022-10-17afdz4.mp3",
+      "pfad": "/v1/episode/f9cb2ef9009f1e734463077c6f4e1b9cde1d99f8.json",
+      "titel": "Announcement: ”Investiture of the Gods” Launched",
+      "veroeffentlicht": "2022-10-17T04:30:00-03:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Launch of the Investiture of the Gods episodes on Chinese Lore Podcast."
+    },
+    {
+      "guid": "johnzhu.podbean.com/cfc13dce-3b87-3fe0-8fdc-dbe727035e0a",
+      "audio_url": "https://mcdn.podbean.com/mf/web/ejaadh/announcement_2022-05-14_celebrating_asian_voices7vn8g.mp3",
+      "pfad": "/v1/episode/b4e7d89d946bc8c1926c0793c21daf39a3e23786.json",
+      "titel": "Announcement: May 24 Live Interview",
+      "veroeffentlicht": "2022-05-14T11:45:30-03:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Appearance on Podbean's Storytelling Podcast Week Live on May 24."
+    },
+    {
+      "guid": "johnzhu.podbean.com/dd182ee5-82f4-323a-a85e-0e21bec3fcc9",
+      "audio_url": "https://mcdn.podbean.com/mf/web/w5kgsw/announce_2020-08-23_2_podcast_interviews6u75o.mp3",
+      "pfad": "/v1/episode/7b7bc8dfb0a276f64a616dc11a6b732a56d6ef8a.json",
+      "titel": "Announcement: 2 Podcast Interviews",
+      "veroeffentlicht": "2020-08-23T18:37:30-03:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discussion on Chinese slang origins and classic novels in two recent podcast interviews"
+    },
+    {
+      "guid": "johnzhu.podbean.com/update-videos-on-three-kingdoms-warlords-112d0808e173340003e12f5c046a5bed",
+      "audio_url": "https://mcdn.podbean.com/mf/web/e4uane/3kingdoms_update2019-05-19_videos_on_three_kingdoms_warlords.mp3",
+      "pfad": "/v1/episode/7af6cf299209f3bc1a3d1fc36868f036f27c9ce3.json",
+      "titel": "Update: Videos on Three Kingdoms Warlords",
+      "veroeffentlicht": "2019-05-19T22:02:14-03:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Collaboration on three videos about Three Kingdoms warlords with Invicta History."
+    },
+    {
+      "guid": "johnzhu.podbean.com/update-appearance-on-total-war-podcast-3be00ccbec94325dfcc335b9706dab8f",
+      "audio_url": "https://mcdn.podbean.com/mf/web/22i62k/3kingdoms_update2019-05-01_total_war_podcast.mp3",
+      "pfad": "/v1/episode/62e7da2803b2cb42f5b2dd67b7b72f83a04b6dcb.json",
+      "titel": "Update: Appearance on \"Total War\" Podcast",
+      "veroeffentlicht": "2019-05-01T22:22:41-03:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discussion on the history and novel of the Three Kingdoms period."
     }
   ]
 }

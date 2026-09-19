@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "3d6adc93-e2fe-4dcb-a635-b83849f3b203",
+  "apple_collection_id": "1057255460",
+  "show": "The NPR Politics Podcast",
+  "titel": "How do you solve a problem like AI?",
+  "audio": {
+    "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/f546ec4b-65be-4896-8892-ab2ecba0a113/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=f546ec4b-65be-4896-8892-ab2ecba0a113&feed=iDPaKWvZ&t=podcast&e=nx-s1-5971119&p=510310&d=1094&size=17517967",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:50:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Examining the risks of artificial intelligence and potential congressional regulation.",
+  "kurzfassung": "Evangelists claim AI increases productivity while doomsayers warn of destruction. Lawmakers and businesses are attempting to figure out how to regulate the burgeoning industry. This episode examines the associated risks and potential actions by Congress.",
+  "stichpunkte": [
+    "Differing perspectives on artificial intelligence from evangelists and doomsayers",
+    "Efforts by lawmakers and businesses to regulate the industry",
+    "Analysis of the risks posed by artificial intelligence",
+    "Discussion on what actions Congress can take"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:50:03+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1094,
+  "veroeffentlicht": "2026-09-16T19:57:58+00:00",
+  "beschreibung": "Evangelists say AI saves time and increases productivity. Doomsayers argue AI will destroy humanity. While the truth may be somewhere in between, lawmakers and businesses are figuring out how to put the toothpaste back in the tube & find ways to regulate the burgeoning industry. We take a look at the risks, and what Congress can do.\n\nThis episode: senior political correspondent Tamara Keith, congressional reporter Eric McDaniel, and technology correspondent John Ruwitch.\n\nThis podcast was produced and edited by Casey Morell and Bria Suggs.\n\nOur executive producer is Muthoni Muturi.\n\nSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.\n\nSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.\n\nNPR Privacy Policy",
+  "beschreibung_html": "Evangelists say AI saves time and increases productivity. Doomsayers argue AI will destroy humanity. While the truth may be somewhere in between, lawmakers and businesses are figuring out how to put the toothpaste back in the tube & find ways to regulate the burgeoning industry. We take a look at the risks, and what Congress can do.<br/><br/>This episode: senior political correspondent Tamara Keith, congressional reporter Eric McDaniel, and technology correspondent John Ruwitch.<br/><br/><em>This podcast was produced and edited by Casey Morell and Bria Suggs.</em><br/><br/><em>Our executive producer is Muthoni Muturi.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at </em><em><a href=\"http://plus.npr.org/\"target=\"_blank\"   >plus.npr.org</a></em><em>.</em><br><br/><br/>See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+  "bild_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2Fb7%2F9cb4ba5343acadd80757e27605e7%2F5b5b8b5b-c1c5-4841-9b8c-7ab9c7ba33af.jpg"
+}

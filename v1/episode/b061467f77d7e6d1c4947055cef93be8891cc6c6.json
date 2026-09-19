@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "cb1cb736-a8a2-11f1-a144-bbcc6680b9b4",
+  "apple_collection_id": "751574016",
+  "show": "All Ears English Podcast",
+  "titel": "AEE: Socializing in English Part 3 - The Art of the Compliment",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/ALLE1735931865.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:09:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "如何在英语社交中自然应对赞美与日常对话",
+  "kurzfassung": "本期节目探讨了英语社交中的隐含文化与人际互动技巧。内容涵盖如何解读社交信号、自然参与群聊以及处理幽默与讽刺。同时讨论了如何在分享观点时把握分寸，以及如何得体地转换话题或结束对话。",
+  "stichpunkte": [
+    "解读课本中未曾教授的英语隐性社交层",
+    "如何跟上并融入集体对话节奏",
+    "自然应对英语中的讽刺、玩笑与幽默",
+    "在不分享过多隐私的前提下分享故事与观点",
+    "优雅地转换话题、拒绝他人或离开对话"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:09:54+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 967,
+  "veroeffentlicht": "2026-09-16T05:00:00+00:00",
+  "beschreibung": "Want to understand the Invisible Social Layer of English that your classrooms and textbooks never taught you? ⁠Join the early-interest list⁠ for our new Socializing in English method and be the first to hear when it opens later this month. -Read social signals and understand what people really mean\n\n-Join and keep up with group conversations\n\n-Handle sarcasm, banter, and humor naturally\n\n-Share stories and opinions without oversharing\n\n-Change the subject, say no, or leave a conversation gracefully\n\n⁠Go here to get on the early invite list now⁠\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>Want to understand the Invisible Social Layer of English that your classrooms and textbooks never taught you?<a href=\"https://www.allearsenglish.com/social\"> <u>⁠Join the early-interest list⁠</u></a> for our new <strong>Socializing in English</strong> method and be the first to hear when it opens later this month. -Read social signals and understand what people really mean</p>\n<p>-Join and keep up with group conversations&nbsp;</p>\n<p>-Handle sarcasm, banter, and humor naturally&nbsp;</p>\n<p>-Share stories and opinions without oversharing&nbsp;</p>\n<p>-Change the subject, say no, or leave a conversation gracefully</p>\n<p><a href=\"https://www.allearsenglish.com/social\"><u>⁠Go here to get on the early invite list now⁠</u></a></p>\n<p><br>\n\n</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "untertitel": "What should you do when someone pays you a compliment?",
+  "bild_url": "https://megaphone.imgix.net/podcasts/88b85f10-a0c0-11ec-9e52-bfcf9441f742/image/All_Ears_English_New_Cover_with_Michelle_Under_500_KB.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6a8c403050d01eac0b1f9da6",
+  "apple_collection_id": "1540813884",
+  "show": "DRINNIES",
+  "titel": "Im Bett mit der Buchhalterin",
+  "audio": {
+    "url": "https://sphinx.acast.com/p/acast/s/drinnies/e/6a8c403050d01eac0b1f9da6/media.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:48:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Anekdoten aus dem Alltag mit Nina, Chris und Giulia.",
+  "kurzfassung": "Nina warnt vor Unwetter und Hagel. Chris sorgt mit seinem Outfit bei einer Beerdigung für Aufsehen. Giulia und Ruth berichten von ihren Erlebnissen im Alltag.",
+  "stichpunkte": [
+    "Wetterwarnung vor Hagel",
+    "Chris bei einer Beerdigung",
+    "Giulia am Kassenband",
+    "Ruth teilt sich eine Decke"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:48:30+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 2359,
+  "veroeffentlicht": "2026-08-24T22:00:00+00:00",
+  "beschreibung": "Achtung, Achtung, hier spricht Nina! Es wird in wenigen Minuten seit einigen Minuten gehagelt haben, ihr seid also besser schon in Sicherheit, ansonsten Pech gehabt! Des Weiteren: Chris rockt eine Beerdigung mit seinem Outfit, Giulia trainiert ihren Bizeps am Kassenband und Ruth teilt sich eine Decke mit einer flüchtig bekannten Mitarbeiterin. Na dann, gute Nacht im Schacht!\n\nBesuche Giulia und Chris auf Instagram: @giuliabeckerdasoriginal und @chris.sommer\nHier findest du alle Infos und Rabatte unserer Werbepartner: linktr.ee/drinnies\n\nUnser Intro stammt von Sam Wilkes.\nHosted on Acast. See acast.com/privacy for more information.",
+  "beschreibung_html": "<p>Achtung, Achtung, hier spricht Nina! Es wird in wenigen Minuten seit einigen Minuten gehagelt haben, ihr seid also besser schon in Sicherheit, ansonsten Pech gehabt! Des Weiteren: Chris rockt eine Beerdigung mit seinem Outfit, Giulia trainiert ihren Bizeps am Kassenband und Ruth teilt sich eine Decke mit einer flüchtig bekannten Mitarbeiterin. Na dann, gute Nacht im Schacht!</p><br><p>Besuche Giulia und Chris auf Instagram:&nbsp;<a href=\"https://www.instagram.com/giuliabeckerdasoriginal/\" rel=\"noopener noreferrer\" target=\"_blank\">@giuliabeckerdasoriginal</a>&nbsp;und&nbsp;<a href=\"https://www.instagram.com/chris.sommer\" rel=\"noopener noreferrer\" target=\"_blank\">@chris.sommer</a></p><p>Hier findest du alle Infos und Rabatte unserer Werbepartner:&nbsp;<a href=\"https://linktr.ee/drinnies\" rel=\"noopener noreferrer\" target=\"_blank\">linktr.ee/drinnies</a></p><br><p>Unser Intro stammt von <a href=\"https://www.instagram.com/s.wilkes.music\" rel=\"noopener noreferrer\" target=\"_blank\">Sam Wilkes</a>.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+  "bild_url": "https://assets.pippa.io/shows/611a4eb406c05e277cf40479/1738656543520-1dfb32f5-1e2b-4998-ace9-d1d04eb05e69.jpeg",
+  "folgennummer": 278
+}

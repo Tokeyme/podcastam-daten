@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "她说科技 She Talks Tech",
   "apple_collection_id": "1566814409",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:631850d14f4c1a5b41888829",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨隐私的定义、边界与价值，以及我们在数字时代如何面对隐私与便利的权衡。"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:62c52d8362d5dd274a181396",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/62c52f0c0641f26daee3fb05/1657089928350/Episode+11+-+IC+Manager.mp3",
+      "pfad": "/v1/episode/d9355bbb126aa88d2c21e530aac6bbe9ef9d9a21.json",
+      "titel": "011 被管理还是去管理，这是个问题",
+      "veroeffentlicht": "2022-07-06T06:51:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场中选择个人贡献者还是管理者路径的考量"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:61f74bd919c6f357a9b7b770",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/61f74c6453d0363d366f2e5f/1643596965999/episode10%E8%AF%BB%E4%B9%A6+-+1%3A26%3A22%2C+12.54+AM.mp3",
+      "pfad": "/v1/episode/4f08cbc03b1ff73ebcf017d55ee28889219a525a.json",
+      "titel": "010 「番外」写JavaScript的西西弗：2021读书小盘点",
+      "veroeffentlicht": "2022-01-31T02:46:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2021年对职业与个人成长有帮助的读物"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:61f0e4c16fb7342a62ba5a46",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/61f0e64e1406aa1315544332/1643177662700/Episode+9+oxycotin+-+1_17_22%2C+7.09+PM.mp3",
+      "pfad": "/v1/episode/fba4b13f62c0012a8d2f26e456ba20bee8c22dbb.json",
+      "titel": "009 如果社交媒体是鸦片，那我们是毒枭吗",
+      "veroeffentlicht": "2022-01-26T06:19:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨社交媒体成瘾机制及其与阿片类药物危机的相似性。"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:61d6b4e62669436343ac02c6",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/61d6b5a9feb2372c5f3615d6/1641461210743/WIT_epi8_smart_city+-+11%3A30%3A21%2C+1.45+AM.mp3",
+      "pfad": "/v1/episode/233e92cdfb690dc895246bda41437c621bd42606.json",
+      "titel": "008 智能城市的死与生：交通，住房，低碳，数据，隐私",
+      "veroeffentlicht": "2022-01-06T09:29:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨智能城市的交通、住房、低碳与隐私挑战"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:61b06c003f2edf4067e20342",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/61b06d078f629a294046649b/1638952342647/WIT_epi7_consumerism.mp3",
+      "pfad": "/v1/episode/db16d5e2800f7e64ddd292cc8573e4575288a7bd.json",
+      "titel": "007「直播录音」科技，消费主义，女权：相辅相成还是相悖",
+      "veroeffentlicht": "2021-12-08T08:41:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨科技、消费主义与女权之间的复杂关系。"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:616e41da5b67a345cdc545d4",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/616e44e738edd62b646c275e/1634616756695/epi6_gaming.mp3",
+      "pfad": "/v1/episode/a55549205f7f40e1e2d8b2231e962da546a088db.json",
+      "titel": "006 有不厌女的游戏吧？有吧？和北美游戏从业者聊天",
+      "veroeffentlicht": "2021-10-19T03:56:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨女性在游戏行业的从业与玩家体验及行业厌女现象"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:611ca91930f6c01b71af105c",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/611cac05324ce84a4c273d0f/1629269172573/WIT_epi5_liberal_arts+-+8%3A7%3A21%2C+1.17+AM.mp3",
+      "pfad": "/v1/episode/d973518945c1cc2b2b713eeb55f5ec51598b55f2.json",
+      "titel": "005 我们怎么看待“文科无用”这种说法，能跳出理科沙文主义的禁锢吗？",
+      "veroeffentlicht": "2021-08-18T06:49:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨文科与理科之争，反思理科沙文主义与人文精神的现实意义。"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:6110acc2849526664f9684c8",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/6110b2e19aa9fa7ec475681b/1628484477066/WIT_epi4_alibaba_sexual_assault_no_opening_music.mp3",
+      "pfad": "/v1/episode/739a1d0a921e95b2b2d02a59478130db8895b386.json",
+      "titel": "004 阿里性侵事件，不是至暗时刻，是我们需要改变的常态",
+      "veroeffentlicht": "2021-08-09T04:19:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨阿里性侵事件及其暴露出的职场权力不对等与HR失职问题。"
+    },
+    {
+      "guid": "6072a6e146e5e609fc4c51bd:607be2edb854bd10652e9ec1:60ed4632e255175820bf1bc3",
+      "audio_url": "https://static1.squarespace.com/static/6072a6e146e5e609fc4c51bd/t/60ed53d13489b768f16f6602/1626166345953/WIT_epi3_Kexin_motherhood+-+7%3A13%3A21%2C+1.17+AM.mp3",
+      "pfad": "/v1/episode/b3c16838622e4e831f9bf32c9f538ea75c51f519.json",
+      "titel": "003 育儿 == 职场发展尽头？找来身边已育职业女性聊了聊",
+      "veroeffentlicht": "2021-07-13T08:54:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨育儿对职业女性发展的影响与个人感悟"
     }
   ]
 }

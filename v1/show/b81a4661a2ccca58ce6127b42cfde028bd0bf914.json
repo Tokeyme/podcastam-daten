@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "电影正反打",
   "apple_collection_id": "1141744668",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2016/10/17/2562876551533031942_hd.mp3",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "主播们盘点近期热门海内外院线新片与剧集，从国庆档到颁奖季前瞻。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/09/02/2554552320799523334_hd.mp3",
+      "audio_url": "http://cdn.lizhi.fm/audio/2016/09/02/2554552320799523334_hd.mp3",
+      "pfad": "/v1/episode/836d7d994955537d0d5717e1b14dffbd0cc28b23.json",
+      "titel": "#13 完美主义魔王库布里克（上）",
+      "veroeffentlicht": "2016-09-02T11:18:33+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走进库布里克的电影世界与极端完美的创作风格"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/08/27/2553404067735390726_hd.mp3",
+      "audio_url": "http://cdn.lizhi.fm/audio/2016/08/27/2553404067735390726_hd.mp3",
+      "pfad": "/v1/episode/3dbd15529736b8823276bb8bbd36f5889e89d296.json",
+      "titel": "#12 大卫·林奇的诡调影像世界（下）",
+      "veroeffentlicht": "2016-08-27T06:34:50+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大卫·林奇的影像世界（下）"
     }
   ]
 }

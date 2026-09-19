@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "audioboom-01a06a3b-e832-7755-a604-b7958ade17b0",
+  "apple_collection_id": "1192761536",
+  "show": "Pod Save America",
+  "titel": "Republicans Suddenly Have Plans Next Week",
+  "audio": {
+    "url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948797.mp3?modified=1788495701&sid=5166624&source=rss",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Republican midterm convention absence, primary results, and West Bank violence.",
+  "kurzfassung": "Republican lawmakers offer excuses for skipping Trump's midterm convention while the president announces new merchandise and plans. Dan and Jon discuss Ed Markey's primary win, Kamala Harris, and a new Democratic line of attack regarding data centers. Journalist Jasper Nathaniel also joins to discuss violence in the West Bank.",
+  "stichpunkte": [
+    "Republican lawmakers skipping Trump's midterm convention",
+    "Trump's announcements regarding midterm ads and coins",
+    "Ed Markey's primary win over Seth Moulton",
+    "Kamala Harris and red-state Democrats refusing support",
+    "Democrats' new line of attack connecting data centers to tax provisions",
+    "Jasper Nathaniel discussing reporting on violence in the West Bank"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:50+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 5929,
+  "veroeffentlicht": "2026-09-04T09:55:00+00:00",
+  "beschreibung": "Dozens of Republican lawmakers tell the press that they won't be attending Trump's midterm convention next week, citing a variety of unconvincing excuses, but the president seems unfazed by his party's lack of enthusiasm for more Trump, announcing Trump midterm ads, Trump coins, and the possibility he may rename the Strait of Hormuz to the Trump Strait.\nDan and Jon preview the pity party and then react to Ed Markey's primary win over Seth Moulton, Kamala Harris brushing off red-state Democrats refusing her support, and the Democrats' new line of attack against the GOP — tying the construction of data centers to a tax provision in the Big Beautiful Bill. Then journalist Jasper Nathaniel stops by the studio to talk to Tommy about his reporting on violence in the West Bank.\nHate listening to ads? Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at crooked.com/friends, on Apple Podcasts, or through the Pod Save America YouTube channel.\nYou can request a transcript by emailing transcripts@crooked.com. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.",
+  "beschreibung_html": "<div>\n<p>Dozens of Republican lawmakers tell the press that they won't be attending Trump's midterm convention next week, citing a variety of unconvincing excuses, but the president seems unfazed by his party's lack of enthusiasm for more Trump, announcing Trump midterm ads, Trump coins, and the possibility he may rename the Strait of Hormuz to the Trump Strait. </p><p>Dan and Jon preview the pity party and then react to Ed Markey's primary win over Seth Moulton, Kamala Harris brushing off red-state Democrats refusing her support, and the Democrats' new line of attack against the GOP — tying the construction of data centers to a tax provision in the Big Beautiful Bill. Then journalist Jasper Nathaniel stops by the studio to talk to Tommy about his reporting on violence in the West Bank.</p><p><strong>Hate listening to ads? </strong>Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at <a href=\"http://crooked.com/friends\">crooked.com/friends</a>, on Apple Podcasts, or through the Pod Save America YouTube channel.</p><p>You can request a transcript by emailing <a href=\"mailto:transcripts@crooked.com\">transcripts@crooked.com</a>. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</p></div>",
+  "bild_url": "https://audioboom.com/i/43822156.jpg",
+  "folgennummer": 1208
+}

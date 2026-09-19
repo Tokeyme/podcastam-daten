@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技鲜声",
   "apple_collection_id": "1495947928",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "http://33.2.0.18/?p=606",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨语音聊天软件Clubhouse的爆红原因及产品体验"
+    },
+    {
+      "guid": "http://33.2.0.18/?p=105",
+      "audio_url": "https://tk.wavpub.com/WPDL_ceNqeXDfMyPMvYQBFTbnLkGcUNbFFwFmaMWWqJaTNtrGCzbTwjyJLfQEAr-c6.m4a",
+      "pfad": "/v1/episode/b024da678565f4ce33ba6f29c4f00135bf0ed2b1.json",
+      "titel": "Wi-Fi 6 到底是什么？",
+      "veroeffentlicht": "2020-02-14T15:10:26+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨 Wi-Fi 6 技术及其应用与购买建议"
+    },
+    {
+      "guid": "http://33.2.0.18/?p=77",
+      "audio_url": "https://tk.wavpub.com/WPDL_zrhJDMSBcTSFZAFRAwCTnWAqAQDmVgHHhKKtbJGrNdpCxqTnrKXXngagUj-a0.m4a",
+      "pfad": "/v1/episode/8a87ac6a900c419aeb2221747546a4204b87b22e.json",
+      "titel": "“缩水”的微信公开课为什么？",
+      "veroeffentlicht": "2020-01-09T21:35:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨微信公开课为什么缩水以及微信的未来发展。"
+    },
+    {
+      "guid": "http://33.2.0.18/?p=74",
+      "audio_url": "https://tk.wavpub.com/WPDL_DBSfmZrPMzvtfJdJhuHVnUypDqmDwMVpyvyMxncWNapwBTPZHhUWhtcHVS-09.m4a",
+      "pfad": "/v1/episode/ec193d695ed6e2d55183a7377c4590be93f3f84d.json",
+      "titel": "绿洲能成为中国版 instagram 么？",
+      "veroeffentlicht": "2019-09-03T04:28:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨微博推出的绿洲应用能否在中国复制Instagram的成功"
     }
   ]
 }

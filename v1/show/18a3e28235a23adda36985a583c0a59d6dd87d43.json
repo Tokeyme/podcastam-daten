@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Cindy’s 時間遊戲",
   "apple_collection_id": "1625060815",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "cmqxj7r2q02mf01x421a814os",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "时间魔法师Cindy宣布节目重大转型，回顾七年历程并打造全新网站与系统。"
+    },
+    {
+      "guid": "cma9vu64u1tk401vb2z1l0fyo",
+      "audio_url": "https://m.cdn.firstory.me/track/ckxebox5vn1gi08107vl51x9u/cma9vu64u1tk401vb2z1l0fyo/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckxebox5vn1gi08107vl51x9u%2Fcma9vu64u1tk501vbhz3e4kxd.mp3?v=1746377138678",
+      "pfad": "/v1/episode/e2baaaa9c032daddd23b165ddc4b36f7a24cc722.json",
+      "titel": "【時間藝術曆】韻律藍風暴年第十/十一個月：行星狗/光譜蛇之月 (2025/4/4~5/29)",
+      "veroeffentlicht": "2025-05-04T16:55:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "時間藝術曆行星狗與光譜蛇之月時空週期解析"
+    },
+    {
+      "guid": "cm8yo5kvf01ib01y1czj85wh8",
+      "audio_url": "https://m.cdn.firstory.me/track/ckxebox5vn1gi08107vl51x9u/cm8yo5kvf01ib01y1czj85wh8/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckxebox5vn1gi08107vl51x9u%2Fcm8yo5kvg01ic01y1585o0dhi.mp3?v=1743522308856",
+      "pfad": "/v1/episode/0dd670dd08858512bbc1b8671ee99feadebaef0a.json",
+      "titel": "【時間藝術曆】韻律藍風暴年第九個月：太陽豹之月 (2025/3/7~4/3)",
+      "veroeffentlicht": "2025-04-01T15:45:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "時間藝術曆韻律藍風暴年第九個月太陽豹之月主題解析"
+    },
+    {
+      "guid": "cm7rub7xt000001un2hv71ufy",
+      "audio_url": "https://m.cdn.firstory.me/track/ckxebox5vn1gi08107vl51x9u/cm7rub7xt000001un2hv71ufy/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckxebox5vn1gi08107vl51x9u%2Fcm7rub7xu000101un45z56vjd.mp3?v=1740932613299",
+      "pfad": "/v1/episode/c7117915765d2b8b81c5591bbf81d01293cd5b59.json",
+      "titel": "【時間藝術曆】韻律藍風暴年第八個月：銀河星系鷹之月 (2025/2/7~/3/6)",
+      "veroeffentlicht": "2025-03-02T16:23:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "時間藝術曆銀河星系鷹之月的主題與時空週期解析"
+    },
+    {
+      "guid": "cm685c6wo003501tah1z64u3n",
+      "audio_url": "https://m.cdn.firstory.me/track/ckxebox5vn1gi08107vl51x9u/cm685c6wo003501tah1z64u3n/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckxebox5vn1gi08107vl51x9u%2Fcm685c6wo003601ta2x158svw.mp3?v=1737565031918",
+      "pfad": "/v1/episode/a9662484bb7f33a6bc2dcdd1997fc5922dd16566.json",
+      "titel": "【時間藝術曆】韻律藍風暴年第七個月：共鳴猴之月 (2025/1/10~/2/6)",
+      "veroeffentlicht": "2025-01-22T16:58:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "時間藝術曆韻律藍風暴年共鳴猴之月解析"
     }
   ]
 }

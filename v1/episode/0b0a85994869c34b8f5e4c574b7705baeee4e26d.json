@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "guid": "/4ec9b4244726b27d9d71b8865af91e0d",
+  "apple_collection_id": "1530957169",
+  "show": "0630 - der News-Podcast",
+  "titel": "Niedersachsen-Wahl: So lief's für die AfD | Russland greift Zug nahe Polen an | Türkei nimmt LGBTQ-Aktivisten fest",
+  "audio": {
+    "url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/f5f4986c-00d6-40fd-a527-a24e72becb5d/f5f4986c-00d6-40fd-a527-a24e72becb5d_MP3-128.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:59:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Niedersachsen-Wahl, Zugangriff in der Ukraine und Festnahmen in der Türkei.",
+  "kurzfassung": "Minh Thu und Flo besprechen aktuelle politische und gesellschaftliche Themen vom 14. September 2026. Dabei geht es um die Ergebnisse der Kommunalwahlen in Niedersachsen und deren Bedeutung für die Bundesregierung. Zudem beleuchten sie einen Drohnenangriff auf einen Zug aus der Ukraine sowie Razzien gegen LGBTQ-Vereine in der Türkei.",
+  "stichpunkte": [
+    "Eine türkisch-kurdische Großhochzeit",
+    "Ergebnisse der Kommunalwahlen in Niedersachsen für die AfD",
+    "Bedeutung der Wahlergebnisse für die Bundesregierung",
+    "Angriff mit Drohnen auf einen Zug aus der Ukraine",
+    "Razzien und Festnahmen gegen LGBTQ-Vereine in der Türkei"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:59:14+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 853,
+  "veroeffentlicht": "2026-09-14T03:59:39+00:00",
+  "beschreibung": "Die Themen von Minh Thu und Flo am 14.09.2026:\n\n(00:00:00) Mega-Hochzeit: Wie viele Menschen bei einer türkisch-kurdischen Hochzeit eingeladen waren und warum das Flos persönlicher Alptraum ist.\n(00:01:46) Kommunalwahlen in Niedersachsen: Wie die AfD abgeschnitten hat und was die Ergebnisse für die Bundesregierung bedeuten.\n(00:05:51) Drohnen-Alarm: Warum ein Angriff auf einen Zug aus der Ukraine die EU beunruhigt.\n(00:09:55) Razzien gegen LGBTQ-Vereine: Warum es am Wochenende zu Festnahmen in der Türkei kam und was die türkische Regierung damit erreichen will.\n\nHabt ihr Fragen oder Feedback? Schickt uns gerne eine Sprachnachricht an 0151 15071635 oder schreibt uns an 0630@wdr.de.\nKommt auch gerne in unseren WhatsApp Channel: https://1.ard.de/0630-Whatsapp-Kanal\nHier könnt ihr per QR-Code rein: https://1.ard.de/0630-bei-Whatsapp",
+  "beschreibung_html": "Die Themen von Minh Thu und Flo am 14.09.2026:\r\n\r\n(00:00:00) Mega-Hochzeit: Wie viele Menschen bei einer türkisch-kurdischen Hochzeit eingeladen waren und warum das Flos persönlicher Alptraum ist. \r\n(00:01:46) Kommunalwahlen in Niedersachsen: Wie die AfD abgeschnitten hat und was die Ergebnisse für die Bundesregierung bedeuten. \r\n(00:05:51) Drohnen-Alarm: Warum ein Angriff auf einen Zug aus der Ukraine die EU beunruhigt.\r\n(00:09:55) Razzien gegen LGBTQ-Vereine: Warum es am Wochenende zu Festnahmen in der Türkei kam und was die türkische Regierung damit erreichen will. \r\n\r\nHabt ihr Fragen oder Feedback? Schickt uns gerne eine Sprachnachricht an 0151 15071635 oder schreibt uns an 0630@wdr.de.\r\nKommt auch gerne in unseren WhatsApp Channel: https://1.ard.de/0630-Whatsapp-Kanal\r\nHier könnt ihr per QR-Code rein: https://1.ard.de/0630-bei-Whatsapp",
+  "bild_url": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/sechs-dreissig-minhthu-flo-neu-100~_v-Podcast.jpg",
+  "schlagworte": [
+    "AT-Aktualität",
+    "0630 Podcast",
+    "0630",
+    "News",
+    "Newspodcast",
+    "Nachrichten",
+    "1Live",
+    "Niedersachsen",
+    "Wahl",
+    "AfD",
+    "Ukraine",
+    "Russland",
+    "Türkei",
+    "Polen",
+    "Razzien",
+    "Drohnen"
+  ]
+}

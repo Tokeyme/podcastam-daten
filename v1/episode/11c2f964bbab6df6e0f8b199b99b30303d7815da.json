@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "8cf1f3af-2b6e-4dc2-92cf-2204797bd3bb",
+  "apple_collection_id": "1057255460",
+  "show": "The NPR Politics Podcast",
+  "titel": "The young conservative movement post-Charlie Kirk",
+  "audio": {
+    "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/18192971-01fa-442b-bff4-54c5db3988c9/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=18192971-01fa-442b-bff4-54c5db3988c9&feed=iDPaKWvZ&t=podcast&e=nx-s1-5964756&p=510310&d=934&size=14955877",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:50:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "The future of the young conservative movement and Trump's midterms pitch.",
+  "kurzfassung": "This episode examines the state of the young conservative movement following the death of activist Charlie Kirk. It looks at who might take on his influence and whether young voters will maintain their support. Additionally, the discussion covers President Trump's campaign proposal of a 5,000 dollar check.",
+  "stichpunkte": [
+    "Support for conservative causes among young voters after Charlie Kirk",
+    "Potential successors to carry on Kirk's influence",
+    "Future retention of young conservative voters",
+    "President Trump's pitch of a 5,000 dollar check tied to midterm control"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:50:09+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 934,
+  "veroeffentlicht": "2026-09-10T19:50:43+00:00",
+  "beschreibung": "The activist is credited for increasing support of conservative causes among young voters, but nobody has had a similar influence since Kirk was killed last year. Who may pick up the mantle, and will these voters continue to support conservatives?\n\nPlus, a discussion of President Trump's latest pitch to voters: a $5,000 check if Republicans maintain control of Congress after the midterms.\n\nThis episode: voting correspondent Miles Parks, political reporter Elena Moore, and senior national political correspondent Mara Liasson.\n\nThis podcast was produced and edited by Casey Morell and Bria Suggs.\n\nOur executive producer is Muthoni Muturi.\n\nSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.\n\nSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.\n\nNPR Privacy Policy",
+  "beschreibung_html": "The activist is credited for increasing support of conservative causes among young voters, but nobody has had a similar influence since Kirk was killed last year. Who may pick up the mantle, and will these voters continue to support conservatives?<br/><br/>Plus, a discussion of President Trump's latest pitch to voters: a $5,000 check if Republicans maintain control of Congress after the midterms.<br/><br/>This episode: voting correspondent Miles Parks, political reporter Elena Moore, and senior national political correspondent Mara Liasson.<br/><br/><em>This podcast was produced and edited by Casey Morell and Bria Suggs.</em><br/><br/><em>Our executive producer is Muthoni Muturi.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at </em><em><a href=\"http://plus.npr.org/\"target=\"_blank\"   >plus.npr.org</a></em><em>.</em><br><br/><br/>See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+  "bild_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F7c%2F8f855fb742ea92342ae2e27889ed%2F11c3b41e-7dc9-4475-8b0b-defb45c1e9be.jpg"
+}

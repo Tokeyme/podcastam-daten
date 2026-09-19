@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "WDR Zeitzeichen",
   "apple_collection_id": "206817194",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "/b483cd0af05d53e972715950302907d3",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/a44f362c-cfe6-4a24-a65d-c8ede8a3807d/a44f362c-cfe6-4a24-a65d-c8ede8a3807d_MP3-128.mp3",
+      "pfad": "/v1/episode/3fb59ac3115511eca6734680ea19351ecfc8314b.json",
+      "titel": "Die Akte Ötzi: Wie starb der Steinzeit-Mann?",
+      "veroeffentlicht": "2026-09-19T04:00:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Entdeckung der Gletschermumie Ötzi in den Ötztaler Alpen am 19. September 1991."
+    },
+    {
+      "guid": "/264cbdadc8ce2d00ba8644b9703437ae",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/14/55915a19-7201-4c66-8317-15fd55f1d377/55915a19-7201-4c66-8317-15fd55f1d377_MP3-128.mp3",
+      "pfad": "/v1/episode/00f134023792aabd3e293e068eca7bd66bf0bb6e.json",
+      "titel": "Kampf gegen die Revolution der Männer: Olympe de Gouges",
+      "veroeffentlicht": "2026-09-18T04:00:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Olympe de Gouges und ihr Kampf für die Rechte von Frauen in der Französischen Revolution"
+    },
+    {
+      "guid": "/626254e8d2eaa63371484ddb773a1c7d",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/08/6c3a75fc-1ee1-4d44-b04c-86f92de389bb/6c3a75fc-1ee1-4d44-b04c-86f92de389bb_MP3-128.mp3",
+      "pfad": "/v1/episode/fe3db1ece22e6f5f3887d2054a15bdc67ff5db5e.json",
+      "titel": "Die erste Langspielplatte war ein hitverdächtiger Flop",
+      "veroeffentlicht": "2026-09-17T04:00:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte der ersten Langspielplatte von 1931 und ihr später Erfolg"
+    },
+    {
+      "guid": "/8c9daad8d0edef6ddf58392135ffbff2",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/01/4ff118c8-542a-48f7-a3bc-021ee2ac5e11/4ff118c8-542a-48f7-a3bc-021ee2ac5e11_MP3-128.mp3",
+      "pfad": "/v1/episode/ea147acdd499d1bcf041fa6cfda16cbbe53851eb.json",
+      "titel": "Hitlers jüdische Prinzessin: Stephanie von Hohenlohe",
+      "veroeffentlicht": "2026-09-16T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das Leben der Spionin und Hitler-Vertrauten Stephanie von Hohenlohe"
+    },
+    {
+      "guid": "/f7c6abc932ab53212e05c8898eb2af94",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/08/d643f3ef-f001-4de4-8972-3b248e1c5dfc/d643f3ef-f001-4de4-8972-3b248e1c5dfc_MP3-128.mp3",
+      "pfad": "/v1/episode/5f029af9025f3ab301e22463fe514a2f98969de5.json",
+      "titel": "Erster Schwarzer Staatsbürger Deutschlands: Mandenga Diek",
+      "veroeffentlicht": "2026-09-15T04:00:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Lebensweg von Mandenga Diek, dem ersten Schwarzen Staatsbürger im Kaiserreich"
+    },
+    {
+      "guid": "/f9c8bb3ca2bedc58c1b0b2e70bf7af56",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/01/03ecfcf1-6285-404d-a1d2-3e56203bbdf9/03ecfcf1-6285-404d-a1d2-3e56203bbdf9_MP3-128.mp3",
+      "pfad": "/v1/episode/884edba888ef708cba893dd595b6c65305098bd7.json",
+      "titel": "Dante Alighieri: Wie die Hölle einen Dichter unsterblich macht",
+      "veroeffentlicht": "2026-09-14T04:00:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Leben und Werk des Dichters Dante Alighieri und der Einfluss der Göttlichen Komödie."
+    },
+    {
+      "guid": "/be0287d2b2561add8c0582e4a6e80cc1",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/02/c03ea006-9388-405d-9096-7e8a8d1663aa/c03ea006-9388-405d-9096-7e8a8d1663aa_MP3-128.mp3",
+      "pfad": "/v1/episode/f879a72d295b39f6199f8fbefa7c72fa970a57b9.json",
+      "titel": "Albert Einstein und Mileva Marić: Eine Lovestory ohne Happy End",
+      "veroeffentlicht": "2026-09-13T04:00:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Beziehung von Albert Einstein und Mileva Marić von 1896 bis zur Trennung."
+    },
+    {
+      "guid": "/a026645483036d8542bfc6673eaef2aa",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/07/7f7f9b50-e9a4-475c-b54d-489f6b9e3c0d/7f7f9b50-e9a4-475c-b54d-489f6b9e3c0d_MP3-128.mp3",
+      "pfad": "/v1/episode/41ed745ef7cc82790ed2aee5d210a7503adaa21e.json",
+      "titel": "Das wahre \"Danish Girl\": Transgender-Pionierin Lili Elbe",
+      "veroeffentlicht": "2026-09-12T04:00:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das Leben der Transgender-Pionierin und Malerin Lili Elbe"
+    },
+    {
+      "guid": "/af47e5fb43c6baa8f6c9d5ba2f6bc039",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/25/48e6c5b2-6209-4ce1-bb61-94c5ebbb68a1/48e6c5b2-6209-4ce1-bb61-94c5ebbb68a1_MP3-128.mp3",
+      "pfad": "/v1/episode/9f89e2761f695660a1d3802ddc7401913431090c.json",
+      "titel": "Die Saudi-Connection: Verheimlichte Spuren von 9/11",
+      "veroeffentlicht": "2026-09-11T04:00:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hintergründe und offene Fragen zur Rolle Saudi-Arabiens bei den Anschlägen vom 11.…"
+    },
+    {
+      "guid": "/2eeb5f45847c3beedbc322834ffc3380",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/26/e62d852d-2fda-4a60-b421-4df25485632a/e62d852d-2fda-4a60-b421-4df25485632a_MP3-128.mp3",
+      "pfad": "/v1/episode/41237ee8b56d9b6320170decf9236f519b8cc7a9.json",
+      "titel": "Frieden in Europa: Deutschland tritt dem Völkerbund bei",
+      "veroeffentlicht": "2026-09-10T04:00:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Deutschlands Eintritt in den Völkerbund im September 1926"
+    },
     {
       "guid": "/cf61b53f997d88c770eca65587d088e3",
       "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/06/1f58b1be-3a02-4c18-b676-ee1606a4be6b/1f58b1be-3a02-4c18-b676-ee1606a4be6b_MP3-128.mp3",

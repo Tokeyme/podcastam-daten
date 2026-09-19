@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "-纵横说-",
   "apple_collection_id": "6802993620",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "6a9e5829f03e74ee6b0654f9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a9e5829f03e74ee6b0654f9/media.xyzcdn.net/65aa24db7a25782e57f796c9/lijx-d_bBqt2dS5kNAAO0ghvbN1m.m4a",
+      "pfad": "/v1/episode/5c66309ea5d35bf089a0d5e780f06c866172ad2f.json",
+      "titel": "负重的“抵抗”：伊朗何以成为今天的伊朗？",
+      "veroeffentlicht": "2026-09-07T06:34:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从历史脉络理解伊朗的复杂历史与现实"
+    },
+    {
+      "guid": "6a911aeaa0210c197dc97f27",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a911aeaa0210c197dc97f27/media.xyzcdn.net/65aa24db7a25782e57f796c9/loROhJPupERugjUX3JqXbSD9xmEg.m4a",
+      "pfad": "/v1/episode/c3e2bfadab4af631c29d2037dd03a521c263e529.json",
+      "titel": "“神造帝国”与“天使孔子”：谁在替阿拉伯人想象中国？",
+      "veroeffentlicht": "2026-08-28T05:27:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨阿拉伯世界对中国的认知及其背后的西方视角与历史叙事。"
+    },
     {
       "guid": "6a79890f17676351c56f8ffb",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a79890f17676351c56f8ffb/media.xyzcdn.net/65aa24db7a25782e57f796c9/lm0l16pC8P_ga0_vbxob0E0Pyd4T.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨沈阳西塔街区近四百年历史及其折射出的微观全球史"
+    },
+    {
+      "guid": "6a7163c4ab3a91c24a0f7252",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a7163c4ab3a91c24a0f7252/media.xyzcdn.net/65aa24db7a25782e57f796c9/lotia_stPsMcU-IPV_1LPnDCVsoK.m4a",
+      "pfad": "/v1/episode/eb6bc8da01991fde90ea2ce3243e55b11fdfb327.json",
+      "titel": "Kimi K3何以撕裂硅谷？开源之争背后的政治经济学与暗黑技术哲学",
+      "veroeffentlicht": "2026-08-04T04:04:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Kimi K3开源引发的硅谷震荡与政治经济学博弈"
+    },
+    {
+      "guid": "6a6738d256a3f3491ba5c008",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a6738d256a3f3491ba5c008/media.xyzcdn.net/65aa24db7a25782e57f796c9/lo8CanhOuy3imf8tYSIr6JUVzSXx.m4a",
+      "pfad": "/v1/episode/75bec9a8d7ae9540c0da3831770f3136c93e3573.json",
+      "titel": "当“超级企业”被迫“讲政治”：产业已经成为大国竞争主战场",
+      "veroeffentlicht": "2026-07-27T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨巨型企业在大国博弈中的角色及产业政治的时代逻辑"
+    },
+    {
+      "guid": "6a587b92016dcc7e05430eb9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a587b92016dcc7e05430eb9/media.xyzcdn.net/65aa24db7a25782e57f796c9/lpmiSpLzViczp75k5UzbwR1xO1oF.m4a",
+      "pfad": "/v1/episode/a7ce37e19e7a626b431dd5c364af434699c4c01d.json",
+      "titel": "陆铭：经济学研究“过度模型化”：一场集体无意识的范式内卷",
+      "veroeffentlicht": "2026-07-16T06:42:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨经济学研究方法中的过度模型化现象及其反思"
+    },
+    {
+      "guid": "6a420a482e335a35a80b1100",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a420a482e335a35a80b1100/media.xyzcdn.net/65aa24db7a25782e57f796c9/lld7mNWTfyyi3lsW9-ucCjS0CeQt.m4a",
+      "pfad": "/v1/episode/784e2f9fc40393ae848f8aef456dda578c8f1acf.json",
+      "titel": "战争夹缝中的海湾国家，正在选择不同的路",
+      "veroeffentlicht": "2026-06-29T06:13:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "海湾国家在战争夹缝中的安全困境与经济多元化转型"
+    },
+    {
+      "guid": "6a38e279608f69578bd8079b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a38e279608f69578bd8079b/media.xyzcdn.net/65aa24db7a25782e57f796c9/lii9HTnUvcJlHTbVvQ3rfqY-pPNd.m4a",
+      "pfad": "/v1/episode/4f7b98be141d50e7d806496fb7ea576cdf652ff6.json",
+      "titel": "当下全球南方最值得关注的事，是非洲家庭选择买中国车、学普通话？",
+      "veroeffentlicht": "2026-06-22T07:31:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨全球南方的想象转变、国际秩序变化及中国在其中的角色"
+    },
+    {
+      "guid": "6a2f99324233e62bc54a1084",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a2f99324233e62bc54a1084/media.xyzcdn.net/65aa24db7a25782e57f796c9/lrgH1x5pt7p6bgAUuX-0ppg6lulE.m4a",
+      "pfad": "/v1/episode/3d054cdea145c579f549c6f1e34ab63484cd72b8.json",
+      "titel": "中国人如何教非洲农民种蘑菇 | 社会学博士勇闯东非三国",
+      "veroeffentlicht": "2026-06-15T06:32:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中国社会学博士分享在东非三国调研与参与国际发展合作项目的经历。"
+    },
+    {
+      "guid": "6a27d5b2b30e1571aea34353",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6a27d5b2b30e1571aea34353/media.xyzcdn.net/65aa24db7a25782e57f796c9/luW9h8xYMxp3WpE5nqbIx0vvOLhr.m4a",
+      "pfad": "/v1/episode/650694111eeca601c6375a1bdddd2d88b703de40.json",
+      "titel": "如果维京人到达美洲是全球化的开始，为什么非洲人迁徙不能是？ | 纵横说×季风实验室",
+      "veroeffentlicht": "2026-06-09T09:15:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨“全球南方”的历史脉络、话语兴起与中国视角的自主知识体系构建"
     }
   ]
 }

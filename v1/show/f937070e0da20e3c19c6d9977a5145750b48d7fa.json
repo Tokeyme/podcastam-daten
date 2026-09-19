@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "哈利播客",
   "apple_collection_id": "1440694407",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "https://hlbk.lol/episodes/hp2commentary",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "两位主播边看电影边吐槽《哈利·波特与密室》的加长版细节与原著差异。"
+    },
+    {
+      "guid": "https://hlbk.lol/episodes/myclub",
+      "audio_url": "https://r.typlog.com/eyJzIjoxNjAyLCJlIjo5Nzk5LCJ0IjoxfQ.cDsjsBCojisY8ubMlOSAx6XruBk/haliboke/8370638345_3027725.mp3",
+      "pfad": "/v1/episode/5cc17db6350b07af603f23dc1d4e673be2e65324.json",
+      "titel": "大放厥词的直播录音回放",
+      "veroeffentlicht": "2021-08-19T08:32:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾五月份在直播间接受采访的录音，聊聊关于哈利波特的各种话题。"
     }
   ]
 }

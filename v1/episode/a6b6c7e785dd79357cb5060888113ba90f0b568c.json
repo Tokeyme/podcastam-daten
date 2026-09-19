@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "4794c7c0-9d51-11f1-ba91-c33a6dfe1cd2",
+  "apple_collection_id": "751574016",
+  "show": "All Ears English Podcast",
+  "titel": "AEE 2683: Let’s Clean Out the Pantry! Ways To Describe Old, Rotting Food",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/ALLE2218810682.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:10:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "描述过期与变质食物的关键英语词汇。",
+  "kurzfassung": "本期节目主要探讨如何用英语描述过期和变质的食物。听众将学习到相关的核心词汇和表达方式。内容专注于日常生活中的实用英语词汇扩展。",
+  "stichpunkte": [
+    "清理储藏室的英语表达",
+    "描述旧食物的关键词",
+    "变质食物的英语形容方式"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:10:02+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1308,
+  "veroeffentlicht": "2026-09-08T17:00:00+00:00",
+  "beschreibung": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.\n\nDo you love All Ears English? Try our other podcasts here:\n\nBusiness English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey\n\nIELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes\n\nVisit our website here or https://lnk.to/website-sn\n\nIf you love this podcast, hit the follow button now so that you don't miss five fresh and fun episodes every single week.\n\nDon’t forget to leave us a review wherever you listen to the show.\n\nSend your English question or episode topic idea to support@allearsenglish.com\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>Want to know your English level? Take our <a href=\"https://lnk.to/fluency-quiz-sn\"><u>free English-level quiz</u></a> here to find out what your current English level is.&nbsp;</p>\n<p>Do you love All Ears English?&nbsp; Try our other podcasts here:</p>\n<p><a href=\"https://lnk.to/business-sn\"><u>Business English Podcast</u></a>: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey</p>\n<p><a href=\"https://lnk.to/ielts-sn\"><u>IELTS Energy Podcast</u></a>: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes</p>\n<p>Visit our website<a href=\"https://www.allearsenglish.com/\"><u> </u></a><a href=\"https://lnk.to/website-sn\"><u>here</u></a> or <a href=\"https://lnk.to/website-sn\"><u>https://lnk.to/website-sn</u></a></p>\n<p>If you love this podcast, hit the follow button now so that you don't miss five fresh and fun episodes every single week.&nbsp;</p>\n<p>Don’t forget to leave us a review wherever you listen to the show.</p>\n<p>Send your English question or episode topic idea to support@allearsenglish.com</p>\n<p><br>\n\n</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "untertitel": "Find out the key words to use to describe old food",
+  "bild_url": "https://megaphone.imgix.net/podcasts/88b85f10-a0c0-11ec-9e52-bfcf9441f742/image/All_Ears_English_New_Cover_with_Michelle_Under_500_KB.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "folgennummer": 2683
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "tag:soundcloud,2010:tracks/1350204019",
+  "apple_collection_id": "1449884495",
+  "show": "Fall of Civilizations Podcast",
+  "titel": "16. Bagan - City Of Temples",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/APO7784777580.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:46:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "The history and collapse of the medieval Bagan Empire in Myanmar.",
+  "kurzfassung": "This episode explores the history of the Bagan Empire in Myanmar. It examines the rise of the kingdom in the Irrawaddy river valley and its construction of thousands of temples. Finally, it looks at daily life and the reasons behind the civilization's sudden collapse.",
+  "stichpunkte": [
+    "Remains of thousands of temples in the Burmese lowlands",
+    "Rise of the Bagan Empire in the Irrawaddy river valley of central Myanmar",
+    "Construction of remarkable medieval monuments",
+    "Daily life for the people of the Bagan Empire",
+    "Causes of the civilization's sudden and complete collapse"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:46:22+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 7625,
+  "veroeffentlicht": "2022-10-02T11:35:04+00:00",
+  "beschreibung": "In the lowlands of Burma lie the remains of thousands of crumbling temples...In this episode, we tell one of the most colourful stories of civilizational survival: the story of the Bagan Empire of Myanmar. Find out how this kingdom rose up in the Irrawaddy river valley of central Myanmar, and built one of the most remarkable series of monuments to have survived from the medieval world. Discover what life was like for the people who lived there, and find out what happened to cause its sudden and complete collapse.",
+  "beschreibung_html": "In the lowlands of Burma lie the remains of thousands of crumbling temples...In this episode, we tell one of the most colourful stories of civilizational survival: the story of the Bagan Empire of Myanmar. Find out how this kingdom rose up in the Irrawaddy river valley of central Myanmar, and built one of the most remarkable series of monuments to have survived from the medieval world. Discover what life was like for the people who lived there, and find out what happened to cause its sudden and complete collapse.",
+  "bild_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43131353/87eee6ffc319504c.jpg"
+}

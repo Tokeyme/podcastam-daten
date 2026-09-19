@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "HiMeida 科技新媒体",
   "apple_collection_id": "893495919",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2016/02/07/2515968686102172678_hd.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨年末互联网公司的年终奖风波及支付宝与微信的春节红包大战。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/01/15/2511715328450548742_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/01/15/2511715328450548742_hd.mp3",
+      "pfad": "/v1/episode/aa7087f3b4a425d690d2ffb02a47c01301d78024.json",
+      "titel": "#38：抓住那个骗子！",
+      "veroeffentlicht": "2016-01-15T13:52:34+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨常见的网络诈骗手段及应对骗局的思考方式。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2015/12/06/2504289145312694790_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2015/12/06/2504289145312694790_hd.mp3",
+      "pfad": "/v1/episode/c85a4b57d126c180ea7c032c84ef715e2f3d9c8f.json",
+      "titel": "#35：一道艰难的选择题",
+      "veroeffentlicht": "2015-12-06T13:20:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨数码产品到人生方向的各种“A或B”艰难选择题"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2015/11/15/2500432172338491398_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2015/11/15/2500432172338491398_hd.mp3",
+      "pfad": "/v1/episode/f3dea2b014faee7087003b32c58bfce9f8e0dff3.json",
+      "titel": "#32：午后闲聊，关于数字营销的一些分享 with 达野电台",
+      "veroeffentlicht": "2015-11-15T18:21:09+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨数字营销领域的运作逻辑与工作经验"
     }
   ]
 }

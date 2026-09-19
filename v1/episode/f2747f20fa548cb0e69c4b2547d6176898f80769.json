@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0ny2bm8",
+  "apple_collection_id": "262026947",
+  "show": "6 Minute English",
+  "titel": "What's in a footballer's brain?",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny289g.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:53:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "精英足球俱乐部如何利用神经科学提升球员表现",
+  "kurzfassung": "足球运动员的速度比以往任何时候都快，每一个微小的决定都至关重要。顶尖俱乐部正在借助神经科学来理解球员如何能够更快地思考、做决定和发挥水平。本期节目探讨了这一现象并介绍了相关词汇。",
+  "stichpunkte": [
+    "现代足球比赛中每一个微小决定都很关键",
+    "精英足球俱乐部转向利用神经科学研究",
+    "探讨球员如何在高压下更快地思考和决策",
+    "节目中讲解了相关的英语词汇"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:53:44+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 389,
+  "veroeffentlicht": "2026-07-16T14:00:00+00:00",
+  "beschreibung": "Football players are faster than ever before. But in a game where every tiny decision counts, elite clubs are turning to neuroscience to understand how players can think, decide and perform even faster. Neil and Georgie discuss this and teach you some new vocabulary.\nGet a free worksheet, quiz and transcript for this episode: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260716\nPractise your listening with The Listening Room here:\nhttps://www.bbc.co.uk/learningenglish/english/features/the_listening_room\nSubscribe to our newsletters here:\nhttps://www.bbc.co.uk/send/u178220599",
+  "beschreibung_html": "<p>Football players are faster than ever before. But in a game where every tiny decision counts, elite clubs are turning to neuroscience to understand how players can think, decide and perform even faster. Neil and Georgie discuss this and teach you some new vocabulary.</p><p>Get a free worksheet, quiz and transcript for this episode: <a href=\"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260716\">https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260716</a></p><p>Practise your listening with The Listening Room here:\n<a href=\"https://www.bbc.co.uk/learningenglish/english/features/the_listening_room\">https://www.bbc.co.uk/learningenglish/english/features/the_listening_room</a></p><p>Subscribe to our newsletters here:\n<a href=\"https://www.bbc.co.uk/send/u178220599\">https://www.bbc.co.uk/send/u178220599</a></p>",
+  "untertitel": "How do footballers cope with high pressure scenarios like penalties and corners?",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg"
+}

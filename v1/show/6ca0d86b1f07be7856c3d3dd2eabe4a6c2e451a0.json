@@ -2,8 +2,68 @@
   "schema_version": 1,
   "show": "Stammplatz – Fußball News täglich",
   "apple_collection_id": "1608172567",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "81e371adaa7c40248f26002a1b2c936e",
+      "audio_url": "https://audio.podigee-cdn.net/2598572-m-97cb94bda0e81915938c38ca977dbb90.mp3?source=feed",
+      "pfad": "/v1/episode/a3ff5b4a11b579ebbe0aa51ff7fde883c57063ed.json",
+      "titel": "Bayern-Gala gegen Union! Klopps Torwart-Ranking! Neuer Trainer-Kandidat für Gladbach!",
+      "veroeffentlicht": "2026-09-18T22:02:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Bayern-Gala gegen Union, Klopps Torwart-Ranking und Gladbachs Trainersuche."
+    },
+    {
+      "guid": "9a17d55d281316e95b229631416990c1",
+      "audio_url": "https://audio.podigee-cdn.net/2597759-m-beb2ac6063435185f34d56154a70e2ae.mp3?source=feed",
+      "pfad": "/v1/episode/426fa0b50ce4b4c4955101b44a92ec95f41e2c51.json",
+      "titel": "Hoffenheim-Blamage auf Kreta! Vorschau Spieltag 4!",
+      "veroeffentlicht": "2026-09-17T22:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hoffenheims Auftakt-Niederlage auf Kreta und Vorschau auf den Bundesliga-Spieltag"
+    },
+    {
+      "guid": "93cb5d2a6558c9f02de6eabd5a026483",
+      "audio_url": "https://audio.podigee-cdn.net/2597297-m-5ec75dc6373a7d183098b232b39a0001.mp3?source=feed",
+      "pfad": "/v1/episode/61e5d85706b95e1bf9b71dee6ab3a6d32a6cf5c9.json",
+      "titel": "Unsere Blitz-Reaktion zum ersten Klopp-Kader!",
+      "veroeffentlicht": "2026-09-17T10:16:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Reaktion auf den ersten Kader von Jürgen Klopp"
+    },
+    {
+      "guid": "f2450fc3be30db527c3ec590ccbd31d4",
+      "audio_url": "https://audio.podigee-cdn.net/2597021-m-0ce9733a1c875ada473db5e394dc1052.mp3?source=feed",
+      "pfad": "/v1/episode/2308ad18c43152358abf176512536ee18cede0f0.json",
+      "titel": "Leverkusen startet mit Euro-Dreier! Klopp holt weitere DFB-Neulinge!",
+      "veroeffentlicht": "2026-09-16T22:25:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Leverkusen in der Europa League und neue DFB-Nominierungen von Jürgen Klopp."
+    },
+    {
+      "guid": "0ab4cc9b492e47cb3ce173fa7ba66de2",
+      "audio_url": "https://audio.podigee-cdn.net/2596055-m-c9529d1f357417eb609834915236cbe9.mp3?source=feed",
+      "pfad": "/v1/episode/fafd983a0019339bbcc263c738e3f69343d7f312.json",
+      "titel": "Erste Klopp-Namen sickern durch! Elversberg-Profi dabei! Ter Stegen wieder Nr. 1!",
+      "veroeffentlicht": "2026-09-15T22:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Erste Namen für Jürgen Klopps ersten DFB-Kader sickern durch"
+    },
+    {
+      "guid": "fcc1e48ce385a04ce8d150fb5e4db57b",
+      "audio_url": "https://audio.podigee-cdn.net/2595731-m-e9794757e99bc568217decca7ba6fab5.mp3?source=feed",
+      "pfad": "/v1/episode/62034df79025084fee899d48f59ddaf1a6a62bd7.json",
+      "titel": "Stammplatz VOLLEY: Von Ballon d'Or Favoriten und tragischen Helden der „Verlierer-Generation\"!",
+      "veroeffentlicht": "2026-09-15T13:53:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Tägliche Fußball-News und aktuelle Themen."
+    },
     {
       "guid": "676f1b348f21a0b770e8296de1ebd045",
       "audio_url": "https://audio.podigee-cdn.net/2574732-m-4b7a383d7965279b29fec031589bca85.mp3?source=feed",

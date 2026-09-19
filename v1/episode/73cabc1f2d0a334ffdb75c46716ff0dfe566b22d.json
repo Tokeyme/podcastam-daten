@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "7cd4efb4-9d51-11f1-9f11-679eecebd384",
+  "apple_collection_id": "751574016",
+  "show": "All Ears English Podcast",
+  "titel": "AEE 2684: Intimidated by Classic Literature? 3 Tips to Overcome It With Rebecca Schinsky",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/ALLE4167283710.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:10:01+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "如何克服对经典文学的畏难情绪并阅读更多书籍",
+  "kurzfassung": "本期节目邀请Rebecca Schinsky探讨如何克服阅读经典文学的心理障碍。嘉宾分享了三个实用建议，帮助英语学习者增加阅读量。节目旨在引导听众更轻松地接触经典文学作品。",
+  "stichpunkte": [
+    "探讨面对经典文学时的畏难情绪",
+    "Rebecca Schinsky分享三条克服阅读障碍的建议",
+    "提供关于如何阅读更多书籍的实用指导"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:10:01+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1388,
+  "veroeffentlicht": "2026-09-09T05:00:00+00:00",
+  "beschreibung": "Want to know your English level? Take our free English-level quiz here to find out what your current English level is.\n\nDo you love All Ears English? Try our other podcasts here:\n\nBusiness English Podcast: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey\n\nIELTS Energy Podcast: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes\n\nVisit our website here or https://lnk.to/website-sn\n\nIf you love this podcast, hit the follow button now so that you don't miss five fresh and fun episodes every single week.\n\nDon’t forget to leave us a review wherever you listen to the show.\n\nSend your English question or episode topic idea to support@allearsenglish.com\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>Want to know your English level? Take our <a href=\"https://lnk.to/fluency-quiz-sn\"><u>free English-level quiz</u></a> here to find out what your current English level is.&nbsp;</p>\n<p>Do you love All Ears English?&nbsp; Try our other podcasts here:</p>\n<p><a href=\"https://lnk.to/business-sn\"><u>Business English Podcast</u></a>: Improve your Business English with 3 episodes per week, featuring Lindsay, Michelle, and Aubrey</p>\n<p><a href=\"https://lnk.to/ielts-sn\"><u>IELTS Energy Podcast</u></a>: Learn IELTS from a former Examiner and achieve your Band 7 or higher, featuring Lindsay McMahon and Aubrey Carter with Jessica Beck in previous episodes</p>\n<p>Visit our website<a href=\"https://www.allearsenglish.com/\"><u> </u></a><a href=\"https://lnk.to/website-sn\"><u>here</u></a> or <a href=\"https://lnk.to/website-sn\"><u>https://lnk.to/website-sn</u></a></p>\n<p>If you love this podcast, hit the follow button now so that you don't miss five fresh and fun episodes every single week.&nbsp;</p>\n<p>Don’t forget to leave us a review wherever you listen to the show.</p>\n<p>Send your English question or episode topic idea to support@allearsenglish.com</p>\n<p><br>\n\n</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "untertitel": "Get advice from our guest on how to read more",
+  "bild_url": "https://megaphone.imgix.net/podcasts/88b85f10-a0c0-11ec-9e52-bfcf9441f742/image/All_Ears_English_New_Cover_with_Michelle_Under_500_KB.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "folgennummer": 2684
+}

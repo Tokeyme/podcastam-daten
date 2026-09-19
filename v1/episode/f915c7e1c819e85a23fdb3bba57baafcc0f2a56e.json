@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "5c05b7e7b59c97506349712703a1e535",
+  "apple_collection_id": "1619728114",
+  "show": "スポーツ報知 新聞ヘッドライン",
+  "titel": "スポーツ報知５月２５日",
+  "audio": {
+    "url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/5c05b7e7b59c97506349712703a1e535.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:00:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "スポーツ報知５月２５日の新聞ヘッドラインニュース。",
+  "kurzfassung": "番組では５月２５日のスポーツ報知の新聞ヘッドラインを紹介しています。プロ野球の試合結果や大相撲の取組模様を取り上げています。さらに、バスケットボール男子日本代表や芸能ニュースについても伝えています。",
+  "stichpunkte": [
+    "巨人の戸郷翔征投手が今季初の完封勝利",
+    "岡本和真内野手が決勝の９号ソロ本塁打",
+    "ロッテが今季最多の１３安打１１得点で６連勝",
+    "朝乃山が１０勝目を挙げ幕内２００勝を達成",
+    "バスケットボール男子日本代表のトム・ホーバス監督のコメント",
+    "和牛の水田信二の結婚発表"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:00:13+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 101,
+  "veroeffentlicht": "2023-05-24T23:48:00+09:00",
+  "beschreibung": "報知新聞社がお伝えする、スポーツ報知の新聞ヘッドライン。５月２５日。／巨人の戸郷翔征投手がＤｅＮＡ戦で今季初の完封を、自身初の１―０でマーク。リーグトップに並ぶ５勝目を挙げた。岡本和真内野手は２回に決勝点となる９号ソロを放ち、今季初の３戦連発でリーグトップに並んだ。／ロッテ安田ひさのり内野手が自身２度目となる２打席連続弾を含む３安打、自己最多６打点と大暴れした。チームも今季最多１３安打１１得点の猛攻で２年ぶり６連勝。貯金を今季最多１０とし、２差単独首位をキープした。／元大関で東前がしら１４枚目の朝乃山が、薄氷の白星で１敗とトップの座を死守した。２敗の東前がしら６枚目のめいせいに追い込まれたが、起死回生の突き落とし。１０勝目を挙げ、幕内２００勝の節目ともなった。／２４年パリ五輪の出場権を懸けたバスケットボール男子ワールドカップは、２５日で開幕まであと３か月。日本代表のトム・ホーバス監督は、４８年ぶりの自力五輪切符獲得に「自信はある」と語った。／お笑いコンビ「和牛」の水田信二が２４日、大阪で開催したトークライブ「ＦＣはやし　みずたの逃走中マネーで淡路島合宿」でキャスターの山本萩子と結婚したことを発表した。",
+  "beschreibung_html": "報知新聞社がお伝えする、スポーツ報知の新聞ヘッドライン。５月２５日。／巨人の戸郷翔征投手がＤｅＮＡ戦で今季初の完封を、自身初の１―０でマーク。リーグトップに並ぶ５勝目を挙げた。岡本和真内野手は２回に決勝点となる９号ソロを放ち、今季初の３戦連発でリーグトップに並んだ。／ロッテ安田ひさのり内野手が自身２度目となる２打席連続弾を含む３安打、自己最多６打点と大暴れした。チームも今季最多１３安打１１得点の猛攻で２年ぶり６連勝。貯金を今季最多１０とし、２差単独首位をキープした。／元大関で東前がしら１４枚目の朝乃山が、薄氷の白星で１敗とトップの座を死守した。２敗の東前がしら６枚目のめいせいに追い込まれたが、起死回生の突き落とし。１０勝目を挙げ、幕内２００勝の節目ともなった。／２４年パリ五輪の出場権を懸けたバスケットボール男子ワールドカップは、２５日で開幕まであと３か月。日本代表のトム・ホーバス監督は、４８年ぶりの自力五輪切符獲得に「自信はある」と語った。／お笑いコンビ「和牛」の水田信二が２４日、大阪で開催したトークライブ「ＦＣはやし　みずたの逃走中マネーで淡路島合宿」でキャスターの山本萩子と結婚したことを発表した。",
+  "bild_url": "https://api.robotstart.jp/storage/12780/UVY7c9Vp2JAxywPElPyjtSCuKZToUGtv6ANCxssi.png"
+}

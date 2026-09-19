@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "宅道出遊",
   "apple_collection_id": "1533676657",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "da731283-c031-4d83-91c4-caf5582a76eb",
+      "audio_url": "https://rss.soundon.fm/rssf/1ab11d67-1444-4b40-b620-abd62b1c4924/feedurl/da731283-c031-4d83-91c4-caf5582a76eb/rssFileVip.mp3?timestamp=1789381870065",
+      "pfad": "/v1/episode/4dea58a066feec79bff8f117dc19b136de45eb7f.json",
+      "titel": "EP272｜【宅A真怕了】Endacopia",
+      "veroeffentlicht": "2026-09-13T16:07:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨独立游戏Endacopia的风格与世界观"
+    },
+    {
+      "guid": "881e6e36-2f23-4d07-9f5c-6ee05947a523",
+      "audio_url": "https://rss.soundon.fm/rssf/1ab11d67-1444-4b40-b620-abd62b1c4924/feedurl/881e6e36-2f23-4d07-9f5c-6ee05947a523/rssFileVip.mp3?timestamp=1789099520429",
+      "pfad": "/v1/episode/0fd99ede27986cd968d1c44fd8f0968c4fb25576.json",
+      "titel": "EP271｜【讓我看看】遊戲王世界賽心得/GTA 6/聽眾回信",
+      "veroeffentlicht": "2026-09-06T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨游戏王2026世界赛看点与机制问题，以及《GTA 6》实机游玩预告的观后感。"
+    },
+    {
+      "guid": "0f0a1b8c-ec2d-4425-bbda-1f345101acd9",
+      "audio_url": "https://rss.soundon.fm/rssf/1ab11d67-1444-4b40-b620-abd62b1c4924/feedurl/0f0a1b8c-ec2d-4425-bbda-1f345101acd9/rssFileVip.mp3?timestamp=1788259597523",
+      "pfad": "/v1/episode/0cd45d0abd72ef03d106974a5c0eeb30dbd44b5d.json",
+      "titel": "EP270｜【超現實主義】稗子 The Dream Of A Cockspur/聽眾回信",
+      "veroeffentlicht": "2026-08-23T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨独立游戏《稗子》与听众来信"
+    },
     {
       "guid": "2073f832-5201-4294-bd7a-5a08527d5c0a",
       "audio_url": "https://rss.soundon.fm/rssf/1ab11d67-1444-4b40-b620-abd62b1c4924/feedurl/2073f832-5201-4294-bd7a-5a08527d5c0a/rssFileVip.mp3?timestamp=1786882097671",

@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "dfc84eb3dda9699c71d1613f0f2fcd0b",
+      "audio_url": "https://audio.podigee-cdn.net/2598210-m-c9ecc545b6132a7f5df75db676ecdb76.mp3?source=feed",
+      "pfad": "/v1/episode/964ca6fd238fa5a7819ced70b9db658d9c61956d.json",
+      "titel": "Deutschland hat verlernt zu Streiten. Mit Christoph Werner (dm-Chef)",
+      "veroeffentlicht": "2026-09-19T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Paul Ronzheimer im Gespräch mit dm-Chef Christoph Werner über Wirtschaft und Politik"
+    },
+    {
+      "guid": "e2e4089d7a1545a3223e8ff03abfcacf",
+      "audio_url": "https://audio.podigee-cdn.net/2596939-m-3bcf842c728ee280bb0bcec1500a5c39.mp3?source=feed",
+      "pfad": "/v1/episode/f4350066f5f47609acac459b5f378e654dfd9944.json",
+      "titel": "Jetzt kämpft Trump um die gefährlichste Technologie der Welt. Mit Marie-Astrid Langer",
+      "veroeffentlicht": "2026-09-18T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "KI-Sicherheit im Konflikt mit US-Geopolitik unter Trump"
+    },
+    {
+      "guid": "b0c166134a6bebc7cdf44519c27d6621",
+      "audio_url": "https://audio.podigee-cdn.net/2596990-m-2b550df54cab3eea332aeef9f9b508d4.mp3?source=feed",
+      "pfad": "/v1/episode/a45a7ccdc8d58c6c14bffedfc99b29aa9330328d.json",
+      "titel": "Inside Kanzleramt: Wie Merz um seine Macht kämpft. Mit Michael Bröcker",
+      "veroeffentlicht": "2026-09-17T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Machtkampf in der Union und die politische Zukunft von Friedrich Merz"
+    },
+    {
+      "guid": "8055d5d2b863d87ba6ff36508219a64e",
+      "audio_url": "https://audio.podigee-cdn.net/2595784-m-736f9fb9ed44e8e19fdb6ecedc453505.mp3?source=feed",
+      "pfad": "/v1/episode/06ff5e7792251574075d335f2e03c3016ab1bcc5.json",
+      "titel": "Jetzt beginnt der Kanzler-Krimi. Mit Roland Koch",
+      "veroeffentlicht": "2026-09-16T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Roland Koch über Friedrich Merz, die Krise der Union und den Kanzler-Krimi."
+    },
+    {
+      "guid": "5e8dade7b069aeba51d0de89908d395b",
+      "audio_url": "https://audio.podigee-cdn.net/2594853-m-ca64ecbfa8ced0ea4afe0c2fdeca5026.mp3?source=feed",
+      "pfad": "/v1/episode/e38993e263c9a3f96e60e9dd28df60f91104f4ea.json",
+      "titel": "Plötzlich steht Trump unter riesigem Druck. Mit Constanze Stelzenmüller",
+      "veroeffentlicht": "2026-09-15T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Druck auf Donald Trump sieben Wochen vor den Midterms"
+    },
+    {
+      "guid": "bc9e6a70a1ec19e800cc5bbdbdd58123",
+      "audio_url": "https://audio.podigee-cdn.net/2593892-m-3cd7e351d7480fcae98cd6e65b03a9ab.mp3?source=feed",
+      "pfad": "/v1/episode/9c469d90584a8035bf3421811de3347ba3373de6.json",
+      "titel": "Stürzt Merz? / Wer Kanzler werden könnte",
+      "veroeffentlicht": "2026-09-14T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Zweifel an Friedrich Merz und mögliche Szenarien für einen Kanzlerwechsel."
+    },
+    {
+      "guid": "fd917776d638e7b878fd8d9b583f8c58",
+      "audio_url": "https://audio.podigee-cdn.net/2593292-m-ea23d52545928ca047cc6d67b7f17d7e.mp3?source=feed",
+      "pfad": "/v1/episode/7a85a84ee04cb6e5da6142373797ea3de4610b93.json",
+      "titel": "STREIT: Braucht Deutschland die AfD-Wende? Andreas Rödder vs. Justus Bender (2/2)",
+      "veroeffentlicht": "2026-09-13T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Debatte über den künftigen Umgang der Union mit der AfD nach Rekordergebnissen."
+    },
+    {
+      "guid": "8e0e5a0c9be271229f6be36500a89b25",
+      "audio_url": "https://audio.podigee-cdn.net/2593073-m-6505713f7e10f383f396439c2c419334.mp3?source=feed",
+      "pfad": "/v1/episode/009a48d93a88d9b203f2b05a043098ec4f74fdb2.json",
+      "titel": "ZEITREISE: Angriff auf Amerika: Die unbequeme Geschichte über 9/11. Mit Wolfgang Ischinger",
+      "veroeffentlicht": "2026-09-12T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wolfgang Ischinger über den 11. September 2001 als deutscher Botschafter in Washington"
+    },
+    {
+      "guid": "231d1992df3c6d4f0b0eda212a2054a7",
+      "audio_url": "https://audio.podigee-cdn.net/2592721-m-9825867c6b188f392fa8c97284772343.mp3?source=feed",
+      "pfad": "/v1/episode/a010bf157e259e99da7333001f40057f1af99c87.json",
+      "titel": "STREIT: War die Brandmauer ein Fehler? Andreas Rödder vs. Justus Bender (1/2)",
+      "veroeffentlicht": "2026-09-12T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Diskussion über die Ursachen des AfD-Aufstiegs und die Wirkung der Brandmauer."
+    },
+    {
+      "guid": "5b065a8a6cc14cb0af7367676162c96f",
+      "audio_url": "https://audio.podigee-cdn.net/2592024-m-434415e077eb4eac514215535b28d30e.mp3?source=feed",
+      "pfad": "/v1/episode/44190c83627b65ff0c47b05db83867bb1a3db07b.json",
+      "titel": "Plötzlich hat die AfD ein Machtproblem. Mit Annika Leister",
+      "veroeffentlicht": "2026-09-11T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Regierungsbildung in Sachsen-Anhalt nach AfD-Wahlsieg und offene Machtfrage"
+    },
     {
       "guid": "75c4ac09a24494fa5ea850c299e71412",
       "audio_url": "https://audio.podigee-cdn.net/2574431-m-6086b1f770ac308671160a582f8eb27a.mp3?source=feed",

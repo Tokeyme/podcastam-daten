@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "guid": "b13c880c-24d2-4538-8fe0-75353556d90c",
+  "apple_collection_id": "1568289153",
+  "show": "CheckPod - Der Podcast mit Checker Tobi",
+  "titel": "CheckPod Klassiker: Zähne | Von Zahnpasta und Vampiren",
+  "audio": {
+    "url": "https://media.neuland.br.de/file/2120610/c/feed/checkpod-klassiker-zaehne-von-zahnpasta-und-vampiren.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:48:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Alles über Zähne: Verschiedene Größen, Inhaltsstoffe von Zahnpasta und Vampirzähne.",
+  "kurzfassung": "Diese Folge widmet sich dem Thema Zähne aus der ersten Staffel des CheckPod. Es wird untersucht, warum Menschen unterschiedlich große Zähne haben. Zudem stehen die Inhaltsstoffe von Zahnpasta und die Frage nach echten Vampirzähnen im Fokus.",
+  "stichpunkte": [
+    "Unterschiedliche Größen von Zähnen",
+    "Inhaltsstoffe von Zahnpasta",
+    "Die Frage nach Vampirzähnen"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:48:46+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1273,
+  "veroeffentlicht": "2026-07-24T06:00:00+02:00",
+  "beschreibung": "Hier sind sie wieder und verkürzen euch die Sommerpause: Die Folgen der ersten CheckPod-Staffel. Hier wird gecheckt, warum wir so unterschiedlich große Zähne haben, was in der Zahnpasta drin ist und ob es wirklich Vampirzähne gibt? (Autorin: Annabelle Zametzer)\nHier geht es zum Podcast-Tipp \"Lachlabor\"\n\nPsst … wir haben noch einen Tipp für dich: In ARD Sounds hörst du jetzt schon die allerneueste Folge vom Checkpod: Checkpod, der Podcast mit Checker Tobi",
+  "beschreibung_html": "<p>Hier sind sie wieder und verkürzen euch die Sommerpause: Die Folgen der ersten CheckPod-Staffel. Hier wird gecheckt, warum wir so unterschiedlich große Zähne haben, was in der Zahnpasta drin ist und ob es wirklich Vampirzähne gibt? (Autorin: Annabelle Zametzer)</p><p>Hier geht es zum Podcast-Tipp <a href=\"https://1.ard.de/lachlabor\">&quot;Lachlabor&quot;</a></p>\n\n<p><strong>Psst … wir haben noch einen Tipp für dich: In ARD Sounds hörst du jetzt schon die allerneueste Folge vom Checkpod: </strong><a href=\"https://1.ard.de/checkpod-checker-tobi\">Checkpod, der Podcast mit Checker Tobi </a></p>",
+  "bild_url": "https://img.br.de/8a423df4-e8d6-4f45-a38e-4d319b26654c.jpeg?w=1800"
+}

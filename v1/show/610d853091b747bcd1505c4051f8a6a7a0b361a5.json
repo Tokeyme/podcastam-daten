@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "Radiowissen",
   "apple_collection_id": "257719552",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "06489074-beb9-4313-bff1-3cc550eed38e",
+      "audio_url": "https://media.neuland.br.de/file/2122167/c/feed/vom-waschbrett-zum-smarten-geraet-wie-eine-erfindung-die-welt-veraenderte.mp3",
+      "pfad": "/v1/episode/ff777b8e6a0ae59ed8c7446e8c21e052417065e3.json",
+      "titel": "Vom Waschbrett zum smarten Gerät – Wie eine Erfindung die Welt veränderte",
+      "veroeffentlicht": "2026-09-17T03:15:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie das Waschen vom körperlichen Kraftakt zum modernen Haushaltsgerät wurde."
+    },
+    {
+      "guid": "d34bff06-33a2-4500-8833-0911d1bd17fd",
+      "audio_url": "https://media.neuland.br.de/file/2109862/c/feed/gestylte-naegel-vom-luxussymbol-zur-mainstream-mode.mp3",
+      "pfad": "/v1/episode/d87b570408bc6f246adbc1ab262b99094a5d61f9.json",
+      "titel": "Gestylte Nägel: Vom Luxussymbol zur Mainstream-Mode",
+      "veroeffentlicht": "2026-09-17T03:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Entwicklung von gestylten Nägeln vom Luxussymbol zur Mainstream-Mode"
+    },
+    {
+      "guid": "78b83e1f-a00d-44ae-84c7-e79daf3e21ec",
+      "audio_url": "https://media.neuland.br.de/file/2109301/c/feed/die-geschichte-des-panzers-eine-neue-dimension-im-krieg.mp3",
+      "pfad": "/v1/episode/e17eb9af0c71b805b5e48dd829b75b5719cf5a90.json",
+      "titel": "Die Geschichte des Panzers - Eine neue Dimension im Krieg",
+      "veroeffentlicht": "2026-09-16T03:05:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte des Panzers als effizientes Kriegsgerät"
+    },
+    {
+      "guid": "154fcb16-1e2d-4640-b533-7b0b698dbe43",
+      "audio_url": "https://media.neuland.br.de/file/2122127/c/feed/tiefe-geothermie-energie-der-zukunft-2.mp3",
+      "pfad": "/v1/episode/fdd2c26faaeebd8f2a3247fc96f21dddcd73e33e.json",
+      "titel": "Tiefe Geothermie - Energie der Zukunft",
+      "veroeffentlicht": "2026-09-16T03:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Potenziale und aktuelle Projekte der tiefen Geothermie in Deutschland."
+    },
+    {
+      "guid": "9d1eb419-27a6-463f-9c87-4db0aea263a4",
+      "audio_url": "https://media.neuland.br.de/file/2109668/c/feed/peyote-der-heilige-kaktus-nordamerikas-1.mp3",
+      "pfad": "/v1/episode/0aacb1e8733efd3bd8759b07af5b481d6e64cc80.json",
+      "titel": "Peyote - Der heilige Kaktus Nordamerikas",
+      "veroeffentlicht": "2026-09-15T03:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Peyote-Kaktus in Kultur, Forschung und Bedrohung"
+    },
+    {
+      "guid": "0c762605-42ea-4aec-9ca8-6837d1a41f84",
+      "audio_url": "https://media.neuland.br.de/file/2122086/c/feed/die-lederhose-eine-erfundene-tradition-1.mp3",
+      "pfad": "/v1/episode/374b321624d0b2c5f8d99be8aced60bd966ff59c.json",
+      "titel": "Die Lederhose - eine erfundene Tradition?",
+      "veroeffentlicht": "2026-09-14T18:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte der Lederhose von der Arbeitshose zum bayerischen Symbol."
+    },
+    {
+      "guid": "5acaf046-6e86-459f-b454-1b0c2ed3d6f3",
+      "audio_url": "https://media.neuland.br.de/file/2107739/c/feed/der-wolpertinger-dichtung-und-wahrheit-1.mp3",
+      "pfad": "/v1/episode/0f52ac2daed272883339032971e60eea38b4fbd9.json",
+      "titel": "Der Wolpertinger - Dichtung und Wahrheit",
+      "veroeffentlicht": "2026-09-14T03:05:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Wolpertinger: Das bayerische Fabelwesen zwischen Mythos und Realität"
+    },
+    {
+      "guid": "94b9f646-9087-4f5c-904a-3093ca451186",
+      "audio_url": "https://media.neuland.br.de/file/2122056/c/feed/wie-die-kleine-reblaus-beinahe-europas-weinbau-zerstoerte.mp3",
+      "pfad": "/v1/episode/0eb88e1d8ff48c30c31715fac12db4329faaf4df.json",
+      "titel": "Wie die kleine Reblaus beinahe Europas Weinbau zerstörte",
+      "veroeffentlicht": "2026-09-14T03:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie die Reblaus im 19. Jahrhundert Europas Weinberge zerstörte"
+    },
+    {
+      "guid": "0e229a5f-5fed-4cba-87b8-139db868c690",
+      "audio_url": "https://media.neuland.br.de/file/2109439/c/feed/lindy-hop-der-gleichberechtigte-swing-tanz.mp3",
+      "pfad": "/v1/episode/0ba2292674613775bb6c8bd3d16ff15e48b6a57a.json",
+      "titel": "Lindy Hop - Der gleichberechtigte Swing-Tanz",
+      "veroeffentlicht": "2026-09-11T03:05:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hintergründe, Geschichte und gesellschaftliche Werte des Swing-Tanzes Lindy Hop."
+    },
+    {
+      "guid": "49ce6fb5-95c2-41c7-86db-1c86ae390db3",
+      "audio_url": "https://media.neuland.br.de/file/2121981/c/feed/11-september-der-tag-der-sicherheit-neu-definierte.mp3",
+      "pfad": "/v1/episode/5405cb8f73503c8116ffbffe5a0b3d81d2594e5c.json",
+      "titel": "11. September - Der Tag, der Sicherheit neu definierte",
+      "veroeffentlicht": "2026-09-11T03:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie die Anschläge vom 11. September die Sicherheitspolitik und Persönlichkeitsrechte…"
+    },
     {
       "guid": "0f6991eb-1b91-4a61-b32c-797f6ee0a0b4",
       "audio_url": "https://media.neuland.br.de/file/2121367/c/feed/die-unglaubliche-widerstandskaempferin-milada-hor-kova-2-2-von-der-hoelle-zum-pranger.mp3",

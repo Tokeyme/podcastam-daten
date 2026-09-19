@@ -2,8 +2,98 @@
   "schema_version": 1,
   "show": "Mormon Stories Podcast",
   "apple_collection_id": "312094772",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "b1c36b5a-b0ad-4527-a2e7-5bfb3cc30361",
+      "audio_url": "https://traffic.megaphone.fm/APO8925221757.mp3",
+      "pfad": "/v1/episode/4103d1d888a2aaa1d35f4dab8eeb5fe81b0cd1f1.json",
+      "titel": "Are Mormons Paying Too Much Tithing? - LDS Discussions Pt. 83 | Ep. 2196",
+      "veroeffentlicht": "2026-09-16T18:00:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and modern expectations of tithing in the LDS Church."
+    },
+    {
+      "guid": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
+      "audio_url": "https://traffic.megaphone.fm/APO6393548407.mp3",
+      "pfad": "/v1/episode/e59077948ef2b642451a3d18dcd25d39b35b8f99.json",
+      "titel": "THRIVE Events in Rexburg, San Antonio, Boise, and St George!!!!",
+      "veroeffentlicht": "2026-09-15T15:32:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Overview of the upcoming THRIVE events in Rexburg, San Antonio, Boise, and St. George"
+    },
+    {
+      "guid": "4d183049-3ca8-448e-ae21-5fae878de0b4",
+      "audio_url": "https://traffic.megaphone.fm/APO2623569841.mp3",
+      "pfad": "/v1/episode/83420d99a907234adf1f02ba014a9eceec9e4403.json",
+      "titel": "\"Idyllic\" Mormons Choose Wonder - Mike And Michele Seamons Pt. 3 | Ep. 2195",
+      "veroeffentlicht": "2026-09-14T22:31:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Mike and Michele Seamons on questioning Mormonism and shifting family beliefs"
+    },
+    {
+      "guid": "483efd3b-8e36-4e8d-8a17-d5fc88ef7aa3",
+      "audio_url": "https://traffic.megaphone.fm/APO7168748892.mp3",
+      "pfad": "/v1/episode/0259d2090fd05fd2bbf465f91eaf686054a52c92.json",
+      "titel": "\"Idyllic\" Mormon Family - Mike And Michele Seamons Pt. 2 | Ep. 2194",
+      "veroeffentlicht": "2026-09-14T22:25:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Michele and Mike Seamons on challenges, church leadership, and faith evolution."
+    },
+    {
+      "guid": "6afca208-6544-48e9-8079-1ecb6af330d8",
+      "audio_url": "https://traffic.megaphone.fm/APO6952778994.mp3",
+      "pfad": "/v1/episode/864632fa23cc864f3a115f46d0bd88600d93130f.json",
+      "titel": "The \"Idyllic\" Mormon Upbringing - Michele & Mike Seamons Pt. 1 | Ep. 2193",
+      "veroeffentlicht": "2026-09-14T18:46:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Michele and Mike Seamons discuss their idyllic Mormon upbringing."
+    },
+    {
+      "guid": "1830a1db-7c91-43d9-8344-91deb0025cd1",
+      "audio_url": "https://traffic.megaphone.fm/APO6776570991.mp3",
+      "pfad": "/v1/episode/00c635a1f9cfe95c981b194771544f406b6677c0.json",
+      "titel": "Brigham Young Sang In Tongues - Brigham Young Podcast Pt. 2 | Ep. 2192",
+      "veroeffentlicht": "2026-09-09T18:28:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The transformation of Brigham Young within the early Mormon movement with John Turner."
+    },
+    {
+      "guid": "1c6db8cb-3ad1-4e64-95bd-1efc82ef7a79",
+      "audio_url": "https://traffic.megaphone.fm/APO7689752456.mp3",
+      "pfad": "/v1/episode/c662c522a3e91b3d0060b8c9cfe014c196a106a7.json",
+      "titel": "Becoming a Megachurch Pastor - Todd Phillips Pt. 1 | Ep. 2190",
+      "veroeffentlicht": "2026-09-07T18:00:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Dr. Todd Phillips on his journey from megachurch pastor to faith crisis"
+    },
+    {
+      "guid": "9dde0a85-e9d6-45db-be7e-591fcb707748",
+      "audio_url": "https://traffic.megaphone.fm/APO2323660168.mp3",
+      "pfad": "/v1/episode/96981428ecd0d39cec27c9d6b813362c23b94c16.json",
+      "titel": "Megachurch Pastor Turned Agnostic - Todd Phillips Pt. 2 | Ep. 2191",
+      "veroeffentlicht": "2026-09-07T18:00:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Former megachurch pastor Todd Phillips on his faith deconstruction."
+    },
+    {
+      "guid": "4825d9cb-3a8b-4c80-a78e-a3aec2120b22",
+      "audio_url": "https://traffic.megaphone.fm/APO3055257745.mp3",
+      "pfad": "/v1/episode/a8273889c27fd68ee2278cf8af88549d79e96464.json",
+      "titel": "LDS Church Caught Lying, Charlie Bird Breaking Point, Bishop Charged - Mormon News 9.4.26 | Ep. 2189",
+      "veroeffentlicht": "2026-09-04T18:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Recent headlines and developments concerning the LDS Church."
+    },
     {
       "guid": "4f11a4a5-78f3-4f9a-acf0-ce320caab6d7",
       "audio_url": "https://traffic.megaphone.fm/APO7632231687.mp3",

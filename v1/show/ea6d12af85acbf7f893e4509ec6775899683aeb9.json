@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "尖叫影院|精品恐怖电影专题盘点解说",
   "apple_collection_id": "1726783892",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/bcd9-audiofreehighqps/E9/4F/CMCoOR4DnjdQAJ-iyABtbhMe-aacv2-48K.m4a",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/c3f1156a49e51a457f2f8ffdddc12a9fb0d233b7.json",
       "titel": "01 鬼屋电影｜野火烧不尽的鬼屋电影",
       "veroeffentlicht": "2016-05-20T13:44:04+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "回顾鬼屋电影半个多世纪的发展历程与经典之作"
     }

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "audioboom-01a05af2-8ffd-7272-957f-c287a63fa140",
+  "apple_collection_id": "1192761536",
+  "show": "Pod Save America",
+  "titel": "Is Trump Trying to Lose the Midterms?",
+  "audio": {
+    "url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8947437.mp3?modified=1788232409&sid=5166624&source=rss",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Trump weighs in on AI data centers and foreign policy amid Republican concerns.",
+  "kurzfassung": "Trump's recent remarks on AI data centers and foreign policy raise concerns among Republicans regarding upcoming elections. The hosts discuss domestic and international political choices, legal updates, and recent controversies. Additionally, Tommy interviews Aaron Ford, the Democratic nominee for governor in Nevada.",
+  "stichpunkte": [
+    "Trump's comments on AI data centers and trade and foreign policy",
+    "Republican party concerns about upcoming political prospects",
+    "Legal updates regarding mail-in voting and the White House",
+    "Discussion on Abdul El-Sayed's apology and Laura Loomer's provocation",
+    "Interview with Aaron Ford, Democratic nominee for governor in Nevada"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:51+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 6117,
+  "veroeffentlicht": "2026-09-01T09:55:00+00:00",
+  "beschreibung": "Weeks after a Republican campaign committee called AI data centers the \"anchor hanging around\" GOP candidates' necks, Trump weighs in to say that all Americans who oppose data center construction are \"backwards and poor\" — while he digs in on the trade war with Canada and the hot war with Iran.\nNo wonder a leading Republican senator tells Politico that Trump — and the whole party — are \"in serious trouble.\" Jon, Lovett, and Tommy try to make sense of Trump's choices at home and abroad, process the latest from the courts on mail-in voting and the White House ballroom, discuss Abdul El-Sayed's apology to Michigan's Jewish community, and react to the latest racist provocation from Laura Loomer.\nThen, Tommy sits down with Aaron Ford, the Democratic nominee for governor in Nevada.\nHate listening to ads? Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at crooked.com/friends, on Apple Podcasts, or through the Pod Save America YouTube channel.\nYou can request a transcript by emailing transcripts@crooked.com. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.",
+  "beschreibung_html": "<div>\n<p>Weeks after a Republican campaign committee called AI data centers the \"anchor hanging around\" GOP candidates' necks, Trump weighs in to say that all Americans who oppose data center construction are \"backwards and poor\" — while he digs in on the trade war with Canada and the hot war with Iran. </p><p>No wonder a leading Republican senator tells Politico that Trump — and the whole party — are \"in serious trouble.\" Jon, Lovett, and Tommy try to make sense of Trump's choices at home and abroad, process the latest from the courts on mail-in voting and the White House ballroom, discuss Abdul El-Sayed's apology to Michigan's Jewish community, and react to the latest racist provocation from Laura Loomer. </p><p>Then, Tommy sits down with Aaron Ford, the Democratic nominee for governor in Nevada.</p><p><strong>Hate listening to ads? </strong>Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at <a href=\"http://crooked.com/friends\">crooked.com/friends</a>, on Apple Podcasts, or through the Pod Save America YouTube channel.</p><p>You can request a transcript by emailing <a href=\"mailto:transcripts@crooked.com\">transcripts@crooked.com</a>. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</p></div>",
+  "bild_url": "https://audioboom.com/i/43817022.jpg",
+  "folgennummer": 1207
+}

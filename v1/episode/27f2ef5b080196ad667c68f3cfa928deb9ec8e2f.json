@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "cca6abcd-c6b8-43d0-bfb5-d04921f092a9",
+  "apple_collection_id": "1526697745",
+  "show": "PBD Podcast",
+  "titel": "Logan Paul Reveals the $100 Million Mistake He Made With Prime | PBD Podcast #856",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/APO5205100696.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:26+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Logan Paul discusses his business ventures, the Prime brand, and content creation.",
+  "kurzfassung": "Patrick Bet-David interviews Logan Paul about his experiences in business and content creation. They discuss the Prime brand, a major financial mistake, and WWE. Additionally, the conversation covers storytelling strategies and audience growth.",
+  "stichpunkte": [
+    "Discussion on the Prime brand and business ventures",
+    "A $100 million exit mistake in business",
+    "Insights into content creation and building a large audience",
+    "The science and strategy behind effective storytelling",
+    "Involvement with the WWE and future fight plans"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:26+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4206,
+  "veroeffentlicht": "2026-09-15T15:00:00+00:00",
+  "beschreibung": "Patrick Bet-David sits down with Logan Paul at Vault 2026 for a candid conversation on Prime, WWE, content creation, failure, and businesses. Logan reveals the $100M exit mistake, his plan to fight Conor McGregor, the science behind storytelling, and how he built an audience of more than 100 million.\n------\n👞 Get the NEW Billionaire Suede Loafer: https://bit.ly/4ym5oRA\n.\n👕 SHOP THE ICON COLLECTION: https://bit.ly/3TuUU3x\n.\nⓂ️ CONNECT ON MINNECT: https://bit.ly/4kSVkso\n.\nⓂ️ PBD PODCAST CIRCLES: https://bit.ly/4mAWQAP\n.\n👔 BET-DAVID CONSULTING: https://bit.ly/4lzQph2\n.\n🥃 BOARDROOM CIGAR LOUNGE: https://bit.ly/4pzLEXj\n.\n🇰 KALSHI: http://kalshi.com/pbd\n.\nSUBSCRIBE TO:\n@VALUETAINMENT\n@ValuetainmentComedy\n\nABOUT US:\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal Bestseller \"Your Next Five Moves\" (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida. He currently resides in Ft. Lauderdale, Florida.",
+  "beschreibung_html": "<p>Patrick Bet-David sits down with Logan Paul at Vault 2026 for a candid conversation on Prime, WWE, content creation, failure, and businesses. Logan reveals the $100M exit mistake, his plan to fight Conor McGregor, the science behind storytelling, and how he built an audience of more than 100 million.</p><p>------ </p><p>👞 Get the NEW Billionaire Suede Loafer: https://bit.ly/4ym5oRA</p><p>.</p><p>👕 SHOP THE ICON COLLECTION: https://bit.ly/3TuUU3x</p><p>.</p><p>Ⓜ️ CONNECT ON MINNECT: https://bit.ly/4kSVkso</p><p>.</p><p>Ⓜ️ PBD PODCAST CIRCLES: https://bit.ly/4mAWQAP</p><p>.</p><p>👔 BET-DAVID CONSULTING: https://bit.ly/4lzQph2</p><p>.</p><p>🥃 BOARDROOM CIGAR LOUNGE: https://bit.ly/4pzLEXj</p><p>.</p><p>🇰 KALSHI: http://kalshi.com/pbd</p><p>.</p><p>SUBSCRIBE TO:</p><p> @VALUETAINMENT  </p><p> @ValuetainmentComedy </p><p><br></p><p>ABOUT US:</p><p>Patrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal Bestseller &quot;Your Next Five Moves&quot; (Simon &amp; Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida. He currently resides in Ft. Lauderdale, Florida.</p>",
+  "bild_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7893453/7893453-1789479125068-83dbccb249726.jpg"
+}

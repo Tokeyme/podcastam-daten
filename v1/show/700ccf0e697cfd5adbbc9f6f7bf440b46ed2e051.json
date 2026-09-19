@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "CheckPod - Der Podcast mit Checker Tobi",
   "apple_collection_id": "1568289153",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "dcbef058-8f80-4cd9-92b7-7e284ef8a208",
+      "audio_url": "https://media.neuland.br.de/file/2121994/c/feed/checkpod-klassiker-steinzeit-von-geschickten-menschen-und-dem-nutzen-des-feuers.mp3",
+      "pfad": "/v1/episode/631d3d63cb53d02edab1aececa6cb7e574e90efd.json",
+      "titel": "CheckPod Klassiker: Steinzeit | Von geschickten Menschen und dem Nutzen des Feuers",
+      "veroeffentlicht": "2026-09-11T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie Kinder in der Steinzeit spielten, das Aussehen der Menschen und der Nutzen des Feuers."
+    },
+    {
+      "guid": "f69a1959-9a79-493a-b6bf-e5c5a5521ee4",
+      "audio_url": "https://media.neuland.br.de/file/2121801/c/feed/checkpod-klassiker-schleim-von-schnecken-und-schoenem-slime.mp3",
+      "pfad": "/v1/episode/f6595cf1dfa341fe06786975395330d83ecf30df.json",
+      "titel": "CheckPod Klassiker: Schleim | Von Schnecken und schönem Slime",
+      "veroeffentlicht": "2026-09-04T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Alles über Schnecken, Schneckenschleim und die beruhigende Wirkung von Slime."
+    },
+    {
+      "guid": "70a2835b-6aec-44e2-a12b-2fa07daf68b9",
+      "audio_url": "https://media.neuland.br.de/file/2121601/c/feed/checkpod-klassiker-maerchen-aus-aller-welt-und-rapunzels-haar-im-praxistest.mp3",
+      "pfad": "/v1/episode/fd52659eac1383acd1e4d407a6f5ec95a1c40bce.json",
+      "titel": "CheckPod Klassiker: Märchen | Aus aller Welt und Rapunzels Haar im Praxistest",
+      "veroeffentlicht": "2026-08-28T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Warum Märchen Botschaften haben, internationale Varianten und Rapunzels Haar im Check."
+    },
+    {
+      "guid": "490fa43a-080f-47af-b9b2-c0502b23d8e1",
+      "audio_url": "https://media.neuland.br.de/file/2121407/c/feed/checkpod-klassiker-gift-vom-giftigsten-tier-und-heilenden-pflanzen.mp3",
+      "pfad": "/v1/episode/4ae4a4e0b4be6111d6790c6b1337895853dc9bc8.json",
+      "titel": "CheckPod Klassiker: Gift | Vom giftigsten Tier und heilenden Pflanzen",
+      "veroeffentlicht": "2026-08-21T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Welches das giftigste Tier der Welt ist und wie man Gifte erkennt."
+    },
     {
       "guid": "59df355e-8323-4edb-b113-0468f5aeb451",
       "audio_url": "https://media.neuland.br.de/file/2121222/c/feed/checkpod-klassiker-piraten-haustiere-an-bord-und-brennende-baerte.mp3",
@@ -13,6 +53,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Was von echten Piraten stimmt und welche Mythen Filme erfunden haben."
+    },
+    {
+      "guid": "d324a626-873d-4504-8d1c-0eb46a8868db",
+      "audio_url": "https://media.neuland.br.de/file/2121047/c/feed/checkpod-klassiker-baeume-ueber-bonsais-und-mammutbaeume.mp3",
+      "pfad": "/v1/episode/cb934e845653f95763dd5b100eb9e248ee28b9e3.json",
+      "titel": "CheckPod Klassiker: Bäume | Über Bonsais und Mammutbäume",
+      "veroeffentlicht": "2026-08-07T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Alles über Bäume: Wachstum, Kommunikation und die Folgen ihres Fehlens."
+    },
+    {
+      "guid": "2557a1c0-70de-4502-8b1a-6b7b113e4a7e",
+      "audio_url": "https://media.neuland.br.de/file/2120839/c/feed/checkpod-klassiker-lachen-von-kitzligen-tieren-und-lach-yoga.mp3",
+      "pfad": "/v1/episode/8a7a3de59eb862c07860b59725a32dadf1af5945.json",
+      "titel": "CheckPod Klassiker: Lachen | Von kitzligen Tieren und Lach-Yoga",
+      "veroeffentlicht": "2026-07-31T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Warum man beim Lachen weint und ob Tiere lachen können."
+    },
+    {
+      "guid": "b13c880c-24d2-4538-8fe0-75353556d90c",
+      "audio_url": "https://media.neuland.br.de/file/2120610/c/feed/checkpod-klassiker-zaehne-von-zahnpasta-und-vampiren.mp3",
+      "pfad": "/v1/episode/585a1363409e332bf5b1dc940386fcda68b3e6c1.json",
+      "titel": "CheckPod Klassiker: Zähne | Von Zahnpasta und Vampiren",
+      "veroeffentlicht": "2026-07-24T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Alles über Zähne: Verschiedene Größen, Inhaltsstoffe von Zahnpasta und Vampirzähne."
+    },
+    {
+      "guid": "3e2b7686-40ab-4d25-a48a-05d56b3de7d4",
+      "audio_url": "https://media.neuland.br.de/file/2119208/c/feed/der-checkpod-macht-sommerpause-1.mp3",
+      "pfad": "/v1/episode/a712bb42c4ba8237d66f6844466b993bada643b4.json",
+      "titel": "Der CheckPod macht Sommerpause",
+      "veroeffentlicht": "2026-06-12T06:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Checker Tobi verabschiedet sich in die Sommerpause."
     }
   ]
 }

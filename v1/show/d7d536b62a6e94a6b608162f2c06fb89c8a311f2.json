@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "Let's Not Meet: A True Horror Podcast",
   "apple_collection_id": "1249754020",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "audioboom-01a08297-e2e7-7ad6-83e3-f1967d28f36b",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8950180.mp3?modified=1788897486&sid=5037582&source=rss",
+      "pfad": "/v1/episode/46168029fb096883953adc3f70762b40f4998fd1.json",
+      "titel": "17x11: The Couch Creeper",
+      "veroeffentlicht": "2026-09-14T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A collection of listener-submitted true horror and scary personal encounter stories."
+    },
+    {
+      "guid": "audioboom-01a07912-1d0f-746a-8cc1-05734ddd0b66",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8949509.mp3?modified=1788737785&sid=5037582&source=rss",
+      "pfad": "/v1/episode/e506c6e20f0e1fbba87bf78acbf3ea3bbad6cdc0.json",
+      "titel": "17x10: The Best of Season 3",
+      "veroeffentlicht": "2026-09-07T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A collection of terrifying real-life encounters from Season 3."
+    },
+    {
+      "guid": "audioboom-01a07568-f3b6-768e-b115-8ad78dd72971",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8949366.mp3?modified=1788676219&sid=5037582&source=rss",
+      "pfad": "/v1/episode/1ccd93efe38f670cff727b3347586b63bc0b148a.json",
+      "titel": "Real People. Real Crimes. | Introducing CRIMES OF REDDIT",
+      "veroeffentlicht": "2026-09-06T06:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Introduction to the true-crime podcast CRIMES OF REDDIT with Alexis and Sabrina."
+    },
     {
       "guid": "audioboom-01a04462-f484-7d16-b1a1-49efda6b6276",
       "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8946162.mp3?modified=1787853820&sid=5037582&source=rss",
@@ -13,6 +43,66 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "True horror stories about unsettling encounters, stalkers, and chilling experiences."
+    },
+    {
+      "guid": "audioboom-01a0302d-82d6-796c-ad76-7444783663c7",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8944431.mp3?modified=1787514771&sid=5037582&source=rss",
+      "pfad": "/v1/episode/f2bb71d3c6c17545bfa032162a395c90a91568b4.json",
+      "titel": "17x08: Creepy Crime Scene Fanboy",
+      "veroeffentlicht": "2026-08-24T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Collection of true personal horror and stalking encounters."
+    },
+    {
+      "guid": "audioboom-01a00d0e-3f18-7490-b8a0-f15fa4ead2e8",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8940229.mp3?modified=1786925527&sid=5037582&source=rss",
+      "pfad": "/v1/episode/6dd5b7db4abbf6565cb87805b25618c1bb73dd2b.json",
+      "titel": "17x07: Malicious Intent",
+      "veroeffentlicht": "2026-08-17T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A collection of true terrifying personal horror stories and close encounters."
+    },
+    {
+      "guid": "audioboom-019fea04-1f06-72c2-b92e-d38628fa34b2",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8937818.mp3?modified=1786337654&sid=5037582&source=rss",
+      "pfad": "/v1/episode/0c4f891d1cdd9d5fe33bdf29690692454d32fdc5.json",
+      "titel": "17x06: The Panting Prowler at the Window",
+      "veroeffentlicht": "2026-08-10T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Collection of true horror and suspense stories from various contributors."
+    },
+    {
+      "guid": "audioboom-019fc506-34e4-74a2-914f-dc84fd834f57",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8935285.mp3?modified=1789621508&sid=5037582&source=rss",
+      "pfad": "/v1/episode/2154d2226fce3395749a52e7352378cc53fe3841.json",
+      "titel": "17x05: I'm Your New Neighbor!",
+      "veroeffentlicht": "2026-08-03T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A collection of listener-submitted true horror and creepy encounter stories."
+    },
+    {
+      "guid": "audioboom-019fa1e0-db0c-79f6-b7ad-b51f758da84f",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8932686.mp3?modified=1785127548&sid=5037582&source=rss",
+      "pfad": "/v1/episode/cf271d907b3e595e7cad6cb04d14ebc24150a735.json",
+      "titel": "17x04: Drugged and Kidnapped",
+      "veroeffentlicht": "2026-07-27T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A collection of listener-submitted true horror stories featuring encounters with…"
+    },
+    {
+      "guid": "audioboom-019f7c88-dae8-79f5-99f8-3116861af21d",
+      "audio_url": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8930019.mp3?modified=1784501004&sid=5037582&source=rss",
+      "pfad": "/v1/episode/a62e18ab4310836d97501461ea87563cb2583b23.json",
+      "titel": "17x03: The Disappearing Cop",
+      "veroeffentlicht": "2026-07-20T07:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A collection of seven true horror stories featuring creepy encounters and stalkers."
     }
   ]
 }

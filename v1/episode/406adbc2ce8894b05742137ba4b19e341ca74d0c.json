@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "tag:soundcloud,2010:tracks/1067147848",
+  "apple_collection_id": "1449884495",
+  "show": "Fall of Civilizations Podcast",
+  "titel": "13. The Assyrians - Empire of Iron",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/APO3303969728.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:46:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "The history, rise, and collapse of the Neo-Assyrian Empire.",
+  "kurzfassung": "This episode explores the history of the Neo-Assyrian Empire in Northern Iraq. It examines how the civilization rose from the ashes of the Bronze Age to build an iron empire. Additionally, it looks at their cultural achievements in art and technology, and the causes of their final collapse.",
+  "stichpunkte": [
+    "Ruins of enormous cities in Northern Iraq",
+    "Origins of the Neo-Assyrian Empire after the Bronze Age",
+    "Development of an iron-based empire lasting for centuries",
+    "Advancements in art and technology",
+    "Reasons behind the devastating collapse of the civilization"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:46:25+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 11099,
+  "veroeffentlicht": "2021-06-14T17:08:48+00:00",
+  "beschreibung": "In the lowlands of Northern Iraq, a series of enormous cities lies crumbling in ruins...In this episode, find out about one of the most remarkable ancient civilizations: the society known today as the neo-Assyrian Empire. Discover how the Assyrians built their empire out of the ashes of the Bronze Age, and built an empire of iron that lasted for centuries. Explore the extraordinary flourishing of art and technology that they fostered. And finally, discover what happened to cause their final, devastating collapse.",
+  "beschreibung_html": "In the lowlands of Northern Iraq, a series of enormous cities lies crumbling in ruins...In this episode, find out about one of the most remarkable ancient civilizations: the society known today as the neo-Assyrian Empire. Discover how the Assyrians built their empire out of the ashes of the Bronze Age, and built an empire of iron that lasted for centuries. Explore the extraordinary flourishing of art and technology that they fostered. And finally, discover what happened to cause their final, devastating collapse.",
+  "bild_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43131353/957dbf222c4bc175.jpg"
+}

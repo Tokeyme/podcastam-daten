@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "urn:bbc:podcast:p0ny1qsl",
+  "apple_collection_id": "262026989",
+  "show": "Learning English Conversations",
+  "titel": "The English We Speak: Passing Ships",
+  "audio": {
+    "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny1pmb.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:04:11+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "使用英语表达形容成年人忙碌的生活节奏。",
+  "kurzfassung": "本期节目介绍了短语“passing ships”的来源和用法。该表达源自较长的成语“like ships that pass at night”。主要用于形容两个人日程繁忙，很难抽出时间进行深入相聚。",
+  "stichpunkte": [
+    "短语“passing ships”的背景与来源",
+    "该表达适用的场景与含义",
+    "如何用该表达描述忙碌的成人生活"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:04:11+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 161,
+  "veroeffentlicht": "2026-07-14T14:00:00+00:00",
+  "beschreibung": "This phrase comes from a longer idiom, ‘like ships that pass at night’. It’s used when two people have busy schedules, and struggle to find time to meet for more than just a brief encounter. Learn how to use it here, with Georgie and Feifei.\nFind a free transcript here:\nhttps://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260713\nWe send a newsletter with our weekly highlights - subscribe here:\nhttps://www.bbc.co.uk/learningenglish/newsletters",
+  "beschreibung_html": "<p>This phrase comes from a longer idiom, ‘like ships that pass at night’. It’s used when two people have busy schedules, and struggle to find time to meet for more than just a brief encounter. Learn how to use it here, with Georgie and Feifei.</p><p>Find a free transcript here:\n<a href=\"https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260713\">https://www.bbc.co.uk/learningenglish/english/features/the-english-we-speak_2026/ep-260713</a></p><p>We send a newsletter with our weekly highlights - subscribe here:\n<a href=\"https://www.bbc.co.uk/learningenglish/newsletters\">https://www.bbc.co.uk/learningenglish/newsletters</a></p>",
+  "untertitel": "Use this expression to talk about busy adult life.",
+  "bild_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxql2c.jpg"
+}

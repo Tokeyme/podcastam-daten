@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "32ada8c4-0584-42b5-a062-a336275a2cb5",
+  "apple_collection_id": "1183662640",
+  "show": "声东击西",
+  "titel": "#400  社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
+  "audio": {
+    "url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/32ada8c4-0584-42b5-a062-a336275a2cb5.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:09:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨青少年社媒禁令争议与平台责任边界",
+  "kurzfassung": "澳大利亚等国实施青少年社交媒体禁令引发广泛讨论，科学界对社媒与心理健康因果关系的争论也随之出现。随着 K.G.M. v. Meta et al. 一案的判决，Instagram 和 YouTube 被认定产品设计存在过失，这打破了平台长期以来的免责边界。本期节目探讨了社媒平台如何规避监管以及诉讼策略的转变。",
+  "stichpunkte": [
+    "多国出台针对青少年的社交媒体使用禁令",
+    "反对禁令的理由及其是否成立的探讨",
+    "平台是否属于「中立的工具」及通信法案的相关讨论",
+    "K.G.M. v. Meta et al. 一案中平台败诉的影响",
+    "社媒平台带来的成瘾、心理健康风险与隐私侵犯问题",
+    "社媒平台通过游说与信息操纵规避监管责任的方式",
+    "中文世界的社交媒体监管需要受到的重视"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:09:41+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3636,
+  "veroeffentlicht": "2026-08-13T16:15:00+08:00",
+  "beschreibung": "去年12月，澳大利亚实施全球首个针对16岁以下未成年人的社交媒体禁令，此后不久，法国、英国、西班牙等更多国家便相继跟进。但反对者的声音也随之而来。他们认为禁令本身难以执行、年龄划分过于一刀切，更关键的是，科学尚未证明社交媒体与青少年心理问题之间存在明确的因果关系。然而，这些反对的理由真的成立吗？\n\n今年3月，社交媒体迎来「大烟草时刻」。被视为风向标的 K.G.M. v. Meta et al. 一案迎来判决，Instagram 和 YouTube 被认定在产品设计上存在过失，无限滚动、自动播放视频等功能被认定对青少年原告造成了伤害。这一判决撬动了自 1996 年的《美国通信规范法》第 230 条款出台以来平台免责的边界，平台再也无法声称自己只是一个「中立的工具」。\n\n这一期节目，我们和老朋友方可成老师一起，从围绕禁令的一系列反对意见出发，聊聊社交媒体平台如何通过不断游说和制造怀疑来规避监管责任，K.G.M. 案的律师团们又是通过怎样的策略转变，压实了平台的主体责任。\n\n本期人物\n\n方可成，香港中文大学新闻与传播学院副教授\n\n徐涛，声动活泼联合创始人\n\n主要话题\n\n[00:48] 监管转折点：澳、英、法等多国出台青少年社媒使用禁令\n\n[05:17] 无定论、有益处、一刀切、执行难：反对禁令的理由真的成立吗？\n\n[20:54]从通信法案到 Facebook 吹哨人：平台还能说自己是「中立的工具」吗？\n\n[25:40]从「有害内容」到「缺陷产品」：律师团如何改变诉讼策略\n\n[34:38]社交媒体的大烟草时刻：K.G.M. v. Meta et al. 一案平台败诉\n\n[36:08]社媒如烟草：成瘾、心理健康风险、虚假信息与隐私侵犯\n\n[40:52]Doubt is your product：社媒平台如何通过游说与信息操纵建构利己叙事\n\n[58:39]中文世界的社交媒体监管同样需要重视\n\n延伸解读\n\n[25:40]Meta 内部研究汇编，由纽约大学斯特恩商学院科技与社会实验室，收集并总结了 Meta 进行的所有可用内部研究报告中关于其产品——尤其是 Instagram——是否对年轻人造成伤害的问题的相关报告。这些报告来自两个主要来源：公司吹哨人，以及由各州总检察长提起诉讼时在调查过程中获得的文件。\n\n[45:42]电影：《惊曝内幕 The Insider》\n\n[56:45]美国多州总检察长起诉 Meta 的起诉书\n\n[34:38]大烟草时刻A court just ruled that tech addiction is real—and dangerous. It could be Meta and YouTube’s Big Tobacco moment\n\n也可以在小红书账号「徐涛-声东击西」看到更多相关内容和幕后\n\n给声东击西投稿\n\n「声东击西」一直在寻找来自不同社会和群体的真实声音。我们曾经采访过为特朗普竞选生产 MAGA 帽子的中国制造商、记录过七位在美国大选中经历起伏的华人个体，也讲述了委内瑞拉青年的故事。\n\n如果你也有一些特别的经历、观察或想法，不论是亲身体验的故事，还是你在某个行业、社区中的所见所闻，都欢迎你向我们投稿。\n\n你的声音可能出现在未来的节目当中，我们非常期待你的分享！\n\n投稿入口\n\n加入我们\n\n声动活泼团队目前正在招聘内容监制、商业运营经理、商业发展经理和实习生，如果你也对播客行业的内容制作和商务运营感兴趣，欢迎投递！ 详情点击招聘入口：加入声动活泼（在招职位速览）\n\n幕后制作\n\n后期：赛德\n\n运营：George\n\n设计：饭团\n\n实习编辑：翔宇、怡然\n\n商务合作\n\n声动活泼商业化小队，点击链接可直达商务会客厅，也可发送邮件至 business@shengfm.cn 联系我们。\n\n关于声动活泼\n\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n\n我们还有这些播客：声东击西、What's Next｜科技早知道、商业WHY酱、跳进兔子洞&跳进兔子洞第三季、吃喝玩乐了不起、不止金钱、泡腾 VC、反潮流俱乐部\n\n欢迎在即刻、微博等社交媒体上与我们互动，搜索声动活泼即可找到我们。\n\n也欢迎你写邮件和我们联系，邮箱地址是：ting@sheng.fm\n\n获取更多和声动活泼有关的讯息，你也可以扫码添加声小音，在节目之外和我们保持联系！\n\nSpecial Guest: 方可成.",
+  "beschreibung_html": "<p>去年12月，澳大利亚实施全球首个针对16岁以下未成年人的社交媒体禁令，此后不久，法国、英国、西班牙等更多国家便相继跟进。但反对者的声音也随之而来。他们认为禁令本身难以执行、年龄划分过于一刀切，更关键的是，科学尚未证明社交媒体与青少年心理问题之间存在明确的因果关系。然而，这些反对的理由真的成立吗？</p>\n\n<p>今年3月，社交媒体迎来「大烟草时刻」。被视为风向标的 K.G.M. v. Meta et al. 一案迎来判决，Instagram 和 YouTube 被认定在产品设计上存在过失，无限滚动、自动播放视频等功能被认定对青少年原告造成了伤害。这一判决撬动了自 1996 年的《美国通信规范法》第 230 条款出台以来平台免责的边界，平台再也无法声称自己只是一个「中立的工具」。</p>\n\n<p>这一期节目，我们和老朋友方可成老师一起，从围绕禁令的一系列反对意见出发，聊聊社交媒体平台如何通过不断游说和制造怀疑来规避监管责任，K.G.M. 案的律师团们又是通过怎样的策略转变，压实了平台的主体责任。</p>\n\n<p><strong>本期人物</strong></p>\n\n<p>方可成，香港中文大学新闻与传播学院副教授</p>\n\n<p>徐涛，声动活泼联合创始人</p>\n\n<p><strong>主要话题</strong></p>\n\n<p>[00:48] 监管转折点：澳、英、法等多国出台青少年社媒使用禁令</p>\n\n<p>[05:17] 无定论、有益处、一刀切、执行难：反对禁令的理由真的成立吗？</p>\n\n<p>[20:54]从通信法案到 Facebook 吹哨人：平台还能说自己是「中立的工具」吗？</p>\n\n<p>[25:40]从「有害内容」到「缺陷产品」：律师团如何改变诉讼策略</p>\n\n<p>[34:38]社交媒体的大烟草时刻：K.G.M. v. Meta et al. 一案平台败诉</p>\n\n<p>[36:08]社媒如烟草：成瘾、心理健康风险、虚假信息与隐私侵犯</p>\n\n<p>[40:52]Doubt is your product：社媒平台如何通过游说与信息操纵建构利己叙事</p>\n\n<p>[58:39]中文世界的社交媒体监管同样需要重视</p>\n\n<p><strong>延伸解读</strong></p>\n\n<p>[25:40]<a href=\"https://metasinternalresearch.org\" rel=\"nofollow noopener\">Meta 内部研究汇编</a>，由纽约大学斯特恩商学院科技与社会实验室，收集并总结了 Meta 进行的所有可用内部研究报告中关于其产品——尤其是 Instagram——是否对年轻人造成伤害的问题的相关报告。这些报告来自两个主要来源：公司吹哨人，以及由各州总检察长提起诉讼时在调查过程中获得的文件。</p>\n\n<p>[45:42]<a href=\"https://movie.douban.com/subject/1292660/\" rel=\"nofollow noopener\">电影：《惊曝内幕 The Insider》</a></p>\n\n<p>[56:45]<a href=\"https://oag.ca.gov/system/files/attachments/press-docs/Less-redacted%20complaint%20-%20released.pdf\" rel=\"nofollow noopener\">美国多州总检察长起诉 Meta 的起诉书</a></p>\n\n<p>[34:38]大烟草时刻<a href=\"https://fortune.com/2026/03/25/meta-google-instagram-youtube-tech-addiction-lawsuit-kgm/\" rel=\"nofollow noopener\">A court just ruled that tech addiction is real—and dangerous. It could be Meta and YouTube’s <strong>Big Tobacco moment</strong></a></p>\n\n<p>也可以在小红书账号<a href=\"https://xhslink.com/m/2tzsKmEPAoV\" rel=\"nofollow noopener\"><strong>「徐涛-声东击西」</strong></a>看到更多相关内容和幕后</p>\n\n<p><strong>给声东击西投稿</strong></p>\n\n<p>「声东击西」一直在寻找来自不同社会和群体的真实声音。我们曾经采访过为特朗普竞选生产 MAGA 帽子的中国制造商、记录过七位在美国大选中经历起伏的华人个体，也讲述了委内瑞拉青年的故事。</p>\n\n<p>如果你也有一些特别的经历、观察或想法，不论是亲身体验的故事，还是你在某个行业、社区中的所见所闻，都欢迎你向我们投稿。</p>\n\n<p>你的声音可能出现在未来的节目当中，我们非常期待你的分享！</p>\n\n<p><a href=\"https://eg76rdcl6g.feishu.cn/share/base/form/shrcne1CGVaSeJwtBriW6yNT2dg\" rel=\"nofollow noopener\">投稿入口</a></p>\n\n<p><strong>加入我们</strong></p>\n\n<p>声动活泼团队目前正在招聘内容监制、商业运营经理、商业发展经理和实习生，如果你也对播客行业的内容制作和商务运营感兴趣，欢迎投递！ 详情点击招聘入口：<a href=\"https://eg76rdcl6g.feishu.cn/docx/XO6bd12aGoI4j0xmAMoc4vS7nBh\" rel=\"nofollow noopener\">加入声动活泼（在招职位速览）</a></p>\n\n<p><img src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/9KRzVACW.png\" alt=\"Untitled\"></p>\n\n<p><strong>幕后制作</strong></p>\n\n<p>后期：赛德</p>\n\n<p>运营：George</p>\n\n<p>设计：饭团</p>\n\n<p>实习编辑：翔宇、怡然</p>\n\n<p><strong>商务合作</strong></p>\n\n<p>声动活泼商业化小队，点击链接可直达<strong><a href=\"https://sourl.cn/QDhnEc\" rel=\"nofollow noopener\">商务会客厅</a></strong>，也可发送邮件至 <a href=\"mailto:business@shengfm.cn\" rel=\"nofollow noopener\">business@shengfm.cn</a> 联系我们。</p>\n\n<p><strong>关于声动活泼</strong></p>\n\n<p>「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。</p>\n\n<p>我们还有这些播客：<a href=\"https://etw.fm/episodes\" rel=\"nofollow noopener\">声东击西</a>、<a href=\"https://guiguzaozhidao.fireside.fm/episodes\" rel=\"nofollow noopener\">What's Next｜科技早知道</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/61315abc73105e8f15080b8a\" rel=\"nofollow noopener\">商业WHY酱</a>、<a href=\"https://therabbithole.fireside.fm\" rel=\"nofollow noopener\">跳进兔子洞</a>&amp;<a href=\"https://www.xiaoyuzhoufm.com/podcast/666c0ad1c26e396a36c6ee2a\" rel=\"nofollow noopener\">跳进兔子洞第三季</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/644b94c494d78eb3f7ae8640\" rel=\"nofollow noopener\">吃喝玩乐了不起</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/65a625966d045a7f5e0b5640\" rel=\"nofollow noopener\">不止金钱</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5f445cdb9504bbdb77f092e9\" rel=\"nofollow noopener\">泡腾 VC</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/5e284c37418a84a0462634a4\" rel=\"nofollow noopener\">反潮流俱乐部</a></p>\n\n<p>欢迎在<a href=\"https://okjk.co/Qd43ia\" rel=\"nofollow noopener\">即刻</a>、微博等社交媒体上与我们互动，搜索<strong>声动活泼</strong>即可找到我们。</p>\n\n<p>也欢迎你写邮件和我们联系，邮箱地址是：<a href=\"mailto:ting@sheng.fm\" rel=\"nofollow noopener\">ting@sheng.fm</a></p>\n\n<p>获取更多和声动活泼有关的讯息，你也可以扫码添加声小音，在节目之外和我们保持联系！</p>\n\n<p><img src=\"https://media24.fireside.fm/file/fireside-uploads-2024/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/wEYE7jJa.jpg\" alt=\"声东击西\"></p>\n\n<hr><p>Special Guest: 方可成.</p>",
+  "bild_url": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+}

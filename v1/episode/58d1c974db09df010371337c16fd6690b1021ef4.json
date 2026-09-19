@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "1a6c858f1a5a8b2d38360a202001dd15",
+  "apple_collection_id": "1619728114",
+  "show": "スポーツ報知 新聞ヘッドライン",
+  "titel": "スポーツ報知５月２６日",
+  "audio": {
+    "url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/1a6c858f1a5a8b2d38360a202001dd15.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:00:12+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "体育报纸头条：巨人队逆转取胜，日本国家队名单公布及其他体育新闻。",
+  "kurzfassung": "本期节目介绍了体育报纸的头条新闻。内容涵盖了职业棒球巨人队的比赛表现与年轻球员的突破，日本足协公布的国际友谊赛代表队名单。此外，还涉及了大相扑赛事以及乐坛知名歌手逝世的消息。",
+  "stichpunkte": [
+    "巨人队实现逆转胜利并取得系列赛优势",
+    "秋広優人成为球队年轻的クリーンアップ打者",
+    "田中千晴投uder取得职业生涯首场胜利",
+    "日本足协公布参加友谊赛的26人代表名单",
+    "古桥亨梧和旗手怜央重返国家队",
+    "大相扑关脇雾马山接近晋升大关",
+    "美国歌手蒂娜·特纳逝世"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:00:12+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 101,
+  "veroeffentlicht": "2023-05-25T23:30:00+09:00",
+  "beschreibung": "報知新聞社がお伝えする、スポーツ報知の新聞ヘッドライン。５月２６日。／巨人がリーグ最多１１度目の逆転勝ちで今季初の３カード連続勝ち越しを決めた。プロ初めて３番に入った秋広優人内野手が２安打をマーク。２０歳以下でクリーンアップを務めるのは球団では松井秀喜以来の快挙だった。／巨人のドラフト３位・田中千晴投手が３番手で登板しプロ初勝利。２点を追う５回２死から登板し、６回まで無失点に抑えた。初のお立ち台で「次は自分の力で勝利投手になれるように」と誓った。／日本サッカー協会が国際親善試合・エルサルバドル戦とペルー戦に臨む代表２６人を発表。フォワード・古橋亨梧とミッドフィルダー・はたて怜央が２０２２年９月以来の復帰。スコットランド１部リーグ２連覇に貢献した２人が代表定着を狙う。／大相撲夏場所１２日目、関脇・霧馬山が大関昇進に当確ランプをともした。カド番の大関・貴景勝を寄り切って１０勝目。昇進目安とされる「三役で直近３場所合計３３勝」に到達した。／「ロックの女王」と呼ばれた米人気歌手のティナ・ターナーさんが、スイス北部チューリヒ近郊の自宅で死去した。８３歳だった。死因は明らかにしていないが、長期間にわたり闘病していたという。",
+  "beschreibung_html": "報知新聞社がお伝えする、スポーツ報知の新聞ヘッドライン。５月２６日。／巨人がリーグ最多１１度目の逆転勝ちで今季初の３カード連続勝ち越しを決めた。プロ初めて３番に入った秋広優人内野手が２安打をマーク。２０歳以下でクリーンアップを務めるのは球団では松井秀喜以来の快挙だった。／巨人のドラフト３位・田中千晴投手が３番手で登板しプロ初勝利。２点を追う５回２死から登板し、６回まで無失点に抑えた。初のお立ち台で「次は自分の力で勝利投手になれるように」と誓った。／日本サッカー協会が国際親善試合・エルサルバドル戦とペルー戦に臨む代表２６人を発表。フォワード・古橋亨梧とミッドフィルダー・はたて怜央が２０２２年９月以来の復帰。スコットランド１部リーグ２連覇に貢献した２人が代表定着を狙う。／大相撲夏場所１２日目、関脇・霧馬山が大関昇進に当確ランプをともした。カド番の大関・貴景勝を寄り切って１０勝目。昇進目安とされる「三役で直近３場所合計３３勝」に到達した。／「ロックの女王」と呼ばれた米人気歌手のティナ・ターナーさんが、スイス北部チューリヒ近郊の自宅で死去した。８３歳だった。死因は明らかにしていないが、長期間にわたり闘病していたという。",
+  "bild_url": "https://api.robotstart.jp/storage/12780/UVY7c9Vp2JAxywPElPyjtSCuKZToUGtv6ANCxssi.png"
+}

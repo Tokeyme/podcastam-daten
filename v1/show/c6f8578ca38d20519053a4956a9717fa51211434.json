@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "没理想编辑部",
   "apple_collection_id": "1494093522",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "https://shop.vistopia.com.cn/program/116/8c00131310b8fbfa401f6cb5b6dc44be4b22832c",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "活着就是要每天给自己一顿猛夸，没理想编辑部举办首届夸夸大会。"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/f3fdaf471e4dff9a856adfd4a19175af43e16024",
+      "audio_url": "http://cdn5.vistopia.com.cn/e2814f44-adb8-4ac5-ae0f-2e6862d7b313.mp3",
+      "pfad": "/v1/episode/71114b58e4c0142399af03e655b9c260a4ab9a4b.json",
+      "titel": "Vol.240 对话普拉斯：我想写充满生命力的坏女人",
+      "veroeffentlicht": "2026-09-03T20:29:11+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话编剧及喜剧人普拉斯，聊聊创作、生活与复杂性。"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/ccc459d436c4ceef7c20c030d1e1d6c1a95abfbe",
+      "audio_url": "http://cdn5.vistopia.com.cn/dc5343c7-c79b-4ef6-9043-8d2ce188f67e.mp3",
+      "pfad": "/v1/episode/d85f02aa9018d208e5d6f0526cb22357bf0c1c1d.json",
+      "titel": "Vol.239 等不及迎接进阶版的自己了",
+      "veroeffentlicht": "2026-08-29T21:59:11+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成年人离开学校后的兴趣驱动学习与自我更新。"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/4b705bfb54d0dd30105ee8e84398967672abb5af",
+      "audio_url": "http://cdn5.vistopia.com.cn/f14421b2-f01e-401f-a911-54cc9b2ad57e.mp3",
+      "pfad": "/v1/episode/caa09fc7e27c4f56089f5e3d17386d42a77e7e60.json",
+      "titel": "Vol.238 都市独活指南：可以独立，不要自闭",
+      "veroeffentlicht": "2026-08-22T21:59:11+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成年人独立生活的经历与应对生活的节奏"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/283d6eb2b8993307c301ce1be8fb4ff67d8a139a",
+      "audio_url": "http://cdn5.vistopia.com.cn/04a8e680-c364-4eee-a34c-5a15984b3001.mp3",
+      "pfad": "/v1/episode/83e2ba7ea07902dec35178758d219b0affc0c9e7.json",
+      "titel": "Vol.237 对话《问心》编剧周艺飞：难熬的时候别回头",
+      "veroeffentlicht": "2026-08-06T19:59:14+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话《问心》编剧周艺飞：女性创作者的十三年坚守"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/379721ff4237eccb9cdbbff9af1d2a969ca608b9",
+      "audio_url": "http://cdn5.vistopia.com.cn/0412854b-cdef-4282-9d4b-41c41de5ff5f.mp3",
+      "pfad": "/v1/episode/32e7739bec12e7213c461274b4826b289794f3f1.json",
+      "titel": "Vol.236 虽然没挣到钱，但起码累着了",
+      "veroeffentlicht": "2026-08-01T21:59:03+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊混乱生活中的自我管理与寻找生活掌控感的小妙招。"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/3b7492c612fd25a0281dc20107b0016228533faf",
+      "audio_url": "http://cdn5.vistopia.com.cn/6c22ed15-27a2-471e-8ed2-fb081998d5ba.mp3",
+      "pfad": "/v1/episode/7fe9eca6df69fc6d1165e13db6503c427da0a9a4.json",
+      "titel": "Vol.235 和刘旸教主聊天：不比赛了，先好好生活",
+      "veroeffentlicht": "2026-07-22T20:59:02+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与刘旸教主聊聊暂停比赛后的生活与创作"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/9b7cbc471c4175f138c9fadda83a33b4670bc27c",
+      "audio_url": "http://cdn5.vistopia.com.cn/d3132471-3e11-4163-99c6-89eff220608a.mp3",
+      "pfad": "/v1/episode/f328beb27a9b6bdcd583f996f9db315761bd155b.json",
+      "titel": "Vol.234 心灵扫灰聊天会：如何放下比较心？",
+      "veroeffentlicht": "2026-07-18T21:59:02+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨人类的比较心与焦虑来源"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/8463552f3c33964048749c9101ee06a311964db5",
+      "audio_url": "http://cdn5.vistopia.com.cn/e80937af-b73b-44d0-a784-7acb508e0a91.mp3",
+      "pfad": "/v1/episode/d04128131f8eac6bbecbd45eae3e642f4b1f015b.json",
+      "titel": "Vol.233 对话脱口秀演员鸭绒：被看到得越晚，被看到的就越多",
+      "veroeffentlicht": "2026-07-15T19:59:02+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话脱口秀演员鸭绒：讲述她的创作、淘汰与进化"
+    },
+    {
+      "guid": "https://shop.vistopia.com.cn/program/116/10a6b91e6220d5c186b912ee24e5f96495cb06d6",
+      "audio_url": "http://cdn5.vistopia.com.cn/522a7ce1-c303-4f8c-90a5-bc0770889f79.mp3",
+      "pfad": "/v1/episode/51ff7cc46c77c0d329ef3804b9fecefeeaacd73e.json",
+      "titel": "Vol.232 好想不吃压力地活一次",
+      "veroeffentlicht": "2026-07-11T22:19:03+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何从“照单全收”转向“不吃压力”，健康地与压力相处。"
     }
   ]
 }

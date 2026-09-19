@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "What's Next｜科技早知道",
   "apple_collection_id": "1494812579",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "f98c4370-6653-4af3-9a43-386bf0ea0547",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3",
+      "pfad": "/v1/episode/4c1a5d9ff269c3e77b2217e1389a63cbacce426c.json",
+      "titel": "Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30",
+      "veroeffentlicht": "2026-09-18T17:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Snap历时十年推出的新款AR眼镜SPECS及XR行业的未来走势。"
+    },
+    {
+      "guid": "b59d5e79-65af-4a1a-ac50-b54e665474ad",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d5e79-65af-4a1a-ac50-b54e665474ad.mp3",
+      "pfad": "/v1/episode/aa5a81121bca6851a0e8dff2334dfc16c98057d7.json",
+      "titel": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
+      "veroeffentlicht": "2026-09-09T17:45:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI for Science的技术路径、生命科学世界模型与科研应用"
+    },
+    {
+      "guid": "cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3",
+      "pfad": "/v1/episode/77c47a21ceec4fa1d111d11a48e6a4e337e2d7bd.json",
+      "titel": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28",
+      "veroeffentlicht": "2026-09-02T16:45:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Google DeepMind 高层变动与 Gemini 发展现状"
+    },
+    {
+      "guid": "587619bb-62c2-485d-9f27-f0be0115a986",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/587619bb-62c2-485d-9f27-f0be0115a986.mp3",
+      "pfad": "/v1/episode/0796c662098ce71a432a596a4a0d3dac4e34631d.json",
+      "titel": "硅谷「最性感」工作落地中国：一个 FDE 的「救火」日常 | S10E27",
+      "veroeffentlicht": "2026-08-26T16:45:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨被誉为硅谷最性感工作的 FDE 在中国企业的真实落地日常"
+    },
     {
       "guid": "4a50d4a3-a6ff-4c89-b754-367b73ce924b",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "宇树科技上市引发机器人板块震荡，商业化和估值逻辑亟待重构"
+    },
+    {
+      "guid": "d9e11e3b-7c7e-4beb-b19f-6f90fff38714",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d9e11e3b-7c7e-4beb-b19f-6f90fff38714.mp3",
+      "pfad": "/v1/episode/906fca7d4a88ab416904d026f849fdda347d1ded.json",
+      "titel": "【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41",
+      "veroeffentlicht": "2026-08-19T16:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话朱雀三号副总师董锴，探讨中国商业火箭回收的技术路线与挑战。"
+    },
+    {
+      "guid": "a6b360da-07f7-4d9e-ab1b-64a7130e9254",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6b360da-07f7-4d9e-ab1b-64a7130e9254.mp3",
+      "pfad": "/v1/episode/61043207a373615b4ad73b4d520ad7834330946d.json",
+      "titel": "用 AI 让我们变笨了吗？| S10E25",
+      "veroeffentlicht": "2026-08-12T17:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨 AI 对学习和记忆的影响及睡眠的作用"
+    },
+    {
+      "guid": "a3884ade-4669-4d5c-ab2e-f98aa580f429",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a3884ade-4669-4d5c-ab2e-f98aa580f429.mp3",
+      "pfad": "/v1/episode/0fd76ea4b78acc0bb373fca2ad57c4e3dab655a6.json",
+      "titel": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+      "veroeffentlicht": "2026-08-06T20:45:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话贾扬清：回顾人工智能数年巨变与创业经历"
+    },
+    {
+      "guid": "a6c6ab3e-72b2-470b-aefd-04b19679d37f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6ab3e-72b2-470b-aefd-04b19679d37f.mp3",
+      "pfad": "/v1/episode/5b746958112588b0f06bfa9a26f3ea81d0b1343b.json",
+      "titel": "国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23",
+      "veroeffentlicht": "2026-07-27T16:45:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "国产 AI 算力能凭「超节点」弯道超车吗"
+    },
+    {
+      "guid": "9a652c19-ceb3-46c2-87b4-bca36e684311",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a652c19-ceb3-46c2-87b4-bca36e684311.mp3",
+      "pfad": "/v1/episode/eb6cd6ad4d627c55cee6c4e5874a5f474a42e608.json",
+      "titel": "可以给你的 Agent 发一点零花钱了 | S10E22",
+      "veroeffentlicht": "2026-07-22T17:15:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨智能体支付的发展现状、巨头布局以及创业公司的机会"
     }
   ]
 }

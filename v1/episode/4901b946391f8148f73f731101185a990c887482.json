@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "https://hosting.wavpub.cn/dao-sub/?p=1344",
+  "apple_collection_id": "1492740686",
+  "show": "科技乱炖",
+  "titel": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_qMEYdkKDnVEDddKeUMDYPwWgcPnXvsjhhaxYRXugebFZdPvcWxpTuZtbNZ-76.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:49:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI技术带来的新冷战预演、监管与分区限制问题",
+  "kurzfassung": "节目从WWDC上苹果AI功能在中国的分区限制切入，讨论了互联网软件全球同步更新的模式如何被监管和地缘竞争重新切割。接着分析了Anthropic高阶模型因被视为核武器而触发出口管制风波。最后探讨了在AI时代，面对可以通过API调用和开源替代的能力，传统贸易禁运是否依然有效。",
+  "stichpunkte": [
+    "WWDC苹果AI新功能在中国市场的可用性限制",
+    "全球软件更新模式受监管、商业利益与地缘竞争的分裂影响",
+    "Anthropic高阶模型因被强调风险高而触发出口管制",
+    "模型厂商、云服务商、政府和开源社区卷入新冷战预演",
+    "当AI能力可通过API调用和开源替代时，传统贸易禁运的有效性问题"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:49:32+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4408,
+  "veroeffentlicht": "2026-06-23T00:30:30+08:00",
+  "beschreibung": "这期节目从一个很现实的尴尬开始：WWDC 上苹果讲了很多 AI 新功能，但中国用户能用到的寥寥无几。技术发布会明明是全球直播，真正落到产品里，却越来越像一张分区地图。这个区能用，那个区不能用；这个模型开放，那个模型又被关掉。过去我们习惯了“软件一上线，全世界一起更新”的互联网想象，现在它正在被监管、出口管制、商业利益和地缘竞争重新切开。\n\n更戏剧性的，是 Anthropic 高阶模型的风波。一个被反复强调“能力太强”“风险太高”的模型，在短暂开放后迅速触发出口管制。问题是，当一家 AI 公司不断把自己的模型比作核武器，政府真的把它当成核武器来管，好像也很难说完全意外。于是，模型厂商、云服务商、美国政府、海外用户、开源社区，被一起卷进了一场荒诞又真实的新冷战预演。\n\n这一期我们聊的不是宏大叙事里的“冷战复刻”，而是 AI 时代更难处理的新问题：如果被管制的不是芯片、导弹、机器，而是一段可以通过 API 调用、可以被复制、可以被开源替代的能力，传统的贸易禁运还管用吗？当技术已经变成信息流动的一部分，想要重新竖起铁幕，最后会不会先挡住自己的商业模式？\n\n相关链接\n\n某高老师的新产品：https://r.daofm.cn/mougaoauv\n听友美国考察团报名： https://1wfx.cn/ustour/\n\n【本期主播】\n\n朱峰：「津津乐道播客网络」创始人，产品及技术专家。（微博：@zhufengme）\n某高老师：「科技乱炖」主播，资深运维专家，互联网和 IT 行业从业20 年，现任某互联网安全公司高管。（微博：@某高老师，Blog：某高老师 – 人间观察）\n高春辉：「科技乱炖」主播。“中国互联网站长第一人”，科技、互联网领域的连续创业者。（微博：@高春辉，微信公众号：老高的互联网杂谈）\n\n【制作团队】\n\n后期 / 卷圈\n封面 / 姝琦\n运营 / 卷圈\n监制 / 姝琦\n产品统筹 / bobo\n场地支持 / 声湃轩北京录音间\n\n【联系我们】\n\n希望大家在听友群和评论区多多反馈收听感受，这对我们来说十分重要。欢迎添加津津乐道小助手微信：dao160301，加入听友群。\n\n【关于「科技乱炖」】\n\n由多名资深从业者主持的科技点评播客，以实际工作中积累的经验为基础，结合实际，把近期科技热点变成犀利、独到、深刻的独家观点。\n\n【关于「津津乐道播客网络」】\n\n在一派纷繁芜杂里，我们为愉悦双耳而生。科技、教育、文化、美食、生活、技能、情绪……严肃认真却不刻板，拒绝空泛浮夸。与专业且有趣的人携手缔造清流，分享经历，传播体验，厘清世界与你的关系。\n\n津津乐道 | 科技乱炖 | 津津有味 | 记者下班 | 不叁不肆 | 厂长来了 | 编码人声 | 沸腾客厅 | 拼娃时代\n\n收听平台\n\n苹果播客 | 小宇宙App | Spotify | 喜马拉雅 | 网易云音乐 | QQ音乐 | 微信听书 | 荔枝FM | 央广云听 | 听听FM | Sure竖耳App | Bilibili | YouTube\n\n联系我们\n\n津津乐道播客官网 | 公众号：津津乐道播客 | 微信：dao160301 | 微博：津津乐道播客 | 商业合作：hi@dao.fm | 版权声明 | RSS订阅\n\n本节目由「声湃 WavPub」提供内容托管和数据服务支持。",
+  "beschreibung_html": "<p>这期节目从一个很现实的尴尬开始：WWDC 上苹果讲了很多 AI 新功能，但中国用户能用到的寥寥无几。技术发布会明明是全球直播，真正落到产品里，却越来越像一张分区地图。这个区能用，那个区不能用；这个模型开放，那个模型又被关掉。过去我们习惯了“软件一上线，全世界一起更新”的互联网想象，现在它正在被监管、出口管制、商业利益和地缘竞争重新切开。</p>\n\n\n\n<p>更戏剧性的，是 Anthropic 高阶模型的风波。一个被反复强调“能力太强”“风险太高”的模型，在短暂开放后迅速触发出口管制。问题是，当一家 AI 公司不断把自己的模型比作核武器，政府真的把它当成核武器来管，好像也很难说完全意外。于是，模型厂商、云服务商、美国政府、海外用户、开源社区，被一起卷进了一场荒诞又真实的新冷战预演。</p>\n\n\n\n<p>这一期我们聊的不是宏大叙事里的“冷战复刻”，而是 AI 时代更难处理的新问题：如果被管制的不是芯片、导弹、机器，而是一段可以通过 API 调用、可以被复制、可以被开源替代的能力，传统的贸易禁运还管用吗？当技术已经变成信息流动的一部分，想要重新竖起铁幕，最后会不会先挡住自己的商业模式？</p>\n\n\n\n<h2>相关链接</h2>\n\n\n\n<ul><li>某高老师的新产品：<a href=\"https://r.daofm.cn/mougaoauv\">https://r.daofm.cn/mougaoauv</a></li><li>听友美国考察团报名： <a href=\"https://1wfx.cn/ustour/\">https://1wfx.cn/ustour/</a></li></ul>\n\n\n\n<h2>【本期主播】</h2>\n\n\n\n<ul><li>朱峰：「津津乐道播客网络」创始人，产品及技术专家。（微博：@zhufengme）</li><li>某高老师：「科技乱炖」主播，资深运维专家，互联网和 IT 行业从业20 年，现任某互联网安全公司高管。（微博：@某高老师，Blog：<a href=\"https://someonegao.com/\">某高老师 – 人间观察</a>）</li><li>高春辉：「科技乱炖」主播。“中国互联网站长第一人”，科技、互联网领域的连续创业者。（微博：@高春辉，微信公众号：老高的互联网杂谈）</li></ul>\n\n\n\n<h2>【制作团队】</h2>\n\n\n\n<p>后期 / 卷圈<br>封面 / 姝琦<br>运营 / 卷圈<br>监制 / 姝琦<br>产品统筹 / bobo<br>场地支持 / 声湃轩北京录音间</p>\n\n\n\n<h2>【联系我们】</h2>\n\n\n\n<p>希望大家在听友群和评论区多多反馈收听感受，这对我们来说十分重要。欢迎添加津津乐道小助手微信：dao160301，加入听友群。</p>\n\n\n\n<h2>【关于「科技乱炖」】</h2>\n\n\n\n<p>由多名资深从业者主持的科技点评播客，以实际工作中积累的经验为基础，结合实际，把近期科技热点变成犀利、独到、深刻的独家观点。</p>\n\n\n\n<h2>【关于「津津乐道播客网络」】</h2>\n\n\n\n<p>在一派纷繁芜杂里，我们为愉悦双耳而生。科技、教育、文化、美食、生活、技能、情绪……严肃认真却不刻板，拒绝空泛浮夸。与专业且有趣的人携手缔造清流，分享经历，传播体验，厘清世界与你的关系。</p>\n\n\n\n<p><a href=\"https://daofm.podcast.xyz/\">津津乐道</a>&nbsp;|&nbsp;<a href=\"https://kejiluandun.podcast.xyz/\">科技乱炖</a>&nbsp;|&nbsp;<a href=\"https://jinjinyouwei.podcast.xyz/\">津津有味</a>&nbsp;|&nbsp;<a href=\"https://yuantanghua.podcast.xyz/\">记者下班</a>&nbsp;|&nbsp;<a href=\"https://busanbusi.podcast.xyz/\">不叁不肆</a>&nbsp;|&nbsp;<a href=\"https://changzhanglaile.podcast.xyz/\">厂长来了</a>&nbsp;|&nbsp;<a href=\"https://bianmarensheng.podcast.xyz/\">编码人声</a>&nbsp;|&nbsp;<a href=\"https://boilingtalk.podcast.xyz/\">沸腾客厅</a>&nbsp;|&nbsp;<a href=\"https://pinwashidai.podcast.xyz/\">拼娃时代</a></p>\n\n\n\n<p><strong>收听平台</strong></p>\n\n\n\n<p>苹果播客 | 小宇宙App | Spotify | 喜马拉雅 | 网易云音乐 | QQ音乐 | 微信听书 | 荔枝FM | 央广云听 | 听听FM | Sure竖耳App | Bilibili | YouTube</p>\n\n\n\n<p><strong>联系我们</strong></p>\n\n\n\n<p><a href=\"https://dao.fm/\">津津乐道播客官网</a>&nbsp;| 公众号：津津乐道播客 | 微信：dao160301 | 微博：<a href=\"https://weibo.com/u/5863422056\">津津乐道播客</a>&nbsp;| 商业合作：hi@dao.fm |&nbsp;<a href=\"https://dao.fm/copyright/\">版权声明</a>&nbsp;|&nbsp;<a href=\"https://feeds.daopub.com/ld.xml\">RSS订阅</a></p>\n\n\n\n<p><strong>本节目由「<a href=\"https://wavpub.com/\">声湃 WavPub</a>」提供内容托管和数据服务支持。</strong></p>",
+  "bild_url": "https://media-one.wavpub.com/covers/7008bf9f-6510-4c43-b035-078e1bfabfff/5769a9c7d2a2512b.jpg"
+}

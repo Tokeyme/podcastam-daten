@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "3 Takeaways™",
   "apple_collection_id": "1526080983",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-19806182",
@@ -13,6 +13,96 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Mark Cuban on AI, spotting hidden business opportunities, and fixing healthcare opacity."
+    },
+    {
+      "guid": "Buzzsprout-19769470",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19769470-can-anyone-stop-a-president-from-starting-a-war-318.mp3",
+      "pfad": "/v1/episode/157fa864d903c598a64c511cc9c01e217e795638.json",
+      "titel": "Can Anyone Stop a President From Starting a War? (#318)",
+      "veroeffentlicht": "2026-09-08T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Examining the limits of presidential war powers and congressional oversight."
+    },
+    {
+      "guid": "Buzzsprout-19726735",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19726735-angela-duckworth-grit-isn-t-enough-317.mp3",
+      "pfad": "/v1/episode/6f076ad3e9ff47784efe8d80146488393e999c8d.json",
+      "titel": "Angela Duckworth: Grit Isn't Enough (#317)",
+      "veroeffentlicht": "2026-09-01T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Why perseverance alone is not enough and how environments shape success."
+    },
+    {
+      "guid": "Buzzsprout-19696225",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19696225-why-doing-the-right-thing-can-make-everything-worse-316.mp3",
+      "pfad": "/v1/episode/a5213fbc7a41eece9097fbc026433bb7287a0c45.json",
+      "titel": "Why Doing the “Right Thing” Can Make Everything Worse (#316)",
+      "veroeffentlicht": "2026-08-25T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Why morally right actions can sometimes produce worse outcomes."
+    },
+    {
+      "guid": "Buzzsprout-19658798",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19658798-the-hidden-weakness-in-america-s-ai-lead-315.mp3",
+      "pfad": "/v1/episode/b663c69bcd5e6ade62d60467eeddaebb1a163a1e.json",
+      "titel": "The Hidden Weakness in America's AI Lead (#315)",
+      "veroeffentlicht": "2026-08-18T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Examining whether America could build the best AI yet still lose the global race."
+    },
+    {
+      "guid": "Buzzsprout-19628431",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19628431-your-brain-is-hiding-the-truth-from-you-314.mp3",
+      "pfad": "/v1/episode/815d0bb1a449ff6c8c61fe4b7182fa87641c6665.json",
+      "titel": "Your Brain Is Hiding the Truth From You (#314)",
+      "veroeffentlicht": "2026-08-11T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Michael Pollan on consciousness, perception, and the nature of reality."
+    },
+    {
+      "guid": "Buzzsprout-19595036",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19595036-putin-s-real-enemy-isn-t-ukraine-313.mp3",
+      "pfad": "/v1/episode/aea5cc09f154b34bd878b3211b33e9c17394b7ee.json",
+      "titel": "Putin’s Real Enemy Isn’t Ukraine (#313)",
+      "veroeffentlicht": "2026-08-04T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Why Vladimir Putin's real threat is not Ukraine's army, with Anne Applebaum."
+    },
+    {
+      "guid": "Buzzsprout-19553468",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19553468-the-wild-true-stories-behind-history-s-greatest-art-thefts-312.mp3",
+      "pfad": "/v1/episode/c74a6f73f518f74272950a8f67c68f367aebf913.json",
+      "titel": "The Wild True Stories Behind History's Greatest Art Thefts (#312)",
+      "veroeffentlicht": "2026-07-28T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The real stories behind history's most famous art thefts."
+    },
+    {
+      "guid": "Buzzsprout-19522763",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19522763-alphabet-google-chairman-john-hennessy-on-the-future-of-ai-human-intelligence-and-leadership-311.mp3",
+      "pfad": "/v1/episode/161f0441b3ad0e2ae0883829302d943c98ccf399.json",
+      "titel": "Alphabet (Google) Chairman John Hennessy on The Future of AI, Human Intelligence, and Leadership (#311)",
+      "veroeffentlicht": "2026-07-21T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "John Hennessy on AI capabilities, human intelligence, and future leadership."
+    },
+    {
+      "guid": "Buzzsprout-19489978",
+      "audio_url": "https://www.buzzsprout.com/1236866/episodes/19489978-how-charisma-really-works-310.mp3",
+      "pfad": "/v1/episode/832a135a8b7c19f7ece6b2fda9f57eeabb10c021.json",
+      "titel": "How Charisma Really Works (#310)",
+      "veroeffentlicht": "2026-07-14T01:00:00-04:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "How charisma works as a learnable skill with Olivia Fox Cabane."
     }
   ]
 }

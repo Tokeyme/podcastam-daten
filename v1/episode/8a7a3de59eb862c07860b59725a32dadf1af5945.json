@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "guid": "2557a1c0-70de-4502-8b1a-6b7b113e4a7e",
+  "apple_collection_id": "1568289153",
+  "show": "CheckPod - Der Podcast mit Checker Tobi",
+  "titel": "CheckPod Klassiker: Lachen | Von kitzligen Tieren und Lach-Yoga",
+  "audio": {
+    "url": "https://media.neuland.br.de/file/2120839/c/feed/checkpod-klassiker-lachen-von-kitzligen-tieren-und-lach-yoga.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:48:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Warum man beim Lachen weint und ob Tiere lachen können.",
+  "kurzfassung": "Diese Folge widmet sich dem Phänomen des Lachens. Dabei wird untersucht, warum Menschen manchmal beim Lachen weinen müssen. Zudem wird der Frage nachgegangen, ob auch Tiere lachen können.",
+  "stichpunkte": [
+    "Gründe für das Weinen beim Lachen",
+    "Die Frage, ob Tiere lachen können",
+    "Die Möglichkeit, sich totzulachen"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:48:45+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1235,
+  "veroeffentlicht": "2026-07-31T06:00:00+02:00",
+  "beschreibung": "Hier sind sie wieder und verkürzen euch die Sommerpause: Die Folgen der ersten CheckPod-Staffel. Unsere Klassiker aus dem Archiv. Hier wird gecheckt, warum man manchmal weinen muss, wenn man lacht? Ob auch Tiere lachen können und ob man sich wirklich totlachen kann? (Autorin: Annabelle Zametzer)\nHier geht es zum Podcast-Tipp \"Das Geheimnis\"\n\nPsst … wir haben noch einen Tipp für dich: In ARD Sounds hörst du jetzt schon die allerneueste Folge vom Checkpod: Checkpod, der Podcast mit Checker Tobi",
+  "beschreibung_html": "<p>Hier sind sie wieder und verkürzen euch die Sommerpause: Die Folgen der ersten CheckPod-Staffel. Unsere Klassiker aus dem Archiv. Hier wird gecheckt, warum man manchmal weinen muss, wenn man lacht? Ob auch Tiere lachen können und ob man sich wirklich totlachen kann? (Autorin: Annabelle Zametzer)</p><p>Hier geht es zum Podcast-Tipp <a href=\"https://1.ard.de/das-geheimnis\">&quot;Das Geheimnis&quot;</a></p>\n<p><strong>Psst … wir haben noch einen Tipp für dich: In ARD Sounds hörst du jetzt schon die allerneueste Folge vom Checkpod: </strong><a href=\"https://1.ard.de/checkpod-checker-tobi\">Checkpod, der Podcast mit Checker Tobi </a></p>",
+  "bild_url": "https://img.br.de/103e2a54-e3a1-447b-8e1d-c765b0a18064.jpeg?w=1800"
+}

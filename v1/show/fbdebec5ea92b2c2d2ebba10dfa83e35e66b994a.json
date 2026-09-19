@@ -2,8 +2,68 @@
   "schema_version": 1,
   "show": "Eine Stunde History - Deutschlandfunk Nova",
   "apple_collection_id": "1111594074",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "DRadio-Wissen-71f1e911",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutschlandfunknova_570_der_prophet_mohammed_20260918_71f1e911.mp3",
+      "pfad": "/v1/episode/5726bfa40bdf1c052d71e76fd289a5dd624be9b7.json",
+      "titel": "Um 570 - Der Prophet Mohammed und die Verbreitung des Islam",
+      "veroeffentlicht": "2026-09-18T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Prophet Mohammed, der Exodus nach Medina und die islamische Expansion."
+    },
+    {
+      "guid": "DRadio-Wissen-48f4162e",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/09/30/deutschlandfunknova_die_gruendung_der_20260930_48f4162e.mp3",
+      "pfad": "/v1/episode/b8bbc6c15c55a5c75f2221e2a7f6cefa178c695a.json",
+      "titel": "Erlebe Eine Stunde History live - Die Gründung der Zentrumspartei",
+      "veroeffentlicht": "2026-09-16T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Gründung der Zentrumspartei in der deutschen Parteienlandschaft"
+    },
+    {
+      "guid": "DRadio-Wissen-ec1cd009",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/09/11/deutschlandfunknova_533_kaiser_justinian_und_20260911_ec1cd009.mp3",
+      "pfad": "/v1/episode/7eb0ef6fdd721685a88985d3bec3a4a65857396d.json",
+      "titel": "533 - Kaiser Justinian und die Vereinheitlichung des Römischen Rechts",
+      "veroeffentlicht": "2026-09-11T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Kaiser Justinian und die historische Bedeutung des Corpus iuris civilis."
+    },
+    {
+      "guid": "DRadio-Wissen-72d2fec1",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/09/04/deutschlandfunknova_4_bis_6_jahrhundert_die_20260904_72d2fec1.mp3",
+      "pfad": "/v1/episode/a418476c55daacd4311d751d9a224877ae1116df.json",
+      "titel": "4. bis 6. Jahrhundert - Die sogenannte Völkerwanderung",
+      "veroeffentlicht": "2026-09-04T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Zur historischen Realität der sogenannten Völkerwanderung im Frühmittelalter."
+    },
+    {
+      "guid": "DRadio-Wissen-92542720",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/08/28/deutschlandfunknova_476_n_chr_der_zerfall_20260828_92542720.mp3",
+      "pfad": "/v1/episode/0bc4d4eb99c83b26016bb865c9e3fad0cfae1ca3.json",
+      "titel": "476 n. Chr. - Der Zerfall Westroms und das Ende der Antike",
+      "veroeffentlicht": "2026-08-28T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Zerfall Westroms 476 n. Chr. und der Übergang von der Antike ins Mittelalter."
+    },
+    {
+      "guid": "DRadio-Wissen-b0ee1d17",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/08/21/deutschlandfunknova_roemische_geschichte_die_20260821_b0ee1d17.mp3",
+      "pfad": "/v1/episode/d37cffbd302acd4215f640d7d3743db81038d654.json",
+      "titel": "395 n. Chr. - Die Teilung des Römischen Reiches",
+      "veroeffentlicht": "2026-08-21T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Teilung des Römischen Reiches im Jahr 395 n. Chr. und ihre Folgen."
+    },
     {
       "guid": "DRadio-Wissen-4badba79",
       "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/08/14/deutschlandfunknova_313_n_chr_kaiser_20260814_4badba79.mp3",
@@ -13,6 +73,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Kaiser Konstantin und die konstantinische Wende sowie der Aufstieg des Christentums"
+    },
+    {
+      "guid": "DRadio-Wissen-e7429478",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/08/07/deutschlandfunknova_132_n_chr_der_bar_kochba_20260807_e7429478.mp3",
+      "pfad": "/v1/episode/95dfc4b6dca27d6bc01dd75f50360c02452fc5c9.json",
+      "titel": "132 n. Chr. - Der Bar-Kochba-Aufstand und die jüdische Diaspora",
+      "veroeffentlicht": "2026-08-07T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Bar-Kochba-Aufstand gegen die römische Besatzung und die Folgen für die Diaspora."
+    },
+    {
+      "guid": "DRadio-Wissen-689a969c",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/07/31/deutschlandfunknova_roemisches_reich_nero_und_20260731_689a969c.mp3",
+      "pfad": "/v1/episode/760930cdc3ee88b7eff91d5e56595e96a31f08f7.json",
+      "titel": "64 n. Chr. - Kaiser Nero und die Christenverfolgung",
+      "veroeffentlicht": "2026-07-31T15:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Brand von Rom im Jahr 64 n. Chr. und die Christenverfolgung unter Kaiser Nero"
+    },
+    {
+      "guid": "DRadio-Wissen-2b7e5c26",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/07/28/deutschlandfunknova_die_tulpenmanie_1637_der_20260728_2b7e5c26.mp3",
+      "pfad": "/v1/episode/2f41147ee0ef88ed30e7e5cd209be220db2ad2e5.json",
+      "titel": "History live - Die Tulpenmanie 1637: Der erste Börsencrash in Europa",
+      "veroeffentlicht": "2026-07-28T17:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die niederländische Tulpenmanie von 1637 und der erste Börsencrash in Europa."
     }
   ]
 }

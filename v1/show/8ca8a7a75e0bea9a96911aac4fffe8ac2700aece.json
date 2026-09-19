@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "科技乱炖",
   "apple_collection_id": "1492740686",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1412",
+      "audio_url": "https://tk.wavpub.com/WPTK_VmrGu1mdU73XrlB8.mp3",
+      "pfad": "/v1/episode/0a32632b0f7b66f586b3c36e57be492a27687001.json",
+      "titel": "Anthropic口中的AI安全，为什么听起来像一场生意保卫战？",
+      "veroeffentlicht": "2026-09-15T23:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Anthropic的AI安全举措与行业竞争的关系"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1405",
+      "audio_url": "https://tk.wavpub.com/WPTK_GAccHPIGFKkPk8Hz-ba044533d184.mp3",
+      "pfad": "/v1/episode/b9c8f51287a71ab688701f1be9b2632c4d279605.json",
+      "titel": "从抢 GPU 到喂 AI，互联网正在悄悄更换主人",
+      "veroeffentlicht": "2026-09-02T23:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英伟达面临的芯片自研挑战、GPU市场现状及互联网面向AI的转型"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1396",
+      "audio_url": "https://tk.wavpub.com/WPTK_Hx8KT5WCDNDoJTOu-28600a8802e2.mp3",
+      "pfad": "/v1/episode/cc52e6f64bf9bee67c4a401c1fb880a81316eea8.json",
+      "titel": "当机器人学会认路，物理世界才真正接上了 AI",
+      "veroeffentlicht": "2026-08-23T23:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨机器人的几十年发展史以及人工智能如何改变机器人。"
+    },
     {
       "guid": "https://hosting.wavpub.cn/dao-sub/?p=1380",
       "audio_url": "https://tk.wavpub.com/WPTK_kBMZF7cce2PscdMn-482034f8644e.mp3",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨无方向盘出行发展，NVIDIA与小马智行深度解析智能驾驶。"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1372",
+      "audio_url": "https://tk.wavpub.com/WPDL_FTEkyTDVpVDFhzSpvJQQZDxYmfxVvMxBbDqmcvMWaPhEMvpgbShXpwZvGP-52.mp3",
+      "pfad": "/v1/episode/b8ea81d8c745dc1972bcfe88b9f4ad82ab3a477b.json",
+      "titel": "期权这张饼，为什么越来越难吃了？",
+      "veroeffentlicht": "2026-08-03T23:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨互联网公司期权纠纷与期权制度的实际价值"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1364",
+      "audio_url": "https://tk.wavpub.com/WPDL_MdPHtxZqwabJxPbTENQdwweRzRGrLTPukcKNdcNGujKeyzpxtJbmbyhLyJ-e3.mp3",
+      "pfad": "/v1/episode/961f73fb4c2c01d7846204996f8e37b0a65bc3f1.json",
+      "titel": "AI 不只比智商，WAIC 和 Kimi K3 透露了什么新竞争",
+      "veroeffentlicht": "2026-07-23T23:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "AI竞争转向工程优化与落地，不再只拼智商"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1359",
+      "audio_url": "https://tk.wavpub.com/WPDL_KxxJhBQKKEbUADbuNNrygGXXjHBbbVAFsBqteXEMbWkrCqTCsJjdQgZscd-c7.mp3",
+      "pfad": "/v1/episode/f6c40e0d26a03a15b51af28fb0bfa672f540eaf4.json",
+      "titel": "把身体数据存起来，可能是普通人最划算的 AI 投资",
+      "veroeffentlicht": "2026-07-07T23:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI如何作为健康管理工具帮助监测身体变化"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1355",
+      "audio_url": "https://tk.wavpub.com/WPDL_BRNJKkpdhUBAZVrrSSCJFMYyryQMtFpEBUQBGknHTLGEPTYdMEUnVjRrpT-a3.mp3",
+      "pfad": "/v1/episode/f52c351a4de96e37f81c13100717c3cd8f1f88bf.json",
+      "titel": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去",
+      "veroeffentlicht": "2026-07-01T23:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨OPC模式的实际痛点与AI创业热潮"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1344",
+      "audio_url": "https://tk.wavpub.com/WPDL_qMEYdkKDnVEDddKeUMDYPwWgcPnXvsjhhaxYRXugebFZdPvcWxpTuZtbNZ-76.mp3",
+      "pfad": "/v1/episode/4901b946391f8148f73f731101185a990c887482.json",
+      "titel": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+      "veroeffentlicht": "2026-06-23T00:30:30+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI技术带来的新冷战预演、监管与分区限制问题"
+    },
+    {
+      "guid": "https://hosting.wavpub.cn/dao-sub/?p=1341",
+      "audio_url": "https://tk.wavpub.com/WPDL_kMjhrEqUVpDWxcjeptqTLztYSmjBSZZnAffJrqzHhjSGUTmMkQgjSWtUkD-9b.mp3",
+      "pfad": "/v1/episode/8259d9f06bb73a925259650da3cc8b4d5fdae076.json",
+      "titel": "我们把 AI 塞进花店后，才知道AI落地有多脏",
+      "veroeffentlicht": "2026-06-08T23:13:05+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "把AI塞进实体花店后，真实的落地过程与面临的各种挑战。"
     }
   ]
 }

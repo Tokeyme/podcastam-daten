@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "Death, Sex & Money",
   "apple_collection_id": "870688022",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "6aa8524a564171e32a38d4a3",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6aa8524a564171e32a38d4a3/media.mp3",
+      "pfad": "/v1/episode/d1886e3bb6febb4cb02627814ce3d013e55c2dfd.json",
+      "titel": "How I “Failed” at OnlyFans",
+      "veroeffentlicht": "2026-09-15T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Creator Anna Blake on financial stability, OnlyFans, and sex work."
+    },
+    {
+      "guid": "6a95d3eb3255edf604b47fb9",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a95d3eb3255edf604b47fb9/media.mp3",
+      "pfad": "/v1/episode/5e59aa4a7eb936f9f3b50056c048ba752f8ff969.json",
+      "titel": "'Pay-What-You-Want' Defies Logic, Confuses Economists, and Can Really Work",
+      "veroeffentlicht": "2026-09-08T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "How the pay-what-you-want business model works in unexpected places."
+    },
     {
       "guid": "6a95cea51d52ae16badf0582",
       "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a95cea51d52ae16badf0582/media.mp3",
@@ -13,6 +33,76 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Listeners share personal stories about secret hard drives, fantasy plot lines, and porn."
+    },
+    {
+      "guid": "6a8cb32e6d62278f83ae68cb",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a8cb32e6d62278f83ae68cb/media.mp3",
+      "pfad": "/v1/episode/21da568911c19af359b75a0d46ce3a8e90bf4c76.json",
+      "titel": "'Humane Eldercare Has Become a Luxury Item’",
+      "veroeffentlicht": "2026-08-25T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Comparing eldercare options in the U.S. and Mexico for parents with dementia."
+    },
+    {
+      "guid": "6a835393ee8d08ccf045da33",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a835393ee8d08ccf045da33/media.mp3",
+      "pfad": "/v1/episode/6832c73c9a805ea9896586f7106034cefe8a755c.json",
+      "titel": "Passive Aggressive vs. ‘Massive Aggressive’ With Novelist Elizabeth Strout",
+      "veroeffentlicht": "2026-08-18T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Novelist Elizabeth Strout on turning 70 and her New England upbringing."
+    },
+    {
+      "guid": "6a7a3a47523b3dfcd87494bb",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a7a3a47523b3dfcd87494bb/media.mp3",
+      "pfad": "/v1/episode/60ca69330adb67ac97b6114159bdb1e5cd916fc8.json",
+      "titel": "A Refreshingly Curious Adventure through Our Divided America",
+      "veroeffentlicht": "2026-08-11T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "YouTuber Peter Santenello on documenting American micro-cultures."
+    },
+    {
+      "guid": "6a70eb0f1272918eee983ca9",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a70eb0f1272918eee983ca9/media.mp3",
+      "pfad": "/v1/episode/05c641d67c491115aa21af225b4f951eac095221.json",
+      "titel": "I Have a Crush on My Therapist. Now What?",
+      "veroeffentlicht": "2026-08-04T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Listener stories about developing romantic feelings for a therapist."
+    },
+    {
+      "guid": "6a67c54fa02cbcf2a1c19c42",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a67c54fa02cbcf2a1c19c42/media.mp3",
+      "pfad": "/v1/episode/159b4c7ed2f164db10b7b542e816716abb62e0d1.json",
+      "titel": "How a Very Polite Danny McBride Creates Characters That Go Berserk",
+      "veroeffentlicht": "2026-07-28T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Danny McBride on creating goofy comedies and fragile blowhard characters."
+    },
+    {
+      "guid": "6a5e8bc9e3a16a6488e37703",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a5e8bc9e3a16a6488e37703/media.mp3",
+      "pfad": "/v1/episode/27076e679f88e238f5185d96b6da58e895efc04b.json",
+      "titel": "The Sexy Soundtrack for the ‘New Black Middle Class’",
+      "veroeffentlicht": "2026-07-21T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The history and cultural resonance of the Quiet Storm music genre."
+    },
+    {
+      "guid": "6a5559d6420a266ecbf0c420",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6a5559d6420a266ecbf0c420/media.mp3",
+      "pfad": "/v1/episode/69ee85ac967f7fc9ad7d1da6aa77f3f221908aa6.json",
+      "titel": "The Pet Detective",
+      "veroeffentlicht": "2026-07-14T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Pet detective Jim Tierney on tracking lost animals in New York City."
     }
   ]
 }

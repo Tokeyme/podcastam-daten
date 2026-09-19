@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "51c55b52-b8a4-44c5-bf6d-c87b6fff273c",
+  "apple_collection_id": "1057255460",
+  "show": "The NPR Politics Podcast",
+  "titel": "How Trump's immigration policy has evolved",
+  "audio": {
+    "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/5fdcc9f9-aaa0-4cb5-8f52-5beddf2165a5/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=5fdcc9f9-aaa0-4cb5-8f52-5beddf2165a5&feed=iDPaKWvZ&t=podcast&e=nx-s1-5962731&p=510310&d=1320&size=21130807",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:50:10+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "How US immigration policy has shifted to limit all forms of immigration.",
+  "kurzfassung": "President Trump shifted federal immigration policy to severely limit all forms of immigration after campaigning to curtail illegal immigration. The episode examines these policy changes and their impacts. NPR reporters discuss the evolution of the administration's approach.",
+  "stichpunkte": [
+    "Trump's campaign platform focusing on curtailing illegal immigration",
+    "The shift in federal policy to severely limit all forms of immigration",
+    "An examination of what has happened and the impacts of the policy",
+    "Discussion featuring voting correspondent Miles Parks, immigration policy correspondent Ximena Bustillo, and White House correspondent Franco Ordoñez"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:50:10+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1320,
+  "veroeffentlicht": "2026-09-09T20:49:23+00:00",
+  "beschreibung": "After campaigning on a platform to curtail illegal immigration to the United States, President Trump has shifted federal immigration policy to severely limit all forms of immigration. We look at what's happened, and what the impacts have been.\n\nThis episode: voting correspondent Miles Parks, immigration policy correspondent Ximena Bustillo, and White House correspondent Franco Ordoñez.\n\nThis podcast was produced and edited by Casey Morell and Bria Suggs.\n\nOur executive producer is Muthoni Muturi.\n\nSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.\n\nSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.\n\nNPR Privacy Policy",
+  "beschreibung_html": "After campaigning on a platform to curtail illegal immigration to the United States, President Trump has shifted federal immigration policy to severely limit all forms of immigration. We look at what's happened, and what the impacts have been.<br/><br/>This episode: voting correspondent Miles Parks, immigration policy correspondent Ximena Bustillo, and White House correspondent Franco Ordoñez.<br/><br/><em>This podcast was produced and edited by Casey Morell and Bria Suggs.</em><br/><br/><em>Our executive producer is Muthoni Muturi.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at </em><em><a href=\"http://plus.npr.org/\"target=\"_blank\"   >plus.npr.org</a></em><em>.</em><br><br/><br/>See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+  "bild_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F2b%2F919e34f84ec3bfc8e318fa559613%2Fcbdaea1c-e158-48b5-8065-c064e3458029.jpg"
+}

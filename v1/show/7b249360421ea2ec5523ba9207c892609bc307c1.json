@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "少数派播客 SSPAI Podcast",
   "apple_collection_id": "1483157529",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "https://sspai.typlog.io/episodes/tim-and-nike",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨 Apple、Nike 与 Tim Cook 之间若隐若现的商业三角关系。"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep142",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MzMzMCwidCI6MX0.Y_04zEwirE9fG30QAtsYggyqvTw/sspai/8244499845_534778.mp3",
+      "pfad": "/v1/episode/c9bb0a50f16fb3e87b802547c2c2e0589aaf8bf4.json",
+      "titel": "专注飞机：用一场虚拟飞行让你保持专注",
+      "veroeffentlicht": "2025-08-18T06:56:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "独立应用《专注飞机》开发者的产品灵感与经历分享"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep141",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Mjc2NCwidCI6MX0.AblIDvHX7kmU03y0mm0LdfE--ws/sspai/8248561987_224948.mp3",
+      "pfad": "/v1/episode/e2c2fdaa26d4a5bafaab5d7ba6ca6a3a06aa0045.json",
+      "titel": "甲骨文了不起，研究它们的人更了不起",
+      "veroeffentlicht": "2025-07-02T06:33:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "甲骨文研究者李右溪做客，聊聊商代生活与科普创作"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep140",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MjcwNSwidCI6MX0.pm70G1IjZYB3FhY1iRK5agpNS_8/sspai/8249079205_853449.mp3",
+      "pfad": "/v1/episode/61a89ce9e1c634d572a30e2bf880560cc7111d82.json",
+      "titel": "播客改变了我们，我们好像也改变了播客",
+      "veroeffentlicht": "2025-06-26T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾播客二十年历程与个人经历"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep139",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MjQzMiwidCI6MX0.wzNOvuv6n1m_HDd2O5wgoxoPY5Y/sspai/8250536650_045532.mp3",
+      "pfad": "/v1/episode/0695b33410201c2af0d28358451f159d3b094c06.json",
+      "titel": "小猫补光灯：一款独立开发作品的简单与复杂",
+      "veroeffentlicht": "2025-06-09T10:03:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨独立作品《小猫补光灯》的开发历程与AI工具应用"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep138",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MTU0MCwidCI6MX0.MOYsIzBTf0LK78v16VnT5HYxik4/sspai/8255098399_602929.mp3",
+      "pfad": "/v1/episode/7a225e0d93f90380f0848edec7f6db93c1fa1920.json",
+      "titel": "从方法到伦理：漫谈 AI 辅助写作",
+      "veroeffentlicht": "2025-04-17T14:56:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨 AI 辅助写作的工具选择、使用方法与伦理"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep137",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MDE5MCwidCI6MX0.5aEnh7wl3_iQyBVwcx6v9FvbREU/sspai/8262485833_018693.mp3",
+      "pfad": "/v1/episode/63eb431bedf8fd06631067c8a65b1117b945d179.json",
+      "titel": "2024 年终盘点：产品、品牌、好内容一锅烩",
+      "veroeffentlicht": "2025-01-22T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2024 年终盘点：产品、品牌与好内容"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep136",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MDEyNiwidCI6MX0.VUr2vQfhXbRNEGCFgjsYnHlRjKA/sspai/8262719831_87638.mp3",
+      "pfad": "/v1/episode/a1e880d70cc0e4756e8c66b61a36bfd701dffe22.json",
+      "titel": "从打工小妹到创业大佬：折腾但精彩的搞钱人生",
+      "veroeffentlicht": "2025-01-19T16:00:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从打工小妹到创业者的经历"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep135",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4MDA0MCwidCI6MX0.B9FImpKOMVTLYxLUnZ-5i9g_I2c/sspai/8263848683_475509.mp3",
+      "pfad": "/v1/episode/cf94fba8078fb7744b95bb760eb54c403696e580.json",
+      "titel": "少数派办公室断电的那段日子，供电全部都靠它",
+      "veroeffentlicht": "2025-01-06T08:16:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "唯电团队分享从内容创业到硬件创业的经历与挑战"
+    },
+    {
+      "guid": "https://sspai.typlog.io/episodes/ep134",
+      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo3OTAxMiwidCI6MX0.dkhfNmUQpYU_qj1iOuhMGBVu0Ek/sspai/8267738519_157533.mp3",
+      "pfad": "/v1/episode/b551c1e2788de3cabcaf14b602d85df1bec08d8c.json",
+      "titel": "对话 Toby：给一加 13 做手机壳，要露出哈苏标吗？",
+      "veroeffentlicht": "2024-11-22T16:00:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话设计师 Toby，探讨一加 13 手机壳共创项目的设计过程"
     }
   ]
 }

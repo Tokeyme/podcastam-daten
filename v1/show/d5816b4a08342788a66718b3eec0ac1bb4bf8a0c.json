@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Burden of Guilt",
   "apple_collection_id": "1711277020",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "94c715e3-b593-44b8-bb40-b4b100e74b01",
@@ -15,6 +15,16 @@
       "einzeiler": "Kenny Hamp faces felony charges until the DA uncovers evidence of parental fabrication."
     },
     {
+      "guid": "98e2e068-dd40-4c98-bb39-b4a301381eff",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/98e2e068-dd40-4c98-bb39-b4a301381eff/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+      "pfad": "/v1/episode/735133d0c92f4697f0b08f9544ddd09c3c9ec0c9.json",
+      "titel": "My Dad | EP 5 | Season 3",
+      "veroeffentlicht": "2026-08-26T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Inconsistencies and escalation in children's forensic interviews."
+    },
+    {
       "guid": "80b31629-e3d6-4283-8bad-b49e0156b257",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/80b31629-e3d6-4283-8bad-b49e0156b257/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
       "pfad": "/v1/episode/574fa266909bc6c279c18a88501d749d48120d73.json",
@@ -23,6 +33,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Kenny Hamp is arrested after a child abuse allegation escalates into a custody battle."
+    },
+    {
+      "guid": "39406962-bf45-4db5-aa22-b49c0140294d",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/39406962-bf45-4db5-aa22-b49c0140294d/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+      "pfad": "/v1/episode/a3bac8fb7a9c509d4ab2e144c4f36852f47cb467.json",
+      "titel": "How to Spot a Predator | EP 3 | Season 3",
+      "veroeffentlicht": "2026-08-12T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Kenny faces additional charges and community fallout in Steamboat Springs."
+    },
+    {
+      "guid": "b47c7c53-b1b3-4be2-8334-b49401349ef9",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/b47c7c53-b1b3-4be2-8334-b49401349ef9/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+      "pfad": "/v1/episode/ec7762614aef95476aa429db060da9a4c6d68c9e.json",
+      "titel": "The Other Shoe | EP 2 | Season 3",
+      "veroeffentlicht": "2026-08-05T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Kenny is arrested for child abuse days after his engagement to Cindy."
+    },
+    {
+      "guid": "b4293e03-2ab3-42ba-9269-b49401332f71",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/b4293e03-2ab3-42ba-9269-b49401332f71/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+      "pfad": "/v1/episode/7d0bf20a6145051c1a70045c6cdfeb1275db3dba.json",
+      "titel": "The Grenade | EP 1 | Season 3",
+      "veroeffentlicht": "2026-07-29T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A mother fights for her children after an unexpected phone call."
+    },
+    {
+      "guid": "5f601aca-2522-4da5-89da-b48e0155f72e",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/5f601aca-2522-4da5-89da-b48e0155f72e/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+      "pfad": "/v1/episode/d4fd3a22c32ba48fd5ab61cbc0d3ae7a3aa7b078.json",
+      "titel": "Introducing: Burden of Guilt Season 3",
+      "veroeffentlicht": "2026-07-22T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A mother faces an impossible choice after her fiancé is accused of abusing her child."
+    },
+    {
+      "guid": "354fd0b2-6127-4be4-8dce-b426010b5fb7",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ec39cd51-11c3-432e-aa44-b08500fd66ca/354fd0b2-6127-4be4-8dce-b426010b5fb7/audio.mp3?utm_source=Podcast&in_playlist=240645c5-ee68-49b9-8b4e-b08501009bb0",
+      "pfad": "/v1/episode/82c2e5382976b8dec488083429c5f74cd64f03be.json",
+      "titel": "Freedom Is Everything | BONUS | Season 2",
+      "veroeffentlicht": "2026-04-16T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The wrongful murder convictions and life sentences of Glenn Davis and Larry Delmore in…"
     }
   ]
 }

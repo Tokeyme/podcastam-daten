@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "69ac6876-5524-4997-bc71-a388fda98783",
+  "apple_collection_id": "1526697745",
+  "show": "PBD Podcast",
+  "titel": "Anthropic AI Warning, Houthis Seize Oil Chokepoint & Lindsay Clancy Juror Doxxed | PBD #855",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/APO8867470251.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:27+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Debating AI safety, Red Sea shipping threats, and political controversies.",
+  "kurzfassung": "The discussion covers whether the United States should slow down the development of artificial intelligence amidst warnings from industry leaders. The panel also examines the seizure of a critical Red Sea position by the Houthis and growing concerns regarding the future of the United Kingdom. Further topics include controversies involving Ilhan Omar's Department of Homeland Security involvement and the doxxing of a Lindsay Clancy holdout juror.",
+  "stichpunkte": [
+    "Debate on whether America should slow the AI race",
+    "Industry leaders raising alarms over powerful AI systems",
+    "Houthis seizing a critical Red Sea position",
+    "Renewed concerns regarding the future of the United Kingdom",
+    "Ilhan Omar's DHS controversy",
+    "Lindsay Clancy's holdout juror doxxing incident"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:27+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 7335,
+  "veroeffentlicht": "2026-09-14T16:43:37+00:00",
+  "beschreibung": "Patrick Bet-David and the Home Team debate whether America should slow the AI race as industry leaders sound the alarm over increasingly powerful systems. They also break down the Houthis’ seizure of a critical Red Sea position, renewed fears over the future of the United Kingdom, Ilhan Omar’s DHS controversy, Lindsay Clancy’s holdout juror, and much more.\n— — —\n👞 Get the NEW Billionaire Suede Loafer:\nhttps://bit.ly/4ym5oRA\n\n👞 Get the FLB1's:\nhttps://bit.ly/4mC4uf6\n\nⓂ️ Connect on Minnect:\nhttps://bit.ly/4kSVkso\n\nⓂ️ PBD Podcast Circles:\nhttps://bit.ly/4mAWQAP\n\n👔 Bet-David Consulting:\nhttps://bit.ly/4lzQph2\n\n🥃 Boardroom Cigar Lounge:\nhttps://bit.ly/4pzLEXj\n\n🇰 Kalshi:\nhttp://kalshi.com/pbd\n\n— — —\n\nSUBSCRIBE TO:\n\nValuetainment:\nhttps://www.youtube.com/@VALUETAINMENT\n\nValuetainment Comedy:\nhttps://www.youtube.com/@ValuetainmentComedy\n\n— — —\n\nABOUT US:\n\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal bestseller “Your Next Five Moves” (Simon & Schuster) and the father of two boys and two girls. He resides in Fort Lauderdale, Florida.",
+  "beschreibung_html": "<p>Patrick Bet-David and the Home Team debate whether America should slow the AI race as industry leaders sound the alarm over increasingly powerful systems. They also break down the Houthis’ seizure of a critical Red Sea position, renewed fears over the future of the United Kingdom, Ilhan Omar’s DHS controversy, Lindsay Clancy’s holdout juror, and much more.</p><p>— — —</p><p>👞 Get the NEW Billionaire Suede Loafer:</p><p>https://bit.ly/4ym5oRA</p><p><br></p><p>👞 Get the FLB1&#39;s:</p><p>https://bit.ly/4mC4uf6</p><p><br></p><p>Ⓜ️ Connect on Minnect:</p><p>https://bit.ly/4kSVkso</p><p><br></p><p>Ⓜ️ PBD Podcast Circles:</p><p>https://bit.ly/4mAWQAP</p><p><br></p><p>👔 Bet-David Consulting:</p><p>https://bit.ly/4lzQph2</p><p><br></p><p>🥃 Boardroom Cigar Lounge:</p><p>https://bit.ly/4pzLEXj</p><p><br></p><p>🇰 Kalshi:</p><p>http://kalshi.com/pbd</p><p><br></p><p>— — —</p><p><br></p><p>SUBSCRIBE TO:</p><p><br></p><p>Valuetainment:</p><p>https://www.youtube.com/@VALUETAINMENT</p><p><br></p><p>Valuetainment Comedy:</p><p>https://www.youtube.com/@ValuetainmentComedy</p><p><br></p><p>— — —</p><p><br></p><p>ABOUT US:</p><p><br></p><p>Patrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal bestseller “Your Next Five Moves” (Simon &amp; Schuster) and the father of two boys and two girls. He resides in Fort Lauderdale, Florida.</p>",
+  "bild_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/7893453/7893453-1789403925736-7a0f20350db1e.jpg"
+}

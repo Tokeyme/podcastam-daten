@@ -2,8 +2,88 @@
   "schema_version": 1,
   "show": "Machtwechsel",
   "apple_collection_id": "1568123217",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "6e3e132854f468ea24eefdceac07bda2",
+      "audio_url": "https://audio.podigee-cdn.net/2597827-m-2492a1039c621e41f451d21705b09067.mp3?source=feed",
+      "pfad": "/v1/episode/9390cdd611f3b5e96c3fd2cab38ab1809fd0dfe4.json",
+      "titel": "Kanzler-Stütze: Wie es zum Bekenntnis der Ministerpräsidenten kam",
+      "veroeffentlicht": "2026-09-18T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das Bekenntnis der CDU-Ministerpräsidenten für Friedrich Merz"
+    },
+    {
+      "guid": "b1608a92bf79240f874730f435f36f29",
+      "audio_url": "https://audio.podigee-cdn.net/2596149-m-3aea5d3d3a0b6795bb982c04c50cd504.mp3?source=feed",
+      "pfad": "/v1/episode/c4040a91ced9b2cf0aa819acf6a9bc1bdb6fd904.json",
+      "titel": "Stützen oder stürzen: Jetzt entscheidet sich die Zukunft des Kanzlers",
+      "veroeffentlicht": "2026-09-16T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Friedrich Merz im Kampf um seine Kanzlerschaft nach den Wahlen"
+    },
+    {
+      "guid": "7b50628110e1800c3d851772d79f24ca",
+      "audio_url": "https://audio.podigee-cdn.net/2592257-m-6e92ed43ea6e990be8b109377862a9ac.mp3?source=feed",
+      "pfad": "/v1/episode/88dad60a3794713af5f36ec19a09911d2726da85.json",
+      "titel": "Machtverfall – wie viel Autorität hat Merz noch?",
+      "veroeffentlicht": "2026-09-11T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie viel Autorität Friedrich Merz als Kanzler und CDU-Vorsitzender noch hat"
+    },
+    {
+      "guid": "559efccb648c1bed8fa742a487d05867",
+      "audio_url": "https://audio.podigee-cdn.net/2589611-m-7f3864ec99a3ba1ac582aa66e1423902.mp3?source=feed",
+      "pfad": "/v1/episode/6b6f0dbb1939a19f203ef60975af9004f4cf4776.json",
+      "titel": "Der Kanzler spricht sich schuldig: Das Beben nach Sachsen-Anhalt",
+      "veroeffentlicht": "2026-09-09T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Folgen der Wahlniederlage in Sachsen-Anhalt für Friedrich Merz und die CDU"
+    },
+    {
+      "guid": "0f7c88c9f5ba857257b698096f6779be",
+      "audio_url": "https://audio.podigee-cdn.net/2586682-m-5d1e87e365c7178847afdd6f2de7b11d.mp3?source=feed",
+      "pfad": "/v1/episode/0e0a88b72446bde5c99a27af8bb6d6ecebcf12ac.json",
+      "titel": "Nachgefragt: Comeback von Spahn? Endkampf im BSW? Revolte gegen Schulze?",
+      "veroeffentlicht": "2026-09-04T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hörerfragen zu Jens Spahn, BSW, CDU Sachsen-Anhalt und deutscher Außenpolitik."
+    },
+    {
+      "guid": "cd0472dcbf5b49ed27b921edf6a50fa3",
+      "audio_url": "https://audio.podigee-cdn.net/2584152-m-202c287288e6995fc935ee10b2dfb6b9.mp3?source=feed",
+      "pfad": "/v1/episode/9c9bf66ca1f1bd08c3941215421f2a80ada8cad5.json",
+      "titel": "Showdown in Sachsen-Anhalt: Wie die CDU an der Macht bleiben will",
+      "veroeffentlicht": "2026-09-02T03:43:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Sven Schulze und die Regierungsbildung nach der Landtagswahl in Sachsen-Anhalt"
+    },
+    {
+      "guid": "96ddb25aacdb9e0ec93f34191651d4eb",
+      "audio_url": "https://audio.podigee-cdn.net/2581421-m-6fb9e8f4d73adead5139d4239dedd11b.mp3?source=feed",
+      "pfad": "/v1/episode/f03dac7acaad811872cc0d364b3e4531174ac070.json",
+      "titel": "Nachgefragt: Sie fragen, wir antworten",
+      "veroeffentlicht": "2026-08-28T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hörerfragen zu Zuckersteuer, Informationsfreiheit und Politik"
+    },
+    {
+      "guid": "1f6359e3bcd3950b3507076639025bcd",
+      "audio_url": "https://audio.podigee-cdn.net/2579583-m-1f098124a3ec3652c5d46cff83af2cbe.mp3?source=feed",
+      "pfad": "/v1/episode/a65836d9af7cafeaaa2af9de223bec49763201f4.json",
+      "titel": "Lechts und Rinks: Wagenknecht als Steigbügelhalter der AfD",
+      "veroeffentlicht": "2026-08-26T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Sommerereignisse, Klimaanpassung und die politische Rolle von Sahra Wagenknecht"
+    },
     {
       "guid": "cf5248b0be3baf12c58ae8580cf325e7",
       "audio_url": "https://audio.podigee-cdn.net/2573681-m-80f4bbf4113f4a0b702a488a91216ad6.mp3?source=feed",
@@ -13,6 +93,16 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Die SPD kriselt: Brandbriefe, Umfrageschwächen und Szenarien für einen Führungswechsel."
+    },
+    {
+      "guid": "78fb4122480713011bab6bbb1bba70a1",
+      "audio_url": "https://audio.podigee-cdn.net/2568842-m-a0ed1ad99caa596e45e67f9d2866a466.mp3?source=feed",
+      "pfad": "/v1/episode/f7155826c48c070ab8412e17f407cfdd246c8525.json",
+      "titel": "Ausgetrickst oder abgeliefert? Der Streit um die Steuerreform",
+      "veroeffentlicht": "2026-08-12T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Steuerreformpläne der Bundesregierung und Debatte über die Flüchtlingspolitik"
     }
   ]
 }

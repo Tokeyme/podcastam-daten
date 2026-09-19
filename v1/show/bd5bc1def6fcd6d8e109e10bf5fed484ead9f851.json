@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "スポーツ報知 新聞ヘッドライン",
   "apple_collection_id": "1619728114",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
     {
       "guid": "203265bcb7d9f2142f72b5ddc873f6a6",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "体育报知5月31日新闻概述，涵盖棒球赛事与相扑协会动态。"
+    },
+    {
+      "guid": "a247dfc61abc5320678cdb4564c0fa8d",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/with-advertise/podcast/a247dfc61abc5320678cdb4564c0fa8d.mp3",
+      "pfad": "/v1/episode/4c94deaaceecdaba98a28155990547747804058c.json",
+      "titel": "スポーツ報知５月３０日",
+      "veroeffentlicht": "2023-05-29T23:20:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "体育报纸头条：读卖巨人队迎接交流赛及相扑等体育新闻"
+    },
+    {
+      "guid": "a1387fdadbcf9c7626c41d298d74ebe5",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/a1387fdadbcf9c7626c41d298d74ebe5.mp3",
+      "pfad": "/v1/episode/31be689e802875352a77a0784bdb193d521ca73b.json",
+      "titel": "スポーツ報知５月２９日",
+      "veroeffentlicht": "2023-05-28T23:46:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "スポーツ報知５月２９日号の新聞ヘッドラインを紹介する。"
+    },
+    {
+      "guid": "939303964a26c21d418914fb1c324172",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/939303964a26c21d418914fb1c324172.mp3",
+      "pfad": "/v1/episode/35e2a69612ee7f6317321291ede69111be84f5f1.json",
+      "titel": "スポーツ報知５月２８日",
+      "veroeffentlicht": "2023-05-27T23:05:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "スポーツ報知５月２８日の新聞ヘッドラインをお届けします。"
+    },
+    {
+      "guid": "214413dacfc75795c56430f4b864253d",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/with-advertise/podcast/214413dacfc75795c56430f4b864253d.mp3",
+      "pfad": "/v1/episode/5dd09ca2306cac14869d5102493c8e9027431d8e.json",
+      "titel": "スポーツ報知５月２７日",
+      "veroeffentlicht": "2023-05-27T00:08:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "スポーツ報知５月２７日の新聞ヘッドラインをお届けします。"
+    },
+    {
+      "guid": "1a6c858f1a5a8b2d38360a202001dd15",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/1a6c858f1a5a8b2d38360a202001dd15.mp3",
+      "pfad": "/v1/episode/58d1c974db09df010371337c16fd6690b1021ef4.json",
+      "titel": "スポーツ報知５月２６日",
+      "veroeffentlicht": "2023-05-25T23:30:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "体育报纸头条：巨人队逆转取胜，日本国家队名单公布及其他体育新闻。"
+    },
+    {
+      "guid": "5c05b7e7b59c97506349712703a1e535",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/5c05b7e7b59c97506349712703a1e535.mp3",
+      "pfad": "/v1/episode/f915c7e1c819e85a23fdb3bba57baafcc0f2a56e.json",
+      "titel": "スポーツ報知５月２５日",
+      "veroeffentlicht": "2023-05-24T23:48:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "スポーツ報知５月２５日の新聞ヘッドラインニュース。"
+    },
+    {
+      "guid": "77974bd14a16c4c8c8632fd4d573d5e6",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/with-advertise/podcast/77974bd14a16c4c8c8632fd4d573d5e6.mp3",
+      "pfad": "/v1/episode/8623fe491527af98dbd78240c5e5f0ded37ef883.json",
+      "titel": "スポーツ報知５月２４日",
+      "veroeffentlicht": "2023-05-24T00:14:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "スポーツ報知５月２４日付の新聞ヘッドラインを紹介する。"
+    },
+    {
+      "guid": "51cefb4f9c9cae06e8cde2b4da8cc2dd",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/51cefb4f9c9cae06e8cde2b4da8cc2dd.mp3",
+      "pfad": "/v1/episode/1a3c6eee92f71a616c76b7c020c2caa7f792dbd2.json",
+      "titel": "スポーツ報知５月２３日",
+      "veroeffentlicht": "2023-05-22T23:40:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "スポーツ報知５月２３日の新聞ヘッドラインニュース"
+    },
+    {
+      "guid": "6c0d28779eaa387a637145fc0dd9e97c",
+      "audio_url": "https://api.robotstart.jp/api/for-media/v1/articles/36640493/permanent/raw/podcast/6c0d28779eaa387a637145fc0dd9e97c.mp3",
+      "pfad": "/v1/episode/02b9152e735821e50c9e53f474f8af705c182934.json",
+      "titel": "スポーツ報知５月２２日",
+      "veroeffentlicht": "2023-05-21T23:53:00+09:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "スポーツ報知５月２２日号の紙面ヘッドラインを紹介する。"
     }
   ]
 }

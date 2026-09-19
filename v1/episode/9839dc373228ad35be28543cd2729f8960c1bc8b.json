@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "guid": "34f4b82b9ca7ba6ea8ace664b33581a9",
+  "apple_collection_id": "461077931",
+  "show": "Stay Forever - Retrogames & Technik",
+  "titel": "Windows 95/98 (SFT 23-1)",
+  "audio": {
+    "url": "https://audio.podigee-cdn.net/2595727-m-a16b0dea909b93c2ab20da7bf4df1ca3.mp3?source=feed",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:53:25+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Nur Zusammenfassungen gewuenscht; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Die Geschichte und technische Entwicklung des Betriebssystems Windows 95.",
+  "kurzfassung": "Henner und Christian beleuchten die Entstehung von Windows 95 und die grafische Evolution von Microsoft-Betriebssystemen. Im Fokus stehen Usability-Tests, die Entwicklung von Startmenü und Taskleiste sowie technische Neuerungen und Grenzen des Systems. Dabei werden auch die DOS-Basis, das Verhältnis zu OS/2 und die Herausforderungen der Hardware-Kompatibilität betrachtet.",
+  "stichpunkte": [
+    "Entwicklung von der Kommandozeile zu frühen grafischen Oberflächen",
+    "Microsofts Verhältnis zu IBM und die Abgrenzung zu Windows NT",
+    "Projektgeschichte von Windows 95 unter dem Codenamen Chicago",
+    "Usability-Tests und die Entstehung von Startbutton und Taskleiste",
+    "Technische Neuerungen wie präemptives Multitasking und Plug and Play",
+    "Praktische Probleme wie Abstürze, Blue Screens und fehlende Sicherheitsmechanismen"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:53:25+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 6077,
+  "veroeffentlicht": "2026-09-15T13:00:00+00:00",
+  "beschreibung": "Henner und Christian sprechen ausführlich in zwei Folgen über Windows 95/98, dies ist Folge 1: Die Windows-Revolution\nWorum geht’s? Windows 95 war weit mehr als nur ein neues Microsoft-Betriebssystem. Mit Startmenü, Taskleiste, Papierkorb, langen Dateinamen, Plug and Play und einer konsequent auf Mausbedienung ausgerichteten Oberfläche veränderte es grundlegend, wie Millionen Menschen mit einem PC arbeiteten. Gleichzeitig blieb unter der modernen Fassade vieles beim Alten: Windows 95 basierte weiterhin auf DOS und war ein komplizierter Hybrid aus 16- und 32-Bit-Technik.\n\nHenner und Chris zeichnen zunächst die Entwicklung von der Kommandozeile zu den grafischen Oberflächen nach. Sie sprechen über die frühen Windows-Versionen, den Erfolg von Windows 3.0 und 3.1 sowie über Microsofts schwieriges Verhältnis zu IBM und OS/2. Während Windows NT als technisch fortschrittliches, aber anspruchsvolles System für Unternehmen entstand, benötigte Microsoft für den wachsenden Massenmarkt ein günstigeres und kompatibleres Windows. Aus verschiedenen Projekten wie Cougar, Panther und Stimpy entwickelte sich schließlich das unter dem Codenamen Chicago bekannte Windows 95.\n\nEin Schwerpunkt der Folge ist die Entstehung der Benutzeroberfläche. In umfangreichen Usability-Tests mit unerfahrenen und erfahrenen Anwendern wurden Programmmanager und Dateimanager, Desktop und Programmstart immer wieder überarbeitet. So entstanden schließlich der Startbutton und die Taskleiste – zwei Elemente, die Windows bis heute prägen. Außerdem geht es um die technischen Neuerungen und Grenzen des Systems: präemptives Multitasking für 32-Bit-Programme, virtuelle Maschinen für DOS-Anwendungen, Plug and Play, verbesserte Netzwerkfunktionen, Multimedia-Unterstützung und die ersten Schritte in Richtung Internet. Dem stehen hohe praktische Anforderungen, häufige Abstürze, Blue Screens, problematische Hardware-Upgrades und ein völliger Mangel an zeitgemäßen Sicherheitsmechanismen gegenüber.\n\nWindows 95 wird am 14. Juli 1995 fertiggestellt und erscheint im August desselben Jahres. Doch ob Microsoft damit tatsächlich den großen Durchbruch schafft und wie das System auf dem Markt aufgenommen wird, ist Thema der zweiten Folge.\n\nCredits\n\nRedaktion, Sprecher: Henner Thomsen, Christian Schmidt\nAudioproduktion und -Schnitt: Sascha Blach-Butte, Christian Schmidt\nTitelgrafik: Johannes DuBois",
+  "beschreibung_html": "Henner und Christian sprechen ausführlich in zwei Folgen über Windows 95/98, dies ist Folge 1: Die Windows-Revolution\n<p><strong>Worum geht’s?</strong> Windows 95 war weit mehr als nur ein neues Microsoft-Betriebssystem. Mit Startmenü, Taskleiste, Papierkorb, langen Dateinamen, Plug and Play und einer konsequent auf Mausbedienung ausgerichteten Oberfläche veränderte es grundlegend, wie Millionen Menschen mit einem PC arbeiteten. Gleichzeitig blieb unter der modernen Fassade vieles beim Alten: Windows 95 basierte weiterhin auf DOS und war ein komplizierter Hybrid aus 16- und 32-Bit-Technik.</p>\n<p>Henner und Chris zeichnen zunächst die Entwicklung von der Kommandozeile zu den grafischen Oberflächen nach. Sie sprechen über die frühen Windows-Versionen, den Erfolg von Windows 3.0 und 3.1 sowie über Microsofts schwieriges Verhältnis zu IBM und OS/2. Während Windows NT als technisch fortschrittliches, aber anspruchsvolles System für Unternehmen entstand, benötigte Microsoft für den wachsenden Massenmarkt ein günstigeres und kompatibleres Windows. Aus verschiedenen Projekten wie Cougar, Panther und Stimpy entwickelte sich schließlich das unter dem Codenamen Chicago bekannte Windows 95.</p>\n<p>Ein Schwerpunkt der Folge ist die Entstehung der Benutzeroberfläche. In umfangreichen Usability-Tests mit unerfahrenen und erfahrenen Anwendern wurden Programmmanager und Dateimanager, Desktop und Programmstart immer wieder überarbeitet. So entstanden schließlich der Startbutton und die Taskleiste – zwei Elemente, die Windows bis heute prägen. Außerdem geht es um die technischen Neuerungen und Grenzen des Systems: präemptives Multitasking für 32-Bit-Programme, virtuelle Maschinen für DOS-Anwendungen, Plug and Play, verbesserte Netzwerkfunktionen, Multimedia-Unterstützung und die ersten Schritte in Richtung Internet. Dem stehen hohe praktische Anforderungen, häufige Abstürze, Blue Screens, problematische Hardware-Upgrades und ein völliger Mangel an zeitgemäßen Sicherheitsmechanismen gegenüber.</p>\n<p>Windows 95 wird am 14. Juli 1995 fertiggestellt und erscheint im August desselben Jahres. Doch ob Microsoft damit tatsächlich den großen Durchbruch schafft und wie das System auf dem Markt aufgenommen wird, ist Thema der zweiten Folge.</p>\n<p>Credits</p>\n<pre><code>Redaktion, Sprecher: Henner Thomsen, Christian Schmidt\nAudioproduktion und -Schnitt: Sascha Blach-Butte, Christian Schmidt\nTitelgrafik: Johannes DuBois\n</code></pre>",
+  "untertitel": "Henner und Christian sprechen ausführlich in zwei Folgen über Windows 95/98, dies ist Folge 1: Die Windows-Revolution",
+  "bild_url": "https://images.podigee-cdn.net/0x,sIqPxHp-BXT2eGsc-lJo4v8VuzR-OR2nBlOSK54Z_HYQ=/https://main.podigee-cdn.net/uploads/u4307/09223f9a-abe6-48ae-bcdf-82d3dbd4b0f8.jpeg",
+  "schlagworte": [
+    "microsoft"
+  ],
+  "folgennummer": 523
+}

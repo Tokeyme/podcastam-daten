@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "13f989a7-cbc1-4e72-b8ac-e09749966527",
+  "apple_collection_id": "1057255460",
+  "show": "The NPR Politics Podcast",
+  "titel": "Voters say the American Dream is dead. Why?",
+  "audio": {
+    "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/094e0669-2ad9-4507-ab25-9f650a9bcd45/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=094e0669-2ad9-4507-ab25-9f650a9bcd45&feed=iDPaKWvZ&t=podcast&e=nx-s1-5969759&p=510310&d=1131&size=18108125",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T09:50:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Why swing voters in Michigan feel frustrated with the economy and politics.",
+  "kurzfassung": "Voters in Michigan express frustration with high costs and a struggling economy. They feel that neither Democrats nor Republicans are solving their problems. This discussion examines how these economic worries could impact the state's Senate race.",
+  "stichpunkte": [
+    "Voter frustration with the current state of the economy",
+    "Concerns over high costs of living",
+    "Dissatisfaction with both Democrats and Republicans",
+    "Potential impact of voter worries on the Michigan Senate race"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T09:50:04+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1131,
+  "veroeffentlicht": "2026-09-15T19:55:42+00:00",
+  "beschreibung": "Voters tell us they're frustrated with the economy, that costs are too high, and that neither Democrats nor Republicans seem able to solve their problems. We listen to swing voters in Michigan to understand how their worries could impact that state's Senate race.\n\nThis episode: senior political correspondent Tamara Keith, congressional reporter Sam Gringlas, and senior national political correspondent Mara Liasson.\n\nThis podcast was produced and edited by Casey Morell and Bria Suggs.\n\nOur executive producer is Muthoni Muturi.\n\nSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.\n\nSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.\n\nNPR Privacy Policy",
+  "beschreibung_html": "Voters tell us they're frustrated with the economy, that costs are too high, and that neither Democrats nor Republicans seem able to solve their problems. We listen to swing voters in Michigan to understand how their worries could impact that state's Senate race.<br/><br/>This episode: senior political correspondent Tamara Keith, congressional reporter Sam Gringlas, and senior national political correspondent Mara Liasson.<br/><br/><em>This podcast was produced and edited by Casey Morell and Bria Suggs.</em><br/><br/><em>Our executive producer is Muthoni Muturi.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at </em><em><a href=\"http://plus.npr.org/\"target=\"_blank\"   >plus.npr.org</a></em><em>.</em><br><br/><br/>See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+  "bild_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2Fda%2F940ab74249b4922c5a16dcfdb578%2F2e6f30e7-2dd9-4230-9e0a-5e6a0a0d95d3.jpg"
+}

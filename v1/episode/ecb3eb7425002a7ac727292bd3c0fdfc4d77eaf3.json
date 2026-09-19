@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "audioboom-01a08f3b-0c7a-7659-8dea-7c3111e03a3d",
+  "apple_collection_id": "1192761536",
+  "show": "Pod Save America",
+  "titel": "Dallas Bribers Club",
+  "audio": {
+    "url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8951660.mp3?modified=1789109612&sid=5166624&source=rss",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T10:07:47+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Adresse traegt eine session_id, Abruf laeuft ueber den Werbedienst podtrac.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Analysis of the GOP midterm convention in Dallas and an interview with Steve Hilton.",
+  "kurzfassung": "Jon and Dan break down the notable moments and speeches from the GOP midterm convention in Dallas. They discuss Donald Trump's conditional financial proposal and contributions from figures like JD Vance, Mike Rogers, Ted Cruz, and John Fetterman. Later, Lovett interviews Steve Hilton, the Republican nominee for California governor, about Trump and housing.",
+  "stichpunkte": [
+    "Donald Trump's conditional $5,000 check proposal for American adults",
+    "JD Vance's preview of his presidential campaign",
+    "Mike Rogers and Ted Cruz addressing the 25th anniversary of 9/11",
+    "Democratic Senator John Fetterman's surprise video appearance",
+    "Lovett's interview with California gubernatorial nominee Steve Hilton"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T10:07:47+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 6508,
+  "veroeffentlicht": "2026-09-11T09:55:00+00:00",
+  "beschreibung": "At the GOP midterm convention in Dallas, Donald Trump promises that he'll give every American adult a $5,000 check if — and only if — Republicans retain control of the Senate and House, a plan so absurd that even his own defenders can't explain it.\nJon and Dan process the most ridiculous moments from the 18 hours of speeches, including JD Vance previewing his presidential campaign, Mike Rogers and Ted Cruz using the 25th anniversary of 9/11 to paint Democrats as terrorist sympathizers, and Democratic Senator John Fetterman's surprise video appearance.\nThen, to cap off a Republican-filled episode, Lovett talks to Steve Hilton, the Republican nominee for California governor, about his relationship with Trump and what it'll take to tackle California's housing crisis.\nHate listening to ads? Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at crooked.com/friends, on Apple Podcasts, or through the Pod Save America YouTube channel.\nYou can request a transcript by emailing transcripts@crooked.com. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.",
+  "beschreibung_html": "<div>\n<p>At the GOP midterm convention in Dallas, Donald Trump promises that he'll give every American adult a $5,000 check if — and only if — Republicans retain control of the Senate and House, a plan so absurd that even his own defenders can't explain it. </p><p>Jon and Dan process the most ridiculous moments from the 18 hours of speeches, including JD Vance previewing his presidential campaign, Mike Rogers and Ted Cruz using the 25th anniversary of 9/11 to paint Democrats as terrorist sympathizers, and Democratic Senator John Fetterman's surprise video appearance. </p><p>Then, to cap off a Republican-filled episode, Lovett talks to Steve Hilton, the Republican nominee for California governor, about his relationship with Trump and what it'll take to tackle California's housing crisis.</p><p><strong>Hate listening to ads? </strong>Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at <a href=\"http://crooked.com/friends\">crooked.com/friends</a>, on Apple Podcasts, or through the Pod Save America YouTube channel.</p><p>You can request a transcript by emailing <a href=\"mailto:transcripts@crooked.com\">transcripts@crooked.com</a>. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</p></div>",
+  "bild_url": "https://audioboom.com/i/43834592.jpg",
+  "folgennummer": 1211
+}

@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "Der KI-Podcast",
   "apple_collection_id": "1698961192",
-  "erzeugt_am": "2026-09-19T04:57:36+00:00",
+  "erzeugt_am": "2026-09-19T10:24:23+00:00",
   "folgen": [
+    {
+      "guid": "07c0b46a-d78b-4dc2-a344-1ca37100a465",
+      "audio_url": "https://media.neuland.br.de/file/2122093/c/feed/warum-moechte-die-ki-industrie-sich-selbst-stoppen.mp3",
+      "pfad": "/v1/episode/bec4619e01d59bce2de9e9b11db08666c190d787.json",
+      "titel": "Warum möchte die KI-Industrie sich selbst stoppen?",
+      "veroeffentlicht": "2026-09-15T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Diskussion über das mögliche Ende der Menschheit durch Künstliche Intelligenz."
+    },
+    {
+      "guid": "67b7ef2e-94a7-4f6f-9051-8494b5e45ec6",
+      "audio_url": "https://media.neuland.br.de/file/2121893/c/feed/gpt6-astra-und-muessen-wir-ki-stoppen.mp3",
+      "pfad": "/v1/episode/a5ef8c68071783167f9376998007f6121d712dee.json",
+      "titel": "GPT6-Astra - und: Müssen wir KI stoppen?",
+      "veroeffentlicht": "2026-09-08T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "GPT-6-Astra, KI-Agenten und die Frage nach einer Entwicklungspause"
+    },
+    {
+      "guid": "118d99be-179e-44aa-b5db-5819d0861cc3",
+      "audio_url": "https://media.neuland.br.de/file/2121692/c/feed/wie-viel-ki-haelt-unser-staat-aus.mp3",
+      "pfad": "/v1/episode/d17e6a8f58a075a834937d1de54542b8c091efa1.json",
+      "titel": "Wie viel KI hält unser Staat aus?",
+      "veroeffentlicht": "2026-09-01T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie Künstliche Intelligenz die Arbeit von Behörden und Ämtern verändert"
+    },
+    {
+      "guid": "dd032ef1-bfd7-48ed-9b3e-757cd2c6d312",
+      "audio_url": "https://media.neuland.br.de/file/2121501/c/feed/sechs-gruende-ki-zu-hassen-stimmen-sie.mp3",
+      "pfad": "/v1/episode/63bb08649d8e89cb70fe3b84ed0d2dc8fa829ff9.json",
+      "titel": "Sechs Gründe, KI zu hassen – stimmen sie?",
+      "veroeffentlicht": "2026-08-25T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Sechs Vorwürfe an KI im Faktencheck"
+    },
     {
       "guid": "e227c17a-c9c5-46a7-b66b-3bfce33023aa",
       "audio_url": "https://media.neuland.br.de/file/2121316/c/feed/hacken-kis-jetzt-einfach-alles-staendig-ueberall.mp3",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Immer mehr KI-Modelle hacken sich unabsichtlich in Systeme und andere Unternehmen ein."
+    },
+    {
+      "guid": "2da6b7b3-b171-4ff5-ba75-462a43ddfbf0",
+      "audio_url": "https://media.neuland.br.de/file/2121138/c/feed/was-stimmt-nicht-mit-dem-microsoft-copilot.mp3",
+      "pfad": "/v1/episode/317efba65759757e2abf221a8cc5ff6c24a12ffd.json",
+      "titel": "Was stimmt nicht mit dem Microsoft Copilot?",
+      "veroeffentlicht": "2026-08-11T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hintergründe zum Microsoft Copilot und seiner Rolle im KI-Rennen"
+    },
+    {
+      "guid": "ec2e2fa1-b3e4-4f27-a25a-ab40b8b44ec3",
+      "audio_url": "https://media.neuland.br.de/file/2120944/c/feed/woran-erkenne-ich-einen-ki-text.mp3",
+      "pfad": "/v1/episode/cada003381453197b37019929446d90b45958079.json",
+      "titel": "Woran erkenne ich einen KI-Text?",
+      "veroeffentlicht": "2026-08-04T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Woran man KI-Texte erkennt und warum sie uns aufregen"
+    },
+    {
+      "guid": "52e8019b-3d20-4672-a276-ee7d73bfe715",
+      "audio_url": "https://media.neuland.br.de/file/2120718/c/feed/openai-vs-huggingface-mega-hack-oder-marketing.mp3",
+      "pfad": "/v1/episode/0a954b423cb6e72bb412b4a90fd3463c17b8297a.json",
+      "titel": "OpenAI vs HuggingFace: Mega-Hack oder Marketing?",
+      "veroeffentlicht": "2026-07-28T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hacks, Marketing oder freier Wille: Was bei OpenAI und Hugging Face passierte."
+    },
+    {
+      "guid": "8758bfc3-af71-47b1-9b57-888f14482f24",
+      "audio_url": "https://media.neuland.br.de/file/2120472/c/feed/wie-baut-man-eine-ki-wenn-man-keine-milliarde-hat.mp3",
+      "pfad": "/v1/episode/9d08edaff0ef4746dcfbbc23fe02281a1865dec9.json",
+      "titel": "Wie baut man eine KI, wenn man keine Milliarde hat?",
+      "veroeffentlicht": "2026-07-21T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Alternative Wege zur Entwicklung von KI bei steigenden Trainingskosten."
+    },
+    {
+      "guid": "bd167dfe-bd7e-4c74-8ef2-7d09ef7a4f0b",
+      "audio_url": "https://media.neuland.br.de/file/2120253/c/feed/muss-ich-bei-jedem-ki-update-neu-prompten-lernen.mp3",
+      "pfad": "/v1/episode/b98c090d5e24344461d5f9a370905f7b41b7550e.json",
+      "titel": "Muss ich bei jedem KI-Update neu Prompten lernen?",
+      "veroeffentlicht": "2026-07-14T04:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Jubiläums-Sprechstunde zu KI-Updates, Workflows und generativen Fehlern"
     }
   ]
 }
