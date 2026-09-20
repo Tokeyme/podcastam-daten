@@ -21,12 +21,12 @@
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
   "einzeiler": "The rise and fall of the ancient Phoenician empire of Carthage.",
-  "kurzfassung": "The episode explores the history of Carthage, from its origins in the Eastern Mediterranean to its central role in the ancient world. It examines the voyages of discovery and settlement undertaken by the Phoenician states. Finally, it details the destruction of the city and the near-er erasure of its memory.",
+  "kurzfassung": "This episode explores the history of Carthage, from its origins in the Phoenician states of the Eastern Mediterranean to its central role in the ancient world. It examines the voyages of discovery and settlement undertaken by the civilization. Finally, it details the destruction of the city and the near-eradication of its memory.",
   "stichpunkte": [
-    "Origins from the Phoenician states of the Eastern Mediterranean",
-    "Voyages of discovery and settlement",
-    "Rise to a central position in the ancient world",
-    "Destruction of the city of Carthage"
+    "Origins of Carthage from the Phoenician states of the Eastern Mediterranean",
+    "Voyages of discovery and settlement by Carthage",
+    "The role of Carthage at the center of the ancient world",
+    "The destruction of the city of Carthage"
   ],
   "kapitel": [],
   "clips": [],

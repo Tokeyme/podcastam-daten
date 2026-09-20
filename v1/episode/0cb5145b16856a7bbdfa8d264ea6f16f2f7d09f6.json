@@ -20,15 +20,13 @@
     "dynamik": "unbestimmt",
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "华为发布纯血鸿蒙HarmonyOS 7，彻底告别安卓",
-  "kurzfassung": "华为正式发布不再兼容安卓应用的纯血鸿蒙操作系统HarmonyOS 7。该系统基于1.1亿行全自研代码，从底层内核到上层框架实现全栈自研。节目探讨了华为告别安卓的技术背景、战略考量以及系统升级后面临的实际问题。",
+  "einzeiler": "华为发布纯血鸿蒙HarmonyOS 7，探讨告别安卓的技术与战略",
+  "kurzfassung": "华为正式发布不再兼容安卓应用的纯血鸿蒙HarmonyOS 7。该系统基于1.1亿行全自研代码，从底层内核到上层应用框架全部自主研发。节目探讨了系统独立背后的技术、战略以及用户升级后可能遇到的问题。",
   "stichpunkte": [
-    "华为发布HarmonyOS 7，采用100%全栈自研的纯血鸿蒙架构",
-    "彻底移除安卓AOSP兼容层，不再支持安卓APK格式应用",
-    "系统基于1.1亿行全自研代码，从底层内核到上层应用全部自主编写",
-    "性能提升15%，256G手机可节省最多22GB存储空间",
+    "华为发布HarmonyOS 7，为中国首个100%全栈自研的纯血手机操作系统",
     "引入智能体亲和系统架构，能够主动猜测用户意图",
-    "鸿蒙终端设备已突破8500万台，原生应用超过10万个"
+    "探讨兼容层对系统性能、功耗和安全的影响",
+    "分析操作系统从兼容走向独立的战略与勇气"
   ],
   "kapitel": [],
   "clips": [],

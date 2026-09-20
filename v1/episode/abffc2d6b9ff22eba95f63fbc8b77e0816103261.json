@@ -20,15 +20,15 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Scott Galloway über Kapitalismus, soziale Medien, KI und Ozempic.",
-  "kurzfassung": "Der Unternehmer und Professor Scott Galloway spricht über seinen Werdegang vom Durchschnittsschüler zum erfolgreichen Gründer. Dabei reflektiert er den Zustand des amerikanischen Kapitalismus und die gesellschaftlichen Folgen digitaler Plattformen. Zudem geht es um die Risiken künstlicher Intelligenz und den möglichen Einfluss von Medikamenten wie Ozempic.",
+  "einzeiler": "Scott Galloway über Wirtschaft, Gesellschaft und den amerikanischen Traum",
+  "kurzfassung": "Der Unternehmer und Professor Scott Galloway spricht über seinen Werdegang und die Bedingungen des amerikanischen Kapitalismus. Er beleuchtet die gesellschaftlichen Folgen digitaler Plattformen und Künstlicher Intelligenz. Zudem diskutiert er den möglichen Einfluss von Medikamenten wie Ozempic auf die Gesellschaft.",
   "stichpunkte": [
-    "Scott Galloways Kindheit in Kalifornien und seine akademischen Anfänge",
-    "Gründung der Beratungsfirma Prophet und unternehmerische Höhen und Tiefen",
-    "Gesellschaftliche Schäden durch digitale Plattformen",
-    "Chancen und Illusionen des amerikanischen Kapitalismus",
+    "Kindheit als Sohn von Einwanderern in Kalifornien",
+    "Ausbildung, Noten und der späte Weg zur Markenstrategie",
+    "Gründung der Beratungsfirma Prophet und wirtschaftliche Auf- und Abstiege",
+    "Kritik an den gesellschaftlichen Folgen digitaler Plattformen",
     "Risiken und Versprechen künstlicher Intelligenz",
-    "Der mögliche Einfluss von Medikamenten wie Ozempic auf die Gesellschaft"
+    "Gesellschaftliche Veränderungen durch Medikamente wie Ozempic"
   ],
   "kapitel": [],
   "clips": [],

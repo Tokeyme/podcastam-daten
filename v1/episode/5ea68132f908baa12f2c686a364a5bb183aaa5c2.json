@@ -24,7 +24,6 @@
   "kurzfassung": "本期节目梳理了OpenAI在企业级应用、临床医疗领域的最新进展。重点介绍了Codex Labs的推出、ChatGPT for Clinicians的开放情况。同时探讨了通过WebSockets提速Agent的方法以及降低上下文成本的新论文。",
   "stichpunkte": [
     "OpenAI推出Codex Labs并面向大型企业推广Codex",
-    "ChatGPT for Clinicians向美国认证临床人员免费开放",
     "Responses API利用WebSockets将agentic loop端到端提速40%",
     "新论文探讨如何将MCP与tools tax的上下文成本降低95%"
   ],

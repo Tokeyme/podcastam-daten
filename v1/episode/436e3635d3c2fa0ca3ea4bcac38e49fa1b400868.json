@@ -21,13 +21,13 @@
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
   "einzeiler": "The history and fall of the Achaemenid Persian Empire.",
-  "kurzfassung": "This episode explores the history of the Achaemenid Persian Empire from its rise out of a ruined world. It examines the construction of grand palaces and monuments, and the empire's relations with other ancient peoples. Finally, it looks at the events that led to the destruction of the Persian capital.",
+  "kurzfassung": "This episode explores the rise of the Achaemenid Persian Empire from the ruins of a previous world. It examines how the empire constructed its grand palaces and monuments, and managed relations with other ancient peoples. Finally, it looks at the events that led to the destruction of the Persian royal palaces.",
   "stichpunkte": [
-    "The rise of the Achaemenid Persian Empire from the rubble of a ruined world",
-    "The construction of grand palaces and monuments on the Iranian Plateau",
-    "The integration of an unprecedented number of people within the empire's borders",
-    "Relations of conflict and cooperation with other ancient peoples",
-    "The events that brought the palaces of the Persian kings down in fire and flame"
+    "The emergence of the Achaemenid Persian Empire on the Iranian Plateau",
+    "Construction of grand palaces and monuments",
+    "Unification of diverse populations within the empire's borders",
+    "Relations, conflict, and cooperation with other ancient peoples",
+    "The destruction of the Persian kings' palaces"
   ],
   "kapitel": [],
   "clips": [],

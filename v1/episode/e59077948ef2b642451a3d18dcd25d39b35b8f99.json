@@ -21,15 +21,12 @@
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
   "einzeiler": "Overview of the upcoming THRIVE events in Rexburg, San Antonio, Boise, and St. George",
-  "kurzfassung": "Announcements and details for four upcoming THRIVE conferences aimed at former and transitioning members of high-demand religions. The events focus on community, healing, and navigating a faith crisis after Mormonism. Dates, locations, and speaker lineups are provided for Rexburg, San Antonio, Boise, and St. George.",
+  "kurzfassung": "Announcing four upcoming THRIVE conferences aimed at former and transitioning members of high-demand religions. The events focus on community building, healing, and navigating a faith crisis after Mormonism. Each event features specific speakers, panels, and presentations covering various aspects of life after high-demand religion.",
   "stichpunkte": [
-    "Upcoming THRIVE events in Rexburg, San Antonio, Boise, and St. George",
-    "Focus on community, healing, and growth after Mormonism",
-    "THRIVE Rexburg scheduled for September 18–19, 2026",
-    "THRIVE San Antonio scheduled for September 26, 2026",
-    "THRIVE Boise scheduled for October 4, 2026",
-    "THRIVE St. George scheduled for March 5–7, 2027",
-    "Overview of speakers and themes for each conference location"
+    "THRIVE Rexburg scheduled for September 18–19, 2026, featuring keynote speaker Britt Hartley alongside Renae Peterson, Erika Nordfelt, and Nan Osborne.",
+    "THRIVE San Antonio scheduled for September 26, 2026, with speakers Alyssa Grenfell, Nathan Hinckley, Megan Conner, Elbert Fish, and Meggan Hayes.",
+    "THRIVE Boise scheduled for October 4, 2026, featuring keynote speaker Dr. John G. Turner, Amy Faragher, Kolby Reddish, and Andrew Propst.",
+    "THRIVE St. George scheduled for March 5–7, 2027, featuring Michael Foley, Chris Bartlett, Sally and Lena Osborne, Kolby Reddish, Dr. Christine Marie, Nomz Bistline, Dr. John Lundwall, and Dr. Julie de Azevedo."
   ],
   "kapitel": [],
   "clips": [],

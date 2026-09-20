@@ -20,17 +20,17 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Oprah Winfrey on finding your unique purpose, authentic power, and calling.",
-  "kurzfassung": "Mel Robbins interviews Oprah Winfrey about living an intentional and authentic life. Oprah discusses her journey from Mississippi to extraordinary success, sharing lessons on intuition and forgiveness. The conversation explores how to recognize your life's purpose and make aligned choices.",
+  "einzeiler": "Oprah Winfrey on finding your unique purpose, authentic power, and life's calling.",
+  "kurzfassung": "Oprah Winfrey shares insights from her journey from poverty in Mississippi to extraordinary success. She discusses how to recognize your life's purpose and listen to your internal GPS. Additionally, she covers topics including intention, forgiveness, and healing difficult relationships.",
   "stichpunkte": [
     "How to recognize the thread of purpose running through your life",
     "Why intention changes work, relationships, and choices",
-    "The question Oprah asks when something in her life is not working",
-    "The importance of being allowed to change your mind",
-    "How to move forward when something painful or unfair happens",
+    "The single question Oprah asks when something is not working",
+    "Oprah's perspective on changing your mind",
+    "How to move forward after painful or unfair events",
     "Oprah's definition of forgiveness",
-    "Healing difficult family relationships",
-    "The spiritual practice Oprah returns to repeatedly"
+    "Healing the relationship with her mother through the '10-gallon versus pint-size' lesson",
+    "The core spiritual practice Oprah returns to repeatedly"
   ],
   "kapitel": [],
   "clips": [],

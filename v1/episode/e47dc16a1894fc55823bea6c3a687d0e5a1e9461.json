@@ -21,14 +21,13 @@
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
   "einzeiler": "Discussion on Fed rate hikes, the oil crisis, and Paramount's California exit.",
-  "kurzfassung": "Patrick Bet-David and the team discuss the Federal Reserve raising interest rates amidst surging inflation and fuel prices. They examine Saudi Arabia's conflict with the Houthis and the broader global oil crisis. Additional topics include Paramount considering leaving California and the ongoing battle over artificial intelligence.",
+  "kurzfassung": "Patrick Bet-David and the team discuss the Federal Reserve raising interest rates amid rising inflation and fuel prices. They examine the global oil crisis and Saudi Arabia's conflict with the Houthis. Additional topics include Paramount threatening to leave California, the debate over artificial intelligence, and a legal case involving Lindsay Clancy.",
   "stichpunkte": [
-    "Federal Reserve raising interest rates for the first time since 2023",
-    "Surging inflation and rising fuel prices",
-    "Saudi Arabia's escalating fight with the Houthis",
-    "The growing global oil crisis",
+    "Surging inflation and fuel prices",
+    "Saudi Arabia and the Houthis amid the global oil crisis",
     "Paramount threatening to leave California",
-    "The ongoing battle over artificial intelligence"
+    "The ongoing battle over artificial intelligence",
+    "Lindsay Clancy's holdout juror"
   ],
   "kapitel": [],
   "clips": [],

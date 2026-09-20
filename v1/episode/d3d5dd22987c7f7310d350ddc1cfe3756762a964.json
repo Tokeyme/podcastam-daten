@@ -20,13 +20,14 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "How US immigration policy has shifted to limit all forms of immigration.",
-  "kurzfassung": "President Trump shifted federal immigration policy to severely limit all forms of immigration after campaigning to curtail illegal immigration. The episode examines these policy changes and their impacts. NPR reporters discuss the evolution of the administration's approach.",
+  "einzeiler": "How Trump's immigration policy has shifted to limit all forms of immigration.",
+  "kurzfassung": "President Trump has shifted federal immigration policy from curtailing illegal immigration to severely limiting all forms of immigration. The episode examines what changes have occurred and analyzes their impacts. Correspondents Miles Parks, Ximena Bustillo, and Franco Ordoñez discuss the developments.",
   "stichpunkte": [
-    "Trump's campaign platform focusing on curtailing illegal immigration",
-    "The shift in federal policy to severely limit all forms of immigration",
-    "An examination of what has happened and the impacts of the policy",
-    "Discussion featuring voting correspondent Miles Parks, immigration policy correspondent Ximena Bustillo, and White House correspondent Franco Ordoñez"
+    "Campaign promises regarding illegal immigration to the United States",
+    "Shifts in federal immigration policy under President Trump",
+    "Severe limitations on all forms of immigration",
+    "Analysis of what has happened and the impacts of the policy changes",
+    "Discussion featuring Miles Parks, Ximena Bustillo, and Franco Ordoñez"
   ],
   "kapitel": [],
   "clips": [],

@@ -21,15 +21,13 @@
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
   "einzeiler": "Recap of the Week 10 Wednesday Veto episode of Big Brother 28",
-  "kurzfassung": "This episode recaps the Week 10 Wednesday Veto events of Big Brother 28. It breaks down Yash's HoH reign, the 13-hour pressure cooker Veto competition, and Drew's Veto win. Additionally, it examines the impact of family videos and the growing tension ahead of the double eviction.",
+  "kurzfassung": "This episode breaks down the events of Week 10 in the Big Brother 28 house. Hosts discuss Yash's HoH reign, the 13-hour Veto competition, and Drew's Veto win. The discussion also covers the impact of family videos and preparations for the upcoming double eviction.",
   "stichpunkte": [
-    "Yash navigates a bribe twist and balances deals with the Icons alliance during his HoH reign",
-    "Houseguests compete in a 13-hour Veto competition and debate its resemblance to the classic pressure cooker",
-    "Emotional family videos boost some houseguests while creating anxiety for Melody and Taylor",
-    "Drew wins the Veto after an intense standoff and swears on his real sister",
+    "Yash navigates a bribe twist and deals with the Icons alliance during his HoH reign",
+    "A 13-hour Veto competition compared to the classic pressure cooker format",
+    "Emotional family videos causing anxiety for Melody and Taylor",
     "Melody uses the house phone as a coping mechanism and attempts to sway the Veto",
-    "Discussion on how the Icons still target Yash and how Drew's secrecy shifts alliance dynamics",
-    "Analysis of upcoming double eviction plans as trust runs thin in the house"
+    "Analysis of alliance dynamics, trust issues, and double eviction plans"
   ],
   "kapitel": [],
   "clips": [],

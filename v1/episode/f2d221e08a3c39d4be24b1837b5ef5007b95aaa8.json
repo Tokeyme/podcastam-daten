@@ -21,14 +21,13 @@
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
   "einzeiler": "First impressions and analysis of the cast for The Traitors US Season 6",
-  "kurzfassung": "The podcast discusses the cast announcement for The Traitors US Season 6. Hosts and guests analyze the strategies and backgrounds of reality TV stars, actors, and content creators joining the show. They examine potential game dynamics as various personalities and playing styles collide.",
+  "kurzfassung": "This episode covers the cast reveal for The Traitors US Season 6. Hosts and guests analyze the lineup featuring reality TV stars, actors, and creators. They discuss potential strategies and game dynamics for the upcoming season.",
   "stichpunkte": [
-    "Analysis of Survivor and Big Brother contestants and their strategic potential",
-    "Evaluation of Bravo stars including Cynthia Bailey, Bronwyn, and Giselle",
-    "Discussion on the casting of Drag Race icon Bianca Del Rio",
-    "Reactions to actors and pop culture figures like Dominic Monaghan and Kristin Chenoweth",
-    "Examination of content creator Bowman's influence on the game dynamics",
-    "Debates on how traditional celebrities and viral personalities will mix in the castle"
+    "Reactions to Survivor and Big Brother contestants",
+    "Analysis of Bravo stars and Housewives meta-game",
+    "Discussion on the inclusion of Drag Race legend Bianca Del Rio",
+    "Review of actors and pop culture figures joining the cast",
+    "Impact of content creators and social media personalities in the game"
   ],
   "kapitel": [],
   "clips": [],

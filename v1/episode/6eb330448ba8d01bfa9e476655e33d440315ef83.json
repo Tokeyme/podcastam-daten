@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_803667912",
+  "apple_collection_id": "1485723113",
+  "show": "电影拉片课 | 硬核影迷进阶必备",
+  "titel": "139《749局》上 醉里挑灯看菊 梦回当年周更",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIMALfeXyAhdhSwNjS7h5.m4a?channel=rss&album_id=29364890&track_id=803667912&uid=189492839&jt=https://aod.cos.tx.xmcdn.com/storages/14e0-audiofreehighqps/83/A3/GKwRIMALfeXyAhdhSwNjS7h5.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 35086667,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T12:26:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; nach 588 Tagen in der Cloud transkribiert, statt weiter auf den Rechner zu warten - das Modell schaetzt Zeitangaben, statt sie zu messen"
+  },
+  "einzeiler": "借《749局》探讨灾难片剧作建制与情境设定",
+  "kurzfassung": "本期节目以备受争议的电影《749局》为引子，探讨了科幻与灾难类型片的剧作规律。主播结合《雷普利》、《阿列夫》、《流浪地球》和《独立日》等作品，深入分析了戏剧性情境的设定、说明性材料的处理以及第三幕高潮地点的选择。节目指出，优秀的类型片必须符合现实逻辑并与观众生活经验产生共鸣。",
+  "stichpunkte": [
+    "停更后复播，主播以2024年看过的影视作品（如《雷普利》、《阿列夫》、《老罗的外孙》）作为开场引入。",
+    "指出土耳其剧《阿列夫》节奏慢且大大方方展现欧洲对土耳其的刻板印象，摄影为主题服务。",
+    "分析《老罗的外孙》视听、场面调度及工整的剧作，认为其基础类型是罪案片而非家庭片。",
+    "通过《749局》的口碑滑铁卢，引出对国产电影创作中忽视基本规律的反思。",
+    "详细对比《流浪地球》、《独立日》与《749局》，探讨灾难片第一幕的建制（Set-up）与戏剧性前提。",
+    "探讨戏剧性情境（Dramatic Situation）的定义、作用及其在虚构故事中的底层逻辑。",
+    "分析说明性材料（Expository Material）在科幻世界观设定中的重要性及其对观众信任感的影响。",
+    "指出《749局》在戏剧性情境设定、城市地名选择及决战地点安排上的逻辑硬伤和脱离实际的问题。"
+  ],
+  "kapitel": [
+    {
+      "titel": "开场与近期观看的优秀剧集推荐",
+      "start": 11.48
+    },
+    {
+      "titel": "从《老罗的外孙》看类型片叠加",
+      "start": 405.44
+    },
+    {
+      "titel": "由《749局》引发的对创作规律的思考",
+      "start": 620.7
+    },
+    {
+      "titel": "灾难片的建制与戏剧性情境设定",
+      "start": 1484.36
+    },
+    {
+      "titel": "对比《流浪地球》与《独立日》的建制处理",
+      "start": 3092.66
+    },
+    {
+      "titel": "《749局》情境设定与逻辑硬伤分析",
+      "start": 4573.7
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T12:26:13+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5756,
+  "veroeffentlicht": "2025-02-08T16:26:13+00:00",
+  "beschreibung": "给大家拜个晚年，蛇年大吉。\n749下，随后就到。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">给大家拜个晚年，蛇年大吉。</p><p style=\"font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;color:#333333;font-weight:normal;text-align:justify;\">749下，随后就到。</p><span><br></span>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/ffab-audiofreehighqps/9C/28/GAqhQ6cLfUeHAAPNqgNjETvq.jpeg",
+  "folgennummer": 1,
+  "kapitel_quelle": "modell"
+}

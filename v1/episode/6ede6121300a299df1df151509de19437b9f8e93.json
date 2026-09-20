@@ -21,15 +21,15 @@
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
   "einzeiler": "使用插件将小红书笔记一键导入Obsidian知识库",
-  "kurzfassung": "介绍如何使用Xiaohongshu Importer Plus插件将小红书内容导入Obsidian。讲解了插件的安装步骤、路径设置和Frontmatter配置。演示了通过复制链接直接导入正文和下载图片的方法。",
+  "kurzfassung": "介绍如何使用Xiaohongshu Importer Plus插件，将小红书收藏的干货文章导入Obsidian。讲解了插件的安装步骤、路径设置以及链接复制与图片下载的操作方法。最后提及可结合AI整理新导入的内容。",
   "stichpunkte": [
-    "介绍Xiaohongshu Importer Plus插件",
+    "解决小红书收藏文章难以查阅和浏览器剪藏信息杂乱的问题",
     "插件的安装与启用步骤",
-    "存储路径与附件目录的设置方法",
-    "Frontmatter资料卡的默认配置",
-    "通过复制链接和粘贴导入笔记的操作流程",
-    "Markdown笔记和图片的自动保存",
-    "结合AI整理新导入内容的后续步骤"
+    "存储目录与附件路径的设置方法",
+    "Frontmatter 资料卡的默认配置",
+    "通过复制链接、粘贴并勾选图片来导入笔记的操作流程",
+    "导入后自动生成 Markdown 笔记与图片存储",
+    "利用 AI 整理新导入内容的后续步骤"
   ],
   "kapitel": [],
   "clips": [],

@@ -20,15 +20,15 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Former megachurch pastor Todd Phillips on his faith deconstruction.",
-  "kurzfassung": "Former megachurch pastor Dr. Todd Phillips discusses his journey out of evangelical Christianity. He reflects on losing his relationship with God and the challenges of no longer being able to preach. Furthermore, he explores topics such as religious psychology, morality without religion, and helping others navigate deconstruction.",
+  "einzeiler": "The continuation of former megachurch pastor Todd Phillips' journey to agnosticism.",
+  "kurzfassung": "Dr. Todd Phillips continues his discussion on leaving evangelical Christianity. He shares the experience of losing his faith, his relationship with God, and his ability to preach. Furthermore, he explores topics such as religious deconstruction, morality without religion, and divine hiddenness.",
   "stichpunkte": [
     "Todd Phillips' journey out of evangelical Christianity",
-    "The experience of losing his relationship with God",
+    "The experience of losing faith and being unable to preach",
     "Transitioning to social media as 'The Deconstructed Pastor'",
-    "Changing views on hell and divine hiddenness",
-    "Faith versus truth and religious psychology",
-    "Morality without religion and whether humanity needs religion"
+    "Changing views on hell, divine hiddenness, and faith versus truth",
+    "Discussing morality without religion and whether humanity needs religion",
+    "Valuing truth over community comfort and relationships with believers"
   ],
   "kapitel": [],
   "clips": [],

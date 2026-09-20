@@ -20,15 +20,13 @@
     "dynamik": "unbestimmt",
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "本期聚焦全球AI游戏与互联网前沿动态",
-  "kurzfassung": "本期节目梳理了近期AI在游戏与互联网领域的发展动态。主要内容包括国产大模型调用量的大幅增长与人形机器人标准体系的发布，以及网易《逆水寒》在GDC展示的AI技术应用。同时探讨了Steam平台生成式AI游戏占比的变化及中外市场态度的差异，并介绍了谷歌的TurboQuant内存压缩算法。",
+  "einzeiler": "聚焦本周AI游戏与互联网前沿动态，涵盖多项行业进展。",
+  "kurzfassung": "本期节目梳理了近期人工智能在游戏与互联网领域的关键动态。内容涉及网易《逆水寒》的AI剧组模式与技术应用，以及国内大模型调用量的增长与具身智能标准。同时探讨了Steam平台上AI游戏占比的变化及中外市场态度的差异，并介绍了谷歌推出的内存压缩算法。",
   "stichpunkte": [
-    "网易《逆水寒》展示AI剧组模式与无限流互动玩法",
-    "国产大模型周调用量突破7.3万亿Token",
-    "工信部发布《人形机器人与具身智能标准体系》",
-    "2026年1月Steam新发布作品中生成式AI的占比情况",
-    "中外市场对AI应用的接受度与态度差异",
-    "谷歌TurboQuant内存压缩算法对大模型性能的影响"
+    "网易《逆水寒》的AI剧组模式与无限流互动玩法",
+    "国内大模型周调用量突破及具身智能标准体系发布",
+    "Steam平台新作中AI渗透率及中外市场态度的差异",
+    "谷歌TurboQuant内存压缩算法在降低内存和提升推理速度方面的表现"
   ],
   "kapitel": [],
   "clips": [],

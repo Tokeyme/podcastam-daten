@@ -20,14 +20,13 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Peruanischer Bauer verklagt RWE wegen schmelzendem Gletscher",
-  "kurzfassung": "Ein peruanischer Bauer verklagt den deutschen Energiekonzern RWE vor Gericht, da sein Haus durch einen schmelzenden Gletscher bedroht wird. Amrai Coen und Anne Kunze besprechen die juristischen Herausforderungen, globale Verantwortung bei der Klimakrise nachzuweisen. Dabei geht es auch um die Frage, ob die Klimakrise als Verbrechen verhandelt werden könnte.",
+  "einzeiler": "Peruanischer Bauer verklagt RWE wegen schmelzenden Gletschers.",
+  "kurzfassung": "Ein peruanischer Bauer zieht gegen den Energiekonzern RWE vor Gericht, da sein Haus durch einen schmelzenden Gletscher bedroht wird. Amrai Coen und Anne Kunze diskutieren darüber, ob ein einzelnes Unternehmen für die Folgen des Klimawandels juristisch zur Verantwortung gezogen werden kann. Dabei geht es um die Schwierigkeit, globale Verantwortung nachzuweisen, und die Frage, ob die Klimakrise als Verbrechen verhandelt werden könnte.",
   "stichpunkte": [
     "Klage eines peruanischen Bauern gegen den Energiekonzern RWE",
     "Bedrohung eines Hauses durch einen schmelzenden Gletscher",
-    "Frage der juristischen Verantwortung von Unternehmen für den Klimawandel",
-    "Schwierigkeit, globale Verantwortung vor Gericht nachzuweisen",
-    "Überlegung, ob die Klimakrise als Verbrechen verhandelt werden kann"
+    "Frage der juristischen Verantwortung einzelner Unternehmen für den Klimawandel",
+    "Überlegung, ob die Klimakrise als Verbrechen verhandelt werden könnte"
   ],
   "kapitel": [],
   "clips": [],

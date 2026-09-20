@@ -20,14 +20,13 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Katherina Reiche über Wirtschaft, Energie und ihren Weg in der Politik",
-  "kurzfassung": "Katherina Reiche spricht über ihre Kindheit in der DDR und das Aufwachsen in einer Unternehmerfamilie. Sie blickt auf den Mauerfall und die Umbrüche der Nachwendezeit zurück. Zudem thematisiert sie ihren Weg vom Chemiestudium in Politik und Wirtschaft sowie ihren Blick auf Energie und Industrie.",
+  "einzeiler": "Gespräch mit Katherina Reiche über Wirtschaft, Energie und ihren Lebensweg.",
+  "kurzfassung": "Katherina Reiche spricht über ihre Kindheit und Jugend in der DDR sowie die Erfahrungen ihrer Unternehmerfamilie. Sie schildert ihren Weg von der Chemie über die Politik bis in die Energiewirtschaft. Dabei geht sie auf ihren Blick auf Industrie und unternehmerische Verantwortung ein.",
   "stichpunkte": [
-    "Kindheit in der DDR und Aufwachsen in einer Unternehmerfamilie",
-    "Erfahrungen mit Zwangsverstaatlichung und Rückgabe des Betriebs",
-    "Der Mauerfall und die Umbrüche der Nachwendezeit",
-    "Wechsel vom Chemiestudium in Politik und Wirtschaft",
-    "Blick auf Industrie, Energie und unternehmerische Verantwortung"
+    "Kindheit und Aufwachsen in einer Unternehmerfamilie in der DDR",
+    "Erfahrungen mit Zwangsverstaatlichung und der Rückgabe des Betriebs nach der Wiedervereinigung",
+    "Das Lebensgefühl zwischen Anpassung, Eigensinn und der Rolle als Kapitalistenkind",
+    "Entscheidung für das Chemiestudium und der Weg in Politik und Wirtschaft"
   ],
   "kapitel": [],
   "clips": [],

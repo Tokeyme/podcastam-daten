@@ -20,14 +20,15 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 0 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Diskussion über die Ursachen des AfD-Aufstiegs und die Wirkung der Brandmauer.",
-  "kurzfassung": "Paul Ronzheimer diskutiert mit Andreas Rödder und Justus Bender über die Gründe für den Aufstieg der AfD. Dabei geht es um die Rolle der Brandmauer, die Politik Angela Merkels und den Umgang mit Migration. Im Streitgespräch wird erörtert, ob politische Ausgrenzung und Moralismus zur Radikalisierung beigetragen haben.",
+  "einzeiler": "Diskussion über die AfD-Stärke und die Wirkung der Brandmauer.",
+  "kurzfassung": "Paul Ronzheimer diskutiert mit Andreas Rödder und Justus Bender über die Ursachen des AfD-Aufstiegs. Im Mittelpunkt stehen dabei die Frage nach den Auswirkungen der Brandmauer sowie die Rolle von Migration und früheren politischen Entscheidungen. Dabei wird erörtert, ob politische Positionen zu lange moralisiert und ausgegrenzt wurden.",
   "stichpunkte": [
     "Ursachen für den Aufstieg der AfD",
-    "Auswirkungen der Brandmauer auf die Partei",
-    "Die Rolle der Politik von Angela Merkels",
-    "Fehler im Umgang mit Migration und gesellschaftlichen Konflikten seit 2015",
-    "Moralisierung und Ausgrenzung politischer Positionen"
+    "Die Rolle und Wirkung der politischen Brandmauer",
+    "Einfluss von Migration und der Politik seit 2015",
+    "Fehler der Union und Umgang mit gesellschaftlichen Konflikten",
+    "Diskussion über Moraliserung und Ausgrenzung politischer Positionen",
+    "Medien und der Umgang mit Wählern der AfD"
   ],
   "kapitel": [],
   "clips": [],

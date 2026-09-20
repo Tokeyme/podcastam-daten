@@ -20,14 +20,14 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Der Weg von Herr Reff vom Schüler mit Abitur 3,5 zum bekannten Lehrer",
-  "kurzfassung": "Herr Reff spricht über seinen unkonventionellen Schulalltag und seine Bekanntheit auf Social Media. Im Gespräch mit Bettina Böttinger geht es um seine von Armut und Gewalt geprägte Jugend. Zudem thematisiert er die Fluchtgeschichte seiner Eltern aus dem Nahen Osten.",
+  "einzeiler": "Wie Herr Reff vom Schüler mit 3,5er-Abitur zum bekannten Lehrer wurde.",
+  "kurzfassung": "Herr Reff spricht über seinen Weg zum Lehrer und seinen Alltag an einer Schule mit hohem Migrationsanteil. Im Gespräch mit Bettina Böttinger geht es um seine von Flucht und Gewalt geprägte Familiengeschichte. Zudem thematisiert er sein Buch „Der Stärkere hört zu“ und wie er seine Erfahrungen nutzt, um Schülern Halt zu geben.",
   "stichpunkte": [
-    "Werdegang von Herr Reff mit einem 3,5er-Abitur",
-    "Alltag an einer Schule mit 80 Prozent Migrationsanteil",
-    "Veröffentlichung des Buches „Der Stärkere hört zu“",
-    "Familiäre Migrationsgeschichte und Flucht aus dem Nahen Osten",
-    "Umgang mit eigenen schmerzhaften Erfahrungen im Klassenzimmer"
+    "Weg zum Lehrer trotz 3,5er-Abitur und schwieriger Jugend",
+    "Familiengeschichte mit Flucht aus dem Nahen Osten und Abschiebung",
+    "Verarbeitung von Gewalt und Verluste durch Bombenangriffe",
+    "Inhalte des autobiografischen Buches „Der Stärkere hört zu“",
+    "Einsatz eigener Erfahrungen als Vorbild für Schüler"
   ],
   "kapitel": [],
   "clips": [],

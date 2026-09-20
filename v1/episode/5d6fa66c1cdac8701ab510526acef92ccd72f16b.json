@@ -20,16 +20,14 @@
     "dynamik": "unbestimmt",
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "使用Xiaohongshu Importer Plus将小红书内容导入Obsidian",
-  "kurzfassung": "本期节目介绍如何通过Xiaohongshu Importer Plus插件，将小红书收藏的干货文章高效导入Obsidian知识库。内容涵盖插件的安装步骤、路径设置以及具体的导入操作流程。最后探讨如何利用AI进一步整理导入的内容。",
+  "einzeiler": "使用Xiaohongshu Importer Plus插件将小红书内容导入Obsidian",
+  "kurzfassung": "本期节目介绍如何使用Xiaohongshu Importer Plus插件，将小红书收藏的干货文章高效导入Obsidian知识库。内容涵盖插件的安装步骤、路径设置、Frontmatter配置以及具体的导入操作流程。最后探讨如何利用AI进一步整理导入的内容，让知识库运转起来。",
   "stichpunkte": [
-    "Xiaohongshu Importer Plus插件介绍",
-    "插件的安装与启用步骤",
-    "默认笔记文件夹与图片文件夹的路径设置",
-    "Frontmatter资料卡的配置方法",
-    "复制链接并导入小红书笔记的操作流程",
-    "Markdown笔记与图片的自动保存",
-    "利用AI整理新加入的干货内容"
+    "Xiaohongshu Importer Plus插件的安装与启用步骤",
+    "Obsidian中默认笔记目录和附件目录的路径设置",
+    "Frontmatter资料卡的配置与筛选应用",
+    "复制链接并使用插件导入正文及自动下载图片的具体操作",
+    "利用AI整理新导入干货以构建完整知识库"
   ],
   "kapitel": [],
   "clips": [],

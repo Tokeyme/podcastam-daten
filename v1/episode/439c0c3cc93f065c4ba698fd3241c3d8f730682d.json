@@ -20,14 +20,13 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Melanie Amann über Journalismuskrise, Social Media und rechte Tabubrüche",
-  "kurzfassung": "Melanie Amann spricht über die Krise des klassischen Journalismus im Zeitalter sozialer Medien. Sie reflektiert über ihr Interview mit Ben Berndt und die Frage, ob etablierte Medien das Publikum mit AfD-Warnungen überreizt haben. Zudem geht es um gesellschaftliche Gleichgültigkeit gegenüber Tabubrüchen und die Rolle konfrontativer Frauen in Talkshows.",
+  "einzeiler": "Melanie Amann über Journalismuskrise, Social Media und rechte Tabubruche",
+  "kurzfassung": "Melanie Amann diskutiert die Krise des klassischen Journalismus und den Einfluss von Social Media auf den politischen Diskurs. Sie reflektiert über ein umstrittenes Interview, die Berichterstattung über die AfD und neue Gesprächsstile. Zudem thematisiert das Gespräch demokratische Krisen und den Umgang mit Frauen in Talkshows.",
   "stichpunkte": [
-    "Relevanz des klassischen Journalismus angesichts neuer Formate",
-    "Kritik am Umgang mit rechtsextremen Akteuren in Interviews",
-    "Selbstkritik bezüglich belehrender Warnungen vor der AfD",
-    "Gesellschaftliche Gleichgültigkeit gegenüber rechten Tabubrüchen",
-    "Doppelstandards für konfrontative Frauen in Talkshows"
+    "Relevanz des klassischen Journalismus im Zeitalter von Social-Media-Millionenpublikum",
+    "Das Aufeinandertreffen mit Ben Berndt und Kritik an unkritischer Bühne für Rechtsextreme",
+    "Selbstkritik an potenziell belehrenden Warnungen vor der AfD durch etablierte Medien",
+    "Doppelstandards für konfrontative Frauen in Talkshows und eigene Medienerfahrungen"
   ],
   "kapitel": [],
   "clips": [],

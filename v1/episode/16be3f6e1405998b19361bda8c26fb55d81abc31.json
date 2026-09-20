@@ -20,15 +20,15 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Five potential forces threatening the future of America with Victor Davis Hanson.",
-  "kurzfassung": "Historian Victor Davis Hanson discusses the consequences of America losing its global standing. The conversation covers domestic and international issues, including immigration, foreign relations, and the Founding Fathers. Additionally, they examine the five specific forces that could threaten the nation's future.",
+  "einzeiler": "Five forces that could threaten America's future with Victor Davis Hanson.",
+  "kurzfassung": "Historian Victor Davis Hanson discusses the potential loss of America's global standing. He analyzes key geopolitical and domestic issues including immigration, Europe, and the Middle East. The conversation also covers the limits of American power, the Founding Fathers, and agriculture.",
   "stichpunkte": [
-    "Discussion on what happens if America loses its place in the world",
-    "Analysis of five forces threatening America's future",
+    "America's potential loss of its place in the world",
+    "Five forces that could threaten America's future",
     "Immigration and its impact",
-    "Europe's future and foreign policy regarding Iran and Israel",
-    "The limits of American power",
-    "The influence of the Founders and farming"
+    "Europe's future and the limits of American power",
+    "Geopolitical situations involving Iran and Israel",
+    "The Founding Fathers and American agriculture"
   ],
   "kapitel": [],
   "clips": [],

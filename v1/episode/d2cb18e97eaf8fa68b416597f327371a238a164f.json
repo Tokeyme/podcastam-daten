@@ -20,15 +20,13 @@
     "dynamik": "unbestimmt",
     "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "英伟达与谷歌成立AI能源联盟探讨人工智能时代的电力瓶颈",
-  "kurzfassung": "英伟达与谷歌宣布成立AI能源联盟，旨在帮助人工智能数据中心解决电力短缺与调度问题。节目探讨了AI产业对电力的巨大消耗及其对电网带来的压力。同时介绍了错峰用电、相关调度软件测试以及AI在制造业和医药研发中的应用。",
+  "einzeiler": "英伟达与谷歌成立AI能源联盟，探讨AI时代的电力瓶颈。",
+  "kurzfassung": "英伟达与谷歌宣布成立AI能源联盟，旨在解决AI数据中心面临的巨大电力消耗问题。节目探讨了AI数据中心对电网造成的压力以及通过错峰用电来节省电力成本的方案。同时提及了物理AI和AI在制药领域的应用。",
   "stichpunkte": [
-    "英伟达与谷歌成立AI能源管理联盟以帮数据中心省电",
-    "训练大型AI模型的耗电量巨大且正成为电网的新压力源",
+    "英伟达和谷歌成立AI能源管理联盟以帮数据中心省电",
+    "AI数据中心成为电网新压力源且训练大模型耗电巨大",
     "通过错峰用电在电网闲时多用、忙时少用来缓解电力紧张",
-    "联盟计划从现有电力系统中释放最高100吉瓦容量",
-    "AI电力调度软件已在全球5个商业数据中心完成测试",
-    "韩国政府宣布投入10亿美元推动物理AI进入制造业",
+    "韩国政府投入10亿美元推动物理AI进入制造业",
     "诺和诺德与Anthropic合作利用AI加速新药研发"
   ],
   "kapitel": [],

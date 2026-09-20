@@ -20,14 +20,12 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (Umleitungsziel schickt Alter/Geschlecht an den Werbeserver (aw_0_1st.*), die Werbung wird je Abruf ausgewaehlt, kein ETag und Cache-Control \"max-age=0\", Last-Modified liegt nur 1 s vor dem Abruf, Abruf laeuft ueber den Werbedienst adswizz) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "Der Streit zwischen Sir Arthur Conan Doyle und Harry Houdini.",
-  "kurzfassung": "Im Juni 1922 findet in Atlantic City eine Séances statt, an der Sir Arthur Conan Doyle, seine Frau Jean Leckie und Harry Houdini teilnehmen. Dabei wird versucht, Kontakt zu Houdinis verstorbener Mutter aufzunehmen. Die Folge beleuchtet die Geschichte der Zauberkunst und die Entstehung des Konflikts zwischen den beiden ehemaligen Freunden.",
+  "kurzfassung": "Im Juni 1922 findet in Atlantic City eine Séance mit Sir Arthur Conan Doyle, seiner Frau Jean Leckie und Harry Houdini statt. Ziel ist der Kontakt zu Houdinis verstorbener Mutter. Die Folge beleuchtet eine kurze Geschichte der Zauberkunst und den Bruch der Freundschaft zwischen Houdini und Doyle.",
   "stichpunkte": [
-    "Eine Séance im Juni 1922 in Atlantic City",
-    "Teilnahme von Sir Arthur Conan Doyle, Jean Leckie und Harry Houdini",
-    "Der Versuch, Kontakt zu Houdinis verstorbener Mutter aufzunehmen",
+    "Eine Séance im Juni 1922 in einem Hotel in Atlantic City",
+    "Teilnehmer sind Sir Arthur Conan Doyle, Jean Leckie und Harry Houdini",
     "Eine kurze Geschichte der Zauberkunst",
-    "Die Entwicklung vom Freundschaftsverhältnis zum Konflikt zwischen Houdini und Doyle"
+    "Der Übergang von Freundschaft zu Gegnerschaft zwischen Houdini und Doyle"
   ],
   "kapitel": [],
   "clips": [],

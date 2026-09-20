@@ -20,16 +20,17 @@
     "dynamik": "dynamisch",
     "grund": "Auslieferung wird je Abruf neu zusammengesetzt (adswizz vergibt je Abruf eine listeningSessionID, AIS leitet ueber hash_redirect um, Last-Modified liegt nur 6 s vor dem Abruf, Abruf laeuft ueber den Werbedienst simplecastaudio.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
   },
-  "einzeiler": "USA bremsen bei KI, Europa will aufholen und Russland setzt auf Eskalation.",
-  "kurzfassung": "In den USA fordern IT-Experten eine Verlangsamung des KI-Wettrennens, während Europa in der Entwicklung mehr Tempo machen will. Ein internationales Expertengremium hat dazu eine neue Strategie vorgestellt, die Lisa Hegemann einordnet. Zudem warnt Polens Ministerpräsident Donald Tusk vor russischen Angriffen, die sich der Grenze nähern, was Jörg Lau als außenpolitischer Korrespondent beleuchtet.",
+  "einzeiler": "USA bremsen bei KI, Europa will aufholen und Polens Furcht vor Russland",
+  "kurzfassung": "US-Experten fordern ein langsameres Wettrennen bei künstlicher Intelligenz, während Europa Tempo aufholen möchte. Ein neues Expertengremium schlägt Strategien für die EU vor, um Position und Sicherheit zu stärken. Zudem thematisiert die Folge Russlands Angriffe nahe der polnischen Grenze und die Geschichte der Hupe.",
   "stichpunkte": [
-    "Warnungen von IT-Experten vor den Gefahren künstlicher Intelligenz in den USA",
+    "Warnungen von IT-Experten vor den Gefahren von künstlicher Intelligenz in den USA",
     "Forderung nach einem langsameren Wettrennen um die besten KI-Modelle",
-    "Europäische Strategie für mehr Tempo und Anschlussfähigkeit bei KI",
-    "Maßnahmen für einen sicheren Umgang mit leistungsfähigen KI-Modellen",
-    "Warnung von Polens Ministerpräsident Donald Tusk vor russischen Angriffen",
-    "Näher rückende Angriffe an die polnische Grenze und die Frage nach einer bewussten Eskalation",
-    "Die Geschichte der Hupe"
+    "Europas Bestreben, mehr Tempo bei KI zu machen und den Anschluss nicht zu verlieren",
+    "Vorgestellte Strategie eines internationalen Expertengremiums zur Stärkung der EU",
+    "Sicherer Umgang mit leistungsfähigen KI-Modellen",
+    "Warnungen von Polens Ministerpräsident Donald Tusk vor russischen Angriffen auf polnisches Gebiet",
+    "Russische Angriffe und Drohnenvorfälle nahe der polnischen Grenze",
+    "Die Hupe und ihre Geschichte"
   ],
   "kapitel": [],
   "clips": [],
