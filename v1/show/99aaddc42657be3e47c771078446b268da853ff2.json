@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "友的聊播客",
   "apple_collection_id": "1573666385",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2022/02/10/2923282025486929926_hd.mp3",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "影评人陈世勇和编剧韩景龙盘点2021年第四季度上映的影视作品。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/12/06/2910991211771835398_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/12/06/2910991211771835398_hd.mp3",
+      "pfad": "/v1/episode/b006aba24a0ba0b52ce951c5d34e224708d4b55a.json",
+      "titel": "第609期 路上有花 / 保持一点距离",
+      "veroeffentlicht": "2021-12-06T12:24:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨动物世界的奇妙与鸟类相关话题"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/11/19/2907876306659548166_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/11/19/2907876306659548166_hd.mp3",
+      "pfad": "/v1/episode/b0d028c0b16d4bffb927e5449af1a04f80f6cb91.json",
+      "titel": "第608期 路上有花 / 怎么玩都好玩",
+      "veroeffentlicht": "2021-11-19T17:27:50+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨今年Dice Con桌游展的变化、克苏鲁与剧本杀趋势及合家欢游戏推荐。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/08/15/2890033796738047494_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/08/15/2890033796738047494_hd.mp3",
+      "pfad": "/v1/episode/daba3b5a99872f1dacc45f98f89a3c7c98a16976.json",
+      "titel": "第606期 路上有花 / 那么，就从掷骰子开始",
+      "veroeffentlicht": "2021-08-20T08:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨桌游行业的近况与剧本杀的发展"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/08/08/2888763948560750598_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/08/08/2888763948560750598_hd.mp3",
+      "pfad": "/v1/episode/18c2f883787f29d37d3005bd1a80e0597008ce12.json",
+      "titel": "第605期 2021年第二季度影视盘点（下）",
+      "veroeffentlicht": "2021-08-13T08:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2021年第二季度国内院线上映的影片。"
     }
   ]
 }

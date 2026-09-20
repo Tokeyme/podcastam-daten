@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "69786d550c314a9fed85ad4a",
+  "apple_collection_id": "1659278074",
+  "show": "一周科技回顾 | WTR",
+  "titel": "Siri被Gemini夺舍了",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69786d550c314a9fed85ad4a/media.xyzcdn.net/6325db2caafc5c394512dddf/liFiRpPi12tHjor_BYCpdaYLP-9l.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:53:24+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨英伟达Rubin平台、苹果接入Gemini及相关科技动态",
+  "kurzfassung": "本期节目讨论了英伟达发布的Rubin平台及相关硬件参数，分析了谷歌Gemini模型将支持Siri的消息。同时关注了Apple Pay绑定Visa及苹果推出Creator Studio订阅制等内容。",
+  "stichpunkte": [
+    "英伟达发布Rubin平台及DLSS 4.5等相关信息",
+    "谷歌确认Siri将使用Gemini模型并在本地及云端运行",
+    "国内Apple Pay支持绑定Visa并即将支持MasterCard",
+    "苹果发布Creator Studio并改为订阅制",
+    "ChatGPT Go推出至更多国家并开始测试广告"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:53:24+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 2718,
+  "veroeffentlicht": "2026-01-27T08:14:28+00:00",
+  "beschreibung": "科技新闻\n22:23 Nvidia 发布Rubin平台 阅读理解：“平台”而非“架构”\n60系显卡要等到明年\nVera CPU，内存带宽翻倍\n相比Blackwell各个参数都有50%以上的提升\nDLSS 4.5\n\n25:58 Google确认Siri将会使用Gemini模型 运行在iPhone本地和Private Cloud Compute上\nApple每年给Google 10亿美元\n\n31:57 国内Apple Pay支持绑定Visa 即将支持MasterCard\n\n34:03 Apple 发布 Creater Studio 改为订阅制： 38元每月 或 380元每年\n12.99美元每月 或 129美元每年\n学生只要2.99 USD / 18 RMB\n\n41:00 ChatGPT Go推出到更多国家 8美元/月\n没有Sora，Codex\n\n41:59 ChatGPT 开始测试广告 免费版和Go订阅中出现\n与此同时，Google表示短时间内不会在Gemini App中加入广告\n\n主持人：彪彪 & 钊钊\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<h1>科技新闻</h1><ul>  <li>22:23 Nvidia 发布Rubin平台    <ul>      <li>阅读理解：“平台”而非“架构”</li>      <li>60系显卡要等到明年</li>      <li>Vera CPU，内存带宽翻倍</li>      <li>相比Blackwell各个参数都有50%以上的提升</li>      <li>DLSS 4.5</li>    </ul>  </li>  <li>25:58 &nbsp;&nbsp;&nbsp;&nbsp;Google确认Siri将会使用Gemini模型    <ul>      <li>运行在iPhone本地和Private &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cloud Compute上</li>      <li>Apple每年给Google &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10亿美元</li>    </ul>  </li>  <li>31:57 &nbsp;&nbsp;&nbsp;&nbsp;国内Apple Pay支持绑定Visa    <ul>      <li>即将支持MasterCard</li>    </ul>  </li>  <li>34:03 &nbsp;&nbsp;&nbsp;&nbsp;Apple 发布 Creater Studio    <ul>      <li>改为订阅制：        <ul>          <li>38元每月 或 380元每年</li>          <li>12.99美元每月 或 129美元每年</li>          <li>学生只要2.99 USD / 18 RMB</li>        </ul>      </li>    </ul>  </li>  <li>41:00 ChatGPT Go推出到更多国家    <ul>      <li>8美元/月</li>      <li>没有Sora，Codex</li>    </ul>  </li>  <li>41:59 ChatGPT 开始测试广告    <ul>      <li>免费版和Go订阅中出现</li>      <li>与此同时，Google表示短时间内不会在Gemini App中加入广告</li>    </ul>  </li></ul><p>主持人：彪彪 &amp; 钊钊</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69786d550c314a9fed85ad4a?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fo7DC_rt2J_lBpg0axqPYPLn8rLG.png"
+}

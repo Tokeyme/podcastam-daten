@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "健康相对论",
   "apple_collection_id": "1804867308",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa1146a16f0a4973a147786",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6aa1146a16f0a4973a147786/media.xyzcdn.net/67ca84168cc48a09df2e1220/liyBHoTxWJNI0EfJzuVPJL8r2fXj.m4a",
+      "pfad": "/v1/episode/886ed7b4a959cf807ca72b2f854bc563eb630cfc.json",
+      "titel": "076.“中国脑健康月”三大元凶围攻年轻人：睡不够、刷太多、 多任务",
+      "veroeffentlicht": "2026-09-10T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨睡眠不足、短视频成瘾和多任务处理对年轻人大脑的影响。"
+    },
+    {
+      "guid": "6a8e8b64ef65145dfcc59f1e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a8e8b64ef65145dfcc59f1e/media.xyzcdn.net/67ca84168cc48a09df2e1220/ljgKzDf9xcJR6CajaESFZhVgSyMg.m4a",
+      "pfad": "/v1/episode/7fce5a77c4c7247599f799fa163f0cfd5f673d26.json",
+      "titel": "075.空调续命指数爆表？室内闷着也能中暑",
+      "veroeffentlicht": "2026-08-27T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨室内中暑的成因、级别以及预防与急救方法。"
+    },
     {
       "guid": "6a7978c517676351c56f835c",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a7978c517676351c56f835c/media.xyzcdn.net/67ca84168cc48a09df2e1220/lsr8T5xAI0T8ybQJ8cSJ5UnPkNCj.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "下午三点总犯困？这可能是血糖在坐过山车，而非单纯的劳累。"
+    },
+    {
+      "guid": "6a730790ab3a91c24a1045b4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a730790ab3a91c24a1045b4/media.xyzcdn.net/67ca84168cc48a09df2e1220/lqt8yjJrF8MqBbt_dzhq6cqB17ZL.m4a",
+      "pfad": "/v1/episode/f63237dcb5589b0f6e32bc0b3fded2d0c58cf755.json",
+      "titel": "073.卷不动躺不平？她选择做一团“行走的阳气”",
+      "veroeffentlicht": "2026-08-06T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "前媒体人贾布讲述从创业失败到转型艺术讲解大V的经历与生活方式"
+    },
+    {
+      "guid": "6a5f2e7fa3fec224d5a0fcae",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a5f2e7fa3fec224d5a0fcae/media.xyzcdn.net/67ca84168cc48a09df2e1220/lgJ2YWaegHxvDzvzb6Dm5Vp3JVPB.m4a",
+      "pfad": "/v1/episode/9f19d57fe21efb60bbd6217fe309b666b3cb7596.json",
+      "titel": "072.2026 世界人工智能大会八大健康看点： AI医生、机器人药房、脑机接口弹钢琴，AI从“聊天”变成了“干活”！",
+      "veroeffentlicht": "2026-07-23T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2026世界人工智能大会上的八大医疗健康AI应用看点"
+    },
+    {
+      "guid": "6a56065827a4eec16c408782",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a56065827a4eec16c408782/media.xyzcdn.net/67ca84168cc48a09df2e1220/lkOdmvNRudAIhWbhnMRYln41hLWd.m4a",
+      "pfad": "/v1/episode/adabde730bf0af02e450756bb8e2b71cfde65a75.json",
+      "titel": "071. 脆皮中年骨骼自救指南：请收好这份养骨方案！",
+      "veroeffentlicht": "2026-07-16T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中青年骨质疏松问题及骨骼保养方案"
+    },
+    {
+      "guid": "6a4c84252e335a35a80f5120",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a4c84252e335a35a80f5120/media.xyzcdn.net/67ca84168cc48a09df2e1220/lnA73WpH5Chpc7QBAKE4Hsm1ZCdb.m4a",
+      "pfad": "/v1/episode/36b1da3eee8408c77f76411b10455870f26217c2.json",
+      "titel": "070.牛奶杯端起又放下，张文宏VS徐文兵到底听谁的？",
+      "veroeffentlicht": "2026-07-09T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国人是否适合喝牛奶及张文宏与徐文兵观点分歧"
+    },
+    {
+      "guid": "6a4475389d2f574368409522",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a4475389d2f574368409522/media.xyzcdn.net/67ca84168cc48a09df2e1220/ljdaxKzR9odBdv8ZYOcDmSpt21br.m4a",
+      "pfad": "/v1/episode/30168d40ba618efd46f8f872140a423f432da2b4.json",
+      "titel": "069.你是“瘦胖子”吗？——请查收这份身体成分表！",
+      "veroeffentlicht": "2026-07-02T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读身体成分表，探讨体重、体脂与体型管理"
+    },
+    {
+      "guid": "6a3a149f2e335a35a807db2d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a3a149f2e335a35a807db2d/media.xyzcdn.net/67ca84168cc48a09df2e1220/lk5yoe7rytaU_a9bKT0aoeHxukDw.m4a",
+      "pfad": "/v1/episode/9b1047c9e2e456fc6da95bc08f95f627ff3d7790.json",
+      "titel": "068.特朗普体检报告“健康”？4倍阿司匹林背后的健康真相",
+      "veroeffentlicht": "2026-06-25T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨特朗普体检报告背后的健康真相与精英健康管理模式"
+    },
+    {
+      "guid": "6a30ee714233e62bc54ab49a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ca84168cc48a09df2e1220/6a30ee714233e62bc54ab49a/media.xyzcdn.net/67ca84168cc48a09df2e1220/lnTCukxowZTz11L--PCJQuYWKAxP.m4a",
+      "pfad": "/v1/episode/eaa16703138436d506ead4f0cacdee1b016e123e.json",
+      "titel": "067.和一位学了三次量子力学的博士，聊了聊按摩仪里的“可观测量”",
+      "veroeffentlicht": "2026-06-18T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从物理学角度拆解市面主流按摩仪的核心技术与选购逻辑"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "TechEdge科技前沿",
   "apple_collection_id": "1739063993",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6850199e2a38b4d979f2e8b1",
@@ -13,6 +13,56 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "剖析玛氏公司的百年发展历程、家族传承、经营理念与全球化布局。"
+    },
+    {
+      "guid": "662229090322834dcb51b4ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6557700613eec372d9545905/662229090322834dcb51b4ca/media.xyzcdn.net/lmC8Y97Ey_dZmcTlXxxuF_rPj_My.m4a",
+      "pfad": "/v1/episode/69edc4f614bc60c37e984332aa00c5ef789e4bf0.json",
+      "titel": "快公司EP3|创意产业巨人Adobe-AIGC狂潮下发展启示录",
+      "veroeffentlicht": "2024-04-19T08:19:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全面分析Adobe公司的发展历史、产品线、财务表现及其对中国软件公司的启示"
+    },
+    {
+      "guid": "66027f0d1519139e4faa8b15",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6557700613eec372d9545905/66027f0d1519139e4faa8b15/media.xyzcdn.net/lq_CZPe0c_yCV6HGWmjIc_N3MA5s.m4a",
+      "pfad": "/v1/episode/cd48828485d31cf0463b5fcfed39dd0c96fb03cc.json",
+      "titel": "快公司EP2|传感器之王-滝崎武光与基恩士的传奇",
+      "veroeffentlicht": "2024-03-26T07:53:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "基恩士创始人滝崎武光的创业传奇与传感器发展史"
+    },
+    {
+      "guid": "660114bc1519139e4f69cfe5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6557700613eec372d9545905/660114bc1519139e4f69cfe5/media.xyzcdn.net/lse9eLkrsUGgvJhWRmhiGe1KF3Iu.m4a",
+      "pfad": "/v1/episode/2ff4f2daae5c191948181d745cd1c56df8cb8e88.json",
+      "titel": "深行业EP1|前阿里巴巴CEO加入并购基金,解构并购基金的运作",
+      "veroeffentlicht": "2024-03-25T06:07:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨前阿里CEO张勇加入并购基金及并购基金的运作机制。"
+    },
+    {
+      "guid": "65fa59c8696bd9a879408a04",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6557700613eec372d9545905/65fa59c8696bd9a879408a04/media.xyzcdn.net/liOKKhWeMnEA3rk0dUKv-gtWro4w.m4a",
+      "pfad": "/v1/episode/ad23cf30782d188fc32b4bf3e3599813d6d54faa.json",
+      "titel": "在最近的GTC2024大会上，英伟达公司再次展示了其在人工智能领域的领导地位",
+      "veroeffentlicht": "2024-03-20T03:36:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨GTC2024大会、Perplexity创新排名及小米财报。"
+    },
+    {
+      "guid": "65f8f7c1676495707926fa46",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6557700613eec372d9545905/65f8f7c1676495707926fa46/media.xyzcdn.net/lsN21PUWDwDABkl-JBmH2IEpcPev.m4a",
+      "pfad": "/v1/episode/e0e0fd227cd9c7b6fd03564349204b84cd6d9f58.json",
+      "titel": "每日科技和美股快讯",
+      "veroeffentlicht": "2024-03-19T02:26:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "英伟达推出GB200芯片，高通发布骁龙8s，恒大地产被重罚。"
     }
   ]
 }

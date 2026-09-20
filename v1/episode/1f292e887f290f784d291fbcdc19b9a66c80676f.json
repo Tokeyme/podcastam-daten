@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6a8966331352af56ff3a3801",
+  "apple_collection_id": "1819845149",
+  "show": "Hao的游戏PM笔记",
+  "titel": "【油管解读】AI时代怎么做设计：Paper 创始人的 3 个共识和 2 个分歧",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64a2eb1e891aae15d26a4a3f/6a8966331352af56ff3a3801/media.xyzcdn.net/64a2eb1e891aae15d26a4a3f/ls3rosFxarRHBio3rzft95wgVKSD.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:25:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI时代的设计工具Paper、代码即事实源与游戏资产验收标准。",
+  "kurzfassung": "本期节目拆解了AI原生设计工具Paper创始人Steven Haney的演示。节目探讨了使用HTML/CSS作为渲染引擎的原因以及代码作为单一事实源的作用。同时，结合游戏团队日常，讨论了如何识别和消除AI设计痕迹以及如何将验收标准写成agent指令。",
+  "stichpunkte": [
+    "Paper使用HTML/CSS做渲染引擎的优势与对agent的支持",
+    "代码即事实源如何解决设计稿与代码对不上的问题",
+    "AI生成设计的常见痕迹及其识别与收敛方法",
+    "将资深经验转化为agent能读懂的审美与排版指令",
+    "游戏团队如何将AI痕迹写进资产验收标准"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:25:52+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 699,
+  "veroeffentlicht": "2026-08-31T00:00:00+00:00",
+  "beschreibung": "📝 本期摘要\nHao的游戏PM笔记本期拆解了 YC Design Review 节目里 Paper 创始人 Steven Haney 的演示。Paper 是一个用 HTML/CSS 做渲染引擎的 AI 原生设计工具，让 agent 直接读写设计文件，把「代码即事实源」落到设计流程里。Hao 结合游戏团队的日常，聊了 AI 设计痕迹怎么变成美术验收标准、单一事实源怎么解决配置漂移、以及怎么把资深经验写成 agent 能读的指令。\n❓ 本期讨论了这些问题\nAI 时代的设计工具为什么用 HTML/CSS 当渲染引擎？\n\n为什么说「代码即事实源」能解决设计稿和代码永远对不上的问题？\n\nAI 生成的设计有哪些一眼能认出来的痕迹，怎么去掉？\n\n游戏美术的 AI 资产验收，怎么把「AI 味」变成可检查的条目？\n\n游戏团队怎么把验收标准写成 agent 能读的指令？\n\n🔥 本期核心内容\n用 HTML/CSS 做渲染引擎，是给 agent 铺路\n\nagent 对 HTML/CSS 的理解来自训练数据，自研引擎反而要多一层翻译。Paper 用浏览器原生格式，token 更省、速度更快、幻觉更少，也让设计工具进入整个开发工具链。\n代码即事实源，替代「两份设计系统」\n\n很多团队同时维护设计稿和代码两份设计系统，永远对不上。Paper 让代码成为唯一事实源，设计工具只是它的可视化视图。游戏团队的配置、资产、数值同样适用——单一事实源是防漂移的根本。\nAI 设计痕迹清单：粗体、字号太多、紫色渐变、卡片堆砌\n\nSteven 给了一份可检查的清单：模型爱用粗体、字号动辄五六个、卡片侧边加色条、紫色渐变、全大写小标题、塞图标和 badge。收敛字重、收敛字号，AI 味立刻下降。这份清单可以直接搬进游戏美术的 AI 资产验收。\n给模型写指令，是给 AI 兜审美下限\n\nPaper 把资深设计师的排版和对比度规则写进指令，模型就不犯常见错误。对游戏团队，这意味着把资深美术、策划的判断标准写成规范，AI 按规范干活，下限就不会太低。\n对游戏 PM：把「AI 痕迹」写进验收标准，把规范写成 agent 能读的指令\n\nAI 生成的资产风险不是「不好看」而是「好看但不进管线」。验收标准越具体，AI 批量生成的效率越能兑现；规范写得越清楚，AI 干活的偏差越小。\n🏷️ 本期提到的人物与概念\n人物：Steven Haney / Steven Haney（Paper 创始人）\n公司/产品：Paper、Y Combinator、Figma、Cursor、Claude Code、Conductor、GitHub\n概念：AI 原生设计工具 / AI-native Design Tool、代码即事实源 / Code as Source of Truth、AI 设计痕迹 / AI Design Tells、Vibe Coding、Agent 工具栈 / Agent Stack、敏捷与 Sprint / Agile & Scrum、AI 编程版本管理 / AI Coding Version Control、游戏美术管线与外包验收 / Game Art Pipeline & Outsourcing Acceptance\n🔗 延伸话题\nQ：游戏美术的 AI 资产验收，怎么判断一张图能不能进管线？\nA：先看「AI 痕迹」——字重、字号数量、色条、渐变、图标密度；再看管线适配——光影逻辑、材质可还原性、风格一致性。前者可检查，后者需要美术负责人判断。\nQ：游戏团队怎么避免配置、资产、数值多处维护的漂移？\nA：参考「代码即事实源」，让资产和配置只有一份事实源，工具只是它的不同视图。谁维护多份，谁就在为漂移买单。\nQ：游戏开发团队怎么把验收标准写成 agent 能读的规范？\nA：把「什么叫可封板、哪些模块这版不动、跑到哪个节点必须复盘」定义成可验证的条目，写进规范。AI 按规范干活，偏差会小很多。\nQ：AI 生成的设计为什么一眼能认出来？\nA：模型有固定偏好——粗体、字号过多、紫色渐变、卡片堆砌、全大写小标题、图标 badge 堆叠。这些痕迹单个不致命，堆在一起就是 AI 味。收敛字重和字号是第一步。\n🌐 About This Episode\nIn this episode of Hao's Game PM Notes, Hao breaks down Paper founder Steven Haney's demo of an AI-native design tool built on HTML/CSS, where code becomes the single source of truth. The episode connects AI design tells to game art asset acceptance, single-source-of-truth to configuration drift, and shows how a game PM can turn acceptance criteria into agent-readable specs for Agile Sprint and art pipeline workflows.\n📌 关于 Hao 的游戏 PM 笔记\n「Hao 的游戏 PM 笔记」的知识主场是 pmnote.ai——一本持续生长的「游戏项目经理百科全书」，把 10 年游戏项目管理经验整理成开放知识库。\n主理人 Hao，10 年游戏行业经验，策划转项目经理，持有 PMP / PMI-ACP / PSM / PSPO 认证。\n🗺️ 网站你能翻到什么（大部分免费）：\n百科：术语库 · PM 证书指南 · 岗位与 JD 观察 · 3D 沙盘\n\n内容：文章库 · AI for PM · 面试训练场（模拟面试）· 播客\n\n工具箱：游戏 PM 日常可复用的工具与模板\n\n成长服务：系统课程与一对一咨询（进阶可选）\n\n📡 全平台：小宇宙播客 · B 站 · 小红书 · 公众号 · 知乎\n一切从这里开始 → pmnote.ai\n📖 本期延伸阅读\n游戏行业的5个AI落地方向\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>📝 <strong>本期摘要</strong></p><p>Hao的游戏PM笔记本期拆解了 YC Design Review 节目里 Paper 创始人 Steven Haney 的演示。Paper 是一个用 HTML/CSS 做渲染引擎的 AI 原生设计工具，让 agent 直接读写设计文件，把「代码即事实源」落到设计流程里。Hao 结合游戏团队的日常，聊了 AI 设计痕迹怎么变成美术验收标准、单一事实源怎么解决配置漂移、以及怎么把资深经验写成 agent 能读的指令。</p><hr><p>❓ <strong>本期讨论了这些问题</strong></p><ul><li><p>AI 时代的设计工具为什么用 HTML/CSS 当渲染引擎？</p></li><li><p>为什么说「代码即事实源」能解决设计稿和代码永远对不上的问题？</p></li><li><p>AI 生成的设计有哪些一眼能认出来的痕迹，怎么去掉？</p></li><li><p>游戏美术的 AI 资产验收，怎么把「AI 味」变成可检查的条目？</p></li><li><p>游戏团队怎么把验收标准写成 agent 能读的指令？</p></li></ul><hr><p>🔥 <strong>本期核心内容</strong></p><ol><li><p><strong>用 HTML/CSS 做渲染引擎，是给 agent 铺路</strong></p></li></ol><p>agent 对 HTML/CSS 的理解来自训练数据，自研引擎反而要多一层翻译。Paper 用浏览器原生格式，token 更省、速度更快、幻觉更少，也让设计工具进入整个开发工具链。</p><ol><li><p><strong>代码即事实源，替代「两份设计系统」</strong></p></li></ol><p>很多团队同时维护设计稿和代码两份设计系统，永远对不上。Paper 让代码成为唯一事实源，设计工具只是它的可视化视图。游戏团队的配置、资产、数值同样适用——单一事实源是防漂移的根本。</p><ol><li><p><strong>AI 设计痕迹清单：粗体、字号太多、紫色渐变、卡片堆砌</strong></p></li></ol><p>Steven 给了一份可检查的清单：模型爱用粗体、字号动辄五六个、卡片侧边加色条、紫色渐变、全大写小标题、塞图标和 badge。收敛字重、收敛字号，AI 味立刻下降。这份清单可以直接搬进游戏美术的 AI 资产验收。</p><ol><li><p><strong>给模型写指令，是给 AI 兜审美下限</strong></p></li></ol><p>Paper 把资深设计师的排版和对比度规则写进指令，模型就不犯常见错误。对游戏团队，这意味着把资深美术、策划的判断标准写成规范，AI 按规范干活，下限就不会太低。</p><ol><li><p><strong>对游戏 PM：把「AI 痕迹」写进验收标准，把规范写成 agent 能读的指令</strong></p></li></ol><p>AI 生成的资产风险不是「不好看」而是「好看但不进管线」。验收标准越具体，AI 批量生成的效率越能兑现；规范写得越清楚，AI 干活的偏差越小。</p><hr><p>🏷️ <strong>本期提到的人物与概念</strong></p><p>人物：Steven Haney / Steven Haney（Paper 创始人）</p><p>公司/产品：Paper、Y Combinator、Figma、Cursor、Claude Code、Conductor、GitHub</p><p>概念：AI 原生设计工具 / AI-native Design Tool、代码即事实源 / Code as Source of Truth、AI 设计痕迹 / AI Design Tells、Vibe Coding、Agent 工具栈 / Agent Stack、敏捷与 Sprint / Agile &amp; Scrum、AI 编程版本管理 / AI Coding Version Control、游戏美术管线与外包验收 / Game Art Pipeline &amp; Outsourcing Acceptance</p><hr><p>🔗 <strong>延伸话题</strong></p><p>Q：游戏美术的 AI 资产验收，怎么判断一张图能不能进管线？</p><p>A：先看「AI 痕迹」——字重、字号数量、色条、渐变、图标密度；再看管线适配——光影逻辑、材质可还原性、风格一致性。前者可检查，后者需要美术负责人判断。</p><p>Q：游戏团队怎么避免配置、资产、数值多处维护的漂移？</p><p>A：参考「代码即事实源」，让资产和配置只有一份事实源，工具只是它的不同视图。谁维护多份，谁就在为漂移买单。</p><p>Q：游戏开发团队怎么把验收标准写成 agent 能读的规范？</p><p>A：把「什么叫可封板、哪些模块这版不动、跑到哪个节点必须复盘」定义成可验证的条目，写进规范。AI 按规范干活，偏差会小很多。</p><p>Q：AI 生成的设计为什么一眼能认出来？</p><p>A：模型有固定偏好——粗体、字号过多、紫色渐变、卡片堆砌、全大写小标题、图标 badge 堆叠。这些痕迹单个不致命，堆在一起就是 AI 味。收敛字重和字号是第一步。</p><hr><p>🌐 <strong>About This Episode</strong></p><p>In this episode of Hao's Game PM Notes, Hao breaks down Paper founder Steven Haney's demo of an AI-native design tool built on HTML/CSS, where code becomes the single source of truth. The episode connects AI design tells to game art asset acceptance, single-source-of-truth to configuration drift, and shows how a game PM can turn acceptance criteria into agent-readable specs for Agile Sprint and art pipeline workflows.</p><hr><p>📌 <strong>关于 Hao 的游戏 PM 笔记</strong></p><p>「Hao 的游戏 PM 笔记」的知识主场是 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://pmnote.ai\">pmnote.ai</a>——一本持续生长的「游戏项目经理百科全书」，把 10 年游戏项目管理经验整理成开放知识库。</p><p>主理人 Hao，10 年游戏行业经验，策划转项目经理，持有 PMP / PMI-ACP / PSM / PSPO 认证。</p><p>🗺️ 网站你能翻到什么（大部分免费）：</p><ul><li><p>百科：术语库 · PM 证书指南 · 岗位与 JD 观察 · 3D 沙盘</p></li><li><p>内容：文章库 · AI for PM · 面试训练场（模拟面试）· 播客</p></li><li><p>工具箱：游戏 PM 日常可复用的工具与模板</p></li><li><p>成长服务：系统课程与一对一咨询（进阶可选）</p></li></ul><p>📡 全平台：小宇宙播客 · B 站 · 小红书 · 公众号 · 知乎</p><p>一切从这里开始 → <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://pmnote.ai\">pmnote.ai</a></p><hr><p>📖 <strong>本期延伸阅读</strong></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pmnote.ai/articles/five-ai-directions-game-industry/\">游戏行业的5个AI落地方向</a></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8966331352af56ff3a3801?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FpPasc8-YPIdNez6JsxiniIhSVbK.jpg"
+}

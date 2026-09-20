@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "侃电影",
   "apple_collection_id": "1838639919",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_916316340",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨恐怖片《同甘共苦》中亲密关系的极端设定与对专偶制的讽刺。"
+    },
+    {
+      "guid": "xmly_track_901945778",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEMfI8nACAAAAP9Pynr.m4a?channel=rss&album_id=102856939&track_id=901945778&uid=127026896&jt=https://aod.cos.tx.xmcdn.com/storages/d809-audiofreehighqps/55/D7/GKwRIUEMfI8nACAAAAP9Pynr.m4a",
+      "pfad": "/v1/episode/e0d2b4913330df933c7d742c96784b10c0e1193c.json",
+      "titel": "《浪浪山小妖怪》：在《西游记》中填补故事",
+      "veroeffentlicht": "2025-08-21T07:37:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨“浪浪山”的意象，分享困境、逃离与生活和解的故事。"
     }
   ]
 }

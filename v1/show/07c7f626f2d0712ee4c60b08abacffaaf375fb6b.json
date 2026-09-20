@@ -2,8 +2,118 @@
   "schema_version": 1,
   "show": "AI可可AI生活",
   "apple_collection_id": "1755963354",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aaf1fc00916f6f8b445f033",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aaf1fc00916f6f8b445f033/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lsTgoaVqUTOqzDgvZ0x1nFUh9Gjh.m4a",
+      "pfad": "/v1/episode/f564e6f0535eed87bd480e0289a93c7b872578b6.json",
+      "titel": "[人人能懂AI前沿] 从梦境推演、因果机制、路由预判到人机共谋",
+      "veroeffentlicht": "2026-09-19T23:52:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨四篇前沿论文，涉及AI自我进化、因果机制、大模型运行优化与智能体研发。"
+    },
+    {
+      "guid": "6aadbd1bac389df827340cab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aadbd1bac389df827340cab/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/ltFoR_0ZWfTRy8pf_S8ykMGtinTS.m4a",
+      "pfad": "/v1/episode/a807ba8fad03e44e496714676c491eb9294a4348.json",
+      "titel": "[人人能懂AI前沿] 从自我怀疑、电波卷积到长程心跳：重塑机器智能的5种系统进化",
+      "veroeffentlicht": "2026-09-18T22:50:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨重塑机器智能的5种系统进化与前沿论文"
+    },
+    {
+      "guid": "6aac66c29d326477816acfae",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aac66c29d326477816acfae/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/ljXruBuW6z6XSjOUNlTk1zAnDhOV.m4a",
+      "pfad": "/v1/episode/8b93cd0307a5b637a5c0cafd224542a4ca630401.json",
+      "titel": "[人人能懂AI前沿] 从机器人的快慢双脑、二阶协同剪枝，到破解Adam的秘密地图",
+      "veroeffentlicht": "2026-09-17T22:52:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨机器人的快慢双脑、大模型剪枝、Adam优化器及AI基准测试。"
+    },
+    {
+      "guid": "6aab15eb9d326477816a4a67",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aab15eb9d326477816a4a67/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lorFoItpIyGQiC_YK6H8psKTsqbe.m4a",
+      "pfad": "/v1/episode/bad5b0e083dcc294857363897ccdc5160115ebab.json",
+      "titel": "[人人能懂AI前沿] 从论文诊断、闪存计算到AI的元认知操纵",
+      "veroeffentlicht": "2026-09-16T22:46:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨五篇AI前沿论文，涉及论文诊断、存内计算与元认知操纵"
+    },
+    {
+      "guid": "6aa9c4a99d3264778169bed4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa9c4a99d3264778169bed4/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/liJ6gCIWXV1r4snxtSWrRAi_Zi6e.m4a",
+      "pfad": "/v1/episode/cfe57cd2e1dbf8ac79fa0aaa484ab263947bd876.json",
+      "titel": "[人人能懂AI前沿] AI的私教、梦境与角斗场",
+      "veroeffentlicht": "2026-09-15T22:24:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨多篇AI前沿论文，涉及私教模型、梦境预演与角斗场等研究。"
+    },
+    {
+      "guid": "6aa8714d129fe965d3328d6b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa8714d129fe965d3328d6b/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lkGSnl77ZgPbdIx3yYeOYkK9ahbz.m4a",
+      "pfad": "/v1/episode/151c8d9653a648304d15bf4e9be269114d74ac49.json",
+      "titel": "[人人能懂AI前沿] AI的陪练、地图与慢功夫",
+      "veroeffentlicht": "2026-09-14T22:14:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI如何通过陪练、地图和慢功夫实现从死记硬背到融会贯通。"
+    },
+    {
+      "guid": "6aa71e439d32647781688c44",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa71e439d32647781688c44/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lgf1G_ckB78KzolEw1XEUa9FK20g.m4a",
+      "pfad": "/v1/episode/e04f52bae583ffc7bc21870cbd9e7ed74f7bb52d.json",
+      "titel": "[人人能懂AI前沿] 当AI学会画地图、测信念、搞协作",
+      "veroeffentlicht": "2026-09-13T22:31:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI画地图检索、测信念及群体智慧等前沿论文。"
+    },
+    {
+      "guid": "6aa5da229d32647781682733",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa5da229d32647781682733/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lmg5u--sD9_7MaYGNfxvVH5t863d.m4a",
+      "pfad": "/v1/episode/8c95d594b22cd0e88cf747636ff01a20fc493f9e.json",
+      "titel": "[人人能懂AI前沿] 从AI培训工厂、进化式学习到合作的计算本质",
+      "veroeffentlicht": "2026-09-12T23:08:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI后训练、进化式学习与合作的计算本质。"
+    },
+    {
+      "guid": "6aa481d89d3264778167d0fc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa481d89d3264778167d0fc/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lj2FsP1UWfqZiWI11nUX7PX8Sqbf.m4a",
+      "pfad": "/v1/episode/3e2ff23c5116fd43830230c9d4b2a362d667fba9.json",
+      "titel": "[人人能懂AI前沿] 从自我进化、系统协作到负向学习：AI智能的别样路径",
+      "veroeffentlicht": "2026-09-11T23:31:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI如何实现自我进化、系统协作与从失败中学习的新路径"
+    },
+    {
+      "guid": "6aa32a429d326477816746fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa32a429d326477816746fd/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lj6NC7P_NIg52zu-Sm-5yHG6oapY.m4a",
+      "pfad": "/v1/episode/8ff64efd68e4b2fed47006b7770cb74e6e1e6ca5.json",
+      "titel": "[人人能懂AI前沿] 给AI做手术，请陪练，还是配个全能秘书？",
+      "veroeffentlicht": "2026-09-10T22:28:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI的决策机制、排行榜盲点、虚拟陪练与秘书配置及几何学本质。"
+    },
+    {
+      "guid": "6aa1d86f9d3264778166bc75",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa1d86f9d3264778166bc75/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lp0ydufHaCrIvsLsZNRjTbBSSO36.m4a",
+      "pfad": "/v1/episode/5e3d0860d6ca9be98a484bde2bfe1a5cabb3f8a1.json",
+      "titel": "[人人能懂AI前沿] 内部辩论、传承超越和“笨”办法",
+      "veroeffentlicht": "2026-09-09T23:36:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI最新研究成果、内部辩论机制以及基准测试与实际体验的差距"
+    },
     {
       "guid": "6a8a2aa01352af56ff3a678f",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6a8a2aa01352af56ff3a678f/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lsC_vzB-GS23FxLxj_POyOS38CS2.m4a",

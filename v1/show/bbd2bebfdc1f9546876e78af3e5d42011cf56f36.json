@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "情感故事馆丨夜听助眠丨恋爱婚姻之道丨晚安电台",
   "apple_collection_id": "1606659715",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_631821290",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "枣花发现丈夫陈春因女儿治病偷了教授的画，最终向教授坦白并获得谅解与资助。"
+    },
+    {
+      "guid": "xmly_track_631821013",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoILhtuACAAAAIZB_Ws.mp3.m4a?channel=rss&album_id=56573700&track_id=631821013&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/95fe-audiofreehighqps/D7/5C/GKwRIDoILhtuACAAAAIZB_Ws.mp3",
+      "pfad": "/v1/episode/bf0af882b9f31768124129ed9b072f8867f9aa18.json",
+      "titel": "情感故事馆丨无价之宝（中）丨cv兔子",
+      "veroeffentlicht": "2023-05-15T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "陈春与赵小二因林教授的深夜来电陷入不安"
+    },
+    {
+      "guid": "xmly_track_631820667",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIILhtsADz5sgIZB_Rl.m4a?channel=rss&album_id=56573700&track_id=631820667&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/9994-audiofreehighqps/AC/96/GKwRIJIILhtsADz5sgIZB_Rl.m4a",
+      "pfad": "/v1/episode/544f9c560f7e0aecf627310f4bd233539ed5820b.json",
+      "titel": "情感故事馆丨无价之宝（上）丨cv兔子",
+      "veroeffentlicht": "2023-05-09T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "进城打工的陈春为救患病女儿向老乡赵小二借钱。"
+    },
+    {
+      "guid": "xmly_track_631820415",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSIILhq_ACAAAAIZB6Nl.mp3.m4a?channel=rss&album_id=56573700&track_id=631820415&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/5a49-audiofreehighqps/14/5B/GMCoOSIILhq_ACAAAAIZB6Nl.mp3",
+      "pfad": "/v1/episode/93aec5b8a92da4224bab9975a09fd0f92154217a.json",
+      "titel": "情感故事馆丨喜欢你丨cv兔子",
+      "veroeffentlicht": "2023-05-08T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讲述一段漫长而又深藏心底的喜爱与思念之情。"
+    },
+    {
+      "guid": "xmly_track_631201930",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAIKkUUACAAAAIXqDU9.mp3.m4a?channel=rss&album_id=56573700&track_id=631201930&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/f816-audiofreehighqps/45/8B/GKwRIMAIKkUUACAAAAIXqDU9.mp3",
+      "pfad": "/v1/episode/b390eb972da6df967149e0d6518d0fdaa7a21115.json",
+      "titel": "情感故事馆丨想不开的时候，去这4个地方走走丨cv兔子",
+      "veroeffentlicht": "2023-05-06T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "当陷入烦恼和生活困境时，可以去四个地方走走寻找力量。"
+    },
+    {
+      "guid": "xmly_track_631201102",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEIKkO-ACAAAAIXp2oq.mp3.m4a?channel=rss&album_id=56573700&track_id=631201102&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/2d52-audiofreehighqps/D4/A2/GKwRIUEIKkO-ACAAAAIXp2oq.mp3",
+      "pfad": "/v1/episode/ca35bf23c006bb870f74ae3ffd2056f9fe7f84f3.json",
+      "titel": "情感故事馆丨像初见一样重逢丨cv兔子",
+      "veroeffentlicht": "2023-05-05T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讲述重逢故事与温馨日常情感。"
+    },
+    {
+      "guid": "xmly_track_630680271",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoIJvBeACAAAAIWh_sZ.mp3.m4a?channel=rss&album_id=56573700&track_id=630680271&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/3de4-audiofreehighqps/D8/8B/GKwRIDoIJvBeACAAAAIWh_sZ.mp3",
+      "pfad": "/v1/episode/ca61fbcdfd9c0aab63912f5d154aba3ea71134be.json",
+      "titel": "情感故事馆丨鞋要合脚，人要合拍丨cv兔子",
+      "veroeffentlicht": "2023-05-03T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨鞋子与人际关系中“合适”与“合拍”的感悟。"
+    },
+    {
+      "guid": "xmly_track_630676077",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasIJugLACAAAAIWhR-O.mp3.m4a?channel=rss&album_id=56573700&track_id=630676077&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/2796-audiofreehighqps/7A/64/GKwRIasIJugLACAAAAIWhR-O.mp3",
+      "pfad": "/v1/episode/439a6ad3a9d7bcd50dff72a2d69a06fbada3ca70.json",
+      "titel": "情感故事馆丨形婚里的真爱情丨cv兔子",
+      "veroeffentlicht": "2023-05-02T14:58:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨形婚夫妻在现实压力下的真实情感与相处状态。"
+    },
+    {
+      "guid": "xmly_track_629875994",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIIIRByACAAAAIUyLzD.mp3.m4a?channel=rss&album_id=56573700&track_id=629875994&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/1da7-audiofreehighqps/DD/FA/GKwRIaIIIRByACAAAAIUyLzD.mp3",
+      "pfad": "/v1/episode/7a6e06447b740481c8474e5e968fd761109efd07.json",
+      "titel": "情感故事馆丨一把伞，一份浪漫爱情丨cv兔子",
+      "veroeffentlicht": "2023-04-28T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "二十八岁时因相亲与父母争吵后雨天离家的经历。"
+    },
+    {
+      "guid": "xmly_track_628674587",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSQIGuanACAAAAISyUY-.mp3.m4a?channel=rss&album_id=56573700&track_id=628674587&uid=54460382&jt=https://aod.cos.tx.xmcdn.com/storages/33b6-audiofreehighqps/59/23/GMCoOSQIGuanACAAAAISyUY-.mp3",
+      "pfad": "/v1/episode/f53c24d033b25b72a5536c3c49e8f7690f169f6c.json",
+      "titel": "情感故事馆丨一辈子很长，要和相处舒服的人在一起丨cv兔子",
+      "veroeffentlicht": "2023-04-26T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讲述毕业后在杭州求职受挫与生活不易的情感故事"
     }
   ]
 }

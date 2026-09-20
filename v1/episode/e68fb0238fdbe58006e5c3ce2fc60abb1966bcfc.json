@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "6a9ff58df03e74ee6b071e85",
+  "apple_collection_id": "1873988966",
+  "show": "商业早8点",
+  "titel": "9月9日 周三. 「DeepSeek」150人扩招全是后端/「霸王茶姬」茶叶蛋填早间空白/上海产检住院零自付",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/697a0a6f24d11032619793d1/6a9ff58df03e74ee6b071e85/media.xyzcdn.net/697a0a6f24d11032619793d1/ltlYNdS2-EASgkxRdVXtSp3Q85_6.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:04:51+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨霸王茶姬卖茶叶蛋与DeepSeek全工程岗招聘现象",
+  "kurzfassung": "节目讨论了新茶饮品牌通过推出早点来分摊固定成本的商业逻辑。分析了DeepSeek大规模扩招却只聚焦后端工程岗的原因。同时播报了多项国内外最新的商业与经济动态。",
+  "stichpunkte": [
+    "茶饮品牌将营业时间提前并售卖茶叶蛋以分摊运营成本",
+    "DeepSeek启动大规模招聘但岗位全部聚焦于工程方向",
+    "上海自10月1日起合规生育医疗费用实现个人零自付",
+    "AI算力爆发推动全球燃气轮机订单大幅增长",
+    "微信支付大面积铺设小绿盒收款设备争夺线下流量",
+    "英特尔计划上调PC处理器价格约百分之十",
+    "财政部发行特别国债并联合中国烟草向央金企业注资"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:04:51+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 948,
+  "veroeffentlicht": "2026-09-08T23:00:00+00:00",
+  "beschreibung": "\"霸王茶姬\"为什么突然跨界卖起了5块钱的茶叶蛋？DeepSeek一口气放出150个高薪岗位，为什么连一个AI研究员都不要？\n☀️ 早上好，欢迎收听《商业早8点》\n🙋 今天是2026年9月9日，星期三\n⌛️ 商业小知识 00:53\n为什么越来越多的新茶饮品牌拼命把营业时间提前，甚至开始卖起了茶叶蛋？\n核心原因是分摊高昂的固定成本。奶茶店黄金销售期集中在下午和晚间，但房租和设备折旧按全天24小时计算，用低门槛早点产品填充闲置的上午时段，能有效摊薄运营成本，在存量博弈中抢夺全时段生意。\n😎 商业最前线 01:43\n01:43 DeepSeek开启150人招聘但全部聚焦工程方向无任何AI研究岗\n03:06 霸王茶姬上海7家门店试卖5元茶叶蛋试图填补早间营收空白\n04:30 上海10月1日起合规生育医疗费用实现个人零自付\n05:44 AI算力爆发推动全球燃气轮机订单暴涨71%\n下面是一组快讯\n07:11 微信支付大面积铺设小绿盒收款设备与支付宝碰一下争夺线下流量\n07:52 赵一鸣和好想来因缺斤短两问题承诺十倍差价赔付\n08:26 英特尔计划10月5日第三次上调PC处理器价格约10%\n09:04 24岁吃播博主干饭莹莹因长期催吐致低钾血症不幸离世\n09:37 宇树科技人形机器人搭载世界-动作大模型实现全自主搏击\n10:10 特朗普周末连发近百条AI生成帖子含虚拟领土地图引国际热议\n10:44 迪士尼中国与上海久事动娱合作推出网球版米奇形象\n11:13 财政部发行3000亿特别国债联合中国烟草向8家央金企业注资3600亿\n12:00 欧盟宣布2亿欧元投资格陵兰岛回应美国控制意图\n🧐 商业深一度 12:36\n「DeepSeek」150个高薪岗位，为什么连一个AI研究员都不要？\n月活1.27亿、日活数千万、500亿融资到账——当DeepSeek的业务量指数级暴涨，它却选择把150个岗位全部给了纯工程师，而非算法科学家。这场\"没有研究员的招聘大戏\"背后，折射出大模型行业从技术竞赛上半场迈向工程化与商业化下半场的深刻转折。\n💫 关于《商业早8点》\n《商业早8点》是一档为您高效同步每日商业动态的商业资讯栏目。\n我们每日早间八点准时为您带来海内外最新商业动态与商业大事件的深度剖析。每日早8点，先人一步把握最新的商业脉搏。\n在这个资本涌动与市场瞬息万变的时代，信息的密度与周期的更迭常常让人感到焦虑与迷茫。海量的噪音和碎片化的数据，往往掩盖了真正重要的商业信号。因此，《商业早8点》诞生了。借助人工智能辅助高效生成，我们希望用每天早晨的一杯咖啡时间，为你筛选出最具价值的全球商业动态，助你以此为点，连接财富与未来。\n制作提示：本节目由真人团队主导选题创作剪辑和发布，并且复刻了主播之远的音色辅助制作，所有内容由真人把关，可以放心订阅。\n主播：之远 @之远不知远\n研究：和风细雨\n后期：小达\n🤝 商务合作请加V：prism_fm\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>\"霸王茶姬\"为什么突然跨界卖起了5块钱的茶叶蛋？DeepSeek一口气放出150个高薪岗位，为什么连一个AI研究员都不要？</p><p>☀️ 早上好，欢迎收听《商业早8点》</p><p>🙋 今天是2026年9月9日，星期三</p><p>⌛️ 商业小知识 <a class=\"timestamp\">00:53</a></p><p>为什么越来越多的新茶饮品牌拼命把营业时间提前，甚至开始卖起了茶叶蛋？</p><p>核心原因是分摊高昂的固定成本。奶茶店黄金销售期集中在下午和晚间，但房租和设备折旧按全天24小时计算，用低门槛早点产品填充闲置的上午时段，能有效摊薄运营成本，在存量博弈中抢夺全时段生意。</p><p>😎 商业最前线 <a class=\"timestamp\">01:43</a></p><p><a class=\"timestamp\">01:43</a> DeepSeek开启150人招聘但全部聚焦工程方向无任何AI研究岗</p><p><a class=\"timestamp\">03:06</a> 霸王茶姬上海7家门店试卖5元茶叶蛋试图填补早间营收空白</p><p><a class=\"timestamp\">04:30</a> 上海10月1日起合规生育医疗费用实现个人零自付</p><p><a class=\"timestamp\">05:44</a> AI算力爆发推动全球燃气轮机订单暴涨71%</p><p>下面是一组快讯</p><p><a class=\"timestamp\">07:11</a> 微信支付大面积铺设小绿盒收款设备与支付宝碰一下争夺线下流量</p><p><a class=\"timestamp\">07:52</a> 赵一鸣和好想来因缺斤短两问题承诺十倍差价赔付</p><p><a class=\"timestamp\">08:26</a> 英特尔计划10月5日第三次上调PC处理器价格约10%</p><p><a class=\"timestamp\">09:04</a> 24岁吃播博主干饭莹莹因长期催吐致低钾血症不幸离世</p><p><a class=\"timestamp\">09:37</a> 宇树科技人形机器人搭载世界-动作大模型实现全自主搏击</p><p><a class=\"timestamp\">10:10</a> 特朗普周末连发近百条AI生成帖子含虚拟领土地图引国际热议</p><p><a class=\"timestamp\">10:44</a> 迪士尼中国与上海久事动娱合作推出网球版米奇形象</p><p><a class=\"timestamp\">11:13</a> 财政部发行3000亿特别国债联合中国烟草向8家央金企业注资3600亿</p><p><a class=\"timestamp\">12:00</a> 欧盟宣布2亿欧元投资格陵兰岛回应美国控制意图</p><p>🧐 商业深一度 <a class=\"timestamp\">12:36</a></p><p>「DeepSeek」150个高薪岗位，为什么连一个AI研究员都不要？</p><p>月活1.27亿、日活数千万、500亿融资到账——当DeepSeek的业务量指数级暴涨，它却选择把150个岗位全部给了纯工程师，而非算法科学家。这场\"没有研究员的招聘大戏\"背后，折射出大模型行业从技术竞赛上半场迈向工程化与商业化下半场的深刻转折。</p><p>💫 关于《商业早8点》</p><p>《商业早8点》是一档为您高效同步每日商业动态的商业资讯栏目。</p><p>我们每日早间八点准时为您带来海内外最新商业动态与商业大事件的深度剖析。每日早8点，先人一步把握最新的商业脉搏。</p><p>在这个资本涌动与市场瞬息万变的时代，信息的密度与周期的更迭常常让人感到焦虑与迷茫。海量的噪音和碎片化的数据，往往掩盖了真正重要的商业信号。因此，《商业早8点》诞生了。借助人工智能辅助高效生成，我们希望用每天早晨的一杯咖啡时间，为你筛选出最具价值的全球商业动态，助你以此为点，连接财富与未来。</p><p>制作提示：本节目由真人团队主导选题创作剪辑和发布，并且复刻了主播之远的音色辅助制作，所有内容由真人把关，可以放心订阅。</p><p>主播：之远 @之远不知远</p><p>研究：和风细雨</p><p>后期：小达</p><p>🤝 商务合作请加V：prism_fm</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a9ff58df03e74ee6b071e85?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FporOBSnuy_kijssiwo8XQK39AXh.png"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "亲子育儿II每周一听",
   "apple_collection_id": "993420157",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_783117875",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "贵州是中国茶文化的摇篮，拥有丰富的茶树资源和独特的茶俗。"
+    },
+    {
+      "guid": "xmly_track_734481544",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAKPzKtABAAAALgoHXa.aac.m4a?channel=rss&album_id=392876&track_id=734481544&uid=25580432&jt=https://aod.cos.tx.xmcdn.com/storages/7a8d-audiofreehighqps/DA/BB/GKwRIMAKPzKtABAAAALgoHXa.aac",
+      "pfad": "/v1/episode/f9f2e2de15c6d8b6619756aeb8425b7d7bf2cb81.json",
+      "titel": "石人吃饼的故事",
+      "veroeffentlicht": "2024-06-12T09:51:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讲述石人吃饼传言的由来与真相。"
+    },
+    {
+      "guid": "xmly_track_734480675",
+      "audio_url": "https://jt.ximalaya.com//GArMe8kKPzFQABAAAALgnJ3F.aac.m4a?channel=rss&album_id=392876&track_id=734480675&uid=25580432&jt=https://aod.cos.tx.xmcdn.com/storages/43eb-audiofreehighqps/7D/0D/GArMe8kKPzFQABAAAALgnJ3F.aac",
+      "pfad": "/v1/episode/1c2e8b36b32c829854f8d1bf43c680cf16ce6765.json",
+      "titel": "一代天骄",
+      "veroeffentlicht": "2024-06-12T09:45:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "成语“一代天骄”与成吉思汗的故事"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M09/96/EF/wKgO2V45exrzfK3CAI8Rz4DTGUk459.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgO2V45exrzfK3CAI8Rz4DTGUk459.mp3.m4a?channel=rss&album_id=392876&track_id=252114399&uid=25580432&jt=https://aod.cos.tx.xmcdn.com/group71/M09/96/EF/wKgO2V45exrzfK3CAI8Rz4DTGUk459.mp3",
+      "pfad": "/v1/episode/7ca8f61684815961232eb27dfcb7759cd5b97906.json",
+      "titel": "如何培养孩子终身自主学习的能力",
+      "veroeffentlicht": "2020-02-10T01:00:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "培养孩子终身自主学习能力的方法"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M04/E5/73/wKgO0F45FjejRYmLADK-BOut6KE188.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgO0F45FjejRYmLADK-BOut6KE188.m4a?channel=rss&album_id=392876&track_id=249694907&uid=25580432&jt=https://aod.cos.tx.xmcdn.com/group72/M04/E5/73/wKgO0F45FjejRYmLADK-BOut6KE188.m4a",
+      "pfad": "/v1/episode/8ae108d38c4bcbf4f78a1045b4debd51d069146c.json",
+      "titel": "对花钱的一些领悟",
+      "veroeffentlicht": "2020-02-04T06:59:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于金钱使用与消费观念的一些感悟与思考。"
     }
   ]
 }

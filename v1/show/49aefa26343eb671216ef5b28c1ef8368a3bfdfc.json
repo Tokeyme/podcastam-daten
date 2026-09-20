@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "7分钟获取海外商业财经资讯",
   "apple_collection_id": "1484689253",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group68/M04/2D/86/wKgMbl3JgozxT8OHACJpYa5Vw4o146.m4a",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "迪士尼大赚，全球富豪财富在经历五年增长后于2018年首次下滑"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M06/47/12/wKgMb127mpiCAkBdAHiS8PtXEsg503.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMb127mpiCAkBdAHiS8PtXEsg503.mp3.m4a?channel=rss&album_id=30351956&track_id=224553800&uid=103867434&jt=https://aod.cos.tx.xmcdn.com/group69/M06/47/12/wKgMb127mpiCAkBdAHiS8PtXEsg503.mp3",
+      "pfad": "/v1/episode/9df024906c3b8ae52f3535aa74014f209615cbbf.json",
+      "titel": "联储降息事关重大，苹果三星死磕到底？",
+      "veroeffentlicht": "2019-11-01T02:48:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美联储再次降息，苹果将推5G手机与三星折叠机竞争。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group68/M07/19/E0/wKgMbl24-Jmz347mAHjjwUQ3-LU027.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMbl24-Jmz347mAHjjwUQ3-LU027.mp3.m4a?channel=rss&album_id=30351956&track_id=223985319&uid=103867434&jt=https://aod.cos.tx.xmcdn.com/group68/M07/19/E0/wKgMbl24-Jmz347mAHjjwUQ3-LU027.mp3",
+      "pfad": "/v1/episode/78dd96a9d394f061b9870a0d74745cfeec741751.json",
+      "titel": "股市回暖，苹果被看衰，谷歌进军智能手表？",
+      "veroeffentlicht": "2019-10-30T02:44:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "亚洲股市升至三个月高点，关注美联储决议与多起财经要闻。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M09/EC/F5/wKgMeV22TNmACYOhAGfheC_KpZU012.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMeV22TNmACYOhAGfheC_KpZU012.mp3.m4a?channel=rss&album_id=30351956&track_id=223404700&uid=103867434&jt=https://aod.cos.tx.xmcdn.com/group69/M09/EC/F5/wKgMeV22TNmACYOhAGfheC_KpZU012.mp3",
+      "pfad": "/v1/episode/0243bd377316259e5a8c1ea20f5423652ab0d2e3.json",
+      "titel": "股市上升，油价上涨，软银改变策略？",
+      "veroeffentlicht": "2019-10-28T02:49:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾美股走势、油价上涨、软银策略调整及英国脱欧进展"
     }
   ]
 }

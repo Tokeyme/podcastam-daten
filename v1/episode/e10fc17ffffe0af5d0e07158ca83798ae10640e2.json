@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2014/06/06/12098888519396486_hd.mp3",
+  "apple_collection_id": "876154885",
+  "show": "楷德教育",
+  "titel": "从人民大学到美国顶尖文理学院",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2014/06/06/12098888519396486_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-20T09:53:55+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "从中国本科到美国顶尖文理学院的求学经历与教育对比",
+  "kurzfassung": "本期节目邀请校友Cindy Liu分享从中国人民大学转学至美国汉密尔顿学院的经历。内容涵盖美国顶尖文理学院的日常生活、选课与社交方式，并探讨中美高等教育方式的区别。同时分析了美国文理学院更适合哪些中国学生就读。",
+  "stichpunkte": [
+    "嘉宾Cindy Liu的个人求学经历：从人民大学到汉密尔顿学院",
+    "美国顶尖文理学院的日常生活、作息时间与选课交友",
+    "中国本科生转学至美国高校的路径探讨",
+    "美国文理学院适合哪些中国学生就读",
+    "中美顶尖高校教育方式的具体区别"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:53:55+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1306,
+  "veroeffentlicht": "2014-06-06T15:57:53+08:00",
+  "beschreibung": "本期嘉宾：Cindy Liu，美国顶尖文理学院Hamilton College校友 （每年只录取5个中国人），人民大学校友，现居北京。美国大学生活到底是怎样一幅画面（作息时间，怎样选课，怎样交友等等）？如何从中国本科转到美国牛校？美国文理学院适合哪些中国学生就读？中国美国牛校教育方式的区别在哪儿？",
+  "beschreibung_html": "本期嘉宾：Cindy Liu，美国顶尖文理学院Hamilton College校友 （每年只录取5个中国人），人民大学校友，现居北京。美国大学生活到底是怎样一幅画面（作息时间，怎样选课，怎样交友等等）？如何从中国本科转到美国牛校？美国文理学院适合哪些中国学生就读？中国美国牛校教育方式的区别在哪儿？",
+  "untertitel": "从人民大学到美国顶尖文理学院",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2014/06/06/12098888519396231_80x80.jpg"
+}

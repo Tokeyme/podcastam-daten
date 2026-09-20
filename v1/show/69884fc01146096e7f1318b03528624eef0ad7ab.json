@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "MDMA Radio | 英文商业晨读",
   "apple_collection_id": "1783727705",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aab4ec9051af796b9e96b41",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6aab4ec9051af796b9e96b41/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/lqI6jPWQnIsSI-uMakw0Ul7G3HUl.m4a",
+      "pfad": "/v1/episode/147416f1e3f34285cb4c193bc5a19559a8834b8e.json",
+      "titel": "谈谈我对iPhone Duo的第一印象",
+      "veroeffentlicht": "2026-09-17T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨iPhone Duo的使用体验与折叠手机的看法"
+    },
+    {
+      "guid": "6aa23415492687f6aad7b3c2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6aa23415492687f6aad7b3c2/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/lt7COsVyG6CK5dtpKUq4bJj9JA4Q.m4a",
+      "pfad": "/v1/episode/12a4e8b7a9891cc725d9b84e3366bac37b4380c4.json",
+      "titel": "499美金的牙刷，戴森想把AI放进你嘴里？",
+      "veroeffentlicht": "2026-09-10T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "戴森创始人詹姆斯·戴森历时六年研发新型电动牙刷的背景"
+    },
+    {
+      "guid": "6a98d2c4a0210c197dcc9bc7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a98d2c4a0210c197dcc9bc7/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/luBy_K9mV0u79g2wE6M6xuCeVrxv.m4a",
+      "pfad": "/v1/episode/f4511adee93ee6b649768fa789606adba3298a8c.json",
+      "titel": "这座寺庙为何吸引众多年轻人？",
+      "veroeffentlicht": "2026-09-03T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨上海龙华寺吸引大批年轻人烧香求职的现象"
+    },
+    {
+      "guid": "6a8fe1cdef65145dfcc637a8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a8fe1cdef65145dfcc637a8/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/llGreEMjmbqq1W5sqT9GIHoZ4KQn.m4a",
+      "pfad": "/v1/episode/3bbc856272cca67fe7dccbf1adc7f88eb619b923.json",
+      "titel": "ChatGPT 推出的青少年版本都有哪些新功能？",
+      "veroeffentlicht": "2026-08-27T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "ChatGPT推出青少年版本及其功能介绍"
+    },
     {
       "guid": "6a86bb0bef65145dfcc28ef9",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a86bb0bef65145dfcc28ef9/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/lkmRrFwK094fF6uzr5oLmQn5z0cm.m4a",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "资深老将将带领索尼彻底转型为娱乐公司，未来重心不再是电视。"
+    },
+    {
+      "guid": "6a7c36fa36641f136d872093",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a7c36fa36641f136d872093/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/liAizvCNE3s0tK9l1bJnyY_pWn_F.m4a",
+      "pfad": "/v1/episode/be1713d56e48a22ad90b1165ed152b2630d84c7a.json",
+      "titel": "专家说和陌生人闲聊并不是浪费时间？",
+      "veroeffentlicht": "2026-08-12T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨与陌生人闲聊的心理与健康益处。"
+    },
+    {
+      "guid": "6a72746bab3a91c24a0fe259",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a72746bab3a91c24a0fe259/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/ltrMPhZCbgDuAjkgLDle9bjJYbnl.m4a",
+      "pfad": "/v1/episode/80775d5e03c04f4965a55560948effd87dc8c7d1.json",
+      "titel": "为什么公司团建越来越多选在儿童游乐场？",
+      "veroeffentlicht": "2026-08-04T23:34:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么越来越多公司将团建地点选择在儿童游乐场等非常规场所。"
+    },
+    {
+      "guid": "6a6bdc8fb581962ce2be32ee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a6bdc8fb581962ce2be32ee/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/lsP9brL8NnIoHV4Tg_N2VIAAcnsG.m4a",
+      "pfad": "/v1/episode/2fe4faeae6945e1370b390f3c7a03cd72a9f7b6f.json",
+      "titel": "跑步与健身热席卷中国，高端运动品牌嗅到了商机",
+      "veroeffentlicht": "2026-07-30T23:58:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中国健身与跑步热潮带动高端运动品牌商机"
+    },
+    {
+      "guid": "6a62a0436356eb2d9be7711c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a62a0436356eb2d9be7711c/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/luZdbzzRExpWDUq6wmD61uTvqvJT.m4a",
+      "pfad": "/v1/episode/0a09bd452277d13d5493f4f1cfc8c0c0c4e70742.json",
+      "titel": "AI 眼镜会带来哪些隐私问题？",
+      "veroeffentlicht": "2026-07-23T23:28:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Meta AI眼镜带来的隐私问题与未来趋势"
+    },
+    {
+      "guid": "6a596662a4972c496dfd07b5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6747f9144f8dbe73b6e14a5e/6a596662a4972c496dfd07b5/media.xyzcdn.net/6747f9144f8dbe73b6e14a5e/lhpji9t4r2tpERdh3ExvmOaF-2b4.m4a",
+      "pfad": "/v1/episode/1aec035cb9834f143ff250dc79e0b79fdcaa8e6f.json",
+      "titel": "【世界杯特辑】梅西很伟大，但为什么点球这么差？",
+      "veroeffentlicht": "2026-07-17T00:02:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨足球巨星梅西在罚点球时表现不佳的原因。"
     }
   ]
 }

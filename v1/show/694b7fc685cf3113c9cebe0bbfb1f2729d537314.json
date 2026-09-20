@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "健康有方FM",
   "apple_collection_id": "1823983682",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a77ecdc000a55a9bb050384",
@@ -13,6 +13,96 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨中医疗法在三伏天治疗颈腰椎等筋骨寒湿疼痛的应用。"
+    },
+    {
+      "guid": "6a656d02a3fec224d5a35896",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/6a656d02a3fec224d5a35896/media.xyzcdn.net/670e3d971985fe85db1fd06b/lpDjWJRYzamN9DEuO7-diD7dWrhm.m4a",
+      "pfad": "/v1/episode/6bf8a1cfcc17e88529c08527e1b99d77c734582c.json",
+      "titel": "甲状腺结节到底要不要紧？三甲院长带你看懂B超单",
+      "veroeffentlicht": "2026-07-26T02:16:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "详解甲状腺结节与相关病症的诊疗标准"
+    },
+    {
+      "guid": "6a535ed74adef2b36562b142",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/6a535ed74adef2b36562b142/media.xyzcdn.net/670e3d971985fe85db1fd06b/ltherKwMZzvqjtOVPyBP6a4YAH7F.m4a",
+      "pfad": "/v1/episode/6f8451e4a1264cbc470b8d335de61f53a72f9c34.json",
+      "titel": "为什么C罗梅西能踢到40岁，而你崴一次脚就反复发作？",
+      "veroeffentlicht": "2026-07-12T09:51:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨足球运动常见伤病的防护、急救与康复"
+    },
+    {
+      "guid": "6a4a376b2e335a35a80e595b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/6a4a376b2e335a35a80e595b/media.xyzcdn.net/670e3d971985fe85db1fd06b/lrRMA4WlSF3-Bve8CwTID6xMLiPL.m4a",
+      "pfad": "/v1/episode/3e1b0c6f41e11f4be3985b7f647ee066aad06352.json",
+      "titel": "多莉羊诞生30年后，这次院士和你聊聊“半克隆”",
+      "veroeffentlicht": "2026-07-05T10:58:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "多莉羊诞生30年后，院士带你聊聊半克隆技术及应用"
+    },
+    {
+      "guid": "6a405cf09d2f5743683eddce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/6a405cf09d2f5743683eddce/media.xyzcdn.net/670e3d971985fe85db1fd06b/liAWnKJrrF9DQdS5XfX8eHF8reTC.m4a",
+      "pfad": "/v1/episode/2392b20570f8972f40527842f3d246a805a432f0.json",
+      "titel": "白天立flag晚上破功，懒人减肥还有救吗？",
+      "veroeffentlicht": "2026-06-28T00:06:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨懒人如何通过科学饮食与运动实现健康减脂"
+    },
+    {
+      "guid": "6a2ee93a43a22a695583b878",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/6a2ee93a43a22a695583b878/media.xyzcdn.net/670e3d971985fe85db1fd06b/lhW4uew4PgVwRuiN49J6_gILePkX.m4a",
+      "pfad": "/v1/episode/67976a83206ea1c7f76e045068e42ef6cc6f3e64.json",
+      "titel": "34岁心脏全线堵死？葛均波院士拆解全身血管危机",
+      "veroeffentlicht": "2026-06-14T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "葛均波院士解析泛血管疾病：心梗脑梗的病因与防治"
+    },
+    {
+      "guid": "6a23547bb30e1571aea169ab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/6a23547bb30e1571aea169ab/media.xyzcdn.net/670e3d971985fe85db1fd06b/ln786Dxp3_3eSrASCfn-CawlybhH.m4a",
+      "pfad": "/v1/episode/ac505996b3a3862636f7014286a66920182339fd.json",
+      "titel": "远视储备、干眼、近视手术，眼科院长全解答",
+      "veroeffentlicht": "2026-06-06T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "眼科专家解析近视防控、干眼与近视手术"
+    },
+    {
+      "guid": "69ec0ae71e94ae692117a7b1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/69ec0ae71e94ae692117a7b1/media.xyzcdn.net/670e3d971985fe85db1fd06b/lkUZlh5W0B5eRjyLUFiXhUgGRAul.m4a",
+      "pfad": "/v1/episode/ed16efe7b080b5d9089a180c541a797e0c37fd50.json",
+      "titel": "体检单上的肺结节，真的“难逃一劫”吗？",
+      "veroeffentlicht": "2026-04-25T00:46:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读体检单上的肺结节，探讨早期筛查与治疗"
+    },
+    {
+      "guid": "69dfaf3ae2c8be3155500fd4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/69dfaf3ae2c8be3155500fd4/media.xyzcdn.net/670e3d971985fe85db1fd06b/lvuutIPCXjPHV3HVVUvY82ulckRI.m4a",
+      "pfad": "/v1/episode/0dfea29b6903b4df3b899935af2d5f19a36aa2aa.json",
+      "titel": "顾中一x田螺：好好吃晚饭，是成年人温柔的自律",
+      "veroeffentlicht": "2026-04-15T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何吃好晚饭，缓解晚餐焦虑与体重管理难题。"
+    },
+    {
+      "guid": "69dec852e2c8be315539daab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670e3d971985fe85db1fd06b/69dec852e2c8be315539daab/media.xyzcdn.net/670e3d971985fe85db1fd06b/lvi-_42hFsrPJ77BYGsdEo4r2YjO.m4a",
+      "pfad": "/v1/episode/fd4c48ec72cbe755733e70fb88cff17aeb538921.json",
+      "titel": "乳腺癌找上00后？这些事女性都该了解",
+      "veroeffentlicht": "2026-04-14T23:30:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年轻女性乳腺癌发病率增长、治疗方式及康复管理"
     }
   ]
 }

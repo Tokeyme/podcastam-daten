@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2019/05/17/5043573458466309766_hd.mp3",
+  "apple_collection_id": "1079757808",
+  "show": "动画电影异闻录",
+  "titel": "vol.31《铳梦》：切割灵魂的利刃",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2019/05/17/5043573458466309766_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T14:42:40+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨经典赛博朋克漫画《铳梦》的科幻概念与角色人性。",
+  "kurzfassung": "本次节目围绕日本漫画家木城幸人的经典赛博朋克作品《铳梦》展开讨论。内容涵盖作品中的科幻概念以及对角色人性的揭示。同时探讨了主人公加里坚强而残酷的意志。",
+  "stichpunkte": [
+    "日本赛博朋克科幻漫画《铳梦》的创作背景",
+    "衍生电影《阿丽塔：战斗天使》引发的作品热潮",
+    "作品中涉及的科幻概念探讨",
+    "作品对角色人性的揭示",
+    "主人公加里的意志与生存状态"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:42:40+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 2880,
+  "veroeffentlicht": "2019-05-17T17:00:18+08:00",
+  "beschreibung": "铳梦是日本漫画家木城幸人/木城雪户从1990年开始创作的赛博朋克主题的科幻热血漫画。其衍生电影《阿丽塔：战斗天使》在今年的上映更是掀起了它的第二次热潮。本次节目将围绕铳梦中的科幻概念，作品中角色的令人感同身受的人性揭示以及主人公加里/凯丽的坚强却又残酷的意志进行讨论。希望您能同我们一起感受，这部作品所刺向读者的灵魂利刃。\n\n（考虑到上个版本的语音与音乐音量不协调，我们调整并更新了音频，感谢理解！）",
+  "beschreibung_html": "铳梦是日本漫画家木城幸人/木城雪户从1990年开始创作的赛博朋克主题的科幻热血漫画。其衍生电影《阿丽塔：战斗天使》在今年的上映更是掀起了它的第二次热潮。本次节目将围绕铳梦中的科幻概念，作品中角色的令人感同身受的人性揭示以及主人公加里/凯丽的坚强却又残酷的意志进行讨论。希望您能同我们一起感受，这部作品所刺向读者的灵魂利刃。<br><br>（考虑到上个版本的语音与音乐音量不协调，我们调整并更新了音频，感谢理解！）",
+  "untertitel": "vol.31《铳梦》：切割灵魂的利刃",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2019/05/17/2737730448640273927_80x80.jpg"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "实习生活 Interns of Life",
   "apple_collection_id": "1518854082",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "67f657d659699d74dc9cbcaa",
@@ -13,6 +13,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "播客《实习生活》与微信读书合作推出精选电子书"
+    },
+    {
+      "guid": "66291c67ff598d65f2028261",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/66291c67ff598d65f2028261/media.xyzcdn.net/lvtzkyMX2b1x7JwOOWcWE9ZkdV2L.m4a",
+      "pfad": "/v1/episode/0d9151a09fab88d9dfa14459d2bbb0ea3fdf1f53.json",
+      "titel": "出前e丁｜不止是金钱观更是生活观，你和金钱是什么关系？",
+      "veroeffentlicht": "2024-04-24T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨金钱观与生活观的关系以及个人理财思路"
+    },
+    {
+      "guid": "65a610993b60e1feafed5525",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/65a610993b60e1feafed5525/media.xyzcdn.net/lq90dftw6FZXFaI-F-Ch8brA2210.m4a",
+      "pfad": "/v1/episode/836c73c64b6b1e95b210bca3f5e383468e755996.json",
+      "titel": "职场姐姐 | 职场心理学教授钱婧：做一个因果自负的成年人",
+      "veroeffentlicht": "2024-01-16T05:14:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨当代年轻人的职场迷惘与个人成长路径"
+    },
+    {
+      "guid": "6568515ece2ee31e8fb7797a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/6568515ece2ee31e8fb7797a/media.xyzcdn.net/lmh2bpZ4_I5CTFkc2P4xxtLgIr8x.m4a",
+      "pfad": "/v1/episode/60f910b39f54ec541c0efe405dd73a08acaac5b6.json",
+      "titel": "#44 桃子：社会学跨保到北大法学，当一个entj决定尝试新赛道",
+      "veroeffentlicht": "2023-11-30T09:09:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨从社会学跨保到北大法学的经历与自我探索。"
+    },
+    {
+      "guid": "65581afcd0028fb4cb632bdc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/65581afcd0028fb4cb632bdc/media.xyzcdn.net/lisNu9Io4VzHqnVt9vxO4ayy_yl6.m4a",
+      "pfad": "/v1/episode/f3807f3d65873b7e6f0dcd0f18b1237154b23d6d.json",
+      "titel": "职场姐姐 | Momo：成熟不是一种表象啦，是一种思维方式（转播）",
+      "veroeffentlicht": "2023-11-18T02:01:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成熟的定义以及人们在何时觉得自己成熟了"
+    },
+    {
+      "guid": "654355e7d1844a84f27fc578",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/654355e7d1844a84f27fc578/media.xyzcdn.net/lmAe7XRoUjL0RpysYDf-BOg0kD-e.m4a",
+      "pfad": "/v1/episode/3831eab3e422a6950b17e2cf0059a1cf6823d294.json",
+      "titel": "串台 x 不方时间 | 漫长的就业季：这年头找一份好工作有多难（鸡汤版）",
+      "veroeffentlicht": "2023-11-02T07:55:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨漫长就业季中的求职挑战与职场复盘"
+    },
+    {
+      "guid": "6536585bf5d0788cb5784174",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/6536585bf5d0788cb5784174/media.xyzcdn.net/luhnafjSLA8WYzFob2jwzbjyDcxm.m4a",
+      "pfad": "/v1/episode/404eb4fb03ee866830e63fc19cdeff03e3b664a3.json",
+      "titel": "#43 Ruxuan：艺考转商科到被阿里邀请入职，如何每段经历带着5个目标勇敢跨界",
+      "veroeffentlicht": "2023-10-24T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ruxuan跨界经历：从艺考到商科，再到创业与阿里"
+    },
+    {
+      "guid": "65124aa619dde7bf6a917a08",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ee745a5418a84a0467e1c39/65124aa619dde7bf6a917a08/media.xyzcdn.net/lj6yBMn_rsyMraHcfAqYS97UfzLL.m4a",
+      "pfad": "/v1/episode/134904700b9d4af2a6353a83defa54cac72dbc54.json",
+      "titel": "职场姐姐 | 陈怡静（下）：在漫长的职业生涯里，了解世界、了解自己、打怪升级",
+      "veroeffentlicht": "2023-09-26T03:06:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "陈怡静谈职场新人的职业感建立与自我迭代"
     }
   ]
 }

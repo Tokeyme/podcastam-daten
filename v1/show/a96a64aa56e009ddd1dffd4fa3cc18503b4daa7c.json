@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "朝闻日报 | 龙虾精选资讯",
   "apple_collection_id": "1879805280",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69e8c5c61e94ae6921e6a38c",
@@ -13,6 +13,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "宁德时代计划建4000座换电站，多地油价大涨与充电桩悄悄涨价引发关注。"
+    },
+    {
+      "guid": "69e62ff31e94ae6921ba1b40",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69e62ff31e94ae6921ba1b40/media.xyzcdn.net/698f5331bcf3060785652f29/luT-X0TBuHQz5kNEEppzEiSx6nGb.m4a",
+      "pfad": "/v1/episode/9a4884acccdf7c83a8c4cee4a5cbb4d23afe930c.json",
+      "titel": "20260421 | 【DeepSeek】估值【百亿美元】/【华为】发新品/【金价】或飙【8000美元】",
+      "veroeffentlicht": "2026-04-20T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月21日每日最新资讯速递"
+    },
+    {
+      "guid": "69e4d8b81e94ae6921a2302e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69e4d8b81e94ae6921a2302e/media.xyzcdn.net/698f5331bcf3060785652f29/ls7VMSUQKw4N7pJDkfBbLCIDibDP.m4a",
+      "pfad": "/v1/episode/d21f741e0c83800d1a654018cfca7d8992d103f3.json",
+      "titel": "20260420 | 【油价】有望下调/【机器人】破【半马】纪录/假酒案涉【2.6亿】",
+      "veroeffentlicht": "2026-04-19T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "河南问责整顿形式主义、机器人打破人类纪录及油价有望下调等新闻。"
+    },
+    {
+      "guid": "69e391711e94ae692191e45b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69e391711e94ae692191e45b/media.xyzcdn.net/698f5331bcf3060785652f29/lhXGVRKjxn5y8Jb6ciYooSyKvSUV.m4a",
+      "pfad": "/v1/episode/a22c5ca4b8488c34ad9d28e4c20162496a504b9c.json",
+      "titel": "20260419 | 【小米SU7】跑【1313公里】/【7大平台】罚【36亿】/【一季度GDP】增【5%】",
+      "veroeffentlicht": "2026-04-18T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月19日每日最新资讯速递与热点新闻盘点"
+    },
+    {
+      "guid": "69e22bc91e94ae69218099c1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69e22bc91e94ae69218099c1/media.xyzcdn.net/698f5331bcf3060785652f29/FgWaxBKH9DSQ88odTenmJ-eUYZM0.m4a",
+      "pfad": "/v1/episode/0d2b694ef735ecf827aafbf5ec26b6013ad0d194.json",
+      "titel": "【0418 | 朝闻日报】【A股】调研热度升温/粉蓝莓炒到【400元】/【发改委】提高最低工资",
+      "veroeffentlicht": "2026-04-17T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月18日新闻速递：粉蓝莓营销、A股调研、广州爆燃事故及最低工资标准。"
+    },
+    {
+      "guid": "69e10403b977fb2c47232452",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69e10403b977fb2c47232452/media.xyzcdn.net/698f5331bcf3060785652f29/lrA9B7ohilYzyaRF7AKv9cr1BLmt.m4a",
+      "pfad": "/v1/episode/2f0ed6518b6d50e4e2dc4c025541157cae2e7b74.json",
+      "titel": "20260417 | 【法国】通过归还中国文物法案/【广交会】无人机受热捧/【梅洛尼】与特朗普公开翻脸",
+      "veroeffentlicht": "2026-04-16T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "法国通过归还中国文物法案及广交会无人机受热捧等新闻速递"
+    },
+    {
+      "guid": "69dfa31ab977fb2c47090dcf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69dfa31ab977fb2c47090dcf/media.xyzcdn.net/698f5331bcf3060785652f29/lgh5ghp4Kn3vuqcGQ4OjokdggAdH.m4a",
+      "pfad": "/v1/episode/c62a0deb35858fa27a133c389461b5884af4dc20.json",
+      "titel": "20260416 | 【英特尔】市值暴涨/韩芯片危机/美退还【1万亿】关税/【万科】债券展期",
+      "veroeffentlicht": "2026-04-15T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "今日最新资讯速递，涵盖科技、国际热点与财经动态。"
+    },
+    {
+      "guid": "69de3d24b977fb2c47ede6bd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69de3d24b977fb2c47ede6bd/media.xyzcdn.net/698f5331bcf3060785652f29/lgRa6dfd33CXh72niSd2kn1ScQxp.m4a",
+      "pfad": "/v1/episode/b94b59f2fbca44ea5e793bbb3500c22dbfd01cc3.json",
+      "titel": "20260415 |【进出口】增 15%创新高/【体验经济】超 18万亿 /【网易云音乐】AI广告翻车/【游资】大佬退网",
+      "veroeffentlicht": "2026-04-14T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月15日最新资讯速递"
+    },
+    {
+      "guid": "69dce791b977fb2c47d5adc5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69dce791b977fb2c47d5adc5/media.xyzcdn.net/698f5331bcf3060785652f29/lvgSMs4ql9_V4GOj9MOg5uBho6rB.m4a",
+      "pfad": "/v1/episode/44072c0f2e1b90396611ec47a52f6aa6b00a3b40.json",
+      "titel": "20260414 |【光伏】板块集体大涨/【AI】流量引擎发布/【新能源汽车】闪充被吐槽",
+      "veroeffentlicht": "2026-04-13T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "每日最新资讯速递：光伏板块大涨、AI流量引擎发布及新能源汽车闪充吐槽"
     }
   ]
 }

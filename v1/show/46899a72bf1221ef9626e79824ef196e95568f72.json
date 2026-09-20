@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "听电影学英语口语",
   "apple_collection_id": "1584584802",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/a474-audiofreehighqps/5A/35/CKwRIaIFU_2VABIzKQDyO4O1.m4a",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "一段关于情感纠葛、痛苦抉择与回忆的英文配音混剪片段。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5e25-audiofreehighqps/8B/B0/CKwRIUEFO1V3ABAAAADr-4cM.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIUEFO1V3ABAAAADr-4cM.m4a?channel=rss&album_id=52559309&track_id=461748231&uid=101921226&jt=https://aod.cos.tx.xmcdn.com/storages/5e25-audiofreehighqps/8B/B0/CKwRIUEFO1V3ABAAAADr-4cM.m4a",
+      "pfad": "/v1/episode/cf2081fc6597086adb4409ff8a3165519739e091.json",
+      "titel": "【英文歌词】我们都在学习伤痛里的幸福",
+      "veroeffentlicht": "2021-10-12T13:49:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英文歌词中关于痛苦与幸福的复杂情感"
     }
   ]
 }

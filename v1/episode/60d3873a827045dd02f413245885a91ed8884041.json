@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_914923127",
+  "apple_collection_id": "1842065584",
+  "show": "地道母语聊AI 🎧 || 轻松听懂科技英语，助力听力提升",
+  "titel": "在Copilot Studio构建智能体",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqh9sAMqrz9ACAAAAQWryLy.mp3.m4a?channel=rss&album_id=103884911&track_id=914923127&uid=399852081&jt=https://aod.cos.tx.xmcdn.com/storages/e468-audiofreehighqps/7C/28/GAqh9sAMqrz9ACAAAAQWryLy.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:11:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "在Microsoft Copilot Studio中构建智能客服代理",
+  "kurzfassung": "本期节目探讨如何在Microsoft Copilot Studio中构建自主智能客服代理。内容涵盖设计任务、生成式协调以及利用数据源和触发器。同时展示了如何实现电子邮件回复的自动化工作流。",
+  "stichpunkte": [
+    "定义自主客户服务代理的任务",
+    "使用生成式协调实现动态回复",
+    "结合Dataverse和PDF等知识源",
+    "设置电子邮件到达触发器以实现实时自动化",
+    "集成Power Platform连接器进行业务操作",
+    "演示处理多步骤客户请求的自动化流程"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:11:23+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 953,
+  "veroeffentlicht": "2025-09-28T12:30:00+00:00",
+  "beschreibung": "� Welcome to Pod Studio！\nToday's topic is Building Autonomous Agents in Copilot Studio!\n\nIn this extended listening practice, you’ll hear real-life dialogues and natural native English to help sharpen your ears and understand different accents. �️\n\nPLUS!\nDiscover how to create a fully autonomous customer care agent inside Microsoft Copilot Studio. In this episode, guided by insights from Reza Dorrani’s tutorial, we break down the exact steps to automate email responses for a shared customer care inbox—covering everything from order status updates to product inquiries and complaints.\n\nWhether you’re a business professional, tech enthusiast, or simply curious about how AI can transform customer support, this podcast episode is your ultimate guide to building intelligent agents that work independently and efficiently.\n\n� This session is designed for those who want to:\nLearn how to design and define an autonomous agent’s task\nUnderstand generative orchestration for dynamic AI-driven replies\nGround AI agents with knowledge sources like Dataverse tables & PDF files\nAutomate workflows with triggers such as new email arrivals\nIntegrate Power Platform connectors for real business actions\nBuild customer care systems that scale without constant human oversight\n\n� Episode Highlights:\n• Defining an Autonomous Customer Care Agent �️\n• Using Generative Orchestration for Smarter Responses �\n• Adding Knowledge Sources: Dataverse, PDFs & More �\n• Setting Up Email Triggers for Real-Time Automation �\n• Power Platform Connectors: From Sending Replies to Logging Data �\n• Demonstration: Multi-Step Customer Requests Handled Automatically �\n\n� Stay at the forefront of enterprise AI with hands-on strategies to deploy autonomous agents that save time, improve customer experience, and scale support seamlessly!\n\n� Don’t forget to LIKE, SHARE, and SUBSCRIBE for more episodes on AI-powered business tools, Copilot Studio tutorials",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">� Welcome to Pod Studio！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Today's topic is Building Autonomous Agents in Copilot Studio!</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">In this extended listening practice, you’ll hear real-life dialogues and natural native English to help sharpen your ears and understand different accents. �️</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">PLUS!</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Discover how to create a fully autonomous customer care agent inside Microsoft Copilot Studio. In this episode, guided by insights from Reza Dorrani’s tutorial, we break down the exact steps to automate email responses for a shared customer care inbox—covering everything from order status updates to product inquiries and complaints.</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Whether you’re a business professional, tech enthusiast, or simply curious about how AI can transform customer support, this podcast episode is your ultimate guide to building intelligent agents that work independently and efficiently.</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">� This session is designed for those who want to:</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"> Learn how to design and define an autonomous agent’s task</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"> Understand generative orchestration for dynamic AI-driven replies</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"> Ground AI agents with knowledge sources like Dataverse tables &amp; PDF files</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"> Automate workflows with triggers such as new email arrivals</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"> Integrate Power Platform connectors for real business actions</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"> Build customer care systems that scale without constant human oversight</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">� Episode Highlights:</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">• Defining an Autonomous Customer Care Agent �️</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">• Using Generative Orchestration for Smarter Responses �</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">• Adding Knowledge Sources: Dataverse, PDFs &amp; More �</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">• Setting Up Email Triggers for Real-Time Automation �</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">• Power Platform Connectors: From Sending Replies to Logging Data �</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">• Demonstration: Multi-Step Customer Requests Handled Automatically �</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">� Stay at the forefront of enterprise AI with hands-on strategies to deploy autonomous agents that save time, improve customer experience, and scale support seamlessly!</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">� Don’t forget to LIKE, SHARE, and SUBSCRIBE for more episodes on AI-powered business tools, Copilot Studio tutorials</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/6c1b-audiofreehighqps/18/1B/GKwRIJEMiMQSAAEwDwQEichF.jpeg",
+  "folgennummer": 5
+}

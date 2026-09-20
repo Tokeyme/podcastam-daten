@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "大学生活的100种可能",
   "apple_collection_id": "1741712276",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa8d0ff129fe965d332ba99",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/6aa8d0ff129fe965d332ba99/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/ltYMOsbhA-b5mrFAb67ZMl_RqbxF.m4a",
+      "pfad": "/v1/episode/b631b47ac29edc2616e335b7e09f54bda6ef2a4e.json",
+      "titel": "Vol33.大学不顺、实习跨界，保研北师大后仍怀疑读研的意义｜迷茫不是问题，随波逐流才是",
+      "veroeffentlicht": "2026-09-15T05:04:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨心理学专业学习、跨界实习经历与读研意义的思考"
+    },
     {
       "guid": "6a6c28b756a3f3491ba7e18e",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/6a6c28b756a3f3491ba7e18e/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/lkfYjtEmCYzDwiCBefraQtHS1iKR.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "不跟风名校保研，四段运营实习与多元尝试拓展文科生成长可能。"
+    },
+    {
+      "guid": "6a69a78956a3f3491ba6cd94",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/6a69a78956a3f3491ba6cd94/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/llCSC9kKU61iXii7l_A4VmweSRPi.m4a",
+      "pfad": "/v1/episode/f417e0f519cc199964245c47c570cc4f2b8e4123.json",
+      "titel": "Vol.31 从迷茫低谷、屡赛屡败到终拿国奖，我的成长与竞赛选题、组队备赛的实操指南",
+      "veroeffentlicht": "2026-07-30T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从迷茫低谷到斩获国奖的大学成长与竞赛实操指南"
+    },
+    {
+      "guid": "6a242ccab30e1571aea1bce1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/6a242ccab30e1571aea1bce1/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/lvngQfmc-NoPUQzlhAFUWEDYqpBv.m4a",
+      "pfad": "/v1/episode/01fd257823fcd7879750a8062181dc14f164febb.json",
+      "titel": "ep09.大学是我们成长的主要途径，但不是唯一：19岁不上大学的她，也能在异国他乡找到自己的生态位",
+      "veroeffentlicht": "2026-06-08T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Regine讲述她在南非的自我觉醒与异国重构人生的故事。"
+    },
+    {
+      "guid": "6a005f641b7bd50295db2485",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/6a005f641b7bd50295db2485/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/lgq33rrm14I7asvguozdPYtFlldR.m4a",
+      "pfad": "/v1/episode/5e65be34b35f372df6f5ef21d8d7ed76c6542acd.json",
+      "titel": "Vol30.如何兼顾工作、学习和爱好？多线程任务其实也是一种生活的平衡术",
+      "veroeffentlicht": "2026-05-10T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何平衡工作、学习与爱好，实现多线程生活的平衡术。"
+    },
+    {
+      "guid": "69f9f461f93890ea8145874a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/69f9f461f93890ea8145874a/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/lo5BprgjOWjNB3UM71Zh3GH_CqWI.m4a",
+      "pfad": "/v1/episode/154768c36805c74f596c4f08ccf7d9fffddcbc09.json",
+      "titel": "ep08. 一万次负面评价塑造了自卑的我们，但这不是全部：从自卑到自信的修炼指南",
+      "veroeffentlicht": "2026-05-06T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场中的自卑心理，以及如何寻找自信的力量。"
+    },
+    {
+      "guid": "69f536ecf94a3deb0912843c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/69f536ecf94a3deb0912843c/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/lk9L-hY7eSx-WwOYGu8cf8tbNqS8.m4a",
+      "pfad": "/v1/episode/7a8b33e585057db6a62adcf8a02766faef2809ef.json",
+      "titel": "ep07.想避免大学毕业即失业，就要认识到实习决定了职业的起点",
+      "veroeffentlicht": "2026-05-02T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨实习对职业规划的重要性及求职方法"
+    },
+    {
+      "guid": "69f0264522e2509169074f55",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/69f0264522e2509169074f55/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/loAtwEIDxmzRp2z9FvkZZBeCPMEH.m4a",
+      "pfad": "/v1/episode/801275e29508f6764dfe812408645c195039ebac.json",
+      "titel": "Vol29.考上好大学就会快乐吗？在重度抑郁、迷茫休学创业后，要允许自己不优秀、不开心",
+      "veroeffentlicht": "2026-04-28T03:25:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "考上好大学就会快乐吗？00后创业者分享抑郁休学与自我救赎的心路"
+    },
+    {
+      "guid": "69ea1bdc1e94ae6921fdbdcd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/69ea1bdc1e94ae6921fdbdcd/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/lgkSOWgbhDT552gUbLoiWioxnlYX.m4a",
+      "pfad": "/v1/episode/c7e5e2304d7e93f34a2fddc4046fa1d37ab23e91.json",
+      "titel": "ep06.是选能做的还是想做的？大学生应该知道的职业选择和发展逻辑",
+      "veroeffentlicht": "2026-04-24T01:25:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大学生职业选择、职业定位与发展逻辑。"
+    },
+    {
+      "guid": "69e4bf091e94ae6921a01727",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67925cf1c27baeb1d2f16f73/69e4bf091e94ae6921a01727/media.xyzcdn.net/67925cf1c27baeb1d2f16f73/loVtSpWk0JgI1USOcaY6iCGHWZvU.m4a",
+      "pfad": "/v1/episode/b73b9b4c1213c97073f792e9740e852a447363ba.json",
+      "titel": "Vol28.从颜值主播、便利店兼职到联合国实习，不同的平台和信息塑造了我不同的选择",
+      "veroeffentlicht": "2026-04-20T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从颜值主播、便利店兼职到联合国实习的成长与选择"
     }
   ]
 }

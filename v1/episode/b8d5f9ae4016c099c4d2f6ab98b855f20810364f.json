@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "6a23aee47444b57222343f54",
+  "apple_collection_id": "1776850152",
+  "show": "付少的读书圈",
+  "titel": "62：对话王老师，AI内容爆发是否会颠覆高校课堂？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a23aee47444b57222343f54/media.xyzcdn.net/62c58fc358b1ee616a26be0a/ll7zebBloQda3l7SVAFAtyBhiRYB.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T14:19:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI内容爆发对高校课堂、科研及创意工作的影响",
+  "kurzfassung": "本期节目对话硕士生导师王老师，探讨AIGC在高校教育、科研及日常工作中的应用与影响。嘉宾分析了AI漫剧的定义、核心应用场景及商业化变现的可持续性。同时，节目讨论了AI技术对内容创意工作者的挑战以及对教育行业的启发。",
+  "stichpunkte": [
+    "AIGC的接触研究过程与核心应用场景",
+    "高校老师视角下的AIGC对科研与日常工作的影响",
+    "AI漫剧的定义及其与普通AIGC的区别",
+    "AI内容商业化变现的可持续性与行业影响",
+    "AI是否会取代内容和创意工作者",
+    "AI应用趋势对高校学生和教育行业的启发",
+    "AI技术带来的版权、伦理及反诈等问题"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:19:16+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 9112,
+  "veroeffentlicht": "2026-06-06T05:32:39+00:00",
+  "beschreibung": "嘉宾：\n王老师，硕士研究生导师，AIGC研究者\n\n内容大纲：\n对于AI生成内容的接触和研究过程是怎样的；\n\n现在核心的AIGC应用场景都有哪些；\n\n站在高校老师的视角，怎么看待AIGC应用对于科研和日常工作的影响；\n\n怎么定义AI漫剧，这个领域和普通的AIGC的区别是什么；\n\n近期红果短剧收益断崖式下降，AI内容的商业化变现是否可持续；\n\n字节跳动是否在收割AI短剧行业的价值；\n\nAI会取代内容和创意工作者的说法是否是一种误解；\n\n今天的AI应用趋势，对于高校学生和教育行业最大的启发是什么；\n\n怎么看待AI漫剧接下来的趋势和发展方向；\n\n精彩时刻：\n1.AIGC视频化趋势\n讨论AIGC视频化趋势，分享从《CivilDevotion》培训到《C2.0》火爆的体感变化。\n2.电影荧幕演变\n分析电影荧幕从宽到大的演变，认为屏幕变大是吸引观众进电影院的手段，而非视听语言的追求。\n3.AI对教育的冲击\n探讨AI对教育的冲击，认为高校体系难以接触应用端，而业界应用端变化夸张，一个人即可完成商业闭环。\n4.AI时代审美价值\n探讨AI技术平权后，高校学生审美与创造力在创作中的核心价值。\n5.ACG制作优势\n探讨ACG制作空间的想象力优势，认为其在长周期制作中更具优势。\n6.IP载体与商业化\n分析不同国家IP载体差异，探讨泡泡玛特等视觉IP的商业化增长性与影响力。\n7.AI技术带来的危机\n讨论AI技术带来的版权，伦理，反诈等问题，以及有关部门对平台审核和自查的要求。\n8.AI内容商业化\n分享利用AIGC生成内容的商业化逻辑，通过番茄小说文本改写，慢剧生成和投放实现高收益。\n9.AI时代自我价值\n探讨AI时代人人成为产品经理，通过无意义劳动获得自我满足，实现精神世界的价值。\n10.AI幻觉与教育\n讨论AI幻觉带来的问题，强调大学生应拓展信息获取渠道，避免因AI依赖而产生幻觉。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<h2>嘉宾：</h2><p>王老师，硕士研究生导师，AIGC研究者</p><p></p><h2>内容大纲：</h2><ul><li><p>对于AI生成内容的接触和研究过程是怎样的；</p></li><li><p>现在核心的AIGC应用场景都有哪些；</p></li><li><p>站在高校老师的视角，怎么看待AIGC应用对于科研和日常工作的影响；</p></li><li><p>怎么定义AI漫剧，这个领域和普通的AIGC的区别是什么；</p></li><li><p>近期红果短剧收益断崖式下降，AI内容的商业化变现是否可持续；</p></li><li><p>字节跳动是否在收割AI短剧行业的价值；</p></li><li><p>AI会取代内容和创意工作者的说法是否是一种误解；</p></li><li><p>今天的AI应用趋势，对于高校学生和教育行业最大的启发是什么；</p></li><li><p>怎么看待AI漫剧接下来的趋势和发展方向；</p></li></ul><p></p><h2>精彩时刻：</h2><p>1.AIGC视频化趋势</p><p>讨论AIGC视频化趋势，分享从《CivilDevotion》培训到《C2.0》火爆的体感变化。</p><p>2.电影荧幕演变</p><p>分析电影荧幕从宽到大的演变，认为屏幕变大是吸引观众进电影院的手段，而非视听语言的追求。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://3.AI\">3.AI</a>对教育的冲击</p><p>探讨AI对教育的冲击，认为高校体系难以接触应用端，而业界应用端变化夸张，一个人即可完成商业闭环。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://4.AI\">4.AI</a>时代审美价值</p><p>探讨AI技术平权后，高校学生审美与创造力在创作中的核心价值。</p><p>5.ACG制作优势</p><p>探讨ACG制作空间的想象力优势，认为其在长周期制作中更具优势。</p><p>6.IP载体与商业化</p><p>分析不同国家IP载体差异，探讨泡泡玛特等视觉IP的商业化增长性与影响力。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://7.AI\">7.AI</a>技术带来的危机</p><p>讨论AI技术带来的版权，伦理，反诈等问题，以及有关部门对平台审核和自查的要求。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://8.AI\">8.AI</a>内容商业化</p><p>分享利用AIGC生成内容的商业化逻辑，通过番茄小说文本改写，慢剧生成和投放实现高收益。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://9.AI\">9.AI</a>时代自我价值</p><p>探讨AI时代人人成为产品经理，通过无意义劳动获得自我满足，实现精神世界的价值。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://10.AI\">10.AI</a>幻觉与教育</p><p>讨论AI幻觉带来的问题，强调大学生应拓展信息获取渠道，避免因AI依赖而产生幻觉。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a23aee47444b57222343f54?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fk3dOAjPPCfyTO5CK9feV4MLaUxE.webp"
+}

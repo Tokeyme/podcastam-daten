@@ -2,8 +2,68 @@
   "schema_version": 1,
   "show": "吴说不加密播客",
   "apple_collection_id": "1714428325",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa541b3492687f6aad8d5c3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6aa541b3492687f6aad8d5c3/media.xyzcdn.net/6443f642c719e0a1189a5d3e/lgHSd02AKqNU2hKIG8w3GxGiXM0N.m4a",
+      "pfad": "/v1/episode/5f849cfe966e1bb7533b5e889a02edd93e0c1515.json",
+      "titel": "创始人们回顾 YZi Labs 不丹训练营",
+      "veroeffentlicht": "2026-09-13T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "YZi Labs S4不丹训练营创始人复盘"
+    },
+    {
+      "guid": "6a9b8fcaf03e74ee6b055a50",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a9b8fcaf03e74ee6b055a50/media.xyzcdn.net/6443f642c719e0a1189a5d3e/lt9TLx0IrVXVgOYocaGR2ZgpRh7Q.m4a",
+      "pfad": "/v1/episode/e4bb4449df7cb0ed017d90b2f39cac6bff1525d3.json",
+      "titel": "EP-118 彩礼、代孕与名誉：律师详解孙宇晨景甜纠纷中的法律问题",
+      "veroeffentlicht": "2026-09-05T03:50:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "律师详解孙宇晨与景甜纠纷中的法律问题"
+    },
+    {
+      "guid": "6a95479ea0210c197dcb0ba9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a95479ea0210c197dcb0ba9/media.xyzcdn.net/6443f642c719e0a1189a5d3e/luz3ZbdpwsKIEzaGDpEvLqIubvDK.m4a",
+      "pfad": "/v1/episode/fa1e01c4c340ec4da8c1f62a3c8682b0a665eeab.json",
+      "titel": "EP-117 比特币反弹，熊市已经结束了吗？",
+      "veroeffentlicht": "2026-08-31T09:42:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "比特币反弹后，牛市是否已经到来？"
+    },
+    {
+      "guid": "6a91d324f03e74ee6b01737b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a91d324f03e74ee6b01737b/media.xyzcdn.net/6443f642c719e0a1189a5d3e/lsns-OgZWnH4NFH0pYNVFApm_Ln9.m4a",
+      "pfad": "/v1/episode/e3220248423b5b92cd2c97396d8d1fe385516d19.json",
+      "titel": "CZ 香港 AMA：年轻人不要把一夜暴富当目标",
+      "veroeffentlicht": "2026-08-29T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "CZ香港AMA：年轻人不要把一夜暴富当目标"
+    },
+    {
+      "guid": "6a906a86ef65145dfcc682ac",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a906a86ef65145dfcc682ac/media.xyzcdn.net/6443f642c719e0a1189a5d3e/loej5lIds0-mpW0KrKTQKECQ1Hyf.m4a",
+      "pfad": "/v1/episode/1fdf889aefb2c0d1a782aec952fd3fda120b6aa3.json",
+      "titel": "CZ 香港问答实录：人生任何阶段，不做什么都比“做什么”更重要",
+      "veroeffentlicht": "2026-08-28T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "CZ香港新书分享会问答实录，回顾创业经历与行业思考"
+    },
+    {
+      "guid": "6a8b28fa1352af56ff3ac8d3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a8b28fa1352af56ff3ac8d3/media.xyzcdn.net/6443f642c719e0a1189a5d3e/lib4gOdx2H8gpUXFlsvtobCGZzI0.m4a",
+      "pfad": "/v1/episode/357666dd1c263f4b9b44ff1b502ec3b07b7b640b.json",
+      "titel": "EP-116 Sui 难民：华语开发者为什么选择离开？",
+      "veroeffentlicht": "2026-08-24T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨 Sui 生态开发者的经历、面临的沟通问题与离开原因"
+    },
     {
       "guid": "6a6f8837ab3a91c24a0eace6",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a6f8837ab3a91c24a0eace6/media.xyzcdn.net/6443f642c719e0a1189a5d3e/luCRKlLRkeQEM8cEHGNIxtxhxw2V.m4a",
@@ -13,6 +73,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨2026年Web3支付走向，涵盖合规监管、稳定币应用与AI支付等趋势。"
+    },
+    {
+      "guid": "6a68604e56a3f3491ba63e03",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a68604e56a3f3491ba63e03/media.xyzcdn.net/6443f642c719e0a1189a5d3e/lulxQH9ggr6VjnMFFK61dvXhMpLB.m4a",
+      "pfad": "/v1/episode/7e4922e7188c5c4c97223a7b6b9bb95b430cde47.json",
+      "titel": "EP-114 传奇交易所 BitMEX 谢幕：永续合约、312 宕机、Bybit 将其取代",
+      "veroeffentlicht": "2026-07-29T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾加密交易所 BitMEX 的发展历程与关闭原因"
+    },
+    {
+      "guid": "6a5a47336356eb2d9be448aa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a5a47336356eb2d9be448aa/media.xyzcdn.net/6443f642c719e0a1189a5d3e/llVlRuyoGKSCmnwFMIwoijp5GpJS.m4a",
+      "pfad": "/v1/episode/1ab0e9df88f5438f16894192f3413eadabdf8b01.json",
+      "titel": "EP-113 “10·11”后：我为什么清仓比特币转向美股？",
+      "veroeffentlicht": "2026-07-18T01:26:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "交易者Fiona分享从加密货币转向美股的转型经历与心得"
+    },
+    {
+      "guid": "6a4dadb33fb7233cbf4573a3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a4dadb33fb7233cbf4573a3/media.xyzcdn.net/6443f642c719e0a1189a5d3e/lrpsGSEJs4N2u4BWcDinsG9Dcqu7.m4a",
+      "pfad": "/v1/episode/15aeb2e447a2fbd16b78f0cf9248367c2f64b5ee.json",
+      "titel": "EP-112 Circle 股价暴跌，稳定币联盟 Open USD 意味着什么？",
+      "veroeffentlicht": "2026-07-08T02:06:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Open USD稳定币对USDC的冲击及商业模式重构。"
     }
   ]
 }

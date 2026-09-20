@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "多元方城事 | 城市科技与设计",
   "apple_collection_id": "1511691839",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://audio.xmcdn.com/storages/8c30-audiofreehighqps/4D/DD/CKwRIMAEkRPdAT0UXwC1e-Db.m4a",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨建筑与城市建设中的“双碳”目标与绿色发展路径。"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/storages/ad4e-audiofreehighqps/E9/24/CKwRIDoDzh7hABAAAAB5oE0N.mp3",
+      "audio_url": "https://tk.wavpub.com/WPDL_aMnLJUeFYmcJtQhtFqVKdHDFnQuXpeEQpcyLwwjRvbNueycxVxtLtGMdET-08.m4a",
+      "pfad": "/v1/episode/38b85085fb83f8990e720d48a7838308d8339695.json",
+      "titel": "番外02 - 演讲实录 | 中国智慧城市的死与生（下）",
+      "veroeffentlicht": "2021-01-10T09:00:28+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国智慧城市的死与生，分析技术迷思、空间结构与未来愿景。"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/storages/e534-audiofreehighqps/7E/34/CKwRIDoDviU4ABAAAAB1ac7p.mp3",
+      "audio_url": "https://tk.wavpub.com/WPDL_FZdwGSbbbuxemyhrVLyskfjePTtArtQHnBWqZBgjxcPYVEAYSScAVuczCd-94.m4a",
+      "pfad": "/v1/episode/9f9b061dabd8d790e900abe2537a901545b80404.json",
+      "titel": "番外01 - 演讲实录 | 中国智慧城市的死与生（上）",
+      "veroeffentlicht": "2020-12-27T18:34:21+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨智慧城市的发展历史、技术迷思与未来愿景"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/storages/d0ae-audiofreehighqps/8D/5F/CMCoOR4DapFXALFQfgBgU_kh.m4a",
+      "audio_url": "https://tk.wavpub.com/WPDL_QTHGewqNRbxyYJcBTrBFGpfXWTFLdTRLqvHjqVNzrVaxcfWtLAVTKFMzzM-5c.m4a",
+      "pfad": "/v1/episode/8bf68481225e3faa224b236c0fce40d77f2a2ee0.json",
+      "titel": "24 - 让天下没有难做的TOD，这里有一套从设计到开发的秘籍（第一季结束）",
+      "veroeffentlicht": "2020-10-25T09:00:14+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨TOD项目从设计到开发的现实运作策略与实践经验。"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/storages/523c-audiofreehighqps/E7/96/CMCoOR8DYAdIAWrIygBd3ZX5.mp3",
+      "audio_url": "https://tk.wavpub.com/WPDL_USjnCgkgeJdkYtNwAaZzRMapepGcxqUJmnvLzFeJfGSwzcHyynUdzBLdjw-c9.m4a",
+      "pfad": "/v1/episode/0f540b2b312f952996af9c56d0c600860c8ed2b6.json",
+      "titel": "23 - TOD的美好公共交通愿景，为什么并不好做？",
+      "veroeffentlicht": "2020-10-18T09:00:13+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "TOD模式在实际设计中遇到的难点与利益考量。"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/storages/b985-audiofreehighqps/45/90/CMCoOSMDWBaVAN9nYABcAiH4.m4a",
+      "audio_url": "https://tk.wavpub.com/WPDL_zkeBRXtzxHfQvqYcxwFGjZrTPeEQeHcgJRnRDpbJGGJtZqVrJPRuFYurru-64.m4a",
+      "pfad": "/v1/episode/bac98e9a691ad57cbfd9689c50d3a8bea93f1baf.json",
+      "titel": "22 - 先建地铁再盖房子，TOD的城建世界是怎样的逻辑？",
+      "veroeffentlicht": "2020-10-11T08:36:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨TOD模式在城市规划中的实际应用与预测模拟。"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/storages/3ad6-audiofreehighqps/1C/BE/CMCoOSIDSMAZAgcWxABY2jRc.mp3",
+      "audio_url": "https://tk.wavpub.com/WPDL_RHEXCjsupMmGszFPmwEdxRgMZTGZDbQVkUhPVeXhtCWevMaNbeStpFZMMc-03.m4a",
+      "pfad": "/v1/episode/d56793a55f98826bd5f66465fff6c88fae1bca21.json",
+      "titel": "21 - 左手房价、右手宜居，你应该知道的TOD模式",
+      "veroeffentlicht": "2020-09-29T17:23:40+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨TOD城市发展模式及其对生活、交通和房价的影响"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/storages/db93-audiofreehighqps/5B/2E/CMCoOSYDP52KAiNvCgBW1JTm.mp3",
+      "audio_url": "https://tk.wavpub.com/WPDL_xYtWAkYLXVmJbmxJxFrBXpfrdUuSTttTyQbCVDzCFdBrYQRPxqRCfmXnmz-74.m4a",
+      "pfad": "/v1/episode/2bd4c82dbaf222739a2a765e3b96ae9bbcecc5fb.json",
+      "titel": "20 - 数字技术的各类大饼，城市更新消化了多少？",
+      "veroeffentlicht": "2020-09-22T19:05:48+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨数字技术在城市更新中的实际应用与局限"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/group87/M09/68/BD/wKg5IV9e3zKQHRcpAWb-oKsQAoo399.mp3",
+      "audio_url": "https://tk.wavpub.com/WPDL_yTtXTCjAWAqwcAqLecJYywvZHDcsLAusHncjZjaNYhCqTkYABQqpZguzBp-43.m4a",
+      "pfad": "/v1/episode/9de0d47176eef47b1fe5ba79d42f24ae5442e632.json",
+      "titel": "19 - 开发商做“城市更新”的秘密，都藏在里子和面子之间的博弈",
+      "veroeffentlicht": "2020-09-14T11:10:43+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨开发商在城市更新中的方法论及多方博弈因素"
+    },
+    {
+      "guid": "https://audio.xmcdn.com/group83/M04/F8/41/wKg5HV9UaMmBZ5RXAVxvUs4IQ4c512.mp3",
+      "audio_url": "https://tk.wavpub.com/WPDL_QgQnWVuLQSBhQLrnQTaAjwfzVRdPeSQYXHAdNVhegTpnuXvmkktmQZmXaV-e2.m4a",
+      "pfad": "/v1/episode/6e60258759fa6b80e8adc4faf36e934f364786d7.json",
+      "titel": "18 - 控制城市新陈代谢的快慢和突变——你的城市更新了吗",
+      "veroeffentlicht": "2020-09-06T12:42:51+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨城市更新的价值、发展趋势及南北差异。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "咸蛋菜籽的播客",
   "apple_collection_id": "1855430681",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69b11a3884bce022f9de9595",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨双方父母花式催婚的趣事，分享长辈对两人物关系与标准的各种脑洞。"
+    },
+    {
+      "guid": "69772a2aef1cf272a788b985",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/691b18ae4761bd8caeb86da0/69772a2aef1cf272a788b985/media.xyzcdn.net/691b18ae4761bd8caeb86da0/lgPh5rbKdN0O-yIrcweHeB0xFWtp.m4a",
+      "pfad": "/v1/episode/f6cb62f8b192de83a2c34aa5ca916e39f70ca77b.json",
+      "titel": "言语霸凌真的够了",
+      "veroeffentlicht": "2026-01-26T08:50:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨初高中时期遇到的恶趣味男生与语言霸凌现象。"
+    },
+    {
+      "guid": "69731f3fef1cf272a7062b73",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/691b18ae4761bd8caeb86da0/69731f3fef1cf272a7062b73/media.xyzcdn.net/691b18ae4761bd8caeb86da0/lpPTlhdTek9ADdSo6MRvdy5FXGf5.m4a",
+      "pfad": "/v1/episode/73e56d2e32204039e7a6a31e7f47793fb00ecad8.json",
+      "titel": "你们初高中时期 有没有这种恶趣味 男生！",
+      "veroeffentlicht": "2026-01-23T07:16:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回忆初高中时期那些喜欢开恶趣味玩笑的男生。"
+    },
+    {
+      "guid": "6948f2e80b60b7bf75ca7a71",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/691b18ae4761bd8caeb86da0/6948f2e80b60b7bf75ca7a71/media.xyzcdn.net/691b18ae4761bd8caeb86da0/llwS85mED-TkxMlDksQwYqDYhk6Q.m4a",
+      "pfad": "/v1/episode/d2027a4a06ba7f13c18d0f0d8ea3fa3eb0f2b377.json",
+      "titel": "高中时期为了手机也是拼了老命",
+      "veroeffentlicht": "2025-12-22T07:56:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "咸蛋高中复读时因手机与宿管阿姨斗智斗勇的经历"
+    },
+    {
+      "guid": "6948eb660b60b7bf75c8d402",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/691b18ae4761bd8caeb86da0/6948eb660b60b7bf75c8d402/media.xyzcdn.net/691b18ae4761bd8caeb86da0/lunYF1DQ8-5l6jQeK2qBdoYyY7Jw.m4a",
+      "pfad": "/v1/episode/e0ae75128ace13bdd36614ab6290020f1ad57123.json",
+      "titel": "这世上多我一个好看的人到底会怎样",
+      "veroeffentlicht": "2025-12-22T07:01:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨外表出众之人的容貌焦虑与自我认知现象。"
+    },
+    {
+      "guid": "6925c2daf8a9e1d16265fb63",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/691b18ae4761bd8caeb86da0/6925c2daf8a9e1d16265fb63/media.xyzcdn.net/691b18ae4761bd8caeb86da0/lrWyDmEodix6GUJb3qH0Ai1A1KrR.m4a",
+      "pfad": "/v1/episode/82a204055f4383a757702b11eefade506508be07.json",
+      "titel": "有些大学室友真的有病",
+      "veroeffentlicht": "2025-11-25T15:01:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "大学室友的奇葩行为与极端利己主义现象"
     }
   ]
 }

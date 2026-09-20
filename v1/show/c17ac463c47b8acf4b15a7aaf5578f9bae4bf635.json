@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "【英语播客】Niki的英文语音备忘录",
   "apple_collection_id": "1645827896",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69512ab114db1df9ef228430",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨英语学习中的自然吸收与刻意训练，并解答听众关于口语和发音的疑问。"
+    },
+    {
+      "guid": "691744296018cc2c98def7d7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/620660167f4cf370411d6ffc/691744296018cc2c98def7d7/media.xyzcdn.net/620660167f4cf370411d6ffc/ljEjTb4vnRcUI6NN7O2VuWKTchiD.m4a",
+      "pfad": "/v1/episode/adbb66d325fe05db8d86a98d361ca131b91be9a9.json",
+      "titel": "你并不会失去谁，Ta的一部分早已成为你的一部分（AMA, Part 3）",
+      "veroeffentlicht": "2025-11-14T15:08:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨失去朋友、持续学习、挣钱、选择、播客制作及英专生就业。"
+    },
+    {
+      "guid": "6724abe033c798676fb29e68",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/620660167f4cf370411d6ffc/6724abe033c798676fb29e68/media.xyzcdn.net/ll6tqk6zZbXcAWR_adKXp5O3deVP.m4a",
+      "pfad": "/v1/episode/52d31ce64b8d6465e95d7a9b34d6b1e142d14d6e.json",
+      "titel": "痛苦分等级，自己给自己的那种最致命",
+      "veroeffentlicht": "2024-11-01T10:24:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "面对痛苦时如何自处以及是否能从中汲取力量"
     }
   ]
 }

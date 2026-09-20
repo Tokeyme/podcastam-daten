@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "Wissen mit Johnny",
   "apple_collection_id": "1764846386",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "ed642d30-70f7-459d-a75d-ceb5c17e39d3",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/125671927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-13%2F431803531-44100-2-59076121b4d48.m4a",
+      "pfad": "/v1/episode/a8e09244a303e12823eb898696fd5183297011ab.json",
+      "titel": "99 - Puma vs. Adidas",
+      "veroeffentlicht": "2026-09-13T21:59:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte der Brüder Adolf und Rudolf Dassler und ihrer Sportartikelmarken."
+    },
+    {
+      "guid": "cad7b991-ed6e-4eec-9f4d-f6f16d7cea92",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/125282486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2F431291188-44100-2-105a2220d3ba9.m4a",
+      "pfad": "/v1/episode/a475dad9cf90f8c680cf5ed1174fada15cfe0b5f.json",
+      "titel": "98 - Der Goiânia Unfall",
+      "veroeffentlicht": "2026-09-06T21:59:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Strahlungsunfall von 1987 in der brasilianischen Stadt Goiânia."
+    },
+    {
+      "guid": "ca244103-7889-40f9-973e-79301ded97ee",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/124938438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2F430822650-44100-2-9a6041865d0c5.m4a",
+      "pfad": "/v1/episode/c8a9880c0feaa654fe6b24b01c00330d5fb9f930.json",
+      "titel": "97 - Wer war: P. Escobar",
+      "veroeffentlicht": "2026-08-30T21:59:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Lebensweg von Pablo Escobar von einfachen Verhältnissen bis zur Macht"
+    },
+    {
+      "guid": "6630bbad-3a57-402b-b883-80339e258993",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/124625299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2F430389397-44100-2-243bbacd3356d.m4a",
+      "pfad": "/v1/episode/c0af3e0056cd85536b02a9ee77e1bbb8cc309d1c.json",
+      "titel": "96 - Das D. B. Cooper Rätsel",
+      "veroeffentlicht": "2026-08-23T21:59:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Kriminalfall um die Flugentführung von D. B. Cooper"
+    },
     {
       "guid": "54963d9d-f499-43be-91b8-56d6d5f9b4af",
       "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/124300289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2F429948417-44100-2-d38ee17246778.m4a",
@@ -13,6 +53,56 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "Die Geschichte der Hindenburg von ihrem Bau bis zur verheerenden Katastrophe."
+    },
+    {
+      "guid": "7e78b3ee-390e-43f3-af72-1ea96cd51877",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/123980616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-9%2F429511987-44100-2-a204cc8574907.m4a",
+      "pfad": "/v1/episode/97daec86acc87d1242d80cc176687982f05158c8.json",
+      "titel": "94 - Die Suche nach O. bin Laden (9/11 Deep Dive 4)",
+      "veroeffentlicht": "2026-08-09T21:59:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Suche nach O. bin Laden und die Hintergründe der Jagd."
+    },
+    {
+      "guid": "b512d899-c60a-4e08-8f4d-9f12726338f7",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/123650750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-2%2F429063085-44100-2-5eecf8ec85561.m4a",
+      "pfad": "/v1/episode/abb9d424eb93a08141c43bc0c24c7b25467068a5.json",
+      "titel": "93 - Der tragische Flug 93 (9/11 Deep Dive 3)",
+      "veroeffentlicht": "2026-08-02T22:35:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der tragische Flug 93 und die Ereignisse am 11. September 2001"
+    },
+    {
+      "guid": "40efcf03-9884-4468-851c-112711d5411c",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/123339879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-26%2F428641281-44100-2-c4ae9b5b63078.m4a",
+      "pfad": "/v1/episode/52aa987f3be4d0efdf5b99c86bddbce825ce153e.json",
+      "titel": "92 - Der 11. September, alles gelogen? (9/11 Deep Dive 2)",
+      "veroeffentlicht": "2026-07-26T21:59:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Verschwörungstheorien und Fakten zum 11. September im Deep Dive."
+    },
+    {
+      "guid": "9baa25d5-bec9-4dcc-b912-9543d0ad5539",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/123035285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-19%2F428229396-44100-2-4686886f2451b.m4a",
+      "pfad": "/v1/episode/0b69589e7949857ac87dfcd0c4acde019c515904.json",
+      "titel": "91 - Wie Brian Clark den 11. September überlebte (9/11 Deep Dive 1)",
+      "veroeffentlicht": "2026-07-19T21:59:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie Brian Clark und Stanley Praimnath den 11. September im Südturm überlebten"
+    },
+    {
+      "guid": "ee85a2b7-caa2-4a1c-b90f-a0b19d381d16",
+      "audio_url": "https://anchor.fm/s/f8b3e284/podcast/play/122095325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426967408-44100-2-34d889e2505a.m4a",
+      "pfad": "/v1/episode/40535e254060077abf254ef9b3e4abcc0ff9f9cf.json",
+      "titel": "90 - Die Internationale Raumstation (ISS)",
+      "veroeffentlicht": "2026-06-28T21:59:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Internationale Raumstation (ISS), ihr Aufbau und ihre Zukunft"
     }
   ]
 }

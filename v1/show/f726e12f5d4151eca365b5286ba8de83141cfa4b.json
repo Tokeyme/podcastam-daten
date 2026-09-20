@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "情感电台｜夜听｜电台｜轻松入睡｜成长｜治愈｜故事",
   "apple_collection_id": "1732973823",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_962007627",
@@ -13,6 +13,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨生活态度与现实人性，强调健康、自立及知足常乐的重要性。"
+    },
+    {
+      "guid": "xmly_track_897635175",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasMbSeNADZQ2AP0yg_Y.m4a?channel=rss&album_id=79461223&track_id=897635175&uid=184160152&jt=https://aod.cos.tx.xmcdn.com/storages/5675-audiofreehighqps/83/04/GKwRIasMbSeNADZQ2AP0yg_Y.m4a",
+      "pfad": "/v1/episode/c2ebdfd7e36d7bc963c996c2a811b2ef3c26b0c1.json",
+      "titel": "往事已逝未来可期丨原创",
+      "veroeffentlicht": "2025-08-09T15:08:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "重温记忆中的美好瞬间，勇敢面对成长与未来。"
+    },
+    {
+      "guid": "xmly_track_895293373",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4MZTlRAFdH8gPwRQtK.m4a?channel=rss&album_id=79461223&track_id=895293373&uid=184160152&jt=https://aod.cos.tx.xmcdn.com/storages/27b2-audiofreehighqps/EE/D2/GKwRIW4MZTlRAFdH8gPwRQtK.m4a",
+      "pfad": "/v1/episode/4b493924e3a0ddb250f2d58441b599875b798fe0.json",
+      "titel": "与焦虑共出发-旅行|原创",
+      "veroeffentlicht": "2025-08-03T14:46:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何带着焦虑出发去旅行，找回内心的冲动。"
+    },
+    {
+      "guid": "xmly_track_821065651",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJELqwKRAE8FdAN-q2MO.m4a?channel=rss&album_id=79461223&track_id=821065651&uid=184160152&jt=https://aod.cos.tx.xmcdn.com/storages/76a2-audiofreehighqps/14/B7/GKwRIJELqwKRAE8FdAN-q2MO.m4a",
+      "pfad": "/v1/episode/ce2736004bbfa9bbbf58eba7c4cbf4398f668931.json",
+      "titel": "放过自己",
+      "veroeffentlicht": "2025-03-15T08:50:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深夜探讨遗憾的爱情故事与如何学会放手。"
+    },
+    {
+      "guid": "xmly_track_818631530",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoLpLShAEwIXQN6mb0O.m4a?channel=rss&album_id=79461223&track_id=818631530&uid=184160152&jt=https://aod.cos.tx.xmcdn.com/storages/d7ab-audiofreehighqps/70/59/GKwRIDoLpLShAEwIXQN6mb0O.m4a",
+      "pfad": "/v1/episode/1beea0520f9afc717177c337e476ff2ad1482c1a.json",
+      "titel": "为爱所困的浪荡客",
+      "veroeffentlicht": "2025-03-10T14:05:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨情感中的失落、自我迷失与救赎。"
+    },
+    {
+      "guid": "xmly_track_807580052",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaILjk6_ADEeHANrSl-l.m4a?channel=rss&album_id=79461223&track_id=807580052&uid=184160152&jt=https://aod.cos.tx.xmcdn.com/storages/406a-audiofreehighqps/71/7E/GKwRIaILjk6_ADEeHANrSl-l.m4a",
+      "pfad": "/v1/episode/5a0fdb51cfa7177f15f095fe5327c2ef51c77af9.json",
+      "titel": "我是一朵难养的花",
+      "veroeffentlicht": "2025-02-21T14:20:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨异地恋心意、恋爱情绪及勇敢沟通的方式"
+    },
+    {
+      "guid": "xmly_track_806947850",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwLi6gbAExIegNp-17Y.m4a?channel=rss&album_id=79461223&track_id=806947850&uid=184160152&jt=https://aod.cos.tx.xmcdn.com/storages/3aea-audiofreehighqps/D3/C8/GKwRIRwLi6gbAExIegNp-17Y.m4a",
+      "pfad": "/v1/episode/478fbe55aae55080853565152c19d34efc75930f.json",
+      "titel": "其实，男人放不下你，真的很爱你，他一定会做这三件事",
+      "veroeffentlicht": "2025-02-19T14:04:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨男人深爱一个人时的表现与分手后的思念情感"
+    },
+    {
+      "guid": "xmly_track_804250090",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJELf2dXAEGQUwNkGdfC.m4a?channel=rss&album_id=79461223&track_id=804250090&uid=184160152&jt=https://aod.cos.tx.xmcdn.com/storages/3cb4-audiofreehighqps/49/24/GKwRIJELf2dXAEGQUwNkGdfC.m4a",
+      "pfad": "/v1/episode/214f3e18b20a1e5c4c3ad4f7b23cb3944d9ceae0.json",
+      "titel": "我的刀只能沙我",
+      "veroeffentlicht": "2025-02-10T07:01:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深夜情感电台探讨复杂情缘与自我救赎。"
     }
   ]
 }

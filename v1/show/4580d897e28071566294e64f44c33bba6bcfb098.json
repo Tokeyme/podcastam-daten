@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "儿童睡前精选故事",
   "apple_collection_id": "837350869",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/12/15/2912654902006260230_hd.mp3",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "元宝带你一起朗读经典古诗《咏柳》。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/06/23/5185896332447237638_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/06/23/5185896332447237638_hd.mp3",
+      "pfad": "/v1/episode/ede51cc6f90331f1f04042c9dcf9e82e62c80b13.json",
+      "titel": "艾玛和蝴蝶-最初的小鱼姐姐",
+      "veroeffentlicht": "2021-06-23T15:49:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "花格子大象艾玛散步时遇到了表弟韦伯。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/06/18/5184956200613479942_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/06/18/5184956200613479942_hd.mp3",
+      "pfad": "/v1/episode/18742a618ea5cb5df06bef539783164e9833ddd6.json",
+      "titel": "盘子，筷子，碗-最初的小鱼姐姐",
+      "veroeffentlicht": "2021-06-18T15:38:35+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "三个外星人化身餐具潜入地球打探食物情报的故事。"
     }
   ]
 }

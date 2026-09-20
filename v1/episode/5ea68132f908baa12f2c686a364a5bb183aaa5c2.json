@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_972514433",
+  "apple_collection_id": "1885850863",
+  "show": "每日科技简报",
+  "titel": "每日科技简报｜04月25日Codex、临床版与工具税",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIW4NwY52AB8-zgSPndq1.m4a?channel=rss&album_id=117798271&track_id=972514433&uid=418289390&jt=https://aod.cos.tx.xmcdn.com/storages/1097-audiofreehighqps/33/A7/GKwRIW4NwY52AB8-zgSPndq1.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T10:00:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨OpenAI Codex企业化、临床版与Agent提速技术。",
+  "kurzfassung": "本期节目梳理了OpenAI在企业级应用、临床医疗领域的最新进展。重点介绍了Codex Labs的推出、ChatGPT for Clinicians的开放情况。同时探讨了通过WebSockets提速Agent的方法以及降低上下文成本的新论文。",
+  "stichpunkte": [
+    "OpenAI推出Codex Labs并面向大型企业推广Codex",
+    "ChatGPT for Clinicians向美国认证临床人员免费开放",
+    "Responses API利用WebSockets将agentic loop端到端提速40%",
+    "新论文探讨如何将MCP与tools tax的上下文成本降低95%"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T10:00:23+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 252,
+  "veroeffentlicht": "2026-04-24T19:58:40+00:00",
+  "beschreibung": "04 月 25 日这期《每日科技简报》，国际侧先看 OpenAI 推出 Codex Labs 并联合七家系统集成商把 Codex 推向大型企业，再看 ChatGPT for Clinicians 向美国认证临床人员免费开放，以及 Responses API 用 WebSockets 把 agentic loop 端到端提速 40%，最后补上新论文如何把 MCP / tools tax 的上下文成本压低 95%。适合想在几分钟内补上今天企业 AI 落地、专业工作流和 agent 基础设施变化的听众。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">04 月 25 日这期《每日科技简报》，国际侧先看 OpenAI 推出 Codex Labs 并联合七家系统集成商把 Codex 推向大型企业，再看 ChatGPT for Clinicians 向美国认证临床人员免费开放，以及 Responses API 用 WebSockets 把 agentic loop 端到端提速 40%，最后补上新论文如何把 MCP / tools tax 的上下文成本压低 95%。适合想在几分钟内补上今天企业 AI 落地、专业工作流和 agent 基础设施变化的听众。</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/b592-audiofreehighqps/41/F7/GKwRIUENfKQwAAUy_QRzxN5I.jpeg"
+}

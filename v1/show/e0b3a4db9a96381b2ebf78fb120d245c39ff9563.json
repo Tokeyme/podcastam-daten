@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "子涵脱口秀大吐槽",
   "apple_collection_id": "908948548",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group37/M00/C4/71/wKgJoVo4XT-gGONEAMH0d7rOaRA748.m4a",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨宗教、科学与多维宇宙的脑洞大开之旅"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M0A/E1/FB/wKgJS1nBdUHxQaQgA3moshVwjeo932.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgJS1nBdUHxQaQgA3moshVwjeo932.mp3.m4a?channel=rss&album_id=260346&track_id=51492319&uid=6350476&jt=https://aod.cos.tx.xmcdn.com/group32/M0A/E1/FB/wKgJS1nBdUHxQaQgA3moshVwjeo932.mp3",
+      "pfad": "/v1/episode/11b588805985b26a64e927cb5e99d50e3a6115d0.json",
+      "titel": "摩登不列颠 寻找自己的英伦情怀",
+      "veroeffentlicht": "2017-09-19T20:17:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探索伦敦的现代与古典风情及历史文化遗产"
     }
   ]
 }

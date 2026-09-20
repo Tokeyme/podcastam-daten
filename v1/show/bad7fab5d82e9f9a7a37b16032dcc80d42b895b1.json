@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "忽左忽右",
   "apple_collection_id": "1493503146",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6aaa6e139d326477816a1bf6",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "回顾移动通信三十年浪潮，探讨技术演进与折叠屏手机的未来趋势。"
+    },
+    {
+      "guid": "6aa8fe83051af796b9e8832e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa8fe83051af796b9e8832e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lgu0H9kaxmFWZOE1bYxeyQ7png9O.m4a",
+      "pfad": "/v1/episode/e179968a32ba924bd5deed2ebc74e13d3b610f2c.json",
+      "titel": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+      "veroeffentlicht": "2026-09-15T08:29:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨清代中叶的治理困境、社会矛盾与士人对王朝周期的反思"
+    },
+    {
+      "guid": "6aa3c3269d32647781679918",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhpLgbcgVkq0X4O5LNmnd3AZ1nns.m4a",
+      "pfad": "/v1/episode/1c4add43d7237a9c20bb594e76b7ee99cb708ab5.json",
+      "titel": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+      "veroeffentlicht": "2026-09-11T09:54:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨晋江陈埭鞋业发展历程与中国运动品牌变迁"
+    },
+    {
+      "guid": "6a9fd33ba0210c197dcf773e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a",
+      "pfad": "/v1/episode/fe8aa578944fc890778d2c191fbb022957736290.json",
+      "titel": "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山",
+      "veroeffentlicht": "2026-09-08T09:36:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "阎海军谈陇山作为古代中国东西互动轴心的历史作用"
+    },
+    {
+      "guid": "6a9a8beea0210c197dcd797c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a",
+      "pfad": "/v1/episode/26b1e43545bc3f51ba3e4b262f636c6ccea2c418.json",
+      "titel": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
+      "veroeffentlicht": "2026-09-04T09:36:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻法国建筑师赉安在上海的建筑生涯与失踪之谜"
+    },
+    {
+      "guid": "6a96a621a0210c197dcbb58d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c197dcbb58d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo9kCfDQpzMJSavquvejRxSGoUy3.m4a",
+      "pfad": "/v1/episode/62886bfdb6da02e70512d042817a208fbc1b8826.json",
+      "titel": "497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后",
+      "veroeffentlicht": "2026-09-01T11:22:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解析1965年新加坡独立与新马分家的历史背景"
+    },
+    {
+      "guid": "6a914f40f03e74ee6b013d4a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a914f40f03e74ee6b013d4a/media.xyzcdn.net/5e4ee557418a84a0466737b7/lu8PaWNKiSeLmmrgubrEy4pq-4fw.m4a",
+      "pfad": "/v1/episode/edef9980ae6f74e897f4640099ff4cb93a6c46ac.json",
+      "titel": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
+      "veroeffentlicht": "2026-08-28T09:25:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨休达的历史变迁、大航海时代背景及移民问题"
+    },
+    {
+      "guid": "6a8d2078ef65145dfcc4f6d5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a",
+      "pfad": "/v1/episode/9e5d400ee46ee383e59ae7e1e2ef0c169a953c57.json",
+      "titel": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
+      "veroeffentlicht": "2026-08-25T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨莎士比亚戏剧创作及其与英国历史的相互影响"
+    },
+    {
+      "guid": "6a881352ef65145dfcc323d4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145dfcc323d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrc9hn-yRw9lKWUJL65UMmq_QYkJ.m4a",
+      "pfad": "/v1/episode/a8accdd00ef61513fe1c2f0097a179eb7bad06f7.json",
+      "titel": "494 张诗坪谈战争史视角下的秦末汉初混战",
+      "veroeffentlicht": "2026-08-21T09:07:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "张诗坪谈战争史视角下的秦末汉初混战"
+    },
+    {
+      "guid": "6a8418e88156bf33621a3055",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8418e88156bf33621a3055/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqVHK3EOXSQR-n07H4dNhAr87IP0.m4a",
+      "pfad": "/v1/episode/a481e99f40bd80d24e3e9dab3da76bcc8b63834e.json",
+      "titel": "493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成",
+      "veroeffentlicht": "2026-08-18T08:42:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "追忆历史学家亚当·麦基翁与华人移民及现代边境制度的形成"
     }
   ]
 }

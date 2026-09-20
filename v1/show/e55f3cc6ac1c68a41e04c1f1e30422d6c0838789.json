@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "BB商业与品牌",
   "apple_collection_id": "1637797363",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6a9fc54da0210c197dcf6e00",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a9fc54da0210c197dcf6e00/media.xyzcdn.net/62da17a9584e0527ce83d08b/lo7wz7iWFq42OV6uu6OmqUtxk_UZ.m4a",
+      "pfad": "/v1/episode/6107ea72b137a677d18e4de6bd1943007accd444.json",
+      "titel": "Vol.106 会造车，就会造机器人？和哲伦班长聊聊这门新生意",
+      "veroeffentlicht": "2026-09-08T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨车企跨界造机器人现象，分析其商业化前景与技术能力。"
+    },
     {
       "guid": "6a71a3091b5e24969ce8b9b6",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a71a3091b5e24969ce8b9b6/media.xyzcdn.net/62da17a9584e0527ce83d08b/ltpeIHj3rXYYiH_dK6hl0WLxWO8W.m4a",
@@ -13,6 +23,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从三部电影和鲁豫翻红切入，探讨短视频时代权威的崩塌与重建。"
+    },
+    {
+      "guid": "6a4cc7232e335a35a80f7e2f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a4cc7232e335a35a80f7e2f/media.xyzcdn.net/62da17a9584e0527ce83d08b/lmMuc-jqv_Ji0iqj4NhYWZCHqTWF.m4a",
+      "pfad": "/v1/episode/d092b72a93a6100016dc18dfb0925d5d07344dd2.json",
+      "titel": "Vol.103 「科技老登」阿里巴巴，为何跌跌不休？",
+      "veroeffentlicht": "2026-07-07T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨阿里巴巴为何市值下跌，分析其面临的商业与信任困境"
+    },
+    {
+      "guid": "6a3a2f019d2f5743683c6a58",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a3a2f019d2f5743683c6a58/media.xyzcdn.net/62da17a9584e0527ce83d08b/lkpIPFj5QsBin2fZbVKcbnkVvJbI.m4a",
+      "pfad": "/v1/episode/305af2ad2e12774b89122dde761a7caeb41c619f.json",
+      "titel": "Vol.102 从精品咖啡白月光到破产清算，Seesaw输给了谁？",
+      "veroeffentlicht": "2026-06-23T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Seesaw咖啡从精品启蒙到破产清算的发展历程"
+    },
+    {
+      "guid": "6a2844f4c7fb77bcb1708479",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a2844f4c7fb77bcb1708479/media.xyzcdn.net/62da17a9584e0527ce83d08b/liAT3CFn5YVbVV6V_uufpRSdjXff.m4a",
+      "pfad": "/v1/episode/94fede6a28ea12e8ab9d0cfb8e10422d922eb7fb.json",
+      "titel": "Vol.101 一把椅子、一台割草机：中国品牌开始读懂欧美中产的钱包",
+      "veroeffentlicht": "2026-06-09T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中国品牌出海切入欧美中产的具体生活场景与消费逻辑"
+    },
+    {
+      "guid": "6a15861713abca418579e000",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a15861713abca418579e000/media.xyzcdn.net/62da17a9584e0527ce83d08b/lkZvql9yEz7B57dOMcOXNoHoI4AS.m4a",
+      "pfad": "/v1/episode/f05580d45c0dab35942439463908e0cb55a1ef8c.json",
+      "titel": "Vol.100 一个人如何成为一家公司？能力、工具与变现闭环",
+      "veroeffentlicht": "2026-05-26T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨一人公司的商业形态、能力重组与AI时代的实践可能"
+    },
+    {
+      "guid": "6a014d331b7bd50295e5968f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a014d331b7bd50295e5968f/media.xyzcdn.net/62da17a9584e0527ce83d08b/lnSgu2canHhWrM0rgezmtY3WBIDU.m4a",
+      "pfad": "/v1/episode/9bcde4dae792901101b3dc718032b9fced205566.json",
+      "titel": "Vol.99 当妈妈开始喊偶像「老公」，追星正在老龄化",
+      "veroeffentlicht": "2026-05-12T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中老年群体积极追星的现象及其背后的消费与情感逻辑"
+    },
+    {
+      "guid": "69f29a1dfbed7ba941241c67",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/69f29a1dfbed7ba941241c67/media.xyzcdn.net/62da17a9584e0527ce83d08b/lucYVkRzIr4ShGGRDj9e9tKduBxc.m4a",
+      "pfad": "/v1/episode/81d35eed944a358a57050f08e877fef32fb721ff.json",
+      "titel": "Vol.98 史上最大车展却没有「主角」：最后的百花齐放？",
+      "veroeffentlicht": "2026-04-30T00:08:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨北京车展折射出的汽车行业生态剧变、供应商崛起与设计同质化隐忧"
+    },
+    {
+      "guid": "69de52beb977fb2c47f032ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/69de52beb977fb2c47f032ca/media.xyzcdn.net/62da17a9584e0527ce83d08b/lmbrcXHf02DDc01_7hyDeIILYtRN.m4a",
+      "pfad": "/v1/episode/77cdf11d52d1dfdeae7fc1b3d20fca7cd8f9c954.json",
+      "titel": "Vol.97 AI演员上岗，真人出局？我们和操盘手聊了聊",
+      "veroeffentlicht": "2026-04-14T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI技术冲击下中国影视行业的现状与演员生存困境"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "C哥聊科技",
   "apple_collection_id": "1835452860",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a794cdf000a55a9bb0589c9",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "OpenAI推出免费不限量的GPT 5.6 Luna模型以应对低价竞争"
+    },
+    {
+      "guid": "6a794c00000a55a9bb058960",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a794c00000a55a9bb058960/media.xyzcdn.net/68ab14c71edba57468005489/FpqS6NpAqBBMANHWgZSMBWBKfoLG.m4a",
+      "pfad": "/v1/episode/e832a13168af30ff4eea575637a66d9b3353423a.json",
+      "titel": "【C哥日课】Cherry Studio 2.0，智能体成了产品主线",
+      "veroeffentlicht": "2026-08-10T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Cherry Studio 2.0更新解析，智能体成为产品主线"
+    },
+    {
+      "guid": "6a794b05000a55a9bb0588e1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a794b05000a55a9bb0588e1/media.xyzcdn.net/68ab14c71edba57468005489/Fh5JyKaBLzdrzGKv9htlFjAgYUJE.m4a",
+      "pfad": "/v1/episode/c8424f8649d3e714e0b3dc27b67d79d6e554adc5.json",
+      "titel": "【C哥日课】MiniMax H3牛啊，视频模型开源了",
+      "veroeffentlicht": "2026-08-10T03:55:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "MiniMax H3视频模型开源及其应用解析"
+    },
+    {
+      "guid": "6a753c58000a55a9bb0420e2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a753c58000a55a9bb0420e2/media.xyzcdn.net/68ab14c71edba57468005489/Fvp9iVH0sHyWbvmET-QSWKKk8qXL.m4a",
+      "pfad": "/v1/episode/5d6fa66c1cdac8701ab510526acef92ccd72f16b.json",
+      "titel": "【C哥日课】Luvvoice：用10～20秒录音，创建自己的AI声音",
+      "veroeffentlicht": "2026-08-07T02:02:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "使用Xiaohongshu Importer Plus将小红书内容导入Obsidian"
+    },
+    {
+      "guid": "6a74219f1b5e24969ce9ce0d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a74219f1b5e24969ce9ce0d/media.xyzcdn.net/68ab14c71edba57468005489/FoqSYWfjLqqtGioEmiHhj2uJS_gI.m4a",
+      "pfad": "/v1/episode/6ede6121300a299df1df151509de19437b9f8e93.json",
+      "titel": "【C哥日课】小红书笔记存进Obsidian：复制链接就能直接导入",
+      "veroeffentlicht": "2026-08-06T05:55:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "使用插件将小红书笔记一键导入Obsidian知识库"
+    },
+    {
+      "guid": "6a72f740ab3a91c24a103a20",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a72f740ab3a91c24a103a20/media.xyzcdn.net/68ab14c71edba57468005489/FumMGDaU6wbc_0rQEi0Gu46Nn1pK.m4a",
+      "pfad": "/v1/episode/f55b95f90b9ccff4e434084927dc062084edc744.json",
+      "titel": "【C哥日课】Seedance 2.5公布，AI视频开始变成普通人的生产工具",
+      "veroeffentlicht": "2026-08-05T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "字节发布Seedance 2.5，探讨AI视频如何成为普通人的生产工具。"
+    },
+    {
+      "guid": "6a72f690ab3a91c24a10399f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a72f690ab3a91c24a10399f/media.xyzcdn.net/68ab14c71edba57468005489/Fo8RVnjr77rhSYtUnNBYhaD3irNC.m4a",
+      "pfad": "/v1/episode/5bff84bd53d67230d4ded452baf84363eba6fa95.json",
+      "titel": "【C哥日课】Qwen3.8-Max发布，开源AI离闭源只差一步了",
+      "veroeffentlicht": "2026-08-05T08:39:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "阿里发布Qwen3.8-Max模型，参数量达2.4万亿"
+    },
+    {
+      "guid": "6a6ff768ab3a91c24a0ec17a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a6ff768ab3a91c24a0ec17a/media.xyzcdn.net/68ab14c71edba57468005489/FgRIO2qNStkbf-nIvnhlWP4NP6wA.m4a",
+      "pfad": "/v1/episode/cc88a500568c39a31eb74763fd5f9ce4e7f29af4.json",
+      "titel": "【C哥日课】WorkBuddy把王炸丢出来了",
+      "veroeffentlicht": "2026-08-04T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "WorkBuddy深度集成腾讯文档，实现人与AI的协作接力。"
+    },
+    {
+      "guid": "6a6ff6fdab3a91c24a0ec122",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a6ff6fdab3a91c24a0ec122/media.xyzcdn.net/68ab14c71edba57468005489/FgM4pxwuRs1eaUgC6jwzYRu4iDU4.m4a",
+      "pfad": "/v1/episode/ab7b6618aff5a12342c5c4c69d0c066a3a451b33.json",
+      "titel": "【C哥日课】聊聊DeepSeek V4 Flash，真正的科技平权",
+      "veroeffentlicht": "2026-08-04T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨DeepSeek V4 Flash公测升级与大模型价格竞争"
+    },
+    {
+      "guid": "6a6ff6191b5e24969ce7ddfd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a6ff6191b5e24969ce7ddfd/media.xyzcdn.net/68ab14c71edba57468005489/lga2L7YZX9mKa7mP0izMVeOhPBub.m4a",
+      "pfad": "/v1/episode/b6cbe20c8a5502ab0250fc046be04039d674e173.json",
+      "titel": "【C哥日课】Obsidian小白安装实操：五步搭好个人知识库",
+      "veroeffentlicht": "2026-08-04T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Obsidian安装实操：五步搭建个人知识库"
     }
   ]
 }

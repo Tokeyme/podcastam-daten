@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "敢想科技说",
   "apple_collection_id": "1800594826",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "68d6421b522b40626c5f0643",
@@ -13,6 +13,96 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "小红书电商如何通过差异化策略、商家扶持与出海在竞争中寻找生存之道。"
+    },
+    {
+      "guid": "6895b56a20a2906a4d8bade7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/6895b56a20a2906a4d8bade7/media.xyzcdn.net/67c3c61e820668b2b33c58f2/lsPQ4fHTMIdsgb76ygKWvoI2NECD.m4a",
+      "pfad": "/v1/episode/5bb4cc7f8bdaf0611f00361929d1b27a50d9c832.json",
+      "titel": "GPT5横空出世AI超级智能首步，告别幻觉迎来新时代",
+      "veroeffentlicht": "2025-08-08T08:33:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "OpenAI正式发布GPT5，全面提升AI能力并减少幻觉问题"
+    },
+    {
+      "guid": "686c698593fd2d72b80985fc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/686c698593fd2d72b80985fc/media.xyzcdn.net/67c3c61e820668b2b33c58f2/luKi9A6MnKVRlmsJEp11AXH0IwRv.m4a",
+      "pfad": "/v1/episode/2dc1dd67ba8ea99ebf101ad7ece018592498eade.json",
+      "titel": "AI的道歉闹剧DeepSeek与明星的赛博乌龙大揭秘",
+      "veroeffentlicht": "2025-07-08T00:44:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "国产AI大模型DeepSeek向明星王一博公开道歉的乌龙事件"
+    },
+    {
+      "guid": "686c69b293fd2d72b8098d37",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/686c69b293fd2d72b8098d37/media.xyzcdn.net/67c3c61e820668b2b33c58f2/Fh-KpNqZ6yG1Vb8I-7xP57JMeIkR.m4a",
+      "pfad": "/v1/episode/0de4e6c805bebd5cb4ae51b84eaebbf2b3239af2.json",
+      "titel": "豆包IP宇宙一场意外酿成的数字文化奇观",
+      "veroeffentlicht": "2025-07-08T00:44:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "字节AI聊天机器人豆包意外演变出粉丝自发创作的IP宇宙"
+    },
+    {
+      "guid": "686c695693fd2d72b80981a1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/686c695693fd2d72b80981a1/media.xyzcdn.net/67c3c61e820668b2b33c58f2/lv5YfL6G-pAZA6eQdfYHt0rAZmaN.m4a",
+      "pfad": "/v1/episode/f1c83b94b431933147718a74c40636b5c29acfa0.json",
+      "titel": "揭秘算力界的隐形地产大亨奥飞数据如何年入21亿",
+      "veroeffentlicht": "2025-07-08T00:42:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解密奥飞数据：隐形算力地产商的商业帝国与挑战"
+    },
+    {
+      "guid": "686b34f493fd2d72b8df4e5c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/686b34f493fd2d72b8df4e5c/media.xyzcdn.net/67c3c61e820668b2b33c58f2/ljiStgvQ2TdXKIAZ1IJfFMzr--M7.m4a",
+      "pfad": "/v1/episode/d5f5ae280d8b8096a61ce3ef0b075bdc2f721e55.json",
+      "titel": "ChatGPT的三道护城河揭秘72小时登顶与10亿用户蓝图",
+      "veroeffentlicht": "2025-07-07T02:47:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "ChatGPT的三道护城河与10亿用户蓝图"
+    },
+    {
+      "guid": "686b33cb60f8f77d402fd1e9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/686b33cb60f8f77d402fd1e9/media.xyzcdn.net/67c3c61e820668b2b33c58f2/llX6QaoWNbCRYQ7mHCkX2fwuFqlw.m4a",
+      "pfad": "/v1/episode/fc43410eab7c674aa3be490d0d2356da790392be.json",
+      "titel": "硅谷AI风暴OpenAI的宫斗危机与Meta的黄金挖角",
+      "veroeffentlicht": "2025-07-07T02:41:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "硅谷AI风暴OpenAI的宫斗危机与Meta的黄金挖角"
+    },
+    {
+      "guid": "686b33a560f8f77d402fc6e8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/686b33a560f8f77d402fc6e8/media.xyzcdn.net/67c3c61e820668b2b33c58f2/lmun7YoIE6znUtQtqa6uFPJrf-j8.m4a",
+      "pfad": "/v1/episode/fd852361f8057bde6d588a9e795d0f850373889d.json",
+      "titel": "DeepSeek的疯狂赌注算力留给AGI，用户全当小白鼠",
+      "veroeffentlicht": "2025-07-07T02:41:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨DeepSeek为何将算力留给AGI研究而导致用户体验下降。"
+    },
+    {
+      "guid": "686b336b93fd2d72b8dee32d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/686b336b93fd2d72b8dee32d/media.xyzcdn.net/67c3c61e820668b2b33c58f2/FrOaU-eGcByMNfFLhTGP7c_EYsdO.m4a",
+      "pfad": "/v1/episode/1421e6cc88cd36dcfd949a962573e8053f8a2152.json",
+      "titel": "Gemma 3n实测大冒险端侧AI的偏科天才之路",
+      "veroeffentlicht": "2025-07-07T02:41:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "谷歌Gemma 3n端侧AI实测体验"
+    },
+    {
+      "guid": "685b60e82a38b4d979660b33",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c3c61e820668b2b33c58f2/685b60e82a38b4d979660b33/media.xyzcdn.net/67c3c61e820668b2b33c58f2/FkA-TC2L_doJvmDsCwmozMT__67T.m4a",
+      "pfad": "/v1/episode/b41209fe84c2d8613c59dc6d63f68307081415ac.json",
+      "titel": "苹果的AI野心Perplexity AI收购疑云揭秘",
+      "veroeffentlicht": "2025-06-25T02:38:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨苹果收购Perplexity AI的传闻及背后的战略布局"
     }
   ]
 }

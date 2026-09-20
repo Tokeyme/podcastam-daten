@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "C姐和Mia｜无关爱情的同居生活",
   "apple_collection_id": "1871060930",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa286169d3264778167189a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6aa286169d3264778167189a/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lozI5YaNtQDInSzKzOvUyyjqXDDC.m4a",
+      "pfad": "/v1/episode/879ea37429752db7c39df6f6c80ff1b03b6fd13d.json",
+      "titel": "41.非暴力沟通？从今天起，我们就要暴力沟通",
+      "veroeffentlicht": "2026-09-10T10:31:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么在一起十几年却很少吵架以及高情商沟通背后的困惑"
+    },
+    {
+      "guid": "6a98494aa0210c197dcc7e5a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a98494aa0210c197dcc7e5a/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lplu9byCBJMn38oIITL6N9ztXV8G.m4a",
+      "pfad": "/v1/episode/6b1ba66dee77039cf1de0ccfcab144ac5fd65fc0.json",
+      "titel": "40.伟大的月经：独属于我们女生每个月一次的免费体检",
+      "veroeffentlicht": "2026-09-03T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从中医角度探讨月经异常与身体健康的关系"
+    },
+    {
+      "guid": "6a8d43b2ef65145dfcc50e31",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a8d43b2ef65145dfcc50e31/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lnJYW8L84pgw-f9ABguzCTz1OQ9w.m4a",
+      "pfad": "/v1/episode/a8fb78ceda7bd851647d902c406b2dd22e2d0bef.json",
+      "titel": "39.过节能不能主动要礼物？到底怎么样谈钱才能不伤感情？",
+      "veroeffentlicht": "2026-08-27T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨亲密关系中的金钱与礼物话题"
+    },
     {
       "guid": "6a82bb0d36641f136d89773d",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a82bb0d36641f136d89773d/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lmFNIeAsxIzisMS1guewXBik8kyN.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "带妈妈们一起旅行第四年：那些在路上生长出的接纳和理解"
+    },
+    {
+      "guid": "6a64797aa3fec224d5a31d3a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a64797aa3fec224d5a31d3a/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lrgIeGKI_c5g_zTGVipPZb_rrQeE.m4a",
+      "pfad": "/v1/episode/a98586eb880ff0dc8e84b4c6930b0f55b6ed76ad.json",
+      "titel": "37.分手后，为什么有些人痛不欲生，有些人像打卡下班一样从容?",
+      "veroeffentlicht": "2026-07-30T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么有些人分手时痛不欲生，而有些人却异常从容。"
+    },
+    {
+      "guid": "6a5b35006356eb2d9be4854a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a5b35006356eb2d9be4854a/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lmd1EAhXjux55HUoU1ezyD4ys2uG.m4a",
+      "pfad": "/v1/episode/e52c388e9c3e72a4fc81a9d1f59f1fb1af55a66e.json",
+      "titel": "36.主动的艺术：女追男是隔层纱还是撞南墙？",
+      "veroeffentlicht": "2026-07-23T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨女生在亲密关系中如何主动吸引男生并引导关系发展。"
+    },
+    {
+      "guid": "6a4c90103fb7233cbf4500ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a4c90103fb7233cbf4500ca/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lhmYvUcbwdDmftVkKpw_HvVBVvXG.m4a",
+      "pfad": "/v1/episode/81e416fd85e885b5113ad10f9385bde9b2349076.json",
+      "titel": "35：嘉宾|聊聊情绪躯体化以及情志与五脏的关系",
+      "veroeffentlicht": "2026-07-16T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨情绪躯体化及中医中情志与五脏的关系"
+    },
+    {
+      "guid": "6a428dce2e335a35a80b6358",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a428dce2e335a35a80b6358/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/luPPPKis2V-qYT5VhJH20jjSZEdQ.m4a",
+      "pfad": "/v1/episode/b889e5bab499f398c32dd531e92abf9566338ae3.json",
+      "titel": "34.你是我重启人生也要交的朋友啊~",
+      "veroeffentlicht": "2026-07-09T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "借日剧《重启人生》探讨女性友谊的动人细节与陪伴"
+    },
+    {
+      "guid": "6a44af862e335a35a80c45af",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a44af862e335a35a80c45af/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lqsab3bA77azWIN20pzxmoeWwVpV.m4a",
+      "pfad": "/v1/episode/07e35fe304ecc8b321805f262111b67af7beb6a2.json",
+      "titel": "33.离了婚就是过情关了吗？我们怎么这么多关要闯！",
+      "veroeffentlicht": "2026-07-02T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨当代女性的离婚经历、婚姻中的亲密关系与情感态度"
+    },
+    {
+      "guid": "6a3a9a9e2e335a35a808398d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68fd9f7d30013e5c0983b6a8/6a3a9a9e2e335a35a808398d/media.xyzcdn.net/68fd9f7d30013e5c0983b6a8/lo4BFmkysh0q35Uv-rOqNzQz87_d.m4a",
+      "pfad": "/v1/episode/55afb4f543c706c49dfc12e257ab3dd7840ce2a7.json",
+      "titel": "32.你没有那么重要！给我把放大镜从自己身上拿开！",
+      "veroeffentlicht": "2026-06-25T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨女生是否常常拿着放大镜审视自己，对身材和完美有着过高的要求。"
     }
   ]
 }

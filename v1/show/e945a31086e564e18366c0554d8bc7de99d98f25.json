@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "文化中国 · 月旦谈",
   "apple_collection_id": "1689252672",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69e9d5d51e94ae6921f81836",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "文化中国学员分享专教的回忆、日常与连接不同届别的情感纽带。"
+    },
+    {
+      "guid": "69da266de2c8be3155ef8c3a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/69da266de2c8be3155ef8c3a/media.xyzcdn.net/63271ccc1b87911bf6a315c0/lmE1L_46HogG2ktY4cey5J22zeoD.m4a",
+      "pfad": "/v1/episode/50c594b7dc0fe416c5643d153ecef13a21f0945c.json",
+      "titel": "EP09 专教记忆·斯文在兹",
+      "veroeffentlicht": "2026-04-11T11:05:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大学中“专教”空间的更迭与意义"
+    },
+    {
+      "guid": "682fecf2fcbc2e206b53271d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/682fecf2fcbc2e206b53271d/media.xyzcdn.net/63271ccc1b87911bf6a315c0/lqPHZhB5-c6B3JEd7SpDtV-caM7G.m4a",
+      "pfad": "/v1/episode/fb637069297346b500ccba0fd5e4c02980c84a64.json",
+      "titel": "EP08 建造中的言说场：表达危机与信心重塑",
+      "veroeffentlicht": "2025-05-23T03:47:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨数字技术时代的公共表达困境与信心重塑"
+    },
+    {
+      "guid": "658469a5157cd445eeabec07",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/658469a5157cd445eeabec07/media.xyzcdn.net/lslhZPVKkXM3VYAF8toSZWE067aa.m4a",
+      "pfad": "/v1/episode/c6f6f888ab55b48be6c2ebad15a958a77a179313.json",
+      "titel": "EP07 虚拟场域的温度：关于陪伴和对话的试验",
+      "veroeffentlicht": "2023-12-21T16:36:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走进成长小组的日常交流，回顾这一年的陪伴与成长"
+    },
+    {
+      "guid": "653ccafe79818ece055a2769",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/653ccafe79818ece055a2769/media.xyzcdn.net/ljWouCgQEwQopUcOyNORh0-h8lmm.m4a",
+      "pfad": "/v1/episode/aa5a9ab231bf4de79668810da7ef4987e17b5d62.json",
+      "titel": "EP06 访美：永不落幕的记忆",
+      "veroeffentlicht": "2023-10-28T08:49:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾中断三年后的访美交流经历，分享二十一天的所见所闻与成长感悟。"
+    },
+    {
+      "guid": "641c87e48aca9099d724a371",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/641c87e48aca9099d724a371/media.xyzcdn.net/lgQXPum2cvxNJrSLcDoLtfQOIYlB.m4a",
+      "pfad": "/v1/episode/601952f22e4f2032eb7cec85dcc6e04f501baf6b.json",
+      "titel": "EP05 城市漫谈 · 芝加哥 | 枪击案之外的湖畔风城",
+      "veroeffentlicht": "2023-03-24T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨芝加哥的城市面貌、饮食文化、治安状况及芝加哥大学的学习体验。"
+    },
+    {
+      "guid": "63dfc7200d7e8eaa72fc83bf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/63dfc7200d7e8eaa72fc83bf/media.xyzcdn.net/ltHUnucu11XQBje-MBhs_wRzkw1k.m4a",
+      "pfad": "/v1/episode/c0393a8645a16ba9f29de9db3d2720282baf0480.json",
+      "titel": "EP04 元宵夜特辑：乡野怪谈与古灵精怪",
+      "veroeffentlicht": "2023-02-05T15:11:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨各地乡野怪谈与中国传统神话中的神仙妖魔"
+    },
+    {
+      "guid": "63cfedfe78910ae65ccc2bfc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/63cfedfe78910ae65ccc2bfc/media.xyzcdn.net/liIECUty20QwSO5ooOKmu0fLYFtp.m4a",
+      "pfad": "/v1/episode/b6fb0159c9bc0e1c44f6c67d68b09e979fb1c5ef.json",
+      "titel": "EP03 读博吐槽会：写论文的意义是什么？毕业的意义又是什么？",
+      "veroeffentlicht": "2023-01-24T14:41:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨读博的意义、压力与心路历程"
+    },
+    {
+      "guid": "63a1ae649acee6cd2f84dbbd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/63a1ae649acee6cd2f84dbbd/media.xyzcdn.net/lsZUaosBZ4nZgbtFJHc1g6I_sQMQ.m4a",
+      "pfad": "/v1/episode/2e244ddd89182639e93120cf75a76c501ee9f80e.json",
+      "titel": "EP02 最好金龟换酒: Gap year 的泼墨、留白和缝隙",
+      "veroeffentlicht": "2022-12-20T12:45:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Gap year的意义、个人故事及对生活的影响"
+    },
+    {
+      "guid": "636213a6910f1acc8e48d48f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63271ccc1b87911bf6a315c0/636213a6910f1acc8e48d48f/media.xyzcdn.net/lvspkcD2Ucyxq5GL6TroQIoDnrLm.m4a",
+      "pfad": "/v1/episode/bbb59e2db1aa535d3c34e3540de6b9e9817a470d.json",
+      "titel": "EP01 关于日记的多重想象：虚实、变形、好奇与距离",
+      "veroeffentlicht": "2022-11-02T06:52:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨日记的记录方式、真实性与文学中的日记体表现"
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2021/06/23/5185896332447237638_hd.mp3",
+  "apple_collection_id": "837350869",
+  "show": "儿童睡前精选故事",
+  "titel": "艾玛和蝴蝶-最初的小鱼姐姐",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2021/06/23/5185896332447237638_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T14:31:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "花格子大象艾玛散步时遇到了表弟韦伯。",
+  "kurzfassung": "花格子大象艾玛在散步途中听到了一声问候。她最初以为是猴子，结果发现是擅长口技的表弟韦伯。两人打过招呼后，艾玛继续她的散步行程。",
+  "stichpunkte": [
+    "艾玛在散步时听到有人打招呼",
+    "声音最初被误认为是猴子",
+    "表弟韦伯从矮树丛中走出来",
+    "韦伯展现了口技和声音模仿的能力"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:31:03+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 495,
+  "veroeffentlicht": "2021-06-23T15:49:42+08:00",
+  "beschreibung": "花格子大象艾玛一路上散步，猛听到：\n\n“你好啊，艾玛！”\n\n声音是从树上传下来的。\n\n“是你吗，猴子？”艾玛答应说。\n\n“错了，是我，你的表弟。”\n\n表弟韦伯哈哈笑着，从后面矮树丛里走出来。\n\n“你好，韦伯，”艾玛也格格笑着说，“你会口技，会用你的声音耍花样，真服了你了。\n\n我要去散步，回头见。”",
+  "beschreibung_html": "花格子大象艾玛一路上散步，猛听到：<br><br>“你好啊，艾玛！”<br><br>声音是从树上传下来的。<br><br>“是你吗，猴子？”艾玛答应说。<br><br>“错了，是我，你的表弟。”<br><br>表弟韦伯哈哈笑着，从后面矮树丛里走出来。<br><br>“你好，韦伯，”艾玛也格格笑着说，“你会口技，会用你的声音耍花样，真服了你了。<br><br>我要去散步，回头见。”",
+  "untertitel": "艾玛和蝴蝶-最初的小鱼姐姐",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2021/06/23/2880219491829967367_80x80.jpg"
+}

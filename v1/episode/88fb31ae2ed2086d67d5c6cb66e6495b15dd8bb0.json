@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_784748017",
+  "apple_collection_id": "1753227960",
+  "show": "DeepTalk | 发现改变世界的新兴科技",
+  "titel": "AI训练的新数据或将枯竭，合成数据能否解围？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqhntALNbuSACAAAANBmueR.mp3.m4a?channel=rss&album_id=47378426&track_id=784748017&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/5ed2-audiofreehighqps/F2/6C/GAqhntALNbuSACAAAANBmueR.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:21:31+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI训练数据枯竭背景下的合成数据与未来走向",
+  "kurzfassung": "OpenAI前首席科学家Ilya Sutskever在NeurIPS上指出可用新数据正接近枯竭。节目以此为切入点，讨论数据发展方向及AI技术的未来走向。内容涉及合成数据、智能体和推理等新领域。",
+  "stichpunkte": [
+    "Ilya Sutskever在NeurIPS上表示人类生成的新数据接近枯竭",
+    "互联网中的人类生成内容有限，已达到数据峰值",
+    "AI行业可能从依赖海量数据的预训练模型转向其他领域",
+    "重点关注智能体、合成数据和推理等发展方向"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:21:31+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4018,
+  "veroeffentlicht": "2024-12-16T09:55:30+00:00",
+  "beschreibung": "就在上周五的 NeurIPS 上，OpenAI 的前首席科学家 Ilya Sutskever 在他的分享中表示：尽管现有数据仍能推动人工智能的发展，但这个行业里称得上可用的新数据已经接近枯竭。正如石油是有限资源一样，互联网中由人类生成的内容也是有限的。我们已经达到了数据的峰值，未来不会再有更多数据，我们必须利用现有的数据，因为互联网只有一个。\n\nIlya Sutskever 的发言或许反映出数据的发展方向正在发生转变：从依赖海量数据的预训练模型转向更加注重智能体、合成数据和推理等领域。这种转变一定程度上预示着 AI 技术发展的新趋势。\n\n这次，我们选择以数据作为切入点，来讨论一下数据的发展方向，以及在这基础上的 AI 走向。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><span>就在上周五的 NeurIPS 上，OpenAI 的前首席科学家 Ilya Sutskever 在他的分享中表示：尽管现有数据仍能推动人工智能的发展，但这个行业里称得上可用的新数据已经接近枯竭。正如石油是有限资源一样，互联网中由人类生成的内容也是有限的。我们已经达到了数据的峰值，未来不会再有更多数据，我们必须利用现有的数据，因为互联网只有一个。</span><br><span><br></span><span>Ilya Sutskever 的发言或许反映出数据的发展方向正在发生转变：从依赖海量数据的预训练模型转向更加注重智能体、合成数据和推理等领域。这种转变一定程度上预示着 AI 技术发展的新趋势。</span><span><br></span><br><span>这次，我们选择以数据作为切入点，来讨论一下数据的发展方向，以及在这基础上的 AI 走向。</span></span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/965f-audiofreehighqps/81/C5/CMCoOSMEG6HEAACwFACPyc3s.jpeg",
+  "folgennummer": 4
+}

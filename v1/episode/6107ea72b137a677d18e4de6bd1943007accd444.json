@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6a9fc54da0210c197dcf6e00",
+  "apple_collection_id": "1637797363",
+  "show": "BB商业与品牌",
+  "titel": "Vol.106 会造车，就会造机器人？和哲伦班长聊聊这门新生意",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/62da17a9584e0527ce83d08b/6a9fc54da0210c197dcf6e00/media.xyzcdn.net/62da17a9584e0527ce83d08b/lo7wz7iWFq42OV6uu6OmqUtxk_UZ.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:17:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨车企跨界造机器人现象，分析其商业化前景与技术能力。",
+  "kurzfassung": "本期节目探讨了为什么电动车企纷纷涌入机器人领域。节目结合赵哲伦的行业经验，分析了机器人的能力架构、技术路线及供应链共享。同时，讨论了消费级机器狗的市场定位与机器人的商业化落地前景。",
+  "stichpunkte": [
+    "电动车企跨界进入机器人领域的原因与商业逻辑",
+    "机器人本体控制、大模型与三层能力架构",
+    "宇树与特斯拉代表的不同机器人技术路线",
+    "汽车与机器人可共享的供应链和技术能力",
+    "机器狗与人形机器人的商业化落地场景与时间表"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:17:03+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4466,
+  "veroeffentlicht": "2026-09-08T22:30:00+00:00",
+  "beschreibung": "一个机器人捂着脸冲过赛场，成了最近最出圈的科技画面之一。\n在普通观众看来，它有点滑稽，甚至像机器人也懂得“社死”；但在具身智能从业者眼里，机器人跑步、跳远、打网球，真正展示的是本体、硬件与全身运动控制能力正在快速提升。\n问题是：跑得更快、空翻更稳、表演更精彩，距离真正成为一门生意，还有多远？\n最近，越来越多汽车企业开始重新定义自己：小鹏、理想、零跑、广汽等相继进入机器人领域，特斯拉更是早早把 Optimus 放在了公司未来叙事的中心。\n为什么首先涌入机器人行业的是电动车企？这究竟是汽车能力自然生长出的第二曲线，还是在汽车利润越来越薄之后，一个更具想象力的新故事？\n【本期嘉宾】@哲伦班长 赵哲伦 Vbot（维他动力）联合创始人，前理想汽车智能驾驶产品总监，拥有十余年汽车与智能驾驶行业经验\n主播：@Linda拿铁琳、@邪念扬Sean\n剪辑：@丘丘\n音乐：🎵《September》‑Earth, Wind & Fire🎵\n【时间轴】\n01:29 为什么电动车企都想成为机器人公司？\n06:46 从汽车与智能驾驶转向具身智能创业\n08:07 机器人是车企能力的跨界，还是自然延伸？\n08:50 “捂脸跑”背后，机器人真正展示了什么能力？\n12:27 从本体控制到大模型：机器人的三层能力架构\n16:44 宇树与特斯拉，代表两条不同的机器人路线吗？\n20:32 宇树为什么首先抓住了全球顶尖实验室？\n24:23 从低价硬件到开发者生态，宇树的壁垒在哪里？\n28:19 为什么机器人产业最终可能仍是中美竞争？\n32:41 一家机器人创业公司如何定义消费级机器狗？\n34:17 谁会花12988元购买一只机器狗？\n36:15 从美国转向欧洲，中国机器人如何进入海外市场？\n40:02 汽车与机器人能够共享哪些供应链和技术能力？\n47:42 车企做机器人，最缺少的可能不是制造能力\n50:12 为什么先做机器狗，再做人形机器人？\n51:06 商业服务为什么可能比工业生产更早跑通？\n52:37 机器人真正缺少的，是模型还是身体经验？\n54:22 机器人落地还要八到十年，还是两三年？\n56:39 从冰淇淋店开始，机器人如何建立数据复利？\n59:25 机器人的“ChatGPT时刻”会是什么场景？\n01:02:02 机器人解放人类之后，我们会不会变成《机器人总动员》里的人？\n01:05:22 快问快答：2028年前，哪些场景最先跑通？\n01:07:51 人形机器人是终局，还是当下最吸引眼球的形态？\n01:08:34 判断机器人时代到来的唯一指标是什么？\n愉悦干货，提供坚果般无负担的商业与品牌营养。\n欢迎在评论区告诉我们：你愿意花一万多元购买一只机器狗吗？你期待机器人进入家庭，还是更愿意让它先去商场、门店和办公室工作？\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>一个机器人捂着脸冲过赛场，成了最近最出圈的科技画面之一。</p><p>在普通观众看来，它有点滑稽，甚至像机器人也懂得“社死”；但在具身智能从业者眼里，机器人跑步、跳远、打网球，真正展示的是本体、硬件与全身运动控制能力正在快速提升。</p><p>问题是：跑得更快、空翻更稳、表演更精彩，距离真正成为一门生意，还有多远？</p><p>最近，越来越多汽车企业开始重新定义自己：小鹏、理想、零跑、广汽等相继进入机器人领域，特斯拉更是早早把 Optimus 放在了公司未来叙事的中心。</p><p>为什么首先涌入机器人行业的是电动车企？这究竟是汽车能力自然生长出的第二曲线，还是在汽车利润越来越薄之后，一个更具想象力的新故事？</p><p>【本期嘉宾】@哲伦班长 赵哲伦 Vbot（维他动力）联合创始人，前理想汽车智能驾驶产品总监，拥有十余年汽车与智能驾驶行业经验</p><p>主播：@Linda拿铁琳、@邪念扬Sean</p><p>剪辑：@丘丘</p><p>音乐：🎵《September》‑Earth, Wind &amp; Fire🎵</p><p>【时间轴】</p><p><a class=\"timestamp\">01:29</a> 为什么电动车企都想成为机器人公司？</p><p><a class=\"timestamp\">06:46</a> 从汽车与智能驾驶转向具身智能创业</p><p><a class=\"timestamp\">08:07</a> 机器人是车企能力的跨界，还是自然延伸？</p><p><a class=\"timestamp\">08:50</a> “捂脸跑”背后，机器人真正展示了什么能力？</p><p><a class=\"timestamp\">12:27</a> 从本体控制到大模型：机器人的三层能力架构</p><p><a class=\"timestamp\">16:44</a> 宇树与特斯拉，代表两条不同的机器人路线吗？</p><p><a class=\"timestamp\">20:32</a> 宇树为什么首先抓住了全球顶尖实验室？</p><p><a class=\"timestamp\">24:23</a> 从低价硬件到开发者生态，宇树的壁垒在哪里？</p><p><a class=\"timestamp\">28:19</a> 为什么机器人产业最终可能仍是中美竞争？</p><p><a class=\"timestamp\">32:41</a> 一家机器人创业公司如何定义消费级机器狗？</p><p><a class=\"timestamp\">34:17</a> 谁会花12988元购买一只机器狗？</p><p><a class=\"timestamp\">36:15</a> 从美国转向欧洲，中国机器人如何进入海外市场？</p><p><a class=\"timestamp\">40:02</a> 汽车与机器人能够共享哪些供应链和技术能力？</p><p><a class=\"timestamp\">47:42</a> 车企做机器人，最缺少的可能不是制造能力</p><p><a class=\"timestamp\">50:12</a> 为什么先做机器狗，再做人形机器人？</p><p><a class=\"timestamp\">51:06</a> 商业服务为什么可能比工业生产更早跑通？</p><p><a class=\"timestamp\">52:37</a> 机器人真正缺少的，是模型还是身体经验？</p><p><a class=\"timestamp\">54:22</a> 机器人落地还要八到十年，还是两三年？</p><p><a class=\"timestamp\">56:39</a> 从冰淇淋店开始，机器人如何建立数据复利？</p><p><a class=\"timestamp\">59:25</a> 机器人的“ChatGPT时刻”会是什么场景？</p><p><a class=\"timestamp\">01:02:02</a> 机器人解放人类之后，我们会不会变成《机器人总动员》里的人？</p><p><a class=\"timestamp\">01:05:22</a> 快问快答：2028年前，哪些场景最先跑通？</p><p><a class=\"timestamp\">01:07:51</a> 人形机器人是终局，还是当下最吸引眼球的形态？</p><p><a class=\"timestamp\">01:08:34</a> 判断机器人时代到来的唯一指标是什么？</p><img src=\"https://image.xyzcdn.net/FjE4p6rJ72zIsOAJhlXD0QCvWjeZ.png\"><p>愉悦干货，提供坚果般无负担的商业与品牌营养。</p><p>欢迎在评论区告诉我们：你愿意花一万多元购买一只机器狗吗？你期待机器人进入家庭，还是更愿意让它先去商场、门店和办公室工作？</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a9fc54da0210c197dcf6e00?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FjE4p6rJ72zIsOAJhlXD0QCvWjeZ.png"
+}

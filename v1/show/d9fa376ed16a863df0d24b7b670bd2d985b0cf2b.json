@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "抑扬格",
   "apple_collection_id": "1819879009",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa9079e051af796b9e889cb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6aa9079e051af796b9e889cb/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lrVNXooFsYRcQneht0Qy3z1aQgIm.m4a",
+      "pfad": "/v1/episode/d6a88dd9f2b7b4d8f713a855896bbb4fa3e2c18d.json",
+      "titel": "文学对谈｜汉语新诗的渊源与流变：新旧之间的三十年（抑扬格×摩罗之声）",
+      "veroeffentlicht": "2026-09-16T07:22:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨汉语新诗的渊源与流变，回顾文学革命以来的白话诗发展历程"
+    },
+    {
+      "guid": "6aa059afa0210c197dcfb400",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6aa059afa0210c197dcfb400/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/liYi3_N4z-HtwnXwCzstCPzcrmVa.m4a",
+      "pfad": "/v1/episode/d5822182f4da95b8f79aadf8c330ffc4129253b3.json",
+      "titel": "39 诗话｜东坡死去的那一年：苏轼的北归诗",
+      "veroeffentlicht": "2026-09-08T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "苏轼晚期北归诗作中的生命体验与死亡意识"
+    },
+    {
+      "guid": "6a96eefef03e74ee6b037a32",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6a96eefef03e74ee6b037a32/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lhSj4UR8pnnbgXsr8Ha701jzCK_w.m4a",
+      "pfad": "/v1/episode/b8493bef7f55df765e36fa9d91fff09ff401242c.json",
+      "titel": "38 对话作者｜漫画格子里的哲学：《一只蝉忽然想到了生命》",
+      "veroeffentlicht": "2026-09-01T16:05:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话漫画《一只蝉忽然想到了生命》作者抽抽"
+    },
     {
       "guid": "6a71e0abab3a91c24a0fbddd",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6a71e0abab3a91c24a0fbddd/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lofdsSutb91lIQ7iyqAlW6fdc9Xe.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨大学哲学教育中的写作训练，反思论文规范与学术表达的意义。"
+    },
+    {
+      "guid": "6a43b2fe2e335a35a80bdec9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6a43b2fe2e335a35a80bdec9/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lkmz1LZPUg28AnXm6jPsabuaAJ6l.m4a",
+      "pfad": "/v1/episode/1aef71bf6baa89bb7961ceeaeb086b91f9496536.json",
+      "titel": "36 对话译者｜生长在空中的树与我们：植物生命的玄思（抑扬格×阿米小酒馆）",
+      "veroeffentlicht": "2026-06-30T16:02:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨埃马努埃莱·科恰的著作《植物生命》及植物哲学的多维视角"
+    },
+    {
+      "guid": "6a31510b4233e62bc54af33b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6a31510b4233e62bc54af33b/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lmznYEiT7IjRWVvX6zASWhxLEhUp.m4a",
+      "pfad": "/v1/episode/9ab046911369d1ee25b117d54e8edf9f964a62b9.json",
+      "titel": "35 播客一周年｜我们试着做了法国哲学高考题……",
+      "veroeffentlicht": "2026-06-16T17:57:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨法国哲学高考题：真理是否总是具有说服力？"
+    },
+    {
+      "guid": "6a1ed2d7b30e1571ae9f857c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6a1ed2d7b30e1571ae9f857c/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lgbcZVa1fQftCRmf2IR0QmMIUGeG.m4a",
+      "pfad": "/v1/episode/ca2172b5897e50f751a6dab29198121fa2bbf6d1.json",
+      "titel": "34 本雅明篇第二｜文学作为魔法：与本雅明一同思考艺术的真与美",
+      "veroeffentlicht": "2026-06-02T16:05:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨瓦尔特·本雅明对歌德《亲合力》的文学批评及其艺术真与美之思"
+    },
+    {
+      "guid": "6a0c4df91b7bd5029572d29a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/6a0c4df91b7bd5029572d29a/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lt_iqu7deFZreJyk2BqN9k8WamCu.m4a",
+      "pfad": "/v1/episode/ded071a3e18d6b539075a2fb46fdf672f61be458.json",
+      "titel": "33 歌德篇第三｜婚姻·神话·命运：爱情小说之谜《亲和力》",
+      "veroeffentlicht": "2026-05-19T16:08:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨歌德小说《亲和力》中的婚姻、神话与命运"
+    },
+    {
+      "guid": "69fa0e47e05c0efcd6eccfa2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/69fa0e47e05c0efcd6eccfa2/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/luTTu0xthGdADTVW3_siAIrnAhtt.m4a",
+      "pfad": "/v1/episode/d491b02a9c8607d6e2b9d9bac6fd1f6988aa6a86.json",
+      "titel": "32 纪念弗洛伊德诞辰170周年｜信仰、精神病与弑父的绝笔之作",
+      "veroeffentlicht": "2026-05-05T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨弗洛伊德绝笔之作《摩西与一神教》及精神分析"
+    },
+    {
+      "guid": "69e7291a1e94ae6921c91423",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67c2c53740a3664f98f1c6d6/69e7291a1e94ae6921c91423/media.xyzcdn.net/67c2c53740a3664f98f1c6d6/lsYsM1OnrF4cVijsgocasM8hyq1d.m4a",
+      "pfad": "/v1/episode/0e82b2383d3d4f738e247a263116298c8086f4a0.json",
+      "titel": "31 线下分享会｜他者的三次召唤：列维纳斯谈诗、小说、哲学",
+      "veroeffentlicht": "2026-04-21T16:12:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "列维纳斯如何通过诗、小说与哲学回应语言与思想的危机"
     }
   ]
 }

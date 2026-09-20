@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "648294a0e68894365dbe3855",
+  "apple_collection_id": "1690818433",
+  "show": "小A读书圈",
+  "titel": "《查理芒格的原则》01：让问题简单化",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64510e947d934b85056f6211/648294a0e68894365dbe3855/media.xyzcdn.net/liavvKlMW-MnTGwTe-nf-ps1Spft.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:38:00+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨查理·芒格投资七大原则中的第一条：让问题简单化。",
+  "kurzfassung": "本期节目介绍特兰·格里芬所著的《查理·芒格的原则》。内容聚焦于芒格投资思想的七大原则之一。重点探讨了如何将复杂的问题简单化。",
+  "stichpunkte": [
+    "介绍书籍《查理·芒格的原则》",
+    "探讨查理·芒格的投资思想",
+    "解析投资的七大原则",
+    "讲解第一条原则：让问题简单化"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:38:00+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 481,
+  "veroeffentlicht": "2023-06-09T02:55:27+00:00",
+  "beschreibung": "今天给你们找来一本儿，特兰·格里芬写的关于我偶像的书——《查理·芒格的原则》。巴菲特说，“是芒格，把他从猩猩进化成了人类🐒”；小A说，“是芒格，把她从韭菜进化成了人类🥬”。如果你想学习投资，那就一定绕不开查理·芒格的思想。这本书给我们介绍了，芒格投资的七大原则。这是第一条原则：让问题简单化。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>今天给你们找来一本儿，特兰·格里芬写的关于我偶像的书——《查理·芒格的原则》。巴菲特说，“是芒格，把他从猩猩进化成了人类🐒”；小A说，“是芒格，把她从韭菜进化成了人类🥬”。如果你想学习投资，那就一定绕不开查理·芒格的思想。这本书给我们介绍了，芒格投资的七大原则。这是第一条原则：让问题简单化。</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/648294a0e68894365dbe3855?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/FjXs4lh7smJgaiF1o0ovdKWuRSJb.png"
+}

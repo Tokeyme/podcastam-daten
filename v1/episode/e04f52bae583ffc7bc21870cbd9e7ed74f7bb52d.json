@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6aa71e439d32647781688c44",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] 当AI学会画地图、测信念、搞协作",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa71e439d32647781688c44/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lgf1G_ckB78KzolEw1XEUa9FK20g.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:15:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI画地图检索、测信念及群体智慧等前沿论文。",
+  "kurzfassung": "本期节目探讨了几篇人工智能领域的最新研究论文。内容涵盖AI编程能力的培养、群体智慧的形成机制以及信息检索的新方法。同时讨论了AI的信念评估及思维路径的生成方式。",
+  "stichpunkte": [
+    "如何通过任务合成培养AI编程能力",
+    "AI智能体在野外的群体智慧表现",
+    "基于地图绘制的信息检索方法",
+    "评估语言模型中信念与行为的一致性",
+    "从复杂数据中梳理清晰的思考路径"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:15:14+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1721,
+  "veroeffentlicht": "2026-09-13T22:31:16+00:00",
+  "beschreibung": "你有没有想过，一群“健忘”的AI如何自发形成群体智慧？我们又该如何为AI量身定做一套“习题集”，培养出“四两拨千斤”的编程高手？本期节目，我们将一起探究几篇最新论文，看看科学家是如何通过“画地图”式的新方法进行信息检索，如何给AI做“信念体检”来判断它是否言行一致，以及如何引导AI从一团乱麻的“噪点”中走出清晰的思考路径。准备好，让我们一起解码AI思考与学习的底层智慧！\n00:00:36 AI界的“四两拨千斤”，如何养出一个小个子编程高手？\n00:05:48 AI的群体智慧，一个动作解释所有\n00:11:12 信息检索的内功，从存照片到画地图\n00:17:19 AI有“信念”吗？一张体检表告诉你答案\n00:22:42 从一团乱麻到清晰答案的思考路径\n本期介绍的几篇论文：\n[AI] FrogNano: Training a 4B Coding Agent via Online Task Synthesis\n[Froggy Team – Microsoft Research Montréal]\nhttps://arxiv.org/abs/2609.07925\n---\n[CL] Copying explains the collective behavior of AI agents in the wild\n[University of Konstanz & Intesa Sanpaolo]\nhttps://arxiv.org/abs/2609.09150\n---\n[IR] Generative Late-Interaction Embeddings For Visual Document Retrieval\n[King Abdullah University of Science and Technology (KAUST)]\nhttps://arxiv.org/abs/2609.11808\n---\n[AI] Beliefs and Behavior in Language Models\n[Toulouse School of Economics & CMU]\nhttps://arxiv.org/abs/2609.07943\n---\n[LG] Thinking with Looped Flows\n[EPFL & KAIST & University of Amsterdam]\nhttps://arxiv.org/abs/2609.11801\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>你有没有想过，一群“健忘”的AI如何自发形成群体智慧？我们又该如何为AI量身定做一套“习题集”，培养出“四两拨千斤”的编程高手？本期节目，我们将一起探究几篇最新论文，看看科学家是如何通过“画地图”式的新方法进行信息检索，如何给AI做“信念体检”来判断它是否言行一致，以及如何引导AI从一团乱麻的“噪点”中走出清晰的思考路径。准备好，让我们一起解码AI思考与学习的底层智慧！</p><p><a class=\"timestamp\">00:00:36</a> AI界的“四两拨千斤”，如何养出一个小个子编程高手？</p><p><a class=\"timestamp\">00:05:48</a> AI的群体智慧，一个动作解释所有</p><p><a class=\"timestamp\">00:11:12</a> 信息检索的内功，从存照片到画地图</p><p><a class=\"timestamp\">00:17:19</a> AI有“信念”吗？一张体检表告诉你答案</p><p><a class=\"timestamp\">00:22:42</a> 从一团乱麻到清晰答案的思考路径</p><p>本期介绍的几篇论文： </p><p>[AI] FrogNano: Training a 4B Coding Agent via Online Task Synthesis</p><p>[Froggy Team – Microsoft Research Montréal]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.07925\">https://arxiv.org/abs/2609.07925</a> </p><p>---</p><p>[CL] Copying explains the collective behavior of AI agents in the wild</p><p>[University of Konstanz &amp; Intesa Sanpaolo]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.09150\">https://arxiv.org/abs/2609.09150</a> </p><p>---</p><p>[IR] Generative Late-Interaction Embeddings For Visual Document Retrieval</p><p>[King Abdullah University of Science and Technology (KAUST)]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.11808\">https://arxiv.org/abs/2609.11808</a> </p><p>---</p><p>[AI] Beliefs and Behavior in Language Models</p><p>[Toulouse School of Economics &amp; CMU]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.07943\">https://arxiv.org/abs/2609.07943</a> </p><p>---</p><p>[LG] Thinking with Looped Flows</p><p>[EPFL &amp; KAIST &amp; University of Amsterdam]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.11801\">https://arxiv.org/abs/2609.11801</a> </p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa71e439d32647781688c44?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"
+}

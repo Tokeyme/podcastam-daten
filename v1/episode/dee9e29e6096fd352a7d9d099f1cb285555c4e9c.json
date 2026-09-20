@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "67e239a6dd11f9c8c1f0e1bc",
+  "apple_collection_id": "1802831484",
+  "show": "智者访谈",
+  "titel": "09. 小米语音首席科学家 Daniel Povey：语音识别卷完了，下一个机会在哪里？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67e239a6dd11f9c8c1f0e1bc/media.xyzcdn.net/6650363fac69187b785025bc/lkrDL1mHcXYdSZI1BQlA0Lej83uK.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T09:40:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "对话小米语音首席科学家Daniel Povey：探讨AI与语音识别的下一个机遇",
+  "kurzfassung": "多模态能力的融合正在改写人工智能的发展路径，语音、视觉与自然语言处理的边界日益模糊。本期节目邀请Kaldi创始人、小米集团语音首席科学家Daniel Povey，探讨技术融合趋势、大模型与小模型的权衡，以及技术创新的方向选择。访谈还涵盖了规模定律与数据极限，并对年轻研究者的职业生涯提出了建议。",
+  "stichpunkte": [
+    "Kaldi之后的新探索与语音技术在神经网络中的定位",
+    "多模态趋势与Transformer模型的应用",
+    "大模型与小模型的比较及技术发展的局限性",
+    "如何判断真正的技术进步",
+    "Scaling Law与数据极限",
+    "未来机遇展望及对年轻研究者的职业建议"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:40:14+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1789,
+  "veroeffentlicht": "2025-03-25T05:10:50+00:00",
+  "beschreibung": "多模态能力的融合正在改写AI发展路径。语音、视觉与自然语言处理的边界日益模糊，以Transformer为代表的通用解决方案，正在重塑传统技术领域。\n在这个技术范式转变的关键时期，那些长期深耕细分领域的研究者又在思考什么？他们如何看待这种技术融合的趋势？\n本期《智者访谈》邀请到著名开源语音识别项目Kaldi的创始人、小米集团语音首席科学家Daniel Povey博士。作为推动全球智能语音处理产业化的关键人物，他见证了语音识别技术从实验室走向大规模应用的全过程。十多年前，他在微软研究院的实习生，如今已成为Google Gemini等标志性项目的负责人。\n当整个行业都在追逐大模型和通用方法时，Povey博士却选择专注于不那么热门，但更有潜力的方向。「有这么多聪明人都在试图改进AI，那些容易被发现的方法早就已经被人发现了。」\n在他看来，技术进步不应被某一主流范式所限制，AI领域的进步往往源于解决特定领域的具体问题，每个领域都应该保持自己独特的视角和方法——也许语音领域的下一个解决方案，会给机器学习带来全新的启发。\nTransformer确实好，也确实可能是未来发展的方向，但如果所有人都只基于现有模型做改进，可能阻碍整个领域的根本性创新。在访谈中，Povey博士还分享了技术创新的方向选择、规模与效率的权衡，以及如何在紧跟前沿的同时保持独立思考。\n对于年轻一代的研究者，他的建议直白而务实：你必须诚实面对自己真正想要的。学AI就能年薪百万的时代已经过去了，现在进入AI领域很难做出突破，除非你真的才华横溢；很多时候，你职业生涯的最终目标，要么很难实现，要么实现了也没有想象中那么美好。\n希望这番坦诚的对话，能为我们在AI发展的万千可能性中，找到属于自己的方向。\n【时间线】\n01:35 Kaldi 之后的新探索\n02:51 语音成了神经网络的子领域\n04:37 多模态：Transformer 大一统？\n07:54 大模型 vs 小模型\n11:13 会议不再是交流研究的最佳方式\n14:01 如何判断真正的技术进步？\n18:10 Scaling Law 与数据极限\n21:18 未来机遇展望\n23:52 别把生活卷丢了\n【栏目简介】\n这是国内人工智能垂直媒体机器之心旗下的「智者访谈」播客栏目。栏目聚焦于人工智能领域的顶尖专家和学者，旨在洞悉人工智能的核心技术与行业趋势，深化行业认知，激发创新思考。\n【主播】\n闻菲，机器之心合伙人总监\n【嘉宾】\nDaniel Povey\n• Kaldi之父\n• 小米集团首席语音科学家\n• lEEE Fellow\n• 清华大学杰出访问教授、武汉大学客座教授\n• Daniel Povey 博士毕业于英国剑桥大学，先后就职于 IBM 和微软。2012年加入美国约翰霍普金斯大学，任语言和语音处理中心副教授。2019年10月加入小米，担任集团语音首席科学家。2022年12月，Daniel Povey 凭借在语音识别和声学建模方面的杰出贡献入选IEEE Fellow。\n【联系方式】\n公众号：机器之心\n收听渠道：Apple Podcast | 小宇宙 | 喜马拉雅\n其他平台：bilibili（机器之心官方） | 视频号（机器之心）| 小红书（机器之心）\n联系我们：zhaoyunfeng@jiqizhixin.com | xiewenfei@jiqizhixin.com\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>多模态能力的融合正在改写AI发展路径。语音、视觉与自然语言处理的边界日益模糊，以Transformer为代表的通用解决方案，正在重塑传统技术领域。</p><p>在这个技术范式转变的关键时期，那些长期深耕细分领域的研究者又在思考什么？他们如何看待这种技术融合的趋势？</p><p>本期《智者访谈》邀请到著名开源语音识别项目Kaldi的创始人、小米集团语音首席科学家Daniel Povey博士。作为推动全球智能语音处理产业化的关键人物，他见证了语音识别技术从实验室走向大规模应用的全过程。十多年前，他在微软研究院的实习生，如今已成为Google Gemini等标志性项目的负责人。</p><p>当整个行业都在追逐大模型和通用方法时，Povey博士却选择专注于不那么热门，但更有潜力的方向。「有这么多聪明人都在试图改进AI，那些容易被发现的方法早就已经被人发现了。」</p><p>在他看来，技术进步不应被某一主流范式所限制，AI领域的进步往往源于解决特定领域的具体问题，每个领域都应该保持自己独特的视角和方法——也许语音领域的下一个解决方案，会给机器学习带来全新的启发。</p><p>Transformer确实好，也确实可能是未来发展的方向，但如果所有人都只基于现有模型做改进，可能阻碍整个领域的根本性创新。在访谈中，Povey博士还分享了技术创新的方向选择、规模与效率的权衡，以及如何在紧跟前沿的同时保持独立思考。</p><p>对于年轻一代的研究者，他的建议直白而务实：你必须诚实面对自己真正想要的。学AI就能年薪百万的时代已经过去了，现在进入AI领域很难做出突破，除非你真的才华横溢；很多时候，你职业生涯的最终目标，要么很难实现，要么实现了也没有想象中那么美好。</p><p>希望这番坦诚的对话，能为我们在AI发展的万千可能性中，找到属于自己的方向。</p><p>【时间线】</p><p><strong>01:35 &nbsp;</strong>Kaldi 之后的新探索</p><p><strong>02:51 &nbsp;</strong>语音成了神经网络的子领域</p><p><strong>04:37 &nbsp;</strong>多模态：Transformer 大一统？</p><p><strong>07:54 &nbsp;</strong>大模型 vs 小模型</p><p><strong>11:13 &nbsp;</strong>会议不再是交流研究的最佳方式</p><p><strong>14:01 &nbsp;</strong>如何判断真正的技术进步？</p><p><strong>18:10 &nbsp;</strong>Scaling Law 与数据极限</p><p><strong>21:18 &nbsp;</strong>未来机遇展望</p><p><strong>23:52 &nbsp;</strong>别把生活卷丢了</p><p>【栏目简介】</p><p>这是国内人工智能垂直媒体机器之心旗下的「智者访谈」播客栏目。栏目聚焦于人工智能领域的顶尖专家和学者，旨在洞悉人工智能的核心技术与行业趋势，深化行业认知，激发创新思考。</p><p>【主播】</p><p>闻菲，机器之心合伙人总监</p><p>【嘉宾】</p><p>Daniel Povey</p><p>• Kaldi之父</p><p>• 小米集团首席语音科学家</p><p>• lEEE Fellow</p><p>• 清华大学杰出访问教授、武汉大学客座教授</p><p>• Daniel Povey 博士毕业于英国剑桥大学，先后就职于 IBM 和微软。2012年加入美国约翰霍普金斯大学，任语言和语音处理中心副教授。2019年10月加入小米，担任集团语音首席科学家。2022年12月，Daniel Povey 凭借在语音识别和声学建模方面的杰出贡献入选IEEE Fellow。</p><figure><img src=\"https://image.xyzcdn.net/Fo1w4hy6bSAoZi04UNGkQe7Ae8p5.png\"/></figure><p>【联系方式】</p><p>公众号：机器之心</p><p>收听渠道：Apple Podcast | 小宇宙 | 喜马拉雅</p><p>其他平台：bilibili（机器之心官方） | 视频号（机器之心）| 小红书（机器之心）</p><p>联系我们：zhaoyunfeng@jiqizhixin.com | xiewenfei@jiqizhixin.com</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/67e239a6dd11f9c8c1f0e1bc?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FpgyLYVcVPzksKU8g2hobgEFnBWc.png"
+}

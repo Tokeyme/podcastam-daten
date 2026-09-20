@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "古典不古董：西方音乐史漫谈",
   "apple_collection_id": "1837825105",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6a991fdaf03e74ee6b046b0c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68a6a128736ec33b29531742/6a991fdaf03e74ee6b046b0c/media.xyzcdn.net/68a6a128736ec33b29531742/lkWUbV8WwcZlP2ynQqDoPBrFb8Pm.m4a",
+      "pfad": "/v1/episode/86415bb136147e20283ba7b7c2d01d0572440ff7.json",
+      "titel": "23.舒伯特早年时期：18岁写出《魔王》，19岁辞职——这个音乐天才到底有多离谱？",
+      "veroeffentlicht": "2026-09-04T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走进弗朗茨·舒伯特的早年音乐生涯与天才创作历程。"
+    },
     {
       "guid": "69f32d94038707a7719923f4",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68a6a128736ec33b29531742/69f32d94038707a7719923f4/media.xyzcdn.net/68a6a128736ec33b29531742/ljTcJeF9XqWgMbh0vEVn4A-Fp5JT.m4a",
@@ -13,6 +23,26 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "古典主义理性破冰，浪漫主义音乐迎来感性与个性的全面爆发"
+    },
+    {
+      "guid": "6954756f2db086f897ebaa6a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68a6a128736ec33b29531742/6954756f2db086f897ebaa6a/media.xyzcdn.net/68a6a128736ec33b29531742/llsCKnFFbnfiqJFbgT0pif64bJ03.m4a",
+      "pfad": "/v1/episode/56c8b176b324596be88c063340f47cd89cb37df7.json",
+      "titel": "17.弦乐四重奏发展简述｜四把琴何以搅动一世界",
+      "veroeffentlicht": "2025-12-31T08:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨弦乐四重奏的发展历程及经典音乐家的创作演变。"
+    },
+    {
+      "guid": "69265520f8a9e1d1627027aa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68a6a128736ec33b29531742/69265520f8a9e1d1627027aa/media.xyzcdn.net/68a6a128736ec33b29531742/lgRBsKoatQoar5ODptbx1L0fIZ0K.m4a",
+      "pfad": "/v1/episode/72194b2b83d98b013cfdcab8df3171b48911f957.json",
+      "titel": "14.贝多芬晚年时期 ｜ 当声音无法入耳，他选择背对世界，向内行走",
+      "veroeffentlicht": "2025-11-26T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨贝多芬晚年时期的创作、生活与心路历程。"
     }
   ]
 }

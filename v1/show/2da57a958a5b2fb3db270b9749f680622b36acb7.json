@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "快乐减肥",
   "apple_collection_id": "1740893100",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "666fbb3ac26e396a364f6574",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨医美塑形与减脂药物的区别及对减肥市场的影响"
+    },
+    {
+      "guid": "664a184b251bd96e6c5ea844",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661671e45dae7932c6a0164f/664a184b251bd96e6c5ea844/media.xyzcdn.net/luStJqV-Z0br7FVDPOEHmDedZufW.m4a",
+      "pfad": "/v1/episode/325425ddbd1e1dce7c2853a83a5e8547ee2e23c8.json",
+      "titel": "04. 对话一级市场投资人星哥：司美格鲁肽衍生的「产业超级机遇」",
+      "veroeffentlicht": "2024-05-20T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨司美格鲁肽及GLP-1产业链的市场机遇"
+    },
+    {
+      "guid": "663def28b5a7fb733e04583c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661671e45dae7932c6a0164f/663def28b5a7fb733e04583c/media.xyzcdn.net/lu0EBCNdoTFIy8GuMglenuQM9Ybb.m4a",
+      "pfad": "/v1/episode/c1d8e47371218509e278b69e6b19ec58e6ff1767.json",
+      "titel": "03. 研发26年！减肥药老炮：司美格鲁肽的千亿商机，你必须听这期",
+      "veroeffentlicht": "2024-05-10T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨司美格鲁肽等GLP-1药物的药理、研发与市场布局"
+    },
+    {
+      "guid": "66200d875dae7932c62f2cb3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661671e45dae7932c6a0164f/66200d875dae7932c62f2cb3/media.xyzcdn.net/loFVk6gSzS27gKfMh-bRS4sAVfwp.m4a",
+      "pfad": "/v1/episode/5c7d35924a9b27a381bc09ec3890f9447e50f762.json",
+      "titel": "02. 「大健康」风口是假，「司美格鲁肽」风口是真",
+      "veroeffentlicht": "2024-04-21T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨GLP-1药物研发现状、减肥药市场及中美药企实力差距"
+    },
+    {
+      "guid": "6617685b5dae7932c6c4d7b1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661671e45dae7932c6a0164f/6617685b5dae7932c6c4d7b1/media.xyzcdn.net/lvmodT1cdVk-ms5_02VoU-P39KPj.m4a",
+      "pfad": "/v1/episode/c9098a4a9a3348fb829415690e3dcd734d9a8115.json",
+      "titel": "01. 马斯克靠「减肥神药」司美格鲁肽瘦了18斤，了解一下？",
+      "veroeffentlicht": "2024-04-11T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨司美格鲁肽等GLP-1类减肥药物的作用与使用"
     }
   ]
 }

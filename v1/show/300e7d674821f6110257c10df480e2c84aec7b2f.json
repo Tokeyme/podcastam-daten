@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "旅行咖啡馆",
   "apple_collection_id": "1552336518",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/e172-audiofreehighqps/41/14/CKwRIJED0tKUABAAAAB6v-mT.mp3",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "诗人树才畅谈朴素旅行的体验，在行走与语言中寻找真实的自我。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/94c9-audiofreehighqps/C6/3A/CKwRIDoDxwcRABAAAAB3oujF.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIDoDxwcRABAAAAB3oujF.mp3.m4a?channel=rss&album_id=45287263&track_id=371113495&uid=242398794&jt=https://aod.cos.tx.xmcdn.com/storages/94c9-audiofreehighqps/C6/3A/CKwRIDoDxwcRABAAAAB3oujF.mp3",
+      "pfad": "/v1/episode/e60d761875f5ef7544ade325e533ab472e7a9179.json",
+      "titel": "Vol.5-摄影师朱英豪：​伊朗、瑞士、津巴布韦，三种形态下的农业旅行经历",
+      "veroeffentlicht": "2021-01-03T04:13:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "摄影师朱英豪讲述伊朗、瑞士和津巴布韦的农业旅行经历"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bd2a-audiofreehighqps/24/66/CKwRIJEDxvZtABAAAAB3niMS.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEDxvZtABAAAAB3niMS.mp3.m4a?channel=rss&album_id=45287263&track_id=371091787&uid=242398794&jt=https://aod.cos.tx.xmcdn.com/storages/bd2a-audiofreehighqps/24/66/CKwRIJEDxvZtABAAAAB3niMS.mp3",
+      "pfad": "/v1/episode/1ac34964ae48f9229e4749e569bce885acee69a3.json",
+      "titel": "Vol.4-世界小姐张梓琳：​心界越走越大",
+      "veroeffentlicht": "2021-01-03T03:01:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "世界小姐张梓琳分享公益旅行经历与感悟"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1eab-audiofreehighqps/C3/65/CKwRIDoDxkgaABAAAAB3inRY.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIDoDxkgaABAAAAB3inRY.mp3.m4a?channel=rss&album_id=45287263&track_id=371004942&uid=242398794&jt=https://aod.cos.tx.xmcdn.com/storages/1eab-audiofreehighqps/C3/65/CKwRIDoDxkgaABAAAAB3inRY.mp3",
+      "pfad": "/v1/episode/6f2f9084d41746529e9be9284a0102c12c366c40.json",
+      "titel": "Vol.3-建筑师何哲：城市精神是开放与包容",
+      "veroeffentlicht": "2021-01-02T14:39:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "建筑师何哲谈城市精神与建筑体验"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/695d-audiofreehighqps/2C/B4/CKwRIJEDxhIEABAAAAB3cpFg.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEDxhIEABAAAAB3cpFg.mp3.m4a?channel=rss&album_id=45287263&track_id=370906962&uid=242398794&jt=https://aod.cos.tx.xmcdn.com/storages/695d-audiofreehighqps/2C/B4/CKwRIJEDxhIEABAAAAB3cpFg.mp3",
+      "pfad": "/v1/episode/54b9a3e97d57e82d0b4bb0f5ab2246a9f73aa20b.json",
+      "titel": "Vol.2-诗人小海：世界的大小，最终由你的心灵世界决定",
+      "veroeffentlicht": "2021-01-02T10:47:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话诗人小海：探讨心灵世界如何决定世界的大小与精神游牧。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5fec-audiofreehighqps/C8/18/CKwRIJEDxgSTABAAAAB3bnTT.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEDxgSTABAAAAB3bnTT.mp3.m4a?channel=rss&album_id=45287263&track_id=370890898&uid=242398794&jt=https://aod.cos.tx.xmcdn.com/storages/5fec-audiofreehighqps/C8/18/CKwRIJEDxgSTABAAAAB3bnTT.mp3",
+      "pfad": "/v1/episode/d0303825d5bdef6ec762ed382677bfdf331b8ef7.json",
+      "titel": "Vol.1-音乐DJ有待：你是世界公民，你的心属于全世界",
+      "veroeffentlicht": "2021-01-02T09:50:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "音乐DJ有待分享世界游牧公民的旅行理念与体验"
     }
   ]
 }

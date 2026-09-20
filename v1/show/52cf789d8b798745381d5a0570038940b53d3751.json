@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "半斤八两抡电影",
   "apple_collection_id": "1168421399",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a6836c3b581962ce2bc9aba",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨柏林学派导演佩策尔德影片《镜的第三乐章》中的身份错认与疗愈。"
+    },
+    {
+      "guid": "6a46795c9d2f574368419c70",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6773e4a515a5fd520e0fb5bc/6a46795c9d2f574368419c70/media.xyzcdn.net/6773e4a515a5fd520e0fb5bc/lozT_MLwdMZidX2o8BpF0CoxsXUw.m4a",
+      "pfad": "/v1/episode/bcd66a6b597db5b49fc0c25b6707a29dc17fd906.json",
+      "titel": "Vol.237 对谈 - 专访电影《一个部门的诞生》导演麦天枢",
+      "veroeffentlicht": "2026-07-02T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "专访电影《一个部门的诞生》导演麦天枢，探讨其创作理念与幕后思路。"
+    },
+    {
+      "guid": "69eebeec1d989496e795cc11",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6773e4a515a5fd520e0fb5bc/69eebeec1d989496e795cc11/media.xyzcdn.net/6773e4a515a5fd520e0fb5bc/ljZDHh49dytvkUsV9o8OIQgDuYE8.m4a",
+      "pfad": "/v1/episode/cd9a90c74390c29716891ac83606394444f7d21f.json",
+      "titel": "Vol.236 对谈 - 专访电影《植物学家》导演景一",
+      "veroeffentlicht": "2026-04-27T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "专访电影《植物学家》导演景一，探讨创作背后的细节、人物与时间观"
+    },
+    {
+      "guid": "693240513fec3166cf5aebfa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6773e4a515a5fd520e0fb5bc/693240513fec3166cf5aebfa/media.xyzcdn.net/6773e4a515a5fd520e0fb5bc/lkhdbPD4N3sYJifyP2e-T5qm6Ur2.m4a",
+      "pfad": "/v1/episode/68061baacae75434dbbb60aa640ef362a84817d4.json",
+      "titel": "Vol.234 对谈 - 专访电影《百川东到海》导演吴双",
+      "veroeffentlicht": "2025-12-05T06:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "专访电影《百川东到海》导演吴双，探讨创作背景与幕后故事。"
     }
   ]
 }

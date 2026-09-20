@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "一直躺到生活变好",
   "apple_collection_id": "1705077879",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a736276ab3a91c24a107220",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "分享近期备战喜剧比赛的生活节奏、救助流浪小狗的经历以及开放麦的趣事。"
+    },
+    {
+      "guid": "67e4d035af5840b333a05cbe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64e9aecae5716baf296ed615/67e4d035af5840b333a05cbe/media.xyzcdn.net/64e9aecae5716baf296ed615/lsA8RmfX4B5U5j9R0rGcOeJBnq6O.m4a",
+      "pfad": "/v1/episode/c789d804fb127161daedf77aa8e1b3bd0b5d7ee3.json",
+      "titel": "vol.035｜有人能一天不用微信？我不信",
+      "veroeffentlicht": "2025-03-27T04:26:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨微信使用习惯，从好友数量到删除好友的经历。"
     }
   ]
 }

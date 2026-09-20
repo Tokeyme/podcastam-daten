@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_954489486",
+  "apple_collection_id": "1868205200",
+  "show": "体育科技快讯",
+  "titel": "Vol.011 | 当算法成为“第二教练”，网球还是那项优雅的运动吗 | 深度解析",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqh9sANV9KdACAAAARlKZsr.mp3.m4a?channel=rss&album_id=114911417&track_id=954489486&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/c1b6-audiofreehighqps/90/F1/GAqh9sANV9KdACAAAARlKZsr.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T14:22:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI如何深度渗透澳网并改变网球运动的发展。",
+  "kurzfassung": "本期节目深入探讨了人工智能技术在澳网公开赛中的广泛应用。内容涵盖AI如何分析球员数据、生成赛事内容以及管理运动员的身体负荷。同时，节目也引发了关于技术是否会消解体育运动不确定性的思考。",
+  "stichpunkte": [
+    "澳网赛事中的人工智能应用现状",
+    "AI分析对手发球落点与战术弱点",
+    "生成式AI在赛事内容创作中的角色",
+    "利用算法进行运动员身体负荷管理",
+    "技术对网球运动不确定性的影响探讨"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:22:19+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 300,
+  "veroeffentlicht": "2026-02-03T23:29:00+00:00",
+  "beschreibung": "简介正文：\n大家周三好！接续周一的冠军特辑，今天我们深入挖掘澳网（Australian Open）那个“看不见的赛场”。\n你知道吗？当张帅站在底线准备发球时，她的对手可能已经通过 AI 算出了她 78% 的发球落点概率。今年的澳网被誉为史上“含硅量”最高的大满贯，背后的推手正是 Infosys 的 AI 矩阵。\n本期《深度解析》，我们翻阅了 Infosys 2026 数字创新白皮书 和 WIRED 的深度报道，为你揭秘：AI 如何在 3 秒钟内像手术刀一样剖析对手的弱点？生成式 AI（Generative AI）如何像人类导演一样捕捉比赛的戏剧性？以及，算法是如何通过精确到分钟的身体负荷管理，帮助 37 岁的老将延长职业寿命的？\n�️ 本期主播 小梅（半糖声音，全糖硬核的体育科技观察者）\n\n�互动话题\n如果 AI 能够算出比赛的一切概率，体育比赛那个最迷人的“不确定性”还在吗？你是更喜欢相信数据，还是相信奇迹？欢迎在评论区留下你的看法！",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>简介正文：</b></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">&nbsp; &nbsp; &nbsp; &nbsp;大家周三好！接续周一的冠军特辑，今天我们深入挖掘澳网（Australian Open）那个“看不见的赛场”。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">&nbsp; &nbsp; &nbsp; &nbsp;你知道吗？当张帅站在底线准备发球时，她的对手可能已经通过 AI 算出了她 78% 的发球落点概率。今年的澳网被誉为史上“含硅量”最高的大满贯，背后的推手正是 Infosys 的 AI 矩阵。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本期《深度解析》，我们翻阅了 <b>Infosys 2026 数字创新白皮书</b> 和 <b>WIRED</b> 的深度报道，为你揭秘：AI 如何在 3 秒钟内像手术刀一样剖析对手的弱点？生成式 AI（Generative AI）如何像人类导演一样捕捉比赛的戏剧性？以及，算法是如何通过精确到分钟的身体负荷管理，帮助 37 岁的老将延长职业寿命的？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">�️ <b>本期主播</b> 小梅（半糖声音，全糖硬核的体育科技观察者）</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">�<b>互动话题</b></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">&nbsp; &nbsp; &nbsp; &nbsp;如果 AI 能够算出比赛的一切概率，体育比赛那个最迷人的“不确定性”还在吗？你是更喜欢相信数据，还是相信奇迹？欢迎在评论区留下你的看法！</p><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/5157-audiofreehighqps/16/D7/GKwRIJINV9K9AASoFARlKajS.jpeg",
+  "folgennummer": 10
+}

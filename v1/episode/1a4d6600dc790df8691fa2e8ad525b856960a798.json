@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "6a40adb89d2f5743683ef867",
+  "apple_collection_id": "1776850152",
+  "show": "付少的读书圈",
+  "titel": "64.《芯片战争》：世界最关键技术的争夺战",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a40adb89d2f5743683ef867/media.xyzcdn.net/62c58fc358b1ee616a26be0a/liYEoCL2oewS5DtDdgO7YSybUnOa.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T14:19:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨《芯片战争》一书涉及的半导体技术争夺与地缘政治。",
+  "kurzfassung": "本期节目基于《芯片战争》一书，探讨半导体产业的发展历程与地缘政治布局。节目分析了行业内关键人物与公司的兴衰启示。同时讨论了中国在其中的角色以及非技术背景人群如何看待集成电路的发展。",
+  "stichpunkte": [
+    "阅读《芯片战争》的核心收获对比",
+    "半导体行业重要人物与企业兴衰的启示",
+    "各国家和地区在半导体产业的历史与地缘政治布局",
+    "学术研究、工程应用与政治博弈在芯片战争中的差异",
+    "普通人与半导体产品的关系",
+    "中国在芯片战争中的角色和地位预测",
+    "非技术背景如何看待集成电路的发展"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:19:13+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 5873,
+  "veroeffentlicht": "2026-06-28T05:30:04+00:00",
+  "beschreibung": "内容大纲：\n1.和《哈萨比斯》相比，这本书最大的收获是什么；\n2.肖克利、诺伊斯、摩尔、盛田昭夫、格鲁夫等等人物，哪个印象最深；\n3.仙童、英特尔、TI、美光、高通、索尼、三星、台积电等公司的兴衰，有什么启示；\n4.日本、台湾、新加坡、韩国、荷兰、苏联等在半导体产业的布局，从历史和地缘政治角度的理解；\n5.学术研究、工程应用、政治博弈在芯片战争中的差异；\n6.普通人和半导体产品之间是被控制还是主动的关系；\n7.预测一下中国接下来在芯片战争的角色和地位；\n8.非技术背景怎么看待集成电路（芯片）的发展；\n9.对于本书和作者的创作有什么想说的；\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>内容大纲：</p><p>1.和《哈萨比斯》相比，这本书最大的收获是什么；</p><p>2.肖克利、诺伊斯、摩尔、盛田昭夫、格鲁夫等等人物，哪个印象最深；</p><p>3.仙童、英特尔、TI、美光、高通、索尼、三星、台积电等公司的兴衰，有什么启示；</p><p>4.日本、台湾、新加坡、韩国、荷兰、苏联等在半导体产业的布局，从历史和地缘政治角度的理解；</p><p>5.学术研究、工程应用、政治博弈在芯片战争中的差异；</p><p>6.普通人和半导体产品之间是被控制还是主动的关系；</p><p>7.预测一下中国接下来在芯片战争的角色和地位；</p><p>8.非技术背景怎么看待集成电路（芯片）的发展；</p><p>9.对于本书和作者的创作有什么想说的；</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a40adb89d2f5743683ef867?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FtuXYpyvGBhmXsGNv9E7w4pXXh0E.jpg"
+}

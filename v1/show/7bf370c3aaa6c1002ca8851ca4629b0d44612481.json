@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Doctor's Voice医声（丁医生聊健康）",
   "apple_collection_id": "1595431603",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1008635261",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAOY9kLAC--AwTMkCZE.m4a?channel=rss&album_id=29146248&track_id=1008635261&uid=70750077&jt=https://aod.cos.tx.xmcdn.com/storages/d8f8-audiofreehighqps/FD/AB/GKwRIMAOY9kLAC--AwTMkCZE.m4a",
+      "pfad": "/v1/episode/786894b3083800858b51905f963588414edbe2e2.json",
+      "titel": "丁医生聊健康：如何唤醒体内的“长寿基因” | 欧美抗衰研究：如何逆转“生物年龄”？",
+      "veroeffentlicht": "2026-08-25T22:24:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨衰老是否为可干预的生物学过程以及如何逆转生物年龄。"
+    },
     {
       "guid": "xmly_track_979562727",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwN7UF6ADOIqgSfkXMt.m4a?channel=rss&album_id=29146248&track_id=979562727&uid=70750077&jt=https://aod.cos.tx.xmcdn.com/storages/85c8-audiofreehighqps/7A/FF/GKwRIRwN7UF6ADOIqgSfkXMt.m4a",
@@ -13,6 +23,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "丁医生解析人体褐色脂肪的作用，并分享通过微寒环境激活脂肪燃烧的方法。"
+    },
+    {
+      "guid": "xmly_track_974696490",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEN0Dt_ADbQmwSU0Hu4.m4a?channel=rss&album_id=29146248&track_id=974696490&uid=70750077&jt=https://aod.cos.tx.xmcdn.com/storages/210c-audiofreehighqps/B6/3B/GKwRIJEN0Dt_ADbQmwSU0Hu4.m4a",
+      "pfad": "/v1/episode/20dd17678390c94f444610129c243f2967ec5d13.json",
+      "titel": "丁医生聊健康：人体有个抗衰免费药房，怎样给自己精准开药？",
+      "veroeffentlicht": "2026-05-05T23:08:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "肌肉是体内的抗癌药房，中老年人如何科学锻炼激活免疫力。"
+    },
+    {
+      "guid": "xmly_track_969522525",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMANsG2uADsrJgSI3juA.m4a?channel=rss&album_id=29146248&track_id=969522525&uid=70750077&jt=https://aod.cos.tx.xmcdn.com/storages/e1e2-audiofreehighqps/39/8F/GKwRIMANsG2uADsrJgSI3juA.m4a",
+      "pfad": "/v1/episode/e7ac35f91279bb6a7f4f09aef7e6ee6db954cae1.json",
+      "titel": "丁医生聊健康：厨房里的细胞翻新 抗炎法则+生物钟营养学，教你跑贏“炎性衰老”！",
+      "veroeffentlicht": "2026-04-11T20:10:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过哈佛抗炎饮食与生物钟营养学对抗炎性衰老。"
+    },
+    {
+      "guid": "xmly_track_964651688",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMANlP7kAC0k0QR9iU-d.m4a?channel=rss&album_id=29146248&track_id=964651688&uid=70750077&jt=https://aod.cos.tx.xmcdn.com/storages/c2d9-audiofreehighqps/57/2F/GKwRIMANlP7kAC0k0QR9iU-d.m4a",
+      "pfad": "/v1/episode/c6ed36af864b2459efdc3dd6dfc368eda297de12.json",
+      "titel": "丁医生聊健康：吃对油，身体不生锈！别让“促炎油”毁了你的免疫力。",
+      "veroeffentlicht": "2026-03-22T00:46:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "正确选择食用油对抗身体炎症"
+    },
+    {
+      "guid": "xmly_track_963202398",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoNjQRAAC8JZwR6cri7.m4a?channel=rss&album_id=29146248&track_id=963202398&uid=70750077&jt=https://aod.cos.tx.xmcdn.com/storages/235b-audiofreehighqps/38/2F/GKwRIDoNjQRAAC8JZwR6cri7.m4a",
+      "pfad": "/v1/episode/41497c27e6a16c83eada306876fb86ded3be2d1d.json",
+      "titel": "丁医生聊健康：血糖正常就安全了？这个隐形指标，才是中老年防癌控重的关键",
+      "veroeffentlicht": "2026-03-15T23:31:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "胰岛素抵抗与中老年防癌控重的关键代谢问题"
     }
   ]
 }

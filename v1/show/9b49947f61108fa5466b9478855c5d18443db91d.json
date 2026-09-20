@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "一人游戏局",
   "apple_collection_id": "1696217343",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa11a4616f0a4973a147be1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6aa11a4616f0a4973a147be1/media.xyzcdn.net/64589548de05b6ceb464030d/lhvVGXCaknKfv7Y9sdp6snczHt_e.m4a",
+      "pfad": "/v1/episode/291dcd65e98f81a1d82214aa2628414247432f41.json",
+      "titel": "从神坛到废墟再到封神：赛博朋克 2077 发售灾难与主线剧情全解析",
+      "veroeffentlicht": "2026-09-10T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "《赛博朋克 2077》开发历程与主线剧情全解析"
+    },
+    {
+      "guid": "6a981c02a0210c197dcc646d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a981c02a0210c197dcc646d/media.xyzcdn.net/64589548de05b6ceb464030d/lmCMebh9pqk01l4RD9MpqHA-W3Rz.m4a",
+      "pfad": "/v1/episode/bcda6dafc6d945ab729988da55963fcd48cdec39.json",
+      "titel": "三天后月亮砸脸——《姆吉拉的假面》到底讲了个什么故事",
+      "veroeffentlicht": "2026-09-03T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《姆吉拉的假面》的时间线、剧情、机制与角色设定。"
+    },
+    {
+      "guid": "6a912100a0210c197dc98236",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a912100a0210c197dc98236/media.xyzcdn.net/64589548de05b6ceb464030d/loyW2nOCm8pj_r4-yiMWXjYrv4jt.m4a",
+      "pfad": "/v1/episode/426e4785d5571d6bfdfb2e0878ffab5550bf01f4.json",
+      "titel": "《赛尔达传说 黄昏公主》为什么是历代游戏中最意难平的？",
+      "veroeffentlicht": "2026-08-28T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《塞尔达传说 黄昏公主》的开发背景与剧情魅力。"
+    },
     {
       "guid": "6a8929b4ef65145dfcc3789b",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a8929b4ef65145dfcc3789b/media.xyzcdn.net/64589548de05b6ceb464030d/ln9qisb-omyw7W8LWf0EfjUsIQxQ.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "中国人的死后世界为何如此复杂？探秘民间神鬼体系与生死观。"
+    },
+    {
+      "guid": "6a7ffb9f17676351c572312e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a7ffb9f17676351c572312e/media.xyzcdn.net/64589548de05b6ceb464030d/lkIRe2TijGMCu-v0qUqAuv_s0Rsi.m4a",
+      "pfad": "/v1/episode/7da67fd1b986e68d6a0d5c34df10c9ab8cecd7cb.json",
+      "titel": "从《黑神话》到《纸人》：游戏里的中元节禁忌，全是真民俗",
+      "veroeffentlicht": "2026-08-15T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从中元节禁忌看中式恐怖游戏里的传统民俗。"
+    },
+    {
+      "guid": "6a77d97ac4079d62c57f737c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a77d97ac4079d62c57f737c/media.xyzcdn.net/64589548de05b6ceb464030d/lj426BVq-iUV9s_xNk7E2XqIWXlv.m4a",
+      "pfad": "/v1/episode/c52586aa30ddd5cd1ba7f3babe708f2fd50da9a9.json",
+      "titel": "从《喜丧》到《烟火》：恐怖游戏如何复刻中式丧葬的细节",
+      "veroeffentlicht": "2026-08-09T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨国产恐怖游戏如何还原中式丧葬民俗与生死观念"
+    },
+    {
+      "guid": "6a6b2e7556a3f3491ba788d6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a6b2e7556a3f3491ba788d6/media.xyzcdn.net/64589548de05b6ceb464030d/loALLlCUF0wwmkDRCDSG8AB4W9eU.m4a",
+      "pfad": "/v1/episode/423b500bd9fdbf2efbe022b9f4661c7b86e23bae.json",
+      "titel": "恐怖只是外壳，团圆才是本心：从游戏视角重识中元节民俗文化",
+      "veroeffentlicht": "2026-07-30T11:19:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从经典中式恐怖游戏切入，重新认识中元节的民俗文化本源。"
+    },
+    {
+      "guid": "6a6595e4a3fec224d5a36b81",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a6595e4a3fec224d5a36b81/media.xyzcdn.net/64589548de05b6ceb464030d/lqbtAurgVUfPWMfud3QdKG5qUR6B.m4a",
+      "pfad": "/v1/episode/328f6828a6c2ccb67eb20ab4acad11114d8b8a94.json",
+      "titel": "黑暗隧道里的末日史诗，《地铁三部曲》不只是科幻小说",
+      "veroeffentlicht": "2026-07-26T05:10:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻《地铁三部曲》的宏大世界观与核战末日史诗"
+    },
+    {
+      "guid": "6a58c64ea4972c496dfcdf32",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a58c64ea4972c496dfcdf32/media.xyzcdn.net/64589548de05b6ceb464030d/lpDu3go4CnYMYtrWa1YHxNOOtB5f.m4a",
+      "pfad": "/v1/episode/0260e198fd2e6a71b897de52efa55efa5eebc7a5.json",
+      "titel": "从《红猪》到《暗影火炬城》，柴油朋克到底是什么？",
+      "veroeffentlicht": "2026-07-16T11:58:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全面解析柴油朋克美学体系与文化内核"
+    },
+    {
+      "guid": "6a5062841e32575f5eb419ee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64589548de05b6ceb464030d/6a5062841e32575f5eb419ee/media.xyzcdn.net/64589548de05b6ceb464030d/lotP1GZ9T6AnQTktU89bLlEuKiqR.m4a",
+      "pfad": "/v1/episode/a48df3f129e39fed230c4ae9bdcf6fec1f449bc8.json",
+      "titel": "为什么《辐射》和《原子之心》画风天差地别，却同属原子朋克？",
+      "veroeffentlicht": "2026-07-10T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨辐射与原子之心的原子朋克风格差异及历史文学根源。"
     }
   ]
 }

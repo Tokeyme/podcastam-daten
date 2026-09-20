@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6e808452-b190-11f1-8027-b3fa12f762a5",
+  "apple_collection_id": "1630372322",
+  "show": "ジェーン・スー　生活は踊る",
+  "titel": "お悩み解消コーナー「相談は踊る」",
+  "audio": {
+    "url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS8290811661.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:50:43+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "关于人生规划的温度差：30岁同性恋者的恋爱烦恼",
+  "kurzfassung": "本期节目设立了解答听众烦恼的“咨询在跳舞”专栏，搭档为TBS主持人杉山真也。节目中探讨了一位30岁同性恋听众的来信，其交往半年的男友对未来持“车到山前必有路”的态度。由于咨询者习惯带着目标生活，两人在人生规划上的温度差引发了思考。",
+  "stichpunkte": [
+    "“咨询在跳舞”听众烦恼解答环节",
+    "搭档：TBS主持人杉山真也",
+    "咨询者年龄与身份：30岁，男同性恋",
+    "恋爱现状：与男友交往约半年",
+    "核心烦恼：双方对未来人生规划的温度差"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:50:43+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1163,
+  "veroeffentlicht": "2026-09-16T05:35:00+00:00",
+  "beschreibung": "パートナーはTBS杉山真也アナウンサー。今回は、30歳「私はゲイで、付き合って半年ほどの彼氏がいます。最近、彼と“これからの人生をどうするか”という話をしましたが、彼は“まあ、何とかなるでしょ”というタイプで、将来を具体的には考えていないようでした。私は20代の頃から目標を持って生きてきたので、この温度差が気になって…」という相談。第2404回 2026/9/16（水）放送(12:04〜12:22頃)より\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>パートナーはTBS杉山真也アナウンサー。今回は、30歳「私はゲイで、付き合って半年ほどの彼氏がいます。最近、彼と“これからの人生をどうするか”という話をしましたが、彼は“まあ、何とかなるでしょ”というタイプで、将来を具体的には考えていないようでした。私は20代の頃から目標を持って生きてきたので、この温度差が気になって…」という相談。第2404回 2026/9/16（水）放送(12:04〜12:22頃)より</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/3942f2e6-d4eb-11ed-aba7-1ff5a4d90c85/image/f72e0d7160f427b688ccb331029719bd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

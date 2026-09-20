@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "642303998aca9099d78e6dd4",
+  "apple_collection_id": "1699002793",
+  "show": "Buidler Talk｜Web3 对谈",
+  "titel": "E63 | CyberConnect Wilson：Web3 Social解决数据互通性和资产所有权问题",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/642303998aca9099d78e6dd4/media.xyzcdn.net/lon66J25-P-_AX15y8jRudLL8HDD.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:18:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨Web3社交如何解决数据互通与资产所有权问题",
+  "kurzfassung": "本期节目探讨了去中心化社交网络的发展与应用。访谈围绕Web3社交如何解决数据互通性和资产所有权问题展开。嘉宾分享了CyberConnect的创业经历、Link3的功能以及未来社交协议的格局。",
+  "stichpunkte": [
+    "从Web2到Web3社交的创业初衷",
+    "Web3社交解决数据互通性和资产所有权",
+    "社交图谱在Web3中的价值与数据密度",
+    "构建应用场景与发展生态以存储更多数据",
+    "通过推出应用和解决冷启动吸引开发者",
+    "Link3的产品定位与未来发展方向",
+    "社交协议的未来格局与商业模式探讨",
+    "CyberConnect的发展重心与看好的方向"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:18:42+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4590,
+  "veroeffentlicht": "2023-03-28T15:11:20+00:00",
+  "beschreibung": "Hello，大家好，欢迎大家收听新一期的buidler talk！\n由于web2社交平台的数据垄断性和难迁移性，每个人的点赞、关注、交友的数据形成的社交图谱并不属于自己；于是，人们开始对于去中心化社交网络进行越来越多地讨论，能否通过数据的所有权来形成一种新的social产品模式呢？\n今天我们邀请了CyberConnect的创始人wilson来与我们聊聊CyberConnect以及web3 social的相关话题。\n主持\nJane：Buidlerdao研究员 twitter: @Chandlhey\n嘉宾\nWilson：CyberConnect founder\n监制\nFred: all in web3的前行者 twitter: @Dacongfred\n剪辑\n小宇\n时间轴\n00:51 从UC Berkeley毕业后便开始了web3创业之旅\n02:55 在社交领域的创业经验坚定了做web3社交的初心\n05:58 web3社交解决的问题：数据互通性和资产所有权\n14:13 图谱在web3社交的价值：有钱包、去中心化和数据密度\n18:49 如何让用户存储和写入更多数据：构建应用场景和发展生态\n25:50 吸引更多开发者来CC协议：推出好的应用并解决冷启动问题\n36:01 做Link3：贴近用户和贴近开发者\n39:29 通过SBT增加用户信息的可信度\n47:46 Link3的未来发展：发现有意思的组织、人、内容和活动\n54:51 Social 协议未来格局：重点取决于协议想解决的问题\n62:30 未来的商业模式之一：账号付费\n67:15 Cyberconnect今年的发展重心：手机端APP、开发者工具和生态应用\n70:11 social领域看好的方向：去中心化的数据库和AI\n另外很重要的是，我们最近推出了Buidler Talk听友群，大家对于节目中有任何感兴趣和想讨论的话题都非常欢迎在听友群与我们讨论，我们的节目发布之后，也会第一时间在听友群与大家互动。感兴趣的听众小伙伴可以加入Buidler Talk听众群：\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>Hello，大家好，欢迎大家收听新一期的buidler talk！</p><p>由于web2社交平台的数据垄断性和难迁移性，每个人的点赞、关注、交友的数据形成的社交图谱并不属于自己；于是，人们开始对于去中心化社交网络进行越来越多地讨论，能否通过数据的所有权来形成一种新的social产品模式呢？</p><p>今天我们邀请了CyberConnect的创始人wilson来与我们聊聊CyberConnect以及web3 social的相关话题。</p><p><strong>主持</strong></p><p>Jane：Buidlerdao研究员 twitter: @Chandlhey</p><p><strong>嘉宾</strong></p><p>Wilson：CyberConnect founder</p><p><strong>监制</strong></p><p>Fred: all in web3的前行者 &nbsp;twitter: @Dacongfred</p><p><strong>剪辑</strong></p><p>小宇</p><p><strong>时间轴</strong></p><p>00:51 从UC Berkeley毕业后便开始了web3创业之旅</p><p>02:55 在社交领域的创业经验坚定了做web3社交的初心</p><p>05:58 web3社交解决的问题：数据互通性和资产所有权</p><p>14:13 图谱在web3社交的价值：有钱包、去中心化和数据密度</p><p>18:49 如何让用户存储和写入更多数据：构建应用场景和发展生态</p><p>25:50 吸引更多开发者来CC协议：推出好的应用并解决冷启动问题</p><p>36:01 做Link3：贴近用户和贴近开发者</p><p>39:29 通过SBT增加用户信息的可信度</p><p>47:46 Link3的未来发展：发现有意思的组织、人、内容和活动</p><p>54:51 Social 协议未来格局：重点取决于协议想解决的问题</p><p>62:30 未来的商业模式之一：账号付费</p><p>67:15 Cyberconnect今年的发展重心：手机端APP、开发者工具和生态应用</p><p>70:11 social领域看好的方向：去中心化的数据库和AI</p><p>另外很重要的是，我们最近推出了Buidler Talk听友群，大家对于节目中有任何感兴趣和想讨论的话题都非常欢迎在听友群与我们讨论，我们的节目发布之后，也会第一时间在听友群与大家互动。感兴趣的听众小伙伴可以加入Buidler Talk听众群：</p><figure><img src=\"https://image.xyzcdn.net/FsSVgbv0sDI-EJNOGnJ1bdBmbZHI.png\"/></figure><br><a href=\"https://oia.xiaoyuzhoufm.com/player/642303998aca9099d78e6dd4?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FtSeYPiI8EpRJ5eYfOKv4FltjRc4.jpg"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "《科幻新闻早知道》｜全球科技科幻新闻直通车",
   "apple_collection_id": "1848022393",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_948862875",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "我国向国际电信联盟申请20.3万颗卫星资源，迈向星海新时代。"
+    },
+    {
+      "guid": "xmly_track_945701838",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJENLW_zACoTNgRR3nDK.m4a?channel=rss&album_id=108770848&track_id=945701838&uid=225309676&jt=https://aod.cos.tx.xmcdn.com/storages/c5cf-audiofreehighqps/62/57/GKwRIJENLW_zACoTNgRR3nDK.m4a",
+      "pfad": "/v1/episode/2f15f3ede7654cbc9031f0e5d32181376df64f5f.json",
+      "titel": "《寻秦记》影版上映，穿越叙事新章",
+      "veroeffentlicht": "2026-01-02T11:32:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《寻秦记》电影版上映与穿越叙事母题的演变"
+    },
+    {
+      "guid": "xmly_track_945693304",
+      "audio_url": "https://jt.ximalaya.com//GAqh_aQNLWXPACAAAARR2agd.mp3.m4a?channel=rss&album_id=108770848&track_id=945693304&uid=225309676&jt=https://aod.cos.tx.xmcdn.com/storages/cf9e-audiofreehighqps/5E/ED/GAqh_aQNLWXPACAAAARR2agd.mp3",
+      "pfad": "/v1/episode/41d6fe175c5c4691c47a3871f384c178cfb7a26c.json",
+      "titel": "Neuralink明年量产，脑机接口迈向新阶段",
+      "veroeffentlicht": "2026-01-02T10:50:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Neuralink计划2026年量产，脑机接口迈向规模化应用。"
+    },
+    {
+      "guid": "xmly_track_943840229",
+      "audio_url": "https://jt.ximalaya.com//GAqhfD0NI_5XACAAAARNzPqj.mp3.m4a?channel=rss&album_id=108770848&track_id=943840229&uid=225309676&jt=https://aod.cos.tx.xmcdn.com/storages/99d9-audiofreehighqps/C9/76/GAqhfD0NI_5XACAAAARNzPqj.mp3",
+      "pfad": "/v1/episode/3055614859d627c7f740c53e5dadad31af09b8bc.json",
+      "titel": "中国高铁突破5万公里，路网规模冠全球",
+      "veroeffentlicht": "2025-12-26T07:38:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中国高铁运营总里程突破5万公里，持续领跑全球。"
     }
   ]
 }

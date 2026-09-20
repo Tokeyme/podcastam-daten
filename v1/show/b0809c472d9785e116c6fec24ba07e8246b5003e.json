@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "听音乐背单词｜地道表达",
   "apple_collection_id": "1742490387",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_735948682",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从水果姐的音乐与人生故事中，拆解经典歌曲并背诵实用英语单词。"
+    },
+    {
+      "guid": "xmly_track_732875572",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSUKNGPEACAAAALc-OVV.mp3.m4a?channel=rss&album_id=81486431&track_id=732875572&uid=277158740&jt=https://aod.cos.tx.xmcdn.com/storages/25d4-audiofreehighqps/08/30/GMCoOSUKNGPEACAAAALc-OVV.mp3",
+      "pfad": "/v1/episode/fd4a3d73e5d7d1e558fa47dda2ea180723c408cf.json",
+      "titel": "Vol.5 你爱的失去自我了，那你让对方爱谁？（附恋爱小工具）",
+      "veroeffentlicht": "2024-06-04T05:20:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过音乐与歌词探讨爱情的定义以及人际交往心理学"
+    },
+    {
+      "guid": "xmly_track_730130719",
+      "audio_url": "https://jt.ximalaya.com//GMCoOR4KIkvVACAAAALWQeq-.mp3.m4a?channel=rss&album_id=81486431&track_id=730130719&uid=277158740&jt=https://aod.cos.tx.xmcdn.com/storages/fb80-audiofreehighqps/FA/E7/GMCoOR4KIkvVACAAAALWQeq-.mp3",
+      "pfad": "/v1/episode/a14574c6d7f453eb57052a83db065737b716230e.json",
+      "titel": "Vol.4 今年的格莱美女王，亲自教会你地道表达“狂欢”怎么说",
+      "veroeffentlicht": "2024-05-21T11:55:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过格莱美获奖歌手的歌曲学习地道英语表达与核心词汇。"
+    },
+    {
+      "guid": "xmly_track_728202399",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIKFU2xACAAAALR-U8P.mp3.m4a?channel=rss&album_id=81486431&track_id=728202399&uid=277158740&jt=https://aod.cos.tx.xmcdn.com/storages/ebb2-audiofreehighqps/40/28/GKwRIaIKFU2xACAAAALR-U8P.mp3",
+      "pfad": "/v1/episode/b172253e7a5ffe9ec1d35797c1fbce3fba575477.json",
+      "titel": "Vol.3 k掉比尔，特约执行版（下）",
+      "veroeffentlicht": "2024-05-11T15:26:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨歌曲《Kill Bill》Remix版及其新增的嘻哈剧情与相关英语表达"
+    },
+    {
+      "guid": "xmly_track_725530739",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSMKA8yQACAAAALMS0-s.mp3.m4a?channel=rss&album_id=81486431&track_id=725530739&uid=277158740&jt=https://aod.cos.tx.xmcdn.com/storages/bb66-audiofreehighqps/9C/E4/GMCoOSMKA8yQACAAAALMS0-s.mp3",
+      "pfad": "/v1/episode/d5b80d511292b10569511d6375ec80f7609d3ef9.json",
+      "titel": "Vol.2 每个人心中都有想k掉的那个比尔吧（上）",
+      "veroeffentlicht": "2024-04-28T08:32:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨歌曲《Kill Bill》及其MV中的暴力美学与相关词汇"
+    },
+    {
+      "guid": "xmly_track_724183152",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEJ-6LMACAAAALJXzu_.mp3.m4a?channel=rss&album_id=81486431&track_id=724183152&uid=277158740&jt=https://aod.cos.tx.xmcdn.com/storages/73db-audiofreehighqps/44/BD/GKwRIUEJ-6LMACAAAALJXzu_.mp3",
+      "pfad": "/v1/episode/0208c3ad53ea8b4a4e4a732df1517933b4e226ff.json",
+      "titel": "Vol.1 在幻觉里完成蜕变",
+      "veroeffentlicht": "2024-04-22T04:15:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过Dua Lipa的歌曲《Illusion》探讨女性的成长与觉醒"
     }
   ]
 }

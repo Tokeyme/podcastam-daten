@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "《食物倍儿厚》---畅聊美食背后的故事",
   "apple_collection_id": "1579158728",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/dc8f-audiofreehighqps/F5/EA/CKwRIJIFRZOoABAAAADueT5i.mp3",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从摆摊负债到拥有十几家店，回民街西木酸奶主理人的创业故事"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c092-audiofreehighqps/01/92/CKwRINsE9SApABAAAADaCgWA.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRINsE9SApABAAAADaCgWA.mp3.m4a?channel=rss&album_id=51735448&track_id=445653233&uid=221218200&jt=https://aod.cos.tx.xmcdn.com/storages/c092-audiofreehighqps/01/92/CKwRINsE9SApABAAAADaCgWA.mp3",
+      "pfad": "/v1/episode/6cad2f042567ce471836a5c17dd2508768255782.json",
+      "titel": "test.02「也读点什么」《豆腐》（文/汪曾祺,读/邢栋）",
+      "veroeffentlicht": "2021-08-20T07:44:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "朗读汪曾祺关于豆腐的文章及相关感受分享"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2202-audiofreehighqps/93/0D/CKwRIUEE8-OeABAAAADZo-we.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIUEE8-OeABAAAADZo-we.mp3.m4a?channel=rss&album_id=51735448&track_id=445329987&uid=221218200&jt=https://aod.cos.tx.xmcdn.com/storages/2202-audiofreehighqps/93/0D/CKwRIUEE8-OeABAAAADZo-we.mp3",
+      "pfad": "/v1/episode/f3d8694b5b179d92d6caef68f3965968f9393134.json",
+      "titel": "test.01「也读点什么」《拆烩鲢鱼头》（文/周浩晖,读/邢栋）",
+      "veroeffentlicht": "2021-08-19T09:13:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "朗读周浩晖散文作品《拆烩鲢鱼头》"
     }
   ]
 }

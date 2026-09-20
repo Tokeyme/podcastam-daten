@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "天才捕手FM-最带劲的职业故事",
   "apple_collection_id": "1503858543",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1015271216",
+      "audio_url": "https://tk.wavpub.com/WPTK_DjuXwBfztBcOBmTV.m4a",
+      "pfad": "/v1/episode/87ace6b88d10becdb1bdd538db509bb399dcbd24.json",
+      "titel": "在晋江写了2000万字的检验专家：男人的故事没完没了 ｜ 天才职业209",
+      "veroeffentlicht": "2026-09-15T18:38:05+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话晋江作家、微生物检验专家南枝，聊聊职业与写作。"
+    },
     {
       "guid": "xmly_track_1007050240",
       "audio_url": "https://tk.wavpub.com/WPTK_uVoKJ861HIhzJWUx-02556bcf0984.m4a",
@@ -13,6 +23,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "刑警陈文章回顾未成年盗窃群体变化，并解析两起熟人恶性杀人碎尸案。"
+    },
+    {
+      "guid": "xmly_track_1003372381",
+      "audio_url": "https://tk.wavpub.com/WPDL_YkEWSmfKrhMsHFNZbGjJTqtMgwBfBZdXPZPuMeuMntsFtYhTGyLBAPTkJU-02.m4a",
+      "pfad": "/v1/episode/77c7a97ee0dbc27ab6fa89fdf6e3c5ac3c3c0058.json",
+      "titel": "郑振铎曾孙郑炜昊：当一段伟大的故事伴我长大 ｜ 天才职业208",
+      "veroeffentlicht": "2026-07-28T20:53:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近郑振铎曾孙郑炜昊，聊聊先辈的传奇经历与历史学者的人生轨迹"
+    },
+    {
+      "guid": "xmly_track_1002149631",
+      "audio_url": "https://tk.wavpub.com/WPDL_ebyWjHpcZcQcMzZVgJPSVFkWtkPEVPfTEjebVsZrzXgRwTQJzuNCQrWkGW-24.m4a",
+      "pfad": "/v1/episode/38054ce109bbe69bd6e553ce6ac000b6beb0d1bb.json",
+      "titel": "晚上在森林听到狗叫别害怕，这里根本没有狗 ｜ 天才职业207",
+      "veroeffentlicht": "2026-07-21T21:06:12+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近野生动物保护站的森林生活与动物故事"
+    },
+    {
+      "guid": "xmly_track_1000776354",
+      "audio_url": "https://tk.wavpub.com/WPDL_bBYTyQchmsmuCjNCRZLbeNNskPfeGFyXjZBkQApSbrKmLQVNpUVDjCcNng-e2.m4a",
+      "pfad": "/v1/episode/dac548e7fd74c349b534a97546c11bf0e8b791b7.json",
+      "titel": "草原上的怪谈：除夕夜没有月亮，马可以自己回家 ｜ 天才职业206",
+      "veroeffentlicht": "2026-07-14T20:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "漫画家优癖讲述草原志怪故事与创作经历"
+    },
+    {
+      "guid": "xmly_track_996110636",
+      "audio_url": "https://tk.wavpub.com/WPDL_MCmunEGjGfRzTvqtCAxHEuuKUkLbASRbkfKxSgSBcKwRVdynfAbwLFUHEg-cd.m4a",
+      "pfad": "/v1/episode/e092429e465a1cbe04d235de6a79b97272d7f4cf.json",
+      "titel": "寻找潮汕人：墓碑是最好的名片 ｜ 天才职业205",
+      "veroeffentlicht": "2026-06-30T21:10:53+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨潮汕寻人故事与海外华人的传奇经历"
+    },
+    {
+      "guid": "xmly_track_992370529",
+      "audio_url": "https://tk.wavpub.com/WPDL_MvWWkVqwPxpteyVMscraLHtUgBfDeRwwWfgEJemwqsBnYqbKYxEUTCcByp-01.m4a",
+      "pfad": "/v1/episode/5bb2104fb8c2dcd37da5dc544802ea6053de95be.json",
+      "titel": "回答评论：为什么在医院里“产妇不能死”？",
+      "veroeffentlicht": "2026-06-23T18:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么医院里产妇享有极高的抢救优先级"
+    },
+    {
+      "guid": "xmly_track_991147656",
+      "audio_url": "https://tk.wavpub.com/WPDL_LQubHAQZjAsNDyAavCqfzkyubASThCADDuQeAMtMbEgAecCHEBtcQNdZPE-5f.m4a",
+      "pfad": "/v1/episode/ccc1af066fd26dc7a14593e6fbbb80ff375c9ecd.json",
+      "titel": "ICU医生夜班日记：剩余床位数1，病危人数3 ｜ 天才职业204",
+      "veroeffentlicht": "2026-06-16T19:57:29+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话ICU医生余一生，讲述ICU夜班的真实工作与生死抉择。"
     }
   ]
 }

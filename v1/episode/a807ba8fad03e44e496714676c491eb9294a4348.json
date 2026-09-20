@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6aadbd1bac389df827340cab",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] 从自我怀疑、电波卷积到长程心跳：重塑机器智能的5种系统进化",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aadbd1bac389df827340cab/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/ltFoR_0ZWfTRy8pf_S8ykMGtinTS.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:15:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨重塑机器智能的5种系统进化与前沿论文",
+  "kurzfassung": "本期节目讨论了五篇关于机器智能系统进化的最新论文。内容涵盖AI的自我怀疑与科学探索、无线电算力引擎的应用、数学证明中的代码体检、长程心跳架构以及快慢思考的调节机制。节目梳理了这些前沿研究如何打破对单纯算力堆砌的依赖。",
+  "stichpunkte": [
+    "AI学会自我怀疑并组建微型研究院以攻克未知科学",
+    "利用无线电通信设备作为零耗能卷积算力引擎",
+    "多智能体通过软件工程制度检测数学证明中的偷懒行为",
+    "人造心跳架构解决模型长周期任务中的失忆问题",
+    "AI掌握快慢思考并在面对难题时精准调配深思油门与刹车"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:15:07+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1812,
+  "veroeffentlicht": "2026-09-18T22:50:19+00:00",
+  "beschreibung": "今天我们要聊的5篇最新论文，正在打破过去对“大力出奇迹”的盲目迷信：你会看到AI如何学会“自我怀疑”并组建微型研究院去攻克未知科学，又如何把我们手边的无线电通信设备直接当作零耗能的卷积算力引擎；你还会看到多智能体如何依靠严格的软件工程制度抓出AI在纯数学证明里的“投机偷懒”，一套“人造心跳”如何让总失忆的模型踏踏实实打满十天硬工；最后，我们更要看看AI如何掌握人类的快慢思考，在面对难题时精准调配深思的“油门与刹车”。\n00:00:40 当AI学会了“自我怀疑”，科学探索的真正分水岭\n00:08:09 别忙着加芯片，我们手边的设备里，本就藏着算力宝藏\n00:13:37 给真理做一次代码体检，当AI试图在数学里“偷懒”\n00:19:14 怎样让一个总会“失忆”的AI，替你踏踏实实打满十天工？\n00:24:29 给AI装上“刹车”与“油门”，为什么最高级的聪明，是学会何时“偷懒”\n本期介绍的几篇论文：\n[AI] ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI\n[Google Cloud AI Research]\nhttps://arxiv.org/abs/2609.19644\n---\n[LG] Radio-Frequency Convolutional Neural Networks\n[Duke University & MIT]\nhttps://arxiv.org/abs/2609.19279\n---\n[AI] Long-horizon autoformalization of a core theorem underlying MIP* = RE\n[Max‑Planck‑Institut für Quantenoptik & Tsinghua University & University of California, Los Angeles]\nhttps://arxiv.org/abs/2609.19814\n---\n[AI] An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence\n[Salesforce AI Research]\nhttps://arxiv.org/abs/2609.19519\n---\n[AI] When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models\n[Sungkyunkwan University & Microsoft]\nhttps://arxiv.org/abs/2609.19671\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>今天我们要聊的5篇最新论文，正在打破过去对“大力出奇迹”的盲目迷信：你会看到AI如何学会“自我怀疑”并组建微型研究院去攻克未知科学，又如何把我们手边的无线电通信设备直接当作零耗能的卷积算力引擎；你还会看到多智能体如何依靠严格的软件工程制度抓出AI在纯数学证明里的“投机偷懒”，一套“人造心跳”如何让总失忆的模型踏踏实实打满十天硬工；最后，我们更要看看AI如何掌握人类的快慢思考，在面对难题时精准调配深思的“油门与刹车”。</p><p><a class=\"timestamp\">00:00:40</a> 当AI学会了“自我怀疑”，科学探索的真正分水岭</p><p><a class=\"timestamp\">00:08:09</a> 别忙着加芯片，我们手边的设备里，本就藏着算力宝藏</p><p><a class=\"timestamp\">00:13:37</a> 给真理做一次代码体检，当AI试图在数学里“偷懒”</p><p><a class=\"timestamp\">00:19:14</a> 怎样让一个总会“失忆”的AI，替你踏踏实实打满十天工？</p><p><a class=\"timestamp\">00:24:29</a> 给AI装上“刹车”与“油门”，为什么最高级的聪明，是学会何时“偷懒”</p><p>本期介绍的几篇论文：</p><p>[AI] ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI</p><p>[Google Cloud AI Research]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.19644\">https://arxiv.org/abs/2609.19644</a> </p><p>---</p><p>[LG] Radio-Frequency Convolutional Neural Networks</p><p>[Duke University &amp; MIT]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.19279\">https://arxiv.org/abs/2609.19279</a> </p><p>---</p><p>[AI] Long-horizon autoformalization of a core theorem underlying MIP* = RE</p><p>[Max‑Planck‑Institut für Quantenoptik &amp; Tsinghua University &amp; University of California, Los Angeles]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.19814\">https://arxiv.org/abs/2609.19814</a> </p><p>---</p><p>[AI] An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence</p><p>[Salesforce AI Research]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.19519\">https://arxiv.org/abs/2609.19519</a> </p><p>---</p><p>[AI] When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models</p><p>[Sungkyunkwan University &amp; Microsoft]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.19671\">https://arxiv.org/abs/2609.19671</a> </p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aadbd1bac389df827340cab?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "佛4聊电影",
   "apple_collection_id": "1489594389",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2023/03/25/2998933530352937990_hd.mp3",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "深度解析《瞬息全宇宙》为何让人又哭又笑，探讨东亚母女关系与存在主义危机"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/03/25/2998933233694033414_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/03/25/2998933233694033414_hd.mp3",
+      "pfad": "/v1/episode/fa974dab1f63d0f545ea3d6c0761eb6d5afdcfa9.json",
+      "titel": "《流浪地球2》vs《满江红》：电影都挺好，就是看电影的人疯了",
+      "veroeffentlicht": "2023-03-25T11:40:37+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨春节档电影《流浪地球2》与《满江红》的口碑与现象"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/03/25/2998932121604132358_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/03/25/2998932121604132358_hd.mp3",
+      "pfad": "/v1/episode/26f9df3a7aa5f44c392a2d5459effe60404ab9e9.json",
+      "titel": "上野千鹤子、女性主义、母女关系和《青春变形计》（上）",
+      "veroeffentlicht": "2023-03-25T11:29:17+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨上野千鹤子、女性主义及母女关系"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/03/04/2995058417585192966_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/03/04/2995058417585192966_hd.mp3",
+      "pfad": "/v1/episode/8e35070044325aaa8973d41548bfe375bc816702.json",
+      "titel": "90后女性春节记忆：小品退化史",
+      "veroeffentlicht": "2023-03-04T14:23:10+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾春晚小品的发展变迁"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/01/07/2984654892249477638_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/01/07/2984654892249477638_hd.mp3",
+      "pfad": "/v1/episode/a5fecbe916a73348c43e1f72a9a1527d0f6e6f89.json",
+      "titel": "康了吗家人们？时隔三年，新冠再次“回归”",
+      "veroeffentlicht": "2023-01-07T12:41:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "时隔三年新冠再次回归的经历与讨论"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2022/12/18/2980971294221281798_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2022/12/18/2980971294221281798_hd.mp3",
+      "pfad": "/v1/episode/12fc2a4008c9b8f03e2e0c32a6853fd252e9159d.json",
+      "titel": "《卿卿日常》：你叫它“电子榨菜”，我叫它“精神鸦片”",
+      "veroeffentlicht": "2022-12-18T16:14:16+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨古装剧《卿卿日常》及现代偶像剧中的女性角色与欲望。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2022/02/28/2926661121378449414_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2022/02/28/2926661121378449414_hd.mp3",
+      "pfad": "/v1/episode/99a319d68cf4882f206716b11ebeaae5baaf5126.json",
+      "titel": "《我，花样女王》：平行世界“羽生结弦”的另一种结局",
+      "veroeffentlicht": "2022-02-28T23:16:54+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《我，花样女王》与花样滑冰选手的悲剧命运"
     }
   ]
 }

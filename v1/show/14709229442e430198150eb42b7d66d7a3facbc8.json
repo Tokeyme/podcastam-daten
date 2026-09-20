@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "武田鉄矢・今朝の三枚おろし",
   "apple_collection_id": "625024986",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "8dedcbb2-a67b-11f1-8272-1f9c61a91a6f",
+      "audio_url": "https://traffic.megaphone.fm/NCB2307464245.mp3",
+      "pfad": "/v1/episode/d0d84bebd1657bdc5b0dd17856767b640ebc263a.json",
+      "titel": "9月14日　ユニークな生き方を探ル中で、疑問を持つことの大切さを熱く語ります。",
+      "veroeffentlicht": "2026-09-14T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻独特的生活方式，热烈探讨保持质疑的重要意义。"
+    },
+    {
+      "guid": "e73b1814-a130-11f1-9732-8773ca8b529b",
+      "audio_url": "https://traffic.megaphone.fm/NCB2912904463.mp3",
+      "pfad": "/v1/episode/2097bcd67b1972b8a398bcea5bd3918b5bd16956.json",
+      "titel": "9月7日　今回は武田鉄矢さん世代に向けて、これまでの経験や常識に囚われない生き方を語ります。",
+      "veroeffentlicht": "2026-09-07T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "武田鉄矢世代に向けたこれまでの経験や常識にとらわれない生き方について。"
+    },
+    {
+      "guid": "e07749a4-9bb2-11f1-b306-430a1a27b5b7",
+      "audio_url": "https://traffic.megaphone.fm/NCB1583001039.mp3",
+      "pfad": "/v1/episode/9e072105529c53468545c87e9c1e39a7b5791005.json",
+      "titel": "8月31日　まな板のネタ「内臓」。今回は主に皮膚を語ります。",
+      "veroeffentlicht": "2026-08-31T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "武田铁矢探讨砧板上的食材内脏及相关皮肤话题。"
+    },
+    {
+      "guid": "d572f3ac-95fc-11f1-ae69-47e4f3344ccf",
+      "audio_url": "https://traffic.megaphone.fm/NCB2992832663.mp3",
+      "pfad": "/v1/episode/37f2b7977b76a585d699f02dc84227c6e9b81188.json",
+      "titel": "8月24日　まな板のネタ「腑に落ちる」脳で考える以上に身体は考えている。身体のパワーを語ります。",
+      "veroeffentlicht": "2026-08-24T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨身体的智慧，阐述超越大脑思考的身体力量。"
+    },
     {
       "guid": "901d3950-90ae-11f1-80a6-079b3012519c",
       "audio_url": "https://traffic.megaphone.fm/NCB3571460520.mp3",
@@ -13,6 +53,56 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "探讨浮世绘与日本文化的无普遍性、匠人气质及空っぽ文化本质。"
+    },
+    {
+      "guid": "09b44ba8-8afd-11f1-a95d-1bfd10b1ed03",
+      "audio_url": "https://traffic.megaphone.fm/NCB7981811634.mp3",
+      "pfad": "/v1/episode/b58bed8331b741e907b6f832f3ed12ccaedc2657.json",
+      "titel": "8月10日　以前にも語った新ジャポニズム。今回は衣食住についての新ジャポニズムです。",
+      "veroeffentlicht": "2026-08-10T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨衣食住行相关的新日本主义主题。"
+    },
+    {
+      "guid": "0a3b92a8-8afc-11f1-b123-b79e757d531b",
+      "audio_url": "https://traffic.megaphone.fm/NCB5377439836.mp3",
+      "pfad": "/v1/episode/321099a10956508cd21b25a09c9080a324173991.json",
+      "titel": "8月3日　今回も、まな板のネタは「短歌」。武田鉄矢さんの好きな短歌も。",
+      "veroeffentlicht": "2026-08-03T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "本期节目以短歌为主题，探讨武田铁矢喜爱的短歌作品。"
+    },
+    {
+      "guid": "6b151426-801d-11f1-90ec-ffaad5114001",
+      "audio_url": "https://traffic.megaphone.fm/NCB5986277804.mp3",
+      "pfad": "/v1/episode/ed6d10c9089f44eaef8a7f111a8e46df137671d9.json",
+      "titel": "7月27日　31文字で心情を詠う短歌がまな板に乗っています。",
+      "veroeffentlicht": "2026-07-27T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "武田铁矢针对特定主题展开多元访谈与讲解。"
+    },
+    {
+      "guid": "74878f52-7a78-11f1-a8e8-afb8124718c6",
+      "audio_url": "https://traffic.megaphone.fm/NCB5628333138.mp3",
+      "pfad": "/v1/episode/156d47e67cbf9115715b27396189ecb98084842c.json",
+      "titel": "7月20日　前回に続いて鉄矢流「教育」への私見です。",
+      "veroeffentlicht": "2026-07-20T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "武田铁矢谈论关于“教育”的个人见解。"
+    },
+    {
+      "guid": "bcb74812-74fb-11f1-b9c3-4787396ea653",
+      "audio_url": "https://traffic.megaphone.fm/NCB8318745156.mp3",
+      "pfad": "/v1/episode/1631ac002fb8c3846ae121912a85565910b15c17.json",
+      "titel": "7月13日　教育格差、かたいネタですが、金八先生流の教育論です。",
+      "veroeffentlicht": "2026-07-13T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "武田铁矢探讨教育差距问题与金八先生式的教育理念。"
     }
   ]
 }

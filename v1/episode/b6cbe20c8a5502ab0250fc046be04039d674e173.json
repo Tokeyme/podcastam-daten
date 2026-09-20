@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6a6ff6191b5e24969ce7ddfd",
+  "apple_collection_id": "1835452860",
+  "show": "C哥聊科技",
+  "titel": "【C哥日课】Obsidian小白安装实操：五步搭好个人知识库",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a6ff6191b5e24969ce7ddfd/media.xyzcdn.net/68ab14c71edba57468005489/lga2L7YZX9mKa7mP0izMVeOhPBub.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:20:56+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Obsidian安装实操：五步搭建个人知识库",
+  "kurzfassung": "本期节目介绍如何使用Obsidian配合Codex搭建三层架构知识库。内容涵盖基础安装、分类规划以及利用AI实现自动维护。同时讲解了通过Clipper插件一键剪藏网页的方法。",
+  "stichpunkte": [
+    "Obsidian基础安装与仓库路径选择",
+    "知识库四大基础分类与归档设置",
+    "文件夹与索引的区别及应用",
+    "基于LLM Wiki三层架构的AI自动维护",
+    "使用Obsidian Clipper插件一键剪藏网页"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:20:56+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 369,
+  "veroeffentlicht": "2026-08-04T00:30:00+00:00",
+  "beschreibung": "【本期主题】\nObsidian 配合 Codex，按照卡帕西 LLM Wiki 方法搭建三层架构知识库，再加 Obsidian Clipper 一键剪藏网页，AI 自动维护，从此你的知识库自己长。\n【核心看点】\n你用 Obsidian 是不是只当了个本地笔记本来用，它真正的自生长能力你根本没发挥出来？\n\n搭建自生长数据库，第一步先把 Obsidian 装好，仓库选 D 盘或文稿，为啥别放下载目录？\n\n分类先建四大类——工作、生活、学习、客户，再加归档和附件，为什么不要一开始分太细？\n\n索引是给 AI 看的目录，文件夹解决存放问题，索引解决调用问题，你分清楚了吗？\n\n不想自己手动维护？卡帕西的 LLM Wiki 三层架构——原始资料、Wiki、规则，Codex 一条指令帮你建好？\n\n告诉 Codex「帮我写 Schema 规则和 index.md」，再建个定时任务每天下午 5 点自动处理新文件，知识库就自己长了？\n\n每次复制粘贴文章太麻烦？Obsidian Clipper 插件一键把网页导入知识库，浏览器装好就能用？\n\n插件安装：Edge 或 Chrome 打开开发者模式，加载解压的扩展，紫色黑曜石图标就出来了？\n\n设置 Clipper 保存位置，填知识库的原始资料目录，以后看到好文章点一下就直接进待处理文件夹？\n\n以后想找资料，直接问 AI「从知识库找一下 xx 问题适合哪些场景」，是不是比自己翻文件夹快多了？\n\n【主播】\n软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<h2><strong>【本期主题】</strong></h2><p>Obsidian 配合 Codex，按照卡帕西 LLM Wiki 方法搭建三层架构知识库，再加 Obsidian Clipper 一键剪藏网页，AI 自动维护，从此你的知识库自己长。</p><h2><strong>【核心看点】</strong></h2><ul><li><p>你用 Obsidian 是不是只当了个本地笔记本来用，它真正的自生长能力你根本没发挥出来？</p></li><li><p>搭建自生长数据库，第一步先把 Obsidian 装好，仓库选 D 盘或文稿，为啥别放下载目录？</p></li><li><p>分类先建四大类——工作、生活、学习、客户，再加归档和附件，为什么不要一开始分太细？</p></li><li><p>索引是给 AI 看的目录，文件夹解决存放问题，索引解决调用问题，你分清楚了吗？</p></li><li><p>不想自己手动维护？卡帕西的 LLM Wiki 三层架构——原始资料、Wiki、规则，Codex 一条指令帮你建好？</p></li><li><p>告诉 Codex「帮我写 Schema 规则和 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://index.md\">index.md</a>」，再建个定时任务每天下午 5 点自动处理新文件，知识库就自己长了？</p></li><li><p>每次复制粘贴文章太麻烦？Obsidian Clipper 插件一键把网页导入知识库，浏览器装好就能用？</p></li><li><p>插件安装：Edge 或 Chrome 打开开发者模式，加载解压的扩展，紫色黑曜石图标就出来了？</p></li><li><p>设置 Clipper 保存位置，填知识库的原始资料目录，以后看到好文章点一下就直接进待处理文件夹？</p></li><li><p>以后想找资料，直接问 AI「从知识库找一下 xx 问题适合哪些场景」，是不是比自己翻文件夹快多了？</p></li></ul><h2><strong>【主播】</strong></h2><p>软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/6a6ff6191b5e24969ce7ddfd?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/FtU9lMNu8TA6FSN4sB93H4xej578.jpg"
+}

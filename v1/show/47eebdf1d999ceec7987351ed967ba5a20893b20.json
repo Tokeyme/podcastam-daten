@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "日本旅行观察",
   "apple_collection_id": "1673616963",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69315fb93fec3166cf40d1f7",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "日本旅行社如何花式坑客：特种兵行程、难吃餐饮与奇葩团建"
+    },
+    {
+      "guid": "65c99f49b6c9256aeec8fb7c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e4d5bde99bdef7d356f42c/65c99f49b6c9256aeec8fb7c/media.xyzcdn.net/lnBdDNdax8bKkX1wC8KU79nWvsiF.m4a",
+      "pfad": "/v1/episode/ca1dfe9ebdc8f7be7aa940482e38bc207156a88e.json",
+      "titel": "no.13 希望能登半岛能早日恢复",
+      "veroeffentlicht": "2024-02-12T04:32:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾能登半岛的旅行目的地与灾后重建情况。"
     }
   ]
 }

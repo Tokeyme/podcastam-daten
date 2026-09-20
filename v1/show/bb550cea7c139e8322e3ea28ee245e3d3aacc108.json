@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "一个电影美术",
   "apple_collection_id": "1757253603",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6a953a97f03e74ee6b029e76",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/6a953a97f03e74ee6b029e76/media.xyzcdn.net/662676183857d2ae997ee7fc/lpUYW45GgZWLQZLZBFCXQZAqzn7L.m4a",
+      "pfad": "/v1/episode/3a6db27c7065c657ec8e173e609cbefe0c5291ac.json",
+      "titel": "电影里的家vs现实里的家：真正的好空间，从来不只是好看",
+      "veroeffentlicht": "2026-08-31T08:30:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影美术与建筑空间的关系及真实居住空间的打造方式。"
+    },
     {
       "guid": "6a60ef346356eb2d9be6d5e4",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/6a60ef346356eb2d9be6d5e4/media.xyzcdn.net/662676183857d2ae997ee7fc/liMg8FxXSj-EXLQMAPx3sN1I6bLH.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从电影美术视角解析周星驰作品中的空间叙事与小人物情怀"
+    },
+    {
+      "guid": "6a2eca2c43a22a695583afca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/6a2eca2c43a22a695583afca/media.xyzcdn.net/662676183857d2ae997ee7fc/lm0aOGrjymLdUyubJytMVXgFoBxB.m4a",
+      "pfad": "/v1/episode/168b59268bbaf735634bb559d149a796f871606d.json",
+      "titel": "大卫·霍克尼的遗产——我们该如何「观看」世界",
+      "veroeffentlicht": "2026-06-14T15:38:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大卫·霍克尼的艺术风格及其对创作者的启发"
+    },
+    {
+      "guid": "6a0dded5e1eb34a939c99bdd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/6a0dded5e1eb34a939c99bdd/media.xyzcdn.net/662676183857d2ae997ee7fc/lnD1up9r1aOoR7u4hKXYad9uz7UH.m4a",
+      "pfad": "/v1/episode/42526544cea6f1cd67a35435d54b4baca20b91de.json",
+      "titel": "美和丑谁说了算？老子早有答案……从《老子》到黑泽明",
+      "veroeffentlicht": "2026-05-20T17:16:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影中残缺与拙朴的美学力量。"
+    },
+    {
+      "guid": "69dfdf41b977fb2c470c20fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/69dfdf41b977fb2c470c20fd/media.xyzcdn.net/662676183857d2ae997ee7fc/ljsBSAjhRXvTCe_vGsd-Kuuf93xr.m4a",
+      "pfad": "/v1/episode/6963469cd65f5493d7968457d9e362a6bba589c6.json",
+      "titel": "电影选景背后：去探险！去城市 角落 旷野 山河探险",
+      "veroeffentlicht": "2026-04-15T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "揭秘电影选景背后的真实面纱，探讨城市、旷野与山河探险的幕后故事。"
+    },
+    {
+      "guid": "69c9092db977fb2c4786a2bf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/69c9092db977fb2c4786a2bf/media.xyzcdn.net/662676183857d2ae997ee7fc/ls2LDSkN1zOsUqi2oTG9A12zE0Eg.m4a",
+      "pfad": "/v1/episode/d467364bab60349e0985317bf9ae8c500505b591.json",
+      "titel": "压垮电影的最后一根稻草：我们忘了电影需要温度，观众需要被在乎",
+      "veroeffentlicht": "2026-03-29T11:20:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影行业的现状与变迁，分析观众离席与创作者傲慢的关系。"
+    },
+    {
+      "guid": "69b047abf3a969043884906e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/69b047abf3a969043884906e/media.xyzcdn.net/662676183857d2ae997ee7fc/lip_a6GUwOjgzxikEknikcLGOLtc.m4a",
+      "pfad": "/v1/episode/882fa6dc347e8de0fd02090519d64cca6f4e0019.json",
+      "titel": "紫气东来与青花如梦，一场东方色彩美学的浪漫迁徙",
+      "veroeffentlicht": "2026-03-10T16:38:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨紫色与青蓝色在东方历史、美学及电影中的演变"
+    },
+    {
+      "guid": "6983632dc78b823892aef0b7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/6983632dc78b823892aef0b7/media.xyzcdn.net/662676183857d2ae997ee7fc/li5ongxBVXt2EQCRWQgmvx_3ggkX.m4a",
+      "pfad": "/v1/episode/69d0a0727f4cf1e94dc8dc795efb7fb1ca346c34.json",
+      "titel": "弄虚作假的艺术：电影美术——造假 造景 造梦",
+      "veroeffentlicht": "2026-02-04T15:24:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影美术与平面道具设计的幕后工作。"
+    },
+    {
+      "guid": "69687150ef1cf272a7783337",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/69687150ef1cf272a7783337/media.xyzcdn.net/662676183857d2ae997ee7fc/lsNWyOJir-Lxd2ejEdsJaYeqJuYi.m4a",
+      "pfad": "/v1/episode/055ed4143759f4204f1eea10c2c7f00ba55ba9fc.json",
+      "titel": "被科学驱逐，被艺术加冕，黑色如何颠覆人类审美史？",
+      "veroeffentlicht": "2026-01-15T04:52:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探索黑色如何从被科学放逐的非色彩演变为艺术与时尚的经典。"
+    },
+    {
+      "guid": "6954a25d2db086f897f6bda3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/662676183857d2ae997ee7fc/6954a25d2db086f897f6bda3/media.xyzcdn.net/662676183857d2ae997ee7fc/lrYhYFUsvWrv33fvZLimi2mryF7A.m4a",
+      "pfad": "/v1/episode/6fc262b4bb9640725a4ca7f75f88ef8f1c51966f.json",
+      "titel": "2025，你有去过电影院吗？100分钟盘点我们的年度片单",
+      "veroeffentlicht": "2025-12-31T04:24:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2025年度国内院线电影盘点与探讨"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "大话说电影 Movies N Chats",
   "apple_collection_id": "1275975580",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19722559",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/19722559-the-dog-stars.mp3",
+      "pfad": "/v1/episode/652fd1395a0c43b279983ffa4b1a133107e48807.json",
+      "titel": "末世行者 老雷导演老卖年糕给粉丝还能卖多久 The Dog Stars",
+      "veroeffentlicht": "2026-08-30T08:00:00+10:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《末世行者》的剧情与主题"
+    },
     {
       "guid": "Buzzsprout-19678554",
       "audio_url": "https://www.buzzsprout.com/122075/episodes/19678554-all-wishes-come-true.mp3",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "国产动画《八仙》虽跳出孙悟空舒适区，但剧情与角色塑造令人失望。"
+    },
+    {
+      "guid": "Buzzsprout-19602060",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/19602060-spider-man-brand-new-day.mp3",
+      "pfad": "/v1/episode/0ee51180593045c2290f1ddd2982d85d3a3f55de.json",
+      "titel": "新首周票房之王 -- 蜘蛛侠：崭新之日 Spider-Man: Brand New Day",
+      "veroeffentlicht": "2026-08-05T15:00:00+10:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论索尼与漫威合作的新片《蜘蛛侠：崭新之日》。"
+    },
+    {
+      "guid": "Buzzsprout-19531022",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/19531022-the-odyssey.mp3",
+      "pfad": "/v1/episode/53d5ce1875ecaef9d56e4aeeba943a4f924589df.json",
+      "titel": "奥德赛 The Odyssey “回不了家的戴蒙”系列 诺兰反战系列新作",
+      "veroeffentlicht": "2026-07-22T16:00:00+10:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨诺兰导演的新作《奥德赛》及影片相关内容"
+    },
+    {
+      "guid": "Buzzsprout-19468270",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/19468270-dear-you.mp3",
+      "pfad": "/v1/episode/03fc27162c6d0167e964289a44f1aeea77b4b613.json",
+      "titel": "小宇宙特供版 给阿嬷的情书 Dear You 如果现实能如此善美能多好！",
+      "veroeffentlicht": "2026-07-09T16:00:00+10:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨华语家庭剧情片《给阿嬷的情书》的剧情与幕后。"
+    },
+    {
+      "guid": "Buzzsprout-19462550",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/19462550-dear-you.mp3",
+      "pfad": "/v1/episode/8308102262777bd3cbcb206b6ba55112ea423537.json",
+      "titel": "给阿嬷的情书 Dear You 如果现实能如此善美能多好！",
+      "veroeffentlicht": "2026-07-08T16:00:00+10:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨华语电影《给阿嬷的情书》的剧情与幕后制作。"
+    },
+    {
+      "guid": "Buzzsprout-19347835",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/19347835-disclosure-day.mp3",
+      "pfad": "/v1/episode/46618abd4b208a173eb2234b49023bc648cc9761.json",
+      "titel": "斯皮尔伯格的揭秘日 揭秘和外星人本不是重点 Disclosure Day",
+      "veroeffentlicht": "2026-06-15T21:00:00+10:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊史蒂文·斯皮尔伯格导演的新片《揭秘日》。"
+    },
+    {
+      "guid": "Buzzsprout-19081246",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/19081246-michael.mp3",
+      "pfad": "/v1/episode/28e4432bfa734d9ef67938097fe5d0d8dce15235.json",
+      "titel": "最难拍的明星人物传，迈克尔·杰克逊：巨星之路 Michael",
+      "veroeffentlicht": "2026-04-27T15:00:00+10:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨迈克尔·杰克逊传记电影《迈克尔：巨星之路》"
+    },
+    {
+      "guid": "Buzzsprout-18916238",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/18916238-project-hail-mary.mp3",
+      "pfad": "/v1/episode/9d661318afac8d7a0aa01489d5ff6f6454d5f06f.json",
+      "titel": "挽救计划 (这个名字差到无法拯救）以及春节档其他几部电影  Project Hail Mary",
+      "veroeffentlicht": "2026-03-27T16:00:00+11:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论电影《挽救计划》及春节档部分影片"
+    },
+    {
+      "guid": "Buzzsprout-18715950",
+      "audio_url": "https://www.buzzsprout.com/122075/episodes/18715950-.mp3",
+      "pfad": "/v1/episode/73ada01c14f5d96dd02ec339eb7ef705ec74517c.json",
+      "titel": "惊蛰无声 能拯救这国安部写的剧本还得是国师张艺谋",
+      "veroeffentlicht": "2026-02-20T15:00:00+11:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨张艺谋执导的电影《惊蛰无声》及剧情。"
     }
   ]
 }

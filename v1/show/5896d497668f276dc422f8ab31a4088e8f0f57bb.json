@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "BOXBOX｜F1全女子赛车播客",
   "apple_collection_id": "1884241044",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa7f00d129fe965d3326dc7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6aa7f00d129fe965d3326dc7/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/lkmqdKcJIMlxs1lzKQN83N2C7tUO.m4a",
+      "pfad": "/v1/episode/3253ea1260c5be2c02a9612720ec455cbf8e0762.json",
+      "titel": "【F1赛事复盘】EP12：荷兰｜无聊的比赛，遗憾的告别",
+      "veroeffentlicht": "2026-09-14T13:06:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "荷兰大奖赛赛事复盘与车队表现分析"
+    },
     {
       "guid": "6a8a7e40ef65145dfcc3da59",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a8a7e40ef65145dfcc3da59/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/liRlQslRbjh3j58pWpMyUDtyeR7s.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "分享银石大奖赛观赛体验：交通、车手看台与签名攻略。"
+    },
+    {
+      "guid": "6a78ccea000a55a9bb055ec4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a78ccea000a55a9bb055ec4/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/lv9Yg2Th8ZcZB9vXC6iFeXluP3Au.m4a",
+      "pfad": "/v1/episode/fedcda07c882ca914755e1ea8e6aac3d58bec179.json",
+      "titel": "【与F1同行】EP16 ：2026年车手游戏卡｜发车格卫士和阳光洲际，谁是你的pick？",
+      "veroeffentlicht": "2026-08-09T20:08:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年F1车手游戏卡开箱与款式介绍"
+    },
+    {
+      "guid": "6a72e47e1b5e24969ce947ec",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a72e47e1b5e24969ce947ec/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/ll70t51Qcsi5XJPZE3IAvPvJ8OdB.m4a",
+      "pfad": "/v1/episode/8ed5d6473c308c9dd0315eec87824cd80bb676e6.json",
+      "titel": "【与F1同行】EP15：内斗特辑｜在通往冠军的独木桥上站着我和你",
+      "veroeffentlicht": "2026-08-05T07:27:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "盘点F1历史上各大车队的队友内斗与高能名场面"
+    },
+    {
+      "guid": "6a67cb7fb581962ce2bc68f7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a67cb7fb581962ce2bc68f7/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/lnG7utl6laDW_k4Jv2np6j7IBHSM.m4a",
+      "pfad": "/v1/episode/5e3d330766e26b3ddb1e40f53f4ae390a0a45214.json",
+      "titel": "【F1赛事复盘】EP11：匈牙利｜到底是屎味的巧克力还是巧克力味的屎？",
+      "veroeffentlicht": "2026-07-27T23:09:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾匈牙利大奖赛，盘点本站赛事概况与正赛排名。"
+    },
+    {
+      "guid": "6a61acf3a3fec224d5a2086e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a61acf3a3fec224d5a2086e/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/lhT3oCxZSCgO4jzhf97ulX1cFCXV.m4a",
+      "pfad": "/v1/episode/188ee8bffceafb4a8712400b96c7e07a62286d66.json",
+      "titel": "【F1赛事复盘】EP10：比利时｜啊W17大人～OhMyGod你吓到我啦",
+      "veroeffentlicht": "2026-07-23T06:20:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "【F1赛事复盘】比利时大奖赛赛况全回顾"
+    },
+    {
+      "guid": "6a5c283aa3fec224d59fb820",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a5c283aa3fec224d59fb820/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/loe65YFRbq8Hz4WGPlY5xuMAQrht.m4a",
+      "pfad": "/v1/episode/4bbb0e7dca2eeabf770e10335588f0f7b98b4e22.json",
+      "titel": "【F1赛事复盘】EP09：英国｜Ka～Tui！",
+      "veroeffentlicht": "2026-07-19T01:32:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "【F1赛事复盘】EP09：英国｜Ka～Tui！"
+    },
+    {
+      "guid": "6a5153531e32575f5eb484b1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a5153531e32575f5eb484b1/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/ltC_EIxQiEQ6elubIhkqiL-zr7L9.m4a",
+      "pfad": "/v1/episode/5bd0c987fcab78e28c679200e0cf56ecefd26156.json",
+      "titel": "【与F1同行】EP14：围场嬷嬷大会来啦！",
+      "veroeffentlicht": "2026-07-11T00:02:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "围场嬷嬷大会来啦"
+    },
+    {
+      "guid": "6a496bef3fb7233cbf43c45f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a496bef3fb7233cbf43c45f/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/lo11WxDEgDLmw4wQdzw9510cibpo.m4a",
+      "pfad": "/v1/episode/811a6dae2bbfb2173997bbedbd259c871cb0738a.json",
+      "titel": "【F1赛事复盘】EP08：奥地利｜谁才是真正的火星车",
+      "veroeffentlicht": "2026-07-04T20:31:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "F1奥地利站赛事复盘与回顾"
+    },
+    {
+      "guid": "6a35268a43a22a695586577f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69aa6a3b91ae50df6bd520e9/6a35268a43a22a695586577f/media.xyzcdn.net/69aa6a3b91ae50df6bd520e9/lhp0dcTe8ILzWp-cbi0eaQtc9Ubc.m4a",
+      "pfad": "/v1/episode/e2d0486c0f75247a5a0834d28386718ab90e09ec.json",
+      "titel": "【与F1同行】EP13：特派回访｜我的巴塞罗那夏天",
+      "veroeffentlicht": "2026-06-19T11:27:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "巴塞罗那F1现场观赛体验分享"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "探秘 | 美食与世界",
   "apple_collection_id": "1536883261",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_787190348",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探寻上海咖啡文化的发展渊源及其与作家张爱玲的深厚渊源。"
+    },
+    {
+      "guid": "xmly_track_786834156",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasLPsYEACAAAANFmria.mp3.m4a?channel=rss&album_id=38114716&track_id=786834156&uid=171093641&jt=https://aod.cos.tx.xmcdn.com/storages/d49e-audiofreehighqps/D3/04/GKwRIasLPsYEACAAAANFmria.mp3",
+      "pfad": "/v1/episode/1475076e2f8b70b3c1c0563231d613bc39a0836d.json",
+      "titel": "番外：本帮菜&淮扬菜——选自《上海滩纪事》之 “细说海派文化 53”",
+      "veroeffentlicht": "2024-12-23T06:35:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨海派文化中的闽菜变迁与上海本帮名菜"
+    },
+    {
+      "guid": "xmly_track_785059267",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJELNvXaACAAAANCJTC2.mp3.m4a?channel=rss&album_id=38114716&track_id=785059267&uid=171093641&jt=https://aod.cos.tx.xmcdn.com/storages/9827-audiofreehighqps/F9/86/GKwRIJELNvXaACAAAANCJTC2.mp3",
+      "pfad": "/v1/episode/0e1303a5672185b1df02471711472f486eeece08.json",
+      "titel": "番外：本帮菜&淮扬菜——选自《上海滩纪事》之 “细说海派文化 51”",
+      "veroeffentlicht": "2024-12-17T08:18:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨海派文化中的蟹肉菜肴与徽菜在上海的发展历程。"
+    },
+    {
+      "guid": "xmly_track_780568251",
+      "audio_url": "https://jt.ximalaya.com//GAqh1QQLJFrUACAAAAM5_0Ah.mp3.m4a?channel=rss&album_id=38114716&track_id=780568251&uid=171093641&jt=https://aod.cos.tx.xmcdn.com/storages/ae1f-audiofreehighqps/A2/CE/GAqh1QQLJFrUACAAAAM5_0Ah.mp3",
+      "pfad": "/v1/episode/fcac8dc28bf658c6a74cb165db8d1fd828e30b64.json",
+      "titel": "番外：本帮菜&淮扬菜——选自《上海滩纪事》之 “细说海派文化 48”",
+      "veroeffentlicht": "2024-12-04T09:38:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "明代科学家徐光启与番薯在中国普及的故事"
+    },
+    {
+      "guid": "xmly_track_779016517",
+      "audio_url": "https://jt.ximalaya.com//GAqhQ6cLHdHbACAAAAM3NqR9.mp3.m4a?channel=rss&album_id=38114716&track_id=779016517&uid=171093641&jt=https://aod.cos.tx.xmcdn.com/storages/4610-audiofreehighqps/3A/EA/GAqhQ6cLHdHbACAAAAM3NqR9.mp3",
+      "pfad": "/v1/episode/b7ff5b19be9854eb1f34ac0420cd6b99e2487f3f.json",
+      "titel": "番外：本帮菜&淮扬菜——选自《上海滩纪事》之“细说海派文化 46”",
+      "veroeffentlicht": "2024-11-28T06:45:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探索上海人喜爱的特色美食与时令美味。"
     }
   ]
 }

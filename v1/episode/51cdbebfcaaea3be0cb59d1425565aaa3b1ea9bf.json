@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "6a5a430e6356eb2d9be446e7",
+  "apple_collection_id": "1815851421",
+  "show": "同SC倾下偈 - 粤语播客",
+  "titel": "道理都懂，就是做不到，点算？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67d22a9d1f5057565d84d22f/6a5a430e6356eb2d9be446e7/media.xyzcdn.net/67d22a9d1f5057565d84d22f/ltxslwcseW_Q5SHjXxOpP98MyKbC.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T14:55:14+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨为什么懂很多道理却依然做不到",
+  "kurzfassung": "明知熬夜不好却依然刷手机到深夜，明知运动有益却迈不出门，这种现象背后究竟隔着什么。这并非单纯是不自律的问题。节目请来嘉宾共同拆解这一困境。",
+  "stichpunkte": [
+    "为什么懂道理却做不到",
+    "熬夜与舍不得私人时间的心理机制",
+    "面对运动有益却无法行动的原因",
+    "做事无法专注总看手机的问题"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:55:14+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1048,
+  "veroeffentlicht": "2026-07-26T01:00:00+00:00",
+  "beschreibung": "明知熬夜不好却还是舍不得下班后的私人时间刷手机到深夜，明知运动有益却迈不出门，明知做事要专注却忍不住总看手机，这中间到底隔着什么？是不是就是不自律？“道理都懂，就是做不到”——这期请前辈拆解拆解。\n\n粤语转译文本：https://www.kdocs.cn/l/cu7byMCqwZVq\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>明知熬夜不好却还是舍不得下班后的私人时间刷手机到深夜，明知运动有益却迈不出门，明知做事要专注却忍不住总看手机，这中间到底隔着什么？是不是就是不自律？“道理都懂，就是做不到”——这期请前辈拆解拆解。</p><p></p><p>粤语转译文本：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.kdocs.cn/l/cu7byMCqwZVq\">https://www.kdocs.cn/l/cu7byMCqwZVq</a></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a5a430e6356eb2d9be446e7?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FrvR_zQJYKYVauhnk-OiObf3aDtC.png"
+}

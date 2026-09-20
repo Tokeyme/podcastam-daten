@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "半岛码头",
   "apple_collection_id": "1717763505",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1015915202",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEOgR9EAR8ETgTYqYKB.m4a?channel=rss&album_id=79047268&track_id=1015915202&uid=51211899&jt=https://aod.cos.tx.xmcdn.com/storages/c4a6-audiofreehighqps/38/F1/GKwRIJEOgR9EAR8ETgTYqYKB.m4a",
+      "pfad": "/v1/episode/616dc3e75bd63e7a1bd2a6143e8ddec8c6cdf801.json",
+      "titel": "vol.151 厂区屋顶掠过的索命黑影，十六年真凶的追逐与转折〡冷水江天台杀人案",
+      "veroeffentlicht": "2026-09-17T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "冷水江天台杀人案：十六年间的真凶追逐与案件转折"
+    },
     {
       "guid": "xmly_track_1007393270",
       "audio_url": "https://jt.ximalaya.com//GKwRIJEOXB4DASzryQTJWIO0.m4a?channel=rss&album_id=79047268&track_id=1007393270&uid=51211899&jt=https://aod.cos.tx.xmcdn.com/storages/1cbd-audiofreehighqps/8C/94/GKwRIJEOXB4DASzryQTJWIO0.m4a",
@@ -13,6 +23,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "1993年俄罗斯哈马尔达班山难，七人徒步小队六人离奇死亡，仅一人幸存。"
+    },
+    {
+      "guid": "xmly_track_1004884902",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEOSbUMASbaLgTCp8Km.m4a?channel=rss&album_id=79047268&track_id=1004884902&uid=51211899&jt=https://aod.cos.tx.xmcdn.com/storages/85ba-audiofreehighqps/FD/A3/GKwRIJEOSbUMASbaLgTCp8Km.m4a",
+      "pfad": "/v1/episode/dbdc8525c7e18731c291ddcc0729bbd6ec19e3bd.json",
+      "titel": "vol.145 1996南京深夜的结界，临时下车后的诡异消失丨郑氏父子二人失踪案",
+      "veroeffentlicht": "2026-08-06T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "1996年南京深夜，一对父子下车后诡异失踪。"
+    },
+    {
+      "guid": "xmly_track_1002414607",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJION0W1ARkdSQS7lF9N.m4a?channel=rss&album_id=79047268&track_id=1002414607&uid=51211899&jt=https://aod.cos.tx.xmcdn.com/storages/3916-audiofreehighqps/3B/5F/GKwRIJION0W1ARkdSQS7lF9N.m4a",
+      "pfad": "/v1/episode/bccc26e77a75b7c9fd5bb64d4f3f7d899776a560.json",
+      "titel": "vol.143 都以为家里闹鬼，没想到是墙里藏着一个人丨丹尼尔拉普兰特案",
+      "veroeffentlicht": "2026-07-23T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "丹尼尔·拉普兰特案：以为闹鬼实则墙里藏人"
     }
   ]
 }

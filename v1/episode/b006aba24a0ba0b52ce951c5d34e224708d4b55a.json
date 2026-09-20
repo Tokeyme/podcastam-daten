@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2021/12/06/2910991211771835398_hd.mp3",
+  "apple_collection_id": "1573666385",
+  "show": "友的聊播客",
+  "titel": "第609期 路上有花 / 保持一点距离",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2021/12/06/2910991211771835398_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T14:52:44+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨动物世界的奇妙与鸟类相关话题",
+  "kurzfassung": "本期节目邀请科普从业者和自然摄影师徐可意，与主播们一起闲聊动物世界的神奇。聊天内容涉及各种有趣的动物以及对鸟类的了解和喜好。整体氛围轻松，是一次关于自然与动物的交流。",
+  "stichpunkte": [
+    "分享平时逛动物园和大自然接触动物的经历",
+    "科普从业者与自然摄影师徐可意作为嘉宾参与",
+    "讨论拍摄过的各种有趣动物",
+    "八尾分享了对鸟类的了解和喜好"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:52:44+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4707,
+  "veroeffentlicht": "2021-12-06T12:24:42+08:00",
+  "beschreibung": "平时就喜欢时不时逛逛动物园，也有过几次去大自然接触动物的机会，虽然不甚了解，但还是会被动物世界的神奇所深深吸引；前段时间，相约科普从业者、自然摄影师@徐可意Shirky 一起闲聊，原本是想聊聊各种她拍过的一些有趣的动物，不过聊得太开心以至于完全没有在意是不是跑题… 八尾也主动分享了她对于鸟类的了解和喜好，甚是难得。\n\n本期主播： @八尾EMMA\n\n@DioXDio\n\n嘉宾：@徐可意Shirky",
+  "beschreibung_html": "<myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>平时就喜欢时不时逛逛动物园，也有过几次去大自然接触动物的机会，虽然不甚了解，但还是会被动物世界的神奇所深深吸引；前段时间，相约科普从业者、自然摄影师@徐可意Shirky 一起闲聊，原本是想聊聊各种她拍过的一些有趣的动物，不过聊得太开心以至于完全没有在意是不是跑题… 八尾也主动分享了她对于鸟类的了解和喜好，甚是难得。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>本期主播： @八尾EMMA&nbsp;</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@DioXDio&nbsp;</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;嘉宾：@徐可意Shirky&nbsp;</p>\n</myfont>",
+  "untertitel": "第609期 路上有花 / 保持一点距离",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2021/12/06/2910991213919319559_80x80.jpg"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "无聊斋",
   "apple_collection_id": "1433530822",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6aa3c286492687f6aad863b2",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "演员朱美吉分享从喜剧走向影视的演艺心路历程与挑战。"
+    },
+    {
+      "guid": "6a9d446af03e74ee6b05e569",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a9d446af03e74ee6b05e569/media.xyzcdn.net/5e280fac418a84a0461fb129/ltY9LW49kwsqR0DMzDtpGSwWPCKc.m4a",
+      "pfad": "/v1/episode/f22aab35d0c06ea651988ca24aaa4acc685a311f.json",
+      "titel": "vol.605 这次“有聊斋”了！｜趣聊名著之《聊斋》",
+      "veroeffentlicht": "2026-09-06T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《聊斋》中的新奇设定与暗藏表达"
+    },
+    {
+      "guid": "6a93eaf1a0210c197dca71c0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a93eaf1a0210c197dca71c0/media.xyzcdn.net/5e280fac418a84a0461fb129/loCU99jAhujzfLY2_DjNzJwcSTbM.m4a",
+      "pfad": "/v1/episode/021e1b44a4883d209f2d09389501df98f32e472b.json",
+      "titel": "vol.604 见面聊聊｜我喝酒后：表白、跨栏、背出师表、做狗饭，真是样样通！",
+      "veroeffentlicht": "2026-08-30T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "主播们聚在一起聊聊喝酒时的趣事以及各自推荐好喝的酒。"
+    },
+    {
+      "guid": "6a8abb87ef65145dfcc3f151",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a8abb87ef65145dfcc3f151/media.xyzcdn.net/5e280fac418a84a0461fb129/lvCJgiASO8MubEcR3tehKHN2HBmF.m4a",
+      "pfad": "/v1/episode/c0059eab1e8cbfe1a00910dece2b82e7e5ea4b95.json",
+      "titel": "vol.603 历史学者“转行”农民种菜？天宽地阔，没有多少必须要做的事 feat.段志强",
+      "veroeffentlicht": "2026-08-23T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "历史学者段志强分享在崇明种菜的经历与古人种菜的故事"
+    },
+    {
+      "guid": "6a8011a017676351c57239b8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a8011a017676351c57239b8/media.xyzcdn.net/5e280fac418a84a0461fb129/luxXu0jsehPR8l4SERIveXMzbAxI.m4a",
+      "pfad": "/v1/episode/38fd8b5929638f81efeac5e56fbb5b6b8f776617.json",
+      "titel": "vol.602 贤鱼：从线下唱到线上的“时光时光慢些吧”，听懂 掌声！",
+      "veroeffentlicht": "2026-08-16T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话《喜剧之王单口季》嘉宾贤鱼聊聊单口喜剧之路"
+    },
+    {
+      "guid": "6a7aff7a36641f136d869b4f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a7aff7a36641f136d869b4f/media.xyzcdn.net/5e280fac418a84a0461fb129/ljU_WOFYXVzik-Tz1AEcpYgRYWpC.m4a",
+      "pfad": "/v1/episode/2a511e766cb4ee8eae590f7b805fd3f1fe0d1e83.json",
+      "titel": "vol.601 《年会2》：职场只有我们不敢写的，没有不敢发生的 feat.董润年 应萝佳 张若昀",
+      "veroeffentlicht": "2026-08-11T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话《年会不能停！2》主创董润年、应萝佳、张若昀"
+    },
+    {
+      "guid": "6a78715ac4079d62c57fb307",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a78715ac4079d62c57fb307/media.xyzcdn.net/5e280fac418a84a0461fb129/lj3YxX9w73Q1jjnhmCr-Ej_t_wJS.m4a",
+      "pfad": "/v1/episode/ffa684e38d27793d375dedd4313a5fdc8c9f1947.json",
+      "titel": "vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！",
+      "veroeffentlicht": "2026-08-09T16:02:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨深耕线下喜剧多年的经历与趣事"
+    },
+    {
+      "guid": "6a72f2451b5e24969ce9530a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a72f2451b5e24969ce9530a/media.xyzcdn.net/5e280fac418a84a0461fb129/lgJV3yULzjZBEU9Ab6BtYAnmWofF.m4a",
+      "pfad": "/v1/episode/2eb7c80e97c7ba2fb7491626a458abb03286b50a.json",
+      "titel": "vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》",
+      "veroeffentlicht": "2026-08-05T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨文学名著《红楼梦》的不同角度解读与人物分析"
+    },
+    {
+      "guid": "6a6f1da5ab3a91c24a0e83ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a6f1da5ab3a91c24a0e83ca/media.xyzcdn.net/5e280fac418a84a0461fb129/liFxKVfPvNWHLdK2-_bptNB_mRcj.m4a",
+      "pfad": "/v1/episode/19cc0484e8e3cbdac2d21afd1e498b65d5dc31e3.json",
+      "titel": "vol.598 聊喜剧｜关于喜剧播客、线下演员、段子“套路”、表演风格、入行建议",
+      "veroeffentlicht": "2026-08-02T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨喜剧播客、线下演员心态、创作套路与行业现状。"
+    },
+    {
+      "guid": "6a659e146356eb2d9be87c49",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6a659e146356eb2d9be87c49/media.xyzcdn.net/5e280fac418a84a0461fb129/loclCv55hUM6x9S9ZAo8bMBK0KLy.m4a",
+      "pfad": "/v1/episode/9630c59018a3251f28e1261a4e216cce54861363.json",
+      "titel": "vol.597 真·生活小工具达人：幸福感up up神器清单｜老友闲谈",
+      "veroeffentlicht": "2026-07-26T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "几位主播分享各自的爱用生活小工具与好物清单。"
     }
   ]
 }

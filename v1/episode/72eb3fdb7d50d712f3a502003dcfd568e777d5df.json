@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "6a9fd94cf03e74ee6b071080",
+  "apple_collection_id": "1813599424",
+  "show": "PivotCast｜转点播客",
+  "titel": "【今天市场怎么了】20260908：布伦特原油大涨至99美元/桶，A股农业板块走强",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6a9fd94cf03e74ee6b071080/media.xyzcdn.net/67ffc937497fe940d4248c97/FmyimR-hVCwdkVU9JURmT7bXJoIO.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:30:08+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "解读布伦特原油大涨与A股农业板块走势。",
+  "kurzfassung": "本期节目回顾了全球金融市场的最新动态。内容涵盖美股假期休市情况、A股主要指数的分化表现，以及比特币近期价格波动。节目对各大市场的走势进行了客观梳理。",
+  "stichpunkte": [
+    "全球金融市场最新概览",
+    "美股市场假期休市情况",
+    "A股主要指数涨跌表现",
+    "比特币近期价格变动"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:30:08+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 157,
+  "veroeffentlicht": "2026-09-08T09:46:49+00:00",
+  "beschreibung": "00:09 最新全球金融市场概览\n00:19 美股市场分析：9月第一个星期一，美股休市。\n01:10 A股市场分析：今天，A股主要指数涨跌不一，上证指数微涨0.20%，深证成指下跌0.52%，创业板指下跌1.15%，科创50下跌1.52%。\n02:06 BTC市场分析：过去24小时，比特币下跌约1.4%，截至下午5点约78400美元。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><a class=\"timestamp\">00:09</a> 最新全球金融市场概览<br><a class=\"timestamp\">00:19</a> 美股市场分析：9月第一个星期一，美股休市。<br><a class=\"timestamp\">01:10</a> A股市场分析：今天，A股主要指数涨跌不一，上证指数微涨0.20%，深证成指下跌0.52%，创业板指下跌1.15%，科创50下跌1.52%。<br><a class=\"timestamp\">02:06</a> BTC市场分析：过去24小时，比特币下跌约1.4%，截至下午5点约78400美元。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a9fd94cf03e74ee6b071080?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FvgewXMt8B_OCUNOcdyF5rGux5vy.png"
+}

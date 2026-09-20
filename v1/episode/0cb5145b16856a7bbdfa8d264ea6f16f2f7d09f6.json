@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "6aa0ae44a0210c197dcfbfe4",
+  "apple_collection_id": "1762342286",
+  "show": "大明叔叔｜儿童商业启蒙",
+  "titel": "Vol.369 华为纯血鸿蒙——告别安卓，一个国产系统的“独立日”",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/66a5def933ddcbb53c94025a/6aa0ae44a0210c197dcfbfe4/media.xyzcdn.net/66a5def933ddcbb53c94025a/ljxQ1ks0CrNluYbg3_wuA55z0xAs.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:17:22+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "华为发布纯血鸿蒙HarmonyOS 7，彻底告别安卓",
+  "kurzfassung": "华为正式发布不再兼容安卓应用的纯血鸿蒙操作系统HarmonyOS 7。该系统基于1.1亿行全自研代码，从底层内核到上层框架实现全栈自研。节目探讨了华为告别安卓的技术背景、战略考量以及系统升级后面临的实际问题。",
+  "stichpunkte": [
+    "华为发布HarmonyOS 7，采用100%全栈自研的纯血鸿蒙架构",
+    "彻底移除安卓AOSP兼容层，不再支持安卓APK格式应用",
+    "系统基于1.1亿行全自研代码，从底层内核到上层应用全部自主编写",
+    "性能提升15%，256G手机可节省最多22GB存储空间",
+    "引入智能体亲和系统架构，能够主动猜测用户意图",
+    "鸿蒙终端设备已突破8500万台，原生应用超过10万个"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:17:22+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 442,
+  "veroeffentlicht": "2026-09-09T00:55:17+00:00",
+  "beschreibung": "📌 本期简介\n2026年9月7日，华为正式发布HarmonyOS 7。它有一个更响亮的名字——“纯血鸿蒙”。\n“纯血”的意思，就是彻底告别安卓。HarmonyOS 7不再兼容安卓应用，只运行鸿蒙原生应用。系统基于1.1亿行全自研代码，从底层内核到上层应用框架，全部是华为自己写的。\n一个“说两种语言”的系统，为什么要变成“只说一种语言”？告别安卓之后，鸿蒙变成了什么样？用户升级后会遇到什么问题？本期节目，大明叔叔带你拆一拆华为“纯血鸿蒙”背后的技术、战略与勇气。\n🎯 本期亮点\n2026年9月7日，华为正式发布HarmonyOS 7——中国首个100%全栈自研的“纯血”手机操作系统\n彻底移除安卓AOSP兼容层，不再支持安卓APK格式应用\n1.1亿行全自研代码，从底层内核到上层应用全部自己写\n性能提升15%，256G手机最多可省出22GB存储空间\n“智能体亲和系统架构”——手机不再等你操作，开始主动猜测你的意图\n鸿蒙终端设备已突破8500万台，原生应用超10万个\n“兼容层”对用户是方便，对系统却是包袱——性能、功耗、安全都受制于人\n🧒 适合谁听\n对“华为手机为什么跟安卓不一样了”感到好奇的孩子\n想理解“操作系统”和“兼容”是什么意思的孩子\n想听一个“国产系统如何独立”故事的孩子\n💬 听完可以和孩子聊什么\n为什么华为非要“告别安卓”？兼容安卓不是更方便吗？\n“说两种语言”和“只说一种语言”，哪个更快？为什么？\n如果你换了一个新系统，很多App暂时用不了——你愿意等一等，还是干脆换回旧系统？\n“独立”这件事，你觉得值得付出“不方便”的代价吗？\n📌 关于节目\n这是一档儿童商业财商启蒙的播客栏目，培养孩子的财商和学习思考能力，让孩子的成长时光更有趣、更充实。\n主播大明叔叔，毕业于华中科技大学，前阿里巴巴产品专家，有9年的儿童教育产品经验，打造的产品服务过数千万的小朋友。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><strong>📌 本期简介</strong></p><p>2026年9月7日，华为正式发布HarmonyOS 7。它有一个更响亮的名字——<strong>“纯血鸿蒙”</strong>。</p><p>“纯血”的意思，就是<strong>彻底告别安卓</strong>。HarmonyOS 7不再兼容安卓应用，只运行鸿蒙原生应用。系统基于1.1亿行全自研代码，从底层内核到上层应用框架，全部是华为自己写的。</p><p>一个“说两种语言”的系统，为什么要变成“只说一种语言”？告别安卓之后，鸿蒙变成了什么样？用户升级后会遇到什么问题？本期节目，大明叔叔带你拆一拆华为“纯血鸿蒙”背后的技术、战略与勇气。</p><p><strong>🎯 本期亮点</strong></p><p>2026年9月7日，华为正式发布HarmonyOS 7——中国首个100%全栈自研的“纯血”手机操作系统</p><p>彻底移除安卓AOSP兼容层，不再支持安卓APK格式应用</p><p>1.1亿行全自研代码，从底层内核到上层应用全部自己写</p><p>性能提升15%，256G手机最多可省出22GB存储空间</p><p>“智能体亲和系统架构”——手机不再等你操作，开始主动猜测你的意图</p><p>鸿蒙终端设备已突破8500万台，原生应用超10万个</p><p>“兼容层”对用户是方便，对系统却是包袱——性能、功耗、安全都受制于人</p><p><strong>🧒 适合谁听</strong></p><p>对“华为手机为什么跟安卓不一样了”感到好奇的孩子</p><p>想理解“操作系统”和“兼容”是什么意思的孩子</p><p>想听一个“国产系统如何独立”故事的孩子</p><p><strong>💬 听完可以和孩子聊什么</strong></p><p>为什么华为非要“告别安卓”？兼容安卓不是更方便吗？</p><p>“说两种语言”和“只说一种语言”，哪个更快？为什么？</p><p>如果你换了一个新系统，很多App暂时用不了——你愿意等一等，还是干脆换回旧系统？</p><p>“独立”这件事，你觉得值得付出“不方便”的代价吗？</p><p><strong>📌 关于节目</strong></p><p>这是一档儿童商业财商启蒙的播客栏目，培养孩子的财商和学习思考能力，让孩子的成长时光更有趣、更充实。</p><p>主播大明叔叔，毕业于华中科技大学，前阿里巴巴产品专家，有9年的儿童教育产品经验，打造的产品服务过数千万的小朋友。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa0ae44a0210c197dcfbfe4?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fvz3oQKrD4ORrmBzv6HNcNoZO8Gs.png"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "体育科技快讯",
   "apple_collection_id": "1868205200",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1002972574",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "环法上线AI数字观赛功能，如何用个性化解说讲懂复杂的自行车赛？"
+    },
+    {
+      "guid": "xmly_track_1002931076",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoOO0unAE1wNwS9LrKr.m4a?channel=rss&album_id=114911417&track_id=1002931076&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/d542-audiofreehighqps/5F/9C/GKwRIDoOO0unAE1wNwS9LrKr.m4a",
+      "pfad": "/v1/episode/ee3d891326729a0942d4bd8cd40b31e24eaab9c8.json",
+      "titel": "Vol.019 | 女篮世界杯启用球员追踪：速度、弹跳和负荷怎么测？",
+      "veroeffentlicht": "2026-07-26T04:09:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "女篮世界杯启用球员追踪技术，解析其采集指标、路线与边界。"
+    },
+    {
+      "guid": "xmly_track_1001383708",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOL4yCAFkQ9wS4MMB2.m4a?channel=rss&album_id=114911417&track_id=1001383708&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/d42d-audiofreehighqps/00/D9/GKwRIUEOL4yCAFkQ9wS4MMB2.m4a",
+      "pfad": "/v1/episode/ecd4bc0cb69bff2ab3ba1212d480b9d89ef0a9c2.json",
+      "titel": "Vol.018 |世界杯决赛前：一颗会传数据的球，以及1,248名球员的数字分身",
+      "veroeffentlicht": "2026-07-17T06:19:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "世界杯背后的数字技术：智能足球与球员数字分身"
+    },
+    {
+      "guid": "xmly_track_958365639",
+      "audio_url": "https://jt.ximalaya.com//GAqhfZkNcOLfACAAAARuk8c4.mp3.m4a?channel=rss&album_id=114911417&track_id=958365639&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/5e05-audiofreehighqps/F9/F6/GAqhfZkNcOLfACAAAARuk8c4.mp3",
+      "pfad": "/v1/episode/bddf1731b8e883286af533d4e5069c69cd1aca90.json",
+      "titel": "Vol.017 | 春晚武术仅是热身？宇树机器人 -47℃ “极寒盲绘”地狱级工程",
+      "veroeffentlicht": "2026-02-22T23:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "宇树机器人-47℃极寒盲绘背后的三大工程挑战"
+    },
+    {
+      "guid": "xmly_track_957267165",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaINZ8EgACAAAARrzAfL.mp3.m4a?channel=rss&album_id=114911417&track_id=957267165&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/88c1-audiofreehighqps/40/F6/GKwRIaINZ8EgACAAAARrzAfL.mp3",
+      "pfad": "/v1/episode/9044aafde65209894b48b88a22a266b37b1ac7e1.json",
+      "titel": "Vol.016 | 春节停更特辑：当冰壶装上“大脑”，雪橇变成“F1”，技术如何重构比赛？",
+      "veroeffentlicht": "2026-02-15T23:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨科技如何重构冰壶、雪橇和花样滑冰等冬季奥运会比赛。"
+    },
+    {
+      "guid": "xmly_track_956683990",
+      "audio_url": "https://jt.ximalaya.com//GAqhI8INY7atACAAAARqaBvt.mp3.m4a?channel=rss&album_id=114911417&track_id=956683990&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/0c32-audiofreehighqps/08/3E/GAqhI8INY7atACAAAARqaBvt.mp3",
+      "pfad": "/v1/episode/86cd281ff60040027da4c514ca5b569569a2b663.json",
+      "titel": "Vol.015 | 米兰冬奥特辑：挪威金牌榜第一、揭秘冰原下的国家级“隐形实验室”",
+      "veroeffentlicht": "2026-02-12T23:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨挪威为何能长期统治冰雪赛场及其国家级科技训练体系。"
+    },
+    {
+      "guid": "xmly_track_956228297",
+      "audio_url": "https://jt.ximalaya.com//GAqh9sANYRj8ACAAAARpQfvZ.mp3.m4a?channel=rss&album_id=114911417&track_id=956228297&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/732f-audiofreehighqps/2B/B3/GAqh9sANYRj8ACAAAARpQfvZ.mp3",
+      "pfad": "/v1/episode/5f3161ec6582df1d9b742277f478856ec0b5a58c.json",
+      "titel": "Vol.014 | 米兰冬奥特辑：谷爱凌银牌0.38 分之差、与身后的“科技狠活”",
+      "veroeffentlicht": "2026-02-10T23:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨米兰冬奥会自由式滑雪背后的硬核科技与极限突破"
+    },
+    {
+      "guid": "xmly_track_955645068",
+      "audio_url": "https://jt.ximalaya.com//GAqhg3wNXgz0ACAAAARn4lqO.mp3.m4a?channel=rss&album_id=114911417&track_id=955645068&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/51e0-audiofreehighqps/97/03/GAqhg3wNXgz0ACAAAARn4lqO.mp3",
+      "pfad": "/v1/episode/668186e8162b707c7220708c6f615c16268c831e.json",
+      "titel": "Vol.013 | 米兰冬奥特辑：看不见的云端转播与被数字模型“复活”的旧场馆",
+      "veroeffentlicht": "2026-02-08T23:31:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "米兰冬奥会的云端转播与老旧场馆技术逻辑"
+    },
+    {
+      "guid": "xmly_track_955043845",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaINWu1iACAAAARmc_BG.mp3.m4a?channel=rss&album_id=114911417&track_id=955043845&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/37aa-audiofreehighqps/6F/35/GKwRIaINWu1iACAAAARmc_BG.mp3",
+      "pfad": "/v1/episode/e807833496f6609ef59de43ff342e46167f6bbdd.json",
+      "titel": "Vol.012 | 米兰冬奥会开幕特辑、以及国货滑雪神器的推荐",
+      "veroeffentlicht": "2026-02-05T23:43:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨米兰冬奥会的AI与云计算技术应用及国产滑雪装备推荐"
+    },
+    {
+      "guid": "xmly_track_954489486",
+      "audio_url": "https://jt.ximalaya.com//GAqh9sANV9KdACAAAARlKZsr.mp3.m4a?channel=rss&album_id=114911417&track_id=954489486&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/c1b6-audiofreehighqps/90/F1/GAqh9sANV9KdACAAAARlKZsr.mp3",
+      "pfad": "/v1/episode/8388c1911c32acff1423ef7b226b4de7add97062.json",
+      "titel": "Vol.011 | 当算法成为“第二教练”，网球还是那项优雅的运动吗 | 深度解析",
+      "veroeffentlicht": "2026-02-03T23:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI如何深度渗透澳网并改变网球运动的发展。"
     }
   ]
 }

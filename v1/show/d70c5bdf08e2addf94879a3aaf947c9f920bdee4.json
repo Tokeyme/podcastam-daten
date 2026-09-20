@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "人生游戏指南",
   "apple_collection_id": "1726886537",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "65ace738852be0e11c8622f6",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "分享2024年第一本书《金钱游戏》，解析新桥资本收购韩国第一银行的经典商战案例。"
+    },
+    {
+      "guid": "642b34a9a79cc814708ab284",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631ed32aacc526aa5579b491/642b34a9a79cc814708ab284/media.xyzcdn.net/ljpRABp2ebDNY3JlJ5hBhMtPRkyf.m4a",
+      "pfad": "/v1/episode/12309db31f91a69f15a66a3a085bc24da4132bea.json",
+      "titel": "04. 人生即遍路，一切皆有时",
+      "veroeffentlicht": "2023-04-03T20:18:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "在肯尼亚海边朗读并分享近期创作的四篇小报童文章。"
+    },
+    {
+      "guid": "63d6970478910ae65c08f5a5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631ed32aacc526aa5579b491/63d6970478910ae65c08f5a5/media.xyzcdn.net/lri-m6UNCWDWZL_qEJuOR3lRp0lr.m4a",
+      "pfad": "/v1/episode/f165b666784a95a72c257867bf49dc0cd29c547c.json",
+      "titel": "03. 我的合伙人Hunter，最会管“坏小孩”的男人？",
+      "veroeffentlicht": "2023-01-29T15:55:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何教育问题少年与父母的真正价值"
+    },
+    {
+      "guid": "63b9b93b92f7bae63bec17ec",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631ed32aacc526aa5579b491/63b9b93b92f7bae63bec17ec/media.xyzcdn.net/llWWmICNvEZ4ecoH04JqEb78wRKF.m4a",
+      "pfad": "/v1/episode/d598ddd6720ba72c7b86db0c0e756dd5590b6f51.json",
+      "titel": "02. 麦肯锡新老人对话，非洲农场实习学到了啥？",
+      "veroeffentlicht": "2023-01-07T18:26:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "麦肯锡新人与老人在肯尼亚农场的对话及职场思考"
+    },
+    {
+      "guid": "6397353aa5a6021fd638732d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631ed32aacc526aa5579b491/6397353aa5a6021fd638732d/media.xyzcdn.net/lsLkBW0v4FQGGxqbF_tDhyUp6SGQ.m4a",
+      "pfad": "/v1/episode/194fe38e97d1bb21197cff4b9243ff9d8d2ad2e5.json",
+      "titel": "01. 2022，进化之年",
+      "veroeffentlicht": "2022-12-12T14:05:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2022年的进化、能量与心态，分享非洲农业创业经历。"
     }
   ]
 }

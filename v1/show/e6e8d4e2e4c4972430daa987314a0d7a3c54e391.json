@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "GKFXPrime|财经热点追踪",
   "apple_collection_id": "1476509855",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/fef8-audiofreehighqps/F5/50/CKwRIJEEjL4pABAAAACz8HlD.mp3",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "分析爆表PCE物价数据与美元走势，展望非农及主要外汇市场动向。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ff8a-audiofreehighqps/A9/61/CKwRIMAEC8dLABAAAACLQXUI.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIMAEC8dLABAAAACLQXUI.mp3.m4a?channel=rss&album_id=24058437&track_id=389000519&uid=153161012&jt=https://aod.cos.tx.xmcdn.com/storages/ff8a-audiofreehighqps/A9/61/CKwRIMAEC8dLABAAAACLQXUI.mp3",
+      "pfad": "/v1/episode/a96ccf86f0b06a98ca6b6bd59673c3ada4d42737.json",
+      "titel": "美国趁着低利率赶紧发债，部分非美货币高歌猛进",
+      "veroeffentlicht": "2021-02-24T07:46:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨近期国内外市场主题变化与大宗商品投资热潮"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8aaf-audiofreehighqps/1F/75/CKwRINsD79l_ABAAAACDSjp1.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRINsD79l_ABAAAACDSjp1.m4a?channel=rss&album_id=24058437&track_id=382108791&uid=153161012&jt=https://aod.cos.tx.xmcdn.com/storages/8aaf-audiofreehighqps/1F/75/CKwRINsD79l_ABAAAACDSjp1.m4a",
+      "pfad": "/v1/episode/702c52c4c8e632171eb4130c432d4f5ca077ce29.json",
+      "titel": "美联储会议表露担忧，美国加拿大非农数据来袭|GKFXPrime",
+      "veroeffentlicht": "2021-02-03T03:20:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美联储会议修改美国经济措辞，德拉基出任意大利总理"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1262-audiofreehighqps/37/7E/CKwRIMAD3Zi-ABAAAAB9uzug.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIMAD3Zi-ABAAAAB9uzug.m4a?channel=rss&album_id=24058437&track_id=376654165&uid=153161012&jt=https://aod.cos.tx.xmcdn.com/storages/1262-audiofreehighqps/37/7E/CKwRIMAD3Zi-ABAAAAB9uzug.m4a",
+      "pfad": "/v1/episode/40f57d0888f2ba52e7909e7f67ac864789b40570.json",
+      "titel": "美元小反弹竟是开会惹的祸，意大利又出幺蛾子？",
+      "veroeffentlicht": "2021-01-20T07:03:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美元近期小幅反弹的原因及未来走势分析"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6a35-audiofreehighqps/1D/B3/CKwRIDoDzIW1ABAAAAB5IwPb.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIDoDzIW1ABAAAAB5IwPb.m4a?channel=rss&album_id=24058437&track_id=372431363&uid=153161012&jt=https://aod.cos.tx.xmcdn.com/storages/6a35-audiofreehighqps/1D/B3/CKwRIDoDzIW1ABAAAAB5IwPb.m4a",
+      "pfad": "/v1/episode/17a15695ce4e4f97336be4ecd3d1e1f8b8110eac.json",
+      "titel": "新年新动态？美联储不这么看",
+      "veroeffentlicht": "2021-01-07T08:14:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美联储官员轮换及埃文斯对利率与经济的讲话"
     }
   ]
 }

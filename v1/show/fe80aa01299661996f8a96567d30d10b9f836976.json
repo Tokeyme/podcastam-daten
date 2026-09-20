@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "不靠谱音乐史｜不分析乐谱 不解析音乐 不让你失望",
   "apple_collection_id": "1578107926",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1005342336",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "走近一代钢琴女王克拉拉·舒曼，了解她作为杰出演奏家与作曲家的一生。"
+    },
+    {
+      "guid": "xmly_track_1001809885",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAOMsEPBIG25wS5oH9l.m4a?channel=rss&album_id=30392792&track_id=1001809885&uid=30934301&jt=https://aod.cos.tx.xmcdn.com/storages/e2f1-audiofreehighqps/53/FD/GKwRIMAOMsEPBIG25wS5oH9l.m4a",
+      "pfad": "/v1/episode/e49b46fb96adf1a163f1a331e7f186b92b411f57.json",
+      "titel": "塞维利亚的理发师ROSSINI， G. Barbiere di Siviglia (Il) (Zurich Opera， 2001)",
+      "veroeffentlicht": "2026-07-19T16:35:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2001年苏黎世歌剧院《塞维利亚的理发师》演出的曲目与演员阵容介绍"
+    },
+    {
+      "guid": "xmly_track_992711890",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OEkP5AT8t0wStDS7f.m4a?channel=rss&album_id=30392792&track_id=992711890&uid=30934301&jt=https://aod.cos.tx.xmcdn.com/storages/9535-audiofreehighqps/DD/30/GKwRIW4OEkP5AT8t0wStDS7f.m4a",
+      "pfad": "/v1/episode/6b67735feacd4718695b5a1637efb0d6fca08952.json",
+      "titel": "维瓦尔第：《四季》 作品8（克莱默）",
+      "veroeffentlicht": "2026-06-25T01:12:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "安东尼奥·维瓦尔第小提琴协奏曲《四季》的作品背景与分曲赏析"
+    },
+    {
+      "guid": "xmly_track_961621729",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMANhBTSAHU2PQR20rCL.m4a?channel=rss&album_id=30392792&track_id=961621729&uid=30934301&jt=https://aod.cos.tx.xmcdn.com/storages/35a6-audiofreehighqps/FB/B3/GKwRIMANhBTSAHU2PQR20rCL.m4a",
+      "pfad": "/v1/episode/1d7090a5593831106cb9805f2eee556012c412b1.json",
+      "titel": "波斯回响：在旋律里，遇见真正的伊朗",
+      "veroeffentlicht": "2026-03-09T04:50:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "在旋律与诗意中，探索真实伊朗的千年文明与音乐世界。"
+    },
+    {
+      "guid": "xmly_track_961044365",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwNgJtlAAwWPAR1a42r.m4a?channel=rss&album_id=30392792&track_id=961044365&uid=30934301&jt=https://aod.cos.tx.xmcdn.com/storages/d1f1-audiofreehighqps/AD/5F/GKwRIRwNgJtlAAwWPAR1a42r.m4a",
+      "pfad": "/v1/episode/b1907bf73dc3c29d9ad7b1f04cc6f304d0131b8c.json",
+      "titel": "La paloma 鸽子",
+      "veroeffentlicht": "2026-03-06T13:36:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨塞巴斯蒂安・伊拉迪埃创作的名曲《La paloma 鸽子》的历史。"
+    },
+    {
+      "guid": "xmly_track_942902680",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4NH5BpAK54JwRMCUDp.m4a?channel=rss&album_id=30392792&track_id=942902680&uid=30934301&jt=https://aod.cos.tx.xmcdn.com/storages/7cf8-audiofreehighqps/CE/F5/GKwRIW4NH5BpAK54JwRMCUDp.m4a",
+      "pfad": "/v1/episode/f01359a0920fe3def8dbc3a520bf0686a4e0e080.json",
+      "titel": "“谍影重重” U2飞机被击落（录着玩）",
+      "veroeffentlicht": "2025-12-22T22:58:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "1960年U-2侦察机被击落事件及冷战外交危机"
     }
   ]
 }

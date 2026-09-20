@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "吴勉旅行记之冰岛游",
   "apple_collection_id": "1338444962",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group22/M06/13/72/wKgJM1pfVHPjkLyjAISbkFLq2eE380.m4a",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "冰岛自驾之旅最后一期，途经939公路、地热、瀑布与蓝洞的难忘回忆。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M09/26/59/wKgJX1peA_yiGoAOAG2PZO3BjSI479.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJX1peA_yiGoAOAG2PZO3BjSI479.m4a?channel=rss&album_id=12548124&track_id=67327083&uid=66758739&jt=https://aod.cos.tx.xmcdn.com/group31/M09/26/59/wKgJX1peA_yiGoAOAG2PZO3BjSI479.m4a",
+      "pfad": "/v1/episode/96bb1464bd40123eeecab51774d56627c0473ecc.json",
+      "titel": "冰岛-黑沙滩斯里亚兰瀑布冰川徒步霍芬小镇",
+      "veroeffentlicht": "2018-01-16T14:18:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "吴勉带你深入冰岛，体验黑沙滩、瀑布与冰川徒步之旅。"
     }
   ]
 }

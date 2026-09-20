@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "天真不天真",
   "apple_collection_id": "1731784296",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6a9eba42a0210c197dceff02",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a9eba42a0210c197dceff02/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lvMwWqnWmEW2_S22X_4oTJy2GNlw.m4a",
+      "pfad": "/v1/episode/fefdc8bb7761f6a128042fcacc8691b5365291c2.json",
+      "titel": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
+      "veroeffentlicht": "2026-09-08T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话携隐Melody：选择一条更慢的内容创作之路"
+    },
     {
       "guid": "6a8448e38156bf33621a4c94",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a8448e38156bf33621a4c94/media.xyzcdn.net/65cef9e3cace72dff8d98de3/luES_M_6btM17a5qt6kB1khR5S6i.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "演员宋佳分享两年来的心态转变，探讨向内求、接纳命运与放下执念。"
+    },
+    {
+      "guid": "6a66487e6356eb2d9be8ca46",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a66487e6356eb2d9be8ca46/media.xyzcdn.net/65cef9e3cace72dff8d98de3/liCr8UeImbR2NSDz9eVqc5EKBnkr.m4a",
+      "pfad": "/v1/episode/27d60951d6a3739c73b9fd9128d2eb59f68b0528.json",
+      "titel": "vol.53 对谈易立竞：折腾vs独处 极致对照组的两种活法答案",
+      "veroeffentlicht": "2026-07-27T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "杨天真对话易立竞，探讨折腾与独处的两种人生状态"
+    },
+    {
+      "guid": "6a4a7af02e335a35a80e7c18",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a4a7af02e335a35a80e7c18/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lqP2d0XhSkKpLXcBUmsu6HTdgQpi.m4a",
+      "pfad": "/v1/episode/37779f1298a115875c45cb7394dd1fc82fc0d59d.json",
+      "titel": "vol.52 对谈王安宇：十年可以让一个人发生多少变化",
+      "veroeffentlicht": "2026-07-06T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话王安宇：回顾十年变化、行业转折与个人成长"
+    },
+    {
+      "guid": "6a303f394233e62bc54a72fc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a303f394233e62bc54a72fc/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lgv3MmCH9GJGadmm9ggDmrlMMRJT.m4a",
+      "pfad": "/v1/episode/60f0f906e57cca92d0c35ab041d0e7927099e818.json",
+      "titel": "vol.51 对谈姜思达：面对真相的能力，比风口的保质期更长",
+      "veroeffentlicht": "2026-06-16T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话姜思达：探讨内容创作与商业变现及面对真相"
+    },
+    {
+      "guid": "6a147c398b5c94538eb363fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a147c398b5c94538eb363fd/media.xyzcdn.net/65cef9e3cace72dff8d98de3/liPjIEsiiER7GKqrMQNt4cOB7Uhl.m4a",
+      "pfad": "/v1/episode/dfe911ca7be1cdc949c4f8289cda9caecb2686f4.json",
+      "titel": "vol.50 对谈纪录片导演赵琦：跳脱框架限定 让“不允许”也可以被允许",
+      "veroeffentlicht": "2026-05-26T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话纪录片导演赵琦，探讨自我、对立面与人生重启"
+    },
+    {
+      "guid": "6a0316cf1b7bd50295014d50",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a0316cf1b7bd50295014d50/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lsYA1jsjz4Vgda_HheDGeer8tUlu.m4a",
+      "pfad": "/v1/episode/728a9e5cfca527dba38a70fd6191f7c500ad81c3.json",
+      "titel": "vol.49 对谈西高地Papi妈妈：伤痛不必痊愈，但别让它替你选择",
+      "veroeffentlicht": "2026-05-13T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话西高地Papi妈妈Penny，聊聊维权三年与热搜之下的真实生活。"
+    },
+    {
+      "guid": "69e624681e94ae6921b909eb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/69e624681e94ae6921b909eb/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lklwA9eI23C1ZUWPlqvRSwEtRlx6.m4a",
+      "pfad": "/v1/episode/2c844d1777fdff1b96aaa4a74afe189ab9dd4275.json",
+      "titel": "vol.48 对谈刘开心：活着很疼 但生命从不因脆弱而失色",
+      "veroeffentlicht": "2026-04-21T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与罕见病患者刘开心对谈，探讨生命、疼痛与自我困惑"
+    },
+    {
+      "guid": "69ca92eee2c8be3155eed2b5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/69ca92eee2c8be3155eed2b5/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lulgt91O3kZmJrJh0T6UW9bYmpQ7.m4a",
+      "pfad": "/v1/episode/77264057c16fe089fe6d6b0ac02018fc8a5a8076.json",
+      "titel": "vol.47 有问必答｜真正的蓄能，是看清自己的起心动念",
+      "veroeffentlicht": "2026-03-31T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨个人能量的来源、蓄能方式以及如何觉察起心动念。"
+    },
+    {
+      "guid": "69b7f9f9caaea1fb3b960dfc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/69b7f9f9caaea1fb3b960dfc/media.xyzcdn.net/65cef9e3cace72dff8d98de3/ll_SNQRfffcnyKz-8uNExbyD66cm.m4a",
+      "pfad": "/v1/episode/f7e89981413c93823d2eab0efec55e194d1ede98.json",
+      "titel": "vol.46 开年职场助力 关于汇报涨薪和规划",
+      "veroeffentlicht": "2026-03-17T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场中的自我定位、向上管理、薪资晋升与职业规划。"
     }
   ]
 }

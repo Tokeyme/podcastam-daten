@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "6aaf1fc00916f6f8b445f033",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] 从梦境推演、因果机制、路由预判到人机共谋",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aaf1fc00916f6f8b445f033/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lsTgoaVqUTOqzDgvZ0x1nFUh9Gjh.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T07:08:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨四篇前沿论文，涉及AI自我进化、因果机制、大模型运行优化与智能体研发。",
+  "kurzfassung": "本期节目讨论了四篇打破固有成见的最新AI论文。内容涵盖AI在历史沙盘中“做梦”以实现递归进化，以及看透复杂表格背后的因果机制。此外还探讨了通过提前预判让普通电脑流畅运行大模型的技术，以及AI自主研发的真实记录。",
+  "stichpunkte": [
+    "在记忆里“做梦”：AI通过递归自我进化寻找隐秘捷径",
+    "复杂表格背后的因果机制：跳出传统刷题思维",
+    "大模型运行优化：通过路由预判让普通电脑跑通350亿参数模型",
+    "人机共谋与智能体研发：AI开始参与制造AI的时代真相"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T07:08:28+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1329,
+  "veroeffentlicht": "2026-09-19T23:52:09+00:00",
+  "beschreibung": "今天我们要聊的四篇最新论文，正在打破关于智能进化的固有成见：AI不仅学会了在过去的历史沙盘里“做梦”来递归进化，还能跳出刷题思维、看透复杂表格背后的因果机制。更妙的是，有研究靠着“提前预判”让普通家用电脑流畅跑通350亿大模型，而最真实的智能体研发记录也揭示了AI造AI的时代真相。究竟什么是机器的捷径，人类最后的胜负手又在哪里？戴上耳机，我们马上出发！\n00:00:35 在记忆里“做梦”，AI自我进化的隐秘捷径\n00:05:42 为什么预测答案的人，永远比不上看懂规律的人？\n00:11:31 把书房搬进抽屉，一个让普通电脑跑通大模型的巧思\n00:16:45 当AI开始参与制造AI，人类最后的底牌究竟是什么？\n本期介绍的几篇论文：\n[CL] Dream-RSI: Recursive Self-Improvement through Evolving Worlds\n[Google]\nhttps://arxiv.org/abs/2609.14858\n---\n[AI] LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence\n[Stable AI & Tsinghua University]\nhttps://arxiv.org/abs/2609.17488\n---\n[AI] The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction\n[AutoArk]\nhttps://arxiv.org/abs/2609.1806\n---\n[AI] Atria Dawn: The Dawn of Agentic Superintelligence\n[Atria Team]\nhttps://arxiv.org/abs/2609.15818\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>今天我们要聊的四篇最新论文，正在打破关于智能进化的固有成见：AI不仅学会了在过去的历史沙盘里“做梦”来递归进化，还能跳出刷题思维、看透复杂表格背后的因果机制。更妙的是，有研究靠着“提前预判”让普通家用电脑流畅跑通350亿大模型，而最真实的智能体研发记录也揭示了AI造AI的时代真相。究竟什么是机器的捷径，人类最后的胜负手又在哪里？戴上耳机，我们马上出发！</p><p><a class=\"timestamp\">00:00:35</a> 在记忆里“做梦”，AI自我进化的隐秘捷径</p><p><a class=\"timestamp\">00:05:42</a> 为什么预测答案的人，永远比不上看懂规律的人？</p><p><a class=\"timestamp\">00:11:31</a> 把书房搬进抽屉，一个让普通电脑跑通大模型的巧思</p><p><a class=\"timestamp\">00:16:45</a> 当AI开始参与制造AI，人类最后的底牌究竟是什么？</p><p>本期介绍的几篇论文：</p><p>[CL] Dream-RSI: Recursive Self-Improvement through Evolving Worlds</p><p>[Google]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.14858\">https://arxiv.org/abs/2609.14858</a> </p><p>---</p><p>[AI] LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence</p><p>[Stable AI &amp; Tsinghua University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.17488\">https://arxiv.org/abs/2609.17488</a> </p><p>---</p><p>[AI] The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction</p><p>[AutoArk]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.1806\">https://arxiv.org/abs/2609.1806</a> </p><p>---</p><p>[AI] Atria Dawn: The Dawn of Agentic Superintelligence</p><p>[Atria Team]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.15818\">https://arxiv.org/abs/2609.15818</a> </p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aaf1fc00916f6f8b445f033?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"
+}

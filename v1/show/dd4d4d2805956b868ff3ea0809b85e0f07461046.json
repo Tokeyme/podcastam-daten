@@ -2,8 +2,98 @@
   "schema_version": 1,
   "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
   "apple_collection_id": "1623077169",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "b7dd2664-b398-11f1-a5bf-431ffa21eeca",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH1565387090.mp3",
+      "pfad": "/v1/episode/f92acf5608f68023335d6ad3e1831fdb037bdf2f.json",
+      "titel": "#333 - Wie kann ich mir illegal eine Waffe besorgen?",
+      "veroeffentlicht": "2026-09-19T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Gespräch über illegale Waffen und das Waffengesetz mit Lars Winkelsdorf"
+    },
+    {
+      "guid": "a70e0d0a-b102-11f1-adfd-739f364a8801",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH9657253723.mp3",
+      "pfad": "/v1/episode/0ee0f0bcfa8594ad0bb95fd6e6842131f5b22564.json",
+      "titel": "#332 - Zwei Drittel infiziert: Bin ich auch betroffen?",
+      "veroeffentlicht": "2026-09-16T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Chronische Krankheiten nach Infektion und Impfung"
+    },
+    {
+      "guid": "999b9360-adbd-11f1-ba78-cf29d9452791",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH2219039753.mp3",
+      "pfad": "/v1/episode/36570f3f990e8f5c482412e5a0a0720896b084fc.json",
+      "titel": "#331 - Schweizer: Deutschland hat Demokratie nicht verstanden",
+      "veroeffentlicht": "2026-09-12T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Roger Köppel über Deutschland, Medien, Demokratie und die Gefahr eines Krieges"
+    },
+    {
+      "guid": "a15ff752-aada-11f1-b134-5bae67676fd3",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH6820407033.mp3",
+      "pfad": "/v1/episode/08ed60790b9f19e58fc961dd4a18234d873619e0.json",
+      "titel": "#330 - Unsere Bürokratie bricht uns das Genick (Nordwolle-Gründer)",
+      "veroeffentlicht": "2026-09-09T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Marco Scheel über Nordwolle, Bürokratie und unternehmerische Hürden in Deutschland"
+    },
+    {
+      "guid": "27325ba0-a8eb-11f1-bb8b-37bdaa21d00d",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH6612296710.mp3",
+      "pfad": "/v1/episode/f75cb89ea0ec0037e23e1679014989cbac58f49f.json",
+      "titel": "#329 - Eskalation mit Russland: Das muss jetzt passieren!",
+      "veroeffentlicht": "2026-09-05T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Gespräch mit Russlands Botschafter Sergej J. Netschajew über die Krise mit Deutschland."
+    },
+    {
+      "guid": "44956d5c-a6ae-11f1-a610-4bf64cdc689f",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH9711410679.mp3",
+      "pfad": "/v1/episode/d47ec874f86fc861d0edcda53b9ce639202431d9.json",
+      "titel": "#328 - Sie tanzen, während das Land brennt - Sahra Wagenknecht",
+      "veroeffentlicht": "2026-09-02T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Gespräch mit Sahra Wagenknecht über Medien, Politik und das BSW"
+    },
+    {
+      "guid": "5079c4fc-a153-11f1-909c-97c0a25c11cf",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH1808302409.mp3",
+      "pfad": "/v1/episode/5e4d1bb8e9eba2d091711371bc54253d6bbd31a6.json",
+      "titel": "#327 - Ich habe Angst, dass er recht hat (Tom-Oliver Regenauer)",
+      "veroeffentlicht": "2026-08-29T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Gespräch mit Tom-Oliver Regenauer über Elitenkritik, Machtstrukturen und Geschichte."
+    },
+    {
+      "guid": "16327614-a067-11f1-964c-cfdd68007627",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH7219088532.mp3",
+      "pfad": "/v1/episode/dd43025977b92804ca29ceef298164c9f7a38ad5.json",
+      "titel": "#326 - F*ck You Money ist nicht real (Ankerkraut-Gründer)",
+      "veroeffentlicht": "2026-08-26T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Gespraech mit den Ankerkraut-Gruendern Anne & Stefan Lemcke"
+    },
+    {
+      "guid": "ed36af76-9d39-11f1-8a6c-93957e17cdb3",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH1704234694.mp3",
+      "pfad": "/v1/episode/c19109d8819bbbd786d1747987edcc422c6bbad3.json",
+      "titel": "#325 - Merz führt uns in den Krieg - und keiner stoppt ihn",
+      "veroeffentlicht": "2026-08-22T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Oskar Lafontaine im Gespräch über Krieg, Frieden und die deutsche Politik"
+    },
     {
       "guid": "7aa7862e-9b27-11f1-a399-57eae54b0090",
       "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH5808203231.mp3",

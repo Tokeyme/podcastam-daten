@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "教育漫道",
   "apple_collection_id": "1118204060",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group27/M06/76/E3/wKgJW1jsQoXi6q68AI0NGF32uPE351.m4a",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨《弟子规》的身世之谜及其被热捧的现象"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M02/BE/90/wKgJWFjZyWLD25ipAVknW1YFXsQ243.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgJWFjZyWLD25ipAVknW1YFXsQ243.mp3.m4a?channel=rss&album_id=4173646&track_id=33815573&uid=47698213&jt=https://aod.cos.tx.xmcdn.com/group26/M02/BE/90/wKgJWFjZyWLD25ipAVknW1YFXsQ243.mp3",
+      "pfad": "/v1/episode/e3e3bdc6bf2c480df02af13b90ddb3b953639213.json",
+      "titel": "【教育漫道1】【另类解读】课本里的《项链》",
+      "veroeffentlicht": "2017-03-28T02:25:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨莫泊桑短篇小说《项链》的深层主题与文学价值"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group23/M0A/C0/16/wKgJL1hQsuXSDhabAXEH78vxKC8586.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgJL1hQsuXSDhabAXEH78vxKC8586.mp3.m4a?channel=rss&album_id=4173646&track_id=26878828&uid=47698213&jt=https://aod.cos.tx.xmcdn.com/group23/M0A/C0/16/wKgJL1hQsuXSDhabAXEH78vxKC8586.mp3",
+      "pfad": "/v1/episode/a3eeaad09527b48f960d821f5c46e4ca6be1467b.json",
+      "titel": "【老郭说事7】中国基础教育真有那么不堪？",
+      "veroeffentlicht": "2016-12-14T02:56:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国基础教育是否真如传闻般不堪，并对比中西方教育差异与PISA测试。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M01/7A/BE/wKgDZldGo_3i1p_-AJMs1U8Vc2w054.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgDZldGo_3i1p_-AJMs1U8Vc2w054.mp3.m4a?channel=rss&album_id=4173646&track_id=16247840&uid=47698213&jt=https://aod.cos.tx.xmcdn.com/group9/M01/7A/BE/wKgDZldGo_3i1p_-AJMs1U8Vc2w054.mp3",
+      "pfad": "/v1/episode/147c4f2362ecc5bc3f12310fb72e807dfe6e32ed.json",
+      "titel": "【老郭说事4】我们的教育，究竟能不能惩戒孩子",
+      "veroeffentlicht": "2016-05-26T07:28:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨教育中是否应当惩戒孩子的话题。"
     }
   ]
 }

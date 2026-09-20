@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "guid": "e73b1814-a130-11f1-9732-8773ca8b529b",
+  "apple_collection_id": "625024986",
+  "show": "武田鉄矢・今朝の三枚おろし",
+  "titel": "9月7日　今回は武田鉄矢さん世代に向けて、これまでの経験や常識に囚われない生き方を語ります。",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/NCB2912904463.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-20T09:59:43+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "武田鉄矢世代に向けたこれまでの経験や常識にとらわれない生き方について。",
+  "kurzfassung": "武田鉄矢が、自身の世代に向けてこれまでの経験や常識に囚われない生き方について語る。毎週異なるテーマに沿ってさまざまな話題を展開する。武田鉄矢が温かさと厳しさを持ちながらトークを行う。",
+  "stichpunkte": [
+    "武田鉄矢世代に向けたメッセージ",
+    "経験や常識に囚われない生き方",
+    "毎週のテーマに沿ったさまざまな語り"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:59:43+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 2178,
+  "veroeffentlicht": "2026-09-07T01:00:00+00:00",
+  "beschreibung": "温かさと厳しさを併せ持つ武田鉄矢が毎週テーマに添ってさまざまな語りを展開。どんな話題でも美味しくさばいて見せマス！\nさらに、Podcastでは配信されていない2006年以降の音源をお楽しみいただけるサービスが「QloveR」にて展開中！\n毎週月曜日に1週間分ずつアーカイブ音源が更新され、掲載されている音源は何度でも聴き放題です！ぜひご登録の上お楽しみください。\n登録はこちら→⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://qlover.jp/takeda⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n[毎週月曜更新]",
+  "beschreibung_html": "<p>温かさと厳しさを併せ持つ武田鉄矢が毎週テーマに添ってさまざまな語りを展開。どんな話題でも美味しくさばいて見せマス！ \nさらに、Podcastでは配信されていない2006年以降の音源をお楽しみいただけるサービスが「QloveR」にて展開中！ \n毎週月曜日に1週間分ずつアーカイブ音源が更新され、掲載されている音源は何度でも聴き放題です！ぜひご登録の上お楽しみください。 \n登録はこちら→<a href=\"https://qlover.jp/takeda\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://qlover.jp/takeda⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>\n<p>[毎週月曜更新]</p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/e73b1814-a130-11f1-9732-8773ca8b529b/image/ea2b77c2bca25d7708d22918073a37da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

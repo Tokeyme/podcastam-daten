@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "一周科技回顾 | WTR",
   "apple_collection_id": "1659278074",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a2fd4684233e62bc54a3f4c",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "深度体验 WWDC26 与新 Siri：大模型架构带来哪些改变？"
+    },
+    {
+      "guid": "69edb2591d989496e787bffc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69edb2591d989496e787bffc/media.xyzcdn.net/6325db2caafc5c394512dddf/lpUA72NbTLyYfX0AJGyKbVQEHUTZ.m4a",
+      "pfad": "/v1/episode/8e2d106bc0b488a7ce40887f05533e3b8a867747.json",
+      "titel": "中本聪能在Mac上用Nvidia独显去月球吗？",
+      "veroeffentlicht": "2026-04-26T06:42:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中本聪身份、Mac支持Nvidia外接显卡及多项科技动态。"
+    },
+    {
+      "guid": "69cdfdb7b977fb2c47e89b9a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69cdfdb7b977fb2c47e89b9a/media.xyzcdn.net/6325db2caafc5c394512dddf/lpTzZoJXTxWpjsRRlyxqChMnz-KJ.m4a",
+      "pfad": "/v1/episode/58e5c5c5df7978f4c89174af58d88e70d0f598ab.json",
+      "titel": "独立 Siri App？",
+      "veroeffentlicht": "2026-04-02T05:46:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨WWDC传闻、OpenAI与索尼价格调整等近期科技动态"
+    },
+    {
+      "guid": "69c029473c625cc5ae9d4d0e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69c029473c625cc5ae9d4d0e/media.xyzcdn.net/6325db2caafc5c394512dddf/lq44VfIM2_-FGHl9HmnhEI7NfxNm.m4a",
+      "pfad": "/v1/episode/c1791cc6ad68acb87fe480beed2a5878d6ee2f61.json",
+      "titel": "DLSS 5引发巨大争议",
+      "veroeffentlicht": "2026-03-22T17:52:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨DLSS 5争议及苹果、Meta、微软等科技动态"
+    },
+    {
+      "guid": "69b87db4caaea1fb3ba13f93",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69b87db4caaea1fb3ba13f93/media.xyzcdn.net/6325db2caafc5c394512dddf/ljvExQsKiu-Fwn7qmSkAa0tVlQJg.m4a",
+      "pfad": "/v1/episode/59a10fdb0bcc8dddd7ef8480edb459cce5617402.json",
+      "titel": "EMOJI 表情更新啦 🫪🫈🫯",
+      "veroeffentlicht": "2026-03-16T22:06:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨浏览器标签页更新、应用商店费率调整及新表情符号等内容。"
+    },
+    {
+      "guid": "69aee0ec614294d13eedd63d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69aee0ec614294d13eedd63d/media.xyzcdn.net/6325db2caafc5c394512dddf/lqriU02Jy3I9pHDiGtqlcvcEZVHt.m4a",
+      "pfad": "/v1/episode/a8824ce63a42228a2fe34e22e36778c713d8f889.json",
+      "titel": "MacBook Neo 玩不了 Pokopia",
+      "veroeffentlicht": "2026-03-09T15:08:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论苹果新品发布会及游戏《Pokopia》的体验"
+    },
+    {
+      "guid": "69a9fa835b2d0ed0697eb0de",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69a9fa835b2d0ed0697eb0de/media.xyzcdn.net/6325db2caafc5c394512dddf/lmToxzxeFVH_KgXXadK9e9t6YOOD.m4a",
+      "pfad": "/v1/episode/b895aa6ba7653ece9e53940b2b67b32f0d11c24f.json",
+      "titel": "Apple 秒接 100% 涨价内存？",
+      "veroeffentlicht": "2026-03-05T22:11:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨三星S26系列配置、魅族手机业务终止及Anthropic拒绝国防部合同等行业动态。"
+    },
+    {
+      "guid": "698f173f66e2c303775b4979",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/698f173f66e2c303775b4979/media.xyzcdn.net/6325db2caafc5c394512dddf/lq2sa6Wk5pS1WmYygTROuorDHzn6.m4a",
+      "pfad": "/v1/episode/6cef10b73f1074ababf849ab1391666e62ef84b6.json",
+      "titel": "参与集体诉讼，苹果赔了我钱",
+      "veroeffentlicht": "2026-02-13T12:32:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论近期科技热点，涵盖ClawdBot、特斯拉、谷歌AI及苹果动态。"
+    },
+    {
+      "guid": "697efbd0b4be4c149b74e1ce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/697efbd0b4be4c149b74e1ce/media.xyzcdn.net/6325db2caafc5c394512dddf/lq3N-jVHnoUhC5526a6er9c3QkmK.m4a",
+      "pfad": "/v1/episode/20755409d3992023735b147d296c75fe991026d7.json",
+      "titel": "地平线6有什么？iPhone Air 能插卡？",
+      "veroeffentlicht": "2026-02-01T07:19:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨地平线6去向、iPhone Air插卡及多项科技动态。"
+    },
+    {
+      "guid": "69786d550c314a9fed85ad4a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69786d550c314a9fed85ad4a/media.xyzcdn.net/6325db2caafc5c394512dddf/liFiRpPi12tHjor_BYCpdaYLP-9l.m4a",
+      "pfad": "/v1/episode/eb59406166a2ef31251f9091206fca4d087c9bac.json",
+      "titel": "Siri被Gemini夺舍了",
+      "veroeffentlicht": "2026-01-27T08:14:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英伟达Rubin平台、苹果接入Gemini及相关科技动态"
     }
   ]
 }

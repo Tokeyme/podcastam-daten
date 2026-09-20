@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "很好听音乐台 | 亲子音乐课",
   "apple_collection_id": "1266562827",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group63/M04/44/7A/wKgMcl0r8wehs0GLADA0-Eg0mtY942.m4a",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "夏日炎炎，和小朋友们一起动手制作并分享美味的新鲜果汁。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M05/36/D9/wKgJX1mC996CKa8PACBjE81sfwY513.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJX1mC996CKa8PACBjE81sfwY513.m4a?channel=rss&album_id=8696335&track_id=46112662&uid=75110688&jt=https://aod.cos.tx.xmcdn.com/group31/M05/36/D9/wKgJX1mC996CKa8PACBjE81sfwY513.m4a",
+      "pfad": "/v1/episode/2957a7da0e3cea61397da904628a35e6a6989380.json",
+      "titel": "037 我们一家：我和妈妈",
+      "veroeffentlicht": "2017-08-03T10:16:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨儿童音乐启蒙与亲子陪伴的播客节目背景"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M05/1B/3F/wKgJXlmAVSbC9Y1FAAuw9t6ygqg824.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJXlmAVSbC9Y1FAAuw9t6ygqg824.m4a?channel=rss&album_id=8696335&track_id=45877002&uid=75110688&jt=https://aod.cos.tx.xmcdn.com/group30/M05/1B/3F/wKgJXlmAVSbC9Y1FAAuw9t6ygqg824.m4a",
+      "pfad": "/v1/episode/e7ef9f37503940d4aa0e56784f30474b28b030af.json",
+      "titel": "给家长 | 节目预告：我的一家",
+      "veroeffentlicht": "2017-08-01T10:17:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一档通过音乐、故事和游戏为儿童推荐好音乐并教做亲子音乐游戏的节目。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M01/88/E9/wKgJSVl29tnQRDDvABtoeZcnFQ0886.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJSVl29tnQRDDvABtoeZcnFQ0886.m4a?channel=rss&album_id=8696335&track_id=45081807&uid=75110688&jt=https://aod.cos.tx.xmcdn.com/group31/M01/88/E9/wKgJSVl29tnQRDDvABtoeZcnFQ0886.m4a",
+      "pfad": "/v1/episode/39058e788f1b6f9fbb9a5e3f1c8f97d49e195424.json",
+      "titel": "032 国外音乐旅行：俄罗斯胡桃夹子 | 感受会跳舞的芦笛",
+      "veroeffentlicht": "2017-07-25T09:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小怪和很好听先生带你开启俄罗斯音乐旅行，欣赏柴可夫斯基的《胡桃夹子》。"
     }
   ]
 }

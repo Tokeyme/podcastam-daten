@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "历史学人",
   "apple_collection_id": "1684118923",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa6735c492687f6aad92640",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6aa6735c492687f6aad92640/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/lpxy7BuyL5lSpj3GreRRbbPVJVh_.m4a",
+      "pfad": "/v1/episode/e0fbb5a2e40b88f1a4a8381bbecc8d45279b2979.json",
+      "titel": "149 辫子、外宣与大师：虚实辜鸿铭",
+      "veroeffentlicht": "2026-09-13T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨辜鸿铭的生平、身份建构与思想轨迹"
+    },
+    {
+      "guid": "6a9a5b97a0210c197dcd5745",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a9a5b97a0210c197dcd5745/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/ln_kaJIm7sV0SqdHeP9ZHW3bR2Kq.m4a",
+      "pfad": "/v1/episode/835d41a985382abebb68712b2ff4f6330ede15ac.json",
+      "titel": "148 大米与飞机：冷战中的天然橡胶",
+      "veroeffentlicht": "2026-09-06T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回溯1950至1980年中马及国际橡胶贸易，探讨冷战时期的经济与地缘政治格局。"
+    },
+    {
+      "guid": "6a916b94a0210c197dc9b2b3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a916b94a0210c197dc9b2b3/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/ljyhYf5M4Vi7QGmoN947y_urSxNx.m4a",
+      "pfad": "/v1/episode/5b2bc965a0e1714a839f70af2d7aa549d51d2420.json",
+      "titel": "147 江督易主：在满汉、湘淮与南北之间的权力博弈",
+      "veroeffentlicht": "2026-08-30T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两江总督的人事变动与晚清政治权力重组"
+    },
+    {
+      "guid": "6a881cca1352af56ff39d1e0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a881cca1352af56ff39d1e0/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/lgieBk_9Cbjvo9v-o17xLj1THNqh.m4a",
+      "pfad": "/v1/episode/bb8898b614c08c742bead32afe26b8fa98519aff.json",
+      "titel": "146 国君的焦虑：朝鲜、宗藩与小中华",
+      "veroeffentlicht": "2026-08-23T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨朝鲜王朝的“小中华”思想与王权政治。"
+    },
     {
       "guid": "6a81857436641f136d88fce5",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a81857436641f136d88fce5/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/lvSfaIqMc4W_TjSn30uxsOGQGRxL.m4a",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从沈阳西塔社区的百年变迁看东北在东亚现代性中的中心与边缘地位"
+    },
+    {
+      "guid": "6a7576cbc4079d62c57ebcdf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a7576cbc4079d62c57ebcdf/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/liCOSNc7EPAqbPeBAtb4Vjg8_vsP.m4a",
+      "pfad": "/v1/episode/6cda16d23001a50e3da6f5b108821a5a98f5cf85.json",
+      "titel": "144 主语必须清晰：在20世纪德国废墟上重建历史记忆",
+      "veroeffentlicht": "2026-08-09T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨德国20世纪废墟与历史记忆的重建"
+    },
+    {
+      "guid": "6a6f11fe1b5e24969ce79d61",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a6f11fe1b5e24969ce79d61/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/lpB3ZjLXN4FxQO698HCRaY31koAt.m4a",
+      "pfad": "/v1/episode/d3a86dd2fa3b3e9d12bde50be14ba69fc128d102.json",
+      "titel": "143 粉红色头发的回忆：示众、网暴与人的尊严",
+      "veroeffentlicht": "2026-08-02T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨网络暴力、羞辱背后的权力关系与社会规范"
+    },
+    {
+      "guid": "6a6370e56356eb2d9be7e2b5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a6370e56356eb2d9be7e2b5/media.xyzcdn.net/FoQZ95jc1m3xLZNW23CjnL0IESMe.m4a",
+      "pfad": "/v1/episode/068949f10b1fd43f295cb1b57c776e77d8ba817b.json",
+      "titel": "142 西伯利亚铁路上的战争、革命与帝国梦｜铁路与革命",
+      "veroeffentlicht": "2026-07-26T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "西伯利亚铁路上的战争、革命与帝国梦"
+    },
+    {
+      "guid": "6a5c64c06356eb2d9be4d69c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a5c64c06356eb2d9be4d69c/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/lom-QnlREXsqttox3HCDCJsVHhSS.m4a",
+      "pfad": "/v1/episode/af64da6369eb5c275fc26f832a49675655046c95.json",
+      "titel": "141 与仲树聊阿伦特：思考令人不安",
+      "veroeffentlicht": "2026-07-19T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与仲树聊阿伦特：思考令人不安"
+    },
+    {
+      "guid": "6a5084fb1e32575f5eb42c4c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/641a56fc15e3dbb6fc3545b2/6a5084fb1e32575f5eb42c4c/media.xyzcdn.net/641a56fc15e3dbb6fc3545b2/li0yLsC6fgKpSn4dXy1zDAuBMUUH.m4a",
+      "pfad": "/v1/episode/82cb3618c572103243ff5fe8eb9485e57fab9684.json",
+      "titel": "140 对话罗翔：更好有多好？",
+      "veroeffentlicht": "2026-07-12T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "陈碧对话罗翔探讨人类增强技术与哲学困境"
     }
   ]
 }

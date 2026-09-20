@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_961618020",
+  "apple_collection_id": "1885728186",
+  "show": "AI游戏行业观察周报",
+  "titel": "podcast_ai_games_weekly_vol02",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwNhA9IADen4QR2zmVA.m4a?channel=rss&album_id=117768558&track_id=961618020&uid=327996754&jt=https://aod.cos.tx.xmcdn.com/storages/0b82-audiofreehighqps/4F/39/GKwRIRwNhA9IADen4QR2zmVA.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:15:35+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "AI技术在游戏和互联网行业的融合进展与行业面临的机遇挑战",
+  "kurzfassung": "本期探讨了AI技术在游戏和互联网行业的最新融合与应用。内容涵盖大厂入局AI漫剧等新风口以及开发者对生成式AI的疑虑。同时介绍了OpenAI发布GPT-5.4和高通推出端侧游戏AI SDK的技术进展。",
+  "stichpunkte": [
+    "AI技术在游戏和互联网行业渗透的现状",
+    "腾讯和字节等大厂入局AI漫剧等新风口",
+    "GDC报告揭示开发者对生成式AI损害游戏质量的担忧",
+    "OpenAI发布GPT-5.4及技术层面的应用",
+    "高通推出端侧游戏AI SDK以实现更低延迟和个性化体验"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:15:35+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 450,
+  "veroeffentlicht": "2026-03-09T23:00:00+00:00",
+  "beschreibung": "本周，AI技术在游戏和互联网行业的融合继续加速，呈现出“冰火两重天”的复杂景象。\n\n一方面，从开发工具到内容创作，AI正以前所未有的深度和广度渗透，催生了像AI漫剧这样的新风口，并吸引了腾讯、字节等大厂纷纷入局，通过技术手段大幅降低内容生产成本、重塑商业模式。\n\n另一方面，行业内部对AI的疑虑和反思也在加深。GDC的最新报告揭示了开发者对生成式AI可能损害游戏质量的担忧，甚至有数据显示其使用率出现下滑。\n\n技术层面，OpenAI发布GPT-5.4，高通推出端侧游戏AI SDK，预示着AI将更深入地集成到应用和设备中，实现更低延迟、更个性化的体验。\n\n总体来看，行业正处在一个关键的十字路口，机遇与挑战并存，探索AI的商业化落地和应对其带来的冲击，将是未来一段时间的核心议题。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>本周，AI技术在游戏和互联网行业的融合继续加速，呈现出“冰火两重天”的复杂景象。</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>一方面，从开发工具到内容创作，AI正以前所未有的深度和广度渗透，催生了像AI漫剧这样的新风口，并吸引了腾讯、字节等大厂纷纷入局，通过技术手段大幅降低内容生产成本、重塑商业模式。</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>另一方面，行业内部对AI的疑虑和反思也在加深。</span><span>GDC的最新报告揭示了开发者对生成式AI可能损害游戏质量的担忧，甚至有数据显示其使用率出现下滑。</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>技术层面，OpenAI发布GPT-5.4，高通推出端侧游戏AI SDK，预示着AI将更深入地集成到应用和设备中，实现更低延迟、更个性化的体验。</span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>总体来看，行业正处在一个关键的十字路口，机遇与挑战并存，探索AI的商业化落地和应对其带来的冲击，将是未来一段时间的核心议题。</span></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/3b7b-audiofreehighqps/36/85/GAqhI8INe_r-AA3qQARzR5_q.jpeg",
+  "folgennummer": 4
+}

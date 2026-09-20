@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "楚楚读书 | 《小王子》",
   "apple_collection_id": "1508343023",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group81/M0B/92/82/wKgPEl7N2t2Dbr7OAJFqiGLajkY809.m4a",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "楚楚读书为您带来经典童话《小王子》的结局篇章与读后感悟。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M0B/AA/40/wKgPEl66RnzCZiXsAJqlEMkD2ck044.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPEl66RnzCZiXsAJqlEMkD2ck044.mp3.m4a?channel=rss&album_id=36791570&track_id=295359942&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group81/M0B/AA/40/wKgPEl66RnzCZiXsAJqlEMkD2ck044.mp3",
+      "pfad": "/v1/episode/9fd7d09d3e52a5fdfe15cc4ea17b1dc50a82519e.json",
+      "titel": "小王子（回到降落的地方）",
+      "veroeffentlicht": "2020-05-12T06:47:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子（回到降落的地方）"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M05/76/80/wKgPEF64426iOsjdAIeZJdTl0sM899.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPEF64426iOsjdAIeZJdTl0sM899.mp3.m4a?channel=rss&album_id=36791570&track_id=294878325&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group79/M05/76/80/wKgPEF64426iOsjdAIeZJdTl0sM899.mp3",
+      "pfad": "/v1/episode/2a964639bb4b8eb4143735526f97e42348286807.json",
+      "titel": "小王子（寻找沙漠之井）",
+      "veroeffentlicht": "2020-05-11T05:32:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "在沙漠中寻找水井与小王子的对话"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M02/35/C1/wKgPEV62aQTi6lQXAFYrRA4Efho564.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPEV62aQTi6lQXAFYrRA4Efho564.mp3.m4a?channel=rss&album_id=36791570&track_id=294161854&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group80/M02/35/C1/wKgPEV62aQTi6lQXAFYrRA4Efho564.mp3",
+      "pfad": "/v1/episode/173e5e9f1b668c345e509a19ed91e4badcc97b53.json",
+      "titel": "小王子（铁路扳道工和小商贩）",
+      "veroeffentlicht": "2020-05-09T08:25:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子与铁路扳道工和小商贩的对话"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M07/ED/CB/wKgPDV6zudvgz9wMAQ4Njreo2g4358.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPDV6zudvgz9wMAQ4Njreo2g4358.mp3.m4a?channel=rss&album_id=36791570&track_id=293263527&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group81/M07/ED/CB/wKgPDV6zudvgz9wMAQ4Njreo2g4358.mp3",
+      "pfad": "/v1/episode/ec56d7ac342b9ad9707c9d5a3ab6cffdddc4d961.json",
+      "titel": "小王子（遇见了一只狐狸）",
+      "veroeffentlicht": "2020-05-07T07:33:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子与狐狸的相遇及关于驯服的对话"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M05/C4/79/wKgPEV6yftaxnhV8AHJe3AQ65n8125.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPEV6yftaxnhV8AHJe3AQ65n8125.mp3.m4a?channel=rss&album_id=36791570&track_id=292860024&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group80/M05/C4/79/wKgPEV6yftaxnhV8AHJe3AQ65n8125.mp3",
+      "pfad": "/v1/episode/85ac1b86a94c4ca98047c87e81b265f2d7840fac.json",
+      "titel": "小王子（地球上的玫瑰花）",
+      "veroeffentlicht": "2020-05-06T09:09:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子在旅途中遇到了三瓣花、高山回音和满园的玫瑰花。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M08/A7/98/wKgPDF6xd_Cy-xoCAKwONS20NKQ200.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPDF6xd_Cy-xoCAKwONS20NKQ200.mp3.m4a?channel=rss&album_id=36791570&track_id=292612007&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group80/M08/A7/98/wKgPDF6xd_Cy-xoCAKwONS20NKQ200.mp3",
+      "pfad": "/v1/episode/2201cefb75a2cc52f0e111625b8df8af1cea544e.json",
+      "titel": "小王子（第七颗星球就是地球）",
+      "veroeffentlicht": "2020-05-05T14:28:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子抵达第七颗星球地球，并在沙漠中与一条蛇相遇。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M07/7F/A5/wKgPC16v4cXx1b1xALckk-ilHao342.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPC16v4cXx1b1xALckk-ilHao342.mp3.m4a?channel=rss&album_id=36791570&track_id=292048604&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group79/M07/7F/A5/wKgPC16v4cXx1b1xALckk-ilHao342.mp3",
+      "pfad": "/v1/episode/947afeb4075bd774c1a1f43533675305c6060220.json",
+      "titel": "小王子（第六颗星球上的地理学家）",
+      "veroeffentlicht": "2020-05-04T09:35:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子在第六颗星球上遇到了写书的老先生"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M06/66/48/wKgPC16u0d3iiZmbAJrCcxqlBjc241.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPC16u0d3iiZmbAJrCcxqlBjc241.mp3.m4a?channel=rss&album_id=36791570&track_id=291763618&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group79/M06/66/48/wKgPC16u0d3iiZmbAJrCcxqlBjc241.mp3",
+      "pfad": "/v1/episode/0548aa3db6487d500fa17f29234563ba99fb49ce.json",
+      "titel": "小王子（第五颗星球上的点灯人）",
+      "veroeffentlicht": "2020-05-03T14:14:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子访问第五颗星球，遇到了日夜重复点灯与熄灯的点灯人。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M01/2E/17/wKgPDF6tIqTxxf_PAK_hzCVbl3U036.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPDF6tIqTxxf_PAK_hzCVbl3U036.mp3.m4a?channel=rss&album_id=36791570&track_id=291210139&uid=34876258&jt=https://aod.cos.tx.xmcdn.com/group80/M01/2E/17/wKgPDF6tIqTxxf_PAK_hzCVbl3U036.mp3",
+      "pfad": "/v1/episode/52e90660a1092ff2d5cc4d2c55dac11f8dd012af.json",
+      "titel": "小王子（第四颗星球上的商人）",
+      "veroeffentlicht": "2020-05-02T07:35:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小王子造访第四颗星球，遇到了一位忙于计算和宣称拥有星星的商人。"
     }
   ]
 }

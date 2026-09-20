@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "刘彦的读书播客",
   "apple_collection_id": "1859365454",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1012894647",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOdddGAQqbnQTT_8tO.m4a?channel=rss&album_id=66393854&track_id=1012894647&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/101d-audiofreehighqps/7D/A1/GKwRIUEOdddGAQqbnQTT_8tO.m4a",
+      "pfad": "/v1/episode/a2bd1d1318f6d594d1867be9675ee73dfaf0af52.json",
+      "titel": "2026秋季重点新书预览 （总第59期）",
+      "veroeffentlicht": "2026-09-08T13:56:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介绍2026年秋季即将出版的重点新书预览"
+    },
     {
       "guid": "xmly_track_1005305362",
       "audio_url": "https://jt.ximalaya.com//GKwRIaIOTNj9AVWnzgTD1Od5.m4a?channel=rss&album_id=66393854&track_id=1005305362&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/b155-audiofreehighqps/D7/A6/GKwRIaIOTNj9AVWnzgTD1Od5.m4a",
@@ -13,6 +23,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨英文原版书的阅读经验与优质信息获取渠道"
+    },
+    {
+      "guid": "xmly_track_999310388",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEOI4jAAcYr9gSzKehc.m4a?channel=rss&album_id=66393854&track_id=999310388&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/1388-audiofreehighqps/BA/BC/GKwRIJEOI4jAAcYr9gSzKehc.m4a",
+      "pfad": "/v1/episode/db3b0b372ec8cbe7ef286bfff4c2daa8d50b30ca.json",
+      "titel": "Deep Dive 5: Spawning Season一书深度反思了酷儿养育孩子的那些事（总第57期）",
+      "veroeffentlicht": "2026-07-08T03:34:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "基于《Spawning Season》一书深度探讨酷儿育儿的诸多议题"
+    },
+    {
+      "guid": "xmly_track_993326662",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OFtWcAkQZ-ASujDZC.m4a?channel=rss&album_id=66393854&track_id=993326662&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/6386-audiofreehighqps/76/77/GKwRIW4OFtWcAkQZ-ASujDZC.m4a",
+      "pfad": "/v1/episode/55d8b219feeab6786a06b6d9f5cd835b553d6ddc.json",
+      "titel": "对话《逻辑学的语言》作者李万中（总第56期）",
+      "veroeffentlicht": "2026-06-28T12:22:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话《逻辑学的语言》作者李万中，探讨逻辑思维与批判性思维。"
+    },
+    {
+      "guid": "xmly_track_981331874",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEN-EIcAcL9tgSjb_S5.m4a?channel=rss&album_id=66393854&track_id=981331874&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/fd91-audiofreehighqps/46/94/GKwRIUEN-EIcAcL9tgSjb_S5.m4a",
+      "pfad": "/v1/episode/131ae2cc2c81300a84adce05871e73dfe4bbfa89.json",
+      "titel": "Deep Dive 4：最近涉及AI的诸多丑闻和争议说明了什么？（总第55期）",
+      "veroeffentlicht": "2026-06-05T07:45:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨近期AI丑闻、争议及AI时代的阅读与思考"
+    },
+    {
+      "guid": "xmly_track_975467590",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwN1MyqAa5rLASWksZI.m4a?channel=rss&album_id=66393854&track_id=975467590&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/6ada-audiofreehighqps/6D/9D/GKwRIRwN1MyqAa5rLASWksZI.m4a",
+      "pfad": "/v1/episode/b6cf9c42c0864d8096f1c7e3d4fcbdc7f99108b5.json",
+      "titel": "Deep Dive 3：从热播剧集《危险关系》聚焦的煤气灯操纵说起（总第54期）",
+      "veroeffentlicht": "2026-05-09T10:15:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨热播剧集《危险关系》中的煤气灯操纵与心理防御"
+    },
+    {
+      "guid": "xmly_track_970488266",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUENth2wAXXE6ASK-q61.m4a?channel=rss&album_id=66393854&track_id=970488266&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/5ab9-audiofreehighqps/54/AF/GKwRIUENth2wAXXE6ASK-q61.m4a",
+      "pfad": "/v1/episode/1c103f154cc8199d05085fdf6287aa8387bb639a.json",
+      "titel": "对话《ADHD大脑使用说明书》译者韦亦然（总第53期）",
+      "veroeffentlicht": "2026-04-16T03:40:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话《ADHD大脑使用说明书》译者韦亦然"
+    },
+    {
+      "guid": "xmly_track_968948235",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoNrQnfAWHUowSHfG96.m4a?channel=rss&album_id=66393854&track_id=968948235&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/9d58-audiofreehighqps/6A/07/GKwRIDoNrQnfAWHUowSHfG96.m4a",
+      "pfad": "/v1/episode/6fb9094e6a760304cbe7abb3c0ce6f933d84e068.json",
+      "titel": "Deep Dive 2：因Heated Rivalry成功出圈的“神经多样性”（总第52期）",
+      "veroeffentlicht": "2026-04-09T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨神经多样性、ADHD及相关术语、误区与相处技巧。"
+    },
+    {
+      "guid": "xmly_track_961828385",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJENhT0gAVbwFAR3VmEr.m4a?channel=rss&album_id=66393854&track_id=961828385&uid=204643348&jt=https://aod.cos.tx.xmcdn.com/storages/8781-audiofreehighqps/E6/72/GKwRIJENhT0gAVbwFAR3VmEr.m4a",
+      "pfad": "/v1/episode/b6143a5c64666c9df05db071519d1ed94d2ffb8b.json",
+      "titel": "Deep Dive 1: 书vs翻拍的影视作品（总第51期）",
+      "veroeffentlicht": "2026-03-10T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨文学原著与影视化改编的关系及案例分析"
     }
   ]
 }

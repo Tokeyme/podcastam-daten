@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "中文播客大会",
   "apple_collection_id": "1861375914",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69ae6026c8cdeb38c29aac9f",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨种子、土地与生活方式再造，分享乡村创新与现代公益的实践经验。"
+    },
+    {
+      "guid": "69ae60955b2d0ed0691639bd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/69ae60955b2d0ed0691639bd/media.xyzcdn.net/6937de0f910e01da29d88591/lgVKXdx2FF3kNW_mUHNZqRb7jF15.m4a",
+      "pfad": "/v1/episode/d46958f4a10465edbb159bb5c2b1819d78d6b09e.json",
+      "titel": "重塑与拓界 | 播客重塑乡村社会创新的“声”态系统",
+      "veroeffentlicht": "2026-03-09T06:03:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨播客如何重塑乡村社会创新的“声”态系统"
+    },
+    {
+      "guid": "6982c8e7c78b8238929988c9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/6982c8e7c78b8238929988c9/media.xyzcdn.net/6937de0f910e01da29d88591/lqXlXcGVkRskXxvzqZW4RydsBsoq.m4a",
+      "pfad": "/v1/episode/9563e8173b63e1ca8aaaf4524e1d12ef66568423.json",
+      "titel": "重塑与拓界 | 播客商业化，如何从0到1",
+      "veroeffentlicht": "2026-02-04T04:24:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中文播客商业化从0到1的现场对谈实录"
+    },
+    {
+      "guid": "69818a0f073030367aeb947b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/69818a0f073030367aeb947b/media.xyzcdn.net/6937de0f910e01da29d88591/lp_oqMj_7iJEaUUGz7-xyWfHuDtd.m4a",
+      "pfad": "/v1/episode/13e131a2025aab92601eabf8a3d459108b6b56a5.json",
+      "titel": "重塑与拓界 | 视频播客：播客的未来藏在镜头里吗？",
+      "veroeffentlicht": "2026-02-03T05:53:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨视频播客的发展趋势与未来形态。"
+    },
+    {
+      "guid": "697adc7d073030367a4a9771",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/697adc7d073030367a4a9771/media.xyzcdn.net/6937de0f910e01da29d88591/linY-Klfl-whudHL8BS_PRgS74BY.m4a",
+      "pfad": "/v1/episode/c2a2ed4c2bade142047123a3c85d905fdce127c3.json",
+      "titel": "重塑与拓界 | 当热点遇见播客：微博音频，打造有“声命力”的讨论场",
+      "veroeffentlicht": "2026-01-29T04:06:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨热点与播客的结合及微博音频的应用"
+    },
+    {
+      "guid": "697adc2d2fc7f49d09d98c77",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/697adc2d2fc7f49d09d98c77/media.xyzcdn.net/6937de0f910e01da29d88591/lq0HSJ22xGiCOxWihUJKr_TRetmW.m4a",
+      "pfad": "/v1/episode/679aa07f141c537beab6ebe6bf2defdc0b7ca059.json",
+      "titel": "重塑与拓界 | 声音的无限可能：网易云音乐的播客生态创新",
+      "veroeffentlicht": "2026-01-29T04:05:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "网易云音乐播客生态创新分享实录"
+    },
+    {
+      "guid": "697858bb7926069fc862f60c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/697858bb7926069fc862f60c/media.xyzcdn.net/6937de0f910e01da29d88591/ll1OQGgi7K66UgEo-KCc80NVPLM-.m4a",
+      "pfad": "/v1/episode/3fd979b48d765c1a87d79cba05119ab718a310bb.json",
+      "titel": "重塑与拓界 | 听着就到了目的地：声音如何与线下共感？",
+      "veroeffentlicht": "2026-01-27T06:37:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨声音艺术如何与线下空间产生共感与连接"
+    },
+    {
+      "guid": "69731018ef1cf272a702b54b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/69731018ef1cf272a702b54b/media.xyzcdn.net/6937de0f910e01da29d88591/lvoeQ3DLDK2VPtuLXwBia5Q4hYy_.m4a",
+      "pfad": "/v1/episode/bc6253063e04616c5f86f4c6f049e4479e0ce334.json",
+      "titel": "重塑与拓界 | 来去泉州：耳机里的深度伴游",
+      "veroeffentlicht": "2026-01-23T06:09:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2025中文播客大会现场分享：泉州主题播客的深度伴游创作记录"
+    },
+    {
+      "guid": "6971b770109824f9e1e5aebd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/6971b770109824f9e1e5aebd/media.xyzcdn.net/6937de0f910e01da29d88591/lh5E8YZuZ5rl0UHCL8KM1-C2yhLi.m4a",
+      "pfad": "/v1/episode/b8f74a49f6465f38a43fe78d1d62a85d0a359b78.json",
+      "titel": "重塑与拓界 | 当孩子想要听播客，她/他能听什么？",
+      "veroeffentlicht": "2026-01-22T05:39:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨当孩子想要听播客时，他们究竟能够听到什么内容。"
+    },
+    {
+      "guid": "69672744109824f9e1687a4e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6937de0f910e01da29d88591/69672744109824f9e1687a4e/media.xyzcdn.net/6937de0f910e01da29d88591/lkgGg7-bc63kjJsUZgmsZBEA43R3.m4a",
+      "pfad": "/v1/episode/155c66adf90fdd33aff275b024c44202be000a9f.json",
+      "titel": "重塑与拓界 | 播客的未来之声：AI冲击下的创作、创新与生态",
+      "veroeffentlicht": "2026-01-14T05:37:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2025中文播客大会现场对谈：AI冲击下的创作、创新与生态"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "旅行笔记",
   "apple_collection_id": "909550518",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://audio.xmcdn.com/group21/M0A/9F/38/wKgJKFhI15zwoe4EAJI4J8Fz2oA448.m4a",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "深度玩转柬埔寨：超越吴哥窟的金边与海岛旅行全攻略"
+    },
+    {
+      "guid": "http://audio.xmcdn.com/group22/M0A/87/EA/wKgJM1hAP5DyLeeXANDG6CPK2ZE506.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJM1hAP5DyLeeXANDG6CPK2ZE506.m4a?channel=rss&album_id=273058&track_id=26152675&uid=8914100&jt=http://audio.xmcdn.com/group22/M0A/87/EA/wKgJM1hAP5DyLeeXANDG6CPK2ZE506.m4a",
+      "pfad": "/v1/episode/288f63b8af09f1c73bf950c45553677b5b5bba89.json",
+      "titel": "58：除了极光，冰岛还有“小丁丁”博物馆",
+      "veroeffentlicht": "2016-12-02T03:29:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "冰岛的物价、天气与交通现状以及独特的旅行故事。"
+    },
+    {
+      "guid": "http://audio.xmcdn.com/group21/M09/66/70/wKgJKFg3t1nRXea8AFhNYcett4Q804.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJKFg3t1nRXea8AFhNYcett4Q804.m4a?channel=rss&album_id=273058&track_id=25765015&uid=8914100&jt=http://audio.xmcdn.com/group21/M09/66/70/wKgJKFg3t1nRXea8AFhNYcett4Q804.m4a",
+      "pfad": "/v1/episode/bf2a9a9411952afbe95654fb3df9b46140c74e61.json",
+      "titel": "去清迈，你知不知道去哪里吃酸辣木瓜丝 No.132",
+      "veroeffentlicht": "2016-11-30T03:46:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "清迈美食与购物指南"
     }
   ]
 }

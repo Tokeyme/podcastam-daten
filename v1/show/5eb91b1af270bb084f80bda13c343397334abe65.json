@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "商业故事会",
   "apple_collection_id": "1889173842",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_978710180",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "杭州恒隆广场跳出重奢老路，转向精致生活方式与体验。"
+    },
+    {
+      "guid": "xmly_track_978709252",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAN6DW6ACgGZwSdxFzW.m4a?channel=rss&album_id=117722593&track_id=978709252&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/97e2-audiofreehighqps/3A/1F/GKwRIMAN6DW6ACgGZwSdxFzW.m4a",
+      "pfad": "/v1/episode/ab8e647e25f34baf4aca24817aa4bad428cac439.json",
+      "titel": "62商业故事会：换帅潮来袭，商业地产到底在经历什么？",
+      "veroeffentlicht": "2026-05-24T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨商业地产圈频繁换帅的现象及其背后的行业困境与转型阵痛。"
+    },
+    {
+      "guid": "xmly_track_978007375",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEN5CN8ADBnyQScT3KL.m4a?channel=rss&album_id=117722593&track_id=978007375&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/0b8a-audiofreehighqps/CB/80/GKwRIUEN5CN8ADBnyQScT3KL.m4a",
+      "pfad": "/v1/episode/642bdaca871c9ce2a7c5afa04c19c8af6d606f0d.json",
+      "titel": "61商业故事会：购物中心的破局之道-如何在注意力稀缺时代逆袭",
+      "veroeffentlicht": "2026-05-23T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨购物中心在注意力稀缺时代的转型与逆袭之道"
+    },
+    {
+      "guid": "xmly_track_977694435",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEN4jH7ADKIkwSbr99E.m4a?channel=rss&album_id=117722593&track_id=977694435&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/87ae-audiofreehighqps/44/D4/GKwRIUEN4jH7ADKIkwSbr99E.m4a",
+      "pfad": "/v1/episode/38f2b5d15bfbd91820a0bcf63bd656dce070ce42.json",
+      "titel": "商业故事会：AI正在杀死购物中心？年轻人拒绝被动消费的新趋势",
+      "veroeffentlicht": "2026-05-21T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI如何改变购物中心运作模式及年轻人消费新趋势"
+    },
+    {
+      "guid": "xmly_track_977692508",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwN4jAYAC2szgSbrmES.m4a?channel=rss&album_id=117722593&track_id=977692508&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/4153-audiofreehighqps/DF/17/GKwRIRwN4jAYAC2szgSbrmES.m4a",
+      "pfad": "/v1/episode/972eb05acdf3fc95d3bba25b9086fc64d5d05baf.json",
+      "titel": "商业故事会：餐饮品牌为何频频换招牌？",
+      "veroeffentlicht": "2026-05-19T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨餐饮品牌频频更换招牌与转向社区餐饮的现象"
+    },
+    {
+      "guid": "xmly_track_976590256",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoN22TDAFruwQSZGk12.m4a?channel=rss&album_id=117722593&track_id=976590256&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/8ef8-audiofreehighqps/6E/DD/GKwRIDoN22TDAFruwQSZGk12.m4a",
+      "pfad": "/v1/episode/991ba28d720496cb517c0755e965d7bec1f284a5.json",
+      "titel": "58商业故事会：购物中心的转型之道：从售卖到体验",
+      "veroeffentlicht": "2026-05-14T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨购物中心从售卖商品向提供体验的转型之道。"
+    },
+    {
+      "guid": "xmly_track_975523078",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4N1Q01AFXSYQSWuT4U.m4a?channel=rss&album_id=117722593&track_id=975523078&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/4c59-audiofreehighqps/CF/BE/GKwRIW4N1Q01AFXSYQSWuT4U.m4a",
+      "pfad": "/v1/episode/6e81657f22c3c419bd983c1fd7130293ab0384fb.json",
+      "titel": "商业故事会:改变世界十大科技公司：字节跳动的崛起，从小众到全球内容帝国",
+      "veroeffentlicht": "2026-05-12T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨字节跳动的发展历程与未来布局"
+    },
+    {
+      "guid": "xmly_track_975521720",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEN1QvnAFfUVQSWuIOb.m4a?channel=rss&album_id=117722593&track_id=975521720&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/f2c6-audiofreehighqps/06/14/GKwRIUEN1QvnAFfUVQSWuIOb.m4a",
+      "pfad": "/v1/episode/1373f38e1aa060157f00346165ac5f3344da5555.json",
+      "titel": "商业故事会：改变世界十大科技公司：从理想到现实，OPENAI创始人的艰辛历程",
+      "veroeffentlicht": "2026-05-10T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨OpenAI的发展历程、组织转型与面临的挑战"
+    },
+    {
+      "guid": "xmly_track_974016356",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaINyxl4AFHFrQSTBkuA.m4a?channel=rss&album_id=117722593&track_id=974016356&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/24a0-audiofreehighqps/49/A1/GKwRIaINyxl4AFHFrQSTBkuA.m4a",
+      "pfad": "/v1/episode/97ef08e074e294c2547001463efe546a06ccc828.json",
+      "titel": "056商业故事会：改变世界十大科技公司--台积电的传奇，从荒地到芯片之王",
+      "veroeffentlicht": "2026-05-08T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "台积电从荒地到芯片之王的传奇历程"
+    },
+    {
+      "guid": "xmly_track_974015470",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUENyxfSAFTRaQSTBW2S.m4a?channel=rss&album_id=117722593&track_id=974015470&uid=75433262&jt=https://aod.cos.tx.xmcdn.com/storages/c63c-audiofreehighqps/A1/96/GKwRIUENyxfSAFTRaQSTBW2S.m4a",
+      "pfad": "/v1/episode/e9f073428ca0d3d3ead077a929967277252bc231.json",
+      "titel": "055商业故事会：改变世界十大科技公司--原来中国AI也能颠覆全球市场",
+      "veroeffentlicht": "2026-05-06T23:15:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中国AI公司DEEPSIC的崛起故事与技术创新之路"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "心理这点事儿",
   "apple_collection_id": "1747118108",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a15ae63ff7b9a8c0a5b9ce4",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨为什么真正的改变如此艰难，以及艺术与身体如何帮助我们应对成长。"
+    },
+    {
+      "guid": "6a15ac9b13abca418579f976",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/6a15ac9b13abca418579f976/media.xyzcdn.net/664367474e6d6d2cf367d1c6/lqJQN4HjuY7dVUUtMP0-IrsMFCOe.m4a",
+      "pfad": "/v1/episode/9329e97b0ad525bb01b4661bdbf0c1fd2e1db9e2.json",
+      "titel": "226【大师解答系列】为什么真正的改变总是如此困难？| Vivien Marcow Speiser博士为你解答",
+      "veroeffentlicht": "2026-05-27T03:59:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么真正的改变总是如此困难以及如何面对人生转折点"
+    },
+    {
+      "guid": "6a034e9b1b7bd5029505730b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/6a034e9b1b7bd5029505730b/media.xyzcdn.net/664367474e6d6d2cf367d1c6/ltW5CZdx8z0cqcyNlwmWr8_HVryq.m4a",
+      "pfad": "/v1/episode/d9d20b4b273f4bd1fd81853c2829e4be289cece5.json",
+      "titel": "224【大师解答系列】为什么被夸奖时总觉得自己不够好，该如何真正从内在认可自己？| Kit Jenkins为你解答",
+      "veroeffentlicht": "2026-05-13T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么被夸奖时总觉得不够好以及如何建立内在认可"
+    },
+    {
+      "guid": "6a035124e1eb34a939463189",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/6a035124e1eb34a939463189/media.xyzcdn.net/664367474e6d6d2cf367d1c6/llTnY-eRu20qAXkm2PJK8Yxg2sb_.m4a",
+      "pfad": "/v1/episode/a1ea4bea889ed16cce7605a8c962d127229243f4.json",
+      "titel": "225【Dialogue with Masters】Why praise outside, doubt inside?",
+      "veroeffentlicht": "2026-05-13T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为何获得外部赞 却内心自我怀疑并寻找内在认同"
+    },
+    {
+      "guid": "69ef812164c9c68759f1ebb2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/69ef812164c9c68759f1ebb2/media.xyzcdn.net/664367474e6d6d2cf367d1c6/lljPrjur7EmNoEQ6xnu5LwLsOuWw.m4a",
+      "pfad": "/v1/episode/737a632671b93ef7516c2253f2d868f6aa5954f9.json",
+      "titel": "222【Dialogue with Masters】 Break free from parents’ control?",
+      "veroeffentlicht": "2026-04-28T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何摆脱父母的情感控制与内疚感"
+    },
+    {
+      "guid": "69ef81be64c9c68759f1f0d2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/69ef81be64c9c68759f1f0d2/media.xyzcdn.net/664367474e6d6d2cf367d1c6/lqE6CzUIysP_ZVe1s2sDk-yb_SId.m4a",
+      "pfad": "/v1/episode/6187e095a7364fa560feeb8d6c9af40602c04572.json",
+      "titel": "223【大师解答系列】父母总说「都是为你好」，如何从这种情感束缚中挣脱？| Yousef AlAjarma博士为你解答",
+      "veroeffentlicht": "2026-04-28T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何从父母“都是为你好”的情感束缚中挣脱。"
+    },
+    {
+      "guid": "69de62e7e2c8be315537a8ea",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/69de62e7e2c8be315537a8ea/media.xyzcdn.net/664367474e6d6d2cf367d1c6/lmerbwXEcIwtmtxxyUjTS8wvD8y4.m4a",
+      "pfad": "/v1/episode/7f8d3da4b3f63a56ba38576de216446b5bc4b1c8.json",
+      "titel": "220【Dialogue with Masters】How to deal with mom’s criticism?",
+      "veroeffentlicht": "2026-04-15T04:31:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何面对母亲的批评以及内化批评声音的心理困境"
+    },
+    {
+      "guid": "69de631fb977fb2c47f18e67",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/69de631fb977fb2c47f18e67/media.xyzcdn.net/664367474e6d6d2cf367d1c6/lsvhS1tx4XLqBh9ChwgQ4OB_Ko6t.m4a",
+      "pfad": "/v1/episode/140c24b3f71d7d96756217f5be6cfcdb81fff5c3.json",
+      "titel": "221【大师解答系列】妈妈总是在不停地否定你，你该怎么办？| Phillip Speiser 博士为你解答",
+      "veroeffentlicht": "2026-04-15T04:30:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "面对母亲的不断否定，如何通过表达性艺术治疗寻找内在中心"
+    },
+    {
+      "guid": "69d528b4e2c8be31559dd582",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/69d528b4e2c8be31559dd582/media.xyzcdn.net/664367474e6d6d2cf367d1c6/lsqEj3PlX9vNrue_ya_bq-NRxT-2.m4a",
+      "pfad": "/v1/episode/e58e2d73358f141f938f80784383a00be6593f24.json",
+      "titel": "218【大师解答系列】为什么越长大越难感受到发自心底的快乐了呢？| Keren Shechter博士为你解答",
+      "veroeffentlicht": "2026-04-08T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么越长大越难感受到发自心底的快乐。"
+    },
+    {
+      "guid": "69d533f8b977fb2c47588957",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/664367474e6d6d2cf367d1c6/69d533f8b977fb2c47588957/media.xyzcdn.net/664367474e6d6d2cf367d1c6/lu4hD7Gxu9eUIIWHXmqIRfOGogtu.m4a",
+      "pfad": "/v1/episode/6f825ee194a057212dab500b70aa537f2bf2f8e2.json",
+      "titel": "219【Dialogue with Masters】Why Is It Harder to Feel Happy?",
+      "veroeffentlicht": "2026-04-08T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么随着年龄增长，感受真正的快乐变得愈发困难。"
     }
   ]
 }

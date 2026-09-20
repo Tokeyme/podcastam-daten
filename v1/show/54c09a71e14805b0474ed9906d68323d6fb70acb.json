@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "show": "霓达故事",
+  "apple_collection_id": "1675204249",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "folgen": [
+    {
+      "guid": "6a902ff7ef65145dfcc6657f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62176bef42107d36fefdf998/6a902ff7ef65145dfcc6657f/media.xyzcdn.net/62176bef42107d36fefdf998/lk5NjIJ5aFI8RRkXMQ03jP0s_JZm.m4a",
+      "pfad": "/v1/episode/904ee108f4d36a2291989bdf50eb795f0f019500.json",
+      "titel": "43. 三根鸡毛",
+      "veroeffentlicht": "2026-08-27T13:08:48+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "中元节特辑，分享多起诡异经历与都市怪谈"
+    },
+    {
+      "guid": "6a59d62f6356eb2d9be40f84",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62176bef42107d36fefdf998/6a59d62f6356eb2d9be40f84/media.xyzcdn.net/62176bef42107d36fefdf998/lqm6mji5i4aV8nlSGyjgGq29lol3.m4a",
+      "pfad": "/v1/episode/72d3b27d5e409b7f34b93b2f1211e9e001bd6450.json",
+      "titel": "42. 小镇大事",
+      "veroeffentlicht": "2026-07-17T13:00:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "节目分享了三桩充满诡异色彩的童年与小镇异闻。"
+    }
+  ]
+}

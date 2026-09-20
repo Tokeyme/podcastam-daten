@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "佟晨洁的“正常生活”",
   "apple_collection_id": "1652280535",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6a8c65bbef65145dfcc4b9fc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a8c65bbef65145dfcc4b9fc/media.xyzcdn.net/6177c78f198954178425773a/libJTsb_Ku3oqWgyou2SZPXpaPW9.m4a",
+      "pfad": "/v1/episode/e1f5592c5756b4480ae911f847957749b3210976.json",
+      "titel": "151 是泥淖还是港湾：听陈海贤深度剖析《中国式家庭》",
+      "veroeffentlicht": "2026-08-27T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "心理咨询师陈海贤剖析中国式家庭关系里的纠缠与出路。"
+    },
     {
       "guid": "6a7c0f8417676351c570acba",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a7c0f8417676351c570acba/media.xyzcdn.net/6177c78f198954178425773a/lm4FjWEzAj_ugzHovq_RKo88-rPa.m4a",
@@ -13,6 +23,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "三人局畅聊情感话题，探讨恋爱中的拉扯、冷暴力及中年社交困境"
+    },
+    {
+      "guid": "6a733e8c1b5e24969ce97d10",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a733e8c1b5e24969ce97d10/media.xyzcdn.net/6177c78f198954178425773a/loOpXg7m8B-qQyzexR-4sWWKtVTQ.m4a",
+      "pfad": "/v1/episode/9acd140ee337d9a7479f0a4b9bff0ece094ecbf9.json",
+      "titel": "【纪录片《前浪》第2季】看，那些花儿！他们都曾盛开过啊！",
+      "veroeffentlicht": "2026-08-06T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话纪录片《前浪》第2季导演范士广与徐亦泠"
+    },
+    {
+      "guid": "6a5669b727a4eec16c40b7ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a5669b727a4eec16c40b7ca/media.xyzcdn.net/6177c78f198954178425773a/lvt57Val-9u9E5bOXTlYiS-V1mXr.m4a",
+      "pfad": "/v1/episode/02249240f06064810f6ba6f4009d329b2242dc19.json",
+      "titel": "148 【姐妹私懂会】Hyrox，我们做到啦！",
+      "veroeffentlicht": "2026-07-16T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小丝和Jean分享参与Hyrox体能赛的经历、备赛过程与感悟。"
+    },
+    {
+      "guid": "6a44dbf02e335a35a80c689a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a44dbf02e335a35a80c689a/media.xyzcdn.net/6177c78f198954178425773a/ljdpS9lYNyJZtUTeL89gy5dRvjK7.m4a",
+      "pfad": "/v1/episode/d3deb81ee96e5a8ae45177e0550c1b20da7d1a05.json",
+      "titel": "146 学会把自己“养”好：佟掌柜“私家”养生导师来做客",
+      "veroeffentlicht": "2026-07-02T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话懒兔子，探讨如何通过中医养生把自己的身体养好。"
+    },
+    {
+      "guid": "6a324a3e4233e62bc54b54e2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a324a3e4233e62bc54b54e2/media.xyzcdn.net/6177c78f198954178425773a/ltJqh_nNhLB6rJEwjQMnadAXoRqm.m4a",
+      "pfad": "/v1/episode/7dc397e17042d41edfad5cf41f7dd1411e8a3283.json",
+      "titel": "145【姐妹私懂会】身心保持健康、智财持续成长：中女的“长期主义”就这两句话了！",
+      "veroeffentlicht": "2026-06-18T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中女的身心健康与智财成长长期主义"
+    },
+    {
+      "guid": "6a200edf7444b5722232cd62",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a200edf7444b5722232cd62/media.xyzcdn.net/6177c78f198954178425773a/luSVTxLG8KX4N9bnXRVpGYptwdot.m4a",
+      "pfad": "/v1/episode/a25b9d1e93b7c7bee27dab1c04956b6b75c35acc.json",
+      "titel": "144 在纸媒黄金期，我们即便不穿普拉达，也当过魔头",
+      "veroeffentlicht": "2026-06-04T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾纸媒黄金期，探讨时尚摄影变迁与AI时代的创作危机"
+    },
+    {
+      "guid": "6a0da1521b7bd5029584893c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6177c78f198954178425773a/6a0da1521b7bd5029584893c/media.xyzcdn.net/6177c78f198954178425773a/lvzzAJwDaUELH7PXJTN1svnGq1ud.m4a",
+      "pfad": "/v1/episode/f0f4cd349d21f2fde6b8938bce4baefc334ed0e7.json",
+      "titel": "142【姐妹私懂会】投资的那些“坑” 真是“掉完你的掉你的”",
+      "veroeffentlicht": "2026-05-21T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨投资经历与教训，涵盖股票、期权、基金与保险的选择。"
     }
   ]
 }

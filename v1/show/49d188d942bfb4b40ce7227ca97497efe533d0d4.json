@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "Olga姐姐",
   "apple_collection_id": "1788737922",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa8dd8c129fe965d332c1a9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6aa8dd8c129fe965d332c1a9/media.xyzcdn.net/66614d7f71c410f2094974c4/ljBvafqqKLY4m3mxbOGyrOixd1HR.m4a",
+      "pfad": "/v1/episode/597add4f6540be5d79e27231bf208b5b6ff69284.json",
+      "titel": "101.武林高手｜赛道拥挤、内卷严重，还有没有机会？",
+      "veroeffentlicht": "2026-09-17T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨在赛道拥挤和内卷严重的市场中如何寻找商业机会"
+    },
+    {
+      "guid": "6a8bb690ef65145dfcc447fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a8bb690ef65145dfcc447fd/media.xyzcdn.net/66614d7f71c410f2094974c4/liWPpy5UxxYhZeesNRWKwInzgRrS.m4a",
+      "pfad": "/v1/episode/e7cc8c6ab7932fd1ed797a0d8ea77bd1006b753c.json",
+      "titel": "100.天才女友｜用建筑的思路搭建自己的人生",
+      "veroeffentlicht": "2026-09-02T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话建筑师戚山山，探讨成长故事与人生设计。"
+    },
+    {
+      "guid": "6a8bad84ef65145dfcc43fe1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a8bad84ef65145dfcc43fe1/media.xyzcdn.net/66614d7f71c410f2094974c4/lmxKQ_Ap3cFyrezyfz2opq9Rshek.m4a",
+      "pfad": "/v1/episode/c8958a732e0dd3d296a574100683789aa57bbfef.json",
+      "titel": "99.健脑小课堂｜“英年早呆”？别怕还有救",
+      "veroeffentlicht": "2026-08-29T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过科学方法锻炼大脑，保持思维年轻。"
+    },
     {
       "guid": "6a7446c61b5e24969ce9e9a6",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a7446c61b5e24969ce9e9a6/media.xyzcdn.net/66614d7f71c410f2094974c4/luiauPspXW1FvEHNenPX7MmA0eGC.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "听上市公司CEO曾晨分享从基层员工到高管的职场成长经历与建议。"
+    },
+    {
+      "guid": "6a6c73f0b581962ce2be8d65",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a6c73f0b581962ce2be8d65/media.xyzcdn.net/66614d7f71c410f2094974c4/ltK-udfZdh_hXku5zt9hxgAdbh6l.m4a",
+      "pfad": "/v1/episode/66338c679fd41944a6bf465303e82ad3726c9739.json",
+      "titel": "97.反常识！会谈恋爱和不会谈恋爱的人，到底差别在哪里？",
+      "veroeffentlicht": "2026-08-02T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨会谈恋爱与不会谈恋爱之人的核心差距与相处方法"
+    },
+    {
+      "guid": "6a44eb822e335a35a80c72de",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a44eb822e335a35a80c72de/media.xyzcdn.net/66614d7f71c410f2094974c4/lhNF9kJoI-NJLZW8oqhaspbjJQBI.m4a",
+      "pfad": "/v1/episode/5f80c899b558772ee60f9ac608d1b5577f9f3696.json",
+      "titel": "96.财富小课堂｜你和钱的关系怎么样？投资理财宜早不宜迟",
+      "veroeffentlicht": "2026-07-02T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨人与金钱的关系及投资理财的重要性"
+    },
+    {
+      "guid": "6a45064a2e335a35a80c7e75",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a45064a2e335a35a80c7e75/media.xyzcdn.net/66614d7f71c410f2094974c4/lpEq9dYiDmMAhXS8QpJ1nKDGsVZX.m4a",
+      "pfad": "/v1/episode/3e5a63989f455b526829ac687e085de57b3e0cd2.json",
+      "titel": "95.闲聊，值得每一个人认真学习的能力｜串台「卡尼酱和100个快乐的人」",
+      "veroeffentlicht": "2026-07-01T12:51:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨闲聊能力的重要性及相关技巧"
+    },
+    {
+      "guid": "6a3cfc332e335a35a8094947",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a3cfc332e335a35a8094947/media.xyzcdn.net/66614d7f71c410f2094974c4/lk3B7rNcdv0xDDlHj3xNySb_MAB7.m4a",
+      "pfad": "/v1/episode/c24f3ec4b374a326017398aec9b1ffe38e1f0560.json",
+      "titel": "94.武林高手｜古典返场：普通人如何逃离AI“斩杀线”？",
+      "veroeffentlicht": "2026-06-25T10:03:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨普通人如何应对AI技术革新带来的挑战与机遇"
+    },
+    {
+      "guid": "6a30ff6e4233e62bc54ac172",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a30ff6e4233e62bc54ac172/media.xyzcdn.net/66614d7f71c410f2094974c4/lmeVkq591bd45Or_n4dLAbs3O5CI.m4a",
+      "pfad": "/v1/episode/cc828a38a0639120f9f081d3e4ccbcc155e4b7fd.json",
+      "titel": "93.天才女友｜上班累成狗？跟200万“玩咖”博主学几招，花小钱找回生命力",
+      "veroeffentlicht": "2026-06-17T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过培养“会玩”的能力来恢复生命力与应对工作高压。"
+    },
+    {
+      "guid": "6a28c92bdbccffcfa9c67949",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66614d7f71c410f2094974c4/6a28c92bdbccffcfa9c67949/media.xyzcdn.net/66614d7f71c410f2094974c4/lokLOJCBRnDqD1qEbyBwsu4GUOaV.m4a",
+      "pfad": "/v1/episode/86c94ad063fd275e67bab22c9ca639a3e89ad4d0.json",
+      "titel": "92.苗条小课堂｜想瘦听这里，别再吃减肥的苦了",
+      "veroeffentlicht": "2026-06-10T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨健康减脂方法与反内耗瘦身理念"
     }
   ]
 }

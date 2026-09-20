@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "三易菌讲科技",
   "apple_collection_id": "1694257068",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_707330328",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "微信宣布对个人小程序开发者进行强制认证并收费，引发对生态走向的讨论。"
+    },
+    {
+      "guid": "xmly_track_702713477",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEJjNLvACXUkgKhs-dZ.m4a?channel=rss&album_id=72212913&track_id=702713477&uid=445712225&jt=https://aod.cos.tx.xmcdn.com/storages/017c-audiofreehighqps/82/DE/GKwRIUEJjNLvACXUkgKhs-dZ.m4a",
+      "pfad": "/v1/episode/3cbed35a811983c94b114fe54d6296e4e0206b81.json",
+      "titel": "Switch支持D加密？也要成为“正版受害者”吗",
+      "veroeffentlicht": "2024-01-31T04:40:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "电子游戏产业中盗版与反盗版、加密与破解的历史与现状。"
+    },
+    {
+      "guid": "xmly_track_702713236",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIJjNK2ACX1JAKhs88I.m4a?channel=rss&album_id=72212913&track_id=702713236&uid=445712225&jt=https://aod.cos.tx.xmcdn.com/storages/8ed2-audiofreehighqps/0F/76/GKwRIJIJjNK2ACX1JAKhs88I.m4a",
+      "pfad": "/v1/episode/b5848722759ad8503eb15b5e503b8679be25ea82.json",
+      "titel": "All in AI被员工视为“自掘坟墓”，Adobe做错了吗",
+      "veroeffentlicht": "2024-01-29T04:39:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Adobe全面发力人工智能及其引发的内部员工争议。"
+    },
+    {
+      "guid": "xmly_track_699987739",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEJer-bACGItgKbnc3s.m4a?channel=rss&album_id=72212913&track_id=699987739&uid=445712225&jt=https://aod.cos.tx.xmcdn.com/storages/0628-audiofreehighqps/01/C8/GKwRIUEJer-bACGItgKbnc3s.m4a",
+      "pfad": "/v1/episode/84f0dbb2dfe6b74e6b11a8f2a0d40cd09e39fddf.json",
+      "titel": "AIGC独角兽宣布裁员，风口上的猪开始摔下来了",
+      "veroeffentlicht": "2024-01-19T05:37:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Forrester将生成式人工智能列为年度十大新兴技术之首"
     }
   ]
 }

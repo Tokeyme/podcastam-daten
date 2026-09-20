@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "64b7f5f432fb5cf4c964b106",
+  "apple_collection_id": "1699002793",
+  "show": "Buidler Talk｜Web3 对谈",
+  "titel": "E65 | Account Labs 刘力心：账户抽象是钱包的未来",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/64b7f5f432fb5cf4c964b106/media.xyzcdn.net/lmtpUvN_N4emlpA-Yk6kqvwy8ZDt.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:18:39+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨账户抽象的技术概念与钱包领域的未来发展。",
+  "kurzfassung": "本期节目邀请了Account Labs的CEO刘力心，探讨区块链钱包与账户抽象的相关话题。讨论内容涵盖Keystone与UniPass的合并、账户抽象的通俗理解及其竞争阶段。同时，嘉宾还分享了创业团队管理经验以及选择Web3而非AI的原因。",
+  "stichpunkte": [
+    "Keystone与UniPass合并以探索软件钱包的未来",
+    "如何通俗地理解账户抽象技术",
+    "账户抽象领域的竞争现状与早期阶段",
+    "UniPass未来在C端场景的探索规划",
+    "创业团队的管理与经验复制",
+    "为什么选择Web3而不是AI领域"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:18:39+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3322,
+  "veroeffentlicht": "2023-07-19T14:40:52+00:00",
+  "beschreibung": "在区块链的叙事中，与钱包相关的话题一直引起人们的关注，今年来ERC4337和账户抽象被很多buidler寄予厚望，那账户抽象究竟是什么呢？正好最近我们的老朋友keystone和unipass合并成Account labs，在账户抽象领域进一步发力。今天我们邀请到大家熟悉的刘力心，也是我们第一次返场嘉宾，聊聊一聊账户抽象这个话题。\n本次的嘉宾力心是Account Labs的CEO，毕业于浙江大学，创办了keystone硬件钱包公司。\n主持\nFred: all in web3的前行者 twitter: @Dacongfred\n嘉宾\n刘力心：Account Labs的CEO twitter：@BitcoinLixin\n剪辑\n小宇\n时间轴\n08:24 keystone和unipass合并：想探索软件钱包的未来\n20:14 通俗的理解账户抽象：开自动挡汽车\n33:38 账户抽象的竞争还处于非常早期的阶段\n38:51 Unipass未来继续探索C端场景\n41:30 创业团队管理：成熟的东西复制到更多人的身上\n48:33 为什么选择web3而不是AI：web3会改变生产关系\n另外很重要的是，我们最近推出了Buidler Talk听友群，大家对于节目中有任何感兴趣和想讨论的话题都非常欢迎在听友群与我们讨论，我们的节目发布之后，也会第一时间在听友群与大家互动。\n感兴趣的听众小伙伴可以添加wechat: lyc18827425520 进入听友群\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>在区块链的叙事中，与钱包相关的话题一直引起人们的关注，今年来ERC4337和账户抽象被很多buidler寄予厚望，那账户抽象究竟是什么呢？正好最近我们的老朋友keystone和unipass合并成Account labs，在账户抽象领域进一步发力。今天我们邀请到大家熟悉的刘力心，也是我们第一次返场嘉宾，聊聊一聊账户抽象这个话题。</p><p>本次的嘉宾力心是Account Labs的CEO，毕业于浙江大学，创办了keystone硬件钱包公司。</p><p><strong>主持</strong></p><p>Fred: all in web3的前行者 &nbsp;twitter: @Dacongfred</p><p><strong>嘉宾</strong></p><p>刘力心：Account Labs的CEO &nbsp;twitter：@BitcoinLixin</p><p><strong>剪辑</strong></p><p>小宇</p><p><strong>时间轴</strong></p><p>08:24 keystone和unipass合并：想探索软件钱包的未来</p><p>20:14 通俗的理解账户抽象：开自动挡汽车</p><p>33:38 账户抽象的竞争还处于非常早期的阶段</p><p>38:51 Unipass未来继续探索C端场景</p><p>41:30 创业团队管理：成熟的东西复制到更多人的身上</p><p>48:33 为什么选择web3而不是AI：web3会改变生产关系</p><p>另外很重要的是，我们最近推出了Buidler Talk听友群，大家对于节目中有任何感兴趣和想讨论的话题都非常欢迎在听友群与我们讨论，我们的节目发布之后，也会第一时间在听友群与大家互动。</p><p>感兴趣的听众小伙伴可以添加wechat: lyc18827425520 进入听友群</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/64b7f5f432fb5cf4c964b106?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FtSeYPiI8EpRJ5eYfOKv4FltjRc4.jpg"
+}

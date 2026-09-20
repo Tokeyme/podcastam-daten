@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "模棱两可｜罪案播客",
   "apple_collection_id": "1854650477",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa2bdda492687f6aad80061",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6aa2bdda492687f6aad80061/media.xyzcdn.net/6915f084c19df436a2af7f40/lqDLhEPQV7tYvLIxlN3DuMdlVTuN.m4a",
+      "pfad": "/v1/episode/da1cbbf18883f2286acc7eaaf4cf185caa33b3ce.json",
+      "titel": "EP38：七宗罪·贪婪｜约翰·达尔文的死亡账单",
+      "veroeffentlicht": "2026-09-11T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨一起被宣布死亡五年的人突然现身的离奇案件"
+    },
+    {
+      "guid": "6a9125f8a0210c197dc98576",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a9125f8a0210c197dc98576/media.xyzcdn.net/6915f084c19df436a2af7f40/lsjK4wYAbbzmQsbV0reDnisYiksP.m4a",
+      "pfad": "/v1/episode/5e1a4590a780631fb85df5d2f542e8515738a059.json",
+      "titel": "EP37：七宗罪·懒惰｜奥马伊拉·桑切斯的六十小时",
+      "veroeffentlicht": "2026-08-28T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾1985年哥伦比亚火山喷发及13岁女孩奥马伊拉的遭遇"
+    },
     {
       "guid": "6a6b5d4656a3f3491ba79e27",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a6b5d4656a3f3491ba79e27/media.xyzcdn.net/6915f084c19df436a2af7f40/lkq74Tr5ZKjW_Ceyv9iwjmDtWCpY.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "剖析佐川一政食人案及其被日本泡沫经济与媒体消费的畸形历程"
+    },
+    {
+      "guid": "6a617e276356eb2d9be6f53b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a617e276356eb2d9be6f53b/media.xyzcdn.net/6915f084c19df436a2af7f40/lvGFgzi_myto_rBDjDHRYX2ABxuQ.m4a",
+      "pfad": "/v1/episode/a37dd1677383de2022018561d87521fc532e12b6.json",
+      "titel": "EP35：七宗罪·嫉妒｜肯尼斯・哈利韦尔的悲剧人生",
+      "veroeffentlicht": "2026-07-24T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨七宗罪中的嫉妒与肯尼斯・哈利韦尔的悲剧人生"
+    },
+    {
+      "guid": "6a5798a1016dcc7e0542beee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a5798a1016dcc7e0542beee/media.xyzcdn.net/6915f084c19df436a2af7f40/lmIgK1BNBnk6Vt5wCcqQ9I0YLWYo.m4a",
+      "pfad": "/v1/episode/46af559ca11447849d7ae106b6564c764667ee6b.json",
+      "titel": "EP34：七宗罪·傲慢｜埃德蒙·肯珀的权力游戏",
+      "veroeffentlicht": "2026-07-16T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "新系列七宗罪第一期：以精神病学专家视角讲述埃德蒙·肯珀案"
+    },
+    {
+      "guid": "6a45c9c12e335a35a80cb847",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a45c9c12e335a35a80cb847/media.xyzcdn.net/6915f084c19df436a2af7f40/lsBXUhri53XJhqfwRT_WeOxWljsU.m4a",
+      "pfad": "/v1/episode/965c787de049dd7766f1ce3d936e9df84d92e6a2.json",
+      "titel": "EP33：不是我｜一场辛酉邪狱，一部《兹山鱼谱》",
+      "veroeffentlicht": "2026-07-02T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "朝鲜辛酉邪狱与丁若铨流放黑山岛的历史"
+    },
+    {
+      "guid": "6a3cc0902e335a35a8091ebc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a3cc0902e335a35a8091ebc/media.xyzcdn.net/6915f084c19df436a2af7f40/lgPpKYUTE6vxXkZ6ZeBAPNv_jeEj.m4a",
+      "pfad": "/v1/episode/768f5b7a16a0368bc5d20aba8b519b8cb13bedb1.json",
+      "titel": "EP32：还是我｜棱镜门丑闻，收集你的一切",
+      "veroeffentlicht": "2026-06-25T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾棱镜门丑闻与美国国家安全局的数据监控计划"
+    },
+    {
+      "guid": "6a3383f94233e62bc54bd760",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a3383f94233e62bc54bd760/media.xyzcdn.net/6915f084c19df436a2af7f40/lt311vCNCo7sGyI9DG9VXzf8IjAv.m4a",
+      "pfad": "/v1/episode/6f0ca5100421c06ad2b7768534b8c4844f7fb696.json",
+      "titel": "EP31：还是我｜山神的惩戒，北海道鬼鹿山连续杀人事件",
+      "veroeffentlicht": "2026-06-18T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "北海道鬼鹿山连续杀人事件与阿伊努族的山神惩戒传说"
+    },
+    {
+      "guid": "6a2ac8f9028e84948f29224d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a2ac8f9028e84948f29224d/media.xyzcdn.net/6915f084c19df436a2af7f40/lsPgQE-JRu3mr5DCgj3P61QkIrJe.m4a",
+      "pfad": "/v1/episode/8b58d741f06e780c99a45814c076b2df0847db66.json",
+      "titel": "EP30：我｜隐入风雪，加州尤巴县五人失踪案",
+      "veroeffentlicht": "2026-06-12T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "加州尤巴县五人失踪案与雪线公路上的求救谜团"
+    },
+    {
+      "guid": "6a219adeb30e1571aea0c928",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6915f084c19df436a2af7f40/6a219adeb30e1571aea0c928/media.xyzcdn.net/6915f084c19df436a2af7f40/lkGUlf58tt8rqRtIGM_LsIvsKk8I.m4a",
+      "pfad": "/v1/episode/01cf041092a0f21678f74aa1cd27f3e721d1c2d9.json",
+      "titel": "EP29：我｜足球绅士之死，哥伦比亚乌龙球谋杀案",
+      "veroeffentlicht": "2026-06-05T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾1994年哥伦比亚球员埃斯科巴因乌龙球遭枪击身亡的案件"
     }
   ]
 }

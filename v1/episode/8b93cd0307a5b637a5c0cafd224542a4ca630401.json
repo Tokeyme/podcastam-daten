@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6aac66c29d326477816acfae",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] 从机器人的快慢双脑、二阶协同剪枝，到破解Adam的秘密地图",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aac66c29d326477816acfae/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/ljXruBuW6z6XSjOUNlTk1zAnDhOV.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:15:09+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨机器人的快慢双脑、大模型剪枝、Adam优化器及AI基准测试。",
+  "kurzfassung": "本期节目探讨了多篇最新的AI前沿论文。内容涵盖赋予机器人实时反应能力的快慢双脑架构，以及大语言模型专家的二阶协同剪枝方法。此外，节目还分析了Adam优化器参数背后的稳定性相图，并讨论了长任务AI助手中隐藏错误的定位与基准测试受污染的问题。",
+  "stichpunkte": [
+    "机器人实现实时反应的快慢双脑架构",
+    "混合专家大语言模型的二阶协同剪枝方法",
+    "Adam优化器参数背后的稳定性相图",
+    "长任务AI智能体中隐藏错误的定位与可靠性提升",
+    "被污染的基准测试对自我进化AI的影响"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:15:09+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1686,
+  "veroeffentlicht": "2026-09-17T22:52:09+00:00",
+  "beschreibung": "本期我们将通过几篇最新论文，看看研究者如何给机器人装上“快慢双脑”以实现实时反应，又如何用“二阶思维”为大模型精准剪枝、保留专家的协作默契。我们还将破解Adam优化器参数背后的“悬崖地图”，并派出一个小巧的“侦察兵”模型，去揪出长任务AI悄悄犯下的隐藏错误。最后，我们要警惕一碗“毒鸡汤”考题，看看被污染的基准测试是如何诱导自我进化的AI，把坏习惯固化成肌肉记忆的。\n00:00:34 机器人也需要条件反射\n00:05:04 裁员的智慧，你以为的庸才，可能是团队的粘合剂\n00:10:16 你手里的工具，藏着一张秘密地图\n00:16:28 你的AI助手，可能正在悄悄搞破坏\n00:22:15 一碗“毒鸡汤”，如何带歪一个自我进化的AI\n本期介绍的几篇论文：\n[RO] Reinforcement Learning for Real-Time Vision-Language-Action Policies\n[Stanford University]\nhttps://arxiv.org/abs/2609.18207\n---\n[LG] Higher-order pruning of experts in mixture-of-experts language models\n[AWS Agentic AI]\nhttps://arxiv.org/abs/2609.18916\n---\n[LG] Beyond Quadratic Loss：The Stability Phase Diagram of Adam\n[Tsinghua University]\nhttps://arxiv.org/abs/2609.18314\n---\n[LG] Locating Hidden Failures Makes Long-Horizon Agents More Reliable\n[Google DeepMind & University of California, Los Angeles & Google Research]\nhttps://arxiv.org/abs/2609.17930\n---\n[AI] Reflections on Trusting Trust，Revisited：Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks\n[University of Washington & Georgetown University]\nhttps://arxiv.org/abs/2609.17817\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本期我们将通过几篇最新论文，看看研究者如何给机器人装上“快慢双脑”以实现实时反应，又如何用“二阶思维”为大模型精准剪枝、保留专家的协作默契。我们还将破解Adam优化器参数背后的“悬崖地图”，并派出一个小巧的“侦察兵”模型，去揪出长任务AI悄悄犯下的隐藏错误。最后，我们要警惕一碗“毒鸡汤”考题，看看被污染的基准测试是如何诱导自我进化的AI，把坏习惯固化成肌肉记忆的。</p><p><a class=\"timestamp\">00:00:34</a> 机器人也需要条件反射</p><p><a class=\"timestamp\">00:05:04</a> 裁员的智慧，你以为的庸才，可能是团队的粘合剂</p><p><a class=\"timestamp\">00:10:16</a> 你手里的工具，藏着一张秘密地图</p><p><a class=\"timestamp\">00:16:28</a> 你的AI助手，可能正在悄悄搞破坏</p><p><a class=\"timestamp\">00:22:15</a> 一碗“毒鸡汤”，如何带歪一个自我进化的AI</p><p>本期介绍的几篇论文：</p><p>[RO] Reinforcement Learning for Real-Time Vision-Language-Action Policies</p><p>[Stanford University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.18207\">https://arxiv.org/abs/2609.18207</a></p><p>---</p><p>[LG] Higher-order pruning of experts in mixture-of-experts language models</p><p>[AWS Agentic AI]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.18916\">https://arxiv.org/abs/2609.18916</a></p><p>---</p><p>[LG] Beyond Quadratic Loss：The Stability Phase Diagram of Adam</p><p>[Tsinghua University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.18314\">https://arxiv.org/abs/2609.18314</a></p><p>---</p><p>[LG] Locating Hidden Failures Makes Long-Horizon Agents More Reliable</p><p>[Google DeepMind &amp; University of California, Los Angeles &amp; Google Research]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.17930\">https://arxiv.org/abs/2609.17930</a></p><p>---</p><p>[AI] Reflections on Trusting Trust，Revisited：Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks</p><p>[University of Washington &amp; Georgetown University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.17817\">https://arxiv.org/abs/2609.17817</a></p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aac66c29d326477816acfae?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"
+}

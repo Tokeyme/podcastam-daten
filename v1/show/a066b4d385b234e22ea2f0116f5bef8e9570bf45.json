@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "即兴对谈",
   "apple_collection_id": "1878554738",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aad7afc0916f6f8b4458859",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6aad7afc0916f6f8b4458859/media.xyzcdn.net/698de39e95b36fce11ddc9ca/ljsA_zOZed-hqDt2UspfH9I6i7AZ.m4a",
+      "pfad": "/v1/episode/d4242ed1405bf909797aedab6a3230d2a1d38059.json",
+      "titel": "建筑师/即兴演员/绘画疗愈者的GAP期探索 | 对话茶下",
+      "veroeffentlicht": "2026-09-20T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "建筑设计师与即兴演员的GAP期探索与跨界经验。"
+    },
+    {
+      "guid": "6a9ae63fa0210c197dcda262",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a9ae63fa0210c197dcda262/media.xyzcdn.net/698de39e95b36fce11ddc9ca/llN71_2rqSA3ApJThjRixaTjf-Bg.m4a",
+      "pfad": "/v1/episode/1a4cd68c56bc65d4847e00cf3eecce1c81407d9a.json",
+      "titel": "靠即兴喜剧，找回了被 \"没收\" 的童年 | 对话小左",
+      "veroeffentlicht": "2026-09-05T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话小左：靠即兴喜剧找回被没收的童年"
+    },
     {
       "guid": "6a888487ef65145dfcc3587a",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a888487ef65145dfcc3587a/media.xyzcdn.net/698de39e95b36fce11ddc9ca/ljUec969yKOhpkXgxbKXM6pt5ySo.m4a",
@@ -13,6 +33,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "即兴演员如何与观众保持连接？佳哥分享了三个实用方法。"
+    },
+    {
+      "guid": "6a7ee92736641f136d883c89",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a7ee92736641f136d883c89/media.xyzcdn.net/698de39e95b36fce11ddc9ca/luM0OVq2qLvbNwg-vb6TnNiPy8o0.m4a",
+      "pfad": "/v1/episode/db9900dfdd4728250241a47dd6ec27235298cd80.json",
+      "titel": "全日制喜剧特训营的背后 | 对话赛文",
+      "veroeffentlicht": "2026-08-14T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话在读博士编剧赛文，聊聊全日制喜剧特训营的经历"
+    },
+    {
+      "guid": "6a760942000a55a9bb049074",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a760942000a55a9bb049074/media.xyzcdn.net/698de39e95b36fce11ddc9ca/lrXJ8LTXaGwDRh90We7emlfg986Z.m4a",
+      "pfad": "/v1/episode/c681be1975adf2c78d96dce3d09e669740c427ee.json",
+      "titel": "积累积累还是积累：为什么它是成功的基础",
+      "veroeffentlicht": "2026-08-08T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨积累为何是成功的基础及其具体表现形式。"
+    },
+    {
+      "guid": "6a631e4ca3fec224d5a2b153",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a631e4ca3fec224d5a2b153/media.xyzcdn.net/698de39e95b36fce11ddc9ca/ltwvHm2BQAcK0C27ESqD4dQY-8JK.m4a",
+      "pfad": "/v1/episode/d1fdf5056e8430e393c46da11d5a94646665c4a7.json",
+      "titel": "如何在大厂办好即兴喜剧的演出 | 对话毛绒绒",
+      "veroeffentlicht": "2026-07-25T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何在互联网大厂成功举办即兴喜剧演出。"
+    },
+    {
+      "guid": "6a511a8f4adef2b365620a5d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a511a8f4adef2b365620a5d/media.xyzcdn.net/698de39e95b36fce11ddc9ca/lmAkpfy3Dp3CDBZhMn5Wt3_TAG4T.m4a",
+      "pfad": "/v1/episode/6114fb7ed962e44363fb4e1eb11929c7888fe4b1.json",
+      "titel": "用热爱谋生：一个即兴演员的商业化实验 | 对话学俊",
+      "veroeffentlicht": "2026-07-11T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨非科班背景下即兴演员的职业转型与商业化探索。"
+    },
+    {
+      "guid": "6a3d47192e335a35a8097067",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a3d47192e335a35a8097067/media.xyzcdn.net/698de39e95b36fce11ddc9ca/lm0rmSn6kOcRis--hWXCRN15Nu1n.m4a",
+      "pfad": "/v1/episode/f1de5a60d7ecdbb7886d78e7bbf902f058889ae9.json",
+      "titel": "两次拒稿教会我的一件事：低头记录自己的日子",
+      "veroeffentlicht": "2026-06-27T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享两次向米未投稿失败的经验与复盘"
+    },
+    {
+      "guid": "6a2c0e3d4233e62bc548d48e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a2c0e3d4233e62bc548d48e/media.xyzcdn.net/698de39e95b36fce11ddc9ca/luVyGgVHN416JpB97-TJfq0waIoD.m4a",
+      "pfad": "/v1/episode/21d751ffdd359ec7b292ab2b51e4eb3ad1ee08a7.json",
+      "titel": "六年即兴的演员，是如何生活的 | 对话培钧",
+      "veroeffentlicht": "2026-06-13T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话培钧，聊聊六年即兴演员的生活与思考"
+    },
+    {
+      "guid": "6a19bc2aac7bdb080c32eda4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a19bc2aac7bdb080c32eda4/media.xyzcdn.net/698de39e95b36fce11ddc9ca/lu2CRqed-bP880XDMD0zU8GSutyq.m4a",
+      "pfad": "/v1/episode/ac3694134130a291362c02f0dd84caef8fbc5d72.json",
+      "titel": "野生即兴夜：不被定义的生长 | 对话芋头",
+      "veroeffentlicht": "2026-05-30T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话野生即兴夜发起人芋头，聊去中心化即兴实验的半年探索。"
+    },
+    {
+      "guid": "6a07407f1b7bd502953abdeb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698de39e95b36fce11ddc9ca/6a07407f1b7bd502953abdeb/media.xyzcdn.net/698de39e95b36fce11ddc9ca/ljCb7Y4Tm31CBtkYYJLgKVFErIkG.m4a",
+      "pfad": "/v1/episode/d483228628fcf1b15d29109b4f856d60aed549b6.json",
+      "titel": "听无聊斋拆解章泽天采访，我顺走了5个素材挖掘技巧",
+      "veroeffentlicht": "2026-05-16T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "拆解播客访谈中的素材挖掘技巧"
     }
   ]
 }

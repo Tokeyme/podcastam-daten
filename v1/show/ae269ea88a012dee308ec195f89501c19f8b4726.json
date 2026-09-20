@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "别去读书",
   "apple_collection_id": "1643468603",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa88a53129fe965d33290b3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6aa88a53129fe965d33290b3/media.xyzcdn.net/613f476352059fb774eb6494/lrFwqhWnScu9-oVuwu5FyL5J-6wC.m4a",
+      "pfad": "/v1/episode/d4e5ef8e328df007bf31ce0512055130314c4375.json",
+      "titel": "106 / 一个日新月异的你，就应当匹配这个不确定性的世界",
+      "veroeffentlicht": "2026-09-15T00:05:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何在一个不确定的世界里接受变化并寻找自我确定性"
+    },
+    {
+      "guid": "6a94c572f03e74ee6b024d94",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6a94c572f03e74ee6b024d94/media.xyzcdn.net/613f476352059fb774eb6494/lhaJH8keYUreGICMbBGfRGUYq5fz.m4a",
+      "pfad": "/v1/episode/1f12283c8f42d90aae897e0ee536bdf663b1e00a.json",
+      "titel": "105 / 咱们是模仿着什么概念/理想模型成长起来的？",
+      "veroeffentlicht": "2026-08-31T00:32:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨我们在成长过程中如何模仿各种概念与理想模型。"
+    },
     {
       "guid": "6a7f851617676351c5721130",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6a7f851617676351c5721130/media.xyzcdn.net/613f476352059fb774eb6494/lvbWllNJ7kvcm6FUNVDx-1PxaOXu.m4a",
@@ -13,6 +33,76 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨食物与物质欲望的满足方式，以及对自我情感容器和日常物件的深度审视。"
+    },
+    {
+      "guid": "6a6bee13b581962ce2be3745",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6a6bee13b581962ce2be3745/media.xyzcdn.net/613f476352059fb774eb6494/loNePhMt_ltfU9m7HswR_ULcqDdJ.m4a",
+      "pfad": "/v1/episode/4f2b60f33db6de0f517af9aa4a723b274cfbbeb6.json",
+      "titel": "103 / 到底要怎么过日子才能迂作？",
+      "veroeffentlicht": "2026-07-31T00:40:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨什么是“迂作”及其在日常生活中的表现与体验"
+    },
+    {
+      "guid": "6a566428ca0de6c44ae724cf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6a566428ca0de6c44ae724cf/media.xyzcdn.net/613f476352059fb774eb6494/ltUWlcqnhT-9krZlBR60_Ze0T6PP.m4a",
+      "pfad": "/v1/episode/3a0b707d84cc6b765efb84eb223df725645972d7.json",
+      "titel": "102 / 朋友，你也在备战洛杉矶奥运会吗？",
+      "veroeffentlicht": "2026-07-14T23:50:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨身边的运动热潮与个人运动体验"
+    },
+    {
+      "guid": "6a432dbe9d2f574368400263",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6a432dbe9d2f574368400263/media.xyzcdn.net/613f476352059fb774eb6494/lsyMkqqS3IYQGvNtXdpf-pyFysNZ.m4a",
+      "pfad": "/v1/episode/d723d66bcf5e1f808507f245f2aaa777183c1c81.json",
+      "titel": "101 / 小切口的文艺作品，大漏洞的现实人生？｜非典型书影音季度报告",
+      "veroeffentlicht": "2026-06-30T02:56:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨小切口文艺作品背后映照出的现实人生"
+    },
+    {
+      "guid": "6a2f3a6843a22a695583bf20",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6a2f3a6843a22a695583bf20/media.xyzcdn.net/613f476352059fb774eb6494/lhAiFshkA5Xnf1cl0N4dSFqj4LBN.m4a",
+      "pfad": "/v1/episode/0d36ba87aabaa095fea2d10c7ebd8600120b0d1e.json",
+      "titel": "100 / 一百期了，让我们再共赴人生一程",
+      "veroeffentlicht": "2026-06-15T00:14:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "庆祝播客第一百期并回顾三年未断更历程"
+    },
+    {
+      "guid": "6a03baa5e1eb34a939481a19",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/6a03baa5e1eb34a939481a19/media.xyzcdn.net/613f476352059fb774eb6494/lgIwcb3cwFE_H19QW_Lo8YdNeOry.m4a",
+      "pfad": "/v1/episode/7fa43f7156bf1ac2fc2703a2a0efdd7cc859da76.json",
+      "titel": "099 / 面对情绪，不要时常受力，也不要过分解离",
+      "veroeffentlicht": "2026-05-15T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何面对情绪，避免过度受力与解离"
+    },
+    {
+      "guid": "69f1e378fbed7ba9411c7d47",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/69f1e378fbed7ba9411c7d47/media.xyzcdn.net/613f476352059fb774eb6494/lg4O2Ula40-_O4d9jrb7flqhPy-q.m4a",
+      "pfad": "/v1/episode/9f630192e5bf3bc1868c912b8c7b1f8fffd44d70.json",
+      "titel": "098 / 我们！工作状态全情待机中！🤫",
+      "veroeffentlicht": "2026-04-29T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两位主播探讨了长期加班状态下的工作维持与心理调整。"
+    },
+    {
+      "guid": "69dec650b977fb2c47f3ad57",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/613f476352059fb774eb6494/69dec650b977fb2c47f3ad57/media.xyzcdn.net/613f476352059fb774eb6494/lqaj3nCGxspE5GnNbn86Qu60G5KS.m4a",
+      "pfad": "/v1/episode/cb2466b69be0c2dbfcd49fcff8b4509ffe8895f6.json",
+      "titel": "097 / 不再是随时吸收的海绵，成年人学习很难so easy",
+      "veroeffentlicht": "2026-04-14T23:03:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "成年人为什么很难学习新事物？"
     }
   ]
 }

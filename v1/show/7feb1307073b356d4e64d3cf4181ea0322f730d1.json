@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "智者访谈",
   "apple_collection_id": "1802831484",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "67e4d32651d887b229301070",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨大模型可解释性，解析神经网络背后的数学机理与等效交互体系。"
+    },
+    {
+      "guid": "67e38a5caf5840b3335fb618",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67e38a5caf5840b3335fb618/media.xyzcdn.net/6650363fac69187b785025bc/lqvt716jFwqpRH-h-9AiN22jRrT_.m4a",
+      "pfad": "/v1/episode/d711d8543ddcb37768241469888c2efd9ede63d0.json",
+      "titel": "10. 清华翟季冬：DeepSeek 百倍算力效能背后的系统革命",
+      "veroeffentlicht": "2025-03-26T05:07:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "清华翟季冬谈DeepSeek背后的系统革命"
+    },
+    {
+      "guid": "67e239a6dd11f9c8c1f0e1bc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67e239a6dd11f9c8c1f0e1bc/media.xyzcdn.net/6650363fac69187b785025bc/lkrDL1mHcXYdSZI1BQlA0Lej83uK.m4a",
+      "pfad": "/v1/episode/dee9e29e6096fd352a7d9d099f1cb285555c4e9c.json",
+      "titel": "09. 小米语音首席科学家 Daniel Povey：语音识别卷完了，下一个机会在哪里？",
+      "veroeffentlicht": "2025-03-25T05:10:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话小米语音首席科学家Daniel Povey：探讨AI与语音识别的下一个机遇"
+    },
+    {
+      "guid": "67e113b278103db3bd8bd295",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67e113b278103db3bd8bd295/media.xyzcdn.net/6650363fac69187b785025bc/lhsyCMqYOYYL9M2vptOgE9t9WVuI.m4a",
+      "pfad": "/v1/episode/436af796f81b773b4f6a1cdf192e19cd3ad0c658.json",
+      "titel": "08. 图森未来陈默：自动驾驶无以为继急转AIGC游戏，拿下金庸群侠传、三体IP",
+      "veroeffentlicht": "2025-03-24T08:17:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话图森未来陈默：从自动驾驶转向AIGC游戏与《三体》IP"
+    },
+    {
+      "guid": "67dd10dadd11f9c8c128c42f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67dd10dadd11f9c8c128c42f/media.xyzcdn.net/6650363fac69187b785025bc/lirdMdjUMvuijQJzPMGpySFB4Vs5.m4a",
+      "pfad": "/v1/episode/408915a2cf2b774857e60e2b4e2035ccea1b8430.json",
+      "titel": "07. 清华赵明国：智能人形机器人≠智能+人形",
+      "veroeffentlicht": "2025-03-23T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话清华大学赵明国：从运动控制视角看人形机器人发展"
+    },
+    {
+      "guid": "67dd1062dd11f9c8c128a9a3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67dd1062dd11f9c8c128a9a3/media.xyzcdn.net/6650363fac69187b785025bc/lp_XlIDFhE69mT5JVpxsWIDseZfK.m4a",
+      "pfad": "/v1/episode/dd8762870036716c3a8bce7603f45324d6116472.json",
+      "titel": "06. AI 蛋白质夺诺奖，清华聂再清：大模型解码生物语言",
+      "veroeffentlicht": "2025-03-22T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI如何通过大模型解码生物语言并赋能药物研发"
+    },
+    {
+      "guid": "67dd0dd0dd11f9c8c127f094",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67dd0dd0dd11f9c8c127f094/media.xyzcdn.net/6650363fac69187b785025bc/ljeagvTwsOMtGWgU_L5OXXkW6BWJ.m4a",
+      "pfad": "/v1/episode/667ad0b2b46142cdc9b298e1d9adc5c57a7879b1.json",
+      "titel": "05. 北大王立威：理论视角看大模型，为什么AI既聪明又愚蠢",
+      "veroeffentlicht": "2025-03-21T07:11:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从机器学习理论视角探讨大模型的能力边界与未来发展"
+    },
+    {
+      "guid": "67db9734dd11f9c8c1de125d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67db9734dd11f9c8c1de125d/media.xyzcdn.net/6650363fac69187b785025bc/llOmN53adPpZamt4d57CMdGjOLsL.m4a",
+      "pfad": "/v1/episode/16c0215b9d96583fb6d2e791c7fb7ff48ba36154.json",
+      "titel": "04. 腾讯混元大模型负责人王迪：揭秘万亿 MoE 系统工程之道",
+      "veroeffentlicht": "2025-03-20T04:38:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨腾讯万亿级MoE大模型的自研历程与系统工程之道"
+    },
+    {
+      "guid": "67da3d0678103db3bd64844a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67da3d0678103db3bd64844a/media.xyzcdn.net/6650363fac69187b785025bc/lms_vLpoGrze97JrI51YPFUN2NnS.m4a",
+      "pfad": "/v1/episode/76c5c930ca0c02124dc6ce04920e267a67d512d8.json",
+      "titel": "03. 技术发展中、巨头博弈下的AI开源",
+      "veroeffentlicht": "2025-03-19T04:06:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI开源与封闭之争及行业未来走向"
+    },
+    {
+      "guid": "67d941fb78103db3bd38d8e1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6650363fac69187b785025bc/67d941fb78103db3bd38d8e1/media.xyzcdn.net/6650363fac69187b785025bc/lk7qlD1SfSUokxcjff-wQ3IhIM_C.m4a",
+      "pfad": "/v1/episode/273c994e4056be76affa7054c77abea77abb458e.json",
+      "titel": "02. 蚂蚁密算董事长韦韬：从智算到密算，大模型数据困境新解法",
+      "veroeffentlicht": "2025-03-18T11:13:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大模型落地的数据困境与密算解决方案"
     }
   ]
 }

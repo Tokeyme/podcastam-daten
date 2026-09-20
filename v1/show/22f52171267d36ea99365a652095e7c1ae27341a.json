@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "所有女性的健康指南",
   "apple_collection_id": "1729987520",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_719363361",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨母乳喂养的科学方法、常见误区以及如何缓解新手妈妈的焦虑。"
+    },
+    {
+      "guid": "xmly_track_714757383",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAJyynLAhLl9wK4cyw3.m4a?channel=rss&album_id=80423936&track_id=714757383&uid=499216306&jt=https://aod.cos.tx.xmcdn.com/storages/893b-audiofreehighqps/1E/EB/GKwRIMAJyynLAhLl9wK4cyw3.m4a",
+      "pfad": "/v1/episode/cf1fd89d59dce9b1781bf866bce8d1071201a126.json",
+      "titel": "vol.3 母婴健康：新手爸妈的婴儿护理指南 | 对谈徐凌燕副主任",
+      "veroeffentlicht": "2024-03-16T09:28:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "新手爸妈的婴儿护理指南与常见问题解析"
+    },
+    {
+      "guid": "xmly_track_710420847",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEJuKTrAdc8iwKw3b7x.m4a?channel=rss&album_id=80423936&track_id=710420847&uid=499216306&jt=https://aod.cos.tx.xmcdn.com/storages/8083-audiofreehighqps/6E/C6/GKwRIJEJuKTrAdc8iwKw3b7x.m4a",
+      "pfad": "/v1/episode/ac9bb7d9f6f41f2c2f50e84fc4cb358af20552e5.json",
+      "titel": "vol.2 妇科：白带&月经，读懂身体发出的信号 | 对谈王悦主任",
+      "veroeffentlicht": "2024-03-02T08:21:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话王悦主任，解读妇科白带与月经等身体信号。"
+    },
+    {
+      "guid": "xmly_track_707011531",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEJppTsACAAAAKplJOJ.m4a?channel=rss&album_id=80423936&track_id=707011531&uid=499216306&jt=https://aod.cos.tx.xmcdn.com/storages/40d5-audiofreehighqps/5E/3C/GKwRIJEJppTsACAAAAKplJOJ.m4a",
+      "pfad": "/v1/episode/5978f7eaaf08d23ed79c6561314164afa4e39694.json",
+      "titel": "vol.1 妇产科急诊：这些情况等不了 | 对谈高云医生",
+      "veroeffentlicht": "2024-02-17T15:37:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近妇产科急诊室，了解日常工作与人间冷暖。"
+    },
+    {
+      "guid": "xmly_track_705493318",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasJm6n6ACAAAAKmx47e.m4a?channel=rss&album_id=80423936&track_id=705493318&uid=499216306&jt=https://aod.cos.tx.xmcdn.com/storages/612f-audiofreehighqps/9A/13/GKwRIasJm6n6ACAAAAKmx47e.m4a",
+      "pfad": "/v1/episode/287b88cc4bb0f950bdcef94d258618098bdfee37.json",
+      "titel": "vol.0 用专业医疗科普为女生们穿上铠甲 | 对谈徐凌燕副主任",
+      "veroeffentlicht": "2024-02-09T08:57:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨女性健康问题，解读体检报告与身体信号"
     }
   ]
 }

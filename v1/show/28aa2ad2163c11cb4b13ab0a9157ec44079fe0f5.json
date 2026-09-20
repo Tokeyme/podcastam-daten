@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "強哥說故事",
   "apple_collection_id": "1522355139",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "cmk020dwd0u8k01ry5k942ah0",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "走入福山植物園水深植物池，聆聽山林秘境中生生不息的自然之聲。"
+    },
+    {
+      "guid": "cmk01uxmk0u7v01ryb3obhc1t",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cmk01uxmk0u7v01ryb3obhc1t/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcmk01uxmk0u7w01ry776z22sa.mp3?v=1789312029156",
+      "pfad": "/v1/episode/2e6e2a70f9c3063d9cf7d106d64df73d1b5a505d.json",
+      "titel": "強哥留聲機｜花蓮小村的晚上",
+      "veroeffentlicht": "2026-01-05T00:02:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "花蓮小村莊的晚上"
+    },
+    {
+      "guid": "cmix4vagk00mr01ut55gh17nl",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cmix4vagk00mr01ut55gh17nl/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcmix4vagk00ms01utdo8p97wc.mp3?v=1788200862669",
+      "pfad": "/v1/episode/515bb0ef61a82ea1d5890eb0c55f139c25bc33aa.json",
+      "titel": "強哥留聲機｜修紗窗與莫非定律",
+      "veroeffentlicht": "2025-12-29T00:02:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "修理紗窗與莫非定律的日常故事。"
+    },
+    {
+      "guid": "cmix4pymx001e01u74pn77oea",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cmix4pymx001e01u74pn77oea/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcmix4pymx001f01u7b0iw823y.mp3?v=1788201334870",
+      "pfad": "/v1/episode/6fadebf7b5a62d528efe823954156a962af33d77.json",
+      "titel": "強哥留聲機｜超會模仿的「百舌」－伯勞鳥",
+      "veroeffentlicht": "2025-12-22T00:02:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討身心障礙者面臨的環境與制度挑戰"
+    },
+    {
+      "guid": "cmix4jmsu00cq01wh05872jw4",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cmix4jmsu00cq01wh05872jw4/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcmix4jmsu00cr01wh6sa5cb1q.mp3?v=1789354543907",
+      "pfad": "/v1/episode/51c6900179934f75e9348a01eed837cc66e42b2d.json",
+      "titel": "強哥留聲機｜吹口哨的黃鸝鳥",
+      "veroeffentlicht": "2025-12-15T00:02:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介紹2026台灣設計展桃園都發局展區與未來城市想像"
+    },
+    {
+      "guid": "cmic9fktk02pw01yb9dok8302",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cmic9fktk02pw01yb9dok8302/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcmic9fktk02px01yb0zgdgz2g.mp3?v=1789367219698",
+      "pfad": "/v1/episode/391d60a08486dedeaef9d95c131c52d70084d9c1.json",
+      "titel": "強哥留聲機｜熱鬧的年貨大街",
+      "veroeffentlicht": "2025-12-07T22:02:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介紹迪化街的熱鬧年貨大街與相關內容。"
+    },
+    {
+      "guid": "cmic9ou9802qi01ybec1e2vp2",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cmic9ou9802qi01ybec1e2vp2/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcmic9ou9802qj01ybgtp37koe.mp3?v=1788250009175",
+      "pfad": "/v1/episode/681a420d22b55e3e1841cf90778511b0d214100f.json",
+      "titel": "強哥留聲機｜我愛棒球",
+      "veroeffentlicht": "2025-11-30T22:02:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "強哥新節目開張與棒球主題內容"
+    },
+    {
+      "guid": "cmic94gmp012701uneul8aazq",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cmic94gmp012701uneul8aazq/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcmic94gmp012801undrw25jl4.mp3?v=1788619568340",
+      "pfad": "/v1/episode/708a45fa7954e21643cca172e9f40575a56c8434.json",
+      "titel": "強哥留聲機｜九份國小的擂鼓聲",
+      "veroeffentlicht": "2025-11-23T22:02:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討面對照顧歷程的現實焦慮與生命重量"
+    },
+    {
+      "guid": "cls33ylwi02pn01utblx3b5g8",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cls33ylwi02pn01utblx3b5g8/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcls33ylwi02po01utdp1f0rm6.mp3?v=1788619628938",
+      "pfad": "/v1/episode/9fe60aaae7ce94ecbd11e664cc34d81dfc972fc3.json",
+      "titel": "天會不會塌下來",
+      "veroeffentlicht": "2024-02-15T22:16:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "作家黃大米談人生照顧與情感故事。"
+    },
+    {
+      "guid": "cls33tw1s030001trct4p3gtt",
+      "audio_url": "https://m.cdn.firstory.me/track/ckv1axyh01z7m0834wc3gytoz/cls33tw1s030001trct4p3gtt/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckv1axyh01z7m0834wc3gytoz%2Fcls33tw1t030101trcnvg7ks1.mp3?v=1788618376946",
+      "pfad": "/v1/episode/732404b1bd3bed52f233e2376c52b871f8600715.json",
+      "titel": "天會不會塌下來@強哥會客室",
+      "veroeffentlicht": "2024-02-15T22:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "作家葉揚分享面對至親病情與照顧經驗。"
     }
   ]
 }

@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "两杆老烟枪FM",
   "apple_collection_id": "1769318040",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1011995638",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIOdASnAhf5TgTTJ5Vp.m4a?channel=rss&album_id=31195070&track_id=1011995638&uid=39195413&jt=https://aod.cos.tx.xmcdn.com/storages/d249-audiofreehighqps/DF/A0/GKwRIJIOdASnAhf5TgTTJ5Vp.m4a",
+      "pfad": "/v1/episode/3c169a9969c75874aef87be43443b9b1466d02da.json",
+      "titel": "第7季Vol.12 满目巨星空念远，哈厄才是眼前人",
+      "veroeffentlicht": "2026-09-07T04:42:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨近期足球比赛中的焦点表现与争议瞬间。"
+    },
+    {
+      "guid": "xmly_track_1008310323",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwOYb6gAgHQmgTLsY4G.m4a?channel=rss&album_id=31195070&track_id=1008310323&uid=39195413&jt=https://aod.cos.tx.xmcdn.com/storages/6dd6-audiofreehighqps/8C/1B/GKwRIRwOYb6gAgHQmgTLsY4G.m4a",
+      "pfad": "/v1/episode/5103aeaaa9c2c6c6980cb2aec70c26e06c97e8b9.json",
+      "titel": "第7季Vol.08 瓜派还是克派？英超门派大对决",
+      "veroeffentlicht": "2026-08-24T08:04:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英超门派大对决与瓜迪奥拉、克洛普的战术影响。"
+    },
     {
       "guid": "xmly_track_1007453581",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4OXHjxAfn_QgTJjAj_.m4a?channel=rss&album_id=31195070&track_id=1007453581&uid=39195413&jt=https://aod.cos.tx.xmcdn.com/storages/f03c-audiofreehighqps/03/1A/GKwRIW4OXHjxAfn_QgTJjAj_.m4a",
@@ -13,6 +33,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨阿森纳引援、出售青训球员的无情现实及对新赛季英超的争冠预测。"
+    },
+    {
+      "guid": "xmly_track_1006865809",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoOWG3BAf2veQTH67G9.m4a?channel=rss&album_id=31195070&track_id=1006865809&uid=39195413&jt=https://aod.cos.tx.xmcdn.com/storages/8c7e-audiofreehighqps/6B/72/GKwRIDoOWG3BAf2veQTH67G9.m4a",
+      "pfad": "/v1/episode/5f2486a951568c53455970ec11e69f52dca6f3b0.json",
+      "titel": "第7季Vol.06 厄德高封神一战，措利斯天使降临",
+      "veroeffentlicht": "2026-08-17T06:28:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨社区盾杯赛事、厄德G表现及转会市场动态。"
     }
   ]
 }

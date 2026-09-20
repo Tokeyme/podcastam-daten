@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "大星电台 | 暖男情感夜话",
   "apple_collection_id": "1384824333",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_733608053",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasKOQayAB4sNALenesZ.m4a?channel=rss&album_id=15057064&track_id=733608053&uid=112090288&jt=https://aod.cos.tx.xmcdn.com/storages/c3dc-audiofreehighqps/DA/3F/GKwRIasKOQayAB4sNALenesZ.m4a",
+      "pfad": "/v1/episode/4c0e5dde58e0e8fa782f0354e4a906b4d75f55d6.json",
+      "titel": "从心出发：解锁音乐里的治愈力量",
+      "veroeffentlicht": "2024-06-08T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探索音乐背后的治愈力量与真实情感。"
+    },
     {
       "guid": "xmly_track_499363698",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4F1WLOABjSKAEUXOyl.m4a?channel=rss&album_id=15057064&track_id=499363698&uid=112090288&jt=https://aod.cos.tx.xmcdn.com/storages/b48a-audiofreehighqps/5A/D0/GKwRIW4F1WLOABjSKAEUXOyl.m4a",
@@ -13,6 +23,16 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨遗憾在人生旅程中的价值与意义。"
+    },
+    {
+      "guid": "xmly_track_497907316",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoFzLaTABUDXwES223G.m4a?channel=rss&album_id=15057064&track_id=497907316&uid=112090288&jt=https://aod.cos.tx.xmcdn.com/storages/3600-audiofreehighqps/80/DB/GKwRIDoFzLaTABUDXwES223G.m4a",
+      "pfad": "/v1/episode/baced6604dbec6b2f0718005b355f8144de3652d.json",
+      "titel": "我们家的猫",
+      "veroeffentlicht": "2022-01-30T20:22:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大花猫古怪可爱的性格特点与日常行为"
     }
   ]
 }

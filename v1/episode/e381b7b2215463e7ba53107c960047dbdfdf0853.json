@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "6a55e982ca0de6c44ae6e2d7",
+  "apple_collection_id": "1717070164",
+  "show": "呼叫仙贝",
+  "titel": "vol.140 独居生活妙，日子越过越乱套",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6554c86361121f7ec9e8e2cd/6a55e982ca0de6c44ae6e2d7/media.xyzcdn.net/6554c86361121f7ec9e8e2cd/lokIZZPApL2zw8dp2U1VMHHOv8sy.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:01:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 169 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "聊聊独居生活的真实状态，探讨收纳和家务的种种日常。",
+  "kurzfassung": "本期节目主要围绕独居生活展开。主播们探讨了居家收纳的实际情况、免洗净菜的使用体验以及扫地机器人的闲置问题。节目通过轻松的交流，展现了年轻人独居时的真实生活日常。",
+  "stichpunkte": [
+    "台风周末的日常闲聊",
+    "关于收纳的实际体验",
+    "家中卫生间与咖啡馆的联想",
+    "免洗净菜的翻车经历",
+    "扫地机器人的闲置现象",
+    "年轻人独居生活中的凌乱状态"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:01:04+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3348,
+  "veroeffentlicht": "2026-07-14T12:00:00+00:00",
+  "beschreibung": "主播：张老师 芭比\n新一周快乐贝贝们！刚过去的台风周末大家都过的如何～\n今天我们来聊聊独居生活吧......\n收纳就是把一摊东西平移到另一个地方？\n有人的咖啡馆就在家中卫生间？\n免洗净菜变胶粘，美味秒变生化武器！\n扫地机器人居然变闲置？\n看似光鲜亮丽的年轻人实则家里乱成一锅粥，没事哒没事哒，粥炖好就吃了吧！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>主播：张老师 芭比</p><p>新一周快乐贝贝们！刚过去的台风周末大家都过的如何～</p><p>今天我们来聊聊独居生活吧......</p><p>收纳就是把一摊东西平移到另一个地方？</p><p>有人的咖啡馆就在家中卫生间？</p><p>免洗净菜变胶粘，美味秒变生化武器！</p><p>扫地机器人居然变闲置？</p><p>看似光鲜亮丽的年轻人实则家里乱成一锅粥，没事哒没事哒，粥炖好就吃了吧！</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a55e982ca0de6c44ae6e2d7?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FtxUTWP81KybgQ0ccGtHS1L-37CI.png"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "承重墙",
   "apple_collection_id": "1783080802",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_840647442",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": false,
       "einzeiler": "FPS传奇选手李思南加入AG无畏契约分部，32岁老兵开启职业生涯新战场。"
+    },
+    {
+      "guid": "xmly_track_834019486",
+      "audio_url": "https://jt.ximalaya.com//GAqhp50Ly81-ACAAAAOS-prP.mp3.m4a?channel=rss&album_id=84688086&track_id=834019486&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/f154-audiofreehighqps/5B/0C/GAqhp50Ly81-ACAAAAOS-prP.mp3",
+      "pfad": "/v1/episode/51130f33da43e49a99771fd8648eec958e51a215.json",
+      "titel": "Vol.9 对谈爱玩游戏的姚sir：草根自媒体的创业之路",
+      "veroeffentlicht": "2025-04-09T05:51:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话拥有70万粉丝的游戏视频博主爱玩游戏的姚sir"
+    },
+    {
+      "guid": "xmly_track_822326546",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJELrwTyACAAAAOA25S9.mp3.m4a?channel=rss&album_id=84688086&track_id=822326546&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/5489-audiofreehighqps/31/D5/GKwRIJELrwTyACAAAAOA25S9.mp3",
+      "pfad": "/v1/episode/553bd91c191c3322baa32c428b62e1aadcf25866.json",
+      "titel": "Vol.8 孩子想打电竞职业怎么办？对话Gen.G全球电竞学院总裁王冠",
+      "veroeffentlicht": "2025-03-18T09:52:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孩子想走电竞职业道路时的应对思路"
+    },
+    {
+      "guid": "xmly_track_819782380",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJILpvqPACAAAAN8P5tL.mp3.m4a?channel=rss&album_id=84688086&track_id=819782380&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/d095-audiofreehighqps/9B/7D/GKwRIJILpvqPACAAAAN8P5tL.mp3",
+      "pfad": "/v1/episode/beac3210df0169fbbc9168b395163c9cd649f0bd.json",
+      "titel": "Vol.7 谁把电竞入亚变成了“逗你玩儿”",
+      "veroeffentlicht": "2025-03-12T07:29:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电竞入亚背后的博弈与传统体育组织的态度"
+    },
+    {
+      "guid": "xmly_track_797402402",
+      "audio_url": "https://jt.ximalaya.com//GAqhp50LYOU5ACAAAANXHLxo.mp3.m4a?channel=rss&album_id=84688086&track_id=797402402&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/5546-audiofreehighqps/3E/0D/GAqhp50LYOU5ACAAAANXHLxo.mp3",
+      "pfad": "/v1/episode/e116ce04b6f0347f05270a9ba33f418e21cd87d0.json",
+      "titel": "Vol.6 当一个31岁的电竞记者决定裸辞创业",
+      "veroeffentlicht": "2025-01-18T03:41:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "31岁电竞记者裸辞创业的个人选择与行业观察"
+    },
+    {
+      "guid": "xmly_track_792954815",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJELVsqOACAAAANQpIH4.mp3.m4a?channel=rss&album_id=84688086&track_id=792954815&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/f4cb-audiofreehighqps/06/D1/GKwRIJELVsqOACAAAANQpIH4.mp3",
+      "pfad": "/v1/episode/4c92d8e7cb98f9214fdbdf647c9bbcb64d43cae4.json",
+      "titel": "Vol.5 全球玩家超14亿，赛事统治东南亚，这个游戏竟是“中国制造”",
+      "veroeffentlicht": "2025-01-10T11:44:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨沐瞳科技MLBB海外成功及东南亚电竞统治力"
+    },
+    {
+      "guid": "xmly_track_788004676",
+      "audio_url": "https://jt.ximalaya.com//GKwRINsLRALwACAAAANH7iVp.mp3.m4a?channel=rss&album_id=84688086&track_id=788004676&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/f175-audiofreehighqps/67/94/GKwRINsLRALwACAAAANH7iVp.mp3",
+      "pfad": "/v1/episode/f3c96526c81bdc9e4417e56479a9deaeb6cb221d.json",
+      "titel": "Vol.4 年终闲侃 电竞记者是理想职业吗？",
+      "veroeffentlicht": "2024-12-27T05:50:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电竞记者的真实工作生活与职业要求"
+    },
+    {
+      "guid": "xmly_track_785634109",
+      "audio_url": "https://jt.ximalaya.com//GAqhQ6cLOWM2ACAAAANDO9Vp.mp3.m4a?channel=rss&album_id=84688086&track_id=785634109&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/afb2-audiofreehighqps/2A/9D/GAqhQ6cLOWM2ACAAAANDO9Vp.mp3",
+      "pfad": "/v1/episode/a8fdffcf39acd623f73b10e3b5465ab16e711033.json",
+      "titel": "Vol.3 逆龄者Faker：英雄联盟第一人是怎样炼成的？",
+      "veroeffentlicht": "2024-12-19T04:56:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英雄联盟选手Faker夺得五冠后的传奇生涯与国际影响力。"
+    },
+    {
+      "guid": "xmly_track_782630023",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwLLKx5ACAAAAM9pqYT.mp3.m4a?channel=rss&album_id=84688086&track_id=782630023&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/2f8e-audiofreehighqps/19/C3/GKwRIRwLLKx5ACAAAAM9pqYT.mp3",
+      "pfad": "/v1/episode/b47c7e48f9080c06b9268c1830ba454729720b51.json",
+      "titel": "Vol.2 电竞奥运会，将成为史上最尴尬的电竞比赛？",
+      "veroeffentlicht": "2024-12-09T13:03:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电竞奥运会的落地背景及发展现状"
+    },
+    {
+      "guid": "xmly_track_780345272",
+      "audio_url": "https://jt.ximalaya.com//GAqh_aQLI2_fACAAAAM5oep9.mp3.m4a?channel=rss&album_id=84688086&track_id=780345272&uid=241941948&jt=https://aod.cos.tx.xmcdn.com/storages/09a1-audiofreehighqps/8B/58/GAqh_aQLI2_fACAAAAM5oep9.mp3",
+      "pfad": "/v1/episode/57b41f7fc716987c08d7d1218f1283cda258ed20.json",
+      "titel": "Vol.1 英雄联盟S14，谁是Faker之外的最大赢家？",
+      "veroeffentlicht": "2024-12-02T12:53:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英雄联盟S14中FlyQuest战队的故事与竞技精神"
     }
   ]
 }

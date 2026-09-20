@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "6a68604e56a3f3491ba63e03",
+  "apple_collection_id": "1714428325",
+  "show": "吴说不加密播客",
+  "titel": "EP-114 传奇交易所 BitMEX 谢幕：永续合约、312 宕机、Bybit 将其取代",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6443f642c719e0a1189a5d3e/6a68604e56a3f3491ba63e03/media.xyzcdn.net/6443f642c719e0a1189a5d3e/lulxQH9ggr6VjnMFFK61dvXhMpLB.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T07:59:34+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen (Last-Modified liegt nur 253 s vor dem Abruf) - zu wenig fuer ein Urteil, aber nicht nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "回顾加密交易所 BitMEX 的发展历程与关闭原因",
+  "kurzfassung": "本期节目回顾了加密交易所 BitMEX 从兴起到关闭的全过程。嘉宾分析了永续合约、资金费率等核心机制的创新及其局限性。同时讨论了 3·12 暴跌的影响、监管压力以及行业未来的合规化趋势。",
+  "stichpunkte": [
+    "BitMEX 的崛起与永续合约机制创新",
+    "资金费率与期现价格收敛的关系",
+    "小币种轧空暴露出永续合约的局限",
+    "3·12 宕机事件与反向合约的连环清算风险",
+    "监管压力与产品迭代缓慢导致的份额流失",
+    "Bybit 等平台对用户的承接与模式转变",
+    "离岸交易所依靠监管套利时代的结束与行业合规化趋势"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T07:59:34+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4793,
+  "veroeffentlicht": "2026-07-29T01:00:00+00:00",
+  "beschreibung": "本次对话回顾了 BitMEX 从行业先行者走向关闭的历程。嘉宾宽哥结合金融工程及实盘经验，分析 BitMEX 如何通过永续合约、资金费率、标记价格、保险基金和自动减仓机制，改善传统交割合约流动性分散、到期换仓等问题，并在熊市中成为重要的价格发现市场。\n对话也讨论了“3·12”暴跌、反向合约的连环清算风险，以及 BitMEX 因监管压力、产品迭代缓慢、运营体验不足而流失用户的原因。随着 Bybit 等平台承接用户并转向 USDT 本位及“超级应用”模式，BitMEX 的产品优势逐渐消失。\n嘉宾认为，离岸交易所依靠监管套利发展的黄金时代已经过去，行业将进一步走向合规化；同时，永续合约在小币种市场操纵、极端资金费率和风险管理方面仍有待改进。\n嘉宾发言不代表吴说观点，不构成任何投资建议，请严格遵循当地法律法规。\n加入吴说播客听友群，可添加小助手微信 ipo19841984\n关注更多吴说快讯深度等内容渠道：吴说官网\n时间线：\n00:00 开场介绍\n03:06 2018 年熊市推动 BitMEX 崛起\n06:11 永续合约的核心机制与行业创新\n14:17 资金费率如何促进期现价格收敛\n18:42 固定资金费率参数是否已经过时\n21:04 小币种轧空暴露永续合约的局限\n27:16 BitMEX 上的对冲交易与杠杆管理\n29:11 “3·12”宕机及其市场影响\n31:01 反向合约为何容易引发连环爆仓\n38:02 “3·12”期间的对冲、强平与自动减仓\n43:33 监管压力如何加速用户流失\n50:16 坚持反向合约成为竞争劣势\n56:24 Bybit 如何承接“BitMEX 难民”\n01:05:07 BitMEX 寻求出售却无人接手的原因\n01:10:04 如何评价 BitMEX 的行业贡献与关闭\n01:15:11 离岸交易所黄金时代是否已经结束\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>本次对话回顾了 BitMEX 从行业先行者走向关闭的历程。嘉宾宽哥结合金融工程及实盘经验，分析 BitMEX 如何通过永续合约、资金费率、标记价格、保险基金和自动减仓机制，改善传统交割合约流动性分散、到期换仓等问题，并在熊市中成为重要的价格发现市场。</p><p>对话也讨论了“3·12”暴跌、反向合约的连环清算风险，以及 BitMEX 因监管压力、产品迭代缓慢、运营体验不足而流失用户的原因。随着 Bybit 等平台承接用户并转向 USDT 本位及“超级应用”模式，BitMEX 的产品优势逐渐消失。</p><p>嘉宾认为，离岸交易所依靠监管套利发展的黄金时代已经过去，行业将进一步走向合规化；同时，永续合约在小币种市场操纵、极端资金费率和风险管理方面仍有待改进。</p><p>嘉宾发言不代表吴说观点，不构成任何投资建议，请严格遵循当地法律法规。</p><p>加入吴说播客听友群，可添加小助手微信 ipo19841984 <br>关注更多吴说快讯深度等内容渠道：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wublock123.com/html/app/\">吴说官网</a></p><p><strong>时间线：</strong></p><p><a class=\"timestamp\">00:00</a> 开场介绍<br><a class=\"timestamp\">03:06</a> 2018 年熊市推动 BitMEX 崛起<br><a class=\"timestamp\">06:11</a> 永续合约的核心机制与行业创新<br><a class=\"timestamp\">14:17</a> 资金费率如何促进期现价格收敛<br><a class=\"timestamp\">18:42</a> 固定资金费率参数是否已经过时<br><a class=\"timestamp\">21:04</a> 小币种轧空暴露永续合约的局限<br><a class=\"timestamp\">27:16</a> BitMEX 上的对冲交易与杠杆管理<br><a class=\"timestamp\">29:11</a> “3·12”宕机及其市场影响<br><a class=\"timestamp\">31:01</a> 反向合约为何容易引发连环爆仓<br><a class=\"timestamp\">38:02</a> “3·12”期间的对冲、强平与自动减仓<br><a class=\"timestamp\">43:33</a> 监管压力如何加速用户流失<br><a class=\"timestamp\">50:16</a> 坚持反向合约成为竞争劣势<br><a class=\"timestamp\">56:24</a> Bybit 如何承接“BitMEX 难民”<br><a class=\"timestamp\">01:05:07</a> BitMEX 寻求出售却无人接手的原因<br><a class=\"timestamp\">01:10:04</a> 如何评价 BitMEX 的行业贡献与关闭<br><a class=\"timestamp\">01:15:11</a> 离岸交易所黄金时代是否已经结束</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a68604e56a3f3491ba63e03?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fj4Dtuj4l9JmQLVQjwxjsxcnqX5m.jpg"
+}

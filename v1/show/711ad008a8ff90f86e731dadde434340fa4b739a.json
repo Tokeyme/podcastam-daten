@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "商业有态度",
   "apple_collection_id": "1740537353",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa692409d326477816867fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/6aa692409d326477816867fd/media.xyzcdn.net/66109a8ac891c06e737f28f0/ltC0HLmUrTpcOS0UzNOZ7rODj1M2.m4a",
+      "pfad": "/v1/episode/8204334bd321516f0c9ff1100b97492ac0209f62.json",
+      "titel": "Vol.37 百威｜啤酒巨头成长史",
+      "veroeffentlicht": "2026-09-15T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨啤酒巨头百威的历史、成功原因以及业务与财务状况。"
+    },
     {
       "guid": "6a83b9e68156bf336219edd1",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/6a83b9e68156bf336219edd1/media.xyzcdn.net/66109a8ac891c06e737f28f0/lreWcVcCFIv1sSl4gz8yNQQQjK-d.m4a",
@@ -13,6 +23,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨7-11如何从美国得州小店成长为全球便利店巨头的发展史与成功秘诀。"
+    },
+    {
+      "guid": "6a5f2fa8a3fec224d5a0fda2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/6a5f2fa8a3fec224d5a0fda2/media.xyzcdn.net/66109a8ac891c06e737f28f0/lt4ldz2XtnTqBt8G4lDK_u6w-RQ4.m4a",
+      "pfad": "/v1/episode/f420127aaa12facd2cc2c5044ca16226554bd4af.json",
+      "titel": "Vol.35 任天堂｜游戏巨头成长史",
+      "veroeffentlicht": "2026-07-21T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨任天堂的发展历史、成功原因及业务财务状况。"
+    },
+    {
+      "guid": "6a369950608f69578bd72dab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/6a369950608f69578bd72dab/media.xyzcdn.net/66109a8ac891c06e737f28f0/lhMoPLjMZup9c-6o5zxdo2CmdQ45.m4a",
+      "pfad": "/v1/episode/204f99ee33bb60c05e27aa78ab7618168389dbc9.json",
+      "titel": "Vol.34 法拉利｜赛车巨头成长史",
+      "veroeffentlicht": "2026-06-21T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨赛车巨头法拉利的发展历史、成功原因及业务与财务状况。"
+    },
+    {
+      "guid": "6a0af9f31b7bd5029560b9a2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/6a0af9f31b7bd5029560b9a2/media.xyzcdn.net/66109a8ac891c06e737f28f0/lqVlGtM3VY2fUD1vmLtTMG0pWEhT.m4a",
+      "pfad": "/v1/episode/15e6bc3d7fd1dfe910748ec6adcb683b96cc9014.json",
+      "titel": "Vol.33 红牛｜能量饮料巨头成长史",
+      "veroeffentlicht": "2026-05-18T11:44:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探索能量饮料巨头红牛的发展历程与品牌转型之路。"
+    },
+    {
+      "guid": "69dcd1d7e2c8be315519febe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/69dcd1d7e2c8be315519febe/media.xyzcdn.net/66109a8ac891c06e737f28f0/lk7KCOUHZtszieH0r26Z23ak1dPi.m4a",
+      "pfad": "/v1/episode/140bb550360b01f516022644b35a734852b10e11.json",
+      "titel": "Vol.32 麦当劳｜快餐巨头成长史",
+      "veroeffentlicht": "2026-04-13T11:28:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨麦当劳从小型热狗店发展为全球快餐帝国的历程与秘诀。"
+    },
+    {
+      "guid": "69ba822b3c625cc5aefb1d25",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/69ba822b3c625cc5aefb1d25/media.xyzcdn.net/66109a8ac891c06e737f28f0/liwkixF3Da18ibgklnRAI9uJKIwU.m4a",
+      "pfad": "/v1/episode/e355f4196b42d4c449f50dfc3373942f2f269a15.json",
+      "titel": "Vol.31 乐高｜玩具巨头成长史",
+      "veroeffentlicht": "2026-03-18T10:55:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "乐高从木制家具作坊到玩具巨头的成长历史"
+    },
+    {
+      "guid": "699da4fa66e2c303773fb095",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/699da4fa66e2c303773fb095/media.xyzcdn.net/66109a8ac891c06e737f28f0/lp_LGtD-fcGr8CZq3eP9ml9iQwff.m4a",
+      "pfad": "/v1/episode/782c1d1fbf136075aed9e372a85dc635ae8f313b.json",
+      "titel": "Vol.30 诺和诺德｜制药巨头成长史",
+      "veroeffentlicht": "2026-02-24T13:37:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近制药巨头诺和诺德的发展历程与业务表现"
+    },
+    {
+      "guid": "6977229d109824f9e19ea1c6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/6977229d109824f9e19ea1c6/media.xyzcdn.net/66109a8ac891c06e737f28f0/lrjjFCk0YgD5cJx7vN8pSzXJ5HEx.m4a",
+      "pfad": "/v1/episode/0fe71fffea00a526b32c9f8c741d56480a0a0a12.json",
+      "titel": "Vol.29 Airbnb｜旅游巨头成长史",
+      "veroeffentlicht": "2026-01-26T08:17:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨旅游住宿平台Airbnb的发展历史与成功原因。"
+    },
+    {
+      "guid": "693fea9637f52a644e10e7c6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66109a8ac891c06e737f28f0/693fea9637f52a644e10e7c6/media.xyzcdn.net/66109a8ac891c06e737f28f0/lsQ3A7tOXLy4kn4cUuVjEZ_QsSGP.m4a",
+      "pfad": "/v1/episode/7bf53f31b8145758a95099b526ba86a9d0f057b8.json",
+      "titel": "Vol.28 可口可乐｜饮料巨头成长史",
+      "veroeffentlicht": "2025-12-15T11:16:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨饮料巨头可口可乐的发展历史、成功原因及财务表现。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "【公益课】职场沟通术",
   "apple_collection_id": "1886184064",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69c1597f5058f5000ce31b0e",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨沟通中的同频共振秘诀，从心脑和视觉层面打通沟通底层逻辑。"
+    },
+    {
+      "guid": "69c158c3521e5c0a80a87b84",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69c158c3521e5c0a80a87b84/media.xyzcdn.net/69b923cc3043419f78523e10/lsHmkrpkL23W2N6Mm2H0ix1DA0e4.m4a",
+      "pfad": "/v1/episode/b244d8530b955ecd15bd2b2a9a1487991b6fe0fa.json",
+      "titel": "NO19.危机公关：如何沟通？",
+      "veroeffentlicht": "2026-04-04T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨危机公关的核心沟通对象与5S原则。"
+    },
+    {
+      "guid": "69c157f15058f5000ce2e7ce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69c157f15058f5000ce2e7ce/media.xyzcdn.net/69b923cc3043419f78523e10/lq1G8Bm5Qlb7bNxn6yTfbbrkwVQi.m4a",
+      "pfad": "/v1/episode/775e9ec4c6949fda9e4a2f782f317214210c18bc.json",
+      "titel": "NO18. 会议：如何更有效？",
+      "veroeffentlicht": "2026-04-03T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场会议无效的原因与应对方法"
+    },
+    {
+      "guid": "69c157765058f5000ce2db84",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69c157765058f5000ce2db84/media.xyzcdn.net/69b923cc3043419f78523e10/lmmRLVxjhCtPXLtZULIb4eqXJQzp.m4a",
+      "pfad": "/v1/episode/3d3c649df9d102d70722a3af296074403452f51f.json",
+      "titel": "NO17.商务谈判：如何谈判？",
+      "veroeffentlicht": "2026-04-02T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨商务谈判的认知重塑，解析心理、声音与微表情三个层次的实用技巧。"
+    },
+    {
+      "guid": "69be70cb3c625cc5ae6fd07e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69be70cb3c625cc5ae6fd07e/media.xyzcdn.net/69b923cc3043419f78523e10/lrrjGChuWQquygCwyJfPjbD5rF6d.m4a",
+      "pfad": "/v1/episode/04a6d190e9c2a340bbb08dfb0edf8cea6d0b3262.json",
+      "titel": "NO16. 演讲：如何眼神沟通？",
+      "veroeffentlicht": "2026-04-01T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨演讲中眼神沟通的作用、方法与练习。"
+    },
+    {
+      "guid": "69be6fc23c625cc5ae6fab88",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69be6fc23c625cc5ae6fab88/media.xyzcdn.net/69b923cc3043419f78523e10/lnrNwsAgLrbQtYJOy_0beyAnPYzM.m4a",
+      "pfad": "/v1/episode/d038de0eec2524fa0d3e9b931995476f97e635c5.json",
+      "titel": "NO15. 演讲：如何手势沟通？",
+      "veroeffentlicht": "2026-03-31T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨演讲时的手势沟通技巧与心理逻辑。"
+    },
+    {
+      "guid": "69be6ebd3c625cc5ae6f89c6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69be6ebd3c625cc5ae6f89c6/media.xyzcdn.net/69b923cc3043419f78523e10/ljD1AOaBo1pIKQCJSD1hpc6sA7pC.m4a",
+      "pfad": "/v1/episode/62e095a99cc02dabb686a35b687ae38d76266c2b.json",
+      "titel": "NO14. 演讲：如何即兴发言？",
+      "veroeffentlicht": "2026-03-30T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何掌握即兴发言的实用方法与思维框架。"
+    },
+    {
+      "guid": "69ba2e0ef8b8079bfaef6e93",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69ba2e0ef8b8079bfaef6e93/media.xyzcdn.net/69b923cc3043419f78523e10/lvB4HmU9mtYVWH9no0n9slK7-AZr.m4a",
+      "pfad": "/v1/episode/4adb0466f185d1bca58170a752b2fc01b354975d.json",
+      "titel": "NO13. 演讲：如何控制紧张感？",
+      "veroeffentlicht": "2026-03-29T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何应对当众演讲时的紧张感与恐惧心理"
+    },
+    {
+      "guid": "69b9387cf8b8079bfad3958b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69b9387cf8b8079bfad3958b/media.xyzcdn.net/69b923cc3043419f78523e10/lsIbv41y1wYMD4LgklwimNbc_9-U.m4a",
+      "pfad": "/v1/episode/5e770cc50a528fc13f08de267900f20eb1aa240d.json",
+      "titel": "NO12. 面试：如何事半功倍？",
+      "veroeffentlicht": "2026-03-28T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全景拆解面试关键阶段，掌握求职沟通与回答技巧。"
+    },
+    {
+      "guid": "69b93731caaea1fb3bbfe0ab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b923cc3043419f78523e10/69b93731caaea1fb3bbfe0ab/media.xyzcdn.net/69b923cc3043419f78523e10/liFjgucOAlXeMyj9fdaDH0le0PEd.m4a",
+      "pfad": "/v1/episode/1bcac44184d99be8d24630f632571aba27e54c42.json",
+      "titel": "NO11.面谈：如何提问？",
+      "veroeffentlicht": "2026-03-27T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨在信息过载时代如何重新掌握提出好问题的能力。"
     }
   ]
 }

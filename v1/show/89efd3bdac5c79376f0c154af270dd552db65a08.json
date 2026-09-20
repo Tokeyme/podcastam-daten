@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Mosaic of China 英语脱口秀",
   "apple_collection_id": "1509582179",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_666726375",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "对话免疫与疼痛管理专家Lysanthea Taylor，探讨中国医疗文化与生活。"
+    },
+    {
+      "guid": "xmly_track_644134233",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoIbyAgACAAAAIvHXAN.mp3.m4a?channel=rss&album_id=25694293&track_id=644134233&uid=175124684&jt=https://aod.cos.tx.xmcdn.com/storages/a235-audiofreehighqps/AE/AE/GKwRIDoIbyAgACAAAAIvHXAN.mp3",
+      "pfad": "/v1/episode/d96d8195d47d28fc8ad344bafaf01fa155763518.json",
+      "titel": "Bonus Episode from The Bridge (CGTN): Mosaic of China with Oscar Fuchs, Season 03",
+      "veroeffentlicht": "2023-06-27T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于中国哲学以及中国与新加坡的生活差异"
+    },
+    {
+      "guid": "xmly_track_638825905",
+      "audio_url": "https://jt.ximalaya.com//GMCoOR4ITyLvACAAAAIkXOYW.mp3.m4a?channel=rss&album_id=25694293&track_id=638825905&uid=175124684&jt=https://aod.cos.tx.xmcdn.com/storages/cc10-audiofreehighqps/30/3E/GMCoOR4ITyLvACAAAAIkXOYW.mp3",
+      "pfad": "/v1/episode/adb76ae71f8b08a21e4b7bd8349839013f9751cf.json",
+      "titel": "The Death Companion (s03e22: ZHOU Yan, Hospice and 'Death Café' Volunteer)",
+      "veroeffentlicht": "2023-06-06T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国文化中的生死观与上海的临终关怀。"
+    },
+    {
+      "guid": "xmly_track_635238002",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoIPeatAS37dAIeZu7z.m4a?channel=rss&album_id=25694293&track_id=635238002&uid=175124684&jt=https://aod.cos.tx.xmcdn.com/storages/4b9b-audiofreehighqps/88/AE/GKwRIDoIPeatAS37dAIeZu7z.m4a",
+      "pfad": "/v1/episode/edb2a46f97a420b5103cd7fbf6195d867f2002b6.json",
+      "titel": "The Airline Pilot (s03e21: Michael HUNDEGGER, A320 Flight Commander)",
+      "veroeffentlicht": "2023-05-23T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国商用航空文化与飞行员的职业生活。"
+    },
+    {
+      "guid": "xmly_track_631342378",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasIKuAdATykwwIX-p-M.m4a?channel=rss&album_id=25694293&track_id=631342378&uid=175124684&jt=https://aod.cos.tx.xmcdn.com/storages/6e1f-audiofreehighqps/FA/70/GKwRIasIKuAdATykwwIX-p-M.m4a",
+      "pfad": "/v1/episode/09da6c38061e741feae8436e94a9bcf1a9d56e58.json",
+      "titel": "The Gemstone Buff (s03e20: Christina CHAO, Gemologist)",
+      "veroeffentlicht": "2023-05-09T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "宝石学与珠宝设计交叉领域的探讨"
+    },
+    {
+      "guid": "xmly_track_621384287",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4H9tI6AT6ydwIHW_KZ.m4a?channel=rss&album_id=25694293&track_id=621384287&uid=175124684&jt=https://aod.cos.tx.xmcdn.com/storages/01b4-audiofreehighqps/2B/DA/GKwRIW4H9tI6AT6ydwIHW_KZ.m4a",
+      "pfad": "/v1/episode/a96bd8d65b5a9d2015bee2ed1f22a03b5f2fac15.json",
+      "titel": "The Stunt Man (s03e17: Frank ABEL, Binhai Aircraft Carrier Theme Park)",
+      "veroeffentlicht": "2023-03-28T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "访谈特技演员Frank Abel，探讨天津滨海航母主题公园的特技表演。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "创意玩具@小宇宙| AI/科技/娱乐",
   "apple_collection_id": "1662420792",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "666f133ec26e396a3636fa8b",
@@ -13,6 +13,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨4月AI展会经历、初创公司生存现状、提示词工程未来及机器遗忘技术。"
+    },
+    {
+      "guid": "6633a55d4b7d3b5d3bbfd377",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63a3d768c9d532fa66762bdf/6633a55d4b7d3b5d3bbfd377/media.xyzcdn.net/lttzwkDc_YCnfZy4YMz-r1VaG22O.m4a",
+      "pfad": "/v1/episode/da561bfb11e84b686635abc8b00d45db9aaa21a4.json",
+      "titel": "S7E8 [EN] 科技周会-Xiaomi EV, Flexible Screen, and Alibaba",
+      "veroeffentlicht": "2024-05-02T14:38:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小米电动车入市、苹果终止造车项目与阿里战略调整。"
+    },
+    {
+      "guid": "660b42e02d9eae5d0a79b82f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63a3d768c9d532fa66762bdf/660b42e02d9eae5d0a79b82f/media.xyzcdn.net/lhe3PQJL-L0vmzbAbAOfB2A17QNm.m4a",
+      "pfad": "/v1/episode/30e6a5873a29fcc9908202c01015d40c976702c7.json",
+      "titel": "S7E7 [EN]科技周会-Groq, AR valuation, DoorDash history and more",
+      "veroeffentlicht": "2024-04-01T23:27:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论科技与创业话题，涵盖硬件、AR设备、AI模型定价及网约车策略。"
+    },
+    {
+      "guid": "65f102d96c4561bc2105ccdb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63a3d768c9d532fa66762bdf/65f102d96c4561bc2105ccdb/media.xyzcdn.net/lhbxXw3W_ZZvTHGJF96KZkeRS7gZ.m4a",
+      "pfad": "/v1/episode/554e8ebc78646ebe2bbbf4c80a0defdc172adb3a.json",
+      "titel": "S7E6 [EN] 科技周会Perplexity vs OpenAI ChatGPT, Rivian, Google",
+      "veroeffentlicht": "2024-03-13T01:35:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Perplexity AI与ChatGPT的对比及Rivian的发展。"
+    },
+    {
+      "guid": "65e69c6bda891a9cd9ddebd9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63a3d768c9d532fa66762bdf/65e69c6bda891a9cd9ddebd9/media.xyzcdn.net/loY792iQ8z3k0llCNlCre2oQvUs9.m4a",
+      "pfad": "/v1/episode/2d5880b2099267d3ab5c20fb0c5819d8b501e353.json",
+      "titel": "S7E5 [EN]科技周会-OpenAI Sora模型，苹果Apple Vision Pro",
+      "veroeffentlicht": "2024-03-05T04:15:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨OpenAI Sora模型与Apple Vision Pro的应用与挑战。"
+    },
+    {
+      "guid": "65b8434e0bef6c20745faabd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63a3d768c9d532fa66762bdf/65b8434e0bef6c20745faabd/media.xyzcdn.net/lqrrFJ4Aqqt_tYlaCsgZZtsA906K.m4a",
+      "pfad": "/v1/episode/acca8cd18ca742911d8d9b8ef2f6889cc5888dd1.json",
+      "titel": "S7E4 [EN]科技周会-苹果Vision Pro, CHI历年赞助商,DC 车展, 特斯拉Tesla Model 3",
+      "veroeffentlicht": "2024-01-30T00:31:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论苹果Vision Pro、CHI大会赞助商及DC车展感想。"
+    },
+    {
+      "guid": "65b19cb60bef6c20742c0435",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63a3d768c9d532fa66762bdf/65b19cb60bef6c20742c0435/media.xyzcdn.net/lqsQOk_QZ1ATRUpGz129NZWwkXI9.m4a",
+      "pfad": "/v1/episode/cdd352912f7ee38fab660c6d6a0e21a479093d59.json",
+      "titel": "S7E3 [串台]设计师转行人工智能，把产品卖给上市公司？漫谈中美AI创业差异与机会",
+      "veroeffentlicht": "2024-01-24T23:26:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "设计师转行人工智能创业，探讨中美AI创业差异与机会。"
+    },
+    {
+      "guid": "65444e9dde390991a49e3b4c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63a3d768c9d532fa66762bdf/65444e9dde390991a49e3b4c/media.xyzcdn.net/lgs97YB3h556-vPDL55D-G4g85wr.m4a",
+      "pfad": "/v1/episode/b3e15177e1a699ef24e166b12073ca669f39783f.json",
+      "titel": "S7E1 AI驱动的思维导图 - Chatmind团队访谈",
+      "veroeffentlicht": "2023-11-03T01:36:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话Chatmind团队：AI驱动的思维导图产品开发与运营故事"
     }
   ]
 }

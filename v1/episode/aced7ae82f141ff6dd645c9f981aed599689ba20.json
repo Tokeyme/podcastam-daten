@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "guid": "68ba8c5e97178f08ee67c1f4",
+  "apple_collection_id": "1831938355",
+  "show": "交易访谈",
+  "titel": "Ep03 Jeff - 波动率交易的尾部风险管理",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6882a7dd38f036f8bff2e063/68ba8c5e97178f08ee67c1f4/media.xyzcdn.net/6882a7dd38f036f8bff2e063/lqQLXcGoqDbQtY7ZUtzkcN205-fz.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 68873974,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T09:01:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; nach 380 Tagen in der Cloud transkribiert, statt weiter auf den Rechner zu warten - das Modell schaetzt Zeitangaben, statt sie zu messen"
+  },
+  "einzeiler": "资深期权波动率交易员Jeff探讨期权交易背后的风险认知与实战建议",
+  "kurzfassung": "本期节目邀请资深期权波动率交易员Jeff做客，深入探讨了期权交易中的希腊字母、波动率曲面建模以及尾部风险管理。Jeff结合自身从传统贸易跨界进入加密货币期权的实战经历，分享了期权卖方与买方的策略选择。节目还介绍了其平台开发的实用工具如何帮助交易员降低成本与管理风险。",
+  "stichpunkte": [
+    "Jeff分享了从传统贸易行业跨界进入加密货币期权交易的个人经历与心路历程。",
+    "探讨了期权交易中初阶希腊字母（Delta、Theta、Gamma、Vega）在实战中的局限性与无法解释的盈亏来源。",
+    "详细讲解了高阶希腊字母（Vana、Volga）在波动率微笑和偏度交易中的直接影响。",
+    "分析了投行报告与学术论文的区别，指出投行研究更贴近实战与商业直觉。",
+    "探讨了卖出Vega策略的收益来源与大牛市中遭遇极端波动率飙升的尾部风险。",
+    "强调了 Delta 冲销策略中的带宽设置，以及合理对冲对提高夏普率的重要性。",
+    "对比了加密原生期权市场与合规传统ETF期权市场的共生关系与差异。",
+    "给新手期权交易员提出了资金管理、尾部保护以及持续学习的核心建议。"
+  ],
+  "kapitel": [
+    {
+      "titel": "嘉宾介绍与加密期权入行契机",
+      "start": 12.3
+    },
+    {
+      "titel": "从初阶希腊字母到程序化交易的探索",
+      "start": 328.98
+    },
+    {
+      "titel": "智能交易工具与降低期权滑点成本",
+      "start": 910.5
+    },
+    {
+      "titel": "投行报告与学术研究在实战中的应用",
+      "start": 1307.66
+    },
+    {
+      "titel": "波动率交易策略、收益来源与尾部风险管理",
+      "start": 1768.26
+    },
+    {
+      "titel": "高阶希腊字母Vana与Volga的实战影响",
+      "start": 3033.2
+    },
+    {
+      "titel": "期权市场参与者生态与买卖方策略对比",
+      "start": 3843.32
+    },
+    {
+      "titel": "市场前景展望与给新手的核心建议",
+      "start": 5022.66
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:01:19+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5680,
+  "veroeffentlicht": "2025-09-05T07:26:02+00:00",
+  "beschreibung": "欢迎来到「交易访谈」第三期，我们邀请到了Greeks.live的创始人兼CEO Jeff。Greeks.live创立于2020年，是一个专注于加密期权交易工具与数据服务的平台，而Jeff是一位资深的期权波动率交易员，同时他在社交平台上积极地推动行业教育和社区经营。在今天的访谈中，Jeff将带领我们从各种曲率角度，深入探讨了波动率交易背后的风险认知，并结合其丰富的实战经验，给出书本之外的实用建议。\n======\nPart 1. 嘉宾介绍\n00:00 - 节目和嘉宾介绍\n01:02 - 进入波动率交易的历程\n12:27 - 印象深刻的Greeks.live功能迭代\n22:33 - 学术论文和投行报告的实战意义\n\nPart 2. 不同曲率的回报风险比\n29:27 - 波动率策略的收益来源\n41:08 - 加密市场波动率的传统证券化\n42:33 - 理解曲率溢价\n44:29 - 不同曲率的均值回归区别\n46:35 - Delta Hedge实战\n49:50 - 方向预测对delta hedge的作用\n50:32 - 二阶greeks的交易例子\n54:42 - Black-Scholes报价机制\n\nPart 3. 市场结构和黑天鹅风险\n56:00 - 如何构建波动率曲面\n57:39 - IV-RV的左侧交易\n61:59 - IV对RV的预测作用和内幕交易者\n63:57 - 期权市场的交易人员组成\n66:52 - 期权市场相对永续合约的优势\n69:37 - 买OTM期权是否有正期望\n74:07 - 卖出OTM期权的风险管理\n77:08 - 波动率交易的七龙珠\n79:51 - 卖波动率的极端行情处理和3.12\n\nPart 4. 市场展望和建议\n83:39 - 加密市场波动率未来展望\n86:50 - 低波动行情下的卖波动率策略\n88:53 - ETF期权市场的影响\n90:10 - 对新trader的建议\n92:53 - 如何关注 Jeff\n93:54 - 结尾\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>欢迎来到「交易访谈」第三期，我们邀请到了Greeks.live的创始人兼CEO Jeff。Greeks.live创立于2020年，是一个专注于加密期权交易工具与数据服务的平台，而Jeff是一位资深的期权波动率交易员，同时他在社交平台上积极地推动行业教育和社区经营。在今天的访谈中，Jeff将带领我们从各种曲率角度，深入探讨了波动率交易背后的风险认知，并结合其丰富的实战经验，给出书本之外的实用建议。</p><p>======</p><h2>Part 1. 嘉宾介绍</h2><ul>  <li>00:00 - 节目和嘉宾介绍</li>  <li>01:02 - 进入波动率交易的历程</li>  <li>12:27 - 印象深刻的Greeks.live功能迭代</li>  <li>22:33 - 学术论文和投行报告的实战意义</li></ul><p>Part 2. 不同曲率的回报风险比</p><ul>  <li>29:27 - 波动率策略的收益来源</li>  <li>41:08 - 加密市场波动率的传统证券化</li>  <li>42:33 - 理解曲率溢价</li>  <li>44:29 - 不同曲率的均值回归区别</li>  <li>46:35 - Delta Hedge实战</li>  <li>49:50 - 方向预测对delta hedge的作用</li>  <li>50:32 - 二阶greeks的交易例子</li>  <li>54:42 - Black-Scholes报价机制</li></ul><p>Part 3. 市场结构和黑天鹅风险</p><ul>  <li>56:00 - 如何构建波动率曲面</li>  <li>57:39 - IV-RV的左侧交易</li>  <li>61:59 - IV对RV的预测作用和内幕交易者</li>  <li>63:57 - 期权市场的交易人员组成</li>  <li>66:52 - 期权市场相对永续合约的优势</li>  <li>69:37 - 买OTM期权是否有正期望</li>  <li>74:07 - 卖出OTM期权的风险管理</li>  <li>77:08 - 波动率交易的七龙珠</li>  <li>79:51 - 卖波动率的极端行情处理和3.12</li></ul><p>Part 4. 市场展望和建议</p><ul>  <li>83:39 - 加密市场波动率未来展望</li>  <li>86:50 - 低波动行情下的卖波动率策略</li>  <li>88:53 - ETF期权市场的影响</li>  <li>90:10 - 对新trader的建议</li>  <li>92:53 - 如何关注 Jeff</li>  <li>93:54 - 结尾</li></ul><br><a href=\"https://oia.xiaoyuzhoufm.com/player/68ba8c5e97178f08ee67c1f4?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fg_GUEdS6FoeavoFofyyQHtTZOix.jpg",
+  "kapitel_quelle": "modell"
+}

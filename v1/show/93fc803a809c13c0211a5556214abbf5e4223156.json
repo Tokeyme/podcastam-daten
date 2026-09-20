@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "梁永安的播客",
   "apple_collection_id": "1611482051",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69f31081038707a77196b7fc",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "梁永安聊当代青年的阅读现状，并推荐乔伊斯的短篇小说集《都柏林人》。"
+    },
+    {
+      "guid": "69cb4d72e2c8be3155f8c96e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/69cb4d72e2c8be3155f8c96e/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/luo9_YlBws_rnwIT9nj0H84Luydj.m4a",
+      "pfad": "/v1/episode/a59e5f120a77a418e33a2efd432e815918c76fba.json",
+      "titel": "69.不读书，你正在错过最大的时代红利……【复旦梁永安】",
+      "veroeffentlicht": "2026-03-31T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么当下是读书的好时代以及阅读对人生的意义。"
+    },
+    {
+      "guid": "69ae80205a52b14c29a34c20",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/69ae80205a52b14c29a34c20/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/loTBhv-wws55cF5Nwo4wKJwNQWtq.m4a",
+      "pfad": "/v1/episode/e9687bd1be477a5094378a20d6bd06c7d0e163c8.json",
+      "titel": "68.与其幻想马到成功，不如去做这几种“马”……",
+      "veroeffentlicht": "2026-03-10T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨马年带来的时代变化与个人成长机遇。"
+    },
+    {
+      "guid": "697c87dfb4be4c149b456d56",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/697c87dfb4be4c149b456d56/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/llMlTGxkEmXDaiS70f8UetxN21S4.m4a",
+      "pfad": "/v1/episode/d18301b465041c3aad5cf218d97a32efba0d5d07.json",
+      "titel": "67. 你不是不能成功，而是自以为不配成功……【复旦 梁永安】",
+      "veroeffentlicht": "2026-01-31T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年轻人面对成功时的「配得感」心理与自我认知"
+    },
+    {
+      "guid": "69457658e0674912edd77069",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/69457658e0674912edd77069/media.xyzcdn.net/nt2swN9Wdb7lqAKVtXoOCLNVoKhY.MP3",
+      "pfad": "/v1/episode/8888023185dbb52cd579c8c681c99dcfee5d7b36.json",
+      "titel": "66. 人生两件要事：年轻保持驿动，中年学会回首……【复旦梁永安】",
+      "veroeffentlicht": "2025-12-20T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年轻时的驿动与中年后的回首，寻找当代人的人生意义。"
+    },
+    {
+      "guid": "68cd31132c82c9dcca36581b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/68cd31132c82c9dcca36581b/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/luyCbLicnsWmDVnSb_W9L_YF1Bqa.m4a",
+      "pfad": "/v1/episode/ca651cb916b33154cdebda30f15cbfb9ec0dbfa8.json",
+      "titel": "65. 没有热爱的话，这一生也太长了……【复旦梁永安】",
+      "veroeffentlicht": "2025-09-20T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "当代青年的焦虑与寻找热爱的意义"
+    },
+    {
+      "guid": "688b1b08edf3fa32d56a4708",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/688b1b08edf3fa32d56a4708/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/lvewowxUKenIpJ1PCvPT0kqBQeGK.m4a",
+      "pfad": "/v1/episode/a022c2bba9c9d8772faea4c88568c0ac6d4193d3.json",
+      "titel": "64. 为什么我们总在「无意义社交」？究竟什么样的人才值得交往？",
+      "veroeffentlicht": "2025-07-31T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨社交对人的影响，区分消耗能量与带来改变的交往方式。"
+    },
+    {
+      "guid": "685e69a308d8fd85864dce04",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/685e69a308d8fd85864dce04/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/lm3l5f7JnZ5hsrL_Q2gJ-jrqGebQ.m4a",
+      "pfad": "/v1/episode/590af5757cbb98e5fdaeeb39facac31b9fbee969.json",
+      "titel": "63. Labubu爆火：别问值不值得，你的热爱才是最珍贵的",
+      "veroeffentlicht": "2025-06-28T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Labubu爆火背后的坚持与时代情绪寄托。"
+    },
+    {
+      "guid": "68395f4c38dcc57c64c178ad",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/68395f4c38dcc57c64c178ad/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/lvERdpCpJjGx91Zbxuyytdr8X2uI.m4a",
+      "pfad": "/v1/episode/d5140631b0a3add559c3855ac8b7bddee20307dc.json",
+      "titel": "62.情绪不稳定？说明你的人生正在进步！",
+      "veroeffentlicht": "2025-05-31T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年轻一代的迷茫与焦虑，以及如何化解负面情绪。"
+    },
+    {
+      "guid": "68021225cdd692da152af595",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61bc1762e5fdeb81a8db115c/68021225cdd692da152af595/media.xyzcdn.net/61bc1762e5fdeb81a8db115c/lqoWfdBb7r_f7pFZdO7b-GnN15Y7.m4a",
+      "pfad": "/v1/episode/590ddbe05b666102c72a46f716c6f79835a1f29e.json",
+      "titel": "61.别再让年轻人加班了，该卷的应该是老板",
+      "veroeffentlicht": "2025-04-19T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么不应让年轻人盲目加班，而应考验管理者的能力。"
     }
   ]
 }

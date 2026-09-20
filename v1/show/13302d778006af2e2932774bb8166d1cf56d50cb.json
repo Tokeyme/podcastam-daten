@@ -2,17 +2,37 @@
   "schema_version": 1,
   "show": "梓约健康",
   "apple_collection_id": "1615508466",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
-      "guid": "33697962",
-      "audio_url": "http://tchwod-sign.qtfm.cn/m4a/6a632e106219d60008571f6f_34399470_24.m4a?auth_key=6aaa727b-172250-0-bc99be285576eebfd23880ffff7c3370",
-      "pfad": "/v1/episode/a127a01859d339730b4f043033dd2f4d5a40e98a.json",
-      "titel": "Vol.5 张永杰：侠胆仁心 胆结石要不要开？",
-      "veroeffentlicht": "2026-07-24T09:19:12+00:00",
-      "clips": true,
-      "kapitel": true,
-      "einzeiler": "著名胆道外科专家张永杰详解胆结石与肝胆健康"
+      "guid": "33697090",
+      "audio_url": "http://tchwod-sign.qtfm.cn/m4a/6a632bec6219d60008571da5_34398598_24.m4a?auth_key=6ab8e616-606925-0-53534f5a3b31062176473fbf2b32a75f",
+      "pfad": "/v1/episode/f8137177285b98c99dbbb92f93fc9e68b7828761.json",
+      "titel": "Vol.2 唐文：有一种拉肚子，不是普通肠炎。",
+      "veroeffentlicht": "2026-07-24T09:10:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "唐文医生解析炎症性肠病，带你科学认识隐形流行病。"
+    },
+    {
+      "guid": "33696954",
+      "audio_url": "http://tchwod-sign.qtfm.cn/m4a/6a632b359c6c8900083148d8_34398462_24.m4a?auth_key=6ab8e616-6540-0-568a47061d9ae85d3a57500cecd07eb6",
+      "pfad": "/v1/episode/448dddfdf12cb04f126af3ff0cedc811946a3fa5.json",
+      "titel": "Vol.1 刘琴：我想做个好医生",
+      "veroeffentlicht": "2026-07-24T09:07:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "昆山市第一人民医院妇科主任刘琴的从医经历"
+    },
+    {
+      "guid": "25429533",
+      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/652b916aa447fb7d23551ef1_26644955_24.m4a?auth_key=6ab8e616-875495-0-a6863d7c7c728a625d23320ef859c2e9",
+      "pfad": "/v1/episode/50a063317ab660846d3cc6062bd1da3a51ab32fe.json",
+      "titel": "大咖话疼痛 - 访苏州大学苏州医学院执行院长徐广银【中国镇痛周系列】",
+      "veroeffentlicht": "2023-10-15T07:14:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "疼痛作为人类第五大生命指征，是否忍一忍就能过去？"
     }
   ]
 }

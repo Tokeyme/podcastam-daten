@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "21:00心理夜话",
   "apple_collection_id": "1838853291",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a69ec1cb581962ce2bd6e6b",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨心理学视角下的性感，解析其与生命力、攻击性的关系及人群不同反应。"
+    },
+    {
+      "guid": "6a3ce7fe9d2f5743683db590",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/6a3ce7fe9d2f5743683db590/media.xyzcdn.net/684c498ae76499dbba431244/lvK8ITzmi6PKUPgaW4DjcZQ_YNoh.m4a",
+      "pfad": "/v1/episode/dbcadd2aa96f0924e31a3b7a5739873a06e0132d.json",
+      "titel": "“生活总是如此艰难吗？还是只有此刻是这样？”",
+      "veroeffentlicht": "2026-06-25T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨经典电影对话中的绝望感与心理成长"
+    },
+    {
+      "guid": "6a20223bb30e1571aea01ea9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/6a20223bb30e1571aea01ea9/media.xyzcdn.net/684c498ae76499dbba431244/lkAvu2um58aHv9_EZheJs3cRqu2T.m4a",
+      "pfad": "/v1/episode/54b0bcaffe98c4862022748568d2c94ab83d2711.json",
+      "titel": "分离创伤，微小、难以觉察，对我们的影响却隐秘而持久",
+      "veroeffentlicht": "2026-06-03T12:50:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨微小而隐秘的分离创伤如何持久影响我们的生活与关系。"
+    },
+    {
+      "guid": "69e617941d989496e7135a8b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/69e617941d989496e7135a8b/media.xyzcdn.net/684c498ae76499dbba431244/ln5-x7aSN2KwEaIt_DQN8vwfO7Ri.m4a",
+      "pfad": "/v1/episode/85fef99eb99b2c42202fa5a36c853b16bc626885.json",
+      "titel": "《情感价值》：代际创伤的强迫性重复/人生脚本改写自救/以及，面对是唯一的解药",
+      "veroeffentlicht": "2026-04-20T12:13:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从挪威电影《情感价值》解析代际创伤与人生脚本改写"
+    },
+    {
+      "guid": "69d0a8ceb977fb2c47141e2a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/69d0a8ceb977fb2c47141e2a/media.xyzcdn.net/684c498ae76499dbba431244/lhFBx1nK96wSkoLdyxQoUB3rH9Vp.m4a",
+      "pfad": "/v1/episode/a6a98710654a8bf63cd54f3b252d9e998c4117e7.json",
+      "titel": "《我，许可》中的女性成长议题：从假装独立，到敢于依赖。",
+      "veroeffentlicht": "2026-04-04T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《我，许可》中的女性成长，从假性独立到敢于依赖。"
+    },
+    {
+      "guid": "69b41c24772ac2295b10f43f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/69b41c24772ac2295b10f43f/media.xyzcdn.net/684c498ae76499dbba431244/ljIhAlo3-TE9ho_WRLqBHZeZZuzr.m4a",
+      "pfad": "/v1/episode/11e39276cead356d17150e516cfc933856ce1597.json",
+      "titel": "“与父母相处，怎么就这么难？”",
+      "veroeffentlicht": "2026-03-13T14:18:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨与父母相处为何如此艰难及如何走出心理困境。"
+    },
+    {
+      "guid": "697ca9342fc7f49d090d3412",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/697ca9342fc7f49d090d3412/media.xyzcdn.net/684c498ae76499dbba431244/lt7xm82FzVdfxq5zArNU9r7s4_rH.m4a",
+      "pfad": "/v1/episode/9f9067df157ed2a4a27012cba5aec7be9234640d.json",
+      "titel": "贬低你，是为了留住你。【pua的本质】",
+      "veroeffentlicht": "2026-01-30T12:53:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨亲密关系中贬低与打击的PUA本质"
+    },
+    {
+      "guid": "694c069fd292ff54b174a003",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/694c069fd292ff54b174a003/media.xyzcdn.net/684c498ae76499dbba431244/liJT7lD4dsUKJ_HPQ0rtQlHwgW_N.m4a",
+      "pfad": "/v1/episode/dbf946f36fcd0e4f0d03b1df76ac3b9b14ed5377.json",
+      "titel": "被看见、被完全接纳是种什么样的体验？",
+      "veroeffentlicht": "2025-12-26T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨爱的本质是被看见，以及被完全接纳的三层体验与发展。"
+    },
+    {
+      "guid": "690e1dd2af4fc00da7a94723",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/690e1dd2af4fc00da7a94723/media.xyzcdn.net/684c498ae76499dbba431244/lqKDh9oW8EEMKzdFg3oSDLJxKtoh.m4a",
+      "pfad": "/v1/episode/7ebfa242a4034fd23fbfac90d1a1230391a8738a.json",
+      "titel": "王将英雌：成长从与妈妈“分离”那一刻启动",
+      "veroeffentlicht": "2025-11-07T16:29:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨东亚女孩的原生家庭困境与心理分离过程。"
+    },
+    {
+      "guid": "68f63ccb226547302067ada5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/684c498ae76499dbba431244/68f63ccb226547302067ada5/media.xyzcdn.net/684c498ae76499dbba431244/luZ51UQ2ok-jUOA3fBaoJ-Tp0tW2.m4a",
+      "pfad": "/v1/episode/036dc47f333b878ad7cb0aed3fdd1517ab9f23e3.json",
+      "titel": "“娇妻”是如何养成的",
+      "veroeffentlicht": "2025-10-20T13:48:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨“娇妻”心态的特征、成因及心理机制。"
     }
   ]
 }

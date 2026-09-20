@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Tech Buzz China 英文科技评论",
   "apple_collection_id": "1472307819",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_501030318",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨中国数字人民币的设计特点、与第三方支付的关系及对全球的影响。"
+    },
+    {
+      "guid": "xmly_track_492453135",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasFty2lABAAAAENEBWw.mp3.m4a?channel=rss&album_id=15006724&track_id=492453135&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/e1cd-audiofreehighqps/60/D8/GKwRIasFty2lABAAAAENEBWw.mp3",
+      "pfad": "/v1/episode/6c9bf84d6890c97be36fdf304d248a261668b150.json",
+      "titel": "Ep. 84: 2021 China Internet Report with SCMP CEO Gary Liu",
+      "veroeffentlicht": "2022-01-14T12:22:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2021年中国互联网行业的五个核心发展趋势"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cec9-audiofreehighqps/22/DA/CKwRIasFGou1AKQn5wDkGQEM.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIasFGou1AKQn5wDkGQEM.m4a?channel=rss&album_id=15006724&track_id=454509106&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/cec9-audiofreehighqps/22/DA/CKwRIasFGou1AKQn5wDkGQEM.m4a",
+      "pfad": "/v1/episode/14f7c190faf2e1a1ee5f73f9203e980f36c8b338.json",
+      "titel": "Livecast #10: Richard Xu Investing in Chinese Entrepreneurs Going Overseas",
+      "veroeffentlicht": "2021-09-17T16:55:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "投资出海中国创业者的VC合伙人理查德·徐访谈"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f7ee-audiofreehighqps/37/25/CKwRIJEFGoqbAJ28uQDkGN_d.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEFGoqbAJ28uQDkGN_d.m4a?channel=rss&album_id=15006724&track_id=454508690&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/f7ee-audiofreehighqps/37/25/CKwRIJEFGoqbAJ28uQDkGN_d.m4a",
+      "pfad": "/v1/episode/947214303ddc967b89350979f8745985e3d0de0e.json",
+      "titel": "Livecast #9: Albus Yu of China Growth Capital on China DTCs",
+      "veroeffentlicht": "2021-09-17T16:51:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话 China Growth Capital 的 Albus Yu：剖析中国 DTC 品牌发展"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1813-audiofreehighqps/DA/1E/CKwRIaIFGoFgANQL3QDkF6KF.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIaIFGoFgANQL3QDkF6KF.m4a?channel=rss&album_id=15006724&track_id=454504245&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/1813-audiofreehighqps/DA/1E/CKwRIaIFGoFgANQL3QDkF6KF.m4a",
+      "pfad": "/v1/episode/25721b47b08afb266ec29e9d7d370010488c6307.json",
+      "titel": "Livecast #6: Ron Cao, A 20 Year China VC on Semis, SPACs and Blockchain",
+      "veroeffentlicht": "2021-09-17T16:11:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "风险投资人Ron Cao谈中国20年投资经历与半导体等领域"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6839-audiofreehighqps/C0/40/CKwRIW4FGn58ABAAAADkFw-x.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIW4FGn58ABAAAADkFw-x.mp3.m4a?channel=rss&album_id=15006724&track_id=454502581&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/6839-audiofreehighqps/C0/40/CKwRIW4FGn58ABAAAADkFw-x.mp3",
+      "pfad": "/v1/episode/73964418807fd713da97364bc8933878c038a524.json",
+      "titel": "Livecast #4: Deep Dive into Agora $API with Kevin Xu of Interconnected.blog",
+      "veroeffentlicht": "2021-09-17T16:02:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深入探讨 Agora 的技术与商业模式"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dbe2-audiofreehighqps/6E/F3/CKwRIJEExXjrAMjrGgDIQi_t.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEExXjrAMjrGgDIQi_t.m4a?channel=rss&album_id=15006724&track_id=433843569&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/dbe2-audiofreehighqps/6E/F3/CKwRIJEExXjrAMjrGgDIQi_t.m4a",
+      "pfad": "/v1/episode/28c21e86271b55810303eaeba8ad3397f8141746.json",
+      "titel": "Livecast #7: Jordan Berke, former Walmart China Head of E-Commerce",
+      "veroeffentlicht": "2021-07-15T04:12:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沃尔玛中国前电商负责人探讨中美零售业差异与未来趋势"
     }
   ]
 }

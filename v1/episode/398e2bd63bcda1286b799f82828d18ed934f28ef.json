@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6aa181e7492687f6aad77fbd",
+  "apple_collection_id": "1768223885",
+  "show": "小小新问 LittleNews",
+  "titel": "来看看搞笑诺贝尔获奖名单，“蟑螂奶”？蚊子嘴！",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/668181dc0082d528c09016a1/6aa181e7492687f6aad77fbd/media.xyzcdn.net/668181dc0082d528c09016a1/ljobbvoosSSPZQndDtOG6y5vK7d-.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:40:20+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨搞笑诺贝尔奖获奖名单中的有趣研究",
+  "kurzfassung": "本期节目介绍了第36届搞笑诺贝尔奖的获奖研究。主要内容包括关于高能蟑螂奶的成分与营养储存的研究，以及将蚊子口器用作3D打印喷嘴的微纳制造应用。这些搞怪实验展示了真实的科学探索。",
+  "stichpunkte": [
+    "第36届搞笑诺贝尔奖以真菌为主题",
+    "化学奖关注胎生斑螂体内的高能蛋白质晶体",
+    "蟑螂奶的能量密度比牛奶蛋白高出约三倍",
+    "技术奖研究将蚊子口器作为高分辨率3D打印喷嘴",
+    "蚊子口器可用于制造可承载细胞的生物支架和微量药物载体"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:40:20+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 683,
+  "veroeffentlicht": "2026-09-09T23:00:00+00:00",
+  "beschreibung": "🎧【本期主播】\n荔枝：infj妈妈\n森森：画家爸爸\n小米：6岁的小孩姐\n今天是 2026 年 9月10号。\n📒【本期资料】\n2026年第36届搞笑诺贝尔奖颁奖典礼在瑞士苏黎世落下帷幕，本届以“真菌”为主题，一堆听上去啼笑皆非的研究获奖。这些看似搞怪的实验，并非博人一笑的闹剧，而是笑过之后引人思考的真实科学探索。\n化学奖：高能蟑螂奶\n获奖者：Sanchari Banerjee、Nathan P. Coussens、François-Xavier Gallat、Nitish Sathyanarayanan、Jandhyam Srikanth、Koichiro J. Yagi、James S. S. Gray、Stephen S. Tobe、Barbara Stay、Leonard M. G. Chavas、Subramanian Ramaswamy\n他们研究的是“蟑螂奶”。\n\n蟑螂也有“奶”，而且能量密度据说比牛奶蛋白高出约三倍。胎生斑螂Diploptera punctata会在体内形成供幼体吸收的蛋白质晶体，团队解析其原子级结构后发现，晶体中的蛋白质结合了糖基和脂质，像一枚枚紧凑的能量胶囊。研究由此展示了昆虫如何在有限空间里储存和传递高密度营养，也为蛋白质结晶和仿生材料提供了新灵感\n传统中医认为蟑螂具有散瘀、化积、解毒功能\n\n技术奖：把蚊子的口器当 3D 打印喷嘴\n获奖者： Justin Puma、Zhen Yang、Evan Johnston、Zixin Zhang、Xiaoyi Lan、Lingzhi Zhang、Hongyu Hou、Zixin He、Ali Afify、Megan A. Creighton、Jianyu Li、Changhong Cao，因为他们开创了使用蚊子口器作为高分辨率3D打印喷嘴的用途，这个过程被称为\"尸体3D打印\"。\n显微尺度上，这根口器既细又坚固，内部结构复杂，正好适合观察高分辨率打印和微流体操作。生物进化留下的精巧结构并不只属于博物馆或显微镜，也能成为工程师手中的现成零件。\n\n利用这一“天然喷嘴”，团队打印出了蜂窝结构、枫叶等微型几何结构，并进一步制造了可承载单个癌细胞和红细胞的生物支架。此外，研究人员还尝试将微量药物载体注入猪皮肤。\n更特别的是，这种生物喷嘴在使用后可以自然降解，为一次性微尺度制造工具提供了新的思路。\n研究团队表示，将生物材料作为复杂工程部件的替代方案，有望为微纳制造、生物制造和先进制造带来新的可能。\nhttps://www.bilibili.com/video/BV12W4y1b7g1/?buvid=YE4F3FEB87F10D86406697A02AF702F0CBB3&from_spmid=search.search-result.0.0&is_story_h5=false&mid=k3ifZHdNXqGq4ng6Nk6EJw%3D%3D&plat_id=122&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=3313BFC8-C790-46DC-BEBE-7878828FB1B1&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1788748694&unique_k=9TFAIUs&up_id=3461563377781328\n\n米主播的手串店！\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>🎧【本期主播】</p><p>荔枝：infj妈妈</p><p>森森：画家爸爸</p><p>小米：6岁的小孩姐</p><p>今天是 2026 年 9月10号。</p><p>📒【本期资料】</p><p>2026年第36届搞笑诺贝尔奖颁奖典礼在瑞士苏黎世落下帷幕，本届以“真菌”为主题，一堆听上去啼笑皆非的研究获奖。这些看似搞怪的实验，并非博人一笑的闹剧，而是笑过之后引人思考的真实科学探索。</p><p><strong>化学奖：高能蟑螂奶</strong></p><img src=\"https://image.xyzcdn.net/FqKVKsPX3rUT55kWqGy47MmEpjGn.jpeg\"><p><strong>获奖者：Sanchari Banerjee、Nathan P. Coussens、François-Xavier Gallat、Nitish Sathyanarayanan、Jandhyam Srikanth、Koichiro J. Yagi、James S. S. Gray、Stephen S. Tobe、Barbara Stay、Leonard M. G. Chavas、Subramanian Ramaswamy </strong></p><p>他们研究的是“蟑螂奶”。</p><p></p><img src=\"https://image.xyzcdn.net/Fh0GQUOGv8wCHJjpa9bWHSbdR-W_.jpeg\"><p>蟑螂也有“奶”，而且能量密度据说比牛奶蛋白高出约三倍。胎生斑螂Diploptera punctata会在体内形成供幼体吸收的蛋白质晶体，团队解析其原子级结构后发现，晶体中的蛋白质结合了糖基和脂质，像一枚枚紧凑的能量胶囊。研究由此展示了昆虫如何在有限空间里储存和传递高密度营养，也为蛋白质结晶和仿生材料提供了新灵感</p><img src=\"https://image.xyzcdn.net/FgEyj_xlo7ORTx8sanGmC2FcT0fs.webp\"><p>传统中医认为蟑螂具有散瘀、化积、解毒功能</p><p></p><p><strong>技术奖：把蚊子的口器当 3D 打印喷嘴</strong></p><img src=\"https://image.xyzcdn.net/Fqq0Qf4TlMEDFYUqxgmxWJNoUAb9.jpeg\"><p><strong>获奖者：</strong> <strong>Justin Puma、Zhen Yang、Evan Johnston、Zixin Zhang、Xiaoyi Lan、Lingzhi Zhang、Hongyu Hou、Zixin He、Ali Afify、Megan A. Creighton、Jianyu Li、Changhong Cao</strong>，因为他们开创了使用蚊子口器作为高分辨率3D打印喷嘴的用途，这个过程被称为\"尸体3D打印\"。</p><p>显微尺度上，这根口器既细又坚固，内部结构复杂，正好适合观察高分辨率打印和微流体操作。生物进化留下的精巧结构并不只属于博物馆或显微镜，也能成为工程师手中的现成零件。</p><img src=\"https://image.xyzcdn.net/FkhCtD9auIQ55_Agh-bpaocXt6U9.webp\"><img src=\"https://image.xyzcdn.net/Fh5IDDJVsocUxxBg_2iHncEytWPw.webp\"><p></p><p>利用这一“天然喷嘴”，团队打印出了蜂窝结构、枫叶等微型几何结构，并进一步制造了可承载单个癌细胞和红细胞的生物支架。此外，研究人员还尝试将微量药物载体注入猪皮肤。</p><p>更特别的是，这种生物喷嘴在使用后可以<strong>自然降解</strong>，为一次性微尺度制造工具提供了新的思路。</p><p>研究团队表示，将生物材料作为复杂工程部件的替代方案，有望为微纳制造、生物制造和先进制造带来新的可能。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bilibili.com/video/BV12W4y1b7g1/?buvid=YE4F3FEB87F10D86406697A02AF702F0CBB3&amp;from_spmid=search.search-result.0.0&amp;is_story_h5=false&amp;mid=k3ifZHdNXqGq4ng6Nk6EJw%3D%3D&amp;plat_id=122&amp;share_from=ugc&amp;share_medium=iphone&amp;share_plat=ios&amp;share_session_id=3313BFC8-C790-46DC-BEBE-7878828FB1B1&amp;share_source=WEIXIN&amp;share_tag=s_i&amp;spmid=united.player-video-detail.0.0&amp;timestamp=1788748694&amp;unique_k=9TFAIUs&amp;up_id=3461563377781328\">https://www.bilibili.com/video/BV12W4y1b7g1/?buvid=YE4F3FEB87F10D86406697A02AF702F0CBB3&amp;from_spmid=search.search-result.0.0&amp;is_story_h5=false&amp;mid=k3ifZHdNXqGq4ng6Nk6EJw%3D%3D&amp;plat_id=122&amp;share_from=ugc&amp;share_medium=iphone&amp;share_plat=ios&amp;share_session_id=3313BFC8-C790-46DC-BEBE-7878828FB1B1&amp;share_source=WEIXIN&amp;share_tag=s_i&amp;spmid=united.player-video-detail.0.0&amp;timestamp=1788748694&amp;unique_k=9TFAIUs&amp;up_id=3461563377781328</a></p><p></p><img src=\"https://image.xyzcdn.net/FlEKFj7xxk7TPcSUq34EkI3J6mIa.jpg\"><p></p><p>米主播的手串店！</p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa181e7492687f6aad77fbd?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fub1eqBiMQOBhsJMMWambzM1mgnE.png"
+}

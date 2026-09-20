@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "未命名播客",
   "apple_collection_id": "1528276988",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "4b19220c-2c83-493a-b934-ef298a21a065",
@@ -13,6 +13,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "以印度鹿野苑为例，解析ICOMOS如何评估世界遗产的类型、价值与属性。"
+    },
+    {
+      "guid": "b53dc307-3121-4434-b106-7840971377dc",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/7047f409-5a90-4de7-810c-79377187eb31/b53dc307-3121-4434-b106-7840971377dc.mp3",
+      "pfad": "/v1/episode/0a01621fbdccff10dedac5a64e61bcdae3a87142.json",
+      "titel": "037: 遗产大会特别节目#4：介绍4个新晋现代主义建筑（城市）遗产",
+      "veroeffentlicht": "2026-07-27T21:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介绍四个新晋现代主义建筑与城市遗产。"
+    },
+    {
+      "guid": "515c2591-f8d9-4cf8-88f5-d25a506a56ad",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/7047f409-5a90-4de7-810c-79377187eb31/515c2591-f8d9-4cf8-88f5-d25a506a56ad.mp3",
+      "pfad": "/v1/episode/f3da38f66c229bfc8ef2a2a36a5fc7a6857ce371.json",
+      "titel": "036: 景德镇成为世界遗产！我们制作了一档系列节目！",
+      "veroeffentlicht": "2026-07-25T11:45:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "景德镇手工瓷业遗存列入世界遗产名录及其申遗历程"
+    },
+    {
+      "guid": "df11304d-701d-44ab-810d-afb74d46aa75",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/7047f409-5a90-4de7-810c-79377187eb31/df11304d-701d-44ab-810d-afb74d46aa75.mp3",
+      "pfad": "/v1/episode/f2dd2f7abf0bb86c12f5e13b92f5c3a04be2f8e4.json",
+      "titel": "035: 遗产大会特别节目#3：展览reaction",
+      "veroeffentlicht": "2026-07-24T15:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "xbz和乔博士参观世界遗产大会同步遗产展览的反应与感受"
+    },
+    {
+      "guid": "da58dff0-8214-4295-939c-5e93603d645c",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/7047f409-5a90-4de7-810c-79377187eb31/da58dff0-8214-4295-939c-5e93603d645c.mp3",
+      "pfad": "/v1/episode/cb19cc08618ba1f7833f2c928068bbfee260400e.json",
+      "titel": "032: 红墙内的书与阁——民国时期的文渊阁与《四库全书》",
+      "veroeffentlicht": "2026-01-15T16:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨民国时期文渊阁建筑及《四库全书》的波折历史。"
+    },
+    {
+      "guid": "5e0296c2-e2e8-4289-a244-4d09c4682498",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/7047f409-5a90-4de7-810c-79377187eb31/5e0296c2-e2e8-4289-a244-4d09c4682498.mp3",
+      "pfad": "/v1/episode/d5b50676a3d3d596325ab919d3c0c722cbfd3f46.json",
+      "titel": "031: 神武门外的告别",
+      "veroeffentlicht": "2025-09-11T17:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回溯溥仪出宫与故宫博物院成立的历史历程"
+    },
+    {
+      "guid": "e3c15041-7c21-4b34-a0af-72b1f1d5b393",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/7047f409-5a90-4de7-810c-79377187eb31/e3c15041-7c21-4b34-a0af-72b1f1d5b393.mp3",
+      "pfad": "/v1/episode/7845c0f24173018d15ab6e680aa29677ebf5480b.json",
+      "titel": "030: 终于来回复上次征集的问题了！",
+      "veroeffentlicht": "2025-05-12T07:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "集中回复听众征集的问题，分享个人近况与近期感悟。"
+    },
+    {
+      "guid": "1bcebd36-4446-4564-8ea6-396b703ab50e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/7047f409-5a90-4de7-810c-79377187eb31/1bcebd36-4446-4564-8ea6-396b703ab50e.mp3",
+      "pfad": "/v1/episode/6bdc3fcc66849e82893d68b731293bfa64c50ef9.json",
+      "titel": "029: 和婉莹、小动物、李二去清东陵（1年前）",
+      "veroeffentlicht": "2025-04-15T07:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "xbz、婉莹、小动物和李二畅聊清东陵访古见闻。"
     }
   ]
 }

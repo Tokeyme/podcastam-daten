@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "Verbrechen",
   "apple_collection_id": "1374777077",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "91f3d830-b4a1-496b-a382-c7c142fb4dd1",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/069da81d-2d8a-404f-b4e3-33cae3a56819/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=069da81d-2d8a-404f-b4e3-33cae3a56819&feed=dnJhzmyN",
+      "pfad": "/v1/episode/70549b69e5d620239c58dc476a1b36c65cdacf4c.json",
+      "titel": "89 Sekunden für einen Raub: der Einbruch ins Grüne Gewölbe",
+      "veroeffentlicht": "2026-09-08T13:25:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Einbruch in das Grüne Gewölbe in Dresden und seine Hintergründe"
+    },
+    {
+      "guid": "7d36f5ee-2593-400d-84a1-02d84792dffd",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/20c5dfba-112e-4b22-b2f8-163709cf28fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=20c5dfba-112e-4b22-b2f8-163709cf28fe&feed=dnJhzmyN",
+      "pfad": "/v1/episode/81aaaa31f81769240215f6ff7dd6cfcea042f6e9.json",
+      "titel": "Fritz Friedmann und der Sexskandal am Kaiserhof",
+      "veroeffentlicht": "2026-08-25T13:25:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Fritz Friedmann als Verteidiger im Sexskandal am Kaiserhof von Wilhelm II."
+    },
     {
       "guid": "443fde9f-0e16-49d4-ab7c-0b759d389088",
       "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/a18bb777-198c-4318-89d3-ad82f8b3a65a/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=a18bb777-198c-4318-89d3-ad82f8b3a65a&feed=dnJhzmyN",
@@ -13,6 +33,76 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Ein Familienausflug endet in einer brutalen Prügelei in einer S-Bahn nach einem…"
+    },
+    {
+      "guid": "614a7f65-44c3-4d5c-a9d6-405c6b3df413",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/bb922557-b7b2-4637-9703-8464f07adf42/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=bb922557-b7b2-4637-9703-8464f07adf42&feed=dnJhzmyN",
+      "pfad": "/v1/episode/4d380dec6395f6816ce41c4ddccdfff8b8a58605.json",
+      "titel": "Tat ohne Täter (1/2): Die verschwundenen Stühle",
+      "veroeffentlicht": "2026-07-28T13:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Diebstahl von Designermöbeln aus drei Universitätsmensa."
+    },
+    {
+      "guid": "4b453d58-6513-4f08-ba5e-a15031e2b6e6",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/5a98a081-0312-4e28-8bc5-00ce44002120/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=5a98a081-0312-4e28-8bc5-00ce44002120&feed=dnJhzmyN",
+      "pfad": "/v1/episode/de5e35dc19e3e590ef98dadc7d56d6d44ba16a6b.json",
+      "titel": "Tat ohne Täter (2/2): Als das Eis zur Gefahr wurde",
+      "veroeffentlicht": "2026-07-28T13:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Peruanischer Bauer verklagt RWE wegen schmelzendem Gletscher"
+    },
+    {
+      "guid": "667a857b-c061-40d5-a847-8ad00e1a4045",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/8253b886-9e0f-4d93-91ba-826370556289/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=8253b886-9e0f-4d93-91ba-826370556289&feed=dnJhzmyN",
+      "pfad": "/v1/episode/e539f2ae4068a377f19d4a202a7ae84fd7a5e580.json",
+      "titel": "Die Leiche im Gartenteich",
+      "veroeffentlicht": "2026-07-14T13:25:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Todesfall einer Frau im Gartenteich und die umstrittene Verurteilung ihres Ehemannes"
+    },
+    {
+      "guid": "aa99ff42-2b87-4736-8aa5-52b6e0082ce3",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/6cb28066-3fae-46d2-ac4b-22be1c6907d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=6cb28066-3fae-46d2-ac4b-22be1c6907d4&feed=dnJhzmyN",
+      "pfad": "/v1/episode/858334a71a5d566a617b6eabee01d14ac8b96eb2.json",
+      "titel": "Die Phantompatienten des Dr. O.",
+      "veroeffentlicht": "2026-06-30T13:25:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie ein Arzt über den Bereitschaftsdienst 1,6 Millionen Euro abrechnete."
+    },
+    {
+      "guid": "4cfe6cbc-4940-4fba-8819-34814e976e06",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/e518f06d-7abe-415e-b7ca-400ae3bafea9/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=e518f06d-7abe-415e-b7ca-400ae3bafea9&feed=dnJhzmyN",
+      "pfad": "/v1/episode/2d5b29c415a7da373db8597c9b8534c5905ff1ec.json",
+      "titel": "Tod am Großglockner – Teil 1: Auf den Spuren einer Toten",
+      "veroeffentlicht": "2026-06-23T13:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ein Mann und eine Frau am Großglockner: Sie bricht zusammen, er steigt weiter."
+    },
+    {
+      "guid": "1d9034a0-44a4-411f-82d7-b7d56490ff2f",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/db298657-efe1-49a9-be49-01e8575a9692/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=db298657-efe1-49a9-be49-01e8575a9692&feed=dnJhzmyN",
+      "pfad": "/v1/episode/daaf70f9ff9a5b54e2d298bae0b4f49edd69058f.json",
+      "titel": "Der Prophet und der Werwolf",
+      "veroeffentlicht": "2026-06-16T13:25:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Prozess gegen den Serienmörder Fritz Haarmann im Jahr 1924"
+    },
+    {
+      "guid": "b4e474ce-b828-4714-b7a9-80f3439dccaa",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/1a327c58-db79-4585-ba7c-a854ed37edbc/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=1a327c58-db79-4585-ba7c-a854ed37edbc&feed=dnJhzmyN",
+      "pfad": "/v1/episode/670e910dd84ed93f95a4074ba98221b8efd49a7a.json",
+      "titel": "Es zog ihn hin zum Mord",
+      "veroeffentlicht": "2026-06-16T13:25:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Egon Erwin Kisch und seine Kriminalreportagen vor 100 Jahren"
     }
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1005857462",
+  "apple_collection_id": "1712419886",
+  "show": "人文清华播客：对话清华学者",
+  "titel": "140 对话哲学教授夏莹：别急着把自己活成一个确定的人",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaIOUORgAqgyJwTFSdpE.m4a?channel=rss&album_id=54649472&track_id=1005857462&uid=84559071&jt=https://aod.cos.tx.xmcdn.com/storages/f356-audiofreehighqps/D9/97/GKwRIaIOUORgAqgyJwTFSdpE.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 44577319,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T05:09:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; nach 37 Tagen in der Cloud transkribiert, statt weiter auf den Rechner zu warten - das Modell schaetzt Zeitangaben, statt sie zu messen"
+  },
+  "einzeiler": "对话哲学教授夏莹，探讨消费社会、未来哲学与生活的诗意可能。",
+  "kurzfassung": "本期播客对话清华大学哲学教授夏莹，探讨了消费社会中的意义消费、符号阶层以及数字资本主义带来的异化与重构。夏莹指出，传统哲学往往流于抽象与规定性，而未来的哲学应当回归日常生活，借助戏剧与体验打破规定性。访谈还分享了她在法国求学的经历，并呼吁将哲学纳入基础教育以培养国民的丰富人格与想象力。",
+  "stichpunkte": [
+    "消费社会以消费和消费方式界定社会形态，通过赋予商品符号意义来激发无限的生产潜能。",
+    "凡勃伦效应与炫耀性消费揭示了消费不仅是满足基本需求，更是社会分层和身份地位的象征。",
+    "社交媒体加剧了结构性稀缺与心理贫困，人们用‘精装的朋友圈’掩盖‘毛坯的人生’。",
+    "波德里亚将媒介视为造物主，影像和媒介正在塑造我们的生活，模糊了真实与虚假的边界。",
+    "数字资本主义将数据作为核心生产资料，算法逻辑和隐私数据收集正在深度掌控人类生活。",
+    "未来哲学主张反对过度抽象，通过具体的体验和戏剧现场打破传统哲学的规定性。",
+    "分享了在法国访学期间的感悟，指出法国哲学与生活紧密交融，随处可见阅读经典的人群。",
+    "清华哲学学堂班通过定制化研讨班和学科融合，探索培养学生跨界思考与哲学戏剧实践。",
+    "呼吁将哲学纳入基础教育体系，认为哲学能够帮助国民建构丰富的人格并激发创新想象力。"
+  ],
+  "kapitel": [
+    {
+      "titel": "消费社会的本质与意义消费",
+      "start": 600.0
+    },
+    {
+      "titel": "凡勃伦效应与炫耀性消费",
+      "start": 909.88
+    },
+    {
+      "titel": "消费主义与媒介的“造物主”角色",
+      "start": 1268.04
+    },
+    {
+      "titel": "法国求学经历与哲学的生活基础",
+      "start": 2356.36
+    },
+    {
+      "titel": "清华哲学学堂班与未来哲学的探索",
+      "start": 2560.18
+    },
+    {
+      "titel": "数字资本主义与社交媒体的异化",
+      "start": 4351.32
+    },
+    {
+      "titel": "呼吁将哲学纳入基础教育与想象力培养",
+      "start": 5251.74
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T05:09:45+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5506,
+  "veroeffentlicht": "2026-08-13T12:00:00+00:00",
+  "beschreibung": "一提到哲学，我们很容易觉得，它讨论的是一些离普通人的生活特别遥远的问题。但夏莹老师恰恰对这种哲学不太满意。她一直在追问的是：哲学能不能重新回到我们的日常生活里？\n比如，为什么我们明明拥有的东西越来越多，却还是经常觉得匮乏？为什么朋友圈里的生活越来越精致，我们却可能越来越不知道自己真正想要什么？\n这些听起来很当下的问题，其实都可以成为哲学的问题。\n所以这期节目，我们就跟着张小琴老师和夏莹老师一起聊聊：在一个越来越被规定的世界里，我们还能不能为自己保留一点别的可能性？\n嘉宾\n夏莹：清华大学人文学院哲学系长聘教授，博士生导师。教育部长江学者奖励计划特聘教授。多年从事马克思主义哲学，当代西方马克思主义哲学、法国哲学研究。\n时间轴\n01:41 哲学为什么要走进剧场：让“人真正遇见人”\n05:08 现代人的困境，是我们甚至意识不到自己身在困境\n08:23 一本《消费社会》，改变了夏老师的哲学研究方向\n15:50 “毛坯的人生，精装的朋友圈”\n20:09 从消费到消费主义：我们为什么越来越不知道自己真正想要什么\n23:05 鸡汤归因于个人，哲学寻找背后的社会机制\n30:25 “忘拍照了，这顿饭白吃了”：当媒介开始主导生活\n32:05 为什么鲍德里亚说，迪士尼才是“最真实”的地方\n48:13 把“我是谁”的定义权，重新掌握在自己手里\n01:00:31 走进剧场，暂时逃离被规定的生活\n01:18:39 哲学带来的或许不是幸福，而是一种“清醒的痛苦”\n01:24:24 在高度确定的生活里，给自己留一点“不确定”\n幕后制作\n监制：张小琴 王立斌\n责编：张琳\n关于人文清华播客\n“人文清华”是清华大学官方主办的学术内容平台，兼顾学术性与大众性，外行听得懂，内行有收获。我们遍访清华学术大家、新锐学者，聊他们的人生经历、学术经历、经典学说、独特发现；也偶尔会组织学生圆桌，听同学们讲讲他们的所思所想。主理人兼主播张小琴，清华大学新闻与传播学院教授；常驻主播张琳，清华大学新闻与传播学院博士生。视频播客版陆续上线小红书、B站、微博等平台账号@人文清华，欢迎大家收看。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">一提到哲学，我们很容易觉得，它讨论的是一些离普通人的生活特别遥远的问题。但夏莹老师恰恰对这种哲学不太满意。她一直在追问的是：哲学能不能重新回到我们的日常生活里？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">比如，为什么我们明明拥有的东西越来越多，却还是经常觉得匮乏？为什么朋友圈里的生活越来越精致，我们却可能越来越不知道自己真正想要什么？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这些听起来很当下的问题，其实都可以成为哲学的问题。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">所以这期节目，我们就跟着张小琴老师和夏莹老师一起聊聊：在一个越来越被规定的世界里，我们还能不能为自己保留一点别的可能性？</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">嘉宾</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">夏莹：清华大学人文学院哲学系长聘教授，博士生导师。教育部长江学者奖励计划特聘教授。多年从事马克思主义哲学，当代西方马克思主义哲学、法国哲学研究。</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">时间轴</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:41</a>&nbsp;哲学为什么要走进剧场：让“人真正遇见人”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">05:08</a>&nbsp;现代人的困境，是我们甚至意识不到自己身在困境</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">08:23</a>&nbsp;一本《消费社会》，改变了夏老师的哲学研究方向</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">15:50</a>&nbsp;“毛坯的人生，精装的朋友圈”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">20:09</a>&nbsp;从消费到消费主义：我们为什么越来越不知道自己真正想要什么</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">23:05</a>&nbsp;鸡汤归因于个人，哲学寻找背后的社会机制</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">30:25</a>&nbsp;“忘拍照了，这顿饭白吃了”：当媒介开始主导生活</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">32:05</a>&nbsp;为什么鲍德里亚说，迪士尼才是“最真实”的地方</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">48:13</a>&nbsp;把“我是谁”的定义权，重新掌握在自己手里</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:00:31</a>&nbsp;走进剧场，暂时逃离被规定的生活</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:18:39</a>&nbsp;哲学带来的或许不是幸福，而是一种“清醒的痛苦”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><a style=\"color:#4990E2;text-decoration:none;\">01:24:24</a>&nbsp;在高度确定的生活里，给自己留一点“不确定”</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">幕后制作</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">监制：张小琴 王立斌&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">责编：张琳</p><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\">关于人文清华播客</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">“人文清华”是清华大学官方主办的学术内容平台，兼顾学术性与大众性，外行听得懂，内行有收获。我们遍访清华学术大家、新锐学者，聊他们的人生经历、学术经历、经典学说、独特发现；也偶尔会组织学生圆桌，听同学们讲讲他们的所思所想。主理人兼主播张小琴，清华大学新闻与传播学院教授；常驻主播张琳，清华大学新闻与传播学院博士生。视频播客版陆续上线小红书、B站、微博等平台账号@人文清华，欢迎大家收看。</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/251b-audiofreehighqps/E7/4E/GMCoOR8HbFw3AAL02QHfe4eW.jpeg",
+  "folgennummer": 2,
+  "kapitel_quelle": "modell"
+}

@@ -2,17 +2,97 @@
   "schema_version": 1,
   "show": "日日好物",
   "apple_collection_id": "1529849171",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
-      "guid": "17502726",
-      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/604a3d1f027dad856496cba0_18933835_24.m4a?auth_key=6aa5ede7-72249-0-a749fa1a99fb29fbec90049ea74a1ea0",
-      "pfad": "/v1/episode/6d0a386cb66fd43df5d4d2f5764a4f70040cf693.json",
-      "titel": "精致boy的好用app",
-      "veroeffentlicht": "2021-03-11T15:54:07+00:00",
+      "guid": "17301051",
+      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/6022be354cd4883ed015bed5_18732949_24.m4a?auth_key=6ab8d7d7-873565-0-9b3e154646d1735b32f46b2472e950c5",
+      "pfad": "/v1/episode/4da640e9bdadd315566bd9abd17fda672be739fb.json",
+      "titel": "原地过年之家居收纳指南",
+      "veroeffentlicht": "2021-02-09T16:54:13+00:00",
       "clips": false,
-      "kapitel": true,
-      "einzeiler": "技术宅张博分享几款无广告、轻量级的开源好用软件与应用"
+      "kapitel": false,
+      "einzeiler": "日谈法务小凤分享春节家居收纳好物与灵感"
+    },
+    {
+      "guid": "17259840",
+      "audio_url": "http://tchwod-sign.qtfm.cn/m4a/601c0946027dad2c0595011c_18699134_24.m4a?auth_key=6ab8d7d7-884736-0-93fe9c13483c86f8f935d43915e4d96a",
+      "pfad": "/v1/episode/791f979f1b5fece345bb37be26c6dd7c3558394c.json",
+      "titel": "原地过年之带你吃遍山野之间",
+      "veroeffentlicht": "2021-02-04T14:48:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "推荐适合原地过年的山林滋味与特色美食"
+    },
+    {
+      "guid": "17231891",
+      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/6019796e027dadc9c294e1a3_18682093_24.m4a?auth_key=6ab8d7d7-400481-0-92eb50c4df86ae0665edcca81f928380",
+      "pfad": "/v1/episode/f65d476196b12fcb7eadc3be629fd23789555477.json",
+      "titel": "翻包记：技术总监包里有什么",
+      "veroeffentlicht": "2021-02-02T16:10:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "技术总监张博做客节目，分享他的随身背包物品。"
+    },
+    {
+      "guid": "17193180",
+      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/6012d50c4cd48848d2150fa5_18644426_24.m4a?auth_key=6ab8d7d7-126827-0-1e2afd4838c2a01f06c2644b44d9dd67",
+      "pfad": "/v1/episode/c10b0d3cb86582d190c683600b8a86ae975df043.json",
+      "titel": "空瓶记之男女通用记",
+      "veroeffentlicht": "2021-01-28T15:15:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "乐总推荐适合男士及日常使用的好物分享。"
+    },
+    {
+      "guid": "17175537",
+      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/60102f8c027dad1fd994773f_18626818_24.m4a?auth_key=6ab8d7d7-282270-0-4d7b899887a462d7eaad30cf9d3a10a7",
+      "pfad": "/v1/episode/0f08427f8ed953b46a11192aa6af044518e07f2a.json",
+      "titel": "空瓶记之面部护理",
+      "veroeffentlicht": "2021-01-26T15:04:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨面部护理的关键环节，分享乳液与面霜的使用体验。"
+    },
+    {
+      "guid": "17131674",
+      "audio_url": "http://tchwod-sign.qtfm.cn/m4a/600a8683027dad598e9428ba_18587542_24.m4a?auth_key=6ab8d7d7-645561-0-40f03b5c8b950bbb07cd849db056e921",
+      "pfad": "/v1/episode/7d3eff3baaa0cb5388774ffa462129d78fc42be5.json",
+      "titel": "空瓶记之洁面篇",
+      "veroeffentlicht": "2021-01-22T08:02:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "敏感肌乐乐分享两款空瓶回购的洁面产品"
+    },
+    {
+      "guid": "17096150",
+      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/6006fb91027dadee7b93dee5_18552742_24.m4a?auth_key=6ab8d7d7-492288-0-03b180c58f9363ac215987d52fd0d8ac",
+      "pfad": "/v1/episode/6a8f94bf14c269db5a71bbed077d72286c62e462.json",
+      "titel": "让伤口快速复原的人工皮肤",
+      "veroeffentlicht": "2021-01-19T15:32:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨用于皮肤外伤快速复原的人工皮肤"
+    },
+    {
+      "guid": "17057267",
+      "audio_url": "http://vohwod-sign.qtfm.cn/m4a/6000588f4cd48840e91416ea_18513750_24.m4a?auth_key=6ab8d7d7-212307-0-b327fd15ea07297a7c745e43f0488f12",
+      "pfad": "/v1/episode/6f8b9ad09031420847140759f075dfb4bd033726.json",
+      "titel": "真·土豪瑜伽垫",
+      "veroeffentlicht": "2021-01-14T14:43:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨售价1500元的Liforme瑜伽垫为何备受追捧"
+    },
+    {
+      "guid": "17030160",
+      "audio_url": "http://tchwod-sign.qtfm.cn/m4a/5ffdcafe4cd488562913e6d6_18488405_24.m4a?auth_key=6ab8d7d7-728747-0-93c0b83b11011c314dad5d7fcf9b8f34",
+      "pfad": "/v1/episode/70471f92c9f11d17bce4b99f18e5e933f019c315.json",
+      "titel": "想和你共同品尝情人果",
+      "veroeffentlicht": "2021-01-12T16:14:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨富有南方特色的冷冻青芒果甜品"
     }
   ]
 }

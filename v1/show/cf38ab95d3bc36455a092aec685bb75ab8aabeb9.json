@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小凤直播室 访谈录",
   "apple_collection_id": "1559144306",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/10/31/3107704324141778950_hd.mp3",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "著名作曲家瞿小松做客节目，畅谈老庄哲学、经典电影及个人音乐创作历程。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101967586023271942_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/30/3101967586023271942_hd.mp3",
+      "pfad": "/v1/episode/2cd88247ceb99adc1e127b2a19db1402da7b8c1a.json",
+      "titel": "口述史丨颜峻1：打口一代青年艺术家肖像",
+      "veroeffentlicht": "2024-09-30T19:07:51+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "颜峻的艺术转型与实验音乐实践口述史"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101967590317455366_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/30/3101967590317455366_hd.mp3",
+      "pfad": "/v1/episode/c86905bbfbbd6b9de5c15a26dede6a0108e2dd79.json",
+      "titel": "口述史丨颜峻 3 ：《铁男》+齐柏林飞船的阶梯",
+      "veroeffentlicht": "2024-09-30T19:04:43+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "音乐评论人与实验艺术家颜峻的口述历史"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101967590011338758_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/30/3101967590011338758_hd.mp3",
+      "pfad": "/v1/episode/60a84da5640ced9d05ef7716dc83c01d93a71956.json",
+      "titel": "口述史丨颜峻2：福柯以及发明而不是发现生活",
+      "veroeffentlicht": "2024-09-30T19:02:46+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "颜峻的口述史访谈，探讨实验音乐与生活方式"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/04/3097095458874565638_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/04/3097095458874565638_hd.mp3",
+      "pfad": "/v1/episode/a15dec96827e2ee9201f3f66b2f436f50b49e460.json",
+      "titel": "口述史 丨尹丽川1：活着活着就知道",
+      "veroeffentlicht": "2024-09-04T12:53:53+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近导演、作家尹丽川的人文口述史，回顾其早期创作与人生经历。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/08/30/3096207779329325062_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/08/30/3096207779329325062_hd.mp3",
+      "pfad": "/v1/episode/fadc8fc7eeb6fd875d80db49d721228b35aed1f9.json",
+      "titel": "口述史丨尹丽川2：热内+新桥恋人+大门",
+      "veroeffentlicht": "2024-08-30T18:02:17+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "尹丽川口述史下半期：谈论书籍、电影与音乐偏好"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/08/12/3092872859630515718_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/08/12/3092872859630515718_hd.mp3",
+      "pfad": "/v1/episode/1f85ebef273f9b00ef74516234a87bafeb418c01.json",
+      "titel": "读书榜｜奥运闭幕夜再读《小王子》（实习主播：莘茹）",
+      "veroeffentlicht": "2024-08-12T18:40:47+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "在奥运闭幕夜重新阅读法国经典童话《小王子》。"
     }
   ]
 }

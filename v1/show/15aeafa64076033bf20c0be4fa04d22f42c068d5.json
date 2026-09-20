@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "廣東話遊戲治療 Play Therapy in Cantonese",
   "apple_collection_id": "1530954723",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "92cbd4a7-e0b4-4d37-a119-5c910280dd38",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "仿效十優狀元家長的方法未必有用，因爲雙方起點和底層能力不同。"
+    },
+    {
+      "guid": "b48148de-9ce1-4115-92f3-c1b8be9b4fca",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/117990011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-5%2F421451019-44100-2-385f14d3b99f8.m4a",
+      "pfad": "/v1/episode/dd410c04ef220b170d4dbd1cd5be9d1cdb2ac045.json",
+      "titel": "80. ADHD藥物迷思 vs 真實經驗：家長最擔心的幾個問題",
+      "veroeffentlicht": "2026-04-12T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討ADHD藥物的常見迷思與家長最擔心的問題"
+    },
+    {
+      "guid": "a978da3a-93e8-4083-b865-e615e29e2d92",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/117978654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-5%2F421436406-44100-2-87f4a923ecfae.m4a",
+      "pfad": "/v1/episode/e766548006a7911ce604ac49e0b0114cc290a23b.json",
+      "titel": "79. iPad停唔到？美國KOL媽媽點樣設界線又唔破壞關係",
+      "veroeffentlicht": "2026-04-05T06:18:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨海外育儿挑战，分享建立界线与管理屏幕时间的方法。"
+    },
+    {
+      "guid": "9076207a-63c2-43a7-8144-986a3dff16c3",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/116868311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-13%2F419940761-44100-2-37d3cb6d043cb.m4a",
+      "pfad": "/v1/episode/6fff3f52ff88d0ab40c9f5cd0424026b311f1cd9.json",
+      "titel": "78. 育兒書 - 《你怎麼了：創傷、復原與療癒的對話》5",
+      "veroeffentlicht": "2026-03-13T14:45:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討兒童創傷與ADHD的關聯及大腦發展"
+    },
+    {
+      "guid": "23b0f164-34b1-4db8-8b19-bfa25c45c83b",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/114660113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F416974649-44100-2-0d5f9cb6fe16d.m4a",
+      "pfad": "/v1/episode/b2c9a22fb3a498a928741eb42c5ada69eb41d387.json",
+      "titel": "77. 育兒書 - 《你怎麼了：創傷、復原與療癒的對話》4",
+      "veroeffentlicht": "2026-01-28T01:19:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨华人家庭的反问句文化对儿童情绪发展的影响。"
+    },
+    {
+      "guid": "Buzzsprout-18254418",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/113898951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415993212-44100-1-b94f7ed55eba16c8.mp3",
+      "pfad": "/v1/episode/1cb9a97021167bca990aed2b7bf5b61926a9a86d.json",
+      "titel": "76. 育兒書 - 《你怎麼了：創傷、復原與療癒的對話》3",
+      "veroeffentlicht": "2025-11-25T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨家暴循环中的悔意本质与童年创伤对成年关系的影响。"
+    },
+    {
+      "guid": "Buzzsprout-17924503",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/113898893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415993175-44100-1-ed290f5a42c6b8f7.mp3",
+      "pfad": "/v1/episode/64329aad12196b8387ed65df471f924ac8ebdfda.json",
+      "titel": "75. 育兒書 - 《你怎麼了：創傷、復原與療癒的對話》2",
+      "veroeffentlicht": "2025-09-29T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討童年創傷、復原與遊戲治療的實踐方式"
+    },
+    {
+      "guid": "Buzzsprout-17388683",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/113898926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415993186-44100-1-1a4c6cbf1801b877.mp3",
+      "pfad": "/v1/episode/ca7c6159b5ce22bc803dc61bb1470bdee2802caa.json",
+      "titel": "74. 育兒書 - 《你怎麼了：創傷、復原與療癒的對話》1",
+      "veroeffentlicht": "2025-06-24T09:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨奥普拉与贝瑞合著的《你怎么了：创伤、复原与疗愈的对话》。"
+    },
+    {
+      "guid": "Buzzsprout-17329685",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/113898921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415993195-44100-1-12ef6f10233506d6.mp3",
+      "pfad": "/v1/episode/225df243f56a76d5401d350ef097c2acb62ab6c7.json",
+      "titel": "73. 育兒書 - 《卡爾威特的教育》 2",
+      "veroeffentlicht": "2025-06-13T06:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨经典育儿著作《卡尔威特的教育》及教育理论发展史。"
+    },
+    {
+      "guid": "Buzzsprout-17287094",
+      "audio_url": "https://anchor.fm/s/10dd2e3e0/podcast/play/113898907/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415993176-44100-1-31bb20045b24268a.mp3",
+      "pfad": "/v1/episode/33f37c6630a0d5485dc448a626ec91db65f571df.json",
+      "titel": "72. 育兒書 - 《卡爾威特的教育》 1",
+      "veroeffentlicht": "2025-06-05T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介绍育儿书籍《卡尔·威特的教育》的第一集"
     }
   ]
 }

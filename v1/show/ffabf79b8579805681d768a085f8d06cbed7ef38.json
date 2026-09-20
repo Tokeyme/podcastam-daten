@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "有故事的你一定喜欢听",
   "apple_collection_id": "982419309",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2020/12/05/5148762914999908358_hd.mp3",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "在秋日的微凉与月色中，聆听关于孤独、城市与晚安的温柔独白。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2020/03/01/5097191392103001222_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2020/03/01/5097191392103001222_hd.mp3",
+      "pfad": "/v1/episode/175752490cae8dc16b637a053e37b11ca9a3454f.json",
+      "titel": "【城市留声机 第七十一期】隐秘的平凡仍是美好",
+      "veroeffentlicht": "2020-03-01T16:25:02+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨隐秘的平凡生活中的美好与归宿。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2020/02/23/5095897737214488198_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2020/02/23/5095897737214488198_hd.mp3",
+      "pfad": "/v1/episode/1e0aa57c809f905b7b07e697c514b011e63b6a36.json",
+      "titel": "【城市留声机 第七十期】烟花易冷",
+      "veroeffentlicht": "2020-02-23T17:03:48+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何在平凡的生活中寻找意义与仪式感。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2019/03/31/5034842992544755846_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2019/03/31/5034842992544755846_hd.mp3",
+      "pfad": "/v1/episode/0336c49a4d13612a1eaf691e9c12cf9869d58c8b.json",
+      "titel": "【城市留声机 第六十八期】我还能陪你走多久",
+      "veroeffentlicht": "2019-03-31T15:33:29+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成长记忆中那些无法磨灭的人与时光。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2018/12/19/5015973575427114502_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2018/12/19/5015973575427114502_hd.mp3",
+      "pfad": "/v1/episode/c7ee3234e47715c7281f00676642fcf7cab60fbe.json",
+      "titel": "【城市留声机 第六十七期】我就是希望，你一切都好",
+      "veroeffentlicht": "2018-12-19T22:47:40+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "给朋友与未来的书信对话"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2018/12/17/5015606686434535942_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2018/12/17/5015606686434535942_hd.mp3",
+      "pfad": "/v1/episode/ec356df2cfa615e14f00eac1d736434d8f192643.json",
+      "titel": "【城市留声机 第六十六期】光阴荏苒，愿故人常在",
+      "veroeffentlicht": "2018-12-17T23:18:44+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回忆逝去的校园时光与青春中的离别遗憾"
     }
   ]
 }

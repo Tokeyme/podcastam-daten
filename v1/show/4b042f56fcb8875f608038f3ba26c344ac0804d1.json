@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "Wild Wild Web - Geschichten aus dem Internet",
   "apple_collection_id": "1574676417",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "8fc6c703-384d-48c8-b3ff-1f30f157d712",
+      "audio_url": "https://media.neuland.br.de/file/2121786/c/feed/inside-palantir-kill-chain-5-5.mp3",
+      "pfad": "/v1/episode/536356aaf6fc7b0a8b36105481738b0ddf60ce5b.json",
+      "titel": "#05 Inside Palantir: Kill Chain (5/5)",
+      "veroeffentlicht": "2026-09-04T00:01:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wie Palantir-Software die moderne Kriegsführung in Konflikten verändert"
+    },
+    {
+      "guid": "a82b4cc6-4f68-4013-9643-f56e0387fc56",
+      "audio_url": "https://media.neuland.br.de/file/2121587/c/feed/inside-palantir-welcome-to-germany-4-5.mp3",
+      "pfad": "/v1/episode/c487cc6913e9271344819cd295dc138fdb293d7a.json",
+      "titel": "#04 Inside Palantir: Welcome to Germany (4/5)",
+      "veroeffentlicht": "2026-08-28T00:01:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Einblicke in die Funktionsweise von Palantir und die Software-Nutzung in Deutschland."
+    },
+    {
+      "guid": "fb607578-46f2-4b40-8198-a5f53394fbe0",
+      "audio_url": "https://media.neuland.br.de/file/2121395/c/feed/inside-palantir-daddy-karp-3-5.mp3",
+      "pfad": "/v1/episode/686f341350940e88385d1a7f496ebbc427dc8b3d.json",
+      "titel": "#03 Inside Palantir: Daddy Karp (3/5)",
+      "veroeffentlicht": "2026-08-21T00:01:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Alex Karps Wandel vom Trump-Gegner zum Unterstützer"
+    },
     {
       "guid": "1493b8eb-8411-4999-854a-11270e5b7f0f",
       "audio_url": "https://media.neuland.br.de/file/2121210/c/feed/inside-palantir-ice-cold-2-5.mp3",
@@ -13,6 +43,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Wie Palantirs Software bei US-Massenabschiebungen durch die Einwanderungsbehörde ICE…"
+    },
+    {
+      "guid": "3d95a0a6-c7b8-4e96-ae3c-35095cdb1006",
+      "audio_url": "https://media.neuland.br.de/file/2121033/c/feed/inside-palantir-burritos-und-bin-laden-1-5.mp3",
+      "pfad": "/v1/episode/e49ff1f2a123effd0b31569ee641a7d8fd52cc03.json",
+      "titel": "#01 Inside Palantir: Burritos und Bin Laden (1/5)",
+      "veroeffentlicht": "2026-08-07T00:01:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Geschichte des umstrittenen Software-Unternehmens Palantir und seines CEOs Alex Karp."
+    },
+    {
+      "guid": "8d412843-d9b2-4173-af46-a1d8ffcbcd54",
+      "audio_url": "https://media.neuland.br.de/file/2108335/c/feed/malte-und-die-tauben.mp3",
+      "pfad": "/v1/episode/9e45135948e3178ff1d326df4d7fae684243114c.json",
+      "titel": "#05 Malte und die Tauben",
+      "veroeffentlicht": "2025-07-10T07:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Beschluss der Stadt Limburg zum Vorgehen gegen Tauben und der Einsatz von Malte…"
+    },
+    {
+      "guid": "5af210cb-3072-4f46-ad70-cf866de70f4c",
+      "audio_url": "https://media.neuland.br.de/file/2108090/c/feed/das-wichtigste-hobby-der-welt.mp3",
+      "pfad": "/v1/episode/dd2917cd814e1ca8749eefac3bed4f92a4dd3b99.json",
+      "titel": "#04 Das wichtigste Hobby der Welt",
+      "veroeffentlicht": "2025-07-03T07:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Die Bedeutung von Open-Source-Maintainern für das Internet"
+    },
+    {
+      "guid": "27c3b9ac-a8dc-49a8-a73a-f7e12966082a",
+      "audio_url": "https://media.neuland.br.de/file/2107854/c/feed/bad-bromance-elon-musk-peter-thiel-und-ihr-weg-an-die-macht-teil-3.mp3",
+      "pfad": "/v1/episode/65ee6213e7b245ba4ef1a24ba8cd117da7e58258.json",
+      "titel": "#03 Bad Bromance: Elon Musk, Peter Thiel und ihr Weg an die Macht – Teil 3",
+      "veroeffentlicht": "2025-06-26T07:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Peter Thiel, Elon Musk und ihr Weg an die politische Macht"
+    },
+    {
+      "guid": "73aa0819-e885-4ea1-a57d-2799021bcf4c",
+      "audio_url": "https://media.neuland.br.de/file/2107626/c/feed/bad-bromance-elon-musk-peter-thiel-und-ihr-weg-an-die-macht-teil-2.mp3",
+      "pfad": "/v1/episode/ed5392288832db0e4adf8596b5833b5218357371.json",
+      "titel": "#02 Bad Bromance: Elon Musk, Peter Thiel und ihr Weg an die Macht – Teil 2",
+      "veroeffentlicht": "2025-06-19T07:00:00+02:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Elon Musk, Peter Thiel und ihr Weg an die Macht"
     }
   ]
 }

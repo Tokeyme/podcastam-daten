@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "播客公社",
   "apple_collection_id": "1510725428",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1002622817",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨播客与戏剧场景的结合，分享在廊坊《只有红楼梦》戏剧幻城的体验。"
+    },
+    {
+      "guid": "xmly_track_991136174",
+      "audio_url": "https://tk.wavpub.com/WPDL_TGKLjjFVrqrUNtnLQNNSjkjTEmLdRXbcGzVKrRvGXhNdNDQXbcVgNESTbr-db.m4a",
+      "pfad": "/v1/episode/01fdf34d7a865822a734f1d99e155a03c09ab0dc.json",
+      "titel": "HDC 2026 播客现场｜播客场景思考与探索feat. Coffeeplus",
+      "veroeffentlicht": "2026-06-16T18:32:38+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨播客媒介的发展现状、创作原动力以及声音内容的本质。"
+    },
+    {
+      "guid": "xmly_track_959221662",
+      "audio_url": "https://tk.wavpub.com/WPDL_QaERftJBJuEDmTytAyHnbJKcBaTEPYnBUfDpTEsaAYGAyUAyCtNgUpCqdT-2e.m4a",
+      "pfad": "/v1/episode/857cea2ec4aef1d6a4a655e3db087e28f4701884.json",
+      "titel": "实习生、艺术家与播客创业者的成长进化论 ft.播客公社老袁",
+      "veroeffentlicht": "2026-02-28T14:51:27+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话播客公社老袁，探讨其实习、沙画艺术与播客创业历程"
+    },
+    {
+      "guid": "xmly_track_931999359",
+      "audio_url": "https://tk.wavpub.com/WPDL_nLzbJGVkaetjVAgMkykhCbyQnRQDqcnqjxZKEjpVJHKsdPdFeZQYgKbuRP-9a.m4a",
+      "pfad": "/v1/episode/74005b29d27e5d9fafa179b2003fb39915c3b960.json",
+      "titel": "201. 特别年更节目：CPA第四年，Bessie、老袁、艾勇的观察与展望",
+      "veroeffentlicht": "2025-11-17T12:26:18+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨视频播客、国内外播客差异与行业发展趋势"
+    },
+    {
+      "guid": "xmly_track_919133825",
+      "audio_url": "https://tk.wavpub.com/WPDL_BbZehPgshTYRGvthdHEPsRTHqXwLcgQBWmXewAjJxHrQwpPtrzgBSPmRJf-fd.m4a",
+      "pfad": "/v1/episode/751221fa3d79511e55b7ff7f3468736d441066c7.json",
+      "titel": "永定河边聊播客：从“弄挺好”到“真挺好”",
+      "veroeffentlicht": "2025-10-09T18:57:25+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "几位播客同行在永定河畔露天畅聊，探讨播客的本质与创作体验。"
+    },
+    {
+      "guid": "xmly_track_910707895",
+      "audio_url": "https://tk.wavpub.com/WPDL_zDMestnGdyKawPYZRwKfLUyKUVTEmrfByWbAncHKwVakUKQPcqspuVRZdJ-6b.m4a",
+      "pfad": "/v1/episode/6debc1532337a1442a6d45de58d7291186d2a016.json",
+      "titel": "北京终于有播客节啦！9 月 20-21 日“弄的挺好”！",
+      "veroeffentlicht": "2025-09-12T15:00:50+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "北京首届“弄得挺好”播客节主创集体录制的活动预告与内容前瞻。"
+    },
+    {
+      "guid": "xmly_track_871340344",
+      "audio_url": "https://tk.wavpub.com/WPDL_eetMJmJqEZtPGfuMvjcZJcDDKmUBzAeAbvnWBNmyLnmqLxwFNGUZAWgAeV-36.m4a",
+      "pfad": "/v1/episode/a8b67098e6f49d3f24dadd8f3c6c038747333636.json",
+      "titel": "喜马拉雅卖给腾讯音乐的转身之痛",
+      "veroeffentlicht": "2025-06-17T11:36:58+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨腾讯音乐全资收购喜马拉雅的行业影响与播客业务"
+    },
+    {
+      "guid": "xmly_track_792031356",
+      "audio_url": "https://tk.wavpub.com/WPDL_SxNDdNAvtLBbhGFebHuHGCGpDPESSZnsrgkckPJmzNkQTshyaZjSzHssKV-db.m4a",
+      "pfad": "/v1/episode/8b5bb9afd63bfac33d6debfddd499bc365bbb0d1.json",
+      "titel": "对话大小咖啡：用播客建设品牌力",
+      "veroeffentlicht": "2025-01-08T13:11:32+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨播客如何建设品牌力，分享“大小电波”的发展历程与商业化尝试。"
+    },
+    {
+      "guid": "xmly_track_741884032",
+      "audio_url": "https://tk.wavpub.com/WPDL_LLgspeLsEwdUwBLcCcWqTkjfwsRghjkZVKZGuHaLzMAuhUjbhyFnVtMRsx-65.m4a",
+      "pfad": "/v1/episode/29f22eccdcecc11de292ac3fb2c596da642875e7.json",
+      "titel": "普通人怎么通过播客赚钱",
+      "veroeffentlicht": "2024-07-17T15:22:24+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨播客从业者的实际回报与变现途径。"
+    },
+    {
+      "guid": "xmly_track_686278049",
+      "audio_url": "https://tk.wavpub.com/WPDL_MtBgwdtKsrYNQSHqanPRzwKqnBCRxJEeGzVMPWPmKqGfPuhqDMPyccZjUH-07.m4a",
+      "pfad": "/v1/episode/515698115e8eba4595ae25c12031aa988127764b.json",
+      "titel": "特别年更节目- 中文播客社区：不断成长的可能性",
+      "veroeffentlicht": "2023-11-20T19:08:07+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾中文播客社区的发展、品牌营销实践与未来可能性"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "楷德教育",
   "apple_collection_id": "876154885",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2014/08/27/14002910067724038_hd.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "回顾Harkness讨论课的教学成果与申请美国名校的经验。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2014/06/26/12566220690481798_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2014/06/26/12566220690481798_hd.mp3",
+      "pfad": "/v1/episode/4d0d49195d2e96d24a013cd314f1054363adcefe.json",
+      "titel": "要不要去美国念高中？",
+      "veroeffentlicht": "2014-06-26T19:33:41+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨去美国念高中的利弊、寄宿与走读的选择及申请准备。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2014/06/20/12423215459175558_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2014/06/20/12423215459175558_hd.mp3",
+      "pfad": "/v1/episode/628e6c81d47f371dc954da3983a057af8a9ce0d4.json",
+      "titel": "世界杯与美国大学体育文化",
+      "veroeffentlicht": "2014-06-20T15:34:44+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨世界杯兴起、常青藤起源及美国大学体育文化。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2014/06/06/12098888519396486_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2014/06/06/12098888519396486_hd.mp3",
+      "pfad": "/v1/episode/e10fc17ffffe0af5d0e07158ca83798ae10640e2.json",
+      "titel": "从人民大学到美国顶尖文理学院",
+      "veroeffentlicht": "2014-06-06T15:57:53+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从中国本科到美国顶尖文理学院的求学经历与教育对比"
     }
   ]
 }

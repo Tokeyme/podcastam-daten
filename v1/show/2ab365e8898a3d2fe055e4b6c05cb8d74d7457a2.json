@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "唔系音乐 [KPOP]",
   "apple_collection_id": "1793960905",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a70ba65ab3a91c24a0f3fec",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "ITZY首次登台Killing Voice，带来多首热门歌曲串烧表演。"
+    },
+    {
+      "guid": "6a60dcaaa3fec224d5a1c488",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/679c6a5cdbb6a000c7523cb5/6a60dcaaa3fec224d5a1c488/media.xyzcdn.net/679c6a5cdbb6a000c7523cb5/llkA6HWej1ENXyZvNgrIVKR4M4pv.m4a",
+      "pfad": "/v1/episode/0bb7a6f06b9f18bb309781cd8aa50be47f78c741.json",
+      "titel": "040#｜【纯享】KPOP男女对唱夏日歌单（39mins）",
+      "veroeffentlicht": "2026-07-23T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "精选KPOP男女对唱夏日嗨歌歌单，时长约39分钟。"
+    },
+    {
+      "guid": "6a2feb854233e62bc54a4ae3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/679c6a5cdbb6a000c7523cb5/6a2feb854233e62bc54a4ae3/media.xyzcdn.net/679c6a5cdbb6a000c7523cb5/lkvIlEEO50d6IZAoX3XSXVfKypvm.m4a",
+      "pfad": "/v1/episode/4d4c90a0618c4fb70c775028077aed57b76740e2.json",
+      "titel": "037#｜【纯享】KPOP男团夏日歌单（1hr25mins）",
+      "veroeffentlicht": "2026-06-18T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "KPOP男团夏日曲目精选，时长约1小时25分钟。"
     }
   ]
 }

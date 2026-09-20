@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "每日科技简报",
   "apple_collection_id": "1885850863",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_973359248",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "AWS合作OpenAI，英伟达发布多模态模型，微软推荐企业AI方案"
+    },
+    {
+      "guid": "xmly_track_972514433",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4NwY52AB8-zgSPndq1.m4a?channel=rss&album_id=117798271&track_id=972514433&uid=418289390&jt=https://aod.cos.tx.xmcdn.com/storages/1097-audiofreehighqps/33/A7/GKwRIW4NwY52AB8-zgSPndq1.m4a",
+      "pfad": "/v1/episode/5ea68132f908baa12f2c686a364a5bb183aaa5c2.json",
+      "titel": "每日科技简报｜04月25日Codex、临床版与工具税",
+      "veroeffentlicht": "2026-04-24T19:58:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨OpenAI Codex企业化、临床版与Agent提速技术。"
+    },
+    {
+      "guid": "xmly_track_972298780",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4NwEPZAAzALQSPJFTQ.mp3.m4a?channel=rss&album_id=117798271&track_id=972298780&uid=418289390&jt=https://aod.cos.tx.xmcdn.com/storages/e56e-audiofreehighqps/A6/68/GKwRIW4NwEPZAAzALQSPJFTQ.mp3",
+      "pfad": "/v1/episode/50ff7a862301aa2348d78f47147986ac730a622e.json",
+      "titel": "每日科技简报｜04月24日 飞书AI平台、Gemini代理与YouTube",
+      "veroeffentlicht": "2026-04-23T20:28:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "每日科技简报：飞书生态升级、Google代理平台与YouTube检测。"
+    },
+    {
+      "guid": "xmly_track_970658476",
+      "audio_url": "https://jt.ximalaya.com//GAqhrg8Ntv6tAAtBrQSLadpa.mp3.m4a?channel=rss&album_id=117798271&track_id=970658476&uid=418289390&jt=https://aod.cos.tx.xmcdn.com/storages/cb7e-audiofreehighqps/A3/8E/GAqhrg8Ntv6tAAtBrQSLadpa.mp3",
+      "pfad": "/v1/episode/cf1b898c46533f276f6ab77dc42b0b9d6290b0c7.json",
+      "titel": "每日科技简报｜04月17日 Chrome AI、欧盟数据措施、Bedrock合规",
+      "veroeffentlicht": "2026-04-16T19:44:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Chrome AI集成、欧盟数据措施与Bedrock合规进展"
     }
   ]
 }

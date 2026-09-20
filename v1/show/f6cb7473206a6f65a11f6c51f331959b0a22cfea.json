@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "信睿播客",
   "apple_collection_id": "1603200493",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/11/14/3110278130845969926_hd.mp3",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从《Chiikawa》热潮切入，探讨日本妖怪学的发展历程及其文化内涵。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/13/3098799270253628422_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/13/3098799270253628422_hd.mp3",
+      "pfad": "/v1/episode/e62c5bdfe04a87089e989881205d5f716d308e67.json",
+      "titel": "44智利实验：新自由主义的历史机遇与致命盲点｜郦菁",
+      "veroeffentlicht": "2024-09-13T17:16:32+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨智利新自由主义实验的历史机遇与致命盲点"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/08/28/3095776953305882630_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/08/28/3095776953305882630_hd.mp3",
+      "pfad": "/v1/episode/d7ef777815027f5a8c2f2c5b83b88b2c9f89a23e.json",
+      "titel": "43 混乱撕裂的当下，区域研究如何看世界？ | 宋念申x殷之光",
+      "veroeffentlicht": "2024-08-28T10:28:30+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨在分裂动荡的当下，区域研究如何帮助我们理解世界。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/08/04/3091346136195000838_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/08/04/3091346136195000838_hd.mp3",
+      "pfad": "/v1/episode/5c5c3ebfc63bc091c50a2d28fb00286eddc44128.json",
+      "titel": "42网球夺金！足球还有多远？运动社会学看奥运 | 郑少雄x王智慧",
+      "veroeffentlicht": "2024-08-04T13:20:39+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从运动社会学视角看奥运会与竞技体育背后的国家、市场与社会力量"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/07/26/3089684043981881350_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/07/26/3089684043981881350_hd.mp3",
+      "pfad": "/v1/episode/ed3e9d4f1e66bc158e7b1bb3aaff9d9cf3bd02c2.json",
+      "titel": "41从“特朗普神图”与拜登退选看美国的媒介化政治 | 邓建国",
+      "veroeffentlicht": "2024-07-26T14:27:07+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨特朗普遇刺照片与拜登退选事件背后的美国媒介化政治。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/07/09/3086504224141444614_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/07/09/3086504224141444614_hd.mp3",
+      "pfad": "/v1/episode/a43e89a1c4bf770cfab344ba3e8e6f13385521df.json",
+      "titel": "40 jELLYCAT：天真的动画师与毛茸茸的人类学家 | 郭春宁",
+      "veroeffentlicht": "2024-07-09T10:57:25+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨jELLYCAT的成功生态及其背后的动画人类学视角"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/06/12/3081523290439000070_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/06/12/3081523290439000070_hd.mp3",
+      "pfad": "/v1/episode/cf47a0b5af1f1334614881a71b0705e30a20f1e8.json",
+      "titel": "39与历史学者八卦：清宫走得出“大女主”吗？ | 郑小悠x橘玄雅",
+      "veroeffentlicht": "2024-06-12T14:41:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨清代宫廷女性的真实生存空间与历史研究"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/05/20/3077264396266770950_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/05/20/3077264396266770950_hd.mp3",
+      "pfad": "/v1/episode/f51b23ea5fcdf5a8307bda07f0c05eab66740b04.json",
+      "titel": "38《学神》不只关心精英的复制，更关心精英如何理解权力 | 姜以琳",
+      "veroeffentlicht": "2024-05-20T15:44:23+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨顶尖学生的地位竞争、配得感以及对权力的理解"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/04/16/3070919997279063046_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/04/16/3070919997279063046_hd.mp3",
+      "pfad": "/v1/episode/3a1fc71879dbd6608d9ff0d2995800cb0e0bc599.json",
+      "titel": "37硅谷民族志(下): 硅谷“元游戏”：竞逐男性气质｜吴桐雨",
+      "veroeffentlicht": "2024-04-16T11:12:24+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "硅谷民族志下集：探讨硅谷工程师文化中的男性气质与游戏化控制"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/03/14/3064863691811346950_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/03/14/3064863691811346950_hd.mp3",
+      "pfad": "/v1/episode/7b74ae045cc9dd375e152efb603f0286c159e37a.json",
+      "titel": "36硅谷民族志(上):卷出Sora的劳动控制,远比“996”高明｜吴桐雨",
+      "veroeffentlicht": "2024-03-14T19:46:55+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨硅谷科技企业的劳动控制与工程师的游戏化工作方式。"
     }
   ]
 }

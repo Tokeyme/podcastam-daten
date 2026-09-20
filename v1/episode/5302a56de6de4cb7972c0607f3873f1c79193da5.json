@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_789837640",
+  "apple_collection_id": "1635907477",
+  "show": "扩博智聊 | 有AI味道的访谈节目",
+  "titel": "67. AI x 金融科技 | 不要因为有大模型就忽视一句正则表达式能解决的问题",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqh1QQLTG-0ACAAAANLXkBM.mp3.m4a?channel=rss&album_id=58531642&track_id=789837640&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/c373-audiofreehighqps/14/0C/GAqh1QQLTG-0ACAAAANLXkBM.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T09:08:32+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI大模型在金融科技中的应用及传统算法的价值",
+  "kurzfassung": "本期节目邀请金融科技公司AI工程师陈海林，分享其从计算机视觉转向大模型的技术经历。探讨了大模型在金融科技领域的具体应用场景，以及传统算法与模型在复杂问题解决中的作用。同时分析了人工标注与模型评估方法的比较，并介绍了相关大模型挑战赛。",
+  "stichpunkte": [
+    "嘉宾陈海林的教育背景与AI工程经历",
+    "从计算机视觉向自然语言处理及大模型的转型",
+    "大模型技术在金融科技领域的应用场景",
+    "传统算法与模型在解决复杂问题时的价值",
+    "人工标注与模型评估方法的比较分析",
+    "ARC Prize 大模型挑战赛介绍"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:08:32+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3640,
+  "veroeffentlicht": "2025-01-03T02:45:00+00:00",
+  "beschreibung": "嘉宾：Allen Chen（陈海林）美国某金融科技公司AI工程师\n\n录制日期：2024-12-27 | 主持人：潘天一\n\n本期话题节选\n\n03:06 从华大计算机系到扩博做AI工程的成就\n16:05 什么让嘉宾从计算机视觉转自然语言处理与大模型？\n26:17 大模型应用在金融科技领域的应用场景\n39:33 在AI时代，传统算法与模型的智慧：解决复杂问题的新途径\n44:47 模型评估：人工标注与模型评估方法的比较分析\n嘉宾推荐\n\n53:40 ARC Prize 大模型挑战 https://arcprize.org\n说在最后\n扩博智聊是一档带有AI味道的访谈节目，我们专注人工智能技术在不同行业不同领域的应用场景。\n\n节目背后的扩博智能虽然也是一家AI企业，但我们在节目中邀请的嘉宾，讨论的话题和行业并不一定限于扩博自己目前服务的领域。\n\n我们的愿景是通过《扩博智聊》让我们的听众更广泛地了解到一些多样性的人工智能应用场景和这些行业里有趣、有故事的人。\n\n想更深入了解这些人，可以关注我们的微信公众号，扩博智能Clobotics，留言“听友群”三个字，加入我们节目粉丝和嘉宾的互动群。\n\n联系我们\n\n若有对我们节目的反馈，商业合作的意向或者嘉宾与话题的推荐自荐投稿，可以发给我们的邮箱地址：podcast@xiaopan.ai",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">嘉宾：<span>Allen Chen（陈海林）美国某金融科技公司AI工程师<br></span></p><span><br></span><p style=\"font-size:14px;line-height:24px;color:#999999;word-break:break-all;font-weight:normal;\" data-flag=\"backup\"><span>录制日期：2024-12-27 | 主持人：潘天一</span><span><br></span></p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><span>本期话题节选<br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><img data-key=\"0\" src=\"http://imagev2.xmcdn.com/storages/90d0-audiofreehighqps/C7/8B/GKwRIaILTHusAADsewNLZGyX.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" alt=\"\" data-origin=\"http://imagev2.xmcdn.com/storages/90d0-audiofreehighqps/C7/8B/GKwRIaILTHusAADsewNLZGyX.png?op_type=0\" data-large=\"http://imagev2.xmcdn.com/storages/90d0-audiofreehighqps/C7/8B/GKwRIaILTHusAADsewNLZGyX.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_large\" data-large-width=\"750\" data-large-height=\"487.5\" data-preview=\"http://imagev2.xmcdn.com/storages/90d0-audiofreehighqps/C7/8B/GKwRIaILTHusAADsewNLZGyX.png!op_type=4&amp;device_type=ios&amp;upload_type=attachment&amp;name=mobile_small\" data-preview-width=\"140\" data-preview-height=\"91\"><br></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">03:06 从华大计算机系到扩博做AI工程的成就</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>16:05</span> 什么让嘉宾从计算机视觉转自然语言处理与大模型？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">26:17 大模型应用在金融科技领域的应用场景</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">39:33 在AI时代，传统算法与模型的智慧：解决复杂问题的新途径</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">44:47 模型评估：人工标注与模型评估方法的比较分析</p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\"><span><span>嘉宾推荐</span></span><span><span><br></span></span></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>53:40 ARC Prize 大模型挑战 https://arcprize.org</span></p><hr style=\"border:0px;margin:20px 0px;background:#ddd;display:inline-block;width:100%;border-style:solid;height:1px;\"><p data-flag=\"subtitle\" style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\">说在最后</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">扩博智聊是一档带有AI味道的访谈节目，我们专注人工智能技术在不同行业不同领域的应用场景。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">节目背后的扩博智能虽然也是一家AI企业，但我们在节目中邀请的嘉宾，讨论的话题和行业并不一定限于扩博自己目前服务的领域。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">我们的愿景是通过《扩博智聊》让我们的听众更广泛地了解到一些多样性的人工智能应用场景和这些行业里有趣、有故事的人。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>想更深入了解这些人，可以关注我们的微信公众号，<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">扩博智能</strong></span><span><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">Clobotics</strong><span>，留言“<strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">听友群</strong>”三个字，加入我们节目粉丝和嘉宾的互动群。</span></span></p><span><br></span><p style=\"font-size:17px;line-height:30px;margin:10px 0px;color:#333333;font-weight:900;\" data-flag=\"subtitle\">联系我们<br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">若有对我们节目的反馈，商业合作的意向或者嘉宾与话题的推荐自荐投稿，可以发给我们的邮箱地址：podcast@xiaopan.ai</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/53c2-audiofreehighqps/F9/59/GMCoOSYHKuRbAAFmpQG3mhyS.jpeg",
+  "folgennummer": 6
+}

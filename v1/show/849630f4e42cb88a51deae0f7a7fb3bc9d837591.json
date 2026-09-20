@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "仲裁风云·名家访谈录",
   "apple_collection_id": "1732388617",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_708040123",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨国际仲裁最新动态，涵盖新加坡仲裁规则修订、司法审查及AI应用"
+    },
+    {
+      "guid": "xmly_track_705111173",
+      "audio_url": "https://jt.ximalaya.com//GMCoOR8JmP1oACAAAAKmBvS9.mp3.m4a?channel=rss&album_id=80271720&track_id=705111173&uid=498306664&jt=https://aod.cos.tx.xmcdn.com/storages/b26d-audiofreehighqps/CB/53/GMCoOR8JmP1oACAAAAKmBvS9.mp3",
+      "pfad": "/v1/episode/4c1fac1bae3260deb5d4346b8afda74c30f49f99.json",
+      "titel": "吴振辉：年轻法律人如何实现自我提升？",
+      "veroeffentlicht": "2024-02-07T08:12:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "吴振辉探讨年轻法律人的自我提升与国际仲裁"
+    },
+    {
+      "guid": "xmly_track_702752470",
+      "audio_url": "https://jt.ximalaya.com//GKwRINsJjQfGACAAAAKhyrN8.mp3.m4a?channel=rss&album_id=80271720&track_id=702752470&uid=498306664&jt=https://aod.cos.tx.xmcdn.com/storages/c26a-audiofreehighqps/C4/57/GKwRINsJjQfGACAAAAKhyrN8.mp3",
+      "pfad": "/v1/episode/881a06d8f88823724eb783a9ca40e5a4b9ef3fd6.json",
+      "titel": "吴振辉：成为英国出庭律师是个“意外”？",
+      "veroeffentlicht": "2024-01-29T06:31:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨吴振辉如何成为英国出庭律师及其职业经历。"
     }
   ]
 }

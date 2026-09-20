@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "PivotCast｜转点播客",
   "apple_collection_id": "1813599424",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aad27b40916f6f8b4456baf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aad27b40916f6f8b4456baf/media.xyzcdn.net/67ffc937497fe940d4248c97/FuiZnWsTd1ZXcoISM5CLKvr6fFeV.m4a",
+      "pfad": "/v1/episode/7de239166918018a29fa3356659df453b9f3db92.json",
+      "titel": "【今天市场怎么了】20260918：沈鼓上市两日暴涨超13倍，加密市场迎来利好",
+      "veroeffentlicht": "2026-09-18T12:03:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全球金融市场概览：美股及A股主要指数上涨，比特币价格变动"
+    },
+    {
+      "guid": "6aabd2209d326477816aa7d4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aabd2209d326477816aa7d4/media.xyzcdn.net/67ffc937497fe940d4248c97/Fgji4NCog4hrYLJs8j7I4LtDBVpA.m4a",
+      "pfad": "/v1/episode/6e21f6cb95155a2246a94d8145f9bd5763397e38.json",
+      "titel": "【今天市场怎么了】20260917：美联储三年来首次加息，市场押注10月还加吗？",
+      "veroeffentlicht": "2026-09-17T11:44:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美联储三年首加息背景下的全球金融市场表现"
+    },
+    {
+      "guid": "6aaa826b051af796b9e93172",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aaa826b051af796b9e93172/media.xyzcdn.net/67ffc937497fe940d4248c97/FgXKU33MW2pEgviw_391mQZ14h4R.m4a",
+      "pfad": "/v1/episode/3be953de7791829034670d3bd4cb33f0cf638bb2.json",
+      "titel": "【今天市场怎么了】20260916：特朗普成加密行业不利因素，A股半导体板块爆发",
+      "veroeffentlicht": "2026-09-16T11:50:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读美股与比特币行情及A股半导体板块爆发"
+    },
+    {
+      "guid": "6aa930339d3264778169970b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa930339d3264778169970b/media.xyzcdn.net/67ffc937497fe940d4248c97/lheVgotggAYuo6Lr3m26oz3yKpFT.m4a",
+      "pfad": "/v1/episode/b6a61077a2f72b704a7adda4890c74e69cfbe9a8.json",
+      "titel": "【今天市场怎么了】20260915：费城半导体下跌近6%，宁德时代下跌超6%",
+      "veroeffentlicht": "2026-09-15T11:47:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读费城半导体与宁德时代大跌及全球金融市场行情。"
+    },
+    {
+      "guid": "6aa819889d3264778169214d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa819889d3264778169214d/media.xyzcdn.net/67ffc937497fe940d4248c97/ln7rEPVpunP1cdgOCo571qXLAbNT.m4a",
+      "pfad": "/v1/episode/448888394722b419e082a569f6bd0c818bee5431.json",
+      "titel": "EP032：稳定币越火，银行越矛盾？跨境支付的冰与火",
+      "veroeffentlicht": "2026-09-14T16:17:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨传统银行布局稳定币的动向与跨境支付中的风控矛盾"
+    },
+    {
+      "guid": "6aa7daac492687f6aad9c7f7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa7daac492687f6aad9c7f7/media.xyzcdn.net/67ffc937497fe940d4248c97/lqMXeUe5qPTcVEeHHU4i0ooBuGLw.m4a",
+      "pfad": "/v1/episode/f5c459051c628746a13129bd7c2a3bed999aa247.json",
+      "titel": "【今天市场怎么了】20260914：美联储9月加息概率90%，AI三巨头呼吁“降速”",
+      "veroeffentlicht": "2026-09-14T11:30:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全球金融市场概览：美股、A股及比特币最新动态"
+    },
+    {
+      "guid": "6aa3ee75492687f6aad878ba",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa3ee75492687f6aad878ba/media.xyzcdn.net/67ffc937497fe940d4248c97/lnodR2cN5RNb5EHwEa7KdNF0B2br.m4a",
+      "pfad": "/v1/episode/ce53fe611a306937315baf066ff01b1c73cbdb29.json",
+      "titel": "【今天市场怎么了】20260911：A股走出大V，美国CPI今晚8:30",
+      "veroeffentlicht": "2026-09-11T12:06:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读全球金融市场走势，涵盖美股、A股与比特币动态。"
+    },
+    {
+      "guid": "6aa29fac9d3264778167243b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa29fac9d3264778167243b/media.xyzcdn.net/67ffc937497fe940d4248c97/Fk2gse8cUkTCgJE8cHIw7henaZ3Q.m4a",
+      "pfad": "/v1/episode/b71f20f1a7e2922214c4af705598c77bfc2fd637.json",
+      "titel": "【今天市场怎么了】20260910：全球风险资产继续承压，A股市场缩量普跌",
+      "veroeffentlicht": "2026-09-10T12:19:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全球风险资产持续承压，A股市场呈现缩量普跌态势。"
+    },
+    {
+      "guid": "6aa13d4016f0a4973a148e7d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa13d4016f0a4973a148e7d/media.xyzcdn.net/67ffc937497fe940d4248c97/FnIcFKHrq29GOm1Rx1X7QX0ecEjt.m4a",
+      "pfad": "/v1/episode/e14eb170e66fa165a3561bd5f47404641db84d19.json",
+      "titel": "【今天市场怎么了】20260909：全球铜价创历史新高，油价升破100美元",
+      "veroeffentlicht": "2026-09-09T11:06:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全球金融市场概览：美股下跌、A股分化及比特币行情"
+    },
+    {
+      "guid": "6a9fd94cf03e74ee6b071080",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6a9fd94cf03e74ee6b071080/media.xyzcdn.net/67ffc937497fe940d4248c97/FmyimR-hVCwdkVU9JURmT7bXJoIO.m4a",
+      "pfad": "/v1/episode/72eb3fdb7d50d712f3a502003dcfd568e777d5df.json",
+      "titel": "【今天市场怎么了】20260908：布伦特原油大涨至99美元/桶，A股农业板块走强",
+      "veroeffentlicht": "2026-09-08T09:46:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读布伦特原油大涨与A股农业板块走势。"
+    },
     {
       "guid": "6a8839f01352af56ff39de3f",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6a8839f01352af56ff39de3f/media.xyzcdn.net/67ffc937497fe940d4248c97/Fj1IglSNUGSydx19z28L0mcXcPYg.m4a",

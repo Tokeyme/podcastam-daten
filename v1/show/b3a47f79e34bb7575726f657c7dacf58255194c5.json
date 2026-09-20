@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "原味读书：一个人的书房",
   "apple_collection_id": "958930157",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_620469928",
@@ -13,6 +13,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨亲密关系中的自我成全，做到不迷恋、不讨好、不将就与不勉强。"
+    },
+    {
+      "guid": "xmly_track_619586243",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAH7dLEADcy-gIEqNRA-aacv2-48K.m4a?channel=rss&album_id=326226&track_id=619586243&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/ebd1-audiofreehighqps/C0/B6/GKwRIMAH7dLEADcy-gIEqNRA-aacv2-48K.m4a",
+      "pfad": "/v1/episode/b514a93a2a97f8b00b00f2b74db7a461c40fb6d4.json",
+      "titel": "想要做富人，先做小气人",
+      "veroeffentlicht": "2023-03-24T04:34:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么越富有的人往往越懂得精打细算。"
+    },
+    {
+      "guid": "xmly_track_620561359",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEH8hlbAEolOwIGFejU-aacv2-48K.m4a?channel=rss&album_id=326226&track_id=620561359&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/cb34-audiofreehighqps/BD/26/GKwRIJEH8hlbAEolOwIGFejU-aacv2-48K.m4a",
+      "pfad": "/v1/episode/3e62563dea158a8e4c88cdcf25a571215bde2404.json",
+      "titel": "张洁：母亲的厨房",
+      "veroeffentlicht": "2023-03-24T04:33:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "作家张洁回忆母亲与厨房的往事，寄托哀思"
+    },
+    {
+      "guid": "xmly_track_620009520",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoH75ISAC-lEAIFVU7U-aacv2-48K.m4a?channel=rss&album_id=326226&track_id=620009520&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/5836-audiofreehighqps/99/9B/GKwRIDoH75ISAC-lEAIFVU7U-aacv2-48K.m4a",
+      "pfad": "/v1/episode/19f1c6ec05606b8c96bd39e8abe589210249a7ae.json",
+      "titel": "季羡林：糊涂一点，潇洒一点",
+      "veroeffentlicht": "2023-03-24T04:33:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "季羡林探讨关于“糊涂”与“潇洒”的真假分类及现实意义。"
+    },
+    {
+      "guid": "xmly_track_620006899",
+      "audio_url": "https://jt.ximalaya.com//GKwRINsH747BABs8XgIFVFNH-aacv2-48K.m4a?channel=rss&album_id=326226&track_id=620006899&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/a9aa-audiofreehighqps/5E/80/GKwRINsH747BABs8XgIFVFNH-aacv2-48K.m4a",
+      "pfad": "/v1/episode/61f28e0a3343f038fae2fe48dbf2a4035d82c193.json",
+      "titel": "马伯庸：回家过年的四层境界",
+      "veroeffentlicht": "2023-03-24T04:33:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "马伯庸讲述自己回家过年的四层境界的心路历程"
+    },
+    {
+      "guid": "xmly_track_619712805",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoH7kVXAEOQ7gIE39rS-aacv2-48K.m4a?channel=rss&album_id=326226&track_id=619712805&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/21cd-audiofreehighqps/30/5A/GKwRIDoH7kVXAEOQ7gIE39rS-aacv2-48K.m4a",
+      "pfad": "/v1/episode/fa4231efe654b2997288c9d796ec0e194dfb9f01.json",
+      "titel": "石磊：上海人的点心",
+      "veroeffentlicht": "2023-03-24T04:33:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "石磊讲述上海人的点心与待客之道"
+    },
+    {
+      "guid": "xmly_track_619427895",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIH7NsMADJ2EAIEat6f-aacv2-48K.m4a?channel=rss&album_id=326226&track_id=619427895&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/d70a-audiofreehighqps/14/33/GKwRIJIH7NsMADJ2EAIEat6f-aacv2-48K.m4a",
+      "pfad": "/v1/episode/22fdacbed88e39717ac83379e09c6bd4ffc92ca4.json",
+      "titel": "汪曾祺：故乡的元宵",
+      "veroeffentlicht": "2023-03-24T04:33:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "汪曾祺回忆故乡安静的元宵节，讲述独特的民俗与童年记忆。"
+    },
+    {
+      "guid": "xmly_track_620194068",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasH8I2cAD8e5wIFkqxz-aacv2-48K.m4a?channel=rss&album_id=326226&track_id=620194068&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/f1b5-audiofreehighqps/2B/F1/GKwRIasH8I2cAD8e5wIFkqxz-aacv2-48K.m4a",
+      "pfad": "/v1/episode/5ae5a29143b33e6757aca8353c56924e836983db.json",
+      "titel": "朱自清：论无话可说",
+      "veroeffentlicht": "2023-03-22T15:24:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "朱自清关于无话可说的论述"
     }
   ]
 }

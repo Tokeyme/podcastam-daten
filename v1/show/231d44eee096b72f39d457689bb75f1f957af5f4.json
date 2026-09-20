@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "3D打印商业读物",
   "apple_collection_id": "1054738017",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group13/M09/26/AB/wKgDXlbs8zvhMsuqAC_VkWICw_o871.m4a",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "分析3D打印照相馆的经营困境并提出四点破局建议"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M0B/8D/44/wKgDX1YtKRiTc03cAB8xtDXwawM506.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgDX1YtKRiTc03cAB8xtDXwawM506.m4a?channel=rss&album_id=2961625&track_id=9502366&uid=33464485&jt=https://aod.cos.tx.xmcdn.com/group7/M0B/8D/44/wKgDX1YtKRiTc03cAB8xtDXwawM506.m4a",
+      "pfad": "/v1/episode/0900948a8453dd6f1355fed23e565ea9da7f2e44.json",
+      "titel": "新商业模式解决3D打印非法复制的困局",
+      "veroeffentlicht": "2015-10-25T23:13:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨3D打印非法复制困局的新商业模式"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M09/7F/83/wKgDYlYV2qGh60VQAB2olTFWdOM252.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgDYlYV2qGh60VQAB2olTFWdOM252.m4a?channel=rss&album_id=2961625&track_id=9133111&uid=33464485&jt=https://aod.cos.tx.xmcdn.com/group9/M09/7F/83/wKgDYlYV2qGh60VQAB2olTFWdOM252.m4a",
+      "pfad": "/v1/episode/ff9309e665324b1691009f2d31490770adc18833.json",
+      "titel": "3D打印会不会改变手办产业? 漫画手办原型师亲口解答",
+      "veroeffentlicht": "2015-10-08T02:54:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨3D打印技术对动漫手办产业的影响与商业策略。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M02/7C/16/wKgDbFYNiuSh6xoGABRzWa8xrYY618.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgDbFYNiuSh6xoGABRzWa8xrYY618.m4a?channel=rss&album_id=2961625&track_id=9037365&uid=33464485&jt=https://aod.cos.tx.xmcdn.com/group16/M02/7C/16/wKgDbFYNiuSh6xoGABRzWa8xrYY618.m4a",
+      "pfad": "/v1/episode/339d073afa40d8b8b2122ba985595dfedd3e2467.json",
+      "titel": "长篇-像好莱坞那样制造(完结)",
+      "veroeffentlicht": "2015-10-01T19:36:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于3D打印技术与商业策略的探讨"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M01/76/5B/wKgDZVYCUFuiFz2qABqOXiHb4aI072.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgDZVYCUFuiFz2qABqOXiHb4aI072.mp3.m4a?channel=rss&album_id=2961625&track_id=8896447&uid=33464485&jt=https://aod.cos.tx.xmcdn.com/group15/M01/76/5B/wKgDZVYCUFuiFz2qABqOXiHb4aI072.mp3",
+      "pfad": "/v1/episode/20dc12d4e2c7069e7d28ee21417b83bc0da1535b.json",
+      "titel": "咨询巨头预测3D打印前景",
+      "veroeffentlicht": "2015-09-23T07:13:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨到2020年3D打印市场的发展前景与企业应用。"
     }
   ]
 }

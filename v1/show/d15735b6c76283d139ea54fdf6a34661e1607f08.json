@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "《北京失眠夜》|泛文化播客团体",
   "apple_collection_id": "1554737413",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_976602194",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "外勤人员被困国外地下室，被迫参与以手指和生命为筹码的21点生死赌局。"
+    },
+    {
+      "guid": "xmly_track_976159414",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAN2OuhAGfInwSYL5eO.m4a?channel=rss&album_id=46819231&track_id=976159414&uid=71905612&jt=https://aod.cos.tx.xmcdn.com/storages/4cb6-audiofreehighqps/29/30/GKwRIMAN2OuhAGfInwSYL5eO.m4a",
+      "pfad": "/v1/episode/f6fe7d75a8491ed7ee61ec1f70109266a1082c84.json",
+      "titel": "VOL.77-《老墨鬼话》-绝命21点-上“你会玩扑克吗？？”",
+      "veroeffentlicht": "2026-05-12T13:17:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一场高薪外派任务引发的生死赌局"
+    },
+    {
+      "guid": "xmly_track_975785271",
+      "audio_url": "https://jt.ximalaya.com//GAqhuykN1wb8ACAAAASXYjtl.mp3.m4a?channel=rss&album_id=46819231&track_id=975785271&uid=71905612&jt=https://aod.cos.tx.xmcdn.com/storages/0256-audiofreehighqps/EF/9F/GAqhuykN1wb8ACAAAASXYjtl.mp3",
+      "pfad": "/v1/episode/460d4ba4b253eafbd468c5b1daedc7c3076db3bb.json",
+      "titel": "VOL.76-《老墨鬼话》-玻璃罐的小孩“是你在哭吗？”",
+      "veroeffentlicht": "2026-05-11T02:51:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "老墨鬼话：玻璃罐里传来婴儿的啼哭声"
+    },
+    {
+      "guid": "xmly_track_975462355",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEN1MYaACAAAASWjvUW.mp3.m4a?channel=rss&album_id=46819231&track_id=975462355&uid=71905612&jt=https://aod.cos.tx.xmcdn.com/storages/e09d-audiofreehighqps/AD/F7/GKwRIJEN1MYaACAAAASWjvUW.mp3",
+      "pfad": "/v1/episode/dececf293370faef6768664dc81a267220a6aa92.json",
+      "titel": "VOL.75-《老墨鬼话》-李老爷“这就是李老爷的房子吗？还挺大的！”",
+      "veroeffentlicht": "2026-05-09T09:50:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "记者周寻探秘鬼屋，揭开李老爷的恐怖真相与小孙身世。"
+    },
+    {
+      "guid": "xmly_track_974398114",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJINzf_RAGQUBQSUCD7s.m4a?channel=rss&album_id=46819231&track_id=974398114&uid=71905612&jt=https://aod.cos.tx.xmcdn.com/storages/fda4-audiofreehighqps/FF/7D/GKwRIJINzf_RAGQUBQSUCD7s.m4a",
+      "pfad": "/v1/episode/13b64c2356a80c9cc9ea417327da80fc4965ded7.json",
+      "titel": "VOL.71-《老墨鬼话》后备箱里的头“哥们！你行李忘了拿了！”",
+      "veroeffentlicht": "2026-05-04T06:29:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "出租车司机夜间偶遇神秘乘客，后备箱惊现血头颅"
+    },
+    {
+      "guid": "xmly_track_974397901",
+      "audio_url": "https://jt.ximalaya.com//GAqhT9ENzf7WACAAAASUB967.mp3.m4a?channel=rss&album_id=46819231&track_id=974397901&uid=71905612&jt=https://aod.cos.tx.xmcdn.com/storages/797d-audiofreehighqps/D1/39/GAqhT9ENzf7WACAAAASUB967.mp3",
+      "pfad": "/v1/episode/de5a2133c1e3c9d2af38091ddb7699d88a0402bd.json",
+      "titel": "VOL.70-《老墨鬼话》-电梯惊魂“听说你要找我？”",
+      "veroeffentlicht": "2026-05-04T06:27:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "保安吕明在监控中发现了一个奇怪的女人"
     }
   ]
 }

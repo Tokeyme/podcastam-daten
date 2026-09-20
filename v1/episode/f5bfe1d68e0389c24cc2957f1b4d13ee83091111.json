@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "6a140c5ee59ebca9364086a6",
+  "apple_collection_id": "1731683344",
+  "show": "揭秘科技",
+  "titel": "E163 华为τ定律，真正想改变什么？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/65cd6b8bf9285ad6a89e7c88/6a140c5ee59ebca9364086a6/media.xyzcdn.net/65cd6b8bf9285ad6a89e7c88/lvG60LCZW4Bq-bjVyxFcv4ySWDSI.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T09:13:58+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨华为发布的τ定律及其对芯片设计与AI时代的影响。",
+  "kurzfassung": "本期节目探讨了华为提出的τ定律的核心内容及其背后的行业背景。节目分析了芯片设计从几何微缩向时间微缩的转变，以及AI大模型训练中面临的时间杀手。此外，还讨论了数据搬运成本、系统数据流动效率以及华为发布该定律的战略意义。",
+  "stichpunkte": [
+    "华为τ定律的核心：从几何微缩转向时间微缩",
+    "AI大模型训练中面临的时间杀手与数据搬运成本问题",
+    "半导体行业核心发展逻辑的变化与系统数据流动效率",
+    "华为高调发布τ定律背后的行业标准定义权问题"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:13:58+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 798,
+  "veroeffentlicht": "2026-05-25T08:49:51+00:00",
+  "beschreibung": "过去十几年，大家已经习惯了科技公司开盛大的发布会、发布新产品，但这个星期一，这家公司发布了一个定律。\n01:48 τ定律的核心内容，是把芯片的设计从“几何微缩”转向了“时间微缩”。\n02:33 τ定律提出的背景是。。\n04:21 华为的τ定律，主要是针对当前AI大模型训练当中上述两个致命的时间杀手。\n05:32 这就是过去几十年整个半导体行业最核心的发展逻辑，但今天这个逻辑越来越难进持续进行下去了。\n06:40 最后，数据搬运消耗的成本比计算本身还高，这其实是今天AI时代特别核心的问题。\n07:29 华为今天提出的核心思想就是，未来芯片的竞争不再只是比谁能把晶体管做得更小，而是谁能让整个系统的数据流动效率更高。\n08:00 事实上，整个行业已经悄悄的在往这个方向上走了很多年了。\n09:44 为什么华为要高调的发布一个τ定律？\n10:40 这个问题真正可怕的地方，不是你暂时落后了，而是别人定义了先进的标准。\n11:39 这听起来和电动车绕过发动机的研发弯道超车有点儿类似了。\n12:09 它不是魔法，而是路线。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>过去十几年，大家已经习惯了科技公司开盛大的发布会、发布新产品，但这个星期一，这家公司发布了一个定律。</p><p><a class=\"timestamp\"><strong>01:48</strong></a><strong> </strong>τ定律的核心内容，是把芯片的设计从“几何微缩”转向了“时间微缩”。</p><p><a class=\"timestamp\"><strong>02:33</strong></a><strong> τ</strong>定律提出的背景是。。</p><p><a class=\"timestamp\"><strong>04:21</strong></a><strong> </strong>华为的τ定律，主要是针对当前AI大模型训练当中上述两个致命的时间杀手。</p><p><a class=\"timestamp\"><strong>05:32</strong></a><strong> </strong>这就是过去几十年整个半导体行业最核心的发展逻辑，但今天这个逻辑越来越难进持续进行下去了。</p><p><a class=\"timestamp\"><strong>06:40</strong></a><strong> </strong>最后，数据搬运消耗的成本比计算本身还高，这其实是今天AI时代特别核心的问题。</p><p><a class=\"timestamp\"><strong>07:29</strong></a><strong> </strong>华为今天提出的核心思想就是，未来芯片的竞争不再只是比谁能把晶体管做得更小，而是谁能让整个系统的数据流动效率更高。</p><p><a class=\"timestamp\"><strong>08:00</strong></a><strong> </strong>事实上，整个行业已经悄悄的在往这个方向上走了很多年了。</p><p><a class=\"timestamp\"><strong>09:44</strong></a><strong> </strong>为什么华为要高调的发布一个τ定律？</p><p><a class=\"timestamp\"><strong>10:40</strong></a><strong> </strong>这个问题真正可怕的地方，不是你暂时落后了，而是别人定义了先进的标准。</p><p><a class=\"timestamp\"><strong>11:39</strong></a><strong> </strong>这听起来和电动车绕过发动机的研发弯道超车有点儿类似了。</p><p><a class=\"timestamp\"><strong>12:09</strong></a><strong> </strong>它不是魔法，而是路线。<br></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a140c5ee59ebca9364086a6?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FvyGIencD88Ou_s4iKkbjv8e83Nv.jpg"
+}

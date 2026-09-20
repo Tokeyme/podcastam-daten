@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "VC电影说",
   "apple_collection_id": "1097011256",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2016/08/31/2554108547596384774_hd.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "借奥运热潮盘点几部打破传统胜负叙事的经典体育电影"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/07/2544014732354651142_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/07/2544014732354651142_hd.mp3",
+      "pfad": "/v1/episode/03fdbfae4de47308b467433d65956750b89a49cb.json",
+      "titel": "老法师说 | 撸串还是小龙虾？欧洲杯说了算！",
+      "veroeffentlicht": "2016-07-07T15:37:52+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "欧洲杯期间的夜宵大战与美食讨论"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/06/22/2541265444328676870_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/06/22/2541265444328676870_hd.mp3",
+      "pfad": "/v1/episode/8357e5dc6ec9e8e35fd0203e4fc233eb19e6f5cb.json",
+      "titel": "老法师说 | 追完《翻译官》，终于可以麻溜地吐次槽了！",
+      "veroeffentlicht": "2016-06-22T20:03:15+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对国产剧《翻译官》的大结局进行吐槽"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/06/08/2538655132857146374_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/06/08/2538655132857146374_hd.mp3",
+      "pfad": "/v1/episode/ad21d2495114d58766a721983c367ca6666789f0.json",
+      "titel": "老法师说 | 分手时别忘了当初一起挂的锁：)",
+      "veroeffentlicht": "2016-06-08T18:23:46+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨巴黎塞纳河桥梁相关的浪漫传统及其现实困境"
     }
   ]
 }

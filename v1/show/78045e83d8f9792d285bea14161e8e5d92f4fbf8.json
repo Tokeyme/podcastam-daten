@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "俯瞰财经",
   "apple_collection_id": "994005898",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2016/07/19/2546242630675557382_hd.mp3",
@@ -13,6 +13,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "A股早盘弱势震荡向下突破，午后券商护盘指数微跌。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/19/2546212849372140550_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/19/2546212849372140550_hd.mp3",
+      "pfad": "/v1/episode/b787f00514adc0c36ba33759d89fc2ee850230d3.json",
+      "titel": "小白午评|沪指下跌失守10日均线 后市或将开启变盘窗口",
+      "veroeffentlicht": "2016-07-19T11:55:57+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沪指失守10日均线，市场短期或以震荡调整为主。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/18/2546063725959272454_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/18/2546063725959272454_hd.mp3",
+      "pfad": "/v1/episode/60abb2c5879bb83d38da55c5456c79bc93086516.json",
+      "titel": "小白收评|沪指精确回踩 不突破是为了消化筹码",
+      "veroeffentlicht": "2016-07-18T16:38:44+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沪指震荡整理收跌，多头掌控节奏待放量突破。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/18/2546028981820994566_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/18/2546028981820994566_hd.mp3",
+      "pfad": "/v1/episode/09682c16492598c030c6b49d0bca71e0c6b4a7c1.json",
+      "titel": "小白午评|沪指日内V型反转  涨不动并不代表要大跌",
+      "veroeffentlicht": "2016-07-18T12:09:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沪指日内呈现V型反转走势"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/15/2545518466975411718_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/15/2545518466975411718_hd.mp3",
+      "pfad": "/v1/episode/be32861e81ae0ddbb8891f933bc2598b15a6f448.json",
+      "titel": "试听课|一阳穿三线 你必须知道的3个关键点",
+      "veroeffentlicht": "2016-07-15T18:06:47+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨股票技术指标“一阳穿三线”的三个关键点"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/15/2545499466041873414_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/15/2545499466041873414_hd.mp3",
+      "pfad": "/v1/episode/45d82784cb110d75a2ec8ce32ef57cbc3694c280.json",
+      "titel": "小白收评|沪指小幅震荡 布局中报业绩超预期个股",
+      "veroeffentlicht": "2016-07-15T15:39:19+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沪指小幅震荡，市场持续一九分化，关注中报业绩超预期个股。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/15/2545473915281203718_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/15/2545473915281203718_hd.mp3",
+      "pfad": "/v1/episode/35a3015d12aebaca731150d59a74b8dd0647937e.json",
+      "titel": "小白午评|板块跌多涨少个股分化 经济数据向暖好于预期",
+      "veroeffentlicht": "2016-07-15T12:21:07+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A股早盘窄幅震荡，经济数据向暖好于预期"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/14/2545313882651532806_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/14/2545313882651532806_hd.mp3",
+      "pfad": "/v1/episode/c802cfce9852ffd6a1bb6b6a9e7dd52810c03e0f.json",
+      "titel": "小白收评|板块轮动有序 可提前埋伏业绩优良的中小创个股",
+      "veroeffentlicht": "2016-07-14T15:39:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沪指低开低位震荡，成交量萎缩板块轮动有序。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/14/2545286723425662982_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/14/2545286723425662982_hd.mp3",
+      "pfad": "/v1/episode/00db71c68e2b4238117607e72ecd3c8ca67d9dee.json",
+      "titel": "小白午评|沪指小幅震荡个股分化  技术有背离趋势",
+      "veroeffentlicht": "2016-07-14T12:08:10+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沪指小幅震荡个股分化，技术面出现背离趋势。"
     }
   ]
 }

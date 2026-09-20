@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "回音谷 | 罪案故事",
   "apple_collection_id": "1772410285",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa2aa209d32647781672994",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6aa2aa209d32647781672994/media.xyzcdn.net/66f553b32adfe48b83a9e899/lv9gN_MFXlVwu9edY-6K_CBW79jB.m4a",
+      "pfad": "/v1/episode/c416777b913027383dbbf92b05deb9ea89430e8a.json",
+      "titel": "EP66 该死的“救命恩人”｜女性自救两案连讲",
+      "veroeffentlicht": "2026-09-10T13:06:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讲述两起女性面对极端危险时的自救经历与案件追踪"
+    },
+    {
+      "guid": "6a959663a0210c197dcb374d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a959663a0210c197dcb374d/media.xyzcdn.net/66f553b32adfe48b83a9e899/lhPV0D2_ee5iScp9kM-TYtZq3lHr.m4a",
+      "pfad": "/v1/episode/5739692429454fb97f68119d56f85e2beb6fe4a5.json",
+      "titel": "EP65 女士，您这17分钟八成是接客了吧？｜美国迈阿密酒店谜案",
+      "veroeffentlicht": "2026-08-31T15:03:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美国迈阿密酒店谜案：乌克兰女性伊娜遇害前神秘的17分钟"
+    },
     {
       "guid": "6a887245ef65145dfcc3527b",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a887245ef65145dfcc3527b/media.xyzcdn.net/66f553b32adfe48b83a9e899/lleAz5a7u_V2zGeyAtjmfvqz6piA.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "回顾《非诚勿扰》女嘉宾王佳杀夫案，剖析轰动一时的悲剧背后的婚恋焦虑与心理拉扯。"
+    },
+    {
+      "guid": "6a7b3f0e17676351c5706795",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a7b3f0e17676351c5706795/media.xyzcdn.net/66f553b32adfe48b83a9e899/ltDmsqXux0ttfeR9uYMI_g153imI.m4a",
+      "pfad": "/v1/episode/4d754807880c6639f2f922c2b4875ab7327a29db.json",
+      "titel": "EP63 抓住卡罗琳！｜苏格兰未婚妻搜证破案录",
+      "veroeffentlicht": "2026-08-11T15:32:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "苏格兰未婚妻卡罗琳的失踪与搜证破案记录"
+    },
+    {
+      "guid": "6a6b60d2b581962ce2be190f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a6b60d2b581962ce2be190f/media.xyzcdn.net/66f553b32adfe48b83a9e899/lqP_CHghAn0YT7IXuF5LF6IesyOU.m4a",
+      "pfad": "/v1/episode/ef103f0a78a1f19f3de161b5e2e91600ce5947b4.json",
+      "titel": "EP62 “我”杀了我｜福建奇怪现场两案连讲",
+      "veroeffentlicht": "2026-07-30T14:39:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "连讲福建两起案情奇怪、充满矛盾点的刑事案件。"
+    },
+    {
+      "guid": "6a5e340f6356eb2d9be5a062",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a5e340f6356eb2d9be5a062/media.xyzcdn.net/66f553b32adfe48b83a9e899/lqE_79fahQc7uA9u25Fqv-kGy8ft.m4a",
+      "pfad": "/v1/episode/bd6a69a0d64b5cd699d5600db9c2cb36e0e7588e.json",
+      "titel": "EP61 血腥蜜月 | 格鲁吉亚「黄金青年」劫机案",
+      "veroeffentlicht": "2026-07-20T14:53:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "格鲁吉亚“黄金青年”劫机案的回顾与探讨"
+    },
+    {
+      "guid": "6a525f324adef2b365626a8f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a525f324adef2b365626a8f/media.xyzcdn.net/66f553b32adfe48b83a9e899/lopuIwBaT-nqak0ArBHKRUG6RFKc.m4a",
+      "pfad": "/v1/episode/a27645677b8ab2b58d013189b9f95fe62aa355d9.json",
+      "titel": "EP60 “石河子的天终于蓝了。”｜新疆白波案",
+      "veroeffentlicht": "2026-07-11T15:27:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聚焦新疆石河子白波涉黑案，探讨扫黑除恶背后的恶劣往事与地方黑恶势力。"
+    },
+    {
+      "guid": "6a4d2ac23fb7233cbf455bd7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a4d2ac23fb7233cbf455bd7/media.xyzcdn.net/66f553b32adfe48b83a9e899/liviOJe_Jr06JPq9gBjLSVdChcj3.m4a",
+      "pfad": "/v1/episode/15f9d1272258825c2fd02cf93ff37166357668b5.json",
+      "titel": "高雄连环碎尸案凶手张介宗 死刑、德国留学生迷奸案进展｜罪小报002",
+      "veroeffentlicht": "2026-07-07T16:52:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨近期多起重大刑事案件的最新进展与判决结果"
+    },
+    {
+      "guid": "6a36ce6475ba9e0c53367f1c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a36ce6475ba9e0c53367f1c/media.xyzcdn.net/66f553b32adfe48b83a9e899/llhnfNlrsWrSaqKTvEQkK0qfYXpm.m4a",
+      "pfad": "/v1/episode/450b2a970559a2e834d791a060dad7fbf5e22708.json",
+      "titel": "EP59 “黑暗森林”｜前「三体宇宙」CEO许垚投毒案始末",
+      "veroeffentlicht": "2026-06-20T17:40:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "梳理前「三体宇宙」CEO许垚投毒案的事件始末与相关报道"
+    },
+    {
+      "guid": "6a1adc48ac7bdb080c333afb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66f553b32adfe48b83a9e899/6a1adc48ac7bdb080c333afb/media.xyzcdn.net/66f553b32adfe48b83a9e899/lrEjh1VqRSAnbsAzw6xTUBqOL6vi.m4a",
+      "pfad": "/v1/episode/c39311aefbd37b064c54a04cf2846927e509a340.json",
+      "titel": "EP58 好好先生死在348号房间｜美国德州酒店「密室杀人」案",
+      "veroeffentlicht": "2026-05-30T14:45:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美国德州酒店密室命案：外表无伤的好好先生为何内脏严重破裂？"
     }
   ]
 }

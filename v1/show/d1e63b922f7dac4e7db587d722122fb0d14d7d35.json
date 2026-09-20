@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "DeepTalk | 发现改变世界的新兴科技",
   "apple_collection_id": "1753227960",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_830034216",
@@ -13,6 +13,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨大模型时代下普通人如何使用AI，涵盖思维链、应用分类与行业影响。"
+    },
+    {
+      "guid": "xmly_track_821801230",
+      "audio_url": "https://jt.ximalaya.com//GAqh4zILrYXXACAAAAN__YMR.mp3.m4a?channel=rss&album_id=47378426&track_id=821801230&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/8d44-audiofreehighqps/E0/B9/GAqh4zILrYXXACAAAAN__YMR.mp3",
+      "pfad": "/v1/episode/3775f6953861d9bcf8fcb6c2f641f863fa2453e6.json",
+      "titel": "参数即权力？小模型如何用“减法逻辑”重构AI基础设施",
+      "veroeffentlicht": "2025-03-17T06:37:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨小模型如何重构AI基础设施与商业化未来。"
+    },
+    {
+      "guid": "xmly_track_800293214",
+      "audio_url": "https://jt.ximalaya.com//GAqh4zILbo9nACAAAANc01i_.mp3.m4a?channel=rss&album_id=47378426&track_id=800293214&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/776e-audiofreehighqps/97/04/GAqh4zILbo9nACAAAANc01i_.mp3",
+      "pfad": "/v1/episode/f329aeee09e73f4a29985bd49925cb0c90df4b59.json",
+      "titel": "人机交互的下一块拼图：机器触觉",
+      "veroeffentlicht": "2025-01-28T12:26:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨触觉技术的发展现状、前沿探索及其对交互体验的未来影响。"
+    },
+    {
+      "guid": "xmly_track_784748017",
+      "audio_url": "https://jt.ximalaya.com//GAqhntALNbuSACAAAANBmueR.mp3.m4a?channel=rss&album_id=47378426&track_id=784748017&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/5ed2-audiofreehighqps/F2/6C/GAqhntALNbuSACAAAANBmueR.mp3",
+      "pfad": "/v1/episode/88fb31ae2ed2086d67d5c6cb66e6495b15dd8bb0.json",
+      "titel": "AI训练的新数据或将枯竭，合成数据能否解围？",
+      "veroeffentlicht": "2024-12-16T09:55:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI训练数据枯竭背景下的合成数据与未来走向"
+    },
+    {
+      "guid": "xmly_track_770307034",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasK-RypACAAAAMnvFu8.mp3.m4a?channel=rss&album_id=47378426&track_id=770307034&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/26e0-audiofreehighqps/C8/C3/GKwRIasK-RypACAAAAMnvFu8.mp3",
+      "pfad": "/v1/episode/748bb2b8de8a9cc696198419eaf315529ee8189a.json",
+      "titel": "生殖医学前沿洞察：辅助生殖和药物筛选如何助力优生优育，对话翟晶磊与苏俊",
+      "veroeffentlicht": "2024-10-31T10:19:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨不孕不育、卵子染色体异常及胚胎发育机制。"
+    },
+    {
+      "guid": "xmly_track_760913584",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEKzrYdACAAAAMXRPU3.mp3.m4a?channel=rss&album_id=47378426&track_id=760913584&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/e004-audiofreehighqps/EC/9A/GKwRIJEKzrYdACAAAAMXRPU3.mp3",
+      "pfad": "/v1/episode/1337e7c35660903c5909eb8b2e266571de6d11d4.json",
+      "titel": "在培养皿里复制人体器官，类器官技术已成为个性化医疗的预测工具",
+      "veroeffentlicht": "2024-09-29T06:26:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "类器官技术作为生命科学基础研究工具的发展与应用。"
+    },
+    {
+      "guid": "xmly_track_756620489",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwKuxg8ACAAAAMP49l2.mp3.m4a?channel=rss&album_id=47378426&track_id=756620489&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/a30e-audiofreehighqps/41/10/GKwRIRwKuxg8ACAAAAMP49l2.mp3",
+      "pfad": "/v1/episode/a4a27541e5d271426bc8fd2cd6babf7b17407826.json",
+      "titel": "从手工到智能，实验室自动化能否解放科学家？",
+      "veroeffentlicht": "2024-09-14T09:24:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨实验室自动化与智能化的发展现状、应用场景及面临的挑战"
+    },
+    {
+      "guid": "xmly_track_755331913",
+      "audio_url": "https://jt.ximalaya.com//GAqhJRIKtLxPACAAAAMNWtmW.mp3.m4a?channel=rss&album_id=47378426&track_id=755331913&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/b546-audiofreehighqps/01/3E/GAqhJRIKtLxPACAAAAMNWtmW.mp3",
+      "pfad": "/v1/episode/f42a40aa5fa279dfef7bb195a131962af6923cbb.json",
+      "titel": "马斯克的脑机接口已实现意念操作游戏，人机交互方式迈入新纪元？",
+      "veroeffentlicht": "2024-09-09T13:35:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "马斯克旗下Neuralink脑机接口技术的最新进展"
+    },
+    {
+      "guid": "xmly_track_752754922",
+      "audio_url": "https://jt.ximalaya.com//GAqhw84Kpyp-ACAAAAMH_sBF.mp3.m4a?channel=rss&album_id=47378426&track_id=752754922&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/ed79-audiofreehighqps/8B/94/GAqhw84Kpyp-ACAAAAMH_sBF.mp3",
+      "pfad": "/v1/episode/510ce56b8fbccecd1a43fd0da50837fbdd5c3ae2.json",
+      "titel": "机器人技术的下一次革命：更灵活、更安全的软体机器人",
+      "veroeffentlicht": "2024-08-30T06:33:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨软体机器人的技术特点、应用领域及未来发展。"
     }
   ]
 }

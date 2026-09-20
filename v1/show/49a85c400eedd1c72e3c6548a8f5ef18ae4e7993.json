@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "大公鸡播客",
   "apple_collection_id": "6801953955",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa66eca9d32647781685a0d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6aa66eca9d32647781685a0d/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/lvq2-GYg9k7_fLqnDc3hc9NcVbmc.m4a",
+      "pfad": "/v1/episode/5ec81ebea91bbcdb80212ba4c4a2c07da413d1c6.json",
+      "titel": "【鸡鸣怪谈】第19期：兔子洞冰山图系列13",
+      "veroeffentlicht": "2026-09-13T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨胡万林、封门村与渤海幽灵飞机群等都市怪谈"
+    },
+    {
+      "guid": "6a9cdfbff03e74ee6b05bb94",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a9cdfbff03e74ee6b05bb94/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/lp9pJ5GJ8iaDjYa_lKzy5sSBMA8V.m4a",
+      "pfad": "/v1/episode/a281987e4655c8f98e7fa493e532df2609f75b69.json",
+      "titel": "【鸡毛诡话】第65期：雨夜，垂在双腿间的头",
+      "veroeffentlicht": "2026-09-06T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享网友和听众的亲身经历的灵异故事"
+    },
+    {
+      "guid": "6a93ed95a0210c197dca7365",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a93ed95a0210c197dca7365/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/lsadTDwlIOWBrkkqeh28qNQcesuA.m4a",
+      "pfad": "/v1/episode/3e78c55e575179f344a51e809560ec897e1e6507.json",
+      "titel": "【鸡鸣怪谈】第18期：Reddit系列-千万别使用第五个房间",
+      "veroeffentlicht": "2026-08-30T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨国内外都市怪谈，本期包含三个诡异故事。"
+    },
     {
       "guid": "6a89b747ef65145dfcc3b257",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a89b747ef65145dfcc3b257/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/lurerusL6lxAhYyJQfbyTLBWZ8z-.m4a",
@@ -13,6 +43,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨网红离世与都市怪谈背后的巧合、心理暗示及真实法院判决记录。"
+    },
+    {
+      "guid": "6a80657036641f136d88aef0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a80657036641f136d88aef0/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/lm9ShHlwWfchABtg08KiRohc99dr.m4a",
+      "pfad": "/v1/episode/2255cea80436e0ed12aca3c88a5a243c3b8ecd75.json",
+      "titel": "【鸡毛诡话】第64期：红衣女人的招手",
+      "veroeffentlicht": "2026-08-16T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨听错的临终遗言、红衣女人招手及花坛背后的诡异经历。"
+    },
+    {
+      "guid": "6a6ec5021b5e24969ce77ee2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a6ec5021b5e24969ce77ee2/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/lvsoBcutHZbRpLX3Ko_amhetaFCr.m4a",
+      "pfad": "/v1/episode/cb1772509ff090b2f972120307788ef9ecc5e4ef.json",
+      "titel": "【鸡毛诡话】第63期：午夜黑面包车上的阴阳夺魂",
+      "veroeffentlicht": "2026-08-02T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享几则网友与听众亲身经历的灵异故事。"
+    },
+    {
+      "guid": "6a6b4dbb56a3f3491ba795b7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a6b4dbb56a3f3491ba795b7/media.xyzcdn.net/FkeGM8NlxiUIV3Ah-lbsgEIcUAQk.m4a",
+      "pfad": "/v1/episode/d430c18e6d3437579944985cb49f04a1a2ac4bc0.json",
+      "titel": "【鸡毛诡话-精品】第62期：哥哥身上坐着一个小朋友",
+      "veroeffentlicht": "2026-07-30T15:59:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享几个网友和听众亲身经历的灵异故事。"
+    },
+    {
+      "guid": "6a6615db6356eb2d9be8b5da",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a6615db6356eb2d9be8b5da/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/luZ1bWUbrxE2KZNqhLvLIP53egA6.m4a",
+      "pfad": "/v1/episode/569350beb2ec3a595c8d28671508e39ff7223adb.json",
+      "titel": "【鸡鸣怪谈】第15期：兔子洞冰山图系列11",
+      "veroeffentlicht": "2026-07-26T16:00:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨国内外都市怪谈与神秘事件"
+    },
+    {
+      "guid": "6a5caf2ca3fec224d59feb7f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67d2cf40fe90b0cdffc2d88d/6a5caf2ca3fec224d59feb7f/media.xyzcdn.net/67d2cf40fe90b0cdffc2d88d/liOzy0ixjJQpt1nlarrEHqbZIx0T.m4a",
+      "pfad": "/v1/episode/884e0a60c1ab2c2c0f3f69198065e463b1030576.json",
+      "titel": "【鸡毛诡话】第61期：来找你了",
+      "veroeffentlicht": "2026-07-19T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "听众分享的亲身灵异与惊悚故事集合"
     }
   ]
 }

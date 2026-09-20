@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "guid": "http://33.2.0.18/?p=1171",
+  "apple_collection_id": "1495948193",
+  "show": "品质生活",
+  "titel": "装修历险记 | 你家的网络为啥这么卡？",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_DCActFRSSfkdgFGbatefkDtxaESgCSeyRpvRFCVVrXHMvrevBsLtTUDdaa-86.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": 46799659,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T09:34:30+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": true,
+    "dynamik": "statisch",
+    "grund": "M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; nach 1397 Tagen in der Cloud transkribiert, statt weiter auf den Rechner zu warten - das Modell schaetzt Zeitangaben, statt sie zu messen"
+  },
+  "einzeiler": "详解家庭弱电布线、光猫桥接与Wi-Fi无缝漫游的实用指南。",
+  "kurzfassung": "本期节目详细探讨了家庭装修中的弱电与网络规划，从网线预留、弱电箱改造到运营商宽带选择。专家和主播分享了如何科学地布置网线和光纤，避免常见的网络盲区和性能瓶颈。同时，节目还对比了不同品牌的Wi-Fi AP方案，为打造稳定高效的家庭网络提供了实用建议。",
+  "stichpunkte": [
+    "装修前期应结合功能分区提前规划弱电，遵循“能有线不无线”的原则。",
+    "建议在电视、书桌等固定高频使用区域预留多条网线和光纤。",
+    "弱电箱空间有限时，可利用玄关鞋柜或电视柜进行合理收纳与散热。",
+    "普通家庭使用超五类或六类网线配合千兆交换机已完全足够，无需盲目追求高端线材。",
+    "国内宽带运营商建议北方选联通、南方选电信，尽量避免小运营商。",
+    "光猫建议改为桥接模式，将路由和拨号功能交给更专业的路由器处理。",
+    "Wi-Fi覆盖推荐采用多AP协同方案以实现无缝漫游，避免单路由信号死角。",
+    "节目推荐了预算友好的TP-Link和性能稳定的UBNT两款网络硬件品牌。"
+  ],
+  "kapitel": [
+    {
+      "titel": "家庭网络规划的重要性与前期准备",
+      "start": 55.78
+    },
+    {
+      "titel": "网线、光纤的预留与布线技巧",
+      "start": 455.0
+    },
+    {
+      "titel": "弱电箱的位置选择与散热处理",
+      "start": 1191.02
+    },
+    {
+      "titel": "网线规格的选择与常见误区",
+      "start": 1979.14
+    },
+    {
+      "titel": "宽带运营商选择与千兆网络迷思",
+      "start": 3174.36
+    },
+    {
+      "titel": "光猫桥接设置与网络设备分工",
+      "start": 3518.46
+    },
+    {
+      "titel": "Wi-Fi覆盖方案、AP选择与无缝漫游",
+      "start": 3979.2
+    }
+  ],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:34:30+00:00",
+    "transkript_modell": "faster-whisper large-v3",
+    "transkript_quelle": "whisper",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 3
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "erzeugt",
+  "dauer": 5684,
+  "veroeffentlicht": "2022-11-23T00:01:35+08:00",
+  "beschreibung": "大家催更已久的装修历险记复更了，这期跟大家聊聊网络和Wifi。\n\n很多朋友都觉得自己家的网络卡，但到底为什么卡常常找不到根本的原因。本期节目我们请到王大夫，跟大家聊聊如何在装修阶段避免网络布局上的“坑”，以及如何在已经装修好的房间里做一些补救，让你的网速更快、更稳定一点。\n\n本期节目会跟大家从基础的房间布局聊起，从网络布线、设备选择到运营商选择、WiFi方案、信号优化，通通手把手的教给大家，听完这期节目，你会从小白成为半个网络专家了。\n\n相关资料\n\n王大夫提到的WiFi分析软件：WiFi Tools / aruba utilities\n\nUnifi 的WiFi规划系统\n\n津津乐道历史节目：《NAS，攒，还是买？》\n\nTPLink 品牌的购买链接\n\nUbnt（unifi）品牌的购买链接\n\n制作团队\n\n主播 / 朱峰、王大夫、姝琦\n\n后期 / 卷圈\n\n监制 / 姝琦\n\n产品统筹 / bobo\n\n关于「品质生活」\n\n品质生活是品味生活好物、提升生活品位的主题播客，节目主播和嘉宾阅历丰富，利用长期、真实、用心的体验，帮你熟悉那些原本无法接触的好产品，带你提前进入有品质的生活。津津乐道播客网络出品。\n\n津津乐道播客官网 | 公众号：津津乐道播客 | 微信：dao160301 | hi@dao.fm | 版权声明 | 评论须知 | 听友微信群 | 更多节目 | RSS订阅\n\n本节目由「声湃 WavPub」提供内容托管和数据服务支持。",
+  "beschreibung_html": "<p>大家催更已久的装修历险记复更了，这期跟大家聊聊网络和Wifi。</p>\n<p>很多朋友都觉得自己家的网络卡，但到底为什么卡常常找不到根本的原因。本期节目我们请到王大夫，跟大家聊聊如何在装修阶段避免网络布局上的“坑”，以及如何在已经装修好的房间里做一些补救，让你的网速更快、更稳定一点。</p>\n<p>本期节目会跟大家从基础的房间布局聊起，从网络布线、设备选择到运营商选择、WiFi方案、信号优化，通通手把手的教给大家，听完这期节目，你会从小白成为半个网络专家了。</p>\n<h2>相关资料</h2>\n<ul>\n<li>王大夫提到的WiFi分析软件：WiFi Tools / aruba utilities</li>\n<li><a href=\"https://design.ui.com/\">Unifi 的WiFi规划系统</a></li>\n<li>津津乐道历史节目：<a href=\"https://dao.fm/2017/02/18/nas%ef%bc%8c%e6%94%92%ef%bc%8c%e8%bf%98%e6%98%af%e4%b9%b0%ef%bc%9f/\">《NAS，攒，还是买？》</a></li>\n<li><a href=\"https://r.daofm.cn/7fape\">TPLink 品牌的购买链接</a></li>\n<li><a href=\"https://r.daofm.cn/w2o54\">Ubnt（unifi）品牌的购买链接</a></li>\n</ul>\n<h2>制作团队</h2>\n<blockquote class=\"wp-block-quote\"><p>主播 / 朱峰、王大夫、姝琦<br />\n后期 / 卷圈<br />\n监制 / 姝琦<br />\n产品统筹 / bobo</p></blockquote>\n<h2>关于「品质生活」</h2>\n<p>品质生活是品味生活好物、提升生活品位的主题播客，节目主播和嘉宾阅历丰富，利用长期、真实、用心的体验，帮你熟悉那些原本无法接触的好产品，带你提前进入有品质的生活。津津乐道播客网络出品。</p>\n<p><a href=\"https://dao.fm/\">津津乐道播客官网</a>&nbsp;| 公众号：津津乐道播客 | 微信：dao160301 |&nbsp;<a href=\"mailto:hi@dao.fm\">hi@dao.fm</a>&nbsp;|&nbsp;<a href=\"https://dao.fm/copyright/\">版权声明</a>&nbsp;|&nbsp;<a href=\"https://daofm.cn/comment/\">评论须知</a>&nbsp;|&nbsp;<a href=\"https://cdn.daopub.com/images/g/xzs.png\">听友微信群</a>&nbsp;|&nbsp;<a href=\"https://dao.fm/\">更多节目</a>&nbsp;|&nbsp;<a href=\"https://feeds.daopub.com/pzsh.xml\">RSS订阅</a></p>\n<p><strong>本节目由「<a href=\"https://wavpub.com/\">声湃 WavPub</a>」提供内容托管和数据服务支持。</strong></p>",
+  "bild_url": "https://media-one.wavpub.com/covers/e3427102-d0d4-4ac8-952b-fcd8f996f128/6db650fd42d3794a.jpg",
+  "kapitel_quelle": "modell"
+}

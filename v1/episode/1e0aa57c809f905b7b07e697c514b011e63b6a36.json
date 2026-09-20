@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2020/02/23/5095897737214488198_hd.mp3",
+  "apple_collection_id": "982419309",
+  "show": "有故事的你一定喜欢听",
+  "titel": "【城市留声机 第七十期】烟花易冷",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2020/02/23/5095897737214488198_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-20T09:42:52+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨如何在平凡的生活中寻找意义与仪式感。",
+  "kurzfassung": "普通人的生活中没有拯救世界的宏大叙事，点滴小事才是意义的源泉。面对生活的磕绊，应当保持开心并远离负面情绪。本期节目讨论如何认真对待生活，为自己喜欢的方式而活。",
+  "stichpunkte": [
+    "探讨生活中的仪式感",
+    "普通人的生活意义与点滴小事",
+    "面对生活磕绊的态度",
+    "摆脱负面情绪的困扰",
+    "为自己喜欢的生活而活"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:42:52+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1065,
+  "veroeffentlicht": "2020-02-23T17:03:48+08:00",
+  "beschreibung": "编播：治愈&考拉\n\n不知道有没有人对你说过，要将生活，过出仪式感。\n我总喜欢问他们一个问题，你有没有认真的对待自己的生活？\n\n我们都是普通的常人，没有星球等着我们拯救，也没有宇宙需要我们维护和平，点点滴滴的小事，才是我们活出意义的源泉。生活教会了我们许多，要经受住其中的磕绊，无论顺逆都要学会开心，别让负面情绪缠住你，要为自己喜欢的生活而活。",
+  "beschreibung_html": "编播：治愈&考拉<br><br>不知道有没有人对你说过，要将生活，过出仪式感。<br>我总喜欢问他们一个问题，你有没有认真的对待自己的生活？<br><br>我们都是普通的常人，没有星球等着我们拯救，也没有宇宙需要我们维护和平，点点滴滴的小事，才是我们活出意义的源泉。生活教会了我们许多，要经受住其中的磕绊，无论顺逆都要学会开心，别让负面情绪缠住你，要为自己喜欢的生活而活。",
+  "untertitel": "【城市留声机 第七十期】烟花易冷",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2020/02/23/2790054727981039111_80x80.jpg"
+}

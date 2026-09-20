@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "安娜的AI对谈录",
   "apple_collection_id": "1877291566",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a6f79cb1b5e24969ce7c8de",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "成年人为什么学不好英语？探讨真实学习动机与方法论。"
+    },
+    {
+      "guid": "69d0c607b977fb2c47158a01",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f587ad9948b0cd06a281e/69d0c607b977fb2c47158a01/media.xyzcdn.net/698f587ad9948b0cd06a281e/lrdhn8a6wKh-0Oo5oAZjn9UJU3Sk.m4a",
+      "pfad": "/v1/episode/6bffa70e0254edea755f560c5a76ae6bff4711a9.json",
+      "titel": "02 英文｜独行的艺术：一个人出国游，治愈了离婚后的第一个春节",
+      "veroeffentlicht": "2026-04-04T08:09:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "独自前往欧洲过年，分享旅途中的内心感受与地道英语表达"
+    },
+    {
+      "guid": "69bd55ef2d318777c9ecc370",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f587ad9948b0cd06a281e/69bd55ef2d318777c9ecc370/media.xyzcdn.net/698f587ad9948b0cd06a281e/ln3dLgUxFVNmzU6xfPExqxtGZ9yl.m4a",
+      "pfad": "/v1/episode/465c81fe9d50485aae6116987e7bdfbc33d2d2e9.json",
+      "titel": "01 英文｜离婚是如何改变我的生活的",
+      "veroeffentlicht": "2026-03-21T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨离婚如何改变生活、单身状态及外界压力。"
     }
   ]
 }

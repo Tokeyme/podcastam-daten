@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "84356e7e-9fc6-11f1-9303-df1d146561d5",
+  "apple_collection_id": "1815315168",
+  "show": "Zwischen den Zeilen",
+  "titel": "Freshtorge: Ich will einfach nur unterhalten | 67",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/EARLYSTUDIOSGMBH1452285303.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:36:04+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Bettina Böttinger im Gespräch mit Comedy-Pionier Freshtorge.",
+  "kurzfassung": "Torge Oelrich, bekannt als Freshtorge, spricht über seine Anfänge im norddeutschen Wesselburen und den Weg aus dem Erzieher-Beruf in die YouTube-Selbstständigkeit. Er gibt Einblicke in die Entstehung seiner Kunstfiguren wie Sandra, Helga und Marianne und erklärt seinen Abschied von Sandra. Zudem geht es um den Druck bei Live-Auftritten, seine Heimatliebe und seinen Entschluss, unpolitisch zu bleiben.",
+  "stichpunkte": [
+    "Die Anfänge mit limitierten Modem-Minuten im norddeutschen Wesselburen",
+    "Der Wechsel vom Erzieher-Beruf in die YouTube-Selbstständigkeit",
+    "Die Entstehung skurriler Kunstfiguren wie Sandra, Helga und Marianne",
+    "Die Gründe für den Abschied von seiner erfolgreichsten Figur Sandra",
+    "Der wachsende Druck bei Live-Auftritten",
+    "Die Bedeutung von Heimatliebe und das Festhalten an einem unpolitischen Wohlfühlort in der Comedy"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:36:04+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4061,
+  "veroeffentlicht": "2026-08-24T22:01:00+00:00",
+  "beschreibung": "Wer steckt eigentlich hinter den unzähligen Perücken, die seit zwei Jahrzehnten das deutsche Internet prägen? Zu Gast bei Bettina Böttinger in „Zwischen den Zeilen“ ist Torge Oelrich, besser bekannt als Freshtorge – ein wahrer Pionier der deutschen Online-Comedy. Mit liebevollen, skurrilen Kunstfiguren wie Helga, Marianne und der legendären Schülerin Sandra bringt er allein auf YouTube rund 3,8 Millionen Abonnent*innen zum Lachen. In dieser Folge erzählt er von seinen dörflichen Anfängen im norddeutschen Wesselburen mit streng limitierten Modem-Minuten, dem mutigen Schritt vom sicheren Erzieher-Beruf in die YouTube-Selbstständigkeit und warum er sich nun endgültig von seiner erfolgreichsten Kunstfigur Sandra verabschiedet.\n\nEin ehrliches Gespräch über den wachsenden Druck bei Live-Auftritten, seine unerschütterliche Heimatliebe zum Landleben und seinen bewussten Entschluss, mit seiner Comedy ein unpolitischer, verbindender Wohlfühlort für alle Menschen zu bleiben.\n\n„Terrain – Battle of the Flags“\nAb Donnerstag, 24. September 2026, 20.00 Uhr im ZDF streamen\nAb Donnerstag, 24. September 2026, wöchentlich um 23.45 Uhr in ZDFneo\n\nHier findet ihr noch einmal alle Infos zur Show:\nhttps://presseportal.zdf.de/pressemappe/terrain-battle-of-the-flags\n\nBettinas Gast: https://www.instagram.com/freshtorge/\n\nDu möchtest mehr über meine Werbepartner erfahren?\n\nHier findest du alle Informationen und Rabatte: https://linktr.ee/zwischendenzeilenpodcast\n\nDu hast Fragen oder Anregungen? Dann schreib uns hier: zwischendenzeilen@earlystudios.com\n\nZwischen den Zeilen erscheint jeden Dienstag überall, wo es Podcasts gibt.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+  "beschreibung_html": "<p>Wer steckt eigentlich hinter den unzähligen Perücken, die seit zwei Jahrzehnten das deutsche Internet prägen? Zu Gast bei Bettina Böttinger in „Zwischen den Zeilen“ ist Torge Oelrich, besser bekannt als Freshtorge – ein wahrer Pionier der deutschen Online-Comedy. Mit liebevollen, skurrilen Kunstfiguren wie Helga, Marianne und der legendären Schülerin Sandra bringt er allein auf YouTube rund 3,8 Millionen Abonnent*innen zum Lachen. In dieser Folge erzählt er von seinen dörflichen Anfängen im norddeutschen Wesselburen mit streng limitierten Modem-Minuten, dem mutigen Schritt vom sicheren Erzieher-Beruf in die YouTube-Selbstständigkeit und warum er sich nun endgültig von seiner erfolgreichsten Kunstfigur Sandra verabschiedet.  </p>\n<p>Ein ehrliches Gespräch über den wachsenden Druck bei Live-Auftritten, seine unerschütterliche Heimatliebe zum Landleben und seinen bewussten Entschluss, mit seiner Comedy ein unpolitischer, verbindender Wohlfühlort für alle Menschen zu bleiben. </p>\n<p><strong>„Terrain – Battle of the Flags“</strong><br>Ab Donnerstag, 24. September 2026, 20.00 Uhr im ZDF streamen<br>Ab Donnerstag, 24. September 2026, wöchentlich um 23.45 Uhr in ZDFneo</p>\n<p>Hier findet ihr noch einmal alle Infos zur Show:<br><a href=\"https://presseportal.zdf.de/pressemappe/terrain-battle-of-the-flags\">https://presseportal.zdf.de/pressemappe/terrain-battle-of-the-flags</a><br></p>\n<p>Bettinas Gast: https://www.instagram.com/freshtorge/</p>\n<p>Du möchtest mehr über meine Werbepartner erfahren?</p>\n<p>Hier findest du alle Informationen und Rabatte: https://linktr.ee/zwischendenzeilenpodcast</p>\n<p>Du hast Fragen oder Anregungen? Dann schreib uns hier: zwischendenzeilen@earlystudios.com</p>\n<p>Zwischen den Zeilen erscheint jeden Dienstag überall, wo es Podcasts gibt.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/90e77750-34d0-11f0-ad03-bf072596b34b/image/0b3ce86569b0f21b7b1ae14386c393e6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_957267165",
+  "apple_collection_id": "1868205200",
+  "show": "体育科技快讯",
+  "titel": "Vol.016 | 春节停更特辑：当冰壶装上“大脑”，雪橇变成“F1”，技术如何重构比赛？",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIaINZ8EgACAAAARrzAfL.mp3.m4a?channel=rss&album_id=114911417&track_id=957267165&uid=517722564&jt=https://aod.cos.tx.xmcdn.com/storages/88c1-audiofreehighqps/40/F6/GKwRIaINZ8EgACAAAARrzAfL.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T14:22:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨科技如何重构冰壶、雪橇和花样滑冰等冬季奥运会比赛。",
+  "kurzfassung": "本期节目探讨了现代冬季运动中的科技应用及其引发的思考。节目盘点了雪橇、冰壶和花样滑冰等项目中的技术细节，包括工程战、传感器应用以及AI对艺术表现的量化。最后，探讨了技术究竟是让比赛更公平还是更冷酷。",
+  "stichpunkte": [
+    "雪橇比赛中的工程战与缩小版“F1赛车”",
+    "冰壶把手装上传感器与芯片带来的机器判罚伦理",
+    "花样滑冰裁判席旁AI对艺术表现的量化尝试",
+    "技术对比赛公平性与观赏性的影响探讨"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:22:13+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 746,
+  "veroeffentlicht": "2026-02-15T23:29:00+00:00",
+  "beschreibung": "简介正文：\n大家过年好！明天就是除夕了。在即将到来的假期里，除了吃饺子、看春晚，如果你还想在亲戚朋友面前聊点“不一样”的冬奥话题，这期节目就是为你准备的。\n本期是春节前的最后一更，我们不聊沉重的数据，而是来一场**“硬核又有趣”的盘点**。你知道吗？现在的雪橇比赛，其实是一场缩小版的“F1 赛车”工程战； 冰壶的把手不再只是石头，它装上了传感器和芯片，甚至引发了关于“机器判罚”的伦理争吵；而花样滑冰的裁判席旁，AI 正在试图用代码去量化“艺术”的旋转圈数。\n技术让比赛更公平了吗？还是让比赛变得更冷酷了？在放假前的最后 25 分钟，小梅带你透过热闹的赛场，看懂那些决定胜负的微观细节。\n� 特别提醒：本节目将从除夕开始暂停更新，农历正月初七恢复正常陪伴。祝大家新春快乐，阖家安康！\n�️ 本期主播 小梅（半糖声音，全糖硬核的体育科技观察者）\n\n祝大家新年快乐，龙马精神！�",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><b>简介正文：</b></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">大家过年好！明天就是除夕了。在即将到来的假期里，除了吃饺子、看春晚，如果你还想在亲戚朋友面前聊点“不一样”的冬奥话题，这期节目就是为你准备的。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">本期是春节前的最后一更，我们不聊沉重的数据，而是来一场**“硬核又有趣”的盘点**。你知道吗？现在的<b>雪橇</b>比赛，其实是一场缩小版的“F1 赛车”工程战； <b>冰壶</b>的把手不再只是石头，它装上了传感器和芯片，甚至引发了关于“机器判罚”的伦理争吵；而<b>花样滑冰</b>的裁判席旁，AI 正在试图用代码去量化“艺术”的旋转圈数。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">技术让比赛更公平了吗？还是让比赛变得更冷酷了？在放假前的最后 25 分钟，小梅带你透过热闹的赛场，看懂那些决定胜负的微观细节。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">� <b>特别提醒</b>：本节目将从除夕开始暂停更新，<b>农历正月初七</b>恢复正常陪伴。祝大家新春快乐，阖家安康！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">�️ <b>本期主播</b> 小梅（半糖声音，全糖硬核的体育科技观察者）</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">祝大家新年快乐，<b>龙马精神</b>！�</p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/203c-audiofreehighqps/4A/E5/GAqhg3wNZ8HzAAM17wRrzDir.jpeg",
+  "folgennummer": 5
+}

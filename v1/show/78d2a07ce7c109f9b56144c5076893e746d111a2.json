@@ -2,8 +2,78 @@
   "schema_version": 1,
   "show": "在逃文化",
   "apple_collection_id": "1837941564",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aad6dea0916f6f8b44586f6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6aad6dea0916f6f8b44586f6/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/lrOsB_2ipdqgG4RTHm4TgQzECyWI.m4a",
+      "pfad": "/v1/episode/db7d183c2b24248afd399287ca4664500d5910e0.json",
+      "titel": "逃离爱 | 天崩开局（下）：身为医护人员，依然经历失控的生产",
+      "veroeffentlicht": "2026-09-18T17:14:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "医护人员经历失控顺产：催产失败、窒息风险与病历篡改"
+    },
+    {
+      "guid": "6aa6b134492687f6aad9437b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6aa6b134492687f6aad9437b/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/lhKHxzAmyuNrIDz4vBr7eYES-K-h.m4a",
+      "pfad": "/v1/episode/affa372ffe0a5acca863bd0653b7481fb09bf4f2.json",
+      "titel": "逃离爱 | 天崩开局（上）：21 岁被分配烧伤科",
+      "veroeffentlicht": "2026-09-14T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "前烧伤科护士 Joyce 讲述烧伤科的真实经历与职业转型。"
+    },
+    {
+      "guid": "6a9bbac9f03e74ee6b056a3e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a9bbac9f03e74ee6b056a3e/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/lgKkxc_OCtQZFimSqcDcGTW5W6rd.m4a",
+      "pfad": "/v1/episode/69965c3bba10dff6998629eec73c335285eae0d1.json",
+      "titel": "逃离爱 | 金老师的高质量旅行：看见世界不止有一种活法",
+      "veroeffentlicht": "2026-09-07T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过深度旅行看见世界不止有一种活法"
+    },
+    {
+      "guid": "6a9bb2adf03e74ee6b0566ab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a9bb2adf03e74ee6b0566ab/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/lkQGkrdJxShDouNp5cWGGBFM_QZr.m4a",
+      "pfad": "/v1/episode/1e3bbb86acb07b96b0427caf5b13a2a9edd1d5a8.json",
+      "titel": "命理就该逃｜丙午白露，警惕宇宙画饼，收敛才是秋的答案",
+      "veroeffentlicht": "2026-09-05T06:15:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨丙午年白露天象能量与五行人类图避坑指南"
+    },
+    {
+      "guid": "6a944822a0210c197dca9dea",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a944822a0210c197dca9dea/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/lqOko2HKa8XynDqU8KvhGbLFvg_4.m4a",
+      "pfad": "/v1/episode/106c0226e62315a6171b54e2998e603ca10dd0b7.json",
+      "titel": "逃离爱 | 00 后真实文学成长史",
+      "veroeffentlicht": "2026-08-31T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "00后文学少年小唐的成长史与对传统文学的求索"
+    },
+    {
+      "guid": "6a8db461ef65145dfcc54f4c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a8db461ef65145dfcc54f4c/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/ljfr7HLpOGm6X9l-Z74jnfEAhvzP.m4a",
+      "pfad": "/v1/episode/21e93fa6fc55a0eaf85a56a84b88588cacafedec.json",
+      "titel": "命理就该逃 | 农历七月禁忌！加班晚归有补救",
+      "veroeffentlicht": "2026-08-25T15:33:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中元节玄学知识、祭祖习俗差异及农历七月护身禁忌"
+    },
+    {
+      "guid": "6a8c3bbf1352af56ff3b472d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a8c3bbf1352af56ff3b472d/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/llGrnVeGzSr6DjEQiyx-HSG362Kl.m4a",
+      "pfad": "/v1/episode/76f0558f587ad58d47b554949858e9d7207cb3e2.json",
+      "titel": "陪你逃｜中元纳凉专场",
+      "veroeffentlicht": "2026-08-24T15:32:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中元节纳凉特别篇，三位主播分享三则风格各异的灵异故事。"
+    },
     {
       "guid": "6a81f24117676351c572d1d9",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a81f24117676351c572d1d9/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/llmNrERv8qXmHU-bC4-d7eUPPcPY.m4a",
@@ -13,6 +83,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "处暑节气将至能量转换，本期节目解析天象与人类图并提供防冲动投资的小仪式。"
+    },
+    {
+      "guid": "6a81f00536641f136d892814",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a81f00536641f136d892814/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/lrafQqTzh19_fmIq5PTqEid7UXG3.m4a",
+      "pfad": "/v1/episode/675196869d73e23f14ec678b9397750702743f40.json",
+      "titel": "命理就该逃 | 七夕不只谈恋爱，别乱求桃花",
+      "veroeffentlicht": "2026-08-17T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "结合传统民俗与人类图，解析七夕桃花运势与招桃花方法。"
+    },
+    {
+      "guid": "6a79d5c017676351c56fc169",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6839a35dfafaf3129fc72e7e/6a79d5c017676351c56fc169/media.xyzcdn.net/6839a35dfafaf3129fc72e7e/lkKL8wOaL5ItAN62MGtuyGWVvJ4r.m4a",
+      "pfad": "/v1/episode/c97b17fca8bd6c077678a29002daa5b3e10aa38d.json",
+      "titel": "命理就该逃 | 如何体面送别亲人？聊聊活够了的问题",
+      "veroeffentlicht": "2026-08-14T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨生死离别、传统民俗与身心修行"
     }
   ]
 }

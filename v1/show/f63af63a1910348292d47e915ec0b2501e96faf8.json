@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Buidler Talk｜Web3 对谈",
   "apple_collection_id": "1699002793",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "67976e53247d51713c95fad2",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "资深AI从业者加昊分享Flock.io如何结合联邦学习与区块链抓住AI Agent机遇。"
+    },
+    {
+      "guid": "6685f9da0bc5d7cc70abf5cc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/6685f9da0bc5d7cc70abf5cc/media.xyzcdn.net/lpSpuMBQuK6RE-_Favf8nGgIbj8L.m4a",
+      "pfad": "/v1/episode/9d339f0691e9517ade0cc87a76e3e0b7605b7e0e.json",
+      "titel": "E70 | KEKKAI Danny 杜玛：Web3创业洞察与个人成长之路",
+      "veroeffentlicht": "2024-07-08T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话95后连续创业者Danny杜玛，探讨Web3项目Kekkai与个人成长历程。"
+    },
+    {
+      "guid": "65828fc6157cd445ee9acfa2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/65828fc6157cd445ee9acfa2/media.xyzcdn.net/ljWor06QTaY_BwweObQ2E3J60spF.m4a",
+      "pfad": "/v1/episode/22a737ae959dd4d9fbde63646c5b5435eb182476.json",
+      "titel": "E69 | Pendle TN：DeFi 新星的进击之路【EN】",
+      "veroeffentlicht": "2023-12-20T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话 Pendle 创始人 TN：探讨 DeFi 项目的设计思路与发展"
+    },
+    {
+      "guid": "656487b99f440f5443bb3fc4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/656487b99f440f5443bb3fc4/media.xyzcdn.net/lpuCNs3P1M0serFl02pYYnEgp6C4.m4a",
+      "pfad": "/v1/episode/81045e0faf3fe142afa5607fa7ebeeb1608c9bbe.json",
+      "titel": "E68 | Web3Brand：品牌忠诚度设计 & 会员体系代币化",
+      "veroeffentlicht": "2023-11-28T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Web3品牌忠诚度设计与会员体系代币化"
+    },
+    {
+      "guid": "650fc79d96875579711852fb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/650fc79d96875579711852fb/media.xyzcdn.net/lp2zVL1-8aykm2NfMdFGWl4CxqXQ.m4a",
+      "pfad": "/v1/episode/cf912d1c2395ce447dcec25e0a29f12fe6b4175a.json",
+      "titel": "E67 | SpringX 加速器上线：从亚太到北美、初创到成熟的 Web3 创业之路",
+      "veroeffentlicht": "2023-09-24T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Web3创业加速器SpringX及从亚太到北美的创业之路。"
+    },
+    {
+      "guid": "64e407ab3fa4090b74e72eb3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/64e407ab3fa4090b74e72eb3/media.xyzcdn.net/liOuI1Ula-kpWDhZO2ucd7JnC-dr.m4a",
+      "pfad": "/v1/episode/0d4e75bf702849ee8bba2f2d22a1277a484aa993.json",
+      "titel": "E66 | ERC-4337 如何助力 Mass Adoption 的技术向讨论",
+      "veroeffentlicht": "2023-08-22T00:56:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论 ERC-4337 技术标准及其对实现 Mass Adoption 的助力。"
+    },
+    {
+      "guid": "64b7f5f432fb5cf4c964b106",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/64b7f5f432fb5cf4c964b106/media.xyzcdn.net/lmtpUvN_N4emlpA-Yk6kqvwy8ZDt.m4a",
+      "pfad": "/v1/episode/662b299dff0259dd53b3767548e7fe6c3fd2b873.json",
+      "titel": "E65 | Account Labs 刘力心：账户抽象是钱包的未来",
+      "veroeffentlicht": "2023-07-19T14:40:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨账户抽象的技术概念与钱包领域的未来发展。"
+    },
+    {
+      "guid": "646e00f11672628240f37eda",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/646e00f11672628240f37eda/media.xyzcdn.net/ljkBb4_4V-GXWFLcSDZlsgIvkPVn.m4a",
+      "pfad": "/v1/episode/85efd1912bc49abc6a6ddad06adaaac31b6525ff.json",
+      "titel": "E64 | Marverick Simiao：华人创业者与 Web3 世界的未来",
+      "veroeffentlicht": "2023-05-24T12:20:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨全球Web3活动、华人创业者特点与行业未来趋势"
+    },
+    {
+      "guid": "642303998aca9099d78e6dd4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/642303998aca9099d78e6dd4/media.xyzcdn.net/lon66J25-P-_AX15y8jRudLL8HDD.m4a",
+      "pfad": "/v1/episode/9bef6f8e84b19604c5d6ba5ec609aeb0338275bf.json",
+      "titel": "E63 | CyberConnect Wilson：Web3 Social解决数据互通性和资产所有权问题",
+      "veroeffentlicht": "2023-03-28T15:11:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Web3社交如何解决数据互通与资产所有权问题"
+    },
+    {
+      "guid": "6411840ebb1fc0cb68f81931",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f33c9c59504bbdb779dffd5/6411840ebb1fc0cb68f81931/media.xyzcdn.net/ltSCpDxhcxHW1-m7Anf7YY7xU0DZ.m4a",
+      "pfad": "/v1/episode/9cd242f778bb066344b5866aad5e5cbb907d13b1.json",
+      "titel": "E62 | P12 Boyang： Web3 的共享经济给游戏带来新的篇章",
+      "veroeffentlicht": "2023-03-15T08:38:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Web3共享经济如何为游戏带来新篇章"
     }
   ]
 }

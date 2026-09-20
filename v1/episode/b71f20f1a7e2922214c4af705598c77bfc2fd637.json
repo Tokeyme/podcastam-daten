@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "guid": "6aa29fac9d3264778167243b",
+  "apple_collection_id": "1813599424",
+  "show": "PivotCast｜转点播客",
+  "titel": "【今天市场怎么了】20260910：全球风险资产继续承压，A股市场缩量普跌",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa29fac9d3264778167243b/media.xyzcdn.net/67ffc937497fe940d4248c97/Fk2gse8cUkTCgJE8cHIw7henaZ3Q.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:30:06+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "全球风险资产持续承压，A股市场呈现缩量普跌态势。",
+  "kurzfassung": "本期节目回顾了最新的全球金融市场动态。首先分析了美股市场隔夜走势，三大指数集体下跌。随后探讨了A股市场表现，主要指数均出现不同程度的下跌。",
+  "stichpunkte": [
+    "最新全球金融市场概览",
+    "美股三大指数集体下跌表现分析",
+    "A股主要指数集体下跌情况"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:30:06+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 152,
+  "veroeffentlicht": "2026-09-10T12:19:25+00:00",
+  "beschreibung": "00:10 最新全球金融市场概览\n00:18 美股市场分析：昨晚，美股三大指数集体下跌，道琼斯指数下跌0.77%；标普500指数下跌0.48%；纳斯达克综合指数下跌0.64%。\n01:21 A股市场分析：今天，A股主要指数集体下跌，上证指数下跌0.43%；深证成指下跌0.77%；创业板指下跌0.49%；科创50下跌0.69%。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><a class=\"timestamp\">00:10</a> 最新全球金融市场概览<br><a class=\"timestamp\">00:18</a> 美股市场分析：昨晚，美股三大指数集体下跌，道琼斯指数下跌0.77%；标普500指数下跌0.48%；纳斯达克综合指数下跌0.64%。<br><a class=\"timestamp\">01:21</a> A股市场分析：今天，A股主要指数集体下跌，上证指数下跌0.43%；深证成指下跌0.77%；创业板指下跌0.49%；科创50下跌0.69%。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa29fac9d3264778167243b?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FvgewXMt8B_OCUNOcdyF5rGux5vy.png"
+}

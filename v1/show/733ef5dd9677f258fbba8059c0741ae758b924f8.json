@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "怪胎對談 freak talk",
   "apple_collection_id": "1574813924",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "cl9u2rfo204wn01xugm110nm3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "把假面骑士Build当偶像剧和 BL 剧吐槽，揭秘主演们的趣味反差萌。"
+    },
+    {
+      "guid": "cl86413mn030b01wm4vhlhh9h",
+      "audio_url": "https://backend.endpoints.firstory-709db.cloud.goog/play.mp3?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckqf071qobspp08553a0ebhwy%2Fcl86413mn030c01wm801184t1.mp3%3Fv%3D1663431331667",
+      "pfad": "/v1/episode/a5b6a1118cf0109e344e3bfb2f11809fd2466e33.json",
+      "titel": "【假面騎士drive】傳說中你為愛甘心被擱淺",
+      "veroeffentlicht": "2022-09-18T05:01:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "假面騎士Drive總評與深刻角色解析"
+    },
+    {
+      "guid": "cl7hqdwpc01ey01wmfxce5s7n",
+      "audio_url": "https://backend.endpoints.firstory-709db.cloud.goog/play.mp3?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckqf071qobspp08553a0ebhwy%2Fcl7hqdwpc01ez01wm4iadbhv4.mp3%3Fv%3D1662389601584",
+      "pfad": "/v1/episode/56314d5b31fb6fad60f64dc84bfd46ec42563d13.json",
+      "titel": "【假面騎士ooo】入坑建議:絕對不要做讓自己哭泣的事",
+      "veroeffentlicht": "2022-09-04T05:01:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "假面騎士OOO入坑建議與相關內容探討"
+    },
+    {
+      "guid": "cl7al03xr044901tad160ekqb",
+      "audio_url": "https://backend.endpoints.firstory-709db.cloud.goog/play.mp3?url=https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckqf071qobspp08553a0ebhwy%2Fcl7al03xr044a01tafvw61ac2.mp3%3Fv%3D1661524872853",
+      "pfad": "/v1/episode/f1a1d94e1679b545c741326724e7e4963ba6959c.json",
+      "titel": "【風都偵探】如果你和我再一起，我一定會給你幸褔。但如果我不在你身邊，你也能獲得幸福，那我也會覺得幸福。",
+      "veroeffentlicht": "2022-08-28T05:01:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討【風都偵探】中左翔太郎對時女的照顧與角色評價"
     }
   ]
 }

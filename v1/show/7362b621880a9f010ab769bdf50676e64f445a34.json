@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "两步之遥",
   "apple_collection_id": "1813894143",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a9fbc46a0210c197dcf6770",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探寻上官婉儿的童年记忆，回溯唐代掖庭宫女与官奴婢的真实生活与命运轨迹。"
+    },
+    {
+      "guid": "6a9269b0f03e74ee6b019567",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a9269b0f03e74ee6b019567/media.xyzcdn.net/681670d2f94e3398ac6a2841/lv7VH2L0Hvr3V65IyOqmOIiB8BvW.m4a",
+      "pfad": "/v1/episode/256d8dc45e79b1fcf6a78386bb5dce286b027fcc.json",
+      "titel": "EP57 丁玲的出逃（下）：一个人的逃亡，一群人的接力",
+      "veroeffentlicht": "2026-08-29T09:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "丁玲的出逃：一个人的逃亡与一群人的接力"
+    },
+    {
+      "guid": "6a8988601352af56ff3a438c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a8988601352af56ff3a438c/media.xyzcdn.net/681670d2f94e3398ac6a2841/lsc5bzzoABr2cqGwDldlWHN-Oxbo.m4a",
+      "pfad": "/v1/episode/073f74fd2dfb295b135e17b3425530e0b1f747e6.json",
+      "titel": "EP56 丁玲的出逃（中）：魍魉世界，谁是朋友，谁是特务？",
+      "veroeffentlicht": "2026-08-22T11:53:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "丁玲被绑架后的三年软禁生活与她所见识的特务世界"
+    },
+    {
+      "guid": "6a7e9e5c36641f136d880d1c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a7e9e5c36641f136d880d1c/media.xyzcdn.net/njWvUjZJ2ezwIr5P027insitztMX.m4a",
+      "pfad": "/v1/episode/daffd34e9b7051556ecc412adf078cb62413d02f.json",
+      "titel": "EP53 日月当空：46小时，走完千古女帝武曌的一生",
+      "veroeffentlicht": "2026-08-14T05:27:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾中国历史上唯一的女皇帝武曌长达46小时的一生与传奇经历。"
+    },
+    {
+      "guid": "6a7a055436641f136d862d1b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a7a055436641f136d862d1b/media.xyzcdn.net/681670d2f94e3398ac6a2841/lqD-5Fwt1ZtHqkMBRqAxIheus2vM.m4a",
+      "pfad": "/v1/episode/d2281ec3582bb7aa82ebee605ec8edc6ceaa1cc1.json",
+      "titel": "EP55 她们在故事的空白处，重新发明爱：和一位同人太太聊写作、女性与同人世界",
+      "veroeffentlicht": "2026-08-11T02:43:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨同人写作、女性视角与同人社群的文化现象"
+    },
+    {
+      "guid": "6a736670ab3a91c24a1072f3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a736670ab3a91c24a1072f3/media.xyzcdn.net/FlTm7t7Q6LX-b2vODd5D4iChBHD7.m4a",
+      "pfad": "/v1/episode/7e85b5e9f6491bf4d6dfab0f2671faf3af590f89.json",
+      "titel": "EP54 武则天的绝唱：遗制、归葬乾陵与无字碑之谜",
+      "veroeffentlicht": "2026-08-05T17:05:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨武则天临终遗制、乾陵归葬及无字碑的历史之谜。"
+    },
+    {
+      "guid": "6a5e3c07a3fec224d5a09c28",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a5e3c07a3fec224d5a09c28/media.xyzcdn.net/681670d2f94e3398ac6a2841/ln_LL2mM4d6US5ksAuBz_GJqsBUV.m4a",
+      "pfad": "/v1/episode/bb1484d54a02c8af9f6eb8b621590ceaff089325.json",
+      "titel": "EP52 神龙谢幕（下）：从武曌，到武则天",
+      "veroeffentlicht": "2026-07-20T15:39:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾神龙政,剖析张柬之等人如何形成政治联盟并逼宫武则天"
+    },
+    {
+      "guid": "6a52698b1e32575f5eb4e2f5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a52698b1e32575f5eb4e2f5/media.xyzcdn.net/681670d2f94e3398ac6a2841/lqP1pRtmgoSuMC93gefhPjcL-e5D.m4a",
+      "pfad": "/v1/episode/dbfe5fc22f2d86540df12f7c664200430e87f578.json",
+      "titel": "EP51 神龙谢幕（上）：猜疑猜疑的猜疑，猜疑链如何孕育一场政变？",
+      "veroeffentlicht": "2026-07-11T16:39:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨武周晚年政变前夜，朝堂之上的猜疑链如何逐步孕育并撕裂政治平衡。"
+    },
+    {
+      "guid": "6a4a605b2e335a35a80e6e4b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a4a605b2e335a35a80e6e4b/media.xyzcdn.net/681670d2f94e3398ac6a2841/lrxdqwzSsqQI7-rDdnIpuIU8VWVn.m4a",
+      "pfad": "/v1/episode/e40568a9f36da5a0677625dfcad60572d85afce8.json",
+      "titel": "EP50 丁玲的出逃（上）：鲁迅写下悼诗时，她其实还活着",
+      "veroeffentlicht": "2026-07-05T14:10:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾丁玲被绑架案的经过与相关文学历史。"
+    },
+    {
+      "guid": "6a2a723f3eedf1f4b26902f1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/681670d2f94e3398ac6a2841/6a2a723f3eedf1f4b26902f1/media.xyzcdn.net/681670d2f94e3398ac6a2841/ltWiOSgLxf3XGpg1Qp2ccGx3aq_l.m4a",
+      "pfad": "/v1/episode/602e5df2d73470ab598f62324324855c26a5e1b2.json",
+      "titel": "EP49 武曌男宠篇（下）：女皇身边不养闲人",
+      "veroeffentlicht": "2026-06-11T09:05:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨武周晚期二张兄弟的角色及武曌的政治选择"
     }
   ]
 }

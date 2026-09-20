@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_1013241610",
+  "apple_collection_id": "1896584391",
+  "show": "全球科技金融3分钟",
+  "titel": "0910 中国8月通胀释放偏积极信号 高通获亚马逊多代AI芯片订单",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIJEOdvk9ABvH3ATUkYL7.m4a?channel=rss&album_id=121269640&track_id=1013241610&uid=226851696&jt=https://aod.cos.tx.xmcdn.com/storages/cfd8-audiofreehighqps/83/DB/GKwRIJEOdvk9ABvH3ATUkYL7.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T14:33:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "中国8月通胀数据分析与美债及AI基建动向",
+  "kurzfassung": "中国8月CPI与PPI数据呈现偏积极信号，工业品价格改善快于消费价格。美国财政部加大长期美债回购以改善流动性，同时市场关注美国8月PPI数据。高通与亚马逊合作开发AI芯片，谷歌在芬兰加大数字基础设施投资，显示全球AI竞争演变为基础设施竞赛。",
+  "stichpunkte": [
+    "中国8月CPI同比上涨0.8%，核心CPI上涨1.0%",
+    "中国8月PPI同比上涨3.8%，环比上涨0.4%，连续六个月回升",
+    "美国10年期美债收益率升至4.8%左右，财政部加大长期美债回购",
+    "高通与亚马逊达成多年期合作，为AWS开发定制AI芯片并推进光互联技术",
+    "谷歌将在芬兰投入至少130亿欧元建设数字基础设施及配套能源合作",
+    "美国将公布8月份PPI数据，市场关注其对通胀及美债收益率的影响"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:33:23+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 224,
+  "veroeffentlicht": "2026-09-09T23:00:00+00:00",
+  "beschreibung": "一个数字变好，并不意味着整个经济都变好了，投资者要看的，是这个数字有没有能力传导到利润表。\n中国8月份的通胀数据，释放了一个偏积极、但还不能过度乐观的信号。8月CPI同比上涨0.8%，高于7月的0.5%；核心CPI上涨1.0%，也比7月提高0.1个百分点。更值得关注的是PPI，同比上涨3.8%，高于7月的3.5%，环比上涨0.4%，PPI已经连续六个月同比回升。\nPPI明显强于CPI，说明工业品价格改善的速度快于居民消费价格；而国家统计局的数据也显示，能源、有色金属等行业价格上涨比较明显。对A股来说，这更像是一个“供给端价格修复先行，需求端仍然需要验证”的阶段。煤炭、有色等周期板块会更容易受到PPI回升的支撑，但如果消费和企业订单没有同步改善，就很难把它理解成一轮全面的经济复苏。\n美国市场面对的是另一种压力。\n10年期美债收益率一度升至4.8%左右，美国财政部最近开始加大长期美债回购。财政部此前已经宣布，从9月9日起提高名义长期国债回购规模，新的回购规模至少达到40亿美元。市场现在关心的，是接下来的实际操作力度。\n财政部回购的作用并非简单的“美国政府开始救债市”，而是更接近于改善特定期限国债的流动性和供需结构，它可以缓解长端市场的压力，却不能消灭通胀，更不能替代美联储的货币政策。\n科技公司方面，高通与亚马逊宣布多年期合作，由高通为AWS开发定制AI芯片，同时推进数据中心光互联技术。高通预计数据中心业务收入从2027财年的50亿美元增长到2029财年的150亿美元，亚马逊这笔合作潜在涉及的产品采购规模最高约600亿美元。\nGoogle则宣布，未来两年将在芬兰投入至少130亿欧元建设数字基础设施，并同步推进核电、风电和储能等能源合作。这也是Google在欧洲最大的一笔单项投资。\n把两个消息放在一起看，会发现全球AI竞争已经不再只是模型之间的竞争，也不是简单的英伟达和AMD之间的竞争，它正在变成一场算力、电力、芯片、网络和资本开支共同参与的基础设施竞赛。\n另外，北京时间今晚8点30分，美国将公布8月份PPI。美国劳工统计局已经确认，这份数据将在9月10日美东时间上午8点30分公布。如果PPI明显高于预期，市场可能进一步担心企业成本和通胀压力重新抬头，美债收益率可能承压，成长股估值也会受到影响；如果PPI低于预期，可能暂时缓解市场对通胀的担忧。\n最后我们留一个问题给大家思考：AI现在还在疯狂砸钱建数据中心，但这些钱最终总要有人买单。如果未来AI真的越来越贵，你愿意每个月多花几十块钱买AI服务，还是觉得现在的免费版已经够用了？\n欢迎把你的选择留在评论区。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><strong style=\"color:#FC5832;word-break:break-all;font-family:Helvetica,Arial,sans-serif;font-weight: normal;\">一个数字变好，并不意味着整个经济都变好了，投资者要看的，是这个数字有没有能力传导到利润表。</strong></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">中国8月份的通胀数据，释放了一个偏积极、但还不能过度乐观的信号。8月CPI同比上涨0.8%，高于7月的0.5%；核心CPI上涨1.0%，也比7月提高0.1个百分点。更值得关注的是PPI，同比上涨3.8%，高于7月的3.5%，环比上涨0.4%，PPI已经连续六个月同比回升。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">PPI明显强于CPI，说明工业品价格改善的速度快于居民消费价格；而国家统计局的数据也显示，能源、有色金属等行业价格上涨比较明显。对A股来说，这更像是一个“供给端价格修复先行，需求端仍然需要验证”的阶段。煤炭、有色等周期板块会更容易受到PPI回升的支撑，但如果消费和企业订单没有同步改善，就很难把它理解成一轮全面的经济复苏。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">美国市场面对的是另一种压力。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">10年期美债收益率一度升至4.8%左右，美国财政部最近开始加大长期美债回购。财政部此前已经宣布，从9月9日起提高名义长期国债回购规模，新的回购规模至少达到40亿美元。市场现在关心的，是接下来的实际操作力度。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">财政部回购的作用并非简单的“美国政府开始救债市”，而是更接近于改善特定期限国债的流动性和供需结构，它可以缓解长端市场的压力，却不能消灭通胀，更不能替代美联储的货币政策。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">科技公司方面，高通与亚马逊宣布多年期合作，由高通为AWS开发定制AI芯片，同时推进数据中心光互联技术。高通预计数据中心业务收入从2027财年的50亿美元增长到2029财年的150亿美元，亚马逊这笔合作潜在涉及的产品采购规模最高约600亿美元。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Google则宣布，未来两年将在芬兰投入至少130亿欧元建设数字基础设施，并同步推进核电、风电和储能等能源合作。这也是Google在欧洲最大的一笔单项投资。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">把两个消息放在一起看，会发现全球AI竞争已经不再只是模型之间的竞争，也不是简单的英伟达和AMD之间的竞争，它正在变成一场算力、电力、芯片、网络和资本开支共同参与的基础设施竞赛。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">另外，北京时间今晚8点30分，美国将公布8月份PPI。美国劳工统计局已经确认，这份数据将在9月10日美东时间上午8点30分公布。如果PPI明显高于预期，市场可能进一步担心企业成本和通胀压力重新抬头，美债收益率可能承压，成长股估值也会受到影响；如果PPI低于预期，可能暂时缓解市场对通胀的担忧。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">最后我们留一个问题给大家思考：AI现在还在疯狂砸钱建数据中心，但这些钱最终总要有人买单。如果未来AI真的越来越贵，你愿意每个月多花几十块钱买AI服务，还是觉得现在的免费版已经够用了？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">欢迎把你的选择留在评论区。</p><span><br></span><br>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/1bd7-audiofreehighqps/92/E7/GAqh6-4OdvkpAAPIRATUkXWX.jpeg",
+  "folgennummer": 10
+}

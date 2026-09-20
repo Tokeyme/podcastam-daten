@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "大力读书",
   "apple_collection_id": "1740117060",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "664afe9f251bd96e6c84324e",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨如何通过专注、设定目标和记录来训练认真的能力。"
+    },
+    {
+      "guid": "663b8bcdeedd4434f4f848eb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/663b8bcdeedd4434f4f848eb/media.xyzcdn.net/lr5euSmyNT_T8L_K_huH0Qiv1Dwx.m4a",
+      "pfad": "/v1/episode/cdf481ac83ef53fa5697e8e686c953c97934ee19.json",
+      "titel": "010-心法贰:认真是态度，也是能力（上）",
+      "veroeffentlicht": "2024-05-08T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨认真不仅是一种态度，更是一种可以锻炼的能力。"
+    },
+    {
+      "guid": "66325ffc03bcdd73a91015a5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/66325ffc03bcdd73a91015a5/media.xyzcdn.net/lnJ7GLzwPdO3FZOma7sDq5NHEAzH.m4a",
+      "pfad": "/v1/episode/16a1c566fd72bebb21de04aa844ae348943e822d.json",
+      "titel": "009-《画》：这是一种捕捉时间的艺术",
+      "veroeffentlicht": "2024-05-02T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨古诗《画》的意境及其蕴含的时间观念"
+    },
+    {
+      "guid": "6627b465c3e09d8f37fa1b28",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/6627b465c3e09d8f37fa1b28/media.xyzcdn.net/ljwsGzjdWmelcugcSpvKj3VcZuc4.m4a",
+      "pfad": "/v1/episode/ec40681c716d6a9015bc1eb280a468ff80848e31.json",
+      "titel": "008-汉乐府的《江南》：听莲花在晨光中轻语",
+      "veroeffentlicht": "2024-04-23T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨汉乐府《江南》的诗意背景及其文化内涵"
+    },
+    {
+      "guid": "661e2e4c48c40e2fb0a671ce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/661e2e4c48c40e2fb0a671ce/media.xyzcdn.net/lm7VSPSNOi7XIy6d8lB8cmpUmkmv.m4a",
+      "pfad": "/v1/episode/472ce1a4c84326c24f84e19cb33188382de9a280.json",
+      "titel": "007-观察、思考、行动：分享给小朋友们的第一套人生心法",
+      "veroeffentlicht": "2024-04-16T07:52:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨观察、思考与行动的人生心法"
+    },
+    {
+      "guid": "66138d19c891c06e73fd4e1f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/66138d19c891c06e73fd4e1f/media.xyzcdn.net/ljC8Y9JtLgTBCDIAKOih_VxNKtjc.m4a",
+      "pfad": "/v1/episode/157427157d57eac64dd432eefb97b215dce266c7.json",
+      "titel": "006-小猫钓鱼：只有专心致志，才能收获满满",
+      "veroeffentlicht": "2024-04-08T06:22:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小猫钓鱼故事分享与关于专注和成长的思考"
+    },
+    {
+      "guid": "660be12a1519139e4f28b5d4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/660be12a1519139e4f28b5d4/media.xyzcdn.net/lsAnqaT1VnlFUUzlY_jZMq06a4Bk.m4a",
+      "pfad": "/v1/episode/962992229e7cd70a99306be783c8df243261d5ae.json",
+      "titel": "005-小鲤鱼跳龙门：勇敢追梦，共创奇迹",
+      "veroeffentlicht": "2024-04-02T10:42:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小鲤鱼跳龙门的故事及勇敢追梦与团队合作的思考"
+    },
+    {
+      "guid": "660182741519139e4f837f6e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/660182741519139e4f837f6e/media.xyzcdn.net/lii4R15XQoblu9wiGUWAxE6JS4_g.m4a",
+      "pfad": "/v1/episode/8124d33852229cad6c60007b4bab6eb7cd55e02b.json",
+      "titel": "004-破茧成蝶：面对校园霸凌，共寻抗“霸”之光",
+      "veroeffentlicht": "2024-03-25T13:56:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨校园霸凌现象，分享面对欺负时的看法与应对方法"
+    },
+    {
+      "guid": "65f858ea696bd9a879f44003",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/65f858ea696bd9a879f44003/media.xyzcdn.net/ljvs1ITFi31wvgyzLAY9zyWABR9J.m4a",
+      "pfad": "/v1/episode/b736d7e4a2cb35315deca5f9ac81c1d62ed33749.json",
+      "titel": "003-孤独的小螃蟹：每个人都应该学会走出一条属于自己的路",
+      "veroeffentlicht": "2024-03-18T15:08:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨冰波作品《孤独的小螃蟹》中的友情、成长与自我发现"
+    },
+    {
+      "guid": "65ef2ed08e6f71a5b7640774",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65e4bbfee02457022b4ecff9/65ef2ed08e6f71a5b7640774/media.xyzcdn.net/lrfvA7JFTdAeP9FDtTxrI7VFI9VA.m4a",
+      "pfad": "/v1/episode/b7be3420667ba38a040d3558e8ab665cf743843b.json",
+      "titel": "002-一只想飞的猫：吹牛的人最应该警惕的是自己骗到了自己",
+      "veroeffentlicht": "2024-03-11T16:18:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊童话《一只想飞的猫》以及关于自大、谦虚与自我认知的思考"
     }
   ]
 }

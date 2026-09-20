@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "5af210cb-3072-4f46-ad70-cf866de70f4c",
+  "apple_collection_id": "1574676417",
+  "show": "Wild Wild Web - Geschichten aus dem Internet",
+  "titel": "#04 Das wichtigste Hobby der Welt",
+  "audio": {
+    "url": "https://media.neuland.br.de/file/2108090/c/feed/das-wichtigste-hobby-der-welt.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:35:41+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Die Bedeutung von Open-Source-Maintainern für das Internet",
+  "kurzfassung": "Die Folge widmet sich der Arbeit von Open-Source-Maintainern, die freiwillig Software am Laufen halten. Dabei geht es um den wachsenden Druck auf diese Programmierer und die Risiken für die globale IT-Sicherheit. Zudem werden die Grundsätze der Bewegung sowie Hintergründe zu konkreten Sicherheitsvorfällen beleuchtet.",
+  "stichpunkte": [
+    "Die Rolle und Bedeutung von Open-Source-Maintainern im Internet",
+    "Der zunehmende Druck auf freiwillige Programmierer",
+    "Grundsätze der Open-Source-Bewegung nach Richard Stallman",
+    "Beinahe-Sicherheitskatastrophen in der globalen Computerwelt",
+    "Erklärungen und Berichte rund um die Log4j-Schwachstelle",
+    "Das Open-Source-Förderprogramm des Bundesministeriums für Wirtschaft und Klimaschutz",
+    "Erfahrungsberichte von ehemaligen Maintainern über den Ausstieg"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:35:41+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 2219,
+  "veroeffentlicht": "2025-07-03T07:00:00+02:00",
+  "beschreibung": "Christian kämpft mit Selbstzweifeln. Doch dann findet er ein neues Hobby, das sein Leben ändert - und nebenbei das von jedem, der das hier gerade liest. Ein Deep Dive in die Welt der Open Source Maintainer, eine Gruppe freiwilliger Programmierer, die das Internet für uns alle am Laufen hält und dabei immer mehr Druck gerät.\nUnser Podcasttipp ist \"Mia Insomnia\". Es gibt endlich eine neue Staffel vom Mystery-Hörspiel! Die ersten beiden Staffeln gibt's überall wo, ihr Podcasts hört und die neue, dritte Staffel exklusiv in der ARD Audiothek: https://1.ard.de/wildwildweb5-mia_insomnia_3\n\nDer Happy Place der Woche kommt von Gregor Schmalzried, Schöpfer von \"Mia Insomnia\" und Host von \"Der KI-Podcast\" und er liebt Fan-Foren jeder Art. Zum Beispiel von den ???, was ihn vielleicht auch zu Mia Insomnia inspiriert hat.\n\nVordenker Richard Stallman über die Grundsätze der Open Source Bewegung https://www.youtube.com/watch?v=Ag1AKIl_2GM\n\nWie ein Open Source Projekt fast zur Sicherheitskatastrophe für die gesamte Welt geworden wäre https://www.derstandard.at/story/3000000213960/wie-die-computerwelt-gerade-haarscharf-an-einer-sicherheitskatastrophe-vorbeigeschrammt-ist\n\nSchüler eklären Log4j so gut, dass es jeder versteht\nhttps://www.youtube.com/watch?v=W_p6YmLQfp8\n\nCNN Beitrag über Log4J\nhttps://edition.cnn.com/2021/12/15/tech/log4j-vulnerability/index.html\n\nOpen Source Förderprogramm des Bundesministeriums für Wirtschaft und Klimaschutz\nhttps://www.sovereign.tech/\n\nEin Ex-Maintainer bloggt über seine Gründe aus Open Source auszusteigen\nhttps://dev.to/sapegin/why-i-quit-open-source-1n2e",
+  "beschreibung_html": "<p>Christian kämpft mit Selbstzweifeln. Doch dann findet er ein neues Hobby, das sein Leben ändert - und nebenbei das von jedem, der das hier gerade liest. Ein Deep Dive in die Welt der Open Source Maintainer, eine Gruppe freiwilliger Programmierer, die das Internet für uns alle am Laufen hält und dabei immer mehr Druck gerät.</p>Unser Podcasttipp ist &quot;Mia Insomnia&quot;. Es gibt endlich eine neue Staffel vom Mystery-Hörspiel! Die ersten beiden Staffeln gibt&#39;s überall wo, ihr Podcasts hört und die neue, dritte Staffel exklusiv in der ARD Audiothek: https://1.ard.de/wildwildweb5-mia_insomnia_3\n<br/>\nDer Happy Place der Woche kommt von Gregor Schmalzried, Schöpfer von &quot;Mia Insomnia&quot; und Host von &quot;Der KI-Podcast&quot; und er liebt Fan-Foren jeder Art. Zum Beispiel von den ???, was ihn vielleicht auch zu Mia Insomnia inspiriert hat.\n<br/>\nVordenker Richard Stallman über die Grundsätze der Open Source Bewegung https://www.youtube.com/watch?v=Ag1AKIl_2GM\n<br/>\nWie ein Open Source Projekt fast zur Sicherheitskatastrophe für die gesamte Welt geworden wäre  https://www.derstandard.at/story/3000000213960/wie-die-computerwelt-gerade-haarscharf-an-einer-sicherheitskatastrophe-vorbeigeschrammt-ist\n<br/>\nSchüler eklären Log4j so gut, dass es jeder versteht\nhttps://www.youtube.com/watch?v=W_p6YmLQfp8\n<br/>\nCNN Beitrag über Log4J\nhttps://edition.cnn.com/2021/12/15/tech/log4j-vulnerability/index.html\n<br/>\nOpen Source Förderprogramm des Bundesministeriums für Wirtschaft und Klimaschutz\nhttps://www.sovereign.tech/\n<br/>\nEin Ex-Maintainer bloggt über seine Gründe aus Open Source auszusteigen\nhttps://dev.to/sapegin/why-i-quit-open-source-1n2e",
+  "bild_url": "https://img.br.de/2db5a021-fe83-4895-a06d-4a222ff5d42c.png?w=1800",
+  "folgennummer": 4
+}

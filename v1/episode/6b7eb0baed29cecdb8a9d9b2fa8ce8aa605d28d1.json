@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_869511285",
+  "apple_collection_id": "1814837614",
+  "show": "AI那些事儿：每日 10 分钟AI科技解读",
+  "titel": "2025年6月14日AI要闻",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GKwRIRwMIsLEADfhuQPH0TcY.m4a?channel=rss&album_id=92913487&track_id=869511285&uid=162381846&jt=https://aod.cos.tx.xmcdn.com/storages/5403-audiofreehighqps/78/1B/GKwRIRwMIsLEADfhuQPH0TcY.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:16:02+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI模型技术突破、产业竞争格局以及相关伦理问题。",
+  "kurzfassung": "本期节目梳理了近期人工智能领域的重要动态。内容涵盖模型技术突破、产业竞争格局演变以及AI伦理等议题。同时提及了多家科技企业的最新发展与市场动态。",
+  "stichpunkte": [
+    "Claude对苹果AI研究的质疑",
+    "MIT提出的自我优化语言模型框架SEAL",
+    "CMU与英伟达合作的Multiverse模型及其推理加速",
+    "国内在大模型数量和机器人领域的进展",
+    "AI伦理在用户自杀事件中的重要性",
+    "英特尔显卡停产、谷歌与Scale AI的合作危机",
+    "Meta在AI人才招募方面的举动与甲骨文创始人财富增长"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:16:02+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 452,
+  "veroeffentlicht": "2025-06-14T04:18:04+00:00",
+  "beschreibung": "涵盖了从AI模型的技术突破到产业竞争格局的演变。具体内容包括Claude对苹果AI研究的质疑、MIT提出的自我优化语言模型框架SEAL，以及CMU和英伟达合作的Multiverse模型带来的推理加速。同时，也揭示了国内在大模型数量和机器人领域取得的显著进展，并强调了AI伦理在用户自杀事件中的重要性。此外，新闻还触及了英特尔显卡停产、谷歌与Scale AI的合作危机，以及Meta在AI人才招募方面的积极举动，最后提及了甲骨文创始人财富的增长。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>涵盖了从</span><span>AI模型的技术突破</span><span>到</span><span>产业竞争格局的演变</span><span>。具体内容包括</span><span>Claude对苹果AI研究的质疑</span><span>、</span><span>MIT提出的自我优化语言模型框架SEAL</span><span>，以及</span><span>CMU和英伟达合作的Multiverse模型带来的推理加速</span><span>。同时，也揭示了国内</span><span>在大模型数量和机器人领域取得的显著进展</span><span>，并强调了</span><span>AI伦理在用户自杀事件中的重要性</span><span>。此外，新闻还触及了</span><span>英特尔显卡停产</span><span>、</span><span>谷歌与Scale AI的合作危机</span><span>，以及</span><span>Meta在AI人才招募方面的积极举动</span><span>，最后提及了</span><span>甲骨文创始人财富的增长</span><span>。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/84ed-audiofreehighqps/61/B2/GKwRIJEMHvK5AAJPzAPFWv4S.jpeg",
+  "folgennummer": 10
+}

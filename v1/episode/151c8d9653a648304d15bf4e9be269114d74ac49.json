@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6aa8714d129fe965d3328d6b",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] AI的陪练、地图与慢功夫",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa8714d129fe965d3328d6b/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lkGSnl77ZgPbdIx3yYeOYkK9ahbz.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:15:13+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI如何通过陪练、地图和慢功夫实现从死记硬背到融会贯通。",
+  "kurzfassung": "本期节目深入探讨了人工智能底层的学习机制。主要内容包括通过陪练与逐步放手来训练AI，使用地图替代字典来提高工作效率。同时分析了AI学习中的快功夫与慢功夫，以及如何科学看待AI对齐的成绩单。",
+  "stichpunkte": [
+    "给AI请个陪练并逐步放手的方法",
+    "为什么给AI喂地图比喂字典更管用",
+    "AI学习中的快功夫与慢功夫比较",
+    "AI对齐的成绩单及其相关讨论",
+    "AI如何从死记硬背走向融会贯通"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:15:13+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1648,
+  "veroeffentlicht": "2026-09-14T22:14:32+00:00",
+  "beschreibung": "今天，我们要深入AI的“大脑”，看看它是如何真正学会“思考”的。我们会探讨，是给AI请个“陪练”逐步放手，还是给它一张“地图”指引全局更有效？我们还会见证一场AI学习的“龟兔赛跑”，看看“快功夫”和“慢功夫”哪个更有前途。最后，我们将一起揭开AI如何从死记硬背走向融会贯通，以及我们该如何科学地看待它的“成绩单”。五篇最新论文，带你洞悉AI学习的底层智慧。\n00:00:34 给AI请个“陪练”，然后悄悄撤走\n00:04:54 AI干活，为什么喂给它地图比喂给它字典更管用？\n00:10:35 AI的快功夫与慢功夫\n00:16:03 AI对齐，一份被误解的成绩单\n00:20:42 AI怎么才能“活”起来，从死记硬背到融会贯通\n本期介绍的几篇论文：\n[LG] CanvasAnneal：Curriculum Reinforcement Learning for Diffusion Language Models\n[Google DeepMind]\nhttps://arxiv.org/abs/2609.13060\n---\n[AI] Beyond Vector Similarity：Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration\n[Google Cloud]\nhttps://arxiv.org/abs/2609.12464\n---\n[CL] Breaking the Token Ceiling：Distilling Smaller， Stronger Byte Models\n[Meta FAIR & University of Washington, Seattle]\nhttps://arxiv.org/abs/2609.12303\n---\n[LG] Distortion of AI Alignment Revisited：RLHF is a Decent Utilitarian Aligner\n[UC Berkeley]\nhttps://arxiv.org/abs/2609.12651\n---\n[AI] Hierarchical Prototype Emergence in Modern Hopfield Models\n[Stanford University]\nhttps://arxiv.org/abs/2609.12079\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>今天，我们要深入AI的“大脑”，看看它是如何真正学会“思考”的。我们会探讨，是给AI请个“陪练”逐步放手，还是给它一张“地图”指引全局更有效？我们还会见证一场AI学习的“龟兔赛跑”，看看“快功夫”和“慢功夫”哪个更有前途。最后，我们将一起揭开AI如何从死记硬背走向融会贯通，以及我们该如何科学地看待它的“成绩单”。五篇最新论文，带你洞悉AI学习的底层智慧。</p><p><a class=\"timestamp\">00:00:34</a> 给AI请个“陪练”，然后悄悄撤走</p><p><a class=\"timestamp\">00:04:54</a> AI干活，为什么喂给它地图比喂给它字典更管用？</p><p><a class=\"timestamp\">00:10:35</a> AI的快功夫与慢功夫</p><p><a class=\"timestamp\">00:16:03</a> AI对齐，一份被误解的成绩单</p><p><a class=\"timestamp\">00:20:42</a> AI怎么才能“活”起来，从死记硬背到融会贯通</p><p>本期介绍的几篇论文：</p><p>[LG] CanvasAnneal：Curriculum Reinforcement Learning for Diffusion Language Models</p><p>[Google DeepMind]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.13060\">https://arxiv.org/abs/2609.13060</a> </p><p>---</p><p>[AI] Beyond Vector Similarity：Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration</p><p>[Google Cloud]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.12464\">https://arxiv.org/abs/2609.12464</a> </p><p>---</p><p>[CL] Breaking the Token Ceiling：Distilling Smaller， Stronger Byte Models</p><p>[Meta FAIR &amp; University of Washington, Seattle]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.12303\">https://arxiv.org/abs/2609.12303</a> </p><p>---</p><p>[LG] Distortion of AI Alignment Revisited：RLHF is a Decent Utilitarian Aligner</p><p>[UC Berkeley]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.12651\">https://arxiv.org/abs/2609.12651</a> </p><p>---</p><p>[AI] Hierarchical Prototype Emergence in Modern Hopfield Models</p><p>[Stanford University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.12079\">https://arxiv.org/abs/2609.12079</a> </p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa8714d129fe965d3328d6b?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"
+}

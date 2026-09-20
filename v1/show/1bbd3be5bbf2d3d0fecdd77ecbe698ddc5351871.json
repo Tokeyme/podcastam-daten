@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "亲子关系丨聚焦热点 潮流育儿！",
   "apple_collection_id": "1481809396",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group71/M0A/96/47/wKgOz14tYS2il3rfAFSPCz3C6bI442.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "中国疾控中心发布的家庭预防冠状病毒指南"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M02/55/EE/wKgO2F4oGyuAeqocADw_cj5xu1g395.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgO2F4oGyuAeqocADw_cj5xu1g395.mp3.m4a?channel=rss&album_id=26515478&track_id=246125312&uid=177657754&jt=https://aod.cos.tx.xmcdn.com/group70/M02/55/EE/wKgO2F4oGyuAeqocADw_cj5xu1g395.mp3",
+      "pfad": "/v1/episode/6f11299b431ce63ea4138b569e11f100e2c74299.json",
+      "titel": "新春快乐！丽塔给大家拜年啦！",
+      "veroeffentlicht": "2020-01-23T00:00:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "丽塔送上新春祝福并科普春节由来"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M08/17/32/wKgOzl4kJLvRbDJbAJkASNBsj_8694.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgOzl4kJLvRbDJbAJkASNBsj_8694.mp3.m4a?channel=rss&album_id=26515478&track_id=245280796&uid=177657754&jt=https://aod.cos.tx.xmcdn.com/group70/M08/17/32/wKgOzl4kJLvRbDJbAJkASNBsj_8694.mp3",
+      "pfad": "/v1/episode/1d4a1c514afe2f169c440d21d5c019f35a704ac9.json",
+      "titel": "“小包总”杨烁教育方式被骂上热搜，严厉真的能让儿子长成男子汉？",
+      "veroeffentlicht": "2020-01-19T12:00:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨演员杨烁严厉的育儿方式是否能让儿子成为真正的男子汉。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M02/B3/7A/wKgMc13yEMPTMA8wAE_HCHYoJjM937.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMc13yEMPTMA8wAE_HCHYoJjM937.mp3.m4a?channel=rss&album_id=26515478&track_id=236269813&uid=177657754&jt=https://aod.cos.tx.xmcdn.com/group64/M02/B3/7A/wKgMc13yEMPTMA8wAE_HCHYoJjM937.mp3",
+      "pfad": "/v1/episode/534596bca977d774c9390f4c90935ecc9fc82921.json",
+      "titel": "警惕初中生的早餐搭配影响学习成绩！",
+      "veroeffentlicht": "2019-12-12T23:00:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "初中生早餐搭配对学习成绩的影响"
     }
   ]
 }

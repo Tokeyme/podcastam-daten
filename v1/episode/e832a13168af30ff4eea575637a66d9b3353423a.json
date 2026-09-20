@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6a794c00000a55a9bb058960",
+  "apple_collection_id": "1835452860",
+  "show": "C哥聊科技",
+  "titel": "【C哥日课】Cherry Studio 2.0，智能体成了产品主线",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a794c00000a55a9bb058960/media.xyzcdn.net/68ab14c71edba57468005489/FpqS6NpAqBBMANHWgZSMBWBKfoLG.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:20:46+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Cherry Studio 2.0更新解析，智能体成为产品主线",
+  "kurzfassung": "Cherry Studio推出2.0版本，核心变化是将智能体提升为产品主线。通过数据库重构实现任务状态的持久化记忆，并整合知识库、OCR、ASR和文档处理等多种工具。应用入口从传统的对话框转变为任务驱动，全面提升复杂任务的处理能力。",
+  "stichpunkte": [
+    "Cherry Studio 2.0版本更新及智能体地位的变化",
+    "利用数据库重构解决前端数据压力并实现任务状态记忆",
+    "知识库、OCR、ASR、文档处理和绘图等工具的调用",
+    "离线向量模型Qwen3 Embedding 0.6B在本地资料查找中的应用",
+    "从对话框到任务入口的产品形态转变"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:20:46+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 228,
+  "veroeffentlicht": "2026-08-10T08:00:00+00:00",
+  "beschreibung": "【本期主题】\nCherry Studio 2.0 来了，不再是那个只帮你填 API Key 切模型聊天的客户端了。数据库重构让智能体记住任务状态，知识库、OCR、ASR、文档处理全部变成智能体可调用的工具，入口从对话框变成任务。\n【核心看点】\nCherry Studio 你还记得吗？以前就是用它在本地电脑填 API Key 切模型聊天，这次 2.0 更新彻底变了？\n\n2.0 最大的变化是什么？智能体从产品里的一块功能，变成了调动所有能力的入口？\n\n智能体接到复杂任务，要保存资料、工具调用记录和任务进度，下次打开还得知道上次做到哪了——前端数据撑不住了怎么办？\n\nCherry Studio 2.0 的方案是把数据搬到数据库，分层存储、数据生命周期、旧数据兼容，就像公司账本一样分清哪些该长期保存？\n\n智能体光记住任务还不够，还得有干活的工具——知识库、OCR 图片文字识别、ASR 语音识别、文档处理、绘图全都能调用了？\n\n整理一批图片、录音和文档混在一起的会议资料，它可以先提取文字、转写录音、查知识库补充背景，最后统一出纪要，你只需要说想要什么结果？\n\n离线向量模型 Qwen3 Embedding 0.6B，就算在线服务没提供检索能力，本地也能做资料查找？\n\n过去打开 Cherry Studio 入口是一个对话框，从 2.0 开始入口慢慢变成一个任务，你感受到了吗？\n\n数据库解决\"记得住\"，知识库和多模态工具解决\"干得动\"，模型协议与 Windows 兼容解决\"用得上\"——这三层串起来才看懂 2.0 为什么要做这么重的一次升级？\n\n【主播】\n软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<h2><strong>【本期主题】</strong></h2><p>Cherry Studio 2.0 来了，不再是那个只帮你填 API Key 切模型聊天的客户端了。数据库重构让智能体记住任务状态，知识库、OCR、ASR、文档处理全部变成智能体可调用的工具，入口从对话框变成任务。</p><h2><strong>【核心看点】</strong></h2><ul><li><p>Cherry Studio 你还记得吗？以前就是用它在本地电脑填 API Key 切模型聊天，这次 2.0 更新彻底变了？</p></li><li><p>2.0 最大的变化是什么？智能体从产品里的一块功能，变成了调动所有能力的入口？</p></li><li><p>智能体接到复杂任务，要保存资料、工具调用记录和任务进度，下次打开还得知道上次做到哪了——前端数据撑不住了怎么办？</p></li><li><p>Cherry Studio 2.0 的方案是把数据搬到数据库，分层存储、数据生命周期、旧数据兼容，就像公司账本一样分清哪些该长期保存？</p></li><li><p>智能体光记住任务还不够，还得有干活的工具——知识库、OCR 图片文字识别、ASR 语音识别、文档处理、绘图全都能调用了？</p></li><li><p>整理一批图片、录音和文档混在一起的会议资料，它可以先提取文字、转写录音、查知识库补充背景，最后统一出纪要，你只需要说想要什么结果？</p></li><li><p>离线向量模型 Qwen3 Embedding 0.6B，就算在线服务没提供检索能力，本地也能做资料查找？</p></li><li><p>过去打开 Cherry Studio 入口是一个对话框，从 2.0 开始入口慢慢变成一个任务，你感受到了吗？</p></li><li><p>数据库解决\"记得住\"，知识库和多模态工具解决\"干得动\"，模型协议与 Windows 兼容解决\"用得上\"——这三层串起来才看懂 2.0 为什么要做这么重的一次升级？</p></li></ul><h2><strong>【主播】</strong></h2><p>软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。</p><h2></h2><p></p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/6a794c00000a55a9bb058960?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/FtU9lMNu8TA6FSN4sB93H4xej578.jpg"
+}

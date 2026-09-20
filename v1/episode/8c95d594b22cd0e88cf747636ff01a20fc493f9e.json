@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6aa5da229d32647781682733",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] 从AI培训工厂、进化式学习到合作的计算本质",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa5da229d32647781682733/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lmg5u--sD9_7MaYGNfxvVH5t863d.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:15:15+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI后训练、进化式学习与合作的计算本质。",
+  "kurzfassung": "本期节目讨论了AI模型的后训练方法及其在处理大规模强化学习中的应用。探讨了如何通过进化式学习提升AI执行任务的能力，而不仅仅是堆砌知识。此外，节目还分析了AI在多轮对话中迎合用户的现象以及合作背后的计算成本。",
+  "stichpunkte": [
+    "AI天才的岗前培训与生产级后训练",
+    "大规模长文本强化学习中的联合协同训练",
+    "从堆知识到学做事：大模型代理的自进化执行结构",
+    "持续多轮压力下AI讨好用户的现象",
+    "合作的演化与计算本质"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:15:15+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1678,
+  "veroeffentlicht": "2026-09-12T23:08:21+00:00",
+  "beschreibung": "你有没有想过，AI天才也需要“岗前培训”才能上岗？本期我们将从几篇最新论文出发，揭秘如何为AI搭建高效的“培训工厂”，并探索如何教AI学会“做事的方法论”，而不仅仅是“堆知识”。我们还会聊聊一个有趣的问题：AI会为了讨好你而放弃原则、变成一个“老好人”吗？最后，我们将从一个全新的角度，看看合作的本质，也许就藏在最底层的成本计算里。\n00:00:32 AI天才出厂后，谁给它做“岗前培训”？\n00:06:42 如何让AI的“学徒”跟上“大师”的脚步\n00:11:35 AI的进化，从“知道什么”到“该做什么”\n00:17:26 为什么AI会变成一个“老好人”？\n00:22:03 合作的秘密，藏在成本里\n本期介绍的几篇论文：\n[LG] Miles v0.1: Production-Level Post-Training\n[RadixArk]\nhttps://arxiv.org/abs/2609.08368\n---\n[LG] Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training\n[NVIDIA]\nhttps://arxiv.org/abs/2609.07108\n---\n[AI] Procedural Graphs: Self-Evolving Execution Structures for LLM Agents\n[Google]\nhttps://arxiv.org/abs/2609.09153\n---\n[CL] Measuring LLM Sycophancy under Sustained Multi-Turn Pressure\n[Texas A&M University & University of Cincinnati]\nhttps://arxiv.org/abs/2609.09090\n---\n[AI] Tapes Together Strong: The Co-evolution of Computation and Cooperation\n[Google]\nhttps://arxiv.org/abs/2609.10817\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>你有没有想过，AI天才也需要“岗前培训”才能上岗？本期我们将从几篇最新论文出发，揭秘如何为AI搭建高效的“培训工厂”，并探索如何教AI学会“做事的方法论”，而不仅仅是“堆知识”。我们还会聊聊一个有趣的问题：AI会为了讨好你而放弃原则、变成一个“老好人”吗？最后，我们将从一个全新的角度，看看合作的本质，也许就藏在最底层的成本计算里。</p><p><a class=\"timestamp\">00:00:32</a> AI天才出厂后，谁给它做“岗前培训”？</p><p><a class=\"timestamp\">00:06:42</a> 如何让AI的“学徒”跟上“大师”的脚步</p><p><a class=\"timestamp\">00:11:35</a> AI的进化，从“知道什么”到“该做什么”</p><p><a class=\"timestamp\">00:17:26</a> 为什么AI会变成一个“老好人”？</p><p><a class=\"timestamp\">00:22:03</a> 合作的秘密，藏在成本里</p><p>本期介绍的几篇论文：</p><p>[LG] Miles v0.1: Production-Level Post-Training</p><p>[RadixArk]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.08368\">https://arxiv.org/abs/2609.08368</a> </p><p>---</p><p>[LG] Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training</p><p>[NVIDIA]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.07108\">https://arxiv.org/abs/2609.07108</a> </p><p>---</p><p>[AI] Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</p><p>[Google]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.09153\">https://arxiv.org/abs/2609.09153</a> </p><p>---</p><p>[CL] Measuring LLM Sycophancy under Sustained Multi-Turn Pressure</p><p>[Texas A&amp;M University &amp; University of Cincinnati]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.09090\">https://arxiv.org/abs/2609.09090</a> </p><p>---</p><p>[AI] Tapes Together Strong: The Co-evolution of Computation and Cooperation</p><p>[Google]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.10817\">https://arxiv.org/abs/2609.10817</a> </p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa5da229d32647781682733?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"
+}

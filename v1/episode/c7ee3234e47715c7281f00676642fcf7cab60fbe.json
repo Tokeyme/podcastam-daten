@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2018/12/19/5015973575427114502_hd.mp3",
+  "apple_collection_id": "982419309",
+  "show": "有故事的你一定喜欢听",
+  "titel": "【城市留声机 第六十七期】我就是希望，你一切都好",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2018/12/19/5015973575427114502_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-20T09:42:54+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "给朋友与未来的书信对话",
+  "kurzfassung": "本期节目通过几封写给朋友和未来的信件，表达了对彼此近况的关心与问候。信中回顾了过去的备战高考时光，以及开学前对室友名单的期待。节目最终传递了希望对方一切都好的美好愿望。",
+  "stichpunkte": [
+    "回忆备战高考时的闷热下午与随意写下的信件",
+    "讲述暑假期间对寝室名单和新消息的期待心情",
+    "表达很高兴遇到对方的真挚情感",
+    "传递希望对方一切都好的核心心愿"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:42:54+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1191,
+  "veroeffentlicht": "2018-12-19T22:47:40+08:00",
+  "beschreibung": "编播：蛋花\n——亲爱的钱宝，还记得上一次给你写信的时候好像还在备战高考吧，某个闷热的下午，不想背书，就很随意地找了一张纸，开始给你写信，那封信一定胡乱无章，因为我也不知道自己想说什么。那么，最近，好吗？\n\n——狗蛋，都没认真地和你说过，我呀，很高兴遇到你。暑假的时候就每天盼着寝室的名单赶紧出来，一有空，就打开公众号登陆自己的信息，看看寝室的那一栏有没有新的消息。虽然总是会浇灭你的希望，但还是义无反顾。你呢，是不是和我怀着一样的小期待呀。\n\n——我就是希望，你一切都好。",
+  "beschreibung_html": "编播：蛋花<br>——亲爱的钱宝，还记得上一次给你写信的时候好像还在备战高考吧，某个闷热的下午，不想背书，就很随意地找了一张纸，开始给你写信，那封信一定胡乱无章，因为我也不知道自己想说什么。那么，最近，好吗？<br><br>——狗蛋，都没认真地和你说过，我呀，很高兴遇到你。暑假的时候就每天盼着寝室的名单赶紧出来，一有空，就打开公众号登陆自己的信息，看看寝室的那一栏有没有新的消息。虽然总是会浇灭你的希望，但还是义无反顾。你呢，是不是和我怀着一样的小期待呀。<br><br>——我就是希望，你一切都好。",
+  "untertitel": "【城市留声机 第六十七期】我就是希望，你一切都好",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2018/12/19/2710130959329926151_80x80.jpg"
+}

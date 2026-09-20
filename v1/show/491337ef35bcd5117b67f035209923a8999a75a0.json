@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "Was bisher geschah - Geschichtspodcast",
   "apple_collection_id": "1733559978",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6a8d51062fe0b9d07863bd75",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a8d51062fe0b9d07863bd75/media.mp3",
+      "pfad": "/v1/episode/36191769f43a64b195de108bd2c5dac910870a62.json",
+      "titel": "Marie Antoinette (1/2) – Skandal in Versailles",
+      "veroeffentlicht": "2026-09-14T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Das Leben von Marie Antoinette zwischen Wien, Versailles und Intrigen"
+    },
+    {
+      "guid": "6a8d50e966c4a1e81a419124",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a8d50e966c4a1e81a419124/media.mp3",
+      "pfad": "/v1/episode/cdcaad6681445baba86e9618c27f08ad73cb36fa.json",
+      "titel": "Caravaggio - Ein Künstler auf der Flucht",
+      "veroeffentlicht": "2026-09-07T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Aufstieg Caravaggios zum gefragten Künstler und seine blutige Tat auf der Flucht"
+    },
+    {
+      "guid": "6a874afad6b6da9392f2153a",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a874afad6b6da9392f2153a/media.mp3",
+      "pfad": "/v1/episode/7dc21a20c606f2c42f9a9261414b5cb103aeab1b.json",
+      "titel": "Wettlauf zum Südpol (2/2) - Der Kampf ums Überleben",
+      "veroeffentlicht": "2026-08-31T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Rückweg von Robert Scott und seinem Team im Frühjahr 1912."
+    },
+    {
+      "guid": "6a874ae1a103c59e028e8a3a",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a874ae1a103c59e028e8a3a/media.mp3",
+      "pfad": "/v1/episode/4e4011c5b80f1d91762fe57e878aec919de52fff.json",
+      "titel": "Wettlauf zum Südpol (1/2) - Amundsen vs. Scott",
+      "veroeffentlicht": "2026-08-24T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Wettlauf zum Südpol zwischen Amundsen und Scott."
+    },
     {
       "guid": "69f76dfb8dd960ac61a0b8df",
       "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/69f76dfb8dd960ac61a0b8df/media.mp3",
@@ -13,6 +53,56 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "Wilhelm Tell und der Rütli-Schwur: Wie Mythen die Schweizer Eidgenossenschaft prägten."
+    },
+    {
+      "guid": "6a2859f8ec7c103dcac67f49",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a2859f8ec7c103dcac67f49/media.mp3",
+      "pfad": "/v1/episode/9c789218596c72a29f33fd9e9dd5d256ac990cd1.json",
+      "titel": "Nofretete - Die geheimnisvolle Schönheit",
+      "veroeffentlicht": "2026-08-10T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Wer war Nofretete und was geschah mit der ägyptischen Königin?"
+    },
+    {
+      "guid": "6a1c70e2428d759cb3dda09f",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a1c70e2428d759cb3dda09f/media.mp3",
+      "pfad": "/v1/episode/af51089670831f2bdefbdf3246579e76e07fbce6.json",
+      "titel": "Die Mafia (2/2) - Eine neue Generation",
+      "veroeffentlicht": "2026-08-03T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der Aufstieg von Lucky Luciano und die Umstrukturierung des US-Verbrechens"
+    },
+    {
+      "guid": "6a1c70cb428d759cb3dd993b",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a1c70cb428d759cb3dd993b/media.mp3",
+      "pfad": "/v1/episode/5f2f9334ff301c6954b86723ef962b5a622ab25d.json",
+      "titel": "Die Mafia (1/2) - Der Aufstieg der Klauenhand",
+      "veroeffentlicht": "2026-07-27T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Giuseppe Morello und der Aufstieg der Klauenhand in New York"
+    },
+    {
+      "guid": "6a1c70a1f7ef77595837e017",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a1c70a1f7ef77595837e017/media.mp3",
+      "pfad": "/v1/episode/a99b5cbf2af6110edac4405f61da3283478ca4b5.json",
+      "titel": "Die Odyssee - Ein antiker Blockbuster",
+      "veroeffentlicht": "2026-07-20T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Hintergrund und Relevanz von Homers antiker Epos-Erzählung Die Odyssee"
+    },
+    {
+      "guid": "6a28588dc022d9c4fe21c9a6",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a28588dc022d9c4fe21c9a6/media.mp3",
+      "pfad": "/v1/episode/b206bd6d12b445cae223ad0391d92bbc6dbf9332.json",
+      "titel": "Livetour 2027 - Tickets ab sofort im VVK",
+      "veroeffentlicht": "2026-07-16T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ankündigung der Livetour 2027 mit Start des Vorverkaufs."
     }
   ]
 }

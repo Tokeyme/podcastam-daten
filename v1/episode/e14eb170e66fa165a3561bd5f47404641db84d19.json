@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "6aa13d4016f0a4973a148e7d",
+  "apple_collection_id": "1813599424",
+  "show": "PivotCast｜转点播客",
+  "titel": "【今天市场怎么了】20260909：全球铜价创历史新高，油价升破100美元",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/67ffc937497fe940d4248c97/6aa13d4016f0a4973a148e7d/media.xyzcdn.net/67ffc937497fe940d4248c97/FnIcFKHrq29GOm1Rx1X7QX0ecEjt.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:30:07+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "全球金融市场概览：美股下跌、A股分化及比特币行情",
+  "kurzfassung": "本期节目提供了最新全球金融市场的概览。首先分析了美股三大指数集体下跌的表现。接着盘点了A股主要指数涨跌不一的行情。最后关注了比特币在过去24小时内的价格波动情况。",
+  "stichpunkte": [
+    "最新全球金融市场概览",
+    "美股三大指数集体下跌情况分析",
+    "A股主要指数涨跌不一表现",
+    "比特币过去24小时行情追踪"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:30:07+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 228,
+  "veroeffentlicht": "2026-09-09T11:06:05+00:00",
+  "beschreibung": "00:07 最新全球金融市场概览\n00:21 美股市场分析：昨晚，美股三大指数集体下跌，道琼斯指数下跌1.18%，标普500指数下跌0.58%，纳斯达克综合指数下跌0.32%。\n01:27 A股市场分析：今天，A股主要指数涨跌不一，上证指数上涨0.28%，深证成指上涨0.15%，创业板指下跌0.14%，科创50下跌0.69%。\n02:55 BTC市场分析：过去24小时，比特币上涨约0.4%，截至下午5点约79000美元。\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><a class=\"timestamp\">00:07</a> 最新全球金融市场概览<br><a class=\"timestamp\">00:21</a> 美股市场分析：昨晚，美股三大指数集体下跌，道琼斯指数下跌1.18%，标普500指数下跌0.58%，纳斯达克综合指数下跌0.32%。<br><a class=\"timestamp\">01:27</a> A股市场分析：今天，A股主要指数涨跌不一，上证指数上涨0.28%，深证成指上涨0.15%，创业板指下跌0.14%，科创50下跌0.69%。<br><a class=\"timestamp\">02:55</a> BTC市场分析：过去24小时，比特币上涨约0.4%，截至下午5点约79000美元。</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa13d4016f0a4973a148e7d?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FvgewXMt8B_OCUNOcdyF5rGux5vy.png"
+}

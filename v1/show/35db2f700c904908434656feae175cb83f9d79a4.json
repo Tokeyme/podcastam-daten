@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "健康黑科技",
   "apple_collection_id": "1831440336",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69f32e69038707a7719935ea",
@@ -13,6 +13,46 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "雌激素是女性心血管与骨骼健康的天然保护伞，更年期波动需科学应对。"
+    },
+    {
+      "guid": "69f32904038707a77198d2fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68255fa22f7ad886df899c1f/69f32904038707a77198d2fd/media.xyzcdn.net/68255fa22f7ad886df899c1f/lkzx9481T1hyKiVNVPlJFeYmZdpO.m4a",
+      "pfad": "/v1/episode/9328f22e09077ca0ab8bf1dc94ab3da37d36285f.json",
+      "titel": "中国1亿人有肺结节！到底多少会变肺癌？",
+      "veroeffentlicht": "2026-04-30T11:01:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "肺结节是否会变成肺癌及相关疑问解析"
+    },
+    {
+      "guid": "69eb5cf71e94ae6921119ceb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68255fa22f7ad886df899c1f/69eb5cf71e94ae6921119ceb/media.xyzcdn.net/68255fa22f7ad886df899c1f/ljDiXls9JfL4KOzN_ctScVgDOB6K.m4a",
+      "pfad": "/v1/episode/983730fa60185ace1cc40c7d19fe3dc149f1b064.json",
+      "titel": "猝死专盯年轻人？深度揭秘心脏致命隐患！",
+      "veroeffentlicht": "2026-04-24T12:19:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "剖析心血管疾病风险、介入手术与创新药物的全链条逻辑"
+    },
+    {
+      "guid": "6891dd8d638b01587910a4d9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68255fa22f7ad886df899c1f/6891dd8d638b01587910a4d9/media.xyzcdn.net/68255fa22f7ad886df899c1f/loqlEoKuL-fFdWe2vAhY7BZoPtw1.m4a",
+      "pfad": "/v1/episode/9b69dff332b6c33ebb2d454fda3ce819a613f86a.json",
+      "titel": "30+女性必听：从备孕、生育、冻卵、更年期到抗衰—阿黛尔 X 中山医院董曦谈女性人生",
+      "veroeffentlicht": "2025-08-05T10:55:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨女性从备孕、生育、冻卵到更年期与抗衰的健康话题"
+    },
+    {
+      "guid": "685910df4abe6e29cb8f8b1c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68255fa22f7ad886df899c1f/685910df4abe6e29cb8f8b1c/media.xyzcdn.net/68255fa22f7ad886df899c1f/lvX1PIG7LEVfWW7qUo_4QKdpjJWp.m4a",
+      "pfad": "/v1/episode/d75dd8c08411626d7b2faa215367c5a5d725e6b6.json",
+      "titel": "“百万大V医生”崔松：高血压、冠心病、房颤、心衰...心血管疾病一次讲清",
+      "veroeffentlicht": "2025-06-23T08:34:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨心血管疾病的演变链条、预防方法与最新治疗技术"
     }
   ]
 }

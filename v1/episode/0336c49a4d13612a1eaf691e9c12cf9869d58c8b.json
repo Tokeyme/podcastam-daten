@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2019/03/31/5034842992544755846_hd.mp3",
+  "apple_collection_id": "982419309",
+  "show": "有故事的你一定喜欢听",
+  "titel": "【城市留声机 第六十八期】我还能陪你走多久",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2019/03/31/5034842992544755846_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-20T09:42:53+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨成长记忆中那些无法磨灭的人与时光。",
+  "kurzfassung": "节目以张爱玲《第一炉香》中的季节描写开篇。随着年龄增长，许多记忆逐渐模糊。唯有一些人与回忆依然生生不息。",
+  "stichpunkte": [
+    "引用张爱玲《第一炉香》中的季节与风景描写",
+    "探讨随着成长带来的记忆模糊现象",
+    "讨论那些与我们生生不息的人和记忆"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:42:53+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 903,
+  "veroeffentlicht": "2019-03-31T15:33:29+08:00",
+  "beschreibung": "编播：考拉&蛋花\n“春天，满山的杜鹃花在缠绵雨里红着，簌簌落落，落不完地落，红不断地红。夏天，你爬过黄土的垄子去上课，夹道开着红而热的木槿花，像许多烧残的小太阳。秋天和冬天，空气脆而甜润，像夹心饼干。山风，海风，呜呜吹着棕绿的，苍银色的树。你只想带着几头狗，呼啸着去爬山，做一些不用脑子的剧烈的运动。时间就这样过去了。”\n|张爱玲 《第一炉香》\n\n随着长大，很多的记忆都会模糊，唯独有一些人，与我们，生生不息。",
+  "beschreibung_html": "编播：考拉&蛋花<br>“春天，满山的杜鹃花在缠绵雨里红着，簌簌落落，落不完地落，红不断地红。夏天，你爬过黄土的垄子去上课，夹道开着红而热的木槿花，像许多烧残的小太阳。秋天和冬天，空气脆而甜润，像夹心饼干。山风，海风，呜呜吹着棕绿的，苍银色的树。你只想带着几头狗，呼啸着去爬山，做一些不用脑子的剧烈的运动。时间就这样过去了。”<br>|张爱玲 《第一炉香》<br><br>随着长大，很多的记忆都会模糊，唯独有一些人，与我们，生生不息。",
+  "untertitel": "【城市留声机 第六十八期】我还能陪你走多久",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2019/03/31/2729000384591442951_80x80.jpg"
+}

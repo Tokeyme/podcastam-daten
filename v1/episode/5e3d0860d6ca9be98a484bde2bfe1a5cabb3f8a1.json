@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6aa1d86f9d3264778166bc75",
+  "apple_collection_id": "1755963354",
+  "show": "AI可可AI生活",
+  "titel": "[人人能懂AI前沿] 内部辩论、传承超越和“笨”办法",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aa1d86f9d3264778166bc75/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lp0ydufHaCrIvsLsZNRjTbBSSO36.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:15:19+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI最新研究成果、内部辩论机制以及基准测试与实际体验的差距",
+  "kurzfassung": "本期节目探讨了人工智能领域的最新论文与技术进展。主要内容包括AI内部各层之间的自我修正机制以及师傅带徒弟般的泛化能力。同时分析了新闻中的跑分冠军与用户实际使用的聊天机器人之间的差异。",
+  "stichpunkte": [
+    "AI模型内部的自我否定与工作方式",
+    "旧经验如何为新技术提供导航",
+    "用户实际使用的AI与新闻中跑分冠军的区别",
+    "精简训练过程对模型学习效果的影响",
+    "复杂问题求解中采用的特定引导方法"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:15:19+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1523,
+  "veroeffentlicht": "2026-09-09T23:36:33+00:00",
+  "beschreibung": "想知道AI的“大脑”里，是不是真的在上演一场场激烈的内部辩论？为什么有时候教它，掐头去尾、只给起点和终点，反而能让它学得更快？而面对超级难题，又是怎样一个“笨办法”在引导它一步步走向正确答案？本期节目，我们将深入几篇最新论文，聊聊AI“师傅”如何带出超越自己的“徒弟”，并揭开为什么你手机里的AI和新闻里的跑分冠军，可能是两回事。\n00:00:31 AI的“自我否定”，我们误解了它的工作方式\n00:05:22 老师傅的旧地图，怎么给新车导航？\n00:10:17 你用的AI，和新闻里的AI，是两回事\n00:16:00 为什么掐头去尾，反而教得更好？\n00:19:50 为什么聪明的AI，也需要一个笨办法？\n本期介绍的几篇论文：\n[CL] LLM Layers Immediately Correct Each Other\n[UC Berkeley]\nhttps://arxiv.org/abs/2609.07876\n---\n[LG] Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation\n[KAIST AI]\nhttps://arxiv.org/abs/2609.08798\n---\n[AI] API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces\n[Stanford University]\nhttps://arxiv.org/abs/2609.08861\n---\n[CL] Revisiting Complete Reasoning Traces for Post-Training\n[NAVER AI Lab]\nhttps://arxiv.org/abs/2609.07103\n---\n[LG] Long-Horizon Language Model Reinforcement Learning via Progressive Point Matching\n[UC Berkeley]\nhttps://arxiv.org/abs/2609.07303\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>想知道AI的“大脑”里，是不是真的在上演一场场激烈的内部辩论？为什么有时候教它，掐头去尾、只给起点和终点，反而能让它学得更快？而面对超级难题，又是怎样一个“笨办法”在引导它一步步走向正确答案？本期节目，我们将深入几篇最新论文，聊聊AI“师傅”如何带出超越自己的“徒弟”，并揭开为什么你手机里的AI和新闻里的跑分冠军，可能是两回事。</p><p><a class=\"timestamp\">00:00:31</a> AI的“自我否定”，我们误解了它的工作方式</p><p><a class=\"timestamp\">00:05:22</a> 老师傅的旧地图，怎么给新车导航？</p><p><a class=\"timestamp\">00:10:17</a> 你用的AI，和新闻里的AI，是两回事</p><p><a class=\"timestamp\">00:16:00</a> 为什么掐头去尾，反而教得更好？</p><p><a class=\"timestamp\">00:19:50</a> 为什么聪明的AI，也需要一个笨办法？</p><p>本期介绍的几篇论文：</p><p>[CL] LLM Layers Immediately Correct Each Other</p><p>[UC Berkeley]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.07876\">https://arxiv.org/abs/2609.07876</a> </p><p>---</p><p>[LG] Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation</p><p>[KAIST AI]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.08798\">https://arxiv.org/abs/2609.08798</a> </p><p>---</p><p>[AI] API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces</p><p>[Stanford University]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.08861\">https://arxiv.org/abs/2609.08861</a> </p><p>---</p><p>[CL] Revisiting Complete Reasoning Traces for Post-Training</p><p>[NAVER AI Lab]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.07103\">https://arxiv.org/abs/2609.07103</a> </p><p>---</p><p>[LG] Long-Horizon Language Model Reinforcement Learning via Progressive Point Matching</p><p>[UC Berkeley]</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://arxiv.org/abs/2609.07303\">https://arxiv.org/abs/2609.07303</a> </p><p></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6aa1d86f9d3264778166bc75?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FqWpK8fpivLboaqBbRHUe_BCOvxu.png"
+}

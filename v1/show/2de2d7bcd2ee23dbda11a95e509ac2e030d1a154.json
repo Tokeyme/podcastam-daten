@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "动了嘛您内｜体育运动",
   "apple_collection_id": "1738176703",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "66fe7f3881cdab3a93a07467",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "对话波士顿剑馆主理人乔教练，聊击剑生涯、赴美创业与飞盘社群"
+    },
+    {
+      "guid": "66679f9263c334a2fb9ed3fe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65dea5544dc1840bc9ab7ea0/66679f9263c334a2fb9ed3fe/media.xyzcdn.net/ltkFZi2-CxCkY_zBz1Cw_3cxw4Xc.m4a",
+      "pfad": "/v1/episode/ea764e7f0d74e8bde474cc9c9e90776d3c5265a5.json",
+      "titel": "动了嘛您内 vol.06｜Fan Ding & Simon Gao; 中国学生运动员的体育生涯",
+      "veroeffentlicht": "2024-06-15T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话前CUBA球员Fan Ding与Simon Gao，探讨中国学生运动员的体育生涯与发展。"
+    },
+    {
+      "guid": "663c6e8c01fd55b0089ff01e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65dea5544dc1840bc9ab7ea0/663c6e8c01fd55b0089ff01e/media.xyzcdn.net/lsEpJMlK0JHk-TAF9heTrsIVUN_G.m4a",
+      "pfad": "/v1/episode/31df514f56bafac7e60c04ab411c0ab8760659b9.json",
+      "titel": "动了嘛您内 vol.05｜和NBA状元做同学的Ryan: 因为喜欢耐克，误打误撞开启了体育公关生涯",
+      "veroeffentlicht": "2024-05-11T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话体育公关人Ryan，分享行业经历与品牌合作日常。"
+    },
+    {
+      "guid": "6618b03448c40e2fb0d23d91",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65dea5544dc1840bc9ab7ea0/6618b03448c40e2fb0d23d91/media.xyzcdn.net/liib3IAmfh-1YYHKeZaTRSkgO5B5.m4a",
+      "pfad": "/v1/episode/4dc2f597240603f74e2e81f4ef1bae096833c337.json",
+      "titel": "动了嘛您内 vol.04｜铁人Harry Li: 铁人有三项，生活可以百项",
+      "veroeffentlicht": "2024-04-17T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话铁人Harry Li，聊聊铁人三项运动与多元生活方式。"
+    },
+    {
+      "guid": "660505bd1519139e4f180647",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65dea5544dc1840bc9ab7ea0/660505bd1519139e4f180647/media.xyzcdn.net/lhOVt7TqLu6Hm2WmZLLcB9ypT2fN.m4a",
+      "pfad": "/v1/episode/e2f5ad20fa5c79900f59b503c33066744334e544.json",
+      "titel": "动了嘛您内 vol.03｜非专业体育生PP ZHANG：我的篮球生涯和不完美偶像",
+      "veroeffentlicht": "2024-04-03T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "非专业体育生PP ZHANG聊篮球生涯与偶像"
+    },
+    {
+      "guid": "65f2a7d5696bd9a87923ab01",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65dea5544dc1840bc9ab7ea0/65f2a7d5696bd9a87923ab01/media.xyzcdn.net/lpyWdXERErg92PFWjLh33R_aG56Z.m4a",
+      "pfad": "/v1/episode/63e70c43d970dffbdc57ad49e7fcdb5c830ca979.json",
+      "titel": "动了嘛您内 vol.02｜不玩泥巴玩体育，小众才是我的潮流",
+      "veroeffentlicht": "2024-03-21T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨美式橄榄球与CrossFit等小众运动的魅力与社群。"
+    },
+    {
+      "guid": "65e59bfd4525864db9fab759",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65dea5544dc1840bc9ab7ea0/65e59bfd4525864db9fab759/media.xyzcdn.net/ltYJzGEG_e4UJ5IIVc98gTsJk-Wm.m4a",
+      "pfad": "/v1/episode/7ce5b33a81d98a513438bcff22a9ab8768fde0ba.json",
+      "titel": "动了嘛您内 vol.01｜舞蹈特长生焦蕊：活在自己舒适的人生节奏里",
+      "veroeffentlicht": "2024-03-06T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话舞蹈特长生焦蕊，聊聊她的运动与人生节奏。"
     }
   ]
 }

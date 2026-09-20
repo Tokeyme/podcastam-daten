@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "得体广播站",
   "apple_collection_id": "1845527581",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6aa81e5c9d326477816922cc",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "几位脱口秀演员和嘉宾齐聚一堂，围绕各自奇葩的饮食、高中回忆与生活习惯展开畅聊。"
+    },
+    {
+      "guid": "6a9f7a82f03e74ee6b06d2bb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a9f7a82f03e74ee6b06d2bb/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/loHr9ZGLhX95VuXd2Nbu_54uSHpD.m4a",
+      "pfad": "/v1/episode/f32a6f145f1a4e7a8c1815a8762d3074ebf1503e.json",
+      "titel": "Ep49.只能蹭一下，不能多蹭！",
+      "veroeffentlicht": "2026-09-08T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨各种“蹭”的现象，分享比赛选手与嘉宾的生活经历。"
+    },
+    {
+      "guid": "6a95cd80a0210c197dcb46ee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a95cd80a0210c197dcb46ee/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/luNHuKdA-aLCnw4AKE0mOTs8AiY_.m4a",
+      "pfad": "/v1/episode/6648f0ff7864f9e3b54c7e57b336a9c4efdbf922.json",
+      "titel": "Ep48.怀旧！",
+      "veroeffentlicht": "2026-09-01T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ep48：主播们的怀旧闲聊与近况分享"
+    },
+    {
+      "guid": "6a8c8b981352af56ff3b67d8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a8c8b981352af56ff3b67d8/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lmiWOhvK2xZAbmAhFScAcymCEq_P.m4a",
+      "pfad": "/v1/episode/a0c04c17c2aca41cde82f1fd3a83dfde1d75cf33.json",
+      "titel": "Ep47.体质是老头，心智是小孩！",
+      "veroeffentlicht": "2026-08-25T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨主播与嘉宾们的身体状况"
+    },
+    {
+      "guid": "6a833b618156bf336219d7a9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a833b618156bf336219d7a9/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/ljQvd-ae9h5nc9v61hgJSS4WKozw.m4a",
+      "pfad": "/v1/episode/8b2b60d8a6b7f7dad22df1d53d090141580a7821.json",
+      "titel": "Ep46.冲！冲！冲！",
+      "veroeffentlicht": "2026-08-18T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "主播们和嘉宾一起聊聊冲动的话题。"
+    },
+    {
+      "guid": "6a7a0c0b36641f136d862e74",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a7a0c0b36641f136d862e74/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lgmZfqifv3N49e-e2okXDGpzHg89.m4a",
+      "pfad": "/v1/episode/9c31413166c95e9980240550ec54c156c496ae60.json",
+      "titel": "Ep45.我是一只无法压抑的自由小鸟",
+      "veroeffentlicht": "2026-08-11T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨自由与压抑的主题，并延伸分享各位主播与朋友们的感情经历和故事。"
+    },
+    {
+      "guid": "6a715f35ab3a91c24a0f6f54",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a715f35ab3a91c24a0f6f54/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lvnmcT8KupO5EM_fRvd4S5RrevZl.m4a",
+      "pfad": "/v1/episode/1a88ffd64689b8d263a1b23c9a98f7f52177674b.json",
+      "titel": "Ep44.你的癖好我的癖好，好像不一样！",
+      "veroeffentlicht": "2026-08-04T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ep44.你的癖好我的癖好，好像不一样！"
+    },
+    {
+      "guid": "6a662fb66356eb2d9be8c43a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a662fb66356eb2d9be8c43a/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lhvxMzJwiThCOBs_IYRA9hgqek4s.m4a",
+      "pfad": "/v1/episode/926f42a4de91efe1232817a35bd1cbb12cf8f0be.json",
+      "titel": "Ep43.我是一个农村人，每天最爱玩抖音",
+      "veroeffentlicht": "2026-07-28T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨城市生活与个人经历"
+    },
+    {
+      "guid": "6a5e415d6356eb2d9be5a6f6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a5e415d6356eb2d9be5a6f6/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lqt5d5ejcYGpc5-NwfgVibdJDAGT.m4a",
+      "pfad": "/v1/episode/d30cd1a59849900b9ee4aa981914215763570dd4.json",
+      "titel": "Ep42.我闪躲，我回避，实在不行就放弃！",
+      "veroeffentlicht": "2026-07-21T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨回避型人格与日常生活中的回避行为"
+    },
+    {
+      "guid": "6a54c98cca0de6c44ae66da7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6a54c98cca0de6c44ae66da7/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lrkz2ynKVzIPPkfKLZnoP0Po_eFv.m4a",
+      "pfad": "/v1/episode/629831a5fa43f25f29d1a5a3a8e69170e9568759.json",
+      "titel": "Ep41.你装傻，我真傻！",
+      "veroeffentlicht": "2026-07-14T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊装傻的那些事儿"
     }
   ]
 }

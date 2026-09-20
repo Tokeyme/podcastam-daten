@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "10分钟听一本好书",
   "apple_collection_id": "1896813793",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1003733639",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨如何通过理解并调节体内的六种核心激素来管理情绪和寻找幸福。"
+    },
+    {
+      "guid": "xmly_track_1001328166",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOL13eAIGFfgS4EH4T.m4a?channel=rss&album_id=99099855&track_id=1001328166&uid=550889739&jt=https://aod.cos.tx.xmcdn.com/storages/3b5f-audiofreehighqps/5D/95/GKwRIUEOL13eAIGFfgS4EH4T.m4a",
+      "pfad": "/v1/episode/08b96fa9a993f0d759287c7b1d6d90c5fbde18ba.json",
+      "titel": "《中年危机》\"35岁就被淘汰\"\"40岁活成了自己讨厌的样子\"",
+      "veroeffentlicht": "2026-07-17T03:00:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨社交媒体上热议的中年危机与虚无感。"
+    },
+    {
+      "guid": "xmly_track_1001135913",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OLme2AHYZ1wS3oyDq.m4a?channel=rss&album_id=99099855&track_id=1001135913&uid=550889739&jt=https://aod.cos.tx.xmcdn.com/storages/1cf5-audiofreehighqps/2F/71/GKwRIW4OLme2AHYZ1wS3oyDq.m4a",
+      "pfad": "/v1/episode/029ef52993e109ef716dab559de86e8fc636c77c.json",
+      "titel": "《早安，怪物》性格缺陷其实是你的救命盔甲",
+      "veroeffentlicht": "2026-07-16T09:29:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨性格缺陷的成因及其作为早期心理防御机制的作用"
     }
   ]
 }

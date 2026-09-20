@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "扩博智聊 | 有AI味道的访谈节目",
   "apple_collection_id": "1635907477",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_918653265",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "癌症患者如何通过开源AI社区自救？本期节目探讨小X宝项目的诞生。"
+    },
+    {
+      "guid": "xmly_track_885473653",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasMRajYACAAAAPe_XKs.mp3.m4a?channel=rss&album_id=58531642&track_id=885473653&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/8fa3-audiofreehighqps/E2/F2/GKwRIasMRajYACAAAAPe_XKs.mp3",
+      "pfad": "/v1/episode/572d7cbab47ff5eaede6a59afb97fdb8b19f514f.json",
+      "titel": "70. 数据大国博弈 | Tiktok到底动了谁的奶酪？",
+      "veroeffentlicht": "2025-07-10T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨数据治理概念、跨境政策及大国博弈背景下的企业出海风险。"
+    },
+    {
+      "guid": "xmly_track_848249293",
+      "audio_url": "https://jt.ximalaya.com//GAqh9sAL8UFAACAAAAOpI0xV.mp3.m4a?channel=rss&album_id=58531642&track_id=848249293&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/9fa2-audiofreehighqps/6C/91/GAqh9sAL8UFAACAAAAOpI0xV.mp3",
+      "pfad": "/v1/episode/836f8bc1c5fb2e5814525965e3477be54aa6fcd3.json",
+      "titel": "69. AI伦理 | 语音克隆诈骗狂潮：你妈来电可能是AI？",
+      "veroeffentlicht": "2025-05-08T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI伦理与语音克隆诈骗狂潮"
+    },
+    {
+      "guid": "xmly_track_805256354",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUELhEzzACAAAANmchMF.mp3.m4a?channel=rss&album_id=58531642&track_id=805256354&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/2605-audiofreehighqps/20/1D/GKwRIUELhEzzACAAAANmchMF.mp3",
+      "pfad": "/v1/episode/8c1b9d7ae7135a008a5186f6857349960756ad11.json",
+      "titel": "68. 全球开发者市场 | 文科女如何学会跟理工男交朋友？",
+      "veroeffentlicht": "2025-02-13T23:31:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨全球开发者市场与文科生如何与理工男相处"
+    },
+    {
+      "guid": "xmly_track_796607558",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMALX21tACAAAANWa6Fb.mp3.m4a?channel=rss&album_id=58531642&track_id=796607558&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/b54c-audiofreehighqps/6E/BF/GKwRIMALX21tACAAAANWa6Fb.mp3",
+      "pfad": "/v1/episode/30f3a742624075c1fd6df97c51acc9044e6f82c0.json",
+      "titel": "快聊 | 2025年新春祝福+小小的一件宣布",
+      "veroeffentlicht": "2025-01-16T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨做播客三年的感悟与未来期望。"
+    },
+    {
+      "guid": "xmly_track_789837640",
+      "audio_url": "https://jt.ximalaya.com//GAqh1QQLTG-0ACAAAANLXkBM.mp3.m4a?channel=rss&album_id=58531642&track_id=789837640&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/c373-audiofreehighqps/14/0C/GAqh1QQLTG-0ACAAAANLXkBM.mp3",
+      "pfad": "/v1/episode/5302a56de6de4cb7972c0607f3873f1c79193da5.json",
+      "titel": "67. AI x 金融科技 | 不要因为有大模型就忽视一句正则表达式能解决的问题",
+      "veroeffentlicht": "2025-01-03T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI大模型在金融科技中的应用及传统算法的价值"
+    },
+    {
+      "guid": "xmly_track_785357468",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasLODBSACAAAANCtdrW.mp3.m4a?channel=rss&album_id=58531642&track_id=785357468&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/bffa-audiofreehighqps/9E/BB/GKwRIasLODBSACAAAANCtdrW.mp3",
+      "pfad": "/v1/episode/63c66395f12f19d8f04d775c3e7dd8ab3278049f.json",
+      "titel": "66. AI x 医疗数据 | AI诊断的两难困境：医生害怕还是期待？",
+      "veroeffentlicht": "2024-12-19T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨人工智能在医疗数据、大语言模型及柔性电子等领域的应用"
+    },
+    {
+      "guid": "xmly_track_781223230",
+      "audio_url": "https://jt.ximalaya.com//GAqh9sALJs2PACAAAAM7Ea65.mp3.m4a?channel=rss&album_id=58531642&track_id=781223230&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/70d0-audiofreehighqps/99/12/GAqh9sALJs2PACAAAAM7Ea65.mp3",
+      "pfad": "/v1/episode/dea20878bd4256bc4e42f30ad2aeb2d50f32fe4a.json",
+      "titel": "65. AI x 法律科技 | 探索数据工程为律师带来的效率革命",
+      "veroeffentlicht": "2024-12-05T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨数据工程在法律科技领域的应用与效率革命"
+    },
+    {
+      "guid": "xmly_track_776950694",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoLFbGLACAAAAMzkV_N.mp3.m4a?channel=rss&album_id=58531642&track_id=776950694&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/dcda-audiofreehighqps/57/FC/GKwRIDoLFbGLACAAAAMzkV_N.mp3",
+      "pfad": "/v1/episode/35427ec26d1f38f8bacea2657789c0121c37903f.json",
+      "titel": "64. AI x 信息检索 | 高校里的RAG、索引词优化等前沿技术",
+      "veroeffentlicht": "2024-11-22T02:35:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨高校中的RAG、索引词优化与信息检索前沿技术。"
+    },
+    {
+      "guid": "xmly_track_772547984",
+      "audio_url": "https://jt.ximalaya.com//GAqhig8LApjwACAAAAMrjUn2.mp3.m4a?channel=rss&album_id=58531642&track_id=772547984&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/bfe7-audiofreehighqps/98/21/GAqhig8LApjwACAAAAMrjUn2.mp3",
+      "pfad": "/v1/episode/410523aa83717e330d2b07e08655b9dceff88dc0.json",
+      "titel": "63. AI x 商业智能体 | 造物主、碳基生命、硅基智慧与玄学",
+      "veroeffentlicht": "2024-11-07T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI与商业智能体的结合及可持续商业模式的发展"
     }
   ]
 }

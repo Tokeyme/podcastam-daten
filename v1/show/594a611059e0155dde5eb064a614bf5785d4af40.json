@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "对牛谈勤",
   "apple_collection_id": "1723937910",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "699c4caf66e2c303771eadfb",
@@ -13,6 +13,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "跑者们回顾2025年赛事与训练感悟，展望2026年新目标。"
+    },
+    {
+      "guid": "690f18b7d99642be960daef3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/690f18b7d99642be960daef3/media.xyzcdn.net/656ffe78cd87c8940b1622d8/ll7Np08phF7s3VyjPe-WwMLnJEsH.m4a",
+      "pfad": "/v1/episode/4e17182df57e22d8b2d4a82cb72c29f97a65236b.json",
+      "titel": "单口20期丨天津马拉松复盘——Decision",
+      "veroeffentlicht": "2025-11-08T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "天津马拉松复盘与天津美食分享"
+    },
+    {
+      "guid": "681abd29db57cd35f7e5ecc0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/681abd29db57cd35f7e5ecc0/media.xyzcdn.net/656ffe78cd87c8940b1622d8/luclNgdWAvmODzxWr7GbOK0ghuYh.m4a",
+      "pfad": "/v1/episode/30fc924c0a040941ac936136103184d91a879b39.json",
+      "titel": "闲聊20期丨在伤病的陪伴下王者归来",
+      "veroeffentlicht": "2025-05-07T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "跑者Simon分享一年内从跟腱炎伤病到半马跑进1小时19分的经历。"
+    },
+    {
+      "guid": "67e3b341af5840b3336ae127",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/67e3b341af5840b3336ae127/media.xyzcdn.net/656ffe78cd87c8940b1622d8/lkqlfmDICK9CCMoo0dDsPbr9gcDf.m4a",
+      "pfad": "/v1/episode/3725aa5cf77d40fd713a0c2429f48bd957c4255e.json",
+      "titel": "单口19期丨2025苏河半马复盘",
+      "veroeffentlicht": "2025-03-26T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "苏河半马赛事复盘与近期生活分享"
+    },
+    {
+      "guid": "67594b8b17cd5416ad3a39db",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/67594b8b17cd5416ad3a39db/media.xyzcdn.net/lk8l_cksBx12Dax08IsotvdPC3BK.m4a",
+      "pfad": "/v1/episode/47e799d38ab2ced3eb0cf7980324c34cb7872ebb.json",
+      "titel": "单口18期丨2024赛季收官，个人复盘（下）",
+      "veroeffentlicht": "2024-12-16T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2024赛季上海马拉松的完整参赛经历。"
+    },
+    {
+      "guid": "66f4d3f669b6a485e801a254",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/66f4d3f669b6a485e801a254/media.xyzcdn.net/ljm-2RmHAER-44lgEP_FvIB_ZLEO.m4a",
+      "pfad": "/v1/episode/fb80e5bcb6ac0ea5be018ef3337e494130495248.json",
+      "titel": "闲聊17期丨陪伴是最长情的告白",
+      "veroeffentlicht": "2024-09-26T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨跑步时听什么以及相关音频选择"
+    },
+    {
+      "guid": "66dab02dbfd7110df4af1734",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/66dab02dbfd7110df4af1734/media.xyzcdn.net/lhvFCVFCFKNMeWa3cCQlB6hHzkds.m4a",
+      "pfad": "/v1/episode/f0931674043647c13ba47449d4f509917010b68e.json",
+      "titel": "闲聊16期丨单口相声也不是不可以",
+      "veroeffentlicht": "2024-09-06T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "跑步播客单口更新，聊聊近况、跑姿与下半年计划。"
+    },
+    {
+      "guid": "6668f4b2c26e396a361d3265",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/6668f4b2c26e396a361d3265/media.xyzcdn.net/lkNuFY9rJaM8EZR3mE8Wgz00cLPM.m4a",
+      "pfad": "/v1/episode/05f25313d3fc696fb7dfe137e8878f96b21caffd.json",
+      "titel": "闲聊15期丨欢迎收听天下足球英超版",
+      "veroeffentlicht": "2024-06-13T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "几位跑步爱好者边吃边聊足球，分享对英超球队和赛季的看法。"
+    },
+    {
+      "guid": "664ef5dfc59d1e57572741d5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/656ffe78cd87c8940b1622d8/664ef5dfc59d1e57572741d5/media.xyzcdn.net/lg_mIPDRVqbx_lg86Jt0b6RQpY7v.m4a",
+      "pfad": "/v1/episode/e2979e8011af9f1b9e8499947129fb1cb38a58f5.json",
+      "titel": "闲聊14期丨两个装备党的上半年盘点",
+      "veroeffentlicht": "2024-05-27T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两个装备党盘点上半年的跑步好物与消费避坑。"
     }
   ]
 }

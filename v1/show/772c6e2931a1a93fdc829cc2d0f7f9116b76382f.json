@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "三个电影--从电影看人生",
   "apple_collection_id": "6790628851",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1012617332",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwOdTISAbHVAQTTlwwP.m4a?channel=rss&album_id=118672799&track_id=1012617332&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/b191-audiofreehighqps/7A/07/GKwRIRwOdTISAbHVAQTTlwwP.m4a",
+      "pfad": "/v1/episode/a69418c919aba6470d4134830e2ce82261243613.json",
+      "titel": "《菜肉馄饨》---在期待活得久的时候，有想过怎么面对变老这件事么？",
+      "veroeffentlicht": "2026-09-08T02:10:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨在追求长寿的同时，我们是否准备好面对变老与独处的生活。"
+    },
+    {
+      "guid": "xmly_track_1008734205",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoOZHIGAf-VTATM3TjG.m4a?channel=rss&album_id=118672799&track_id=1008734205&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/be7f-audiofreehighqps/02/AB/GKwRIDoOZHIGAf-VTATM3TjG.m4a",
+      "pfad": "/v1/episode/25a8939d407ba31ced21d6e1785c3e1613f7c992.json",
+      "titel": "《爆裂鼓手》--为什么我们总把痛苦误认为成长，高估了痛苦的意义？",
+      "veroeffentlicht": "2026-08-26T09:14:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《爆裂鼓手》中的痛苦与成长边界"
+    },
     {
       "guid": "xmly_track_1007123578",
       "audio_url": "https://jt.ximalaya.com//GKwRIaIOWin5AfO3oATIpuXp.m4a?channel=rss&album_id=118672799&track_id=1007123578&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/7337-audiofreehighqps/C2/E1/GKwRIaIOWin5AfO3oATIpuXp.m4a",
@@ -13,6 +33,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "借诺兰电影聊《奥德赛》与人性弱点"
+    },
+    {
+      "guid": "xmly_track_1001209018",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIOLrX5AvDgtQS31SSE.m4a?channel=rss&album_id=118672799&track_id=1001209018&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/36ad-audiofreehighqps/33/53/GKwRIJIOLrX5AvDgtQS31SSE.m4a",
+      "pfad": "/v1/episode/a8db36c166158fc03efa6ac3f8f1c95301c29718.json",
+      "titel": "《驴得水》---女孩们，别只看一个男人爱你时的样子。",
+      "veroeffentlicht": "2026-07-16T15:00:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《驴得水》中女性在亲密关系中的观察与思考。"
+    },
+    {
+      "guid": "xmly_track_1000612056",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAOK13WAcUeYAS2PnYT.m4a?channel=rss&album_id=118672799&track_id=1000612056&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/c70b-audiofreehighqps/8F/D0/GKwRIMAOK13WAcUeYAS2PnYT.m4a",
+      "pfad": "/v1/episode/3729cd321f3c711c0878dfd8600ad1a96ec73eea.json",
+      "titel": "《一出好戏》---不要轻易考验人性，人性不是答案，是结果。",
+      "veroeffentlicht": "2026-07-14T02:09:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《一出好戏》中荒岛社会的秩序重建与人性变化。"
+    },
+    {
+      "guid": "xmly_track_993503458",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIOF8_YAQOyYwSu3eUW.m4a?channel=rss&album_id=118672799&track_id=993503458&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/2313-audiofreehighqps/FF/FE/GKwRIaIOF8_YAQOyYwSu3eUW.m4a",
+      "pfad": "/v1/episode/e36145adb9141128dc18b9fb706a8f178655a32a.json",
+      "titel": "《蒙特利尔，我的美人》：人到中年，重养自己要付出什么代价？",
+      "veroeffentlicht": "2026-06-29T06:11:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中年女性在移民生活与婚姻中的自我觉醒与重塑"
+    },
+    {
+      "guid": "xmly_track_992146911",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIODl9pARbCfASr2QZz.m4a?channel=rss&album_id=118672799&track_id=992146911&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/f314-audiofreehighqps/C4/90/GKwRIaIODl9pARbCfASr2QZz.m4a",
+      "pfad": "/v1/episode/733d704fb17f66e7d094841ab3d1b7ffc6311a50.json",
+      "titel": "《老人与海》---人可以空手而归，但不能空心而归",
+      "veroeffentlicht": "2026-06-22T02:21:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《老人与海》中关于坚持与面对无结果困境的意义。"
+    },
+    {
+      "guid": "xmly_track_989971800",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwN_zz2ASHO6wSmoC0z.m4a?channel=rss&album_id=118672799&track_id=989971800&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/2753-audiofreehighqps/6E/CE/GKwRIRwN_zz2ASHO6wSmoC0z.m4a",
+      "pfad": "/v1/episode/33e84a32aabd052ce007bc0419285d005b74f032.json",
+      "titel": "《傲慢与偏见》--是误会导致傲慢，还是傲慢引来误会？",
+      "veroeffentlicht": "2026-06-10T14:50:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2005年电影版《傲慢与偏见》及自尊对亲密关系的影响。"
+    },
+    {
+      "guid": "xmly_track_983229309",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEN_JeAASP7cwSlRmq0.m4a?channel=rss&album_id=118672799&track_id=983229309&uid=6201785&jt=https://aod.cos.tx.xmcdn.com/storages/0a20-audiofreehighqps/DD/82/GKwRIJEN_JeAASP7cwSlRmq0.m4a",
+      "pfad": "/v1/episode/6591cd06b73c49469e76a5d20219f6ad137ec906.json",
+      "titel": "《完美的日子》--有一种被严重低估的能力，叫独处",
+      "veroeffentlicht": "2026-06-08T14:39:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《完美的日子》与独处的能力"
     }
   ]
 }

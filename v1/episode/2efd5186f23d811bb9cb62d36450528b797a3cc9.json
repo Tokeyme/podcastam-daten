@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "6a8dc732ef65145dfcc55604",
+  "apple_collection_id": "1886060145",
+  "show": "旺财财经（粤语）",
+  "titel": "粤语｜别买！从历史周期看，这次 AI 引发的存储暴涨有何不同？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a8dc732ef65145dfcc55604/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lmDDQp5ZjdY3xFSgkxK4R4mzpPaa.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T09:34:42+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "剖析历史周期，探讨由人工智能引发的存储芯片价格暴涨现象。",
+  "kurzfassung": "本期节目深入半导体供应链底层，拆解从过去洪水到如今人工智能浪潮的存储周期逻辑。探讨微软和英伟达等科技巨头如何影响晶圆产能以及上游原厂重构硬件价格。同时关注消费者应对高昂硬件成本的策略以及投资者的应对方式。",
+  "stichpunkte": [
+    "内存与固态硬盘价格反常暴涨的现象分析",
+    "从 2011 年泰国洪水到人工智能浪潮的存储周期逻辑",
+    "科技巨头通过 HBM 对晶圆产能的影响",
+    "上游原厂重构硬件价格的规则",
+    "消费者面对高硬件成本的应对策略",
+    "投资者在周期见顶前的操作考量"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:34:42+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1155,
+  "veroeffentlicht": "2026-08-25T18:35:27+00:00",
+  "beschreibung": "为什么原本应该越来越便宜的内存和固态硬盘，最近又经历了一轮反常暴涨？\n本期节目，我们将深入半导体供应链底层，拆解从 2011 泰国洪水到如今 AI 浪潮的存储周期逻辑。\n看看微软、英伟达等科技巨头如何通过 HBM 挤爆晶圆产能，上游原厂如何用“以一顶三”的规则重构硬件价格。\n面对高企的硬件成本，消费者该如何当好“等等党”？\n投资者又该如何在周期见顶前落袋为安？​\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>为什么原本应该越来越便宜的内存和固态硬盘，最近又经历了一轮反常暴涨？</p><p>本期节目，我们将深入半导体供应链底层，拆解从 2011 泰国洪水到如今 AI 浪潮的存储周期逻辑。</p><p>看看微软、英伟达等科技巨头如何通过 HBM 挤爆晶圆产能，上游原厂如何用“以一顶三”的规则重构硬件价格。</p><p>面对高企的硬件成本，消费者该如何当好“等等党”？</p><p>投资者又该如何在周期见顶前落袋为安？​</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8dc732ef65145dfcc55604?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fhj4Ojh1wchxe02gYpsL6PxRX6tb.jpg"
+}

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "付少的读书圈",
   "apple_collection_id": "1776850152",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6a9cd8f8a0210c197dce1fd6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a9cd8f8a0210c197dce1fd6/media.xyzcdn.net/62c58fc358b1ee616a26be0a/ls8XCfECmsX51nk6KrbLKsHghAYU.m4a",
+      "pfad": "/v1/episode/6e6e9e8e1b9b9e7ad005462f724506decbcea309.json",
+      "titel": "67.《光伏战争》：你的电费单里，藏着一场中国赢下的战争",
+      "veroeffentlicht": "2026-09-06T03:16:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国光伏产业的发展历程、技术路线之争以及未来面临的挑战"
+    },
     {
       "guid": "6a82c8535aeb2a5712e8143d",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a82c8535aeb2a5712e8143d/media.xyzcdn.net/62c58fc358b1ee616a26be0a/lvxQAqLrLRn3l8Qi-32m9JdEAmPi.m4a",
@@ -13,6 +23,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨《康熙的红票》与清朝闭关锁国、传教士及皇权政治的多元历史。"
+    },
+    {
+      "guid": "6a65843f6356eb2d9be871bd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a65843f6356eb2d9be871bd/media.xyzcdn.net/62c58fc358b1ee616a26be0a/ltfKSFQ6sWJ6B8w0Ox5gpnOxy9TN.m4a",
+      "pfad": "/v1/episode/b46de288c06eae1a47dfdd86d99ad6ea540b6cf4.json",
+      "titel": "65.《马斯克：重回太空》：商业航天史诗与马斯克的疯狂人生",
+      "veroeffentlicht": "2026-07-26T04:02:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨埃隆·马斯克的商业航天史诗与疯狂人生。"
+    },
+    {
+      "guid": "6a40adb89d2f5743683ef867",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a40adb89d2f5743683ef867/media.xyzcdn.net/62c58fc358b1ee616a26be0a/liYEoCL2oewS5DtDdgO7YSybUnOa.m4a",
+      "pfad": "/v1/episode/1a4d6600dc790df8691fa2e8ad525b856960a798.json",
+      "titel": "64.《芯片战争》：世界最关键技术的争夺战",
+      "veroeffentlicht": "2026-06-28T05:30:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《芯片战争》一书涉及的半导体技术争夺与地缘政治。"
+    },
+    {
+      "guid": "6a3536604233e62bc54c6f07",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a3536604233e62bc54c6f07/media.xyzcdn.net/62c58fc358b1ee616a26be0a/lhMXcT71tMfdYXh8gS3Gb-tzJe28.m4a",
+      "pfad": "/v1/episode/5af35c791e8aa61869f44d062e37de0c4f81d10b.json",
+      "titel": "63.《哈萨比斯：谷歌AI之脑》：一个想读懂上帝心智的天才故事",
+      "veroeffentlicht": "2026-06-19T12:40:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨DeepMind创始人哈萨比斯的成长、DeepMind的发展与AI的未来"
+    },
+    {
+      "guid": "6a23aee47444b57222343f54",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a23aee47444b57222343f54/media.xyzcdn.net/62c58fc358b1ee616a26be0a/ll7zebBloQda3l7SVAFAtyBhiRYB.m4a",
+      "pfad": "/v1/episode/b8d5f9ae4016c099c4d2f6ab98b855f20810364f.json",
+      "titel": "62：对话王老师，AI内容爆发是否会颠覆高校课堂？",
+      "veroeffentlicht": "2026-06-06T05:32:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI内容爆发对高校课堂、科研及创意工作的影响"
+    },
+    {
+      "guid": "6a09338f1b7bd50295499e5b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/6a09338f1b7bd50295499e5b/media.xyzcdn.net/62c58fc358b1ee616a26be0a/lqO34zNmfjtXOTjt112oxml1tljt.m4a",
+      "pfad": "/v1/episode/1485f990578530bfa2e1dce5d9e1562e52c86f60.json",
+      "titel": "61.《安定此心》：我当精神科医生的12000天",
+      "veroeffentlicht": "2026-05-17T03:29:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "精神科医生眼中的心理疾病与社会观察"
+    },
+    {
+      "guid": "69db1ff2e2c8be3155fa32e7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/69db1ff2e2c8be3155fa32e7/media.xyzcdn.net/62c58fc358b1ee616a26be0a/luSLzXr91OH58DDy3xt0wjvjyLNX.m4a",
+      "pfad": "/v1/episode/c0f41b0714dd636267f9c13bd31cdf3538200b1d.json",
+      "titel": "59.《张一鸣管理日志》：延迟满足感从何而来",
+      "veroeffentlicht": "2026-04-12T04:52:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨张一鸣的管理日志及其对个人成长和移动互联网的启发"
+    },
+    {
+      "guid": "69bf6cd23c625cc5ae852d1a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/69bf6cd23c625cc5ae852d1a/media.xyzcdn.net/62c58fc358b1ee616a26be0a/luG1whNmanJs2WzDN6_lS4Nur_zp.m4a",
+      "pfad": "/v1/episode/4e387489c0409230f6c06beea87a637d890e74d2.json",
+      "titel": "58.《这世界既残酷也温柔》：从一无所有到财富自由",
+      "veroeffentlicht": "2026-03-22T04:28:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孙宇晨新书及财富自由与年轻人的发展"
+    },
+    {
+      "guid": "697ee538b4be4c149b72a517",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62c58fc358b1ee616a26be0a/697ee538b4be4c149b72a517/media.xyzcdn.net/62c58fc358b1ee616a26be0a/lhDf8EDrH-beI1YTL0kWo4LHSzM0.m4a",
+      "pfad": "/v1/episode/d4ff6a45b6c612a2198cb64204f7cea62819f400.json",
+      "titel": "57.《金钱的艺术》：别为你消费的事物感到自豪",
+      "veroeffentlicht": "2026-02-01T05:49:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨金钱的艺术、消费观念以及当代年轻人的债务困境。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "哇呀挖·女性播客",
   "apple_collection_id": "1744787703",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a1d05cfac7bdb080c33fa28",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨亲密关系中的温柔压迫，解析女性如何摆脱习得性无助与精神低血糖。"
+    },
+    {
+      "guid": "69fecd601b7bd50295c879e1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/69fecd601b7bd50295c879e1/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/lqblCYxyRNucWkCtYXORhpgCtPHG.m4a",
+      "pfad": "/v1/episode/86318c3ed32ee8a72d30b37f2dca3e12d1971a32.json",
+      "titel": "VOL.32 「哲学姐妹聊天局」好老公才是最温柔的监狱｜完美关系PK自由底限",
+      "veroeffentlicht": "2026-05-09T06:34:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨亲密关系与职场中的双标、道德绑架及个体的自由底限。"
+    },
+    {
+      "guid": "69de32b7e2c8be315533228c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/69de32b7e2c8be315533228c/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/lo-5JxrJCpEa8YhbgV-B8dun-C_c.m4a",
+      "pfad": "/v1/episode/a171381feb24d7470fe91b065a83f386f48b07ae.json",
+      "titel": "VOL.31「女性力量」1907,她剧透你de2026·领先波伏娃42年de中国女孩·何殷震02",
+      "veroeffentlicht": "2026-04-14T12:38:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻中国女性主义先驱何殷震的思想，解构男权社会的底层逻辑。"
+    },
+    {
+      "guid": "69c22b5f521e5c0a80be9d51",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/69c22b5f521e5c0a80be9d51/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/lnilGXOor1NpQYFE3gtCMl_2TceN.m4a",
+      "pfad": "/v1/episode/9bddaaff95aac21bb8f0bf884aaf5531e2daa823.json",
+      "titel": "VOL.30「女性力量」她是痛文化的鼻祖，被荡妇羞辱毁掉的天才·去哪了？女性困境·01",
+      "veroeffentlicht": "2026-03-24T06:14:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻中国女性主义源头，走近被历史抹去的思想先行者何殷震。"
+    },
+    {
+      "guid": "694e73ab2db086f8971c3e1c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/694e73ab2db086f8971c3e1c/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/lj7u-ZFeUnQX2BBOrRUkSbKk_dHn.m4a",
+      "pfad": "/v1/episode/77f01977c82f67a7a2de22cfc24c452ed5e4dea7.json",
+      "titel": "VOL.29「女性力量」女性如何互救·共谋话语权·亲密关系·秋瑾05",
+      "veroeffentlicht": "2025-12-26T14:02:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨秋瑾与徐自华的交往及女性互助与话语权。"
+    },
+    {
+      "guid": "691eac4fcbba038b4270144e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/691eac4fcbba038b4270144e/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/lr5MhUUedunu4e5TscMzsU5488sK.m4a",
+      "pfad": "/v1/episode/49658560b0be704d1ba296338374036afb67d643.json",
+      "titel": "VOL.28「女性力量」女性互助·自救与重生·亲密关系·秋瑾04",
+      "veroeffentlicht": "2025-11-20T14:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻中国女性主义源头，聚焦秋瑾与女性朋友们的互助、自救与重生。"
+    },
+    {
+      "guid": "68f0730e2265473020c12d95",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/68f0730e2265473020c12d95/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/lsuDzGPs-Hw5BX_0IZCxuOVupLvA.m4a",
+      "pfad": "/v1/episode/3b5035ac400988333060297a782de99d2b649b1e.json",
+      "titel": "VOL.27「女性力量」解药·内耗与虐恋｜密关系困境·秋瑾03",
+      "veroeffentlicht": "2025-10-16T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨秋瑾婚姻破裂的真相与女性觉醒历程"
+    },
+    {
+      "guid": "68d26b01b4befcf7308b7b31",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/68d26b01b4befcf7308b7b31/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/ltWuP8ZTH__UTaMQWq0snyEeeZrX.m4a",
+      "pfad": "/v1/episode/cb08a0aef363a9218ceaccfd743b50b3c0282635.json",
+      "titel": "VOL.26「女性力量」解构·虐恋与婚姻｜亲密关系·秋瑾02",
+      "veroeffentlicht": "2025-09-23T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻秋瑾的虐恋婚姻与亲密关系困境"
+    },
+    {
+      "guid": "68a71bc242cc2798e7bcb636",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/68a71bc242cc2798e7bcb636/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/lkt8nEBQ-Kh2bfS7SFE7Cf1dngkl.m4a",
+      "pfad": "/v1/episode/12f5cd5f41d234ce9810ff852bda376492706f49.json",
+      "titel": "VOL.25 「女性力量」撕碎千年的性别规训·不被定义的少女·秋瑾01",
+      "veroeffentlicht": "2025-08-21T13:19:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻中国女性主义源头，走近不被定义的秋瑾。"
+    },
+    {
+      "guid": "6875c7a060f8f77d408e6776",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6630de30d2da2edcb92ecdc1/6875c7a060f8f77d408e6776/media.xyzcdn.net/6630de30d2da2edcb92ecdc1/liEK-7Ua5rGgtnOVqO1FflfTNiyG.m4a",
+      "pfad": "/v1/episode/110c9ca67aa55b4831d8f04ad564bca93fd5ddf7.json",
+      "titel": "VOL.24「颜值KPI·社死生存」哲学姐妹聊天局",
+      "veroeffentlicht": "2025-07-15T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨外貌审视、两性关系与性别微侵犯的姐妹聊天局"
     }
   ]
 }

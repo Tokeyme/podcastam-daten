@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "698b6e9266e2c30377e3cb4d",
+  "apple_collection_id": "1713297889",
+  "show": "娱乐商业评论",
+  "titel": "53 AI影视创作实战必听：从即梦的更新说起",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64e8736b3fa4090b743df7b4/698b6e9266e2c30377e3cb4d/media.xyzcdn.net/64e8736b3fa4090b743df7b4/lom0Zn0QhfLbRfcvLkRyPRLC6mXv.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:27:45+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI影视创作的实战应用、模型评测与未来趋势",
+  "kurzfassung": "本期节目探讨了AI技术在影视创作中的实际应用。内容涵盖目前主流的AI影视形态与传统工作流的区别，并对市面上的AI生图、生视频、生音乐及文字处理模型进行了评测。最后展望了物理世界模型以及AI对娱乐行业带来的未来想象力。",
+  "stichpunkte": [
+    "目前主流的AI影视创作形态分析",
+    "AI影视创作工作流与传统影视的区别",
+    "主流AI生图与生视频模型的评测",
+    "AI生音乐及文字处理工具的介绍",
+    "物理世界模型与AI对娱乐行业的未来影响"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:27:45+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4035,
+  "veroeffentlicht": "2026-02-10T22:30:00+00:00",
+  "beschreibung": "2月6日，字节跳动的即梦发布了AI生视频模型Seedance的2.0版本，在这个版本中，它成功做到了高品质的运镜、分镜、音画匹配的AI化创作，对光影、镜头语言和透视关系的理解远远超过了市场上的其他任何一个AI生视频模型，可以说这已是AI内容创作领域新的“GPT时刻”。2月9日，我的朋友圈就被影视飓风Tim试用Seedance 2.0的视频刷屏了。说来真的很巧，因为我们在上周末完成本期节目的制作后、原本准备是在2月9号上线的，没想到在这短短的三天内，AI内容创作领域就出现了新的颠覆级模型创新…于是我和本期嘉宾姜老师紧急补录调整了我们的节目内容，过程中我俩也在感叹，本期节目的制作过程真的就是AI内容创作领域当下更新速度的绝佳写照啊！\n说回来节目本身，我希望它可以成为每一位娱乐行业从业者在接触AI内容创作前会想要聆听的一期内容，因为通过这期播客你能够较清晰地理解目前AI影视内容都有哪些内容形态、影视化内容创作的哪些环节目前可以被较好地AI化，同时我们也花了挺久的时间对目前市面上主流的AI生图、AI生视频、AI生音乐、AI处理剧本文字内容的模型们逐一评测，能够用讲人话的方式让你听懂应该在哪个创作方向、选择哪款模型进行深入学习和掌握。最后，我们也聊了聊代表未来迭代方向的物理世界模型以及AI对娱乐行业未来所灌注的全新想象力。\n为了让大家对AI影视创作有更实在的认知，以下也分享本期嘉宾姜来老师的两个AI视频作品：\n1. 在seedance发布当晚姜老师用8小时在即梦里手搓的AI短片《山海再临》\nhttps://www.bilibili.com/video/BV1umFdzZEQ7/?vd_source=331c2d2ee2e26ca4bb26054512ccf03e\n2. 姜老师25年AI影像作品混剪\nhttps://www.bilibili.com/video/BV1umFdzZES9/?vd_source=331c2d2ee2e26ca4bb26054512ccf03e\n以上，愿每一位听到本期节目的听友都能有所收获。春节假期即将到来，大好的放假时光何不用来认真学习一番AI内容创作呢哈哈哈哈！小瑜也在这里给听众朋友们拜年啦！！\n\n04:00 目前主流的AI影视创作形态：\n动漫（AI漫剧、AI动态漫）\n“真人”（AI虚拟偶像/数字人）\n\n08:04 AI影视创作的工作流与传统影视的区别\n14:00 在选择AI创作模型的时候，请直接选择闭源模型\n19:17 AI生图模型评测：\nMidjourney\nNanobanana\n即梦Seedream\n其他：“全真七子”\n\n28:10 AI生视频模型评测：\nSora\nVeo\n海螺\n可灵\nVidu\n重点推介即梦Seedance2.0！！\n\n46:20 AI生音乐、AI文字处理\n51:37 AI影视创作的未来：\n物理世界模型\n影视与游戏的边界将进一步模糊！！\n\n「向世界讲好中国故事」，本节目致力于关注「娱乐」与「商业」的交叉点：\n娱乐：影视剧、游戏、动漫、音乐、乐园、IP…… 关心与内容和娱乐行业有关的一切，相信故事的力量，相信创造触及人心的快乐与感动是世界上最美好的事\n商业：主播小瑜毕业于哈佛商学院，尝试过与娱乐商业相关的种种工作：内娱、好莱坞、游戏、投资…希望通过播客沉淀自己对娱乐行业的所思所想、并且结交更多业内朋友\n\n如果你想近距离了解娱乐行业里的商业故事、对这个行业祛魅，或者你是一个对娱乐行业感兴趣的商科生、或是对商业跃跃欲试的文娱人，欢迎关注并联系我们，与我们一起探索这个行业的更多可能、陪伴中国娱乐行业成长、向世界讲好中国故事。\n如果想与主播微信交流、加入满是娱乐业内人士的听友群，欢迎添加微信号：EBRfans\n如果想获取节目文字稿，请关注微信公众号「Entertainment Business Review」\n如果想看到更多关乎娱乐商业的图文内容，欢迎到小红书找到我：@娱乐商业评论的小瑜\n\n👩🏻💻👩🏻💻\n主播：小瑜\n剪辑：可爱的很\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p><img src=\"https://bts-image.xyzcdn.net/aHR0cHM6Ly9teS5mZWlzaHUuY24vc3BhY2UvYXBpL2JveC9zdHJlYW0vZG93bmxvYWQvYXN5bmNjb2RlLz9jb2RlPVpHVTNNbVZqTmpkbE1UWmhNalE0TkRSaVpUazRPRGMxTVRneVpXSTNPVGRmT0RFM1MwUlpZbGg2WVcxRWVtbDNWVVpRUm01dU5FaGtXRTgwUzJsTGQwbGZWRzlyWlc0NlJYZFBObUl4YUVsbGIwWlNWRXg0VTFadVZXTXdSV055YmpKalh6RTNOekEzTkRBME9UYzZNVGMzTURjME5EQTVOMTlXTkE=\"/></p><p>2月6日，字节跳动的即梦发布了AI生视频模型Seedance的2.0版本，在这个版本中，它成功做到了高品质的运镜、分镜、音画匹配的AI化创作，对光影、镜头语言和透视关系的理解远远超过了市场上的其他任何一个AI生视频模型，可以说这已是AI内容创作领域新的“GPT时刻”。2月9日，我的朋友圈就被影视飓风Tim试用Seedance 2.0的视频刷屏了。说来真的很巧，因为我们在上周末完成本期节目的制作后、原本准备是在2月9号上线的，没想到在这短短的三天内，AI内容创作领域就出现了新的颠覆级模型创新…于是我和本期嘉宾姜老师紧急补录调整了我们的节目内容，过程中我俩也在感叹，本期节目的制作过程真的就是AI内容创作领域当下更新速度的绝佳写照啊！</p><p>说回来节目本身，我希望它可以成为每一位娱乐行业从业者在接触AI内容创作前会想要聆听的一期内容，因为通过这期播客你能够较清晰地理解目前AI影视内容都有哪些内容形态、影视化内容创作的哪些环节目前可以被较好地AI化，同时我们也花了挺久的时间对目前市面上主流的AI生图、AI生视频、AI生音乐、AI处理剧本文字内容的模型们逐一评测，能够用讲人话的方式让你听懂应该在哪个创作方向、选择哪款模型进行深入学习和掌握。最后，我们也聊了聊代表未来迭代方向的物理世界模型以及AI对娱乐行业未来所灌注的全新想象力。</p><p>为了让大家对AI影视创作有更实在的认知，以下也分享本期嘉宾姜来老师的两个AI视频作品：</p><p>1. 在seedance发布当晚姜老师用8小时在即梦里手搓的AI短片《山海再临》</p><p>https://www.bilibili.com/video/BV1umFdzZEQ7/?vd_source=331c2d2ee2e26ca4bb26054512ccf03e</p><p>2. 姜老师25年AI影像作品混剪</p><p>https://www.bilibili.com/video/BV1umFdzZES9/?vd_source=331c2d2ee2e26ca4bb26054512ccf03e</p><p>以上，愿每一位听到本期节目的听友都能有所收获。春节假期即将到来，大好的放假时光何不用来认真学习一番AI内容创作呢哈哈哈哈！小瑜也在这里给听众朋友们拜年啦！！</p><p><img src=\"https://bts-image.xyzcdn.net/aHR0cHM6Ly9teS5mZWlzaHUuY24vc3BhY2UvYXBpL2JveC9zdHJlYW0vZG93bmxvYWQvYXN5bmNjb2RlLz9jb2RlPU9UUXdNemt5TWpGa01qZ3dOVGRoTXpVeFlUUXhNV05qWmpreE1UUTJNek5mY2t0UE1WUXplREZPT0dkTWRtUXlUREJDUlVKaVNHcEpRV2RXU0RaTGJHTmZWRzlyWlc0NlQzQlplV0poZDI1RWIyeHZNR0Y0Vm05Q1JtTnJhV3RqYmxCalh6RTNOekEzTkRBME9UYzZNVGMzTURjME5EQTVOMTlXTkE=\"/></p><p>04:00 目前主流的AI影视创作形态：</p><ul>  <li>动漫（AI漫剧、AI动态漫）</li>  <li>“真人”（AI虚拟偶像/数字人）</li></ul><p>08:04 AI影视创作的工作流与传统影视的区别<br>14:00 在选择AI创作模型的时候，请直接选择闭源模型<br>19:17 AI生图模型评测：</p><ul>  <li>Midjourney</li>  <li>Nanobanana</li>  <li>即梦Seedream</li>  <li>其他：“全真七子”</li></ul><p>28:10 AI生视频模型评测：</p><ul>  <li>Sora</li>  <li>Veo</li>  <li>海螺</li>  <li>可灵</li>  <li>Vidu</li>  <li>重点推介即梦Seedance2.0！！</li></ul><p>46:20 AI生音乐、AI文字处理</p><p>51:37 AI影视创作的未来：</p><ul>  <li>物理世界模型</li>  <li>影视与游戏的边界将进一步模糊！！</li></ul><p><img src=\"https://bts-image.xyzcdn.net/aHR0cHM6Ly9teS5mZWlzaHUuY24vc3BhY2UvYXBpL2JveC9zdHJlYW0vZG93bmxvYWQvYXN5bmNjb2RlLz9jb2RlPU1HWTJZMk14TXprd1lUaGxOalF3T1RBME1qZG1Oalk0WVdKak1tSTBaVFZmYUVoRU1YbG5WSEJQVWxGc2IyNVFUbFZtZEdWdmVtOUtiVWhxU0dFMFJuWmZWRzlyWlc0NlRHOWxiR0k0TWpaM2J6SmpURVY0VjBONGVHTmFTVE5LYms1a1h6RTNOekEzTkRBME9UYzZNVGMzTURjME5EQTVOMTlXTkE=\"/></p><p><strong>「向世界讲好中国故事」</strong>，本节目致力于关注「娱乐」与「商业」的交叉点：</p><ul>  <li><strong>娱乐</strong>：影视剧、游戏、动漫、音乐、乐园、IP…… 关心与内容和娱乐行业有关的一切，相信故事的力量，相信创造触及人心的快乐与感动是世界上最美好的事</li>  <li><strong>商业</strong>：主播小瑜毕业于哈佛商学院，尝试过与娱乐商业相关的种种工作：内娱、好莱坞、游戏、投资…希望通过播客沉淀自己对娱乐行业的所思所想、并且结交更多业内朋友</li></ul><p>如果你想近距离了解娱乐行业里的商业故事、对这个行业祛魅，或者你是一个对娱乐行业感兴趣的商科生、或是对商业跃跃欲试的文娱人，欢迎关注并联系我们，与我们一起探索这个行业的更多可能、陪伴中国娱乐行业成长、向世界讲好中国故事。</p><ul>  <li>如果想与主播微信交流、加入满是娱乐业内人士的听友群，欢迎添加<strong>微信号：EBRfans</strong></li>  <li>如果想获取节目文字稿，请关注<strong>微信公众号「Entertainment Business Review」</strong></li>  <li>如果想看到更多关乎娱乐商业的图文内容，欢迎到<strong>小红书</strong>找到我：<strong>@娱乐商业评论的小瑜</strong></li></ul><p>👩🏻💻👩🏻💻</p><p>主播：小瑜</p><p>剪辑：可爱的很</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/698b6e9266e2c30377e3cb4d?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FuOmqJE9vGlEclEnOHEqwelYwWoW.png"
+}

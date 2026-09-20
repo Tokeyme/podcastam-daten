@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "嗨咻",
   "apple_collection_id": "1644805423",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aad0fab051af796b9ea3715",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6aad0fab051af796b9ea3715/media.xyzcdn.net/631812fe43274df80456d001/lvdvKnX8yyoCztU9VwIGeXLtKAu5.m4a",
+      "pfad": "/v1/episode/560bd63972730bbaca5f352a87ef7c6899c1b54a.json",
+      "titel": "107. 当我跑步时，我在想什么？",
+      "veroeffentlicht": "2026-09-18T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "练习马拉松三年后，竹子开始尝试不戴耳机跑步。"
+    },
     {
       "guid": "6aa78c39492687f6aad9939b",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6aa78c39492687f6aad9939b/media.xyzcdn.net/631812fe43274df80456d001/lj8oiP3ISAB-XgI8aL-1gRZjOgu7.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "对话胡渐彪：探讨辩论生涯、世界与自我的认知差异以及人生选择。"
+    },
+    {
+      "guid": "6a9a67f3a0210c197dcd6135",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a9a67f3a0210c197dcd6135/media.xyzcdn.net/631812fe43274df80456d001/llA4GykmFJEHinhImHgGMKvCM7Lb.m4a",
+      "pfad": "/v1/episode/cc53e91edf086c04912f066c8b5ce9fbba22be79.json",
+      "titel": "105. 人到中年，又累又不快乐",
+      "veroeffentlicht": "2026-09-04T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "人到中年又累又不快乐？探讨如何面对快乐阈值变高与麻木感。"
+    },
+    {
+      "guid": "6a97d556a0210c197dcc399d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a97d556a0210c197dcc399d/media.xyzcdn.net/631812fe43274df80456d001/lgDiqL4oFu6LEN5CqSdXjtr_yNwE.m4a",
+      "pfad": "/v1/episode/97ce39ec9ea988c5c6124b71db875f19326365e6.json",
+      "titel": "104. 和斯斯聊天｜你身边的“亲密关系”是敌是友？",
+      "veroeffentlicht": "2026-09-02T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨身边的亲密关系究竟是敌是友，以及如何分辨并保持自我判断力。"
+    },
+    {
+      "guid": "6a82f07e5aeb2a5712e82a68",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a82f07e5aeb2a5712e82a68/media.xyzcdn.net/631812fe43274df80456d001/lnhBCRnYEZAml6cAMtF0hTiuMC1L.m4a",
+      "pfad": "/v1/episode/248cdb40780284f1bc047cbc91e82cd291906413.json",
+      "titel": "103.和海狸博士聊天｜关上门后，我终于敢说“我想要”",
+      "veroeffentlicht": "2026-08-26T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨女性在亲密关系中的身体感知、欲望与沟通。"
+    },
+    {
+      "guid": "6a855288fb87252df2ec4c61",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a855288fb87252df2ec4c61/media.xyzcdn.net/631812fe43274df80456d001/liYj9xHdKA_t1_jjSabH47fJFVE_.m4a",
+      "pfad": "/v1/episode/f430df42d14303c2c2ab39749e59b8d618d65ef6.json",
+      "titel": "102.和柱子哥阿娇聊天｜横竖都是死，我为什么不做我？",
+      "veroeffentlicht": "2026-08-19T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与柱子哥阿娇对话，聊疾病、死亡、身体与深刻的关系"
+    },
+    {
+      "guid": "6a7c39fe36641f136d87226b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a7c39fe36641f136d87226b/media.xyzcdn.net/631812fe43274df80456d001/li0yE6xhCAf0Vnrdp36ShHNh17h6.m4a",
+      "pfad": "/v1/episode/f76db2d14ec618556b97244e9d4c1a45d5adfdd3.json",
+      "titel": "101.跟桂律师聊天｜为什么感情越好，越该把钱说清楚？",
+      "veroeffentlicht": "2026-08-12T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨婚姻中的法律与财产问题，为什么感情好更要谈钱。"
+    },
+    {
+      "guid": "6a69b08ab581962ce2bd4da5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a69b08ab581962ce2bd4da5/media.xyzcdn.net/631812fe43274df80456d001/lmM7Syf06dr6i366wbfGyab3vX8A.m4a",
+      "pfad": "/v1/episode/1eac74407198390db1dda07cd982035348007323.json",
+      "titel": "100. 为什么越想表现自己，越容易在社交中露怯？",
+      "veroeffentlicht": "2026-07-29T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨社交局促感的原因与打开社交局面的实用技巧。"
+    },
+    {
+      "guid": "6a604b3b6356eb2d9be67872",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a604b3b6356eb2d9be67872/media.xyzcdn.net/631812fe43274df80456d001/lrBEMh5wVcYTOevHUMqd4rBaErYK.m4a",
+      "pfad": "/v1/episode/31ece8e9cd07646367ddfe2ae38ae2959665655d.json",
+      "titel": "099.和子晗聊天｜既能爱人，也能解决问题，才是女人最强生产力",
+      "veroeffentlicht": "2026-07-23T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话章子晗：聊商业思维、女性成长与人生选择"
+    },
+    {
+      "guid": "6a4c9a343fb7233cbf4507bf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/631812fe43274df80456d001/6a4c9a343fb7233cbf4507bf/media.xyzcdn.net/631812fe43274df80456d001/lgqlRDn4FGs5QP8Arc287qJtpoHI.m4a",
+      "pfad": "/v1/episode/062ba462cec5e07591dc576f886cb8f32cf51158.json",
+      "titel": "098.和Nick聊天｜买不买房？人生重大选择别犯错",
+      "veroeffentlicht": "2026-07-09T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨当代房产投资逻辑与买房决策"
     }
   ]
 }

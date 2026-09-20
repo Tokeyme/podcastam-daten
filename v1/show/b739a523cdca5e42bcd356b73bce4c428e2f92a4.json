@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "幕间对谈",
   "apple_collection_id": "1847059448",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "694c5d61946dca09252f48f0",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨友情中的复杂性、绝交经历、孤独感以及朋友在人生不同阶段扮演的角色。"
+    },
+    {
+      "guid": "68efcdb02265473020b1e3b6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d414d7e09329d994b561ba/68efcdb02265473020b1e3b6/media.xyzcdn.net/68d414d7e09329d994b561ba/lmIbBPDZxDFTY8CpIH7gVNgBfNeV.m4a",
+      "pfad": "/v1/episode/a0ae62e5612b8f67402edeaf6e5cbba96bd98f72.json",
+      "titel": "Vol.2 死亡教育是个蛋",
+      "veroeffentlicht": "2025-10-18T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成长中缺失的死亡教育与生命无常"
+    },
+    {
+      "guid": "68ebda36224325ea70e2d358",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d414d7e09329d994b561ba/68ebda36224325ea70e2d358/media.xyzcdn.net/68d414d7e09329d994b561ba/lsy9yRs0E-8p14RCzJMQocuIxr-u.m4a",
+      "pfad": "/v1/episode/f43a1bdb8f22f49cc342ff74927304066945d01f.json",
+      "titel": "Vol.1 遇到问题就算命，东西方玄学大分享",
+      "veroeffentlicht": "2025-10-12T23:38:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨东西方玄学算命经历与现象"
     }
   ]
 }

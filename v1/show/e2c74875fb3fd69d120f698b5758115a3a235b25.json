@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "动画电影异闻录",
   "apple_collection_id": "1079757808",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/01/18/5157110357818529286_hd.mp3",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "皮克斯动画《1/2的魔法》通过奇幻冒险探讨成长与亲情，但剧作存在缺陷。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2020/12/31/5153776282147752454_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2020/12/31/5153776282147752454_hd.mp3",
+      "pfad": "/v1/episode/3016dde0d7770df0855d54c65c12c5402ca2f812.json",
+      "titel": "vol.37 心灵奇旅：谁的爵士生活?",
+      "veroeffentlicht": "2020-12-31T15:56:32+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨皮克斯电影《心灵奇旅》的感动与困惑"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2020/08/08/5126699846247811078_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2020/08/08/5126699846247811078_hd.mp3",
+      "pfad": "/v1/episode/4e153753b22db8a53c8c0b928e767475de297865.json",
+      "titel": "vol.36 天气之子: 没有人应当被牺牲",
+      "veroeffentlicht": "2020-08-08T12:13:49+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨新海诚动画电影《天气之子》的创作。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2020/01/21/5089687175709165574_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2020/01/21/5089687175709165574_hd.mp3",
+      "pfad": "/v1/episode/6e1a55693ac2bddc09f99191e8a3a100fdf38bfc.json",
+      "titel": "vol.35 《我失去了身体》：阶级坠落中的人生景观",
+      "veroeffentlicht": "2020-01-21T05:50:23+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "动画电影《我失去了身体》中阶级坠落与命运的主题解析"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2019/08/04/5058179269855890438_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2019/08/04/5058179269855890438_hd.mp3",
+      "pfad": "/v1/episode/24ea100263b5ff97ee6f777df171b940725312f9.json",
+      "titel": "vol.32 迪士尼停不下来的真人改编与《玩具总动员4》",
+      "veroeffentlicht": "2019-08-04T10:16:36+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨迪士尼真人改编电影及《玩具总动员4》。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2019/05/17/5043573458466309766_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2019/05/17/5043573458466309766_hd.mp3",
+      "pfad": "/v1/episode/28dc34e4e210e80b7ba3b530adb6c19f17f609a2.json",
+      "titel": "vol.31《铳梦》：切割灵魂的利刃",
+      "veroeffentlicht": "2019-05-17T17:00:18+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨经典赛博朋克漫画《铳梦》的科幻概念与角色人性。"
     }
   ]
 }

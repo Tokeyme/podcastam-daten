@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "从心聊电影",
   "apple_collection_id": "1546528783",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa4dd78492687f6aad8b579",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6aa4dd78492687f6aad8b579/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lqhJ3CxO83GDP2yw6v7M1in2f4-F.m4a",
+      "pfad": "/v1/episode/7e1ca206769441a806350ad21b4addb602fb45c6.json",
+      "titel": "Vol. 218- 【周末推荐】20260912",
+      "veroeffentlicht": "2026-09-12T05:10:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "主播推荐三部不同题材与风格的电影作品。"
+    },
+    {
+      "guid": "6a95410af03e74ee6b02a324",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6a95410af03e74ee6b02a324/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lg0gv0WLu3NjjE75twi_y3hhJXmA.m4a",
+      "pfad": "/v1/episode/f7da80136bbc377a4eef38122529ae868a1e5ac7.json",
+      "titel": "Vol. 217- 【闲话局】：牛来、空枪和数到三",
+      "veroeffentlicht": "2026-08-31T08:56:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "近期观影热情不高，重聊几部近期看过或讨论过的影视作品。"
+    },
     {
       "guid": "6a854c285aeb2a5712e92dc3",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6a854c285aeb2a5712e92dc3/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lsCCFQeaFy7WKV9LlA1u9Q16DtpT.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "细品经典泰国恐怖短片合集《死神的十字路口》中的四个惊悚故事。"
+    },
+    {
+      "guid": "6a630a1ea3fec224d5a2a2e1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6a630a1ea3fec224d5a2a2e1/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lhHO4jiRgF35ZPSloMRsqjvZtMA7.m4a",
+      "pfad": "/v1/episode/f5235dffb424727650f6652cef5fc93a0c829d76.json",
+      "titel": "Vol. 215- 【闲话局】：八仙、三国、女足和群星",
+      "veroeffentlicht": "2026-07-24T07:01:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨今年暑期档电影质量、女性电影缺失及多部作品的优缺点。"
+    },
+    {
+      "guid": "6a58ee7e016dcc7e05434f2d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6a58ee7e016dcc7e05434f2d/media.xyzcdn.net/5ffb16c0aff268edece10ae1/liq9H4str5ExUgroQ1-zv1ZNQ0xj.m4a",
+      "pfad": "/v1/episode/769b60c7ed431b00fa39b1c5b1fbe2745a40e960.json",
+      "titel": "Vol. 214-【夏日歌单】翻唱经典嘉年华",
+      "veroeffentlicht": "2026-07-16T14:57:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨翻唱经典歌曲背后的怀念情绪与故事。"
+    },
+    {
+      "guid": "6a43aa3e9d2f5743684052e8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6a43aa3e9d2f5743684052e8/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lk47Z6VbxfBR4sX-tg3QeMfL0UVP.m4a",
+      "pfad": "/v1/episode/2a9de1a9dba71e8e34c5c6d526f33beba803cc97.json",
+      "titel": "Vol. 213- 《后室》：新奇的点子能不能成为一部好的电影",
+      "veroeffentlicht": "2026-06-30T11:41:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论《后室》新奇的点子能否撑起一部电影"
+    },
+    {
+      "guid": "6a3b92ec2e335a35a8089fa6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6a3b92ec2e335a35a8089fa6/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lllCJ9_KbqwVcmKnnteXUnYNJdXb.m4a",
+      "pfad": "/v1/episode/3226c05ea4c8f983f0958c4610ffb6b156cd927f.json",
+      "titel": "Vol. 212- 【闲话局】 端午节看的几部电影和流媒体电影小结",
+      "veroeffentlicht": "2026-06-24T08:33:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "端午节期间观看的几部电影和流媒体作品小结与个人感受。"
+    },
+    {
+      "guid": "6a157bf2ff7b9a8c0a5b7dc3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/6a157bf2ff7b9a8c0a5b7dc3/media.xyzcdn.net/5ffb16c0aff268edece10ae1/ljKuxFwiUjuc845FYCfuLozZQ1kG.m4a",
+      "pfad": "/v1/episode/d3c578ca1e3d3206618dddb5c176f95dbe7b914b.json",
+      "titel": "Vol. 211- 《东京奏鸣曲》：厌恶虚伪，又戴上面具，这是一个大型双标现场",
+      "veroeffentlicht": "2026-05-26T11:09:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论黑泽清导演的电影《东京奏鸣曲》及其中产家庭危机"
+    },
+    {
+      "guid": "69ff0cd11b7bd50295cd342d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/69ff0cd11b7bd50295cd342d/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lt-OPBzhetnI1NAIT1yxdq5VKGNI.m4a",
+      "pfad": "/v1/episode/cde8b5d207cb9b8f069d70152fa62dc132f92e93.json",
+      "titel": "Vol. 210-五一档期院线电影小结&近期上线流媒体影片短评",
+      "veroeffentlicht": "2026-05-09T10:51:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "五一档院线电影小结与近期上线流媒体影片短评"
+    },
+    {
+      "guid": "69f0686f887787ff1de9e1c6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5ffb16c0aff268edece10ae1/69f0686f887787ff1de9e1c6/media.xyzcdn.net/5ffb16c0aff268edece10ae1/lu7gVp0HGMNt_ERRxgwuMtGpF8pE.m4a",
+      "pfad": "/v1/episode/618b06201e0d7e6159d6764fff2a10375d9ac73f.json",
+      "titel": "Vol. 209-【闲话局】关于北影节看的片子和其他片子的废话",
+      "veroeffentlicht": "2026-04-28T08:28:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "北京电影节观影分享与近期看片闲聊"
     }
   ]
 }

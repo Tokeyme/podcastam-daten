@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "MELODY 健康星期四 - Radio Station [CHI]",
   "apple_collection_id": "1579989090",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "7e916be4-9c79-11f1-8efb-5f21efeb2d14",
@@ -13,6 +13,16 @@
       "clips": false,
       "kapitel": false,
       "einzeiler": "探讨冷冻卵子与冷冻胚胎的技术流程、成功率及适合人群。"
+    },
+    {
+      "guid": "48a0aa44-80c8-11f1-b400-f7f5c7d3e191",
+      "audio_url": "https://traffic.megaphone.fm/SOODO2555846243.mp3",
+      "pfad": "/v1/episode/89c43e1edf49e4e20e73d84e6bfd82c9c408bc21.json",
+      "titel": "MELODY｜听懂身体的“真心话”：那些被我们忽略的心脏求救信号 ｜健康星期四 20260716",
+      "veroeffentlicht": "2026-07-16T03:41:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨被忽略的心脏警讯与不良生活习惯对心脏的伤害。"
     }
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "69c029473c625cc5ae9d4d0e",
+  "apple_collection_id": "1659278074",
+  "show": "一周科技回顾 | WTR",
+  "titel": "DLSS 5引发巨大争议",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/6325db2caafc5c394512dddf/69c029473c625cc5ae9d4d0e/media.xyzcdn.net/6325db2caafc5c394512dddf/lq44VfIM2_-FGHl9HmnhEI7NfxNm.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:53:16+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨DLSS 5争议及苹果、Meta、微软等科技动态",
+  "kurzfassung": "本期节目讨论了DLSS 5引发的争议。同时介绍了AirPods Max 2的升级、苹果收购MotionVFX等事件。此外还涉及Meta数据收集、三星停产折叠屏以及微软Windows系统的多项改进计划。",
+  "stichpunkte": [
+    "DLSS 5引发的争议讨论",
+    "AirPods Max 2升级H2芯片及新功能",
+    "苹果收购MotionVFX",
+    "Meta被曝光收集用户视频数据",
+    "三星停产三折叠手机",
+    "SteamOS 3.8.0更新支持",
+    "微软承诺对Win 11的多项改进"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:53:16+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3372,
+  "veroeffentlicht": "2026-03-22T17:52:20+00:00",
+  "beschreibung": "科技新闻\n00:24 DLSS 5\n12:33 AirPods Max 2升级到H2芯片\n1.5倍主动降噪\n自适应音频，对话感知，语音凸显，\n实时翻译\n\"Siri\"唤醒\n相机远控\n\n18:15 Apple 收购了 MotionVFX\n24:55 Meta被曝光收集Meta Rayban用户拍摄的视频数据并送到肯尼亚标注\n30:18 三星停产Galaxy Trifold 三折叠手机\n32:03 SteamOS 3.8.0更新预先支持了Steam Machine\n支持了使用耳机麦克风\n桌面模式默认使用Wayland，支持HDR和VRR，支持分别设置显示器的缩放比例\nHDMI外接屏幕支持自动检测多声道\n优化了ROG Xbox Ally掌机等一众PC掌机的支持\n\n36:48 Switch 2 系统更新\n42:36 PowerToys 更新了状态栏\n45:33 微软承诺对Win 11的多项改进将允许用户调整任务栏位置到顶部、左侧、右侧\n\n将允许Windows 11无限期暂停更新也不再强迫用户在OOBE阶段下载更新\n将重点改进资源管理器的性能，提高可靠性与启动速度，减少闪烁\n\n开始菜单将从WebView2迁移到WinUI3原生框架当前的推荐、推荐文件、推荐应用、MS365相关内容为WebView2开发\n将继续改进WSL使用体验\n将减少系统本身对内存的占用\n将减少Win11 AI功能造成的臃肿问题\n\n科技心得\n50:52 闲聊花！\n\n主持人：川虎 & 明昭\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<h1>科技新闻</h1><ul>  <li>00:24 DLSS 5</li>  <li>12:33 AirPods Max 2升级到H2芯片<br>1.5倍主动降噪<br>自适应音频，对话感知，语音凸显，<br>实时翻译<br>\"Siri\"唤醒<br>相机远控<br></li>  <li>18:15 Apple 收购了 MotionVFX</li>  <li>24:55 Meta被曝光收集Meta Rayban用户拍摄的视频数据并送到肯尼亚标注</li>  <li>30:18 三星停产Galaxy Trifold 三折叠手机</li>  <li>32:03 SteamOS 3.8.0更新预先支持了Steam Machine<br>支持了使用耳机麦克风<br>桌面模式默认使用Wayland，支持HDR和VRR，支持分别设置显示器的缩放比例<br>HDMI外接屏幕支持自动检测多声道<br>优化了ROG Xbox Ally掌机等一众PC掌机的支持<br></li>  <li>36:48 Switch 2 系统更新</li>  <li>42:36 PowerToys 更新了状态栏</li>  <li>45:33 微软承诺对Win 11的多项改进将允许用户调整任务栏位置到顶部、左侧、右侧<br><br>将允许Windows 11无限期暂停更新也不再强迫用户在OOBE阶段下载更新<br>将重点改进资源管理器的性能，提高可靠性与启动速度，减少闪烁<br><br>开始菜单将从WebView2迁移到WinUI3原生框架当前的推荐、推荐文件、推荐应用、MS365相关内容为WebView2开发<br>将继续改进WSL使用体验<br>将减少系统本身对内存的占用<br>将减少Win11 AI功能造成的臃肿问题<br></li></ul><h1>科技心得</h1><ul>  <li>50:52 闲聊花！</li></ul><p>主持人：川虎 &amp; 明昭</p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69c029473c625cc5ae9d4d0e?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/Fi0bIwOrebrpVoO_aCtJ5RDgOdK9.png"
+}

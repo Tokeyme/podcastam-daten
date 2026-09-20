@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "星夜对谈",
   "apple_collection_id": "1862392296",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aaeba440916f6f8b445e849",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/6aaeba440916f6f8b445e849/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lobcYxpJ63SQAnBTTY5Hpf_yiVuf.m4a",
+      "pfad": "/v1/episode/da5abc95ef0400558ab29564e92224fbef17d55c.json",
+      "titel": "第四十四期：拿得起，是入世的担当；放的下，是出世的智慧",
+      "veroeffentlicht": "2026-09-19T17:08:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨拿得起与放得下哪个更需要勇气"
+    },
     {
       "guid": "6a89a284ef65145dfcc3a788",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/6a89a284ef65145dfcc3a788/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lgtv7K10YmrccnU_wDEpnCOM5Lp5.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从十年低谷中突围：营养健康创业者红雨分享她的“难杀”人生哲学。"
+    },
+    {
+      "guid": "6a78a516000a55a9bb055840",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/6a78a516000a55a9bb055840/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lqrPeaKsp6ksXqUNQLTDn7J0m0Ee.m4a",
+      "pfad": "/v1/episode/9850cceaf341d6729ef60682eaef56dfd3a4840f.json",
+      "titel": "第四十二期：恋爱，是否要趁早？",
+      "veroeffentlicht": "2026-08-09T17:37:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨恋爱是否要趁早，以及当代社会的婚恋选择与困境"
+    },
+    {
+      "guid": "6a339ab34233e62bc54be7c2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/6a339ab34233e62bc54be7c2/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lg70EGepcPKTxKjAgh-c5YhuoqfT.m4a",
+      "pfad": "/v1/episode/7d66ef4e408a169c536c0b3cc74efc44def94a61.json",
+      "titel": "第四十一期：自我成长，是生命中的一场场阵痛",
+      "veroeffentlicht": "2026-06-18T08:07:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成年人的自我成长过程与面对苦难的心态"
+    },
+    {
+      "guid": "6a106d8ae59ebca936230ee8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/6a106d8ae59ebca936230ee8/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lqszxdvj113FFtpPKPJgQbFft-0P.m4a",
+      "pfad": "/v1/episode/d082fe2b97ee571588fde0f201ce6fda2f90b6c3.json",
+      "titel": "第四十期：坚持长期主义--是对时间的信任",
+      "veroeffentlicht": "2026-05-22T14:56:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨什么是长期主义，以及普通人如何从心理学视角实践长期主义"
+    },
+    {
+      "guid": "69fc30fa1b7bd50295a4e7b2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/69fc30fa1b7bd50295a4e7b2/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lpZg9zr3MO8eZNEvflWNfDpPBnYK.m4a",
+      "pfad": "/v1/episode/fa411baea2110984919b79e2de91161f8138e301.json",
+      "titel": "第三十九期：咖啡--味蕾的唤醒，灵魂的振奋剂",
+      "veroeffentlicht": "2026-05-07T06:37:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨日常咖啡、乡村咖啡店与特调咖啡文化的多元视角"
+    },
+    {
+      "guid": "69e6fe031d989496e720b3ed",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/69e6fe031d989496e720b3ed/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lh_yhbtTgMUPbJYKRspnpV4bWzZ5.m4a",
+      "pfad": "/v1/episode/db90232ff397021bf2c594b1fe5e2138ef7e4902.json",
+      "titel": "第三十八期：好朋友之间没有‘心墙’",
+      "veroeffentlicht": "2026-04-21T04:42:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨十余年挚友情的维系、有效沟通及性格互补的作用。"
+    },
+    {
+      "guid": "69d5f9c5b977fb2c4763f58e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/69d5f9c5b977fb2c4763f58e/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lt7WTI_pbqzRKdA9irCTjiBEzQhO.m4a",
+      "pfad": "/v1/episode/8f3458b23f51227e4809a7b037b5e44996661d56.json",
+      "titel": "第三十七期：有没有一瞬间觉得自己老了？",
+      "veroeffentlicht": "2026-04-08T06:51:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨究竟是什么因素让我们瞬间感觉自己老了？"
+    },
+    {
+      "guid": "69bfa8c92d318777c9211319",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/69bfa8c92d318777c9211319/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lkvyyVy0HIi_HapRjNN2LrBQyWA2.m4a",
+      "pfad": "/v1/episode/2cb393f057b00d0a9f89e16364be8f10b973d447.json",
+      "titel": "第三十六期：对‘网红打卡式’旅游的一两点看法",
+      "veroeffentlicht": "2026-03-22T08:33:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨旅游的本质，结合登山经历分析逃避现实与自我探索。"
+    },
+    {
+      "guid": "69931fb766e2c303779e4cb2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6838606bf7655cdfbb2b95e1/69931fb766e2c303779e4cb2/media.xyzcdn.net/6838606bf7655cdfbb2b95e1/lvKP03TDobmRvX0Z7hl_Lbdyqhs1.m4a",
+      "pfad": "/v1/episode/4c18be594006e44eb9162fbdcbff5c176c61fab9.json",
+      "titel": "第三十五期：人生贵在遇知己",
+      "veroeffentlicht": "2026-02-16T13:52:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年少友谊的续存、搭子与友谊的区别以及真诚在人际关系中的作用"
     }
   ]
 }

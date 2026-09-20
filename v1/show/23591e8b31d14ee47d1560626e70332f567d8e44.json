@@ -2,8 +2,88 @@
   "schema_version": 1,
   "show": "放个播客",
   "apple_collection_id": "1882964811",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/17/3234998855076911622_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/17/3234998855076911622_hd.mp3",
+      "pfad": "/v1/episode/1d5f21b9a8123500c2a47b4d0cf100651c37600a.json",
+      "titel": "60.他要不是近视眼他得吓死",
+      "veroeffentlicht": "2026-09-18T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享校园夜跑、厕所与路上遇到的各种诡异经历和怪事。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/13/3234246458105956358_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/13/3234246458105956358_hd.mp3",
+      "pfad": "/v1/episode/b6bb29d8d33646ca1cfc51bac3caf87cd7bf3789.json",
+      "titel": "59.四角游戏、半夜骑车的大姐",
+      "veroeffentlicht": "2026-09-15T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "本期节目分享多起真实的灵异经历与诡异故事。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/10/3233704377397606406_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/10/3233704377397606406_hd.mp3",
+      "pfad": "/v1/episode/ee2ff05f9ea3ee640b25a451720a62622ab77054.json",
+      "titel": "58.体质特殊的老婆、竹林里的仪式",
+      "veroeffentlicht": "2026-09-11T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享体质特殊的老婆及竹林里的仪式等真实灵异故事"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/07/3233147193439031814_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/07/3233147193439031814_hd.mp3",
+      "pfad": "/v1/episode/1b1617ac349ee095131d68a4d12c9ad2ab79f8eb.json",
+      "titel": "57.真实杀人电影和网络侦探：越南屠夫案",
+      "veroeffentlicht": "2026-09-08T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨越南屠夫案中的暗网视频与网络侦探破案过程"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/03/3232415870334768134_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/03/3232415870334768134_hd.mp3",
+      "pfad": "/v1/episode/aca5b5a1581c5010078642182f1250a1bf016bbe.json",
+      "titel": "56.不靠谱的大师、消失的网恋女友",
+      "veroeffentlicht": "2026-09-04T00:31:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "真实灵异故事分享，包括泰国见闻与离奇网恋经历。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/31/3231796838846801926_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/31/3231796838846801926_hd.mp3",
+      "pfad": "/v1/episode/0083586229edbc5a830accf4ab42ea4e190b8a09.json",
+      "titel": "55.灵异博主姜小柔、诡异的纸人",
+      "veroeffentlicht": "2026-09-01T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨校园与出行中的真实灵异故事与诡异经历。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/27/3231102258577730054_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/27/3231102258577730054_hd.mp3",
+      "pfad": "/v1/episode/707982ff4bdfada172e56c6dcfe8a05ea20b3dbb.json",
+      "titel": "54.中元到：控制狂父亲和托梦追凶",
+      "veroeffentlicht": "2026-08-28T00:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中元节特辑：分享撕符鬼压床与托梦追凶等真实灵异经历。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/24/3230547374878204934_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/24/3230547374878204934_hd.mp3",
+      "pfad": "/v1/episode/505a18c5e7d724310c93470951c5d24819d0c74b.json",
+      "titel": "53.丢不下的面子：谎言十八年灭门案",
+      "veroeffentlicht": "2026-08-25T00:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "法国让·克洛德·罗曼十八年身份欺诈与灭门案"
+    },
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/08/20/3229817264796931078_hd.mp3",
       "audio_url": "https://cdn.lizhi.fm/audio/2026/08/20/3229817264796931078_hd.mp3",
@@ -13,6 +93,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨天津日报大厦、台湾彰化母女失踪案及西安街头灵异传说等都市传说。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/17/3229199418413208582_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/17/3229199418413208582_hd.mp3",
+      "pfad": "/v1/episode/988d77e8024b2d6cdd0b3e4235b885c8f9073562.json",
+      "titel": "51.毁掉我同学的那个深山夏令营",
+      "veroeffentlicht": "2026-08-18T00:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨同学在深山夏令营中精神失常的真实经历"
     }
   ]
 }

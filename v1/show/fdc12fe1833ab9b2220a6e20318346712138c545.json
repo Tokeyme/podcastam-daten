@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Eden的词汇世界（英语脱口秀）",
   "apple_collection_id": "1112466861",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group39/M0A/C1/E1/wKgJnlrn9cyDYDCQAEKWVpFycRE019.m4a",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "通过历史人物与实用例句，解析英语中表示卖国贼与内奸的各类表达方式。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M01/83/10/wKgJMVihvLLztDJPAG-4xpYQRhY874.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJMVihvLLztDJPAG-4xpYQRhY874.m4a?channel=rss&album_id=4194858&track_id=30459821&uid=27521287&jt=https://aod.cos.tx.xmcdn.com/group25/M01/83/10/wKgJMVihvLLztDJPAG-4xpYQRhY874.m4a",
+      "pfad": "/v1/episode/df3eeec17c667eb685e4f30ca6a1ddd44494b7c8.json",
+      "titel": "第147期:上了头条的厄恩伯爵",
+      "veroeffentlicht": "2017-02-13T14:03:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨单词boycott的含义、用法及相关背景"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M02/AB/85/wKgJLlh-7fOS3EHEAG6E4XYeEEY876.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJLlh-7fOS3EHEAG6E4XYeEEY876.m4a?channel=rss&album_id=4194858&track_id=29007107&uid=27521287&jt=https://aod.cos.tx.xmcdn.com/group22/M02/AB/85/wKgJLlh-7fOS3EHEAG6E4XYeEEY876.m4a",
+      "pfad": "/v1/episode/48bc67805514627612cd29b1cee5701e499c56e9.json",
+      "titel": "第146期：驼鞍上的私生子",
+      "veroeffentlicht": "2017-01-18T04:24:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英语单词bastard及其相关习语的来源与演变。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M03/78/A0/wKgJLlh3O7exP03UAHAknPy0DO4124.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJLlh3O7exP03UAHAknPy0DO4124.m4a?channel=rss&album_id=4194858&track_id=28620776&uid=27521287&jt=https://aod.cos.tx.xmcdn.com/group22/M03/78/A0/wKgJLlh3O7exP03UAHAknPy0DO4124.m4a",
+      "pfad": "/v1/episode/73afe66afb12d0d91ab0f8ec8e8b9adb545cadcc.json",
+      "titel": "第145期：布拉尼之石的传说",
+      "veroeffentlicht": "2017-01-12T08:18:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨布拉尼之石的传说及相关英语表达"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M01/5A/5F/wKgJNVhy486R2-NEAGu1bnd5YJI905.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJNVhy486R2-NEAGu1bnd5YJI905.m4a?channel=rss&album_id=4194858&track_id=28406712&uid=27521287&jt=https://aod.cos.tx.xmcdn.com/group24/M01/5A/5F/wKgJNVhy486R2-NEAGu1bnd5YJI905.m4a",
+      "pfad": "/v1/episode/ff4ab9f129d7fb721b524141cc664bab72fe52ce.json",
+      "titel": "第144期：阿蒙神和氨的不解之缘",
+      "veroeffentlicht": "2017-01-09T01:13:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨阿蒙神与化学物质氨之间的奇妙联系"
     }
   ]
 }

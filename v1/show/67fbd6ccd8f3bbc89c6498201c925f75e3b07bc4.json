@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "九色鹿-上美电影制片厂著/王亚洲文｜主播敏敏姐姐",
   "apple_collection_id": "1799975686",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_809366556",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探寻敦煌莫高窟壁画中流传千古的九色鹿传奇故事。"
+    },
+    {
+      "guid": "xmly_track_807768883",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJILj0RDABAAAANrsMvY.mp3.m4a?channel=rss&album_id=86400659&track_id=807768883&uid=166813637&jt=https://aod.cos.tx.xmcdn.com/storages/ef53-audiofreehighqps/FD/C4/GKwRIJILj0RDABAAAANrsMvY.mp3",
+      "pfad": "/v1/episode/9ce85a56d65d6420e68fb75ef8bbe4fbd53f80eb.json",
+      "titel": "九色鹿-08-王后的痴梦",
+      "veroeffentlicht": "2025-02-22T07:49:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "西域使团带来神路奇遇，王后痴迷九色鹿传说并执意索要。"
+    },
+    {
+      "guid": "xmly_track_807340951",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwLjUBlABAAAANqwIfd.mp3.m4a?channel=rss&album_id=86400659&track_id=807340951&uid=166813637&jt=https://aod.cos.tx.xmcdn.com/storages/77e6-audiofreehighqps/CC/AE/GKwRIRwLjUBlABAAAANqwIfd.mp3",
+      "pfad": "/v1/episode/4865365203f78e64636ef46f3772021665a59164.json",
+      "titel": "九色鹿-03-快乐桃源",
+      "veroeffentlicht": "2025-02-20T19:10:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "九色鹿救助冻僵的动物并带领大家找到充满生机的绿洲。"
     }
   ]
 }

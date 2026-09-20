@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "方圆播客",
   "apple_collection_id": "1761549146",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69cd4df1b977fb2c47df651e",
@@ -13,6 +13,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "一位自闭症儿童家长分享2023年春季台北之旅及维权经历。"
+    },
+    {
+      "guid": "69ad9cecc8cdeb38c2868584",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/663cb506f3517e63e4b2b2af/69ad9cecc8cdeb38c2868584/media.xyzcdn.net/663cb506f3517e63e4b2b2af/lqx1Ep0K_XDW4lqeMSnzXyRyl3Ju.m4a",
+      "pfad": "/v1/episode/371097f93c93c629c8e5262e87138032e3f69739.json",
+      "titel": "J4_深秋东日本独旅:小丸子和Kitty猫-与童年的自己相遇 爱你老己",
+      "veroeffentlicht": "2026-03-08T18:42:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深秋东日本独旅：漫步东京、静冈与横滨的所见所闻"
+    },
+    {
+      "guid": "6954cd6d2db086f8970048cd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/663cb506f3517e63e4b2b2af/6954cd6d2db086f8970048cd/media.xyzcdn.net/663cb506f3517e63e4b2b2af/lqXkmt9MOGES_awFteENqdu66w_8.m4a",
+      "pfad": "/v1/episode/9a1cc1ec1a4f669272f99c5b03ee8104fd687f37.json",
+      "titel": "T10_节日即兴系列_年终随想:2025年的十问十答.feat33Talk主播33",
+      "veroeffentlicht": "2025-12-31T08:04:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与33Talk主播33围绕2025年的十个问题展开年终随想。"
+    },
+    {
+      "guid": "68c055502c82c9dcca907e66",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/663cb506f3517e63e4b2b2af/68c055502c82c9dcca907e66/media.xyzcdn.net/663cb506f3517e63e4b2b2af/lv6G_pESPtYv7tL0X_WaFarWQdB9.m4a",
+      "pfad": "/v1/episode/cd1d91f0d515c0db43c1a939e8b4457b5f1b5e24.json",
+      "titel": "I2_对大理自闭症男童走失的思考:什么才是有效的自闭症干预?ft.Maria",
+      "veroeffentlicht": "2025-09-09T18:01:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大理走失事件与有效的自闭症干预方法"
+    },
+    {
+      "guid": "68a8881a293471fed4fbfde8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/663cb506f3517e63e4b2b2af/68a8881a293471fed4fbfde8/media.xyzcdn.net/663cb506f3517e63e4b2b2af/ljg2FKrDnLeThdNZ4ZPfGjKWctTS.m4a",
+      "pfad": "/v1/episode/74556aa4bdb51c149358e3b71431c1378ff08e80.json",
+      "titel": "G2_转换赛道的斜杠人生:新加坡RES考试_上课报名篇ft.Eason,Johnathan,Viki",
+      "veroeffentlicht": "2025-08-22T15:11:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨新加坡房地产代理考试（RES）的课程选择与报名细节。"
+    },
+    {
+      "guid": "68a1ff5342cc2798e70801de",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/663cb506f3517e63e4b2b2af/68a1ff5342cc2798e70801de/media.xyzcdn.net/663cb506f3517e63e4b2b2af/ljqGQyhIDyz6K-CDgX2dAfilabyr.m4a",
+      "pfad": "/v1/episode/f4ecd0af9fa5d0a71a05616e70664b61d71ae6a1.json",
+      "titel": "J3_大理参加自闭症夏令营有感:洱海边散步的松弛感&白族人民平等看待众生的慈悲心",
+      "veroeffentlicht": "2025-08-17T16:22:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "在大理参加自闭症夏令营的经历与感悟"
+    },
+    {
+      "guid": "683c477031215eb506cbb316",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/663cb506f3517e63e4b2b2af/683c477031215eb506cbb316/media.xyzcdn.net/663cb506f3517e63e4b2b2af/lgRDJTFcxoY0LKQ4NIxK3W3ePJQI.m4a",
+      "pfad": "/v1/episode/efb6e47359582da162b09257e23052c401b009d4.json",
+      "titel": "T9_聊聊《小巷人家》里庄筱婷的女性主义抗争之路_2025-10",
+      "veroeffentlicht": "2025-06-01T12:30:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《小巷人家》中庄筱婷的女性主义抗争成长之路"
+    },
+    {
+      "guid": "6836a5bc31215eb506221489",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/663cb506f3517e63e4b2b2af/6836a5bc31215eb506221489/media.xyzcdn.net/663cb506f3517e63e4b2b2af/ltGuURCGkWKjafx9TBLps3htMGYc.m4a",
+      "pfad": "/v1/episode/6207463e5bfc76ac7e9aec5c0a76e86c0eb09c29.json",
+      "titel": "T8_浅聊《小巷人家》里的四个二代人物的原生家庭和个人成长_2025_09",
+      "veroeffentlicht": "2025-05-28T05:58:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《小巷人家》中四个二代人物的原生家庭与成长"
     }
   ]
 }

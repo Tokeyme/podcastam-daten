@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "6a8af374ef65145dfcc4098d",
+  "apple_collection_id": "1819845149",
+  "show": "Hao的游戏PM笔记",
+  "titel": "第186期 - 游戏行业跳槽难题，外包转正编应该怎么做？",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/64a2eb1e891aae15d26a4a3f/6a8af374ef65145dfcc4098d/media.xyzcdn.net/64a2eb1e891aae15d26a4a3f/lszScx1U_5T3wFGfoZU8W-4SKQyB.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:25:49+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "外包游戏PM如何转正编及面试技巧",
+  "kurzfassung": "本期节目探讨外包游戏项目经理转正编时的求职难题。内容涵盖如何撰写突出个人责任的简历，以及应对面试中关于上下游协作与项目细节的追问。同时针对美术外包PM解析了管线与验收经验的表达方式。",
+  "stichpunkte": [
+    "外包PM转正编的简历筛选标准与常见问题",
+    "如何通过简历展现个人责任和具体项目结果",
+    "面试中针对项目经历的连续追问与应对方法",
+    "游戏美术外包PM如何证明美术管线与验收经验",
+    "简历优化与面试准备的区分处理"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:25:49+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 354,
+  "veroeffentlicht": "2026-09-04T00:00:00+00:00",
+  "beschreibung": "📝 本期摘要\nHao的游戏PM笔记本期讨论外包 PM 转游戏公司正编时，简历和面试分别在筛什么。项目名气、上线经历和团队规模可以提供背景，招聘方更想确认候选人具体负责过什么，又解决过哪些问题。没有面试时，应先检查目标 JD 与简历里的责任和结果；已经进入面试，就要准备好面对上下游协作、延期处理和个人贡献的连续追问。对于美术外包 PM，还要把美术资产管线、外包验收和引擎接入中的真实处理经历讲清楚。\n❓ 本期讨论了这些问题\n外包 PM 想转游戏公司正编，为什么投了很多简历仍然没有面试？\n\n游戏 PM 简历怎么写，才能让招聘方看见个人责任和项目结果？\n\n面试官为什么会追问外包 PM 的权限、工作范围和上下游经验？\n\n游戏美术外包 PM 如何证明自己理解美术管线与外包验收？\n\n🔥 本期核心内容\n没有面试时，先检查简历有没有完成筛选任务\n外包 PM 容易把公司、项目和团队规模写得很大，个人工作却只剩“协助推进”和“跟进排期”。简历要对着目标 JD 写清版本、风险和跨团队协作中由你负责的部分，以及最后留下的结果。\n\n进入面试以后，项目经历要经得住继续追问\n面试官会继续问需求是谁提的、谁做决定、中间出了什么问题，以及你推动不动时怎么处理。前后说法对不上，或者把团队结果全部写成个人贡献，都会很快失去可信度。\n\n外包经历的价值取决于你接触过哪些真实问题\n游戏美术外包 PM 如果处理过需求澄清、美术资产管线、TA 规范、引擎接入或返工顺序，就应该回到这些事情里讲。只说自己业余了解过其他环节，无法证明遇到上下游问题时能做出判断。\n\n简历、面试和岗位搜索要分开处理\n没有面试就先修正简历，反复卡在面试就复盘项目表达。岗位搜索可以结合 PMNote.ai 的在招 JD、JD 观察和面试训练场，减少在不同招聘网站之间反复切换。\n\n🏷️ 本期提到的人物与概念\n人物　Hao\n公司/产品　PMNote.ai\n概念　外包项目经理 Outsourcing Project Manager · 游戏项目经理 Game PM · 职位描述 Job Description · 美术资产管线 Art Asset Pipeline · 外包验收 Outsourcing Acceptance · 技术美术 Technical Artist\n🔗 延伸话题\nQ　外包 PM 怎样判断自己先改简历还是先练面试？\nA　投递后完全没有面试，先对照目标 JD 检查简历；已经能进入面试却反复卡在项目追问，再集中梳理经历和表达。\nQ　游戏 PM 简历里的项目经历应该写什么？\nA　写清项目背景、个人责任、处理动作和结果，尤其要让招聘方分得清团队成果与个人贡献。\nQ　游戏美术外包 PM 转研发 PM 时，哪些经验最有用？\nA　需求澄清、美术资产管线、外包验收、TA 规范和引擎接入都能证明你处理过真实的上下游问题。\nQ　游戏 PM 面试怎么准备项目追问？\nA　把简历里的每段经历单独拿出来，准备任务来源、个人边界、困难、处理动作、结果和复盘，随后用真实 JD 做模拟追问。\n🌐 About This Episode\nHao's Game PM Notes explains how an outsourcing project manager can move into an in-house game PM role. The episode covers game project management resumes, interview follow-up questions, art asset pipelines, outsourcing acceptance, and evidence from real project work.\n📌 关于 Hao 的游戏 PM 笔记\n「Hao 的游戏 PM 笔记」的知识主场是 pmnote.ai，一本持续生长的「游戏项目经理百科全书」，把 10 年游戏项目管理经验整理成开放知识库。\n主理人 Hao，10 年游戏行业经验，策划转项目经理，持有 PMP / PMI-ACP / PSM / PSPO 认证。\n🗺️ 网站你能翻到什么\n求职招聘　上百个游戏 PM 在招 JD · JD 观察 · 简历自检 · 面试能力地图 · 面试训练场；岗位来自游戏公司官网、官方 ATS 与公开招聘渠道，覆盖部分 Boss 直聘等平台未同步岗位\n\n百科　术语库 · PM 证书指南 · 3D 沙盘\n\n内容　文章库 · AI for PM · 播客\n\n工具箱　游戏 PM 日常可复用的工具与模板\n\n成长服务　系统课程与一对一咨询\n\n📡 全平台　小宇宙播客 · B 站 · 小红书 · 公众号 · 知乎\n一切从这里开始 → pmnote.ai\n📖 本期延伸阅读\n游戏项目管理完全指南\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>📝 本期摘要</p><p>Hao的游戏PM笔记本期讨论外包 PM 转游戏公司正编时，简历和面试分别在筛什么。项目名气、上线经历和团队规模可以提供背景，招聘方更想确认候选人具体负责过什么，又解决过哪些问题。没有面试时，应先检查目标 JD 与简历里的责任和结果；已经进入面试，就要准备好面对上下游协作、延期处理和个人贡献的连续追问。对于美术外包 PM，还要把美术资产管线、外包验收和引擎接入中的真实处理经历讲清楚。</p><hr><p>❓ 本期讨论了这些问题</p><ul><li><p>外包 PM 想转游戏公司正编，为什么投了很多简历仍然没有面试？</p></li><li><p>游戏 PM 简历怎么写，才能让招聘方看见个人责任和项目结果？</p></li><li><p>面试官为什么会追问外包 PM 的权限、工作范围和上下游经验？</p></li><li><p>游戏美术外包 PM 如何证明自己理解美术管线与外包验收？</p></li></ul><hr><p>🔥 本期核心内容</p><ol><li><p><strong>没有面试时，先检查简历有没有完成筛选任务</strong></p><p>外包 PM 容易把公司、项目和团队规模写得很大，个人工作却只剩“协助推进”和“跟进排期”。简历要对着目标 JD 写清版本、风险和跨团队协作中由你负责的部分，以及最后留下的结果。</p></li><li><p><strong>进入面试以后，项目经历要经得住继续追问</strong></p><p>面试官会继续问需求是谁提的、谁做决定、中间出了什么问题，以及你推动不动时怎么处理。前后说法对不上，或者把团队结果全部写成个人贡献，都会很快失去可信度。</p></li><li><p><strong>外包经历的价值取决于你接触过哪些真实问题</strong></p><p>游戏美术外包 PM 如果处理过需求澄清、美术资产管线、TA 规范、引擎接入或返工顺序，就应该回到这些事情里讲。只说自己业余了解过其他环节，无法证明遇到上下游问题时能做出判断。</p></li><li><p><strong>简历、面试和岗位搜索要分开处理</strong></p><p>没有面试就先修正简历，反复卡在面试就复盘项目表达。岗位搜索可以结合 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://PMNote.ai\">PMNote.ai</a> 的在招 JD、JD 观察和面试训练场，减少在不同招聘网站之间反复切换。</p></li></ol><hr><p>🏷️ 本期提到的人物与概念</p><p>人物　Hao</p><p>公司/产品　<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://PMNote.ai\">PMNote.ai</a></p><p>概念　外包项目经理 Outsourcing Project Manager · 游戏项目经理 Game PM · 职位描述 Job Description · 美术资产管线 Art Asset Pipeline · 外包验收 Outsourcing Acceptance · 技术美术 Technical Artist</p><hr><p>🔗 延伸话题</p><p><strong>Q　外包 PM 怎样判断自己先改简历还是先练面试？</strong></p><p><strong>A</strong>　投递后完全没有面试，先对照目标 JD 检查简历；已经能进入面试却反复卡在项目追问，再集中梳理经历和表达。</p><p><strong>Q　游戏 PM 简历里的项目经历应该写什么？</strong></p><p><strong>A</strong>　写清项目背景、个人责任、处理动作和结果，尤其要让招聘方分得清团队成果与个人贡献。</p><p><strong>Q　游戏美术外包 PM 转研发 PM 时，哪些经验最有用？</strong></p><p><strong>A</strong>　需求澄清、美术资产管线、外包验收、TA 规范和引擎接入都能证明你处理过真实的上下游问题。</p><p><strong>Q　游戏 PM 面试怎么准备项目追问？</strong></p><p><strong>A</strong>　把简历里的每段经历单独拿出来，准备任务来源、个人边界、困难、处理动作、结果和复盘，随后用真实 JD 做模拟追问。</p><hr><p>🌐 About This Episode</p><p>Hao's Game PM Notes explains how an outsourcing project manager can move into an in-house game PM role. The episode covers game project management resumes, interview follow-up questions, art asset pipelines, outsourcing acceptance, and evidence from real project work.</p><hr><p>📌 关于 Hao 的游戏 PM 笔记</p><p>「Hao 的游戏 PM 笔记」的知识主场是 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://pmnote.ai\">pmnote.ai</a>，一本持续生长的「游戏项目经理百科全书」，把 10 年游戏项目管理经验整理成开放知识库。</p><p>主理人 Hao，10 年游戏行业经验，策划转项目经理，持有 PMP / PMI-ACP / PSM / PSPO 认证。</p><p>🗺️ 网站你能翻到什么</p><ul><li><p>求职招聘　上百个游戏 PM 在招 JD · JD 观察 · 简历自检 · 面试能力地图 · 面试训练场；岗位来自游戏公司官网、官方 ATS 与公开招聘渠道，覆盖部分 Boss 直聘等平台未同步岗位</p></li><li><p>百科　术语库 · PM 证书指南 · 3D 沙盘</p></li><li><p>内容　文章库 · AI for PM · 播客</p></li><li><p>工具箱　游戏 PM 日常可复用的工具与模板</p></li><li><p>成长服务　系统课程与一对一咨询</p></li></ul><p>📡 全平台　小宇宙播客 · B 站 · 小红书 · 公众号 · 知乎</p><p>一切从这里开始 → <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pmnote.ai/\">pmnote.ai</a></p><hr><p>📖 本期延伸阅读</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pmnote.ai/articles/game-pm-complete-guide/\">游戏项目管理完全指南</a></p><br><a href=\"https://oia.xiaoyuzhoufm.com/player/6a8af374ef65145dfcc4098d?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/FpPasc8-YPIdNez6JsxiniIhSVbK.jpg"
+}

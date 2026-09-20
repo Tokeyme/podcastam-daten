@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "http://cdn.lizhi.fm/audio/2020/08/08/5126699846247811078_hd.mp3",
+  "apple_collection_id": "1079757808",
+  "show": "动画电影异闻录",
+  "titel": "vol.36 天气之子: 没有人应当被牺牲",
+  "audio": {
+    "url": "https://cdn.lizhi.fm/audio/2020/08/08/5126699846247811078_hd.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T14:42:36+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "statisch",
+    "grund": "Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨新海诚动画电影《天气之子》的创作。",
+  "kurzfassung": "本期节目讨论了新海诚导演的动画电影《天气之子》。节目探讨了该片是推陈出新的力作，还是对前作《你的名字》各种元素的重复。同时提到了该片在疫情前完成全球上映的背景。",
+  "stichpunkte": [
+    "讨论动画电影《天气之子》",
+    "探讨影片是否为推陈出新的力作",
+    "分析影片与前作《你的名字》的关系",
+    "提及影片在疫情前完成全球上映的背景"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T14:42:36+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 3264,
+  "veroeffentlicht": "2020-08-08T12:13:49+08:00",
+  "beschreibung": "《天气之子》算是赶在疫情之前完成全球上映的动画影片之一。而其作为在大热动画电影《你的名字》之后的新海诚新作，也引发了空前的热议与讨论。这部电影究竟是一部推陈出新的力作，还是对《你名》各种元素的复制粘贴？请在这期节目中与我们一同讨论。\n\n(本期节目于二月录制，因此节目中我们还可以在剧院中安全地观看电影)",
+  "beschreibung_html": "《天气之子》算是赶在疫情之前完成全球上映的动画影片之一。而其作为在大热动画电影《你的名字》之后的新海诚新作，也引发了空前的热议与讨论。这部电影究竟是一部推陈出新的力作，还是对《你名》各种元素的复制粘贴？请在这期节目中与我们一同讨论。<br><br>(本期节目于二月录制，因此节目中我们还可以在剧院中安全地观看电影)",
+  "untertitel": "vol.36 天气之子: 没有人应当被牺牲",
+  "bild_url": "https://cdn.lizhi.fm/audio_cover/2020/08/08/2821002463157576199_80x80.jpg"
+}

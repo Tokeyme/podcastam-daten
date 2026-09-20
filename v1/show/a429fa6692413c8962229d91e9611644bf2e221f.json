@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "任Lee行｜旅行",
   "apple_collection_id": "1669946393",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_618567926",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "深入体验江南文化与苏州机制，五天四晚高端休闲苏州之旅全解析。"
+    },
+    {
+      "guid": "xmly_track_616906200",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasH37atACAAAAIAngEy.mp3.m4a?channel=rss&album_id=73904913&track_id=616906200&uid=80168788&jt=https://aod.cos.tx.xmcdn.com/storages/2cb1-audiofreehighqps/EF/7B/GKwRIasH37atACAAAAIAngEy.mp3",
+      "pfad": "/v1/episode/6a6f1c91b54fe987e73a9ce206d8dbc724699c79.json",
+      "titel": "走，去云南玩咯！",
+      "veroeffentlicht": "2023-03-09T14:56:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "滇东采风环游记：云南八日旅游行程介绍"
+    },
+    {
+      "guid": "xmly_track_616905449",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIH37YxAKXgbwIAncDX.m4a?channel=rss&album_id=73904913&track_id=616905449&uid=80168788&jt=https://aod.cos.tx.xmcdn.com/storages/d065-audiofreehighqps/5B/02/GKwRIJIH37YxAKXgbwIAncDX.m4a",
+      "pfad": "/v1/episode/e1295f166abaf9fd26f887d4a4413e54d2758dbb.json",
+      "titel": "第三期｜去云南玩咯！",
+      "veroeffentlicht": "2023-03-09T14:53:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享滇东采风环游记的八天行程安排与沿途风光。"
+    },
+    {
+      "guid": "xmly_track_609052574",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSIHtPxsACAAAAH0UWFq.mp3.m4a?channel=rss&album_id=73904913&track_id=609052574&uid=80168788&jt=https://aod.cos.tx.xmcdn.com/storages/62c5-audiofreehighqps/0D/22/GMCoOSIHtPxsACAAAAH0UWFq.mp3",
+      "pfad": "/v1/episode/53228cb228d39b7917774677bdbdc8d44428d8d7.json",
+      "titel": "第二期｜聊聊潮州",
+      "veroeffentlicht": "2023-02-05T05:07:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨潮州的历史文明、文化特色与商业发展"
+    },
+    {
+      "guid": "xmly_track_608845970",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSUHs6vmACAAAAHz-KtP.mp3.m4a?channel=rss&album_id=73904913&track_id=608845970&uid=80168788&jt=https://aod.cos.tx.xmcdn.com/storages/2d02-audiofreehighqps/CC/AE/GMCoOSUHs6vmACAAAAHz-KtP.mp3",
+      "pfad": "/v1/episode/bd73b6b54482fa93128c02bc4fbbd8c2ea96feb3.json",
+      "titel": "第一期｜聊聊旅行和泉州",
+      "veroeffentlicht": "2023-02-04T05:11:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨旅行的意义及泉州的历史文化"
     }
   ]
 }

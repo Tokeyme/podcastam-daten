@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "https://aod.cos.tx.xmcdn.com/storages/6839-audiofreehighqps/C0/40/CKwRIW4FGn58ABAAAADkFw-x.mp3",
+  "apple_collection_id": "1472307819",
+  "show": "Tech Buzz China 英文科技评论",
+  "titel": "Livecast #4: Deep Dive into Agora $API with Kevin Xu of Interconnected.blog",
+  "audio": {
+    "url": "https://jt.ximalaya.com//CKwRIW4FGn58ABAAAADkFw-x.mp3.m4a?channel=rss&album_id=15006724&track_id=454502581&uid=111561137&jt=https://aod.cos.tx.xmcdn.com/storages/6839-audiofreehighqps/C0/40/CKwRIW4FGn58ABAAAADkFw-x.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:31:33+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "深入探讨 Agora 的技术与商业模式",
+  "kurzfassung": "本期节目深入探讨了服务平台 Agora。讨论涵盖了首席执行官 Tony Zhao 的背景经历。同时分析了 Agora 面向开发者的业务模式与技术特点。",
+  "stichpunkte": [
+    "Agora 作为服务平台的定义",
+    "首席执行官 Tony Zhao 的背景与经历",
+    "面向开发者且基于使用的业务模式",
+    "中国基础技术出海的创新探讨",
+    "对 Easymob 的收购"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:31:33+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1787,
+  "veroeffentlicht": "2021-09-17T16:02:25+00:00",
+  "beschreibung": "Recorded Thursday 2/10/21.\nKevin, now at Github, is the founder of interconnected.blog, a bilingual newsletter on the intersections of tech, business, money, geopolitics, and US-Asia relations.\nWe go over:\nWhat is Agora? It's a platform as a service company.\nThe origin story of Tony Zhao the CEO who was previously at WebEx & then CTO at YY, where he achieved substantial success.\nAgora's technology & business model, which is developer facing and self service and usage based\nWhat happens when there are more Chinese companies like Agora building infrastructure technologies? Does innovation have to be something super different / sexy or can it also be arising out of battle-tested scaling-up technologies, like Agora? And finally, Agora's latest acquisition, another Chinese company called Easymob.",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">Recorded Thursday 2/10/21.<br>Kevin, now at Github, is the founder of interconnected.blog, a bilingual newsletter on the intersections of tech, business, money, geopolitics, and US-Asia relations.<br>We go over:<br>What is Agora? It's a platform as a service company.<br>The origin story of Tony Zhao the CEO who was previously at WebEx &amp; then CTO at YY, where he achieved substantial success.<br>Agora's technology &amp; business model, which is developer facing and self service and usage based<br>What happens when there are more Chinese companies like Agora building infrastructure technologies? Does innovation have to be something super different / sexy or can it also be arising out of battle-tested scaling-up technologies, like Agora? And finally, Agora's latest acquisition, another Chinese company called Easymob.<br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/group40/M08/DE/99/wKgJVFrW4yvjaJF3AANuX9XpBoc912.jpg",
+  "folgennummer": 10
+}

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Dog Walk",
   "apple_collection_id": "1448532887",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "f7732f53-6ae4-43cc-ba96-fe917dd14006",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/landmark-dynamic.barstoolsports.com/stream/v2/yWZ0BnueEO8uDTKEPKWgXapo/audio.mp3?v=1",
+      "pfad": "/v1/episode/0ed9e54c1ccfddf39d264340e88f88bcd7e77a42.json",
+      "titel": "Thursday 9/17/2026 - The Mystery of the Dyatlov Pass Incident",
+      "veroeffentlicht": "2026-09-17T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The mystery of the 1959 Dyatlov Pass incident."
+    },
     {
       "guid": "9106faf9-65ba-48b4-a5c4-d02ac2e35494",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/landmark-dynamic.barstoolsports.com/stream/v2/qfEe4sAq3EOZHKKgoKRRMmj1/audio.mp3?v=2",
@@ -13,6 +23,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Hotel stay mishaps, travel habits, and golf dilemmas on the Dog Walk."
+    },
+    {
+      "guid": "99ff8048-8ab1-4a8a-88b6-2cbd6976b394",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/landmark-dynamic.barstoolsports.com/stream/v2/Dwkd60Isz4B9IIFPteMfoPV4/audio.mp3?v=1",
+      "pfad": "/v1/episode/53654ee979645aa9f050f850dee461e77e32f403.json",
+      "titel": "Thursday 9/10/2026 - Remembering First Responders on 9/11",
+      "veroeffentlicht": "2026-09-10T11:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Remembering the first responders and victims of September 11, 2001."
+    },
+    {
+      "guid": "f7ef53fb-15f7-4a07-87bd-f0c97aa2412a",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/landmark-dynamic.barstoolsports.com/stream/v1/6ifb6PCO0i6U8bC5N5l7NkEq/audio.mp3?v=eyJzcmMiOiJodHRwczovL2Fzc2V0cy5iYXJzdG9vbHNwb3J0cy5jb20vZXBpc29kZXMvNmlmYjZQQ08waTZVOGJDNU41bDdOa0VxL1EwUG9VYzFpOGJyeUNOcmNJSmpFYkFXdS5tcDM%2Fdj0yIiwiYmVjIjpbIm1hbGUiLCJsaWZlc3R5bGUiXSwiYWZwIjpudWxsfQ%3D%3D",
+      "pfad": "/v1/episode/abf596070cdcd07067531be8f7ab69be28c2b777.json",
+      "titel": "Dana Beers Recaps Surviving Barstool + Strange Golf Course & Eating Habits (Free Swim)",
+      "veroeffentlicht": "2026-09-09T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Preferences on bagels, wild leash scenarios, and Surviving Barstool finale thoughts."
+    },
+    {
+      "guid": "a135dc09-b1cc-4d4c-bb40-cb68eafa6727",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/landmark-dynamic.barstoolsports.com/stream/v2/3v2OyPSVHal6NFkD1UkqdaWH/audio.mp3?v=1",
+      "pfad": "/v1/episode/cf2692f04b7f7b40462c2666d12598f37a9d66f5.json",
+      "titel": "How Much Will Ohio's Tate's Potential CFB Punishment List Ruin His Life (Free Swim)",
+      "veroeffentlicht": "2026-09-02T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ranking the potential consequences of an undefeated season guarantee by Ohio's Tate."
     }
   ]
 }

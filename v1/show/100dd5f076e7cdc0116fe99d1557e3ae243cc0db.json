@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Overshare 英文播客",
   "apple_collection_id": "1749481146",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "66b4894598727a67998e0bdf",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨英国私人停车场的罚款陷阱、纪录片制作伦理以及职业选择等话题。"
+    },
+    {
+      "guid": "668be594ae8e21859a65b5db",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66518f204efbc0c3dcf15c38/668be594ae8e21859a65b5db/media.xyzcdn.net/lg1g6hCXN9uQISvmse0AV0GkuEeL.m4a",
+      "pfad": "/v1/episode/8c5f20bd784e94644534dd1535faa1ae60cc42e9.json",
+      "titel": "People change, things change",
+      "veroeffentlicht": "2024-07-08T13:11:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨分手是否需要对方同意及职场与人工智能话题。"
+    },
+    {
+      "guid": "6681c8ec077b88831b4d88ba",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66518f204efbc0c3dcf15c38/6681c8ec077b88831b4d88ba/media.xyzcdn.net/lqiWkrdoFYIBWHcnP9-uvG2xitu7.m4a",
+      "pfad": "/v1/episode/7b555a4bc0cb480a4c393c36c06195f6f57624cb.json",
+      "titel": "A Question of Language",
+      "veroeffentlicht": "2024-07-01T05:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨乡村隐居、乔治·W的中文水平及听众关于恋爱和语言的提问"
+    },
+    {
+      "guid": "667809b4d3fc5dd6276e5fc8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66518f204efbc0c3dcf15c38/667809b4d3fc5dd6276e5fc8/media.xyzcdn.net/lhtStt-rK_iRTeejnky4QbDObglg.m4a",
+      "pfad": "/v1/episode/fd7a6cd00b8d276f2bb2d433e9219232893eae32.json",
+      "titel": "When Animals Rule",
+      "veroeffentlicht": "2024-06-23T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨课外辅导班、接管世界的动物选择以及大学交友方式"
+    },
+    {
+      "guid": "666c05e7c26e396a36c5d0b3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66518f204efbc0c3dcf15c38/666c05e7c26e396a36c5d0b3/media.xyzcdn.net/lrzAP-X5YVVxMw3R7WxAS2j4xlLd.m4a",
+      "pfad": "/v1/episode/fe37cbc09b12e0632fd2c4989e17152ea1f9e891.json",
+      "titel": "Over-Happy Husbands, Seven Month Itches",
+      "veroeffentlicht": "2024-06-14T08:57:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论白人特权、德国印象及丈夫总是过分快乐的婚姻困扰。"
+    },
+    {
+      "guid": "66628a9663c334a2fbf5bca3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66518f204efbc0c3dcf15c38/66628a9663c334a2fbf5bca3/media.xyzcdn.net/lpjoJ4zEVR_3QmFvOvqJJtrN_af9.m4a",
+      "pfad": "/v1/episode/3187f02029a0690151ed2857733de7bded6d68f0.json",
+      "titel": "Trash Teachers, Food Fights",
+      "veroeffentlicht": "2024-06-07T04:20:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于中国酒店对外国人放宽住宿限制及听众来信的讨论"
+    },
+    {
+      "guid": "665935e694977a26ef2533f5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66518f204efbc0c3dcf15c38/665935e694977a26ef2533f5/media.xyzcdn.net/lgLmgb2k4HxY6PnABYaZtKdPjchn.m4a",
+      "pfad": "/v1/episode/1281f56b8567c16afa3850d9561166ffcce03357.json",
+      "titel": "Noisy Neighbor, Couple in Conflict",
+      "veroeffentlicht": "2024-05-31T02:28:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨歌手2024的争议、幼儿教育、邻里矛盾及异乡生活等话题。"
     }
   ]
 }

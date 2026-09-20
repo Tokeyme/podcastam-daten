@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "圈内故事会",
   "apple_collection_id": "1776538486",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aa5772f492687f6aad8e9b1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6aa5772f492687f6aad8e9b1/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lj_6FOiVFH9utO0yyC0ys2ncxx71.m4a",
+      "pfad": "/v1/episode/9d2a9adecc6184a8d1e31d285a78812a2776db24.json",
+      "titel": "Vol.106 抓马故事千千万，好友情史占一半！",
+      "veroeffentlicht": "2026-09-13T16:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "四个真实度存疑的朋友抓马八卦故事分享"
+    },
+    {
+      "guid": "6a9bd4a9a0210c197dcddd4a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a9bd4a9a0210c197dcddd4a/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lo5p8bTEqWzSN8_uWpLkoiotpyQR.m4a",
+      "pfad": "/v1/episode/c8c06644266f991a946097e8f202411329cb94e9.json",
+      "titel": "Vol.105 \"前任遗物\"是纪念品？还是眼中钉？",
+      "veroeffentlicht": "2026-09-06T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨分手后如何处理前任留下的物品与回忆"
+    },
+    {
+      "guid": "6a92e822a0210c197dca2b9b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a92e822a0210c197dca2b9b/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lryU6GqJJmv88pzrSB9zN3Dz4vZS.m4a",
+      "pfad": "/v1/episode/4015969e36de1ab8d34bc7d02020c28047e85644.json",
+      "titel": "Vol.104 「独处」才是能量低时的「绝佳充电器」",
+      "veroeffentlicht": "2026-08-30T16:01:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨独处对低能量状态的充电作用"
+    },
     {
       "guid": "6a89dd33ef65145dfcc3bc20",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a89dd33ef65145dfcc3bc20/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/linyx9cFL-ydUDlT4tnzRE3GOdQN.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "亲密关系和日常交往中，为什么我们总免不了要演一点“场面戏”？"
+    },
+    {
+      "guid": "6a81dca817676351c572cc5f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a81dca817676351c572cc5f/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lvmc9oLjFbJqwBDK3LdknUcvt8tN.m4a",
+      "pfad": "/v1/episode/51e657c648137c4b022635f368049338be29bf97.json",
+      "titel": "Vol.102 男顶流养成记：最大的烦恼是「太红了」！",
+      "veroeffentlicht": "2026-08-16T16:41:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一场关于成为男顶流明星的白日梦幻想"
+    },
+    {
+      "guid": "6a74add4000a55a9bb040492",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a74add4000a55a9bb040492/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lnt5nqD13IKVfxEw26hDhOaETX0A.m4a",
+      "pfad": "/v1/episode/5b057bc603c3c64dc903838577b4780be537d300.json",
+      "titel": "Vol.101 有了胜负欲，为什么这么快乐？！",
+      "veroeffentlicht": "2026-08-06T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨生活中的胜负欲与想赢的时刻。"
+    },
+    {
+      "guid": "6a6a302756a3f3491ba719a2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a6a302756a3f3491ba719a2/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lpfzlPUzf3YXRc1_kfkOq0R4Ym3b.m4a",
+      "pfad": "/v1/episode/e5563d82f3726fc0f41aee657ee7eb732f2285cc.json",
+      "titel": "Vol.100 做了100期，有了属于我们的「老友记」",
+      "veroeffentlicht": "2026-07-30T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "庆祝播客走到第100期，回顾过往的趣事与陪伴"
+    },
+    {
+      "guid": "6a62389f6356eb2d9be764ad",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a62389f6356eb2d9be764ad/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lrbQ8j5ULgUwY2_MxbmLhlpg9bSe.m4a",
+      "pfad": "/v1/episode/f49849613bbe08e0aea61197dccc5a3c0001af17.json",
+      "titel": "Vol.99 失恋疗愈指南：情伤是啥？与我无关！",
+      "veroeffentlicht": "2026-07-23T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨失恋带来的教训与走出阴霾的各种方法"
+    },
+    {
+      "guid": "6a590551016dcc7e05435989",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a590551016dcc7e05435989/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lhCrCC01heCStwEE9sVWMiRfX04K.m4a",
+      "pfad": "/v1/episode/76b3b39d8fdfbaa9dd0c20d4b56550ac0be98b78.json",
+      "titel": "Vol.98 我们都已长大，可有好多藏不住的害怕…",
+      "veroeffentlicht": "2026-07-16T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊生活中那些大大小小的害怕与不安。"
+    },
+    {
+      "guid": "6a4e5fdd3fb7233cbf45e43c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6a4e5fdd3fb7233cbf45e43c/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/ltmLnjpAUK0DXPysTEX5huIz09VE.m4a",
+      "pfad": "/v1/episode/a1869df4691a73bec9270faeba34db7cbf664939.json",
+      "titel": "Vol.97 男人陪我「演戏」，生活磨练「演技」",
+      "veroeffentlicht": "2026-07-09T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成年人在生活、恋爱和职场中无处不在的伪装与表演"
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "guid": "2d17b98e-b25a-11f1-a6a8-d35a920c52b3",
+  "apple_collection_id": "1630372322",
+  "show": "ジェーン・スー　生活は踊る",
+  "titel": "お悩み解消コーナー「相談は踊る」",
+  "audio": {
+    "url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS4853211890.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:50:37+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "关于初三女儿性格内向及父母如何给出建议的烦恼咨询",
+  "kurzfassung": "本期节目解答了一位母亲关于初三女儿的烦恼。女儿在家开朗活泼，但在学校却不善言辞。节目探讨了父母应当如何针对这种内向表现给予指导和建议。",
+  "stichpunkte": [
+    "初三女儿在家与在学校的性格表现差异",
+    "在学校口数较少且难以主动与同学交流的问题",
+    "面对女儿有时情绪低落，父母应如何进行建议"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:50:37+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 900,
+  "veroeffentlicht": "2026-09-17T05:39:00+00:00",
+  "beschreibung": "パートナーはTBS宇賀神メグアナウンサー。今回は、「中学3年生の娘のことで相談です。家では明るくひょうきんな娘が、どうやら内弁慶で、学校では口数少がなく、仲良くなりたいと思っている同級生にも話かけられないでいるようなのです。落ち込むときもあるようで、親としてどうアドバイスするのがいいのでしょうか…」という相談。第2405回 2026/9/17（木）放送(12:03〜12:17頃)より\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+  "beschreibung_html": "<p>パートナーはTBS宇賀神メグアナウンサー。今回は、「中学3年生の娘のことで相談です。家では明るくひょうきんな娘が、どうやら内弁慶で、学校では口数少がなく、仲良くなりたいと思っている同級生にも話かけられないでいるようなのです。落ち込むときもあるようで、親としてどうアドバイスするのがいいのでしょうか…」という相談。第2405回 2026/9/17（木）放送(12:03〜12:17頃)より</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/3942f2e6-d4eb-11ed-aba7-1ff5a4d90c85/image/f72e0d7160f427b688ccb331029719bd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

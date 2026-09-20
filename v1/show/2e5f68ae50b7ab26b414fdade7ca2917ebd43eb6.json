@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "兰亭思叙｜李思思个人播客",
   "apple_collection_id": "6783665121",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1008773722",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OZIruAODWeQTM7EJ9.m4a?channel=rss&album_id=124678165&track_id=1008773722&uid=584444693&jt=https://aod.cos.tx.xmcdn.com/storages/d94b-audiofreehighqps/50/D2/GKwRIW4OZIruAODWeQTM7EJ9.m4a",
+      "pfad": "/v1/episode/2e38dfd38ef75f1940c16a1db196dea58e4d904f.json",
+      "titel": "vol.04 收集听众的情绪困境：我们如何跳出焦虑循环",
+      "veroeffentlicht": "2026-08-27T13:12:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回应听众情绪困境，分享对抗焦虑与重建内心秩序的真实经历。"
+    },
     {
       "guid": "xmly_track_1004358185",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwORe-LAWslXgTBSNOy.m4a?channel=rss&album_id=124678165&track_id=1004358185&uid=584444693&jt=https://aod.cos.tx.xmcdn.com/storages/7de5-audiofreehighqps/87/B1/GKwRIRwORe-LAWslXgTBSNOy.m4a",
@@ -13,6 +23,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "插画师米蕾做客节目，探讨艺术创作、自律人生与AI时代的生命力。"
+    },
+    {
+      "guid": "xmly_track_999568667",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOJUE6AX4XmgSz7J6C.m4a?channel=rss&album_id=124678165&track_id=999568667&uid=584444693&jt=https://aod.cos.tx.xmcdn.com/storages/d220-audiofreehighqps/BD/AA/GKwRIUEOJUE6AX4XmgSz7J6C.m4a",
+      "pfad": "/v1/episode/c3cfa0bed71a9f0b605c2a2b8640204b709238af.json",
+      "titel": "vol.02李思思对谈刘开心：敏感是触摸世界的触角，别让坚强困住人生",
+      "veroeffentlicht": "2026-07-11T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "李思思对话刘开心，聊聊敏感、病痛与撕掉坚强标签的人生"
+    },
+    {
+      "guid": "xmly_track_991065198",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OBn1VAftMmQSpP4r2.m4a?channel=rss&album_id=124678165&track_id=991065198&uid=584444693&jt=https://aod.cos.tx.xmcdn.com/storages/f92d-audiofreehighqps/25/2F/GKwRIW4OBn1VAftMmQSpP4r2.m4a",
+      "pfad": "/v1/episode/ce28cbab6a53fa14ad324a50c9fdd518b703076a.json",
+      "titel": "vol.01李思思×简里里×六层楼：中女时代，如何自处",
+      "veroeffentlicht": "2026-06-17T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中年女性在生理与职业时钟下的困境与自我重塑。"
+    },
+    {
+      "guid": "xmly_track_990884166",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIOBUvgAR-zDQSo2RAZ.m4a?channel=rss&album_id=124678165&track_id=990884166&uid=584444693&jt=https://aod.cos.tx.xmcdn.com/storages/ac19-audiofreehighqps/0A/27/GKwRIaIOBUvgAR-zDQSo2RAZ.m4a",
+      "pfad": "/v1/episode/a9024527005b6631fcf4d37fe33fd37e9a8bf4b4.json",
+      "titel": "vol.00李思思：播客的自画像",
+      "veroeffentlicht": "2026-06-15T05:07:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "李思思分享创办播客“兰亭思叙”的初衷与个人经历"
     }
   ]
 }

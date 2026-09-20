@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "OneDay旅行-城市漫步",
   "apple_collection_id": "1384521268",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group58/M05/CA/FB/wKgLc1zCkJPRl_TDAEMm_yV2Tgo703.m4a",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "安徽故事的最后一集，在桃花潭边落幕。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M0A/11/53/wKgLd1ybEKvAZi-TAJmHtjb_MBk791.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgLd1ybEKvAZi-TAJmHtjb_MBk791.mp3.m4a?channel=rss&album_id=13115685&track_id=171547407&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group57/M0A/11/53/wKgLd1ybEKvAZi-TAJmHtjb_MBk791.mp3",
+      "pfad": "/v1/episode/b89daab13f1087e7b4b32759829ca4e61e66c48f.json",
+      "titel": "徽派民居典范：查济，饮一杯浊酒，回到江湖(6)",
+      "veroeffentlicht": "2019-03-27T12:08:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走进查济古村，在陈家酿酒坊与故人重逢的旅程。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M01/FE/91/wKgLgFyCAv-BKpylAB-0R4OaXAg883.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgLgFyCAv-BKpylAB-0R4OaXAg883.m4a?channel=rss&album_id=13115685&track_id=166302152&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group56/M01/FE/91/wKgLgFyCAv-BKpylAB-0R4OaXAg883.m4a",
+      "pfad": "/v1/episode/f696322d6fcd0df2793b7ff20ca054335532f2b4.json",
+      "titel": "中国最美村落：查济，隐于诗画般的生活(5)",
+      "veroeffentlicht": "2019-03-08T10:51:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访中国最美古村落查济，感受隐于诗画般的生活。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M04/80/E6/wKgLcFw--KbDBMlkAMliunXHmjw600.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgLcFw--KbDBMlkAMliunXHmjw600.mp3.m4a?channel=rss&album_id=13115685&track_id=153063328&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group52/M04/80/E6/wKgLcFw--KbDBMlkAMliunXHmjw600.mp3",
+      "pfad": "/v1/episode/0b53c311ecf410625dda9b1026a1043cd595a928.json",
+      "titel": "做龙舟的老师傅，十年如一日，匠人匠心|OneDay安徽黄山宣城（4）",
+      "veroeffentlicht": "2019-01-16T09:30:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访安徽宣城桃花潭，走近码头边的龙舟老匠人"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M0B/98/7A/wKgLclwcf3fB3_VfAJVm6lGNHZA486.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgLclwcf3fB3_VfAJVm6lGNHZA486.mp3.m4a?channel=rss&album_id=13115685&track_id=146453677&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group54/M0B/98/7A/wKgLclwcf3fB3_VfAJVm6lGNHZA486.mp3",
+      "pfad": "/v1/episode/29bc460edfab9cf6472dbd593e7d62df904193f3.json",
+      "titel": "龙舟文化起源，桃花潭|OneDay安徽黄山宣城（3）",
+      "veroeffentlicht": "2018-12-21T06:01:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访安徽宣城桃花潭的东岸小巷与龙舟文化"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M03/BE/A6/wKgKmlv02Svg6P6YAMnodeoARLc647.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgKmlv02Svg6P6YAMnodeoARLc647.mp3.m4a?channel=rss&album_id=13115685&track_id=138279415&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group51/M03/BE/A6/wKgKmlv02Svg6P6YAMnodeoARLc647.mp3",
+      "pfad": "/v1/episode/1af40bf9bf6b46bfb43e75ec2cde6b4a1e341fae.json",
+      "titel": "安徽不止有宏村，还有十里桃花潭|OneDay黄山宣城（2）",
+      "veroeffentlicht": "2018-11-21T04:09:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "漫步安徽桃花潭，探访青石板老街与当地居民的日常生活。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M05/E8/9C/wKgKnVvetiCAhsa6ACM1i3ZF-rg762.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgKnVvetiCAhsa6ACM1i3ZF-rg762.m4a?channel=rss&album_id=13115685&track_id=134175475&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group50/M05/E8/9C/wKgKnVvetiCAhsa6ACM1i3ZF-rg762.m4a",
+      "pfad": "/v1/episode/8e73e9da7ecf0b5cb78fc9d9e95924fe0e027181.json",
+      "titel": "聆听江南女子的吴侬细语，和她一起走进李白的十里桃花潭|OneDay黄山宣城（1）",
+      "veroeffentlicht": "2018-11-04T09:14:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访黄山桃花潭与水东老街的晨景与诗意生活"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M01/0E/7C/wKgKmlu7l4PwAq-0AHEqlmvWSxI373.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgKmlu7l4PwAq-0AHEqlmvWSxI373.mp3.m4a?channel=rss&album_id=13115685&track_id=128153400&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group51/M01/0E/7C/wKgKmlu7l4PwAq-0AHEqlmvWSxI373.mp3",
+      "pfad": "/v1/episode/849535da2aa568b3e1fa6aa0f80b1f234dfb7ca9.json",
+      "titel": "OneDay西安(6) 梦回长安，大唐不夜城 |终章",
+      "veroeffentlicht": "2018-10-09T12:00:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "西安之旅的最后一集，漫步南门内外感受古今交织。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group48/M04/4C/FF/wKgKlVuXmY2xckqLAJAw3yynYiA111.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgKlVuXmY2xckqLAJAw3yynYiA111.mp3.m4a?channel=rss&album_id=13115685&track_id=122862030&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group48/M04/4C/FF/wKgKlVuXmY2xckqLAJAw3yynYiA111.mp3",
+      "pfad": "/v1/episode/f1e022b9e139d53932023d3ae57782ee7fb7e0e1.json",
+      "titel": "OneDay西安(5) 西安钟鼓楼 |古城人才知道的秘密",
+      "veroeffentlicht": "2018-09-13T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "西安钟鼓楼与南门一带的城市记忆与历史"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M01/09/91/wKgKlluFFRHwqt1bAF_Wpt-iVQY805.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgKlluFFRHwqt1bAF_Wpt-iVQY805.mp3.m4a?channel=rss&album_id=13115685&track_id=114215643&uid=104867525&jt=https://aod.cos.tx.xmcdn.com/group46/M01/09/91/wKgKlluFFRHwqt1bAF_Wpt-iVQY805.mp3",
+      "pfad": "/v1/episode/f346505939802170c5ae4e3a3d8804e7eaca4d9c.json",
+      "titel": "OneDay西安(4) 回民街美食哪些才是老字号？|回民街上有乾坤",
+      "veroeffentlicht": "2018-08-28T09:32:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访西安回民街核心区域，寻找真正的好味道"
     }
   ]
 }

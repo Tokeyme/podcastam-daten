@@ -2,8 +2,58 @@
   "schema_version": 1,
   "show": "旺财财经（粤语）",
   "apple_collection_id": "1886060145",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aab53029d326477816a618d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6aab53029d326477816a618d/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lljvWZu1xXPKC9u_zy19j4KCTtcv.m4a",
+      "pfad": "/v1/episode/39b55f6de97b839dc6a6cf801968093fc4ce450c.json",
+      "titel": "深度拆解瑞幸：暴雷退市、大股东设局、中东资本入场与3.6万家店的终局 粤语财经",
+      "veroeffentlicht": "2026-09-17T02:41:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深度剖析瑞幸咖啡的发展历程、资本运作与未来走向"
+    },
+    {
+      "guid": "6aa8215a129fe965d33286e4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6aa8215a129fe965d33286e4/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lgTgUNlBKSLRy9y2Zv0LJyxTBSV8.m4a",
+      "pfad": "/v1/episode/f3f16cd1a712279a9ebd53dcbc020b5ad482a7ab.json",
+      "titel": "粤语｜烂片经济学 一张电影票的资本旅行：钱到底被谁拿走了？",
+      "veroeffentlicht": "2026-09-14T19:40:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "剖析电影票房分配机制与普通人的影视投资渠道。"
+    },
+    {
+      "guid": "6aa0523af03e74ee6b0747b5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6aa0523af03e74ee6b0747b5/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lsFTpnW50mCPnDTT7j-pWrm4uEEv.m4a",
+      "pfad": "/v1/episode/aea1319985d7a65b0f72c59b3bc53bcafaf0a45f.json",
+      "titel": "粤语｜地表最强法务防线破裂！迪士尼在反垄断面前选择掏支票",
+      "veroeffentlicht": "2026-09-08T20:40:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "迪士尼反垄断案：流媒体巨头为何支付千万赔偿和解"
+    },
+    {
+      "guid": "6a985ae3f03e74ee6b041fd7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a985ae3f03e74ee6b041fd7/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lkwbd7R43EdyVechnlb-0LWU_nqz.m4a",
+      "pfad": "/v1/episode/8dfa0c687e0058597efddf13846ae54f1f3fc9b0.json",
+      "titel": "粤语｜2026，谁在花钱？谁在省钱？汽车卖不动，储蓄创新高——真相藏在这份报告里",
+      "veroeffentlicht": "2026-09-02T17:26:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读2026年二季度中国消费者消费意愿调查报告"
+    },
+    {
+      "guid": "6a8dc732ef65145dfcc55604",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a8dc732ef65145dfcc55604/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lmDDQp5ZjdY3xFSgkxK4R4mzpPaa.m4a",
+      "pfad": "/v1/episode/2efd5186f23d811bb9cb62d36450528b797a3cc9.json",
+      "titel": "粤语｜别买！从历史周期看，这次 AI 引发的存储暴涨有何不同？",
+      "veroeffentlicht": "2026-08-25T18:35:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "剖析历史周期，探讨由人工智能引发的存储芯片价格暴涨现象。"
+    },
     {
       "guid": "6a8488218156bf33621a6e4b",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a8488218156bf33621a6e4b/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lm60rYGtcVIBruc6v0JEKfLvCyjH.m4a",
@@ -13,6 +63,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨日元套利交易的运作逻辑及其对全球流动性的深远影响。"
+    },
+    {
+      "guid": "6a7e03a517676351c57188aa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a7e03a517676351c57188aa/media.xyzcdn.net/69adb38f1c9a477e25bca76d/ljoRJg9bd9quqxnz6n4-ZoiM4Le8.m4a",
+      "pfad": "/v1/episode/cf86b7d0708abd2e7d44474eb0cd37098aa6f3b5.json",
+      "titel": "粤语｜华尔街不埋单了？砸钱造不出盈利，硅谷AI巨头二季报背后的变现困局",
+      "veroeffentlicht": "2026-08-13T19:09:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "硅谷AI巨头二季报显示华尔街对高额资本开支态度转变。"
+    },
+    {
+      "guid": "6a78aa76c4079d62c57fd0c6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a78aa76c4079d62c57fd0c6/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lvInXPcvAkzscLDRVLf8FguC_EHQ.m4a",
+      "pfad": "/v1/episode/fac4f5c4f7aed9cd05d7b2969ffbda7b0e60a20e.json",
+      "titel": "粤语｜【旺财一周】外贸狂揽30万亿！沙特阿美暴赚，为何只有美科技股受伤？",
+      "veroeffentlicht": "2026-08-09T16:30:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读8月全球经济矛盾数据：外贸、美股财报与地缘局势。"
+    },
+    {
+      "guid": "6a6f7dd71b5e24969ce7c94d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69adb38f1c9a477e25bca76d/6a6f7dd71b5e24969ce7c94d/media.xyzcdn.net/69adb38f1c9a477e25bca76d/lsufseIdCRuvzGaOlrbtRGILffPD.m4a",
+      "pfad": "/v1/episode/cea1dcbe87de167626f6dfe3dbf23089951c734d.json",
+      "titel": "粤语｜印钱给全世界花，写在MADE IN CHINA里的终极密码（下）",
+      "veroeffentlicht": "2026-08-03T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国印钞造币集团的全球化布局及其面临的转型挑战"
     }
   ]
 }

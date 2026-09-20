@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "guid": "6a74219f1b5e24969ce9ce0d",
+  "apple_collection_id": "1835452860",
+  "show": "C哥聊科技",
+  "titel": "【C哥日课】小红书笔记存进Obsidian：复制链接就能直接导入",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68ab14c71edba57468005489/6a74219f1b5e24969ce9ce0d/media.xyzcdn.net/68ab14c71edba57468005489/FoqSYWfjLqqtGioEmiHhj2uJS_gI.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-19T13:20:50+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "使用插件将小红书笔记一键导入Obsidian知识库",
+  "kurzfassung": "介绍如何使用Xiaohongshu Importer Plus插件将小红书内容导入Obsidian。讲解了插件的安装步骤、路径设置和Frontmatter配置。演示了通过复制链接直接导入正文和下载图片的方法。",
+  "stichpunkte": [
+    "介绍Xiaohongshu Importer Plus插件",
+    "插件的安装与启用步骤",
+    "存储路径与附件目录的设置方法",
+    "Frontmatter资料卡的默认配置",
+    "通过复制链接和粘贴导入笔记的操作流程",
+    "Markdown笔记和图片的自动保存",
+    "结合AI整理新导入内容的后续步骤"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:20:50+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 215,
+  "veroeffentlicht": "2026-08-06T05:55:55+00:00",
+  "beschreibung": "【本期主题】\n小红书收藏的干货文章终于不用在收藏夹里吃灰了！一个插件 Xiaohongshu Importer Plus，复制链接回到 Obsidian 点两下，正文干干净净导入，评论区废信息全部过滤，还能自动下载图片。\n【核心看点】\n小红书收藏夹里存了一堆干货，但每次想看还得打开 app 翻半天，你是不是也这样？\n\n之前用浏览器剪藏小红书，评论区、图片全被导入进来，一堆废信息怎么解决？\n\n今天补上一个专门针对小红书的剪藏入口——Xiaohongshu Importer Plus，正文干净直达知识库？\n\n安装步骤：设置 → 第三方插件 → 浏览 → 搜索 xiaohongshu → 安装 → 启用，少一步都不行？\n\n设置里注意两个路径：Default note folder 指向存放剪藏内容的目录，Default image folder 指向附件目录，路径必须是基于库的相对路径？\n\nFrontmatter 就是笔记的资料卡，方便以后按日期或标签筛选，一开始不用配太复杂，默认就行？\n\n小红书复制链接 → Obsidian 左侧出现「书本」logo → Ctrl+V 粘贴 → 勾选下载图片 → 点击 Import，一条笔记就建好了？\n\n导入成功后，Obsidian 会自动在指定路径创建 Markdown 笔记，图片也自动存好，干干净净？\n\n最后别忘了让 AI 帮你整理新加入的干货，知识库才算真正跑起来了？\n\n【主播】\n软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<h2><strong>【本期主题】</strong></h2><p>小红书收藏的干货文章终于不用在收藏夹里吃灰了！一个插件 Xiaohongshu Importer Plus，复制链接回到 Obsidian 点两下，正文干干净净导入，评论区废信息全部过滤，还能自动下载图片。</p><h2><strong>【核心看点】</strong></h2><ul><li><p>小红书收藏夹里存了一堆干货，但每次想看还得打开 app 翻半天，你是不是也这样？</p></li><li><p>之前用浏览器剪藏小红书，评论区、图片全被导入进来，一堆废信息怎么解决？</p></li><li><p>今天补上一个专门针对小红书的剪藏入口——Xiaohongshu Importer Plus，正文干净直达知识库？</p></li><li><p>安装步骤：设置 → 第三方插件 → 浏览 → 搜索 xiaohongshu → 安装 → 启用，少一步都不行？</p></li><li><p>设置里注意两个路径：Default note folder 指向存放剪藏内容的目录，Default image folder 指向附件目录，路径必须是基于库的相对路径？</p></li><li><p>Frontmatter 就是笔记的资料卡，方便以后按日期或标签筛选，一开始不用配太复杂，默认就行？</p></li><li><p>小红书复制链接 → Obsidian 左侧出现「书本」logo → Ctrl+V 粘贴 → 勾选下载图片 → 点击 Import，一条笔记就建好了？</p></li><li><p>导入成功后，Obsidian 会自动在指定路径创建 Markdown 笔记，图片也自动存好，干干净净？</p></li><li><p>最后别忘了让 AI 帮你整理新加入的干货，知识库才算真正跑起来了？</p></li></ul><h2><strong>【主播】</strong></h2><p>软件和人工智能专家，程序员，已申请数十项技术专利。连续创业者，历任多家公司 CTO，AI 畅销书《DeepSeek 全场景指南》《学会提问，驾驭 AI：提示词从入门到精通》《玩转 Skill》作者，C 哥的 AI 成长圈主理人，帮众多企业和个人落地 AI。</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/6a74219f1b5e24969ce9ce0d?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/FtU9lMNu8TA6FSN4sB93H4xej578.jpg"
+}

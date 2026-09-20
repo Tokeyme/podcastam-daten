@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "刘嘟嘟的旅行日记簿",
   "apple_collection_id": "1833746671",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "69e0f8dce2c8be31556815b9",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "旅法插画师孙艺萌做客三亚，分享创作背后的真实生活与心路历程。"
+    },
+    {
+      "guid": "698c668a66e2c30377071cd6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6844a1b5270bcdcac3f6448c/698c668a66e2c30377071cd6/media.xyzcdn.net/6844a1b5270bcdcac3f6448c/luzu3BUijCIV6kYfsDVLow0ey9cr.m4a",
+      "pfad": "/v1/episode/fcde02c1a0a65615ff78307ca358d20f0ec5e8b3.json",
+      "titel": "Vol.3｜2025,我们都没有活成自己想象中的样子",
+      "veroeffentlicht": "2026-02-11T11:28:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2025年的真实感受，面对不确定与自我怀疑。"
+    },
+    {
+      "guid": "69258c1de09dc0297ad1f84d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6844a1b5270bcdcac3f6448c/69258c1de09dc0297ad1f84d/media.xyzcdn.net/6844a1b5270bcdcac3f6448c/lsKf7j65j1_gtSecR7WDcv_shFWO.m4a",
+      "pfad": "/v1/episode/b6dbec1e19af172e99ee2ddafa183c7bce4743a2.json",
+      "titel": "Vol.2｜城市漫游：巴塞罗那🍊",
+      "veroeffentlicht": "2025-11-25T11:20:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "巴塞罗那旅游攻略与城市印象"
+    },
+    {
+      "guid": "689c91879fb6883bb36efcee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6844a1b5270bcdcac3f6448c/689c91879fb6883bb36efcee/media.xyzcdn.net/6844a1b5270bcdcac3f6448c/lnBFFkoJ43qyeoV50vhw9EhVyNAL.m4a",
+      "pfad": "/v1/episode/c48a8108aab7a9bccc5fc8ad351949de25ab1775.json",
+      "titel": "Vol.1｜聊聊追星那些事-孙燕姿",
+      "veroeffentlicht": "2025-08-13T13:29:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾与孙燕姿相关的音乐记忆与演唱会经历"
     }
   ]
 }

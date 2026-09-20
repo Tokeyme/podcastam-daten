@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "大牌小局",
   "apple_collection_id": "1625912513",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aacc7c39d326477816afab6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/6aacc7c39d326477816afab6/media.xyzcdn.net/62823f1d4070a48aa1b57a51/lpXFowyl7mQEeBx8BiQ8BF2lKWxL.m4a",
+      "pfad": "/v1/episode/59578194b61f2687374deec77ce6f1722ba25a14.json",
+      "titel": "为什么你的产品卖得好，AI却只推荐竞品？",
+      "veroeffentlicht": "2026-09-18T05:22:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI搜索如何重构消费决策及品牌营销策略。"
+    },
     {
       "guid": "653cd48c21aad9875417e31e",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/653cd48c21aad9875417e31e/media.xyzcdn.net/lhcecnXnSMwkUbhS8zRTQslnYr8S.m4a",
@@ -13,6 +23,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨城市骑行热潮，从小红书与RE而意视角看骑行背后的生活方式与商业新机会。"
+    },
+    {
+      "guid": "644121223d2b2ce0bd86858a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/644121223d2b2ce0bd86858a/media.xyzcdn.net/lnAqfOvAFq3w4-8qFKfphxS8VeUh.m4a",
+      "pfad": "/v1/episode/4c30d1d7f9518f76595da254a18765c01901b5f1.json",
+      "titel": "EP05_不创新，毋宁死？和百威、Impact Hub Shanghai聊聊消费企业创新",
+      "veroeffentlicht": "2023-04-20T11:25:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨存量市场下消费企业的创新思路与实践"
+    },
+    {
+      "guid": "64141dbc179eec5331a06fb4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/64141dbc179eec5331a06fb4/media.xyzcdn.net/lr8e70bjofZqE8M45hTCaBKbG4Gs.m4a",
+      "pfad": "/v1/episode/efe4dcc392aed3d0ac8c778eb6f2b5f34b7f3acd.json",
+      "titel": "消费复苏特辑_对话夸迪、追觅和阳狮，聊聊复苏态势下流量营销怎么做？",
+      "veroeffentlicht": "2023-03-17T07:58:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨消费复苏态势下的流量营销策略与品牌增长路径"
+    },
+    {
+      "guid": "638f3fd0e0b249999a59081e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/638f3fd0e0b249999a59081e/media.xyzcdn.net/locxNgSn-_Dcefd4sC7agytpOJTQ.m4a",
+      "pfad": "/v1/episode/b8d6102044b2d3be3a4cb395512ad0292083333b.json",
+      "titel": "EP04_吃菜拯救世界？和叮咚、良食聊聊生鲜消费的现实和趋势",
+      "veroeffentlicht": "2022-12-06T13:12:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨生鲜消费现实与趋势，以及食物体系转型的可能"
+    },
+    {
+      "guid": "6363a53d910f1acc8e48d578",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/6363a53d910f1acc8e48d578/media.xyzcdn.net/lgNnAHLoPuJZUzDYYX9civjE7xlr.m4a",
+      "pfad": "/v1/episode/a93b2b49ae75c9148efcec9dd567894b35a241bd.json",
+      "titel": "EP03_游走在城市与山海之间，和小红书、ABC Camping聊聊户外这股风",
+      "veroeffentlicht": "2022-11-03T11:25:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨户外运动热潮下的消费市场与露营风口"
+    },
+    {
+      "guid": "632d90eb9186d4e4c46a03be",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/632d90eb9186d4e4c46a03be/media.xyzcdn.net/lnFU_ZGGgzslaQMkbyjboHEkVHxY.m4a",
+      "pfad": "/v1/episode/629ae826196dc69efeda26515c8c8eb66a94e148.json",
+      "titel": "如何读懂多元世代的非标准需求，我们问了问小佩、王小卤和小红书",
+      "veroeffentlicht": "2022-09-23T10:56:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何在多元消费市场中洞察并挖掘非标准的用户需求"
+    },
+    {
+      "guid": "63245766fd9db0318c021015",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/63245766fd9db0318c021015/media.xyzcdn.net/lkO8c8QPe2wP3DWvQD8DyjxuG-_7.m4a",
+      "pfad": "/v1/episode/e4f6b84409ceacdb4b78ca5d8371afb1d9e4f2ed.json",
+      "titel": "别卷了，和抖音电商、逐本和minayo聊聊品牌如何走出增长焦虑",
+      "veroeffentlicht": "2022-09-16T11:00:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨新消费品牌如何应对增长焦虑与破解内卷"
+    },
+    {
+      "guid": "6319c254e50e37575adb1ecb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/6319c254e50e37575adb1ecb/media.xyzcdn.net/lmketGY8uabkdIGFf98ieQletRK0.m4a",
+      "pfad": "/v1/episode/07f9ba5b803ce953a647bca67d138e0a1987ae75.json",
+      "titel": "如何打造「爆品」？和安克、CHALI、天图投资聊聊「爆品」背后的逻辑",
+      "veroeffentlicht": "2022-09-08T10:22:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何打造爆品以及背后的逻辑与能力"
+    },
+    {
+      "guid": "62fdfce1a9178473b741da47",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62823f1d4070a48aa1b57a51/62fdfce1a9178473b741da47/media.xyzcdn.net/lsirtAsT5gFXR6DJPvJ3DZfkLuK7.m4a",
+      "pfad": "/v1/episode/e7c4a930d8078ebe5e84851c77618a9ce38ed6a8.json",
+      "titel": "EP02_品牌扎堆出“零碳”产品？和OATLY、循环派聊聊消费品的“绿化”工程",
+      "veroeffentlicht": "2022-08-18T08:48:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨消费品行业的“绿化”工程与可持续转型"
     }
   ]
 }

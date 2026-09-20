@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "24小时新闻直播间",
   "apple_collection_id": "1444716592",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_621842055",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨孔乙己文学走红背后的当代青年生存压力与时代共鸣。"
+    },
+    {
+      "guid": "xmly_track_619685167",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4H7iZXAC_lqgIE02GL.m4a?channel=rss&album_id=19597607&track_id=619685167&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/de8a-audiofreehighqps/65/BF/GKwRIW4H7iZXAC_lqgIE02GL.m4a",
+      "pfad": "/v1/episode/59478f3fd0666100ecb28d3ace9f7ed9d87c2d9d.json",
+      "titel": "网友：都有这公公了，还要啥编制？！公公豪掷“117万“为“准儿媳买编制”被骗",
+      "veroeffentlicht": "2023-03-24T04:49:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "广西北海刘大叔为准儿媳花117万买编制被骗一案"
+    },
+    {
+      "guid": "xmly_track_619405281",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoH7M9sADbcWwIEZQhP.m4a?channel=rss&album_id=19597607&track_id=619405281&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/bd84-audiofreehighqps/A2/DD/GKwRIDoH7M9sADbcWwIEZQhP.m4a",
+      "pfad": "/v1/episode/b80cfe3adeeac78752018f0d690acae7d10f5f78.json",
+      "titel": "衣冠禽兽！女生被造黄谣，被骂“荡妇”，嫌疑人竟是昔日”品学兼优“的高中同学？！",
+      "veroeffentlicht": "2023-03-24T04:49:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "女生遭遇恶意P图造黄谣，嫌疑人竟是昔日高中同学"
     }
   ]
 }

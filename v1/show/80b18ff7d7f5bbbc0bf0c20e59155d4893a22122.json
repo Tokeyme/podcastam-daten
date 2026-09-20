@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Sherry的读书分享",
   "apple_collection_id": "1587907611",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_533791825",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨感知、统觉、综合感觉及因果时间感知等哲学心理学议题"
+    },
+    {
+      "guid": "xmly_track_496456514",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIFxpVTABAAAAERW5Hf.mp3.m4a?channel=rss&album_id=53437607&track_id=496456514&uid=369173975&jt=https://aod.cos.tx.xmcdn.com/storages/9454-audiofreehighqps/EB/02/GKwRIJIFxpVTABAAAAERW5Hf.mp3",
+      "pfad": "/v1/episode/03c8b2be2dd04d1a5ebe150c2c799087cde6db8d.json",
+      "titel": "人的成长3.3-3.4关于早期孩子是否该背单词拼写的探讨",
+      "veroeffentlicht": "2022-01-26T04:47:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨儿童早期是否应该背诵单词和拼写。"
     }
   ]
 }

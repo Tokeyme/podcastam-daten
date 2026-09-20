@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "播客翻译计划",
   "apple_collection_id": "1831665175",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aaea511ac389df82734615d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6aaea511ac389df82734615d/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lnsQfItOGLTLYD4-4IwCDvzTZ3NM.m4a",
+      "pfad": "/v1/episode/2c8bc8ab298a0f6ab867b4e534627fe2635da7d8.json",
+      "titel": "你的大脑为何总爱预演灾难？3招打破最坏情况思维",
+      "veroeffentlicht": "2026-09-19T15:09:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "大脑为何总爱预演灾难以及打破这种习惯的心理练习"
+    },
+    {
+      "guid": "6aa61a6e492687f6aad9049a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6aa61a6e492687f6aad9049a/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lrcxn2FjR4VKLwCudsNXSBTM624o.m4a",
+      "pfad": "/v1/episode/8c2a3961584bb7f0204ad2372ba115c3305378ac.json",
+      "titel": "Anthropic创始人Dario Amodei：我们必须放慢AI的发展速度",
+      "veroeffentlicht": "2026-09-13T03:42:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Anthropic创始人达里奥·阿莫迪主张放慢前沿AI发展速度以确保安全。"
+    },
+    {
+      "guid": "6aa53d76492687f6aad8d49b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6aa53d76492687f6aad8d49b/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lvXstrNAa-6TN30ZYxz6mGm24zTl.m4a",
+      "pfad": "/v1/episode/60c3921da1dbb7aa68b3b84a3c4b305cce76fcba.json",
+      "titel": "All-In：AI末日论之争、OpenAI数学突破与耐克下滑",
+      "veroeffentlicht": "2026-09-12T12:05:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI末日论、OpenAI数学突破与耐克市值下滑"
+    },
+    {
+      "guid": "6aa25d29492687f6aad7ca4e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6aa25d29492687f6aad7ca4e/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lnD8zNuR4-8NTAznIr6mN8WQ_YO0.m4a",
+      "pfad": "/v1/episode/5f3823de0a6d8c2e772aeb052a196430def3e197.json",
+      "titel": "对话 Codex 负责人 Tibo",
+      "veroeffentlicht": "2026-09-10T07:36:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话 OpenAI 负责人 Tibo 探讨 Codex 的演进与架构"
+    },
+    {
+      "guid": "6aa19ba1492687f6aad78500",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6aa19ba1492687f6aad78500/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lpG2CR4wBAQFJQ4G7KnPRid7nG9f.m4a",
+      "pfad": "/v1/episode/8634e3f118baa638bb8c20584579fd8e5f6ab9bf.json",
+      "titel": "a16z合伙人：AI如何让公司变成一系列循环",
+      "veroeffentlicht": "2026-09-09T18:03:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "a16z合伙人Anish Acharya谈AI如何让公司变成循环及消费产品趋势"
+    },
+    {
+      "guid": "6aa0aefef03e74ee6b07559d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6aa0aefef03e74ee6b07559d/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lmIzDLWmxiMlQdms2WLv1nrrt_j0.m4a",
+      "pfad": "/v1/episode/4ea68875f3457eac64c87e471d07aeebc3ed9891.json",
+      "titel": "Grok Bot 诞生记：Roman Ugarte 谈一个月做出 AI 同事",
+      "veroeffentlicht": "2026-09-09T01:08:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Roman Ugarte 谈论 Grok Bot 的诞生过程与 AI 同事的产品理念。"
+    },
+    {
+      "guid": "6a9f8354f03e74ee6b06d99d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6a9f8354f03e74ee6b06d99d/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lgXRF6JRUjHfw1ZHe3V5pptnNUGj.m4a",
+      "pfad": "/v1/episode/139263ef17f3a578ba9c20a261356dde9ecd9efc.json",
+      "titel": "Andrew Huberman：改变健康的简单习惯，从晨间节律到内心平静",
+      "veroeffentlicht": "2026-09-08T03:59:41+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Andrew Huberman探讨晨间节律、健康习惯与内心平静。"
+    },
+    {
+      "guid": "6a999913f03e74ee6b04b1d1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6a999913f03e74ee6b04b1d1/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lsrN7dmgQH9k-hYD6fXTYbTS_5Vy.m4a",
+      "pfad": "/v1/episode/e5c331d78a24922d8ee7d47733d51bbe41b249b1.json",
+      "titel": "谷爱凌：金牌与告别同时降临的“地面碎裂”时刻",
+      "veroeffentlicht": "2026-09-03T18:26:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "谷爱凌深度对话，解析极限压力下的心理韧性与成长轨迹"
+    },
+    {
+      "guid": "6a93d845a0210c197dca69eb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6a93d845a0210c197dca69eb/media.xyzcdn.net/68931e643e64a3410dcc1ee9/ln1oE8rzKmFrI2mMa8orOsUVFoAR.m4a",
+      "pfad": "/v1/episode/b4c59e55faa4c47892ebf5d4f41af67b7938b359.json",
+      "titel": "All-In：英伟达和Salesforce财报强劲，SaaS末日论破灭，癌症疫苗",
+      "veroeffentlicht": "2026-08-30T08:19:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英伟达财报、Salesforce转型、美债博弈与莫德纳癌症疫苗"
+    },
+    {
+      "guid": "6a93e36ea0210c197dca6e57",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6a93e36ea0210c197dca6e57/media.xyzcdn.net/68931e643e64a3410dcc1ee9/luWwK-Mg7_5LtlkbznM_lIXRH6h3.m4a",
+      "pfad": "/v1/episode/2c730d6a3d52da6133398e1d0aa1b04f4c7423a6.json",
+      "titel": "用十万架无人机威慑欧洲地面战争：Helsing创始人Torsten Reil的国防科技野心",
+      "veroeffentlicht": "2026-08-30T08:18:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Helsing创始人Torsten Reil谈国防科技与无人机集群"
+    },
     {
       "guid": "6a8af25cef65145dfcc408c5",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6a8af25cef65145dfcc408c5/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lhJsxAW-jMVX2VsrzDYi0weVgJas.m4a",

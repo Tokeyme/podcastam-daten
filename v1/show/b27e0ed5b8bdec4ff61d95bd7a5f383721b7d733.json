@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "大王小王｜母女对谈",
   "apple_collection_id": "1722775627",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "658718b8bf3589e8942aa45b",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "母女坦诚对话女性的减肥困境，探讨如何摆脱外貌焦虑与身材审视。"
+    },
+    {
+      "guid": "6572fa2ed6e0ff5822e09d89",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6561aab5f10bbce6351dec8a/6572fa2ed6e0ff5822e09d89/media.xyzcdn.net/lrHygTUlsVsJgxS2QcYvmp8FkaYg.m4a",
+      "pfad": "/v1/episode/e814120738a8785d64073dd8a31a2adfc71110ca.json",
+      "titel": "Vol.01 母女对谈｜从讨厌宠物到亲亲宝贝，全家人怎样接纳一只小狗",
+      "veroeffentlicht": "2023-12-08T11:12:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一只雪纳瑞小狗如何走进全家人的生活"
     }
   ]
 }

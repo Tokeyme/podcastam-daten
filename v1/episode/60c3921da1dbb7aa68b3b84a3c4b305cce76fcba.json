@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "6aa53d76492687f6aad8d49b",
+  "apple_collection_id": "1831665175",
+  "show": "播客翻译计划",
+  "titel": "All-In：AI末日论之争、OpenAI数学突破与耐克下滑",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/68931e643e64a3410dcc1ee9/6aa53d76492687f6aad8d49b/media.xyzcdn.net/68931e643e64a3410dcc1ee9/lvXstrNAa-6TN30ZYxz6mGm24zTl.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T09:17:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨AI末日论、OpenAI数学突破与耐克市值下滑",
+  "kurzfassung": "本期节目聚焦近期科技与商业圈的三大核心议题。首先探讨Anthropic前员工辞职引发的AI末日论及其背后动因，分析OpenAI的数学研究进展及企业数据隐私风险。最后复盘耐克市值下滑与DTC战略的失误。",
+  "stichpunkte": [
+    "Anthropic前员工辞职事件与AI末日论争议",
+    "AI监管倡导与联邦AI部门设想",
+    "OpenAI数学研究进展与万级AI代理协作",
+    "企业使用AI的知识产权与数据泄漏风险",
+    "耐克市值大幅下跌及被移出标普100指数",
+    "耐克DTC战略与营销方向对品牌的影响"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T09:17:28+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 5537,
+  "veroeffentlicht": "2026-09-12T12:05:09+00:00",
+  "beschreibung": "在Bayt播客上收听任何播客的中文翻译音频，并查看双语字幕：\n安卓：https://baytfm.com\niOS：https://apps.apple.com/app/apple-store/id6748532039?pt=121796720&ct=xiaoyuzhou&mt=8\n本期节目我们翻译了《All-In with Chamath, Jason, Sacks & Friedberg》。\n📝 本期播客简介\n本期节目我们翻译了著名商业科技播客《All-In with Chamath, Jason, Sacks & Friedberg》。四位主持人查马斯、杰森、萨克斯与弗里德伯格围绕近期科技与商业圈的三大爆炸性事件展开激烈交锋。本期内容首先深度剖析了Anthropic前员工辞职引发的“AI末日论”风波，探讨这究竟是真实的生存威胁预警，还是一场旨在推动联邦监管与垄断前沿AI的精心策划的心理战。随后，节目讨论了OpenAI宣布的纳维-斯托克斯方程研究进展及万级AI代理协作，并警示企业用户警惕“零数据保留”承诺背后的知识产权泄露风险。最后，主持人复盘了耐克市值蒸发2000亿美元、被踢出标普100指数的商业案例，剖析其“觉醒营销”与DTC战略如何背离“卓越与精通”的品牌北极星。\n⚙️ 本期嘉宾\n本期节目由《All-In with Chamath, Jason, Sacks & Friedberg》四位联合主持人共同主持。他们分别是前Facebook高管查马斯·帕利哈皮提亚（Chamath Palihapitiya）、天使投资人杰森·卡拉卡尼斯（Jason Calacanis）、大卫·萨克斯（David Sacks），以及大卫·弗里德伯格（David Friedberg）。\n🌟 精彩内容\n🧠 “AI末日论”是吹哨人爆料还是监管心理战？\nAnthropic前研究员雅各布·考克森辞职并警告“AI可能杀死全人类”，其支持性推文在24小时内获得数亿浏览量。主持人质疑这并非普通员工爆料，并将其解读为一场由有效利他主义捐赠者资助的、旨在推动成立“联邦AI部门（FDAI）”的协调公关行动。在他们看来，通过放大恐慌情绪，监管倡导者试图将AI控制权集中化，从而形成双头垄断。如果Anthropic认同末日论，其数万亿美元的IPO估值将失去逻辑基础；若不认同，则需直面内部安全团队的矛盾立场。\n🤖 OpenAI破解数学难题：是神迹还是算力堆砌？\n节目讨论了OpenAI宣布的数学研究进展，提及约1300亿输出令牌和10000个AI代理协作。主持人强调，这并非AI产生了人类无法理解的“天才灵感”，而是通过海量算力将数万年的数学劳动压缩至数分钟完成的“暴力破解”。同时，节目警告企业客户警惕“去标识化数据”被用于训练模型的风险，指出“零数据保留（ZDR）”承诺极其脆弱，建议高敏感行业转向本地部署或开源模型以保障AI主权。\n👟 耐克市值蒸发2000亿：当“觉醒营销”背离品牌北极星\n节目以耐克股价从高点下跌约80%、被移出标普100指数为背景。主持人复盘了其战略失误：新CEO推行的直接面向消费者（DTC）策略严重疏远了零售伙伴，导致HOKA、On Running等竞品抢占市场；同时，品牌过度拥抱“觉醒文化”与政治叙事，抛弃了迈克尔·乔丹、泰格·伍兹所代表的“卓越与精通”核心精神。主持人建议，耐克必须重新聚焦产品力与体育精神，回归“卓越”这一清晰的商业北极星，以争取重新赢得消费者。\n🌐 播客信息补充\n翻译克隆自：AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse\n本播客AI进行播客音频制作，如果你对翻译和音频质量有任何意见，随时联系我。\n如果有后续想要听中文版的其他外文播客，也欢迎联系微信：caiwenshuo\nAI末日论, 监管心理战, Anthropic IPO, OpenAI数学突破, 纳维-斯托克斯方程, 零数据保留, 品牌战略, 耐克市值蒸发, 觉醒营销, 开源AI, 联邦AI部门, 递归自我改进, 企业数据隐私, 标普100指数, 商业科技播客\n\n前往小宇宙评论区与主播互动",
+  "beschreibung_html": "<p>在Bayt播客上收听任何播客的中文翻译音频，并查看双语字幕：</p><p>安卓：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://baytfm.com\">https://baytfm.com</a></p><p>iOS：<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://apps.apple.com/app/apple-store/id6748532039?pt=121796720&amp;ct=xiaoyuzhou&amp;mt=8\">https://apps.apple.com/app/apple-store/id6748532039?pt=121796720&amp;ct=xiaoyuzhou&amp;mt=8</a></p><p>本期节目我们翻译了《All-In with Chamath, Jason, Sacks &amp; Friedberg》。</p><p>📝 本期播客简介</p><p>本期节目我们翻译了著名商业科技播客《All-In with Chamath, Jason, Sacks &amp; Friedberg》。四位主持人查马斯、杰森、萨克斯与弗里德伯格围绕近期科技与商业圈的三大爆炸性事件展开激烈交锋。本期内容首先深度剖析了Anthropic前员工辞职引发的“AI末日论”风波，探讨这究竟是真实的生存威胁预警，还是一场旨在推动联邦监管与垄断前沿AI的精心策划的心理战。随后，节目讨论了OpenAI宣布的纳维-斯托克斯方程研究进展及万级AI代理协作，并警示企业用户警惕“零数据保留”承诺背后的知识产权泄露风险。最后，主持人复盘了耐克市值蒸发2000亿美元、被踢出标普100指数的商业案例，剖析其“觉醒营销”与DTC战略如何背离“卓越与精通”的品牌北极星。</p><p>⚙️ 本期嘉宾</p><p>本期节目由《All-In with Chamath, Jason, Sacks &amp; Friedberg》四位联合主持人共同主持。他们分别是前Facebook高管查马斯·帕利哈皮提亚（Chamath Palihapitiya）、天使投资人杰森·卡拉卡尼斯（Jason Calacanis）、大卫·萨克斯（David Sacks），以及大卫·弗里德伯格（David Friedberg）。</p><p>🌟 精彩内容</p><p>🧠 “AI末日论”是吹哨人爆料还是监管心理战？</p><p>Anthropic前研究员雅各布·考克森辞职并警告“AI可能杀死全人类”，其支持性推文在24小时内获得数亿浏览量。主持人质疑这并非普通员工爆料，并将其解读为一场由有效利他主义捐赠者资助的、旨在推动成立“联邦AI部门（FDAI）”的协调公关行动。在他们看来，通过放大恐慌情绪，监管倡导者试图将AI控制权集中化，从而形成双头垄断。如果Anthropic认同末日论，其数万亿美元的IPO估值将失去逻辑基础；若不认同，则需直面内部安全团队的矛盾立场。</p><p>🤖 OpenAI破解数学难题：是神迹还是算力堆砌？</p><p>节目讨论了OpenAI宣布的数学研究进展，提及约1300亿输出令牌和10000个AI代理协作。主持人强调，这并非AI产生了人类无法理解的“天才灵感”，而是通过海量算力将数万年的数学劳动压缩至数分钟完成的“暴力破解”。同时，节目警告企业客户警惕“去标识化数据”被用于训练模型的风险，指出“零数据保留（ZDR）”承诺极其脆弱，建议高敏感行业转向本地部署或开源模型以保障AI主权。</p><p>👟 耐克市值蒸发2000亿：当“觉醒营销”背离品牌北极星</p><p>节目以耐克股价从高点下跌约80%、被移出标普100指数为背景。主持人复盘了其战略失误：新CEO推行的直接面向消费者（DTC）策略严重疏远了零售伙伴，导致HOKA、On Running等竞品抢占市场；同时，品牌过度拥抱“觉醒文化”与政治叙事，抛弃了迈克尔·乔丹、泰格·伍兹所代表的“卓越与精通”核心精神。主持人建议，耐克必须重新聚焦产品力与体育精神，回归“卓越”这一清晰的商业北极星，以争取重新赢得消费者。</p><p>🌐 播客信息补充</p><p>翻译克隆自：AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse</p><p>本播客AI进行播客音频制作，如果你对翻译和音频质量有任何意见，随时联系我。</p><p>如果有后续想要听中文版的其他外文播客，也欢迎联系微信：caiwenshuo</p><p>AI末日论, 监管心理战, Anthropic IPO, OpenAI数学突破, 纳维-斯托克斯方程, 零数据保留, 品牌战略, 耐克市值蒸发, 觉醒营销, 开源AI, 联邦AI部门, 递归自我改进, 企业数据隐私, 标普100指数, 商业科技播客</p><br><a href=\"https://www.xiaoyuzhoufm.com/episode/6aa53d76492687f6aad8d49b?utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PWFwcGxlcG9kY2FzdF9zaG93bm90ZXMmbXQ9OA%3D%3D\">前往小宇宙评论区与主播互动</a>",
+  "bild_url": "https://image.xyzcdn.net/FjANi1nX3VSf9yoJUFDHpc6uEpTc.png"
+}

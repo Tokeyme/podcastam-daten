@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "HRBP Lab的播客",
   "apple_collection_id": "1759318223",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "698c9d68a22480add6c098e4",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "解读Gartner 2025年HR领袖报告，探讨AI浪潮下HR的转型与挑战。"
+    },
+    {
+      "guid": "6864d17393fd2d72b81ef8f7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/6864d17393fd2d72b81ef8f7/media.xyzcdn.net/6433caf09421ca43923f8da6/lth81XGGUhqvoR-fYpecOe1nADeB.m4a",
+      "pfad": "/v1/episode/40528ecbb1c88d01a9369f4d4227b5945045ab8a.json",
+      "titel": "66期丨找到“杠杆解”，让工作事半功倍！",
+      "veroeffentlicht": "2025-07-06T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨HR工作如何提升效率与价值"
+    },
+    {
+      "guid": "686160abbef90978ec814812",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/686160abbef90978ec814812/media.xyzcdn.net/6433caf09421ca43923f8da6/lkO7hRAPSvXpplk86PderIWKJt1L.m4a",
+      "pfad": "/v1/episode/6a78d7e8b5b8e4bd830b49d01120373256c248d4.json",
+      "titel": "65期丨HR三支柱的困局：如何合理定位、高效协同",
+      "veroeffentlicht": "2025-06-29T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨HR三支柱架构下COE与SSC的定位及与HRBP的协同。"
+    },
+    {
+      "guid": "685154af4abe6e29cb9b12bf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/685154af4abe6e29cb9b12bf/media.xyzcdn.net/6433caf09421ca43923f8da6/lq_xSAN8Xn6FHy4lpdk264xF0iYu.m4a",
+      "pfad": "/v1/episode/35ddbd98d139e56a0777cfe7c7f55eeac47c9574.json",
+      "titel": "64期丨团队士气如何提升？",
+      "veroeffentlicht": "2025-06-22T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何提升团队士气与解决管理困境"
+    },
+    {
+      "guid": "68514b5e4abe6e29cb99912d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/68514b5e4abe6e29cb99912d/media.xyzcdn.net/6433caf09421ca43923f8da6/lgsJ_GOYV5z0KojR6xNc_P01l2Ik.m4a",
+      "pfad": "/v1/episode/afe404191be95e70ca449cd968f218420055b673.json",
+      "titel": "63期丨HR的心理韧性：每天处理“糟心事”，如何不被消耗？",
+      "veroeffentlicht": "2025-06-17T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨HR如何应对日常繁杂工作带来的心理消耗与疲惫。"
+    },
+    {
+      "guid": "68272681457b22ce0d08e1bd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/68272681457b22ce0d08e1bd/media.xyzcdn.net/6433caf09421ca43923f8da6/ligPqyHMdlzD0I9Ai_NN9yU1_MIp.m4a",
+      "pfad": "/v1/episode/b9eaf91874e33d1741210ac8052b143db2601670.json",
+      "titel": "62期丨如何应对不同风格的“上级”",
+      "veroeffentlicht": "2025-05-18T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何理解并应对职场中不同风格的上级。"
+    },
+    {
+      "guid": "680df67b7a449ae858f9d754",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/680df67b7a449ae858f9d754/media.xyzcdn.net/6433caf09421ca43923f8da6/lq5VUaDFqAhon2yT4_LsJ8HcPFBH.m4a",
+      "pfad": "/v1/episode/58206a4a46a55ad568bc34ff1a001729f9924ef1.json",
+      "titel": "61期丨如何助力“组织精干”？",
+      "veroeffentlicht": "2025-04-27T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨什么是组织精干以及如何打造高效团队"
+    },
+    {
+      "guid": "67fcf0b859699d74dca92dae",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/67fcf0b859699d74dca92dae/media.xyzcdn.net/6433caf09421ca43923f8da6/lkCH2rCgKO3S4fI9yPT5VoRmMX7f.m4a",
+      "pfad": "/v1/episode/7c6cadb8e58bb8d19e3f4a109861c4f4691a0231.json",
+      "titel": "60期丨读书分享：优衣库—日本经济衰退期20年的增长奇迹",
+      "veroeffentlicht": "2025-04-14T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "优衣库在日本经济衰退期的增长奇迹与商业逻辑"
+    },
+    {
+      "guid": "67e669b76ea60022355f06e0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/67e669b76ea60022355f06e0/media.xyzcdn.net/6433caf09421ca43923f8da6/lqbr2Ng4uBlUpcyOgN7arIf9LYaI.m4a",
+      "pfad": "/v1/episode/5f060cf0e4d714e23f2d8ffbe28da2b21a17e629.json",
+      "titel": "59期丨职场十字路口：放弃还是再坚持一下？",
+      "veroeffentlicht": "2025-04-02T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场十字路口中应该选择放弃还是坚持。"
+    },
+    {
+      "guid": "67e669b06ea60022355f058c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6433caf09421ca43923f8da6/67e669b06ea60022355f058c/media.xyzcdn.net/6433caf09421ca43923f8da6/ltfbNj7mdrvd2sXH0vMLtNdGmKbu.m4a",
+      "pfad": "/v1/episode/a041e6c7dda5ddee01dadc07f234f9c5b5609f94.json",
+      "titel": "58期丨尊重事实对一个组织真有那么重要吗？",
+      "veroeffentlicht": "2025-03-30T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨尊重事实对组织的重要性及职场沉默现象"
     }
   ]
 }

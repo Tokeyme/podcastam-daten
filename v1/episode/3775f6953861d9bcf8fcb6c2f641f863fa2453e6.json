@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "xmly_track_821801230",
+  "apple_collection_id": "1753227960",
+  "show": "DeepTalk | 发现改变世界的新兴科技",
+  "titel": "参数即权力？小模型如何用“减法逻辑”重构AI基础设施",
+  "audio": {
+    "url": "https://jt.ximalaya.com//GAqh4zILrYXXACAAAAN__YMR.mp3.m4a?channel=rss&album_id=47378426&track_id=821801230&uid=274655289&jt=https://aod.cos.tx.xmcdn.com/storages/8d44-audiofreehighqps/E0/B9/GAqh4zILrYXXACAAAAN__YMR.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:21:28+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨小模型如何重构AI基础设施与商业化未来。",
+  "kurzfassung": "本期节目聚焦大模型浪潮中的小模型革命，分析其在终端设备上的应用与技术逻辑。探讨了小模型如何以低功耗和快速响应实现落地，以及它与云端大模型的协同生态。同时解析了从知识蒸馏到端云博弈、隐私守护及开源平权等核心议题。",
+  "stichpunkte": [
+    "小模型在手机、汽车和家用机器人等终端设备的落地逻辑",
+    "小模型与云端大模型的协同与未来智能生态构建",
+    "小模型的技术密码，包括知识蒸馏与端云博弈",
+    "终端AI的隐私守护与开源平权议题",
+    "小而美的小模型对AI商业化未来的影响"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:21:28+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 6215,
+  "veroeffentlicht": "2025-03-17T06:37:29+00:00",
+  "beschreibung": "大模型浪潮下，你是否想过，“小”也能创造颠覆？当 DeepSeek 席卷全球时，另一场静默的革命正在发生——从你的手机、汽车到家用机器人，只需几亿参数的小模型，正以更快的响应、更低的功耗，悄然重塑 AI 落地的逻辑。它们如何在终端设备上实现“麻雀虽小，五脏俱全”？又如何与云端大模型协同，构建未来智能生态？本期 DeepTalk 揭开小模型的技术密码：从知识蒸馏到端云博弈，从隐私守护到开源平权，看“小而美”如何撬动万亿级 AI 商业化未来。",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>大模型浪潮下，你是否想过，“小”也能创造颠覆？当 DeepSeek 席卷全球时，另一场静默的革命正在发生——从你的手机、汽车到家用机器人，只需几亿参数的小模型，正以更快的响应、更低的功耗，悄然重塑 AI 落地的逻辑。它们如何在终端设备上实现“麻雀虽小，五脏俱全”？又如何与云端大模型协同，构建未来智能生态？本期 DeepTalk 揭开小模型的技术密码：从知识蒸馏到端云博弈，从隐私守护到开源平权，看“小而美”如何撬动万亿级 AI 商业化未来。</span><br></p>",
+  "bild_url": "https://fdfs.xmcdn.com/storages/965f-audiofreehighqps/81/C5/CMCoOSMEG6HEAACwFACPyc3s.jpeg",
+  "folgennummer": 2
+}

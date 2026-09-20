@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "山海观峡-Sis Vibe",
   "apple_collection_id": "1810773428",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
+    {
+      "guid": "6aaae823051af796b9e953a3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6aaae823051af796b9e953a3/media.xyzcdn.net/67f8592e39c5cca4350fd9de/lv-7iXlNVeJ1axBi5vkJlqZrGM7a.m4a",
+      "pfad": "/v1/episode/2a24b585d93a688e2f8788d7d23df83ed3dc7f4d.json",
+      "titel": "30岁以后，接受关系里的波动、聚散和遗憾",
+      "veroeffentlicht": "2026-09-19T07:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨三十岁以后如何看待亲密关系的聚散与遗憾。"
+    },
+    {
+      "guid": "6aa4747e9d3264778167cfe2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6aa4747e9d3264778167cfe2/media.xyzcdn.net/67f8592e39c5cca4350fd9de/lrQOiBxSmTrlQJPYwCkFunwyKMWy.m4a",
+      "pfad": "/v1/episode/703d4e016661c8c985d34ac2e659afe3c81a156b.json",
+      "titel": "40.结束一段关系｜我们为何从彼此的生命中悄然退场？",
+      "veroeffentlicht": "2026-09-13T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨友情为何走向结束，分享亲历的友情故事与疏离信号"
+    },
+    {
+      "guid": "6a91ade5f03e74ee6b016b8e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a91ade5f03e74ee6b016b8e/media.xyzcdn.net/67f8592e39c5cca4350fd9de/li_B8bU4LPi7qcC1wXsc5SruwEnA.m4a",
+      "pfad": "/v1/episode/9385ec196d1aa851ef3becdf0200cd90f4b13cc1.json",
+      "titel": "39.聊聊社会化｜把敏感切除，我们如何成为“钝如野猪皮”的大人",
+      "veroeffentlicht": "2026-08-28T16:08:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场与成长中的社会化进程及其代价"
+    },
     {
       "guid": "6a7ab92817676351c57016a1",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a7ab92817676351c57016a1/media.xyzcdn.net/67f8592e39c5cca4350fd9de/lgpHp8PFDh6arbq8lQUrrFchc4xx.m4a",
@@ -13,6 +43,66 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "解密硅谷 AI 独角兽 Anthropic 毁灭性扫描旧书的“巴拿马计划”"
+    },
+    {
+      "guid": "6a6aed6ab581962ce2bdd497",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a6aed6ab581962ce2bdd497/media.xyzcdn.net/67f8592e39c5cca4350fd9de/lnj-mR6uhHk9TqGAwXH8LrAa0cVV.m4a",
+      "pfad": "/v1/episode/4c2b377852164b6cb0218c753fad953247bd202b.json",
+      "titel": "37.看《奥德赛》之前｜先读懂古希腊宙斯法则和诺兰70mmIMAX的密钥",
+      "veroeffentlicht": "2026-07-31T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "看《奥德赛》之前的文化储备与观影指南"
+    },
+    {
+      "guid": "6a679cf6b581962ce2bc664f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a679cf6b581962ce2bc664f/media.xyzcdn.net/67f8592e39c5cca4350fd9de/li2PHnXYUpNRHkK_5345Su3Y-OD-.m4a",
+      "pfad": "/v1/episode/6420a235e63f283ba7471b6bad66204eebd31df3.json",
+      "titel": "36.女性导演｜从日耳曼文学到加州电影学院，她说“这一刻早该发生”",
+      "veroeffentlicht": "2026-07-28T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两位女性导演跨时空对谈，探讨中美影视教育、好莱坞壁垒与创作心路"
+    },
+    {
+      "guid": "6a59bc346356eb2d9be3fd8a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a59bc346356eb2d9be3fd8a/media.xyzcdn.net/67f8592e39c5cca4350fd9de/luc15tHC2pAgakdn6TIsMikwJYVE.m4a",
+      "pfad": "/v1/episode/1e43c90dcb3b10ac269e29b837ac0178aa19b8a3.json",
+      "titel": "35.国家公园篇｜去野外！把自己从“必须有用”的秩序里开除一会儿",
+      "veroeffentlicht": "2026-07-18T00:00:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从工位逃向山野，探讨人为什么总想离开秩序"
+    },
+    {
+      "guid": "6a46b9979d2f57436841ade1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a46b9979d2f57436841ade1/media.xyzcdn.net/67f8592e39c5cca4350fd9de/lkqWz2UhBjcU0J5YG7QrdcpoaVIU.m4a",
+      "pfad": "/v1/episode/6645bfd9a31b74efacb9b996fa8c47d08d911d9e.json",
+      "titel": "34.“没有胡萝卜吊着，我就不想拉磨了”｜当长期主义失效，我们在临时生活里创造主权",
+      "veroeffentlicht": "2026-07-03T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "当长期主义失效，我们在临时生活里寻找主权与确定性"
+    },
+    {
+      "guid": "6a3453fb43a22a6955861a98",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a3453fb43a22a6955861a98/media.xyzcdn.net/67f8592e39c5cca4350fd9de/lmdNIXPWdW2BSZpIv-ZVKCdw8_cM.m4a",
+      "pfad": "/v1/episode/b6abfad73f5902724ee7c4dcba0e0cd2eb9150ca.json",
+      "titel": "33.下南洋・走金山｜侨批、贞节牌坊与纸生仔背后的华人百年出海史",
+      "veroeffentlicht": "2026-06-19T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾华人百年出海史：从下南洋到走金山的离散与坚守"
+    },
+    {
+      "guid": "6a231f5fb30e1571aea165c8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f8592e39c5cca4350fd9de/6a231f5fb30e1571aea165c8/media.xyzcdn.net/67f8592e39c5cca4350fd9de/ll7PXcVp1BvTiHAI_zTfUycYqjA5.m4a",
+      "pfad": "/v1/episode/e5bab9efccd5d27a71d1dd4bc900283e7488e70a.json",
+      "titel": "32.金钱与我｜30+女生摊开人生投资账本·相信复利",
+      "veroeffentlicht": "2026-06-06T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两位30+女性聊金钱与成长，探讨复利投资、理财实战与家庭财务分工。"
     }
   ]
 }

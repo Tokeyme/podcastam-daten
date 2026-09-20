@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小锄头育儿",
   "apple_collection_id": "1788445175",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a662b486356eb2d9be8c270",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨韩剧《铁拳教育》引发的教育反思，剖析校园霸凌与管教困境"
+    },
+    {
+      "guid": "6a5d7bad6356eb2d9be52b97",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/6a5d7bad6356eb2d9be52b97/media.xyzcdn.net/674330ae11045e78e5869f68/lo8wRK-qFCPr72dDar-rDtgcB2J8.m4a",
+      "pfad": "/v1/episode/d9155fccf8c2c359e207bc3e9a19e86878cd7d8d.json",
+      "titel": "Vol.60《10间敢死队》：那个985高材生在生命倒计时里剃了头：东亚孩子到底要为谁活？",
+      "veroeffentlicht": "2026-07-20T01:39:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨东亚家庭的控制欲与育儿困境"
+    },
+    {
+      "guid": "6a41b4692e335a35a80ad227",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/6a41b4692e335a35a80ad227/media.xyzcdn.net/674330ae11045e78e5869f68/lr38qPSnH8rwy8p_QRim_kEz_7Z2.m4a",
+      "pfad": "/v1/episode/45e2073ed311b8e531b1721395d98ae169f4e92c.json",
+      "titel": "Vol.59 《学爸》：警惕！你的过度焦虑正在摧毁孩子的自信",
+      "veroeffentlicht": "2026-06-29T00:06:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从电影《学爸》聊父母的过度焦虑与亲子相处"
+    },
+    {
+      "guid": "6a2e1d1f43a22a6955835ad8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/6a2e1d1f43a22a6955835ad8/media.xyzcdn.net/674330ae11045e78e5869f68/lpfOS8X6-Q2PeYn58-j_C0q9ZJL0.m4a",
+      "pfad": "/v1/episode/73ec832e23b1c049acff2d18f375f3d713d6ce18.json",
+      "titel": "Vol.58 《玫瑰的故事》：这位情绪稳定的妈妈，到底做对了什么？",
+      "veroeffentlicht": "2026-06-14T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨热播剧《玫瑰的故事》中母亲的育儿方式与情绪管理"
+    },
+    {
+      "guid": "6a1c35d8ac7bdb080c33abbc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/6a1c35d8ac7bdb080c33abbc/media.xyzcdn.net/674330ae11045e78e5869f68/ll42TzUArYgdbQbWKK3-V5DheIfy.m4a",
+      "pfad": "/v1/episode/0700ddc1c55fa215615e99bc41b3d020191d210e.json",
+      "titel": "Vol.57 《给阿嬷的情书》：她给陌生女人写信寄钱18年，到底图什么？",
+      "veroeffentlicht": "2026-05-31T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《给阿嬷的情书》中陌生女人持续十八年的信件与善意。"
+    },
+    {
+      "guid": "6a09be741b7bd502955080aa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/6a09be741b7bd502955080aa/media.xyzcdn.net/674330ae11045e78e5869f68/lpcBiiR7m-PoSOBR5Cz7QWBzJvku.m4a",
+      "pfad": "/v1/episode/b028c13d9285045cbe0c23324324fc0ff4f8153f.json",
+      "titel": "Vol.56 《世界的主人》：为什么孩子不再对你敞开真心了？",
+      "veroeffentlicht": "2026-05-17T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孩子为何不再敞开心扉以及如何放下育儿剧本"
+    },
+    {
+      "guid": "6a0098ede1eb34a9391f5063",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/6a0098ede1eb34a9391f5063/media.xyzcdn.net/674330ae11045e78e5869f68/lq1QOXSqDL_v6s7U05gNpEvL8KDO.m4a",
+      "pfad": "/v1/episode/46e24e05923d5cec30042b64ec14a851851be113.json",
+      "titel": "Vol.55 《我们的世界》：孩子说“不想上学”，别急着讲道理，先问问这个问题",
+      "veroeffentlicht": "2026-05-10T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨儿童隐形霸凌与拒绝上学背后的社交困境。"
+    },
+    {
+      "guid": "69dbb670e2c8be315506366f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/69dbb670e2c8be315506366f/media.xyzcdn.net/674330ae11045e78e5869f68/ll6zHtyh6ckYuiJRZDLAy077lrWB.m4a",
+      "pfad": "/v1/episode/f744e5552a281da1f2d42378e41463552d81c7a4.json",
+      "titel": "Vol.54 《飞驰人生3》：孩子吵架了，先别着急“救火”",
+      "veroeffentlicht": "2026-04-12T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从电影《飞驰人生3》探讨儿童社交、冲突处理与成长中的同伴关系。"
+    },
+    {
+      "guid": "69bffb182d318777c92c906a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/69bffb182d318777c92c906a/media.xyzcdn.net/674330ae11045e78e5869f68/lv7_Etm-X9kaVoPwyWZfQ2IKcbCi.m4a",
+      "pfad": "/v1/episode/cb9cf3bf6ef236905977d55ef50845fb07a43cfe.json",
+      "titel": "Vol.53 《长安三万里》：孩子是普娃，怎么鸡？",
+      "veroeffentlicht": "2026-03-29T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《长安三万里》中的教育观与普通孩子的成长路径。"
+    },
+    {
+      "guid": "69b66878f8b8079bfa6a5fef",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/674330ae11045e78e5869f68/69b66878f8b8079bfa6a5fef/media.xyzcdn.net/674330ae11045e78e5869f68/lvZ1DVWVfiSHlrOLE22oz40FzZus.m4a",
+      "pfad": "/v1/episode/0c52cdc3d9daeed031794c67349e895c5ba9437f.json",
+      "titel": "Vol.52 《冰雪奇缘2》：最好的母爱，是一场得体的退出",
+      "veroeffentlicht": "2026-03-15T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "借《冰雪奇缘2》探讨育儿困境与亲子分离"
     }
   ]
 }

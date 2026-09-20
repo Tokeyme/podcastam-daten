@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "关注精神健康",
   "apple_collection_id": "1757350847",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a1e99557444b57222321d8a",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨如何走出情感不成熟父母的影响，从崩溃到觉醒并重获新生。"
+    },
+    {
+      "guid": "69ff524c1b7bd50295d139cf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/69ff524c1b7bd50295d139cf/media.xyzcdn.net/660e1b94c891c06e733b14ec/lnUmN_NlABMizJ4IkOTJt38GwiDW.m4a",
+      "pfad": "/v1/episode/25896b1933c80a39988ebd3dc38598c5ca24b4e3.json",
+      "titel": "18.不成熟的父母｜你都从爸妈身上“继承”了什么",
+      "veroeffentlicht": "2026-05-09T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨情感不成熟父母的表现类型及其对孩子心理的深远影响"
+    },
+    {
+      "guid": "69fee879e1eb34a9390ae2ef",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/69fee879e1eb34a9390ae2ef/media.xyzcdn.net/660e1b94c891c06e733b14ec/lj4PnXj3opWLnIYq4dD9taCPJQvi.m4a",
+      "pfad": "/v1/episode/3d536d230d530ff3c82064cc02eff269b210b5b6.json",
+      "titel": "17.不成熟的父母｜别傻了！令你“上头”的关系，可能是一种“情绪污染”",
+      "veroeffentlicht": "2026-05-09T08:15:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨情感不成熟的人的特点及如何建立健康的情感连接"
+    },
+    {
+      "guid": "69fb49a5e1eb34a939db265c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/69fb49a5e1eb34a939db265c/media.xyzcdn.net/660e1b94c891c06e733b14ec/llds0EYpz5taK2xlZRRj8H-dGVeZ.m4a",
+      "pfad": "/v1/episode/19d7331df1982e55dbb4dac821529377b7072fef.json",
+      "titel": "16.不成熟的父母｜有些人只是“变老”，却从未“长大”",
+      "veroeffentlicht": "2026-05-06T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨不成熟父母的心理特点及其对成年子女的影响"
+    },
+    {
+      "guid": "699f118566e2c30377663244",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/699f118566e2c30377663244/media.xyzcdn.net/660e1b94c891c06e733b14ec/lgmki_TbTjEL1Tj7uOoah7TvlIpm.m4a",
+      "pfad": "/v1/episode/857cc1d9e518fcb49e40d99aabf75dd5727c082b.json",
+      "titel": "15.我的骨头没有忘记｜心理治疗并非“消除”坏情绪，而是重建「情绪韧性」",
+      "veroeffentlicht": "2026-02-25T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "共读《我的骨头没有忘记》，探讨CPTSD的疗愈与情绪韧性"
+    },
+    {
+      "guid": "699ee12aa22480add60ee865",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/699ee12aa22480add60ee865/media.xyzcdn.net/660e1b94c891c06e733b14ec/lj4wLhD2bQZ3SVcpCs6geoPWMtmC.m4a",
+      "pfad": "/v1/episode/2af648cd8bd888443faf1740b9c9cf1d34828f32.json",
+      "titel": "14.我的骨头没有忘记｜断亲：没人能替你做决定，但你心里早有答案",
+      "veroeffentlicht": "2026-02-25T11:50:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "共读《我的骨头没有忘记》，探讨CPTSD幸存者的疗愈与断亲"
+    },
+    {
+      "guid": "698f2d7fa22480add60d923f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/698f2d7fa22480add60d923f/media.xyzcdn.net/660e1b94c891c06e733b14ec/lqIFy-XfwUiV18kGcbYe8cK8MPIg.m4a",
+      "pfad": "/v1/episode/10b7fd633444479634904e17fd42ce080897a123.json",
+      "titel": "13.我的骨头没有忘记｜CPTSD的100种疗愈方式",
+      "veroeffentlicht": "2026-02-13T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读《我的骨头没有忘记》与CPTSD的疗愈方式"
+    },
+    {
+      "guid": "6957ab5814db1df9ef090f9f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/6957ab5814db1df9ef090f9f/media.xyzcdn.net/660e1b94c891c06e733b14ec/lrCllWYy4AFJ3LG4WcQZvUJjkzoq.m4a",
+      "pfad": "/v1/episode/8e1302269b781d5b9c70c1c280a8cd9a6d42b368.json",
+      "titel": "12.我的骨头没有忘记｜竭力维系父母婚姻，随时“以命换命”的女儿",
+      "veroeffentlicht": "2026-01-02T11:31:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读《我的骨头没有忘记》，探讨复杂性创伤后应激障碍幸存者的疗愈历程。"
+    },
+    {
+      "guid": "68be6da39eb4a4930055f6f8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/68be6da39eb4a4930055f6f8/media.xyzcdn.net/660e1b94c891c06e733b14ec/lsk1iytXST5l9sHbYMb4pSYZLN55.m4a",
+      "pfad": "/v1/episode/d33907afd0f8cf3fcb6cbdd8d071c5be82d8a7a1.json",
+      "titel": "11.早安,怪物｜被NPD母亲“痛恨”的女儿",
+      "veroeffentlicht": "2025-09-08T05:52:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读《早安，怪物》第五个故事：被NPD母亲创伤的玛德琳"
+    },
+    {
+      "guid": "68ac7484293471fed469efcb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/660e1b94c891c06e733b14ec/68ac7484293471fed469efcb/media.xyzcdn.net/660e1b94c891c06e733b14ec/llcM6Ge9tvZXPkcwuckSi7vh1o3P.m4a",
+      "pfad": "/v1/episode/b38cc147b54c5291c8bad8ab6d23cc9cd3aefb9d.json",
+      "titel": "10.早安,怪物｜被精神变态养大的天才女孩",
+      "veroeffentlicht": "2025-08-25T14:59:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读图书早安怪物中被精神变态养大的天才女孩艾伦娜的故事"
     }
   ]
 }

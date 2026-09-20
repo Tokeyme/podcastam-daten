@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "听生活",
   "apple_collection_id": "1676388913",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "6a72de2dab3a91c24a102597",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "走进上海传奇老公寓，聆听河滨大楼、龙昌公寓与福州大楼里的百态人生。"
+    },
+    {
+      "guid": "6a41de629d2f5743683f69f4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/6a41de629d2f5743683f69f4/media.xyzcdn.net/6114ec0012ce740b222ea944/lpd_OPyERbjvmn9emMP1xwkvQ75v.m4a",
+      "pfad": "/v1/episode/a21f603f9a154f95f4ec1667e535f76403a20def.json",
+      "titel": "逃离北上广后，我们在昆明与泰国的“新游牧”实验",
+      "veroeffentlicht": "2026-06-29T03:01:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨逃离北上广后，在昆明与泰国的“新游牧”生活实验。"
+    },
+    {
+      "guid": "6a20fd2eb30e1571aea06a03",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/6a20fd2eb30e1571aea06a03/media.xyzcdn.net/6114ec0012ce740b222ea944/lrBE-kcsMtBmoVYN_kUYCyUF3ruh.m4a",
+      "pfad": "/v1/episode/7837411bd584ab62bdf99138e78ff2019d06ad6d.json",
+      "titel": "都市寓言：从上海到巴黎",
+      "veroeffentlicht": "2026-06-06T01:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨摄影师冯立的街头抓拍与影像创作。"
+    },
+    {
+      "guid": "6a1cfc1dac7bdb080c33f35f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/6a1cfc1dac7bdb080c33f35f/media.xyzcdn.net/6114ec0012ce740b222ea944/lknzhjK5ekEiUg8yc6Up3-84Lf8O.m4a",
+      "pfad": "/v1/episode/2ec2d626d457aab6f069da007039e6b7f296fb1b.json",
+      "titel": "生活在潮汕 | 风从潮汕来，精神潮汕人的OPEN CALL",
+      "veroeffentlicht": "2026-06-01T03:48:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从电影《给阿嬷的情书》聊起，探讨潮汕文化与精神归属。"
+    },
+    {
+      "guid": "69eaef791e94ae6921090438",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/69eaef791e94ae6921090438/media.xyzcdn.net/6114ec0012ce740b222ea944/lvShON1jFwaiXkpggLIRkhpw7F0d.m4a",
+      "pfad": "/v1/episode/49a016650da93b02bed105018e9544548860499b.json",
+      "titel": "周轶君x许纪霖x徐莉佳x谢欣x李星宇：潜入时间之海",
+      "veroeffentlicht": "2026-04-24T04:25:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "周轶君、许纪霖、徐莉佳、谢欣和李星宇探讨时间之海与慢下来的智慧"
+    },
+    {
+      "guid": "69e704701e94ae6921c5c8db",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/69e704701e94ae6921c5c8db/media.xyzcdn.net/6114ec0012ce740b222ea944/lr6UZVmd9xcFZF7MyIMymcxXJy2X.m4a",
+      "pfad": "/v1/episode/a7ad31bb90455528d0ccb069fd041895d03b727b.json",
+      "titel": "生活在汕头 | 汕头Vibe除了小公园、生腌、英歌舞之外，还有最纯粹的野蛮生长",
+      "veroeffentlicht": "2026-04-21T05:15:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨汕头城市的过去与未来及潮汕文化在当代的独特性"
+    },
+    {
+      "guid": "6985c05b66e2c3037720f94f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/6985c05b66e2c3037720f94f/media.xyzcdn.net/6114ec0012ce740b222ea944/lqmPphsUwcidYG_Dy2XYA3OgMvYK.m4a",
+      "pfad": "/v1/episode/bf2d00944810c43dc1f70d3a50c3b4c2449127db.json",
+      "titel": "《生活》马帮在茶马古道：此马非马",
+      "veroeffentlicht": "2026-02-06T10:59:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "重走茶马古道，探寻马帮与骡马背后的真实影像故事。"
+    },
+    {
+      "guid": "6943c21052d4707aaa3d64b1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/6943c21052d4707aaa3d64b1/media.xyzcdn.net/6114ec0012ce740b222ea944/lrP_1o7pSTEkHQSTZnq-3V21yLNE.m4a",
+      "pfad": "/v1/episode/3fba688f3db4989b25c167cde43dc65af313ef7c.json",
+      "titel": "欧阳应霁 x 方小龙：珍惜那些“不断不舍不离”的主动时刻",
+      "veroeffentlicht": "2025-12-18T09:07:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "欧阳应霁与方小龙探讨旧物、情感与生活。"
+    },
+    {
+      "guid": "691bda3f6018cc2c98589ad1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/691bda3f6018cc2c98589ad1/media.xyzcdn.net/6114ec0012ce740b222ea944/luv4B9PweQetMWGq745ECIwYjjXQ.m4a",
+      "pfad": "/v1/episode/a583bf982358ae691caa2731eb15065fa7bd2361.json",
+      "titel": "生活在上海 | 沙青青x金莹 ：那些离开上海的人",
+      "veroeffentlicht": "2025-11-18T02:38:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨文学与影视中离开上海的人的精神地图与城市记忆"
+    },
+    {
+      "guid": "689d8d779fb6883bb38e19a5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6114ec0012ce740b222ea944/689d8d779fb6883bb38e19a5/media.xyzcdn.net/6114ec0012ce740b222ea944/lsrds7wwwt1O6oo_60B3kE1GtEF0.m4a",
+      "pfad": "/v1/episode/0e6e9224dc16fc59d6816525d432b3eb7de23681.json",
+      "titel": "颜长江，用脚步丈量时光",
+      "veroeffentlicht": "2025-08-14T07:28:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "摄影师颜长江与《生活月刊》的创作故事与行走记录"
     }
   ]
 }

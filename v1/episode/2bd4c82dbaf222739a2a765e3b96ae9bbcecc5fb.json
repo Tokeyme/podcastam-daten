@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "https://audio.xmcdn.com/storages/db93-audiofreehighqps/5B/2E/CMCoOSYDP52KAiNvCgBW1JTm.mp3",
+  "apple_collection_id": "1511691839",
+  "show": "多元方城事 | 城市科技与设计",
+  "titel": "20 - 数字技术的各类大饼，城市更新消化了多少？",
+  "audio": {
+    "url": "https://tk.wavpub.com/WPDL_xYtWAkYLXVmJbmxJxFrBXpfrdUuSTttTyQbCVDzCFdBrYQRPxqRCfmXnmz-74.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T08:13:18+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "探讨数字技术在城市更新中的实际应用与局限",
+  "kurzfassung": "本期节目探讨了数字技术和数字化应用在城市更新中的实际作用与空间。节目分析了城市更新对非传统数据的需求以及现有技术手段的局限性。同时，探讨了传统城市规划方法与技术预期的差异及应用效果。",
+  "stichpunkte": [
+    "新技术在城市更新中的辅助价值",
+    "城市更新项目的数据基础与采集挑战",
+    "传统城市规划方法在实际项目中的应用",
+    "技术预期与实际解决需求的差距",
+    "现实项目中应用数据的局限性"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T08:13:18+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 1493,
+  "veroeffentlicht": "2020-09-22T19:05:48+08:00",
+  "beschreibung": "本期主题：\n新技术在驱动各个领域的探索和创新，本期我们就来探讨数字化应用在城市更新的作用和空间。\n\n内容纪要：\n\n如果要推进这种城市更新的项目，测绘或者传感器技术，其实没办法完全满足城市更新对于数据的要求，因为其实很多数据它是非传统性的，它需要通过人工的识别，或者说是机器学习，把这种非传统性的数据规范化，然后来打造可用的状态，这有一个非常远的路要走。\n\n实际项目还是传统的那套城市规划好用。 根据凯文林奇那一套怎么观察人，怎么研究人的活动，然后做城市设计，用这套就够了。 现在感受是每天都在想像场景，但实际上你最后发现科技确实能解决很多需求，但解决的需求都不是像你想象中的那样。\n\n两个一模一样的台球偏差了0.001度，经过了三小时的运动，两边完全是不同的轨迹，在这种系统里面非常微小的差别，都会导致后续的那种大的系统的紊乱，如果拿那种预测城市行为轨迹，其实是完全没有任何理论依据的，人的行为是会变的，一旦变，整个系统可能3小时5小时一年之后的预测结果就都变了。\n\n时间轴：\n\n00:35新技术在城市更新的辅助价值\n04:01城市更新的数据基础\n10:46噱头大于落地？\n18:18技术解决的需求是我想要的吗？\n19:43现实项目使用数据的局限性\n\n【本期成员】\n遛弯大爷\n闲逛小妞\n陈同学\n\n【话题策划】遛弯大爷、闲逛小妞\n【后期制作】遛弯大爷\n【文案编辑】托雷斯\n\n【互动方式】\nvb：多元方城事\nvx：duoyuanfangchengshi\ngzh：多元方城事（duoyuanfcs）",
+  "beschreibung_html": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">本期主题：</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">新技术在驱动各个领域的探索和创新，本期我们就来探讨数字化应用在城市更新的作用和空间。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">内容纪要：</p><br /><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">如果要推进这种城市更新的项目，测绘或者传感器技术，其实没办法完全满足城市更新对于数据的要求，因为其实很多数据它是非传统性的，它需要通过人工的识别，或者说是机器学习，把这种非传统性的数据规范化，然后来打造可用的状态，这有一个非常远的路要走。&nbsp;</p><span><br /></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">实际项目还是传统的那套城市规划好用。 根据凯文林奇那一套怎么观察人，怎么研究人的活动，然后做城市设计，用这套就够了。 现在感受是每天都在想像场景，但实际上你最后发现科技确实能解决很多需求，但解决的需求都不是像你想象中的那样。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">两个一模一样的台球偏差了0.001度，经过了三小时的运动，两边完全是不同的轨迹，在这种系统里面非常微小的差别，都会导致后续的那种大的系统的紊乱，如果拿那种预测城市行为轨迹，其实是完全没有任何理论依据的，人的行为是会变的，一旦变，整个系统可能3小时5小时一年之后的预测结果就都变了。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">&nbsp;</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">时间轴：&nbsp;</p><br /><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">00:35新技术在城市更新的辅助价值</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">04:01城市更新的数据基础</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">10:46噱头大于落地？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">18:18技术解决的需求是我想要的吗？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">19:43现实项目使用数据的局限性</p><br /><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">【本期成员】</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">遛弯大爷</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">闲逛小妞</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">陈同学</p><br /><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">【话题策划】遛弯大爷、闲逛小妞</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">【后期制作】遛弯大爷</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">【文案编辑】托雷斯</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">&nbsp;</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">【互动方式】</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">vb：多元方城事</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">vx：duoyuanfangchengshi</p><p data-flag=\"normal\" style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">gzh：多元方城事（duoyuanfcs）</p><span><br /></span><span><br /></span><br />",
+  "bild_url": "https://fdfs.xmcdn.com/group75/M01/98/32/wKgO3V6TJRrSL0ODAAaYUka0ZGA715.jpg",
+  "folgennummer": 8
+}

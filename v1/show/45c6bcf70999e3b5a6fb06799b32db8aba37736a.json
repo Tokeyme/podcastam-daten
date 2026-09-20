@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "格物心理丨Outside In",
   "apple_collection_id": "1226860584",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "xmly_track_613777456",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "心理学播客Outside In正式迎来完结，主播回顾创作历程并分享全新生活感悟。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/14b6-audiofreehighqps/0A/E1/GKwRIDoFa8NsAEMUHwD4loho-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoFa8NsAEMUHwD4loho-aacv2-48K.m4a?channel=rss&album_id=7301087&track_id=473584524&uid=5511041&jt=https://aod.cos.tx.xmcdn.com/storages/14b6-audiofreehighqps/0A/E1/GKwRIDoFa8NsAEMUHwD4loho-aacv2-48K.m4a",
+      "pfad": "/v1/episode/2eefa559186f86376745da40f8637aa1e46cc256.json",
+      "titel": "对话丨孩子哭闹，家长可以怎么做？",
+      "veroeffentlicht": "2021-11-18T11:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孩子哭闹时家长的应对方式与常见误区"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5efc-audiofreehighqps/74/2D/CKwRIUEFKetKAEafmgDn0pyn-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIUEFKetKAEafmgDn0pyn-aacv2-48K.m4a?channel=rss&album_id=7301087&track_id=457913645&uid=5511041&jt=https://aod.cos.tx.xmcdn.com/storages/5efc-audiofreehighqps/74/2D/CKwRIUEFKetKAEafmgDn0pyn-aacv2-48K.m4a",
+      "pfad": "/v1/episode/a069ccf833318921aeb94bc9d7651de9da44d971.json",
+      "titel": "对话丨早起很痛苦，如何正确唤醒？",
+      "veroeffentlicht": "2021-09-30T11:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨早起被打断的痛苦感受及愉快唤醒的可能性"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a6d8-audiofreehighqps/B8/66/CKwRINsFBlpGADkpMgDe8_eb-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRINsFBlpGADkpMgDe8_eb-aacv2-48K.m4a?channel=rss&album_id=7301087&track_id=449772384&uid=5511041&jt=https://aod.cos.tx.xmcdn.com/storages/a6d8-audiofreehighqps/B8/66/CKwRINsFBlpGADkpMgDe8_eb-aacv2-48K.m4a",
+      "pfad": "/v1/episode/93f638023f24897f2e050cf788dea1ee79dbdad7.json",
+      "titel": "对话丨“恋物”与“恋物癖”",
+      "veroeffentlicht": "2021-09-02T11:20:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨什么是“恋物癖”及其产生原因"
     }
   ]
 }

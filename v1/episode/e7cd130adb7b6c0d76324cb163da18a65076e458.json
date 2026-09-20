@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "guid": "11da1ff2-b388-11f1-a912-e7aa1d7f5b5d",
+  "apple_collection_id": "620967489",
+  "show": "The Glenn Beck Program",
+  "titel": "The Hard Truth About Trump's Economy | Guests: Rylie Barnes & Riley Beesley | 9/18/26",
+  "audio": {
+    "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC8101995524.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:32:03+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "U.S. Census Bureau report on poverty rates, Iran, and the Charlie Kirk case.",
+  "kurzfassung": "The episode examines a new U.S. Census Bureau report showing a drop in the poverty rate and a rise in median household income. It covers President Trump's economic policies, the political situation regarding Iran ahead of the 2026 midterms, and campus reactions to the assassination of Charlie Kirk. Additionally, guests Rylie Barnes and Riley Beesley discuss facing expulsion after exposing a student celebrating the event.",
+  "stichpunkte": [
+    "U.S. Census Bureau report on poverty rates and household income",
+    "President Trump's economic policies and the current state of the economy",
+    "President Trump's approach to Iran ahead of the 2026 midterms",
+    "Reactions at colleges to the assassination of Charlie Kirk",
+    "Interview with University of Utah students Rylie Barnes and Riley Beesley regarding potential expulsion"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:32:03+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "en",
+  "texte_sprache": "en",
+  "texte_herkunft": "umformuliert",
+  "dauer": 7670,
+  "veroeffentlicht": "2026-09-18T17:52:00+00:00",
+  "beschreibung": "According to the latest U.S. Census Bureau Report, America's poverty rate has dropped to the lowest level — not just in recent history but ever recorded. In the same report, the median household income also rose to its highest level since the '60s. How did that happen? Glenn breaks down how President Trump's actions have led to a healthier economy and explains why other factors make things appear worse than they are. Glenn also talks with a caller struggling to afford groceries and gas, warning that Trump's plan is working, even if you can't feel it. Glenn discusses what President Trump is doing about the situation in Iran as the 2026 midterms approach and theorizes what may happen once the election is over. Glenn reacts to the despicable celebrations that happened at colleges around the country regarding the assassination of Charlie Kirk. How will these college students explain, when they're older, what they did during college? Glenn speaks to two students from the University of Utah, Rylie Barnes and Riley Beesley, who faced expulsion after exposing a student for celebrating the assassination of Charlie Kirk.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+  "beschreibung_html": "<p>According to the latest U.S. Census Bureau Report, America's poverty rate has dropped to the lowest level — not just in recent history but ever recorded. In the same report, the median household income also rose to its highest level since the '60s. How did that happen? Glenn breaks down how President Trump's actions have led to a healthier economy and explains why other factors make things appear worse than they are. Glenn also talks with a caller struggling to afford groceries and gas, warning that Trump's plan is working, even if you can't feel it. Glenn discusses what President Trump is doing about the situation in Iran as the 2026 midterms approach and theorizes what may happen once the election is over. Glenn reacts to the despicable celebrations that happened at colleges around the country regarding the assassination of Charlie Kirk. How will these college students explain, when they're older, what they did during college? Glenn speaks to two students from the University of Utah, Rylie Barnes and Riley Beesley, who faced expulsion after exposing a student for celebrating the assassination of Charlie Kirk.&nbsp;</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/7586997c-28de-11ea-a81b-df17619e3f68/image/0e6aebc7ffa180e006b325ab3542a7b2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

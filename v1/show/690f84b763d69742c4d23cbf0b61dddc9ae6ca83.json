@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "有理有据|NBA篮球脱口秀",
   "apple_collection_id": "1537228079",
-  "erzeugt_am": "2026-09-19T10:24:23+00:00",
+  "erzeugt_am": "2026-09-20T10:03:54+00:00",
   "folgen": [
     {
       "guid": "f73a73c1-03f7-4c31-b8b6-4197d2cd1d9f",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "复盘2021-2022赛季NBA总决赛前四场比赛并对未来走势进行预测"
+    },
+    {
+      "guid": "85e3e31a-e55b-418e-bcf4-7223af79b612",
+      "audio_url": "https://anchor.fm/s/42e2196c/podcast/play/44763607/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F26fcd807-0715-f746-1095-4526d1670b68.mp3",
+      "pfad": "/v1/episode/1432ad7de9f9f86d425862ed06341d9a40dbc49b.json",
+      "titel": "Ep.48: 风雨飘摇的开拓者 重建在即的步行者",
+      "veroeffentlicht": "2021-12-13T04:32:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨开拓者管理层动荡与利拉德未来，以及步行者开启重建的潜在交易。"
     }
   ]
 }

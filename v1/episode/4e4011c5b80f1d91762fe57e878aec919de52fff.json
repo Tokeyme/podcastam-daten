@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "guid": "6a874ae1a103c59e028e8a3a",
+  "apple_collection_id": "1733559978",
+  "show": "Was bisher geschah - Geschichtspodcast",
+  "titel": "Wettlauf zum Südpol (1/2) - Amundsen vs. Scott",
+  "audio": {
+    "url": "https://sphinx.acast.com/p/open/s/68935df5eef665d629ba5e4c/e/6a874ae1a103c59e028e8a3a/media.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-19T13:35:05+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (acast liefert ueber /livestitches/ - die Datei wird beim Abruf zusammengesetzt, Abruf laeuft ueber den Werbedienst acast.com) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "Der Wettlauf zum Südpol zwischen Amundsen und Scott.",
+  "kurzfassung": "Der berühmteste Wettlauf der Weltgeschichte führte Amundsen und Scott unabhängig voneinander zum Südpol. Die Folge beleuchtet die Hintergründe, Antriebe und Unterschiede der beiden Entdecker. Dabei wird der Frage nachgegangen, warum am Ende der Außenseiter das Duell gewann.",
+  "stichpunkte": [
+    "Der Wettlauf zwischen Amundsen und Scott zum Südpol",
+    "Wer waren die beiden Männer, die den Südpol erobern wollten?",
+    "Was trieb Amundsen und Scott an?",
+    "Welche Unterschiede gab es zwischen den Entdeckern?",
+    "Warum gewann der Außenseiter das Duell?"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-19T13:35:05+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "de",
+  "texte_sprache": "de",
+  "texte_herkunft": "umformuliert",
+  "dauer": 5031,
+  "veroeffentlicht": "2026-08-24T22:30:00+00:00",
+  "beschreibung": "Er gilt als der berühmteste Wettlauf der Weltgeschichte: Amundsen vs Scott. Doch wer waren diese beiden Männer, die unabhängig voneinander den Südpol erobern wollen. Was trieb sie an? Was unterschied sie? Und warum gewann am Ende der Außenseiter das Duell der Entdecker?\n\nDu hast Feedback oder einen Themenvorschlag für Joachim und Nils? Dann melde dich gerne bei Instagram: @wasbishergeschah.podcast\n\nQuellen:\nPreston, Diana: In den eisigen Tod. Robert F. Scotts Expedition zum Südpol. Aktualisierte Sonderausgabe mit zahlreichen Tagebuchauszügen, 2024.\nDavid Crane: Scott of the Antarctic, 2012.\nLangner, Rainer-K.: Duell im ewigen Eis. Scott und Amundsen oder Die Eroberung des Südpols. Frankfurt am Main, 2011.\nNielsen, Maja / Krumbeck, Magdalene: Scott und Amundsen: Das Rennen zum Südpol. Mit Arved Fuchs auf Spurensuche. 2011.\nScott, Robert Falcon: Drama am Südpol – Robert Falcon Scotts Tagebücher der letzten Fahrt. 2019.\nKnopp, Guido: Der Wettlauf zum Südpol. Das größte Abenteuer der Geschichte. München 2011.\nOceanwide Expeditions: „Fridtjof Nansen – Der Großvater der modernen Polarforschung.\"\nGEOlino: „Amundsen – Die Geschichte eines mörderischen Rennens.\"\nDie Welt: „Scott, Amundsen – Ihr Weg zum Südpol.\"\nPlymouth City Council: „Scott's Early Life.\" plymouth.gov.uk.\n++ Live in Düsseldorf am 16. Oktober 2026: https://rausgegangen.de/en/events/was-bisher-geschah-geschichtspodcast-0/ ++\n\n++ Was bisher geschah Livetour 2027: Jetzt Tickets sichern ++\n\n++ Du willst Teil der WBG-Community auf Steady werden und werbefrei hören? Hier gehts lang! ++\n\n++ 20% auf das gesamte Giesswein-Sortiment: Jetzt Schuhe shoppen ++\nHosted on Acast. See acast.com/privacy for more information.",
+  "beschreibung_html": "<p>Er gilt als der berühmteste Wettlauf der Weltgeschichte: Amundsen vs Scott. Doch wer waren diese beiden Männer, die unabhängig voneinander den Südpol erobern wollen. Was trieb sie an? Was unterschied sie? Und warum gewann am Ende der Außenseiter das Duell der Entdecker?</p><br><p>Du hast Feedback oder einen Themenvorschlag für Joachim und Nils? Dann melde dich gerne bei Instagram: <a href=\"https://www.instagram.com/wasbishergeschah.podcast\" rel=\"noopener noreferrer\" target=\"_blank\">@wasbishergeschah.podcast</a></p><br><p>Quellen:</p><p>Preston, Diana: In den eisigen Tod. Robert F. Scotts Expedition zum Südpol. Aktualisierte Sonderausgabe mit zahlreichen Tagebuchauszügen, 2024.&nbsp;</p><p>David Crane: Scott of the Antarctic, 2012.&nbsp;</p><p>Langner, Rainer-K.: Duell im ewigen Eis. Scott und Amundsen oder Die Eroberung des Südpols. Frankfurt am Main, 2011.</p><p>Nielsen, Maja / Krumbeck, Magdalene: Scott und Amundsen: Das Rennen zum Südpol. Mit Arved Fuchs auf Spurensuche. 2011.</p><p>Scott, Robert Falcon: Drama am Südpol – Robert Falcon Scotts Tagebücher der letzten Fahrt.&nbsp;2019.</p><p>Knopp, Guido: Der Wettlauf zum Südpol. Das größte Abenteuer der Geschichte. München 2011.</p><p>Oceanwide Expeditions: „Fridtjof Nansen – Der Großvater der modernen Polarforschung.\"&nbsp;</p><p>GEOlino: „Amundsen – Die Geschichte eines mörderischen Rennens.\"&nbsp;</p><p>Die Welt: „Scott, Amundsen – Ihr Weg zum Südpol.\"&nbsp;</p><p>Plymouth City Council: „Scott's Early Life.\" plymouth.gov.uk.</p><p><strong>++ Live in Düsseldorf am 16. Oktober 2026:</strong> <a href=\"https://rausgegangen.de/en/events/was-bisher-geschah-geschichtspodcast-0/\" rel=\"noopener noreferrer\" target=\"_blank\">https://rausgegangen.de/en/events/was-bisher-geschah-geschichtspodcast-0/</a> <strong>++</strong></p><br><p><strong>++ Was bisher geschah Livetour 2027:</strong> <a href=\"https://wbgprods.com/livetour2027\" rel=\"noopener noreferrer\" target=\"_blank\">Jetzt Tickets sichern</a><strong> ++</strong></p><br><p><strong>++ Du willst Teil der WBG-Community auf Steady werden und werbefrei hören?</strong> <a href=\"https://steady.page/de/wbg/about\" rel=\"noopener noreferrer\" target=\"_blank\">Hier gehts lang!</a> <strong>++</strong></p><br><p><strong>++ 20% auf das gesamte Giesswein-Sortiment:</strong> <a href=\"https://wbgprods.com/giesswein\" rel=\"noopener noreferrer\" target=\"_blank\">Jetzt Schuhe shoppen</a> <strong>++</strong></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+  "bild_url": "https://assets.pippa.io/shows/68935df5eef665d629ba5e4c/1771783641757-a960dbcf-5311-415d-82a5-b18a3ca7ee97.jpeg",
+  "folgennummer": 171
+}
