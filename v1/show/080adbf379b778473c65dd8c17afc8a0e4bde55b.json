@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "浪游猎手｜不盲从的旅行攻略",
   "apple_collection_id": "1833936782",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "xmly_track_948566315",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "主播木子与大周分享大理生活三年多的真实餐厅与美食推荐。"
+    },
+    {
+      "guid": "xmly_track_927809882",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoM3mXbAVKiwAQvccJz.m4a?channel=rss&album_id=102512451&track_id=927809882&uid=125957407&jt=https://aod.cos.tx.xmcdn.com/storages/aad1-audiofreehighqps/D7/D3/GKwRIDoM3mXbAVKiwAQvccJz.m4a",
+      "pfad": "/v1/episode/c813b60f3676827b389ed1923866769b2f472590.json",
+      "titel": "跟着哈尔滨土著，用“东北币”来一趟冬日顶配旅行",
+      "veroeffentlicht": "2025-11-03T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "哈尔滨土著分享冬日旅游攻略与美食推荐"
+    },
+    {
+      "guid": "xmly_track_911619135",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIMnXf4ARD_owQQAhG_.m4a?channel=rss&album_id=102512451&track_id=911619135&uid=125957407&jt=https://aod.cos.tx.xmcdn.com/storages/33bf-audiofreehighqps/8B/14/GKwRIaIMnXf4ARD_owQQAhG_.m4a",
+      "pfad": "/v1/episode/c409ea50c02600d41b2435d29ec0c4479a26e012.json",
+      "titel": "人少！景美！好吃！4个适合十一假期的私藏旅行目的地",
+      "veroeffentlicht": "2025-09-15T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分享4个适合十一假期的私藏旅行目的地"
+    },
+    {
+      "guid": "xmly_track_906196348",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEMixc0AWUf-gQFujW1.m4a?channel=rss&album_id=102512451&track_id=906196348&uid=125957407&jt=https://aod.cos.tx.xmcdn.com/storages/ef85-audiofreehighqps/F2/CF/GKwRIJEMixc0AWUf-gQFujW1.m4a",
+      "pfad": "/v1/episode/caaec432f7040200561056d6b3fc8b9e9688ba78.json",
+      "titel": "闯入最后的世外桃源：雨崩小长假徒步指南",
+      "veroeffentlicht": "2025-09-01T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨云南梅里雪山雨崩村的徒步攻略与四季风光"
+    },
+    {
+      "guid": "xmly_track_900892532",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4MeOnIAeCtmAP7Ix1i.m4a?channel=rss&album_id=102512451&track_id=900892532&uid=125957407&jt=https://aod.cos.tx.xmcdn.com/storages/4026-audiofreehighqps/AF/FB/GKwRIW4MeOnIAeCtmAP7Ix1i.m4a",
+      "pfad": "/v1/episode/0e601c85471906093e893133a9ff34629a59cbd9.json",
+      "titel": "信息和垃圾一起爆炸的时代，我们该如何做旅行攻略？",
+      "veroeffentlicht": "2025-08-18T13:10:27+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "在信息爆炸时代如何高效规划个性化旅行攻略"
     }
   ]
 }

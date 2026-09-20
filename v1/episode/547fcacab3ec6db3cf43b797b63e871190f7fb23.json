@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "69f0429a22e2509169097e83",
+  "apple_collection_id": "1723071656",
+  "show": "狂喜播客节 Pod Kuanival",
+  "titel": "如何让我们把狂喜播客节做得更好？「第五届狂喜播客节·叁狂」现场互动答疑 Round 2",
+  "audio": {
+    "url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/69f0429a22e2509169097e83/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lsQXFGxzBf7FW2CsTwgaMZ9sX8UU.m4a",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "m4a",
+    "geprueft_am": "2026-09-20T10:35:23+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "unbestimmt",
+    "grund": "Dynamik weder belegt noch ausgeschlossen: keine Merkmale gefunden, aber eine unveraenderte Wiederholungsprobe beweist nichts; M4A: Ausschnitte nur als AAC-Bloecke (clips_aac) - eine App ohne ADTS-Umverpackung zeigt keine; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "第五届狂喜播客节现场观众互动答疑环节",
+  "kurzfassung": "本期节目是第五届狂喜播客节现场的互动答疑环节。关雅荻与梵一如在上海与现场观众进行交流。讨论核心是如何让狂喜播客节办得更好。",
+  "stichpunkte": [
+    "录制于第五届狂喜播客节现场",
+    "参与嘉宾包括关雅荻与梵一如",
+    "现场观众Q&A互动环节",
+    "探讨如何改进播客节"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T10:35:23+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 4405,
+  "veroeffentlicht": "2026-04-28T05:32:05+00:00",
+  "beschreibung": "*本期录制于2026年4月26日，上海CMG融媒影城，第五届狂喜播客节现场\n**本期完整版92分钟，烦请移步「关雅荻·刹极9秒」订阅收听，感谢支持\nhttps://www.xiaoyuzhoufm.com/episode/69f03c3222e2509169091aab\n场号【102】\n如何让我们把狂喜做得更好？——现场观众Q&A\n关雅荻+梵一如\n\n在小宇宙查看该单集文稿",
+  "beschreibung_html": "<p>*本期录制于2026年4月26日，上海CMG融媒影城，第五届狂喜播客节现场</p><p>**本期完整版92分钟，烦请移步「关雅荻·刹极9秒」订阅收听，感谢支持</p><p>https://www.xiaoyuzhoufm.com/episode/69f03c3222e2509169091aab</p><p>场号【102】</p><p>如何让我们把狂喜做得更好？——现场观众Q&amp;A</p><p>关雅荻+梵一如</p><figure><img src=\"https://image.xyzcdn.net/Fkca4-5l0s083VExpNmMDCja0ZgK.jpeg\"/></figure><figure><img src=\"https://image.xyzcdn.net/FvDWIUXujTq1YxGWaW4CfAJHkyVW.png\"/></figure><br><a href=\"https://oia.xiaoyuzhoufm.com/player/69f0429a22e2509169097e83?openTranscript=true&utm_source=rss&as=cHQ9MTIyNjE5MjQ3JmN0PXJzcyZtdD04&autoOpen=false\">在小宇宙查看该单集文稿</a>",
+  "bild_url": "https://image.xyzcdn.net/lncdWn0mfm6CYH5XE6uQK7XhOoq7.png"
+}

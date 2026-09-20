@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "献给孩子的英文知识——新闻、科学、经济学和传统故事",
   "apple_collection_id": "1786853447",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "xmly_track_859686295",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "六岁男孩曹冲巧妙利用浮 测重大象的故事"
+    },
+    {
+      "guid": "xmly_track_839539740",
+      "audio_url": "https://jt.ximalaya.com//GAqh_aQL24RWACAAAAOb_GTX.mp3.m4a?channel=rss&album_id=84883116&track_id=839539740&uid=220413374&jt=https://aod.cos.tx.xmcdn.com/storages/b550-audiofreehighqps/86/33/GAqh_aQL24RWACAAAAOb_GTX.mp3",
+      "pfad": "/v1/episode/b759138039f8ae9f469f2ee3974c4e6b36f8df81.json",
+      "titel": "Why Your Accent Doesn't Matter 为什么口音不重要？",
+      "veroeffentlicht": "2025-04-21T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么英语口音并不重要以及语言交流的核心意义"
+    },
+    {
+      "guid": "xmly_track_833048476",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJELyUaJACAAAAOReS_o.mp3.m4a?channel=rss&album_id=84883116&track_id=833048476&uid=220413374&jt=https://aod.cos.tx.xmcdn.com/storages/8e64-audiofreehighqps/E2/95/GKwRIJELyUaJACAAAAOReS_o.mp3",
+      "pfad": "/v1/episode/cfade97562c0d0e2d92c27164910779326bc2782.json",
+      "titel": "What is the Stock Market小朋友也应该知道的股票知识？",
+      "veroeffentlicht": "2025-04-07T09:52:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": ""
     }
   ]
 }

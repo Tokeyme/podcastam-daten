@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "游戏杂谈铺",
   "apple_collection_id": "1716858760",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "659e02076d045a7f5ec1baf4",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "游戏行业从业者盘点2023年工作与生活，并展望2024年的愿望与困惑。"
+    },
+    {
+      "guid": "658661d13d5d24e9cb822059",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653cd842087a18ebd7f5ff6c/658661d13d5d24e9cb822059/media.xyzcdn.net/lhoXigvc-m2EL8QAMNVcpkmdsGL1.m4a",
+      "pfad": "/v1/episode/76126b9cb93de100987d4a35693a702016aa31cd.json",
+      "titel": "#4 职场故事丨裁员的应对，蛰伏的2023",
+      "veroeffentlicht": "2023-12-23T04:28:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "前大厂员工分享裁员经历与2023年的职场应对策略"
+    },
+    {
+      "guid": "65728dec6d7f010fe01ec813",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653cd842087a18ebd7f5ff6c/65728dec6d7f010fe01ec813/media.xyzcdn.net/lg80J7xxcRvcbCRPM4IsXMI4OBnC.m4a",
+      "pfad": "/v1/episode/b8c6fd100833ad583a9825f3c6bcf28a3291ee77.json",
+      "titel": "#3 逆市求职，温习一些实用的面试技巧",
+      "veroeffentlicht": "2023-12-08T03:30:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨逆市求职的实用面试技巧，从面试官视角看如何脱颖而出"
+    },
+    {
+      "guid": "6563edaa0500be931c14c126",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653cd842087a18ebd7f5ff6c/6563edaa0500be931c14c126/media.xyzcdn.net/lqQjbZPhy-pt5IhM7N-XtjQOPxko.m4a",
+      "pfad": "/v1/episode/edca4c0aba080fe70dda82803c4eec82d3573e68.json",
+      "titel": "#2 不玩游戏，想混游戏圈，可以吗？",
+      "veroeffentlicht": "2023-11-27T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨不玩游戏是否能进入游戏行业及相关职场规则。"
+    },
+    {
+      "guid": "6551c53ec9e7cfe02593b9a6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653cd842087a18ebd7f5ff6c/6551c53ec9e7cfe02593b9a6/media.xyzcdn.net/lpA6QKoEN4tlFplX15cZYkhZ2hh9.m4a",
+      "pfad": "/v1/episode/c4f1d45d697c659e71c3613c26521b69a504f7f9.json",
+      "titel": "揭秘游戏行业现状",
+      "veroeffentlicht": "2023-11-14T11:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2023年游戏行业现状与求职选择"
     }
   ]
 }

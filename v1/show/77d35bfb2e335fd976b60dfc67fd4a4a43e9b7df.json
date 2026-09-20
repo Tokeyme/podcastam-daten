@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "狂喜播客节 Pod Kuanival",
   "apple_collection_id": "1723071656",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "6a7c3c4e17676351c570cc5a",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "狂喜播客北京站闭幕式：官网上线，总结首届活动并展望上海第六届"
+    },
+    {
+      "guid": "6a6a0780b581962ce2bd7e60",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/6a6a0780b581962ce2bd7e60/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/low8sCm5rJu3CKYQV3R28oL_xBeS.m4a",
+      "pfad": "/v1/episode/f65b70ac30e01bc2556e3af0aef42f84d1f9aeb5.json",
+      "titel": "260729 我们把音响的腿都砍了，砍到不能再砍，剩下的才是「狂喜·城市」系列：北京站第二次线上筹备会实录",
+      "veroeffentlicht": "2026-07-29T14:08:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "狂喜·城市系列北京站第二次线上筹备会实录与活动细节分享"
+    },
+    {
+      "guid": "6a6248c76356eb2d9be769e6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/6a6248c76356eb2d9be769e6/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lh-fsaDIN_2zbHmxmWBuKYhTlRnY.m4a",
+      "pfad": "/v1/episode/812345b6da1510ebfa545a7b99bce5339ee846bd.json",
+      "titel": "260723 1天9个影厅66块通票的「狂喜实验室」正式启动，「狂喜·城市」北京站第一次公开筹备会",
+      "veroeffentlicht": "2026-07-23T17:10:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "「狂喜·城市」北京站筹备会纪实与活动规划"
+    },
+    {
+      "guid": "6a2edf6d43a22a695583b75f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/6a2edf6d43a22a695583b75f/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lkfHbOsllGvjM9PUtij_mNcWx-G9.m4a",
+      "pfad": "/v1/episode/e163595c502b730a6318bcb6cd46d2c121c2a953.json",
+      "titel": "【狂喜Special Day × HDC2026】我们聊了聊站台新发现、AI助手小艺与播客的下一站 260614",
+      "veroeffentlicht": "2026-06-14T17:12:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "华为HDC2026观感：播客是小众蓝海还是大众未来"
+    },
+    {
+      "guid": "6a080060e1eb34a93980472d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/6a080060e1eb34a93980472d/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lo52clIk7LTzEVIre8gbR7fZfvlH.m4a",
+      "pfad": "/v1/episode/71adee7280d6b2c60eebccdfa96b3b6e72b555c7.json",
+      "titel": "杨天楠+高蕾+肖宛远+潘乱：AI浪潮下的投资与自我进化 - 第五届狂喜播客节·易方达-茶水间经济学专场",
+      "veroeffentlicht": "2026-05-16T05:39:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI浪潮下的投资机遇与个体生存策略"
+    },
+    {
+      "guid": "6a06cfb21b7bd5029533f515",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/6a06cfb21b7bd5029533f515/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lkPB4u8ea1gqpbEEp3xKLktA07gX.m4a",
+      "pfad": "/v1/episode/ab2ddb93248ab1fc9305bc32aa9ac869c20afc79.json",
+      "titel": "张红亮+Cici汪曦+宋杰+李淼：告别职场“工伤”，科学减重，解锁自信而美 - 信达生物制药共创专场",
+      "veroeffentlicht": "2026-05-15T08:23:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨都市职场人的肥胖问题与减重药物的科学应用"
+    },
+    {
+      "guid": "69f0429a22e2509169097e83",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/69f0429a22e2509169097e83/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lsQXFGxzBf7FW2CsTwgaMZ9sX8UU.m4a",
+      "pfad": "/v1/episode/547fcacab3ec6db3cf43b797b63e871190f7fb23.json",
+      "titel": "如何让我们把狂喜播客节做得更好？「第五届狂喜播客节·叁狂」现场互动答疑 Round 2",
+      "veroeffentlicht": "2026-04-28T05:32:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "第五届狂喜播客节现场观众互动答疑环节"
+    },
+    {
+      "guid": "6930fe503fec3166cf2c8d76",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/6930fe503fec3166cf2c8d76/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lvGCNbzuRPiKwASht6eMuSSnelOQ.m4a",
+      "pfad": "/v1/episode/2000c6bbb268a6767b4f3c65024371cbc1dc5011.json",
+      "titel": "为什么坚持做一个「不完美」的播客节？第四届狂喜播客节直面观众互动问答",
+      "veroeffentlicht": "2025-12-04T03:30:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "第四届狂喜播客节直面观众互动问答"
+    },
+    {
+      "guid": "69227ff36018cc2c982218a5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/69227ff36018cc2c982218a5/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/luC6BuEEBeP4R8IKKtx8qo26VSI0.m4a",
+      "pfad": "/v1/episode/5bf12e5b57852771bca66882af8a7727ecc069d5.json",
+      "titel": "医生和心理咨询师同台，助你打破问诊咨询信息差ft张红亮/六层楼/史蒂夫/岳鑫 - 第四届狂喜播客节",
+      "veroeffentlicht": "2025-11-23T03:38:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨就医与心理咨询的普遍误区、AI角色及选择建议"
+    },
+    {
+      "guid": "690a45eeac8cd005c83d2744",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c74e3ef940c8f71e8ca5f/690a45eeac8cd005c83d2744/media.xyzcdn.net/653c74e3ef940c8f71e8ca5f/lu9NiwFArkxsGbVjfZCaIjLU3xAZ.m4a",
+      "pfad": "/v1/episode/77d8a7d7b557157cfbacee5f6e74c55a0968c3f3.json",
+      "titel": "第四届狂喜播客节「贰狂+」所有观众评论卡内容与抽奖结果 20251104",
+      "veroeffentlicht": "2025-11-04T18:57:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "第四届狂喜播客节观众评语卡内容与抽奖结果"
     }
   ]
 }

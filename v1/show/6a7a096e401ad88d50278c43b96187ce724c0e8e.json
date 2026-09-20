@@ -1,9 +1,39 @@
 {
   "schema_version": 1,
-  "show": "Betrayal Weekly",
+  "show": "Betrayal Season 6",
   "apple_collection_id": "1615637724",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "e385ecb0-feba-4194-81aa-b4c700e08e27",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/e385ecb0-feba-4194-81aa-b4c700e08e27/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/72213574679b2948a327f13fe446f8b911153e8a.json",
+      "titel": "Introducing: Betrayal Season 6",
+      "veroeffentlicht": "2026-09-17T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Preview of Betrayal Season 6 focusing on threats and a confession."
+    },
+    {
+      "guid": "6fb18613-0fad-43a0-8c9d-b4c0014a9ac5",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/6fb18613-0fad-43a0-8c9d-b4c0014a9ac5/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/54d26cfa3a658723e3ad93b673a351365faff0ec.json",
+      "titel": "Kenzie | Betrayal Weekly",
+      "veroeffentlicht": "2026-09-17T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "The online leak of Kenzie's private boudoir photos."
+    },
+    {
+      "guid": "e4f67392-9140-4bce-9c03-b4b90164e008",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/e4f67392-9140-4bce-9c03-b4b90164e008/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/0ef47f204ab3a4b86aa09b6bca3dc3fada0b99ac.json",
+      "titel": "Chad | Betrayal Weekly",
+      "veroeffentlicht": "2026-09-10T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Chad turns to the court when his home is no longer safe for his sons."
+    },
     {
       "guid": "12a5a06e-e2ee-44eb-afad-b4b201696257",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/12a5a06e-e2ee-44eb-afad-b4b201696257/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
@@ -15,6 +45,26 @@
       "einzeiler": "Survivor Amber Keel shares how anti-trafficking founder Candace Leard defrauded donors."
     },
     {
+      "guid": "e6b8dd21-ffee-4df5-a948-b4ab01249860",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/e6b8dd21-ffee-4df5-a948-b4ab01249860/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/a4fd3ae88c51369e6f5f1e2a5efd37d26de4091c.json",
+      "titel": "Eileen | Betrayal Weekly",
+      "veroeffentlicht": "2026-08-27T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A wife's thirty-year marriage is disrupted by a sudden confession."
+    },
+    {
+      "guid": "ec5300e2-b2da-440b-a07a-b4a301409395",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/ec5300e2-b2da-440b-a07a-b4a301409395/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/7309894bf94d6693eb5ef1a1725745cc9cf51f09.json",
+      "titel": "Emily & Dave | Betrayal Weekly",
+      "veroeffentlicht": "2026-08-20T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Emily and Dave face a conflict involving a beloved dog and someone they trusted."
+    },
+    {
       "guid": "a8ef7b68-5ac8-4900-b7f9-b4a900ff3c12",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/a8ef7b68-5ac8-4900-b7f9-b4a900ff3c12/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
       "pfad": "/v1/episode/fe86ba8e0e2db7f7370dbc7c9671dacb34100581.json",
@@ -23,6 +73,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Investigating the massive gambling scandal surrounding baseball star Shohei Ohtani."
+    },
+    {
+      "guid": "9e31ba95-21fa-433e-a31e-b49d00ddd0c2",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/9e31ba95-21fa-433e-a31e-b49d00ddd0c2/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/24aeb72a34b09cac406bb75a480ce19fafb0badf.json",
+      "titel": "Leslie | Betrayal Weekly",
+      "veroeffentlicht": "2026-08-13T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Leslie discovers family secrets after her father's death."
+    },
+    {
+      "guid": "4e101b14-c2d5-4222-ab13-b4a20109d628",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/4e101b14-c2d5-4222-ab13-b4a20109d628/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/15fd365e43ac37ef8ed3d03c874457cd9efa9ac8.json",
+      "titel": "Introducing: Burden of Guilt Season 3",
+      "veroeffentlicht": "2026-08-12T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A mother faces an impossible choice after her fiancé is accused of child abuse."
+    },
+    {
+      "guid": "dc6ef5ca-70c2-43c6-9aa2-b49f013890bf",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/dc6ef5ca-70c2-43c6-9aa2-b49f013890bf/audio.mp3?utm_source=Podcast&in_playlist=f1aae979-82f6-402c-8906-ae6001537b33",
+      "pfad": "/v1/episode/c363040ebfe7e9b03a23008baead37eb9e64f4b8.json",
+      "titel": "Behind the Scenes of HULU’s Betrayal: Dirty Secrets | BONUS | Karoline's Story",
+      "veroeffentlicht": "2026-08-11T04:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Karoline Borega's story from Betrayal Season 4 adapts into a Hulu docu-series."
     }
   ]
 }

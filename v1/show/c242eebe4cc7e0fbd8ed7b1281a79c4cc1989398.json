@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "然哥讲故事丨谈古论今",
   "apple_collection_id": "1074650165",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/dd96-audiofreehighqps/60/B1/GKwRIRwFYqhIAErSggD2IYLZ-aacv2-48K.m4a",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨中国古代领先世界的科技成就及李约瑟难题"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M05/E2/B8/wKgDY1aR56mCcqJRAGxX9YXF_9I884-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgDY1aR56mCcqJRAGxX9YXF_9I884-aacv2-48K.m4a?channel=rss&album_id=3418284&track_id=11447760&uid=4604413&jt=https://aod.cos.tx.xmcdn.com/group14/M05/E2/B8/wKgDY1aR56mCcqJRAGxX9YXF_9I884-aacv2-48K.m4a",
+      "pfad": "/v1/episode/648764fa5b1408b3a98f27428c88985456f01328.json",
+      "titel": "【全才墨子】然哥讲故事05期",
+      "veroeffentlicht": "2016-01-10T05:10:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国历史上的全才人物墨子的广泛涉猎与全面学识。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M09/DE/26/wKgDZFaKXgHTa3JZAFOf20PEwnE878-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgDZFaKXgHTa3JZAFOf20PEwnE878-aacv2-48K.m4a?channel=rss&album_id=3418284&track_id=11304275&uid=4604413&jt=https://aod.cos.tx.xmcdn.com/group14/M09/DE/26/wKgDZFaKXgHTa3JZAFOf20PEwnE878-aacv2-48K.m4a",
+      "pfad": "/v1/episode/946ff966f9ac6c0a3b6860ef957d5eba84733420.json",
+      "titel": "【芈月的“蓝颜知己”张仪】然哥讲故事03期",
+      "veroeffentlicht": "2016-01-04T11:57:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《芈月传》中张仪与芈月的关系及历史交集"
     }
   ]
 }

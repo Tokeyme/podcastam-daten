@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "爸妈堂育儿微课",
   "apple_collection_id": "1175300758",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group18/M09/BE/E6/wKgJJVjBIvfRyIa4AXpRcJe6_E4588.m4a",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨如何通过还原学习原理与增加实践机会，让孩子重新找回学习的兴趣。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M0A/5D/39/wKgJLlhzNwuitI8YBDYCLe_EN30486.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgJLlhzNwuitI8YBDYCLe_EN30486.mp3.m4a?channel=rss&album_id=5715072&track_id=28424997&uid=63276005&jt=https://aod.cos.tx.xmcdn.com/group22/M0A/5D/39/wKgJLlhzNwuitI8YBDYCLe_EN30486.mp3",
+      "pfad": "/v1/episode/1cddcc3bf6fce09c7a07f2e078881ee6eb8c890a.json",
+      "titel": "宝宝性教育，你不好意思说的，Lisa老师教你说（亲子阅读）No.11",
+      "veroeffentlicht": "2017-01-09T07:20:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨儿童性教育与亲子阅读的实践方法。"
     }
   ]
 }

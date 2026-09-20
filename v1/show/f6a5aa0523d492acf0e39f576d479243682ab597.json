@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "牛言牛语｜跑步科技播客",
   "apple_collection_id": "1755866458",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "6822c41524f8559346515f61",
@@ -13,6 +13,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "深度对比苹果与佳明运动手表的 HRV 心率变异性监测技术与准确性差异"
+    },
+    {
+      "guid": "6822bef3b7c8a9962cd03a48",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/6822bef3b7c8a9962cd03a48/media.xyzcdn.net/6667d974a702ea0c9695baac/lkZzj0zA-fmryRozol2P07X5Ia0s.m4a",
+      "pfad": "/v1/episode/5726582a9e4f0ffa273ffbb1026c81aa7aa934a2.json",
+      "titel": "有些人会在马拉松前复用布洛芬，有用吗，有什么好处和危害",
+      "veroeffentlicht": "2025-05-13T03:40:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨马拉松赛前服用布洛芬的作用与潜在风险"
+    },
+    {
+      "guid": "681f119324f8559346dfcbe9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/681f119324f8559346dfcbe9/media.xyzcdn.net/6667d974a702ea0c9695baac/lno5yXlwUMj60KFEpsIHIAGmSQ43.m4a",
+      "pfad": "/v1/episode/e575c512601995cd2573ceba9ebbe0a9c7de1843.json",
+      "titel": "运动手表未来技术展望 | 人工智能 | 固态电池 | 汗液传感器",
+      "veroeffentlicht": "2025-05-10T08:44:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "智能手表未来技术与发展方向展望"
+    },
+    {
+      "guid": "681d0e2724f8559346a489ee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/681d0e2724f8559346a489ee/media.xyzcdn.net/6667d974a702ea0c9695baac/llFxFaNje48OsUu_1oG9Mb5IXaH0.m4a",
+      "pfad": "/v1/episode/dc42c58273d57dc44b8e10ededbf06a91c9f3d6d.json",
+      "titel": "NFC （近场通信）何以成为苹果、佳明、WearOS 等厂商的“围墙花园”",
+      "veroeffentlicht": "2025-05-08T20:14:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "智能手表NFC为何受限：各大厂商在开放与控制间的博弈"
+    },
+    {
+      "guid": "681c1021db57cd35f7192651",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/681c1021db57cd35f7192651/media.xyzcdn.net/6667d974a702ea0c9695baac/lspA46XQke1vBwHYRfrQY8WXlHZ4.m4a",
+      "pfad": "/v1/episode/2235f34424e7b939f5ad0773ee192ff92de30866.json",
+      "titel": "苹果手表心率真的准吗？真相与误解",
+      "veroeffentlicht": "2025-05-08T02:03:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨苹果手表心率测量的准确性与相关研究"
+    },
+    {
+      "guid": "681ad6a0db57cd35f7ec160e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/681ad6a0db57cd35f7ec160e/media.xyzcdn.net/6667d974a702ea0c9695baac/lpdjEr5U1-ek1BwgduedmIz5qyn9.m4a",
+      "pfad": "/v1/episode/b8c2ad2aa2838fc957a243ba2a7a15b9c0910655.json",
+      "titel": "佳明心电图国内获批！聊点心电图背后你可能不知道的那些事",
+      "veroeffentlicht": "2025-05-07T03:47:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨佳明手表ECG心电图功能的工作原理、设备支持及使用注意事项"
+    },
+    {
+      "guid": "6819db7ed8d622bb8015cda5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/6819db7ed8d622bb8015cda5/media.xyzcdn.net/6667d974a702ea0c9695baac/loTUIMtob0fEUvmRWF-pxIhIE7y-.m4a",
+      "pfad": "/v1/episode/94a545f7d188fdea3c4e4d364332a08cd3361258.json",
+      "titel": "佳明身体电量Body Battery™，产品经理的权威解读",
+      "veroeffentlicht": "2025-05-06T09:54:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Garmin佳明身体电量Body Battery功能及其工作原理。"
+    },
+    {
+      "guid": "681495566970cc7b4d5e1e8f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/681495566970cc7b4d5e1e8f/media.xyzcdn.net/6667d974a702ea0c9695baac/lo4cUMxNiQTlxy6WuVpDOsD3Qfkl.m4a",
+      "pfad": "/v1/episode/e802f343ddd01aa0509f1e8c499daf86265729c8.json",
+      "titel": "佳明训练状态，产品经理权威解读",
+      "veroeffentlicht": "2025-05-02T09:51:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "佳明训练状态的权威解读与数据逻辑"
+    },
+    {
+      "guid": "6688c6f0ae8e21859ae303a4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6667d974a702ea0c9695baac/6688c6f0ae8e21859ae303a4/media.xyzcdn.net/ljx7KMdGHRIUCQkCvdg_j0fsKOR1.m4a",
+      "pfad": "/v1/episode/01334fb39696bfacf2121c1ea79d87f6784a4f3f.json",
+      "titel": "对谈RQrun CEO Eric：不弹窗没广告的生存之道与用户们关心的那些问题",
+      "veroeffentlicht": "2024-07-06T04:24:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话RQrun CEO Eric：聊聊跑步软件的生存之道与产品逻辑"
     }
   ]
 }

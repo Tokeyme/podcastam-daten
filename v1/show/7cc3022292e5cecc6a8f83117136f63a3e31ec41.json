@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "海外育儿|美国大妈有话说",
   "apple_collection_id": "1741667510",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "6a90b9feef65145dfcc6898e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/6a90b9feef65145dfcc6898e/media.xyzcdn.net/661034d9d224eced35f4fd90/lgm-u4jmsakX0d7lpZURlPpCsXXu.m4a",
+      "pfad": "/v1/episode/7e58a771fd983a2dde9ff8a77ed330671c6e15b2.json",
+      "titel": "【生活聊天室】EP63 东西岸教育，私校，到底有什么不一样？？？",
+      "veroeffentlicht": "2026-08-27T23:01:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨美国东西岸私校的差异、选校原则及申请规划"
+    },
     {
       "guid": "6a84f75e5aeb2a5712e8f581",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/6a84f75e5aeb2a5712e8f581/media.xyzcdn.net/661034d9d224eced35f4fd90/lhbC2Pti-ROogYKxxOwDRzv0DdmF.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "两位嘉宾分享带娃畅游加拿大的实用攻略，涵盖多伦多、温哥华与班夫国家公园。"
+    },
+    {
+      "guid": "6a5d3acc6356eb2d9be52013",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/6a5d3acc6356eb2d9be52013/media.xyzcdn.net/661034d9d224eced35f4fd90/lt-uwN4T13pNmogB2q3V5oxM0eQL.m4a",
+      "pfad": "/v1/episode/5d3acbabb6dd807d496c8fde2391594647320a2a.json",
+      "titel": "【生活聊天室】EP61 大学录取季，加州孩子申请UC第一手经验分享",
+      "veroeffentlicht": "2026-07-19T21:16:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "加州普通华裔家庭孩子申请UC工程科的真实经验。"
+    },
+    {
+      "guid": "6a2b3c7e43a22a69558248e4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/6a2b3c7e43a22a69558248e4/media.xyzcdn.net/661034d9d224eced35f4fd90/lpRG7gIWbeVkhtvyQpv5_p9S9xUi.m4a",
+      "pfad": "/v1/episode/9440e992ebca9d1c476b5d16197d725bfb572e24.json",
+      "titel": "【生活聊天室】EP60 美国数学教育真的很烂吗？？？公校数学老师来说几句大实话",
+      "veroeffentlicht": "2026-06-11T23:04:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "公校数学老师聊中美数学教育的差异与实际情况"
+    },
+    {
+      "guid": "6a1cce66ac7bdb080c33d372",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/6a1cce66ac7bdb080c33d372/media.xyzcdn.net/661034d9d224eced35f4fd90/lhLUR7Aajy6GeMTrXm_jerEioDQm.m4a",
+      "pfad": "/v1/episode/b5999691ab09a45794f133807e017a97e3dfa189.json",
+      "titel": "【生活聊天室】EP59 孩子兴趣能走多远，校队、national比赛到底多难进？",
+      "veroeffentlicht": "2026-06-01T00:21:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孩子体育兴趣的发展、家长的期望调整及多线发展抉择"
+    },
+    {
+      "guid": "6a0b3e371b7bd502956564d1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/6a0b3e371b7bd502956564d1/media.xyzcdn.net/661034d9d224eced35f4fd90/lgQuKFrpNs0oMqrdKL_OADbN0U55.m4a",
+      "pfad": "/v1/episode/d3a36c998c8fcc214d9a2965e92981da3a38a72f.json",
+      "titel": "【大妈读书会】EP58 《奇迹男孩》：一个特殊孩子，教我们永远选择善良",
+      "veroeffentlicht": "2026-05-18T16:48:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论小说与电影《奇迹男孩》中关于面部缺陷孩子的成长故事"
+    },
+    {
+      "guid": "69e58b6d1d989496e705850e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/69e58b6d1d989496e705850e/media.xyzcdn.net/661034d9d224eced35f4fd90/luP4xY8TKI000czNmIQ8eGNqj3N1.m4a",
+      "pfad": "/v1/episode/45e3850012bbcc1f821fe7b234086a30a8f0c060.json",
+      "titel": "【减压下午茶】EP4 春天来了，诗酒趁年华",
+      "veroeffentlicht": "2026-04-20T02:15:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "苏轼诗词中的人生态度与历史背景"
+    },
+    {
+      "guid": "69cec409b977fb2c47f82598",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/69cec409b977fb2c47f82598/media.xyzcdn.net/661034d9d224eced35f4fd90/lhB3l-DU_x02jSDdl5gEf1wjgj2N.m4a",
+      "pfad": "/v1/episode/b92c006f7ed3b0f2ac66565e296bd0aa5f975d07.json",
+      "titel": "【生活聊天室】EP57 想不到啊！戒尿布竟然也这么难😂potty training经历分享",
+      "veroeffentlicht": "2026-04-02T20:00:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两位妈妈分享幼儿戒尿布的真实经历、挑战与感悟。"
+    },
+    {
+      "guid": "69b6a5fdcaaea1fb3b618eb7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/69b6a5fdcaaea1fb3b618eb7/media.xyzcdn.net/661034d9d224eced35f4fd90/luMQUynGgWG1qlC_3O89nHli8Ue0.m4a",
+      "pfad": "/v1/episode/7aad27216372d7b8bb5525a39bf704112bf4ff0b.json",
+      "titel": "【生活聊天室】EP56 海外孩子学中文，绘本、神器、中文学校……如何快乐学习",
+      "veroeffentlicht": "2026-03-15T12:44:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "海外家长分享教孩子学中文的经验与方法"
+    },
+    {
+      "guid": "69a705b0de29766da94d96d4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/661034d9d224eced35f4fd90/69a705b0de29766da94d96d4/media.xyzcdn.net/661034d9d224eced35f4fd90/lh44nMNeu61LWVzGDDtm7gon8H2F.m4a",
+      "pfad": "/v1/episode/7316e9413fa81e2414bc7bfd269e29ad4e45696e.json",
+      "titel": "【大妈读书会】EP55 和初中生亲子共读，聊聊关于错误与责任的故事",
+      "veroeffentlicht": "2026-03-03T16:42:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与初中生共读青少年读物《The Tenth Mistake of Hank Hooperman》"
     }
   ]
 }

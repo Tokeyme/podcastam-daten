@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "爱情公寓【世界和我爱着你 一个人听见爱情 教会你爱与被爱】",
   "apple_collection_id": "908242897",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "http://audio.xmcdn.com/group23/M06/B1/B1/wKgJNFhNC4iBznHVAGoVh5DQkW8938.m4a",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨情感中的冷漠与离开，没有收不到的信息，只有不想回复的人。"
+    },
+    {
+      "guid": "http://audio.xmcdn.com/group21/M03/85/10/wKgJLVg_2ovQpuV9ADu2sYhxiRo152.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJLVg_2ovQpuV9ADu2sYhxiRo152.m4a?channel=rss&album_id=272107&track_id=26140808&uid=8914100&jt=http://audio.xmcdn.com/group21/M03/85/10/wKgJLVg_2ovQpuV9ADu2sYhxiRo152.m4a",
+      "pfad": "/v1/episode/6c156299415fa7ba31cc8dc1c931942dd14d68a1.json",
+      "titel": "我后悔离婚了，怎么办？丨听青音",
+      "veroeffentlicht": "2016-12-02T03:04:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨离婚后感到后悔该如何应对"
+    },
+    {
+      "guid": "http://audio.xmcdn.com/group21/M09/81/8B/wKgJKFg-q3OgY0piAG7W2O4qpW8818.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJKFg-q3OgY0piAG7W2O4qpW8818.m4a?channel=rss&album_id=272107&track_id=26095979&uid=8914100&jt=http://audio.xmcdn.com/group21/M09/81/8B/wKgJKFg-q3OgY0piAG7W2O4qpW8818.m4a",
+      "pfad": "/v1/episode/bc4353659ffe7ff8f51b889b8b5f759e2a3c7f35.json",
+      "titel": "这个季节，真的有比谈恋爱更惊心的事情需要对付！",
+      "veroeffentlicht": "2016-12-02T02:24:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨在各种不便洗头的情况下如何使用干发喷雾保持清爽。"
+    },
+    {
+      "guid": "http://audio.xmcdn.com/group24/M04/60/DC/wKgJNVg1lRuQe37rANPPtufWs_c540.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJNVg1lRuQe37rANPPtufWs_c540.m4a?channel=rss&album_id=272107&track_id=25674568&uid=8914100&jt=http://audio.xmcdn.com/group24/M04/60/DC/wKgJNVg1lRuQe37rANPPtufWs_c540.m4a",
+      "pfad": "/v1/episode/5b8253bff9f64b2f57eb119f922f856cf2f2d8bd.json",
+      "titel": "【默默道来】爱情这东西呀！【第135期】",
+      "veroeffentlicht": "2016-11-30T03:41:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨爱情是否是生活的唯一要义"
     }
   ]
 }

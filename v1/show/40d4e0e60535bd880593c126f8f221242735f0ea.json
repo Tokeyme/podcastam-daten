@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "游戏哔哔基",
   "apple_collection_id": "1547167853",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "xmly_track_663211863",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨年轻人在游戏中划分主副游的现象及其背后的时间压力与商业逻辑。"
+    },
+    {
+      "guid": "xmly_track_663178432",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoIy33fACAAAAJVkk4q.mp3.m4a?channel=rss&album_id=45333023&track_id=663178432&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/54de-audiofreehighqps/99/2D/GKwRIDoIy33fACAAAAJVkk4q.mp3",
+      "pfad": "/v1/episode/323ec1d7c8fe1a1bd5107070c23ae129d1f9208e.json",
+      "titel": "哔哔连线 vol.2 | 游戏制作人眼中的xgpt，失业？不存在的",
+      "veroeffentlicht": "2023-09-04T11:09:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨游戏制作人如何看待ChatGPT与AIGC带来的影响与应用"
+    },
+    {
+      "guid": "xmly_track_663174416",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSIIy3iPACAAAAJVkDKZ.mp3.m4a?channel=rss&album_id=45333023&track_id=663174416&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/20b5-audiofreehighqps/8B/95/GMCoOSIIy3iPACAAAAJVkDKZ.mp3",
+      "pfad": "/v1/episode/5281298afd9f5a2ca879170ed975f5a791a529e3.json",
+      "titel": "哔哔连线 vol.1 | 打工人聊新加坡，后疫情时代新加坡是否还有梦",
+      "veroeffentlicht": "2023-09-04T10:47:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨后疫情时代下，打工人前往新加坡工作与发展的真实机遇与挑战。"
+    },
+    {
+      "guid": "xmly_track_557239429",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSEGvH6pACAAAAGMQ332.mp3.m4a?channel=rss&album_id=45333023&track_id=557239429&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/ae07-audiofreehighqps/E6/BF/GMCoOSEGvH6pACAAAAGMQ332.mp3",
+      "pfad": "/v1/episode/4db77b6e917ad80c56e599045ff8be4d51dea8c7.json",
+      "titel": "链游漫谈，Axie阿蟹篇—Web3时代的多塔传奇？",
+      "veroeffentlicht": "2022-07-31T17:28:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Web3时代链游代表作Axie的游戏机制与发展困境"
+    },
+    {
+      "guid": "xmly_track_545031222",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSQGhllNACAAAAFuxs0E.mp3.m4a?channel=rss&album_id=45333023&track_id=545031222&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/ebe0-audiofreehighqps/17/F7/GMCoOSQGhllNACAAAAFuxs0E.mp3",
+      "pfad": "/v1/episode/e020a721319eb5729d66600463731dd8af30d2d4.json",
+      "titel": "【番外篇#4】舆情爆炸，暗黑手游\"不朽\"何去何从",
+      "veroeffentlicht": "2022-06-20T15:47:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《暗黑破坏神：不朽》口碑极差与营收暴利并存的现象"
+    },
+    {
+      "guid": "xmly_track_541779488",
+      "audio_url": "https://jt.ximalaya.com//GKwRINsGd9QYACAAAAFoHxhY.mp3.m4a?channel=rss&album_id=45333023&track_id=541779488&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/0b62-audiofreehighqps/16/ED/GKwRINsGd9QYACAAAAFoHxhY.mp3",
+      "pfad": "/v1/episode/a242a0c0ad08bc37c157fe4a48ae8ecfe15cc5e9.json",
+      "titel": "游戏行业的时代之子，畅谈云游戏的前世今生",
+      "veroeffentlicht": "2022-06-09T15:26:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨云游戏的发展历程、现状与未来走向。"
+    },
+    {
+      "guid": "xmly_track_532402076",
+      "audio_url": "https://jt.ximalaya.com//GKwRINsGVn-KACAAAAFThW2d.mp3.m4a?channel=rss&album_id=45333023&track_id=532402076&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/fa1c-audiofreehighqps/3F/E3/GKwRINsGVn-KACAAAAFThW2d.mp3",
+      "pfad": "/v1/episode/4ac0f6f5f1de176ca56fdd1f040b45847a27d11c.json",
+      "titel": "死亡搁浅比原神便宜10倍？探究游戏跨国合研之道",
+      "veroeffentlicht": "2022-05-15T06:52:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨腾讯网易米哈游海外建工作室的跨国游戏合研之道。"
+    },
+    {
+      "guid": "xmly_track_518446333",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwGId1KACAAAAE1w1uT.mp3.m4a?channel=rss&album_id=45333023&track_id=518446333&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/d3fc-audiofreehighqps/31/C6/GKwRIRwGId1KACAAAAE1w1uT.mp3",
+      "pfad": "/v1/episode/5c52594fe7de1bbb2386fb01d653e641f6e4fcd7.json",
+      "titel": "一千人眼中有一千个老头环，两个魂饭的碎碎念",
+      "veroeffentlicht": "2022-04-05T10:31:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两位魂系游戏粉丝多角度深度回顾《艾尔登法环》的通关体验与游戏成功原因。"
+    },
+    {
+      "guid": "xmly_track_518444566",
+      "audio_url": "https://jt.ximalaya.com//GKwRINsGIdyVACAAAAE1wvlt.mp3.m4a?channel=rss&album_id=45333023&track_id=518444566&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/aa13-audiofreehighqps/2B/D0/GKwRINsGIdyVACAAAAE1wvlt.mp3",
+      "pfad": "/v1/episode/e846e9ed5f1966893e130833474243e146c8b80f.json",
+      "titel": "文化自信与内容-从00后的战狼文化看出海",
+      "veroeffentlicht": "2022-04-05T10:28:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨00后群体的爱国情绪及文娱产品出海现状"
+    },
+    {
+      "guid": "xmly_track_497116390",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4FyTmeAfs8cgESDEyI.m4a?channel=rss&album_id=45333023&track_id=497116390&uid=267133915&jt=https://aod.cos.tx.xmcdn.com/storages/8ce1-audiofreehighqps/C4/3A/GKwRIW4FyTmeAfs8cgESDEyI.m4a",
+      "pfad": "/v1/episode/49d7899c0685e5dd19424e2787c7046b0ebf0779.json",
+      "titel": "58期：微软687亿收购动视暴雪背后的钱规则",
+      "veroeffentlicht": "2022-01-28T05:43:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨微软以687亿美元收购动视暴雪背后的行业影响与规划"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "漫谈法兰西（泛法语文化）",
   "apple_collection_id": "1261385602",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "xmly_track_597681973",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "走近经典情歌《The First Time I Ever Saw Your Face》的多个经典翻唱版本"
+    },
+    {
+      "guid": "xmly_track_572056960",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEHBdpGACDUFQGnBnGn.m4a?channel=rss&album_id=8685104&track_id=572056960&uid=5669686&jt=https://aod.cos.tx.xmcdn.com/storages/008c-audiofreehighqps/4F/8F/GKwRIJEHBdpGACDUFQGnBnGn.m4a",
+      "pfad": "/v1/episode/0b89d82004ca084500bc62343048bf7ef1bfa1b8.json",
+      "titel": "漫谈法兰西193-采珠人浪漫曲Je crois entendre encore 克劳斯演唱",
+      "veroeffentlicht": "2022-09-25T08:54:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "比才歌剧《采珠人》及克劳斯演唱的浪漫曲赏析"
+    },
+    {
+      "guid": "xmly_track_570272502",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEG_NKpACE38QGjQ8DF.m4a?channel=rss&album_id=8685104&track_id=570272502&uid=5669686&jt=https://aod.cos.tx.xmcdn.com/storages/d99f-audiofreehighqps/BF/96/GKwRIUEG_NKpACE38QGjQ8DF.m4a",
+      "pfad": "/v1/episode/bbe2bfe904536243081b0cdb4e63f9bb650b397b.json",
+      "titel": "漫谈法兰西192-采珠人浪漫曲Je crois entendre encore 阿兰 凡佐演唱",
+      "veroeffentlicht": "2022-09-18T12:31:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "比才歌剧《采珠人》及阿拉·凡佐演唱的浪漫曲"
+    },
+    {
+      "guid": "xmly_track_566620564",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoG6l6lADuByQGcRYZg.m4a?channel=rss&album_id=8685104&track_id=566620564&uid=5669686&jt=https://aod.cos.tx.xmcdn.com/storages/57a8-audiofreehighqps/5C/A1/GKwRIDoG6l6lADuByQGcRYZg.m4a",
+      "pfad": "/v1/episode/3ccd6e42f09467e030f165d72c58a9bef58babf3.json",
+      "titel": "漫谈法兰西191-采珠人浪漫曲Je crois entendre encore 吉利演唱",
+      "veroeffentlicht": "2022-09-04T12:35:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介绍法国作曲家比才歌剧《采珠人》中的浪漫曲及吉利演唱版本"
     }
   ]
 }

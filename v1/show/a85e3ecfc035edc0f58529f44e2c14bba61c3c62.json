@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "深夜读书|精选美文",
   "apple_collection_id": "1599086393",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "xmly_track_671025247",
@@ -13,6 +13,66 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "节目播出点播与独播剧场相关内容。"
+    },
+    {
+      "guid": "xmly_track_671022906",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4I8y1BABAAAAJlylwO.aac.m4a?channel=rss&album_id=32178597&track_id=671022906&uid=87099528&jt=https://aod.cos.tx.xmcdn.com/storages/ffed-audiofreehighqps/0A/89/GKwRIW4I8y1BABAAAAJlylwO.aac",
+      "pfad": "/v1/episode/12db2526efa0aca6de97788d9093c28928118793.json",
+      "titel": "中国的牛（节选）",
+      "veroeffentlicht": "2023-10-04T13:36:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于中国耕牛的特质与劳作的回忆与思考"
+    },
+    {
+      "guid": "xmly_track_671021584",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoI8yvaABAAAAJlyXQy.aac.m4a?channel=rss&album_id=32178597&track_id=671021584&uid=87099528&jt=https://aod.cos.tx.xmcdn.com/storages/e8a4-audiofreehighqps/FD/98/GKwRIDoI8yvaABAAAAJlyXQy.aac",
+      "pfad": "/v1/episode/442ab5912a6933b5f6b1db2cd0c9e0c8006d5f22.json",
+      "titel": "住的梦（节选）",
+      "veroeffentlicht": "2023-10-04T13:30:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于四季理想居住地的设想"
+    },
+    {
+      "guid": "xmly_track_671020512",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSYI8yqlABAAAAJlyNgs.aac.m4a?channel=rss&album_id=32178597&track_id=671020512&uid=87099528&jt=https://aod.cos.tx.xmcdn.com/storages/04d9-audiofreehighqps/DF/B1/GMCoOSYI8yqlABAAAAJlyNgs.aac",
+      "pfad": "/v1/episode/1624c7b0ba46b3c26689362fceceaad10e014d47.json",
+      "titel": "紫藤萝瀑布（节选）",
+      "veroeffentlicht": "2023-10-04T13:24:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "宗璞散文名篇《紫藤萝瀑布》节选诵读与赏析。"
+    },
+    {
+      "guid": "xmly_track_670757730",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaII8Z_tABAAAAJlMi3G.aac.m4a?channel=rss&album_id=32178597&track_id=670757730&uid=87099528&jt=https://aod.cos.tx.xmcdn.com/storages/b203-audiofreehighqps/D9/C6/GKwRIaII8Z_tABAAAAJlMi3G.aac",
+      "pfad": "/v1/episode/779a920b7dc48d560aa76acb26daa4e3f62cec77.json",
+      "titel": "最糟糕的发明（节选）",
+      "veroeffentlicht": "2023-10-03T09:20:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨20世纪最糟糕的发明及其带来的环境和社会问题"
+    },
+    {
+      "guid": "xmly_track_670756157",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSEI8ZzbABAAAAJlMQNW.aac.m4a?channel=rss&album_id=32178597&track_id=670756157&uid=87099528&jt=https://aod.cos.tx.xmcdn.com/storages/48e8-audiofreehighqps/87/0C/GMCoOSEI8ZzbABAAAAJlMQNW.aac",
+      "pfad": "/v1/episode/aabbf3454155838961f730629c18e1f46a74abbf.json",
+      "titel": "提醒幸福（节选）",
+      "veroeffentlicht": "2023-10-03T09:07:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨幸福的本质、感知方式及其朴素而真实的表现形式"
+    },
+    {
+      "guid": "xmly_track_670722861",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSII8WTQAA6k8gJlG5jd.aac.m4a?channel=rss&album_id=32178597&track_id=670722861&uid=87099528&jt=https://aod.cos.tx.xmcdn.com/storages/a85c-audiofreehighqps/FA/04/GMCoOSII8WTQAA6k8gJlG5jd.aac",
+      "pfad": "/v1/episode/f67e8fa9e525ba418df7ef54c580697b1f920d0e.json",
+      "titel": "请回答1988：致成德善",
+      "veroeffentlicht": "2023-10-03T05:08:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "《请回答1988》中成德善的情感与故事讨论"
     }
   ]
 }

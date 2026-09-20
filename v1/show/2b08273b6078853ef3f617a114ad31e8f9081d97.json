@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "火花集 SparksetPodcast",
   "apple_collection_id": "6802926196",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "6a978f72a0210c197dcc096b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a978f72a0210c197dcc096b/media.xyzcdn.net/69630aced507411407b20fdc/lkQdy6FVVVSXIlHJISDH2oaT5DGi.m4a",
+      "pfad": "/v1/episode/c30c272cf208b5703ec8d23cc0b14ce8e32b9239.json",
+      "titel": "我们的女理发师去哪儿了？——审美能力与你我的关系",
+      "veroeffentlicht": "2026-09-02T02:55:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨审美能力在各行各业中的体现与日常培养"
+    },
+    {
+      "guid": "6a93bcb9f03e74ee6b01fb0c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a93bcb9f03e74ee6b01fb0c/media.xyzcdn.net/69630aced507411407b20fdc/lvMEZ0CSSPZRwe3qDRWtMJ7hqppN.m4a",
+      "pfad": "/v1/episode/a64ffb44487b3100ab2cd2a962baabc536ae874d.json",
+      "titel": "那些年被“借走”的美术课，什么时候又由谁来还？",
+      "veroeffentlicht": "2026-08-30T05:18:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美术课被边缘化与年轻人涌向二次元的反差现象"
+    },
+    {
+      "guid": "6a92b034a0210c197dca150a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a92b034a0210c197dca150a/media.xyzcdn.net/69630aced507411407b20fdc/llSmePRkqE23y-X1aE9tbY7cZtCT.m4a",
+      "pfad": "/v1/episode/1bbe8295e042343cd7df2b4d8a5acc710f031942.json",
+      "titel": "粉色曾经是女孩的颜色？——性别与色彩的一百年反转",
+      "veroeffentlicht": "2026-08-29T10:28:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨性别与色彩关系的一百年历史反转"
+    },
+    {
+      "guid": "6a90f10c1352af56ff3d40aa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a90f10c1352af56ff3d40aa/media.xyzcdn.net/69630aced507411407b20fdc/lkO-dMwTyugKPB0evksAYfnf6nav.m4a",
+      "pfad": "/v1/episode/7fb7834cbf212bdb4dd40b6441dd935ab6bcfc06.json",
+      "titel": "儿童美术：当“像不像”打败了“开不开心”",
+      "veroeffentlicht": "2026-08-28T02:26:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨儿童美术教育中如何平衡“画得像”与“表达自我”的关系。"
+    },
     {
       "guid": "6a8433dc8156bf33621a42bc",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a8433dc8156bf33621a42bc/media.xyzcdn.net/69630aced507411407b20fdc/li9Oxk_oMJVFrbiCyUkIPMAyRKBr.m4a",
@@ -13,6 +53,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "从大厂视觉设计到景德镇陶瓷，在泥土中找回真实创作的心流与温度。"
+    },
+    {
+      "guid": "6a81752717676351c5729ecf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a81752717676351c5729ecf/media.xyzcdn.net/69630aced507411407b20fdc/lvX-b6ZB8n3DJdKoiyJGHtzK5oad.m4a",
+      "pfad": "/v1/episode/17fe41aa3d5c97bfd35fa96cf1b6909c14389432.json",
+      "titel": "原来你爱逛美术馆不单是因为画",
+      "veroeffentlicht": "2026-08-16T08:40:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探究人们喜爱逛美术馆的原因与独特的观展体验。"
+    },
+    {
+      "guid": "6a66f8e86356eb2d9be90f1e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a66f8e86356eb2d9be90f1e/media.xyzcdn.net/69630aced507411407b20fdc/lsPdpYQ-IL-rjXqvdCauodOme-fc.m4a",
+      "pfad": "/v1/episode/d42a5230bf12964ea1ddd8c288a0713070dfaafc.json",
+      "titel": "真真假假，虚虚实实，亦为人生点亮———— 从甘肃大山到北京画室，她的“花”永远不会枯萎",
+      "veroeffentlicht": "2026-07-27T06:26:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从甘肃大山到北京画室，宗红霞的黏土花艺术创作历程"
+    },
+    {
+      "guid": "6a54595e1e32575f5eb57e9b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a54595e1e32575f5eb57e9b/media.xyzcdn.net/69630aced507411407b20fdc/lkEo5FP1odm4PCt9kGxygJ1NeTZh.m4a",
+      "pfad": "/v1/episode/16cba50f5bbe5c473d3399b408cac28344cc8fce.json",
+      "titel": "邢慈静：追古师兄，自成一家",
+      "veroeffentlicht": "2026-07-13T03:29:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走进明代被低估的书法家邢慈静的艺术人生"
+    },
+    {
+      "guid": "6a3a6f3d2e335a35a8081fde",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a3a6f3d2e335a35a8081fde/media.xyzcdn.net/69630aced507411407b20fdc/lnUyLoLChnr7qx5-lu1metmRvXK3.m4a",
+      "pfad": "/v1/episode/90156c9cb9ebc7692e7623e8fa1ed1c739a68455.json",
+      "titel": "蔡文姬：她用一支笔，接续了一个时代",
+      "veroeffentlicht": "2026-06-23T11:35:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨蔡文姬颠沛流离的一生及其对文学和文脉传承的贡献"
     }
   ]
 }

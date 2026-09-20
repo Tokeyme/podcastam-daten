@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "猫鼠游戏播客",
   "apple_collection_id": "1585338504",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101937108629201926_hd.mp3",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨医学史上海拉细胞的来源，及其引发的知情同意与人体组织所有权争议。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/25/3100958938417762310_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/25/3100958938417762310_hd.mp3",
+      "pfad": "/v1/episode/4e2b8bdd84a8d06c172e65fa2656dc195132c79c.json",
+      "titel": "从《里斯本丸沉没》聊起，探索HPV疫苗研发背后的人类故事",
+      "veroeffentlicht": "2024-09-25T17:30:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从《里斯本丸沉没》与HPV疫苗研发探讨历史中的个体命运"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/04/21/3071884150865315846_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/04/21/3071884150865315846_hd.mp3",
+      "pfad": "/v1/episode/374bba51775818a8a0d1e71b84b4168a61f416dc.json",
+      "titel": "小小的卫生巾 ，大大的女性权益",
+      "veroeffentlicht": "2024-04-22T20:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "卫生巾的发展历史与女性权益的关联"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/04/07/3069307875167503878_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/04/07/3069307875167503878_hd.mp3",
+      "pfad": "/v1/episode/25f13a2e3088016d1ece3ce098a205a12d4a59ea.json",
+      "titel": "小林制药，揭开红曲保健品风波下“日本制造”的面纱",
+      "veroeffentlicht": "2024-04-08T20:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨小林制药红曲保健品风波及“日本制造”的现状。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/03/22/3066307971202608134_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/03/22/3066307971202608134_hd.mp3",
+      "pfad": "/v1/episode/08464ace8a1b3af89d09bc952609215e20756045.json",
+      "titel": "双面间谍人生，俄罗斯禁药计划",
+      "veroeffentlicht": "2024-03-25T20:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨俄罗斯体育界系统性禁药计划与双面间谍人生"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/03/08/3063728235602943494_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/03/08/3063728235602943494_hd.mp3",
+      "pfad": "/v1/episode/e7a99b453e5b8823f822c8c023babd15fb6c7dd4.json",
+      "titel": "WeWork，共享办公催生的商业怪物",
+      "veroeffentlicht": "2024-03-11T20:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨共享办公企业WeWork的发展历程与破产原因"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/02/25/3061550204305344518_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/02/25/3061550204305344518_hd.mp3",
+      "pfad": "/v1/episode/6fa408b58cf462e1696d8613c7c79d12e998c52a.json",
+      "titel": "女性避孕药问世：真假性革命与宗教审判？",
+      "veroeffentlicht": "2024-02-26T20:30:15+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨女性避孕药问世后的社会争议、宗教冲突与历史影响"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/02/19/3060413278912008710_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/02/19/3060413278912008710_hd.mp3",
+      "pfad": "/v1/episode/98601ae99aaef1d4f2172ceea9b4fd5316c56005.json",
+      "titel": "女性避孕药发明背后的女人和男人",
+      "veroeffentlicht": "2024-02-19T20:30:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "女性避孕药发明背后的历史与人物"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/01/28/3056265792508519430_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/01/28/3056265792508519430_hd.mp3",
+      "pfad": "/v1/episode/cefa5768e5efaaa28ae5d23adddad9cb12df5cdd.json",
+      "titel": "网飞，一个盛产快乐打工仔的创作者",
+      "veroeffentlicht": "2024-01-29T20:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨网飞的发展历程及其独特的企业管理与人才文化"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/01/19/3054654247765011462_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/01/19/3054654247765011462_hd.mp3",
+      "pfad": "/v1/episode/f9d6e854451f7146d20074961c155decc6fd0d3a.json",
+      "titel": "艾滋病，一条最孤独的抗疫之路",
+      "veroeffentlicht": "2024-01-22T20:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾艾滋病的确诊历史、艰难抗争与应对措施"
     }
   ]
 }

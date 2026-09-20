@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "泉恩睡前读书会",
   "apple_collection_id": "1883688655",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "6a56325427a4eec16c409bbf",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨为什么调解冲突时容易无意中站边，以及如何迈向情感自主。"
+    },
+    {
+      "guid": "6a50fa814adef2b36561fbef",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68624f89f7020d0010846ec7/6a50fa814adef2b36561fbef/media.xyzcdn.net/68624f89f7020d0010846ec7/ll4M4TFINxOhqfatRsd_cNnFc_wO.m4a",
+      "pfad": "/v1/episode/f886eca1aa95b09462bd974146cf2965c1107ad2.json",
+      "titel": "不敢说出爱好的你，很累吧【睡前读书会355】",
+      "veroeffentlicht": "2026-07-10T14:00:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨难以启齿的爱好以及害怕被评判的心理。"
+    },
+    {
+      "guid": "6a3a82822e335a35a80829d9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68624f89f7020d0010846ec7/6a3a82822e335a35a80829d9/media.xyzcdn.net/68624f89f7020d0010846ec7/lgEzhXBqm6P8JiXChpqs20buU38X.m4a",
+      "pfad": "/v1/episode/fb8301f46f80894bd2599d64926e1eb86beca81b.json",
+      "titel": "商业课学的提问，家务里练成了【睡前读书会354】",
+      "veroeffentlicht": "2026-06-23T12:58:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何将学到的提问方法应用到实际生活中。"
+    },
+    {
+      "guid": "6a37cc5875ba9e0c5336c713",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68624f89f7020d0010846ec7/6a37cc5875ba9e0c5336c713/media.xyzcdn.net/68624f89f7020d0010846ec7/lmapA_oddnLi9cx6rMJ5dCjfVkZz.m4a",
+      "pfad": "/v1/episode/fd72bb2e631162049739da4fab57b37e3653fd98.json",
+      "titel": "一场关于思考的慢聊，坐【睡前读书会353】",
+      "veroeffentlicht": "2026-06-22T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一场关于深度思考的慢聊，探讨思考的刻度与实践边界。"
+    },
+    {
+      "guid": "6a3519414233e62bc54c6547",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68624f89f7020d0010846ec7/6a3519414233e62bc54c6547/media.xyzcdn.net/68624f89f7020d0010846ec7/lsDYOQfSZ-rFWfWHt3bF68Fbt_ED.m4a",
+      "pfad": "/v1/episode/802d89d2d925a95e8ad5cfbbbabdfceedbddd502.json",
+      "titel": "你一开口，别人凭什么要听？【睡前读书会352】",
+      "veroeffentlicht": "2026-06-19T10:30:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨演讲恐惧与如何从紧张走向笃定。"
+    },
+    {
+      "guid": "6a32915943a22a6955856c07",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68624f89f7020d0010846ec7/6a32915943a22a6955856c07/media.xyzcdn.net/68624f89f7020d0010846ec7/liUa6LzSbuQundC4SkXTRxp6tzx0.m4a",
+      "pfad": "/v1/episode/8b5201d84d746f0dfdb2abbef816ed0455c0ae7b.json",
+      "titel": "表达太平淡？把小事说到心坎里【睡前读书会351】",
+      "veroeffentlicht": "2026-06-17T12:23:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过模仿诗歌与技巧将平淡的小事讲得生动感人。"
+    },
+    {
+      "guid": "6a312c594233e62bc54adf61",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68624f89f7020d0010846ec7/6a312c594233e62bc54adf61/media.xyzcdn.net/68624f89f7020d0010846ec7/luCIOH9kl5K9X02A4h46UwvQ_wWZ.m4a",
+      "pfad": "/v1/episode/73b7ab01b3293f316ed23e988b9c85cf0fb8734c.json",
+      "titel": "别等灵感砸头，试试把自己“榨干”【睡前读书会350】",
+      "veroeffentlicht": "2026-06-16T11:00:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何打破被动等待灵感的困境，尝试主动挖掘自身创意库存。"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "生生播客",
   "apple_collection_id": "1890118922",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "6aa01d52f03e74ee6b07361c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6aa01d52f03e74ee6b07361c/media.xyzcdn.net/69a62b678bb285c848fda556/llCDKySxWF9tuGyZ7pJqMvcFr4LD.m4a",
+      "pfad": "/v1/episode/f54a507bd14b42c4b79fe0965a87ca989cd08aeb.json",
+      "titel": "官杀：人最终活成的样子，往往是被逼出来的",
+      "veroeffentlicht": "2026-09-09T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨外界的限制与压力如何塑造人的性格与命运"
+    },
     {
       "guid": "6a7de29e17676351c57180dd",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a7de29e17676351c57180dd/media.xyzcdn.net/69a62b678bb285c848fda556/li7eVfNupTJOl5q0ipYul2a6nNaM.m4a",
@@ -13,6 +23,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨张雅琪的八字与天赋，剖析六分实力拿十分资源背后的生存智慧。"
+    },
+    {
+      "guid": "6a6f00811b5e24969ce7958d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a6f00811b5e24969ce7958d/media.xyzcdn.net/69a62b678bb285c848fda556/lmLuAXd4DWf0xk8RIPuLoRaeVk6L.m4a",
+      "pfad": "/v1/episode/033c8a238004bb54b41ee0f9b3d1bce951ebdabc.json",
+      "titel": "相合，为什么藏干、生克、冲穿与整个八字都会被牵动？",
+      "veroeffentlicht": "2026-08-03T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨八字中六合的本质及其在命盘动态结构中的作用"
+    },
+    {
+      "guid": "6a6595ee6356eb2d9be87903",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a6595ee6356eb2d9be87903/media.xyzcdn.net/69a62b678bb285c848fda556/li-hq6XHaJ7ZWEoOBSLo_qM0B4AV.m4a",
+      "pfad": "/v1/episode/8c2b1db69c803c664de6cb8940bfb1922bb266b9.json",
+      "titel": "根气论第2期：六根如何彼此牵动，收摄为何只是第一步",
+      "veroeffentlicht": "2026-07-26T05:11:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨六根如何彼此牵动及收摄的深层步骤"
+    },
+    {
+      "guid": "6a5b93966356eb2d9be4aaf6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a5b93966356eb2d9be4aaf6/media.xyzcdn.net/69a62b678bb285c848fda556/lj-s8ustgT3pIXY7J8yv-XXtUgyf.m4a",
+      "pfad": "/v1/episode/74de4b1c841b52eb80bebf721041841ec3defe8c.json",
+      "titel": "根气论第1期：五行如何重解六根清净，眼与舌为何最先失守",
+      "veroeffentlicht": "2026-07-18T14:58:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "用五行气机重新解读佛教六根与身体经验"
+    },
+    {
+      "guid": "6a57ac52a4972c496dfc6e34",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a57ac52a4972c496dfc6e34/media.xyzcdn.net/69a62b678bb285c848fda556/llxgXGzHaLFJIo8Xi4YdV1X9sAAx.m4a",
+      "pfad": "/v1/episode/e36ad5f964b171fc6b01ffc4da1d4d3fa39196e7.json",
+      "titel": "周佑凌八字：高位低头，是渡劫也是赐福",
+      "veroeffentlicht": "2026-07-16T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从八字命理探讨习惯掌控一切的人，为何会在亲密关系中失衡。"
+    },
+    {
+      "guid": "6a47b5c22e335a35a80da31a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a47b5c22e335a35a80da31a/media.xyzcdn.net/69a62b678bb285c848fda556/lopQgy2nryaX3h9dOiS_9iQQNccp.m4a",
+      "pfad": "/v1/episode/3196cd9c2703d27b50f9afd6d7ea6cb016c9fbf6.json",
+      "titel": "向佐八字：世人笑他疯癫，命里尽是枷锁",
+      "veroeffentlicht": "2026-07-03T13:17:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从八字命理剖析向佐的性格特质与人生轨迹"
+    },
+    {
+      "guid": "6a3babd89d2f5743683d2d83",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a3babd89d2f5743683d2d83/media.xyzcdn.net/69a62b678bb285c848fda556/lj5pxS8ET4hXbpiO4NyjNeU6EKi5.m4a",
+      "pfad": "/v1/episode/ac50da2999246ab5b485b02486e240322e9a860f.json",
+      "titel": "纳音的前世今生：从律历之数，到命理里的边缘角色",
+      "veroeffentlicht": "2026-06-24T10:17:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨纳音从律历之数到命理边缘角色的演变过程。"
+    },
+    {
+      "guid": "6a352d1a43a22a6955865955",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/6a352d1a43a22a6955865955/media.xyzcdn.net/69a62b678bb285c848fda556/lhbt3QM7YeXxk4pTKfk3N8n9M__6.m4a",
+      "pfad": "/v1/episode/eaa276ec02edd7d5570e7db255012c888b8ca7f0.json",
+      "titel": "占星制图学：你的人生，为什么会被地点重写？",
+      "veroeffentlicht": "2026-06-19T12:03:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨空间对人生的影响，介绍占星制图学的原理与应用。"
+    },
+    {
+      "guid": "69fda243e1eb34a939fa6e72",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a62b678bb285c848fda556/69fda243e1eb34a939fa6e72/media.xyzcdn.net/69a62b678bb285c848fda556/ltNoxdLQWpkE727RGZXZu2BgRNev.m4a",
+      "pfad": "/v1/episode/6c59192a6238d3eea3dfd81be60889cc76ed84f8.json",
+      "titel": "印占｜西占照见内心，八字紫微推演吉凶，它却在计算你如何被世界看见",
+      "veroeffentlicht": "2026-05-08T08:55:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨西方占星、八字紫微与印度占星的差异及人生地图"
     }
   ]
 }

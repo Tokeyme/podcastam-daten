@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "游戏八分半",
   "apple_collection_id": "1809287844",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "6aaa26b79d3264778169ed33",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/6aaa26b79d3264778169ed33/media.xyzcdn.net/67ea5d84bd97ce653e158c54/lvrUjDAX_AKxK5icHm7BS_GX1E1z.m4a",
+      "pfad": "/v1/episode/4b7cfda8505b9ba89475d3da4be8f691c6631456.json",
+      "titel": "对话Gwen：在德国读游戏博士",
+      "veroeffentlicht": "2026-09-16T09:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话在德国攻读严肃游戏博士的Gwen"
+    },
     {
       "guid": "6a62d248a3fec224d5a280e6",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/6a62d248a3fec224d5a280e6/media.xyzcdn.net/67ea5d84bd97ce653e158c54/lmL09VzXzqLhYDyHNbcq4H3fTYWV.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "全职接外包并开发独立游戏的开发者，分享高压与创作的经历。"
+    },
+    {
+      "guid": "6a5de7566356eb2d9be57639",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/6a5de7566356eb2d9be57639/media.xyzcdn.net/67ea5d84bd97ce653e158c54/lnuEzn3I5gLB-Jp45UADyhXUK8wz.m4a",
+      "pfad": "/v1/episode/5f098ca0c894b3a56c6df989b57aaca06a079df0.json",
+      "titel": "对话易宁：做了12年游戏测评，我想继续做下去",
+      "veroeffentlicht": "2026-07-20T09:24:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾12年游戏测评生涯的发行侧经验与市场变迁"
+    },
+    {
+      "guid": "69e594a51d989496e706ad2a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/69e594a51d989496e706ad2a/media.xyzcdn.net/67ea5d84bd97ce653e158c54/liXuHNLVyTB1iN94AH1cKii1eDlT.m4a",
+      "pfad": "/v1/episode/773c27cfb3818200a54acc11a8ca9a19fa9c301c.json",
+      "titel": "对话FcsVorfeed：关于我做的美少女版《John Wick》上架Steam第一天就远超预期那件事",
+      "veroeffentlicht": "2026-04-20T02:57:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话游戏制作人FcsVorfeed及其独立作品"
+    },
+    {
+      "guid": "69c0df932d318777c9459fbc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/69c0df932d318777c9459fbc/media.xyzcdn.net/67ea5d84bd97ce653e158c54/ljQnGzBxbbaBwzGSVdLR8tz0MF5h.m4a",
+      "pfad": "/v1/episode/e655b338868d824c839a7b5acad74353a9cd602c.json",
+      "titel": "对话游戏公司人马：用猫meme视频记录十年策划生活",
+      "veroeffentlicht": "2026-03-23T06:54:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话游戏公司人马：用猫meme视频记录十年策划生活"
+    },
+    {
+      "guid": "69aa7d945b2d0ed069956608",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/69aa7d945b2d0ed069956608/media.xyzcdn.net/67ea5d84bd97ce653e158c54/lipG33i3yEMaUDKRd-THXlOrXiql.m4a",
+      "pfad": "/v1/episode/50bf24b311266bcc45187c9d9bd887ac48f8bee4.json",
+      "titel": "对话小兔：游戏专业研究生的游戏制作日常",
+      "veroeffentlicht": "2026-03-06T07:23:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "游戏专业研究生的游戏制作日常与职场经历"
+    },
+    {
+      "guid": "6969960a109824f9e1bc213c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/6969960a109824f9e1bc213c/media.xyzcdn.net/67ea5d84bd97ce653e158c54/ll5nJTaVIZpWDaa3vDRbhFBoqsXY.m4a",
+      "pfad": "/v1/episode/1989e8227f00b3273f2da3aea4fbe51f22843086.json",
+      "titel": "对话紫薯：在芬兰阿尔托读游戏设计的两年",
+      "veroeffentlicht": "2026-01-16T01:45:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话在芬兰阿尔托大学攻读游戏设计的紫薯，聊聊留学与创作经历。"
+    },
+    {
+      "guid": "68ff0702083a71a4eb6aa64f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/68ff0702083a71a4eb6aa64f/media.xyzcdn.net/67ea5d84bd97ce653e158c54/lh-kGNwc47-N5zbNiCJpye0KSr9e.m4a",
+      "pfad": "/v1/episode/91550cbd9c4328d8ded58b147a86d62d5def3967.json",
+      "titel": "对话阿点：加入游戏行业和偏离主线任务，都是“顺势而为”的选择",
+      "veroeffentlicht": "2025-10-28T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话游戏发行阿点：聊聊行业经历与生活整顿"
+    },
+    {
+      "guid": "68d2453fb4befcf73083d24c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/68d2453fb4befcf73083d24c/media.xyzcdn.net/67ea5d84bd97ce653e158c54/liVXw8sVkRM7NZfAC8AwDSo5sYY5.m4a",
+      "pfad": "/v1/episode/c110e8e047252b072a20ac9b1ecca7443505c889.json",
+      "titel": "对话西西：游戏UA的十年",
+      "veroeffentlicht": "2025-09-23T07:00:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "十年游戏UA从业者西西的投放经验与行业观察"
+    },
+    {
+      "guid": "68ab2b1c42cc2798e72d2339",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67ea5d84bd97ce653e158c54/68ab2b1c42cc2798e72d2339/media.xyzcdn.net/67ea5d84bd97ce653e158c54/loA_R3QR8dmxnYHvpGh5GEbP5oo5.m4a",
+      "pfad": "/v1/episode/f8fa8f6493c516f69bc2bd527d0a647699731d36.json",
+      "titel": "对话赵鑫Kem：拳击也好，做游戏也好，重要的是留在场上",
+      "veroeffentlicht": "2025-08-25T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话游戏出海创业者赵鑫Kem，聊聊小语种运营与打拳经历。"
     }
   ]
 }

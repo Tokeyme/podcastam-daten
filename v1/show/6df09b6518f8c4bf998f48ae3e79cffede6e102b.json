@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "澳洲创业访谈录",
   "apple_collection_id": "1879743524",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "6aa3be569d3264778167965b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6aa3be569d3264778167965b/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/ls3hgKzVgiV7OHQBF7ceRTSub1f-.m4a",
+      "pfad": "/v1/episode/db33fcedccac52ab94460b0b24e84785d858efa8.json",
+      "titel": "澳洲旅游，怎么玩不踩坑？从入门到进阶｜对话 Emma",
+      "veroeffentlicht": "2026-09-11T08:44:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "资深旅行社老板Emma分享从入门到进阶的澳洲旅游全攻略与避坑指南。"
+    },
+    {
+      "guid": "6a9551d4f03e74ee6b02aebd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a9551d4f03e74ee6b02aebd/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/ljhIHIqMXNj-PlFHed6PLowWfiq6.m4a",
+      "pfad": "/v1/episode/ad400ba71132460beb0e271d9b42a250acf291c0.json",
+      "titel": "缺人、缺钱、缺技术？企业做 AI，怎么借大学破局？｜对话悉尼大学杨正一",
+      "veroeffentlicht": "2026-09-03T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "企业如何利用大学资源推进AI研发与产业合作"
+    },
     {
       "guid": "6a7d6e2017676351c5714284",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a7d6e2017676351c5714284/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lmk_U932HdL7EwvNF3PYXv9S0xVc.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨AI产品如何通过精准定位和增长策略破解流量困局"
+    },
+    {
+      "guid": "6a5e1f836356eb2d9be593aa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a5e1f836356eb2d9be593aa/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lsvDL1mN97ljerjktdhpaasNHxoc.m4a",
+      "pfad": "/v1/episode/e70fe5f4827e3c4d323bc522435675d73a8fbb36.json",
+      "titel": "澳洲羽毛球，也能冲击奥运吗？他想为下一代打开通往世界的路｜对话 Peerlyn",
+      "veroeffentlicht": "2026-07-23T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话Peerlyn探讨澳洲羽毛球青训体系与奥运目标"
+    },
+    {
+      "guid": "6a4657f12e335a35a80d11cf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a4657f12e335a35a80d11cf/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lkapJ5nPaH1EhAmiVLyOp56VZR4H.m4a",
+      "pfad": "/v1/episode/c919c1d8ea71835e238f4c2ef16a8296b703b4e8.json",
+      "titel": "2026年，做小红书还能赚钱吗？| 对话大拿",
+      "veroeffentlicht": "2026-07-02T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2026年商家在小红书的赚钱机会与实操经验"
+    },
+    {
+      "guid": "6a3bd62e2e335a35a808c979",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a3bd62e2e335a35a808c979/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lujfraXVODo-0P4RhxlFtYv1jhzi.m4a",
+      "pfad": "/v1/episode/0dd7073cf11fbff1b781da8f834e6c158bbc21b0.json",
+      "titel": "海外一人公司怎么做？小红书获客、融资与长期主义｜对话 Cath",
+      "veroeffentlicht": "2026-06-24T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨海外一人公司的运营路径与长期主义实践"
+    },
+    {
+      "guid": "6a361d7975ba9e0c533638e4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a361d7975ba9e0c533638e4/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lvPq6YBC6T8d50rxeT6BHc1cGSSH.m4a",
+      "pfad": "/v1/episode/a616b0af8f509ee414192fed0dc32140308281cc.json",
+      "titel": "千万日交易额后，他为何让出CEO？阿里老兵的澳洲创业复盘｜对话Jackey",
+      "veroeffentlicht": "2026-06-20T11:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话阿里老兵Jackey：分享接龙的澳洲创业复盘"
+    },
+    {
+      "guid": "6a2d442e4233e62bc5493318",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a2d442e4233e62bc5493318/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lpnoXLAtCXdHkUnHl4jdG8dSBxpM.m4a",
+      "pfad": "/v1/episode/7a3add932ecccca36bb5ffdffc12dc9b5db024c0.json",
+      "titel": "澳洲老板招人难，有解吗？AI 时代，还要招人吗？｜对话 JJ",
+      "veroeffentlicht": "2026-06-15T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "澳洲创业者如何应对招人难与人工高成本"
+    },
+    {
+      "guid": "6a18e4087460cabdeb578930",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a18e4087460cabdeb578930/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/ll9zB5hA1qb2UXJ81ep2B6Ku2WUy.m4a",
+      "pfad": "/v1/episode/25614ad178fbe0b113fe16badcad66a7b755f251.json",
+      "titel": "澳洲税改后，投资房还香吗？对创业、工作又有什么影响｜对话Flaya",
+      "veroeffentlicht": "2026-05-29T01:03:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2026年澳洲联邦预算案税务改革对投资房、创业和工作的影响"
+    },
+    {
+      "guid": "6a09b28ae1eb34a939908852",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698e95b8ad7ff158093b4aa0/6a09b28ae1eb34a939908852/media.xyzcdn.net/698e95b8ad7ff158093b4aa0/lozNWdUfhHyx4pKQbbrXqiZm18jv.m4a",
+      "pfad": "/v1/episode/1e7df370fb1307307f8ece2c2d01db9649cb94d0.json",
+      "titel": "番外篇｜从大厂裸辞来澳洲，我们后悔了吗？| 对话Zoe",
+      "veroeffentlicht": "2026-05-17T12:55:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话Zoe：从大厂裸辞来澳洲，我们后悔了吗？"
     }
   ]
 }

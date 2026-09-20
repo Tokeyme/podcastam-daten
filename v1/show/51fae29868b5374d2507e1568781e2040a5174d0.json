@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "淘白白的晚安故事（深度助眠）",
   "apple_collection_id": "1556612475",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "xmly_track_974014680",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "播客更新，朗读小说《不便的便利店：人生充电站》部分章节。"
+    },
+    {
+      "guid": "xmly_track_935164767",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAM_XweAaXZUgQ88efs.m4a?channel=rss&album_id=47239404&track_id=935164767&uid=79452937&jt=https://aod.cos.tx.xmcdn.com/storages/fc83-audiofreehighqps/00/A3/GKwRIMAM_XweAaXZUgQ88efs.m4a",
+      "pfad": "/v1/episode/e181024490fb06e2be805dbcff82d2ce094eb8b3.json",
+      "titel": "251126晚安故事轮播",
+      "veroeffentlicht": "2025-11-27T02:34:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "《索拉里斯星》第二章上集：索拉里斯学家的故事"
     }
   ]
 }

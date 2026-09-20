@@ -1,9 +1,19 @@
 {
   "schema_version": 1,
-  "show": "女孩重生｜职场美商播客",
+  "show": "女孩重生｜美商觉醒",
   "apple_collection_id": "1788824567",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "6aae917cac389df827345733",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/6aae917cac389df827345733/media.xyzcdn.net/677498912ddae1c69d6276bd/lnjWIQ-D9dn7zIUXX_H0yXnaRK7Y.m4a",
+      "pfad": "/v1/episode/4203916d0e7539862b6d4ea36649f3ef7d3e88f1.json",
+      "titel": "E63让我拥有这美貌一天吧|尚之桃《早春晴朗》",
+      "veroeffentlicht": "2026-09-19T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何打破对外表焦虑的束缚，建立由内而外的自我接纳。"
+    },
     {
       "guid": "69f9566ae05c0efcd6e28f26",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69f9566ae05c0efcd6e28f26/media.xyzcdn.net/677498912ddae1c69d6276bd/lh2myr5C1tdOHXaq8ZEckLUbqHKv.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨《红楼梦》中各主要人物的财商表现及其最终命运。"
+    },
+    {
+      "guid": "69f955bef93890ea813d30bf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69f955bef93890ea813d30bf/media.xyzcdn.net/677498912ddae1c69d6276bd/llWOju4PpQSiWPVCPpS9cDd_l2i2.m4a",
+      "pfad": "/v1/episode/8222fbda9c81d0bcacc3c5ce0f9e994dd454c781.json",
+      "titel": "E61《红楼梦》里，那些美商高的人都是什么样的？",
+      "veroeffentlicht": "2026-05-08T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《红楼梦》中人物的审美与生活态度。"
+    },
+    {
+      "guid": "69f9548df93890ea813d2122",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69f9548df93890ea813d2122/media.xyzcdn.net/677498912ddae1c69d6276bd/lvRetkBb8iNVAGkjmhWx8CWshwR5.m4a",
+      "pfad": "/v1/episode/1a4572ad70db28ce031cb1aaa65e518e8bdd62b6.json",
+      "titel": "E60《红楼梦》里，那些情商低的人后来都怎么样了？",
+      "veroeffentlicht": "2026-05-06T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "《红楼梦》中低情商女性如果生活在现代的命运走向"
+    },
+    {
+      "guid": "69e820841e94ae6921d7c1c3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69e820841e94ae6921d7c1c3/media.xyzcdn.net/677498912ddae1c69d6276bd/lrGAgdNzrb-0q1CNZK98TQSltLsf.m4a",
+      "pfad": "/v1/episode/8a1d85e81153f90d482faa054c9fcab100768661.json",
+      "titel": "E59一身反骨的人，最后都怎么样了？｜《采薇图》",
+      "veroeffentlicht": "2026-04-30T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读名画《采薇图》与伯夷、叔齐的故事"
+    },
+    {
+      "guid": "69e81fc91e94ae6921d7b3a4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69e81fc91e94ae6921d7b3a4/media.xyzcdn.net/677498912ddae1c69d6276bd/ltIsuXD-3Gd6YygaEp9ZSxy8TUl4.m4a",
+      "pfad": "/v1/episode/9948ac752e61cf8666530c7c4deac271ce0da4d2.json",
+      "titel": "E58司马光造了一个小小小小小小的真桃花源｜《独乐园图》",
+      "veroeffentlicht": "2026-04-27T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "司马光如何亲手建造属于自己的小小桃花源"
+    },
+    {
+      "guid": "69e81f2d1d989496e7331fbe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69e81f2d1d989496e7331fbe/media.xyzcdn.net/677498912ddae1c69d6276bd/lgjr_h1V7iXUNyomn5YNjZgmOYI-.m4a",
+      "pfad": "/v1/episode/b4929055f00d5838035a42ba3a42da522179bd88.json",
+      "titel": "E57它凭什么宋画第一｜《溪山行旅图》",
+      "veroeffentlicht": "2026-04-24T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读被誉为“宋画第一”的北宋山水画大师范宽名作《溪山行旅图》。"
+    },
+    {
+      "guid": "69e419121d989496e7f152e8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69e419121d989496e7f152e8/media.xyzcdn.net/677498912ddae1c69d6276bd/lvoUmj3x3jY4O0qy-8yTqwhzb9jF.m4a",
+      "pfad": "/v1/episode/90e96844feee8c2ca03f2a60b59db1242541454a.json",
+      "titel": "E56一次说走就走的旅行，一块巨大而美妙的遮羞布｜《明皇幸蜀图》",
+      "veroeffentlicht": "2026-04-20T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读中外名画《明皇幸蜀图》背后的历史与逃避现实的心态"
+    },
+    {
+      "guid": "69dee076b977fb2c47f4c9f6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69dee076b977fb2c47f4c9f6/media.xyzcdn.net/677498912ddae1c69d6276bd/lg3vCExA4DQHNM1g4dp80JDH7vA4.m4a",
+      "pfad": "/v1/episode/5ec79a2d79d7afb051e251710fce300eb4343e8e.json",
+      "titel": "E55美商开挂|一位驸马画了一副春游团建图-《八达游春图》",
+      "veroeffentlicht": "2026-04-16T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读中外名画系列，聚焦驸马赵喦的《八达游春图》。"
+    },
+    {
+      "guid": "69d490aee2c8be31558d6aec",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/677498912ddae1c69d6276bd/69d490aee2c8be31558d6aec/media.xyzcdn.net/677498912ddae1c69d6276bd/lpkVOqd-EkFGHOA1oOnkYhwDg7H1.m4a",
+      "pfad": "/v1/episode/2ceb4a5eb13a9ed0d66f8bc10812d33a6b869360.json",
+      "titel": "E54无需孤独，因为世界上有另一个我｜《呼啸山庄》",
+      "veroeffentlicht": "2026-04-08T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《呼啸山庄》作者艾米莉·勃朗特的真实生平与作品。"
     }
   ]
 }

@@ -1,9 +1,109 @@
 {
   "schema_version": 1,
-  "show": "Table Today – mit Michael Bröcker und Helene Bubrowski",
+  "show": "Table Today",
   "apple_collection_id": "1725152123",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
+    {
+      "guid": "6aade18f0a12e91774672c79",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aade18f0a12e91774672c79/media.mp3",
+      "pfad": "/v1/episode/1d353160764d0c540519c7a88e98571f2635cf41.json",
+      "titel": "Warum schmeckt den Deutschen das Bier nicht mehr?",
+      "veroeffentlicht": "2026-09-19T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der sinkende Biermarkt und die Krise der deutschen Brauereien."
+    },
+    {
+      "guid": "6aac8ae28a1508074dd4f942",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aac8ae28a1508074dd4f942/media.mp3",
+      "pfad": "/v1/episode/c7fb75d6b69c909eb5dfb5633c068ddf2dd84b87.json",
+      "titel": "Kann die CDU noch Wahlen gewinnen, Herr Krieger?",
+      "veroeffentlicht": "2026-09-18T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "CDU-Wahlkampf in Berlin, Kontakte zwischen SPD und CSU sowie Sabotagegefahr"
+    },
+    {
+      "guid": "6aab4f64fce2f88226f143c4",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aab4f64fce2f88226f143c4/media.mp3",
+      "pfad": "/v1/episode/d7d4c4e9eddbba900636468bf0846303a4d876aa.json",
+      "titel": "Burgfrieden in der CDU?",
+      "veroeffentlicht": "2026-09-17T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "CDU-Ministerpräsidenten, Ursula von der Leyen, Spritpreise und das Lachen von Säuglingen."
+    },
+    {
+      "guid": "6aaa00317f8a8df4337ee43c",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aaa00317f8a8df4337ee43c/media.mp3",
+      "pfad": "/v1/episode/0bf0e1f1b2e3cecef030dff471af886265018406.json",
+      "titel": "Kann sich Bärbel Bas halten?",
+      "veroeffentlicht": "2026-09-16T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Rückhalt für Bärbel Bas, Kurs der Grünen und interne Lage bei der CDU"
+    },
+    {
+      "guid": "6aa8aeba1563582c05ff1323",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aa8aeba1563582c05ff1323/media.mp3",
+      "pfad": "/v1/episode/bcd0ecb56cadee10f3fd22d31987d6709b64d12f.json",
+      "titel": "Entscheidungstag für Merz",
+      "veroeffentlicht": "2026-09-15T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Entscheidungstag für Friedrich Merz nach Wahlen und außenpolitische Themen."
+    },
+    {
+      "guid": "6aa74229a6e9aef4cc8d42a2",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aa74229a6e9aef4cc8d42a2/media.mp3",
+      "pfad": "/v1/episode/23121219c9f3c3464a5446b25230dc863b16d562.json",
+      "titel": "Wie schwer ist dieser Wahlkampf, Herr Krach?",
+      "veroeffentlicht": "2026-09-14T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Steffen Krach im Gespräch, Vorfälle in Magdeburg und die Lage der CDU nach Wahlen"
+    },
+    {
+      "guid": "6aa4c2e9eeff2d17d375a59b",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aa4c2e9eeff2d17d375a59b/media.mp3",
+      "pfad": "/v1/episode/9acd377968f8d96c7bf8229a7be3682785084602.json",
+      "titel": "Was müssen deutsche Autobauer von China lernen, Herr Sengpiehl?",
+      "veroeffentlicht": "2026-09-12T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Jochen Sengpiehl über die Lage der deutschen Autobauer in China und Arbeitsplätze"
+    },
+    {
+      "guid": "6aa363f3a6e9aef4ccc4e35f",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aa363f3a6e9aef4ccc4e35f/media.mp3",
+      "pfad": "/v1/episode/8b6b9fb706fe6856f1687ca75ad60eab76aace3b.json",
+      "titel": "Wie resilient ist unsere Demokratie, Herr Kretschmann?",
+      "veroeffentlicht": "2026-09-11T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Resilienz der Demokratie, CDU-Führung und Reform der Erbschaftsteuer."
+    },
+    {
+      "guid": "6aa21b3b9d5ca4f6651ab7dd",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aa21b3b9d5ca4f6651ab7dd/media.mp3",
+      "pfad": "/v1/episode/ea09747a5bd8c44ec1a3848f0d398aad4396c1ea.json",
+      "titel": "Hat die AfD die Social-Media-Schlacht schon gewonnen, Herr Sälhoff?",
+      "veroeffentlicht": "2026-09-10T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "AfD in sozialen Medien, Wirtschaftsstandort Deutschland und Ermittlungen in Berlin"
+    },
+    {
+      "guid": "6aa0c45e7275dabe95b9f96d",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aa0c45e7275dabe95b9f96d/media.mp3",
+      "pfad": "/v1/episode/bd9c780dddbf40b48da16cf49c506f8b143217b4.json",
+      "titel": "PISA-Schock - ist die Bildungsrepublik kaputt? Mit Vera Kraft",
+      "veroeffentlicht": "2026-09-09T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Der neue PISA-Schock und Forderungen zur Obergrenze der Sozialabgaben."
+    },
     {
       "guid": "6a8512fe39e73ea8f30e8085",
       "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6a8512fe39e73ea8f30e8085/media.mp3",

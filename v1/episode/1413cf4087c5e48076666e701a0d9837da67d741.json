@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "guid": "86afa625-fe32-4495-bc96-aef5005f81b6",
+  "apple_collection_id": "1566485606",
+  "show": "田中真奈美 Learn the world",
+  "titel": "Episode 71(2022.8.26):Manami Tanaka “Learn the world”",
+  "audio": {
+    "url": "https://traffic.megaphone.fm/NCB6747144772.mp3",
+    "user_agent": "PodcastsAM/1.0 (+https://amapps.app)",
+    "groesse": null,
+    "format": "mp3",
+    "geprueft_am": "2026-09-20T10:41:17+00:00"
+  },
+  "faehigkeiten": {
+    "clips": false,
+    "clips_aac": false,
+    "clips_suche": false,
+    "range": true,
+    "kapitel": false,
+    "dynamik": "dynamisch",
+    "grund": "Auslieferung wird je Abruf neu zusammengesetzt (megaphone vergibt je Abruf eine request_event_id, megaphone haengt ein timetoken an, Adresse traegt eine session_id, kein ETag und Cache-Control \"max-age=0, no-cache, no-store\", Abruf laeuft ueber den Werbedienst megaphone.fm) - Byte-Offsets veralten (bei dynamischer Auslieferung sofort, gemessen 19.08.2026) und die Zeitachse verschiebt sich mit (eine Folge war 57 s kuerzer als 3,5 h zuvor), deshalb sind auch Sprungmarken in Sekunden unsicher; Texte aus dem Begleittext des Podcasters, kein Transkript - ohne Zeitachse sind Clips und Sprungmarken unmoeglich"
+  },
+  "einzeiler": "声优田中真奈美带来的英语学习与海外文化节目。",
+  "kurzfassung": "本期节目由持有英检一级资格的声优田中真奈美主持。节目以“通过英语放眼世界”为主题展开。内容包括阅读英语邮件以及介绍实用的英语习语。",
+  "stichpunkte": [
+    "声优田中真奈美主持的英语节目",
+    "通过英语了解海外的相关内容",
+    "阅读听众发来的英语邮件",
+    "介绍日常生活中实用的英语习语"
+  ],
+  "kapitel": [],
+  "clips": [],
+  "erzeugt": {
+    "am": "2026-09-20T10:41:17+00:00",
+    "transkript_modell": "",
+    "transkript_quelle": "ohne",
+    "verstehen_modell": "gemini-flash-lite-latest",
+    "prompt_version": 1
+  },
+  "sprache": "zh",
+  "texte_sprache": "zh",
+  "texte_herkunft": "umformuliert",
+  "dauer": 729,
+  "veroeffentlicht": "2022-08-26T13:00:00+00:00",
+  "beschreibung": "Voice actor Manami Tanaka, who holds EIKEN Grade 1, presents the program called \"Let's look overseas through English!\" We'll read English e-mails and introduce English idioms that you can use tomorrow.\n *Please send them to us using the mail form on the Channel \"Manami Tanaka The world is your oyster\".\n https://forms.gle/BZQubKTsR5ytwbnE7\n*We may use your email in this program.\nManami Tanaka The world is your oyster Web Site \nhttps://ch.nicovideo.jp/oyster\n######################################\n英検１級の資格を持つ、声優・田中真奈美がお送りする、『英語を通じて海外に目を向けよう！』という番組です。 \n※メールは、ニコニコチャンネル『田中真奈美 The world is your oyster』のメールフォームからお送りください。 \nhttps://forms.gle/BZQubKTsR5ytwbnE7\n ※いただいたメールは、ニコニコチャンネル『田中真奈美 The world is your oyster』でも紹介させていただきます。あらかじめご了承ください。 ニコニコチャンネル『田中真奈美 The world is your oyster』番組サイト \nhttps://ch.nicovideo.jp/oyster\nSee omnystudio.com/listener for privacy information.",
+  "beschreibung_html": "<p>Voice actor Manami Tanaka, who holds EIKEN Grade 1, presents the program called \"Let's look overseas through English!\" We'll read English e-mails and introduce English idioms that you can use tomorrow.<br> *Please send them to us using the mail form on the Channel \"Manami Tanaka The world is your oyster\".<br><a href=\"https://forms.gle/BZQubKTsR5ytwbnE7\"> https://forms.gle/BZQubKTsR5ytwbnE7</a><br>*We may use your email in this program.<br>Manami Tanaka The world is your oyster Web Site <br><a href=\"https://ch.nicovideo.jp/oyster\">https://ch.nicovideo.jp/oyster</a><br>######################################<br>英検１級の資格を持つ、声優・田中真奈美がお送りする、『英語を通じて海外に目を向けよう！』という番組です。 <br>※メールは、ニコニコチャンネル『田中真奈美 The world is your oyster』のメールフォームからお送りください。 <br><a href=\"https://forms.gle/BZQubKTsR5ytwbnE7\">https://forms.gle/BZQubKTsR5ytwbnE7</a><br> ※いただいたメールは、ニコニコチャンネル『田中真奈美 The world is your oyster』でも紹介させていただきます。あらかじめご了承ください。 ニコニコチャンネル『田中真奈美 The world is your oyster』番組サイト <br><a href=\"https://ch.nicovideo.jp/oyster\">https://ch.nicovideo.jp/oyster</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+  "bild_url": "https://megaphone.imgix.net/podcasts/6d21d358-dfcd-11f0-8875-7b7665f72a28/image/a602dc12d94ac34636defc65cfa6ac4c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+}

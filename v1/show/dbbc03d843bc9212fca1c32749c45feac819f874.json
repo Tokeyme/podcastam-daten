@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "游戏美学|多体验一个世界",
   "apple_collection_id": "1704326365",
-  "erzeugt_am": "2026-09-20T10:03:54+00:00",
+  "erzeugt_am": "2026-09-20T10:51:22+00:00",
   "folgen": [
     {
       "guid": "xmly_track_897959112",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "带女友入坑《崩坏：星穹铁道》一年后，两人畅聊游戏体验、剧情与未来规划。"
+    },
+    {
+      "guid": "xmly_track_741319399",
+      "audio_url": "https://jt.ximalaya.com//GArM8wYKaYYjACAAAALw1kRe.mp3.m4a?channel=rss&album_id=77647398&track_id=741319399&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/3643-audiofreehighqps/01/02/GArM8wYKaYYjACAAAALw1kRe.mp3",
+      "pfad": "/v1/episode/d89816897b893d211388375dcf8e66d4eb5138f3.json",
+      "titel": "vol.32 漫步于新艾利都的六分街",
+      "veroeffentlicht": "2024-07-14T14:29:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "漫步新艾利都六分街，分享游戏场景中的有趣细节与个人感受。"
+    },
+    {
+      "guid": "xmly_track_736787522",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwKTe1iACAAAALmMxPc.m4a?channel=rss&album_id=77647398&track_id=736787522&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/2a88-audiofreehighqps/FC/7C/GKwRIRwKTe1iACAAAALmMxPc.m4a",
+      "pfad": "/v1/episode/858ea2ab4c25494cd787937f4213ec5e686fbd3e.json",
+      "titel": "vol.31 《黑神话:悟空》背后的一个古建故事",
+      "veroeffentlicht": "2024-06-23T14:18:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《黑神话：悟空》背后的山西五台山佛光寺历史古建故事。"
+    },
+    {
+      "guid": "xmly_track_731122254",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIKKN2FABAAAALYpAV0.m4a?channel=rss&album_id=77647398&track_id=731122254&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/bba3-audiofreehighqps/DE/06/GKwRIJIKKN2FABAAAALYpAV0.m4a",
+      "pfad": "/v1/episode/66337c65c571c8711242e7b796f427311a1cebfa.json",
+      "titel": "vol.30 《原神》翘英庄背后的江南美学（下）",
+      "veroeffentlicht": "2024-05-26T13:36:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《原神》翘英庄背后的江南美学与茶文化。"
+    },
+    {
+      "guid": "xmly_track_726943471",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoKDTzLABAAAALPNyU2.m4a?channel=rss&album_id=77647398&track_id=726943471&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/ff1a-audiofreehighqps/04/C7/GKwRIDoKDTzLABAAAALPNyU2.m4a",
+      "pfad": "/v1/episode/d6227970eaecf58b923c9f37287295f1db85def5.json",
+      "titel": "vol.29 《原神》翘英庄背后的江南美学（上）",
+      "veroeffentlicht": "2024-05-05T12:49:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《原神》沉玉谷翘英庄的场景与人物设计，以及其背后的江南美学。"
+    },
+    {
+      "guid": "xmly_track_722235668",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSUJ7wFeACAAAALFY8Iv.mp3.m4a?channel=rss&album_id=77647398&track_id=722235668&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/8544-audiofreehighqps/58/40/GMCoOSUJ7wFeACAAAALFY8Iv.mp3",
+      "pfad": "/v1/episode/a3a43593c19ded152a7acb336789d8ec2309b1be.json",
+      "titel": "vol.28 从雷神到黄泉，氪金回忆录",
+      "veroeffentlicht": "2024-04-12T14:07:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从《原神》到《崩坏：星穹铁道》，分享普通玩家的抽卡与充值心理历程。"
+    },
+    {
+      "guid": "xmly_track_717565465",
+      "audio_url": "https://jt.ximalaya.com//GMCoOScJ13V9ACAAAAK9IJ-w.mp3.m4a?channel=rss&album_id=77647398&track_id=717565465&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/fba4-audiofreehighqps/8D/73/GMCoOScJ13V9ACAAAAK9IJ-w.mp3",
+      "pfad": "/v1/episode/f955c375b7aebbc7b790b542e695183de88b4c02.json",
+      "titel": "vol.27 当AI为花火写了六首歌，来听听是什么水平？",
+      "veroeffentlicht": "2024-03-25T17:32:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI生成音乐的水平，测试用AI为花火创作的六首不同曲风歌曲"
+    },
+    {
+      "guid": "xmly_track_716670061",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSEJ01xqABAAAAK7lbK_.m4a?channel=rss&album_id=77647398&track_id=716670061&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/a67f-audiofreehighqps/D3/43/GMCoOSEJ01xqABAAAAK7lbK_.m4a",
+      "pfad": "/v1/episode/35ed440bc4d3e911f7e44817692d1c044f99de9d.json",
+      "titel": "vol.26 在匹诺康尼做了一场不愿醒来的梦",
+      "veroeffentlicht": "2024-03-22T15:02:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨星穹铁道2.1版本匹诺康尼的背景设定与剧情感受"
+    },
+    {
+      "guid": "xmly_track_712578428",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoJwd8WABAAAAK01Aqc.m4a?channel=rss&album_id=77647398&track_id=712578428&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/42f5-audiofreehighqps/C2/36/GKwRIDoJwd8WABAAAAK01Aqc.m4a",
+      "pfad": "/v1/episode/86ff0f588e1ce09d9e73bba93bd80cf04e43b012.json",
+      "titel": "vol.25 向着星辰，一起登上星穹列车",
+      "veroeffentlicht": "2024-03-09T13:21:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "《崩坏：星穹铁道》的游玩感受与对比分析"
+    },
+    {
+      "guid": "xmly_track_707833410",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoJqzK8ABAAAAKrNSEu.m4a?channel=rss&album_id=77647398&track_id=707833410&uid=78456236&jt=https://aod.cos.tx.xmcdn.com/storages/118b-audiofreehighqps/3A/B6/GKwRIDoJqzK8ABAAAAKrNSEu.m4a",
+      "pfad": "/v1/episode/e5537e301523d2086a26be0d6541bd25becd600f.json",
+      "titel": "vol.24 原神沉玉谷对谈：何以为玉",
+      "veroeffentlicht": "2024-02-21T13:21:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨原神沉玉谷祝珑系列任务及剧情背后的玉文化。"
     }
   ]
 }
