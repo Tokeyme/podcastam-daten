@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "科技有意思",
   "apple_collection_id": "6798534860",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1015315400",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoOfxtlAK-rUwTX-oTV.m4a?channel=rss&album_id=127977114&track_id=1015315400&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/68b1-audiofreehighqps/B2/CC/GKwRIDoOfxtlAK-rUwTX-oTV.m4a",
+      "pfad": "/v1/episode/3ff079d440a2837554cd9553d4f479dab66033d7.json",
+      "titel": "科技有意思023 | AI巨头集体踩刹车——是真心示警，还是规则博弈？",
+      "veroeffentlicht": "2026-09-15T14:37:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI巨头集体呼吁限速背后的行业共识与规则博弈。"
+    },
+    {
+      "guid": "xmly_track_1014883211",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEOfcWdALmmbwTXeDGj.m4a?channel=rss&album_id=127977114&track_id=1014883211&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/ed0f-audiofreehighqps/E7/7E/GKwRIJEOfcWdALmmbwTXeDGj.m4a",
+      "pfad": "/v1/episode/f8fdd3f4d58e24697c1c8a1495dd39623447a16f.json",
+      "titel": "科技有意思022 | RSI大跃进——Sam Altman的“不可能”赌注",
+      "veroeffentlicht": "2026-09-14T14:19:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨OpenAI推进递归自我改进的技术路线与Sam Altman的访谈战略"
+    },
+    {
+      "guid": "xmly_track_1010136558",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwOa1BqAK-JegTP9pTo.m4a?channel=rss&album_id=127977114&track_id=1010136558&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/7e93-audiofreehighqps/E7/7D/GKwRIRwOa1BqAK-JegTP9pTo.m4a",
+      "pfad": "/v1/episode/4eebc28c695deadcb7e20fdcfbbe9519f6f38a10.json",
+      "titel": "科技有意思021|算力黑洞、资本大挪移、模型失控与生态竞争：AI从讲故事变成算账",
+      "veroeffentlicht": "2026-08-31T14:18:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI行业的底层重构，涵盖算力、资本、生态与安全四个维度。"
+    },
     {
       "guid": "xmly_track_1006947595",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4OWOe9ANLmqQTIK5mh.m4a?channel=rss&album_id=127977114&track_id=1006947595&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/668b-audiofreehighqps/7D/49/GKwRIW4OWOe9ANLmqQTIK5mh.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨Anthropic的IPO与唯一公司论，以及国内开源模型的新进展。"
+    },
+    {
+      "guid": "xmly_track_1005686000",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOUN8_AJ7A6gTFR6fs.m4a?channel=rss&album_id=127977114&track_id=1005686000&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/f198-audiofreehighqps/C1/B3/GKwRIUEOUN8_AJ7A6gTFR6fs.m4a",
+      "pfad": "/v1/episode/7a58a8ce2e8844a18a00abd24758c136973d10e9.json",
+      "titel": "科技有意思019 | 谷歌人事地震、RSI三路并进、Harness时代降临",
+      "veroeffentlicht": "2026-08-10T15:33:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "谷歌人事调整与AI竞赛从模型向系统转型的行业观察"
+    },
+    {
+      "guid": "xmly_track_1004791805",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEOSPCzAKakFATCc6B6.m4a?channel=rss&album_id=127977114&track_id=1004791805&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/6dc5-audiofreehighqps/88/99/GKwRIJEOSPCzAKakFATCc6B6.m4a",
+      "pfad": "/v1/episode/f2caf030a9314142755670487b2cbacbae61bf51.json",
+      "titel": "科技有意思018 | 算力，值不值？——从Sam Altman访谈中聊本周新鲜事",
+      "veroeffentlicht": "2026-08-05T12:33:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "基于Sam Altman访谈探讨本周科技大事与AI行业动态"
+    },
+    {
+      "guid": "xmly_track_1004791801",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIOSPCvAIrxCQTCc5x0.m4a?channel=rss&album_id=127977114&track_id=1004791801&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/2f61-audiofreehighqps/2F/C2/GKwRIJIOSPCvAIrxCQTCc5x0.m4a",
+      "pfad": "/v1/episode/dc013483e567a050d49a7f4ddc9ae0171956a753.json",
+      "titel": "科技有意思016 | Kimi K3：开源权重下的AI价值链重构",
+      "veroeffentlicht": "2026-08-05T12:33:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨月之暗面发布Kimi K3开源模型引发的行业变革。"
+    },
+    {
+      "guid": "xmly_track_1004791799",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OSPCxAJnmrgTCc57H.m4a?channel=rss&album_id=127977114&track_id=1004791799&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/bf40-audiofreehighqps/F6/63/GKwRIW4OSPCxAJnmrgTCc57H.m4a",
+      "pfad": "/v1/episode/722a647083f9e93260fd8f693da372f5d4c9b653.json",
+      "titel": "科技有意思017 | Kimi K3之后：从白宫指控到黄仁勋的“开源起义”",
+      "veroeffentlicht": "2026-08-05T12:33:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Kimi K3开源后的连锁反应及AI行业生态变化。"
+    },
+    {
+      "guid": "xmly_track_1004791796",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIOSPCwAI1m0ATCc52Q.m4a?channel=rss&album_id=127977114&track_id=1004791796&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/d2ac-audiofreehighqps/37/7E/GKwRIaIOSPCwAI1m0ATCc52Q.m4a",
+      "pfad": "/v1/episode/7235851fb95121f3be27e36183a58611473c550c.json",
+      "titel": "科技有意思014 | Fable5的“薛定谔式解禁”与开源渠道的反攻",
+      "veroeffentlicht": "2026-08-05T12:32:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Fable 5解禁与开源渠道反攻的行业观察"
+    },
+    {
+      "guid": "xmly_track_1004791797",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OSPDRAPjdwATCc7QD.m4a?channel=rss&album_id=127977114&track_id=1004791797&uid=446806014&jt=https://aod.cos.tx.xmcdn.com/storages/90c5-audiofreehighqps/CD/5B/GKwRIW4OSPDRAPjdwATCc7QD.m4a",
+      "pfad": "/v1/episode/dc3a962c91e003f98e2f5800952751962001e533.json",
+      "titel": "科技有意思015 | GPT-5.6来了，AI开始集体进入“自我迭代”阶段？！",
+      "veroeffentlicht": "2026-08-05T12:32:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI从人类优化转向自我迭代的历史性转折"
     }
   ]
 }

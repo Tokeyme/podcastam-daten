@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "阳光澳洲|携程听见旅行",
   "apple_collection_id": "1490066416",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group67/M05/57/A4/wKgMbV2tB8niGIy2AFYpl_NnpPY197.m4a",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "全面解析澳大利亚旅游的常见问题、跟团住宿、交通路线及特产禁忌。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group68/M04/57/A0/wKgMbl2tBEmwL7-yARKOuFVpiFw284.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMbl2tBEmwL7-yARKOuFVpiFw284.mp3.m4a?channel=rss&album_id=29341990&track_id=221451280&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/group68/M04/57/A0/wKgMbl2tBEmwL7-yARKOuFVpiFw284.mp3",
+      "pfad": "/v1/episode/faa0858db20a370a99cd2f68b6900eadf581ff5d.json",
+      "titel": "阳光澳洲|拥抱阳光，邂逅澳洲1.0-国家背景概况介绍",
+      "veroeffentlicht": "2019-10-21T01:09:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "澳大利亚国家背景概况与历史沿革介绍"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group47/M05/0F/68/wKgKm1uWLruh69OjAI8ZVfuZ4tk629.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgKm1uWLruh69OjAI8ZVfuZ4tk629.m4a?channel=rss&album_id=29341990&track_id=121971448&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/group47/M05/0F/68/wKgKm1uWLruh69OjAI8ZVfuZ4tk629.m4a",
+      "pfad": "/v1/episode/848be2bc15c508c3db13a5f4b88e65c330076c99.json",
+      "titel": "阳光澳洲|澳大利亚新州旅游局带你玩—解锁自驾玩法",
+      "veroeffentlicht": "2018-09-10T08:45:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "澳大利亚新州自驾游路线与特色景点介绍"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M06/4B/D9/wKgKlltFw-WjCQ4nAFrgytLRdi4037.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgKlltFw-WjCQ4nAFrgytLRdi4037.m4a?channel=rss&album_id=29341990&track_id=98449675&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/group46/M06/4B/D9/wKgKlltFw-WjCQ4nAFrgytLRdi4037.m4a",
+      "pfad": "/v1/episode/ad8871cd5b087d2e7448b066697846639508bd51.json",
+      "titel": "阳光澳洲|澳大利亚-旅游准备知识",
+      "veroeffentlicht": "2018-07-11T08:47:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "首次赴澳旅游的行前准备知识与常见问题解答"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group45/M07/4C/2E/wKgKjltFwzTyh-AWALcd0yugQHk420.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgKjltFwzTyh-AWALcd0yugQHk420.mp3.m4a?channel=rss&album_id=29341990&track_id=98449129&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/group45/M07/4C/2E/wKgKjltFwzTyh-AWALcd0yugQHk420.mp3",
+      "pfad": "/v1/episode/eea4bb5e8f869fbd8759197e9ebe58148a53b175.json",
+      "titel": "阳光澳洲|澳大利亚-墨尔本+凯恩斯城市玩法2.0",
+      "veroeffentlicht": "2018-07-11T08:43:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "澳大利亚墨尔本与凯恩斯城市玩法及旅行攻略分享"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M05/4B/B0/wKgKlltFwrzzJB76AEn6srsVFwk361.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgKlltFwrzzJB76AEn6srsVFwk361.m4a?channel=rss&album_id=29341990&track_id=98449008&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/group46/M05/4B/B0/wKgKlltFwrzzJB76AEn6srsVFwk361.m4a",
+      "pfad": "/v1/episode/ae741b79cf704fd8b12e6b499b07dcf3bf1efe7e.json",
+      "titel": "阳光澳洲|澳大利亚-悉尼+布里斯班城市玩法1.0",
+      "veroeffentlicht": "2018-07-11T08:42:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "澳大利亚悉尼与布里斯班城市旅行玩法及景点介绍"
     }
   ]
 }

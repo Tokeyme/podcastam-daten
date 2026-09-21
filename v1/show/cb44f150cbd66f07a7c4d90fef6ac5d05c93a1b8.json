@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技指北针",
   "apple_collection_id": "1742982488",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6661d86b94977a26efb736c1",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨大模型价格战背后的产业逻辑、技术降本与企业AI战略差异化"
+    },
+    {
+      "guid": "66277637200abebe6eb8c802",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626d60388d87442f9e66a2ee/66277637200abebe6eb8c802/media.xyzcdn.net/lkkeQsXS4mV-WMFTbH8M6xy-31PE.m4a",
+      "pfad": "/v1/episode/426ff99052ee41dbbbd807e5d206be1f350cf7f4.json",
+      "titel": "AI商业观察Vol.03: 让Kimi组织了一场AI大咖论坛、做了一份AI搜索行业研究，只想说：“真香”！",
+      "veroeffentlicht": "2024-04-23T08:49:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2024年AI商业化进展、大模型产业趋势与Perplexity等应用。"
+    },
+    {
+      "guid": "65ea8ca12d96b6aa807f2ba5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626d60388d87442f9e66a2ee/65ea8ca12d96b6aa807f2ba5/media.xyzcdn.net/lmCTD1zLY8Dn02TRtJHiBxomId6k.m4a",
+      "pfad": "/v1/episode/358f7bc48e371d056d531f7d4f44e5cd9e1ef8de.json",
+      "titel": "AI商业观察Vol.02：详解英伟达股价2年7倍四部曲！最新的投资故事如何演绎？下一个万亿还有哪些投资故事？",
+      "veroeffentlicht": "2024-03-08T03:57:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨英伟达两年股价涨七倍的历程、推理市场机遇与未来万亿市值的故事。"
+    },
+    {
+      "guid": "65c1f9440847349e0c01e6be",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626d60388d87442f9e66a2ee/65c1f9440847349e0c01e6be/media.xyzcdn.net/lndU7o2LI6LCJ_wOD-vTxr80UcuL.m4a",
+      "pfad": "/v1/episode/e4bf8f3315eca10a3af45852934e2b37d7a32076.json",
+      "titel": "AI商业观察Vol.01：拥抱AI的中国速度！",
+      "veroeffentlicht": "2024-02-06T09:17:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI产业的中国速度、大模型生态与商业模式。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "触底访谈",
   "apple_collection_id": "1807681511",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "69d6798ce2c8be3155b6e6bb",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨养有特殊状况的狗狗的真实经历，反思宠物医疗、消费主义与养狗责任。"
+    },
+    {
+      "guid": "69690175109824f9e1af6561",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/69690175109824f9e1af6561/media.xyzcdn.net/67f6456481d0f4672321e2d2/lhh2sMmNxryX_pV72Lq-SjHkaoEM.m4a",
+      "pfad": "/v1/episode/73a7fb749f63d1df701d5ec018945e7e6b5a9c5d.json",
+      "titel": "EP11 和妈妈的生日对谈，聊生前缘和身后事，允许彼此成为「与众不同」的家人",
+      "veroeffentlicht": "2026-01-15T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与母亲跨代际对话，聊家族往事、生死议题与代际和解"
+    },
+    {
+      "guid": "69551c9d14db1df9efcb10da",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/69551c9d14db1df9efcb10da/media.xyzcdn.net/67f6456481d0f4672321e2d2/lobBelutUIPoraLUaQ4qVFT6QM0j.m4a",
+      "pfad": "/v1/episode/9fe0babf2e36d7495b50c606695909e1c8706094.json",
+      "titel": "EP10 播客制作心得：一个人如何撑过“十集魔咒”",
+      "veroeffentlicht": "2025-12-31T12:56:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一人制作十集播客的复盘与制作心得"
+    },
+    {
+      "guid": "694b66e60b60b7bf75299477",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/694b66e60b60b7bf75299477/media.xyzcdn.net/67f6456481d0f4672321e2d2/lnyNoPWRNnP_IVhe9KrzUPjcvkLu.m4a",
+      "pfad": "/v1/episode/cbfc23a219e0617c1ed122e0411cc4a5b8f1f133.json",
+      "titel": "EP9 职业甘苦谈 | 玻璃手艺人开店：一场火与光的创业实践",
+      "veroeffentlicht": "2025-12-24T04:16:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "前互联网产品设计师转型玻璃手艺人，分享从零开店与一人创业的真实经历。"
+    },
+    {
+      "guid": "69422ff64c65abaff36979ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/69422ff64c65abaff36979ca/media.xyzcdn.net/67f6456481d0f4672321e2d2/lskvAPvAA6mMoJgFH7aC9PAk_u-y.m4a",
+      "pfad": "/v1/episode/279bf9a79443cdaba61304029a6a463084476114.json",
+      "titel": "EP8 职业甘苦谈 | 保险销售：晴天里的卖伞人",
+      "veroeffentlicht": "2025-12-17T04:36:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "资深保险代理人Cici分享职业甘苦谈与追星经历"
+    },
+    {
+      "guid": "68d115922c82c9dccaa01c0d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/68d115922c82c9dccaa01c0d/media.xyzcdn.net/67f6456481d0f4672321e2d2/lkM7hjZclJQJqA5woteJFVbNbOXl.m4a",
+      "pfad": "/v1/episode/d6a68c9ca486b604631d37425d0158999b59a5e0.json",
+      "titel": "EP7 晴耕雨读 | 困住了？那就读书吧！feat. 在猛追湾读书",
+      "veroeffentlicht": "2025-09-22T09:50:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨在困境中带来能量与陪伴的书籍。"
+    },
+    {
+      "guid": "68bee55fd644af942319bfee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/68bee55fd644af942319bfee/media.xyzcdn.net/67f6456481d0f4672321e2d2/ltZXAAEZEykb8sh1vNDswNavp-Wh.m4a",
+      "pfad": "/v1/episode/80b0249dece18b0a68e80be2efb2462d337d2d71.json",
+      "titel": "EP6 职业甘苦谈 | 当了10年的团课教练TA有话说",
+      "veroeffentlicht": "2025-09-08T14:20:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "十年团课教练做客，聊聊健身教练的职业甘苦。"
+    },
+    {
+      "guid": "68a952d342cc2798e7fd0ffd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/68a952d342cc2798e7fd0ffd/media.xyzcdn.net/67f6456481d0f4672321e2d2/lgGM2wKiewohW-fY8D0cUowiktu8.m4a",
+      "pfad": "/v1/episode/59ce202ff253c05a9e6fef78a6802c4af351d0c5.json",
+      "titel": "EP5 假小子VS娘娘腔，留了长发后的新人生",
+      "veroeffentlicht": "2025-08-23T05:43:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "留长发后的生活体验与性别气质的回顾"
+    },
+    {
+      "guid": "688c499a8e06fe8de7c4da58",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/688c499a8e06fe8de7c4da58/media.xyzcdn.net/67f6456481d0f4672321e2d2/lmevfauoZlppU-QxuQTfEpOI1ZSZ.m4a",
+      "pfad": "/v1/episode/de9e1dfae17ac537bf26e9c9081a7d5016b98dc6.json",
+      "titel": "EP4 从「拼好饭」到「拼好罐」| 出片害人！ 摄影师的创作困境（下）",
+      "veroeffentlicht": "2025-08-01T05:05:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨当代摄影师面临的创作困境与出片文化问题"
+    },
+    {
+      "guid": "687a0ce2a9dec92500f1cb6d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67f6456481d0f4672321e2d2/687a0ce2a9dec92500f1cb6d/media.xyzcdn.net/67f6456481d0f4672321e2d2/lkDp7tiKN6eTKaAoMT8XB6bi2jed.m4a",
+      "pfad": "/v1/episode/3cb773d4ea6d60248b2b59281558b688fa29ef9b.json",
+      "titel": "EP3 客从何处来，吵不完的器材党，长焦创造的舒适圈 | 摄影师的创作困境（上）",
+      "veroeffentlicht": "2025-07-18T09:01:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨摄影师的创作困境，涵盖客源、器材党与长焦镜头创作。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "路标访谈",
   "apple_collection_id": "1536149213",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/b934-audiofreehighqps/09/42/CMCoOSMDk403AXgZGwBqfi5j.m4a",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "打工人在上海如何通过投资与买房实现财富增长？"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9dc4-audiofreehighqps/93/82/CMCoOR8DfuwGBhsYXABlOPkg.mp3",
+      "audio_url": "https://jt.ximalaya.com//CMCoOR8DfuwGBhsYXABlOPkg.mp3.m4a?channel=rss&album_id=42749404&track_id=353644065&uid=75946133&jt=https://aod.cos.tx.xmcdn.com/storages/9dc4-audiofreehighqps/93/82/CMCoOR8DfuwGBhsYXABlOPkg.mp3",
+      "pfad": "/v1/episode/c6fe6fc7a5976a1c084e5166ded7f9d0be7e747d.json",
+      "titel": "vol.003 打工是不可能打工的，当老板又不会，只能辞职这样子",
+      "veroeffentlicht": "2020-11-09T11:33:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨打工生涯的爱恨情仇与辞职选择"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1f95-audiofreehighqps/37/1C/CMCoOSMDaE-QBIKGLQBfzkhR.mp3",
+      "audio_url": "https://jt.ximalaya.com//CMCoOSMDaE-QBIKGLQBfzkhR.mp3.m4a?channel=rss&album_id=42749404&track_id=348307504&uid=75946133&jt=https://aod.cos.tx.xmcdn.com/storages/1f95-audiofreehighqps/37/1C/CMCoOSMDaE-QBIKGLQBfzkhR.mp3",
+      "pfad": "/v1/episode/2dc4019cb68d6edda531ecedd5fe1389bda89357.json",
+      "titel": "vol.002 比起谈恋爱，我更想找个虚拟恋人",
+      "veroeffentlicht": "2020-10-23T07:56:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨当代年轻人的虚拟恋人现象与亲密关系。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6924-audiofreehighqps/99/0A/CMCoOSQDX1JSBNH1-ABduZgp.mp3",
+      "audio_url": "https://jt.ximalaya.com//CMCoOSQDX1JSBNH1-ABduZgp.mp3.m4a?channel=rss&album_id=42749404&track_id=346039839&uid=75946133&jt=https://aod.cos.tx.xmcdn.com/storages/6924-audiofreehighqps/99/0A/CMCoOSQDX1JSBNH1-ABduZgp.mp3",
+      "pfad": "/v1/episode/63d0299b86939ded93d6f47df26b922c3d75f3b7.json",
+      "titel": "vol.001 我们找来老板，聊了聊他的西藏生死之旅（但是他跑偏了）",
+      "veroeffentlicht": "2020-10-16T12:17:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "路标工作室老板旷达讲述西藏生死之旅与人生思考。"
     }
   ]
 }

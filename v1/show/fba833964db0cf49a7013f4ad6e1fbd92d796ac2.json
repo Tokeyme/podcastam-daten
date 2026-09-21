@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "界面文化｜编辑部聊天室",
   "apple_collection_id": "1731814092",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aae604bac389df82734437e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6aae604bac389df82734437e/media.xyzcdn.net/65af55c25cbe64c0cc94d690/luKf7SFpiwJUZgrFbVvqQEwkLjWg.m4a",
+      "pfad": "/v1/episode/25b7e880f956d5f2ef1116e35cc4c3254f4f6b83.json",
+      "titel": "内娱考古来袭，我们为何总在审判过去？",
+      "veroeffentlicht": "2026-09-20T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨内娱内容与旧作翻红的现象及背后的审视方式"
+    },
+    {
+      "guid": "6a9c192ff03e74ee6b058fba",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a9c192ff03e74ee6b058fba/media.xyzcdn.net/65af55c25cbe64c0cc94d690/lhn3o2xbOqd-nKhAeffXbfAxzm8P.m4a",
+      "pfad": "/v1/episode/a70cea973ba140db996df2786d74d866486adbd4.json",
+      "titel": "所有人采访所有人，语言的泛滥和贬值",
+      "veroeffentlicht": "2026-09-06T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨“采访过剩”现象与语言泛滥带来的贬值"
+    },
     {
       "guid": "6a89b7e81352af56ff3a5883",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a89b7e81352af56ff3a5883/media.xyzcdn.net/65af55c25cbe64c0cc94d690/lu2yC5LTwuOCOaKNzEuwEQB9Grdr.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨诺兰电影《奥德赛》的改编争议、古典与现代的碰撞及导演的特殊影响力。"
+    },
+    {
+      "guid": "6a77e4f1000a55a9bb04ffbd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a77e4f1000a55a9bb04ffbd/media.xyzcdn.net/65af55c25cbe64c0cc94d690/lr0q87cfCJpdYqbnWBLPmFRLWMfr.m4a",
+      "pfad": "/v1/episode/82b35c18f82e756874b05bc7e245fd1fbe38877c.json",
+      "titel": "被discouraged的王虹，被创伤命名的我们",
+      "veroeffentlicht": "2026-08-09T02:35:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨王虹言论引发的社会共鸣与集体创伤情绪"
+    },
+    {
+      "guid": "6a64c0f16356eb2d9be842fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a64c0f16356eb2d9be842fd/media.xyzcdn.net/65af55c25cbe64c0cc94d690/lpFh_tFMkCWn6AF8NSEqjPPDVSkN.m4a",
+      "pfad": "/v1/episode/3a7770532885875aa635f56d5cc2c3c9d9672610.json",
+      "titel": "喜剧还在，但看周星驰的人已经换了",
+      "veroeffentlicht": "2026-07-26T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "周星驰新片引发热议，中国喜剧格局经历了怎样的迭代？"
+    },
+    {
+      "guid": "6a52f3a11e32575f5eb4f579",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a52f3a11e32575f5eb4f579/media.xyzcdn.net/65af55c25cbe64c0cc94d690/lh1VMmH3Xy59-Y_mnRB2rHO--Wqi.m4a",
+      "pfad": "/v1/episode/d21caa30738e95f69af3871131efd562de767dd6.json",
+      "titel": "现实已经够焦虑了，为何还要在游戏里继续模拟现实？",
+      "veroeffentlicht": "2026-07-12T01:56:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为何人们会在模拟现实的电子游戏中重温生活焦虑。"
+    },
+    {
+      "guid": "6a3fa5412e335a35a80a39ae",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a3fa5412e335a35a80a39ae/media.xyzcdn.net/65af55c25cbe64c0cc94d690/ljJiEc5JWlgAkXIYxLQge3x2doaD.m4a",
+      "pfad": "/v1/episode/7827d91eab2cb5776d89dcc7d600940c6082c53a.json",
+      "titel": "一支烟如何越过我们的边界？",
+      "veroeffentlicht": "2026-06-28T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨公共场合吸烟与二手烟背后的健康、性别与社会边界。"
+    },
+    {
+      "guid": "6a2e094643a22a69558351eb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a2e094643a22a69558351eb/media.xyzcdn.net/65af55c25cbe64c0cc94d690/ljgfI-jOh3LO97DyJBiGJxz0oHKf.m4a",
+      "pfad": "/v1/episode/d03dd35e37f51d8145363a5fbe0fa7815d10ef60.json",
+      "titel": "错过天涯的一代，如何回望论坛时代",
+      "veroeffentlicht": "2026-06-14T01:57:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨天涯社区复活与论坛时代对中文互联网的影响。"
+    },
+    {
+      "guid": "6a1b19a7ac7bdb080c33548b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a1b19a7ac7bdb080c33548b/media.xyzcdn.net/65af55c25cbe64c0cc94d690/li6y1nSisthy_QhFIxrzUXvLOcAe.m4a",
+      "pfad": "/v1/episode/3c3c490077b99d4617cc2feadae46c60dc844514.json",
+      "titel": "我们为什么痴迷于直播？",
+      "veroeffentlicht": "2026-05-31T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么当下人们会痴迷于直播综艺与直播媒介形态"
+    },
+    {
+      "guid": "6a09218fe1eb34a93989aef2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65af55c25cbe64c0cc94d690/6a09218fe1eb34a93989aef2/media.xyzcdn.net/65af55c25cbe64c0cc94d690/ljibiTPskjRfz_EEsM7J9rMw7ve8.m4a",
+      "pfad": "/v1/episode/c997c7fe37c9dada36186b298191484507c79f1d.json",
+      "titel": "被PUA是代际成长的一记回旋镖吗？",
+      "veroeffentlicht": "2026-05-17T02:13:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨短视频“接话PUA”现象及背后的家庭言语暴力与治愈。"
     }
   ]
 }

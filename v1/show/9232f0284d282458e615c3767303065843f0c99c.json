@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "美股财报随心谈 | 英文播客",
   "apple_collection_id": "1776170960",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "68819e24a9dec92500e1d3eb",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "深入解析Alphabet 2025年第二季度财报与AI驱动的智能基建革命。"
+    },
+    {
+      "guid": "685cfbaebef90978ecff649a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/685cfbaebef90978ecff649a/media.xyzcdn.net/67184aa70d2f24f2891fd764/lsgVKlqHNMnxbmfglnXpjgRNFyUc.m4a",
+      "pfad": "/v1/episode/83242d05dd5540039ba89896a5ea34e31d2bba6d.json",
+      "titel": "Andrej Karpathy软件革命论：从编程语言到人工智能操作系统的时代跨越",
+      "veroeffentlicht": "2025-06-26T07:51:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解析Andrej Karpathy的软件革命洞察与演进范式"
+    },
+    {
+      "guid": "6841037a31215eb506636fe8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/6841037a31215eb506636fe8/media.xyzcdn.net/67184aa70d2f24f2891fd764/llZVQnxWoemNHISiLRKfiPr5E4CF.m4a",
+      "pfad": "/v1/episode/6a2bd55652aa5be0e9dc0b43bf89e2a064bb662d.json",
+      "titel": "DeepMind CEO 哈萨比斯的AGI预言：从通用智能到人类未来的十年征程",
+      "veroeffentlicht": "2025-06-05T02:45:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨DeepMind关于AGI实现时间线、科学突破及人类未来面临的挑战"
+    },
+    {
+      "guid": "683e570631215eb5060017e4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/683e570631215eb5060017e4/media.xyzcdn.net/67184aa70d2f24f2891fd764/lkhxpIubFNitM1iXx6cbl3xj329b.m4a",
+      "pfad": "/v1/episode/c2a2dfc166f8fd4bc66d8bac771daf5ec03eb159.json",
+      "titel": "Google CEO桑达尔·皮查伊：AI发展的下一个阶段",
+      "veroeffentlicht": "2025-06-03T02:00:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解析Google CEO桑达尔·皮查伊访谈，探讨AI发展下一阶段"
+    },
+    {
+      "guid": "6837d56b38dcc57c6487c7a0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/6837d56b38dcc57c6487c7a0/media.xyzcdn.net/67184aa70d2f24f2891fd764/lhWec49slSwr1URxSIm4Uc3lfwo1.m4a",
+      "pfad": "/v1/episode/ea3f9c2b17b76afa3c0219d1d3af52a64c7037c9.json",
+      "titel": "NVDA FY1Q26 财报：从推理革命到制造回流的新纪元",
+      "veroeffentlicht": "2025-05-29T05:36:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解析NVIDIA 2026财年Q1财报电话会议的核心信息与AI基础设施建设"
+    },
+    {
+      "guid": "681c118ddb57cd35f719716f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/681c118ddb57cd35f719716f/media.xyzcdn.net/67184aa70d2f24f2891fd764/lh0WwKPNo_4CWW6CR2hOovuuy0EI.m4a",
+      "pfad": "/v1/episode/e746aaf76ca9313b0114adc05ffc81bb61e2b4b3.json",
+      "titel": "Applovin 1Q25 财报：AI驱动的数字广告新征程",
+      "veroeffentlicht": "2025-05-08T02:20:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Applovin 2025年第一季度财报及广告科技转型"
+    },
+    {
+      "guid": "681afbd1d8d622bb8040c34c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/681afbd1d8d622bb8040c34c/media.xyzcdn.net/67184aa70d2f24f2891fd764/lmMthzcPryvj2iZMLtySN9KhM-fN.m4a",
+      "pfad": "/v1/episode/9d1cfacb8801dedfb6af0c725e802744dc689100.json",
+      "titel": "AMD 1Q25 财报：算力革命先锋与AI赛道的制高点争夺战",
+      "veroeffentlicht": "2025-05-07T06:22:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读AMD 2025年第一季度财报及业务表现"
+    },
+    {
+      "guid": "68119ae56970cc7b4d087a96",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/68119ae56970cc7b4d087a96/media.xyzcdn.net/67184aa70d2f24f2891fd764/ltTjbt-THZudW__Fj0KVtpKOqHv7.m4a",
+      "pfad": "/v1/episode/df542754f81ebbf78e35d3ad1d0619b4b206c108.json",
+      "titel": "谷歌1Q25财报：谷歌的AI未来",
+      "veroeffentlicht": "2025-04-30T03:39:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解析谷歌2025年第一季度财报与全栈AI战略进展"
+    },
+    {
+      "guid": "68060159cdd692da15b31c19",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/68060159cdd692da15b31c19/media.xyzcdn.net/67184aa70d2f24f2891fd764/lqYruyBNr_dfU-M3xkAvUCcyqRhE.m4a",
+      "pfad": "/v1/episode/6b23dcf21719d2932a89290381ef6934e9de7fb2.json",
+      "titel": "奈飞 1Q25 财报：从流媒体巨头到全维度娱乐平台",
+      "veroeffentlicht": "2025-04-21T08:28:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "剖析奈飞2025年第一季度财报及业务战略转型"
+    },
+    {
+      "guid": "6800b7131f1db84a56de34ce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67184aa70d2f24f2891fd764/6800b7131f1db84a56de34ce/media.xyzcdn.net/67184aa70d2f24f2891fd764/liq8iDWe7p-a2VUKf2eTTpmvF4qc.m4a",
+      "pfad": "/v1/episode/d2429791940eabf8d5da9cb4a1057c281c318884.json",
+      "titel": "美联储的平衡艺术：鲍威尔眼中的通胀与增长",
+      "veroeffentlicht": "2025-04-17T08:13:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨美联储鲍威尔最新讲话及通胀与经济增长走势"
     }
   ]
 }

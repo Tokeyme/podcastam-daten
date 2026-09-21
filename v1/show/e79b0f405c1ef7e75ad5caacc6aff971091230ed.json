@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "读书吧，书虫",
   "apple_collection_id": "1823602452",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_891118824",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "情绪无需被管理，而是面对现实的镜子和内在信号。"
+    },
+    {
+      "guid": "xmly_track_881135441",
+      "audio_url": "https://jt.ximalaya.com//GAqhqKwMPFncACAAAAPYyEpH.mp3.m4a?channel=rss&album_id=95484425&track_id=881135441&uid=137407298&jt=https://aod.cos.tx.xmcdn.com/storages/61dd-audiofreehighqps/5A/68/GAqhqKwMPFncACAAAAPYyEpH.mp3",
+      "pfad": "/v1/episode/3fd2cdccc4122d50acea76b2f2b440f642130707.json",
+      "titel": "吴军给女儿的忠告：改变命运的态度",
+      "veroeffentlicht": "2025-07-04T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨吴军著作《态度》中的人生智慧与成长指南"
+    },
+    {
+      "guid": "xmly_track_880513699",
+      "audio_url": "https://jt.ximalaya.com//GAqhqKwMOuSoACAAAAPXv7ua.mp3.m4a?channel=rss&album_id=95484425&track_id=880513699&uid=137407298&jt=https://aod.cos.tx.xmcdn.com/storages/aa9b-audiofreehighqps/BC/62/GAqhqKwMOuSoACAAAAPXv7ua.mp3",
+      "pfad": "/v1/episode/54148c0f2dc57cc78ce7835c7457fd322d21df15.json",
+      "titel": "贪婪的多巴胺：掌控欲望，活出幸福",
+      "veroeffentlicht": "2025-07-02T12:13:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨大脑中的欲望分子多巴胺及其对人类行为的影响。"
+    },
+    {
+      "guid": "xmly_track_878848533",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIMNyODACAAAAPVTKOb.mp3.m4a?channel=rss&album_id=95484425&track_id=878848533&uid=137407298&jt=https://aod.cos.tx.xmcdn.com/storages/04ea-audiofreehighqps/E3/2E/GKwRIJIMNyODACAAAAPVTKOb.mp3",
+      "pfad": "/v1/episode/9a0530fa47a39fa1922d4c33c025686c83dd985b.json",
+      "titel": "说话的硬核真相：超越技巧的沟通底层逻辑",
+      "veroeffentlicht": "2025-06-29T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻沟通的底层逻辑，超越技巧提升表达与思维能力。"
     }
   ]
 }

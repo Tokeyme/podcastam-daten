@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "火花集 SparksetPodcast",
   "apple_collection_id": "6802926196",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6a9a26b7a0210c197dcd3607",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a9a26b7a0210c197dcd3607/media.xyzcdn.net/69630aced507411407b20fdc/lsC3108yM4v0ajaL68g9wdLfC4H8.m4a",
+      "pfad": "/v1/episode/8785c9c0d7c95508614d4feec2488254bfd6c539.json",
+      "titel": "当粉蓝的车票不再，聊聊从藏书票到奶茶袋，收藏的变与不变......",
+      "veroeffentlicht": "2026-09-04T02:04:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨从传统藏书票到现代奶茶袋的收藏变迁与心理"
+    },
     {
       "guid": "6a978f72a0210c197dcc096b",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69630aced507411407b20fdc/6a978f72a0210c197dcc096b/media.xyzcdn.net/69630aced507411407b20fdc/lkQdy6FVVVSXIlHJISDH2oaT5DGi.m4a",

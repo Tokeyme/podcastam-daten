@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "电影砸谈",
   "apple_collection_id": "1168384086",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group49/M05/50/B7/wKgKl1v7YvzxKkVLADg7WdB1OWs377.m4a",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "张法中开启中国美术史课程，带你领略不一样的东方美学。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group49/M06/50/C2/wKgKl1v7YzjQb0hTACM7aY8agYQ893-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgKl1v7YzjQb0hTACM7aY8agYQ893-aacv2-48K.m4a?channel=rss&album_id=3992219&track_id=134591348&uid=43233681&jt=https://aod.cos.tx.xmcdn.com/group49/M06/50/C2/wKgKl1v7YzjQb0hTACM7aY8agYQ893-aacv2-48K.m4a",
+      "pfad": "/v1/episode/22c81d7a5ef20881b4861732415839234204d4a2.json",
+      "titel": "张法中：中国美术史11月7日上线！",
+      "veroeffentlicht": "2018-11-06T03:02:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "张法中讲中国美术史新课程上线"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group49/M09/1F/E7/wKgKl1v5KEjR7QNCAMyJvDhjrsE991-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgKl1v5KEjR7QNCAMyJvDhjrsE991-aacv2-48K.m4a?channel=rss&album_id=3992219&track_id=30166896&uid=43233681&jt=https://aod.cos.tx.xmcdn.com/group49/M09/1F/E7/wKgKl1v5KEjR7QNCAMyJvDhjrsE991-aacv2-48K.m4a",
+      "pfad": "/v1/episode/f8c12b3becf12234f3d87dde80d1dbbf2877942c.json",
+      "titel": "33 指环王-2 魔戒现身",
+      "veroeffentlicht": "2017-02-09T03:58:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "录制给孩子的《指环王：魔戒现身》电影解读与幕后分享"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M04/1D/FA/wKgKnlv5J4Cix6G3BEvXAkvyLSM296-aacv2-48K.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgKnlv5J4Cix6G3BEvXAkvyLSM296-aacv2-48K.m4a?channel=rss&album_id=3992219&track_id=26328297&uid=43233681&jt=https://aod.cos.tx.xmcdn.com/group51/M04/1D/FA/wKgKnlv5J4Cix6G3BEvXAkvyLSM296-aacv2-48K.m4a",
+      "pfad": "/v1/episode/e74ecfa8ee4787a7644065f436ae92afe03e90c7.json",
+      "titel": "30 《第七封印》 如何看懂艺术电影",
+      "veroeffentlicht": "2016-12-04T19:01:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨艺术电影《第七封印》的理解与赏析方式。"
     }
   ]
 }

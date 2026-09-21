@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "运动与健康",
   "apple_collection_id": "1887189428",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_999710394",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "医生也查出脂肪肝？解析元凶与科学逆转的四个方法"
+    },
+    {
+      "guid": "xmly_track_992755381",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OEoThACHykAStJUhS.m4a?channel=rss&album_id=118669835&track_id=992755381&uid=167077348&jt=https://aod.cos.tx.xmcdn.com/storages/ff70-audiofreehighqps/52/18/GKwRIW4OEoThACHykAStJUhS.m4a",
+      "pfad": "/v1/episode/2a885358bed8a38787892e07b7cefdb42398f7c3.json",
+      "titel": "甘油三酯 vs 低密度脂蛋白胆固醇——ICU医生视角",
+      "veroeffentlicht": "2026-06-26T16:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读血脂指标：甘油三酯与低密度脂蛋白胆固醇的区分与管理"
     }
   ]
 }

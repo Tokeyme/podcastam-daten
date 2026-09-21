@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小天章",
   "apple_collection_id": "1868296281",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a97d830a0210c197dcc3bb1",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "何超琼：人生就像无法预见的剧本，每一步都需要主动争取与勇敢面对。"
+    },
+    {
+      "guid": "6a3a130c2e335a35a807da71",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/689a1c1616cbfc56f6893235/6a3a130c2e335a35a807da71/media.xyzcdn.net/689a1c1616cbfc56f6893235/lgTaSwo-r2-7us5niwa3pGuQfpgC.m4a",
+      "pfad": "/v1/episode/971f8042835a4ac4ec5fa3994a8236cb0fb4bb54.json",
+      "titel": "EP4 王强：AI 狂飙时代，一个古典的人",
+      "veroeffentlicht": "2026-06-23T06:05:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话王强：在AI狂飙时代保持古典与秩序"
+    },
+    {
+      "guid": "69fd98131b7bd50295b908be",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/689a1c1616cbfc56f6893235/69fd98131b7bd50295b908be/media.xyzcdn.net/689a1c1616cbfc56f6893235/ll3VObR9In_bGAoLdE5YFOIai86B.m4a",
+      "pfad": "/v1/episode/7d248f47b1b2f4e2e0354da2e8b0805974566f96.json",
+      "titel": "EP3 安娜：人道救援十年，她说看见是改变的开始",
+      "veroeffentlicht": "2026-05-08T08:18:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走过战地与贫瘠，人道救援医生安娜的十年经历与看见"
+    },
+    {
+      "guid": "69a158f566e2c303779e1559",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/689a1c1616cbfc56f6893235/69a158f566e2c303779e1559/media.xyzcdn.net/689a1c1616cbfc56f6893235/lgtQN8W6gKv8GCeNf48MZBCikTCh.m4a",
+      "pfad": "/v1/episode/4220ddf71c32084439f5743c9bad4b6d58166849.json",
+      "titel": "EP2 曾燕红：从中学老师到打破速登珠峰世界纪录，我唯一不能做的就是放弃",
+      "veroeffentlicht": "2026-02-27T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "曾燕红讲述从中学老师到打破速登珠峰世界纪录的历程。"
+    },
+    {
+      "guid": "6965e110ef1cf272a71cf2e3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/689a1c1616cbfc56f6893235/6965e110ef1cf272a71cf2e3/media.xyzcdn.net/689a1c1616cbfc56f6893235/lvMzn_MtJc2HahFoAX0Tt1S6zif1.m4a",
+      "pfad": "/v1/episode/8127ed777a66a9114ec97d0cbb23d8dd6fd04caa.json",
+      "titel": "EP1 刘嘉玲说，60岁是她的黄金时代",
+      "veroeffentlicht": "2026-01-13T06:17:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "刘嘉玲谈六十岁黄金时代与人生经历"
+    },
+    {
+      "guid": "6964593ff8b05f9f7512ab21",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/689a1c1616cbfc56f6893235/6964593ff8b05f9f7512ab21/media.xyzcdn.net/689a1c1616cbfc56f6893235/FtRb8nH2qIvCVjB_xO38HMtmfI3Y.m4a",
+      "pfad": "/v1/episode/69bd69cb44c7b164ebc503173dfd01dccb35e237.json",
+      "titel": "大家好，这里是章泽天的播客「小天章」",
+      "veroeffentlicht": "2026-01-12T04:00:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "章泽天聊为什么做播客以及播客名字「小天章」的由来。"
     }
   ]
 }

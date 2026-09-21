@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "睡前故事育儿经",
   "apple_collection_id": "1889706474",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a18175dac7bdb080c32335c",
@@ -13,6 +13,66 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "讲述了一个男孩因奶奶捡废品而自卑，最终在雨中理解并接纳这份沉甸甸爱意的睡前故事。"
+    },
+    {
+      "guid": "6a18160aac7bdb080c3232ce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b0b1357ae3a917492b15f7/6a18160aac7bdb080c3232ce/media.xyzcdn.net/69b0b1357ae3a917492b15f7/lijPvVFL91dAO_GnbWu4nUuWi0ka.m4a",
+      "pfad": "/v1/episode/a096ce43dd9f0b5b2f5b23bf68a38f61ae307cb9.json",
+      "titel": "40.睡前故事：胆小男孩的转变",
+      "veroeffentlicht": "2026-06-05T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一个内向小男孩在妈妈和老师帮助下克服胆怯的成长故事。"
+    },
+    {
+      "guid": "6a181472ac7bdb080c3231f5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b0b1357ae3a917492b15f7/6a181472ac7bdb080c3231f5/media.xyzcdn.net/69b0b1357ae3a917492b15f7/lkLrgiEDAp98XjokX7c_3sumyOzF.m4a",
+      "pfad": "/v1/episode/3a621d8805e30edba00fab435e0f67b1849c6bb6.json",
+      "titel": "39.睡前故事：臭干子摊前的约定",
+      "veroeffentlicht": "2026-06-03T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "老街周爷爷和小宇关于炸臭干子的暖心故事"
+    },
+    {
+      "guid": "6a18127aac7bdb080c323103",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b0b1357ae3a917492b15f7/6a18127aac7bdb080c323103/media.xyzcdn.net/69b0b1357ae3a917492b15f7/lkGuAwW6DYjDPA8aTLq5dlJJ5zZB.m4a",
+      "pfad": "/v1/episode/96f711d2108f4653c98e8931cc0b6190d6fac366.json",
+      "titel": "38.睡前故事：热心的社区网格员",
+      "veroeffentlicht": "2026-06-01T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "社区网格员王叔叔与独居陈爷爷的暖心故事。"
+    },
+    {
+      "guid": "6a1810dc7460cabdeb574a31",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b0b1357ae3a917492b15f7/6a1810dc7460cabdeb574a31/media.xyzcdn.net/69b0b1357ae3a917492b15f7/ltNKbd9g-e1eBh2Zlayq4HovB2EJ.m4a",
+      "pfad": "/v1/episode/13849662168b75ea1b3d8fec15f13d6f33b2ae32.json",
+      "titel": "37.睡前故事：赛道上的成长",
+      "veroeffentlicht": "2026-05-30T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于四驱车比赛与成长的小故事"
+    },
+    {
+      "guid": "6a16f95fac7bdb080c31b2e1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b0b1357ae3a917492b15f7/6a16f95fac7bdb080c31b2e1/media.xyzcdn.net/69b0b1357ae3a917492b15f7/lsHKAQNUcjRVSV8zbM6GtCxW7q3I.m4a",
+      "pfad": "/v1/episode/fa5029ae2e23f0531276c10af947f33317902b80.json",
+      "titel": "36.睡前故事：深夜的便利店",
+      "veroeffentlicht": "2026-05-28T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深夜便利店里的温暖相遇与陌生人的善良。"
+    },
+    {
+      "guid": "6a16c7eb7460cabdeb56b1ef",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69b0b1357ae3a917492b15f7/6a16c7eb7460cabdeb56b1ef/media.xyzcdn.net/69b0b1357ae3a917492b15f7/lt0LwmLZB_nElTvV18pgaU-pcUdo.m4a",
+      "pfad": "/v1/episode/b189c5515146cf2f570a405901c3162b001441a7.json",
+      "titel": "35.睡前故事：雨夜的温暖",
+      "veroeffentlicht": "2026-05-27T10:48:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "雨夜中快递员李明叔叔的暖心小故事。"
     }
   ]
 }

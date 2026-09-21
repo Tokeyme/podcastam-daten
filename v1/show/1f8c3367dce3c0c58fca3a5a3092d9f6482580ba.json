@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "追科技撩艺术",
   "apple_collection_id": "1095222589",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "631830d47728d76c0e147117",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "语言学博士清德乐做客，深度剖析网络流行语与外语学习的奥秘。"
+    },
+    {
+      "guid": "6299b0d25cc037a5c6a7c466",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/6299b0d25cc037a5c6a7c466/media.xyzcdn.net/ludDHsJpYj4Ckv_T5VJZdrAoFstq.m4a",
+      "pfad": "/v1/episode/8800046b01b736764b4d21ed518f8410fd607743.json",
+      "titel": "045 - 虚拟办公 - 远程工作升级版，工作从此会更好玩吗？",
+      "veroeffentlicht": "2022-06-02T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨虚拟办公与远程工作的结合及其未来趋势"
+    },
+    {
+      "guid": "5febedf3dee9c1e16de8dc07",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5febedf3dee9c1e16de8dc07/media.xyzcdn.net/lnTscVmmyT9tPkaoVqcl4bX_FP-R.m4a",
+      "pfad": "/v1/episode/5caf1577ff0ba0f71b1f838f4117f881eb3773c3.json",
+      "titel": "044 - 自动驾驶功能不等于无人驾驶车，花样落地中的无人驾驶将如何改变你的 2021 出行？",
+      "veroeffentlicht": "2020-12-29T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨自动驾驶与无人驾驶的区别及2021年出行趋势"
+    },
+    {
+      "guid": "5fc36cc3dee9c1e16d690f07",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5fc36cc3dee9c1e16d690f07/media.xyzcdn.net/lsvvhkjIZhxlVHaiRcJzfIymDTQb.m4a",
+      "pfad": "/v1/episode/852697217cb07a81c0269e110547e03cc6062a7b.json",
+      "titel": "043 - 京剧能成为潮文化，成为一下个街舞吗？",
+      "veroeffentlicht": "2020-11-28T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "京剧能否成为流行文化？"
+    },
+    {
+      "guid": "5f70a37083c34e85dd84ed32",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5f70a37083c34e85dd84ed32/media.xyzcdn.net/lj1nXKmcEnAOHj9ZW7SrjUjY4gIR.m4a",
+      "pfad": "/v1/episode/a5756adbfd8f8f2d8b4ac12f595e550de18f4fa6.json",
+      "titel": "042 - AI 人工智能写作三部曲：记忆、联想、创作",
+      "veroeffentlicht": "2020-09-26T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI人工智能写作的记忆、联想与创作三部曲"
+    },
+    {
+      "guid": "5ed33fbd418a84a046fa5646",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5ed33fbd418a84a046fa5646/media.xyzcdn.net/Fga9XHTIA69zQi5RJctg4U0yFTAb.m4a",
+      "pfad": "/v1/episode/2d9cc97df37063f74f09abe3625c5681e10a16ea.json",
+      "titel": "短集 - 从海地维和到中欧 TEDx 策展，从 8 个月的战斗到 18 分钟的演讲",
+      "veroeffentlicht": "2020-05-30T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨海地维和经历与中欧TEDx演讲策展的幕后故事。"
+    },
+    {
+      "guid": "5e98e437418a84a046ed363b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5e98e437418a84a046ed363b/media.xyzcdn.net/lieOTZqM7S1n3Sh8uBX31GyjYx36.m4a",
+      "pfad": "/v1/episode/65763f9d701140548ea97e27f2e191709d5439e4.json",
+      "titel": "041 - 从古代大数据到现代建筑界带货女王，看后疫情时代可持续和健康建筑之动静",
+      "veroeffentlicht": "2020-04-16T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从中西方哲学探讨建筑能耗与可持续发展的未来"
+    },
+    {
+      "guid": "5e7d36d0418a84a0464a074e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5e7d36d0418a84a0464a074e/media.xyzcdn.net/lpEr0VeNxI_q7cWFa3onDz8tne5Z.m4a",
+      "pfad": "/v1/episode/7fd9677314e2c471df9950576f2d79c1ea0856b8.json",
+      "titel": "040 - 国产机器人如何佛系追赶四大家族机器人？",
+      "veroeffentlicht": "2020-03-26T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨国产机器人与四大家族机器人的差距及追赶方式。"
+    },
+    {
+      "guid": "5e3f52be418a84a0464de99b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5e3f52be418a84a0464de99b/media.xyzcdn.net/lqiSycrgVs4Qcb3E_meWSLjYnjfZ.m4a",
+      "pfad": "/v1/episode/d1d8d29f54e8617b859028f8d87faf72555823af.json",
+      "titel": "短集 - 柬埔寨的中国淘金众生相",
+      "veroeffentlicht": "2020-02-08T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "柬埔寨的中国淘金热与当地见闻"
+    },
+    {
+      "guid": "5e2ab295418a84a04654fc1a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e2ab295418a84a04654fb05/5e2ab295418a84a04654fc1a/media.xyzcdn.net/loRFZxvYXNkxCnM8XuSLrwxFMTr1.m4a",
+      "pfad": "/v1/episode/53f79eb18187a7f71ddf05134b053119ea1e6104.json",
+      "titel": "短集 - 中国当代艺术市场十年沉浮记，经营一家有个人主义的画廊究竟有多难？",
+      "veroeffentlicht": "2019-12-28T23:10:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中国当代艺术市场的十年变迁与经营画廊的挑战"
     }
   ]
 }

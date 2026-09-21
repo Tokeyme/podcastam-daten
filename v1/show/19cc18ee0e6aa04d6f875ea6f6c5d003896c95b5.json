@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "圈内故事会",
   "apple_collection_id": "1776538486",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aad18f0051af796b9ea3a5c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6aad18f0051af796b9ea3a5c/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lukeJFhh73pGG2jrv7PI5cOQ1oEp.m4a",
+      "pfad": "/v1/episode/a4ed185d2bbe0832ff00d449b220e5aeb531e5c5.json",
+      "titel": "Vol.107 是不是我越「不在乎」，就越「自由」？",
+      "veroeffentlicht": "2026-09-20T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨从在乎到慢慢释怀的心态转变"
+    },
     {
       "guid": "6aa5772f492687f6aad8e9b1",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66ead1845ca6d0ace3c35b31/6aa5772f492687f6aad8e9b1/media.xyzcdn.net/66ead1845ca6d0ace3c35b31/lj_6FOiVFH9utO0yyC0ys2ncxx71.m4a",

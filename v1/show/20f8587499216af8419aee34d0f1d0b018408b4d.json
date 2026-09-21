@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "育儿家活动回放音频",
   "apple_collection_id": "1703071542",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_685938731",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨在只有红楼梦戏剧幻城参与创新教育论坛与项目化学习的收获与感悟。"
+    },
+    {
+      "guid": "xmly_track_664525688",
+      "audio_url": "https://jt.ximalaya.com//GMCoOSEI0bg3ACAAAAJX4jlu.mp3.m4a?channel=rss&album_id=77569629&track_id=664525688&uid=43063414&jt=https://aod.cos.tx.xmcdn.com/storages/a336-audiofreehighqps/6C/98/GMCoOSEI0bg3ACAAAAJX4jlu.mp3",
+      "pfad": "/v1/episode/a1134ed178e13f70439e5fe28ef7796b8ca358a8.json",
+      "titel": "2023.09.08 下班后读书的n种可能性——育儿篇",
+      "veroeffentlicht": "2023-09-09T04:32:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "下班后读书会育儿篇：解读经典育儿书"
     }
   ]
 }

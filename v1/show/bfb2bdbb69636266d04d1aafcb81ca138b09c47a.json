@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "职场阴阳师",
   "apple_collection_id": "1672209161",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a8acd5aef65145dfcc3f896",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "大厂与小厂怎么选？前大厂高管分享真实职场抉择与复盘"
+    },
+    {
+      "guid": "6a6db9be1b5e24969ce7383c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/6a6db9be1b5e24969ce7383c/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/lqYNtWKfzpUKRqmSN1LJP1zZHJNI.m4a",
+      "pfad": "/v1/episode/ec0ba2448aee9deba78dedd4a1e0e05b30d775ee.json",
+      "titel": "42丨老板说“AI半小时就能搞定”：为什么越负责的人，越容易内耗？",
+      "veroeffentlicht": "2026-08-02T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "复盘职场沟通事故：当老板要求用AI解决复杂工作时，责任心强的人为何会陷入内耗。"
+    },
+    {
+      "guid": "6a42021d2e335a35a80b0b54",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/6a42021d2e335a35a80b0b54/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/lh1Uu0cP1HPAd66T50uaS_k_JPec.m4a",
+      "pfad": "/v1/episode/e1b079c94c5384241f62cd37255e6576b73792fd.json",
+      "titel": "41丨职场漫谈：当一个完美主义者，决定在大厂“摆烂”和“溺水”",
+      "veroeffentlicht": "2026-06-29T11:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨完美主义者在大厂的职场生存、摆烂与溺水感。"
+    },
+    {
+      "guid": "69ef6879b4f25397f5b75e14",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/69ef6879b4f25397f5b75e14/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/logHmy24F27pxP3Vk3tDA70rkgHO.m4a",
+      "pfad": "/v1/episode/fc2b793e10683edbee31863258334c31d3f6cf30.json",
+      "titel": "40丨重谈职场向上管理：从管理“老板预期”到交换“个人使用说明书”",
+      "veroeffentlicht": "2026-04-27T14:00:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "三年后再谈职场向上管理：从认知升级到实战经验"
+    },
+    {
+      "guid": "69ad46c65b2d0ed069efff13",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/69ad46c65b2d0ed069efff13/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/lmfDuLVZKkqRwe_lxmiElEMPea98.m4a",
+      "pfad": "/v1/episode/3ac30e44989db8a8f4321f070d3dce97eec7d9c3.json",
+      "titel": "39 | 裸辞一年重回职场：自由试过了，我还是想上班",
+      "veroeffentlicht": "2026-03-08T10:03:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "裸辞一年后重回职场，自由职业究竟带来了什么体验与思考。"
+    },
+    {
+      "guid": "695b4bec493373288d3f7dc4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/695b4bec493373288d3f7dc4/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/ltwPhNxS7ZCOrM_j3l6br_JRF8_B.m4a",
+      "pfad": "/v1/episode/890c52de369cddddc3a89bfb9d8be6d8af284376.json",
+      "titel": "38 | 你到底在跟谁比赛？年终绩效、Peer Pressure 与自我坐标系",
+      "veroeffentlicht": "2026-01-05T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年终绩效与同辈压力的比较心理及自我坐标系的建立。"
+    },
+    {
+      "guid": "69101457af4fc00da7d1d92b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/69101457af4fc00da7d1d92b/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/lhaw9ikiGSkKFw1P00PWxbT0uo1p.m4a",
+      "pfad": "/v1/episode/4086a84d4ea2f06b0a96ad63d47de04ef5b25b38.json",
+      "titel": "37丨比人到中年更惨的是，人到中层——聊聊职场中层管理者的夹缝生存法则",
+      "veroeffentlicht": "2025-11-09T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中层管理者的职场生存状态与夹缝中的平衡术。"
+    },
+    {
+      "guid": "68db9c8cae9d1455fbb35919",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/68db9c8cae9d1455fbb35919/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/lkHWYFKCmnOmcjrJEQV_-wytLOKQ.m4a",
+      "pfad": "/v1/episode/69e01debfcd96b94df39a43b39a7f3ad1637a10f.json",
+      "titel": "36丨搞砸是常态，翻盘才是本事：聊聊职场犯错的正确姿势",
+      "veroeffentlicht": "2025-09-30T13:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场犯错后的应对方式与复盘经验"
+    },
+    {
+      "guid": "68b42e625faf3686594a86d0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/68b42e625faf3686594a86d0/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/lsW4VE8qx--cYjz9xPJswYri-lMX.m4a",
+      "pfad": "/v1/episode/1c7930e1c2821cce5caa20bc1d77797665152404.json",
+      "titel": "35丨脆皮职场打工人运动指南：破解焦虑的最佳方式！",
+      "veroeffentlicht": "2025-08-31T11:52:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨运动如何成为职场人续航的秘密武器与缓解焦虑的方式。"
+    },
+    {
+      "guid": "6885b5eca9dec925005af24f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63e36ea3e99bdef7d342fffd/6885b5eca9dec925005af24f/media.xyzcdn.net/63e36ea3e99bdef7d342fffd/lgZOhtBow4_BPnglVmTXNO6nNMZw.m4a",
+      "pfad": "/v1/episode/7149360e08f96ff2c0b4fb5749f98f06e3971f60.json",
+      "titel": "34丨90后创业公司女高管职场重生之我在大厂当女工",
+      "veroeffentlicht": "2025-07-27T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "创业公司女高管入职大厂的职场适应与生存经历"
     }
   ]
 }

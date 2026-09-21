@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "艺术生访谈录",
   "apple_collection_id": "1792425641",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "66abcc137349f7a55729771b",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "纽约大学表演研究专业毕业生高子涵分享艺术创作与纽约生活"
+    },
+    {
+      "guid": "66a17c0633ddcbb53cdf26f9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6694aead2ee7083c3e36a86b/66a17c0633ddcbb53cdf26f9/media.xyzcdn.net/loMqIYFXbm60ATMlMjgdyrdahBDd.m4a",
+      "pfad": "/v1/episode/36ff287544120bb516a7f8aadab28e59e26978d9.json",
+      "titel": "艺术家吴欣迪｜芝加哥SAIC",
+      "veroeffentlicht": "2024-07-24T22:11:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近99年出生于北京、现居芝加哥的青年艺术家吴欣迪。"
     }
   ]
 }

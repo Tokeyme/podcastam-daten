@@ -2,8 +2,58 @@
   "schema_version": 1,
   "show": "百味职场",
   "apple_collection_id": "1742746864",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aaeb40dac389df82734668d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6aaeb40dac389df82734668d/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lk8ZLgt_T-RUu6T7Wdl3GxqJFHjF.m4a",
+      "pfad": "/v1/episode/f760f09ef3fefa7f0ca3f840e8673d1037d287e1.json",
+      "titel": "147｜从外企高管到一人公司：自由很爽，摇摆也是真的",
+      "veroeffentlicht": "2026-09-19T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从外企高管到一人公司：自由很爽，摇摆也是真的"
+    },
+    {
+      "guid": "6aa8fbfa9d32647781697756",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6aa8fbfa9d32647781697756/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lpjZ8k8g0H3cL0ftoN7i3I2vGLvO.m4a",
+      "pfad": "/v1/episode/e940c7c74626d391ffd66dbe4fd0760921fb4d14.json",
+      "titel": "146｜我用AI复刻了一家公司，也复刻了踢皮球和办公室政治",
+      "veroeffentlicht": "2026-09-15T08:07:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨聊天式AI与AI Agent的区别及一人公司实践"
+    },
+    {
+      "guid": "6a9d3af9f03e74ee6b05e1ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a9d3af9f03e74ee6b05e1ca/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lrZzcdDtJVwrpOVCtDRJeD9R_9Jy.m4a",
+      "pfad": "/v1/episode/601b24cd4564ef6e5d38f1e899f1fe9a18604b60.json",
+      "titel": "145｜别急着重启人生，先看看是谁一直在打断你",
+      "veroeffentlicht": "2026-09-08T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过改变身份认同与人生系统来应对生活中的各种干扰与卡点"
+    },
+    {
+      "guid": "6a95914ef03e74ee6b02d0e6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a95914ef03e74ee6b02d0e6/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lt_1x2i4myHaGLFEkKiszlpJ51mp.m4a",
+      "pfad": "/v1/episode/832d771a4a8b8c32510884174edba034493b4e46.json",
+      "titel": "144｜今年难，明年更难？先看你到底哪本账出问题了",
+      "veroeffentlicht": "2026-09-01T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨今年与明年的宏观环境与个体压力，分析如何拆解和应对职业与财务困境。"
+    },
+    {
+      "guid": "6a8c0459ef65145dfcc4811d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a8c0459ef65145dfcc4811d/media.xyzcdn.net/66220ffd0d949fbf1c01c386/ljwIrA2bu_OH3paXn6JMoJaOFvlA.m4a",
+      "pfad": "/v1/episode/dce878746500b551b7dcd8d705c5bd759c16de75.json",
+      "titel": "143｜大厂光环没有消失，只是转移到了更少数的人手里",
+      "veroeffentlicht": "2026-08-25T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI时代下大厂光环的变化与职场人的个人交付能力"
+    },
     {
       "guid": "6a83272b8156bf336219d0e1",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a83272b8156bf336219d0e1/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lnjZ74x-6vZr2nvFvyAP9LscCdlQ.m4a",
@@ -13,6 +63,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨AI创作中的羞耻感，分析技术辅助与保持活人感之间的平衡与边界。"
+    },
+    {
+      "guid": "6a7a7ed036641f136d864344",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a7a7ed036641f136d864344/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lntf7pAb3dXvY81WRIVmkWlfJ31M.m4a",
+      "pfad": "/v1/episode/ad9bd82dd8e06aa4d44e23b2b1f6059eefd02dc1.json",
+      "titel": "141｜AI原生组织来了：是释放判断力，还是制造数字监工？",
+      "veroeffentlicht": "2026-08-11T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI原生组织：是释放判断力，还是制造数字监工？"
+    },
+    {
+      "guid": "6a6f5f1eab3a91c24a0ea2e5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a6f5f1eab3a91c24a0ea2e5/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lkGSq7utwO6HiO0zvWxynUoZ8qEp.m4a",
+      "pfad": "/v1/episode/65f052fcce4bb6eb0f3e0135a69b096eec22baeb.json",
+      "titel": "140｜自媒体选题从哪来：别找灵感，先看你正在经历什么",
+      "veroeffentlicht": "2026-08-04T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨自媒体选题的来源，分析一人公司与个人IP的内容创作实践。"
+    },
+    {
+      "guid": "6a66fdb26356eb2d9be91275",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a66fdb26356eb2d9be91275/media.xyzcdn.net/66220ffd0d949fbf1c01c386/lte6vZMiBlBsFjgdvwBEAb425Zv-.m4a",
+      "pfad": "/v1/episode/0496fd952ad5d59a2cb532ed1cea35fa138ee283.json",
+      "titel": "139｜自媒体躺平期：想要流量，又不想被流量绑架",
+      "veroeffentlicht": "2026-07-28T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "自媒体躺平期：想要流量，又不想被流量绑架"
+    },
+    {
+      "guid": "6a5ba64f6356eb2d9be4b162",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66220ffd0d949fbf1c01c386/6a5ba64f6356eb2d9be4b162/media.xyzcdn.net/66220ffd0d949fbf1c01c386/luchwl0ymT58CEDV6cl4NL46OEK3.m4a",
+      "pfad": "/v1/episode/6d24c4071320ada036cd865c104665092e1a8368.json",
+      "titel": "138｜一人公司如何把内容、客户、想法和交付串起来？",
+      "veroeffentlicht": "2026-07-21T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一人公司如何把内容、客户、想法和交付串起来"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "非常爱聊【嗨聊脱口秀 老司机的啪啪同学会】",
   "apple_collection_id": "905890634",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://audio.xmcdn.com/group23/M06/B5/8A/wKgJNFhOKyzxvFOJADu5oGGzsMw693.m4a",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "莫文蔚的腿真耀眼，歌声还动人，她是越了解越有惊喜的人"
+    },
+    {
+      "guid": "http://audio.xmcdn.com/group25/M09/AF/7E/wKgJNlhMsXbgnFwcAMM77xkJ2ME743.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJNlhMsXbgnFwcAMM77xkJ2ME743.m4a?channel=rss&album_id=270442&track_id=26694436&uid=8914100&jt=http://audio.xmcdn.com/group25/M09/AF/7E/wKgJNlhMsXbgnFwcAMM77xkJ2ME743.m4a",
+      "pfad": "/v1/episode/48bfbcab485f0d660a6b5e134db10adc0bdb03df.json",
+      "titel": "一周热闻 | 如果恐龙长满羽毛，你还期待《侏罗纪世界2》吗？",
+      "veroeffentlicht": "2016-12-12T10:38:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "近期影视、科技与社会热点新闻盘点"
+    },
+    {
+      "guid": "http://audio.xmcdn.com/group23/M03/5A/63/wKgJNFgzCSOyAzT9ALZftSPfQ3E469.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgJNFgzCSOyAzT9ALZftSPfQ3E469.m4a?channel=rss&album_id=270442&track_id=25565945&uid=8914100&jt=http://audio.xmcdn.com/group23/M03/5A/63/wKgJNFgzCSOyAzT9ALZftSPfQ3E469.m4a",
+      "pfad": "/v1/episode/7bd1832dff991e73cef70653b20d9d5439f9f506.json",
+      "titel": "vol.35榉坂46和GNZ48的政治不正确是偶像团体的通病吗？",
+      "veroeffentlicht": "2016-11-30T02:39:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨偶像团体频频发生政治不正确事件的原因"
     }
   ]
 }

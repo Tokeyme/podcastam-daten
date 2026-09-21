@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "耳朵旅行",
   "apple_collection_id": "931779298",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2015/04/26/19618493365751174_hd.mp3",
@@ -13,6 +13,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "独自前往贵州肇兴古村，在一场说走就走的旅行中享受孤独与慢灵魂。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2015/02/27/18271408876976134_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2015/02/27/18271408876976134_hd.mp3",
+      "pfad": "/v1/episode/f7454eca013ff555a7342744c128fc4112eeca2d.json",
+      "titel": "【旅行の故事】火车上的旅途",
+      "veroeffentlicht": "2015-02-27T19:21:53+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于火车旅行的回忆、沿途风景与旅途故事。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2015/02/12/17905412702664710_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2015/02/12/17905412702664710_hd.mp3",
+      "pfad": "/v1/episode/07d52f7834813dbdca48683754a053e1644479f2.json",
+      "titel": "【2² Talk show vol.3】那些陌生却无与伦比的好地方",
+      "veroeffentlicht": "2015-02-12T00:39:43+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介绍阿勒泰、南迦巴瓦峰、涠洲岛等少有人知的美丽景点。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2015/01/05/17044889161138566_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2015/01/05/17044889161138566_hd.mp3",
+      "pfad": "/v1/episode/d0b1629ea5ddffb9f973aa68731521ae2ad9fb62.json",
+      "titel": "【茶马古道】佛国色达，尘世间的信仰乌托邦",
+      "veroeffentlicht": "2015-01-05T22:08:08+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访被称为信仰乌托邦的佛国色达"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2014/12/21/16687408563662982_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2014/12/21/16687408563662982_hd.mp3",
+      "pfad": "/v1/episode/63444609c212d4667ce268b1de995ef51f4f9e90.json",
+      "titel": "【城市旅行家】广州，不想和你相忘于江湖",
+      "veroeffentlicht": "2014-12-21T12:12:04+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨广州的包容力、经济实力、传统文化、气候与美食。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2014/12/12/16489418624627974_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2014/12/12/16489418624627974_hd.mp3",
+      "pfad": "/v1/episode/0959b4912d5a1b7628633dd9ea357707f210fb59.json",
+      "titel": "【茶马古道】理县，尘世中的一隅宁静",
+      "veroeffentlicht": "2014-12-12T23:19:14+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访茶马古道上的理县，感受川西北的群山秋景与宁静。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2014/12/02/16246289921474182_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2014/12/02/16246289921474182_hd.mp3",
+      "pfad": "/v1/episode/a3e9241924fd7dd5117291426819ae092ff1d48f.json",
+      "titel": "【城市旅行家】三亚，给足你全年的阳光与温暖",
+      "veroeffentlicht": "2014-12-02T16:40:39+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "三亚：中国冬季最温暖的阳光避寒胜地"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2014/11/23/16048760348558342_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2014/11/23/16048760348558342_hd.mp3",
+      "pfad": "/v1/episode/fb89a2ff66ce635682d1bfef033ff8644361a594.json",
+      "titel": "【茶马古道】香格里拉，寻找消失的地平线",
+      "veroeffentlicht": "2014-11-24T22:00:03+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探寻詹姆斯·希尔顿笔下《消失的地平线》中的香格里拉。"
     }
   ]
 }

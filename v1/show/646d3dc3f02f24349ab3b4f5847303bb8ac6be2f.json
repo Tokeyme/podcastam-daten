@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "鼓腹而游",
   "apple_collection_id": "1525513899",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a5df345a3fec224d5a0747f",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨近期热门电影《给阿妈的情书》、文学作品、 AI应用及地方文化在当代网络语境下的传播。"
+    },
+    {
+      "guid": "6981a4ed24ab88cd9308e29f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/6981a4ed24ab88cd9308e29f/media.xyzcdn.net/5f2162169504bbdb772facc3/loxYYzPsL58mE9AI0n0pFDHGX2cD.m4a",
+      "pfad": "/v1/episode/60336fd0559760b6511b9876e44d9a246c48230a.json",
+      "titel": "050｜余华偷偷一笑",
+      "veroeffentlicht": "2026-02-03T07:34:05+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论余华作品《卢克明的偷偷一笑》及相关文学与社会现象"
+    },
+    {
+      "guid": "692063586018cc2c98f67f34",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/692063586018cc2c98f67f34/media.xyzcdn.net/5f2162169504bbdb772facc3/lvwdRt5InuvW-eFJcLPG3bOkJ_OI.m4a",
+      "pfad": "/v1/episode/ffd687cea8baa1954f0e062291cbfde9995ab61e.json",
+      "titel": "049｜ “话疗”治愈灵魂？",
+      "veroeffentlicht": "2025-11-21T13:10:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨“话疗”是否能治愈灵魂。"
+    },
+    {
+      "guid": "https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep048-250822.mp3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/68a831a765df464e993c0fd0/media.xyzcdn.net/5f2162169504bbdb772facc3/lhRL3lKh5k6fbKP3T5EzB87PNX1n.m4a",
+      "pfad": "/v1/episode/3e237db74c5e025169d18c8edd4f10e30f6dcdcd.json",
+      "titel": "048｜小说打假事件",
+      "veroeffentlicht": "2025-08-22T08:51:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨近期发生的小说打假事件及相关背景话题。"
+    },
+    {
+      "guid": "https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep047-250630.mp3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/6862651c4741ae7a5abde455/media.xyzcdn.net/5f2162169504bbdb772facc3/lmu-_o2d2tIXnz2kNI2nKrkj6BE5.m4a",
+      "pfad": "/v1/episode/69095134ecb630b3faed580b53c7ea1cdec9b4f7.json",
+      "titel": "047｜怀旧的生意",
+      "veroeffentlicht": "2025-06-30T10:14:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨怀旧主题及相关商业现象。"
+    },
+    {
+      "guid": "https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep046-250512.mp3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/68218187d231129fe3a4175e/media.xyzcdn.net/5f2162169504bbdb772facc3/ltKaHvsJ2rRK_W-F8eKlqsxa8M4r.m4a",
+      "pfad": "/v1/episode/baab82a2d09299b21b51cf936609e536acbfd466.json",
+      "titel": "046｜浪姐、神曲与土摇",
+      "veroeffentlicht": "2025-05-12T04:58:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨浪姐、神曲与土摇等音乐文化现象"
+    },
+    {
+      "guid": "https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep45-250401.mp3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/67eb74fcf08af5c1d6ed67fc/media.xyzcdn.net/5f2162169504bbdb772facc3/lkvoIS0q8UsYK3fGjIYmcoX_iqba.m4a",
+      "pfad": "/v1/episode/17341db379d159684505a6cbfe8cac2642ccca2e.json",
+      "titel": "045｜激情的陷阱",
+      "veroeffentlicht": "2025-04-01T05:04:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨埃琳·A.契克的著作《激情的陷阱》及相关文化现象。"
+    },
+    {
+      "guid": "https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep44-250126.mp3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/6795ead47a72f90b102f240a/media.xyzcdn.net/5f2162169504bbdb772facc3/lrQ1kewj7TtEikdMTAXB6-PnCkZs.m4a",
+      "pfad": "/v1/episode/9cd4925ed84076780bdb90b8343a8204de9bd400.json",
+      "titel": "044｜过去一年，游历四方与重建内心",
+      "veroeffentlicht": "2025-01-26T07:47:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾过去一年的游历四方与内心重建"
+    },
+    {
+      "guid": "https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep43-20241206.mp3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/675292b9d0d4d6a4110e5c9a/media.xyzcdn.net/5f2162169504bbdb772facc3/liUNfnlqhnDI5XYtD2f-2wwXOPWS.m4a",
+      "pfad": "/v1/episode/5a9a27031bd17ffc8adb478222c17750e1ca6c68.json",
+      "titel": "043 | 拥抱生活中的不确定性",
+      "veroeffentlicht": "2024-12-06T05:49:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨生活中的不确定性及相关书籍"
+    },
+    {
+      "guid": "https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/gufueryou/gufueryou-ep042-20241107.mp3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f2162169504bbdb772facc3/672c54a804698ef58bb9a1a5/media.xyzcdn.net/5f2162169504bbdb772facc3/ll8f5_54nZiddTNbRCpa4HV0aHDZ.m4a",
+      "pfad": "/v1/episode/b2aba7c9958d94bf39c74302463cb2471a2ff312.json",
+      "titel": "042｜如何预测一场诺贝尔文学奖",
+      "veroeffentlicht": "2024-11-07T05:46:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨诺贝尔文学奖的预测方式与相关文学作品"
     }
   ]
 }

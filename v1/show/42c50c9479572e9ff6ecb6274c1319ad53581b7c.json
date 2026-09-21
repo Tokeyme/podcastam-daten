@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "走遍中国|携程听见旅行带你玩",
   "apple_collection_id": "1489441852",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/5dd7-audiofreehighqps/0F/E5/CKwRIasFKtt6ACIgzQDoCqNV.m4a",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "介绍恩施特色美食，包括炸广椒、和渣、炕土豆和腊肉等风味。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/27d2-audiofreehighqps/C5/65/CKwRIaIFKtsdACZwNwDoCo7S.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIaIFKtsdACZwNwDoCo7S.m4a?channel=rss&album_id=11284349&track_id=458124910&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/27d2-audiofreehighqps/C5/65/CKwRIaIFKtsdACZwNwDoCo7S.m4a",
+      "pfad": "/v1/episode/18957502e49394089b4c0c79e0674db1f37a1074.json",
+      "titel": "走遍中国|恩施人民的“母亲河”",
+      "veroeffentlicht": "2021-10-06T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "恩施旅游攻略：清江、一炷香与黄龙瀑布"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a827-audiofreehighqps/2A/31/CKwRIJIFKtq7ADpFSgDoCno_.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJIFKtq7ADpFSgDoCno_.m4a?channel=rss&album_id=11284349&track_id=458124609&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/a827-audiofreehighqps/2A/31/CKwRIJIFKtq7ADpFSgDoCno_.m4a",
+      "pfad": "/v1/episode/a89291aacb01f5eac9b919f7852e2eb57caece60.json",
+      "titel": "走遍中国|恩施那些小众景点",
+      "veroeffentlicht": "2021-10-05T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "恩施小众旅游景点攻略"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/41d8-audiofreehighqps/82/60/CKwRIJEFKto1ADJaKQDoClwl.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEFKto1ADJaKQDoClwl.m4a?channel=rss&album_id=11284349&track_id=458124201&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/41d8-audiofreehighqps/82/60/CKwRIJEFKto1ADJaKQDoClwl.m4a",
+      "pfad": "/v1/episode/e3f8dc3fc6342b7558c51a13924e4639459bd033.json",
+      "titel": "走遍中国|恩施原来还有这样一个原始森林？",
+      "veroeffentlicht": "2021-10-04T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "恩施野三峡与坪坝营等地的自然与人文景观"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a885-audiofreehighqps/AF/58/CKwRIMAFKtnRACXuFwDoCkHY.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIMAFKtnRACXuFwDoCkHY.m4a?channel=rss&album_id=11284349&track_id=458123860&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/a885-audiofreehighqps/AF/58/CKwRIMAFKtnRACXuFwDoCkHY.m4a",
+      "pfad": "/v1/episode/19db1a10a40e632fcec423d2f46b4c20c9b05dd2.json",
+      "titel": "走遍中国|土家女儿城还有这些新奇文化？",
+      "veroeffentlicht": "2021-10-03T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "恩施土家女儿城的文化与旅游攻略"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/aa90-audiofreehighqps/C1/2E/CKwRIasFKtlMAFDohADoCh87.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIasFKtlMAFDohADoCh87.m4a?channel=rss&album_id=11284349&track_id=458123383&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/aa90-audiofreehighqps/C1/2E/CKwRIasFKtlMAFDohADoCh87.m4a",
+      "pfad": "/v1/episode/8c30db0fbbbd9206c687753c8c63a5ba5b578781.json",
+      "titel": "走遍中国|恩施“土司城”为什么会成为这里的标志性工程？",
+      "veroeffentlicht": "2021-10-02T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "恩施土司城、腾龙洞与梭布垭石林旅游攻略"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cbbd-audiofreehighqps/8D/3A/CKwRIasFKtjYADa1vwDoCgLC.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIasFKtjYADa1vwDoCgLC.m4a?channel=rss&album_id=11284349&track_id=458123028&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/cbbd-audiofreehighqps/8D/3A/CKwRIasFKtjYADa1vwDoCgLC.m4a",
+      "pfad": "/v1/episode/9a6d18f62be11ae14a7eb28656460ac7d2270559.json",
+      "titel": "走遍中国|湖北恩施，这里的山水风光不可错过！",
+      "veroeffentlicht": "2021-10-01T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "旅游达人Harry分享湖北恩施旅游攻略与自然风光"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c6f1-audiofreehighqps/E8/3D/CKwRIMAFFHxjABAAAADiiIvE.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIMAFFHxjABAAAADiiIvE.mp3.m4a?channel=rss&album_id=11284349&track_id=453011460&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/c6f1-audiofreehighqps/E8/3D/CKwRIMAFFHxjABAAAADiiIvE.mp3",
+      "pfad": "/v1/episode/0284054fc2d3cd88005a5af94986dd603e4628c3.json",
+      "titel": "走遍中国|太极鱼丸，竹叶菜，“步步高”…武当山的这些特色菜你吃过吗？",
+      "veroeffentlicht": "2021-09-19T12:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "介绍武当山的旅游景点与太极鱼丸等特色美食"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9d95-audiofreehighqps/D7/F3/CKwRIDoFFHv6ABAAAADiiHG_.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIDoFFHv6ABAAAADiiHG_.mp3.m4a?channel=rss&album_id=11284349&track_id=453011076&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/9d95-audiofreehighqps/D7/F3/CKwRIDoFFHv6ABAAAADiiHG_.mp3",
+      "pfad": "/v1/episode/2962487561249518932b9138b12badb56f5ebe50.json",
+      "titel": "走遍中国|武当山那些“悬崖峭壁”的传说",
+      "veroeffentlicht": "2021-09-18T13:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "武当山悬崖峭壁的传说与建筑"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0424-audiofreehighqps/5C/BE/CKwRIJEFFHuaADWuGwDiiFxh.m4a",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEFFHuaADWuGwDiiFxh.m4a?channel=rss&album_id=11284349&track_id=453010620&uid=95517048&jt=https://aod.cos.tx.xmcdn.com/storages/0424-audiofreehighqps/5C/BE/CKwRIJEFFHuaADWuGwDiiFxh.m4a",
+      "pfad": "/v1/episode/92aeb105d4f7c49135a464920a1e932a319de0ab.json",
+      "titel": "走遍中国|武当山的那些奇景轶事",
+      "veroeffentlicht": "2021-09-16T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "武当山的奇景轶事与名胜传说"
     }
   ]
 }

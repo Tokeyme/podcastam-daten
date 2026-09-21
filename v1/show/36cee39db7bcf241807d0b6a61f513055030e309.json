@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "读书小祖",
   "apple_collection_id": "1845296071",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6a9d24c8a0210c197dce3f70",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a9d24c8a0210c197dce3f70/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lvN80C8AQZqZ_esUku-wps2azQbL.m4a",
+      "pfad": "/v1/episode/98802a6febdae2934d55d0c08e62440e3b4fcc98.json",
+      "titel": "45. 幸与不幸，是一枚硬币的两面 | 《流俗地》（二）",
+      "veroeffentlicht": "2026-09-14T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨小说《流俗地》中银霞、拉祖与细辉的友谊与命运。"
+    },
+    {
+      "guid": "6a9d247df03e74ee6b05d6ed",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a9d247df03e74ee6b05d6ed/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lj7njwFHrPtC6ea1vp0pQuY0NIWf.m4a",
+      "pfad": "/v1/episode/c9e92abaaf68cede72488cbd5a820527879c4547.json",
+      "titel": "44. 我们拼尽全力，不过是想活成一个普通人 |《流俗地》（一）",
+      "veroeffentlicht": "2026-09-07T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "马来西亚华语作家黎紫书小说《流俗地》的阅读分享"
+    },
+    {
+      "guid": "6a83b57b8156bf336219e9d7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a83b57b8156bf336219e9d7/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lngAUqE5ccGuzwCxgPT2NY4ehaus.m4a",
+      "pfad": "/v1/episode/9b88874905bff8604207d44917045ff99e3b5566.json",
+      "titel": "43. 弱肉强食的时代，容不下清醒的善意和迟来的行动 |《法比安》（二）",
+      "veroeffentlicht": "2026-08-31T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨小说《法比安》中人物在动荡时代的命运与选择。"
+    },
+    {
+      "guid": "6a811cc117676351c5727d70",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a811cc117676351c5727d70/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/ljhJb29QDN-I3PS6jO6VlHjfiME5.m4a",
+      "pfad": "/v1/episode/e7831b33a8ca5b07b7b42a67792562ee6b08e64b.json",
+      "titel": "42. 当历史的巨轮缓缓碾过，理想主义者最先成为锯末 |《法比安》（一）",
+      "veroeffentlicht": "2026-08-24T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨埃里希·凯斯特纳的小说《法比安》及大时代背景。"
+    },
     {
       "guid": "6a700f351b5e24969ce7f612",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a700f351b5e24969ce7f612/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/ltYIB-xtGeZ9bJeHoLTybhH3X8a6.m4a",
@@ -13,6 +53,56 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨尤奈斯伯小说《坠落的王国》中爱与暴力的纠缠及人性的复杂真相。"
+    },
+    {
+      "guid": "6a700e5f1b5e24969ce7f557",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a700e5f1b5e24969ce7f557/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lkKqUlYdSYVsxLUthqG5ZefUWSEm.m4a",
+      "pfad": "/v1/episode/ddbb80d7edb4b64635c6fac47cad939690908841.json",
+      "titel": "40.家人必须保护家人，无论代价如何 | 《坠落的王国》（一）",
+      "veroeffentlicht": "2026-08-10T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨尤·奈斯博的小说《坠落的王国》及人性的复杂与幽暗。"
+    },
+    {
+      "guid": "6a657b94a3fec224d5a35fdc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a657b94a3fec224d5a35fdc/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lj6XjUUDC-L_MkxP3mD3RX3zwmVS.m4a",
+      "pfad": "/v1/episode/460a67c7292649c805c6f2e5612f610ce6a0815d.json",
+      "titel": "39. 生活的旁观者最终虚度了年华 | 《情感教育》（二）",
+      "veroeffentlicht": "2026-08-03T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读《情感教育》后半段：青春幻灭与情感教育的完成"
+    },
+    {
+      "guid": "6a657acba3fec224d5a35f53",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a657acba3fec224d5a35f53/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lnm-j6oP2araJcegyq-8rfRqTaEp.m4a",
+      "pfad": "/v1/episode/f347ec692b953fc139e56287d16adc122d9abc18.json",
+      "titel": "38.青春是一场由浪漫驱动、被现实摩擦的奥德赛 |《情感教育》（一）",
+      "veroeffentlicht": "2026-07-27T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过福楼拜的《情感教育》探讨年轻人的迷茫与社会动荡。"
+    },
+    {
+      "guid": "6a3e3a842e335a35a809c894",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a3e3a842e335a35a809c894/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lihGlkbpz90LqZekj0WhAoC2xrvt.m4a",
+      "pfad": "/v1/episode/96a6c9f688bb0ba0cb2dcf3baf8f6e1bfa3a352d.json",
+      "titel": "37.活着本身没有意义，但行动起来就是意义 |《人都是要死的》（二）",
+      "veroeffentlicht": "2026-07-06T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨波伏娃作品中存在与爱的意义"
+    },
+    {
+      "guid": "6a3e3a189d2f5743683e4136",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68ac6f889866a3bcc61bedd0/6a3e3a189d2f5743683e4136/media.xyzcdn.net/68ac6f889866a3bcc61bedd0/lm_OWhZtWNlJGTIy_CFBTs2XcqZo.m4a",
+      "pfad": "/v1/episode/06175a89a9c1ad07d03a150545b22129e40cc257.json",
+      "titel": "36.我为什么而活？存在主义说你什么都不为 |《人都是要死的》（一）",
+      "veroeffentlicht": "2026-06-29T03:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨波伏娃作品《人都是要死的》与存在主义对生命的意义。"
     }
   ]
 }

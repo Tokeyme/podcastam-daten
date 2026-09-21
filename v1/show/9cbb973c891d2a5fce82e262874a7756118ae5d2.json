@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "电影壹号文件",
   "apple_collection_id": "1775591418",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6a900d761352af56ff3cf9fd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/6a900d761352af56ff3cf9fd/media.xyzcdn.net/653c833c319fc5d9ac888c66/ltW3IDmDKjmjXBfylENloiFcUccP.m4a",
+      "pfad": "/v1/episode/c05ec374e82f5281f9798881e547781b0353cb5f.json",
+      "titel": "55. 专访《烟花两三朵》导演刘刚：她与厂房共振下的欲望投射",
+      "veroeffentlicht": "2026-08-27T10:44:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "专访短片《烟花两三朵》导演刘刚，探讨影片创作背景与幕后过程"
+    },
     {
       "guid": "6a7700e3000a55a9bb04cb10",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/6a7700e3000a55a9bb04cb10/media.xyzcdn.net/653c833c319fc5d9ac888c66/liHYqlhQBJHOoDSuc4PB33NtTCjt.m4a",
@@ -13,6 +23,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "回顾2026年FIRST青年电影展，探讨影展生态、青年创作与观影心态的转变。"
+    },
+    {
+      "guid": "6a634711a3fec224d5a2c80b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/6a634711a3fec224d5a2c80b/media.xyzcdn.net/653c833c319fc5d9ac888c66/lhhDjkXkRvHQSxXEDWflJRLKRk61.m4a",
+      "pfad": "/v1/episode/6adc4501d72df8dfab5f1500264a0d8661c13abc.json",
+      "titel": "53. 2026阿那亚戏剧节回顾：戏剧艺术如何抵达观众？",
+      "veroeffentlicht": "2026-07-24T11:15:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2026阿那亚戏剧节的体验、剧目、记忆与争议"
+    },
+    {
+      "guid": "6a46931e9d2f57436841a7e1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/6a46931e9d2f57436841a7e1/media.xyzcdn.net/653c833c319fc5d9ac888c66/lhqSocAqPyNQ-K5xhHymcJuYDp-u.m4a",
+      "pfad": "/v1/episode/833b1fe8bbbecab3c02ece16dc20300944bdc881.json",
+      "titel": "52. 2026戛纳回顾：日韩主竞赛全军覆没？从《无名女孩》看待华语创伤叙事困境",
+      "veroeffentlicht": "2026-07-02T18:10:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2026戛纳电影节，探讨华语创伤叙事困境与日韩主竞赛表现。"
+    },
+    {
+      "guid": "6a37e02675ba9e0c5336d17e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/6a37e02675ba9e0c5336d17e/media.xyzcdn.net/653c833c319fc5d9ac888c66/lsuCQtfv66NsshCG8xw208R730I2.m4a",
+      "pfad": "/v1/episode/da129b70d92c94abb97b54646962dd467268224e.json",
+      "titel": "51. 2025全年剧集盘点：国产剧真的没有好作品？",
+      "veroeffentlicht": "2026-06-21T13:04:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2025全球剧集盘点与2026年新剧期待"
+    },
+    {
+      "guid": "6a329cf743a22a695585725a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/6a329cf743a22a695585725a/media.xyzcdn.net/653c833c319fc5d9ac888c66/lqPXqkm2HEjveoWHDcgAYrNOf-Ou.m4a",
+      "pfad": "/v1/episode/bcb736055dbf95e8ee5467e5790985263fac04d7.json",
+      "titel": "50. 2026奥斯卡回顾：为什么奥斯卡仍然很重要？",
+      "veroeffentlicht": "2026-06-17T13:36:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全方位评析2026年奥斯卡颁奖结果、争议与行业地位"
+    },
+    {
+      "guid": "69c90783b977fb2c47868095",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/69c90783b977fb2c47868095/media.xyzcdn.net/653c833c319fc5d9ac888c66/lrr5Cv6PSFWXbZOyJ5ThHe-00VQH.m4a",
+      "pfad": "/v1/episode/67365441ba75e45c447126c2cc19c359fb08cd92.json",
+      "titel": "49. 2026柏林电影节回顾：陈哲艺到底怎么了？电影是否该远离政治？",
+      "veroeffentlicht": "2026-03-29T12:48:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2026柏林电影节：探讨陈哲艺作品与电影是否该远离政治"
+    },
+    {
+      "guid": "69b419a2b810e066f9c9cd8c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/69b419a2b810e066f9c9cd8c/media.xyzcdn.net/653c833c319fc5d9ac888c66/lu_e4CnkvObxrWOW8tv9fP8RcGOq.m4a",
+      "pfad": "/v1/episode/4182601f6e5bae0a9465a73a1660e116a2d1ceb3.json",
+      "titel": "48. 2025全年院线盘点：删减、AI更改、从愤怒到绝望",
+      "veroeffentlicht": "2026-03-13T14:30:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2025内地院线作品并展望2026全球电影趋势"
+    },
+    {
+      "guid": "69860ef766e2c303772e4743",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/69860ef766e2c303772e4743/media.xyzcdn.net/653c833c319fc5d9ac888c66/lrY5toO2l2uGHvD7d_fCJ8FyQeUz.m4a",
+      "pfad": "/v1/episode/5e0c055d1de50e504a7c379b1288a4083d68a7d8.json",
+      "titel": "47. 2025家庭影像展回顾：《爱国少女》下政治与女性集体创伤的回应",
+      "veroeffentlicht": "2026-02-06T22:45:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2025家庭影像展的影片与策展实践"
+    },
+    {
+      "guid": "697d9780073030367a8e0473",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/653c833c319fc5d9ac888c66/697d9780073030367a8e0473/media.xyzcdn.net/653c833c319fc5d9ac888c66/lqPHe841f8KHt-aZKBqPeVONq8M2.m4a",
+      "pfad": "/v1/episode/c5136d32f7ef17ab0b2235e301f8a8f3902175ee.json",
+      "titel": "46. 专访Outtakes策展团队与某影节策展人：实验电影概念在走向解体，实验影像精神在得以传承",
+      "veroeffentlicht": "2026-01-31T06:16:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话Outtakes团队与电影节策展人探讨实验电影策展"
     }
   ]
 }

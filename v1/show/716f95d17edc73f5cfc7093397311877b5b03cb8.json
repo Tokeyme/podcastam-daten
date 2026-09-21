@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "电影巨辩5min",
   "apple_collection_id": "1701022591",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "68381f1831215eb5065a5b1a",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨戛纳等电影节超长鼓掌传统的来龙去脉、背后的营销推手与社交压力。"
+    },
+    {
+      "guid": "676d92e215a5fd520ee0ecb8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6527861536a1383a663d3d37/676d92e215a5fd520ee0ecb8/media.xyzcdn.net/lsiAj3fzZhDjLAiM620N6S2nY9tP.m4a",
+      "pfad": "/v1/episode/c78f03ba395b9574017cc6c99d0f3a5a31dd76a8.json",
+      "titel": "57.伊斯特伍德从此谢幕？",
+      "veroeffentlicht": "2024-12-28T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨克林特·伊斯特伍德的新片及职业生涯相关话题。"
+    },
+    {
+      "guid": "6635215c4b7d3b5d3be5b00e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6527861536a1383a663d3d37/6635215c4b7d3b5d3be5b00e/media.xyzcdn.net/lnTSQweQ9_Cim64TfQl5OZotGM0o.m4a",
+      "pfad": "/v1/episode/3ab5cb1b855b122d51057a667d56f386ebd0045e.json",
+      "titel": "54.李冬梅用了七年时间，让《妈妈和七天的时间》来到观众面前",
+      "veroeffentlicht": "2024-05-03T17:39:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "导演李冬梅谈电影《妈妈和七天的时间》的创作与公映历程"
     }
   ]
 }

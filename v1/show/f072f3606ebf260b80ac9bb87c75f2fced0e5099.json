@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "零點播客",
   "apple_collection_id": "1886178757",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a71eae41b5e24969ce8e130",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "复盘2011年吉林长春百亿会馆球场冲突案，剖析校园摩擦如何演变成恶性凶杀。"
+    },
+    {
+      "guid": "6a58fe2f016dcc7e05435769",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a53ede305aeb8dbac75a60/6a58fe2f016dcc7e05435769/media.xyzcdn.net/69a53ede305aeb8dbac75a60/ln02zUxDi2cE0Wq5ZAJTsWEvcCMy.m4a",
+      "pfad": "/v1/episode/4ba1aed4b8a3196be7a7323cf1d39f37f5e649cf.json",
+      "titel": "No.19内蒙古女老板遇害案：目击者当场吓死，凶手藏于草原深处",
+      "veroeffentlicht": "2026-07-17T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾2005年内蒙古草原小镇女老板遇害及五年悬案告破经过"
+    },
+    {
+      "guid": "6a4fa2874adef2b365616c10",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a53ede305aeb8dbac75a60/6a4fa2874adef2b365616c10/media.xyzcdn.net/69a53ede305aeb8dbac75a60/lquiH_cpvZm9PdSJYZ4FVxXWuaeL.m4a",
+      "pfad": "/v1/episode/d4c252117e2b689e27baeb6ec50e90d5664673a5.json",
+      "titel": "No.18洛阳性奴案：地窖869天，受害者互相残杀",
+      "veroeffentlicht": "2026-07-10T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "洛阳性奴案复盘：地窖囚禁869天的犯罪细节与人性异化"
+    },
+    {
+      "guid": "6a43d2d59d2f574368406b0c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a53ede305aeb8dbac75a60/6a43d2d59d2f574368406b0c/media.xyzcdn.net/69a53ede305aeb8dbac75a60/lvOglq-t5iwZbYHXxXnTlYM20us8.m4a",
+      "pfad": "/v1/episode/1f58b1c5dbef254fa5b9be50a91a1815e97137d9.json",
+      "titel": "No.17人间极罪：缝嘴酷刑、热油灌喉，死后掘坟挫骨",
+      "veroeffentlicht": "2026-07-03T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "青海西宁小苏丽案全复盘：原生家庭虐童惨案与法治进程"
+    },
+    {
+      "guid": "6a2e0faa43a22a6955835484",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a53ede305aeb8dbac75a60/6a2e0faa43a22a6955835484/media.xyzcdn.net/69a53ede305aeb8dbac75a60/loxnUZ7pSV1TMcH0BJvFQz6r4oz6.m4a",
+      "pfad": "/v1/episode/4c51c5b3cff7c47d10286664206ba4ac9f7ccaf6.json",
+      "titel": "No.15香港德福花园五尸风水奇案：豪门贵妇痴风水，伪师设局谋财命",
+      "veroeffentlicht": "2026-06-20T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "复盘1998年香港德福花园五尸风水命案的犯罪全过程。"
+    },
+    {
+      "guid": "6a2035a2b30e1571aea02933",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a53ede305aeb8dbac75a60/6a2035a2b30e1571aea02933/media.xyzcdn.net/69a53ede305aeb8dbac75a60/lnOepPAVgAyUoiVCycwBOWWn50Bs.m4a",
+      "pfad": "/v1/episode/cb6f57b9e2fadfa2d19c267467439e1157de71cf.json",
+      "titel": "No.13天上人间“第一花魁”遇害案：昔日京城销金窟，繁华落尽丧黄泉",
+      "veroeffentlicht": "2026-06-05T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "天上人间花魁梁海玲遇害案复盘与未解悬疑"
+    },
+    {
+      "guid": "6a15b130ff7b9a8c0a5b9eb2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69a53ede305aeb8dbac75a60/6a15b130ff7b9a8c0a5b9eb2/media.xyzcdn.net/69a53ede305aeb8dbac75a60/lrYU1kmyg4TTHRarS9qC1cY6gEVz.m4a",
+      "pfad": "/v1/episode/17684513e0622c8397d8ce6deb851424db5bc871.json",
+      "titel": "No.12世纪贼王张子强：绑架李嘉诚之子，收割十几亿巨额",
+      "veroeffentlicht": "2026-05-29T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "香港世纪贼王张子强的犯罪生平与覆灭脉络"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "财经早咖啡",
   "apple_collection_id": "1842853107",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "694a892b0f2ae6a867bebb3a",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "A股成交额首破400万亿创新高，上期所调整白银期货交易规则"
+    },
+    {
+      "guid": "69493bce0f2ae6a8678d046a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/69493bce0f2ae6a8678d046a/media.xyzcdn.net/68d638532fbf9f0c649263e8/li5lKDGdA1qXT8L-PwoK4RdqOMkh.m4a",
+      "pfad": "/v1/episode/6755482765455a938b023e03fca8586a3e10c75d.json",
+      "titel": "黄金持续上涨！",
+      "veroeffentlicht": "2025-12-22T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "黄金白银价格创新高，中国神华巨资并购"
+    },
+    {
+      "guid": "6947f0f1e0674912ed15ad7b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/6947f0f1e0674912ed15ad7b/media.xyzcdn.net/68d638532fbf9f0c649263e8/FmIsKF7oGh5TgaJnoZrE1BBMa-r7.m4a",
+      "pfad": "/v1/episode/063cd904eaa75fee50367b79204be5b453d5ed61.json",
+      "titel": "三大硬核热点齐发！光芯片、L3自动驾驶、大模型谁先兑现价值？",
+      "veroeffentlicht": "2025-12-21T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "光芯片、L3自动驾驶与大模型三大热点的产业发展与机遇"
+    },
+    {
+      "guid": "6943fa0fe5ac0b31c9b92d6c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/6943fa0fe5ac0b31c9b92d6c/media.xyzcdn.net/68d638532fbf9f0c649263e8/lk7u5fytcWCNSflbwMQxE-3k6Acm.m4a",
+      "pfad": "/v1/episode/5fcb7c38ca05442aa3114fcb6fc6ebd874889806.json",
+      "titel": "中金组建金融航母！引发市场热议",
+      "veroeffentlicht": "2025-12-18T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中金公司拟吸收合并东兴证券与信达证券，日本央行面临加息预期。"
+    },
+    {
+      "guid": "6942a69f5fca03e8884daf2b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/6942a69f5fca03e8884daf2b/media.xyzcdn.net/68d638532fbf9f0c649263e8/lkb40gPIPeAwkblG7ALmYQn0FlZv.m4a",
+      "pfad": "/v1/episode/eb38a938420f4266ec6bf0b032bc4f2d44f42d1b.json",
+      "titel": "人民币升值！海南再传好消息！",
+      "veroeffentlicht": "2025-12-17T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "人民币汇率创十四个月新高，海南封关与国产GPU产业动态"
+    },
+    {
+      "guid": "694156b54c65abaff34e9144",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/694156b54c65abaff34e9144/media.xyzcdn.net/68d638532fbf9f0c649263e8/ll1QPD7EZRpKK4IGnHaAt625CppV.m4a",
+      "pfad": "/v1/episode/1ef04dca4f290d3a33e4c0ab161724ea41008dae.json",
+      "titel": "A股分红创新高！",
+      "veroeffentlicht": "2025-12-16T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A股分红创新高，L3自动驾驶获准入，有色金属迎结构性行情。"
+    },
+    {
+      "guid": "694006fa37f52a644e160838",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/694006fa37f52a644e160838/media.xyzcdn.net/68d638532fbf9f0c649263e8/ljcn-YuMT-JW0fRyEyNzoTWxB_Fv.m4a",
+      "pfad": "/v1/episode/9b856c716715da3907b43eaed9d2548cb99e0f03.json",
+      "titel": "消费利好+茅台限量！消费股春天来了吗？",
+      "veroeffentlicht": "2025-12-15T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "商务部等三部门出台11条举措提振消费，贵州茅台通过控量政策调整价格。"
+    },
+    {
+      "guid": "693ec13e37f52a644ee442fe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/693ec13e37f52a644ee442fe/media.xyzcdn.net/68d638532fbf9f0c649263e8/lsHAwUjQ1azzOOVSzKE7PY7_VrZQ.m4a",
+      "pfad": "/v1/episode/19677d6a033a42ef795ea127433a51b63ef829ec.json",
+      "titel": "SpaceX冲史上最大IPO！宇树解锁机器人新玩法，茅台批价V型反弹谁在推？",
+      "veroeffentlicht": "2025-12-14T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨SpaceX上市、宇树机器人新玩法与茅台批价反弹"
+    },
+    {
+      "guid": "693ac0b037f52a644e6ae117",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/693ac0b037f52a644e6ae117/media.xyzcdn.net/68d638532fbf9f0c649263e8/lptmm79DaHZ6Eq3sO-3mwbSmJf3u.m4a",
+      "pfad": "/v1/episode/69381c53969983dceebe063403c038700f43a296.json",
+      "titel": "三赛道齐掀涨停潮！千亿资本+政策催化，机会如何把握？",
+      "veroeffentlicht": "2025-12-11T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "摩尔线程、可控核聚变与创新药三大热门赛道投资机会分析。"
+    },
+    {
+      "guid": "69396b1237f52a644e37900a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68d638532fbf9f0c649263e8/69396b1237f52a644e37900a/media.xyzcdn.net/68d638532fbf9f0c649263e8/ltEBoLtk5qJtI2HiycgQ7qBVNP92.m4a",
+      "pfad": "/v1/episode/517681b187560b8b94147748986c45f6de365376.json",
+      "titel": "美联储降息有变数？白银爆涨引关注！",
+      "veroeffentlicht": "2025-12-10T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美联储降息预期与贵金属异动，A股摩尔线程上市及机构预测"
     }
   ]
 }

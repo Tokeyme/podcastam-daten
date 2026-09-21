@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "电影沙龙：电影播客精选",
   "apple_collection_id": "909550723",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_623228667",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨超级马力欧兄弟大电影的视听还原、游戏彩蛋及IMAX观影体验。"
+    },
+    {
+      "guid": "xmly_track_624761291",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIIB2bXAVO1VgIMkCNR.m4a?channel=rss&album_id=273057&track_id=624761291&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/dda7-audiofreehighqps/F9/ED/GKwRIJIIB2bXAVO1VgIMkCNR.m4a",
+      "pfad": "/v1/episode/e64e9aeef2007edb7c2d6a32717ebdf2441ba7a8.json",
+      "titel": "NO.263《宇宙探索编辑部》-你能让理想照进现实吗",
+      "veroeffentlicht": "2023-04-13T09:39:19+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《宇宙探索编辑部》中理想与现实的差距以及核心情节解析。"
+    },
+    {
+      "guid": "xmly_track_622598855",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwH_HW4A-YbOAIJL6b0.m4a?channel=rss&album_id=273057&track_id=622598855&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/8a5a-audiofreehighqps/36/7C/GKwRIRwH_HW4A-YbOAIJL6b0.m4a",
+      "pfad": "/v1/episode/6dc5b53d904fca1d1f9e7b8badf0d82640f5573c.json",
+      "titel": "《泰坦尼克号》为何流行？为何值得纪念？",
+      "veroeffentlicht": "2023-04-13T03:27:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《泰坦尼克号》流行原因及影片带来的时代回忆。"
+    },
+    {
+      "guid": "xmly_track_619895563",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEH70LkAi1VwAIFLNNE.m4a?channel=rss&album_id=273057&track_id=619895563&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/5cee-audiofreehighqps/3D/3E/GKwRIUEH70LkAi1VwAIFLNNE.m4a",
+      "pfad": "/v1/episode/0fd9b00c47f995fe40d2de1c55ae1d772cca05ca.json",
+      "titel": "Vol.118- 《六号车厢》：孤独旅程中的一次美丽邂逅",
+      "veroeffentlicht": "2023-03-24T04:52:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊聊小众文艺片《六号车厢》与孤独旅程中的陪伴。"
+    },
+    {
+      "guid": "xmly_track_617909790",
+      "audio_url": "https://jt.ximalaya.com//GKwRINsH5Qj4AndUjgICHX9n.m4a?channel=rss&album_id=273057&track_id=617909790&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/f5ff-audiofreehighqps/74/29/GKwRINsH5Qj4AndUjgICHX9n.m4a",
+      "pfad": "/v1/episode/4c21e3cb303e2852642f3144df03109a43522468.json",
+      "titel": "Vol.117- 《网络谜踪2》：一个桌面电影到底能玩出多少花儿！",
+      "veroeffentlicht": "2023-03-24T04:52:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨桌面电影《网络谜踪2》的叙事特点与影片反转。"
+    },
+    {
+      "guid": "xmly_track_616280854",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4H3LhWAwEoGwH_wn88.m4a?channel=rss&album_id=273057&track_id=616280854&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/2a03-audiofreehighqps/BB/9E/GKwRIW4H3LhWAwEoGwH_wn88.m4a",
+      "pfad": "/v1/episode/4a04d1872f7d19aee7ed59144b62fa3395b25a3c.json",
+      "titel": "Vol.116- 一些杂谈&《太阳浩劫》：这个导演上了天",
+      "veroeffentlicht": "2023-03-24T04:52:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于近期电影分享、科幻电影框架与相关作品探讨的杂谈节目。"
+    },
+    {
+      "guid": "xmly_track_534437660",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasGXGc1A0tIswFX8ige-aacv2-48K.m4a?channel=rss&album_id=273057&track_id=534437660&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/dedc-audiofreehighqps/BD/91/GKwRIasGXGc1A0tIswFX8ige-aacv2-48K.m4a",
+      "pfad": "/v1/episode/923cb080f51bc323faa1cbadb8bbcd2abbe9452c.json",
+      "titel": "影评《瞬息全宇宙》：至少目前，年度最佳！",
+      "veroeffentlicht": "2023-03-24T04:52:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《瞬息全宇宙》的幕后主创与影片口碑"
+    },
+    {
+      "guid": "xmly_track_619717964",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoH7lhZBYgjyQIE4n3m-aacv2-48K.m4a?channel=rss&album_id=273057&track_id=619717964&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/75dc-audiofreehighqps/22/48/GKwRIDoH7lhZBYgjyQIE4n3m-aacv2-48K.m4a",
+      "pfad": "/v1/episode/1da45132d425428db068a4bc77d6163c41520b86.json",
+      "titel": "剧评《最后生还者》：3小时爆肝深度解析，游戏改剧怎么做才成功",
+      "veroeffentlicht": "2023-03-24T04:51:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深度解析美剧与游戏版《最后生还者》的设定与差异"
+    },
+    {
+      "guid": "xmly_track_619448536",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4H7QJwAhTqogIEdd87-aacv2-48K.m4a?channel=rss&album_id=273057&track_id=619448536&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/404f-audiofreehighqps/0B/72/GKwRIW4H7QJwAhTqogIEdd87-aacv2-48K.m4a",
+      "pfad": "/v1/episode/18084466986ad18b68b302e7bcfe8df35becf660.json",
+      "titel": "影评《沙赞：众神之怒》：只要不抱期待，都好商量",
+      "veroeffentlicht": "2023-03-24T04:51:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《沙赞：众神之怒》的世界观、票房表现与彩蛋解析"
+    },
+    {
+      "guid": "xmly_track_618849119",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4H6bQbAeYR7AIDf78t-aacv2-48K.m4a?channel=rss&album_id=273057&track_id=618849119&uid=8914100&jt=https://aod.cos.tx.xmcdn.com/storages/1b41-audiofreehighqps/F2/61/GKwRIW4H6bQbAeYR7AIDf78t-aacv2-48K.m4a",
+      "pfad": "/v1/episode/a94d00b7ba29235f2f94fc3435bfb8bda873947d.json",
+      "titel": "影评《梅根》：垃圾程序员比AI可怕多了",
+      "veroeffentlicht": "2023-03-24T04:51:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨恐怖片《梅根》背后的科技思考与逻辑漏洞"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技朋克Roy｜听电子发烧友聊干货",
   "apple_collection_id": "1795225344",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_992130037",
@@ -13,6 +13,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "芯片人与AI专家探讨AI系统的终局、Agent OS的架构设计及日常应用。"
+    },
+    {
+      "guid": "xmly_track_956614831",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwNY2nNAHd7uwRqQTay.m4a?channel=rss&album_id=18706683&track_id=956614831&uid=36874701&jt=https://aod.cos.tx.xmcdn.com/storages/4bc1-audiofreehighqps/3B/59/GKwRIRwNY2nNAHd7uwRqQTay.m4a",
+      "pfad": "/v1/episode/bd43dd7f5b409b9c10625416337c52dfa519a447.json",
+      "titel": "6. 一位芯片大佬40年经验的分享",
+      "veroeffentlicht": "2026-02-12T10:08:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "一位芯片行业资深专家的40年从业经验与行业视角分享"
+    },
+    {
+      "guid": "xmly_track_807754531",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUELjzS2APUuEwNrqALP.m4a?channel=rss&album_id=18706683&track_id=807754531&uid=36874701&jt=https://aod.cos.tx.xmcdn.com/storages/fec5-audiofreehighqps/AB/AB/GKwRIUELjzS2APUuEwNrqALP.m4a",
+      "pfad": "/v1/episode/bd1653562cdf48420b63a27a60d16a1380b3a4ea.json",
+      "titel": "5. Roy和汽车人聊芯片（下）",
+      "veroeffentlicht": "2025-02-22T06:40:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨车载操作系统、汽车功能安全与大数据在自动驾驶中的应用。"
+    },
+    {
+      "guid": "xmly_track_805711788",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwLhjroAL9CYgNnX3TV.m4a?channel=rss&album_id=18706683&track_id=805711788&uid=36874701&jt=https://aod.cos.tx.xmcdn.com/storages/2ff1-audiofreehighqps/3E/C8/GKwRIRwLhjroAL9CYgNnX3TV.m4a",
+      "pfad": "/v1/episode/500ecab50c5195bcd2f4b7894da3028b5e1b30b6.json",
+      "titel": "4. Roy与资深汽车人聊芯片（上）",
+      "veroeffentlicht": "2025-02-15T11:17:11+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Roy与资深汽车人探讨汽车芯片与智能驾驶的技术发展。"
+    },
+    {
+      "guid": "xmly_track_803666353",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJILfUBPACAAAANjDGdO.mp3.m4a?channel=rss&album_id=18706683&track_id=803666353&uid=36874701&jt=https://aod.cos.tx.xmcdn.com/storages/1826-audiofreehighqps/06/6C/GKwRIJILfUBPACAAAANjDGdO.mp3",
+      "pfad": "/v1/episode/ea03387d76c11c52ac424a6ffe59b3a0b0e3da84.json",
+      "titel": "3. 汽车人怎么看智能手表",
+      "veroeffentlicht": "2025-02-08T16:18:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨智能手表与汽车的跨界联动关系。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3baf-audiofreehighqps/84/D2/CMCoOSIDB1mxAFsyyQBJlHlv.mp3",
+      "audio_url": "https://jt.ximalaya.com//CMCoOSIDB1mxAFsyyQBJlHlv.mp3.m4a?channel=rss&album_id=18706683&track_id=325859120&uid=36874701&jt=https://aod.cos.tx.xmcdn.com/storages/3baf-audiofreehighqps/84/D2/CMCoOSIDB1mxAFsyyQBJlHlv.mp3",
+      "pfad": "/v1/episode/6497d930d74ffc6abaa1023122b0b08eb141ae10.json",
+      "titel": "1. 华强北最强山寨Airpods Pro，到底香不香？",
+      "veroeffentlicht": "2020-08-10T18:49:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "华强北高仿Airpods Pro体验与山寨无线耳机行业观察"
     }
   ]
 }

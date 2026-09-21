@@ -2,8 +2,58 @@
   "schema_version": 1,
   "show": "菠萝健康派",
   "apple_collection_id": "1778349074",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aae67af0916f6f8b445c5a0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6aae67af0916f6f8b445c5a0/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lqghhzDzkUHvfElzhUbliMAbSOPb.m4a",
+      "pfad": "/v1/episode/9a9252886dff1b0a1a199c56395162c5665ac466.json",
+      "titel": "卷毛：做殡葬4年，进这一行是我做过最正确的选择vol.126",
+      "veroeffentlicht": "2026-09-20T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话98年殡葬生命记录师卷毛，探讨生死与告别。"
+    },
+    {
+      "guid": "6aa61f509d32647781683b13",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6aa61f509d32647781683b13/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lq2f6pYEGAIgaMCtYwDFPLVkpTrN.m4a",
+      "pfad": "/v1/episode/c24c9005bc5a7d141e45739871395a0189643798.json",
+      "titel": "房方皓：流感季来了！这一针疫苗，年年都不能省！vol.125",
+      "veroeffentlicht": "2026-09-13T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨流感与普通感冒的区别、疫苗接种及日常防护方法。"
+    },
+    {
+      "guid": "6a9d5246a0210c197dce5329",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a9d5246a0210c197dce5329/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lv3-f8F_i5oVETVyWatfTj5GmZbH.m4a",
+      "pfad": "/v1/episode/b44e78169bd77f9f5d6ac157f529556abc508a0c.json",
+      "titel": "赵晓刚教授：肺结节先别急着切！这几个判断很重要vol.124",
+      "veroeffentlicht": "2026-09-06T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "复查还是手术？聊聊让人焦虑的肺结节"
+    },
+    {
+      "guid": "6a9394aff03e74ee6b01ea9d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a9394aff03e74ee6b01ea9d/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lt7eELDC1CN7D5rS8QGExEfOzE4U.m4a",
+      "pfad": "/v1/episode/6a5eb38edf26d84ae9dfbd8a5e3fcc22128882f5.json",
+      "titel": "虞先濬教授：关于胰腺癌，好多真相我不吐不快！vol.123",
+      "veroeffentlicht": "2026-08-30T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "复旦大学附属肿瘤医院院长虞先濬谈胰腺癌的诊断与治疗现状"
+    },
+    {
+      "guid": "6a89579c1352af56ff3a329c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a89579c1352af56ff3a329c/media.xyzcdn.net/6693ae814ce7c8de0f47e220/ljoNMK4_1CVr63iaKgvBAt8xFUbx.m4a",
+      "pfad": "/v1/episode/0f130cd2541a522b47408ba6f24705d7dff0e045.json",
+      "titel": "刘方奇教授：肠癌越来越年轻，确诊后先别急着手术！vol.122",
+      "veroeffentlicht": "2026-08-23T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "复旦大学附属肿瘤医院刘方奇教授谈肠癌年轻化与治疗"
+    },
     {
       "guid": "6a818ff436641f136d890176",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a818ff436641f136d890176/media.xyzcdn.net/6693ae814ce7c8de0f47e220/ljGW2KvKeCBks91wmUmkRpz7rrGP.m4a",
@@ -13,6 +63,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨如何通过基因治疗和脑机接口等技术精准干预神经细胞电活动以治疗脑疾病。"
+    },
+    {
+      "guid": "6a7c9f5b36641f136d875548",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a7c9f5b36641f136d875548/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lsui7F8CtHUhnOyurcwmV7Fr9Lx1.m4a",
+      "pfad": "/v1/episode/c16abae0b297a08437568aee2c091b1ec2ae7a70.json",
+      "titel": "赵立平教授：糖尿病可能还有“逆转”机会！vol.120",
+      "veroeffentlicht": "2026-08-12T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨肠道菌群与糖尿病的关系及逆转可能性"
+    },
+    {
+      "guid": "6a785b11c4079d62c57fa8e9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a785b11c4079d62c57fa8e9/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lraDRBqaehtWU1EkfQpFAWTvbPX7.m4a",
+      "pfad": "/v1/episode/4c6d598531047e0e03ae562cd1651083c1438fed.json",
+      "titel": "王伟教授：壁虎断尾重生，人类有机会重获再生能力吗？vol.119",
+      "veroeffentlicht": "2026-08-09T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨动物器官再生能力与人类长生不老的科学奥秘"
+    },
+    {
+      "guid": "6a6eec1a1b5e24969ce78d6c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a6eec1a1b5e24969ce78d6c/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lvnFh3tddeqYlzSpiBDZTftR1vVJ.m4a",
+      "pfad": "/v1/episode/29120c1d3c9f4c44114437e205f3586f8bd6e182.json",
+      "titel": "李昂教授：打减肥针就能躺瘦吗？GLP-1到底改变了什么？vol.118",
+      "veroeffentlicht": "2026-08-02T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨GLP-1减肥针的作用机制、停药反弹及体重管理方法。"
+    },
+    {
+      "guid": "6a65b5836356eb2d9be886a2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6693ae814ce7c8de0f47e220/6a65b5836356eb2d9be886a2/media.xyzcdn.net/6693ae814ce7c8de0f47e220/lljrz-d4usB7KOuspjvmgjWzn8kk.m4a",
+      "pfad": "/v1/episode/883e8aac81d9edaa6995b6898f8ae4ef9f0c696b.json",
+      "titel": "李宗海博士：全球首个实体瘤CAR-T来了！一针下去，癌细胞会消失吗？vol.117",
+      "veroeffentlicht": "2026-07-26T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨CAR-T疗法在实体瘤治疗中的突破与挑战"
     }
   ]
 }

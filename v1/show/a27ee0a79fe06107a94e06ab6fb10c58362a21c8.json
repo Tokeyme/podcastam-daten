@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "黑历史HEYSTORY",
   "apple_collection_id": "1707497004",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "693f91e52a383da167280829",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨脱口秀演出拖欠尾款现象及演出行业的信任危机"
+    },
+    {
+      "guid": "68ff8786083a71a4eb835f31",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64b57ac3880b9525a879c197/68ff8786083a71a4eb835f31/media.xyzcdn.net/64b57ac3880b9525a879c197/lgvz8zv4VBgN72WErMtRpI49q5WB.m4a",
+      "pfad": "/v1/episode/1c719c98cf0632d36e719b6a052c7288ecd0ba2e.json",
+      "titel": "41. 石老板的喜剧生涯至暗时刻",
+      "veroeffentlicht": "2025-10-27T15:57:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "石老板回顾喜剧生涯的至暗时刻"
+    },
+    {
+      "guid": "68f3755f2265473020185de7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64b57ac3880b9525a879c197/68f3755f2265473020185de7/media.xyzcdn.net/64b57ac3880b9525a879c197/lsLwZczqZxlYRPwxDKr65bpMykHl.m4a",
+      "pfad": "/v1/episode/c1af271afdceeaf1022729d1f1f3fdf6d517c8a4.json",
+      "titel": "40. 一天班都没上过的北漂，在考研卷子上写过段子",
+      "veroeffentlicht": "2025-10-18T11:15:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "脱口秀演员陈述做客节目聊日常生活与近况"
     }
   ]
 }

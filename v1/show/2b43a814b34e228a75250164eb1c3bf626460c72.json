@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "职场生存指南",
   "apple_collection_id": "1710879539",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "664c81a782b428eafd1328de",
@@ -13,6 +13,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "深入解析职场PUA的运作套路、常见技巧及应对方法"
+    },
+    {
+      "guid": "65a8a69eb5e4856c70b4e9de",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/651e5a3d19dde7bf6a00d4ef/65a8a69eb5e4856c70b4e9de/media.xyzcdn.net/lt1RP24h4lWhT_TkUWGgtKA3AKYZ.m4a",
+      "pfad": "/v1/episode/82dd9869b1602c9337a66d598da8c026c1c9d272.json",
+      "titel": "vol.3 如何应对职场上的情绪",
+      "veroeffentlicht": "2024-01-18T04:18:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨职场中常见情绪的问题、功能及应对原则。"
+    },
+    {
+      "guid": "65201e14ba2ed85c6dd0d54a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/651e5a3d19dde7bf6a00d4ef/65201e14ba2ed85c6dd0d54a/media.xyzcdn.net/lso2_hcKJbzdIG96O5lBqKZ5ozK5.m4a",
+      "pfad": "/v1/episode/0545b992b1d52a41ff3dab7e98151756c067117c.json",
+      "titel": "vol.1 心理学如何助力职场发展",
+      "veroeffentlicht": "2023-10-06T14:47:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨心理学如何助力职场发展及解决常见工作困惑"
     }
   ]
 }

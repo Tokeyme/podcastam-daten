@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "美食雷达",
   "apple_collection_id": "1756679136",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aa27bbc492687f6aad7dee6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/6aa27bbc492687f6aad7dee6/media.xyzcdn.net/658c39b7bf3589e894555307/lh3QCMGQI97vlLI0f8q38mMvefCX.m4a",
+      "pfad": "/v1/episode/a6e5812460de28c2f5f3b2d7efd72133d0135ab8.json",
+      "titel": "越南美食地图「大叻上篇」Vol.35",
+      "veroeffentlicht": "2026-09-10T09:47:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走进越南山城大叻，寻味当地的特色鸡肉料理与街头夜宵"
+    },
     {
       "guid": "697b60ea073030367a5cacd8",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/697b60ea073030367a5cacd8/media.xyzcdn.net/658c39b7bf3589e894555307/ltxnpPOvAHFEs3mzjitN4NjuS91O.m4a",
@@ -13,6 +23,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "主播分享安徽宣城周末两日游的美食体验，探索当地特色小吃与景点。"
+    },
+    {
+      "guid": "695def5821cd486af75d1321",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/695def5821cd486af75d1321/media.xyzcdn.net/658c39b7bf3589e894555307/lpTROYgjnYXJy4SOKaux17vEfYId.m4a",
+      "pfad": "/v1/episode/fcf7a701537af8439b48cd489bdd7a028720f093.json",
+      "titel": "韩国美食地图「济州岛篇」Vol.33",
+      "veroeffentlicht": "2026-01-07T10:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "济州岛美食与游玩推荐"
+    },
+    {
+      "guid": "69476d6e9f70e5d6b36cfdda",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/69476d6e9f70e5d6b36cfdda/media.xyzcdn.net/658c39b7bf3589e894555307/lg03ZO73ReDOKme3Y8cTghNcaYM8.m4a",
+      "pfad": "/v1/episode/16648ab8905389e892654306cc9a29c5fa78ca3d.json",
+      "titel": "浙江美食地图「温州下篇」Vol.32",
+      "veroeffentlicht": "2025-12-28T08:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "温州美食风味盘点，涵盖糯米饭、鱼圆及特色小吃。"
+    },
+    {
+      "guid": "6947687c9f70e5d6b36c4807",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/6947687c9f70e5d6b36c4807/media.xyzcdn.net/658c39b7bf3589e894555307/lllGEOKq1cp-YBDEgoEXE0S7AN1H.m4a",
+      "pfad": "/v1/episode/4878e04df88e129c3b1cfb5f415084f30550369c.json",
+      "titel": "浙江美食地图「温州上篇」Vol.31",
+      "veroeffentlicht": "2025-12-21T08:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "温州美食地图上篇：探索当地特色小吃与风味"
+    },
+    {
+      "guid": "693e9bb537f52a644ede5db7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/693e9bb537f52a644ede5db7/media.xyzcdn.net/658c39b7bf3589e894555307/lg_5pC3guZowE_wDDHt7FPqF0Ah-.m4a",
+      "pfad": "/v1/episode/2efd5bc60e1414f208c4963a4cdca80f298ef750.json",
+      "titel": "浙江美食地图「诸暨篇」Vol.30",
+      "veroeffentlicht": "2025-12-14T11:17:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "浙江美食地图诸暨篇，探索当地特色小吃与面食。"
+    },
+    {
+      "guid": "69268203f8a9e1d162794a7a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/69268203f8a9e1d162794a7a/media.xyzcdn.net/658c39b7bf3589e894555307/ljA5COyE3itGoVcfFSd_uosw9U_j.m4a",
+      "pfad": "/v1/episode/882b3687f49f9c833da3dfc09e8d729868ae8dd4.json",
+      "titel": "格鲁吉亚美食地图「西格纳吉、卡兹别克、第比利斯篇」Vol.29",
+      "veroeffentlicht": "2025-12-05T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "格鲁吉亚西格纳吉、卡兹别克与第比利斯的美食地图。"
+    },
+    {
+      "guid": "69266fecf8a9e1d16275e9a1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/69266fecf8a9e1d16275e9a1/media.xyzcdn.net/658c39b7bf3589e894555307/lkvDRNSQv6aF8rMXXTJRBOsvBh5V.m4a",
+      "pfad": "/v1/episode/7362537caea94959448911af3cc3e1cbc118f0b0.json",
+      "titel": "浙江美食地图「绍兴篇」Vol.28",
+      "veroeffentlicht": "2025-11-26T03:14:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "绍兴马拉松之旅与当地美食探索"
+    },
+    {
+      "guid": "6915b4dd6018cc2c98acf356",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/658c39b7bf3589e894555307/6915b4dd6018cc2c98acf356/media.xyzcdn.net/658c39b7bf3589e894555307/luL0C2QLscQzrp839vZjvw3AiMRv.m4a",
+      "pfad": "/v1/episode/4c611611c7bd9f09e07948b6cfbeceeb880b170e.json",
+      "titel": "乌兹别克斯坦美食地图「布哈拉、撒马尔罕篇」Vol.26",
+      "veroeffentlicht": "2025-11-13T10:40:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "乌兹别克斯坦布哈拉与撒马尔罕的美食与游玩分享"
     }
   ]
 }

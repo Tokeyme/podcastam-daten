@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "諾德財經研究院·交易思維",
   "apple_collection_id": "1867401834",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aa94490051af796b9e8ac4f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6aa94490051af796b9e8ac4f/media.xyzcdn.net/6954db5a8c688ccc48fae343/lkcLabDDH52SOQFXKDsefj39ykYN.m4a",
+      "pfad": "/v1/episode/b1a42a25a07a7f40edf0f975e264972cba9bbd99.json",
+      "titel": "EP38：告别指标冲突！台湾亨利老师教你 用“两大指标”打造 80%+ 胜率系统",
+      "veroeffentlicht": "2026-09-16T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何用两大指标打造高胜率系统并解决技术指标冲突"
+    },
+    {
+      "guid": "6a9faab1a0210c197dcf5a7f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a9faab1a0210c197dcf5a7f/media.xyzcdn.net/6954db5a8c688ccc48fae343/lpolRBmXFOiGs0YOBWa3SrdgKxkA.m4a",
+      "pfad": "/v1/episode/369975550ef962d591a6f61389ae3f0d2f69ad17.json",
+      "titel": "EP37：【专题】小麦老师 EA量化交易指南 如何看懂回测报告 挑选适合自己的策略？",
+      "veroeffentlicht": "2026-09-10T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "小麦老师教你如何看懂回测报告并挑选量化交易策略"
+    },
+    {
+      "guid": "6a96a28da0210c197dcbb35a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a96a28da0210c197dcbb35a/media.xyzcdn.net/6954db5a8c688ccc48fae343/lnabRFd6Cd5akvGaeNbjtL4NjEu8.m4a",
+      "pfad": "/v1/episode/d5cfa62bbf7557094fc4336992f43b9fed719854.json",
+      "titel": "EP36：胜率90%竟是爆仓陷阱？专访15年交易员小麦：从手操爆仓到量化交易的生存法则",
+      "veroeffentlicht": "2026-09-03T01:30:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨交易中的胜率与盈亏比取舍及量化交易法则"
+    },
+    {
+      "guid": "6a8e8676ef65145dfcc59af0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a8e8676ef65145dfcc59af0/media.xyzcdn.net/6954db5a8c688ccc48fae343/lpka92qdPvMd5LjrgHUMVXb-dlB0.m4a",
+      "pfad": "/v1/episode/a09952442e179f6f945cd24b1b1874db67cedaf2.json",
+      "titel": "EP35：7月PCE重磅来袭：通胀粘性+消费降温，美联储降息还是再加息？",
+      "veroeffentlicht": "2026-08-27T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读7月核心PCE数据，分析美联储货币政策走向与市场影响"
+    },
     {
       "guid": "6a853ec45aeb2a5712e92521",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a853ec45aeb2a5712e92521/media.xyzcdn.net/6954db5a8c688ccc48fae343/lig3esGWw5PZx3gbvDH97Ru8s_Ex.m4a",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨科技股与纳斯达克走势，解析利率预期及核心监测指标。"
+    },
+    {
+      "guid": "6a7c173536641f136d870911",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a7c173536641f136d870911/media.xyzcdn.net/6954db5a8c688ccc48fae343/lodJYYyTf4ADhJrLWA70co0cvjz-.m4a",
+      "pfad": "/v1/episode/13a74085ec10cd397ff64f26bddddb308a0b607d.json",
+      "titel": "EP33：为什么黄金放量突破你一追就亏？警惕伪放量！用价格+成交量+OI看穿意图",
+      "veroeffentlicht": "2026-08-12T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "黄金突破4400美元时的真假突破与量价分析"
+    },
+    {
+      "guid": "6a72026fab3a91c24a0fd0a3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a72026fab3a91c24a0fd0a3/media.xyzcdn.net/6954db5a8c688ccc48fae343/lm0uVw3pGFu7hKY2qqAHxeN2j7-H.m4a",
+      "pfad": "/v1/episode/52bb08a7be11fcd62df03e0f5d78108ac4beff07.json",
+      "titel": "EP32：为什么美债收益率一涨黄金就跌？彻底搞懂黄金背后的资金流向",
+      "veroeffentlicht": "2026-08-05T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨美债收益率与黄金价格波动的资金流向逻辑。"
+    },
+    {
+      "guid": "6a69af32b581962ce2bd4c97",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a69af32b581962ce2bd4c97/media.xyzcdn.net/6954db5a8c688ccc48fae343/lioOgemt1RhiEo7qhXWcN3PMMCVZ.m4a",
+      "pfad": "/v1/episode/1700a94ca7a2259b4ae06082d6a4f1a2b682ce0c.json",
+      "titel": "EP31：7月利率决议前瞻：40%加息定价背后，美联储主席三维博弈与交易应对",
+      "veroeffentlicht": "2026-07-29T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分析美联储7月利率决议前瞻、加息预期变化及交易应对策略"
+    },
+    {
+      "guid": "6a5c3f12a3fec224d59fc028",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a5c3f12a3fec224d59fc028/media.xyzcdn.net/6954db5a8c688ccc48fae343/lot7vNPQDWe8sUact4Hx3cKjoFSo.m4a",
+      "pfad": "/v1/episode/374bd393b8b3364c3a30c51a73fa4dcffe6b2837.json",
+      "titel": "EP30：为什么你的止损总被精准扫出场？专业交易员与韭菜的本质区别在这里",
+      "veroeffentlicht": "2026-07-22T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨交易中的止损逻辑与风险管理方法"
+    },
+    {
+      "guid": "6a570efeca0de6c44ae7576c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6954db5a8c688ccc48fae343/6a570efeca0de6c44ae7576c/media.xyzcdn.net/6954db5a8c688ccc48fae343/lnysP_fSKsJUyCmuOIm1emkdEehE.m4a",
+      "pfad": "/v1/episode/0a69fee0e19f1175bf5b5e1845d37215ffc12ba6.json",
+      "titel": "EP29：别急着追高！CPI暴跌背后黄金交易真相：一次数据决定不了单边大行情？",
+      "veroeffentlicht": "2026-07-16T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "分析美国6月CPI数据对黄金市场的影响及交易策略"
     }
   ]
 }

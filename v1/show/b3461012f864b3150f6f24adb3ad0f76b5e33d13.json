@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "癫疯对谈",
   "apple_collection_id": "1781882051",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a5245e51e32575f5eb4d0d5",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "首尔之旅下集：畅聊医美事故、偶遇韩国 朋友与疯狂购物的 爆笑经历。"
+    },
+    {
+      "guid": "6a414a3a9d2f5743683f40c6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/6a414a3a9d2f5743683f40c6/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/lnfQpYZE5ikhyhLymks4i9TIOgzN.m4a",
+      "pfad": "/v1/episode/1013da832f8018d5fda78536a59626f893f952a6.json",
+      "titel": "vol.19 在首尔掉进了消费陷阱和drama漩涡 首尔旅行（上）",
+      "veroeffentlicht": "2026-06-28T16:29:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "首尔7天6晚旅行攻略分享：消费陷阱与行程体验（上）"
+    },
+    {
+      "guid": "6a3266a743a22a69558556ac",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/6a3266a743a22a69558556ac/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/lpoyHcCwWYRpqMdS7xAEVTDjwfMv.m4a",
+      "pfad": "/v1/episode/379be84b3984a35fbd08802bab0a7a3b7ab637d7.json",
+      "titel": "vol.18 多久没有痛快的大变一场了！？",
+      "veroeffentlicht": "2026-06-17T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨生活中的变化与现状，分享各自的近况与感悟。"
+    },
+    {
+      "guid": "698dfd5766e2c30377423f23",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/698dfd5766e2c30377423f23/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/lmmVyPzVehJ8hRzVGfyBDsIQYCUW.m4a",
+      "pfad": "/v1/episode/1aadd4c7224584f99f1b62f60dd184340ee956fa.json",
+      "titel": "vol.17黄金疯长 AI崛起 喜剧出圈 我们一个都没有赶上 但学会了...",
+      "veroeffentlicht": "2026-02-13T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "盘点过去一年的经历、高光时刻、遗憾与生活变化"
+    },
+    {
+      "guid": "697e164e2fc7f49d0929b107",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/697e164e2fc7f49d0929b107/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/lpHCEMmZknHE4EQV496rs4z-085H.m4a",
+      "pfad": "/v1/episode/a9cd81eba30cb6630e5f3d108aae93d121bf25e6.json",
+      "titel": "vol.16莫斯科有眼泪 也有老兵和极光 俄罗斯之行（上）",
+      "veroeffentlicht": "2026-01-31T14:58:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "俄罗斯之行分享上集：莫斯科、老兵纪念碑与极光之旅"
+    },
+    {
+      "guid": "694fc8e514db1df9effa616e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/694fc8e514db1df9effa616e/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/lsDeybKtu0l4Q_xVQ-SNJLBqXh7I.m4a",
+      "pfad": "/v1/episode/2ac11245b428620e8dcf2312fdb7b49fb6c8cc0d.json",
+      "titel": "vol.15 音乐剧演员治疗祖传五音不全者！另有AI新歌大放送！",
+      "veroeffentlicht": "2025-12-27T12:07:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨音乐剧行业现状并分享音乐话题"
+    },
+    {
+      "guid": "68f7a966456ffec65ee1a1e7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/68f7a966456ffec65ee1a1e7/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/ln1EdbLKQ5cjbAycw-2IORyt8a1X.m4a",
+      "pfad": "/v1/episode/4487ed07ac0aee4611f7b40c58477b3dff057842.json",
+      "titel": "vol.14 秋冬养生！我想好好活着！",
+      "veroeffentlicht": "2025-10-22T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨秋冬养生与健康生活方式"
+    },
+    {
+      "guid": "68b0117b5faf368659d67f67",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/68b0117b5faf368659d67f67/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/ltfHtFQj9UbncspH1lGvAuw1L1Rc.m4a",
+      "pfad": "/v1/episode/7771f8b57d95e31f5485fcaf13148c9e0708f5f3.json",
+      "titel": "vol.13七夕！主播和听众纷纷自爆感情现状！劲爆！",
+      "veroeffentlicht": "2025-08-28T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "主播与听众在七夕之际分享各自的感情现状与恋爱经历"
+    },
+    {
+      "guid": "688e081bedf3fa32d5c3afc1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/688e081bedf3fa32d5c3afc1/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/luEye_-NV2OzVinM06oHE9l6zGlq.m4a",
+      "pfad": "/v1/episode/ad1f7abb1f4e96c7c56780b865a4bb12134e72cd.json",
+      "titel": "vol.12 这世界好疯！一起做疯口的猪吧！",
+      "veroeffentlicht": "2025-08-02T13:08:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与抖音博主无语森聊聊“发疯”与生活"
+    },
+    {
+      "guid": "6824582c5ccf03732bd09f3d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670a227d0602f2ef2bd2ff88/6824582c5ccf03732bd09f3d/media.xyzcdn.net/670a227d0602f2ef2bd2ff88/lkwqILAKGtAPoOw2ahIknXS8s56J.m4a",
+      "pfad": "/v1/episode/e59903e59394a36d7ce822122ce69963a615a297.json",
+      "titel": "vol.11咱们北京哪哪都好，就是这儿差点意思！",
+      "veroeffentlicht": "2025-05-14T09:05:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "沪漂与老牌北漂齐聚，畅聊在北京生活的真实体验与感悟。"
     }
   ]
 }

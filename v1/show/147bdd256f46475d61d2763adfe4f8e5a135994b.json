@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Table Today",
   "apple_collection_id": "1725152123",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6ab092cd7aa361c612670656",
+      "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6ab092cd7aa361c612670656/media.mp3",
+      "pfad": "/v1/episode/8f7dd29c2163e2192cebf3355aba7554a72927ea.json",
+      "titel": "Denkzettel für die Volksparteien",
+      "veroeffentlicht": "2026-09-21T02:45:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Analysen zu Wahlen in Berlin und Mecklenburg-Vorpommern und Energiewirtschaft"
+    },
     {
       "guid": "6aade18f0a12e91774672c79",
       "audio_url": "https://sphinx.acast.com/p/open/s/658d5f3c514889001711a470/e/6aade18f0a12e91774672c79/media.mp3",

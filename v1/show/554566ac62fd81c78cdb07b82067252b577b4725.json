@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "郭继舜带你读汽车科技",
   "apple_collection_id": "1514130624",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group85/M05/5A/BD/wKg5H179fjbyf6dPAfhRgraOaOk093.mp3",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "智能驾驶量产前夜：为什么虚拟仿真测试越来越关键"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M07/BA/28/wKg5Jl7sD3ihB6x3AVl614S-j8Q822.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKg5Jl7sD3ihB6x3AVl614S-j8Q822.mp3.m4a?channel=rss&album_id=38096483&track_id=308904834&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group86/M07/BA/28/wKg5Jl7sD3ihB6x3AVl614S-j8Q822.mp3",
+      "pfad": "/v1/episode/faee711facb3ecb340536988abfb1dd516e8548b.json",
+      "titel": "016 | 软件定义汽车的核心是什么？谈谈特斯拉新一代电子电气架构",
+      "veroeffentlicht": "2020-06-19T01:06:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨软件定义汽车的核心以及特斯拉新一代电子电气架构的演化。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M0A/90/FA/wKg5H17oDFDzx8EsAYYdeZ1tBzA305.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKg5H17oDFDzx8EsAYYdeZ1tBzA305.mp3.m4a?channel=rss&album_id=38096483&track_id=307895225&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group85/M0A/90/FA/wKg5H17oDFDzx8EsAYYdeZ1tBzA305.mp3",
+      "pfad": "/v1/episode/ebd3861641f228f90d279d21c1b6e03c566f7e68.json",
+      "titel": "015 | 5G V2X将带来怎样的交通大变革？",
+      "veroeffentlicht": "2020-06-16T00:03:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨基于5G-V2X的车联网技术落地与路端建设"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M01/5D/4C/wKg5I17iwm3QPVMKAXnQO4hW9y8048.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKg5I17iwm3QPVMKAXnQO4hW9y8048.mp3.m4a?channel=rss&album_id=38096483&track_id=306660034&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group83/M01/5D/4C/wKg5I17iwm3QPVMKAXnQO4hW9y8048.mp3",
+      "pfad": "/v1/episode/a7520c6a738bf41d08aa7a763cd51f15f6808a38.json",
+      "titel": "014 | 滴滴杀入自动驾驶有哪些优势？未来的Robotaxi需要什么样的平台车？",
+      "veroeffentlicht": "2020-06-11T23:46:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "滴滴自动驾驶优势及未来Robotaxi平台车需求分析"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M01/43/60/wKg5I17gR6SzfF2cAbzdhZnh-Js433.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKg5I17gR6SzfF2cAbzdhZnh-Js433.mp3.m4a?channel=rss&album_id=38096483&track_id=306025190&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group83/M01/43/60/wKg5I17gR6SzfF2cAbzdhZnh-Js433.mp3",
+      "pfad": "/v1/episode/7d36e494394c3a8e1e71c67646192519ec52025a.json",
+      "titel": "013 | Mobileye炫技，仅凭12摄像头穿越闹市区，一辆优秀的L4无人车该是怎样的",
+      "veroeffentlicht": "2020-06-10T02:38:29+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "耶路撒冷Mobileye自动驾驶车辆试乘体验与路况表现"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M02/34/5B/wKg5JV7ezh2i2339AVXVh9nAnbU461.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKg5JV7ezh2i2339AVXVh9nAnbU461.mp3.m4a?channel=rss&album_id=38096483&track_id=305659113&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group85/M02/34/5B/wKg5JV7ezh2i2339AVXVh9nAnbU461.mp3",
+      "pfad": "/v1/episode/1584dbdcce2cbd7938a4fe42e90495e1f7a7c839.json",
+      "titel": "012 | 特斯拉在华组Autopilot开发团队，完成一套智能驾驶系统本土化需要多久？",
+      "veroeffentlicht": "2020-06-08T23:47:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "特斯拉中国组建自动驾驶本土团队及智能网联技术本土化"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M05/90/CE/wKgO0V7ZmMvzKjIEAR6S5UPk0jM272.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgO0V7ZmMvzKjIEAR6S5UPk0jM272.mp3.m4a?channel=rss&album_id=38096483&track_id=304358815&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group73/M05/90/CE/wKgO0V7ZmMvzKjIEAR6S5UPk0jM272.mp3",
+      "pfad": "/v1/episode/22e0a76c8bc77858339fc77450b34e176b4bb4de.json",
+      "titel": "011 | 什么是智能汽车操作系统？为何大众、戴姆勒都在投入重金研发？",
+      "veroeffentlicht": "2020-06-05T00:58:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨什么是智能汽车操作系统以及大众、戴姆勒为何重金研发。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M00/57/9F/wKgPEl7W3_qy3N-tARJXK1_Do7Q448.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPEl7W3_qy3N-tARJXK1_Do7Q448.mp3.m4a?channel=rss&album_id=38096483&track_id=303632769&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group81/M00/57/9F/wKgPEl7W3_qy3N-tARJXK1_Do7Q448.mp3",
+      "pfad": "/v1/episode/cd6e7d406353f0a23db58f6236be5cc6cc2e53d7.json",
+      "titel": "010 | 特斯拉撞卡车问题有解吗？谈谈自动驾驶感知前融合架构的优势和难点",
+      "veroeffentlicht": "2020-06-02T23:25:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨自动驾驶感知前融合技术的优势与难点"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M0A/32/71/wKgPC17VoUexAtMaAWxnTQB6xMU314.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPC17VoUexAtMaAWxnTQB6xMU314.mp3.m4a?channel=rss&album_id=38096483&track_id=303301595&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group79/M0A/32/71/wKgPC17VoUexAtMaAWxnTQB6xMU314.mp3",
+      "pfad": "/v1/episode/0429086920323dedf8787050911f4d16ca4f75e8.json",
+      "titel": "009 | 特斯拉撞上了侧翻的大货车，从台湾嘉义事故谈传感器融合",
+      "veroeffentlicht": "2020-06-02T00:46:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从特斯拉事故与虚拟激光雷达聊自动驾驶传感器融合"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M06/D4/65/wKgPEl7QtA6zMjNeAUHbkBBJuXo560.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgPEl7QtA6zMjNeAUHbkBBJuXo560.mp3.m4a?channel=rss&album_id=38096483&track_id=302037264&uid=187475907&jt=https://aod.cos.tx.xmcdn.com/group81/M06/D4/65/wKgPEl7QtA6zMjNeAUHbkBBJuXo560.mp3",
+      "pfad": "/v1/episode/ffc9321932b4e3baa771b76eef90a216f87ca072.json",
+      "titel": "008 | 自主品牌向上突围，中国车企推出高端品牌的逻辑",
+      "veroeffentlicht": "2020-05-29T07:04:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨中国自主品牌车企推出高端品牌的背后逻辑与战略动向"
     }
   ]
 }

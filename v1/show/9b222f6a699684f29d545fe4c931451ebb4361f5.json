@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "苗炜|苗师傅读书会",
   "apple_collection_id": "1559492368",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/11/22/2908405461663076870_hd.mp3",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "作家祝羽捷做客播客，畅谈疫情期间与三十位朋友写信交流的幕后故事。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/11/15/2907108456701406726_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/11/15/2907108456701406726_hd.mp3",
+      "pfad": "/v1/episode/ade886f8246a4be5a4c660fb8ef852993232e0cd.json",
+      "titel": "Vol.39 潇洒姐｜五种时间管理，掌控新的人生秩序",
+      "veroeffentlicht": "2021-11-15T15:30:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨王潇的《五种时间》与时间管理理念"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/11/08/2905830168908323846_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/11/08/2905830168908323846_hd.mp3",
+      "pfad": "/v1/episode/d90aa5913e98b45591e16af5944546d265bea919.json",
+      "titel": "Vol.38 这一次我聊聊自己写的一本小说，烟及巧克力及伤心故事",
+      "veroeffentlicht": "2021-11-08T17:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨新书《烟及巧克力及伤心故事》与现代都市人的心理状态"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/11/01/2904481129003298822_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/11/01/2904481129003298822_hd.mp3",
+      "pfad": "/v1/episode/2ae24bad64442786a4bc58eb17a044eebd4935a6.json",
+      "titel": "Vol.37 翠西姐｜一年读100+本书是可能的，而且是必须的",
+      "veroeffentlicht": "2021-11-01T17:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何一年阅读百本以上书籍及主题式阅读方法。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/10/25/2903192424066449414_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/10/25/2903192424066449414_hd.mp3",
+      "pfad": "/v1/episode/81b9fe1f9d4667ea8f2e7f265a033e59426b446e.json",
+      "titel": "Vol.36谌旭彬｜我穿越到任何时代，可能都活不下来",
+      "veroeffentlicht": "2021-10-25T17:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《秦制两千年》与封建王朝背后的历史真相"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/10/18/2901898837472097286_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/10/18/2901898837472097286_hd.mp3",
+      "pfad": "/v1/episode/8427b96b716047981a1c7882b4e565ab7f4d9c09.json",
+      "titel": "Vol.35李晖｜要不是我脑袋上老有一朵乌云的话，我能够改变世界",
+      "veroeffentlicht": "2021-10-18T17:30:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话北京语言大学讲师李晖，聊聊文学翻译与作家作品。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/10/11/2900589269425458694_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/10/11/2900589269425458694_hd.mp3",
+      "pfad": "/v1/episode/e3d2ab130e7cd0af912885188b0c316e3fd40e09.json",
+      "titel": "Vol.34 陈赛｜绘本中的人生道理映射了成人世界的困惑和焦虑",
+      "veroeffentlicht": "2021-10-11T17:30:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "陈赛谈绘本中的人生道理与成人世界的困惑焦虑"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/09/30/2898546796313177094_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/09/30/2898546796313177094_hd.mp3",
+      "pfad": "/v1/episode/7bffd4baf3e449fcc46e740f47e764e3d86b6245.json",
+      "titel": "Vol.33 朱靖江｜追思诗人胡续冬，让我们好好地挥挥手",
+      "veroeffentlicht": "2021-10-04T17:30:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与朱靖江教授一起回忆北大青春往事，追缅好友诗人胡续冬。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/09/26/2897796179178178054_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/09/26/2897796179178178054_hd.mp3",
+      "pfad": "/v1/episode/99f72d2e4d7107cf156b41d0ac0dda8a4a580238.json",
+      "titel": "Vol.32于是｜那些大佬们要我们的数据干啥呢？",
+      "veroeffentlicht": "2021-09-27T17:30:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨互联网与资本如何通过数据收集与建模影响社会。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2021/09/20/2896682655526500358_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2021/09/20/2896682655526500358_hd.mp3",
+      "pfad": "/v1/episode/e9e91cafe3c21767f3f903743547cb02c3744c13.json",
+      "titel": "Vol.31 刘江华｜聊百年风云，是中年男人仅剩的指点江山的乐趣",
+      "veroeffentlicht": "2021-09-20T17:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话文史作家刘江华，探讨《清朝最后的120天》与晚清历史。"
     }
   ]
 }

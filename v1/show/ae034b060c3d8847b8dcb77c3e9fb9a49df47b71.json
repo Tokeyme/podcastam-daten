@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "藤井树读书",
   "apple_collection_id": "1108882936",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/10/12/2900873673876823046_hd.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "细读《红楼梦》第9回：宝玉秦钟入家塾读书，却引发了一场学堂大闹剧。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2019/01/20/5021847153658349574_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2019/01/20/5021847153658349574_hd.mp3",
+      "pfad": "/v1/episode/d98ca82624f4c2f37a5887ccfe594e477d5735f8.json",
+      "titel": "王小波《黄金时代》（五）",
+      "veroeffentlicht": "2019-01-20T16:01:16+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "王二与陈清扬写材料并购买猎枪后选择逃跑"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/07/13/2612875255800126982_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/07/13/2612875255800126982_hd.mp3",
+      "pfad": "/v1/episode/e399bef45f93fe6aea7b74d7a72361350ed46602.json",
+      "titel": "细读《红楼梦》第8回（上）：比通灵金莺微露意 探宝钗黛玉半含酸",
+      "veroeffentlicht": "2017-07-13T18:48:14+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "细读《红楼梦》第8回，探讨金玉良缘与木石前盟的交织。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/07/09/2612144988945575430_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/07/09/2612144988945575430_hd.mp3",
+      "pfad": "/v1/episode/33be02e1d632764262f695a2a97b37686d2cff15.json",
+      "titel": "王小波《黄金时代》（一）",
+      "veroeffentlicht": "2017-07-09T20:20:12+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨王小波中篇小说《黄金时代》的创作背景与文本内涵"
     }
   ]
 }

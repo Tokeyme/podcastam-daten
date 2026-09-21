@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "财经日报 | 龙虾精选财经资讯",
   "apple_collection_id": "1879805948",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "69e8c8b71d989496e7429300",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "比亚迪登顶创新榜，SpaceX洽购Cursor，宁德时代发新电池。"
+    },
+    {
+      "guid": "69e787721e94ae6921d1e9b6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69e787721e94ae6921d1e9b6/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/llZepdwMiAFrYJtuet_ntcK4u3NG.m4a",
+      "pfad": "/v1/episode/3d549879500dcfdc13f40109a143e4321d006ee9.json",
+      "titel": "【0422 | 财经日报】【苹果】库克卸任/【Anthropic】获【亚马逊】投【250亿】/油价或下调",
+      "veroeffentlicht": "2026-04-21T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "今日财经资讯速递，涵盖宏观政策、行业动态与企业新闻"
+    },
+    {
+      "guid": "69e635551d989496e7161f1f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69e635551d989496e7161f1f/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/livzpAFatZc7xkUVOf_gRrHrm0Sa.m4a",
+      "pfad": "/v1/episode/bcf6f4cc40549c0e4968e9e0975931710d33cafd.json",
+      "titel": "【0421 | 财经日报】【A股】逼近【4100点】/【光纤】暴涨【650%】/【东方证券】收购【上海证券】",
+      "veroeffentlicht": "2026-04-20T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "A股逼近4100点，国产光纤暴涨650%及多项财经资讯"
+    },
+    {
+      "guid": "69e500241d989496e700a705",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69e500241d989496e700a705/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/lpJ9HLlWpkoeBouWIwMTO0veAaAC.m4a",
+      "pfad": "/v1/episode/02dbf5f64f4741efb40540722298417fa8f58a30.json",
+      "titel": "【0420 | 财经日报】【人民币】升破【6.82】/【银行理财】缩水【1.38万亿】/【微信分付】测试转账",
+      "veroeffentlicht": "2026-04-19T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月20日财经日讯：人民币破6.82、银行理财缩水及微信分付测试转账"
+    },
+    {
+      "guid": "69e3941f1d989496e7ed7678",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69e3941f1d989496e7ed7678/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/FqyMgqo23dXHIe1CfzwN3t1jS5Dp.m4a",
+      "pfad": "/v1/episode/826e20c5a9cdf47029cf900f80aad916141fa0ab.json",
+      "titel": "【0419 | 财经日报】【宁德时代】大手笔实现“家里有矿”/3月【券商】APP用户活跃度上升！",
+      "veroeffentlicht": "2026-04-18T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "宁德时代斥资建矿公司及3月券商APP用户活跃度上升"
+    },
+    {
+      "guid": "69e22eae1e94ae692180dfd2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69e22eae1e94ae692180dfd2/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/lrFOqQqB3Q84YEnsnuH_SCQC3n5q.m4a",
+      "pfad": "/v1/episode/eebd3baf6b90ee96500c7d21a6f9feddbbbfd939.json",
+      "titel": "【0418 | 财经日报】【具身智能】数据争夺战/【核聚变】产业超预期/【万家基金】高管变阵",
+      "veroeffentlicht": "2026-04-17T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月18日财经要闻速递"
+    },
+    {
+      "guid": "69e0da74b977fb2c471f33fe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69e0da74b977fb2c471f33fe/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/ljHmgyOd7HOCMqEqU-xUnxxqPqOM.m4a",
+      "pfad": "/v1/episode/22e4fd9aee37c42e56c996f30dd08678602a79ff.json",
+      "titel": "20260417 | 【宁德时代】市值跃居【A股】第二/【台积电】玻璃基板量产/【大普微】【创业板】首单上市",
+      "veroeffentlicht": "2026-04-16T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "每日财经资讯速递，涵盖美联储褐皮书、宁德时代市值及台积电玻璃基板等"
+    },
+    {
+      "guid": "69dfaae5b977fb2c4709ba05",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69dfaae5b977fb2c4709ba05/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/lgBjQL6_o43YX2a3td-TIkX9-sJk.m4a",
+      "pfad": "/v1/episode/78c114787792d30bfa6195057bf93795fe612682.json",
+      "titel": "20260416 |【中概股】集体大涨/【英伟达】推量子AI/美退还【1660亿】关税/【航空股】飙升",
+      "veroeffentlicht": "2026-04-15T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月16日财经资讯：中概股集体大涨与英伟达推量子AI"
+    },
+    {
+      "guid": "69de4820b977fb2c47eeffcc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69de4820b977fb2c47eeffcc/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/lrx36_5szaS7lH00X5RG615eQiIn.m4a",
+      "pfad": "/v1/episode/363c50b7dd68c7880c2077adf5db86168f5b473c.json",
+      "titel": "20260415 |【PCB】行业大涨/【外贸】增【15%】/【诺和诺德】联手【OpenAI】/【邮储银行】发射卫星",
+      "veroeffentlicht": "2026-04-14T21:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月15日财经资讯，涵盖PCB行业、外贸增长、诺和诺德合作及邮储银行发射卫星等内容。"
+    },
+    {
+      "guid": "69dce548e2c8be31551ba65f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/699b18270cfb5e8ba08c3ae7/69dce548e2c8be31551ba65f/media.xyzcdn.net/699b18270cfb5e8ba08c3ae7/luDpFzo2l5BgDN7O1iR7P7SUMc_2.m4a",
+      "pfad": "/v1/episode/89fc80fa5e27099c919f2f91abf17f6870f37737.json",
+      "titel": "20260414 |【宁德时代】创历史新高/【光芯片】产能售罄/【人民币】大涨/【环氧丙烷】涨超【六成】",
+      "veroeffentlicht": "2026-04-13T17:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "2026年4月14日财经速递：宁德时代H股创新高及光芯片产能售罄等动态"
     }
   ]
 }

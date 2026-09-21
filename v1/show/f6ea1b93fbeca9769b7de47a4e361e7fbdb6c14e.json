@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "职场人类学",
   "apple_collection_id": "1787093205",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6a957475a0210c197dcb22cb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/6a957475a0210c197dcb22cb/media.xyzcdn.net/6683fba6fc7adf043630019c/ltbCJdoOIFFpPDmfGmj-O1hok11J.m4a",
+      "pfad": "/v1/episode/eeee72d0de1bbef37880575cb4c0e1b361a4b0a1.json",
+      "titel": "前小冰CEO李笛：用旧商业模式做AI是一条死胡同",
+      "veroeffentlicht": "2026-08-31T12:41:31+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "前小冰CEO李笛探讨AI时代的商业模式、群体智能与人机关系。"
+    },
     {
       "guid": "69fab7e4e05c0efcd6f2e335",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/69fab7e4e05c0efcd6f2e335/media.xyzcdn.net/6683fba6fc7adf043630019c/lusbkOVc1ZkzfdW1CH-uMAwmu2VM.m4a",
@@ -13,6 +23,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨豆瓣高分电影《给阿嬷的情书》如何凭真诚与方言叙事成为票房黑马。"
+    },
+    {
+      "guid": "69efff0fb973c3fd5991d1e9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/69efff0fb973c3fd5991d1e9/media.xyzcdn.net/6683fba6fc7adf043630019c/lobkeGYVOrEmFF-Ana44qX9XgdK-.m4a",
+      "pfad": "/v1/episode/136bdaf9453d1b8728d023f3416bd9974713e3a4.json",
+      "titel": "除了“把字放大”，好的医院设计如何给人信心和安全感？",
+      "veroeffentlicht": "2026-04-28T00:42:50+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过优秀的医院空间导向设计消除患者的迷失感与焦虑。"
+    },
+    {
+      "guid": "69b6aabbf8b8079bfa7560f2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/69b6aabbf8b8079bfa7560f2/media.xyzcdn.net/6683fba6fc7adf043630019c/lkjvrWzkPOE2FcM8SeiaLYEP2pVw.m4a",
+      "pfad": "/v1/episode/04075c8b5aae8eec2d351ab727464199a3b30a91.json",
+      "titel": "我的实习生是香港老钱的后代",
+      "veroeffentlicht": "2026-03-15T12:54:34+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨香港职场的生存策略、文化特点与向上社交"
+    },
+    {
+      "guid": "699dc79bde29766da966b6c4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/699dc79bde29766da966b6c4/media.xyzcdn.net/6683fba6fc7adf043630019c/lmzh0Oc3qJ1glAx4ITn8YgAFY6cn.m4a",
+      "pfad": "/v1/episode/a5c6c38b4e25b267bdcef956895331da0c814901.json",
+      "titel": "钱小磊：攀岩是用身体刷短视频，淡出科技圈后AI焦虑更重了",
+      "veroeffentlicht": "2026-02-24T16:04:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "前公关人钱小磊的攀岩馆创业与AI焦虑"
+    },
+    {
+      "guid": "69764b16109824f9e1803959",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/69764b16109824f9e1803959/media.xyzcdn.net/6683fba6fc7adf043630019c/ltaW_GoKbkT0BPUUNgQurEZZ2HAa.m4a",
+      "pfad": "/v1/episode/c86640ed4b7c6cf080a68bb8224942c293d493ec.json",
+      "titel": "圈内人的医疗AI反常识：情绪价值被低估，老年人接受度挺高",
+      "veroeffentlicht": "2026-01-25T18:03:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨医疗AI在情感价值、老年人接受度及大健康营销中的反常识现象。"
+    },
+    {
+      "guid": "694b51430f2ae6a867d75d02",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/694b51430f2ae6a867d75d02/media.xyzcdn.net/6683fba6fc7adf043630019c/lv6hJhc8QA0CUMTQ3quNvmrT-NH7.m4a",
+      "pfad": "/v1/episode/04abdc158e739344a00794599e1fb00e670dd51f.json",
+      "titel": "京深港三城记：在巨头缺席的香港AI市场做多“不确定性”",
+      "veroeffentlicht": "2025-12-24T02:48:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "跨越京深港三城的职场变迁与香港AI市场的发展"
+    },
+    {
+      "guid": "693ebe7537f52a644ee3c5f2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/693ebe7537f52a644ee3c5f2/media.xyzcdn.net/6683fba6fc7adf043630019c/ls56fL4FPYnBktXPlj6l7ti5m77d.m4a",
+      "pfad": "/v1/episode/c7bea397c437d87587afe0ac51a76d15cf66f86b.json",
+      "titel": "下夜班领结婚证：一位医生如何用AI、伴侣与爱好对抗焦虑",
+      "veroeffentlicht": "2025-12-14T18:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "神经外科医生付维亮的职业选择、科研看法、AI应用与生活韧性"
+    },
+    {
+      "guid": "691c80f96018cc2c9877437a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/691c80f96018cc2c9877437a/media.xyzcdn.net/6683fba6fc7adf043630019c/liZdNKrcgz6h6JGARHOTIuiCs6a_.m4a",
+      "pfad": "/v1/episode/04286948a4315680e852ef9a56a659b9c737f102.json",
+      "titel": "赞意创始人乌东面：从符号营销到叙事经济，售卖型私域已经哑火",
+      "veroeffentlicht": "2025-11-18T18:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨从符号营销到叙事经济的转变及营销行业的洗牌与变化"
+    },
+    {
+      "guid": "691ae5186018cc2c983c7860",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683fba6fc7adf043630019c/691ae5186018cc2c983c7860/media.xyzcdn.net/6683fba6fc7adf043630019c/lmGt4DZBpjY3_ya4PDGh3MmrOODj.m4a",
+      "pfad": "/v1/episode/f4577daef708a34d96f10eaae35707d25677b6fe.json",
+      "titel": "白酒遭嫌弃，因为这代人有了更快上头的酒精",
+      "veroeffentlicht": "2025-11-17T09:06:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨当前的实际消费心理、情绪价值与品牌营销现象。"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "超级游文化",
   "apple_collection_id": "1478366349",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1011565877",
+      "audio_url": "https://tk.wavpub.com/WPTK_s9ABbBamdC9rEoUN-4bdd09d8f180.m4a",
+      "pfad": "/v1/episode/1a0a1250ba93e1c79ce647d2a8ff73d9b36c3523.json",
+      "titel": "《风暴之城》女王大人请别再给我派活爹了！",
+      "veroeffentlicht": "2026-09-05T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨独立游戏《风暴之城》如何将模拟经营与肉鸽玩法结合。"
+    },
     {
       "guid": "xmly_track_1007826845",
       "audio_url": "https://tk.wavpub.com/WPTK_2HLZOAUo7wJMuZmZ-cc6b36529600.m4a",
@@ -13,6 +23,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "主播与听友齐聚线下电影院，复盘超游文化杯街霸挑战赛的爆笑战况。"
+    },
+    {
+      "guid": "xmly_track_999723709",
+      "audio_url": "https://tk.wavpub.com/WPDL_hVzsWXvYUtCZUtGgKHrwGGwBAqnVjUqhTgAQefBwEuUwRmwWBLtVRECjjn-bf.m4a",
+      "pfad": "/v1/episode/845c38636fdf356ad3c84066804b4869f2a98c4b.json",
+      "titel": "《伊势人鱼物语》长生不老是礼物？还是诅咒？EP02",
+      "veroeffentlicht": "2026-07-11T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论SE悬疑冒险游戏新作《灵视异闻 FILE38 伊势人鱼物语》第二期"
+    },
+    {
+      "guid": "xmly_track_993039996",
+      "audio_url": "https://tk.wavpub.com/WPDL_LSkYRyWPyLhMvnumtQDbdavpNpdgnWQnvwLDUUHtQSYudywFyZWGMRqZvg-07.m4a",
+      "pfad": "/v1/episode/1e9bfb68a95a0aeafe63b042822e2e8ba8870890.json",
+      "titel": "《伊势人鱼物语》长生不老是礼物？还是诅咒？EP01",
+      "veroeffentlicht": "2026-06-27T06:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论SE出品的悬疑冒险游戏新作《灵视异闻 FILE38 伊势人鱼物语》。"
     }
   ]
 }

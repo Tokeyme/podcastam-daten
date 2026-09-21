@@ -2,8 +2,108 @@
   "schema_version": 1,
   "show": "第一财经",
   "apple_collection_id": "1812602503",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aace65f9d326477816b0e38",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aace65f9d326477816b0e38/media.xyzcdn.net/64c75555e8176c3ff81de98c/ltLT6WASFQsuwahEjOtxwvBmRK6H.m4a",
+      "pfad": "/v1/episode/1b5ad92db000ce8b754d3552ea19ee1647f6e97e.json",
+      "titel": "Vol.611|30元的中式Omakase，攻占商场B1",
+      "veroeffentlicht": "2026-09-20T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨商场B1流行的平价板前餐饮业态与转变"
+    },
+    {
+      "guid": "6aacda02051af796b9ea1249",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aacda02051af796b9ea1249/media.xyzcdn.net/64c75555e8176c3ff81de98c/lseBKmBPDHM3wz3Ggr95gWeShbkf.m4a",
+      "pfad": "/v1/episode/4a8a867287e3b0dc83950e2100f3493731be3ac1.json",
+      "titel": "人类有望用意念去控制万物，并实现“数字永生”?丨两说",
+      "veroeffentlicht": "2026-09-20T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "智能生物传感技术如何重塑人类未来与生命形态"
+    },
+    {
+      "guid": "6aae1bed0916f6f8b445a893",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aae1bed0916f6f8b445a893/media.xyzcdn.net/64c75555e8176c3ff81de98c/lkwCeulng_xdI0LVLeuD0ovAmAqU.m4a",
+      "pfad": "/v1/episode/a8105c3be684b70ab47c7e10b2f804a802de5b4a.json",
+      "titel": "地沟油做的背包，是零碳创新还是新营销？|无限进化69",
+      "veroeffentlicht": "2026-09-19T05:31:58+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨废弃油脂如何转化为背包纤维的工业逻辑与碳价值。"
+    },
+    {
+      "guid": "6aab820c051af796b9e987e2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aab820c051af796b9e987e2/media.xyzcdn.net/64c75555e8176c3ff81de98c/lhMSmRigNTpVNK6-ebV-Ph0blp3d.m4a",
+      "pfad": "/v1/episode/2e93a3b48b813019d45e61a71ee99a749476c221.json",
+      "titel": "Vol.610|华为还是车企的必选项吗？",
+      "veroeffentlicht": "2026-09-17T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "华为与赛力斯合作模式调整，车企应如何看待华为赋能？"
+    },
+    {
+      "guid": "6aaa4730051af796b9e90e1f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aaa4730051af796b9e90e1f/media.xyzcdn.net/64c75555e8176c3ff81de98c/ljyKq721-f9Axx6MENdxHHKi4MAs.m4a",
+      "pfad": "/v1/episode/e462309d2f14105adf4fc980deb7c21494a4c220.json",
+      "titel": "Vol.609|专访比尔·盖茨：从乐观派到风险预警者，十分关注中国AI发展",
+      "veroeffentlicht": "2026-09-16T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨比尔·盖茨对人工智能的新看法及其对中国AI发展的评价"
+    },
+    {
+      "guid": "6aa8ef359d32647781696dcb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aa8ef359d32647781696dcb/media.xyzcdn.net/64c75555e8176c3ff81de98c/lvqbvN2q7YGkWJAk55pqTKNGs5_x.m4a",
+      "pfad": "/v1/episode/a5976458340e0b5a624041b341c2361ec4b58441.json",
+      "titel": "Vol.608|“毛孩子”撑起30亿赛道！宠物险爆火背后的红利与困境",
+      "veroeffentlicht": "2026-09-15T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "宠物险市场高速增长背后的红利、渗透率现状与发展困境"
+    },
+    {
+      "guid": "6aa78ffe9d3264778168cc2b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aa78ffe9d3264778168cc2b/media.xyzcdn.net/64c75555e8176c3ff81de98c/lr2ZHwBd9fqaUbe73SJ9GG0nzNLW.m4a",
+      "pfad": "/v1/episode/6c99337f3c34d8a62f536cc39539fc868cb5cdea.json",
+      "titel": "Vol.607|“小电驴”卷入价格战",
+      "veroeffentlicht": "2026-09-14T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电动两轮车行业卷入价格战的现状与影响"
+    },
+    {
+      "guid": "6aa39ed2492687f6aad84b35",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aa39ed2492687f6aad84b35/media.xyzcdn.net/64c75555e8176c3ff81de98c/lkpb5ltQf_Fnxv1-ADSy4YSzUAg5.m4a",
+      "pfad": "/v1/episode/8248f373ddee235f34c85c22da54fa5b6bffc2cc.json",
+      "titel": "Vol.606|华为、小米、苹果，为何同一时间押注折叠屏？",
+      "veroeffentlicht": "2026-09-13T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "华为、小米与苹果为何同时押注折叠屏手机"
+    },
+    {
+      "guid": "6aa27416492687f6aad7da6e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aa27416492687f6aad7da6e/media.xyzcdn.net/64c75555e8176c3ff81de98c/lltbl28__BHh2ADKHZPKyNP8Exdk.m4a",
+      "pfad": "/v1/episode/ee247760d3e6276fd71115155798097b5ad04014.json",
+      "titel": "做难而正确的事：投资于人，重构增长之锚丨两说",
+      "veroeffentlicht": "2026-09-13T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "投资于人与重构增长之锚的宏观经济探讨"
+    },
+    {
+      "guid": "6aa378589d32647781676afc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6aa378589d32647781676afc/media.xyzcdn.net/64c75555e8176c3ff81de98c/lpU_ps5u43CmY46UzrJmmvs5IQ4n.m4a",
+      "pfad": "/v1/episode/131c23538de34c78b2ac525dcc2ba943234f0858.json",
+      "titel": "厄尔尼诺叠加地缘动荡，粮食真的要涨价么？|无限进化68",
+      "veroeffentlicht": "2026-09-12T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨超强厄尔尼诺与地缘动荡对全球农产品供应链及价格的影响"
+    },
     {
       "guid": "6a869896ef65145dfcc276be",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64c75555e8176c3ff81de98c/6a869896ef65145dfcc276be/media.xyzcdn.net/64c75555e8176c3ff81de98c/lhBr0YZkNZlyoFCVuBMEAwVlGgmv.m4a",

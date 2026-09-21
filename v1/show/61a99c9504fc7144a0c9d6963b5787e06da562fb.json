@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "虾图一乐",
   "apple_collection_id": "1778887263",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "699515a5a22480add6622ef7",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨海外华人春晚的趣事、先锋喜剧创作以及海外过年的独特体验。"
+    },
+    {
+      "guid": "6869b87d93fd2d72b8b5ce16",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6727fddecbe0e69c8bd85969/6869b87d93fd2d72b8b5ce16/media.xyzcdn.net/6727fddecbe0e69c8bd85969/lhVaOvZBrXzeYlTwGiIqc1ox8RZW.m4a",
+      "pfad": "/v1/episode/8a9484158cae0d14a74b747d19a9803da4dc865d.json",
+      "titel": "一期长达1小时的small talk--西雅图真是文娱沙漠？",
+      "veroeffentlicht": "2025-07-05T23:53:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "西雅图的文娱生活与日常闲聊"
+    },
+    {
+      "guid": "67706fc515a5fd520e54e04e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6727fddecbe0e69c8bd85969/67706fc515a5fd520e54e04e/media.xyzcdn.net/loX6D_V0DB1OPigGw_AVb9uzVwQT.m4a",
+      "pfad": "/v1/episode/ba390d151fc3b7bf0af9c1579eb687121088e323.json",
+      "titel": "我们都吃过减肥的苦",
+      "veroeffentlicht": "2024-12-28T23:11:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨减肥经历中的种种不易与生活方式改变"
+    },
+    {
+      "guid": "675f22ee84447b1bd01be8b4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6727fddecbe0e69c8bd85969/675f22ee84447b1bd01be8b4/media.xyzcdn.net/lriEP7H6YuQZ-lQZcgMwa7cbwoBW.m4a",
+      "pfad": "/v1/episode/897877932f01b3c66ca8f3fb555453cbb5a21574.json",
+      "titel": "生活中遇到的“爹妈”",
+      "veroeffentlicht": "2024-12-15T20:48:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨生活、职场和恋爱中遇到的“爹妈”现象"
+    },
+    {
+      "guid": "672c4559b2eb246ec45398e2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6727fddecbe0e69c8bd85969/672c4559b2eb246ec45398e2/media.xyzcdn.net/ltHR1tU76MEeOJld3UuCnxTsg4f6.m4a",
+      "pfad": "/v1/episode/f871f29d0616cf6cff58368e13f855b486f8c9e6.json",
+      "titel": "那些年我们追过的男孩女孩",
+      "veroeffentlicht": "2024-11-07T05:15:18+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾青春时期的青涩追求与情感经历"
     }
   ]
 }

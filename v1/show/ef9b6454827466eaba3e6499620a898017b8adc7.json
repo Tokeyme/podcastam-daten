@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "谢无敌®茶访谈",
   "apple_collection_id": "1710881183",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aab95979d326477816a8802",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/6aab95979d326477816a8802/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lp2w9bMcGg4cYE5GnXGsVmFbqBDG.m4a",
+      "pfad": "/v1/episode/ab9ca8ba570e53296d8f3199692bb5f8c5dfd027.json",
+      "titel": "Vol.70 普通人用AI做小红书，真正能够赚到钱的8种方式",
+      "veroeffentlicht": "2026-09-17T07:26:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨普通人用AI做小红书的8种变现方式与行动方案"
+    },
+    {
+      "guid": "6a8fcbb11352af56ff3ccda1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/6a8fcbb11352af56ff3ccda1/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lr6LJZdIoDLPc6VXDLiZf4T605wE.m4a",
+      "pfad": "/v1/episode/e82bfed6ad7e93545ba3c032e442f47fc0dea1cc.json",
+      "titel": "Vol.69 接广告&卖服务：剑桥学霸的小红书变现分享",
+      "veroeffentlicht": "2026-08-27T05:35:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "剑桥学uber在小红shu的账号定位、内容创作与变现方式"
+    },
     {
       "guid": "6a5586cd27a4eec16c4031cf",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/6a5586cd27a4eec16c4031cf/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lneVw1QvM_BvUZIKhRQgafdZi_Jl.m4a",
@@ -13,6 +33,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨个人创业的杠杆与小红书搞钱机会，分享从北漂大厂到独立创业的实战经验。"
+    },
+    {
+      "guid": "6a196990ac7bdb080c32c840",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/6a196990ac7bdb080c32c840/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lkSTTnHHKdVHm_7DeiXWaLBHF8nR.m4a",
+      "pfad": "/v1/episode/043ae76d4040a7623a65171f708208ba9dc3187f.json",
+      "titel": "Vol.67 线下没客流？我靠自媒体把生意重做一遍",
+      "veroeffentlicht": "2026-05-29T16:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "传统家居实体如何通过自媒体转型并在半年内实现千万变现"
+    },
+    {
+      "guid": "69e7a6361e94ae6921d458bb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/69e7a6361e94ae6921d458bb/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/ljUvAyE2dFlJaMGJzruiBQTW4E9K.m4a",
+      "pfad": "/v1/episode/3d29dc5adbcd243ee6d229ce301fdb4489333581.json",
+      "titel": "Vol.66 对话冷冷：放弃百万年薪，独闯女性颜色赛道",
+      "veroeffentlicht": "2026-04-21T16:39:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话冷冷：放弃百万年薪，独闯女性颜色赛道"
+    },
+    {
+      "guid": "69d28ce9b977fb2c472b21a7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/69d28ce9b977fb2c472b21a7/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lqqqXjiYMiCMyYBcolCihPkiuTx9.m4a",
+      "pfad": "/v1/episode/8c968226d86d0516744e483ccbf991ff03bfac9e.json",
+      "titel": "Vol.65 对话Jay潘潘：30万粉小红书母婴博主，选对赛道普通人也能做爆款 IP",
+      "veroeffentlicht": "2026-04-05T16:35:04+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话Jay潘潘：小红书母婴博主的IP打造与变现经验"
+    },
+    {
+      "guid": "69bfeee92d318777c92a309d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/69bfeee92d318777c92a309d/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lnw5HijY9shoayR6EWmkS2V5BS_5.m4a",
+      "pfad": "/v1/episode/5d287c7814254aafcfc361c9d86ffd845206c751.json",
+      "titel": "Vol.64 对话阿紫: 宝妈副业年入 20 万+，小红书母婴穿搭等4个赛道并行",
+      "veroeffentlicht": "2026-03-22T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨小红书母婴穿搭等赛道运营与副业变现经验"
+    },
+    {
+      "guid": "699e7d07a22480add60060e6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/699e7d07a22480add60060e6/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lk-ikCdCLZGBdp1SqYhspU3reSrg.m4a",
+      "pfad": "/v1/episode/128830914b4edca7e9774571965e1849c4005039.json",
+      "titel": "Vol.63 对话hin：单平台月入 10 万 +，家居建材小红书运营的核心玩法拆解",
+      "veroeffentlicht": "2026-02-25T04:44:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "家居建材品牌在小红书的单平台月入十万以上运营玩法拆解"
+    },
+    {
+      "guid": "698aefb2a22480add67dafb6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/698aefb2a22480add67dafb6/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lgdBRnI0qtT6BaVMkw4zE93mPnvE.m4a",
+      "pfad": "/v1/episode/0116ed8e6071c8b9a17c35801b7806ecdee6f3d1.json",
+      "titel": "Vol.62 对话便利贴女孩糖糖：一个人做小红书电商，首月就赚 3 万的底层逻辑",
+      "veroeffentlicht": "2026-02-10T08:48:02+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话便利贴女孩糖糖：一个人做小红书电商的底层逻辑"
+    },
+    {
+      "guid": "69709428ef1cf272a7a37d99",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d45bf028eb88cb58bf86c7/69709428ef1cf272a7a37d99/media.xyzcdn.net/64d45bf028eb88cb58bf86c7/lvkIJ9zPFHCZHKO7bgXFn1Lk8u02.m4a",
+      "pfad": "/v1/episode/df52b934154adca4ca36e10e8d69b14fa0ab6221.json",
+      "titel": "Vol.61 对话肖烨：下一个风口！卖房单边代理！带你解锁新行业",
+      "veroeffentlicht": "2026-01-21T09:07:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话肖烨探讨创业管理、流量变现与房产单边代理趋势"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "电影罐头",
   "apple_collection_id": "1320890354",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/4d9f-audiofreehighqps/25/57/CKwRINsEdZxZAl78hwCrqcqS.m4a",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "回顾美苏冷战时期的太空竞赛与登月历程"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M04/DF/F6/wKgMdV2Qsz6iq8kqAPXB3CH3yB4922.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgMdV2Qsz6iq8kqAPXB3CH3yB4922.m4a?channel=rss&album_id=10180165&track_id=216000533&uid=89729308&jt=https://aod.cos.tx.xmcdn.com/group66/M04/DF/F6/wKgMdV2Qsz6iq8kqAPXB3CH3yB4922.m4a",
+      "pfad": "/v1/episode/fbae06292fc8ab86625c23ec02cd7b20e1fd50e0.json",
+      "titel": "死宅社交代理满足de日剧推荐",
+      "veroeffentlicht": "2019-09-29T14:04:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "适合死宅观看的代理满足类日剧推荐"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M08/C1/7A/wKgMdV195z-THpZoB-1FoKY217Q228.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMdV195z-THpZoB-1FoKY217Q228.mp3.m4a?channel=rss&album_id=10180165&track_id=212275624&uid=89729308&jt=https://aod.cos.tx.xmcdn.com/group66/M08/C1/7A/wKgMdV195z-THpZoB-1FoKY217Q228.mp3",
+      "pfad": "/v1/episode/4547ad5da962f905546d46bb8b662b032672a05f.json",
+      "titel": "2019 第四季度值得你关注的电影 (老房部分)",
+      "veroeffentlicht": "2019-09-15T07:38:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "盘点并推荐2019年第四季度值得关注的电影作品。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M02/33/13/wKgLdlxspWKg3_r_Ai9qzZWs0O8293.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgLdlxspWKg3_r_Ai9qzZWs0O8293.m4a?channel=rss&album_id=10180165&track_id=161855248&uid=89729308&jt=https://aod.cos.tx.xmcdn.com/group56/M02/33/13/wKgLdlxspWKg3_r_Ai9qzZWs0O8293.m4a",
+      "pfad": "/v1/episode/42acb989fa36085f2557531feb2e4c4973aeb650.json",
+      "titel": "《流浪地球》科幻内容创作的简史（下）",
+      "veroeffentlicht": "2019-02-20T00:59:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《流浪地球》是否属于科幻作品以及中国科幻创作简史。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M02/E1/D1/wKgLd1xpA8OhxuWZAaKgEVXZwPY836.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgLd1xpA8OhxuWZAaKgEVXZwPY836.m4a?channel=rss&album_id=10180165&track_id=161097543&uid=89729308&jt=https://aod.cos.tx.xmcdn.com/group57/M02/E1/D1/wKgLd1xpA8OhxuWZAaKgEVXZwPY836.m4a",
+      "pfad": "/v1/episode/3a876335b1938645f72c3ebf3dba54ad1c12a1f8.json",
+      "titel": "《流浪地球》不是科幻？那让我们聊聊科幻内容创作的简史（上）",
+      "veroeffentlicht": "2019-02-17T06:51:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《流浪地球》是否属于科幻作品及西方科幻创作简史"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "简单心理",
   "apple_collection_id": "873914139",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2017/07/06/2611582758398706182_hd.mp3",
@@ -13,6 +13,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨亲密关系中的相似与互补，以及人们为何会被不同的人吸引。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/26/2609660930185908742_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/26/2609660930185908742_hd.mp3",
+      "pfad": "/v1/episode/2b7eafbc02da987fc2a7b6891db473061b6953cd.json",
+      "titel": "人们为什么会沉浸于回忆过去？",
+      "veroeffentlicht": "2017-06-26T10:58:56+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "人们为什么会沉浸于回忆过去？"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/23/2609105988198567942_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/23/2609105988198567942_hd.mp3",
+      "pfad": "/v1/episode/b75530b8ba0ce895e61db91d50522557c280c305.json",
+      "titel": "凡是被压抑的，总会卷土重来 | 为什么“别去想它”是行不通的？",
+      "veroeffentlicht": "2017-06-24T12:00:12+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "为什么刻意不去想某事反而会适得其反？"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/21/2608736872268022790_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/21/2608736872268022790_hd.mp3",
+      "pfad": "/v1/episode/5e5a60d9aa2112e776f26132ad73d31b7dd522ed.json",
+      "titel": "此时此地 2 ｜《给心理治疗师的礼物》第十七至十九章",
+      "veroeffentlicht": "2017-06-21T19:00:12+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨欧文·亚隆《给心理治疗师的礼物》第17至19章关于“此时此地”的应用。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/21/2608735435607741958_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/21/2608735435607741958_hd.mp3",
+      "pfad": "/v1/episode/b11b706736576d849e0883046d40b17bce9d9d41.json",
+      "titel": "被人冤枉怎么办？｜《替罪羊自救指南》",
+      "veroeffentlicht": "2017-06-21T11:16:28+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "被人冤枉怎么办？聊聊丢黑锅和背黑锅的心理机制与自救指南"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/16/2607804664653487622_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/16/2607804664653487622_hd.mp3",
+      "pfad": "/v1/episode/891c69805736505699f7445006c03bbc03f740fe.json",
+      "titel": "此时此地｜《给心理治疗师的礼物》第十四至十六章",
+      "veroeffentlicht": "2017-06-17T21:00:12+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨欧文·亚隆著作中关于心理治疗里此时此地的运用"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/16/2607807467114924550_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/16/2607807467114924550_hd.mp3",
+      "pfad": "/v1/episode/7372630fd6d2b807775c27da7e71fc6ba084f34e.json",
+      "titel": "被嫌弃的边缘型人格的一生",
+      "veroeffentlicht": "2017-06-17T20:00:12+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨边缘型人格的核心特征、成因以及如何与他们相处"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/14/2607433603102650886_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/14/2607433603102650886_hd.mp3",
+      "pfad": "/v1/episode/f8ffdd2a46f77bea3b512f25dc0c0223faa9fb00.json",
+      "titel": "“那个笑容背后，是无法抑制的悲伤”｜隐藏在面具之下的微笑抑郁",
+      "veroeffentlicht": "2017-06-14T17:00:12+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨什么是微笑型抑郁及其危险性"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/06/12/2607111727515830790_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/06/12/2607111727515830790_hd.mp3",
+      "pfad": "/v1/episode/7d78374f644a4714bab77ea81cdac347de9fd369.json",
+      "titel": "微小的情境都是人生重大的隐喻 | 《给心理治疗师的礼物》第十三章",
+      "veroeffentlicht": "2017-06-12T17:15:10+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨心理治疗中来访者对治疗师的情感与权力不对等问题。"
     }
   ]
 }

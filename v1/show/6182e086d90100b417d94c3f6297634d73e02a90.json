@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技双眼啤",
   "apple_collection_id": "1642252327",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "638ca5b0f6753f4e9d4d5f36",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨浏览器发展史，从市场份额到我们为何看好Arc浏览器。"
+    },
+    {
+      "guid": "6347b860e67030aadb38f551",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6301f1f98063c4980da9806a/6347b860e67030aadb38f551/media.xyzcdn.net/lhCaTo15egjrDBO-heitH9FIFlhP.m4a",
+      "pfad": "/v1/episode/7aade37c6a4a516a92d86d8ed3fffc56ec4bd96b.json",
+      "titel": "Ep.5 一起聊聊团队协同（ft. 陈皓 - MegaEase 创始人）",
+      "veroeffentlicht": "2022-10-13T07:03:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话 MegaEase 创始人陈皓探讨团队协同"
+    },
+    {
+      "guid": "631f6252f3d15f16f4cc3350",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6301f1f98063c4980da9806a/631f6252f3d15f16f4cc3350/media.xyzcdn.net/logp5fhob_vp-uzqKJit4GHUNdm0.m4a",
+      "pfad": "/v1/episode/ae2d384ae9f75627b892fdfe7de2e37ed340990d.json",
+      "titel": "Ep.4 微博 vs Twitter",
+      "veroeffentlicht": "2022-09-12T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "开发者与设计师对比微博与推特的使用体验与功能差异。"
+    },
+    {
+      "guid": "631a288d43274df80456d0d8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6301f1f98063c4980da9806a/631a288d43274df80456d0d8/media.xyzcdn.net/ln_RYmsIJRW0cr2aIZoWxj87jmcH.m4a",
+      "pfad": "/v1/episode/badbe04ac5bc6df01b4204c2543934ad364db68f.json",
+      "titel": "Ep.3「Far Out」苹果发布会",
+      "veroeffentlicht": "2022-09-08T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Apple 2022「Far Out」新品发布会"
+    },
+    {
+      "guid": "630bfd2f135e1eaf1799c42c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6301f1f98063c4980da9806a/630bfd2f135e1eaf1799c42c/media.xyzcdn.net/lqizdl9cT2A7TbPwEasH1BKLH4MO.m4a",
+      "pfad": "/v1/episode/4ffdd57eb4fa8024e3839c76a902d93e3e0caa8b.json",
+      "titel": "Ep.2 国内办公平台天花板，就这？飞书 vs Slack",
+      "veroeffentlicht": "2022-08-28T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "飞书与 Slack 的产品对比与讨论"
+    },
+    {
+      "guid": "6301f1f98063c4980da9806b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6301f1f98063c4980da9806a/6301f1f98063c4980da9806b/media.xyzcdn.net/loJ2dRmpzmEGxxarqajYlH4IyE6m.m4a",
+      "pfad": "/v1/episode/59fb1db3aafe58557e9c5b397da13486d305b33a.json",
+      "titel": "Ep.1 为什么从美国回来创业",
+      "veroeffentlicht": "2022-08-20T17:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从美国留学到游戏开发，再到回国创业的经历与思考"
+    },
+    {
+      "guid": "6301f1f98063c4980da9806c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6301f1f98063c4980da9806a/6301f1f98063c4980da9806c/media.xyzcdn.net/llyrg2DkVjZ7GCWqNceoyzveGx29.m4a",
+      "pfad": "/v1/episode/719d99d39aaccc84843ff40ab1c27865dc148cfc.json",
+      "titel": "Ep.0 第一次接触 Apple 产品",
+      "veroeffentlicht": "2022-08-19T17:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "两位主播回忆各自初次接触苹果设备的经历"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "跑火车播客",
   "apple_collection_id": "645766508",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2025/11/29/3180811144331065862_hd.mp3",
@@ -13,6 +13,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "小时候想当拯救世界的英雄，长大后才发现守护身边人更需要急救技能。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2025/05/09/3142914292088318470_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2025/05/09/3142914292088318470_hd.mp3",
+      "pfad": "/v1/episode/f64a4eab316544a0e455730a9db8d6d228407739.json",
+      "titel": "DIY一颗坏甜心（ft.Bad Sweetheart）",
+      "veroeffentlicht": "2025-05-09T11:49:15+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "与Bad Sweetheart乐队聊聊音乐与DIY精神"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2025/04/28/3140896181445484550_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2025/04/28/3140896181445484550_hd.mp3",
+      "pfad": "/v1/episode/1a9a256559686976b4a52558c3eb70787db5c87b.json",
+      "titel": "跟柯泯薰《好好的》聊一聊：阳光，音乐，恋爱和当老板",
+      "veroeffentlicht": "2025-04-28T14:34:24+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话唱作人柯泯薰，聊聊她的音乐创作、人生经历与恋爱观。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2025/04/16/3138685387832576518_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2025/04/16/3138685387832576518_hd.mp3",
+      "pfad": "/v1/episode/36acd8cbbcd011e0b02fb001d2e4ae3a2dfe30fe.json",
+      "titel": "这个KTV包厢里，怎么全是乐队主唱啊！？",
+      "veroeffentlicht": "2025-04-16T16:45:09+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "多位乐队主唱做客节目，分享各自的KTV必唱金曲。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2025/04/07/3137054400077838342_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2025/04/07/3137054400077838342_hd.mp3",
+      "pfad": "/v1/episode/518c056af3858860f05a481c81591fdd56047a84.json",
+      "titel": "好在没失去做音乐的能力（嘉宾：桃子假象乐队）",
+      "veroeffentlicht": "2025-04-08T08:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话桃子假象乐队，探讨都市上班族如何做音乐。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/11/25/3112340683356956678_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/11/25/3112340683356956678_hd.mp3",
+      "pfad": "/v1/episode/0e3f5f1a56767d8516c28eb1876de3d01b1efdb0.json",
+      "titel": "在自己家里种出一片旷野",
+      "veroeffentlicht": "2024-11-25T17:05:11+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话音乐现场栏目“homegrown自家种”创立者Christy与Leo1Bee"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/10/28/3107162524755435526_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/10/28/3107162524755435526_hd.mp3",
+      "pfad": "/v1/episode/a3e9e096fbd5b17063a8b24fb187b8afeaf69446.json",
+      "titel": "亏了300多万，他办了场音乐节 - 跟Can Festival主办人罐头聊天",
+      "veroeffentlicht": "2024-10-28T19:11:47+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话Can Festival主办人罐头，聊聊亏损办音乐节的经历。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/10/08/3103393920733433350_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/10/08/3103393920733433350_hd.mp3",
+      "pfad": "/v1/episode/6a53402df3b9814adf88a80f90625d77348bcc45.json",
+      "titel": "这钱花得爽",
+      "veroeffentlicht": "2024-10-08T11:42:20+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2024年人们为演唱会和音乐节花钱的消费现象。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/09/23/3100605838418519558_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/09/23/3100605838418519558_hd.mp3",
+      "pfad": "/v1/episode/eae81d4480e2fbd739c3476736d20f4e2697b70f.json",
+      "titel": "10年前的生活，怎么那么开心随意自由啊！",
+      "veroeffentlicht": "2024-09-23T11:02:32+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾十年前的生活状态，探讨为何当时会觉得更加快乐、随意和自由。"
     }
   ]
 }

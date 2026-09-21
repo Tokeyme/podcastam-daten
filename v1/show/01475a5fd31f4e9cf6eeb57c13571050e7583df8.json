@@ -2,8 +2,78 @@
   "schema_version": 1,
   "show": "顽人播客",
   "apple_collection_id": "1871976453",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/19/3235332082261791238_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/19/3235332082261791238_hd.mp3",
+      "pfad": "/v1/episode/f964b07f35569e0543622b22120f634b24fdf2ae.json",
+      "titel": "80.顽人播客会客厅 怪谈-“我祖爷爷的遗像照片在笑”我的灵异体质",
+      "veroeffentlicht": "2026-09-20T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨民间传说的灵异体质与多个诡异怪谈故事。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/12/3234015537348167174_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/12/3234015537348167174_hd.mp3",
+      "pfad": "/v1/episode/19abdd6b322f8f66ac2ab65435521a78448d5626.json",
+      "titel": "78.顽人播客会客厅 怪谈-“你猜我看见了什么？”老城厢灭门怪事",
+      "veroeffentlicht": "2026-09-13T00:00:02+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "天津老城厢拆迁改造期间发生的诡异灵异故事。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/08/3233292037222428166_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/08/3233292037222428166_hd.mp3",
+      "pfad": "/v1/episode/7b2da315d12d87bb80766a92127ddd31d904abba.json",
+      "titel": "77.顽人播客会客厅 迷案-“奸情出人命”天津鬼市真假人头案",
+      "veroeffentlicht": "2026-09-09T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "天津鬼市的真假人头案与民国迷案"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/05/3232720750429663238_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/05/3232720750429663238_hd.mp3",
+      "pfad": "/v1/episode/9d06efc0fc976f5f36e316da4230969c95c1ebc0.json",
+      "titel": "76.顽人播客会客厅 青帮演义-“从大官到和尚，黑帮奉为第一祖师”金祖出世",
+      "veroeffentlicht": "2026-09-06T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨青帮传奇祖师金幼孜的历史演变与漕运发展"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/01/3231979359924636678_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/01/3231979359924636678_hd.mp3",
+      "pfad": "/v1/episode/2247cb7f28f0a944b8a920c35fb4b77fa4ec4ce5.json",
+      "titel": "75.顽人播客会客厅 迷案-“你是菲菲还是干爹？”山东烟台杀猪盘网恋案",
+      "veroeffentlicht": "2026-09-02T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "山东烟台杀猪盘网恋案解析"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/29/3231428985635311622_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/29/3231428985635311622_hd.mp3",
+      "pfad": "/v1/episode/be3ab94354c7ae57f01b1025e55ed412ec067c0e.json",
+      "titel": "74.顽人播客会客厅 迷案-“重婚下的血案”天津柳箱藏尸案",
+      "veroeffentlicht": "2026-08-30T00:00:01+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "天津柳箱藏尸案：民国末期震惊华北的重婚血案"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/25/3230681295947571206_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/25/3230681295947571206_hd.mp3",
+      "pfad": "/v1/episode/a33a1190114aa9a38b34d0a777281fb43dfdf4e6.json",
+      "titel": "73.顽人播客会客厅 怪谈-中元特辑“你在多管闲事，我就找你”幽灵高速鬼上身",
+      "veroeffentlicht": "2026-08-26T00:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "中元节特辑怪谈故事，包含四个灵异经历。"
+    },
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/08/22/3230163123482249734_hd.mp3",
       "audio_url": "https://cdn.lizhi.fm/audio/2026/08/22/3230163123482249734_hd.mp3",
@@ -13,6 +83,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "天津大邱庄昔日首富禹作民的发迹与覆灭史"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/17/3229192873189829126_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/08/17/3229192873189829126_hd.mp3",
+      "pfad": "/v1/episode/2490dc2f77dc7506724eae9e7e7c8bfbc33cbe8c.json",
+      "titel": "71.顽人播客会客厅 迷案-“公家编制难求，我给自己封侯”现代假钦差赵锡永案",
+      "veroeffentlicht": "2026-08-19T00:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨现代假钦差赵锡永的离奇诈骗案及其相关经历。"
     }
   ]
 }

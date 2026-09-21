@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "观未来：AI+教育",
   "apple_collection_id": "1718702011",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aa94e5d9d3264778169a6f1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6aa94e5d9d3264778169a6f1/media.xyzcdn.net/654b46b39da6ed7e74bc9764/llVITV3-MyHfB3Dh0l2jsmQm2Nqt.m4a",
+      "pfad": "/v1/episode/52eb87e85519d47a6edd86d67432cecc315ae8e3.json",
+      "titel": "25.AI总在同一个地方犯错？给大模型、Agent和自己建一本错题集",
+      "veroeffentlicht": "2026-09-16T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何为大模型、Agent及自身建立错题集以减少重复错误。"
+    },
     {
       "guid": "6a77e7e0c4079d62c57f79fd",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6a77e7e0c4079d62c57f79fd/media.xyzcdn.net/654b46b39da6ed7e74bc9764/lkj5Cxg8eJI1rnH838JYcZJd3nC9.m4a",
@@ -13,6 +23,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "文科生如何利用AI实现副业破局，从出卖时间走向构建数字公司和智能体系统。"
+    },
+    {
+      "guid": "6a6dbf711b5e24969ce73a3b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6a6dbf711b5e24969ce73a3b/media.xyzcdn.net/654b46b39da6ed7e74bc9764/llUC15diE5pgzx-4jCIc8MiOPxC1.m4a",
+      "pfad": "/v1/episode/7557f933a75c3d1ad83a78946aa8fb54b6c3300c.json",
+      "titel": "23.文科生的AI突围战（上）",
+      "veroeffentlicht": "2026-08-03T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨文科生如何在AI时代发挥优势实现职场突破"
+    },
+    {
+      "guid": "6a4f60bd1e32575f5eb3bb0d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6a4f60bd1e32575f5eb3bb0d/media.xyzcdn.net/654b46b39da6ed7e74bc9764/lon_gge03PoOg2M5zCsE5JWH8CKj.m4a",
+      "pfad": "/v1/episode/104f8a300f7fcf9a96a2fdfde0cc0bc5b6b365ca.json",
+      "titel": "22.毕业之后的第一个暑假",
+      "veroeffentlicht": "2026-07-10T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨毕业后的第一个暑假如何度过与规划"
+    },
+    {
+      "guid": "6a20bf447444b5722232fd2d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6a20bf447444b5722232fd2d/media.xyzcdn.net/654b46b39da6ed7e74bc9764/luXPzlUbMWJ6H0YpcGBZsyCPjaOI.m4a",
+      "pfad": "/v1/episode/cdacad431423e1c23e98aec678fa7195829b4bdf.json",
+      "titel": "21.高考报考之AI辅助报考",
+      "veroeffentlicht": "2026-06-05T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI如何辅助高考志愿填报及相关决策方法"
+    },
+    {
+      "guid": "6a07e1ea1b7bd502953e34c3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6a07e1ea1b7bd502953e34c3/media.xyzcdn.net/654b46b39da6ed7e74bc9764/luQR-HsauLbkx063rwG7E5VRjAeY.m4a",
+      "pfad": "/v1/episode/bd7fc19c830382129fb34fd074b12992ad143190.json",
+      "titel": "20.我对高考有话说",
+      "veroeffentlicht": "2026-05-16T03:24:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨2026年高考模式与志愿填报相关内容"
+    },
+    {
+      "guid": "69e46b131d989496e7f6242d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/69e46b131d989496e7f6242d/media.xyzcdn.net/654b46b39da6ed7e74bc9764/lkbhDJFV8h-MJ4SWBH93LbUXqSLO.m4a",
+      "pfad": "/v1/episode/e9b9e4c31f35f85e85e1c2cb49b674d38197239e.json",
+      "titel": "19.AI的工具性与创意性两者兼得吗",
+      "veroeffentlicht": "2026-04-20T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI的工具性与创意性是否可以兼得。"
+    },
+    {
+      "guid": "69c480ee852cf1b8bbe74758",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/69c480ee852cf1b8bbe74758/media.xyzcdn.net/654b46b39da6ed7e74bc9764/lvIlp9XGA_S8RbE7alK5ATUwQbdm.m4a",
+      "pfad": "/v1/episode/f2f3ac77d688011db2c499d6ec0dc771991deac7.json",
+      "titel": "18.如何用AI来学习大学课程",
+      "veroeffentlicht": "2026-03-26T00:45:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何利用人工智能来高效学习困难的大学课程。"
+    },
+    {
+      "guid": "69a7cd820ed7deec90624f53",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/69a7cd820ed7deec90624f53/media.xyzcdn.net/654b46b39da6ed7e74bc9764/ljvkx2DB_7kC7M2UmwxAB7eTh7yw.m4a",
+      "pfad": "/v1/episode/56b60c10a1e76b10956361e66271d8044b63951f.json",
+      "titel": "17.The Bitter Lesson与原子化",
+      "veroeffentlicht": "2026-03-05T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨The Bitter Lesson与AI带来的原子化生活形态。"
+    },
+    {
+      "guid": "6986dc2ea22480add6ef5a2d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/654b46b39da6ed7e74bc9764/6986dc2ea22480add6ef5a2d/media.xyzcdn.net/654b46b39da6ed7e74bc9764/luGEcSBq_2Y4ziXN3knZWUutq_Da.m4a",
+      "pfad": "/v1/episode/fb208dfd685e2ec37386f51daa826f92189634d5.json",
+      "titel": "16.也谈空杯心态",
+      "veroeffentlicht": "2026-02-09T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI大爆发时代普通人如何保持空杯心态"
     }
   ]
 }

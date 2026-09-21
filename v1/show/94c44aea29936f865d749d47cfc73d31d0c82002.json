@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技与生活 Tech & Life",
   "apple_collection_id": "1204682344",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group50/M0B/97/F3/wKgKmVvnN7CyY3uxAANYYSolNI0885.m4a",
@@ -13,6 +13,26 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "主播刘登凯宣布开设科技与生活精选集新专辑。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group49/M04/74/88/wKgKl1vAzxTwgIPHBIo2h7roX7I448.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgKl1vAzxTwgIPHBIo2h7roX7I448.mp3.m4a?channel=rss&album_id=5915629&track_id=128897531&uid=65089281&jt=https://aod.cos.tx.xmcdn.com/group49/M04/74/88/wKgKl1vAzxTwgIPHBIo2h7roX7I448.mp3",
+      "pfad": "/v1/episode/28916ab43fbdf897aafa28a33ad09942c965d02b.json",
+      "titel": "197. 讓老師事半功倍的AI教育（上）",
+      "veroeffentlicht": "2018-10-12T18:27:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討全球教育困境與人工智慧在教育領域的應用發展。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M07/74/AD/wKgKnlvAzgvjM6ihBA5w0F4vV-o161.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgKnlvAzgvjM6ihBA5w0F4vV-o161.mp3.m4a?channel=rss&album_id=5915629&track_id=128897530&uid=65089281&jt=https://aod.cos.tx.xmcdn.com/group51/M07/74/AD/wKgKnlvAzgvjM6ihBA5w0F4vV-o161.mp3",
+      "pfad": "/v1/episode/31249ef0297dd5ac78436ef9f0cace6684be7e36.json",
+      "titel": "197. 讓老師事半功倍的AI教育（下）",
+      "veroeffentlicht": "2018-10-12T18:27:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探討全球教育困境與如何利用AI科技解決"
     }
   ]
 }

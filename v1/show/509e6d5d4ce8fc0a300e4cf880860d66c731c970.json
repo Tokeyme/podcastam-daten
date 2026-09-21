@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "袖里乾坤播客",
   "apple_collection_id": "792272903",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/05/06/3210120370526496262_hd.mp3",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "送礼不仅是一门学问，更是一场关于心意、经济能力与边界感的真人秀。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/01/28/3191876891652378118_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/01/28/3191876891652378118_hd.mp3",
+      "pfad": "/v1/episode/f1b2207ce8ad52785c0a2ebe34191e31bca3f034.json",
+      "titel": "大人的世界没有眼泪？",
+      "veroeffentlicht": "2026-01-28T20:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨成年人为何想哭却哭不出来及其背后的情绪压抑。"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "鬼马电影",
   "apple_collection_id": "1065436805",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2017/03/09/2589450203513345030_hd.mp3",
@@ -13,6 +13,86 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨两部以战争内战与家庭离散为主题的严肃艺术片《风吹麦浪》与《团圆》。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2017/01/09/2578527929676009478_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2017/01/09/2578527929676009478_hd.mp3",
+      "pfad": "/v1/episode/299b2842cb6c94532f53db48fc3b97067fa1d0b1.json",
+      "titel": "Vol.25    电影技术的突破——谈李安及冯小刚导演  鬼马电影",
+      "veroeffentlicht": "2017-01-09T16:07:42+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨李安与冯小刚等导演在电影技术上的突破与尝试。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/12/05/2572017478662897670_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/12/05/2572017478662897670_hd.mp3",
+      "pfad": "/v1/episode/dc4000a06bc444687ae552f0bbf6c6810caae099.json",
+      "titel": "Vol.24 《你的名字。》—新海诚特辑 鬼马电影",
+      "veroeffentlicht": "2016-12-05T13:57:08+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨新海诚导演的多部经典动画电影作品"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/10/14/2562389319708343302_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/10/14/2562389319708343302_hd.mp3",
+      "pfad": "/v1/episode/b40d6c621be7fa4b301e3422e87d164084e6b624.json",
+      "titel": "Vol.23   杜琪峰与北野武心中的道义江湖   鬼马电影",
+      "veroeffentlicht": "2016-10-14T16:39:39+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨杜琪峰与北野武作品中的道义江湖"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/08/23/2552717862957004806_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/08/23/2552717862957004806_hd.mp3",
+      "pfad": "/v1/episode/462df2a5c486b206efaf04b27be9bbc1f30014a1.json",
+      "titel": "Vol.22   DC电影，从不凡到自命不凡    鬼马电影",
+      "veroeffentlicht": "2016-08-23T13:35:11+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨DC电影的发展历程及如何应对市场困境"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/08/04/2549185774194885638_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/08/04/2549185774194885638_hd.mp3",
+      "pfad": "/v1/episode/2e05a77135ca25cf98c0cb5cb31981621fe4f8b5.json",
+      "titel": "Vol.21  奥运之城里约热内卢 （上帝之城  精英部队）  鬼马电影",
+      "veroeffentlicht": "2016-08-04T12:39:22+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过巴西电影聊聊里约热内卢的城市特质"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/22/2546772470726264326_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/22/2546772470726264326_hd.mp3",
+      "pfad": "/v1/episode/55103e82e8f329e84ceb2f9b01e8e0cd6398cc88.json",
+      "titel": "Vol.20  系列电影闲聊（独立日 寒战）  鬼马电影",
+      "veroeffentlicht": "2016-07-22T12:28:10+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨系列电影为何难以延续经典品质。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/08/2544171844406587398_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/07/08/2544171844406587398_hd.mp3",
+      "pfad": "/v1/episode/a643105d9c7e24ec92edf72b1fb20e5a8463bbe1.json",
+      "titel": "Vol.19  可爱的失败者  鬼马电影",
+      "veroeffentlicht": "2016-07-08T12:13:02+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影中充满浪漫色彩的可爱失败者形象"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2016/06/22/2541235559950119942_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2016/06/22/2541235559950119942_hd.mp3",
+      "pfad": "/v1/episode/2e40b0c3767f80e665e31c35c2a65eed12959f62.json",
+      "titel": "Vol.18  《三体》 它跑的比预测更快  鬼马电影",
+      "veroeffentlicht": "2016-06-22T16:22:08+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "科幻爱好者探讨《三体》及相关电影作品。"
     }
   ]
 }

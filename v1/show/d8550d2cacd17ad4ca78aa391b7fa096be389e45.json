@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "64d77b01-50f7-4ce3-a02e-18dde5da345c",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/97ab1978-a00d-41ee-a13a-29ec92046950/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=97ab1978-a00d-41ee-a13a-29ec92046950&feed=Xtqjn37O",
+      "pfad": "/v1/episode/c48304fec304283db39e9ec98397b2f4823c2609.json",
+      "titel": "CDU: Einmal verloren, einmal rausgeflogen – was folgt für Merz?",
+      "veroeffentlicht": "2026-09-21T03:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Folgen von Landtagswahl in MV und Abgeordnetenhauswahl in Berlin für die Bundespolitik"
+    },
+    {
+      "guid": "7f12065c-f64f-496f-8cd9-abacebe20d71",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/6e5c4322-e9ee-4488-8463-be89dac203aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=6e5c4322-e9ee-4488-8463-be89dac203aa&feed=Xtqjn37O",
+      "pfad": "/v1/episode/8783659ec7933a25164cfb34e321d9c395603c31.json",
+      "titel": "Landtagswahlen: AfD und Linke gewinnen, CDU erlebt ein »Desaster« (Wahlspezial)",
+      "veroeffentlicht": "2026-09-20T18:13:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Schnellanalyse zu den Landtagswahlen in Mecklenburg-Vorpommern und Berlin"
+    },
     {
       "guid": "386cc74a-95f9-425e-b98d-edfc91ec19d2",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/fb9e9505-8454-4a8a-becf-2b1cbb3de3e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=fb9e9505-8454-4a8a-becf-2b1cbb3de3e2&feed=Xtqjn37O",

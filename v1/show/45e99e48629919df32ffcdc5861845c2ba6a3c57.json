@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6ab0170e0916f6f8b4466ad8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ab0170e0916f6f8b4466ad8/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lg2e-KIfgkGYpuRnZIPx4wPXTz7S.m4a",
+      "pfad": "/v1/episode/467a70f5dd39bdf69916fe5d9cda885e3c23c4a5.json",
+      "titel": "0921 显示器涨价、100多家A级景区被摘牌、农村百户汽车拥有量46.5辆、陕西或发现华阳太后墓",
+      "veroeffentlicht": "2026-09-20T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "近期经济、社会、科技及健康领域的多项热点资讯速递"
+    },
+    {
+      "guid": "6aae959b0916f6f8b445d90b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aae959b0916f6f8b445d90b/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lo9nNyfWSVGYAke9-XK9hR3iAK4L.m4a",
+      "pfad": "/v1/episode/7da92043f6e72f905d9b18bf1b61e4273f883883.json",
+      "titel": "0920 谷歌承认：AI模型“黑”进3家公司、亚运组委会向韩国道歉、诺贝尔奖奖金再次上调、特朗普自宣零成本拿下格陵兰岛",
+      "veroeffentlicht": "2026-09-19T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨近期新闻热点以及深夜大脑的神经科学研究发现"
+    },
+    {
+      "guid": "6aac09189d326477816ac4ee",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aac09189d326477816ac4ee/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lliD1SdIrgA29NhhAu47j4VqiyHn.m4a",
+      "pfad": "/v1/episode/44b9eba9bee41f565d1a12ebedf9441add0a7109.json",
+      "titel": "0918 美国返还58件中国文物、New Balance起诉迪卡侬侵权商标、全球首例大熊猫“箍牙齿”、赵家驹创造历史",
+      "veroeffentlicht": "2026-09-17T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全球油运市场行情、文物返还、大熊猫箍牙齿及身体圆度指数探讨"
+    },
     {
       "guid": "6aaaaeee9d326477816a3c75",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aaaaeee9d326477816a3c75/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lgyDQ2Fci4WVsjVIerlD5eIaW3Fg.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "图拉斯赞助播客，涵盖国庆火车票开售、张一鸣成亚洲首富及多地热点资讯"
+    },
+    {
+      "guid": "6aa9620d051af796b9e8bc6c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aa9620d051af796b9e8bc6c/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lkXd9-kw_8SbuoU9ovkA0-2BuZij.m4a",
+      "pfad": "/v1/episode/65b3421bdcd30b7fe3a55715fed0015bac702eb5.json",
+      "titel": "0916 房地产市场出现重要变化、iOS 27闹钟支持调休、钟薛高“复活”、多国吐槽亚运会住宿",
+      "veroeffentlicht": "2026-09-15T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "房地产市场变化、iOS 27闹钟、钟薛高复活与亚运会住宿"
+    },
+    {
+      "guid": "6aa817fd9d326477816920c7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aa817fd9d326477816920c7/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/llsV3ZkbusVp8GeERGj3HEwlH6h4.m4a",
+      "pfad": "/v1/episode/44df3a153b3b813887dd3b37e269a608b0acb90a.json",
+      "titel": "0915 超50所高校宣布连休13天、“燃油车已没有未来”、韩国股市延长交易时段",
+      "veroeffentlicht": "2026-09-14T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨高校连休、燃油车未来及年轻人中的“丰容”现象"
+    },
+    {
+      "guid": "6aa6bfac9d32647781688059",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aa6bfac9d32647781688059/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lruJLIaxvqo-txh3_hrXhvCx3EKz.m4a",
+      "pfad": "/v1/episode/141f11fdc40242d796b5d994e46f726fcdbb2342.json",
+      "titel": "0914 四大国有行“秋招”缩招、香飘飘开始做现制茶饮、漠河开栓供暖、孙心然美网夺冠将参加中网正赛",
+      "veroeffentlicht": "2026-09-13T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨四大行秋招、人形机器人降价及网络热梗对语言表达的影响"
+    },
+    {
+      "guid": "6aa2d90e9d32647781673e49",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aa2d90e9d32647781673e49/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lvZK3DDh5AXpGwlgAL2FFClbP7hJ.m4a",
+      "pfad": "/v1/episode/914f908d8cee41ad31e22cce9cdb4d3192f6e204.json",
+      "titel": "0911 茶颜悦色小酒馆将全部关店、日本暴发梅毒疫情、人类史上首次老人比小孩多",
+      "veroeffentlicht": "2026-09-10T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "茶颜悦色小酒馆将全部关店、日本梅毒疫情及大闸蟹上市指南"
+    },
+    {
+      "guid": "6aa175ff492687f6aad77aab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aa175ff492687f6aad77aab/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/liYgKDEZ59OCXBeJD_15tmaAPLC6.m4a",
+      "pfad": "/v1/episode/c7a055266501aba3ea09ad076806b75c6768cf92.json",
+      "titel": "0910 红果短剧日活超“爱优腾芒”总和、纽约公开17万页“9·11”档案、多瑙河布达佩斯段水位降至1厘米",
+      "veroeffentlicht": "2026-09-09T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾近期国内外热点新闻及第36届搞笑诺贝尔奖获奖研究"
+    },
+    {
+      "guid": "6aa01c15f03e74ee6b073573",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aa01c15f03e74ee6b073573/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/luFn1jFUXCN9bFCrc3PzF21aOpbI.m4a",
+      "pfad": "/v1/episode/7c9cefa7c27a7003406fae428e38e40a09142f47.json",
+      "titel": "0909 茅台/古驰调价、DeepSeek扩招、《旅行青蛙》即将停运、美国连环杀手数量全球第一",
+      "veroeffentlicht": "2026-09-08T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "近期国内外热点新闻盘点与体脂秤测量原理科普"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "觉醒游戏",
   "apple_collection_id": "1720678409",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "66014af61519139e4f7770ef",
@@ -13,6 +13,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "主动提高觉知力从小事切入，无需经历巨大磨难也能成为觉醒的天选之人。"
+    },
+    {
+      "guid": "65c4dbb8b6c9256aeeb5b511",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/65c4dbb8b6c9256aeeb5b511/media.xyzcdn.net/ljNiaq7XQ9r8AqpEK5_PjwfdICI7.m4a",
+      "pfad": "/v1/episode/b7bb4ddfda60266217725c1463cfc80cff0b4420.json",
+      "titel": "011 | 春节历劫之真心话大冒险。我就是我，不一样的花火",
+      "veroeffentlicht": "2024-02-09T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何以全新心态面对春节家庭聚会与长辈问候"
+    },
+    {
+      "guid": "65be1127b6c9256aee82ed4a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/65be1127b6c9256aee82ed4a/media.xyzcdn.net/ln8aQj4QJQN4C0aAhmmGHRF4IOjz.m4a",
+      "pfad": "/v1/episode/3a1d9c32e5c56336f001ca9554e2f979ef2ad883.json",
+      "titel": "010 | 什么是灵魂伴侣？什么时候会想找灵魂伴侣？我们需要找灵魂伴侣吗？",
+      "veroeffentlicht": "2024-02-03T10:10:46+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨什么是灵魂伴侣以及我们是否需要寻找完美的灵魂伴侣"
+    },
+    {
+      "guid": "659eeaee926ad7aad0c49335",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/659eeaee926ad7aad0c49335/media.xyzcdn.net/lnbI5P_I84HY50jabctw4qAbGgr5.m4a",
+      "pfad": "/v1/episode/3ac6da03f9a229f6f37ca2c8f744e69fa0c4fef2.json",
+      "titel": "008 | 如何在生活中破除恐惧的幻相，勇于前行？在生活中有哪些常见的恐惧？",
+      "veroeffentlicht": "2024-01-12T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨生活中的恐惧幻相，寻找勇于前行的方法"
+    },
+    {
+      "guid": "6596883e2e26fb9934851e27",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/6596883e2e26fb9934851e27/media.xyzcdn.net/lmn03slksk7aaolPGI00Bju3b8gz.m4a",
+      "pfad": "/v1/episode/d94deb954bc0290e2c1eb8e9dc7c9293820cd733.json",
+      "titel": "007 | 在觉醒路上如何找到热爱的生命方向？发挥天赋所在？",
+      "veroeffentlicht": "2024-01-05T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何在觉醒路上找到生命方向与开发天赋。"
+    },
+    {
+      "guid": "658cb8cd6396a4645a3c62bd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/658cb8cd6396a4645a3c62bd/media.xyzcdn.net/lq8VBX96141pJnl0FXkpDc_MozKe.m4a",
+      "pfad": "/v1/episode/e1601fa6ffaadb27b96e89b5a3cd07c4f36500c4.json",
+      "titel": "006 | 我们期待在关系中，成为怎么样的自己？在每段关系中是否会有不同面向的自己正在焕发新生，待我们发掘？",
+      "veroeffentlicht": "2023-12-29T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨我们在关系中如何探索自我、接纳不同面向并活出真实期待。"
+    },
+    {
+      "guid": "6583b0133d5d24e9cb6d0621",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/6583b0133d5d24e9cb6d0621/media.xyzcdn.net/lhlD0Uhgy-Rktg0hTeN5uZ9MCd6i.m4a",
+      "pfad": "/v1/episode/c9cd8539c645b7ed460b095bb780fe8e6dd597df.json",
+      "titel": "005 | 通过自我提升，如何能活出没有限制的人生，以及展现出健康有趣的生命(性)能量？",
+      "veroeffentlicht": "2023-12-22T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨自我提升与破除限制，活出健康有趣且充满激情的人生。"
+    },
+    {
+      "guid": "6579ada73d1caa927a95a079",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/6579ada73d1caa927a95a079/media.xyzcdn.net/lm7X0STinP78k0x6zt2RLOkN4ei9.m4a",
+      "pfad": "/v1/episode/783f999b1d3da4a26f23106df20f82fee7fbb0dc.json",
+      "titel": "004 | 记起我们为什么而来?当初为何我们的灵性意识选择了这个身体?我要怎么活出来生命之光？",
+      "veroeffentlicht": "2023-12-15T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨灵性意识与身体的关系以及如何活出生命之光"
+    },
+    {
+      "guid": "6570e35dd6e0ff5822cdca45",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65602a90d0028fb4cb9db320/6570e35dd6e0ff5822cdca45/media.xyzcdn.net/ltoKXDrGohHvxbfuyeobVEWNRFyu.m4a",
+      "pfad": "/v1/episode/93991b3f825388deca29300737061e3007804ae6.json",
+      "titel": "003 | 宇宙是爱我的吗？没成为理想中的自己还爱我吗？",
+      "veroeffentlicht": "2023-12-08T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何看待爱与宇宙的爱，以及未成理想中的自己时是否还能得到爱。"
     }
   ]
 }

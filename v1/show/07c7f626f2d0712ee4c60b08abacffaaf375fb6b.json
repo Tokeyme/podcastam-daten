@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "AI可可AI生活",
   "apple_collection_id": "1755963354",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6ab05a1bac389df82734ee17",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6ab05a1bac389df82734ee17/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/ljQZp912RuP5glb2kgu_13cnrZfP.m4a",
+      "pfad": "/v1/episode/151a8cf055fb6d057915218f3d6d5fd50a9fc662.json",
+      "titel": "[人人能懂AI前沿] 从层级失效、肢体复用到机器痛觉",
+      "veroeffentlicht": "2026-09-20T23:34:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI团队层级协作、机器人肢体复用及大模型痛觉等前沿论文。"
+    },
     {
       "guid": "6aaf1fc00916f6f8b445f033",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6683665e2063a3f1ac0cb50d/6aaf1fc00916f6f8b445f033/media.xyzcdn.net/6683665e2063a3f1ac0cb50d/lsTgoaVqUTOqzDgvZ0x1nFUh9Gjh.m4a",

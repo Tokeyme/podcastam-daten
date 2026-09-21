@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "电影无用（Wu出品）",
   "apple_collection_id": "1449122549",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/09/01/3231997497264982534_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2026/09/01/3231997497264982534_hd.mp3",
+      "pfad": "/v1/episode/c66c686a28c0beaeefaca7a5409a6348eed27640.json",
+      "titel": "Vol.99《奥德赛 》",
+      "veroeffentlicht": "2026-09-01T14:43:21+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨克里斯托弗·诺兰导演的新片《奥德赛》的相关信息。"
+    },
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/07/20/3223995249797463046_hd.mp3",
       "audio_url": "https://cdn.lizhi.fm/audio/2026/07/20/3223995249797463046_hd.mp3",
@@ -13,6 +23,76 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "两位主播深入探讨电影《给阿嬷的情书》，分享潮汕文化与真挚情感带来的感动。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/11/06/3108826434047246854_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/11/06/3108826434047246854_hd.mp3",
+      "pfad": "/v1/episode/b19e04046e8ef0619711e57d866ce419cc77d664.json",
+      "titel": "Vol.97《小丑2：双重妄想》（音质地狱版）",
+      "veroeffentlicht": "2024-11-06T18:27:54+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《小丑2：双重妄想》的内容与相关背景。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2024/03/11/3064235100032163334_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2024/03/11/3064235100032163334_hd.mp3",
+      "pfad": "/v1/episode/fa54b518feadf33f1c5d5fcceeaae57bccebb470.json",
+      "titel": "Vol.96《周处除三害》（音质修复）",
+      "veroeffentlicht": "2024-03-11T10:34:17+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论电影《周处除三害》"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/12/11/3047395312495291398_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/12/11/3047395312495291398_hd.mp3",
+      "pfad": "/v1/episode/6994f918a1119635b3d1f65274957295ab1c59e9.json",
+      "titel": "Vol.95《涉过愤怒的海》",
+      "veroeffentlicht": "2023-12-11T16:16:09+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论电影《涉过愤怒的海》的剧情与相关内容"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/09/27/3033517119963175430_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/09/27/3033517119963175430_hd.mp3",
+      "pfad": "/v1/episode/6d4b2b616088fe500a2ddafb8c620a3cd2320c0d.json",
+      "titel": "Vol.94 《奥本海默》",
+      "veroeffentlicht": "2023-09-27T21:18:47+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论克里斯托弗·诺兰导演的电影《奥本海默》。"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/05/30/3011169756581258758_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/05/30/3011169756581258758_hd.mp3",
+      "pfad": "/v1/episode/6cc6cd8508cb921ff99c707c9204a7aab286ad89.json",
+      "titel": "Vol.93 《宇宙探索编辑部》",
+      "veroeffentlicht": "2023-06-02T09:00:00+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论电影《宇宙探索编辑部》的主创、类型与上映信息"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/04/28/3005276988742571526_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/04/28/3005276988742571526_hd.mp3",
+      "pfad": "/v1/episode/e687ff62b9c8269410c33e313b434ca3035dcc00.json",
+      "titel": "Vol.92 《不止不休》",
+      "veroeffentlicht": "2023-04-28T16:20:03+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论电影《不止不休》的播客节目"
+    },
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2023/02/08/2990666946069102086_hd.mp3",
+      "audio_url": "https://cdn.lizhi.fm/audio/2023/02/08/2990666946069102086_hd.mp3",
+      "pfad": "/v1/episode/2c1a050bfce5d6c652de5644d2df9f474b56541b.json",
+      "titel": "Vol.91 《流浪地球2》",
+      "veroeffentlicht": "2023-02-08T22:30:33+08:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《流浪地球2》的内容"
     }
   ]
 }

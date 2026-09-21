@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "西方教育前沿系列讲座",
   "apple_collection_id": "1538365764",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group13/M06/A1/F7/wKgDXldzqNGCHbwLAieyas0VUnA588.mp3",
@@ -13,6 +13,46 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨差异化教学的理念与策略，关注学生学习性格与个体差异。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M04/8B/2C/wKgDXldXAJ_CkIABAiHPYmp3bx4290.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgDXldXAJ_CkIABAiHPYmp3bx4290.m4a?channel=rss&album_id=4312710&track_id=16810342&uid=48299512&jt=https://aod.cos.tx.xmcdn.com/group13/M04/8B/2C/wKgDXldXAJ_CkIABAiHPYmp3bx4290.m4a",
+      "pfad": "/v1/episode/40834ffa59de9fc932e86b11fadee077e4d41295.json",
+      "titel": "龚朝红：课堂管理，应该是师生“双赢”的模式",
+      "veroeffentlicht": "2016-06-07T17:15:28+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨西方教育前沿理论与中国课堂实践的结合。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M0B/7B/4B/wKgDaFdIH9CBt3LgAy9TZO1PYbc151.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgDaFdIH9CBt3LgAy9TZO1PYbc151.mp3.m4a?channel=rss&album_id=4312710&track_id=16306267&uid=48299512&jt=https://aod.cos.tx.xmcdn.com/group15/M0B/7B/4B/wKgDaFdIH9CBt3LgAy9TZO1PYbc151.mp3",
+      "pfad": "/v1/episode/384bb3e701ac2356d9c97fb3b2cfbfac00a805c8.json",
+      "titel": "王小庆：面对孩子的学习障碍，美国教师怎么做？",
+      "veroeffentlicht": "2016-05-27T10:24:15+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨西方教育前沿理论与中国课堂实践的结合。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M08/76/51/wKgDaldC0MGA6bxZASj-DhBKUyg957.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgDaldC0MGA6bxZASj-DhBKUyg957.m4a?channel=rss&album_id=4312710&track_id=16104929&uid=48299512&jt=https://aod.cos.tx.xmcdn.com/group16/M08/76/51/wKgDaldC0MGA6bxZASj-DhBKUyg957.m4a",
+      "pfad": "/v1/episode/1d7a0816f11712fe73a95fbbc073d816a3403ecc.json",
+      "titel": "陈文芳：用脑神经科学撬动教育教学-讲座实录",
+      "veroeffentlicht": "2016-05-23T09:45:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨脑神经科学与西方教育前沿理论在教学中的实践应用。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M02/77/67/wKgDY1dCz9GAtqM4AP70s1PJe7Q030.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgDY1dCz9GAtqM4AP70s1PJe7Q030.mp3.m4a?channel=rss&album_id=4312710&track_id=16104740&uid=48299512&jt=https://aod.cos.tx.xmcdn.com/group14/M02/77/67/wKgDY1dCz9GAtqM4AP70s1PJe7Q030.mp3",
+      "pfad": "/v1/episode/b0e8623793313b7e7ed515c5caf83206f5aad4ce.json",
+      "titel": "陈文芳：用脑神经科学撬动教育教学-问答部分",
+      "veroeffentlicht": "2016-05-23T09:40:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨脑神经科学在教育教学中的应用与实践"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "英文论文对谈",
   "apple_collection_id": "1820334604",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "686917f060f8f77d40fbee07",
@@ -13,6 +13,56 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "探讨阿里巴巴的WebSailer如何通过创新的训练方法突破开源AI的复杂任务瓶颈。"
+    },
+    {
+      "guid": "686917b093fd2d72b8ab4caa",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68492ca1f0461f0ca76e3b09/686917b093fd2d72b8ab4caa/media.xyzcdn.net/68492ca1f0461f0ca76e3b09/FmFT-Y9AylGhMohWSTfDZpDfO_UD.m4a",
+      "pfad": "/v1/episode/8a32442deff0b743adea50c3da1cbdebd868f437.json",
+      "titel": "【英文播客 vol.031】如何通过教师模型提升推理能力？探索NaturalThoughts的奥秘！",
+      "veroeffentlicht": "2025-07-07T01:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨通过Meta FAIR研究的NaturalThoughts提升模型推理能力"
+    },
+    {
+      "guid": "6869177360f8f77d40fbe3d1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68492ca1f0461f0ca76e3b09/6869177360f8f77d40fbe3d1/media.xyzcdn.net/68492ca1f0461f0ca76e3b09/FhVERsyTT5dOhcT7lrb1K9b1cpAH.m4a",
+      "pfad": "/v1/episode/5d925db341e65204ffaefc17e982cabb4feaa217.json",
+      "titel": "【英文播客 vol.030】数学推理究竟能提升通用大语言模型能力吗？",
+      "veroeffentlicht": "2025-07-06T02:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨数学推理对提升大语言模型能力的实际影响"
+    },
+    {
+      "guid": "68651b4b60f8f77d407ea8c4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68492ca1f0461f0ca76e3b09/68651b4b60f8f77d407ea8c4/media.xyzcdn.net/68492ca1f0461f0ca76e3b09/Fs0iTBfyWvDesMJGTGNnVopRKMU8.m4a",
+      "pfad": "/v1/episode/c4a6406b01bc6de598a096397a0e2983660a2428.json",
+      "titel": "【英文播客 vol.028】大语言模型使用的 MCP 可能是不安全的？",
+      "veroeffentlicht": "2025-07-02T12:22:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨香港科技大学提出的MCIP框架及其安全性应用。"
+    },
+    {
+      "guid": "68629851bef90978ecacaa51",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68492ca1f0461f0ca76e3b09/68629851bef90978ecacaa51/media.xyzcdn.net/68492ca1f0461f0ca76e3b09/FoKEl1wr8nBuDAfxm3nOi0BRAhqs.m4a",
+      "pfad": "/v1/episode/5341ec70fa2498dbfb31f7ae3ab25205bd46bf4a.json",
+      "titel": "【英文播客 vol.026】为什么大语言模型需要目标驱动的训练？",
+      "veroeffentlicht": "2025-07-01T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "大语言模型如何通过目标驱动训练提升推理能力"
+    },
+    {
+      "guid": "6860f64308d8fd85868af94e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68492ca1f0461f0ca76e3b09/6860f64308d8fd85868af94e/media.xyzcdn.net/68492ca1f0461f0ca76e3b09/Frp07_JBoOIkTWqvlUNf1rgZAlZ3.m4a",
+      "pfad": "/v1/episode/d41385d9858908cb51e5fc12c13a5d2bfc7ff556.json",
+      "titel": "【英文播客 vol.023】颠覆传统！用Diffusion 的方式做代码生成？",
+      "veroeffentlicht": "2025-06-29T14:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨掩蔽扩散模型DiffuCoder在代码生成领域的应用与优势。"
     }
   ]
 }

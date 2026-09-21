@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "跨界书房",
   "apple_collection_id": "1844060747",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a37a53875ba9e0c5336b6b0",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "心理咨询师米走分享系统自我分析的经历，通过解梦与生活小事探索内在人格与生命力。"
+    },
+    {
+      "guid": "6a291dd7dbccffcfa9c6b42e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/6a291dd7dbccffcfa9c6b42e/media.xyzcdn.net/68dcec16c7447b5424c9bac8/lvZT7KXz6suWz-6WAN73osucrbF2.m4a",
+      "pfad": "/v1/episode/df4db2c15d4c02633cfd434538b5be33b35f5c70.json",
+      "titel": "EP12 在AI时代，这次我们有什么不一样？about:文艺复兴、工业革命、AI时代",
+      "veroeffentlicht": "2026-06-10T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI时代如何解放可能性并迎来通才回归"
+    },
+    {
+      "guid": "6a1072c8e59ebca936234da3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/6a1072c8e59ebca936234da3/media.xyzcdn.net/68dcec16c7447b5424c9bac8/lojj7BxucTSuWx71Eu_IfyKoLPYS.m4a",
+      "pfad": "/v1/episode/bf8ec9485ef66b52f90e6eb334b4f3636d8731b1.json",
+      "titel": "EP11 死亡、意义感、梦境与显影",
+      "veroeffentlicht": "2026-05-26T23:05:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨死亡与意义感的关系，借死亡视角重新看清被日常遮蔽的珍贵。"
+    },
+    {
+      "guid": "6a0c38e5e1eb34a939b2316e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/6a0c38e5e1eb34a939b2316e/media.xyzcdn.net/68dcec16c7447b5424c9bac8/ljqaBxlOBXNGar26cE3rx1dmG0gS.m4a",
+      "pfad": "/v1/episode/8b6b87094e8460f75de73322d68b4b28baee9ba5.json",
+      "titel": "EP10 情绪从哪来，又去哪了？- about:内耗、焦虑、抑郁、现代困境、自我掌控",
+      "veroeffentlicht": "2026-05-19T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨内耗与焦虑，解构情绪的产生机制与现代人的精神困境"
+    },
+    {
+      "guid": "6990913dde29766da999a095",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/6990913dde29766da999a095/media.xyzcdn.net/68dcec16c7447b5424c9bac8/lsT907rX1f851ApVdacGrIINiOwu.m4a",
+      "pfad": "/v1/episode/27e82a1d3ff5677204f640c81b8a9c10330b34ec.json",
+      "titel": "EP09 三国系列03：带上社会学家的眼镜看亲戚：一份来自三国的春节自救手册",
+      "veroeffentlicht": "2026-02-14T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "用社会学视角解读《三国演义》，探讨春节亲戚社交的应对逻辑"
+    },
+    {
+      "guid": "696dd300ef1cf272a72feac7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/696dd300ef1cf272a72feac7/media.xyzcdn.net/68dcec16c7447b5424c9bac8/ltttQqLTM075f0poNYrQ6KOfHIwK.m4a",
+      "pfad": "/v1/episode/6af23e0176f7fa0fd5c8fee0451a3a0c9afd0da4.json",
+      "titel": "EP08 三国系列02：曹操的“借壳上市”与孙权的“摇摆州”：用现代政治学重构三国",
+      "veroeffentlicht": "2026-01-19T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "用现代政治学视角重构三国权力游戏"
+    },
+    {
+      "guid": "695204a22db086f8978489eb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/695204a22db086f8978489eb/media.xyzcdn.net/68dcec16c7447b5424c9bac8/lj-wAcAtnWDklnMLgf3dv6A69P18.m4a",
+      "pfad": "/v1/episode/5a1031ed4f50dfdd648d3e4d202efb3547c07922.json",
+      "titel": "EP07 三国系列01：为什么说三国的主角是算账高手？【by 经济学】",
+      "veroeffentlicht": "2025-12-29T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "用经济学视角拆解三国历史中的资产负债与生存算法"
+    },
+    {
+      "guid": "6942a69e52d4707aaa17a24e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/6942a69e52d4707aaa17a24e/media.xyzcdn.net/68dcec16c7447b5424c9bac8/loi3vEB75zAIwS_DAru5FJQL4dcy.m4a",
+      "pfad": "/v1/episode/821c3ab632b8381e922ef74b9c5b51e68418a05d.json",
+      "titel": "EP06 刘备的眼泪与诸葛亮的账单：如何用经济学与政治学，看懂成年人的《三国》",
+      "veroeffentlicht": "2025-12-17T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "用经济学与政治学视角，重新审视《三国演义》中的经典情节。"
+    },
+    {
+      "guid": "692873a9f2b167179819e227",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/692873a9f2b167179819e227/media.xyzcdn.net/68dcec16c7447b5424c9bac8/loFcqFc8v-KiP1rE3K4yky3D8pxr.m4a",
+      "pfad": "/v1/episode/5b146f9e565e33836e19ed0992bd57b3f18d758e.json",
+      "titel": "EP05 英雄之旅05 | 逆袭篇：把你人生的“烂牌”，打成“王炸”！逆袭的底层逻辑，就藏在“叙事疗法”里",
+      "veroeffentlicht": "2025-11-27T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "用叙事疗法解读《牧羊少年奇幻之旅》，重写人生剧本。"
+    },
+    {
+      "guid": "690f63cfd99642be961756e6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68dcec16c7447b5424c9bac8/690f63cfd99642be961756e6/media.xyzcdn.net/68dcec16c7447b5424c9bac8/lrXsLTy0odIOvpYhp7x795XJMyfY.m4a",
+      "pfad": "/v1/episode/c2f855d187942003620808c4d8db526b7ceefd8e.json",
+      "titel": "EP04 英雄之旅04 | 深渊篇：为什么人生最大的成长，藏在“彻底破碎”的瞬间？",
+      "veroeffentlicht": "2025-11-08T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨人生遭遇重创后的心理机制与创伤后成长"
     }
   ]
 }

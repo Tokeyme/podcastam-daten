@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "难得正经｜商业版今夜不设防",
   "apple_collection_id": "1850377938",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aaf5c4fac389df827349171",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6aaf5c4fac389df827349171/media.xyzcdn.net/68c2889c9eff50753c639da0/ljkWk6mxnw6Kw1SUDs3hma1LmYvT.m4a",
+      "pfad": "/v1/episode/37f1702802b3993ec3297ecce89d6bfbeb0bc434.json",
+      "titel": "多巴胺：95%的人都在误读的大脑魔法师",
+      "veroeffentlicht": "2026-09-20T14:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨多巴胺的运作机制及其在商业与消费心理中的应用"
+    },
+    {
+      "guid": "6aa24e0a9d3264778166f37b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6aa24e0a9d3264778166f37b/media.xyzcdn.net/68c2889c9eff50753c639da0/lt5Qjm1UDfY98v0UeqmraFOg6Wf4.m4a",
+      "pfad": "/v1/episode/4c5f076ed7915c29ce68a045b870cec16088b8fa.json",
+      "titel": "从麦乳精到“吃牛奶”：中国乳业60年的生意变迁",
+      "veroeffentlicht": "2026-09-13T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾中国乳业60年变迁，探讨一瓶牛奶背后的技术、供应链与消费。"
+    },
+    {
+      "guid": "6a9a36b7f03e74ee6b04dc1e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a9a36b7f03e74ee6b04dc1e/media.xyzcdn.net/68c2889c9eff50753c639da0/loIbX2LvyuNgRMsYhNxdzacssC4u.m4a",
+      "pfad": "/v1/episode/a3065422db9832b4e6de7568d24616dc9293b9cc.json",
+      "titel": "《文化战略》：如果你想做一个高端品牌或者上价值",
+      "veroeffentlicht": "2026-09-06T14:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何运用文化战略打造高端品牌与提升产品价值"
+    },
+    {
+      "guid": "6a93d51ff03e74ee6b02049a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a93d51ff03e74ee6b02049a/media.xyzcdn.net/68c2889c9eff50753c639da0/loeg3Euf7KcMwV9crD55dfj66e32.m4a",
+      "pfad": "/v1/episode/462e15417f0b639fd17c7118eba8b3718f325201.json",
+      "titel": "对话潇掌柜：T97咖啡从爆火到败局的超完整复盘",
+      "veroeffentlicht": "2026-08-30T07:09:03+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话T97咖啡创始人李潇：复盘从百亿流量到败局的创业经历"
+    },
     {
       "guid": "6a8572c1ef65145dfcc2032e",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a8572c1ef65145dfcc2032e/media.xyzcdn.net/68c2889c9eff50753c639da0/lnSmmh6d_AotuxVplp1Z52Q8E4rX.m4a",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "医美行业的水有多深？博主与机构老板揭秘套路与选医秘籍"
+    },
+    {
+      "guid": "6a81353b36641f136d88df1a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a81353b36641f136d88df1a/media.xyzcdn.net/68c2889c9eff50753c639da0/liqxwiBvRcEnFZ_USPQWH49sE1iD.m4a",
+      "pfad": "/v1/episode/8d9e2dab4c8e645ade58a819ef4b0e2ccc5aeec2.json",
+      "titel": "老兵复盘：从零售之王到破产传闻，苏宁到底经历了什么？",
+      "veroeffentlicht": "2026-08-16T14:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "复盘苏宁从零售巨头到破产重组的发展历程与转型困境"
+    },
+    {
+      "guid": "6a788743c4079d62c57fbf6e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a788743c4079d62c57fbf6e/media.xyzcdn.net/68c2889c9eff50753c639da0/lmXwLIlomUsMuSSLjSiWQnWik5GR.m4a",
+      "pfad": "/v1/episode/c6c3aba903487a00a1b76fb882e520c5e445c986.json",
+      "titel": "拼豆爆火：小小豆子能长出下一个乐高吗？",
+      "veroeffentlicht": "2026-08-09T14:00:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨拼豆从爆火到商业化的历程以及新兴品类如何突破品牌壁垒"
+    },
+    {
+      "guid": "6a6d78de1b5e24969ce71e65",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a6d78de1b5e24969ce71e65/media.xyzcdn.net/68c2889c9eff50753c639da0/lsti6yGi5Tf22ACZaYIvGjNIl9IS.m4a",
+      "pfad": "/v1/episode/ee6e7692b81e01144a8fb5e541f049dcc44396f2.json",
+      "titel": "不止虎头局，半年关店8万家，烘焙行业不香了吗？",
+      "veroeffentlicht": "2026-08-02T14:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "半年关店8万家，烘焙行业为何面临全行业困境？"
+    },
+    {
+      "guid": "6a65e50ca3fec224d5a38d4c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a65e50ca3fec224d5a38d4c/media.xyzcdn.net/68c2889c9eff50753c639da0/lmeSfn3r9L_XE4--aWDfgcPxiHRD.m4a",
+      "pfad": "/v1/episode/a140427a3537218be4ba6c3187f01a547e31854a.json",
+      "titel": "杜蕾斯不只是会写文案：与操盘手聊聊成人用品市场",
+      "veroeffentlicht": "2026-07-26T15:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨杜蕾斯的品牌运营系统与成人用品市场的演变。"
+    },
+    {
+      "guid": "6a532bd31e32575f5eb50c20",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c2889c9eff50753c639da0/6a532bd31e32575f5eb50c20/media.xyzcdn.net/68c2889c9eff50753c639da0/lrkxgpGtVxL5hkHOS_X9Av6CFC9g.m4a",
+      "pfad": "/v1/episode/f75e1cbce7aa4265d1c43ef2fe0ec9129ba3ee2b.json",
+      "titel": "对谈夏正：9个问题深度拷问中国茶市场",
+      "veroeffentlicht": "2026-07-12T14:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "深度探讨中国茶市场的现状、品牌机会与争议话题"
     }
   ]
 }

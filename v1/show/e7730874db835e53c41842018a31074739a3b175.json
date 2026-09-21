@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技部落格",
   "apple_collection_id": "1570586895",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/a65b-audiofreehighqps/74/55/CKwRIasE8spsABAAAADZU19t.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "详解苹果iOS 15新功能、隐私保护争议及设备支持情况"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c5af-audiofreehighqps/3D/AF/CKwRIDoEy0JBABAAAADKdAEu.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIDoEy0JBABAAAADKdAEu.mp3.m4a?channel=rss&album_id=50015557&track_id=435238282&uid=51624775&jt=https://aod.cos.tx.xmcdn.com/storages/c5af-audiofreehighqps/3D/AF/CKwRIDoEy0JBABAAAADKdAEu.mp3",
+      "pfad": "/v1/episode/cc72305e2b35fdb7f6e065f0e8df71f0bdb4cbd8.json",
+      "titel": "显示器决定了HDR非凡体验的一切",
+      "veroeffentlicht": "2021-07-20T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨PC端HDR游戏体验，涵盖技术、线缆、GPU及系统设置。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2641-audiofreehighqps/F5/8B/CKwRIasErfikABAAAAC_dYXR.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIasErfikABAAAAC_dYXR.mp3.m4a?channel=rss&album_id=50015557&track_id=428324925&uid=51624775&jt=https://aod.cos.tx.xmcdn.com/storages/2641-audiofreehighqps/F5/8B/CKwRIasErfikABAAAAC_dYXR.mp3",
+      "pfad": "/v1/episode/9878e24a6349edcfc14edc92c4c257306ed1937c.json",
+      "titel": "EP2保护隐私，我觉得你需要了解更多",
+      "veroeffentlicht": "2021-06-27T08:24:40+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨苹果WWDC上iCloud+对隐私保护的提升功能。"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ace5-audiofreehighqps/1A/05/CKwRIJEEjUcpABAAAAC0OGe-.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIJEEjUcpABAAAAC0OGe-.mp3.m4a?channel=rss&album_id=50015557&track_id=421062643&uid=51624775&jt=https://aod.cos.tx.xmcdn.com/storages/ace5-audiofreehighqps/1A/05/CKwRIJEEjUcpABAAAAC0OGe-.mp3",
+      "pfad": "/v1/episode/ce447fec2d9d21d395e357521e139e5a321a8b6a.json",
+      "titel": "EP1一次让你了解苹果2021款iMac",
+      "veroeffentlicht": "2021-06-02T13:14:51+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "全面解析苹果24英寸iMac的设计与性能"
     }
   ]
 }

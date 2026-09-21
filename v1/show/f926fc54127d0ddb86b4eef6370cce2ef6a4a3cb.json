@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "黑刀鱼｜高校访谈录",
   "apple_collection_id": "1606841073",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1005588757",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨三十岁作为人生黄金期的种种转变与对青春的回忆。"
+    },
+    {
+      "guid": "xmly_track_974243035",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUENzMgaAdkcugSToLvR.m4a?channel=rss&album_id=56131242&track_id=974243035&uid=171959377&jt=https://aod.cos.tx.xmcdn.com/storages/fdba-audiofreehighqps/2D/1B/GKwRIUENzMgaAdkcugSToLvR.m4a",
+      "pfad": "/v1/episode/b2bfb1ba9b5db3a4eb167301d7aba8d7179ee39b.json",
+      "titel": "19.没有区长父亲，但有力工父亲，聊聊父爱缺失和成长",
+      "veroeffentlicht": "2026-05-03T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "胡莱、刘振东和姜小黑分享各自的成长故事。"
+    },
+    {
+      "guid": "xmly_track_970481392",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4Ntp5BAVVGOwSLQ61v.m4a?channel=rss&album_id=56131242&track_id=970481392&uid=171959377&jt=https://aod.cos.tx.xmcdn.com/storages/cce7-audiofreehighqps/8D/9E/GKwRIW4Ntp5BAVVGOwSLQ61v.m4a",
+      "pfad": "/v1/episode/a15ee1885ab4f74ef01e55baeae89b0c7240a680.json",
+      "titel": "18.我叫刘振东，喜剧向前冲！聊聊我们爱的那些喜剧作品！！！",
+      "veroeffentlicht": "2026-04-16T03:08:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "关于喜剧作品的探讨与喜剧创作历程的分享"
+    },
+    {
+      "guid": "xmly_track_960677269",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMANfrZgAW-RiAR0jZXc.m4a?channel=rss&album_id=56131242&track_id=960677269&uid=171959377&jt=https://aod.cos.tx.xmcdn.com/storages/963b-audiofreehighqps/95/79/GKwRIMANfrZgAW-RiAR0jZXc.m4a",
+      "pfad": "/v1/episode/991ec0ff64421e19e540133b72f2018206310843.json",
+      "titel": "15.赚钱越来越难，省钱我是越来越会",
+      "veroeffentlicht": "2026-03-08T22:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨越来越难赚钱的现状以及各种省钱技巧"
     }
   ]
 }

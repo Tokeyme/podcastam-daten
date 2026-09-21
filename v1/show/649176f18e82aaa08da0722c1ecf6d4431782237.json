@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "科技慢半拍",
   "apple_collection_id": "1701921408",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aa365a29d32647781675d04",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6aa365a29d32647781675d04/media.xyzcdn.net/64936d00ffa7530981aa94b6/ljBvRPb9MFoG4Oa1Np7vKiJxpTXQ.m4a",
+      "pfad": "/v1/episode/e31983686f73310bbb5958c580e8a15d5e1c8f09.json",
+      "titel": "#151 AI蛋糕的第三层｜Neoclouds新云的诞生",
+      "veroeffentlicht": "2026-09-20T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI时代Neocloud新云的兴起与基础设施转型"
+    },
+    {
+      "guid": "6a94f1e9f03e74ee6b026b92",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a94f1e9f03e74ee6b026b92/media.xyzcdn.net/64936d00ffa7530981aa94b6/lp6MxL6Q2nDRB4PiSbThsN0htk_L.m4a",
+      "pfad": "/v1/episode/07ab5c06489cb51a7110791880f7df0a30ed099b.json",
+      "titel": "#150 AI蛋糕的第二层｜芯片、存储和连接的底层逻辑",
+      "veroeffentlicht": "2026-09-13T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI算力背后的芯片、存储与连接底层逻辑。"
+    },
+    {
+      "guid": "6a94e541f03e74ee6b026129",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a94e541f03e74ee6b026129/media.xyzcdn.net/64936d00ffa7530981aa94b6/lvbsvmJjGh6WMGl3qFiKvEZRmhxj.m4a",
+      "pfad": "/v1/episode/e3d6808e13493460f6a5cf4a67b76653a2dbe538.json",
+      "titel": "#149 AI蛋糕的最底层｜重塑电力基础设施",
+      "veroeffentlicht": "2026-09-06T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI扩张背景下电力基础设施的重塑，从发电、输电到芯片供电的全链路变革。"
+    },
+    {
+      "guid": "6a82b25a17676351c57319a4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a82b25a17676351c57319a4/media.xyzcdn.net/64936d00ffa7530981aa94b6/lk2oC4Q3U5-olXzr8GSHEyQB4-FX.m4a",
+      "pfad": "/v1/episode/e44807fa7f1f35c997b00f3252ba385a8740d77e.json",
+      "titel": "#148 如何理解AI泡沫？从资本市场到技术革命",
+      "veroeffentlicht": "2026-08-30T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨AI泡沫现象，分析资本市场与技术革命的关系"
+    },
     {
       "guid": "6a7addf536641f136d8686c9",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a7addf536641f136d8686c9/media.xyzcdn.net/64936d00ffa7530981aa94b6/ltOc9xebKMpiERQr5fGIT4SOaeSF.m4a",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨智能组织的核心骨架：如何从传统的岗位职责转向以结果为导向的责任网络。"
+    },
+    {
+      "guid": "6a7030841b5e24969ce809d9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a7030841b5e24969ce809d9/media.xyzcdn.net/64936d00ffa7530981aa94b6/lu9AhXn4iuT2dml6v9IF9BcXbdv3.m4a",
+      "pfad": "/v1/episode/1911e10f3f8f23795b0737580d5eecdbe81c310f.json",
+      "titel": "#146 智能组织中的决策革命｜从决策流到组织进化",
+      "veroeffentlicht": "2026-08-09T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨智能组织如何从工作流转向决策流，实现决策治理与组织进化。"
+    },
+    {
+      "guid": "6a647b8ba3fec224d5a31e12",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a647b8ba3fec224d5a31e12/media.xyzcdn.net/64936d00ffa7530981aa94b6/lgRJ-8uidIvNHxixQu2Ke0rQDx0d.m4a",
+      "pfad": "/v1/episode/29476c67305291e04fcf74e53590cef4314625b1.json",
+      "titel": "#145 智能组织中的决策革命｜从 工作流到决策流",
+      "veroeffentlicht": "2026-08-02T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨智能组织中人与AI如何重新分配决策权"
+    },
+    {
+      "guid": "6a4b52b13fb7233cbf447264",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a4b52b13fb7233cbf447264/media.xyzcdn.net/64936d00ffa7530981aa94b6/lqzbsezZhmwdFNi8SznMd4xuy7jO.m4a",
+      "pfad": "/v1/episode/d1c8e21e34a8988030b26500d063b7d7f52615f6.json",
+      "titel": "#144 路径依赖总在拖慢未来｜从电力到AI革命",
+      "veroeffentlicht": "2026-07-19T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨路径依赖如何拖慢技术革命，从历史对照AI时代。"
+    },
+    {
+      "guid": "6a490e392e335a35a80e04ca",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a490e392e335a35a80e04ca/media.xyzcdn.net/64936d00ffa7530981aa94b6/lqrH5isJvkUHZvcIw3vKqB3I9Atp.m4a",
+      "pfad": "/v1/episode/eea8506aa2ec5983e83a484cdb815a64d2172162.json",
+      "titel": "#143 智能组织是如何运转的？Matrix构建的底层逻辑",
+      "veroeffentlicht": "2026-07-12T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨Matrix项目的底层逻辑，解析AI原生企业操作系统的构建方式。"
+    },
+    {
+      "guid": "6a3fa07c2e335a35a80a3810",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64936d00ffa7530981aa94b6/6a3fa07c2e335a35a80a3810/media.xyzcdn.net/64936d00ffa7530981aa94b6/lg7_EBjZPLioZf_JtFgBIVKuh6UE.m4a",
+      "pfad": "/v1/episode/07094c5f553d09901bc5a5386ada1953ee50d8ee.json",
+      "titel": "#142 智能组织是如何运转的？来自一次实战推演",
+      "veroeffentlicht": "2026-07-05T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "基于运营沙盘推演，解析AI原生企业的运转方式。"
     }
   ]
 }

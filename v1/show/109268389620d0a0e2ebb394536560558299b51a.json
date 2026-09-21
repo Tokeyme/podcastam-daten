@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "硅谷传奇納瓦尔訪談YouSee版",
   "apple_collection_id": "1856813039",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "69931b22de29766da9c012a9",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨桥水基金的可信度加权法则，教你在做决策时过滤杂音、只听专业的话。"
+    },
+    {
+      "guid": "6968cea5ef1cf272a78c0e8e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/690db662f6bf71f79aa0f665/6968cea5ef1cf272a78c0e8e/media.xyzcdn.net/690db662f6bf71f79aa0f665/Fih0zPCOW9tzdQmNym63vDJFs1Ro.m4a",
+      "pfad": "/v1/episode/0469113adab628950c71f2e48274a4cd3940859a.json",
+      "titel": "如果人生是一台机器，你现在用的是什么操作系统？",
+      "veroeffentlicht": "2026-01-15T13:50:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何将人生视作一套持续运作的决策机器。"
+    },
+    {
+      "guid": "6964b163e235ea65bc6fb35f",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/690db662f6bf71f79aa0f665/6964b163e235ea65bc6fb35f/media.xyzcdn.net/690db662f6bf71f79aa0f665/Fki-79y5NzbcEHrM1GCjRsVdXraK.m4a",
+      "pfad": "/v1/episode/4b196b5c137b80717b3ab47dc7fa84568b69c12b.json",
+      "titel": "为什么同一种错误，会在你人生里反复出现？",
+      "veroeffentlicht": "2026-01-12T08:33:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么同一种错误会在人生中反复出现。"
+    },
+    {
+      "guid": "695cce6dc1e012a7aba20dbb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/690db662f6bf71f79aa0f665/695cce6dc1e012a7aba20dbb/media.xyzcdn.net/690db662f6bf71f79aa0f665/FpegNe09hTZVPK_yPc5BrWlioP5X.m4a",
+      "pfad": "/v1/episode/58595064decfa87e1b6bd2b19f032182e9f248dd.json",
+      "titel": "为什么“气氛很好”的团队，反而最危险？",
+      "veroeffentlicht": "2026-01-06T09:14:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《原则》中的极度透明与团队信息流动"
+    },
+    {
+      "guid": "695a7793b9fb626141054852",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/690db662f6bf71f79aa0f665/695a7793b9fb626141054852/media.xyzcdn.net/690db662f6bf71f79aa0f665/Fr6W2oa17m0jJR5HsNjs_jzQ8zgB.m4a",
+      "pfad": "/v1/episode/9a10f9859f64ab9c33697880204cc4520a354c14.json",
+      "titel": "为什么越聪明的人 越容易活在自己的幻觉里？",
+      "veroeffentlicht": "2026-01-04T14:25:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么聪明人容易活在幻觉中以及如何做到极度求真。"
+    },
+    {
+      "guid": "69591d9f14db1df9ef2eb5f8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/690db662f6bf71f79aa0f665/69591d9f14db1df9ef2eb5f8/media.xyzcdn.net/690db662f6bf71f79aa0f665/FoxaNnO3XdFB-daDsdcHt6Ql8BWE.m4a",
+      "pfad": "/v1/episode/0849cc68c631a8f000b6f5c6a4814e2f24c04a89.json",
+      "titel": "为什么越会“安慰自己”的人 越走不出困局？",
+      "veroeffentlicht": "2026-01-03T13:48:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么越会自我安慰的人越容易陷入困境。"
+    },
+    {
+      "guid": "69565a912db086f8972fcf9d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/690db662f6bf71f79aa0f665/69565a912db086f8972fcf9d/media.xyzcdn.net/690db662f6bf71f79aa0f665/Frg-jtZK8zaOqaoO_hBUWem6Gve5.m4a",
+      "pfad": "/v1/episode/0f7eb6c763f6587f314e584b3026912f5054e4cd.json",
+      "titel": "为什么用情绪理解世界的人 注定一直原地打转？",
+      "veroeffentlicht": "2026-01-01T11:34:16+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨为什么停留在情绪层面的反思会导致原地打转。"
     }
   ]
 }

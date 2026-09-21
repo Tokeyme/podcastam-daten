@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "盲盒读书慧｜读未知遇知己",
   "apple_collection_id": "1809548961",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007656901",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "一场关于家庭教育、欧洲歌剧与生命死亡的深度读书分享漫游"
+    },
+    {
+      "guid": "xmly_track_992587050",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOEVbsAnuajASsyChT.m4a?channel=rss&album_id=87659386&track_id=992587050&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/e5d3-audiofreehighqps/71/F1/GKwRIUEOEVbsAnuajASsyChT.m4a",
+      "pfad": "/v1/episode/ff44cef675460fd8ae386041df8d71d4765a2169.json",
+      "titel": "【第16期全】广岛、死亡与童年，那些人生来不及回避的问题",
+      "veroeffentlicht": "2026-06-24T08:20:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨人生意义、死亡与童年等无法回避的问题"
+    },
+    {
+      "guid": "xmly_track_979936078",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMAN70qoAhdn7gSgVC7j.m4a?channel=rss&album_id=87659386&track_id=979936078&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/bc88-audiofreehighqps/1F/CD/GKwRIMAN70qoAhdn7gSgVC7j.m4a",
+      "pfad": "/v1/episode/f73830fef3e4e5bfef02741f7fa383e39503ec25.json",
+      "titel": "【第15期全】一本不会被翻开的书，和那些突然看懂自己的人",
+      "veroeffentlicht": "2026-05-29T12:31:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过多本书籍与人生经历，探讨成长、自我认知与生活智慧。"
+    },
+    {
+      "guid": "xmly_track_972586906",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4NwhTJA3O6oQSPy0h3.m4a?channel=rss&album_id=87659386&track_id=972586906&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/1eea-audiofreehighqps/24/37/GKwRIW4NwhTJA3O6oQSPy0h3.m4a",
+      "pfad": "/v1/episode/fff6c1863999ad356eca8de56dccd95e38f5b2aa.json",
+      "titel": "【第14期全】被告知“你可能随时会死”那一刻 生活被彻底重排",
+      "veroeffentlicht": "2026-04-25T05:27:25+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从旅行与生死警报出发，探讨阅读、身体认知与生活方式。"
+    },
+    {
+      "guid": "xmly_track_962234314",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4Nhzx1AqlQgQR4O2BT.m4a?channel=rss&album_id=87659386&track_id=962234314&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/363f-audiofreehighqps/EF/C7/GKwRIW4Nhzx1AqlQgQR4O2BT.m4a",
+      "pfad": "/v1/episode/2d04fc598397a450ceff540137f6bb25180505e3.json",
+      "titel": "【第13期全】九本盲盒书，撬开你我习以为常的人生剧本",
+      "veroeffentlicht": "2026-03-11T14:14:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "九本盲盒书的阅读分享，探讨童书、饮食文化与人生选择"
+    },
+    {
+      "guid": "xmly_track_956275934",
+      "audio_url": "https://jt.ximalaya.com//GAqhfD0NYZvdABAAAARpXUQk.m4a?channel=rss&album_id=87659386&track_id=956275934&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/d261-audiofreehighqps/47/BD/GAqhfD0NYZvdABAAAARpXUQk.m4a",
+      "pfad": "/v1/episode/2154d03f7ad7f46a5d99a2d42340dc0b7d45b58e.json",
+      "titel": "【第12期全】在旧传统里找新答案：年味、亲密关系与心的安放",
+      "veroeffentlicht": "2026-02-11T01:36:08+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨年味、传统文化、亲密关系与生死话题。"
+    },
+    {
+      "guid": "xmly_track_949616247",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasNP8yPACAAAARaVGkE.mp3.m4a?channel=rss&album_id=87659386&track_id=949616247&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/1f0b-audiofreehighqps/41/85/GKwRIasNP8yPACAAAARaVGkE.mp3",
+      "pfad": "/v1/episode/88e8635b64c845933f4e97d858f55f41887a57df.json",
+      "titel": "【第11期全】为什么带给我们焦虑的，是那些葬礼上不会来的人？",
+      "veroeffentlicht": "2026-01-16T09:52:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "通过十三本盲盒书探讨自我觉察与生活方式"
+    },
+    {
+      "guid": "xmly_track_949612381",
+      "audio_url": "https://jt.ximalaya.com//GAqhp50NP8iTACAAAARaUlZq.mp3.m4a?channel=rss&album_id=87659386&track_id=949612381&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/560d-audiofreehighqps/6F/25/GAqhp50NP8iTACAAAARaUlZq.mp3",
+      "pfad": "/v1/episode/0f19a29c36cfef8b10aa0c9b5455ad668c5fcea7.json",
+      "titel": "【第10期全】当生活不允许你崩溃，书还能帮我们些什么？",
+      "veroeffentlicht": "2026-01-16T09:34:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "当生活不允许崩溃时，书能帮我们什么"
+    },
+    {
+      "guid": "xmly_track_943925084",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaINJE-HACAAAARN_Qig.mp3.m4a?channel=rss&album_id=87659386&track_id=943925084&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/49c0-audiofreehighqps/51/C0/GKwRIaINJE-HACAAAARN_Qig.mp3",
+      "pfad": "/v1/episode/c0f83716feb9625f596771583da33f71219879d6.json",
+      "titel": "【第09期全】地下室、餐桌和诗歌：我们如何在不同尺度中生活",
+      "veroeffentlicht": "2025-12-26T13:27:52+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨从日常散文到科学与诗歌的多样书籍"
+    },
+    {
+      "guid": "xmly_track_943922602",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJINJE2TACAAAARN--E_.mp3.m4a?channel=rss&album_id=87659386&track_id=943922602&uid=67120714&jt=https://aod.cos.tx.xmcdn.com/storages/9f6e-audiofreehighqps/BB/40/GKwRIJINJE2TACAAAARN--E_.mp3",
+      "pfad": "/v1/episode/070c93fb573f29992316bb0aa495c2ca5d3ed470.json",
+      "titel": "【第08期全】那些被说成“没用”的东西，正在决定你的人生",
+      "veroeffentlicht": "2025-12-26T13:18:56+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过微小改变、文学与无用知识来面对生活"
     }
   ]
 }

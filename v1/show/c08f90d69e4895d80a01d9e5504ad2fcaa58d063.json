@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "行迹访谈室",
   "apple_collection_id": "1471749688",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group75/M03/36/88/wKgO015bNVKBzLeIBguH1A7oVos287.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "老北京人忆童年简易楼与大杂院的生活变迁"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M03/53/0A/wKgMal1j6xzieTZYASjnaCFjf8A965.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMal1j6xzieTZYASjnaCFjf8A965.mp3.m4a?channel=rss&album_id=23966281&track_id=207767430&uid=84788182&jt=https://aod.cos.tx.xmcdn.com/group65/M03/53/0A/wKgMal1j6xzieTZYASjnaCFjf8A965.mp3",
+      "pfad": "/v1/episode/eee1a0ee7dab358b67a761fb4b0f465b1a77667f.json",
+      "titel": "vol 09:立陶宛小伙子如何实现边环球旅行边通过网络挣大钱",
+      "veroeffentlicht": "2019-08-26T14:25:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "立陶宛小伙子如何边环球旅行边通过网络赚钱"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M09/95/01/wKgMcl0xzkzyLKcUA5LSt75qZ90352.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgMcl0xzkzyLKcUA5LSt75qZ90352.mp3.m4a?channel=rss&album_id=23966281&track_id=198898244&uid=84788182&jt=https://aod.cos.tx.xmcdn.com/group63/M09/95/01/wKgMcl0xzkzyLKcUA5LSt75qZ90352.mp3",
+      "pfad": "/v1/episode/20ff9d62ea11116898eded6d2ecc7b06f56e5f94.json",
+      "titel": "Vol. 06 美国8-18岁的孩子和青少年都读什么英文书",
+      "veroeffentlicht": "2019-07-19T14:08:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "美国青少年常读的英文书单推荐"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M04/E6/2D/wKgMaF0gMeviNG8aAfXyHHcyuIs890.m4a",
+      "audio_url": "https://jt.ximalaya.com//wKgMaF0gMeviNG8aAfXyHHcyuIs890.m4a?channel=rss&album_id=23966281&track_id=195711794&uid=84788182&jt=https://aod.cos.tx.xmcdn.com/group63/M04/E6/2D/wKgMaF0gMeviNG8aAfXyHHcyuIs890.m4a",
+      "pfad": "/v1/episode/781ea1fa4d6b16132180a242d1fcd69db28e0c25.json",
+      "titel": "Vol.04 跟Facebook广告组经理聊Facebook的企业文化和培训福利等",
+      "veroeffentlicht": "2019-07-06T05:30:49+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话Facebook广告组经理，探讨企业文化与培训福利"
     }
   ]
 }

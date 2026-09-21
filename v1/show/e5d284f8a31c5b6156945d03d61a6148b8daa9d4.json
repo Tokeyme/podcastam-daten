@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "这个月的播客",
   "apple_collection_id": "1851932557",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aa0db81f03e74ee6b07797e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6aa0db81f03e74ee6b07797e/media.xyzcdn.net/6751b13417cd5416adc67c33/lk8JToIeDIhtX5x1BLjcg1mrSAZ1.m4a",
+      "pfad": "/v1/episode/4171beaeede0fb8820a4a49f005e007fd419b39c.json",
+      "titel": "029.惠英红✖️这个月：“直到最后，我也没得到她的肯定”",
+      "veroeffentlicht": "2026-09-09T04:12:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "对话惠英红，聊聊电影《数者三》与东亚家庭关系。"
+    },
+    {
+      "guid": "6a97fcd5a0210c197dcc5372",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a97fcd5a0210c197dcc5372/media.xyzcdn.net/6751b13417cd5416adc67c33/lkFRO38sZ4uhxW--_SJy3sr61F_P.m4a",
+      "pfad": "/v1/episode/19e138b4e32fd68af1f7f4df8446894a271cbd1c.json",
+      "titel": "028.《安之如仪》：位居银行副总裁，依旧困于\"恨女\" 执念？",
+      "veroeffentlicht": "2026-09-02T10:44:59+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近传记《安之如仪》，探讨张幼仪的人生经历与历史评价"
+    },
+    {
+      "guid": "6a8edde21352af56ff3c79b7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a8edde21352af56ff3c79b7/media.xyzcdn.net/6751b13417cd5416adc67c33/lpTSqR83ckHxpUXn4M1WeABhsg44.m4a",
+      "pfad": "/v1/episode/deac3b36604c31b5418891b6519395926bfd0846.json",
+      "titel": "027:《异见时刻》：强女的抗击打能力跟练，血条增厚术",
+      "veroeffentlicht": "2026-08-27T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近美国最高法院大法官鲁斯·巴德·金斯伯格的生平与精神世界"
+    },
+    {
+      "guid": "6a8c239def65145dfcc4970b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a8c239def65145dfcc4970b/media.xyzcdn.net/6751b13417cd5416adc67c33/lm8zEvDTwgNAt59Yx3ikC5xunYvc.m4a",
+      "pfad": "/v1/episode/d4f4526d2d63698bf49dd83857f290184c7d02cb.json",
+      "titel": "026.《知晓我姓名》：鄙视受伤的自己，那我又该如何翻身？",
+      "veroeffentlicht": "2026-08-24T11:05:39+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论华裔作家香奈儿・米勒的回忆录《知晓我姓名》与创伤后的生活"
+    },
     {
       "guid": "6a8958c51352af56ff3a3324",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a8958c51352af56ff3a3324/media.xyzcdn.net/6751b13417cd5416adc67c33/lungOxE2EHOsVTDUpkNqYkquo8cC.m4a",
@@ -13,6 +53,56 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "脱口秀演员七七做客，探讨如何信任、看见并接纳自己的真实感受。"
+    },
+    {
+      "guid": "6a85a811ef65145dfcc21dc1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a85a811ef65145dfcc21dc1/media.xyzcdn.net/6751b13417cd5416adc67c33/lrIN2K3DIosHwUd8eKtECvTcp8Js.m4a",
+      "pfad": "/v1/episode/69d3d129b7267910ef7cfda2a80d11d8efb62d01.json",
+      "titel": "024.《阳明心学入门十讲》：借心学向内自救，人可以先失恋，后分手。",
+      "veroeffentlicht": "2026-08-20T03:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨如何通过王阳明心学在糟糕的亲密关系中实现内心自救与解脱。"
+    },
+    {
+      "guid": "6a7d789317676351c57149f2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a7d789317676351c57149f2/media.xyzcdn.net/6751b13417cd5416adc67c33/luj7Q3HFSlqV03RgPR8xws0J4Cog.m4a",
+      "pfad": "/v1/episode/02c9c7a249101bd62a23c1db517e4eb7c66a8821.json",
+      "titel": "023.《恶种起源》：变态杀手体验卡，自洽大师的脱罪历程。",
+      "veroeffentlicht": "2026-08-13T08:01:32+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨韩国悬疑小说《恶种起源》中的杀人犯视角与善恶边界"
+    },
+    {
+      "guid": "6a746edf000a55a9bb03e596",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a746edf000a55a9bb03e596/media.xyzcdn.net/6751b13417cd5416adc67c33/lrRyojJrrUM0_5gdX8Qpy1F3SHL0.m4a",
+      "pfad": "/v1/episode/4b311359d201610c4616668c9520f4fb43eabd48.json",
+      "titel": "022.书单分享：赚了点小钱，但还是不幸福，怎么办？",
+      "veroeffentlicht": "2026-08-06T11:29:43+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨金钱与幸福的关联及财富积累后的心理困境"
+    },
+    {
+      "guid": "6a5dfd396356eb2d9be582f6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a5dfd396356eb2d9be582f6/media.xyzcdn.net/6751b13417cd5416adc67c33/liC5vMUvDXSX8H4MdGZccAPaWJm-.m4a",
+      "pfad": "/v1/episode/17fbb47f2a56e176dddd01b5a528b4fb403682b0.json",
+      "titel": "021.《朱砂掌》：当东北文学遇上女性视角，掏心掏肺，生猛温柔",
+      "veroeffentlicht": "2026-07-20T10:55:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "聊郑执的小说《朱砂掌》，探讨其中的东北文学与女性视角"
+    },
+    {
+      "guid": "6a490e282e335a35a80e04c9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6751b13417cd5416adc67c33/6a490e282e335a35a80e04c9/media.xyzcdn.net/6751b13417cd5416adc67c33/lmBuRnkejQTpCCXzNXmU6LOcwOlm.m4a",
+      "pfad": "/v1/episode/d69bac971f90b7b0a5128cbff4401a793b8cb2d0.json",
+      "titel": "020.《呼啸山庄》：打破爱情故事，看本我vs超我如何搏杀。",
+      "veroeffentlicht": "2026-07-04T13:48:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "用弗洛伊德理论重读《呼啸山庄》"
     }
   ]
 }

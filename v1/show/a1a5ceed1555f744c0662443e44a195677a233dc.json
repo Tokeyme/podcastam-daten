@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "碎碎念读书室",
   "apple_collection_id": "1681473118",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "69ac366ac8cdeb38c2553b3f",
@@ -13,6 +13,86 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "回顾畅销书《再见萤火虫》中跨越三十年的女性友谊与家庭变迁。"
+    },
+    {
+      "guid": "6573f707d6e0ff5822e5d4a1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/6573f707d6e0ff5822e5d4a1/media.xyzcdn.net/lnrfeHad9nsqh8-84AOwxLWkRBsp.m4a",
+      "pfad": "/v1/episode/ff4174d20a6155c317841537cf30a65b77e3bf31.json",
+      "titel": "碎碎念【NP.29】生活已经发生，去爱总比不去爱要好",
+      "veroeffentlicht": "2023-12-09T05:11:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "萨莉·鲁尼小说《美丽的世界你在哪里》第22章朗读与感悟"
+    },
+    {
+      "guid": "6571cbb68593f10bf9e05cf4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/6571cbb68593f10bf9e05cf4/media.xyzcdn.net/lhletrltYphOBtO_ToXpImiJxQPH.m4a",
+      "pfad": "/v1/episode/89b5b652a25e9a0fa061530e9178e59a6120e599.json",
+      "titel": "碎碎念【NP.28】“我爱你”vs“我想伤害你”",
+      "veroeffentlicht": "2023-12-07T13:42:14+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "解读萨莉·鲁尼小说《美丽的世界你在哪里》第21章"
+    },
+    {
+      "guid": "656f249253c6ec9134ebae55",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/656f249253c6ec9134ebae55/media.xyzcdn.net/ltbcMqvAf3X07h_uRVpAaGuk-qNr.m4a",
+      "pfad": "/v1/episode/51f7fe730677a4cf808b3f466f1d7332cb90e1ba.json",
+      "titel": "碎碎念【NP.27】我们都同意，当前的文明已步入腐败的衰落期",
+      "veroeffentlicht": "2023-12-05T13:24:33+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "萨莉·鲁尼小说《美丽的世界你在哪里》第20章Eileen回信内容"
+    },
+    {
+      "guid": "6553830cc9e7cfe025a4cddc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/6553830cc9e7cfe025a4cddc/media.xyzcdn.net/lm1z3t3oBf1GnDkZtHm75-CtSB5P.m4a",
+      "pfad": "/v1/episode/94882958a2d508be350b4e9f8fe5f0ebf998b6b0.json",
+      "titel": "碎碎念【NP.26】这期为PoorCaroline感到难过",
+      "veroeffentlicht": "2023-11-14T14:24:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论萨莉·鲁尼小说《美丽的世界你在哪里》第19章的剧情与感受"
+    },
+    {
+      "guid": "6543aa25de390991a49a00e1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/6543aa25de390991a49a00e1/media.xyzcdn.net/llXtFSo25CHAT7XaGlEPXD3SAAQi.m4a",
+      "pfad": "/v1/episode/e2a6847270910c0febace87d9561bdcc22de270a.json",
+      "titel": "碎碎念【NP.25】传统的相伴模式是错的么",
+      "veroeffentlicht": "2023-11-02T13:54:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨萨莉·鲁尼小说中的生活方式与社会思考"
+    },
+    {
+      "guid": "653e69472d3520c14fa086d9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/653e69472d3520c14fa086d9/media.xyzcdn.net/luNGuk5KxIDBnYFk2bXHvg9uOEc8.m4a",
+      "pfad": "/v1/episode/670395175e9cf92d54e5bb6509aad07bd7fd470f.json",
+      "titel": "碎碎念【NP.24】“我联不联系你，你都不在乎”“我认为我表现的很明显了”",
+      "veroeffentlicht": "2023-10-30T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "讨论萨莉·鲁尼小说《美丽的世界你在哪里》第17章及成年人的爱情。"
+    },
+    {
+      "guid": "652176940432a315780df019",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/652176940432a315780df019/media.xyzcdn.net/llejpHFnfLoyWm3skQNK5qVD2-9b.m4a",
+      "pfad": "/v1/episode/235b79899bd9ff0d8d43fcba8d474b14007f14d2.json",
+      "titel": "碎碎念【NP.23】生命的意义亘古不变：去生活，和他人相伴",
+      "veroeffentlicht": "2023-10-08T00:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨萨莉·鲁尼小说中的生活意义与感知丧失"
+    },
+    {
+      "guid": "65216e9e50cf691d2437085b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/637867fae55e0588d504110e/65216e9e50cf691d2437085b/media.xyzcdn.net/lj7le7TSzUaA5-mBBfM-gYZWcArK.m4a",
+      "pfad": "/v1/episode/cf3a917dde9ac2acdda992c890e7b9285ababb80.json",
+      "titel": "碎碎念【NP.22】“所以你不会放弃我们的友谊”“千金不换”",
+      "veroeffentlicht": "2023-10-07T14:43:42+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "萨莉·鲁尼小说《美丽的世界你在哪里》第15章有声书及读后感。"
     }
   ]
 }

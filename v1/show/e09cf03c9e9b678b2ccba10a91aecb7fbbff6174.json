@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "职场有意思",
   "apple_collection_id": "1777834697",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a251f437444b5722234b5b6",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "麦肯锡学霸Jack将物理学与紫微斗数结合，探讨如何用科学精神看待命理。"
+    },
+    {
+      "guid": "69ad5602c8cdeb38c2770efe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/69ad5602c8cdeb38c2770efe/media.xyzcdn.net/6726be63396654ffd73bde4c/lkcLMss7CjDKbFT_Jyu-sq_eWmBU.m4a",
+      "pfad": "/v1/episode/a34c7b7fc1e29656974f671352c0aefe189e1a99.json",
+      "titel": "010 范总｜人生没有标准答案：放弃营销老总身份我在德国当家庭主夫",
+      "veroeffentlicht": "2026-03-08T11:02:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "范总谈放弃中国营销老总身份，在德国当十年家庭主夫的经历与感悟。"
+    },
+    {
+      "guid": "69634018e235ea65bc3973a1",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/69634018e235ea65bc3973a1/media.xyzcdn.net/6726be63396654ffd73bde4c/luwM9c_fEvlfkX5So34YeCylL1Rh.m4a",
+      "pfad": "/v1/episode/5c2cbcb3d80d0a182e454a2f1ba26f8f0a4d6342.json",
+      "titel": "009 田小姐｜从家庭主妇梦到外贸销冠：关于家庭、自我与事业",
+      "veroeffentlicht": "2026-01-11T06:23:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "田小姐的外贸职场经历与人生选择"
+    },
+    {
+      "guid": "687e83eda12f9ff06a55b26c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/687e83eda12f9ff06a55b26c/media.xyzcdn.net/6726be63396654ffd73bde4c/llwRDOAlQ8is0yZFrmS0LmzwPRLg.m4a",
+      "pfad": "/v1/episode/5dbcac442f678c7732df5e0094dd5572537f8e71.json",
+      "titel": "008 波哥｜从职业格斗到健身教练，拆解健身行业的“钱”与“道”",
+      "veroeffentlicht": "2025-07-21T22:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从职业格斗选手到健身教练与创业者"
+    },
+    {
+      "guid": "686a9f0160f8f77d40237ec9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/686a9f0160f8f77d40237ec9/media.xyzcdn.net/6726be63396654ffd73bde4c/lnlXM4QfokdyYvMqyQOV_B8Pz8rF.m4a",
+      "pfad": "/v1/episode/b59b8360bdd531fefeed1d799c90a6953df7aa76.json",
+      "titel": "007 Sanna教授｜追求稳定还是追求热爱？现代颅底外科先驱的成功秘诀",
+      "veroeffentlicht": "2025-07-06T20:30:21+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走近现代颅底外科先驱Mario Sanna教授"
+    },
+    {
+      "guid": "67fb7be659699d74dc61a75e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/67fb7be659699d74dc61a75e/media.xyzcdn.net/6726be63396654ffd73bde4c/lpmJfBkjvGxlLlESs_q-RBC0d2I8.m4a",
+      "pfad": "/v1/episode/1b03e78ca7e21e5915a69d2217efa369fc279374.json",
+      "titel": "006 Lily｜39岁裸辞环游世界50岁再就业：百万年薪高管从拼命到松弛的人生实验",
+      "veroeffentlicht": "2025-04-13T09:27:10+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Lily分享39岁裸辞环游世界与50岁重返职场的职场人生实验。"
+    },
+    {
+      "guid": "67d45c4d0766616acd05e703",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/67d45c4d0766616acd05e703/media.xyzcdn.net/6726be63396654ffd73bde4c/libCX2JMYYag57u4_n7vMbFu7ppL.m4a",
+      "pfad": "/v1/episode/e901673526c7d8b454e2dc9995f49c0d5fd70cbe.json",
+      "titel": "005 石头｜MBA、裸辞、创业，我的中年自救三步曲",
+      "veroeffentlicht": "2025-03-14T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "物流高管的中年转型之路：从百万年薪到裸辞创业"
+    },
+    {
+      "guid": "677aaa3215a5fd520e3c15f2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/677aaa3215a5fd520e3c15f2/media.xyzcdn.net/liYMQ4p0mRd_xqSliqCDkfhG84ry.m4a",
+      "pfad": "/v1/episode/acadc50fa64cdc728a7ff26e87f7951dde7d764a.json",
+      "titel": "004 Coco｜四大还是升职加薪的跳板吗？",
+      "veroeffentlicht": "2025-01-05T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨四大会计师事务所的招聘标准、工作强度及职业发展路径。"
+    },
+    {
+      "guid": "6759b65917cd5416ad5a3e1d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/6759b65917cd5416ad5a3e1d/media.xyzcdn.net/lglr0Q0HuIn0Gvptyr4fb7biGgAE.m4a",
+      "pfad": "/v1/episode/cf86307456911b10e848a4591a2ec6173b9b26cc.json",
+      "titel": "003 白求恩恩｜解剖大师：热爱和努力会带你找到属于你的道路",
+      "veroeffentlicht": "2024-12-11T21:04:55+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "外科医生与解剖专家的从医经历与职业发展讨论"
+    },
+    {
+      "guid": "67377d3243dc3a4387f86083",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6726be63396654ffd73bde4c/67377d3243dc3a4387f86083/media.xyzcdn.net/lggp-7YczcnhnETMDihtGbKbdN2F.m4a",
+      "pfad": "/v1/episode/69f54631e38e9a79061f67138bd86801c141c9f7.json",
+      "titel": "002 Skyler｜大厂7年，海外2年，我决定裸辞去留学",
+      "veroeffentlicht": "2024-11-15T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨七年大厂经历、泰国海外工作及裸辞欧洲留学的职业选择"
     }
   ]
 }

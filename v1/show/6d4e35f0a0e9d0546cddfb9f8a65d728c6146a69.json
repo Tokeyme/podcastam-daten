@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "跟着艺术去旅行",
   "apple_collection_id": "1757791278",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "6a638e0b6356eb2d9be7efa5",
@@ -13,6 +13,96 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "走进响堂山石窟，在鼓山石壁间读懂半部北朝石窟艺术史"
+    },
+    {
+      "guid": "6a1d2b1eac7bdb080c3412d0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/6a1d2b1eac7bdb080c3412d0/media.xyzcdn.net/668baaa1ae8e21859a57280b/loKpCkr75ItJvO3cX9FftJWe0U1S.m4a",
+      "pfad": "/v1/episode/3aff551abac8126728fbfbaebb5af85695f677cb.json",
+      "titel": "EP41 在路上，藏着最鲜活的日常剧场",
+      "veroeffentlicht": "2026-06-01T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨旅行中的剧场记忆与生活中的艺术时刻"
+    },
+    {
+      "guid": "69e0d99cb977fb2c471f238d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/69e0d99cb977fb2c471f238d/media.xyzcdn.net/668baaa1ae8e21859a57280b/lrz-MZyCv-gQvVumJugiLgbRAHBa.m4a",
+      "pfad": "/v1/episode/8a5f9253836f263e4fe20531e7474ffddee2a7a9.json",
+      "titel": "EP40见证是一种负担而非荣耀：李·米勒，从时尚缪斯到战地摄影的传奇",
+      "veroeffentlicht": "2026-04-17T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨传奇战地摄影师李·米勒的人生经历与艺术创作"
+    },
+    {
+      "guid": "69c23931fdc405fbf6044cf0",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/69c23931fdc405fbf6044cf0/media.xyzcdn.net/668baaa1ae8e21859a57280b/lnfaEwXe8OPrC5bpOcF_hUYIgJAT.m4a",
+      "pfad": "/v1/episode/314153a19f9a0fc703024a1df7cd4770c2fca5e8.json",
+      "titel": "EP39 在贝尔格莱德，回看阿布拉莫维奇：一个艺术家与一座城",
+      "veroeffentlicht": "2026-03-24T12:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "走进贝尔格莱德，回看艺术家玛丽娜·阿布拉莫维奇及其成长之城。"
+    },
+    {
+      "guid": "698307c3824dce367c5bc8ef",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/698307c3824dce367c5bc8ef/media.xyzcdn.net/668baaa1ae8e21859a57280b/lpTJX0nip6t3n8m2NEAneUL7oHsM.m4a",
+      "pfad": "/v1/episode/76cb4ab92dc4c3bc5c7b528886668eb760855fd7.json",
+      "titel": "EP38弗里达：她的艺术、爱情与阿兹特克文化运动",
+      "veroeffentlicht": "2026-02-04T13:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨拉美艺术家弗里达·卡罗的艺术创作、生活经历与影响"
+    },
+    {
+      "guid": "696a5676ef1cf272a7ca5be2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/696a5676ef1cf272a7ca5be2/media.xyzcdn.net/668baaa1ae8e21859a57280b/liLHGXpWvjQfXzoep2s4bdalVpNh.m4a",
+      "pfad": "/v1/episode/688075289c91a7e4659b6c26f6c930abedaa63cc.json",
+      "titel": "EP37 新闻里的委内瑞拉，和画笔下的委内瑞拉",
+      "veroeffentlicht": "2026-01-16T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从委内瑞拉的热点新闻出发，探讨拉美现当代艺术与政治动荡、历史根源的深刻联结。"
+    },
+    {
+      "guid": "693b8d4c2a383da167ad44e9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/693b8d4c2a383da167ad44e9/media.xyzcdn.net/668baaa1ae8e21859a57280b/lunLYotah9cur3k6J_EL-kWREOkD.m4a",
+      "pfad": "/v1/episode/ae8ebaf62a80cdf8be0be12676dda71405598c7d.json",
+      "titel": "EP36 从华沙到克拉科夫，city-walk中的文学、音乐、历史",
+      "veroeffentlicht": "2025-12-12T03:54:36+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "跟随曾焱的脚步漫步华沙与克拉科夫，感受波兰的历史、建筑与文学。"
+    },
+    {
+      "guid": "691d3bb96018cc2c98899ffe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/691d3bb96018cc2c98899ffe/media.xyzcdn.net/668baaa1ae8e21859a57280b/lo0jP4c3l0MzZt-rkDNs--g2jCh7.m4a",
+      "pfad": "/v1/episode/10e71b94c6e73183dd48cf1697a48a4b859b8284.json",
+      "titel": "EP35 黑暗传奇：一个“最持之以恒的艺术窃贼”",
+      "veroeffentlicht": "2025-11-19T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "法国艺术窃贼斯特凡·布莱特维瑟的盗窃生涯与心理动机"
+    },
+    {
+      "guid": "69049c7848dbe0eb56cb14ef",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/69049c7848dbe0eb56cb14ef/media.xyzcdn.net/668baaa1ae8e21859a57280b/lmL44myGS8jJf_uUMGNKes02a8Zz.m4a",
+      "pfad": "/v1/episode/662b3c7822764ee4aff5a081563a23ea1e171713.json",
+      "titel": "EP34 卢浮宫再陷失窃风波后：回看三大艺术品世纪盗案，追赃与安保难在哪？",
+      "veroeffentlicht": "2025-10-31T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "回顾三大艺术品世纪盗案，探讨追赃与安保难题"
+    },
+    {
+      "guid": "68a867fc42cc2798e7e9132b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/668baaa1ae8e21859a57280b/68a867fc42cc2798e7e9132b/media.xyzcdn.net/668baaa1ae8e21859a57280b/lusmxq62cjqB5oFdcCG9dE19BNwF.m4a",
+      "pfad": "/v1/episode/b7d18eea8c32fe5f42b029028475f05cd647bd39.json",
+      "titel": "EP33 赤峰访古记：红山文化的玉与土，藏着文明起源的密码",
+      "veroeffentlicht": "2025-08-22T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探访内蒙古赤峰，了解红山文化与中华文明起源"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "那个音乐史",
   "apple_collection_id": "1533570218",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_546539371",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探究管弦乐团演出前为何由双簧管吹响标准音A，以及标准音440赫兹的演变历史。"
+    },
+    {
+      "guid": "xmly_track_527446167",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEGRApLACAAAAFIZl9l.mp3.m4a?channel=rss&album_id=42177281&track_id=527446167&uid=28749795&jt=https://aod.cos.tx.xmcdn.com/storages/3577-audiofreehighqps/CA/AA/GKwRIUEGRApLACAAAAFIZl9l.mp3",
+      "pfad": "/v1/episode/492a7eaa2964ded8aa1a731e9832f1fe1d7db25b.json",
+      "titel": "【柴可夫斯基大赛被WFIMC除名】柴赛经历过的大风大浪",
+      "veroeffentlicht": "2022-05-01T08:39:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "柴可夫斯基大赛的历史与发展回顾"
+    },
+    {
+      "guid": "xmly_track_527053238",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIGQmT9ACAAAAFHZljq.mp3.m4a?channel=rss&album_id=42177281&track_id=527053238&uid=28749795&jt=https://aod.cos.tx.xmcdn.com/storages/b460-audiofreehighqps/60/1D/GKwRIaIGQmT9ACAAAAFHZljq.mp3",
+      "pfad": "/v1/episode/1a83cabbaf7ef9757f6cef59b87a2e9dfef50880.json",
+      "titel": "【体育健将】你猜哪位作曲家最有运动细胞？",
+      "veroeffentlicht": "2022-04-30T02:42:09+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨古典音乐家与体育运动之间的相似之处与联系"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e6a3-audiofreehighqps/B2/69/CKwRIasEyYCRABAAAADJsJqn.mp3",
+      "audio_url": "https://jt.ximalaya.com//CKwRIasEyYCRABAAAADJsJqn.mp3.m4a?channel=rss&album_id=42177281&track_id=434773071&uid=28749795&jt=https://aod.cos.tx.xmcdn.com/storages/e6a3-audiofreehighqps/B2/69/CKwRIasEyYCRABAAAADJsJqn.mp3",
+      "pfad": "/v1/episode/6b186772212b4975d54d35bb42eafecef68ab8bf.json",
+      "titel": "【交响乐团的黑制服】为何音乐会一定要穿全黑演出?",
+      "veroeffentlicht": "2021-07-18T05:35:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "交响乐团演出时为何统一穿黑色制服"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "经典影评&优秀电影原声回顾系列",
   "apple_collection_id": "1788674277",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_804293135",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "重温法国现象级电影触不可及，探寻跨越阶层的友谊与人性光辉。"
+    },
+    {
+      "guid": "xmly_track_797761187",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJILYqldACAAAANX6MWr.mp3.m4a?channel=rss&album_id=85036635&track_id=797761187&uid=21526083&jt=https://aod.cos.tx.xmcdn.com/storages/b1b3-audiofreehighqps/EF/D6/GKwRIJILYqldACAAAANX6MWr.mp3",
+      "pfad": "/v1/episode/2e506fbc607fb0b07ba160bc6a0969fd7f356571.json",
+      "titel": "豆瓣影评系列音乐电影《Once》|人性大于爱情|音乐承载灵魂",
+      "veroeffentlicht": "2025-01-19T11:50:13+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "爱尔兰音乐电影《Once》的豆瓣影评与深度解析"
+    },
+    {
+      "guid": "xmly_track_794330326",
+      "audio_url": "https://jt.ximalaya.com//GAqhUz8LWPfGACAAAANSQ_nF.mp3.m4a?channel=rss&album_id=85036635&track_id=794330326&uid=21526083&jt=https://aod.cos.tx.xmcdn.com/storages/d6c7-audiofreehighqps/3C/64/GAqhUz8LWPfGACAAAANSQ_nF.mp3",
+      "pfad": "/v1/episode/27eaa38f288cadea01c0d1ba5ef2f1bd05e6fc3a.json",
+      "titel": "豆瓣影评系列-《无间道漫谈》-韩琛",
+      "veroeffentlicht": "2025-01-12T03:24:48+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "剖析电影《无间道》中韩琛的角色塑造与命运走向"
+    },
+    {
+      "guid": "xmly_track_792913312",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4LVq1-ACAAAANQlF24.mp3.m4a?channel=rss&album_id=85036635&track_id=792913312&uid=21526083&jt=https://aod.cos.tx.xmcdn.com/storages/0512-audiofreehighqps/F7/B5/GKwRIW4LVq1-ACAAAANQlF24.mp3",
+      "pfad": "/v1/episode/afd45576aa4c10db6ecbf2cea2e81c809b8bfbcc.json",
+      "titel": "豆瓣影评系列-《无间道漫谈》l说说刘建明",
+      "veroeffentlicht": "2025-01-10T09:09:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《无间道》中刘建明这一角色的复杂命运。"
+    },
+    {
+      "guid": "xmly_track_792012385",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJILU69mACAAAANPAZ-A.mp3.m4a?channel=rss&album_id=85036635&track_id=792012385&uid=21526083&jt=https://aod.cos.tx.xmcdn.com/storages/869a-audiofreehighqps/5D/C8/GKwRIJILU69mACAAAANPAZ-A.mp3",
+      "pfad": "/v1/episode/3c8aaaa5d10e40309f3078ed701c0d395df60f2f.json",
+      "titel": "豆瓣影评系列-《无间道漫谈》-好坏孰能分辨",
+      "veroeffentlicht": "2025-01-08T03:11:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影《无间道》中的善恶抉择与人性主题。"
+    },
+    {
+      "guid": "xmly_track_790677863",
+      "audio_url": "https://jt.ximalaya.com//GAqh_aQLTyYgACAAAANMwxsN.mp3.m4a?channel=rss&album_id=85036635&track_id=790677863&uid=21526083&jt=https://aod.cos.tx.xmcdn.com/storages/33e3-audiofreehighqps/8E/9C/GAqh_aQLTyYgACAAAANMwxsN.mp3",
+      "pfad": "/v1/episode/3a5167425f2917ae2f6d2ed0313257e2c18ba664.json",
+      "titel": "豆瓣影评系列-触不可及",
+      "veroeffentlicht": "2025-01-04T16:36:07+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨电影触不可及中富翁与陪护跨越阶层的友情。"
+    },
+    {
+      "guid": "xmly_track_789672261",
+      "audio_url": "https://jt.ximalaya.com//GAqhntALTAYWACAAAANLGtYU.mp3.m4a?channel=rss&album_id=85036635&track_id=789672261&uid=21526083&jt=https://aod.cos.tx.xmcdn.com/storages/5e78-audiofreehighqps/D7/F1/GAqhntALTAYWACAAAANLGtYU.mp3",
+      "pfad": "/v1/episode/a13575ed1ebb5a57754c1b44ec87980a6148b5c3.json",
+      "titel": "豆瓣影评系列-机器人总动员",
+      "veroeffentlicht": "2025-01-02T07:43:17+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨《机器人总动员》的末日设定、瓦力与伊娃的情感以及环保主题。"
     }
   ]
 }

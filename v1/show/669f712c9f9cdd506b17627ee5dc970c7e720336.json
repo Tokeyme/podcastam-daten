@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "靠谱育儿",
   "apple_collection_id": "1836925070",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "69db8364e2c8be31550138d3",
@@ -13,6 +13,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "胎教与亲子互动音乐纯享节目。"
+    },
+    {
+      "guid": "69db821be2c8be3155012093",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/675aae3f84447b1bd0594036/69db821be2c8be3155012093/media.xyzcdn.net/675aae3f84447b1bd0594036/lr7WgkRk9gYalWrWRW6Kkk6LJxh0.m4a",
+      "pfad": "/v1/episode/98209279f7b29ffb2654bf14ef7c50070f70d7d0.json",
+      "titel": "Vol.5 从「星星的孩子」倒推孕期三大准备",
+      "veroeffentlicht": "2026-04-12T11:36:22+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孤独症与家庭育儿，分享孕前及孕期值得提前准备的三件事"
+    },
+    {
+      "guid": "69896a3666e2c3037790d781",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/675aae3f84447b1bd0594036/69896a3666e2c3037790d781/media.xyzcdn.net/675aae3f84447b1bd0594036/lvpvpSgkKjxs8pLOgOV2hlvPSnqi.m4a",
+      "pfad": "/v1/episode/9ed82e3e1c88205adc43869112764f68e1993ada.json",
+      "titel": "孕期围坐共唱《乘着歌声的翅膀》胎教/亲子互动音乐纯享",
+      "veroeffentlicht": "2026-02-09T05:02:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "准爸妈的胎教音乐纯享"
+    },
+    {
+      "guid": "68faf7ed0156720321ceba2a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/675aae3f84447b1bd0594036/68faf7ed0156720321ceba2a/media.xyzcdn.net/675aae3f84447b1bd0594036/ljgh7P-DdySVnnxg6jdzLUEW4_19.m4a",
+      "pfad": "/v1/episode/b41d996f7d59d6cafc7a514902c48b4b8d19b00b.json",
+      "titel": "Vol.4 胎教/亲子互动音乐纯享",
+      "veroeffentlicht": "2025-10-24T03:58:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "精选巴洛克时期的经典音乐作品原版与改编版合集"
+    },
+    {
+      "guid": "68faf656083a71a4eb04822d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/675aae3f84447b1bd0594036/68faf656083a71a4eb04822d/media.xyzcdn.net/675aae3f84447b1bd0594036/lpHvnzk5NMYAiBPbI1kwgW2AkY7C.m4a",
+      "pfad": "/v1/episode/a14c064fbaace40c4f43247b0ff742b55e083b14.json",
+      "titel": "Vol.4 教育不是一场居高临下的改造，而是「将心比心」",
+      "veroeffentlicht": "2025-10-24T03:48:35+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨教育并非居高临下的改造，而是将心比心的理解与陪伴。"
+    },
+    {
+      "guid": "68cfff472c82c9dcca7b6c4d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/675aae3f84447b1bd0594036/68cfff472c82c9dcca7b6c4d/media.xyzcdn.net/675aae3f84447b1bd0594036/lskmfgH_f7BCcCqE6NVkGEY6o20O.m4a",
+      "pfad": "/v1/episode/2b9434d7c7bfb18a509f567dd01af54ad55826d1.json",
+      "titel": "Vol.3 羊水中的音乐SPA，是一种什么体验",
+      "veroeffentlicht": "2025-09-21T15:06:38+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨羊水中的音乐SPA体验与水中音乐治疗"
+    },
+    {
+      "guid": "68bbfa965faf3686594ef726",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/675aae3f84447b1bd0594036/68bbfa965faf3686594ef726/media.xyzcdn.net/675aae3f84447b1bd0594036/lrs36NQ7jUYGsUK0o9V9b4KFpc-H.m4a",
+      "pfad": "/v1/episode/4353092f174f59a5c17c1504f7bf50e83c201693.json",
+      "titel": "Vol.2 歌剧旋律可盐可甜，浸润小宝宝最适合了",
+      "veroeffentlicht": "2025-09-06T09:19:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨莫扎特歌剧旋律与育儿、音乐魅力的结合。"
     }
   ]
 }

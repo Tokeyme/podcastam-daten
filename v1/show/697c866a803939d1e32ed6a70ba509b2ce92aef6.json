@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "馒头说·历史的温度",
   "apple_collection_id": "1610969940",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1009007335",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwOZXDRAMHUHATNSvcP.m4a?channel=rss&album_id=22462095&track_id=1009007335&uid=9277894&jt=https://aod.cos.tx.xmcdn.com/storages/30e5-audiofreehighqps/86/AE/GKwRIRwOZXDRAMHUHATNSvcP.m4a",
+      "pfad": "/v1/episode/a3ff9bdb53c034e8a9a1cfc3f7e01ba59390a478.json",
+      "titel": "【二战风云】（11）最后的囚徒：帝国副元首的历史悬案",
+      "veroeffentlicht": "2026-08-28T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探究二战期间纳粹德国帝国副元首的离奇历史悬案。"
+    },
     {
       "guid": "xmly_track_1007414868",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4OXDubALqCZgTJaFaC.m4a?channel=rss&album_id=22462095&track_id=1007414868&uid=9277894&jt=https://aod.cos.tx.xmcdn.com/storages/325f-audiofreehighqps/7A/E0/GKwRIW4OXDubALqCZgTJaFaC.m4a",
@@ -13,6 +23,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "回溯西汉名将李广的一生，探讨其勇猛善战却终生未能封侯的悲剧原因与历史评价。"
+    },
+    {
+      "guid": "xmly_track_1006135391",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwOUvQJANS5JQTF9Wf5.m4a?channel=rss&album_id=22462095&track_id=1006135391&uid=9277894&jt=https://aod.cos.tx.xmcdn.com/storages/87b8-audiofreehighqps/A8/33/GKwRIRwOUvQJANS5JQTF9Wf5.m4a",
+      "pfad": "/v1/episode/da58724fb6ac49ff3a11e35d8647a3776730d4fe.json",
+      "titel": "【拍案惊奇】（14）一个职员，是如何搞垮一家老牌银行的？",
+      "veroeffentlicht": "2026-08-14T00:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨1995年巴林银行如何被一名普通职员导致破产的历史金融案件。"
     }
   ]
 }

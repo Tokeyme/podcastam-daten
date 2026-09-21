@@ -2,8 +2,38 @@
   "schema_version": 1,
   "show": "鹰眼时间 - 体育运动播客",
   "apple_collection_id": "1597056557",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6aaedf54ac389df827346c54",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6aaedf54ac389df827346c54/media.xyzcdn.net/6196345ba4dca238c0def1cf/llULqlb6X0Q7wJDoTyscbcQW2sfI.m4a",
+      "pfad": "/v1/episode/cf96d8e3d5e089992dc9736b52e0db906d755b74.json",
+      "titel": "Vol.133 签约姆巴佩之后，（猜想）昂跑会怎么做足球",
+      "veroeffentlicht": "2026-09-19T23:30:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "签约姆巴佩后，从未做过足球的昂跑将如何开展足球生意？"
+    },
+    {
+      "guid": "6aaa6bdf051af796b9e925e2",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6aaa6bdf051af796b9e925e2/media.xyzcdn.net/6196345ba4dca238c0def1cf/liYXUMRQsMNK3l9u4LJ3_iAED4ou.m4a",
+      "pfad": "/v1/episode/7c1cf44c392d2c19736131f3f3c4d301df69e3a8.json",
+      "titel": "Vol.132 在中国行里看库里：改变篮球的人，如何影响未来",
+      "veroeffentlicht": "2026-09-16T10:18:37+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨库里如何改变现代篮球及全球IP养成"
+    },
+    {
+      "guid": "6a982367f03e74ee6b040599",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a982367f03e74ee6b040599/media.xyzcdn.net/6196345ba4dca238c0def1cf/lmqhb5o3BAP6gnKXgjLQU60ZPFJb.m4a",
+      "pfad": "/v1/episode/6107acb656c01a6104ba1ae6727e5c44c8edced1.json",
+      "titel": "Vol.131 跳水冠军开始演喜剧，这水花我不想压了 ft.脱口秀小马",
+      "veroeffentlicht": "2026-09-02T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "从跳水冠军到喜剧演员，小马聊赛场与舞台的经历"
+    },
     {
       "guid": "6a560db0ca0de6c44ae6f99c",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a560db0ca0de6c44ae6f99c/media.xyzcdn.net/6196345ba4dca238c0def1cf/lrJzlCPkWMTbtthqD9N3Bxli-T23.m4a",
@@ -13,6 +43,66 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "一首迪斯科舞曲如何跨越半个世纪，从莫斯科奥运会变成哈兰德之歌。"
+    },
+    {
+      "guid": "6a4dc7983fb7233cbf45879c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a4dc7983fb7233cbf45879c/media.xyzcdn.net/6196345ba4dca238c0def1cf/loJJ_0YIXmJD68RTH3UpW7DRFHkY.m4a",
+      "pfad": "/v1/episode/f2eeaf2e3bb0856f8a200508d9155732dd24fd19.json",
+      "titel": "Vol.128 淘宝闪购｜美国人真的喜欢上足球了吗？",
+      "veroeffentlicht": "2026-07-08T03:56:23+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨美国人是否真的喜欢上足球以及美国足球的发展现状。"
+    },
+    {
+      "guid": "6a47465c2e335a35a80d6522",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a47465c2e335a35a80d6522/media.xyzcdn.net/6196345ba4dca238c0def1cf/lsvhsVDepPNqiZvam65c-oWzUAzT.m4a",
+      "pfad": "/v1/episode/12af4af677ad6ee4841851c4bcd5e3828d29d6d9.json",
+      "titel": "Vol.127 足球是方言：一期一会，告别墨西哥",
+      "veroeffentlicht": "2026-07-03T05:26:24+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "世界杯期间在墨西哥的见闻与体验"
+    },
+    {
+      "guid": "6a41b47b2e335a35a80ad229",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a41b47b2e335a35a80ad229/media.xyzcdn.net/6196345ba4dca238c0def1cf/lhqSex5s2cCaSLtC7QNth7hxjH0t.m4a",
+      "pfad": "/v1/episode/5b2030f8ba3e60e3f75d3210ff08e17009a0391c.json",
+      "titel": "Vol.126 日本足球，世界强队之路",
+      "veroeffentlicht": "2026-06-29T00:11:47+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨日本足球的世界杯表现、崛起之路及改革人物川渊三郎。"
+    },
+    {
+      "guid": "6a3ce0b69d2f5743683db023",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a3ce0b69d2f5743683db023/media.xyzcdn.net/6196345ba4dca238c0def1cf/lq9csFtQaW7iWjjtThYD60ggEM_S.m4a",
+      "pfad": "/v1/episode/603b42f8acf14307bc82ab283d5e5c9ad5993e56.json",
+      "titel": "Vol.125 淘宝闪购｜非洲天赋，与球员人口贩卖的阴影",
+      "veroeffentlicht": "2026-06-25T08:09:20+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨非洲足球崛起背后的天赋、经济政治因素与灰色产业链。"
+    },
+    {
+      "guid": "6a38bf12608f69578bd7ebbd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a38bf12608f69578bd7ebbd/media.xyzcdn.net/6196345ba4dca238c0def1cf/lnyORBo4ta-nnEhoxlyOpZHmYQ8r.m4a",
+      "pfad": "/v1/episode/7c00d58ca3f60a8cbda027c107dab83973c14864.json",
+      "titel": "Vol.124 淘宝闪购｜足球场、棒球帽、美国梦...在洛杉矶现场找足球",
+      "veroeffentlicht": "2026-06-22T05:05:26+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "洛杉矶现场见闻：美国的足球氛围与街区生活"
+    },
+    {
+      "guid": "6a35c01d75ba9e0c53361b6c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6196345ba4dca238c0def1cf/6a35c01d75ba9e0c53361b6c/media.xyzcdn.net/6196345ba4dca238c0def1cf/liDle_aHbJOKIW6akMYTrAFBGQch.m4a",
+      "pfad": "/v1/episode/76878e5cf96c9dee274d9fa2330c9f88cf1d593a.json",
+      "titel": "Vol.123 伊朗队能“代表伊朗”吗？ft.刘怡",
+      "veroeffentlicht": "2026-06-19T23:01:30+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "伊朗队能代表伊朗吗？探讨中东足球与政治的纠葛"
     }
   ]
 }

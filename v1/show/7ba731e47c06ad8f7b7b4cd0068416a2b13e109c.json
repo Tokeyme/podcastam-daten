@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "育儿怎么办？这里有答案！",
   "apple_collection_id": "1487002091",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group80/M00/0F/DF/wKgPDF6r8pPBeSMsAE7fNFHFAcU379.mp3",
@@ -13,6 +13,36 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "应对青春期孩子长痘影响心情和学习的方法"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M00/08/ED/wKgO0V5owDPwbwzUAF6hFKMtz70591.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgO0V5owDPwbwzUAF6hFKMtz70591.mp3.m4a?channel=rss&album_id=30322190&track_id=266550742&uid=177657754&jt=https://aod.cos.tx.xmcdn.com/group73/M00/08/ED/wKgO0V5owDPwbwzUAF6hFKMtz70591.mp3",
+      "pfad": "/v1/episode/d502609be44c15dc9f7dbb37bc918ca149c2f654.json",
+      "titel": "【怎么办】初中升到新学段，发现孩子成绩明显下滑怎么办？",
+      "veroeffentlicht": "2020-03-11T12:00:53+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "应对初中生升入新学段后成绩明显下滑的方法"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M04/5F/30/wKgO215NFoXwp_48AEpmR5GW-Eo009.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgO215NFoXwp_48AEpmR5GW-Eo009.mp3.m4a?channel=rss&album_id=30322190&track_id=256455165&uid=177657754&jt=https://aod.cos.tx.xmcdn.com/group73/M04/5F/30/wKgO215NFoXwp_48AEpmR5GW-Eo009.mp3",
+      "pfad": "/v1/episode/ae5e6e5bf421eac5daee56e9ae92387b3eeb24c9.json",
+      "titel": "【怎么办】孩子爱拖延怎么办？",
+      "veroeffentlicht": "2020-02-19T12:08:01+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨孩子拖延症的原因与应对方法"
+    },
+    {
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M01/8D/5B/wKgO0F4N1dqgGKj5AGUM-dsqsgE817.mp3",
+      "audio_url": "https://jt.ximalaya.com//wKgO0F4N1dqgGKj5AGUM-dsqsgE817.mp3.m4a?channel=rss&album_id=30322190&track_id=241306718&uid=177657754&jt=https://aod.cos.tx.xmcdn.com/group72/M01/8D/5B/wKgO0F4N1dqgGKj5AGUM-dsqsgE817.mp3",
+      "pfad": "/v1/episode/a7941f4c696e04699bd23b72f9aa42ef20e502df.json",
+      "titel": "【怎么办】孩子说读书没有用怎么办？",
+      "veroeffentlicht": "2020-01-02T12:08:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "当孩子说读书没有用时，如何应对与引导"
     }
   ]
 }

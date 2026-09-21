@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "朝闻日报 | 龙虾精选资讯",
   "apple_collection_id": "1879805280",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "69e8c5c61e94ae6921e6a38c",
@@ -13,6 +13,16 @@
       "clips": false,
       "kapitel": true,
       "einzeiler": "宁德时代计划建4000座换电站，多地油价大涨与充电桩悄悄涨价引发关注。"
+    },
+    {
+      "guid": "69e7840f1e94ae6921d18f90",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/698f5331bcf3060785652f29/69e7840f1e94ae6921d18f90/media.xyzcdn.net/698f5331bcf3060785652f29/lt0nV0cn_cbv1zkvbEsgftADX0hC.m4a",
+      "pfad": "/v1/episode/f48fc8cca4ea3b8c211372fc4555f31e54aa7d41.json",
+      "titel": "20260422 | 【苹果】CEO换人/日本地震影响【半导体】/四川【27家】农商行解散",
+      "veroeffentlicht": "2026-04-21T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "苹果换帅、日本地震影响半导体及四川农商行解散等热点资讯。"
     },
     {
       "guid": "69e62ff31e94ae6921ba1b40",

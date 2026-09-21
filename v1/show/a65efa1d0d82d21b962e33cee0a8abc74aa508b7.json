@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "日谈公园",
   "apple_collection_id": "1166949390",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1015752604",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "两位抖音创作者对谈，探讨科技与人文视角下的历史记忆与小人物命运。"
+    },
+    {
+      "guid": "xmly_track_1006766373",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIOV5KbAvzw0QTHplng.m4a?channel=rss&album_id=5574153&track_id=1006766373&uid=59126029&jt=https://aod.cos.tx.xmcdn.com/storages/586b-audiofreehighqps/04/0F/GKwRIJIOV5KbAvzw0QTHplng.m4a",
+      "pfad": "/v1/episode/ff27c7862b9aebe99c8eda8640cac90c369fd1f3.json",
+      "titel": "牛魔王是《西游记》里的西门庆",
+      "veroeffentlicht": "2026-08-16T20:00:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "探讨《西游记》中牛魔王的双重胜利、家族关系及其作为神魔江湖“替罪羊”的悲剧命运。"
     }
   ]
 }

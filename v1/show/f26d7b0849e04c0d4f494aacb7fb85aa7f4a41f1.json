@@ -2,8 +2,48 @@
   "schema_version": 1,
   "show": "鹿小鸣的情感治愈",
   "apple_collection_id": "6783575493",
-  "erzeugt_am": "2026-09-20T22:20:09+00:00",
+  "erzeugt_am": "2026-09-21T12:41:16+00:00",
   "folgen": [
+    {
+      "guid": "6a8e755f1352af56ff3c3320",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8e755f1352af56ff3c3320/media.xyzcdn.net/69e8fb80bef2107845770964/lkAX8FBtOczuIsbfqrQdpLPOktUy.m4a",
+      "pfad": "/v1/episode/90981439c9207918325c44b1925875da9cca7e49.json",
+      "titel": "恋爱上头的人必输，有时候还要自我克制",
+      "veroeffentlicht": "2026-08-26T05:11:44+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "恋爱中过度投入容易失去自我并处于劣势。"
+    },
+    {
+      "guid": "6a8e7521ef65145dfcc58ddf",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8e7521ef65145dfcc58ddf/media.xyzcdn.net/69e8fb80bef2107845770964/lsZR1ra4Ud94SA6b2tSYmjeRrxri.m4a",
+      "pfad": "/v1/episode/0a6872c574dada34adb98348fcf3e1999cdd956a.json",
+      "titel": "大方的去爱一个值得的人，同时教会对方如何爱自己",
+      "veroeffentlicht": "2026-08-26T05:10:54+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "如何在感情中勇敢去爱并教会对方如何爱自己"
+    },
+    {
+      "guid": "6a8bdb2a1352af56ff3b0628",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8bdb2a1352af56ff3b0628/media.xyzcdn.net/69e8fb80bef2107845770964/lqyPZxeLlJUXRY01rcmA0OgQY9kB.m4a",
+      "pfad": "/v1/episode/c9b594b2dc9bf7988a744000b85e1f68c52d3d7d.json",
+      "titel": "如何爱人并在爱中保持自我",
+      "veroeffentlicht": "2026-08-24T05:57:12+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "如何在亲密关系中学会爱人并同时保持自我。"
+    },
+    {
+      "guid": "6a8bdaf91352af56ff3b05fe",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8bdaf91352af56ff3b05fe/media.xyzcdn.net/69e8fb80bef2107845770964/loTtbrUuemGj3LXx-Xu1FT1kQwH3.m4a",
+      "pfad": "/v1/episode/e67e64bd17752489cd4f7e7247e657b21117d1e5.json",
+      "titel": "恋人间最舒服的交往模式和技巧",
+      "veroeffentlicht": "2026-08-24T05:57:06+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨恋人之间最舒适的相处模式、边界感与沟通技巧。"
+    },
     {
       "guid": "6a8a8f301352af56ff3a8695",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8a8f301352af56ff3a8695/media.xyzcdn.net/69e8fb80bef2107845770964/lv_shZTXnCpmUX0EMhCkOCwQKq2m.m4a",
@@ -13,6 +53,26 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨亲密关系中的沟通误区、改善策略及冲突处理方法"
+    },
+    {
+      "guid": "6a8a8ef71352af56ff3a868b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8a8ef71352af56ff3a868b/media.xyzcdn.net/69e8fb80bef2107845770964/lv0zhM_7Ermp775wpTwEenuE6UVd.m4a",
+      "pfad": "/v1/episode/9914786e1b2d2f15689d39ade71d7a3da946bab6.json",
+      "titel": "感情：不主动就是答案",
+      "veroeffentlicht": "2026-08-23T06:26:57+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨感情里不主动的含义与应对方式"
+    },
+    {
+      "guid": "6a8917581352af56ff3a18b9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69e8fb80bef2107845770964/6a8917581352af56ff3a18b9/media.xyzcdn.net/69e8fb80bef2107845770964/lu5vyS_uDcrl4K-41qRhvEXKZWzD.m4a",
+      "pfad": "/v1/episode/1e6df718e9999f96dea29baad61e820f7ad97521.json",
+      "titel": "情感中的新鲜感能维持多久",
+      "veroeffentlicht": "2026-08-22T03:29:45+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "探讨亲密关系中新鲜感的维持时间与转化方式"
     }
   ]
 }
