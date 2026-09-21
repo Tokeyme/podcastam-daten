@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "荒野文化",
   "apple_collection_id": "1764197930",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a7a9f8f36641f136d865e27",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/7f73a42d2adeb73c184997f905fe20df59f02fe9.json",
       "titel": "110 叶广芩《状元媒》：京味儿小说的典范，叶赫那拉氏一支后代的兴衰",
       "veroeffentlicht": "2026-08-12T16:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨叶广芩作品《状元媒》中的京味世家兴衰与小人物命运。"
     }

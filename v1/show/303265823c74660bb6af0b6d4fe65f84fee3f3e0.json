@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "无醉电影",
   "apple_collection_id": "1896946317",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007441443",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/09f304b54b104a6f4854b64608df53fc1f219829.json",
       "titel": "经典老片·李沧东《燃烧》阶级固化所带来的社会矛盾",
       "veroeffentlicht": "2026-08-20T06:52:49+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "深度剖析李沧东导演经典名作《燃烧》及其阶级矛盾隐喻"
     }

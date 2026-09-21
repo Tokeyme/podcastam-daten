@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "敢想科技说",
   "apple_collection_id": "1800594826",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "68d6421b522b40626c5f0643",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/d90c257c45bb3da28440eedba6f5ad78a8959e73.json",
       "titel": "小红书电商的未来",
       "veroeffentlicht": "2025-09-26T07:39:13+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "小红书电商如何通过差异化策略、商家扶持与出海在竞争中寻找生存之道。"
     },

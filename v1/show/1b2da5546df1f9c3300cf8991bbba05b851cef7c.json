@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "观未来：AI+教育",
   "apple_collection_id": "1718702011",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6aa94e5d9d3264778169a6f1",
@@ -20,7 +20,7 @@
       "pfad": "/v1/episode/7e16b552cf09e3c16adb9f4522ed2776381ac88b.json",
       "titel": "24.文科生的AI突围战（下）",
       "veroeffentlicht": "2026-08-10T10:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "文科生如何利用AI实现副业破局，从出卖时间走向构建数字公司和智能体系统。"
     },

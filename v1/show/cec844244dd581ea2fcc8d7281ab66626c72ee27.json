@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "睡前故事育儿经",
   "apple_collection_id": "1889706474",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a18175dac7bdb080c32335c",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/21bcfff60b27e008edb6aaee2885dc2fe79797cf.json",
       "titel": "41.睡前故事：奶奶的旧布袋",
       "veroeffentlicht": "2026-06-07T16:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "讲述了一个男孩因奶奶捡废品而自卑，最终在雨中理解并接纳这份沉甸甸爱意的睡前故事。"
     },

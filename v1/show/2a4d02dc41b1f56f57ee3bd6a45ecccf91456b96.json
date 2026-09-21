@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "日知录",
   "apple_collection_id": "1527514372",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a72f87aab3a91c24a103b08",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/59a3cdd768fe91f4cc4fc67d9e7e387208270b16.json",
       "titel": "114. 历史学家看《穹庐下的魔女》：请缺席的在场者站到舞台正中央",
       "veroeffentlicht": "2026-08-05T20:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "历史学家解读动画《穹庐下的魔女》，探讨蒙古史与波斯文献的交织。"
     }

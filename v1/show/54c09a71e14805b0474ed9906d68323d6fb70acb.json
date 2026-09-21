@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "霓达故事",
   "apple_collection_id": "1675204249",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a902ff7ef65145dfcc6657f",
@@ -20,7 +20,7 @@
       "pfad": "/v1/episode/72d3b27d5e409b7f34b93b2f1211e9e001bd6450.json",
       "titel": "42. 小镇大事",
       "veroeffentlicht": "2026-07-17T13:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "节目分享了三桩充满诡异色彩的童年与小镇异闻。"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "许纪霖的播客",
   "apple_collection_id": "1633037013",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a7e726817676351c5719a7f",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/eedf7a1b9513e03a13752a244c3b0783df50c392.json",
       "titel": "104，在西西里岛谈文艺复兴",
       "veroeffentlicht": "2026-08-15T02:23:17+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探寻地中海文明与佛罗伦萨文艺复兴的历史脉络"
     }

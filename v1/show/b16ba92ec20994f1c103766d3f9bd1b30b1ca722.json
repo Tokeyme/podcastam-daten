@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Coffeeplus播客",
   "apple_collection_id": "1582644233",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a7d9f9736641f136d87b8b5",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/4754d16b16cc5257741a21fd45c68d5ea6abdd0e.json",
       "titel": "113 快团团卖咖啡，怎么就成“劣币”了呢？",
       "veroeffentlicht": "2026-08-13T12:00:24+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨东莞精品咖啡圈、快团团渠道及围绕价格与品质的行业思考"
     }

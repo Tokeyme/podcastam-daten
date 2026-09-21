@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "壹个播客A talkshow",
   "apple_collection_id": "1737358800",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a85dd84fb87252df2ec9633",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/65fe79013cef32f13c91aac731d04a36e0dd8aa8.json",
       "titel": "123、旅行见闻大赏：张家界要被韩国人占领啦？",
       "veroeffentlicht": "2026-08-20T23:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨土耳其和张家界的旅游见闻，分享两地风光、文化以及独特的旅行体验。"
     }

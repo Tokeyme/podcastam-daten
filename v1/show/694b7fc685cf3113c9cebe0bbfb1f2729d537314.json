@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "健康有方FM",
   "apple_collection_id": "1823983682",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a77ecdc000a55a9bb050384",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/bce7fc9e7ab38b2c41a45b2183fedcb06e36a59c.json",
       "titel": "颈腰椎反复痛？冬病夏治，少走调理弯路",
       "veroeffentlicht": "2026-08-09T03:01:18+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "探讨中医疗法在三伏天治疗颈腰椎等筋骨寒湿疼痛的应用。"
     },

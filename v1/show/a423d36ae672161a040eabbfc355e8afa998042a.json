@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "古典不古董：西方音乐史漫谈",
   "apple_collection_id": "1837825105",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6a991fdaf03e74ee6b046b0c",
@@ -20,7 +20,7 @@
       "pfad": "/v1/episode/4781926e00d359f265ac02defbf66fdc578dddae.json",
       "titel": "22.浪漫主义时期音乐概览｜浪漫乐潮何以冲决理性长堤",
       "veroeffentlicht": "2026-05-05T12:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "古典主义理性破冰，浪漫主义音乐迎来感性与个性的全面爆发"
     },

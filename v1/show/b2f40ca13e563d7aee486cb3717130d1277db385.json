@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "TechEdge科技前沿",
   "apple_collection_id": "1739063993",
-  "erzeugt_am": "2026-09-21T12:41:16+00:00",
+  "erzeugt_am": "2026-09-21T20:42:08+00:00",
   "folgen": [
     {
       "guid": "6850199e2a38b4d979f2e8b1",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/2f2db18dd60f87d5b001447c9131e4b329bcefec.json",
       "titel": "公司史-百年玛氏",
       "veroeffentlicht": "2025-06-16T14:08:49+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "剖析玛氏公司的百年发展历程、家族传承、经营理念与全球化布局。"
     },
