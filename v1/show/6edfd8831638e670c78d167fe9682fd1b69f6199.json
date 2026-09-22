@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "霓达播客",
   "apple_collection_id": "1668626930",
-  "erzeugt_am": "2026-09-21T20:42:08+00:00",
+  "erzeugt_am": "2026-09-22T11:38:07+00:00",
   "folgen": [
     {
       "guid": "6aabe3db051af796b9e9be2e",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "大别山深处发生双尸命案，一岁幼童被抢走，十七年后DNA比对揭开惊天真相。"
+    },
+    {
+      "guid": "6a884ef61352af56ff39e6f9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/620e4b8f52d497504647ce24/6a884ef61352af56ff39e6f9/media.xyzcdn.net/620e4b8f52d497504647ce24/lsixYbOV5V33wtlLU_JDhQBa7GBh.m4a",
+      "pfad": "/v1/episode/cef039c17e6af373c74ed508ae728ca57bbb10ce.json",
+      "titel": "155. “天注定”：周克华案",
+      "veroeffentlicht": "2026-08-21T13:29:31+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "剖析震惊全国的周克华持枪抢劫杀人案，还原其作案轨迹与最终落网经过。"
     }
   ]
 }
