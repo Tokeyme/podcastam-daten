@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Sword and Scale",
   "apple_collection_id": "790487079",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
     {
       "guid": "https://api.spreaker.com/episode/74076589",
@@ -10,9 +10,9 @@
       "pfad": "/v1/episode/f6eebf0982bcae209e6d0a1aa6aca6ca9393372b.json",
       "titel": "Episode 366",
       "veroeffentlicht": "2026-08-23T05:00:03+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": false,
-      "einzeiler": "A young mother's disappearance reveals a violent crime and missed warning signs."
+      "einzeiler": "A young mother's disappearance exposes a violent crime hidden in plain sight."
     }
   ]
 }

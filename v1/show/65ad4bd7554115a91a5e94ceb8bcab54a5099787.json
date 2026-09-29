@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "QAA Podcast",
+  "apple_collection_id": "1428209307",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
+  "folgen": [
+    {
+      "guid": "tag:soundcloud,2010:tracks/2393385372",
+      "audio_url": "https://feeds.soundcloud.com/stream/2393385372-qanonanonymous-the-pentagons-secret-posters.mp3",
+      "pfad": "/v1/episode/895a4edb9e1a74c4565541fbba899717e5906296.json",
+      "titel": "The Pentagon’s Secret Posters feat. Will Sommer (E388)",
+      "veroeffentlicht": "2026-09-02T23:09:57+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The Pentagon secretly employs prominent right-wing social media influencers."
+    }
+  ]
+}

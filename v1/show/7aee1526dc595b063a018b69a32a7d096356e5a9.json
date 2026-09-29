@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Fallout Lorecast - The Fallout Video Game & TV Lore Podcast",
   "apple_collection_id": "1449372657",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "f75a81bc-7c7d-4e15-9a2a-aa32063a4099",
+      "audio_url": "https://audio2.redcircle.com/episodes/e739d75d-fab4-48d0-9262-6a793109b1c8/stream.mp3",
+      "pfad": "/v1/episode/66c0eab04f1665a5730427dbfea2acbc644757a4.json",
+      "titel": "421: Lore Iceberg 1: All New Vegas Wild Wasteland Events Explained (Part 1)",
+      "veroeffentlicht": "2026-09-04T04:00:04+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Exploring the first tier of the Fallout New Vegas lore iceberg with Wild Wasteland events."
+    },
     {
       "guid": "2500145f-73f5-4204-9d94-555a586f635e",
       "audio_url": "https://audio2.redcircle.com/episodes/bf3899e5-3d0d-43ef-881b-d0fa222e1f42/stream.mp3",

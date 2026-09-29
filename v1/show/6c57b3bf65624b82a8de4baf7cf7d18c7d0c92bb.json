@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "48 Hours",
   "apple_collection_id": "965818306",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "e6f3db8c-1366-11f1-8a09-83e59d2d4b90",
+      "audio_url": "https://serve.castfire.com/audio/8168181/8168181_2026-04-12-013921.192.mp3?rssID=5942",
+      "pfad": "/v1/episode/7533ffcd702e0b3da77c3d41ca6e52678aa6b1df.json",
+      "titel": "Lindsay Clancy: Drama in the Deliberation Room",
+      "veroeffentlicht": "2026-09-04T04:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Inside the deliberations, juror drama, and legal turning points of the Lindsay Clancy…"
+    },
     {
       "guid": "a9be9dea-76e7-11f0-a0e6-37c0ad4478c3",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8090906/8090906_2026-04-08-210706.192.mp3?rssID=5942",

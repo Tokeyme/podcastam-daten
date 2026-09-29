@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Music Saved Me Podcast",
   "apple_collection_id": "1703080557",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "47148e27-9667-4b4f-a383-b4b600d0d215",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ee29bc0a-f712-47d6-a49c-b25700f0582e/47148e27-9667-4b4f-a383-b4b600d0d215/audio.mp3?utm_source=Podcast&in_playlist=dfceda02-3624-42c7-b522-b25700f0584c",
+      "pfad": "/v1/episode/d1908e4c91bd17e76d840de33643c02afe4f6f15.json",
+      "titel": "Raine Maida (Our Lady Peace): Turning Pain Into Anthems [Encore]”",
+      "veroeffentlicht": "2026-09-02T09:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Raine Maida discusses three decades of turning pain into music and finding purpose."
+    },
     {
       "guid": "a8c61583-2104-437e-bc6c-b4a60145c5fe",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/ee29bc0a-f712-47d6-a49c-b25700f0582e/a8c61583-2104-437e-bc6c-b4a60145c5fe/audio.mp3?utm_source=Podcast&in_playlist=dfceda02-3624-42c7-b522-b25700f0584c",

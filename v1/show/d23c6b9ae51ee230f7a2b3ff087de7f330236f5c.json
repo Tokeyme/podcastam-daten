@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Gambling With an Edge",
   "apple_collection_id": "459476611",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74660055",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74660055/larry.mp3",
+      "pfad": "/v1/episode/e1935a1402265122d2a6e352ef95f72801e9e69e.json",
+      "titel": "Laurance Scott - beating roulette",
+      "veroeffentlicht": "2026-08-26T19:00:03+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Professional roulette player Laurence Scott reflects on 30 years of beating the game."
+    },
     {
       "guid": "https://api.spreaker.com/episode/73824067",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73824067/molkshake.mp3",

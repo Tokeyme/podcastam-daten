@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Tech Won't Save Us",
   "apple_collection_id": "1507621076",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19740170",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/1004689/episodes/19740170-data-vampires-redux-going-hyperscale-episode-1.mp3",
+      "pfad": "/v1/episode/8ca6e91fabc33243a039aece5baf0c1a28e1dd18.json",
+      "titel": "Data Vampires Redux: Going Hyperscale (Episode 1)",
+      "veroeffentlicht": "2026-09-03T03:00:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Exploring the explosive growth, immense resource costs, and community pushback of data…"
+    },
     {
       "guid": "Buzzsprout-19649773",
       "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/1004689/episodes/19649773-tech-fascism-has-come-for-american-democracy-w-gil-duran.mp3",

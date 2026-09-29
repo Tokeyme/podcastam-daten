@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Scott Jennings Podcast",
   "apple_collection_id": "1825878779",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "45003fc4-afba-4c0a-80b6-b4bb015ee25a",
+      "audio_url": "https://pscrb.fm/rss/p/clrtpod.com/m/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/f34fa276-53e8-412a-ae48-b31400f3c8fb/45003fc4-afba-4c0a-80b6-b4bb015ee25a/audio.mp3?utm_source=Podcast&in_playlist=5e7a3fbb-edb6-4cc9-a031-b31400f3cec6",
+      "pfad": "/v1/episode/f381cd89d2d7346f493468039bfaf52d46e6309c.json",
+      "titel": "JOBS REPORT STUNS FORECASTERS",
+      "veroeffentlicht": "2026-09-04T21:46:13+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Scott Jennings analyzes the latest economic data, wildfire strategy, and politics."
+    },
     {
       "guid": "813792a7-92fb-4f69-a96f-b4ad01544ce3",
       "audio_url": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/f34fa276-53e8-412a-ae48-b31400f3c8fb/813792a7-92fb-4f69-a96f-b4ad01544ce3/audio.mp3?utm_source=Podcast&in_playlist=5e7a3fbb-edb6-4cc9-a031-b31400f3cec6",

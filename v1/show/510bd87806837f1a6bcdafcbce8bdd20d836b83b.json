@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "\"Lets Rap About it\" hosted by Fabolous, Maino, Dave East & Jim Jones",
   "apple_collection_id": "1845657564",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19755682",
+      "audio_url": "https://www.buzzsprout.com/2545223/episodes/19755682-ep-44-pasta-posse.mp3",
+      "pfad": "/v1/episode/7e8353591643c838c82f6633d7dfd2ed8128d983.json",
+      "titel": "Ep 44: Pasta Posse",
+      "veroeffentlicht": "2026-09-04T14:00:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The crew learns traditional pasta making and tackles relationship dilemmas and history."
+    },
     {
       "guid": "Buzzsprout-19648283",
       "audio_url": "https://www.buzzsprout.com/2545223/episodes/19648283-ep-42-go-in-that-goyard-bag.mp3",

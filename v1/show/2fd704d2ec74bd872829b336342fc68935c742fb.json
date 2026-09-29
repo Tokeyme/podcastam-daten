@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Ryen Russillo Show",
   "apple_collection_id": "1845980031",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
     {
       "guid": "ea63d514-e040-4749-aae5-fd08265cc7d6",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "College football breakdowns, Booger McFarland, and life advice on roommates and dating."
+    },
+    {
+      "guid": "7c4105a1-a3fe-46ed-a70d-29f35550b1ff",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/landmark-dynamic.barstoolsports.com/stream/v2/bH57UipYbrWJcoWG2uVgCnF9/audio.mp3?v=1",
+      "pfad": "/v1/episode/b77269209d24984830dff9d546b64d6ccd422c1f.json",
+      "titel": "The Clippers’ Massive Penalty & Is Kawhi the Worst Partner in Sports? Plus Clay Matthews Stops By!",
+      "veroeffentlicht": "2026-09-03T18:51:29+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Discussing the Clippers' penalty, Kawhi Leonard's status, and an interview with Clay…"
     }
   ]
 }

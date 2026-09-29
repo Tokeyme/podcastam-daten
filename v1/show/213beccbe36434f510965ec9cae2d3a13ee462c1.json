@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "DarkHorse Podcast",
   "apple_collection_id": "1471581521",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19756935",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/424075/episodes/19756935-where-feminism-went-wrong-the-342nd-evolutionary-lens-with-bret-weinstein-and-heather-heying.mp3",
+      "pfad": "/v1/episode/edb685164c3c41e96a113c41e8163896dff323d2.json",
+      "titel": "Where Feminism Went Wrong: The 342nd Evolutionary Lens with Bret Weinstein and Heather Heying",
+      "veroeffentlicht": "2026-09-04T13:00:00-07:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Reflections on Gloria Steinem, evolutionary perspectives on feminism, and animal behavior."
+    },
     {
       "guid": "Buzzsprout-19689449",
       "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/424075/episodes/19689449-was-charlie-kirk-killed-with-a-drone-viva-frei-and-jimmy-dore-on-darkhorse.mp3",

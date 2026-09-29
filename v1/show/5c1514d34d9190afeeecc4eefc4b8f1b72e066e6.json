@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Tournament Poker Edge Podcast",
   "apple_collection_id": "398635015",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19753088",
+      "audio_url": "https://www.buzzsprout.com/2642/episodes/19753088-september-4-2026-maryland-state-of-mind.mp3",
+      "pfad": "/v1/episode/f576694ebaf55c771d7a51701268e21c92ea6cc7.json",
+      "titel": "September 4, 2026 -- Maryland State of Mind",
+      "veroeffentlicht": "2026-09-04T05:00:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Clayton Fletcher analyzes strategy hands from the World Series and Maryland."
+    },
     {
       "guid": "Buzzsprout-19679235",
       "audio_url": "https://www.buzzsprout.com/2642/episodes/19679235-august-21-2026-millionaire-maker-s-mark.mp3",

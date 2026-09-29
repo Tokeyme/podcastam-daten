@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Know Before You Go Travel Show",
   "apple_collection_id": "1407378924",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74758621",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74758621/hermitage_bay_review.mp3",
+      "pfad": "/v1/episode/b9bb4dbdf2349cb5bbc9be03541ce0687239167b.json",
+      "titel": "Is Hermitage Bay Worth the Price? Our Honest Antigua Review",
+      "veroeffentlicht": "2026-08-30T20:19:25+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "An honest, detailed review of Hermitage Bay in Antigua for luxury travelers."
+    },
     {
       "guid": "https://api.spreaker.com/episode/73318796",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73318796/sandals_ochi_vs_sandals_negril_showdown.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "This Feels Criminal: A True Crime Podcast (Formerly Killer Queens)",
   "apple_collection_id": "1268919812",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "16592e51-364e-43f3-b5eb-5d3f8cbd2f07",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/claritaspod.com/measure/pscrb.fm/rss/p/traffic.libsyn.com/secure/c0b0f33f-1a7d-4159-9c72-ac64e29a132b/KQP460_First_Edit_Ad.mp3?dest-id=5408875",
+      "pfad": "/v1/episode/1aab2dffdec75b30111261b7567bc3b6b18151ab.json",
+      "titel": "The Lindsay Clancy Trial, Part 2: The Commonwealth's Own Experts Push Back",
+      "veroeffentlicht": "2026-09-04T00:51:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Examining the defense case, expert testimonies, and closing arguments in the Lindsay…"
+    },
     {
       "guid": "8e309f26-bbb2-46ab-862c-1ac0113aa19d",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/claritaspod.com/measure/pscrb.fm/rss/p/traffic.libsyn.com/secure/c0b0f33f-1a7d-4159-9c72-ac64e29a132b/TFC455_LaurenMccluskey_First_Edit_Ad.mp3?dest-id=5408875",

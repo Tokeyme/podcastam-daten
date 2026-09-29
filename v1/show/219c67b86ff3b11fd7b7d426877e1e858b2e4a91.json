@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Shit No One Tells You About Writing",
   "apple_collection_id": "1530250126",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "7a0070ae-a1b6-4206-8f3c-891c83e1ec52",
+      "audio_url": "https://audio4.redcircle.com/episodes/bd2a0e84-8fea-4d89-a428-9631938d7d67/stream.mp3",
+      "pfad": "/v1/episode/fb0f45cd938417516e503305c8b25645755cdff1.json",
+      "titel": "In Conversation with Editor and Author",
+      "veroeffentlicht": "2026-09-03T05:00:59+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Author Elizabeth Osso and editor Alex Brown discuss the thriller novel Hail Mary."
+    },
     {
       "guid": "83ff83e8-66bb-46c2-aea7-e346c3650313",
       "audio_url": "https://audio4.redcircle.com/episodes/099d5fa2-6e19-4e2c-80b7-0a86c0ad5fd1/stream.mp3",

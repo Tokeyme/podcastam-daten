@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Popcorn Psychology",
   "apple_collection_id": "1367195038",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
     {
       "guid": "https://api.spreaker.com/episode/73831155",
@@ -10,9 +10,9 @@
       "pfad": "/v1/episode/fc9675c3869929ea7ebaeb5c37bd5cb1389d466b.json",
       "titel": "Now & Then: The Psychology of Growing Up",
       "veroeffentlicht": "2026-08-17T12:55:02+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": false,
-      "einzeiler": "A psychological analysis of the 1995 coming-of-age classic Now & Then."
+      "einzeiler": "A clinical breakdown of the 1995 coming-of-age classic Now & Then."
     }
   ]
 }

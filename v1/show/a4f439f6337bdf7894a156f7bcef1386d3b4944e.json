@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Quiz Quiz Bang Bang Trivia Podcast",
   "apple_collection_id": "1464212261",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74849603",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74849603/qb339.mp3",
+      "pfad": "/v1/episode/da7b10f9b19762413e987b4452681450b4005369.json",
+      "titel": "Ep 339: General Trivia",
+      "veroeffentlicht": "2026-09-03T03:38:44+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A general trivia pub quiz covering mythology, geography, pop culture, and more."
+    },
     {
       "guid": "https://api.spreaker.com/episode/74322826",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74322826/qb337.mp3",

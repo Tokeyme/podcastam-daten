@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "In the Kitchen with Monica",
   "apple_collection_id": "6798839942",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19754749",
+      "audio_url": "https://www.buzzsprout.com/2634675/episodes/19754749-getting-ready-for-autumn-foods-to-support-the-lungs-9-3-26.mp3",
+      "pfad": "/v1/episode/61dd5b05d4ec7cfcf8e765a12cec579444e7fa88.json",
+      "titel": "Getting Ready for Autumn: Foods to support the Lungs! - 9/3/26",
+      "veroeffentlicht": "2026-09-04T12:00:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Foods and traditional remedies to support lung health during autumn"
+    },
     {
       "guid": "Buzzsprout-19678720",
       "audio_url": "https://www.buzzsprout.com/2634675/episodes/19678720-what-s-on-your-plate-8-20-26.mp3",

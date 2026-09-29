@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "BioCentury This Week",
   "apple_collection_id": "1509724225",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19733693",
+      "audio_url": "https://www.buzzsprout.com/1035190/episodes/19733693-ep-385-mfn-deals-lilly-takeout-fda-pick-overton.mp3",
+      "pfad": "/v1/episode/9e6c94f40d338150fe39c8544cf3b4e3e6ac5211.json",
+      "titel": "Ep. 385 - MFN deals, Lilly takeout, FDA pick Overton",
+      "veroeffentlicht": "2026-08-31T22:00:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Pharma deals, Eli Lilly's latest acquisition, and regulatory updates at the FDA."
+    },
     {
       "guid": "Buzzsprout-19662536",
       "audio_url": "https://www.buzzsprout.com/1035190/episodes/19662536-ep-382-summer-s-venture-wave-drugging-beta-catenin-capricor-fda.mp3",

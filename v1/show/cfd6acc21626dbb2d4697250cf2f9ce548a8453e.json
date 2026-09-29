@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Bankless",
   "apple_collection_id": "1499409058",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "flightcast:01M1NRYPADQ77QQEZTD1E9FW5J",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/01M1NRYPADQ77QQEZTD1E9FW5J.mp3",
+      "pfad": "/v1/episode/bf2d6a830058b2969bbc409fe442b922f16c55f9.json",
+      "titel": "ROLLUP: Robinhood’s Meme Economy | Solana Cuts Issuance | Saylor’s Comeback | AI Alarm",
+      "veroeffentlicht": "2026-09-04T10:30:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Crypto market rallies on Fed rate cut hopes while Robinhood chain booms with meme coins."
+    },
     {
       "guid": "flightcast:01M0GSBGR85QKK504HPGJJVZ43",
       "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/01M0GSBGR8ED3C567SYMSWRAPV.mp3",

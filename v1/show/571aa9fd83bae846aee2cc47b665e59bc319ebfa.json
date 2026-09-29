@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Questlove Show",
   "apple_collection_id": "1485250501",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "b1914ba1-9e10-4dd9-930c-b4bb01404f4b",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/b1914ba1-9e10-4dd9-930c-b4bb01404f4b/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",
+      "pfad": "/v1/episode/7cddf90f6efe2bcaff296c16c2d6a1a5de36cba0.json",
+      "titel": "Philly Cheesesteaks & Escape Rooms — A Rabbit-Hole Mailbag Edition",
+      "veroeffentlicht": "2026-09-04T20:37:45+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Philly cheesesteaks, childhood memories, and mailbag questions with the team."
+    },
     {
       "guid": "c7ec82c1-9678-45a2-9317-b4ad013149fc",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/c7ec82c1-9678-45a2-9317-b4ad013149fc/audio.mp3?utm_source=Podcast&in_playlist=ee132490-ba24-4965-b558-ae32006cd4c0",

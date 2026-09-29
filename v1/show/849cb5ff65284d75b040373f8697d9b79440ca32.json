@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Gangster Chronicles",
   "apple_collection_id": "1458073378",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "9ccdba85-12c3-4869-aa19-b4b6003f875d",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6ab4f29-df6b-425a-b4c4-ae33005f6599/9ccdba85-12c3-4869-aa19-b4b6003f875d/audio.mp3?utm_source=Podcast&in_playlist=8145c993-a22b-4b87-b032-ae33005f65a3",
+      "pfad": "/v1/episode/ce54bfde804d36338fa2d67c08a3ec4173c61b2e.json",
+      "titel": "The Gangster Dossier",
+      "veroeffentlicht": "2026-08-30T04:03:47+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The crew behind The Dossier unpacks deep corruption and unresolved questions in the…"
+    },
     {
       "guid": "c435ee15-1183-4203-855e-b4ac00dec47d",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6ab4f29-df6b-425a-b4c4-ae33005f6599/c435ee15-1183-4203-855e-b4ac00dec47d/audio.mp3?utm_source=Podcast&in_playlist=8145c993-a22b-4b87-b032-ae33005f65a3",

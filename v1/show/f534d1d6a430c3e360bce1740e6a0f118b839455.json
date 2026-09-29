@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "20/20",
   "apple_collection_id": "987967575",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "13f22df8-b04f-11f0-8553-eb80d5c37557",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP9626439027.mp3",
+      "pfad": "/v1/episode/2d2241570fefcc114038589fbaf5df45c891be4c.json",
+      "titel": "The Trial of Lindsay Clancy",
+      "veroeffentlicht": "2026-09-05T12:42:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "The high-profile trial of Lindsay Clancy explores postpartum psychosis and criminal…"
+    },
     {
       "guid": "798e3db4-9cd5-11f1-a5ac-2b4761b60b6f",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP3005646571.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Bill and Giuliana: The Podcast",
   "apple_collection_id": "1896417336",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "ce40cbb4-545d-4c65-9f6c-b4b90052a3ee",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eeaff8cc-88f0-4ea6-a53e-b44300b8ee07/ce40cbb4-545d-4c65-9f6c-b4b90052a3ee/audio.mp3?utm_source=Podcast&in_playlist=b1cb5f26-bfdc-4180-9bbc-b44300b8f247",
+      "pfad": "/v1/episode/1c82b47ad74acbfcaaf9b7d114fc4c23eda76949.json",
+      "titel": "How Long Does Grief Last?",
+      "veroeffentlicht": "2026-09-02T11:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Grief expert Dr. Laura Berman discusses navigating loss and her new book."
+    },
     {
       "guid": "acee755b-e80d-4c4a-95d8-b4ab007f0b4b",
       "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eeaff8cc-88f0-4ea6-a53e-b44300b8ee07/acee755b-e80d-4c4a-95d8-b4ab007f0b4b/audio.mp3?utm_source=Podcast&in_playlist=b1cb5f26-bfdc-4180-9bbc-b44300b8f247",

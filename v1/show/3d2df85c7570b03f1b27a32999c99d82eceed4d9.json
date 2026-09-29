@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Commander Cookout Podcast: Magic the Gathering",
   "apple_collection_id": "1241094874",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74776312",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74776312/cco_ep555_aoejundemout.mp3",
+      "pfad": "/v1/episode/be753ae4616f5f23ae6ae8b8c6a43e7b6f928417.json",
+      "titel": "The Evolution of JUND in Commander - CCO Ep 555",
+      "veroeffentlicht": "2026-09-01T15:00:02+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Ranking the top Jund commanders from 2019 versus today's MTG meta."
+    },
     {
       "guid": "https://api.spreaker.com/episode/74228431",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74228431/cco_ep553_demdamnhobbitz.mp3",

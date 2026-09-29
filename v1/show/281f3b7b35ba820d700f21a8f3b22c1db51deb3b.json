@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Drama, Darling: A Real Housewives Comedy Podcast",
   "apple_collection_id": "1684156555",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74925198",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/722/pdst.fm/e/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/74925198/reza_9_4_ads.mp3",
+      "pfad": "/v1/episode/e2242e6014e5a8e978a87cf6ebeb30fd66e010da.json",
+      "titel": "Reza Farahan on \"Memoirs of a Gay Shah\" Persian Hustle, Grace, Grief and Resilience",
+      "veroeffentlicht": "2026-09-05T14:59:35+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Reza Farahan discusses his memoir, escaping the Iranian revolution, and reality TV."
+    },
     {
       "guid": "https://api.spreaker.com/episode/74443360",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/722/pdst.fm/e/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/74443360/valley_next_gen_8_20_ads.mp3",

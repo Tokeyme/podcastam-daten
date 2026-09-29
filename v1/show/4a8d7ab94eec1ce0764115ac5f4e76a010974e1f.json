@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "All-In with Chamath, Jason, Sacks & Friedberg",
   "apple_collection_id": "1502871393",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
     {
       "guid": "f225e979-78f3-4508-95fe-79293b3ff678",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Brad Gerstner breaks down market trends, AI infrastructure, and upcoming economic risks."
+    },
+    {
+      "guid": "a3cf57b6-0471-4554-a7e1-a41345c06d96",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300",
+      "pfad": "/v1/episode/2d9a4712f8f3c7e52e5dbf9f26bd98eb284815fb.json",
+      "titel": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+      "veroeffentlicht": "2026-09-04T23:10:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "OpenAI 6, SF real estate frenzy, AI school bans, and the U.S.-Venezuela oil deal."
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The Tennis Podcast",
+  "apple_collection_id": "530971441",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
+  "folgen": [
+    {
+      "guid": "6a9bbc61ffe0e2749199be59",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/thetennispodcast/e/6a9bbc61ffe0e2749199be59/media.mp3",
+      "pfad": "/v1/episode/50aed092efaf0bc2f44174898a01105d3c2b3871.json",
+      "titel": "US Open Day 6 - Williams sisters lose, but Serena might return",
+      "veroeffentlicht": "2026-09-05T06:58:40+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Serena and Venus Williams return at the US Open as singles action intensifies."
+    }
+  ]
+}

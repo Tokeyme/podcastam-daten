@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Sleepy Stories: To help you sleep",
   "apple_collection_id": "1553772490",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74897420",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/s.gum.fm/s-661ffdc3defef17c8671ea7e/api.spreaker.com/download/episode/74897420/the_woman_who_borrowed_tomorrow.mp3",
+      "pfad": "/v1/episode/925291b71a226636c266daaecf99dbb4d562e4ce.json",
+      "titel": "The Woman Who Borrowed Tomorrow",
+      "veroeffentlicht": "2026-09-04T11:56:09+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A tired tea shop owner discovers a mysterious shop that lets her skip difficult days."
+    },
     {
       "guid": "https://api.spreaker.com/episode/74218836",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/s.gum.fm/s-661ffdc3defef17c8671ea7e/api.spreaker.com/download/episode/74218836/the_oni_on_his_travels.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Tony Mantor's : Almost Live..... Nashville",
   "apple_collection_id": "1751194045",
-  "erzeugt_am": "2026-09-22T11:38:07+00:00",
+  "erzeugt_am": "2026-09-29T00:51:36+00:00",
   "folgen": [
+    {
+      "guid": "Buzzsprout-19589847",
+      "audio_url": "https://www.buzzsprout.com/2374246/episodes/19589847-jaime-french-from-beauty-influencer-to-reinvention-comedy-music-mental-health.mp3",
+      "pfad": "/v1/episode/a3c2eb672f30d430db27f87835ce98f6a57da871.json",
+      "titel": "Jaime French: From Beauty Influencer to Reinvention, Comedy, Music & Mental Health",
+      "veroeffentlicht": "2026-09-01T17:00:00-05:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Jamie French on moving from beauty content to comedy, music, and touring."
+    },
     {
       "guid": "Buzzsprout-19263594",
       "audio_url": "https://www.buzzsprout.com/2374246/episodes/19263594-mel-denisse-finding-strength-through-vulnerability-and-the-sound-of-alternative-rock.mp3",
