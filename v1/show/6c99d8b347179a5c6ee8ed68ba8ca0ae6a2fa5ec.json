@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The New York Times Narrated",
+  "apple_collection_id": "1790945720",
+  "erzeugt_am": "2026-10-03T06:37:29+00:00",
+  "folgen": [
+    {
+      "guid": "efacc2e5-641b-4805-a64b-4f5240733084",
+      "audio_url": "https://nyt.simplecastaudio.com/f8990d7c-6c2d-4588-882c-5f1a97203f10/episodes/7ab81dad-92bd-473a-aa02-02fb91ab7700/audio/128/default.mp3?aid=rss_feed&awCollectionId=f8990d7c-6c2d-4588-882c-5f1a97203f10&awEpisodeId=7ab81dad-92bd-473a-aa02-02fb91ab7700&feed=WHvRQ7B1",
+      "pfad": "/v1/episode/a46feab8c8bcf482f5c6c309cea2f7aae989eb90.json",
+      "titel": "Introducing ‘New York Times Narrated’",
+      "veroeffentlicht": "2025-03-19T10:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discover top long-form journalism from the New York Times Magazine."
+    }
+  ]
+}

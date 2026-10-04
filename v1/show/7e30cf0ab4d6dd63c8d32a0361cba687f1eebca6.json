@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Apple News In Conversation",
+  "apple_collection_id": "1577591053",
+  "erzeugt_am": "2026-10-03T06:37:29+00:00",
+  "folgen": [
+    {
+      "guid": "e63b0377-3f51-4b34-ee02-ba9d3a57245c",
+      "audio_url": "https://news-assets.apple.com/podcast/audio/e63b0377-3f51-4b34-ee02-ba9d3a57245c/IC-20260903v1.mp3",
+      "pfad": "/v1/episode/0e48deea8c46aff42e359e36026d798cb68f8eb0.json",
+      "titel": "Forever chemicals are hiding everywhere. These five habits can help you avoid them. (From the archives)",
+      "veroeffentlicht": "2026-09-03T21:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "How forever chemicals spread worldwide and what you can do to avoid them"
+    }
+  ]
+}

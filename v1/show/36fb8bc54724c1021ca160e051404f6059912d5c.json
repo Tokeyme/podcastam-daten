@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The MeidasTouch Podcast",
   "apple_collection_id": "1510240831",
-  "erzeugt_am": "2026-09-29T00:51:36+00:00",
+  "erzeugt_am": "2026-10-03T06:37:29+00:00",
   "folgen": [
+    {
+      "guid": "05912e82-a93a-11f1-862c-8fa95b92be2e",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/arttrk.com/p/MMN23/prfx.byspotify.com/e/claritaspod.com/measure/mgln.ai/e/1058/traffic.megaphone.fm/MTH7974661199.mp3",
+      "pfad": "/v1/episode/cc08df78deeed6e0ac193eb78284ecde1f8fb20e.json",
+      "titel": "Trump Faces New Trouble in Florida Ahead of the Midterms",
+      "veroeffentlicht": "2026-09-05T21:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Donald Trump faces historic low approval ratings in Florida ahead of the midterms."
+    },
     {
       "guid": "fcb9b92a-9cfd-11f1-86c8-eb292c06a5dd",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/arttrk.com/p/MMN23/prfx.byspotify.com/e/claritaspod.com/measure/mgln.ai/e/1058/traffic.megaphone.fm/MTH7608020641.mp3",

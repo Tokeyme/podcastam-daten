@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Wall Street Breakfast",
+  "apple_collection_id": "1358381502",
+  "erzeugt_am": "2026-10-03T06:37:29+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74895230",
+      "audio_url": "https://api.spreaker.com/download/episode/74895230/wsb090426.mp3",
+      "pfad": "/v1/episode/86a9a1483f4445f6af0098db7f9617a117a48bc8.json",
+      "titel": "A tough stretch for lululemon",
+      "veroeffentlicht": "2026-09-04T10:14:02+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Lululemon shares drop after cutting full-year guidance amid slowing sales in China."
+    }
+  ]
+}

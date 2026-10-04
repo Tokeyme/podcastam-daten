@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "WSJ What’s News",
+  "apple_collection_id": "152016440",
+  "erzeugt_am": "2026-10-03T06:37:29+00:00",
+  "folgen": [
+    {
+      "guid": "25F09984-2C3B-4440-825E-CD54B945D604",
+      "audio_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/9aa7506e-f335-4e80-9c15-6b2cb9cafaff/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=9aa7506e-f335-4e80-9c15-6b2cb9cafaff&feed=BA5QWI2p",
+      "pfad": "/v1/episode/660bbb2e0ee26e82dc993d3647d94d75f4f2a507.json",
+      "titel": "What’s News in Markets: Bond Selloff, Big Nvidia Deals, Apple’s New CEO",
+      "veroeffentlicht": "2026-09-05T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Bond selloffs, major Nvidia deals, and Apple's new CEO shape the markets."
+    }
+  ]
+}

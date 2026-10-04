@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "CBS Evening News",
+  "apple_collection_id": "613437137",
+  "erzeugt_am": "2026-10-03T06:37:29+00:00",
+  "folgen": [
+    {
+      "guid": "2f784ac0-76e9-11f0-8345-8be0a44f3666",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8190862/8190862_2026-04-12-165202.192.mp3?rssID=5953",
+      "pfad": "/v1/episode/905dca579a0d934bdd6382cbd43e9f9b46f06cc5.json",
+      "titel": "CBS Evening News 09/04/2026",
+      "veroeffentlicht": "2026-09-04T23:07:34+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Mistrial in Lindsay Clancy case, severe weather, and an in-flight passenger restraint"
+    }
+  ]
+}
