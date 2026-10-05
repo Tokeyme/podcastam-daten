@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Audiobooks World",
+  "apple_collection_id": "6799207213",
+  "erzeugt_am": "2026-10-05T10:27:53+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/68451524",
+      "audio_url": "https://pdcn.co/e/serve.castfire.com/audio/8012850/8012850_2026-03-05-051050.128.mp3?rssID=5842",
+      "pfad": "/v1/episode/3dd59c0da57f5f6b2f4cc19c4c54cd6409da016f.json",
+      "titel": "Art Of Conversation How To Communicate Well and Win   Audiobook",
+      "veroeffentlicht": "2025-11-11T01:55:36+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Master the art of conversation to build trust, handle conflict, and connect deeply."
+    }
+  ]
+}
