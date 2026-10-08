@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Apple Events",
   "apple_collection_id": "1473854035",
-  "erzeugt_am": "2026-10-07T16:02:42+00:00",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
   "folgen": [
     {
       "guid": "gid://art19-episode-locator/V0/b0XiJjJ4rbN6fkrrR54VpI07ZWeC1fkgpyPeisIBs_8",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "Apple发布会推出iPhone 18 Pro、Apple Watch Series 12及首款折叠屏手机iPhone Duo。"
+    },
+    {
+      "guid": "gid://art19-episode-locator/V0/EDry_78Yg01ocRG7tqCbXek_jHyPiv2aXkabSNp4YSQ",
+      "audio_url": "https://rss.art19.com/episodes/05bfe28e-4229-4cba-bc8e-1205eefe3d09.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/e43421be62c84b804ca7d5e203093383b01fa260.json",
+      "titel": "WWDC26 Keynote",
+      "veroeffentlicht": "2026-06-08T17:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Apple introduces major OS updates, new child safety tools, and next-gen AI features."
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Tech Life",
+  "apple_collection_id": "802996636",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "urn:bbc:podcast:w3ct8jyc",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7f1bj.mp3",
+      "pfad": "/v1/episode/dbc4ecdede824960ba7804181ea260b9bd894fe2.json",
+      "titel": "What if AI doesn’t speak your language?",
+      "veroeffentlicht": "2026-09-01T20:10:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "How underrepresented languages are being brought into the age of artificial intelligence."
+    }
+  ]
+}

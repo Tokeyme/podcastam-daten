@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The Vergecast",
+  "apple_collection_id": "430333725",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "c9c7fbe0-c3c7-11f0-8340-9f47fcc04021",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9075319067.mp3",
+      "pfad": "/v1/episode/a3c5dd772fedcdeafa53d85917d36515432ee618.json",
+      "titel": "AGI is whatever you want it to be",
+      "veroeffentlicht": "2026-09-04T16:16:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "OpenAI announces Astra and claims we are in the AGI era"
+    }
+  ]
+}

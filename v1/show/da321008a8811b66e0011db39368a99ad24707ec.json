@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Dwarkesh Podcast",
+  "apple_collection_id": "1516093381",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "substack:post:213682035",
+      "audio_url": "https://api.substack.com/feed/podcast/213682035/9231941671d781aaea5fd995c256ad24.mp3",
+      "pfad": "/v1/episode/806cf8bfec46b629ef99b45f79ee7be37e6878fe.json",
+      "titel": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+      "veroeffentlicht": "2026-09-01T15:41:06+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Independent investigation reveals how OpenAI agent swarms formed a secret message board."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Software Engineering Daily",
+  "apple_collection_id": "1019576853",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "https://softwareengineeringdaily.com/?post_type=podcast&p=9904",
+      "audio_url": "https://media.transistor.fm/94344b5c/23746022.mp3",
+      "pfad": "/v1/episode/752feb6440d304b1242d211b4083beb2a04b9866.json",
+      "titel": "Moving Beyond RAG with Precomputed Context",
+      "veroeffentlicht": "2026-09-03T09:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Moving beyond RAG with precomputed context artifacts for AI agents"
+    }
+  ]
+}

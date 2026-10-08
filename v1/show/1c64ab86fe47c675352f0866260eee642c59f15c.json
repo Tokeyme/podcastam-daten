@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The TED AI Show",
+  "apple_collection_id": "1741574582",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "6a4d1587c130c408c2ba04db",
+      "audio_url": "https://sphinx.acast.com/p/open/s/6758564a102e6d4448d19589/e/6a4d1587c130c408c2ba04db/media.mp3",
+      "pfad": "/v1/episode/3d02341d36f06a7de775309fcd1d6dd7717fd549.json",
+      "titel": "The Data Center Next Door with Dr. Sacoby Wilson | from TED Tech",
+      "veroeffentlicht": "2026-07-10T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "How AI data centers turn low-income neighborhoods into environmental sacrifice zones."
+    }
+  ]
+}

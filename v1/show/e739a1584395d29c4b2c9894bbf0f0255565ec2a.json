@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The a16z Show",
+  "apple_collection_id": "842818711",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "c467545c-37d0-4862-8fce-65d81646cd39",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fa4d1de0-221c-4305-9b44-d8ee5ef2a0db/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fa4d1de0-221c-4305-9b44-d8ee5ef2a0db&feed=JGE3yC0V",
+      "pfad": "/v1/episode/c624efb6e454ac7fdefadada8aeede59331091c2.json",
+      "titel": "Aaron Levie on Why Open AI Wins",
+      "veroeffentlicht": "2026-09-05T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Why open-weight AI and model routing matter for enterprise software development"
+    }
+  ]
+}

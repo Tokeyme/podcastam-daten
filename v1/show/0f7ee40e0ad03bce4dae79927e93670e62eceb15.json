@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "OpenAI Podcast",
+  "apple_collection_id": "1820330260",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "6a586d9d0829753043891e8e",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68470ba8d911dedd6501609c/e/6a586d9d0829753043891e8e/media.mp3",
+      "pfad": "/v1/episode/0396411b4dd43107ec8365429b1af9ccb82375ea.json",
+      "titel": "What racing reveals about working with AI - Episode 22",
+      "veroeffentlicht": "2026-07-16T16:50:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "How artificial intelligence transforms strategy, logistics, and data analysis in racing."
+    }
+  ]
+}

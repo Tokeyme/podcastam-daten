@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "NVIDIA AI Podcast",
+  "apple_collection_id": "1186480811",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "bcfa4532-6f5a-11f1-8bb5-c3355609e72d",
+      "audio_url": "https://cohst.app/pdcst/9V4R8T/traffic.megaphone.fm/NVC6266348181.mp3",
+      "pfad": "/v1/episode/651214d25073b809ef923cd8355baab0d01e879d.json",
+      "titel": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+      "veroeffentlicht": "2026-06-24T15:45:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "How Instacart uses AI and NVIDIA technology to build smart grocery shopping carts"
+    }
+  ]
+}

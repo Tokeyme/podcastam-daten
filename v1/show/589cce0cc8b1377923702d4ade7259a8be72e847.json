@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The AI in Business Podcast",
+  "apple_collection_id": "670771965",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "449da2db-fa51-48fa-ac01-34270d95bbe9",
+      "audio_url": "https://traffic.libsyn.com/secure/techemergence/Ed_MIPS_2026_Final_Audio_Internal_Podcast_2_Drew_Barbier.mp3?dest-id=151434",
+      "pfad": "/v1/episode/fc75347eb71b77022196aa6d9d7b7ca72ec7e21d.json",
+      "titel": "Building AI Into Systems That Can't Afford to Be Late - with Drew Barbier of MIPS",
+      "veroeffentlicht": "2026-09-04T06:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Why real-time AI in vehicles and robots requires starting with software workloads."
+    }
+  ]
+}

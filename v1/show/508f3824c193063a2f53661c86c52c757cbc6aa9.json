@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "硅谷101",
   "apple_collection_id": "1498541229",
-  "erzeugt_am": "2026-10-07T16:02:42+00:00",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
   "folgen": [
     {
       "guid": "786d63c4-d46c-4ff3-80f8-fc895b2a57f0",
@@ -13,6 +13,16 @@
       "clips": true,
       "kapitel": true,
       "einzeiler": "探讨AI推理芯片的三大技术路径，以及英伟达芯片大师Bill Dally的设计哲学。"
+    },
+    {
+      "guid": "73a69583-98ee-43d6-a892-3e7c93012dd9",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3",
+      "pfad": "/v1/episode/1ba24784005fbc49685897fdd3780447cd66b924.json",
+      "titel": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
+      "veroeffentlicht": "2026-08-27T17:45:00-07:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Inside the breakthrough of mRNA cancer vaccines and personalized immunotherapy."
     }
   ]
 }

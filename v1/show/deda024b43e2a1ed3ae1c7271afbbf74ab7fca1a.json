@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Lenny's Podcast: Product | Career | Growth",
+  "apple_collection_id": "1627920305",
+  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "folgen": [
+    {
+      "guid": "substack:post:211586245",
+      "audio_url": "https://pscrb.fm/rss/p/api.substack.com/feed/podcast/211586245/57f58f8fc53fc0fa2f864c0923e1517e.mp3",
+      "pfad": "/v1/episode/138b52ceab2df6beaf84e055f4675846955c518b.json",
+      "titel": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
+      "veroeffentlicht": "2026-08-30T12:31:30+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Tara Seshan on AI's shift toward persistent coworkers and steering over rowing."
+    }
+  ]
+}
