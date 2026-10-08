@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Elon Musk Podcast",
+  "apple_collection_id": "1480583664",
+  "erzeugt_am": "2026-10-07T16:02:42+00:00",
+  "folgen": [
+    {
+      "guid": "918ff7ec-2db4-4473-91b8-457be1451a1e",
+      "audio_url": "https://traffic.megaphone.fm/APO3510115981.mp3",
+      "pfad": "/v1/episode/90c92ee30be176004dcab5e47ef6d2a518431a48.json",
+      "titel": "AI is breaking human cyber defenders",
+      "veroeffentlicht": "2026-09-05T21:06:16+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "AI is overwhelming human cybersecurity defenders, pushing them to the brink of physical…"
+    }
+  ]
+}
