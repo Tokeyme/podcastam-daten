@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "AI LITERACY - A Podcast about Artificial Intelligence",
+  "apple_collection_id": "1553736450",
+  "erzeugt_am": "2026-10-09T18:38:40+00:00",
+  "folgen": [
+    {
+      "guid": "2ef274e0-4526-4329-aa66-9ea600191752",
+      "audio_url": "https://anchor.fm/s/4848d648/podcast/play/47259807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-6%2F246432052-44100-2-4546af48af933.m4a",
+      "pfad": "/v1/episode/c457eddcfaab2629f9932fdc91a082f40473df34.json",
+      "titel": "#8 How a self-driving car learns how do drive with Saquib Sarfraz (Mercedes Benz-Daimler)",
+      "veroeffentlicht": "2022-01-31T14:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "How computer vision and neural networks enable self-driving cars to perceive and navigate."
+    }
+  ]
+}

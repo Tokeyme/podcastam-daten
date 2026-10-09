@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Master Claude Chat, Cowork, Code",
+  "apple_collection_id": "1882007947",
+  "erzeugt_am": "2026-10-09T18:38:40+00:00",
+  "folgen": [
+    {
+      "guid": "16980ede-25a8-4fa7-a6f5-519bd2611f6e",
+      "audio_url": "https://anchor.fm/s/10fbb38c4/podcast/play/120014371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2Fb49584eb-42e6-3881-db80-e2ff2ce6f1c6.m4a",
+      "pfad": "/v1/episode/df468b737fad147c19de538c30e6967a9bdf94bd.json",
+      "titel": "15. Managing Context Rot (Thinking Like an Ops Team)",
+      "veroeffentlicht": "2026-05-15T00:49:54+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Master AI workflows by fighting context rot with state files and engineering discipline."
+    }
+  ]
+}

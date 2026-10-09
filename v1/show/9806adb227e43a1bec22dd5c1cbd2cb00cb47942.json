@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Barely Famous",
   "apple_collection_id": "1609536155",
-  "erzeugt_am": "2026-10-09T09:14:56+00:00",
+  "erzeugt_am": "2026-10-09T18:38:40+00:00",
   "folgen": [
     {
       "guid": "gid://art19-episode-locator/V0/N46V9tAWvEVM5nQ3_LypbzJe7h5UTtzasfzo3OwWTmM",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/7d12a8f4f1abc5c87d32fa2ec3710d521b1301bb.json",
       "titel": "Not 16 Anymore With Jenn Del Rio",
       "veroeffentlicht": "2026-09-04T08:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "Jen Del Rio reflects on her 16 and Pregnant days, reality TV myths, and family life."
     }
