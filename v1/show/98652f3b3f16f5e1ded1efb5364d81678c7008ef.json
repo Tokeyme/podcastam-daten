@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "This Feels Criminal: A True Crime Podcast (Formerly Killer Queens)",
   "apple_collection_id": "1268919812",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "16592e51-364e-43f3-b5eb-5d3f8cbd2f07",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/1aab2dffdec75b30111261b7567bc3b6b18151ab.json",
       "titel": "The Lindsay Clancy Trial, Part 2: The Commonwealth's Own Experts Push Back",
       "veroeffentlicht": "2026-09-04T00:51:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Examining the defense case, expert testimonies, and closing arguments in the Lindsay…"
     },

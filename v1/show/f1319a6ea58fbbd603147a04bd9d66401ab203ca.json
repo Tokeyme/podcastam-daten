@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Dog Walk",
   "apple_collection_id": "1448532887",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "f7732f53-6ae4-43cc-ba96-fe917dd14006",
@@ -20,7 +20,7 @@
       "pfad": "/v1/episode/9d8affd4134810cdd8e385348557d0499cea714f.json",
       "titel": "Wednesday 9/16/2026 - Eddie Stayed At a Motel & Weird Traveling Habits",
       "veroeffentlicht": "2026-09-16T10:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Hotel stay mishaps, travel habits, and golf dilemmas on the Dog Walk."
     },

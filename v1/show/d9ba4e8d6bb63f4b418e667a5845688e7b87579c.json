@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Global News Podcast",
   "apple_collection_id": "135067274",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "urn:bbc:podcast:p0p83fvf",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/18644f4bcbadd36e6c5c217f8f40666c1f97304a.json",
       "titel": "Clancy trial ends in deadlock",
       "veroeffentlicht": "2026-09-05T03:52:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Mistrial declared in Lindsay Clancy case as legal and global news unfold"
     }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Business Daily",
   "apple_collection_id": "261786876",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "urn:bbc:podcast:w3ct8g9r",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/19f816f520b16cfc0b6948fac7b5c3b8000a755d.json",
       "titel": "Taking Stock: Is everything about to get more expensive?",
       "veroeffentlicht": "2026-09-03T20:30:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Why rising bond yields and ballooning government debt could make everything cost more"
     }

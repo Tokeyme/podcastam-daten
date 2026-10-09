@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "World War II with Tom Hanks",
   "apple_collection_id": "1896760409",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "QIanZoUt25cSVrEDEEAEFXqOQkD8w189",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/9888e03e64d184af4a07ac4204e7bfbc69ed70cb.json",
       "titel": "World War II with Tom Hanks",
       "veroeffentlicht": "2026-05-18T16:17:39+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "A 20-part podcast series exploring the human stories of World War II with Tom Hanks."
     }

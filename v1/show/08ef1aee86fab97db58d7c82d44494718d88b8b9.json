@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Holistic Life Navigation",
   "apple_collection_id": "1520796424",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-19738140",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/22e1fcf0776d9e6f471a7f26be749651de636833.json",
       "titel": "[Ep. 350] Embodied Parenting: Teens, Single Parenting, and Sleep Deprivation",
       "veroeffentlicht": "2026-09-03T10:00:00-04:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Somatic parenting strategies for teens, single parents, and sleep deprivation."
     },
@@ -20,7 +20,7 @@
       "pfad": "/v1/episode/1d6b52809d01c8f2363c5b803291a5f957c8d26e.json",
       "titel": "[Ep. 346] Kids + Dysphoria: It Doesn't Always Mean They're Trans",
       "veroeffentlicht": "2026-08-23T08:00:00-04:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Why puberty-related body dysphoria in children does not automatically mean they are trans."
     }

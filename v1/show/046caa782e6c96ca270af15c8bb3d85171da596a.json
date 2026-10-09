@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Things Bakers Know: The King Arthur Baking Podcast",
   "apple_collection_id": "1805870502",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-19297407",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/62a48349b6e6547c64fdf96c06fd5472dd848812.json",
       "titel": "Exclusive: Chad Robertson Talks About His New Brooklyn Bakery",
       "veroeffentlicht": "2026-06-05T14:00:00-04:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Chad Robertson announces his new Brooklyn bakery, Alt Bau, in a special bonus episode."
     }

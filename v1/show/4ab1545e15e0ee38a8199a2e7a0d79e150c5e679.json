@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Podcast: The Ride",
   "apple_collection_id": "1296636702",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "gid://art19-episode-locator/V0/f4Ag6tbcnJBetUoMKK-Bn2J73rXJMv1hVN534afc1qE",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/7dd05dd804d8a058ac462eccaaebef963d8787b0.json",
       "titel": "Unlocked: The Magic Carpets of Aladdin",
       "veroeffentlicht": "2026-09-04T07:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Looking back at 25 years of Magic Carpets of Aladdin and a very strange promotional video."
     }

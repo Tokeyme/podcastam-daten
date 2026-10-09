@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "6 Minute English",
   "apple_collection_id": "262026947",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "urn:bbc:podcast:p0pb0rd0",
@@ -20,7 +20,7 @@
       "pfad": "/v1/episode/c4a4ac843579b086b0ae75b362b6dd6bc2cdcf94.json",
       "titel": "Can apps teach you a language?",
       "veroeffentlicht": "2026-09-10T07:46:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "语言学习App真的有用吗？科学研究揭示真相"
     },

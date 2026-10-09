@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "スポーツ報知 新聞ヘッドライン",
   "apple_collection_id": "1619728114",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "203265bcb7d9f2142f72b5ddc873f6a6",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/518b77cf952a671f601ae301627c1fab86b4054f.json",
       "titel": "スポーツ報知５月３１日",
       "veroeffentlicht": "2023-05-30T23:47:00+09:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "体育报知5月31日新闻概述，涵盖棒球赛事与相扑协会动态。"
     },

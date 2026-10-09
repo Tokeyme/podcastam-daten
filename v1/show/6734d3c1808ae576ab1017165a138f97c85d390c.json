@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "俏丫头为你读书",
   "apple_collection_id": "1141871103",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/04/15/2867470012834027526_hd.mp3",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/50347c24257e131da7e6569cc29852042ae0f9eb.json",
       "titel": "微山岛上的火鸡阵和鱼钩阵",
       "veroeffentlicht": "2021-04-15T22:39:37+08:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "抗战时期微山岛游击队巧妙运用火鸡阵与鱼钩阵收复小岛"
     }

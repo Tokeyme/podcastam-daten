@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技圈漫谈",
   "apple_collection_id": "987332901",
-  "erzeugt_am": "2026-10-08T19:40:38+00:00",
+  "erzeugt_am": "2026-10-09T09:14:56+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group29/M02/56/83/wKgJWVlXYbnTyec4AA0tSeM2Rw0617.m4a",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/8820e7873103ea60202f86b55596681d2cdd85a0.json",
       "titel": "阿里巴巴开发智能音箱 能够听说中国话",
       "veroeffentlicht": "2017-07-04T08:44:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "阿里巴巴正在开发一款支持中文语音操作的智能音箱。"
     }
