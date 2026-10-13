@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "The WW2 Podcast",
+  "apple_collection_id": "982003188",
+  "erzeugt_am": "2026-10-12T13:56:58+00:00",
+  "folgen": [
+    {
+      "guid": "5795a2b4-f76a-40e5-9f45-270ab15cc8d6",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/ww2podcast/318a_-_Transport_Pilots.mp3?dest-id=260446",
+      "pfad": "/v1/episode/1a557ddf879e03e8d31728ca6f2633e551ca482f.json",
+      "titel": "318 - Transport Pilots of WWII",
+      "veroeffentlicht": "2026-09-01T05:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The untold story of the World War II transport pilots who flew the vital C-47 missions."
+    }
+  ]
+}
