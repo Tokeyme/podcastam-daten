@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "British Scandal",
   "apple_collection_id": "1563775446",
-  "erzeugt_am": "2026-10-15T08:27:59+00:00",
+  "erzeugt_am": "2026-10-16T14:20:45+00:00",
   "folgen": [
     {
       "guid": "gid://art19-episode-locator/V0/iiso349tiA2TCuJliqUKs998mp21ousibao7E9qO75A",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/b21275280f7f349866bbdf22c98d8d5e5a3cf06c.json",
       "titel": "Operation Mincemeat | Hook, Line and Sinker | 3",
       "veroeffentlicht": "2026-09-02T01:02:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "How a deceptive corpse and a stolen briefcase helped the Allies turn the tide of WWII."
     }

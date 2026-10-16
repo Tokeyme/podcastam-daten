@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Chrisley Confessions 2.0",
   "apple_collection_id": "1430295246",
-  "erzeugt_am": "2026-10-15T08:27:59+00:00",
+  "erzeugt_am": "2026-10-16T14:20:45+00:00",
   "folgen": [
     {
       "guid": "gid://art19-episode-locator/V0/skZhrpKjHPzcpi9pmoJnnqKRpfi1OJPfCrpnTj7K070",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/4c447a9ee26c733bac2ef5e9c4bc67cb0954a176.json",
       "titel": "Todd Goes Viral",
       "veroeffentlicht": "2026-09-02T09:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Todd and Julie Chrisley discuss travel plans, television shows, and going viral."
     }

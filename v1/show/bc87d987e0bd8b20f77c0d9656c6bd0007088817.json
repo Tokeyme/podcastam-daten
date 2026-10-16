@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Film Theory",
+  "apple_collection_id": "1700685838",
+  "erzeugt_am": "2026-10-16T14:20:45+00:00",
+  "folgen": [
+    {
+      "guid": "9acdb646-6cce-4b99-a470-a99f3a69043b",
+      "audio_url": "https://traffic.megaphone.fm/APO3790143541.mp3",
+      "pfad": "/v1/episode/f433ead25a97e5ca739d477431919e1dce0992e6.json",
+      "titel": "The Walten Files’ Biggest Mystery…SOLVED!",
+      "veroeffentlicht": "2026-08-31T20:00:01+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Uncovering the true identity and twisted motive of Bon in The Walten Files"
+    }
+  ]
+}
