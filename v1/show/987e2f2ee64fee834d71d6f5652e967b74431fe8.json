@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-10-16T14:20:45+00:00",
+  "erzeugt_am": "2026-10-16T20:33:03+00:00",
   "folgen": [
+    {
+      "guid": "505a1b05bf63979d6e516168aa33ee50",
+      "audio_url": "https://audio.podigee-cdn.net/2620688-m-dc51a4c608547fabc66cfa2e1d488e99.mp3?source=feed",
+      "pfad": "/v1/episode/e0a22b31f88b31dd2aea8fc6466a5ee306a35e8d.json",
+      "titel": "Rätsel um Ukraine-Streit mit Trump / Merz' brisante Botschaft an die Welt",
+      "veroeffentlicht": "2026-10-16T02:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Ukraine im Streit mit Trump, Merz in der Weltpresse und Ärger bei Rot-Rot-Grün"
+    },
     {
       "guid": "dfc84eb3dda9699c71d1613f0f2fcd0b",
       "audio_url": "https://audio.podigee-cdn.net/2598210-m-c9ecc545b6132a7f5df75db676ecdb76.mp3?source=feed",

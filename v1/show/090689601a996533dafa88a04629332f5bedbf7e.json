@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
   "apple_collection_id": "1352434240",
-  "erzeugt_am": "2026-10-16T14:20:45+00:00",
+  "erzeugt_am": "2026-10-16T20:33:03+00:00",
   "folgen": [
+    {
+      "guid": "b603d241275bcd3dac8355dc98349ab2",
+      "audio_url": "https://audio.podigee-cdn.net/2616768-m-50a56ed9cf5a4f88f83985972db200ed.mp3?source=feed",
+      "pfad": "/v1/episode/ca14a784f09c2b773b864205f2e41af6ce963b32.json",
+      "titel": "Totalschaden in der Koalition? / Merz und Macron machen Autopakt klar",
+      "veroeffentlicht": "2026-10-16T04:05:27+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Koalitionskrise in Berlin und deutsch-französischer Autopakt in Brüssel"
+    },
     {
       "guid": "b698d3a50851b060761e34d393e8b5ea",
       "audio_url": "https://audio.podigee-cdn.net/2567369-m-4f24d0a365cc92f68759482536b3ff92.mp3?source=feed",

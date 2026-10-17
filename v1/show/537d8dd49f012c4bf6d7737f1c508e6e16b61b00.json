@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Machtwechsel",
   "apple_collection_id": "1568123217",
-  "erzeugt_am": "2026-10-16T14:20:45+00:00",
+  "erzeugt_am": "2026-10-16T20:33:03+00:00",
   "folgen": [
+    {
+      "guid": "0e31fba85db941f53a45db08a03e90ce",
+      "audio_url": "https://audio.podigee-cdn.net/2620728-m-1c969d4869950c86f5b72331d76965b1.mp3?source=feed",
+      "pfad": "/v1/episode/7a752beac93c76a334c37f18c8687ef083d775ac.json",
+      "titel": "Rot-Rot-Grün in Berlin? Wie eine Extremistin den Sondierern in die Suppe spuckt",
+      "veroeffentlicht": "2026-10-16T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Berliner R2G-Sondierungen: Wie eine Linke-Abgeordnete den Koalitionskurs sprengt"
+    },
     {
       "guid": "6e3e132854f468ea24eefdceac07bda2",
       "audio_url": "https://audio.podigee-cdn.net/2597827-m-2492a1039c621e41f451d21705b09067.mp3?source=feed",

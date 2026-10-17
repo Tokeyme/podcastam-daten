@@ -1,9 +1,19 @@
 {
   "schema_version": 1,
   "show": "Mordlust",
-  "apple_collection_id": null,
-  "erzeugt_am": "2026-10-16T14:20:45+00:00",
+  "apple_collection_id": "1413425371",
+  "erzeugt_am": "2026-10-16T20:33:03+00:00",
   "folgen": [
+    {
+      "guid": "ace9258986935cfa5a1794d03c78191e",
+      "audio_url": "https://audio.podigee-cdn.net/2617194-m-ffbc0db8fdf0b9ab3d360c4de21f5d3d.mp3?source=feed",
+      "pfad": "/v1/episode/79a9c5c2ad410db0121131acdddb9eaaee3f6c26.json",
+      "titel": "#255 Lebendig begraben",
+      "veroeffentlicht": "2026-10-14T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Ein junger Schweizer wird von seinem vermeintlichen besten Freund in einer Höhle ermordet."
+    },
     {
       "guid": "c776cc8a2e4c1b0a1f37547d91157bdd",
       "audio_url": "https://audio.podigee-cdn.net/2595180-m-5be78ced1c42f908a038fac8c23f0c8e.mp3?source=feed",

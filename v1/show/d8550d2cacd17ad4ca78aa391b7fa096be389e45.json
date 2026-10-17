@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-10-16T14:20:45+00:00",
+  "erzeugt_am": "2026-10-16T20:33:03+00:00",
   "folgen": [
+    {
+      "guid": "e189b4fb-bd22-40b8-a374-8543b58874e7",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/f440605c-c34e-44db-827b-a39fe73c33ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=f440605c-c34e-44db-827b-a39fe73c33ee&feed=Xtqjn37O",
+      "pfad": "/v1/episode/c8d71b7362945aa8a5140b02dfcc494610c602b6.json",
+      "titel": "Wie Friedrich Merz die deutschen Unternehmer verloren hat",
+      "veroeffentlicht": "2026-10-16T03:55:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Die Entfremdung deutscher Unternehmer von Friedrich Merz und wichtige Neuerungen bei der…"
+    },
     {
       "guid": "64d77b01-50f7-4ce3-a02e-18dde5da345c",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/97ab1978-a00d-41ee-a13a-29ec92046950/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=97ab1978-a00d-41ee-a13a-29ec92046950&feed=Xtqjn37O",
