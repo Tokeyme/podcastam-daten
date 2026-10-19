@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Cine-Files",
   "apple_collection_id": "1124549378",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
+    {
+      "guid": "58aaf20f-9c75-4f83-b52a-d8cc8d5a882b",
+      "audio_url": "https://audio3.redcircle.com/episodes/89a0d8ac-f722-469f-88ff-529930a9058e/stream.mp3",
+      "pfad": "/v1/episode/f13e685c2d2299898c1a0a1a4cb49c31ce39156f.json",
+      "titel": "497 THE SEARCHERS (1956) Part 2",
+      "veroeffentlicht": "2026-09-05T07:00:05+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep-dive discussion into the second part of John Ford's classic western The Searchers."
+    },
     {
       "guid": "960670ee-3354-49bb-b53a-94a25673e920",
       "audio_url": "https://audio3.redcircle.com/episodes/ff4020d1-2d6a-411e-b5ba-07cc399b7c94/stream.mp3",

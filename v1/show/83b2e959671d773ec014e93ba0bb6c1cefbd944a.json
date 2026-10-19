@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "Film at Lincoln Center Podcast",
+  "apple_collection_id": "938706022",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "folgen": [
+    {
+      "guid": "tag:soundcloud,2010:tracks/2395072290",
+      "audio_url": "http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/2395072290-filmlinc-666-mike-leigh-on-naked.mp3",
+      "pfad": "/v1/episode/e4f5d74b92241ef4bdb622659ec29b846c4d4a88.json",
+      "titel": "#666 - Mike Leigh on Naked",
+      "veroeffentlicht": "2026-09-05T16:28:01+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Mike Lee discusses the making and themes of his 1993 classic film Naked"
+    }
+  ]
+}

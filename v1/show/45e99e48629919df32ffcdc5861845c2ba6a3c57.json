@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
+    {
+      "guid": "6ad0d0a0641ef406308c3aff",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ad0d0a0641ef406308c3aff/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lgy2nB6T9LhwssHxIgslwMeGrG-f.m4a",
+      "pfad": "/v1/episode/1bfa78868106fe3bdb74f80095978937cd8c5d74.json",
+      "titel": "1016 CPB｜DeepSeek公布补偿方案、韩股再熔断、卢浮宫可能被迫关闭",
+      "veroeffentlicht": "2026-10-15T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "DeepSeek发布服务补偿，韩国股市触发熔断，卢浮宫面临关闭风险"
+    },
     {
       "guid": "6ab0170e0916f6f8b4466ad8",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ab0170e0916f6f8b4466ad8/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lg2e-KIfgkGYpuRnZIPx4wPXTz7S.m4a",

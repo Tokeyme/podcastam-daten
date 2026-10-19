@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
   "apple_collection_id": "1746549121",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
+    {
+      "guid": "ard_15minuten_9BDBA4D4",
+      "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/10/16/91d05a00-89cf-4854-be2a-d08b35714662/91d05a00-89cf-4854-be2a-d08b35714662_MP3-128.mp3",
+      "pfad": "/v1/episode/4470a7cd67de1a23cc2bb6812a1e09effc2fc17c.json",
+      "titel": "Reform der Notaufnahmen / Wechseljahre: Versagt die Versorgung? / Fleecejacken aus Holz?",
+      "veroeffentlicht": "2026-10-16T05:57:45+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Notaufnahme-Reform, mangelnde Hilfe in den Wechseljahren und Holzdüsen in Sachsen-Anhalt"
+    },
     {
       "guid": "ard_15minuten_889F544C",
       "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/09/18/fc72405c-c8d3-4caf-9de9-d69b7240ea44/fc72405c-c8d3-4caf-9de9-d69b7240ea44_MP3-128.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "岩中花述",
   "apple_collection_id": "1582119137",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
+    {
+      "guid": "6aafab73ac389df82734bbf3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/625635587bfca4e73e990703/6aafab73ac389df82734bbf3/media.xyzcdn.net/625635587bfca4e73e990703/lnEAf-aVkE89Z_ImU_6V0EiTfaoK.m4a",
+      "pfad": "/v1/episode/be1137e65d43ecbb96aee4c485b64dcd65e091fc.json",
+      "titel": "S9E9 鲁豫对话刘索拉 | 一生不断找北，直到天高地广",
+      "veroeffentlicht": "2026-09-23T00:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "对话刘索拉，聊艺术、女性与不断寻找北的人生"
+    },
     {
       "guid": "6a9d6a20f03e74ee6b05f71d",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/625635587bfca4e73e990703/6a9d6a20f03e74ee6b05f71d/media.xyzcdn.net/625635587bfca4e73e990703/lskpIc9plRoGtsSmf_9z_8v3LloQ.m4a",

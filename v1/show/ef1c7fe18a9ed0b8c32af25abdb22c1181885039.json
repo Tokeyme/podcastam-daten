@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Timcast IRL",
   "apple_collection_id": "1503517959",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
     {
       "guid": "cd2e034d-d472-448a-bc34-ca6d0ca99efe",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/65614b5aabad168de691f8176774314eacd4bfec.json",
       "titel": "Lindsay Clancy Debate: Guilty or Not Guilty, Lawyers REACT w/ Andrew Branca, Ashleigh Merchant, Richie McGinniss, Matt Miller",
       "veroeffentlicht": "2026-09-05T00:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "Lawyers discuss the Lindsay Clancy trial verdict and legal implications of insanity."
     }

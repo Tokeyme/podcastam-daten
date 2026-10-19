@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "霓达播客",
   "apple_collection_id": "1668626930",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
+    {
+      "guid": "6ad0cac5641ef406308c3805",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/620e4b8f52d497504647ce24/6ad0cac5641ef406308c3805/media.xyzcdn.net/620e4b8f52d497504647ce24/lvN0Ul8EVp9NIVTgp_0wp4Fwagxv.m4a",
+      "pfad": "/v1/episode/cf4cd9cbd973e73f3527d8e0537f8c4661721ea4.json",
+      "titel": "160. “专案组的电话又响了”：2006年安徽合肥5·5爆炸案",
+      "veroeffentlicht": "2026-10-15T13:09:22+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "回顾2006年安徽合肥连环爆炸案的侦破过程"
+    },
     {
       "guid": "6aabe3db051af796b9e9be2e",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/620e4b8f52d497504647ce24/6aabe3db051af796b9e9be2e/media.xyzcdn.net/620e4b8f52d497504647ce24/lrT_0PyNTMWQzp62R-hmMVA48q6i.m4a",

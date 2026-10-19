@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
   "apple_collection_id": "1428670057",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
+    {
+      "guid": "194bf687e3284f507412979a2d21af9d",
+      "audio_url": "https://audio.podigee-cdn.net/2620756-m-a1de43b10616de8c5a5858225d2f7cc2.mp3?source=feed",
+      "pfad": "/v1/episode/988f4859ef5a7f51459bc38d5ec097e9d9daeae3.json",
+      "titel": "Nico Lange über Starlink und Kiews Abhängigkeit | Die EU und der Kill-Switch | Diana Kinnert",
+      "veroeffentlicht": "2026-10-16T03:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "EU plant schärfere Handelssinstruments gegen China und debattiert über Tech-Abhängigkeiten"
+    },
     {
       "guid": "cfde0725fec8ca542bcef8590d902faf",
       "audio_url": "https://audio.podigee-cdn.net/2598666-m-e74438c733a2a943d84fb1092c42c9f6.mp3?source=feed",

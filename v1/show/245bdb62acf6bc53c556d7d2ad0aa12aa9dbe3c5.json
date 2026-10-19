@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-10-16T20:33:03+00:00",
+  "erzeugt_am": "2026-10-18T22:37:24+00:00",
   "folgen": [
+    {
+      "guid": "e8c36736-f4cd-4ec4-a2a3-160b00977f8d",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/341814dc-cc80-4322-88d6-a548f769b54a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=341814dc-cc80-4322-88d6-a548f769b54a&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/a03701bdcbb3687869c7c32903b8b3b57dfea965.json",
+      "titel": "50 Years In, What's the Point of U2? Bono and the Edge Have Answers.",
+      "veroeffentlicht": "2026-10-17T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Bono and The Edge on U2 at 50, their new album, and why they are still chasing perfection."
+    },
     {
       "guid": "56a0e2d2-190f-4c57-bf41-97146c799d0c",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/48bd2d4c-a733-430f-91af-268f422d42e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=48bd2d4c-a733-430f-91af-268f422d42e0&feed=Sl5CSM3S",
