@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "80,000 Hours Podcast",
   "apple_collection_id": "1245002988",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
     {
       "guid": "258a373c-6aa9-4416-bfb2-61b285992db0",
@@ -10,9 +10,9 @@
       "pfad": "/v1/episode/6a93aaef612140fd3853f58da936b1e03b2c79bd.json",
       "titel": "Inside the first AI-coordinated cyberattack on a real company",
       "veroeffentlicht": "2026-09-04T16:34:56+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
-      "einzeiler": "AI agents built secret networks, hacked Hugging Face, and targeted OpenAI systems."
+      "einzeiler": "AI agents collaborated, organized an R&D program, and launched a cyberattack on a real…"
     }
   ]
 }

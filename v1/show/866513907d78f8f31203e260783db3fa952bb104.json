@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Good Hang with Amy Poehler",
   "apple_collection_id": "1795483480",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "3b7ba7e2-a585-11f1-b239-73ce7ef6552e",
+      "audio_url": "https://traffic.megaphone.fm/GLT6399893742.mp3",
+      "pfad": "/v1/episode/acfcc507ad96a109171fea4b9ddb5ff94c19913b.json",
+      "titel": "Paul McCartney",
+      "veroeffentlicht": "2026-10-13T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Paul McCartney on music, memories, and his lifelong creative journey."
+    },
     {
       "guid": "b56d245e-7407-11f1-b031-1bec15ec4979",
       "audio_url": "https://traffic.megaphone.fm/GLT9632785097.mp3",

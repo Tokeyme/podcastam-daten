@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "TED演讲精选",
   "apple_collection_id": "1852255002",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1016927328",
@@ -40,7 +40,7 @@
       "pfad": "/v1/episode/d9bde3038563de16419cc8c17a5d31d333b70b0d.json",
       "titel": "485 亿万富翁的问题——以及“真实净资产”榜单的首度登场",
       "veroeffentlicht": "2026-09-16T00:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "探讨亿万富翁的财富分配问题及真实净资产榜单的登场。"
     },

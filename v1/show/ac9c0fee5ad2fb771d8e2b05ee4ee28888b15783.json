@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "天真不天真",
   "apple_collection_id": "1731784296",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "6abaa819e742e36efcbc5fa8",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6abaa819e742e36efcbc5fa8/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lgrBPfUBc8S6y59Jb6tSD6gLZ_c-.m4a",
+      "pfad": "/v1/episode/04f9feb1a19e7c528cdaac0d29496d5fb0c14b22.json",
+      "titel": "vol.56 对谈咪仔：人生是认领自己与确立使命的过程",
+      "veroeffentlicht": "2026-09-29T00:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨如何认领自己与确立使命，分享从媒体人到播客创始人的心路历程。"
+    },
     {
       "guid": "6a9eba42a0210c197dceff02",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6a9eba42a0210c197dceff02/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lvMwWqnWmEW2_S22X_4oTJy2GNlw.m4a",

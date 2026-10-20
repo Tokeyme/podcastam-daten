@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Mick Unplugged",
   "apple_collection_id": "1731755953",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "1c106776-c65f-11f1-b16f-9b6c2c66cbb6",
+      "audio_url": "https://traffic.megaphone.fm/YAP9753449485.mp3",
+      "pfad": "/v1/episode/69150b17758ac10225666cba7d6de4d69d666b96.json",
+      "titel": "Adam Zeitsiff: Building Stronger Kids and Better Leaders",
+      "veroeffentlicht": "2026-10-15T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Adam Zeitsiff on tackling childhood obesity and scaling the Dominique Dawes Academy"
+    },
     {
       "guid": "6126dc30-9a3d-11f1-9b93-bb1cd6d9ef35",
       "audio_url": "https://traffic.megaphone.fm/YAP8758962273.mp3",

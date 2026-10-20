@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "If Books Could Kill",
   "apple_collection_id": "1651876897",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-19733766",
@@ -10,9 +10,9 @@
       "pfad": "/v1/episode/0e748bc77b64f6932ce6e81d7072f719b38edbab.json",
       "titel": "Surrounded By Idiots",
       "veroeffentlicht": "2026-09-01T05:00:00-04:00",
-      "clips": false,
-      "kapitel": false,
-      "einzeiler": "Deconstructing the popularity and pseudoscience of workplace personality tests like DISC."
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A critical look at the bestseller Surrounded by Idiots and workplace personality tests."
     }
   ]
 }

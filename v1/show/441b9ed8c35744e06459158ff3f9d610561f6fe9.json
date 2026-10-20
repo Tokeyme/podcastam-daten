@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Macro Talk",
   "apple_collection_id": "6802582217",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
     {
       "guid": "02a95a86-fbbb-433e-bbd0-9ca62302ea66",
@@ -10,9 +10,9 @@
       "pfad": "/v1/episode/d1d28f896de89ebdb32b5ff42b9e3e342ed9046a.json",
       "titel": "LinkedIn data reveals typical AI role pays $177k",
       "veroeffentlicht": "2026-08-18T12:00:00+00:00",
-      "clips": false,
-      "kapitel": false,
-      "einzeiler": "LinkedIn data shows AI roles pay a median of $177k, but impact under 1% of workers."
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "LinkedIn data shows AI roles pay a median salary of $177k, heavily favoring young talent."
     }
   ]
 }

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Megyn Kelly Show",
   "apple_collection_id": "1532976305",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "c5ca18ca-63fa-4872-86e8-336f0d82eeb7",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/db3515cc-e7d4-489e-86cf-0ba4288d9c7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=db3515cc-e7d4-489e-86cf-0ba4288d9c7d&feed=RV1USAfC",
+      "pfad": "/v1/episode/8a6255d6139dc3b9a4689d90d23d30e1c9035fa3.json",
+      "titel": "A Second Look: Russell Brand on Faith, Fame, and Allegations Against Him",
+      "veroeffentlicht": "2026-10-18T11:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Russell Brand discusses his upcoming UK trial, faith, and past addictions with Megyn…"
+    },
     {
       "guid": "3ad44f82-fd42-4fcc-8ee5-6f3f2d57f2ab",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/d96a0c22-d8d1-4317-884b-b18d36a9315d/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=d96a0c22-d8d1-4317-884b-b18d36a9315d&feed=RV1USAfC",

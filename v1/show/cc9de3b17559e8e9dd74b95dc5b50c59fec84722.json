@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "REAL AF with Andy Frisella",
   "apple_collection_id": "1012570406",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "05a3fb0a-22dd-4a50-ac93-9760dbc81f18",
+      "audio_url": "https://traffic.libsyn.com/secure/mfceoproject/Ep_1069_-_10.15.2026_CTI_Audio_Edit.mp3?dest-id=278377",
+      "pfad": "/v1/episode/6e5e906d1fca0bb3f885ed569680de2dc9f6d3f2.json",
+      "titel": "1069. Andy & DJ CTI: Shane Gillis' Monologue On SNL, Trump Calls Off Livestream Of Fort Hood Attacker & Ilhan Omar Citizenship Probe",
+      "veroeffentlicht": "2026-10-16T09:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Fitness, crime operations, SNL monologues, and political controversies examined."
+    },
     {
       "guid": "9ce41474-bd17-47f3-a448-334f09a77c4d",
       "audio_url": "https://traffic.libsyn.com/secure/mfceoproject/Ep_1057_-_08.18.2026_CTI_Audio_Final.mp3?dest-id=278377",

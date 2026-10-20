@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "e81074a6a7c3984aadeed385ca10464b",
+      "audio_url": "https://audio.podigee-cdn.net/2623309-m-294cf42a170b681d331cc876855b56c9.mp3?source=feed",
+      "pfad": "/v1/episode/86e1326c93bfdbe376233a5d6a6414cd611736aa.json",
+      "titel": "Frankreich: Wenn die Migrationskrise explodiert. Mit Michaela Wiegel",
+      "veroeffentlicht": "2026-10-20T02:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Frankreichs Integrationskrise und die Lehren für Deutschland"
+    },
+    {
+      "guid": "9513ec05fdb2d9bd789e348dfbbf0648",
+      "audio_url": "https://audio.podigee-cdn.net/2621731-m-3a6228ebd4c22cdb95dca84530f63e17.mp3?source=feed",
+      "pfad": "/v1/episode/f0153913ace01aeb398c1a1fa51675617a342d67.json",
+      "titel": "Putins brutaler Deal mit Berlin. Mit Evan Gershkovich (2/2)",
+      "veroeffentlicht": "2026-10-18T02:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Evan Gershkovich über 500 Tage russische Haft und den Deal um den Tiergartenmörder."
+    },
     {
       "guid": "505a1b05bf63979d6e516168aa33ee50",
       "audio_url": "https://audio.podigee-cdn.net/2620688-m-dc51a4c608547fabc66cfa2e1d488e99.mp3?source=feed",

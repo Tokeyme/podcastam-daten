@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Joe Rogan Experience",
   "apple_collection_id": "360084272",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "3c876c6c-c94c-11f1-b243-eb26db00851d",
+      "audio_url": "https://traffic.megaphone.fm/GLT2143664668.mp3",
+      "pfad": "/v1/episode/15f4d8534c96dd7630133f26194a07c3741060db.json",
+      "titel": "#2567 - Mariana van Zeller",
+      "veroeffentlicht": "2026-10-16T17:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Investigative journalist Mariana van Zeller on online scams, cartels, and the drug trade."
+    },
     {
       "guid": "bd78a8a0-9c28-11f1-b11e-ef9789715e8e",
       "audio_url": "https://traffic.megaphone.fm/GLT9789891628.mp3",

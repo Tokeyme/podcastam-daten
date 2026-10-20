@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "3 Takeaways™",
   "apple_collection_id": "1526080983",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-19806182",
@@ -10,9 +10,9 @@
       "pfad": "/v1/episode/3a49e77710abdbc15bc78bca9cfc4c2bbc837d5a.json",
       "titel": "Mark Cuban: What Everyone Is Getting Wrong About AI (#319)",
       "veroeffentlicht": "2026-09-15T01:00:00-04:00",
-      "clips": false,
-      "kapitel": false,
-      "einzeiler": "Mark Cuban on AI, spotting hidden business opportunities, and fixing healthcare opacity."
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Mark Cuban on spotting opportunities, questioning norms, and building the future."
     },
     {
       "guid": "Buzzsprout-19769470",

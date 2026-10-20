@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Maintenance Phase",
   "apple_collection_id": "1535408667",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-19552682",
@@ -10,9 +10,9 @@
       "pfad": "/v1/episode/3e42d08da50aad1aef4feddfc8370ccb480ce77a.json",
       "titel": "Why Don't We Have a Surgeon General?",
       "veroeffentlicht": "2026-07-27T05:00:00-04:00",
-      "clips": false,
-      "kapitel": false,
-      "einzeiler": "An analysis of the three controversial MAHA-aligned Surgeon General nominees under Trump."
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Why the Trump administration keeps struggling to fill the Surgeon General position."
     }
   ]
 }

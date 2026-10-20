@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
   "apple_collection_id": "1623077169",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "12c10cfe-c955-11f1-9317-3b084f4bafce",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH7499426038.mp3",
+      "pfad": "/v1/episode/eafdfba07b43e45b841b950bf0fee70eead9bb0f.json",
+      "titel": "#342 - Das Ende von Deutschland steht bevor (Markus Krall)",
+      "veroeffentlicht": "2026-10-17T08:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Finanzanalyst Markus Krall über den drohenden Systemkollaps und die Krise des Geldsystems"
+    },
     {
       "guid": "b1d70608-c799-11f1-b6d1-1bd08d445f39",
       "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH6981249255.mp3",

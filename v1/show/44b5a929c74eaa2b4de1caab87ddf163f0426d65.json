@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "声东击西",
   "apple_collection_id": "1183662640",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "63a3f28a-fbeb-46b5-8fc8-eaeca8e235da",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/63a3f28a-fbeb-46b5-8fc8-eaeca8e235da.mp3",
+      "pfad": "/v1/episode/e76476538d271341d81e6571425190c3b5e94468.json",
+      "titel": "#407   今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？",
+      "veroeffentlicht": "2026-10-16T18:00:00+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨诺奖成果光遗传学如何改变我们对大脑、情绪与精神疾病的认知。"
+    },
     {
       "guid": "16a80abc-0826-4ec8-8c94-54ecb79161ef",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/16a80abc-0826-4ec8-8c94-54ecb79161ef.mp3",

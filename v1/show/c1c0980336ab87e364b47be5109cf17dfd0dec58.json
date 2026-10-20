@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "f861c66719ff87b4f304a2d2c23d6c43",
+      "audio_url": "https://audio.podigee-cdn.net/2617957-m-21e4ae094fbc8d9cb1e2bd0df091ce5c.mp3?source=feed",
+      "pfad": "/v1/episode/090413bb001a6072aa8349adf4942a59d5a56fe6.json",
+      "titel": "Heimspiel: Berliner Fieberschübe (mit Shakuntala Banerjee)",
+      "veroeffentlicht": "2026-10-18T03:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "ZDF-Politikchefin Shakuntala Banerjee über die Medienkrise und den Zustand der Politik."
+    },
     {
       "guid": "67c86f98a11630e0fe0c56c4db20e7e2",
       "audio_url": "https://audio.podigee-cdn.net/2617953-m-06c7f10843b0e1b4b08acb80b80c6187.mp3?source=feed",

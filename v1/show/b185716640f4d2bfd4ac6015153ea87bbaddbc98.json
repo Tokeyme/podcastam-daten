@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Hotel Matze",
   "apple_collection_id": "1168045239",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "f438e186a5b1e97e35cf66c902222413",
+      "audio_url": "https://audio.podigee-cdn.net/2620033-m-aba680cd53b364adcd95a663822d0c91.mp3?source=feed",
+      "pfad": "/v1/episode/4435526635703d32997f60a54a0e840654dedd68.json",
+      "titel": "Das Beste an unserer Freundschaft – Check In mit Philip Siefer",
+      "veroeffentlicht": "2026-10-18T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Acht Jahre gemeinsames Tagebuch in einer Excel-Liste werden nun zu einer App."
+    },
     {
       "guid": "2f4c8913d2ce5b49994b3ba26c1d3011",
       "audio_url": "https://audio.podigee-cdn.net/2620844-m-b699f48d54523e276ccb5e9627b5006d.mp3?source=feed",

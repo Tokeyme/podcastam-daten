@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-10-18T22:37:24+00:00",
+  "erzeugt_am": "2026-10-20T08:50:45+00:00",
   "folgen": [
+    {
+      "guid": "177fe27d-cc52-4fad-bc7d-3a2ba67a0949",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/44d9e7d3-34a2-4376-9aa7-9266fa4ec8a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=44d9e7d3-34a2-4376-9aa7-9266fa4ec8a6&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/349debdfe16b8a0bf69058701c34dcdfa1cc1fc1.json",
+      "titel": "Elizabeth Holmes and Nathan Fielder Keep Us Guessing",
+      "veroeffentlicht": "2026-10-18T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Why a new documentary pairing Elizabeth Holmes and Nathan Fielder is dividing critics."
+    },
     {
       "guid": "e8c36736-f4cd-4ec4-a2a3-160b00977f8d",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/341814dc-cc80-4322-88d6-a548f769b54a/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=341814dc-cc80-4322-88d6-a548f769b54a&feed=Sl5CSM3S",
