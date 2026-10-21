@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Mick Unplugged",
   "apple_collection_id": "1731755953",
-  "erzeugt_am": "2026-10-20T08:50:45+00:00",
+  "erzeugt_am": "2026-10-21T12:33:08+00:00",
   "folgen": [
+    {
+      "guid": "d6df3cf4-c7e9-11f1-9cc9-0b51e2445194",
+      "audio_url": "https://traffic.megaphone.fm/YAP4025036843.mp3",
+      "pfad": "/v1/episode/c71b9516c6f9258805765f379b43d2984268dc77.json",
+      "titel": "Chef André Rush: Strength Through Service",
+      "veroeffentlicht": "2026-10-19T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Chef Andre Rush shares his journey from the military and the White House to advocacy."
+    },
     {
       "guid": "1c106776-c65f-11f1-b16f-9b6c2c66cbb6",
       "audio_url": "https://traffic.megaphone.fm/YAP9753449485.mp3",

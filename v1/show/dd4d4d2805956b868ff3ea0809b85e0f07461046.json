@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
   "apple_collection_id": "1623077169",
-  "erzeugt_am": "2026-10-20T08:50:45+00:00",
+  "erzeugt_am": "2026-10-21T12:33:08+00:00",
   "folgen": [
+    {
+      "guid": "0682a9e8-caf9-11f1-b335-13e8c5237620",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH1938898450.mp3",
+      "pfad": "/v1/episode/fead6c51370dabdb831d0a7dd3029c1e0bfd0f3c.json",
+      "titel": "#343 - Was verboten wird, wird erst richtig groß (Ballermann-Star)",
+      "veroeffentlicht": "2026-10-19T16:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Wie Easy Glück den Ballermann eroberte und warum sie heute lieber privat und ruhig lebt."
+    },
     {
       "guid": "12c10cfe-c955-11f1-9317-3b084f4bafce",
       "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH7499426038.mp3",

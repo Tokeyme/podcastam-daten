@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-10-20T08:50:45+00:00",
+  "erzeugt_am": "2026-10-21T12:33:08+00:00",
   "folgen": [
+    {
+      "guid": "6196ac008cf987c0c8e0c6f4056f7949",
+      "audio_url": "https://audio.podigee-cdn.net/2617960-m-da96e0a4049040882a4f89f915393b56.mp3?source=feed",
+      "pfad": "/v1/episode/b835617e6a5e9bb797b5c00935961ff4f3ebaf50.json",
+      "titel": "Nievidia",
+      "veroeffentlicht": "2026-10-20T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Der tägliche Nachrichtenpodcast mit Jasmin Mbarek und Markus Feldenkirchen."
+    },
     {
       "guid": "f861c66719ff87b4f304a2d2c23d6c43",
       "audio_url": "https://audio.podigee-cdn.net/2617957-m-21e4ae094fbc8d9cb1e2bd0df091ce5c.mp3?source=feed",

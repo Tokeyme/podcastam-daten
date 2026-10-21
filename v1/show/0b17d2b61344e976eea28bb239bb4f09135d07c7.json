@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "show": "Der Tag",
+  "apple_collection_id": "1288506235",
+  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "folgen": [
+    {
+      "guid": "d6348946-27a7-5b5d-8d5d-f255286664b8",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/10/20/ki_der_zug_fuer_deutschland_ist_keineswegs_abgefahren_dlf_20261020_1700_9b9c4af1.mp3?refId=podcast-104",
+      "pfad": "/v1/episode/4c80f4a387b93c4dd2751de2f336d979efd4a5ef.json",
+      "titel": "KI: Der Zug für Deutschland ist keineswegs abgefahren",
+      "veroeffentlicht": "2026-10-20T17:00:00+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Deutschland im KI-Wandel und die neuen sicherheitspolitischen Prioritäten in der Arktis"
+    },
+    {
+      "guid": "1af57274-3ef0-538a-b4e6-894513ce1d3b",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/10/19/frankreich_ausser_kontrolle_krawalle_polizeigewalt_und_dlf_20261019_1700_9093ce11.mp3?refId=podcast-104",
+      "pfad": "/v1/episode/3e26c5aab175725394fcfef1a6d0077d99cc8447.json",
+      "titel": "Frankreich außer Kontrolle? - Krawalle, Polizeigewalt und Wahlkampf",
+      "veroeffentlicht": "2026-10-19T17:00:31+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Krawalle in Frankreich und heftiger Streit um das linke Regierungsbündnis in Berlin"
+    }
+  ]
+}

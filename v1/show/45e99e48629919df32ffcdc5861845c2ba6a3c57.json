@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-10-20T08:50:45+00:00",
+  "erzeugt_am": "2026-10-21T12:33:08+00:00",
   "folgen": [
+    {
+      "guid": "6ad61e3666729f5c712dedb6",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ad61e3666729f5c712dedb6/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/ltwHimdTBCRmAkmTbsI0LXqwZDI7.m4a",
+      "pfad": "/v1/episode/85752467374fc9c731a34e86215dbe58bbc3318f.json",
+      "titel": "1020 CPB｜大闸蟹行情崩盘？欧洲多国爆发示威活动、.com域名11月1日起涨价",
+      "veroeffentlicht": "2026-10-19T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨算力分配、域名涨价、大闸蟹价格谣言及年龄焦虑等热点话题。"
+    },
     {
       "guid": "6ad0d0a0641ef406308c3aff",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ad0d0a0641ef406308c3aff/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lgy2nB6T9LhwssHxIgslwMeGrG-f.m4a",

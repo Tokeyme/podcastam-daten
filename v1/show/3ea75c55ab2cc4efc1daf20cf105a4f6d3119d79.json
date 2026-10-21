@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "This American Life",
   "apple_collection_id": "201671138",
-  "erzeugt_am": "2026-10-20T08:50:45+00:00",
+  "erzeugt_am": "2026-10-21T12:33:08+00:00",
   "folgen": [
+    {
+      "guid": "37184 at https://www.thisamericanlife.org",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
+      "pfad": "/v1/episode/10d0bd1d4d6b315eaf7c53e956630dbee6193429.json",
+      "titel": "489: No Coincidence, No Story!",
+      "veroeffentlicht": "2026-10-18T20:00:00-04:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Listeners share their best coincidence stories, from random parachuting toys to dollar…"
+    },
     {
       "guid": "46218 at https://www.thisamericanlife.org",
       "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache",
