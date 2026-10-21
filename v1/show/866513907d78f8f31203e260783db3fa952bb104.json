@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Good Hang with Amy Poehler",
   "apple_collection_id": "1795483480",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
+    {
+      "guid": "3b93b4ea-a585-11f1-b239-0778a47cd77a",
+      "audio_url": "https://traffic.megaphone.fm/GLT5937705743.mp3",
+      "pfad": "/v1/episode/8a1aebcc43ea0e8bbd4bf59b398d8a7bc3d9003b.json",
+      "titel": "Kate Berlant",
+      "veroeffentlicht": "2026-10-20T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Comedian Kate Berlant talks about her HBO special Parmesan, phone addiction, and ghosts."
+    },
     {
       "guid": "3b7ba7e2-a585-11f1-b239-73ce7ef6552e",
       "audio_url": "https://traffic.megaphone.fm/GLT6399893742.mp3",

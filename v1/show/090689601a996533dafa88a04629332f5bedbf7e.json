@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
   "apple_collection_id": "1352434240",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
+    {
+      "guid": "5b4e804115cc8d62ec1f1ab07c645400",
+      "audio_url": "https://audio.podigee-cdn.net/2616771-m-11714ab542a696eb6547dc0f63bb43ea.mp3?source=feed",
+      "pfad": "/v1/episode/d9dd4ea9f7308a47d4c1c54eea3ae953662ac79b.json",
+      "titel": "Schattenverschuldung in Billionenhöhe / Musk: Aus zwei mach eins? / Merz wirbt um Milliarden",
+      "veroeffentlicht": "2026-10-21T04:04:17+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Schattenverschuldung bei KI-Giganten, Musk-Pläne und Milliardenzusagen für Deutschland"
+    },
+    {
+      "guid": "b71c2d9a49e45adde6c1ae51246440a5",
+      "audio_url": "https://audio.podigee-cdn.net/2616770-m-ad610f2b004da05d319558064ffb4be1.mp3?source=feed",
+      "pfad": "/v1/episode/fa5003ecb23a75939159f0f3493923abbfca2897.json",
+      "titel": "Nvidia-Chef blickt positiv auf Deutschland / VW droht Shutdown",
+      "veroeffentlicht": "2026-10-20T04:12:05+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Nvidia-Chef lobt Deutschlands KI-Potenzial und VW droht ein beispielloser…"
+    },
     {
       "guid": "b603d241275bcd3dac8355dc98349ab2",
       "audio_url": "https://audio.podigee-cdn.net/2616768-m-50a56ed9cf5a4f88f83985972db200ed.mp3?source=feed",

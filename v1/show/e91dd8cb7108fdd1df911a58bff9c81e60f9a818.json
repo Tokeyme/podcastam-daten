@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Alles auf Aktien – Die täglichen Finanzen-News",
   "apple_collection_id": "1549709271",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
+    {
+      "guid": "0242600b0a13a020b0e2102cfeb5faf2",
+      "audio_url": "https://audio.podigee-cdn.net/2621337-m-099b2184917c8c0404a3f713400d26f6.mp3?source=feed",
+      "pfad": "/v1/episode/81581bdde4a6337ce679006ae44e794baf60570d.json",
+      "titel": "Die Stunde der KI-Wahrheit und raketenhafte SpaceX-Zahlen",
+      "veroeffentlicht": "2026-10-21T02:45:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Raketen-Zahlen von SpaceX, KI-Zweifel an der Börse und der Boom von Tonys"
+    },
     {
       "guid": "b62f36f66b0d8875085eef537c450e4a",
       "audio_url": "https://audio.podigee-cdn.net/2619064-m-f0661a8c7e549ec590194e50f0d07583.mp3?source=feed",

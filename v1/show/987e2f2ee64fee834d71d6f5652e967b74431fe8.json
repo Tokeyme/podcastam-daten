@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
+    {
+      "guid": "86fdcdd13afc40663f3ab27b4da60628",
+      "audio_url": "https://audio.podigee-cdn.net/2624300-m-e2c104dc683a84fb1d7d9d67243d8a4c.mp3?source=feed",
+      "pfad": "/v1/episode/d7c610df4035b3a6515a157463edf33c826d4cca.json",
+      "titel": "Was die Deutschen so wütend macht. Mit Florian Hager (ARD-Chef)",
+      "veroeffentlicht": "2026-10-21T02:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "ARD-Chef Florian Hager über Vertrauensverlust, politische Angriffe und Reformen"
+    },
     {
       "guid": "e81074a6a7c3984aadeed385ca10464b",
       "audio_url": "https://audio.podigee-cdn.net/2623309-m-294cf42a170b681d331cc876855b56c9.mp3?source=feed",

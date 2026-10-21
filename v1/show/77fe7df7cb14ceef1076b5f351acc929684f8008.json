@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Cleared Hot - Powered By BRCC",
   "apple_collection_id": "1247300054",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
     {
       "guid": "e551ed7d-2796-46bb-933e-db5efc3458b4",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/5b9f4e8444d9f16fcd4c238a63d8d14cc48c9e2d.json",
       "titel": "Seven Minutes and Nowhere To Run | Negligent Discharge Friday | 9.4.2026",
       "veroeffentlicht": "2026-09-04T11:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "Navigating a heavy news week of natural disasters, national debt, and surveillance."
     }

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Machtwechsel",
   "apple_collection_id": "1568123217",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
+    {
+      "guid": "24c0276950ecd9ce79afa3efa4b3cf74",
+      "audio_url": "https://audio.podigee-cdn.net/2623296-m-0dcd3553d7ee74d7aaff2ceea965a54d.mp3?source=feed",
+      "pfad": "/v1/episode/0b1dc5642a2d5c08cfea962944cfc31ee87aa49a.json",
+      "titel": "Nachgefragt: Kann Merz wirklich Enteignungen in Berlin verbieten?",
+      "veroeffentlicht": "2026-10-21T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Hörerfragen zu Israel-Debatte, Berliner Enteignungen und SPD-Personalien."
+    },
     {
       "guid": "0e31fba85db941f53a45db08a03e90ce",
       "audio_url": "https://audio.podigee-cdn.net/2620728-m-1c969d4869950c86f5b72331d76965b1.mp3?source=feed",

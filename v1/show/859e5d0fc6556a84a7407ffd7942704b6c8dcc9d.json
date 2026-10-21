@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Betreff: Leben",
   "apple_collection_id": "6809877875",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
+    {
+      "guid": "b29a1400db077d1ca758bf1ef86aa9d2",
+      "audio_url": "https://audio.podigee-cdn.net/2622532-m-4e600a15bee5ae893fbe74b0cb0193ca.mp3?source=feed",
+      "pfad": "/v1/episode/2b425b01112c8a52a2ea4becea116ff301b2527d.json",
+      "titel": "#5 | Paula Lambert über Liebe, Lust und die Frage, warum es manchmal so kompliziert ist?",
+      "veroeffentlicht": "2026-10-20T22:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Paula Lambert über Kindheitsmuster, Selbstwert und warum Liebe eine Entscheidung ist."
+    },
     {
       "guid": "181a288db23568fb305a5dd435421cd9",
       "audio_url": "https://audio.podigee-cdn.net/2614665-m-006717bb68912590c399517aed21ca5c.mp3?source=feed",

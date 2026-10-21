@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-10-21T12:33:08+00:00",
+  "erzeugt_am": "2026-10-21T21:29:58+00:00",
   "folgen": [
+    {
+      "guid": "6ad07283e742e36efcc3501b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ad07283e742e36efcc3501b/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lhTmxQeb9CeooMBpGwH5ZG3qnsnT.m4a",
+      "pfad": "/v1/episode/cbd2d395f9f708050cfdc73d422caaa123e5c571.json",
+      "titel": "1021 中宏保险｜智驾“小蓝灯”迎来国标、二手电车拍卖均价超燃油车、上海二手房价格同比上涨、亚洲杯或推迟一年",
+      "veroeffentlicht": "2026-10-20T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "上海二手房价格同比上涨，特朗普民调创新低，亚洲杯或推迟一年"
+    },
     {
       "guid": "6ad61e3666729f5c712dedb6",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ad61e3666729f5c712dedb6/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/ltwHimdTBCRmAkmTbsI0LXqwZDI7.m4a",
