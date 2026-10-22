@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Dateline NBC",
   "apple_collection_id": "1464919521",
-  "erzeugt_am": "2026-10-21T21:29:58+00:00",
+  "erzeugt_am": "2026-10-22T21:05:28+00:00",
   "folgen": [
+    {
+      "guid": "ed0d310c-4d7f-4085-8720-d998b49ff3d5",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/WyZndMW35x3t79tHlknd/nbcnews.simplecastaudio.com/ae183fe2-c634-458a-93dd-5770f0676f77/episodes/c6ac54bf-97ff-4428-b2e7-11731dd2cbd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae183fe2-c634-458a-93dd-5770f0676f77&awEpisodeId=c6ac54bf-97ff-4428-b2e7-11731dd2cbd3&feed=HL4TzgYC",
+      "pfad": "/v1/episode/f4e52232a8cb1cf229b308408563dabb571e4888.json",
+      "titel": "Talking Dateline: The Betrayal of Kirby Carpenter",
+      "veroeffentlicht": "2026-10-21T09:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Exploring the murder of Mississippi businessman Kirby Carpenter and the family betrayal…"
+    },
     {
       "guid": "e482d139-d86b-4dcd-a3a1-9817d0cb62fe",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/WyZndMW35x3t79tHlknd/nbcnews.simplecastaudio.com/ae183fe2-c634-458a-93dd-5770f0676f77/episodes/4511e0f7-01cb-4342-8285-1762c7fa0c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae183fe2-c634-458a-93dd-5770f0676f77&awEpisodeId=4511e0f7-01cb-4342-8285-1762c7fa0c7b&feed=HL4TzgYC",

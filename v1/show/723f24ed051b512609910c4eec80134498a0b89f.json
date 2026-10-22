@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Megyn Kelly Show",
   "apple_collection_id": "1532976305",
-  "erzeugt_am": "2026-10-21T21:29:58+00:00",
+  "erzeugt_am": "2026-10-22T21:05:28+00:00",
   "folgen": [
+    {
+      "guid": "35b49d7a-d040-47f8-994e-b274c1006826",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/6f474e8a-e989-45f5-982a-97c3da2702f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=6f474e8a-e989-45f5-982a-97c3da2702f2&feed=RV1USAfC",
+      "pfad": "/v1/episode/807ffdf6e81f145ed7d985d6489f47d2b7b47b8a.json",
+      "titel": "Record-Breaking Texas Early Voting, Netflix Shake-Up, Indiana Dem on Drunken Rant: AM Update 10/21",
+      "veroeffentlicht": "2026-10-21T09:30:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Texas Senate race sees record early voting, Netflix leadership overhaul, and viral rant."
+    },
     {
       "guid": "c5ca18ca-63fa-4872-86e8-336f0d82eeb7",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/db3515cc-e7d4-489e-86cf-0ba4288d9c7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=db3515cc-e7d4-489e-86cf-0ba4288d9c7d&feed=RV1USAfC",

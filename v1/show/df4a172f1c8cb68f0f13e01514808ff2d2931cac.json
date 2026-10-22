@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "American History Tellers",
   "apple_collection_id": "1313596069",
-  "erzeugt_am": "2026-10-21T21:29:58+00:00",
+  "erzeugt_am": "2026-10-22T21:05:28+00:00",
   "folgen": [
     {
       "guid": "gid://art19-episode-locator/V0/KmKI5f8oj5BqEslJW8xssnepK6Do53xpXeEfRs2___s",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/43ace5febb71a68f2271bbf1a8a2db722adabca6.json",
       "titel": "FAN FAVORITE: Stonewall | Evolutionary, Not Revolutionary | 1",
       "veroeffentlicht": "2026-09-02T07:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "The origins of the gay rights movement from the 1950s up to the Stonewall Uprising."
     }

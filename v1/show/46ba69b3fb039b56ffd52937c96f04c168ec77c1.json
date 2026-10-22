@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "0630 - der News-Podcast",
   "apple_collection_id": "1530957169",
-  "erzeugt_am": "2026-10-21T21:29:58+00:00",
+  "erzeugt_am": "2026-10-22T21:05:28+00:00",
   "folgen": [
+    {
+      "guid": "/c4c865490dc1878e8c763aef8ecfd206",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/21/0f09c99c-6475-415e-be4a-f285f6900d03/0f09c99c-6475-415e-be4a-f285f6900d03_MP3-128.mp3",
+      "pfad": "/v1/episode/6dd56634d13aafa4d87d3846314f729a2d80b0e0.json",
+      "titel": "AfD nach Hackerangriff unter Druck | Kyjiw vorm Kriegswinter: Klitschko in der Kritik | EU-Arktisstrategie: Machtkampf im Eis",
+      "veroeffentlicht": "2026-10-21T04:26:05+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "AfD-Dokumentenleck, Kiew vor dem Kriegswinter und neue EU-Arktisstrategie"
+    },
     {
       "guid": "/55753608bbdeff624528d01adc24ebf6",
       "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/16/1fca8100-288f-4817-95f1-dbaa31225507/1fca8100-288f-4817-95f1-dbaa31225507_MP3-128.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
   "apple_collection_id": "1746549121",
-  "erzeugt_am": "2026-10-21T21:29:58+00:00",
+  "erzeugt_am": "2026-10-22T21:05:28+00:00",
   "folgen": [
+    {
+      "guid": "ard_15minuten_1890ECB6",
+      "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/10/21/a1f25302-c693-4f80-8285-2fc2a6e3e35b/a1f25302-c693-4f80-8285-2fc2a6e3e35b_MP3-128.mp3",
+      "pfad": "/v1/episode/897a3968b87f1e8e167076a649226cda7e21f595.json",
+      "titel": "EU stärkt Rechte für Reisende / Sprachtests in Kitas",
+      "veroeffentlicht": "2026-10-21T06:00:07+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "EU beschließt einheitliche Rechte für Reisende und Kitas testen Kinder auf Sprache"
+    },
     {
       "guid": "ard_15minuten_9BDBA4D4",
       "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/10/16/91d05a00-89cf-4854-be2a-d08b35714662/91d05a00-89cf-4854-be2a-d08b35714662_MP3-128.mp3",

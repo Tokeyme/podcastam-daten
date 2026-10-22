@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Mordlust",
   "apple_collection_id": "1413425371",
-  "erzeugt_am": "2026-10-21T21:29:58+00:00",
+  "erzeugt_am": "2026-10-22T21:05:28+00:00",
   "folgen": [
+    {
+      "guid": "e8303004e2b0b8ffc1d7884542d5c262",
+      "audio_url": "https://audio.podigee-cdn.net/2624008-m-41080bc63061068d100be2a8dac38155.mp3?source=feed",
+      "pfad": "/v1/episode/52ba840621bda80efe4bf7d8b4f59997872a322f.json",
+      "titel": "#256 Gefahr im Verzug",
+      "veroeffentlicht": "2026-10-21T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Wie ein Handyspiel im Stellwerk zum tödlichen Zugunglück von Bad Aibling führte"
+    },
     {
       "guid": "ace9258986935cfa5a1794d03c78191e",
       "audio_url": "https://audio.podigee-cdn.net/2617194-m-ffbc0db8fdf0b9ab3d360c4de21f5d3d.mp3?source=feed",
