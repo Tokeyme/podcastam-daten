@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Baywatch Berlin",
   "apple_collection_id": "1488376434",
-  "erzeugt_am": "2026-10-23T18:09:01+00:00",
+  "erzeugt_am": "2026-10-23T23:18:31+00:00",
   "folgen": [
+    {
+      "guid": "4e4792ac03850b01bda69247d8b7e794",
+      "audio_url": "https://audio.podigee-cdn.net/2618597-m-cb51a31fa85e48148e7797115cf4837c.mp3?source=feed",
+      "pfad": "/v1/episode/1824cbae8902bea59288ce4db262ac268b1c42f1.json",
+      "titel": "„Don Vito, schick die Kühe!“",
+      "veroeffentlicht": "2026-10-22T22:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Kartenspiele, Promi-Klatsch und Heinos Messer – das Chaos einer neuen Podcast-Woche."
+    },
     {
       "guid": "4880515a3094be20227c3b916a73d88d",
       "audio_url": "https://audio.podigee-cdn.net/2612869-m-16863cd79175830406f0ea9644593bf4.mp3?source=feed",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-10-23T18:09:01+00:00",
+  "erzeugt_am": "2026-10-23T23:18:31+00:00",
   "folgen": [
+    {
+      "guid": "8abd1d50-7a27-4ba3-ba19-8b02dc2741fe",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/7679121d-8ba9-48ee-ad31-2d1a7c92d254/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=7679121d-8ba9-48ee-ad31-2d1a7c92d254&feed=Xtqjn37O",
+      "pfad": "/v1/episode/0820b6049b6e622be99d3f08b82bd6c9eb057a8a.json",
+      "titel": "PHP: Was genau ist passiert und wie schwer wiegt das Problem?",
+      "veroeffentlicht": "2026-10-22T15:02:37+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Schwere Sicherheitslücke in PHP, Söders Extremismus-Klausel und ein Spionagefall"
+    },
     {
       "guid": "26fd9450-7afd-49af-907c-4ae6f7091e44",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/b9bcf2bf-4b4f-405a-92d2-cedf4fa928a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=b9bcf2bf-4b4f-405a-92d2-cedf4fa928a2&feed=Xtqjn37O",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Lanz + Precht",
   "apple_collection_id": "1582828457",
-  "erzeugt_am": "2026-10-23T18:09:01+00:00",
+  "erzeugt_am": "2026-10-23T23:18:31+00:00",
   "folgen": [
+    {
+      "guid": "3e268c54-f3a1-4eb3-bdb8-25487a0e85f8",
+      "audio_url": "https://cdn.julephosting.de/podcasts/1355-lanz-precht/256730-268-krebsforschung-grund-zur-hoffnung.mp3?v=2",
+      "pfad": "/v1/episode/fac02f6ed1a3569f499038a6a5580826f951ebf4.json",
+      "titel": "#268 (Krebsforschung – Grund zur Hoffnung?)",
+      "veroeffentlicht": "2026-10-23T01:01:00+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Fortschritte in der Krebsforschung: Wie KI und neue Therapien die Krankheit verändern"
+    },
     {
       "guid": "84b3d2f2-46ec-42e6-9efe-782ca55ea9d5",
       "audio_url": "https://cdn.julephosting.de/podcasts/1355-lanz-precht/256575-267-verlernen-wir-das-denken.mp3?v=2",
