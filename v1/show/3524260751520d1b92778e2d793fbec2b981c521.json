@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
   "apple_collection_id": "1428670057",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "3b7b682ac30f89dec6f83dde2b224ae1",
+      "audio_url": "https://audio.podigee-cdn.net/2624680-m-cbba72403359f1a08fb3df03025b316b.mp3?source=feed",
+      "pfad": "/v1/episode/a150fdb8ce58e37524aa0390221b72f7ec097998.json",
+      "titel": "Matthias Miersch: „Wir tun als Koalition alles dafür, dass wir Erfolg haben“ | Investitionsgipfel | 500 Pioneer-Mitgliedschaften",
+      "veroeffentlicht": "2026-10-21T03:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Investitionsgipfel in Berlin, die Koalition im Stresstest und Nudeln schlagen Kartoffeln"
+    },
     {
       "guid": "194bf687e3284f507412979a2d21af9d",
       "audio_url": "https://audio.podigee-cdn.net/2620756-m-a1de43b10616de8c5a5858225d2f7cc2.mp3?source=feed",

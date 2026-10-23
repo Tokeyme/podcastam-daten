@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Bill Simmons Podcast",
   "apple_collection_id": "1043699613",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "8c402b2c-bd12-11f1-ad9a-ff2c56e7b331",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6933296678.mp3",
+      "pfad": "/v1/episode/b7542f78e09a1d17948fb6dfbf5acb1ba36aadee.json",
+      "titel": "NBA Day One Reactions, Plus Blake Griffin and Peter Berg (Two Interviews!)",
+      "veroeffentlicht": "2026-10-21T07:06:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "NBA season opener reactions, plus in-person interviews with Blake Griffin and Peter Berg."
+    },
     {
       "guid": "8c225b10-bd12-11f1-ad9a-3f3aeb656d46",
       "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1455121142.mp3",

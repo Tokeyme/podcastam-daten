@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Hotel Matze",
   "apple_collection_id": "1168045239",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "1d4e89bcc913ea3a872e4ea4fbe76ea4",
+      "audio_url": "https://audio.podigee-cdn.net/2624455-m-a0236d1ad5de2b3dd5e2c807f14cabe2.mp3?source=feed",
+      "pfad": "/v1/episode/6cea251ec68c5daf86221c2b0ed810df5dfd61f0.json",
+      "titel": "Cordula Stratmann & Dr. Gunther Schmidt – Warum sind wir so hart zu uns selbst?",
+      "veroeffentlicht": "2026-10-21T15:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Warum wir so hart zu uns sind und wie wir in Krisen handlungsfähig bleiben"
+    },
     {
       "guid": "f438e186a5b1e97e35cf66c902222413",
       "audio_url": "https://audio.podigee-cdn.net/2620033-m-aba680cd53b364adcd95a663822d0c91.mp3?source=feed",

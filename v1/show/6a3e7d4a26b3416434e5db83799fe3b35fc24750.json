@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "BBC 随身英语",
   "apple_collection_id": "1813149436",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1023759930",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwOo1qzABVywATnPy8X.m4a?channel=rss&album_id=86333581&track_id=1023759930&uid=22314232&jt=https://aod.cos.tx.xmcdn.com/storages/6c6f-audiofreehighqps/FD/7B/GKwRIRwOo1qzABVywATnPy8X.m4a",
+      "pfad": "/v1/episode/23b1d83534b0343b83b9deeb2377eaaa491dbfb2.json",
+      "titel": "260810-The art of farts 关于 “肠道排气” 的科学",
+      "veroeffentlicht": "2026-10-13T02:30:05+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨动物世界中肠道排气的奇异现象及其生存作用"
+    },
     {
       "guid": "xmly_track_949680060",
       "audio_url": "https://jt.ximalaya.com//GKwRIUENQAeGABD_NARadhut.m4a?channel=rss&album_id=86333581&track_id=949680060&uid=22314232&jt=https://aod.cos.tx.xmcdn.com/storages/a401-audiofreehighqps/6B/5A/GKwRIUENQAeGABD_NARadhut.m4a",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Joe Rogan Experience",
   "apple_collection_id": "360084272",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "23251e48-ccfa-11f1-8407-c76a5ec426f3",
+      "audio_url": "https://traffic.megaphone.fm/GLT2078242472.mp3",
+      "pfad": "/v1/episode/8a28b8a564473c9c4141a17904a322e718f5721c.json",
+      "titel": "#2569 - Bill Thompson",
+      "veroeffentlicht": "2026-10-21T17:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Bill Thompson discusses hunting, artificial intelligence, and human psychology."
+    },
     {
       "guid": "0c8175c2-cc3e-11f1-a160-4bf71fa94203",
       "audio_url": "https://traffic.megaphone.fm/GLT2760842155.mp3",

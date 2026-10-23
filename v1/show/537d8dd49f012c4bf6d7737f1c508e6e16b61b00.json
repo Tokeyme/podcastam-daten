@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Machtwechsel",
   "apple_collection_id": "1568123217",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "caa78fb47a588d5a103333b194d20827",
+      "audio_url": "https://audio.podigee-cdn.net/2626796-m-50ff16b2f63246c3d9bb9990a2e3df5f.mp3?source=feed",
+      "pfad": "/v1/episode/5d7420d2b866ebfca243adde4f2365cbad0eebf8.json",
+      "titel": "Schwarz-Rot unter Hochspannung: Staatseinnahmen rauf, Stromsteuer runter?",
+      "veroeffentlicht": "2026-10-23T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Schwarz-Rotes Bündnis unter Strom: Ukraine-Strategie wackelt und Steuerstreit entbrannt"
+    },
     {
       "guid": "24c0276950ecd9ce79afa3efa4b3cf74",
       "audio_url": "https://audio.podigee-cdn.net/2623296-m-0dcd3553d7ee74d7aaff2ceea965a54d.mp3?source=feed",

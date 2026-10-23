@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Lage der Nation - der Politik-Podcast aus Berlin",
   "apple_collection_id": "1092957894",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "1023e3cc-69fd-4a4b-8367-cc0abf42b3a2",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/files.lagedernation.org/lagedernation/LdN499.mp3?ptm_source=feed&ptm_context=mp3&ptm_file=LdN499.mp3",
+      "pfad": "/v1/episode/2a7e0c6496f6bac75b9701c72903833562d03f8f.json",
+      "titel": "LdN499 Tabaksteuer: Wie können diese Fehler passieren?",
+      "veroeffentlicht": "2026-10-21T18:29:12+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Bundestag beschließt aus Versehen Tabaksteuer, Krisen in Frankreich und Debatte um…"
+    },
     {
       "guid": "7bdbbca5-a24d-41eb-aefb-a1f0138463de",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/files.lagedernation.org/lagedernation/LdN498.mp3?ptm_source=feed&ptm_context=mp3&ptm_file=LdN498.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Stammplatz – Fußball News täglich",
   "apple_collection_id": "1608172567",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "ae7b2c78562220c959b9abdbc8bfd816",
+      "audio_url": "https://audio.podigee-cdn.net/2625329-m-e09e72e5faa93b8ff059ac98d63d0c96.mp3?source=feed",
+      "pfad": "/v1/episode/a47c573096cc2f820438ffd645ea10a3ac0a5b69.json",
+      "titel": "Stammplatz Bergfest #1: Wahlwerbesendung!",
+      "veroeffentlicht": "2026-10-21T13:52:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Vier Hosts im humorvollen Wahlkampf für ihre Favoriten bei der Ballon-d'Or-Vergabe."
+    },
     {
       "guid": "81e371adaa7c40248f26002a1b2c936e",
       "audio_url": "https://audio.podigee-cdn.net/2598572-m-97cb94bda0e81915938c38ca977dbb90.mp3?source=feed",

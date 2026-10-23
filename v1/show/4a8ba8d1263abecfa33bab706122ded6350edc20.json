@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "摸鱼早报",
   "apple_collection_id": "1846847443",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "6ad880f3ef67611cac79f54c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6ad880f3ef67611cac79f54c/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lkbArYijYWU_J0EvGEQlm_atM7dj.m4a",
+      "pfad": "/v1/episode/d1b8ab2ab79cbeded4bb101fff1a8fda56e62e9a.json",
+      "titel": "325-工信部为汽车设计创新划红线/于东来拿2000万投资爱情研究小组/明年欧洲机票或涨20%",
+      "veroeffentlicht": "2026-10-21T20:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "工信部规范汽车设计创新；于东来投资爱情研究小组；欧洲机票或迎最大涨幅"
+    },
     {
       "guid": "6ad77a91d421cc8077338e2f",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6ad77a91d421cc8077338e2f/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lrHYZfqCsTTCzhEOyzKf2GvELgix.m4a",

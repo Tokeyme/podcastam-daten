@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
+    {
+      "guid": "4a4866a927f8b70f472fa8af634b4c18",
+      "audio_url": "https://audio.podigee-cdn.net/2626540-m-0cf96399893b8f6286a9821ca6139135.mp3?source=feed",
+      "pfad": "/v1/episode/0cd8df564447fca017fe8331477bfc60c7ca5703.json",
+      "titel": "Enthüllt! Putin befiehlt Eskalation gegen Deutschland. Mit Bojan Pancevski",
+      "veroeffentlicht": "2026-10-23T02:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Putin soll Sabotagekampagne gegen NATO-Staaten angeordnet haben"
+    },
     {
       "guid": "86fdcdd13afc40663f3ab27b4da60628",
       "audio_url": "https://audio.podigee-cdn.net/2624300-m-e2c104dc683a84fb1d7d9d67243d8a4c.mp3?source=feed",

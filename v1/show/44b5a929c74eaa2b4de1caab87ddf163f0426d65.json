@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "声东击西",
   "apple_collection_id": "1183662640",
-  "erzeugt_am": "2026-10-22T21:05:28+00:00",
+  "erzeugt_am": "2026-10-23T17:48:57+00:00",
   "folgen": [
     {
       "guid": "63a3f28a-fbeb-46b5-8fc8-eaeca8e235da",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/e76476538d271341d81e6571425190c3b5e94468.json",
       "titel": "#407   今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？",
       "veroeffentlicht": "2026-10-16T18:00:00+08:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "探讨诺奖成果光遗传学如何改变我们对大脑、情绪与精神疾病的认知。"
     },
@@ -30,7 +30,7 @@
       "pfad": "/v1/episode/7c75e9acf64146a1ba0c276f22d326a70c1982d1.json",
       "titel": "#404  邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目",
       "veroeffentlicht": "2026-09-10T17:30:00+08:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "硅谷华人市议员邵阳讲述十年地方政治亲历"
     },
