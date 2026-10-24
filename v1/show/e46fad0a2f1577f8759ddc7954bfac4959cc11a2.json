@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "You're Dead to Me",
   "apple_collection_id": "1479973402",
-  "erzeugt_am": "2026-10-23T23:54:09+00:00",
+  "erzeugt_am": "2026-10-24T15:32:16+00:00",
   "folgen": [
     {
       "guid": "urn:bbc:podcast:m00300cj",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/a6ec9c606538c7fef7141019053fc695ef1c4d58.json",
       "titel": "Emperor Constantine the Great: Christianity and the Roman Empire",
       "veroeffentlicht": "2026-09-04T05:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "A deep dive into the life, reign, and religious transformation of Constantine the Great."
     }

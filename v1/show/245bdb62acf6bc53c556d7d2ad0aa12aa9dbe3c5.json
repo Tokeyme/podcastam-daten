@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-10-23T23:54:09+00:00",
+  "erzeugt_am": "2026-10-24T15:32:16+00:00",
   "folgen": [
+    {
+      "guid": "552098c9-70cf-47a8-9e54-37a9137191e8",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60ffceb7-687b-4c09-b075-cd86e8bd477f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60ffceb7-687b-4c09-b075-cd86e8bd477f&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/04653c2b6bb6355bbcc80dd10b87616193849338.json",
+      "titel": "The Battle Over Black Representation in the South",
+      "veroeffentlicht": "2026-10-23T09:45:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "How the gutting of the Voting Rights Act and redistricting are transforming the South"
+    },
     {
       "guid": "f2d5e37f-dc9e-4f9f-bb99-cc20088a43e9",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4d142ed1-ec9d-470b-b52b-ba35e33fedf6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4d142ed1-ec9d-470b-b52b-ba35e33fedf6&feed=Sl5CSM3S",

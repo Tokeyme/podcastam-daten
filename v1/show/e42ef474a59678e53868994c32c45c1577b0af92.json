@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Up First from NPR",
   "apple_collection_id": "1222114325",
-  "erzeugt_am": "2026-10-23T23:54:09+00:00",
+  "erzeugt_am": "2026-10-24T15:32:16+00:00",
   "folgen": [
+    {
+      "guid": "981aab6a-4595-4876-ad65-f04354294150",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/7598d7a4-b298-443f-8689-56b9358725e0/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=7598d7a4-b298-443f-8689-56b9358725e0&feed=HMwRVgVt&t=podcast&e=nx-s1-6013298&p=510318&d=842&size=13478392",
+      "pfad": "/v1/episode/817d48d2fe765b1dd7390fdf5bb83213fe973189.json",
+      "titel": "US Prepares For Possible Strikes, Midterm Early Voting, Trump BBC Deposition",
+      "veroeffentlicht": "2026-10-23T10:12:18+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "U.S. weighs Iran action, midterm early voting surges, and Trump faces BBC deposition."
+    },
     {
       "guid": "1868fd50-b1ad-4052-91c1-28ae2fe15f49",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/c6e17d3a-3dd6-4174-8492-f307d68c01bc/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=c6e17d3a-3dd6-4174-8492-f307d68c01bc&feed=HMwRVgVt&t=podcast&e=nx-s1-6012014&p=510318&d=746&size=11941138",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Joe Rogan Experience",
   "apple_collection_id": "360084272",
-  "erzeugt_am": "2026-10-23T23:54:09+00:00",
+  "erzeugt_am": "2026-10-24T15:32:16+00:00",
   "folgen": [
+    {
+      "guid": "ec46995e-ce9a-11f1-9c7e-fbbdba278d52",
+      "audio_url": "https://traffic.megaphone.fm/GLT2538626371.mp3",
+      "pfad": "/v1/episode/3bc2795733a16c2c0e96d830ea4c3608ff8eba5b.json",
+      "titel": "#2570 - Mystery Boys",
+      "veroeffentlicht": "2026-10-23T17:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Joe Rogan discusses conspiracies, tech, history, and current events with guests."
+    },
     {
       "guid": "ed2504ac-cdc1-11f1-b263-83f2c9b36709",
       "audio_url": "https://traffic.megaphone.fm/GLT1470402625.mp3",

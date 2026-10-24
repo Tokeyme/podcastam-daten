@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
   "apple_collection_id": "1746549121",
-  "erzeugt_am": "2026-10-23T23:54:09+00:00",
+  "erzeugt_am": "2026-10-24T15:32:16+00:00",
   "folgen": [
+    {
+      "guid": "ard_15minuten_EEE01DD4",
+      "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/10/23/88fcb425-3c84-4710-93a9-fe7526feab9a/88fcb425-3c84-4710-93a9-fe7526feab9a_MP3-128.mp3",
+      "pfad": "/v1/episode/5adf176660e0fcf637a23d932c8123da031fafc7.json",
+      "titel": "Wird Bahnfahren teurer? / Änderungen bei Haus-Versicherung geplant / Brettspiele-Boom",
+      "veroeffentlicht": "2026-10-23T06:00:12+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Regionalverkehr vor Teuerung, neue Hausversicherungen und der anhaltende Brettspiele-Boom"
+    },
     {
       "guid": "ard_15minuten_1890ECB6",
       "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/10/21/a1f25302-c693-4f80-8285-2fc2a6e3e35b/a1f25302-c693-4f80-8285-2fc2a6e3e35b_MP3-128.mp3",

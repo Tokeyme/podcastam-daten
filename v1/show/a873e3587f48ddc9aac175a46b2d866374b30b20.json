@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Bill Simmons Podcast",
   "apple_collection_id": "1043699613",
-  "erzeugt_am": "2026-10-23T23:54:09+00:00",
+  "erzeugt_am": "2026-10-24T15:32:16+00:00",
   "folgen": [
+    {
+      "guid": "8c5d7bb4-bd12-11f1-ad9a-c342f1a77b36",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1905380487.mp3",
+      "pfad": "/v1/episode/c6b425c0c552ac03d386d8a50bb36b9f2a83358e.json",
+      "titel": "Caleb Beats Drake, a Mega-Mailbag, Eagles Drama, NBA Surprises, and NFL Week 7 With Tom Pelissero and Joe House",
+      "veroeffentlicht": "2026-10-23T05:56:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Caleb beats Drake, plus NFL Week 7 breakdown, NBA overreactions, and a massive mailbag."
+    },
     {
       "guid": "8c402b2c-bd12-11f1-ad9a-ff2c56e7b331",
       "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6933296678.mp3",
