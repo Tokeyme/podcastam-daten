@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Ezra Klein Show",
   "apple_collection_id": "1548604447",
-  "erzeugt_am": "2026-10-24T15:32:16+00:00",
+  "erzeugt_am": "2026-10-24T15:45:08+00:00",
   "folgen": [
     {
       "guid": "a21bf344-4bac-4256-8be5-5cde95604647",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/2b4205714187e08c7e49b4e2e28d783cb600a9d4.json",
       "titel": "What Hundreds of Focus Groups With Trump Voters Revealed",
       "veroeffentlicht": "2026-10-23T09:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": false,
       "einzeiler": "Political strategist Sarah Longwell on what hundreds of focus groups reveal about Trump…"
     },
