@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Dateline NBC",
   "apple_collection_id": "1464919521",
-  "erzeugt_am": "2026-10-25T11:20:03+00:00",
+  "erzeugt_am": "2026-10-25T11:33:51+00:00",
   "folgen": [
     {
       "guid": "d1e7f600-ed07-40d0-96cb-969ba7dcd0ff",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/952ab2de8c3152e604b8b86a258a78e75ebde755.json",
       "titel": "Keith Morrison reads Edgar Allan Poe’s haunting classics",
       "veroeffentlicht": "2026-10-23T21:20:50+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": false,
       "einzeiler": "Keith Morrison returns with season five of Morrison Mysteries exploring Edgar Allan Poe"
     },
