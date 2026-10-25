@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
   "apple_collection_id": "1623077169",
-  "erzeugt_am": "2026-10-24T15:45:08+00:00",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
   "folgen": [
+    {
+      "guid": "7caf0116-ceeb-11f1-8591-8fcada8802e9",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH3183519853.mp3",
+      "pfad": "/v1/episode/706c69099ebbdc6d016d3bdf080f434b16313947.json",
+      "titel": "#345 - Wir dürfen seinen Film nicht sehen (Filmemacher)",
+      "veroeffentlicht": "2026-10-24T08:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Uwe Boll über Hollywood, seinen globalen Erfolg und Zensur in Deutschland"
+    },
     {
       "guid": "b2f38584-cd43-11f1-9fd2-13996d41396d",
       "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH7292038101.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-10-24T15:45:08+00:00",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
   "folgen": [
+    {
+      "guid": "b0b87b78-680c-4924-86e3-bc1b04816036",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/ff11bcc7-a66a-428e-a528-b8702b340053/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=ff11bcc7-a66a-428e-a528-b8702b340053&feed=Xtqjn37O",
+      "pfad": "/v1/episode/094c098d0b5b19d2dfc187588c40e6ba46de01cc.json",
+      "titel": "Wann wird’s mal wieder richtig pünktlich?",
+      "veroeffentlicht": "2026-10-24T03:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Warum die Generalsanierung der Bahn die Züge bisher nicht pünktlicher macht."
+    },
     {
       "guid": "f54c9146-c3ef-4326-9640-500a8f0b5ed1",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/15f79547-c7b8-47fd-a6bd-f68d770e5bfb/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=15f79547-c7b8-47fd-a6bd-f68d770e5bfb&feed=Xtqjn37O",

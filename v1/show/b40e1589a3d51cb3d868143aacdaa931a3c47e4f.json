@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "show": "怡楽播客",
+  "apple_collection_id": "1523249117",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
+  "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/10/14/3240006782649193478_hd.mp3",
+      "audio_url": "https://tk.wavpub.com/WPTK_hsvo0tsQ00bpsOiE.mp3",
+      "pfad": "/v1/episode/071152bde7dd4496557c2657fd064d6a7e9735b2.json",
+      "titel": "974.硬着头皮也得干",
+      "veroeffentlicht": "2026-10-15T00:00:01+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "聊聊那些不得不硬着头皮去面对的尴尬时刻与人生经历。"
+    }
+  ]
+}

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-10-24T15:45:08+00:00",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
   "folgen": [
+    {
+      "guid": "0a52592ebff848ea5dda1d5020984f07",
+      "audio_url": "https://audio.podigee-cdn.net/2623856-m-815fcda46a79536f3512dc4d09c79532.mp3?source=feed",
+      "pfad": "/v1/episode/10087ce24350a6e0f32d321ad6f0d27aff9ac55f.json",
+      "titel": "Presseklub: Warum es in Frankreich wirklich eskalierte",
+      "veroeffentlicht": "2026-10-24T03:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Hintergründe und Eskalation der schweren Schüler- und Jugendproteste in Frankreich."
+    },
     {
       "guid": "f4b6472592f2be23c65838ff910ee5a2",
       "audio_url": "https://audio.podigee-cdn.net/2623851-m-84feae430f923741dc8b1ac544a1761e.mp3?source=feed",

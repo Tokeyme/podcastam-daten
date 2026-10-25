@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Dateline NBC",
   "apple_collection_id": "1464919521",
-  "erzeugt_am": "2026-10-24T15:45:08+00:00",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
   "folgen": [
+    {
+      "guid": "d1e7f600-ed07-40d0-96cb-969ba7dcd0ff",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/WyZndMW35x3t79tHlknd/nbcnews.simplecastaudio.com/ae183fe2-c634-458a-93dd-5770f0676f77/episodes/2a4039aa-1b21-459a-9797-a09bdc77ff48/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae183fe2-c634-458a-93dd-5770f0676f77&awEpisodeId=2a4039aa-1b21-459a-9797-a09bdc77ff48&feed=HL4TzgYC",
+      "pfad": "/v1/episode/952ab2de8c3152e604b8b86a258a78e75ebde755.json",
+      "titel": "Keith Morrison reads Edgar Allan Poe’s haunting classics",
+      "veroeffentlicht": "2026-10-23T21:20:50+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Keith Morrison returns with season five of Morrison Mysteries exploring Edgar Allan Poe"
+    },
     {
       "guid": "acc579f5-45da-4023-9fba-a0854c3f1bd6",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/WyZndMW35x3t79tHlknd/nbcnews.simplecastaudio.com/ae183fe2-c634-458a-93dd-5770f0676f77/episodes/ccae088d-857f-430d-b716-b783f8c6151a/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae183fe2-c634-458a-93dd-5770f0676f77&awEpisodeId=ccae088d-857f-430d-b716-b783f8c6151a&feed=HL4TzgYC",

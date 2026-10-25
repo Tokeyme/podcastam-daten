@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Tucker Carlson Show",
   "apple_collection_id": "1719657632",
-  "erzeugt_am": "2026-10-24T15:45:08+00:00",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
   "folgen": [
+    {
+      "guid": "59b62be4-cf0e-11f1-9839-0340ab207a22",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/384D27/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/traffic.megaphone.fm/TCN4297348146.mp3",
+      "pfad": "/v1/episode/60bcbbe1c56a30dffca6d3976e5a0f785e09853c.json",
+      "titel": "Expert Audits the True Cost of the Iran War and What the Pentagon Is Hiding From You",
+      "veroeffentlicht": "2026-10-23T18:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Analyzing the staggering financial costs of the Iran war and Pentagon opacity."
+    },
     {
       "guid": "ae207554-a885-11f1-84a0-bb3a8713f83d",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/384D27/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/traffic.megaphone.fm/TCN5371113362.mp3",

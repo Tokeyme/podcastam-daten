@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "霓达故事",
   "apple_collection_id": "1675204249",
-  "erzeugt_am": "2026-10-24T15:45:08+00:00",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
   "folgen": [
+    {
+      "guid": "6ab29e0493d5eb3bdc796dcd",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62176bef42107d36fefdf998/6ab29e0493d5eb3bdc796dcd/media.xyzcdn.net/62176bef42107d36fefdf998/ltBUSw474oTc6ETx1cFRjmKr_IxB.m4a",
+      "pfad": "/v1/episode/f8122b058c18eab9db7f275dff60403f4d923cce.json",
+      "titel": "44. 中秋保洁怪事",
+      "veroeffentlicht": "2026-09-24T13:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "中秋佳节夜话惊悚故事，分享多起发生在深夜的诡异经历"
+    },
     {
       "guid": "6a902ff7ef65145dfcc6657f",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62176bef42107d36fefdf998/6a902ff7ef65145dfcc6657f/media.xyzcdn.net/62176bef42107d36fefdf998/lk5NjIJ5aFI8RRkXMQ03jP0s_JZm.m4a",

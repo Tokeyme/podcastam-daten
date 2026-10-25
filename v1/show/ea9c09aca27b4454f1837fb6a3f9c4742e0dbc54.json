@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Geschichten aus der Geschichte",
   "apple_collection_id": "1044844618",
-  "erzeugt_am": "2026-10-24T15:45:08+00:00",
+  "erzeugt_am": "2026-10-25T10:57:45+00:00",
   "folgen": [
+    {
+      "guid": "c333bf6710bc81688dd65b7ea31cc65b",
+      "audio_url": "https://audio.podigee-cdn.net/2617971-m-b7efc95721e57dd82e21638d57bd0dde.mp3?source=feed",
+      "pfad": "/v1/episode/82a497301848aab24cc5212af73ee9a0ee0d83bf.json",
+      "titel": "GAG578: HB09 – Unsinkbar, wer alle Schiffe der Olympic-Klasse überlebt und Der meistgereiste Mann des Mittelalters",
+      "veroeffentlicht": "2026-10-21T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Zwei historische Geschichten über Violet Jessop und den Reisenden Ibn Battuta."
+    },
     {
       "guid": "e74e878bf47ae00a0eec02388e62106d",
       "audio_url": "https://audio.podigee-cdn.net/2589603-m-3a071f5ba0c2f4575851c9184b535d2b.mp3?source=feed",
