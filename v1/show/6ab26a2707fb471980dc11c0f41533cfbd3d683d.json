@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Real Time with Bill Maher",
   "apple_collection_id": "98746009",
-  "erzeugt_am": "2026-10-25T11:33:51+00:00",
+  "erzeugt_am": "2026-10-26T12:47:36+00:00",
   "folgen": [
+    {
+      "guid": "86897bbe-cf43-11f1-a41e-9710a3567dbb",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/154/traffic.megaphone.fm/WMHY3168123491.mp3",
+      "pfad": "/v1/episode/17a1b94de1e856c366a17831ed00eefbfde5f225.json",
+      "titel": "Ep. #746: Karoline Leavitt, Gov. Andy Beshear, Steve Hilton",
+      "veroeffentlicht": "2026-10-24T07:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Bill Maher discusses politics, the White House, and social security with his guests."
+    },
     {
       "guid": "49428a86-a345-11f1-8a53-cf616de62931",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/154/traffic.megaphone.fm/WMHY9762831310.mp3",

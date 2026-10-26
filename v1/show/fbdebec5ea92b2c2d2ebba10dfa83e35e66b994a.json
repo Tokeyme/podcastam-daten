@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Eine Stunde History - Deutschlandfunk Nova",
   "apple_collection_id": "1111594074",
-  "erzeugt_am": "2026-10-25T11:33:51+00:00",
+  "erzeugt_am": "2026-10-26T12:47:36+00:00",
   "folgen": [
+    {
+      "guid": "DRadio-Wissen-85f9f22d",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/10/23/deutschlandfunknova_1000_bolesaw_i_wird_20261023_85f9f22d.mp3",
+      "pfad": "/v1/episode/33ca9420229d5ab62d2252486d5b54e2d7480da0.json",
+      "titel": "1000 - Bolesław I. wird erster König von Polen",
+      "veroeffentlicht": "2026-10-23T15:00:00+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Der Akt von Gnesen markiert im Jahr 1000 den Weg Polens zum anerkannten europäischen…"
+    },
     {
       "guid": "DRadio-Wissen-71f1e911",
       "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/09/18/deutschlandfunknova_570_der_prophet_mohammed_20260918_71f1e911.mp3",

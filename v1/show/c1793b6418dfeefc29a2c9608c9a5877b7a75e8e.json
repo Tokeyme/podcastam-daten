@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Streitkräfte und Strategien",
   "apple_collection_id": "252792204",
-  "erzeugt_am": "2026-10-25T11:33:51+00:00",
+  "erzeugt_am": "2026-10-26T12:47:36+00:00",
   "folgen": [
+    {
+      "guid": "573628D0CEE911F17447D4F5EF86AF40",
+      "audio_url": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1023/AU-20261023-1433-3200.mp3",
+      "pfad": "/v1/episode/8258efbf34965e9c5add13c4f93bf6675c1d1c3a.json",
+      "titel": "Wie Putin Geschichte schreiben will (mit Martin Schulze Wessel)",
+      "veroeffentlicht": "2026-10-23T14:30:00+02:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Historiker Martin Schulze-Wessel analysiert Putins imperiale Expansionsziele."
+    },
     {
       "guid": "18D96914CC9911F170A2D4F5EF86AF40",
       "audio_url": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1020/AU-20261020-1534-2500.mp3",
