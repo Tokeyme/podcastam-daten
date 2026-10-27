@@ -2,8 +2,28 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "25565e7b-2d3d-4732-b879-b732dfac17c3",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/d3f23739-5ec2-46ba-a105-13376a4019da/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=d3f23739-5ec2-46ba-a105-13376a4019da&feed=Xtqjn37O",
+      "pfad": "/v1/episode/9b9a41ca50975e96cdfbd939d8607274546c9cde.json",
+      "titel": "Serbiens Studentenliste: Von der Straße ins Parlament (Update)",
+      "veroeffentlicht": "2026-10-26T15:59:38+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Serbiens Studentenliste siegt bei Parlamentswahl und Brasilien-Update"
+    },
+    {
+      "guid": "765916bf-190a-4c99-8fbb-83b008887052",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/95ed2ecd-9d2e-4d05-aa5d-0eaf8e0040f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=95ed2ecd-9d2e-4d05-aa5d-0eaf8e0040f5&feed=Xtqjn37O",
+      "pfad": "/v1/episode/259ca826c2830a9e698f7d42b5080754ec692b7b.json",
+      "titel": "Wie Marine Le Pen versucht, die Proteste für sich zu nutzen",
+      "veroeffentlicht": "2026-10-26T04:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Marine Le Pens Parteitag, Serbiens Protestwahlen und der Audi-Chef bei Trump"
+    },
     {
       "guid": "5df5ef42-2b70-4ed7-a89e-12bf12cd76cf",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/9546442f-e232-4c68-bf26-ebfa95985673/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=9546442f-e232-4c68-bf26-ebfa95985673&feed=Xtqjn37O",

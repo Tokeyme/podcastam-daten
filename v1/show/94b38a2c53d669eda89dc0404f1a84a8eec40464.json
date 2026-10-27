@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Fest & Flauschig",
   "apple_collection_id": "1765742605",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "a47d1482-cee4-11f1-91a1-27188f14fec3",
+      "audio_url": "https://traffic.megaphone.fm/GLT9694698393.mp3",
+      "pfad": "/v1/episode/f8c59ad1453abe47b861f1cecf25d41d58dc32fd.json",
+      "titel": "Drollige Drillinge",
+      "veroeffentlicht": "2026-10-24T21:50:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Olli Schulz und Jan Böhmermann über Erstpressungen, Kaffeefahrten-Erlebnisse und Las…"
+    },
     {
       "guid": "8d04581e-c990-11f1-a16d-170c7143cfeb",
       "audio_url": "https://traffic.megaphone.fm/GLT7252573956.mp3",

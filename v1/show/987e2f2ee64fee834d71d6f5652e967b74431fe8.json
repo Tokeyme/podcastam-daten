@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "5e5bbd4786dac55d318aff54ad25a4f9",
+      "audio_url": "https://audio.podigee-cdn.net/2628469-m-9add6513b78254010786fbcff2605aac.mp3?source=feed",
+      "pfad": "/v1/episode/4f0d43bca878f9e57936844cda1c6069107558b1.json",
+      "titel": "Zerstört Trump Deutschlands wichtigste Industrie? Mit Hans-Werner Sinn",
+      "veroeffentlicht": "2026-10-27T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Hans-Werner Sinn über die deutsche Wirtschaftskrise, Trumps Zölle und Reformen"
+    },
     {
       "guid": "e3a9e16f19b5c4e7fd3951ec7ff795bd",
       "audio_url": "https://audio.podigee-cdn.net/2628462-m-16f5c9d94256a83df04f2ebbf50b181f.mp3?source=feed",

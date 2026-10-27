@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Psychologie to go!",
   "apple_collection_id": "1332049198",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "505600eeef3bed3db3378e623ca60f4d",
+      "audio_url": "https://audio.podigee-cdn.net/2618622-m-dbb8791ab0307ebc89f689b8b40ec508.mp3?source=feed",
+      "pfad": "/v1/episode/6d59a0801afa99aaac7419ed5ad1ed266cd201b0.json",
+      "titel": "Leben mit Krebs",
+      "veroeffentlicht": "2026-10-25T06:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Der Psychoonkologe Carsten Witte im Gespräch über das Leben mit einer Krebserkrankung."
+    },
     {
       "guid": "8fd2e4829d600ef1fc51a0733df7f38b",
       "audio_url": "https://audio.podigee-cdn.net/2592394-m-3b6b427b45696b1fce53060c75686303.mp3?source=feed",

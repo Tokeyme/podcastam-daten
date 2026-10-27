@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "TED演讲精选",
   "apple_collection_id": "1852255002",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1027419828",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4Os5R0ACni-QTvE4lE.m4a?channel=rss&album_id=82749641&track_id=1027419828&uid=73948619&jt=https://aod.cos.tx.xmcdn.com/storages/5788-audiofreehighqps/2F/A5/GKwRIW4Os5R0ACni-QTvE4lE.m4a",
+      "pfad": "/v1/episode/d50d4b3c9d9e8e019fc1faed3c42f9c23fc648d0.json",
+      "titel": "507 TED-ED 根据数学原理，最快的登机方式",
+      "veroeffentlicht": "2026-10-26T00:00:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "探讨如何通过数学原理寻找飞机最快的登机方式"
+    },
     {
       "guid": "xmly_track_1027006739",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwOsQskAC88kQTt4owY.m4a?channel=rss&album_id=82749641&track_id=1027006739&uid=73948619&jt=https://aod.cos.tx.xmcdn.com/storages/d5bb-audiofreehighqps/A1/D6/GKwRIRwOsQskAC88kQTt4owY.m4a",

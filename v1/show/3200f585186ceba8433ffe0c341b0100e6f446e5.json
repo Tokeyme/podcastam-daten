@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Learning Leader Show With Ryan Hawk",
   "apple_collection_id": "985396258",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "3f68875a-62a9-4846-a045-f6d5311fe177",
+      "audio_url": "https://traffic.libsyn.com/secure/learningleadershow/LLP_-_712_Matt_Abrahams_FINAL.mp3?dest-id=259291",
+      "pfad": "/v1/episode/05e4ef094d602853066cc3f4088de6fb3d40b11e.json",
+      "titel": "712: Matt Abrahams - How to Become a Better Communicator: Speaking With Confidence, Structuring Your Message, and Thinking Fast on Your Feet",
+      "veroeffentlicht": "2026-10-25T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Master impromptu communication, impactful presentation openings, and small talk with…"
+    },
     {
       "guid": "4af7ca65-c87b-440f-83e5-9f291d895968",
       "audio_url": "https://traffic.libsyn.com/secure/learningleadershow/LLP_-_706_Daniel_Lubetzky_FINAL.mp3?dest-id=259291",

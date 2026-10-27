@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "e002eb18-11e7-4058-8ee9-68c6ed866929",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c139c515-24f7-449e-a672-ae828726f1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c139c515-24f7-449e-a672-ae828726f1b2&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/ad33d200adfa7a2615a182d501950428e0e2c8b5.json",
+      "titel": "Tricks, Treats and Trends",
+      "veroeffentlicht": "2026-10-25T10:00:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Americans plan to spend a record $13.5 billion on Halloween in 2026."
+    },
     {
       "guid": "122288e1-f467-4a0e-a730-7bb21298b01c",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4acc7176-fbf5-4698-90ff-3abe39dc677f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=4acc7176-fbf5-4698-90ff-3abe39dc677f&feed=Sl5CSM3S",

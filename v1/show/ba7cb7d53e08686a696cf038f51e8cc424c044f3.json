@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "无聊斋",
   "apple_collection_id": "1433530822",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "6adc656597726cd46756ef26",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6adc656597726cd46756ef26/media.xyzcdn.net/5e280fac418a84a0461fb129/lvioVrbscy7CC9UcQjdis_r9ooX5.m4a",
+      "pfad": "/v1/episode/b6f5106012d29740bc369949c78f55577ada116a.json",
+      "titel": "古人讲起笑话，那真是没轻没重啊！｜串个台",
+      "veroeffentlicht": "2026-10-25T16:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "跨越时空的幽默：从古籍笑话看古今喜剧的变迁"
+    },
     {
       "guid": "6ad34d850e4e410a05be4448",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fb129/6ad34d850e4e410a05be4448/media.xyzcdn.net/5e280fac418a84a0461fb129/lqBVdmHVt7B6jmMm8NlkeinKkUH6.m4a",

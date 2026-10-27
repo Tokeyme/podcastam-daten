@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "异地登录",
   "apple_collection_id": "1702839331",
-  "erzeugt_am": "2026-10-26T13:20:36+00:00",
+  "erzeugt_am": "2026-10-27T13:35:38+00:00",
   "folgen": [
+    {
+      "guid": "6adce38bc96c8942ec11ac16",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d2907719368bd65de5902e/6adce38bc96c8942ec11ac16/media.xyzcdn.net/64d2907719368bd65de5902e/ltsCtTOfAUiiEuaY1339XC4YdK7n.m4a",
+      "pfad": "/v1/episode/ee42208543cd4af1edee3e738aadf274a371c484.json",
+      "titel": "Vol.131 荒诞故事会地方篇，北京怪盗案件三则",
+      "veroeffentlicht": "2026-10-25T16:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "聚焦北京三起离奇盗窃案，从后视镜敲诈到故宫失窃，盘点那些令人啼笑皆非的怪盗。"
+    },
     {
       "guid": "6aad4853ac389df82733f9af",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64d2907719368bd65de5902e/6aad4853ac389df82733f9af/media.xyzcdn.net/64d2907719368bd65de5902e/lv-bCHTwIFicujoC3NmcY8ZXHr46.m4a",
