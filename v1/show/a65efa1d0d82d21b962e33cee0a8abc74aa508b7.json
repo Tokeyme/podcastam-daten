@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "日谈公园",
   "apple_collection_id": "1166949390",
-  "erzeugt_am": "2026-10-28T15:29:00+00:00",
+  "erzeugt_am": "2026-10-28T15:46:15+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1027435622",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/a3325b411a79352c2b925f27b001e3567f2427a0.json",
       "titel": "客栈里的武林：夜奔北京的游侠列传",
       "veroeffentlicht": "2026-10-25T20:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "武术家黄老师回忆在北京经营“夜奔北京”客栈十年的江湖往事与人生百态。"
     },
