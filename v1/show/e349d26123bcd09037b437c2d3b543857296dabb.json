@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Der schwarze Kanal",
   "apple_collection_id": "1797704653",
-  "erzeugt_am": "2026-10-27T13:51:39+00:00",
+  "erzeugt_am": "2026-10-28T15:29:00+00:00",
   "folgen": [
+    {
+      "guid": "ee0f2d91-126c-43f7-9ca5-74571e337046",
+      "audio_url": "https://ais.audiorella.com/podcasts/1553-der-schwarze-kanal/257209-new-episode.mp3?v=2&awCollectionId=julephosting_68629eebc96b1&awEpisodeId=257209",
+      "pfad": "/v1/episode/91caa594dc9d4585b84e14e71cd4900d9854404f.json",
+      "titel": "#78 Sie lügen, wie sie stehen und gehen",
+      "veroeffentlicht": "2026-10-25T05:00:00+01:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Jan Fleischhauer und Caroline Bosbach über Politik, Medien und starke Frauen"
+    },
     {
       "guid": "adf345e2-5cf7-4d9a-b4d6-86f6f7696a49",
       "audio_url": "https://ais.audiorella.com/podcasts/1553-der-schwarze-kanal/256759-new-episode.mp3?v=2&awCollectionId=julephosting_68629eebc96b1&awEpisodeId=256759",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-10-27T13:51:39+00:00",
+  "erzeugt_am": "2026-10-28T15:29:00+00:00",
   "folgen": [
+    {
+      "guid": "6adf5d1ec96c8942ec129889",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6adf5d1ec96c8942ec129889/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lrGmYYbXLM-YBP5bF5zP6rIVU1va.m4a",
+      "pfad": "/v1/episode/70ff85489c76303b4274aff782d9ab9668a03ecc.json",
+      "titel": "1027 中石油股价创18年来新高、奥迪四环标和字母标正式分家、六大奢侈品市值蒸发2万亿、中国成为印尼游客首选国际目的地",
+      "veroeffentlicht": "2026-10-26T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "中石油股价创18年新高，奥迪四环标和字母标分家，欧洲奢侈品市值缩水"
+    },
     {
       "guid": "6ade1add97726cd467577f2b",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ade1add97726cd467577f2b/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/llh8Jo5tIUVqvebRkLYdfFUtSex4.m4a",

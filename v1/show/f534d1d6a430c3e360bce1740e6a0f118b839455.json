@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "20/20",
   "apple_collection_id": "987967575",
-  "erzeugt_am": "2026-10-27T13:51:39+00:00",
+  "erzeugt_am": "2026-10-28T15:29:00+00:00",
   "folgen": [
+    {
+      "guid": "655ad42a-b04e-11f0-856a-2741add4b99f",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP1649684227.mp3",
+      "pfad": "/v1/episode/fb54e7cd9b5ab0e10e4227600fa940539accea2b.json",
+      "titel": "The After Show: Help Dale Find Dee",
+      "veroeffentlicht": "2026-10-26T07:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Inside the investigation of Dee Warner's disappearance in rural Michigan."
+    },
     {
       "guid": "16f3414a-b04f-11f0-8553-33d3685d0590",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP8057869556.mp3",

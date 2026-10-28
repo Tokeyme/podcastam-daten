@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-10-27T13:51:39+00:00",
+  "erzeugt_am": "2026-10-28T15:29:00+00:00",
   "folgen": [
+    {
+      "guid": "31ffdcda-1002-4ed5-8194-c9e66d99e4ce",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/644711de-301b-4b0c-ae4b-c283d6fc948e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=644711de-301b-4b0c-ae4b-c283d6fc948e&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/f2f805ad120a502e10542f815a5ce47af04b25d0.json",
+      "titel": "The $10 Billion Midterm Ad War",
+      "veroeffentlicht": "2026-10-26T09:46:41+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Inside the $10 billion ad war shaping the US midterm elections."
+    },
     {
       "guid": "e002eb18-11e7-4058-8ee9-68c6ed866929",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c139c515-24f7-449e-a672-ae828726f1b2/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c139c515-24f7-449e-a672-ae828726f1b2&feed=Sl5CSM3S",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-10-27T13:51:39+00:00",
+  "erzeugt_am": "2026-10-28T15:29:00+00:00",
   "folgen": [
+    {
+      "guid": "a49c022cc7d76f3b85a8f1b159cb4ea3",
+      "audio_url": "https://audio.podigee-cdn.net/2623861-m-b3738acf205ab615873344049b53d22b.mp3?source=feed",
+      "pfad": "/v1/episode/8c108da90df689c1ca853d3b499de86bb0c3516a.json",
+      "titel": "Bye Bye, Bibi?  (mit Philipp Oehmke)",
+      "veroeffentlicht": "2026-10-28T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Autor Philipp Oemke spricht über seinen Roman Papenburg, US-Wahlen und die 80er-Jahre."
+    },
     {
       "guid": "7edce29797332799345547ef698020c2",
       "audio_url": "https://audio.podigee-cdn.net/2623859-m-fe726917112df0b9d467503b36e37c83.mp3?source=feed",

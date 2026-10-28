@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Film Forum Presents",
   "apple_collection_id": "1458117078",
-  "erzeugt_am": "2026-10-27T13:51:39+00:00",
+  "erzeugt_am": "2026-10-28T15:29:00+00:00",
   "folgen": [
     {
       "guid": "c4989cc0-dd7d-4de5-b715-72d51b1a2cbf",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/fe7018fb54f633ed5b28804a922a826d2b827261.json",
       "titel": "LOBBY TALK - COPPOLA",
       "veroeffentlicht": "2026-08-23T13:12:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Film Forum staff discuss Francis Ford Coppola's eclectic 25-film retrospective."
     }

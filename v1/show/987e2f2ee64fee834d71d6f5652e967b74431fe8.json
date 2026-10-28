@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-10-27T13:51:39+00:00",
+  "erzeugt_am": "2026-10-28T15:29:00+00:00",
   "folgen": [
+    {
+      "guid": "6a1431f0f4bab19ad65c693bb698dfb1",
+      "audio_url": "https://audio.podigee-cdn.net/2635391-m-af17bce0e0c3c55a9abfd985b0cd818d.mp3?source=feed",
+      "pfad": "/v1/episode/1d1625f24398200bd66106c891dad8d9e856ca89.json",
+      "titel": "EIL: Stürzt Netanjahu? Wahlkrimi in Israel. Mit Richard C. Schneider",
+      "veroeffentlicht": "2026-10-27T22:15:42+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Israels Parlamentswahl endet im Patt: Netanjahus Likud vorne, aber ohne klare Mehrheit."
+    },
     {
       "guid": "5e5bbd4786dac55d318aff54ad25a4f9",
       "audio_url": "https://audio.podigee-cdn.net/2628469-m-9add6513b78254010786fbcff2605aac.mp3?source=feed",
