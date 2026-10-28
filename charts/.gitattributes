@@ -1,0 +1,4 @@
+# Apples Chart-JSON wird byte-genau gespiegelt (werkzeuge/charts_spiegel.py
+# im Repo podcastam-pipeline). Ohne diese Zeile wandelt git mit
+# core.autocrlf=true Zeilenenden um.
+* -text
