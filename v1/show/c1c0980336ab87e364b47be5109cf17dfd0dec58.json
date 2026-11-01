@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-11-01T05:26:04+00:00",
+  "erzeugt_am": "2026-11-01T17:42:08+00:00",
   "folgen": [
+    {
+      "guid": "62476db68524243ca92856de7863fa94",
+      "audio_url": "https://audio.podigee-cdn.net/2630449-m-1efe2463c0f06021e067a2ebba161009.mp3?source=feed",
+      "pfad": "/v1/episode/8700a9484d05ee5d708dbb13c4eff02f6b3f4873.json",
+      "titel": "Heimspiel: \"Die gewaltsamste Erntesaison, die das Westjordanland je gesehen hat\" (mit Pia Steckelbach)",
+      "veroeffentlicht": "2026-11-01T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Israel nach den Wahlen: ARD-Korrespondentin Pia Steckelbach im Interview"
+    },
     {
       "guid": "a49c022cc7d76f3b85a8f1b159cb4ea3",
       "audio_url": "https://audio.podigee-cdn.net/2623861-m-b3738acf205ab615873344049b53d22b.mp3?source=feed",

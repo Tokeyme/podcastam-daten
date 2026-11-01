@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "TED演讲精选",
   "apple_collection_id": "1852255002",
-  "erzeugt_am": "2026-11-01T05:26:04+00:00",
+  "erzeugt_am": "2026-11-01T17:42:08+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1028038551",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOtlCaAFIqGwTwcY2I.m4a?channel=rss&album_id=82749641&track_id=1028038551&uid=73948619&jt=https://aod.cos.tx.xmcdn.com/storages/6500-audiofreehighqps/A5/39/GKwRIUEOtlCaAFIqGwTwcY2I.m4a",
+      "pfad": "/v1/episode/333fe4c695a539126670601586d9056606d6bad2.json",
+      "titel": "508 我们为地球降温的最后也是最好的机会",
+      "veroeffentlicht": "2026-10-28T00:00:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "清洁能源的爆发带来了人类为地球降温的最佳且最后的机会。"
+    },
     {
       "guid": "xmly_track_1027419828",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4Os5R0ACni-QTvE4lE.m4a?channel=rss&album_id=82749641&track_id=1027419828&uid=73948619&jt=https://aod.cos.tx.xmcdn.com/storages/5788-audiofreehighqps/2F/A5/GKwRIW4Os5R0ACni-QTvE4lE.m4a",
@@ -20,7 +30,7 @@
       "pfad": "/v1/episode/252b031e511b753bf34f219ba619adba7d63522a.json",
       "titel": "506 傻瓜无处不在，这里有几个应对之道",
       "veroeffentlicht": "2026-10-24T00:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "探讨如何面对无处不在的愚蠢行为并给出具体应对建议。"
     },
@@ -30,7 +40,7 @@
       "pfad": "/v1/episode/e6b0a7297b9c9b42beb498cea4c7466d107d16e9.json",
       "titel": "504 如何度过重大变革中混乱的中期阶段",
       "veroeffentlicht": "2026-10-19T23:37:02+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "如何在充满挑战的变革中期阶段找到前进的方向并获得成功"
     },

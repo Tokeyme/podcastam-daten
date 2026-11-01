@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Good Hang with Amy Poehler",
   "apple_collection_id": "1795483480",
-  "erzeugt_am": "2026-11-01T05:26:04+00:00",
+  "erzeugt_am": "2026-11-01T17:42:08+00:00",
   "folgen": [
+    {
+      "guid": "3bb12b24-a585-11f1-b239-6b8a1d5680f8",
+      "audio_url": "https://traffic.megaphone.fm/GLT7811836508.mp3",
+      "pfad": "/v1/episode/d95786258471473f32ffb483ffe22a45a29c2ad6.json",
+      "titel": "Noah Wyle",
+      "veroeffentlicht": "2026-10-27T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Actor Noah Wyle discusses his career, ER memories, and his new series The Pit."
+    },
     {
       "guid": "3b93b4ea-a585-11f1-b239-0778a47cd77a",
       "audio_url": "https://traffic.megaphone.fm/GLT5937705743.mp3",

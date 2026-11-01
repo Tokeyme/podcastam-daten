@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Verbrechen von nebenan: True Crime aus der Nachbarschaft",
   "apple_collection_id": "1449598446",
-  "erzeugt_am": "2026-11-01T05:26:04+00:00",
+  "erzeugt_am": "2026-11-01T17:42:08+00:00",
   "folgen": [
+    {
+      "guid": "e10e5b8c-6073-496f-8abf-8c44502dd6b4",
+      "audio_url": "https://ais.audiorella.com/podcasts/1756-verbrechen-von-nebenan-true-crime-aus-der-nachbarschaft/257645-new-episode.mp3?v=2&awCollectionId=julephosting_695784758835c&awEpisodeId=257645",
+      "pfad": "/v1/episode/39eaccf92a62c123a449a8f1a4ece36359ad4ce5.json",
+      "titel": "Nebenan Weltweit 10: Die Mädchen von Alcàsser",
+      "veroeffentlicht": "2026-10-30T21:33:00+01:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Der ungeklärte und medienbeherrschende Kriminalfall um drei getötete Mädchen aus Spanien."
+    },
     {
       "guid": "13ac6c61-e159-44c5-93af-56645ab9abf7",
       "audio_url": "https://ais.audiorella.com/podcasts/1756-verbrechen-von-nebenan-true-crime-aus-der-nachbarschaft/256039-new-episode.mp3?v=2&awCollectionId=julephosting_695784758835c&awEpisodeId=256039",
