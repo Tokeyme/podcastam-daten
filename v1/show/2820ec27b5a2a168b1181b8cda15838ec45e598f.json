@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Mordlust",
   "apple_collection_id": "1413425371",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "9f5154419082549ea35b66f34beb3e3f",
+      "audio_url": "https://audio.podigee-cdn.net/2630418-m-f875e0dd6acd94c5757d6e18b671afd2.mp3?source=feed",
+      "pfad": "/v1/episode/c837d424c45b88c658920e0a829abbd7f7eecaf4.json",
+      "titel": "#257 In blinder Wut",
+      "veroeffentlicht": "2026-10-28T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Wie Eltern aus blinder Wut und falschem Verdacht einen Unschuldigen töteten"
+    },
     {
       "guid": "e8303004e2b0b8ffc1d7884542d5c262",
       "audio_url": "https://audio.podigee-cdn.net/2624008-m-41080bc63061068d100be2a8dac38155.mp3?source=feed",

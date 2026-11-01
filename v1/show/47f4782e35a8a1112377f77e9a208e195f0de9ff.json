@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "F.A.Z. Frühdenker - Die Nachrichten am Morgen",
   "apple_collection_id": "1617078712",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "622e40ff60a84bc4967c6486415e63c6",
+      "audio_url": "https://audio.podigee-cdn.net/2635471-m-3ee3f5336406feb61cb6c580c2a536e2.mp3?source=feed",
+      "pfad": "/v1/episode/765e01d9660efed29ce3932b1fb24ffd286963b8.json",
+      "titel": "Israel ohne klare Mehrheit · Merz in Japan · DFB-Pokal Sechzehntelfinale",
+      "veroeffentlicht": "2026-10-28T05:12:44+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Israel ohne klare Mehrheit, Merz in Japan und das DFB-Pokal-Sechzehntelfinale"
+    },
     {
       "guid": "592b0531f115419f9f5f25d91125071f",
       "audio_url": "https://audio.podigee-cdn.net/2624664-m-0768dc5f5cfa17930eab7f59084fd5c3.mp3?source=feed",

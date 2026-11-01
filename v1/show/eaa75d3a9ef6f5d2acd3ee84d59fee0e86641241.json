@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "正经叭叭",
   "apple_collection_id": "1575323064",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "6adf4405c96c8942ec1288c3",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942ec1288c3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr48jMlYw0smLaUbr31jfp3Wd9Bq.m4a",
+      "pfad": "/v1/episode/22d12d418eb1361c01a511683f4445e4fefa78bd.json",
+      "titel": "vol.274长大是一件水土不服的事情",
+      "veroeffentlicht": "2026-10-26T15:51:17+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "聊聊成长过程中的各种水土不服与难以融入的奇葩经历"
+    },
     {
       "guid": "6ad6253b66729f5c712df1d9",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a",

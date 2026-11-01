@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "15 Minuten. Der tagesschau-Podcast am Morgen",
   "apple_collection_id": "1746549121",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "ard_15minuten_C2DB8761",
+      "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/10/28/67862c57-40c7-4292-845e-29718a0d9aca/67862c57-40c7-4292-845e-29718a0d9aca_MP3-128.mp3",
+      "pfad": "/v1/episode/0cc43cc0a68779422bfa649b904f1267a01f4524.json",
+      "titel": "Wohin mit dem Atommüll? / Debatte um Hitlers Teehaus / Rehe als Hundefutter",
+      "veroeffentlicht": "2026-10-28T05:00:11+01:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Atommüll-Endlagersuche, Brand im Kehlsteinhaus und Rehfleisch für Tierheimhunde"
+    },
     {
       "guid": "ard_15minuten_EEE01DD4",
       "audio_url": "https://sportschau-podcast.ard-mcdn.de/weltweit/nfsk/2026/10/23/88fcb425-3c84-4710-93a9-fe7526feab9a/88fcb425-3c84-4710-93a9-fe7526feab9a_MP3-128.mp3",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "0630 - der News-Podcast",
   "apple_collection_id": "1530957169",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "/41625da3c42203b69f8e72d457c5a15e",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/28/2abea7fd-e76a-48e8-9563-c27c8deb1138/2abea7fd-e76a-48e8-9563-c27c8deb1138_MP3-128.mp3",
+      "pfad": "/v1/episode/ad93f4a83638e8afc22491aa31eaab60a9b11880.json",
+      "titel": "Zugunglück mit vielen Toten - Spanien steht unter Schock",
+      "veroeffentlicht": "2026-10-28T15:09:54+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Schweres Zugunglück in Spanien und die Hörervorschläge fürs Bundespräsidentenamt"
+    },
     {
       "guid": "/4b3ff22369f35121f69c2d1b9dd6e0dc",
       "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/23/d9498206-83a2-4e20-a771-1ffd80ab469a/d9498206-83a2-4e20-a771-1ffd80ab469a_MP3-128.mp3",

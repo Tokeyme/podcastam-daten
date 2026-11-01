@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
   "apple_collection_id": "1428670057",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "eadb1492dd83231ac21ce1c61ec9699b",
+      "audio_url": "https://audio.podigee-cdn.net/2635483-m-9297601cfa954abab7c0142750f91611.mp3?source=feed",
+      "pfad": "/v1/episode/bf0f8f9d7d17712694994ade349243d2678651f4.json",
+      "titel": "Aktuell: Wahl in Israel | CEO von Haaretz Digital im Interview | 300 Jahre Gullivers Reisen",
+      "veroeffentlicht": "2026-10-28T04:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Israel nach der Wahl ohne klaren Sieger und ein Blick auf 300 Jahre Gullivers Reisen"
+    },
     {
       "guid": "5f22d08f08524f63d2a30581f0c6c7e5",
       "audio_url": "https://audio.podigee-cdn.net/2627649-m-e8ad901b67792d3c01e5086eb1739985.mp3?source=feed",

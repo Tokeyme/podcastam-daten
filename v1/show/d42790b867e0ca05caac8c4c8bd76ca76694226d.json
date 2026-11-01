@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Gemischtes Hack",
   "apple_collection_id": "1292709842",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "a0e42d58-d243-11f1-9c21-7beeba435a0f",
+      "audio_url": "https://traffic.megaphone.fm/GLT3546089539.mp3",
+      "pfad": "/v1/episode/0aa1d2652ca56dda2a9b615acd2b4c96f4abf80e.json",
+      "titel": "#368 RUHE",
+      "veroeffentlicht": "2026-10-27T22:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Felix und Tommi sprechen über den Herbst, Tour-Probleme und die Sehnsucht nach Ruhe."
+    },
     {
       "guid": "cff3418a-ccce-11f1-9989-dfb970d8fcd6",
       "audio_url": "https://traffic.megaphone.fm/GLT3197190836.mp3",

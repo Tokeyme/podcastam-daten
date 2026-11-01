@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "小Lin说",
   "apple_collection_id": "1752639453",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "6adeccd5c96c8942ec124085",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/665ff98194977a26ef5490e8/6adeccd5c96c8942ec124085/media.xyzcdn.net/665ff98194977a26ef5490e8/lnNWX7A-88e4XEGuQQgg2wkc4BQ1.m4a",
+      "pfad": "/v1/episode/2b56108971ee65d09270a1308b75e2d0a6c1249d.json",
+      "titel": "你需要多少钱，才能财富自由？",
+      "veroeffentlicht": "2026-10-26T03:46:47+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "通过一个硬核公式，算算你按自己的活法到底需要多少钱才能实现财富自由。"
+    },
     {
       "guid": "6aa229e4492687f6aad7af0d",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/665ff98194977a26ef5490e8/6aa229e4492687f6aad7af0d/media.xyzcdn.net/665ff98194977a26ef5490e8/ll81cf7R6ODbJO5zoSxpLO1f_KEG.m4a",

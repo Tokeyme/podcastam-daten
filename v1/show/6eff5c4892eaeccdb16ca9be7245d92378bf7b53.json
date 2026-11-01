@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Copa TS",
   "apple_collection_id": "1703052768",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "5dce5e256622d0d1aa5d2131c68f2ded",
+      "audio_url": "https://audio.podigee-cdn.net/2629897-m-5ddd769d2a3bc900b909162b5041ae1f.mp3?source=feed",
+      "pfad": "/v1/episode/cbddd33fc5b517e0d678de9208262d7a7907ce94.json",
+      "titel": "#145: Detmold zur Klub-WM - mit Gregor Ryl",
+      "veroeffentlicht": "2026-10-26T22:51:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Tommy Schmidt und Gregor Ryl besprechen den Fußballspieltag mit Fokus auf BVB und…"
+    },
     {
       "guid": "0131b5a38c030891a43cfac8064490c4",
       "audio_url": "https://audio.podigee-cdn.net/2612896-m-c16bb1b3df2d1c6d686e621225c3877b.mp3?source=feed",

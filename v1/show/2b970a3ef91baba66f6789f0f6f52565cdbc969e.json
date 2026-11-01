@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Acht Milliarden: Der Auslands-Podcast des SPIEGEL",
   "apple_collection_id": "1278835623",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "9ba2da62-5a95-45d1-98ae-b4f000e3d08a",
+      "audio_url": "https://traffic.omny.fm/d/clips/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/454f27a0-f1b1-4d7a-99bd-abc000ffb02e/9ba2da62-5a95-45d1-98ae-b4f000e3d08a/audio.mp3?utm_source=Podcast&in_playlist=9edc8a83-e191-4bc7-8575-abc000ffb032",
+      "pfad": "/v1/episode/baeec0a95bf68fd346bbb767edd224c41e045c9b.json",
+      "titel": "US-Midterms: Was passiert, wenn die Demokraten den Kongress gewinnen?",
+      "veroeffentlicht": "2026-10-28T04:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Gedankenspiel zu den US-Midterms: Was passiert bei einem Kongresssieg der Demokraten?"
+    },
     {
       "guid": "50ec5fc7-5dfd-4873-8c48-b4ec008c223d",
       "audio_url": "https://traffic.omny.fm/d/clips/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/454f27a0-f1b1-4d7a-99bd-abc000ffb02e/50ec5fc7-5dfd-4873-8c48-b4ec008c223d/audio.mp3?utm_source=Podcast&in_playlist=9edc8a83-e191-4bc7-8575-abc000ffb032",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Doppelgänger",
   "apple_collection_id": "1519234952",
-  "erzeugt_am": "2026-10-28T16:03:56+00:00",
+  "erzeugt_am": "2026-11-01T04:58:46+00:00",
   "folgen": [
+    {
+      "guid": "b16b9bf6-d23f-11f1-a33e-fb1bed88b6a3",
+      "audio_url": "https://traffic.megaphone.fm/LINDALA1160565773.mp3",
+      "pfad": "/v1/episode/5f0a3fa5c4b4bad40e99493f430690262477bf99.json",
+      "titel": "Anthropics S-1: Warum überhaupt an die Börse? #609",
+      "veroeffentlicht": "2026-10-27T23:05:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Analyse des Anthropic-Börsengangs: Zahlen, Margen und Kapitaleffizienz im Detail"
+    },
     {
       "guid": "0d2c8d10-cf1b-11f1-9b8b-931027ab9d2d",
       "audio_url": "https://traffic.megaphone.fm/LINDALA7784180615.mp3",
