@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-11-01T18:10:48+00:00",
+  "erzeugt_am": "2026-11-02T16:58:09+00:00",
   "folgen": [
+    {
+      "guid": "c5b02f24c4065499011dfb542fa37258",
+      "audio_url": "https://audio.podigee-cdn.net/2630450-m-8d6e5338edea8222c6e1b57679c00879.mp3?source=feed",
+      "pfad": "/v1/episode/5e6c6c3b075a2cf41b84f467881fcccc1214a0bf.json",
+      "titel": "Brett-à-Porter (mit Markus Feldenkirchen)",
+      "veroeffentlicht": "2026-11-02T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Micky Beisenherz und Markus Feldenkirchen besprechen die Nachrichten des Tages."
+    },
     {
       "guid": "62476db68524243ca92856de7863fa94",
       "audio_url": "https://audio.podigee-cdn.net/2630449-m-1efe2463c0f06021e067a2ebba161009.mp3?source=feed",

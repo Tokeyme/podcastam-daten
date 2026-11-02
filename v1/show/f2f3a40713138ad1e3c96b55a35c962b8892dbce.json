@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "M字闲聊",
   "apple_collection_id": "1638932196",
-  "erzeugt_am": "2026-11-01T18:10:48+00:00",
+  "erzeugt_am": "2026-11-02T16:58:09+00:00",
   "folgen": [
+    {
+      "guid": "6ae4761897726cd4675a3fab",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61caf0508bb4cd867fcabe15/6ae4761897726cd4675a3fab/media.xyzcdn.net/61caf0508bb4cd867fcabe15/lhdnJMvumwjAMM5oumJQbkOo1XId.m4a",
+      "pfad": "/v1/episode/7dcd557e73b572758cb27cf96a6a297a1b5deda1.json",
+      "titel": "别跟我聊意义，我只想好好过日子！",
+      "veroeffentlicht": "2026-10-30T16:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "从追求虚浮远方到回归柴米油盐，年轻人在大环境中逐渐转变为脚踏实地的过日子人。"
+    },
     {
       "guid": "6ad71a61b83cbb2aa3ef9f14",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61caf0508bb4cd867fcabe15/6ad71a61b83cbb2aa3ef9f14/media.xyzcdn.net/61caf0508bb4cd867fcabe15/loGY1AtP5MUlQSPMs75L7ipLBhjH.m4a",

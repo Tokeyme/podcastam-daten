@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Coffee Convos with Kail Lowry and Lindsie Chrisley",
   "apple_collection_id": "1305546061",
-  "erzeugt_am": "2026-11-01T18:10:48+00:00",
+  "erzeugt_am": "2026-11-02T16:58:09+00:00",
   "folgen": [
     {
       "guid": "gid://art19-episode-locator/V0/VStMjynB9OyODR-GpfJWgyhEcT_L5msCOIlt-J4DD2E",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/6265e6fecdae5e2c32f4ffaae2d08cff1585c906.json",
       "titel": "Reducing Carbon Footprints",
       "veroeffentlicht": "2026-09-03T08:00:00+00:00",
-      "clips": false,
+      "clips": true,
       "kapitel": true,
       "einzeiler": "A candid conversation about everyday habits, celiac struggles, and reducing waste."
     }

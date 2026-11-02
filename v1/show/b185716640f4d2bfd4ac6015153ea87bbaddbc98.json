@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Hotel Matze",
   "apple_collection_id": "1168045239",
-  "erzeugt_am": "2026-11-01T18:10:48+00:00",
+  "erzeugt_am": "2026-11-02T16:58:09+00:00",
   "folgen": [
+    {
+      "guid": "c7ac101bc1ecd6fe1d8a13174afc3da8",
+      "audio_url": "https://audio.podigee-cdn.net/2630181-m-b28eea90de995f8ecd40cce223ba5fc4.mp3?source=feed",
+      "pfad": "/v1/episode/b1d246d719cc6899a7534d6dd131cd2dca117790.json",
+      "titel": "Stefanie Kloß – Wer bist du, wenn du nicht funktionieren musst?",
+      "veroeffentlicht": "2026-10-28T16:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Stefanie Kloß über die Silbermond-Pause, alte Band-Geheimnisse und das Älterwerden."
+    },
     {
       "guid": "1d4e89bcc913ea3a872e4ea4fbe76ea4",
       "audio_url": "https://audio.podigee-cdn.net/2624455-m-a0236d1ad5de2b3dd5e2c807f14cabe2.mp3?source=feed",

@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Fest & Flauschig",
   "apple_collection_id": "1765742605",
-  "erzeugt_am": "2026-11-01T18:10:48+00:00",
+  "erzeugt_am": "2026-11-02T16:58:09+00:00",
   "folgen": [
+    {
+      "guid": "dd42c96a-d3d0-11f1-8959-87e6ce59a241",
+      "audio_url": "https://traffic.megaphone.fm/GLT1093280570.mp3",
+      "pfad": "/v1/episode/add5beca201a3cebb2d36227236b98fc0f718ed4.json",
+      "titel": "Meine erste Freundin war ein Pferd",
+      "veroeffentlicht": "2026-10-31T22:50:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Olli Schulz und Jan Böhmermann blicken auf eine stürmische Woche zurück."
+    },
     {
       "guid": "a47d1482-cee4-11f1-91a1-27188f14fec3",
       "audio_url": "https://traffic.megaphone.fm/GLT9694698393.mp3",

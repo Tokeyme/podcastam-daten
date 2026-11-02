@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Real Time with Bill Maher",
   "apple_collection_id": "98746009",
-  "erzeugt_am": "2026-11-01T18:10:48+00:00",
+  "erzeugt_am": "2026-11-02T16:58:09+00:00",
   "folgen": [
+    {
+      "guid": "7958beb6-d4d2-11f1-a990-03c22ab11e28",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/154/traffic.megaphone.fm/WMHY1084503837.mp3",
+      "pfad": "/v1/episode/b5d13505e69b2a26000c07d3ef5aeafb40216b1b.json",
+      "titel": "Ep. #747: Ted Cruz, Kid Rock, Jim VandeHei",
+      "veroeffentlicht": "2026-10-31T07:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Bill Maher discusses politics, the upcoming election, and Halloween with guests."
+    },
     {
       "guid": "86897bbe-cf43-11f1-a41e-9710a3567dbb",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/154/traffic.megaphone.fm/WMHY3168123491.mp3",
