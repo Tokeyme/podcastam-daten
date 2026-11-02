@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "霓达故事",
   "apple_collection_id": "1675204249",
-  "erzeugt_am": "2026-11-02T16:58:09+00:00",
+  "erzeugt_am": "2026-11-02T17:13:27+00:00",
   "folgen": [
     {
       "guid": "6ae22083c96c8942ec13dafd",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/8456f58170e5b9420dfbdeba4683ed5345ce199e.json",
       "titel": "45. 这里还有鱼",
       "veroeffentlicht": "2026-10-29T13:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "万圣节特别节目带来几个充满悬疑色彩的民间故事与诡异经历"
     },
