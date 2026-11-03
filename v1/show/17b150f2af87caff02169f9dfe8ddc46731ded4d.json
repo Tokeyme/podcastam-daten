@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "All Things Travel Podcast",
   "apple_collection_id": "1521942182",
-  "erzeugt_am": "2026-11-02T17:36:39+00:00",
+  "erzeugt_am": "2026-11-03T17:02:40+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-19661081",
@@ -10,7 +10,7 @@
       "pfad": "/v1/episode/74ce8027be76f07b5d726bdd119b9f4714082052.json",
       "titel": "Is a Road Trip Right for Your Next Vacation?",
       "veroeffentlicht": "2026-09-02T04:00:00-04:00",
-      "clips": true,
+      "clips": false,
       "kapitel": true,
       "einzeiler": "Practical tips and strategies for planning a memorable and intentional road trip."
     },

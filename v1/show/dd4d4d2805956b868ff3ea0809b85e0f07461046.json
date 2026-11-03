@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
   "apple_collection_id": "1623077169",
-  "erzeugt_am": "2026-11-02T17:36:39+00:00",
+  "erzeugt_am": "2026-11-03T17:02:40+00:00",
   "folgen": [
+    {
+      "guid": "81622996-d47b-11f1-8616-43f5b9625c63",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH3158918299.mp3",
+      "pfad": "/v1/episode/1193f3d951b046e0b20be8509b7110a169891e2e.json",
+      "titel": "#348 - Kritischer Journalist hält mir meine schlimmsten Zitate vor",
+      "veroeffentlicht": "2026-11-02T17:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Podcast-Host spricht über Vorwürfe, Medienkritik und das Interview mit dem russischen…"
+    },
     {
       "guid": "72c346c2-d47b-11f1-a58a-0ffff0e4c521",
       "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH3277828421.mp3",

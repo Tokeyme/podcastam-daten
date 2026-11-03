@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-11-02T17:36:39+00:00",
+  "erzeugt_am": "2026-11-03T17:02:40+00:00",
   "folgen": [
+    {
+      "guid": "6ae74a61c96c8942ec159fa4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ae74a61c96c8942ec159fa4/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/luzREyHER0lOH7S6_EUQCKiJu2lC.m4a",
+      "pfad": "/v1/episode/a28de2bfb99ea65f35049469b373e3a4e35b2d0d.json",
+      "titel": "1102 今起加油自动开票、国际金价跌至一年来新低、崇礼新雪季开板、“苏超”冠军出炉",
+      "veroeffentlicht": "2026-11-01T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "涵盖加油自动开票、金价大跌、苹果集成千问及苏超落幕等焦点资讯"
+    },
     {
       "guid": "6ae0b26097726cd46758a55e",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ae0b26097726cd46758a55e/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/llJstu0QBtGUzj275NRAgyK6xVrO.m4a",

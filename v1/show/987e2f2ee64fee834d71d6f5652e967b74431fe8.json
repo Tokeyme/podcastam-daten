@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-11-02T17:36:39+00:00",
+  "erzeugt_am": "2026-11-03T17:02:40+00:00",
   "folgen": [
+    {
+      "guid": "31506320d89cd5436729eceb953b39b2",
+      "audio_url": "https://audio.podigee-cdn.net/2640922-m-37b1bec445a80704fe209790ce2bf8cd.mp3?source=feed",
+      "pfad": "/v1/episode/61664f1b84c61645f3c953eaced5ef7240d42665.json",
+      "titel": "Inside CDU: Die geheime Macht-Sitzung des Kanzlers. Mit Désirée Schrade",
+      "veroeffentlicht": "2026-11-03T02:40:40+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "CDU-Krisensitzung mit Friedrich Merz: Kreisvorsitzende üben scharfe Kritik."
+    },
     {
       "guid": "c2ae46ec9fa586208df92c67660b8357",
       "audio_url": "https://audio.podigee-cdn.net/2639742-m-60ea761fbad1133dbbb392e049d5b89d.mp3?source=feed",

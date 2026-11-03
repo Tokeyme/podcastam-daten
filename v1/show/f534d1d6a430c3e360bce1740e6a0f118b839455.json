@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "20/20",
   "apple_collection_id": "987967575",
-  "erzeugt_am": "2026-11-02T17:36:39+00:00",
+  "erzeugt_am": "2026-11-03T17:02:40+00:00",
   "folgen": [
+    {
+      "guid": "1737877e-b04f-11f0-8553-a31a470c1d22",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP8155475963.mp3",
+      "pfad": "/v1/episode/968028a16abbb83e8a148a152e1729b8a53547b5.json",
+      "titel": "Justice for Faith",
+      "veroeffentlicht": "2026-10-31T14:40:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Unraveling the 2012 murder of college student Faith Hedgepeth and the breakthrough."
+    },
     {
       "guid": "655ad42a-b04e-11f0-856a-2741add4b99f",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP1649684227.mp3",

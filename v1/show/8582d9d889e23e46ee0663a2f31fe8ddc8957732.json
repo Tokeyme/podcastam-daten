@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "ARD Presseclub",
   "apple_collection_id": "164775707",
-  "erzeugt_am": "2026-11-02T17:36:39+00:00",
+  "erzeugt_am": "2026-11-03T17:02:40+00:00",
   "folgen": [
+    {
+      "guid": "/fc3187ddbadfc515e38232d7c1f41d24",
+      "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/01/003cdfbe-d9ed-48aa-949e-c0d43be566e5/003cdfbe-d9ed-48aa-949e-c0d43be566e5_MP3-128.mp3",
+      "pfad": "/v1/episode/917d7f60b4b4f9f4359619e2188bc8e4dd0fb6f7.json",
+      "titel": "Der Fall Elif Eralp: Was wird aus Berlin?",
+      "veroeffentlicht": "2026-11-01T13:00:51+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Der Fall Elif Eralp und die Frage nach Regierungsfähigkeit und Sicherheit in Berlin."
+    },
     {
       "guid": "/711f6088023b42b81137368adaea3384",
       "audio_url": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/25/2f5930ae-18c6-498f-889a-db3b18485527/2f5930ae-18c6-498f-889a-db3b18485527_MP3-128.mp3",
