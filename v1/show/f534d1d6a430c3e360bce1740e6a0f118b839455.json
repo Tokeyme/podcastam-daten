@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "20/20",
   "apple_collection_id": "987967575",
-  "erzeugt_am": "2026-11-03T17:12:24+00:00",
+  "erzeugt_am": "2026-11-04T17:21:57+00:00",
   "folgen": [
+    {
+      "guid": "4724158e-d65e-11f1-a1d7-d38b2ad620b8",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP2883153136.mp3",
+      "pfad": "/v1/episode/962c9614e0af303c87ea3cda32bb75f7fab9ffe2.json",
+      "titel": "The After Show: Justice for Faith",
+      "veroeffentlicht": "2026-11-02T08:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Inside the decade-long investigation and murder trial in the Faith Hedgepeth case."
+    },
     {
       "guid": "1737877e-b04f-11f0-8553-a31a470c1d22",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/ESP8155475963.mp3",

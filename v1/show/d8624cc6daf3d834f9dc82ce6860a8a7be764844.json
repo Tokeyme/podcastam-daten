@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Der SPORT1 DOPPELPASS",
   "apple_collection_id": "1434821010",
-  "erzeugt_am": "2026-11-03T17:12:24+00:00",
+  "erzeugt_am": "2026-11-04T17:21:57+00:00",
   "folgen": [
+    {
+      "guid": "b12543a0-a00d-435f-bf12-efc9e68540b9",
+      "audio_url": "https://ais.audiorella.com/podcasts/1799-der-sport1-doppelpass/257676-carsten-cramer.mp3?v=2&awCollectionId=julephosting_69b1217719dc3&awEpisodeId=257676",
+      "pfad": "/v1/episode/8dbeeb6e8f86efb152ce0c0b356fd34feada6f11.json",
+      "titel": "Der SPORT1 DOPPELPASS vom 01.11.2026 mit Carsten Cramer & Stefan Effenberg",
+      "veroeffentlicht": "2026-11-01T14:47:00+01:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Carsten Kramer und Stefan Effenberg analysieren den BVB im Titelrennen."
+    },
     {
       "guid": "88223043-27b0-41c7-b222-404ab56ef21b",
       "audio_url": "https://ais.audiorella.com/podcasts/1799-der-sport1-doppelpass/257228-rouven-schroeder.mp3?v=2&awCollectionId=julephosting_69b1217719dc3&awEpisodeId=257228",

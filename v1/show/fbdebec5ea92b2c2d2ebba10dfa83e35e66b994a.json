@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Eine Stunde History - Deutschlandfunk Nova",
   "apple_collection_id": "1111594074",
-  "erzeugt_am": "2026-11-03T17:12:24+00:00",
+  "erzeugt_am": "2026-11-04T17:21:57+00:00",
   "folgen": [
+    {
+      "guid": "DRadio-Wissen-78430cdf",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/10/30/deutschlandfunknova_1054_das_morgenlaendische_20261030_78430cdf.mp3",
+      "pfad": "/v1/episode/095d0d1925e94aa43c9dad0532472e305b119509.json",
+      "titel": "1054 - Das Morgenländische Schisma spaltet die Kirche in Ost und West",
+      "veroeffentlicht": "2026-10-30T15:00:00+01:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Wie das Morgenländische Schisma 1054 die Christenheit in Ost und West spaltete."
+    },
     {
       "guid": "DRadio-Wissen-85f9f22d",
       "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/10/23/deutschlandfunknova_1000_bolesaw_i_wird_20261023_85f9f22d.mp3",

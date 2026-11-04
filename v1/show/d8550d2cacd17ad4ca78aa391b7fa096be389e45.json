@@ -2,8 +2,18 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-11-03T17:12:24+00:00",
+  "erzeugt_am": "2026-11-04T17:21:57+00:00",
   "folgen": [
+    {
+      "guid": "41ff1d89-dfda-4632-b243-31c21d7b8b6e",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/0d688fb0-2a86-41d8-9466-2bb25396ade8/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=0d688fb0-2a86-41d8-9466-2bb25396ade8&feed=Xtqjn37O",
+      "pfad": "/v1/episode/356b38a548f3787df24736a17336905fc5c993fe.json",
+      "titel": "Warum dieses Mal alle auf die Midterms schauen",
+      "veroeffentlicht": "2026-11-03T04:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Die Bedeutung der US-Zwischenwahlen und der Machtkampf um Polens Verfassungsgericht."
+    },
     {
       "guid": "f029b907-3882-463e-a764-e906cbe1395b",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/1a72605b-16d5-459e-8760-491441b5ce26/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=1a72605b-16d5-459e-8760-491441b5ce26&feed=Xtqjn37O",
