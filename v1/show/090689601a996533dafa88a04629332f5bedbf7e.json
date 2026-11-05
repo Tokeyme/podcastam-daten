@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
   "apple_collection_id": "1352434240",
-  "erzeugt_am": "2026-11-05T07:58:01+00:00",
+  "erzeugt_am": "2026-11-05T18:17:49+00:00",
   "folgen": [
     {
       "guid": "739021ab1ebbc77a6f974b45c8bf1641",
@@ -10,11 +10,11 @@
       "pfad": "/v1/episode/6ab198cf9b16c69168a1f281a2abd475a96d2244.json",
       "titel": "Das beste Gesetz, das Katherina Reiche bisher vorgelegt hat",
       "veroeffentlicht": "2026-11-03T04:54:34+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": false,
       "einzeiler": "Katharina Reiches Tankpreisdeckel, Apples Rekorderfolge und der Markt für Burgen",
-      "clips_anzahl": 1,
-      "clips_art": "mp3_suche"
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "75be7f726ec71e51c3d61106f50501e0",
