@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Die OpenAI Story",
   "apple_collection_id": "1814608156",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2026/05/19/die_openai_story_16_der_grosse_verkaeufer_dlf_20260519_0001_48bf72b8.mp3?refId=die-peter-thiel-story-100",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-05-19T00:01:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Sam Altman und Elon Musk gründen 2015 OpenAI als Non-Profit-Organisation."
+      "einzeiler": "Sam Altman und Elon Musk gründen 2015 OpenAI als Non-Profit-Organisation.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2026/05/05/die_openai_story_trailer_dlf_20260505_1701_55ca382a.mp3?refId=die-peter-thiel-story-100",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-05-05T17:01:26+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Die Entstehungsgeschichte von OpenAI durch Sam Altman und Elon Musk."
+      "einzeiler": "Die Entstehungsgeschichte von OpenAI durch Sam Altman und Elon Musk.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_66_antichrist_dlf_20250605_2036_f00a7da3.mp3?refId=die-peter-thiel-story-100",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-06-05T20:36:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Peter Thiels Visionen zwischen Politik, Religion und Apokalypse."
+      "einzeiler": "Peter Thiels Visionen zwischen Politik, Religion und Apokalypse.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_56_im_zentrum_der_macht_dlf_20250605_2035_fc501bed.mp3?refId=die-peter-thiel-story-100",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-06-05T20:35:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Peter Thiels politischer Einfluss in Washington und der Aufstieg von Palantir."
+      "einzeiler": "Peter Thiels politischer Einfluss in Washington und der Aufstieg von Palantir.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_46_der_raecher_dlf_20250605_2034_73c2dde5.mp3?refId=die-peter-thiel-story-100",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-06-05T20:34:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Der Konflikt zwischen Peter Thiel und Gawker sowie dessen politische Ambitionen."
+      "einzeiler": "Der Konflikt zwischen Peter Thiel und Gawker sowie dessen politische Ambitionen.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_36_dunkle_propheten_dlf_20250605_2033_4293a88b.mp3?refId=die-peter-thiel-story-100",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-06-04T12:00:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Der Einfluss libertärer und rechter Denker auf Peter Thiels antidemokratische Haltung."
+      "einzeiler": "Der Einfluss libertärer und rechter Denker auf Peter Thiels antidemokratische Haltung.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_26_der_tod_und_die_steuern_dlf_20250605_2032_3c987adc.mp3?refId=die-peter-thiel-story-100",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-05-27T15:05:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Geldtransfers, Machtkämpfe und Peter Thiels Visionen zu Steuern und Unsterblichkeit."
+      "einzeiler": "Geldtransfers, Machtkämpfe und Peter Thiels Visionen zu Steuern und Unsterblichkeit.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://podcast-mp3.dradio.de/podcast/2025/06/05/die_peter_thiel_story_16_willkommen_im_thielverse_dlf_20250605_2031_ec6ef4b9.mp3?refId=die-peter-thiel-story-100",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-05-27T15:00:00+02:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Der Architekt des neuen US-Rechtsrucks: Wer ist der Tech-Milliardär Peter Thiel?"
+      "einzeiler": "Der Architekt des neuen US-Rechtsrucks: Wer ist der Tech-Milliardär Peter Thiel?",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "楷德教育",
   "apple_collection_id": "876154885",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2014/08/27/14002910067724038_hd.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2014-08-27T18:15:11+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "回顾Harkness讨论课的教学成果与申请美国名校的经验。"
+      "einzeiler": "回顾Harkness讨论课的教学成果与申请美国名校的经验。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2014/06/26/12566220690481798_hd.mp3",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2014-06-26T19:33:41+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨去美国念高中的利弊、寄宿与走读的选择及申请准备。"
+      "einzeiler": "探讨去美国念高中的利弊、寄宿与走读的选择及申请准备。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2014/06/20/12423215459175558_hd.mp3",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2014-06-20T15:34:44+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨世界杯兴起、常青藤起源及美国大学体育文化。"
+      "einzeiler": "探讨世界杯兴起、常青藤起源及美国大学体育文化。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2014/06/06/12098888519396486_hd.mp3",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2014-06-06T15:57:53+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "从中国本科到美国顶尖文理学院的求学经历与教育对比"
+      "einzeiler": "从中国本科到美国顶尖文理学院的求学经历与教育对比",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

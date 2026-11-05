@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "橘猫看球 - 足球的商业世界",
   "apple_collection_id": "1515695525",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_991206912",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-06-16T23:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "起底国际足联主席因凡蒂诺，剖析其执掌之下的足球商业化与权力博弈。"
+      "einzeiler": "起底国际足联主席因凡蒂诺，剖析其执掌之下的足球商业化与权力博弈。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_972861169",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-04-26T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨F1如何在中国年轻化翻红，以及足球运动面临的现状与借鉴可能"
+      "einzeiler": "探讨F1如何在中国年轻化翻红，以及足球运动面临的现状与借鉴可能",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_960145073",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-03-02T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话武一帆探讨西班牙足球在百年变局中的蜕变"
+      "einzeiler": "对话武一帆探讨西班牙足球在百年变局中的蜕变",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_955990800",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-02-09T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨青少年足球培训合同纠纷与中国青训体系的结构性难题。"
+      "einzeiler": "探讨青少年足球培训合同纠纷与中国青训体系的结构性难题。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_940819376",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-12-15T09:19:39+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨2025年中国足球“苏超”现象背后的真相与启示"
+      "einzeiler": "探讨2025年中国足球“苏超”现象背后的真相与启示",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_903241788",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-08-24T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨足球转会交易背后的门道与误区"
+      "einzeiler": "探讨足球转会交易背后的门道与误区",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_870506151",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-06-16T00:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨2025世俱杯的背景、改革争议与赛事关注度。"
+      "einzeiler": "探讨2025世俱杯的背景、改革争议与赛事关注度。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_809697677",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-02-27T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾中国足球金元时代的兴衰与广州队的解散"
+      "einzeiler": "回顾中国足球金元时代的兴衰与广州队的解散",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

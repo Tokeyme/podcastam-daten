@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "创意玩具 | Make & Play 海外科技/AI人工智能/创业/娱乐/ChatGPT",
   "apple_collection_id": "1573069039",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "Buzzsprout-15257838",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2024-06-16T12:00:00-04:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨华盛顿DC人工智能展会体验、提示词工程的未来以及机器遗忘技术。"
+      "einzeiler": "探讨华盛顿DC人工智能展会体验、提示词工程的未来以及机器遗忘技术。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "Buzzsprout-14997441",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2024-05-02T10:00:00-04:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "小米电动车入市、苹果叫停项目及阿里战略调整"
+      "einzeiler": "小米电动车入市、苹果叫停项目及阿里战略调整",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "Buzzsprout-14809580",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2024-04-01T19:00:00-04:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨科技与创业趋势，涵盖硬件响应速度、AR设备及拼车应用挑战等"
+      "einzeiler": "探讨科技与创业趋势，涵盖硬件响应速度、AR设备及拼车应用挑战等",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "Buzzsprout-14680488",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2024-03-12T21:00:00-04:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨Perplexity AI与ChatGPT的区别及电动汽车公司Rivian的发展"
+      "einzeiler": "探讨Perplexity AI与ChatGPT的区别及电动汽车公司Rivian的发展",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "Buzzsprout-14629570",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2024-03-04T23:00:00-05:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨OpenAI Sora模型与Apple Vision Pro等AI工具的应用与挑战。"
+      "einzeiler": "探讨OpenAI Sora模型与Apple Vision Pro等AI工具的应用与挑战。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "Buzzsprout-14402016",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2024-01-29T20:00:00-05:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨苹果Vision Pro、CHI大会赞助商及DC车展。"
+      "einzeiler": "探讨苹果Vision Pro、CHI大会赞助商及DC车展。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "Buzzsprout-14372847",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2024-01-24T18:00:00-05:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨景观设计转行人工智能创业的经历、中美AI差异与行业应用机会。"
+      "einzeiler": "探讨景观设计转行人工智能创业的经历、中美AI差异与行业应用机会。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "Buzzsprout-13900067",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2023-11-02T21:00:00-04:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话Chatmind团队，探讨AI思维导图的开发与运营。"
+      "einzeiler": "对话Chatmind团队，探讨AI思维导图的开发与运营。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

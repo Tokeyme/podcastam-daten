@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "一人出海播客",
   "apple_collection_id": "1668475263",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "69cc75f8b977fb2c47c99a2e",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-04-01T01:38:32+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨中国品牌在美国开店的真实体验、选址难点与本地化运营策略。"
+      "einzeiler": "探讨中国品牌在美国开店的真实体验、选址难点与本地化运营策略。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "69a8e9d7f31ba701453adad7",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-03-05T02:31:15+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "在美国做TikTok的真实体验与出海创业机会"
+      "einzeiler": "在美国做TikTok的真实体验与出海创业机会",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "697fc583b4be4c149b85da6c",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-02-02T02:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨出海品牌的打造方法与策略"
+      "einzeiler": "探讨出海品牌的打造方法与策略",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6928d8ff97e0071da9e77cce",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-11-28T03:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨中国非遗产品出海的商业机会与趋势。"
+      "einzeiler": "探讨中国非遗产品出海的商业机会与趋势。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "691a4b65cbba038b42d6353f",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-11-18T02:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨中国茶叶在美国市场的生意机会与出海策略。"
+      "einzeiler": "探讨中国茶叶在美国市场的生意机会与出海策略。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "68ab7df7293471fed4415a28",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-08-25T02:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "跨境电商创业中的货源寻找与采购策略解析"
+      "einzeiler": "跨境电商创业中的货源寻找与采购策略解析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6819788647ebeede7ef4d613",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-05-06T02:53:05+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨联盟营销在品牌出海中的应用、合作伙伴类型与常见误区。"
+      "einzeiler": "探讨联盟营销在品牌出海中的应用、合作伙伴类型与常见误区。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67d11ea10766616acd5ddab1",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-03-12T05:53:08+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨中国品牌出海北美时网红带货的现状与策略"
+      "einzeiler": "探讨中国品牌出海北美时网红带货的现状与策略",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "676e06f215a5fd520eeb0a94",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2024-12-27T01:56:41+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "中国跨境电商四小龙如何走向世界"
+      "einzeiler": "中国跨境电商四小龙如何走向世界",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6678bc7fb6a8412729cc6d08",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2024-06-24T00:23:26+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "跨境电商如何通过内容实现品牌化"
+      "einzeiler": "跨境电商如何通过内容实现品牌化",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

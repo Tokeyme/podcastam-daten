@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "兰亭思叙｜李思思个人播客",
   "apple_collection_id": "6783665121",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1008773722",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-27T13:12:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回应听众情绪困境，分享对抗焦虑与重建内心秩序的真实经历。"
+      "einzeiler": "回应听众情绪困境，分享对抗焦虑与重建内心秩序的真实经历。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1004358185",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-04T04:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "插画师米蕾做客节目，探讨艺术创作、自律人生与AI时代的生命力。"
+      "einzeiler": "插画师米蕾做客节目，探讨艺术创作、自律人生与AI时代的生命力。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_999568667",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-07-11T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "李思思对话刘开心，聊聊敏感、病痛与撕掉坚强标签的人生"
+      "einzeiler": "李思思对话刘开心，聊聊敏感、病痛与撕掉坚强标签的人生",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_991065198",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-06-17T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨中年女性在生理与职业时钟下的困境与自我重塑。"
+      "einzeiler": "探讨中年女性在生理与职业时钟下的困境与自我重塑。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_990884166",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-06-15T05:07:12+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "李思思分享创办播客“兰亭思叙”的初衷与个人经历"
+      "einzeiler": "李思思分享创办播客“兰亭思叙”的初衷与个人经历",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

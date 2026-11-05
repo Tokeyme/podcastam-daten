@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "《三字经》｜少儿国学启蒙｜学前教育",
   "apple_collection_id": "1550232940",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/016b-audiofreehighqps/07/B1/CMCoOSUDokQoABn6yQBud1Rk.m4a",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2020-12-05T11:33:16+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "一起学习经典蒙学读物《三字经》的第一集内容。"
+      "einzeiler": "一起学习经典蒙学读物《三字经》的第一集内容。",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
     }
   ]
 }

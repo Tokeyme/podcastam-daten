@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "TFTC: A Bitcoin Podcast",
   "apple_collection_id": "1292381204",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "3059fe1a-e2e9-4d08-8824-08a56659a504",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-05T14:00:28+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Michael Every on global macro shifts, economic statecraft, and the decline of the old…"
+      "einzeiler": "Michael Every on global macro shifts, economic statecraft, and the decline of the old…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "76acd65a-083e-4cdb-8de6-96f3793f1e83",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-19T13:55:18+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Chase Koch on principle-based management, long-term thinking, and scaling with AI."
+      "einzeiler": "Chase Koch on principle-based management, long-term thinking, and scaling with AI.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     }
   ]
 }

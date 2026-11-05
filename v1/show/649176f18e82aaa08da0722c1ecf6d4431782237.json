@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技慢半拍",
   "apple_collection_id": "1701921408",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6aa365a29d32647781675d04",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-20T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI时代Neocloud新云的兴起与基础设施转型"
+      "einzeiler": "探讨AI时代Neocloud新云的兴起与基础设施转型",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a94f1e9f03e74ee6b026b92",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-13T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI算力背后的芯片、存储与连接底层逻辑。"
+      "einzeiler": "探讨AI算力背后的芯片、存储与连接底层逻辑。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a94e541f03e74ee6b026129",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-09-06T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI扩张背景下电力基础设施的重塑，从发电、输电到芯片供电的全链路变革。"
+      "einzeiler": "探讨AI扩张背景下电力基础设施的重塑，从发电、输电到芯片供电的全链路变革。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a82b25a17676351c57319a4",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-08-30T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI泡沫现象，分析资本市场与技术革命的关系"
+      "einzeiler": "探讨AI泡沫现象，分析资本市场与技术革命的关系",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a7addf536641f136d8686c9",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-08-16T23:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨智能组织的核心骨架：如何从传统的岗位职责转向以结果为导向的责任网络。"
+      "einzeiler": "探讨智能组织的核心骨架：如何从传统的岗位职责转向以结果为导向的责任网络。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "6a7030841b5e24969ce809d9",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-08-09T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨智能组织如何从工作流转向决策流，实现决策治理与组织进化。"
+      "einzeiler": "探讨智能组织如何从工作流转向决策流，实现决策治理与组织进化。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a647b8ba3fec224d5a31e12",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-08-02T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨智能组织中人与AI如何重新分配决策权"
+      "einzeiler": "探讨智能组织中人与AI如何重新分配决策权",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a4b52b13fb7233cbf447264",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-07-19T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨路径依赖如何拖慢技术革命，从历史对照AI时代。"
+      "einzeiler": "探讨路径依赖如何拖慢技术革命，从历史对照AI时代。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a490e392e335a35a80e04ca",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-07-12T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨Matrix项目的底层逻辑，解析AI原生企业操作系统的构建方式。"
+      "einzeiler": "探讨Matrix项目的底层逻辑，解析AI原生企业操作系统的构建方式。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a3fa07c2e335a35a80a3810",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-07-05T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "基于运营沙盘推演，解析AI原生企业的运转方式。"
+      "einzeiler": "基于运营沙盘推演，解析AI原生企业的运转方式。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

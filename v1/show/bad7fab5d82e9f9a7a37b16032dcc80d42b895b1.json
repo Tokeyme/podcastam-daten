@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "忽左忽右",
   "apple_collection_id": "1493503146",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
+    {
+      "guid": "6ae9a8d3c96c8942ec16aeb7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae9a8d3c96c8942ec16aeb7/media.xyzcdn.net/5e4ee557418a84a0466737b7/lvyohbNAkaa_iOP9nIRokKKJMhqS.m4a",
+      "pfad": "/v1/episode/d09dfda3ae9cc71cb8ad9ea16e033c3f8f4393ee.json",
+      "titel": "513 为永明时代作传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+      "veroeffentlicht": "2026-11-03T09:48:19+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "林晓光细说南齐武帝萧赜与永明时代的文学历史",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ae4546797726cd4675a2ef0",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae4546797726cd4675a2ef0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh0W1a0jWaFUYdxpDGHQPPuWVbZY.m4a",
@@ -12,7 +24,9 @@
       "veroeffentlicht": "2026-10-30T08:46:29+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨江南秋季的饮食文化，从传统蟹宴到地方土菜与时令风物。"
+      "einzeiler": "探讨江南秋季的饮食文化，从传统蟹宴到地方土菜与时令风物。",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
     },
     {
       "guid": "6ae0674fc96c8942ec13048e",
@@ -22,7 +36,9 @@
       "veroeffentlicht": "2026-10-27T09:24:33+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮"
+      "einzeiler": "重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮",
+      "clips_anzahl": 3,
+      "clips_art": "aac"
     },
     {
       "guid": "6adb27a497726cd4675696ad",
@@ -32,7 +48,9 @@
       "veroeffentlicht": "2026-10-23T09:46:46+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨泰国侨批局百年历史，揭示下南洋华人的跨国商业网络与生存图景。"
+      "einzeiler": "探讨泰国侨批局百年历史，揭示下南洋华人的跨国商业网络与生存图景。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "6ad72c1ff80d9814a6e11f31",
@@ -42,7 +60,9 @@
       "veroeffentlicht": "2026-10-20T09:06:30+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨民国时期卢作孚与北碚的乡村现代化探索及历史变迁"
+      "einzeiler": "探讨民国时期卢作孚与北碚的乡村现代化探索及历史变迁",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6ad1e13c0e4e410a05bdd935",
@@ -52,7 +72,9 @@
       "veroeffentlicht": "2026-10-16T09:17:07+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "向蓝欣谈国际关系视野下的中美欧今昔与大国博弈"
+      "einzeiler": "向蓝欣谈国际关系视野下的中美欧今昔与大国博弈",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6aaa6e139d326477816a1bf6",
@@ -62,7 +84,9 @@
       "veroeffentlicht": "2026-09-16T16:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "回顾移动通信三十年浪潮，探讨技术演进与折叠屏手机的未来趋势。"
+      "einzeiler": "回顾移动通信三十年浪潮，探讨技术演进与折叠屏手机的未来趋势。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6aa8fe83051af796b9e8832e",
@@ -72,7 +96,9 @@
       "veroeffentlicht": "2026-09-15T08:29:40+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨清代中叶的治理困境、社会矛盾与士人对王朝周期的反思"
+      "einzeiler": "探讨清代中叶的治理困境、社会矛盾与士人对王朝周期的反思",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6aa3c3269d32647781679918",
@@ -82,7 +108,9 @@
       "veroeffentlicht": "2026-09-11T09:54:03+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨晋江陈埭鞋业发展历程与中国运动品牌变迁"
+      "einzeiler": "探讨晋江陈埭鞋业发展历程与中国运动品牌变迁",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a9fd33ba0210c197dcf773e",
@@ -92,7 +120,9 @@
       "veroeffentlicht": "2026-09-08T09:36:21+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "阎海军谈陇山作为古代中国东西互动轴心的历史作用"
+      "einzeiler": "阎海军谈陇山作为古代中国东西互动轴心的历史作用",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a9a8beea0210c197dcd797c",
@@ -102,7 +132,9 @@
       "veroeffentlicht": "2026-09-04T09:36:07+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探寻法国建筑师赉安在上海的建筑生涯与失踪之谜"
+      "einzeiler": "探寻法国建筑师赉安在上海的建筑生涯与失踪之谜",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a96a621a0210c197dcbb58d",
@@ -112,7 +144,9 @@
       "veroeffentlicht": "2026-09-01T11:22:56+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "解析1965年新加坡独立与新马分家的历史背景"
+      "einzeiler": "解析1965年新加坡独立与新马分家的历史背景",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a914f40f03e74ee6b013d4a",
@@ -122,7 +156,9 @@
       "veroeffentlicht": "2026-08-28T09:25:55+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨休达的历史变迁、大航海时代背景及移民问题"
+      "einzeiler": "探讨休达的历史变迁、大航海时代背景及移民问题",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a8d2078ef65145dfcc4f6d5",
@@ -132,7 +168,9 @@
       "veroeffentlicht": "2026-08-25T09:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨莎士比亚戏剧创作及其与英国历史的相互影响"
+      "einzeiler": "探讨莎士比亚戏剧创作及其与英国历史的相互影响",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a881352ef65145dfcc323d4",
@@ -142,7 +180,9 @@
       "veroeffentlicht": "2026-08-21T09:07:42+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "张诗坪谈战争史视角下的秦末汉初混战"
+      "einzeiler": "张诗坪谈战争史视角下的秦末汉初混战",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a8418e88156bf33621a3055",
@@ -152,7 +192,9 @@
       "veroeffentlicht": "2026-08-18T08:42:01+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "追忆历史学家亚当·麦基翁与华人移民及现代边境制度的形成"
+      "einzeiler": "追忆历史学家亚当·麦基翁与华人移民及现代边境制度的形成",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

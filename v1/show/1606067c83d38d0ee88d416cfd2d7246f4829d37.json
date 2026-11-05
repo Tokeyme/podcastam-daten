@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "隐藏在影视剧中的好音乐",
   "apple_collection_id": "1078138201",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "http://audio.xmcdn.com/group11/M07/E1/AE/wKgDa1ai9jyjHm3CAJAcKa7-KY4628.m4a",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2016-01-25T03:08:01+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "回顾电影《老炮儿》与传奇音乐人的辉煌岁月"
+      "einzeiler": "回顾电影《老炮儿》与传奇音乐人的辉煌岁月",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "http://audio.xmcdn.com/group13/M05/C5/02/wKgDXVZk0IGAURy4AKIHPohhgTw438.m4a",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2015-12-07T02:39:06+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾近期热门古装大戏及其经典主题曲"
+      "einzeiler": "回顾近期热门古装大戏及其经典主题曲",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://audio.xmcdn.com/group16/M00/A8/F3/wKgDbFZUG-GzlrJCAEa_n3F5BRw473.m4a",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2015-11-25T01:59:40+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨人生不同阶段中爱情的意义与记忆。"
+      "einzeiler": "探讨人生不同阶段中爱情的意义与记忆。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://audio.xmcdn.com/group8/M04/9C/26/wKgDYFZFq03C31RFAUo7NZCjzeA262.m4a",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2015-11-18T03:10:02+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "四大名著改编影视作品的相关歌曲盘点。"
+      "einzeiler": "四大名著改编影视作品的相关歌曲盘点。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

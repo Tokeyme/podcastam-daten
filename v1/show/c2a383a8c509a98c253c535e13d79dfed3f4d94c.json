@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "扩博智聊 | 有AI味道的访谈节目",
   "apple_collection_id": "1635907477",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_918653265",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-10-09T23:30:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "癌症患者如何通过开源AI社区自救？本期节目探讨小X宝项目的诞生。"
+      "einzeiler": "癌症患者如何通过开源AI社区自救？本期节目探讨小X宝项目的诞生。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_885473653",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2025-07-10T23:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨数据治理概念、跨境政策及大国博弈背景下的企业出海风险。"
+      "einzeiler": "探讨数据治理概念、跨境政策及大国博弈背景下的企业出海风险。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_848249293",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-05-08T23:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI伦理与语音克隆诈骗狂潮"
+      "einzeiler": "探讨AI伦理与语音克隆诈骗狂潮",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_805256354",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-02-13T23:31:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨全球开发者市场与文科生如何与理工男相处"
+      "einzeiler": "探讨全球开发者市场与文科生如何与理工男相处",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_796607558",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-01-16T23:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨做播客三年的感悟与未来期望。"
+      "einzeiler": "探讨做播客三年的感悟与未来期望。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_789837640",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-01-03T02:45:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI大模型在金融科技中的应用及传统算法的价值"
+      "einzeiler": "探讨AI大模型在金融科技中的应用及传统算法的价值",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_785357468",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2024-12-19T23:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨人工智能在医疗数据、大语言模型及柔性电子等领域的应用"
+      "einzeiler": "探讨人工智能在医疗数据、大语言模型及柔性电子等领域的应用",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_781223230",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2024-12-05T23:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨数据工程在法律科技领域的应用与效率革命"
+      "einzeiler": "探讨数据工程在法律科技领域的应用与效率革命",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_776950694",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2024-11-22T02:35:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨高校中的RAG、索引词优化与信息检索前沿技术。"
+      "einzeiler": "探讨高校中的RAG、索引词优化与信息检索前沿技术。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_772547984",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2024-11-07T23:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI与商业智能体的结合及可持续商业模式的发展"
+      "einzeiler": "探讨AI与商业智能体的结合及可持续商业模式的发展",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

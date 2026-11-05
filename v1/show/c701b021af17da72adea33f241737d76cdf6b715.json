@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Watch",
   "apple_collection_id": "1111739567",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "bcfaa0b4-a267-11f1-97a2-cf82bb404207",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-04T00:20:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Discussion of The Gentlemen season 2, Lanterns episode 3, and the East of Eden trailer."
+      "einzeiler": "Discussion of The Gentlemen season 2, Lanterns episode 3, and the East of Eden trailer.",
+      "clips_anzahl": 1,
+      "clips_art": "mp3_suche"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "大脸电影",
   "apple_collection_id": "1039240771",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/05/04/3209764936211777542_hd.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-05-04T18:46:22+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "四位主播深入解析动画电影【疯狂动物城2】，从剧情逻辑、打分到情感共鸣各抒己见。"
+      "einzeiler": "四位主播深入解析动画电影【疯狂动物城2】，从剧情逻辑、打分到情感共鸣各抒己见。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     }
   ]
 }

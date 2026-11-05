@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "友的聊播客",
   "apple_collection_id": "1573666385",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2022/02/10/2923282025486929926_hd.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2022-02-10T18:18:26+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "影评人陈世勇和编剧韩景龙盘点2021年第四季度上映的影视作品。"
+      "einzeiler": "影评人陈世勇和编剧韩景龙盘点2021年第四季度上映的影视作品。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/12/06/2910991211771835398_hd.mp3",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2021-12-06T12:24:42+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨动物世界的奇妙与鸟类相关话题"
+      "einzeiler": "探讨动物世界的奇妙与鸟类相关话题",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/11/19/2907876306659548166_hd.mp3",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2021-11-19T17:27:50+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨今年Dice Con桌游展的变化、克苏鲁与剧本杀趋势及合家欢游戏推荐。"
+      "einzeiler": "探讨今年Dice Con桌游展的变化、克苏鲁与剧本杀趋势及合家欢游戏推荐。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/08/15/2890033796738047494_hd.mp3",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2021-08-20T08:00:01+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨桌游行业的近况与剧本杀的发展"
+      "einzeiler": "探讨桌游行业的近况与剧本杀的发展",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2021/08/08/2888763948560750598_hd.mp3",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2021-08-13T08:00:01+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨2021年第二季度国内院线上映的影片。"
+      "einzeiler": "探讨2021年第二季度国内院线上映的影片。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

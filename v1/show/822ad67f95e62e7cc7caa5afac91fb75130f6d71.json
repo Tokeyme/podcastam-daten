@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "很好听音乐台 | 亲子音乐课",
   "apple_collection_id": "1266562827",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group63/M04/44/7A/wKgMcl0r8wehs0GLADA0-Eg0mtY942.m4a",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2019-07-15T03:38:38+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "夏日炎炎，和小朋友们一起动手制作并分享美味的新鲜果汁。"
+      "einzeiler": "夏日炎炎，和小朋友们一起动手制作并分享美味的新鲜果汁。",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group31/M05/36/D9/wKgJX1mC996CKa8PACBjE81sfwY513.m4a",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2017-08-03T10:16:17+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨儿童音乐启蒙与亲子陪伴的播客节目背景"
+      "einzeiler": "探讨儿童音乐启蒙与亲子陪伴的播客节目背景",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group30/M05/1B/3F/wKgJXlmAVSbC9Y1FAAuw9t6ygqg824.m4a",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2017-08-01T10:17:26+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "一档通过音乐、故事和游戏为儿童推荐好音乐并教做亲子音乐游戏的节目。"
+      "einzeiler": "一档通过音乐、故事和游戏为儿童推荐好音乐并教做亲子音乐游戏的节目。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group31/M01/88/E9/wKgJSVl29tnQRDDvABtoeZcnFQ0886.m4a",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2017-07-25T09:10:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "小怪和很好听先生带你开启俄罗斯音乐旅行，欣赏柴可夫斯基的《胡桃夹子》。"
+      "einzeiler": "小怪和很好听先生带你开启俄罗斯音乐旅行，欣赏柴可夫斯基的《胡桃夹子》。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

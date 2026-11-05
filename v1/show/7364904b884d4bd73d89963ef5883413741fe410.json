@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "实习生活 Interns of Life",
   "apple_collection_id": "1518854082",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "67f657d659699d74dc9cbcaa",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-04-09T11:20:16+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "播客《实习生活》与微信读书合作推出精选电子书"
+      "einzeiler": "播客《实习生活》与微信读书合作推出精选电子书",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
     },
     {
       "guid": "66291c67ff598d65f2028261",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2024-04-24T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨金钱观与生活观的关系以及个人理财思路"
+      "einzeiler": "探讨金钱观与生活观的关系以及个人理财思路",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "65a610993b60e1feafed5525",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2024-01-16T05:14:01+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨当代年轻人的职场迷惘与个人成长路径"
+      "einzeiler": "探讨当代年轻人的职场迷惘与个人成长路径",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6568515ece2ee31e8fb7797a",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2023-11-30T09:09:49+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨从社会学跨保到北大法学的经历与自我探索。"
+      "einzeiler": "探讨从社会学跨保到北大法学的经历与自我探索。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "65581afcd0028fb4cb632bdc",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2023-11-18T02:01:31+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨成熟的定义以及人们在何时觉得自己成熟了"
+      "einzeiler": "探讨成熟的定义以及人们在何时觉得自己成熟了",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "654355e7d1844a84f27fc578",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2023-11-02T07:55:19+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨漫长就业季中的求职挑战与职场复盘"
+      "einzeiler": "探讨漫长就业季中的求职挑战与职场复盘",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6536585bf5d0788cb5784174",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2023-10-24T16:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Ruxuan跨界经历：从艺考到商科，再到创业与阿里"
+      "einzeiler": "Ruxuan跨界经历：从艺考到商科，再到创业与阿里",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "65124aa619dde7bf6a917a08",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2023-09-26T03:06:14+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "陈怡静谈职场新人的职业感建立与自我迭代"
+      "einzeiler": "陈怡静谈职场新人的职业感建立与自我迭代",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

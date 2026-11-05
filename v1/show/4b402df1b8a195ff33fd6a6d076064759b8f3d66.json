@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "NianChen年辰对谈",
   "apple_collection_id": "1566893067",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_572537897",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2022-09-27T05:32:07+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "两位主播在节目中分享了各自喜爱的小动物以及疫情下向往的旅行目的地。"
+      "einzeiler": "两位主播在节目中分享了各自喜爱的小动物以及疫情下向往的旅行目的地。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_557103309",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2022-07-31T08:21:11+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨二十多岁女性对衰老、婚姻与生育的恐惧和排斥。"
+      "einzeiler": "探讨二十多岁女性对衰老、婚姻与生育的恐惧和排斥。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_546830239",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2022-06-27T05:12:49+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨埃莱娜《那不勒斯四部曲》中的女性友谊与父权背景下的生命历程。"
+      "einzeiler": "探讨埃莱娜《那不勒斯四部曲》中的女性友谊与父权背景下的生命历程。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_490939187",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2022-01-09T20:43:28+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "辰圻和年年继续解答亲密关系的36个问题。"
+      "einzeiler": "辰圻和年年继续解答亲密关系的36个问题。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_484004903",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2021-12-19T03:18:49+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "年年与辰圻互问互答亲密关系问题的第一部分。"
+      "einzeiler": "年年与辰圻互问互答亲密关系问题的第一部分。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/3117-audiofreehighqps/09/91/GKwRINsFeJNDABAAAAD8EM7V.m4a",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2021-11-28T00:48:40+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨性别社会建构、容貌夸赞与人际交往中的微妙区别对待。"
+      "einzeiler": "探讨性别社会建构、容貌夸赞与人际交往中的微妙区别对待。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

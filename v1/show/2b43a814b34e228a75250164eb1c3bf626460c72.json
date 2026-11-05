@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "职场生存指南",
   "apple_collection_id": "1710879539",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "664c81a782b428eafd1328de",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2024-05-21T11:12:39+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "深入解析职场PUA的运作套路、常见技巧及应对方法"
+      "einzeiler": "深入解析职场PUA的运作套路、常见技巧及应对方法",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "65a8a69eb5e4856c70b4e9de",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2024-01-18T04:18:38+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨职场中常见情绪的问题、功能及应对原则。"
+      "einzeiler": "探讨职场中常见情绪的问题、功能及应对原则。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "65201e14ba2ed85c6dd0d54a",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2023-10-06T14:47:48+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨心理学如何助力职场发展及解决常见工作困惑"
+      "einzeiler": "探讨心理学如何助力职场发展及解决常见工作困惑",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

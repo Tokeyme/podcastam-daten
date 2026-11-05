@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "究竟真理：一场跨越时空的生命对谈",
   "apple_collection_id": "1871659455",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_952763060",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-01-28T04:50:47+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "回顾梦参法师传奇的一生、平实智慧及其对现代人的精神启发。"
+      "einzeiler": "回顾梦参法师传奇的一生、平实智慧及其对现代人的精神启发。",
+      "clips_anzahl": 3,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_951907073",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-01-25T01:36:50+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "六祖慧能与《六祖坛经》的现代反内卷解读。"
+      "einzeiler": "六祖慧能与《六祖坛经》的现代反内卷解读。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_951733117",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-01-24T08:50:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨唐代禅师黄檗希运“心如虚空”的思想与解脱逻辑。"
+      "einzeiler": "探讨唐代禅师黄檗希运“心如虚空”的思想与解脱逻辑。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_951721958",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-01-24T05:47:56+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨20世纪智者尼萨迦达塔及其著作《我是那》的核心智慧。"
+      "einzeiler": "探讨20世纪智者尼萨迦达塔及其著作《我是那》的核心智慧。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

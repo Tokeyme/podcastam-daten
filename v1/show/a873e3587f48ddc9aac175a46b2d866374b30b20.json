@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Bill Simmons Podcast",
   "apple_collection_id": "1043699613",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
+    {
+      "guid": "c7a031d6-ce4b-11f1-87c8-a3c5e69791f5",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4997860343.mp3",
+      "pfad": "/v1/episode/67e40e8109e07c7a5af6f784c157610ec1d0e8db.json",
+      "titel": "The Chiefs Choke, Lamar’s Out, Minshew Magic, Peanut Punch Chaos, and Guess the Lines With Cousin Sal",
+      "veroeffentlicht": "2026-11-02T08:07:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "NFL week breakdown, surprising collapses, and Guess the Lines with Cousin Sal",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "8c9cd55c-bd12-11f1-ad9a-07f77ea8077d",
       "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7298926306.mp3",
@@ -12,7 +24,9 @@
       "veroeffentlicht": "2026-10-27T23:24:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "NBA Power Poll 1.0 and a deep dive into the Elizabeth Holmes documentary with Wesley…"
+      "einzeiler": "NBA Power Poll 1.0 and a deep dive into the Elizabeth Holmes documentary with Wesley…",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "8c5d7bb4-bd12-11f1-ad9a-c342f1a77b36",
@@ -22,7 +36,9 @@
       "veroeffentlicht": "2026-10-23T05:56:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Caleb beats Drake, plus NFL Week 7 breakdown, NBA overreactions, and a massive mailbag."
+      "einzeiler": "Caleb beats Drake, plus NFL Week 7 breakdown, NBA overreactions, and a massive mailbag.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "8c402b2c-bd12-11f1-ad9a-ff2c56e7b331",
@@ -32,7 +48,9 @@
       "veroeffentlicht": "2026-10-21T07:06:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "NBA season opener reactions, plus in-person interviews with Blake Griffin and Peter Berg."
+      "einzeiler": "NBA season opener reactions, plus in-person interviews with Blake Griffin and Peter Berg.",
+      "clips_anzahl": 1,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "8c225b10-bd12-11f1-ad9a-3f3aeb656d46",
@@ -42,7 +60,9 @@
       "veroeffentlicht": "2026-10-19T07:37:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "NFL week six recap, NFC North dominance, and guessing week seven lines with Cousin Sal."
+      "einzeiler": "NFL week six recap, NFC North dominance, and guessing week seven lines with Cousin Sal.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "3685f726-a65a-11f1-9855-9ba547b66474",
@@ -52,7 +72,9 @@
       "veroeffentlicht": "2026-09-03T22:51:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Analyzing the historic Clippers penalties and chatting with Charles Barkley about the…"
+      "einzeiler": "Analyzing the historic Clippers penalties and chatting with Charles Barkley about the…",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "ba522cfc-8e6b-11f1-963b-e7015e9b628f",
@@ -62,7 +84,9 @@
       "veroeffentlicht": "2026-08-21T00:07:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Derek Thompson discusses sports billionaires, franchise valuations, and the WNBA's growth."
+      "einzeiler": "Derek Thompson discusses sports billionaires, franchise valuations, and the WNBA's growth.",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

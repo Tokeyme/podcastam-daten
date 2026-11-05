@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "饱暖读书会",
   "apple_collection_id": "1587356756",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1013655875",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-10T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论雷沙德·卡普希钦斯基的著作《太阳的阴影》与非洲大陆。"
+      "einzeiler": "讨论雷沙德·卡普希钦斯基的著作《太阳的阴影》与非洲大陆。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1007441154",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-20T10:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨诺贝尔文学奖得主韩江的首本散文集《光与线》，分享阅读感悟与生活思考。"
+      "einzeiler": "探讨诺贝尔文学奖得主韩江的首本散文集《光与线》，分享阅读感悟与生活思考。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1004903689",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-08-06T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨保罗·柯艾略小说《维罗妮卡决定去死》与“正常”的定义。"
+      "einzeiler": "探讨保罗·柯艾略小说《维罗妮卡决定去死》与“正常”的定义。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1002425850",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-07-23T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨成年人为何学会说谎及谎言背后的生存智慧与选择"
+      "einzeiler": "探讨成年人为何学会说谎及谎言背后的生存智慧与选择",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_999509333",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-07-09T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "契科夫短篇小说《第六病室》中的正常与不正常"
+      "einzeiler": "契科夫短篇小说《第六病室》中的正常与不正常",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_992763878",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-06-25T10:00:25+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨旅行搭子的百态与选择标准"
+      "einzeiler": "探讨旅行搭子的百态与选择标准",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_990100716",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-06-11T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论小说《一个人的朝圣》及主人公哈罗德的徒步之旅。"
+      "einzeiler": "讨论小说《一个人的朝圣》及主人公哈罗德的徒步之旅。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_976526004",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-05-14T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "盘点相亲过程中的各种奇葩行为与离谱经历"
+      "einzeiler": "盘点相亲过程中的各种奇葩行为与离谱经历",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_973690338",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-04-30T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨纪实历史小说《康熙的红票》与中西文化交流史。"
+      "einzeiler": "探讨纪实历史小说《康熙的红票》与中西文化交流史。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_968926056",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-04-09T10:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨与长辈沟通的难点、应对策略及化解代沟的方法"
+      "einzeiler": "探讨与长辈沟通的难点、应对策略及化解代沟的方法",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

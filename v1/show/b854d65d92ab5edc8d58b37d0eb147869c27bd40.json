@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "36氪·8点1氪",
   "apple_collection_id": "1554431464",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1029750160",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OvlN_ACIxkwT0d3Tz.m4a?channel=rss&album_id=8125936&track_id=1029750160&uid=73880812&jt=https://aod.cos.tx.xmcdn.com/storages/070c-audiofreehighqps/1E/B5/GKwRIW4OvlN_ACIxkwT0d3Tz.m4a",
+      "pfad": "/v1/episode/9a66213509fc446af48356edfe1dabedbeedfa7c.json",
+      "titel": "8点1氪 11月3日｜罗技营销广告再遭网友质疑侮辱消费者",
+      "veroeffentlicht": "2026-11-02T22:31:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "罗技再陷营销争议，多家银行股价创历史新高",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
+    },
     {
       "guid": "xmly_track_1028039873",
       "audio_url": "https://jt.ximalaya.com//GKwRIUEOtlKkABuIuQTwcvxP.m4a?channel=rss&album_id=8125936&track_id=1028039873&uid=73880812&jt=https://aod.cos.tx.xmcdn.com/storages/ea18-audiofreehighqps/37/58/GKwRIUEOtlKkABuIuQTwcvxP.m4a",
@@ -12,7 +24,9 @@
       "veroeffentlicht": "2026-10-27T23:30:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "A股千元股仅剩茅台，泡泡马特第三季度收益下降"
+      "einzeiler": "A股千元股仅剩茅台，泡泡马特第三季度收益下降",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1026002032",
@@ -22,7 +36,9 @@
       "veroeffentlicht": "2026-10-20T23:30:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "官方规范L2辅助驾驶蓝灯使用，DeepSeek全面开源推理框架DeepInfer"
+      "einzeiler": "官方规范L2辅助驾驶蓝灯使用，DeepSeek全面开源推理框架DeepInfer",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1015778496",
@@ -32,7 +48,9 @@
       "veroeffentlicht": "2026-09-16T23:30:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "钟薛高品牌宣布重启，盘点近期商业科技热点资讯"
+      "einzeiler": "钟薛高品牌宣布重启，盘点近期商业科技热点资讯",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
     }
   ]
 }

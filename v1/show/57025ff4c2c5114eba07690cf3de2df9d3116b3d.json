@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "热点财经深度解",
   "apple_collection_id": "1896894364",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_985287870",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-06-09T10:01:46+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "金价跌破4300美元创年内新低，分析下跌原因并给出普通人的应对策略。"
+      "einzeiler": "金价跌破4300美元创年内新低，分析下跌原因并给出普通人的应对策略。",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_981854822",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-06-07T11:23:39+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "解析国内成品油年内最大降幅及其背后的经济信号。"
+      "einzeiler": "解析国内成品油年内最大降幅及其背后的经济信号。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_981682348",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-06-07T03:34:36+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨金价上涨背景下普通人如何布局黄金资产"
+      "einzeiler": "探讨金价上涨背景下普通人如何布局黄金资产",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_981591352",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-06-06T14:16:11+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "央视重磅播报A股，解析硬科技崛起与资产定价换锚。"
+      "einzeiler": "央视重磅播报A股，解析硬科技崛起与资产定价换锚。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "MacTech每周科技论",
   "apple_collection_id": "1633888931",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_642454524",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2023-06-18T15:14:04+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "深度解析苹果WWDC23与Vision Pro的未来趋势与预测"
+      "einzeiler": "深度解析苹果WWDC23与Vision Pro的未来趋势与预测",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "xmly_track_639264217",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2023-06-04T11:42:21+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨5G体验、B站现状、iPad学习效果及WWDC23预测等科技热点"
+      "einzeiler": "探讨5G体验、B站现状、iPad学习效果及WWDC23预测等科技热点",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_567474466",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2022-09-07T14:59:26+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "每周科技热点讨论，涵盖显卡、手机、硬件与行业趋势。"
+      "einzeiler": "每周科技热点讨论，涵盖显卡、手机、硬件与行业趋势。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_567471329",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2022-09-07T14:46:48+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨VR发展、苹果发布会与数码硬件趋势"
+      "einzeiler": "探讨VR发展、苹果发布会与数码硬件趋势",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_567467216",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2022-09-07T14:33:05+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨iPhone芯片混用、苹果自助维修服务及多项科技热点"
+      "einzeiler": "探讨iPhone芯片混用、苹果自助维修服务及多项科技热点",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_567464324",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2022-09-07T14:23:54+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨苹果VR、汽车未来、小米12SU与iPhone 14等科技热点。"
+      "einzeiler": "探讨苹果VR、汽车未来、小米12SU与iPhone 14等科技热点。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_561492592",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2022-08-15T15:15:52+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨VR全景、Apple Pencil、iPad办公及iPhone存储等科技热点。"
+      "einzeiler": "探讨VR全景、Apple Pencil、iPad办公及iPhone存储等科技热点。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_560081734",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2022-08-10T14:36:08+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨IEEE论文写作、ARM架构、汽车算力与蔚来手机等科技热点。"
+      "einzeiler": "探讨IEEE论文写作、ARM架构、汽车算力与蔚来手机等科技热点。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_556632652",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2022-07-29T13:19:13+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨苹果蝶式键盘失败、鸿蒙APP数量及HomePod回归等科技热点。"
+      "einzeiler": "探讨苹果蝶式键盘失败、鸿蒙APP数量及HomePod回归等科技热点。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_554484323",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2022-07-22T11:33:40+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨初代MacBook Air、苹果性价比、耳机孔合并等科技话题。"
+      "einzeiler": "探讨初代MacBook Air、苹果性价比、耳机孔合并等科技话题。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "吴说不加密播客",
   "apple_collection_id": "1714428325",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6aa541b3492687f6aad8d5c3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-13T01:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "YZi Labs S4不丹训练营创始人复盘"
+      "einzeiler": "YZi Labs S4不丹训练营创始人复盘",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a9b8fcaf03e74ee6b055a50",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-05T03:50:41+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "律师详解孙宇晨与景甜纠纷中的法律问题"
+      "einzeiler": "律师详解孙宇晨与景甜纠纷中的法律问题",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a95479ea0210c197dcb0ba9",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-08-31T09:42:28+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "比特币反弹后，牛市是否已经到来？"
+      "einzeiler": "比特币反弹后，牛市是否已经到来？",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a91d324f03e74ee6b01737b",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-08-29T01:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "CZ香港AMA：年轻人不要把一夜暴富当目标"
+      "einzeiler": "CZ香港AMA：年轻人不要把一夜暴富当目标",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a906a86ef65145dfcc682ac",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-08-28T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "CZ香港新书分享会问答实录，回顾创业经历与行业思考"
+      "einzeiler": "CZ香港新书分享会问答实录，回顾创业经历与行业思考",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a8b28fa1352af56ff3ac8d3",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-08-24T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨 Sui 生态开发者的经历、面临的沟通问题与离开原因"
+      "einzeiler": "探讨 Sui 生态开发者的经历、面临的沟通问题与离开原因",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a6f8837ab3a91c24a0eace6",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-08-03T01:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨2026年Web3支付走向，涵盖合规监管、稳定币应用与AI支付等趋势。"
+      "einzeiler": "探讨2026年Web3支付走向，涵盖合规监管、稳定币应用与AI支付等趋势。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6a68604e56a3f3491ba63e03",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-07-29T01:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾加密交易所 BitMEX 的发展历程与关闭原因"
+      "einzeiler": "回顾加密交易所 BitMEX 的发展历程与关闭原因",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a5a47336356eb2d9be448aa",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-07-18T01:26:37+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "交易者Fiona分享从加密货币转向美股的转型经历与心得"
+      "einzeiler": "交易者Fiona分享从加密货币转向美股的转型经历与心得",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a4dadb33fb7233cbf4573a3",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-07-08T02:06:01+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨Open USD稳定币对USDC的冲击及商业模式重构。"
+      "einzeiler": "探讨Open USD稳定币对USDC的冲击及商业模式重构。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

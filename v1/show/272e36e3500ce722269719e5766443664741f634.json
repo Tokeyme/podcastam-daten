@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技有意思",
   "apple_collection_id": "6798534860",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1015315400",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-15T14:37:47+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI巨头集体呼吁限速背后的行业共识与规则博弈。"
+      "einzeiler": "探讨AI巨头集体呼吁限速背后的行业共识与规则博弈。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1014883211",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-14T14:19:10+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨OpenAI推进递归自我改进的技术路线与Sam Altman的访谈战略"
+      "einzeiler": "探讨OpenAI推进递归自我改进的技术路线与Sam Altman的访谈战略",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1010136558",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-08-31T14:18:20+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI行业的底层重构，涵盖算力、资本、生态与安全四个维度。"
+      "einzeiler": "探讨AI行业的底层重构，涵盖算力、资本、生态与安全四个维度。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1006947595",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-08-17T15:10:51+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨Anthropic的IPO与唯一公司论，以及国内开源模型的新进展。"
+      "einzeiler": "探讨Anthropic的IPO与唯一公司论，以及国内开源模型的新进展。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1005686000",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-08-10T15:33:54+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "谷歌人事调整与AI竞赛从模型向系统转型的行业观察"
+      "einzeiler": "谷歌人事调整与AI竞赛从模型向系统转型的行业观察",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1004791805",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-08-05T12:33:02+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "基于Sam Altman访谈探讨本周科技大事与AI行业动态"
+      "einzeiler": "基于Sam Altman访谈探讨本周科技大事与AI行业动态",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1004791801",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-08-05T12:33:01+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨月之暗面发布Kimi K3开源模型引发的行业变革。"
+      "einzeiler": "探讨月之暗面发布Kimi K3开源模型引发的行业变革。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1004791799",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-08-05T12:33:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨Kimi K3开源后的连锁反应及AI行业生态变化。"
+      "einzeiler": "探讨Kimi K3开源后的连锁反应及AI行业生态变化。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1004791796",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-08-05T12:32:59+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Fable 5解禁与开源渠道反攻的行业观察"
+      "einzeiler": "Fable 5解禁与开源渠道反攻的行业观察",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1004791797",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-08-05T12:32:59+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI从人类优化转向自我迭代的历史性转折"
+      "einzeiler": "探讨AI从人类优化转向自我迭代的历史性转折",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

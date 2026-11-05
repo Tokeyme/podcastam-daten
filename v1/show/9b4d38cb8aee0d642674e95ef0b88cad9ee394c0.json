@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "GanBei干杯-高端商业访谈",
   "apple_collection_id": "1523403762",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/b870-audiofreehighqps/EA/52/CKwRINsEhTN9ABAAAACxK3op.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2021-05-27T10:13:21+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "小米成功挑战美国国防部制裁，揭示美法院对中国企业的强硬监督系统"
+      "einzeiler": "小米成功挑战美国国防部制裁，揭示美法院对中国企业的强硬监督系统",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/77a1-audiofreehighqps/89/AE/CKwRIJEESwcVAHd4zACd_FK9.m4a",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2021-04-13T07:10:40+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "深度剖析中国半导体产业及其面临的挑战"
+      "einzeiler": "深度剖析中国半导体产业及其面临的挑战",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/196f-audiofreehighqps/07/23/CMCoOR4DwPYaAWIidwB2QnGC.m4a",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2020-12-29T13:45:03+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Airbnb中国早期团队如何应对本土竞争并取得成功"
+      "einzeiler": "Airbnb中国早期团队如何应对本土竞争并取得成功",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/4936-audiofreehighqps/01/10/CMCoOSEDjWUYALJjGABo5Dc9.m4a",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2020-11-20T11:00:53+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "中国与印尼的双边贸易、投资趋势及经贸合作分析"
+      "einzeiler": "中国与印尼的双边贸易、投资趋势及经贸合作分析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/389d-audiofreehighqps/80/D5/CMCoOSUDgY7zAKXZFwBl5NZS.m4a",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2020-11-11T11:32:22+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "中国企业在印度的发展机遇与面临的挑战"
+      "einzeiler": "中国企业在印度的发展机遇与面临的挑战",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/e24a-audiofreehighqps/9F/94/CMCoOR8Dec2GAfJiqgBkFcx3.m4a",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2020-11-05T14:18:54+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨未来五年中国外资投资趋势及其影响因素。"
+      "einzeiler": "探讨未来五年中国外资投资趋势及其影响因素。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

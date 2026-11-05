@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Verbrechen",
   "apple_collection_id": "1374777077",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
+    {
+      "guid": "c4fc9aba-27dd-4fd6-910d-5f6885f62ee0",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/9a3cfe55-e1d6-4dc1-b3e4-281f58195237/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=9a3cfe55-e1d6-4dc1-b3e4-281f58195237&feed=dnJhzmyN",
+      "pfad": "/v1/episode/8d9183700f98ebb87bb8b94e815cdf1a7eb805c5.json",
+      "titel": "Putins bester Mörder",
+      "veroeffentlicht": "2026-11-03T14:25:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Der Aufstieg und Fall des Söldnerführers Jewgeni Prigoschin.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "bd5764a1-a560-4fb6-aa16-8579bb67f649",
       "audio_url": "https://zeitonline.simplecastaudio.com/b108e21b-c741-4c2d-bebc-7c4ff91d6b14/episodes/a4668a86-82f0-4d09-b566-80c3470843cb/audio/128/default.mp3?aid=rss_feed&awCollectionId=b108e21b-c741-4c2d-bebc-7c4ff91d6b14&awEpisodeId=a4668a86-82f0-4d09-b566-80c3470843cb&feed=dnJhzmyN",
@@ -12,7 +24,9 @@
       "veroeffentlicht": "2026-10-13T18:40:50+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Polizei beschlagnahmt Podcast-Bänder von ZEIT-Reporterin im Fall Block"
+      "einzeiler": "Polizei beschlagnahmt Podcast-Bänder von ZEIT-Reporterin im Fall Block",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "91f3d830-b4a1-496b-a382-c7c142fb4dd1",
@@ -22,7 +36,9 @@
       "veroeffentlicht": "2026-09-08T13:25:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Der Einbruch in das Grüne Gewölbe in Dresden und seine Hintergründe"
+      "einzeiler": "Der Einbruch in das Grüne Gewölbe in Dresden und seine Hintergründe",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "7d36f5ee-2593-400d-84a1-02d84792dffd",
@@ -32,7 +48,9 @@
       "veroeffentlicht": "2026-08-25T13:25:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Fritz Friedmann als Verteidiger im Sexskandal am Kaiserhof von Wilhelm II."
+      "einzeiler": "Fritz Friedmann als Verteidiger im Sexskandal am Kaiserhof von Wilhelm II.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "443fde9f-0e16-49d4-ab7c-0b759d389088",
@@ -42,7 +60,9 @@
       "veroeffentlicht": "2026-08-11T13:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Ein Familienausflug endet in einer brutalen Prügelei in einer S-Bahn nach einem…"
+      "einzeiler": "Ein Familienausflug endet in einer brutalen Prügelei in einer S-Bahn nach einem…",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "614a7f65-44c3-4d5c-a9d6-405c6b3df413",
@@ -52,7 +72,9 @@
       "veroeffentlicht": "2026-07-28T13:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Diebstahl von Designermöbeln aus drei Universitätsmensa."
+      "einzeiler": "Diebstahl von Designermöbeln aus drei Universitätsmensa.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "4b453d58-6513-4f08-ba5e-a15031e2b6e6",
@@ -62,7 +84,9 @@
       "veroeffentlicht": "2026-07-28T13:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Peruanischer Bauer verklagt RWE wegen schmelzenden Gletschers."
+      "einzeiler": "Peruanischer Bauer verklagt RWE wegen schmelzenden Gletschers.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "667a857b-c061-40d5-a847-8ad00e1a4045",
@@ -72,7 +96,9 @@
       "veroeffentlicht": "2026-07-14T13:25:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Todesfall einer Frau im Gartenteich und die umstrittene Verurteilung ihres Ehemannes"
+      "einzeiler": "Todesfall einer Frau im Gartenteich und die umstrittene Verurteilung ihres Ehemannes",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "aa99ff42-2b87-4736-8aa5-52b6e0082ce3",
@@ -82,7 +108,9 @@
       "veroeffentlicht": "2026-06-30T13:25:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Wie ein Arzt über den Bereitschaftsdienst 1,6 Millionen Euro abrechnete."
+      "einzeiler": "Wie ein Arzt über den Bereitschaftsdienst 1,6 Millionen Euro abrechnete.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "4cfe6cbc-4940-4fba-8819-34814e976e06",
@@ -92,7 +120,9 @@
       "veroeffentlicht": "2026-06-23T13:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Ein Mann und eine Frau am Großglockner: Sie bricht zusammen, er steigt weiter."
+      "einzeiler": "Ein Mann und eine Frau am Großglockner: Sie bricht zusammen, er steigt weiter.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "1d9034a0-44a4-411f-82d7-b7d56490ff2f",
@@ -102,7 +132,9 @@
       "veroeffentlicht": "2026-06-16T13:25:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Der Prozess gegen den Serienmörder Fritz Haarmann im Jahr 1924"
+      "einzeiler": "Der Prozess gegen den Serienmörder Fritz Haarmann im Jahr 1924",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "b4e474ce-b828-4714-b7a9-80f3439dccaa",
@@ -112,7 +144,9 @@
       "veroeffentlicht": "2026-06-16T13:25:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Egon Erwin Kisch und seine Kriminalreportagen vor 100 Jahren"
+      "einzeiler": "Egon Erwin Kisch und seine Kriminalreportagen vor 100 Jahren",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

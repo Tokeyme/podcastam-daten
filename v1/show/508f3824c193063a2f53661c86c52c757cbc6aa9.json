@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "硅谷101",
   "apple_collection_id": "1498541229",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "9e6e1db1-f30b-492d-8a09-d8756b9df700",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-10-19T16:00:00-07:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨OpenAI Astra发布后对Agent、机器人及AI制药三大行业的深远影响。"
+      "einzeiler": "探讨OpenAI Astra发布后对Agent、机器人及AI制药三大行业的深远影响。",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
     },
     {
       "guid": "786d63c4-d46c-4ff3-80f8-fc895b2a57f0",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-15T17:00:00-07:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨AI推理芯片的三大技术路径，以及英伟达芯片大师Bill Dally的设计哲学。"
+      "einzeiler": "探讨AI推理芯片的三大技术路径，以及英伟达芯片大师Bill Dally的设计哲学。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "73a69583-98ee-43d6-a892-3e7c93012dd9",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-08-27T17:45:00-07:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Inside the breakthrough of mRNA cancer vaccines and personalized immunotherapy."
+      "einzeiler": "Inside the breakthrough of mRNA cancer vaccines and personalized immunotherapy.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     }
   ]
 }

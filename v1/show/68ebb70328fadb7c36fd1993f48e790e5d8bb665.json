@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Locked On Bills - Daily Podcast On The Buffalo Bills",
   "apple_collection_id": "1145479962",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "7c3f06ca-fbd7-401f-b89b-0a4fa77c0e4e",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-04T04:05:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Analyzing the Buffalo Bills offensive and defensive line depth for the upcoming season."
+      "einzeiler": "Analyzing the Buffalo Bills offensive and defensive line depth for the upcoming season.",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

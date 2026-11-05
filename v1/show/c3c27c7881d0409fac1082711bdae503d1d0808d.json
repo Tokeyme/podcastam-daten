@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "酸石榴叔叔讲故事",
   "apple_collection_id": "781360828",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2020/05/23/5112517815252861446_hd.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2020-05-27T20:00:21+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "酸石榴叔叔讲述迪迦奥特曼《怪兽比佐摩来袭》的故事。"
+      "einzeiler": "酸石榴叔叔讲述迪迦奥特曼《怪兽比佐摩来袭》的故事。",
+      "clips_anzahl": 3,
+      "clips_art": "mp3"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "牛言牛语｜跑步科技播客",
   "apple_collection_id": "1755866458",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6822c41524f8559346515f61",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-05-13T04:02:21+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "深度对比苹果与佳明运动手表的 HRV 心率变异性监测技术与准确性差异"
+      "einzeiler": "深度对比苹果与佳明运动手表的 HRV 心率变异性监测技术与准确性差异",
+      "clips_anzahl": 3,
+      "clips_art": "aac"
     },
     {
       "guid": "6822bef3b7c8a9962cd03a48",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2025-05-13T03:40:09+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨马拉松赛前服用布洛芬的作用与潜在风险"
+      "einzeiler": "探讨马拉松赛前服用布洛芬的作用与潜在风险",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "681f119324f8559346dfcbe9",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-05-10T08:44:17+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "智能手表未来技术与发展方向展望"
+      "einzeiler": "智能手表未来技术与发展方向展望",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "681d0e2724f8559346a489ee",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-05-08T20:14:23+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "智能手表NFC为何受限：各大厂商在开放与控制间的博弈"
+      "einzeiler": "智能手表NFC为何受限：各大厂商在开放与控制间的博弈",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "681c1021db57cd35f7192651",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-05-08T02:03:49+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨苹果手表心率测量的准确性与相关研究"
+      "einzeiler": "探讨苹果手表心率测量的准确性与相关研究",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "681ad6a0db57cd35f7ec160e",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-05-07T03:47:53+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨佳明手表ECG心电图功能的工作原理、设备支持及使用注意事项"
+      "einzeiler": "探讨佳明手表ECG心电图功能的工作原理、设备支持及使用注意事项",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6819db7ed8d622bb8015cda5",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-05-06T09:54:34+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨Garmin佳明身体电量Body Battery功能及其工作原理。"
+      "einzeiler": "探讨Garmin佳明身体电量Body Battery功能及其工作原理。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "681495566970cc7b4d5e1e8f",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-05-02T09:51:07+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "佳明训练状态的权威解读与数据逻辑"
+      "einzeiler": "佳明训练状态的权威解读与数据逻辑",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6688c6f0ae8e21859ae303a4",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2024-07-06T04:24:15+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话RQrun CEO Eric：聊聊跑步软件的生存之道与产品逻辑"
+      "einzeiler": "对话RQrun CEO Eric：聊聊跑步软件的生存之道与产品逻辑",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Low Limit Cash Games Poker Podcast",
   "apple_collection_id": "1496651303",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://api.spreaker.com/episode/74690890",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-26T04:01:52+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Launching a new podcast dedicated exclusively to reviewing low-stakes poker hands."
+      "einzeiler": "Launching a new podcast dedicated exclusively to reviewing low-stakes poker hands.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
     }
   ]
 }

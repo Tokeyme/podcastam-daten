@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Geschichten aus der Geschichte",
   "apple_collection_id": "1044844618",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "c333bf6710bc81688dd65b7ea31cc65b",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-10-21T04:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Zwei historische Geschichten über Violet Jessop und den Reisenden Ibn Battuta."
+      "einzeiler": "Zwei historische Geschichten über Violet Jessop und den Reisenden Ibn Battuta.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "e74e878bf47ae00a0eec02388e62106d",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-16T06:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Ersatzgeld und Abhängigkeiten im 19. und frühen 20. Jahrhundert"
+      "einzeiler": "Ersatzgeld und Abhängigkeiten im 19. und frühen 20. Jahrhundert",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "7aa12684787d400d7011b50dfd0c206e",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-09-09T04:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": null
+      "einzeiler": null,
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "5f1ef014598b6b67304f918a68a61867",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-09-02T06:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Die ersten römischen Flotten und die Katastrophe von Kamarina"
+      "einzeiler": "Die ersten römischen Flotten und die Katastrophe von Kamarina",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "017f62bf5c12cfaa7925637813560b05",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-08-26T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Die Geschichte von Nicolas Appert und der Erfindung der Konservendose"
+      "einzeiler": "Die Geschichte von Nicolas Appert und der Erfindung der Konservendose",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "4e69b87ce05372aed0409d2681a3b6cb",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-08-19T06:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Zwei Geschichten über Zheng Yisao als mächtigste Piratin und die Siedler von Posuso in…"
+      "einzeiler": "Zwei Geschichten über Zheng Yisao als mächtigste Piratin und die Siedler von Posuso in…",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "7d5c36fb68de1ea27dd2256859e5874b",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-08-12T06:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Sophia Duleep Singh und ihr Kampf für das Frauenwahlrecht in England."
+      "einzeiler": "Sophia Duleep Singh und ihr Kampf für das Frauenwahlrecht in England.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "f5468c0aa5245146c37e1664d3c1866d",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-08-05T04:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Die Geschichte der Fibonacci-Folge und der indisch-arabischen Ziffern."
+      "einzeiler": "Die Geschichte der Fibonacci-Folge und der indisch-arabischen Ziffern.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "303fdda0c932087db27f0ddc12c0c0af",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-07-29T06:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Die Geschichte der Ratte als menschgemachter Schädling und Labortier."
+      "einzeiler": "Die Geschichte der Ratte als menschgemachter Schädling und Labortier.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "da9bec99748b2e167a82e536caff7e0c",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-07-22T04:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Die Entdeckung der Nofretete und das rätselhafte Kapitel des Alten Ägyptens"
+      "einzeiler": "Die Entdeckung der Nofretete und das rätselhafte Kapitel des Alten Ägyptens",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "0c62d2572f36391ccf34e0980a4b8386",
@@ -112,7 +132,9 @@
       "veroeffentlicht": "2026-07-15T06:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Das Winchester Mystery House in San José und die Entstehung seiner Legende"
+      "einzeiler": "Das Winchester Mystery House in San José und die Entstehung seiner Legende",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

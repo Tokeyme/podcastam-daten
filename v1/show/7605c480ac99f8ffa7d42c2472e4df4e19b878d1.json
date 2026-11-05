@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技百宝箱 | 前沿数码产品",
   "apple_collection_id": "1589086140",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_760604995",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2024-09-28T02:46:26+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "使用“虫洞”软件在Mac电脑上直接操控安卓手机。"
+      "einzeiler": "使用“虫洞”软件在Mac电脑上直接操控安卓手机。",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_707104867",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2024-02-18T05:34:41+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨锂离子电池的充电过程、安全隐患以及充电策略。"
+      "einzeiler": "探讨锂离子电池的充电过程、安全隐患以及充电策略。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_675842408",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2023-10-23T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "如何通过搜索语法提高搜索精度与速度"
+      "einzeiler": "如何通过搜索语法提高搜索精度与速度",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_671663050",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2023-10-09T01:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "介绍Python编程中常见文件后缀名及其用途"
+      "einzeiler": "介绍Python编程中常见文件后缀名及其用途",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

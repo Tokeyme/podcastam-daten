@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Questlove Show",
   "apple_collection_id": "1485250501",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "b1914ba1-9e10-4dd9-930c-b4bb01404f4b",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-04T20:37:45+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Philly cheesesteaks, childhood memories, and mailbag questions with the team."
+      "einzeiler": "Philly cheesesteaks, childhood memories, and mailbag questions with the team.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "c7ec82c1-9678-45a2-9317-b4ad013149fc",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-24T04:01:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Jojo talks about her memoir, her Boston roots, and evolving as an artist in New York."
+      "einzeiler": "Jojo talks about her memoir, her Boston roots, and evolving as an artist in New York.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     }
   ]
 }

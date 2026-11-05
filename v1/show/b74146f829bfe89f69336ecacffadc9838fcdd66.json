@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Not Dead Yet",
   "apple_collection_id": "1877948649",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://api.spreaker.com/episode/74780899",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-01T11:20:33+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Legendary university president E. Gordon Gee on higher ed, leadership, and football."
+      "einzeiler": "Legendary university president E. Gordon Gee on higher ed, leadership, and football.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
     }
   ]
 }

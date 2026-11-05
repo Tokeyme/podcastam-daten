@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "电影沙龙：电影播客精选",
   "apple_collection_id": "909550723",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_623228667",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2023-04-13T09:39:49+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨超级马力欧兄弟大电影的视听还原、游戏彩蛋及IMAX观影体验。"
+      "einzeiler": "探讨超级马力欧兄弟大电影的视听还原、游戏彩蛋及IMAX观影体验。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_624761291",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2023-04-13T09:39:19+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨电影《宇宙探索编辑部》中理想与现实的差距以及核心情节解析。"
+      "einzeiler": "探讨电影《宇宙探索编辑部》中理想与现实的差距以及核心情节解析。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_622598855",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2023-04-13T03:27:47+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨《泰坦尼克号》流行原因及影片带来的时代回忆。"
+      "einzeiler": "探讨《泰坦尼克号》流行原因及影片带来的时代回忆。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_619895563",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2023-03-24T04:52:24+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "聊聊小众文艺片《六号车厢》与孤独旅程中的陪伴。"
+      "einzeiler": "聊聊小众文艺片《六号车厢》与孤独旅程中的陪伴。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_617909790",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2023-03-24T04:52:23+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨桌面电影《网络谜踪2》的叙事特点与影片反转。"
+      "einzeiler": "探讨桌面电影《网络谜踪2》的叙事特点与影片反转。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_616280854",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2023-03-24T04:52:21+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "关于近期电影分享、科幻电影框架与相关作品探讨的杂谈节目。"
+      "einzeiler": "关于近期电影分享、科幻电影框架与相关作品探讨的杂谈节目。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_534437660",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2023-03-24T04:52:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨电影《瞬息全宇宙》的幕后主创与影片口碑"
+      "einzeiler": "探讨电影《瞬息全宇宙》的幕后主创与影片口碑",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_619717964",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2023-03-24T04:51:58+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "深度解析美剧与游戏版《最后生还者》的设定与差异"
+      "einzeiler": "深度解析美剧与游戏版《最后生还者》的设定与差异",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_619448536",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2023-03-24T04:51:56+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨电影《沙赞：众神之怒》的世界观、票房表现与彩蛋解析"
+      "einzeiler": "探讨电影《沙赞：众神之怒》的世界观、票房表现与彩蛋解析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_618849119",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2023-03-24T04:51:54+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨恐怖片《梅根》背后的科技思考与逻辑漏洞"
+      "einzeiler": "探讨恐怖片《梅根》背后的科技思考与逻辑漏洞",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

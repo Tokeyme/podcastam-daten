@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Joe Rogan Experience",
   "apple_collection_id": "360084272",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "0dc6237e-d512-11f1-816e-5f927e9904ef",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-10-31T17:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Francis Foster and Konstantin Kisin discuss geopolitics, AI, and the nature of human…"
+      "einzeiler": "Francis Foster and Konstantin Kisin discuss geopolitics, AI, and the nature of human…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "ec46995e-ce9a-11f1-9c7e-fbbdba278d52",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-10-23T17:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Joe Rogan discusses conspiracies, tech, history, and current events with guests."
+      "einzeiler": "Joe Rogan discusses conspiracies, tech, history, and current events with guests.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "ed2504ac-cdc1-11f1-b263-83f2c9b36709",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-10-22T17:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Robert Whittaker talks MMA longevity, fighting styles, and legendary bouts."
+      "einzeiler": "Robert Whittaker talks MMA longevity, fighting styles, and legendary bouts.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "23251e48-ccfa-11f1-8407-c76a5ec426f3",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-10-21T17:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Bill Thompson discusses hunting, artificial intelligence, and human psychology."
+      "einzeiler": "Bill Thompson discusses hunting, artificial intelligence, and human psychology.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "0c8175c2-cc3e-11f1-a160-4bf71fa94203",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-10-20T17:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Endurance athlete Ross Edgley discusses extreme swims, survival challenges, and mental…"
+      "einzeiler": "Endurance athlete Ross Edgley discusses extreme swims, survival challenges, and mental…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "3c876c6c-c94c-11f1-b243-eb26db00851d",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-10-16T17:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Investigative journalist Mariana van Zeller on online scams, cartels, and the drug trade."
+      "einzeiler": "Investigative journalist Mariana van Zeller on online scams, cartels, and the drug trade.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "bd78a8a0-9c28-11f1-b11e-ef9789715e8e",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-08-20T17:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "MrBallen discusses dark Internet mysteries, Navy SEAL training, and combat in Afghanistan."
+      "einzeiler": "MrBallen discusses dark Internet mysteries, Navy SEAL training, and combat in Afghanistan.",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

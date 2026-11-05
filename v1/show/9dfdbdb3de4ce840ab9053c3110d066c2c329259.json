@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "汪诘：科学有故事（主打）",
   "apple_collection_id": "1163969355",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1016660486",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-19T13:03:28+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "国庆亲子科考活动，探索江南造船厂与天文馆"
+      "einzeiler": "国庆亲子科考活动，探索江南造船厂与天文馆",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1010956878",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-02T12:41:29+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "介绍 9 月份各项线下活动与讲座安排"
+      "einzeiler": "介绍 9 月份各项线下活动与讲座安排",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1010956733",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-09-02T12:40:36+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨“甲醛白菜”引发的争议与公众反应"
+      "einzeiler": "探讨“甲醛白菜”引发的争议与公众反应",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_1007295825",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-08-19T10:59:50+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "回溯1918年西班牙大流感历史，解析病毒变异机制与青年死亡谜团。"
+      "einzeiler": "回溯1918年西班牙大流感历史，解析病毒变异机制与青年死亡谜团。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     }
   ]
 }

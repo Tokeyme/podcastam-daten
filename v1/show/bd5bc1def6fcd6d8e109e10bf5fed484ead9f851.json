@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "スポーツ報知 新聞ヘッドライン",
   "apple_collection_id": "1619728114",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "203265bcb7d9f2142f72b5ddc873f6a6",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2023-05-30T23:47:00+09:00",
       "clips": false,
       "kapitel": true,
-      "einzeiler": "体育报知5月31日新闻概述，涵盖棒球赛事与相扑协会动态。"
+      "einzeiler": "体育报知5月31日新闻概述，涵盖棒球赛事与相扑协会动态。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "a247dfc61abc5320678cdb4564c0fa8d",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2023-05-29T23:20:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "体育报纸头条：读卖巨人队迎接交流赛及相扑等体育新闻"
+      "einzeiler": "体育报纸头条：读卖巨人队迎接交流赛及相扑等体育新闻",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "a1387fdadbcf9c7626c41d298d74ebe5",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2023-05-28T23:46:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "スポーツ報知５月２９日号の新聞ヘッドラインを紹介する。"
+      "einzeiler": "スポーツ報知５月２９日号の新聞ヘッドラインを紹介する。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "939303964a26c21d418914fb1c324172",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2023-05-27T23:05:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "スポーツ報知５月２８日の新聞ヘッドラインをお届けします。"
+      "einzeiler": "スポーツ報知５月２８日の新聞ヘッドラインをお届けします。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "214413dacfc75795c56430f4b864253d",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2023-05-27T00:08:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "スポーツ報知５月２７日の新聞ヘッドラインをお届けします。"
+      "einzeiler": "スポーツ報知５月２７日の新聞ヘッドラインをお届けします。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "1a6c858f1a5a8b2d38360a202001dd15",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2023-05-25T23:30:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "体育报纸头条：巨人队逆转取胜，日本国家队名单公布及其他体育新闻。"
+      "einzeiler": "体育报纸头条：巨人队逆转取胜，日本国家队名单公布及其他体育新闻。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "5c05b7e7b59c97506349712703a1e535",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2023-05-24T23:48:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "スポーツ報知５月２５日の新聞ヘッドラインニュース。"
+      "einzeiler": "スポーツ報知５月２５日の新聞ヘッドラインニュース。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "77974bd14a16c4c8c8632fd4d573d5e6",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2023-05-24T00:14:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "スポーツ報知５月２４日付の新聞ヘッドラインを紹介する。"
+      "einzeiler": "スポーツ報知５月２４日付の新聞ヘッドラインを紹介する。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "51cefb4f9c9cae06e8cde2b4da8cc2dd",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2023-05-22T23:40:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "スポーツ報知５月２３日の新聞ヘッドラインニュース"
+      "einzeiler": "スポーツ報知５月２３日の新聞ヘッドラインニュース",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6c0d28779eaa387a637145fc0dd9e97c",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2023-05-21T23:53:00+09:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "スポーツ報知５月２２日号の紙面ヘッドラインを紹介する。"
+      "einzeiler": "スポーツ報知５月２２日号の紙面ヘッドラインを紹介する。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

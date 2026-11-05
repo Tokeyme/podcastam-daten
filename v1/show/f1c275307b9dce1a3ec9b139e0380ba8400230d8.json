@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "漫谈法兰西（泛法语文化）",
   "apple_collection_id": "1261385602",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_597681973",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2022-12-18T08:50:06+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "走近经典情歌《The First Time I Ever Saw Your Face》的多个经典翻唱版本"
+      "einzeiler": "走近经典情歌《The First Time I Ever Saw Your Face》的多个经典翻唱版本",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_572056960",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2022-09-25T08:54:22+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "比才歌剧《采珠人》及克劳斯演唱的浪漫曲赏析"
+      "einzeiler": "比才歌剧《采珠人》及克劳斯演唱的浪漫曲赏析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_570272502",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2022-09-18T12:31:30+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "比才歌剧《采珠人》及阿拉·凡佐演唱的浪漫曲"
+      "einzeiler": "比才歌剧《采珠人》及阿拉·凡佐演唱的浪漫曲",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_566620564",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2022-09-04T12:35:33+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "介绍法国作曲家比才歌剧《采珠人》中的浪漫曲及吉利演唱版本"
+      "einzeiler": "介绍法国作曲家比才歌剧《采珠人》中的浪漫曲及吉利演唱版本",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

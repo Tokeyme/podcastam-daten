@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "智者访谈",
   "apple_collection_id": "1802831484",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "67e4d32651d887b229301070",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-03-27T04:42:46+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨大模型可解释性，解析神经网络背后的数学机理与等效交互体系。"
+      "einzeiler": "探讨大模型可解释性，解析神经网络背后的数学机理与等效交互体系。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "67e38a5caf5840b3335fb618",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2025-03-26T05:07:16+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "清华翟季冬谈DeepSeek背后的系统革命"
+      "einzeiler": "清华翟季冬谈DeepSeek背后的系统革命",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67e239a6dd11f9c8c1f0e1bc",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-03-25T05:10:50+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话小米语音首席科学家Daniel Povey：探讨AI与语音识别的下一个机遇"
+      "einzeiler": "对话小米语音首席科学家Daniel Povey：探讨AI与语音识别的下一个机遇",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67e113b278103db3bd8bd295",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-03-24T08:17:59+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话图森未来陈默：从自动驾驶转向AIGC游戏与《三体》IP"
+      "einzeiler": "对话图森未来陈默：从自动驾驶转向AIGC游戏与《三体》IP",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67dd10dadd11f9c8c128c42f",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-03-23T02:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话清华大学赵明国：从运动控制视角看人形机器人发展"
+      "einzeiler": "对话清华大学赵明国：从运动控制视角看人形机器人发展",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67dd1062dd11f9c8c128a9a3",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-03-22T02:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI如何通过大模型解码生物语言并赋能药物研发"
+      "einzeiler": "探讨AI如何通过大模型解码生物语言并赋能药物研发",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67dd0dd0dd11f9c8c127f094",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-03-21T07:11:03+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "从机器学习理论视角探讨大模型的能力边界与未来发展"
+      "einzeiler": "从机器学习理论视角探讨大模型的能力边界与未来发展",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67db9734dd11f9c8c1de125d",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-03-20T04:38:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨腾讯万亿级MoE大模型的自研历程与系统工程之道"
+      "einzeiler": "探讨腾讯万亿级MoE大模型的自研历程与系统工程之道",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67da3d0678103db3bd64844a",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2025-03-19T04:06:32+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI开源与封闭之争及行业未来走向"
+      "einzeiler": "探讨AI开源与封闭之争及行业未来走向",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "67d941fb78103db3bd38d8e1",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2025-03-18T11:13:01+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨大模型落地的数据困境与密算解决方案"
+      "einzeiler": "探讨大模型落地的数据困境与密算解决方案",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

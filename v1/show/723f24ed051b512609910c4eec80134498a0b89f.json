@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Megyn Kelly Show",
   "apple_collection_id": "1532976305",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
+    {
+      "guid": "f0e037e8-004b-4c72-a7e0-e0756482d957",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/b2cc2867-ced5-4a9d-97dd-cb9e7951a159/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=b2cc2867-ced5-4a9d-97dd-cb9e7951a159&feed=RV1USAfC",
+      "pfad": "/v1/episode/188a5603f559b11f9337601dd63feb07e85c3c75.json",
+      "titel": "Election Day Showdown, Lindsay Clancy Murder Hearing, Conservative Activist Attacked: AM Update 11/3",
+      "veroeffentlicht": "2026-11-03T10:30:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Election Day showdowns, Lindsey Clancy murder case, and campus violence in Michigan.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "abc75b41-0bb6-469a-9540-9511ac0cf107",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/71bcf3e3-9651-4cdd-9dd0-5ee2068c0e6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=71bcf3e3-9651-4cdd-9dd0-5ee2068c0e6b&feed=RV1USAfC",
@@ -12,7 +24,9 @@
       "veroeffentlicht": "2026-10-27T18:53:03+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Megyn Kelly breaks down legal trouble for Ilhan Omar, Trump, James Comey and Russell…"
+      "einzeiler": "Megyn Kelly breaks down legal trouble for Ilhan Omar, Trump, James Comey and Russell…",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "04429653-3edb-49cc-ab9d-0d27ff1ba7fb",
@@ -22,7 +36,9 @@
       "veroeffentlicht": "2026-10-23T19:21:38+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Megyn Kelly discusses serious allegations against Thomas Markle and Meghan Markle's…"
+      "einzeiler": "Megyn Kelly discusses serious allegations against Thomas Markle and Meghan Markle's…",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "ffd2ca40-83e9-42f1-94ec-05ad856e7821",
@@ -32,7 +48,9 @@
       "veroeffentlicht": "2026-10-23T01:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Analyzing Russell Brand's UK trial with legal experts Matt Murphy, Mark Eiglarsh, and…"
+      "einzeiler": "Analyzing Russell Brand's UK trial with legal experts Matt Murphy, Mark Eiglarsh, and…",
+      "clips_anzahl": 1,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "ea3f8beb-877e-449a-9a57-93cf3860d845",
@@ -42,7 +60,9 @@
       "veroeffentlicht": "2026-10-21T19:16:46+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Megyn Kelly dissects Prince Harry's hypocrisy, Ilhan Omar's finances, and celebrity drama."
+      "einzeiler": "Megyn Kelly dissects Prince Harry's hypocrisy, Ilhan Omar's finances, and celebrity drama.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "35b49d7a-d040-47f8-994e-b274c1006826",
@@ -52,7 +72,9 @@
       "veroeffentlicht": "2026-10-21T09:30:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Texas Senate race sees record early voting, Netflix leadership overhaul, and viral rant."
+      "einzeiler": "Texas Senate race sees record early voting, Netflix leadership overhaul, and viral rant.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "c5ca18ca-63fa-4872-86e8-336f0d82eeb7",
@@ -62,7 +84,9 @@
       "veroeffentlicht": "2026-10-18T11:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Russell Brand discusses his upcoming UK trial, faith, and past addictions with Megyn…"
+      "einzeiler": "Russell Brand discusses his upcoming UK trial, faith, and past addictions with Megyn…",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "3ad44f82-fd42-4fcc-8ee5-6f3f2d57f2ab",
@@ -72,7 +96,9 @@
       "veroeffentlicht": "2026-08-21T09:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "FBI raids Eric Swalwell, Penn State cocaine ring details, and Scott Jennings' White…"
+      "einzeiler": "FBI raids Eric Swalwell, Penn State cocaine ring details, and Scott Jennings' White…",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

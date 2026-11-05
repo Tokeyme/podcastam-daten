@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "方圆播客",
   "apple_collection_id": "1761549146",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "69cd4df1b977fb2c47df651e",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-04-01T17:33:14+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "一位自闭症儿童家长分享2023年春季台北之旅及维权经历。"
+      "einzeiler": "一位自闭症儿童家长分享2023年春季台北之旅及维权经历。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "69ad9cecc8cdeb38c2868584",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-03-08T18:42:03+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "深秋东日本独旅：漫步东京、静冈与横滨的所见所闻"
+      "einzeiler": "深秋东日本独旅：漫步东京、静冈与横滨的所见所闻",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6954cd6d2db086f8970048cd",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-12-31T08:04:52+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "与33Talk主播33围绕2025年的十个问题展开年终随想。"
+      "einzeiler": "与33Talk主播33围绕2025年的十个问题展开年终随想。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "68c055502c82c9dcca907e66",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-09-09T18:01:15+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨大理走失事件与有效的自闭症干预方法"
+      "einzeiler": "探讨大理走失事件与有效的自闭症干预方法",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "68a8881a293471fed4fbfde8",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-08-22T15:11:32+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨新加坡房地产代理考试（RES）的课程选择与报名细节。"
+      "einzeiler": "探讨新加坡房地产代理考试（RES）的课程选择与报名细节。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "68a1ff5342cc2798e70801de",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-08-17T16:22:50+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "在大理参加自闭症夏令营的经历与感悟"
+      "einzeiler": "在大理参加自闭症夏令营的经历与感悟",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "683c477031215eb506cbb316",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-06-01T12:30:29+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨《小巷人家》中庄筱婷的女性主义抗争成长之路"
+      "einzeiler": "探讨《小巷人家》中庄筱婷的女性主义抗争成长之路",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6836a5bc31215eb506221489",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-05-28T05:58:18+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨《小巷人家》中四个二代人物的原生家庭与成长"
+      "einzeiler": "探讨《小巷人家》中四个二代人物的原生家庭与成长",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

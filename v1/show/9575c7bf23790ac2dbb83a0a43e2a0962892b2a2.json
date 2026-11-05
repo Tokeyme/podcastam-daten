@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Hysteria",
   "apple_collection_id": "1399025196",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "audioboom-01a06465-22a0-74b5-86c3-21fc3278b724",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-03T07:05:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Discussing climate disasters, Social Security, political influencers, and a fake NFL…"
+      "einzeiler": "Discussing climate disasters, Social Security, political influencers, and a fake NFL…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     }
   ]
 }

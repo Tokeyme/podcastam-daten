@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技（Technology）",
   "apple_collection_id": "1827256856",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_972966602",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-04-30T05:56:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨Web3与加密货币从概念走向基础设施的演变、RWA的机遇以及未来发展挑战。"
+      "einzeiler": "探讨Web3与加密货币从概念走向基础设施的演变、RWA的机遇以及未来发展挑战。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_972965646",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-04-29T05:51:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨量子计算进展、全球竞争格局及未来应用趋势。"
+      "einzeiler": "探讨量子计算进展、全球竞争格局及未来应用趋势。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_972964672",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-04-28T01:44:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨脑机接口技术的前沿发展、中美竞争与伦理挑战。"
+      "einzeiler": "探讨脑机接口技术的前沿发展、中美竞争与伦理挑战。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_972964315",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-04-27T10:42:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨中国芯片产业在制裁下的挑战、应对与技术突破"
+      "einzeiler": "探讨中国芯片产业在制裁下的挑战、应对与技术突破",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_972402771",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-04-27T09:36:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨CRISPR基因编辑技术的原理、应用及其面临的伦理与监管挑战。"
+      "einzeiler": "探讨CRISPR基因编辑技术的原理、应用及其面临的伦理与监管挑战。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_973012714",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-04-27T08:42:34+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "DeepSeek的低调发布策略与V4版本技术迁移解析"
+      "einzeiler": "DeepSeek的低调发布策略与V4版本技术迁移解析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_972961968",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-04-27T03:28:54+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨L4自动驾驶技术的现状、面临的技术瓶颈以及法律障碍。"
+      "einzeiler": "探讨L4自动驾驶技术的现状、面临的技术瓶颈以及法律障碍。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_972402195",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-04-26T09:32:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨核聚变商业化进程、全球竞争及面临的技术挑战。"
+      "einzeiler": "探讨核聚变商业化进程、全球竞争及面临的技术挑战。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_972401316",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-04-25T09:25:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI技术对就业市场的深远影响及岗位替代趋势。"
+      "einzeiler": "探讨AI技术对就业市场的深远影响及岗位替代趋势。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_972400839",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-04-24T11:21:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨中国大模型市场的竞争格局与新贵突围"
+      "einzeiler": "探讨中国大模型市场的竞争格局与新贵突围",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

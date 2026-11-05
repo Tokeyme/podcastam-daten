@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "【爱情酒吧】情感播客",
   "apple_collection_id": "1591807608",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_502790531",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2022-02-17T14:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "处于人生低谷、极度渴望恋爱寻求救赎的人，往往最不适合谈恋爱。"
+      "einzeiler": "处于人生低谷、极度渴望恋爱寻求救赎的人，往往最不适合谈恋爱。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_496666053",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2022-02-10T14:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "从《诗经》中的爱情故事看暗恋与情感过往"
+      "einzeiler": "从《诗经》中的爱情故事看暗恋与情感过往",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_496665175",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2022-02-03T14:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "法学博士小语讲述暗恋过往，并结合《诗经》探讨人类亘古不变的情感状态。"
+      "einzeiler": "法学博士小语讲述暗恋过往，并结合《诗经》探讨人类亘古不变的情感状态。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_496301758",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2022-01-26T23:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨中国人追求年味的背后意义与不同地区的春节经历。"
+      "einzeiler": "探讨中国人追求年味的背后意义与不同地区的春节经历。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_494501917",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2022-01-20T12:51:46+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨初恋的美好、成年人的爱与多年后的隔空回应。"
+      "einzeiler": "探讨初恋的美好、成年人的爱与多年后的隔空回应。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_492178550",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2022-01-13T14:17:48+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨前任带来的回忆与人生轨迹的选择"
+      "einzeiler": "探讨前任带来的回忆与人生轨迹的选择",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_489865826",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2022-01-06T14:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "重度抑郁症患者善音的自救与长跑重生成长之路"
+      "einzeiler": "重度抑郁症患者善音的自救与长跑重生成长之路",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_488668133",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2022-01-03T14:30:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨90后婚姻现状与离婚率升高的深层原因"
+      "einzeiler": "探讨90后婚姻现状与离婚率升高的深层原因",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_486551661",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2021-12-26T15:56:06+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "巨星偶像频频塌房，我们究竟还需要和相信偶像吗"
+      "einzeiler": "巨星偶像频频塌房，我们究竟还需要和相信偶像吗",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_485608486",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2021-12-23T14:46:35+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨电视剧《小敏家》中的中年爱情与家庭伦理"
+      "einzeiler": "探讨电视剧《小敏家》中的中年爱情与家庭伦理",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "西西弗高速",
   "apple_collection_id": "1770713549",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6aa623ef9d32647781683c93",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-13T14:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨信息爆炸时代的社会影响、算法分配、误信风险以及个体的应对方式"
+      "einzeiler": "探讨信息爆炸时代的社会影响、算法分配、误信风险以及个体的应对方式",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6a8c0da0ef65145dfcc48848",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-24T09:46:50+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "上海交通大学基因编辑试验事故与印度蟑螂人民党青年运动"
+      "einzeiler": "上海交通大学基因编辑试验事故与印度蟑螂人民党青年运动",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a4b85b52e335a35a80eec92",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-07-06T14:00:52+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨女性叙事中的声音、权威与历史印记"
+      "einzeiler": "探讨女性叙事中的声音、权威与历史印记",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a2574a1b30e1571aea2269d",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-06-07T15:58:30+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨山西留神峪煤矿事故中的瓦斯与德国华人迷奸案中的麻醉药。"
+      "einzeiler": "探讨山西留神峪煤矿事故中的瓦斯与德国华人迷奸案中的麻醉药。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69de7659b977fb2c47f28a89",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-04-14T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "通过文化文本和电影，探讨伊朗的日常生活、历史与地缘政治对个人的具体影响"
+      "einzeiler": "通过文化文本和电影，探讨伊朗的日常生活、历史与地缘政治对个人的具体影响",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69a18540de29766da9c5e0c8",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-02-27T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨女性的心灵史，涵盖李清照、多位中外女作家及虚构作品中的女性心路历程。"
+      "einzeiler": "探讨女性的心灵史，涵盖李清照、多位中外女作家及虚构作品中的女性心路历程。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "698a9df6a22480add66db607",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-02-10T14:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾过去一年的状态，探讨人生中那些感到“刚刚好”的时刻与期待。"
+      "einzeiler": "回顾过去一年的状态，探讨人生中那些感到“刚刚好”的时刻与期待。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "696c8bec109824f9e11b4d67",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-01-18T14:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话袁长庚，探讨青年问题、历史观及生活可能性"
+      "einzeiler": "对话袁长庚，探讨青年问题、历史观及生活可能性",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "692d6246ba2292550fa97a2b",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2025-12-01T14:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨女性成长教育的历程、矛盾与局限"
+      "einzeiler": "探讨女性成长教育的历程、矛盾与局限",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6915bdcacbba038b426349e0",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2025-11-14T14:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨独立内容创作者视角下的学习经验、方法与心态管理"
+      "einzeiler": "探讨独立内容创作者视角下的学习经验、方法与心态管理",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

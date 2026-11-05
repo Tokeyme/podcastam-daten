@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "BOXBOX｜F1全女子赛车播客",
   "apple_collection_id": "1884241044",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6aa7f00d129fe965d3326dc7",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-14T13:06:02+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "荷兰大奖赛赛事复盘与车队表现分析"
+      "einzeiler": "荷兰大奖赛赛事复盘与车队表现分析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a8a7e40ef65145dfcc3da59",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-23T05:39:01+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "分享银石大奖赛观赛体验：交通、车手看台与签名攻略。"
+      "einzeiler": "分享银石大奖赛观赛体验：交通、车手看台与签名攻略。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6a78ccea000a55a9bb055ec4",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-08-09T20:08:27+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "2026年F1车手游戏卡开箱与款式介绍"
+      "einzeiler": "2026年F1车手游戏卡开箱与款式介绍",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a72e47e1b5e24969ce947ec",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-08-05T07:27:52+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "盘点F1历史上各大车队的队友内斗与高能名场面"
+      "einzeiler": "盘点F1历史上各大车队的队友内斗与高能名场面",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a67cb7fb581962ce2bc68f7",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-07-27T23:09:05+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾匈牙利大奖赛，盘点本站赛事概况与正赛排名。"
+      "einzeiler": "回顾匈牙利大奖赛，盘点本站赛事概况与正赛排名。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a61acf3a3fec224d5a2086e",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-07-23T06:20:56+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "【F1赛事复盘】比利时大奖赛赛况全回顾"
+      "einzeiler": "【F1赛事复盘】比利时大奖赛赛况全回顾",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a5c283aa3fec224d59fb820",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-07-19T01:32:24+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "【F1赛事复盘】EP09：英国｜Ka～Tui！"
+      "einzeiler": "【F1赛事复盘】EP09：英国｜Ka～Tui！",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a5153531e32575f5eb484b1",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-07-11T00:02:48+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "围场嬷嬷大会来啦"
+      "einzeiler": "围场嬷嬷大会来啦",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a496bef3fb7233cbf43c45f",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-07-04T20:31:38+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "F1奥地利站赛事复盘与回顾"
+      "einzeiler": "F1奥地利站赛事复盘与回顾",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a35268a43a22a695586577f",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-06-19T11:27:02+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "巴塞罗那F1现场观赛体验分享"
+      "einzeiler": "巴塞罗那F1现场观赛体验分享",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小馬聊遊戲",
   "apple_collection_id": "1554757205",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "f79c9723-c905-4698-837d-1f483c0042a1",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2024-08-14T12:33:03+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "宝可梦世界锦标赛登场，盘点现场活动、线上转播奖励与赛事层级。"
+      "einzeiler": "宝可梦世界锦标赛登场，盘点现场活动、线上转播奖励与赛事层级。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "49abf47e-2edb-477a-8c1b-6e51c6f6104e",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2024-06-14T12:07:41+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "聊聊2024歐洲國家盃與足球策略遊戲EA FC Tactical"
+      "einzeiler": "聊聊2024歐洲國家盃與足球策略遊戲EA FC Tactical",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "3a9f426d-ff35-480a-abda-fcbf801a8f50",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2023-06-02T10:28:54+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨Sony Project Q与近年推出的游戏掌机"
+      "einzeiler": "探讨Sony Project Q与近年推出的游戏掌机",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "ec8e65d9-6b90-4263-bf43-1f319d4c054f",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2023-05-19T09:42:04+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "聊聊薩爾達傳說王國之淚與前作曠野之息"
+      "einzeiler": "聊聊薩爾達傳說王國之淚與前作曠野之息",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "1141f99d-5f9f-4a39-a4d5-fa1c377c857e",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2023-05-05T09:39:34+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探討寶可夢台灣冠軍賽與國際賽事規模"
+      "einzeiler": "探討寶可夢台灣冠軍賽與國際賽事規模",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "2f6e347d-4c30-4723-aacc-80d33f1a92e8",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2023-04-07T08:00:42+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "討論寶可夢朱紫卡牌國際版上市與手機版線上遊戲"
+      "einzeiler": "討論寶可夢朱紫卡牌國際版上市與手機版線上遊戲",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "38cd5717-5707-4302-8cfb-90b6ef924c74",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2023-03-02T11:12:48+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "聊聊寶可夢日發表會2023年2月27日所發佈的全新消息"
+      "einzeiler": "聊聊寶可夢日發表會2023年2月27日所發佈的全新消息",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "fa6e1030-4135-4aed-89ca-1116c08a1b59",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2023-02-12T14:08:38+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "聊聊 2023 年 2 月 9 日任天堂直面會的觀看心得。"
+      "einzeiler": "聊聊 2023 年 2 月 9 日任天堂直面會的觀看心得。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "7af9ac52-3502-4921-b0af-4eb74a140e37",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2023-01-23T12:13:45+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "睽違近三年回台灣的所見所聞與逆文化衝擊。"
+      "einzeiler": "睽違近三年回台灣的所見所聞與逆文化衝擊。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

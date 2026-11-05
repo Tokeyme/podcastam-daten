@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技淘金 - 互联网、投资、理财",
   "apple_collection_id": "1335017302",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group42/M08/F2/18/wKgJ81rIGRmxy8hcA4PaIh5VXgU582.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2018-04-07T01:06:45+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "回顾滴滴出行发展历程，探讨其与美团打车的市场竞争与商业逻辑。"
+      "einzeiler": "回顾滴滴出行发展历程，探讨其与美团打车的市场竞争与商业逻辑。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group40/M07/8D/35/wKgJT1qn5bSxXgYoAt4Ma1ESWMs663.mp3",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2018-03-13T15:10:13+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨外卖市场的发展、问题及美团点评、饿了么与阿里的竞争关系。"
+      "einzeiler": "探讨外卖市场的发展、问题及美团点评、饿了么与阿里的竞争关系。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group41/M0A/42/06/wKgJ8lqf6STitgvrAuPaIVsntLo086.mp3",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2018-03-07T13:55:43+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨共享单车的效率、竞争、资本与政策及相关共享经济话题"
+      "einzeiler": "探讨共享单车的效率、竞争、资本与政策及相关共享经济话题",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group39/M05/0B/7D/wKgJnlp2zrXwESvjAImU57eJMLU443.mp3",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2018-02-04T09:33:13+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨智能助理的现状与未来发展"
+      "einzeiler": "探讨智能助理的现状与未来发展",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group38/M02/2F/96/wKgJolpt8eag7J4AAm8HMQBuET4769.mp3",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2018-01-29T00:08:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨微信小程序的应用场景、开发者机会与未来趋势"
+      "einzeiler": "探讨微信小程序的应用场景、开发者机会与未来趋势",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group18/M02/E8/FA/wKgJKlpbMazSQ_FNAjVWNt1Wmt8193.mp3",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2018-01-14T10:33:41+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾 2017 年科技行业的发展，探讨人工智能、区块链与全面屏等核心话题。"
+      "einzeiler": "回顾 2017 年科技行业的发展，探讨人工智能、区块链与全面屏等核心话题。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group17/M00/EA/07/wKgJKVpa7Z-QGGhTBBPjmnCzAVE847.mp3",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2018-01-14T05:43:18+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨电子书与纸质书的选择、相关软硬件设备及听书产品"
+      "einzeiler": "探讨电子书与纸质书的选择、相关软硬件设备及听书产品",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group36/M07/17/77/wKgJTVpBINjBRe4PASSfBtsFOyA778.m4a",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2017-12-25T16:00:53+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨播客的制作动机、内容定位、受众群体与商业模式"
+      "einzeiler": "探讨播客的制作动机、内容定位、受众群体与商业模式",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

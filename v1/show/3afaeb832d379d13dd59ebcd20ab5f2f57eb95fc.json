@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "无限游戏IG",
   "apple_collection_id": "1804225070",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6a4784462e335a35a80d8d86",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-07-03T09:52:12+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨《反倦怠能量战》，从大脑空转转向实际行动，摆脱时代内卷与心理倦怠。"
+      "einzeiler": "探讨《反倦怠能量战》，从大脑空转转向实际行动，摆脱时代内卷与心理倦怠。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6a32613743a22a69558552e7",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-06-17T09:04:58+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "整合多本精力管理书籍，探讨精力补充与分配方法。"
+      "einzeiler": "整合多本精力管理书籍，探讨精力补充与分配方法。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69e8679f1e94ae6921de7e35",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-04-22T06:25:27+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨赫尔曼·黑塞小说《悉达多》中的觉醒之路"
+      "einzeiler": "探讨赫尔曼·黑塞小说《悉达多》中的觉醒之路",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69bac0243c625cc5ae029ba1",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-03-18T22:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "共读尼尔·波兹曼经典著作《娱乐至死》"
+      "einzeiler": "共读尼尔·波兹曼经典著作《娱乐至死》",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "696f762fef1cf272a7788ae0",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-01-20T12:45:46+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "解读《财富自由之路》下半部分，探讨投资的基本心法与策略。"
+      "einzeiler": "解读《财富自由之路》下半部分，探讨投资的基本心法与策略。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6952568e2db086f89798be76",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-12-29T10:32:58+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "分享近期停更原因以及对《财富自由之路》一书的读后感悟。"
+      "einzeiler": "分享近期停更原因以及对《财富自由之路》一书的读后感悟。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "68a0a1b3293471fed4f23adf",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-08-16T15:23:31+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨时间贫困现象以及如何通过时间追踪和管理重塑对时间的认识"
+      "einzeiler": "探讨时间贫困现象以及如何通过时间追踪和管理重塑对时间的认识",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "68710caf60f8f77d400938bd",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-07-11T13:09:29+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨畅销书《认知觉醒》是改命神作还是心灵鸡汤。"
+      "einzeiler": "探讨畅销书《认知觉醒》是改命神作还是心灵鸡汤。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6853c3512a38b4d979748481",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2025-06-19T08:05:17+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨安德斯·艾利克森所著《刻意练习》中的学习方法与核心原则。"
+      "einzeiler": "探讨安德斯·艾利克森所著《刻意练习》中的学习方法与核心原则。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6836ae2f31215eb50623f76b",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2025-05-28T06:35:48+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨勒内·吉拉尔的模仿欲望理论及其对日常生活的影响。"
+      "einzeiler": "探讨勒内·吉拉尔的模仿欲望理论及其对日常生活的影响。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

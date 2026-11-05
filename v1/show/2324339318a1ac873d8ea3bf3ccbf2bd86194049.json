@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Ancient Civilisations",
   "apple_collection_id": "1790824401",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "c7be1b44-3808-11f1-a47c-0340c1a494f9",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-05-14T23:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "The final chapter of Julius Caesar covers his romance with Cleopatra, absolute rule, and…"
+      "einzeiler": "The final chapter of Julius Caesar covers his romance with Cleopatra, absolute rule, and…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     }
   ]
 }

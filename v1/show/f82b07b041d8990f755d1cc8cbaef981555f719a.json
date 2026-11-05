@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "美丽说丨新闻脱口秀丨麻辣女主播",
   "apple_collection_id": "6790474671",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1007785159",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-22T21:20:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨发朋友圈背后的心理动机，以及如何正确看待社交动态与生活。"
+      "einzeiler": "探讨发朋友圈背后的心理动机，以及如何正确看待社交动态与生活。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     }
   ]
 }

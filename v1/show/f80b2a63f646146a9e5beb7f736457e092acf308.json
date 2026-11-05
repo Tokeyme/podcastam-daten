@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "The Wild Chaos Podcast",
   "apple_collection_id": "1732761860",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "ef54b881-1df9-403b-8587-7ab206a73179",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-31T00:00:00-06:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Surviving a point-blank rifle shot by a child predator and a profound near-death…"
+      "einzeiler": "Surviving a point-blank rifle shot by a child predator and a profound near-death…",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
     },
     {
       "guid": "0bbce1dc-3352-4aca-966e-e67ba462e224",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-24T00:00:00-06:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Inside Internal Affairs with a veteran cop on discipline, corruption, and the thin blue…"
+      "einzeiler": "Inside Internal Affairs with a veteran cop on discipline, corruption, and the thin blue…",
+      "clips_anzahl": 1,
+      "clips_art": "mp3"
     }
   ]
 }

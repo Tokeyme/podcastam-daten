@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "半拿铁 | 商业沉浮录",
   "apple_collection_id": "1615939013",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1028218305",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-10-28T20:00:00+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "美第奇家族权力的跌宕起伏与文艺复兴的繁荣"
+      "einzeiler": "美第奇家族权力的跌宕起伏与文艺复兴的繁荣",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1026380481",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-10-21T20:00:00+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探寻莆田系民营医院从江湖游医走向规范连锁的发展脉络与商业沉浮。"
+      "einzeiler": "探寻莆田系民营医院从江湖游医走向规范连锁的发展脉络与商业沉浮。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1024209421",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-10-14T20:00:00+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "剖析美第奇家族的发家史，看欧洲金融与文艺复兴的交织。"
+      "einzeiler": "剖析美第奇家族的发家史，看欧洲金融与文艺复兴的交织。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1015471748",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-09-16T20:00:00+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "解密桐庐帮如何从送外贸文件起步，打造中国民营快递巨头网络"
+      "einzeiler": "解密桐庐帮如何从送外贸文件起步，打造中国民营快递巨头网络",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1007636843",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-08-21T20:00:00+08:00",
       "clips": false,
       "kapitel": true,
-      "einzeiler": "华为不造车，鸿蒙智行到底是什么？"
+      "einzeiler": "华为不造车，鸿蒙智行到底是什么？",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

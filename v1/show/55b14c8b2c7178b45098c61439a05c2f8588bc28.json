@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "播客翻译计划",
   "apple_collection_id": "1831665175",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6aaea511ac389df82734615d",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-19T15:09:21+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "大脑为何总爱预演灾难以及打破这种习惯的心理练习"
+      "einzeiler": "大脑为何总爱预演灾难以及打破这种习惯的心理练习",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6aa61a6e492687f6aad9049a",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-13T03:42:25+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Anthropic创始人达里奥·阿莫迪主张放慢前沿AI发展速度以确保安全。"
+      "einzeiler": "Anthropic创始人达里奥·阿莫迪主张放慢前沿AI发展速度以确保安全。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6aa53d76492687f6aad8d49b",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-09-12T12:05:09+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨AI末日论、OpenAI数学突破与耐克市值下滑"
+      "einzeiler": "探讨AI末日论、OpenAI数学突破与耐克市值下滑",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6aa25d29492687f6aad7ca4e",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-09-10T07:36:24+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话 OpenAI 负责人 Tibo 探讨 Codex 的演进与架构"
+      "einzeiler": "对话 OpenAI 负责人 Tibo 探讨 Codex 的演进与架构",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6aa19ba1492687f6aad78500",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-09-09T18:03:26+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "a16z合伙人Anish Acharya谈AI如何让公司变成循环及消费产品趋势"
+      "einzeiler": "a16z合伙人Anish Acharya谈AI如何让公司变成循环及消费产品趋势",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6aa0aefef03e74ee6b07559d",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-09-09T01:08:16+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Roman Ugarte 谈论 Grok Bot 的诞生过程与 AI 同事的产品理念。"
+      "einzeiler": "Roman Ugarte 谈论 Grok Bot 的诞生过程与 AI 同事的产品理念。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a9f8354f03e74ee6b06d99d",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-09-08T03:59:41+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Andrew Huberman探讨晨间节律、健康习惯与内心平静。"
+      "einzeiler": "Andrew Huberman探讨晨间节律、健康习惯与内心平静。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a999913f03e74ee6b04b1d1",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-09-03T18:26:20+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "谷爱凌深度对话，解析极限压力下的心理韧性与成长轨迹"
+      "einzeiler": "谷爱凌深度对话，解析极限压力下的心理韧性与成长轨迹",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a93d845a0210c197dca69eb",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-08-30T08:19:53+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨英伟达财报、Salesforce转型、美债博弈与莫德纳癌症疫苗"
+      "einzeiler": "探讨英伟达财报、Salesforce转型、美债博弈与莫德纳癌症疫苗",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a93e36ea0210c197dca6e57",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-08-30T08:18:12+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Helsing创始人Torsten Reil谈国防科技与无人机集群"
+      "einzeiler": "Helsing创始人Torsten Reil谈国防科技与无人机集群",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a8af25cef65145dfcc408c5",
@@ -112,7 +132,9 @@
       "veroeffentlicht": "2026-08-23T18:42:09+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨AI监管争议、中美竞争以及美国中期选举与经济民粹主义走向。"
+      "einzeiler": "探讨AI监管争议、中美竞争以及美国中期选举与经济民粹主义走向。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "朝闻日报 | 龙虾精选资讯",
   "apple_collection_id": "1879805280",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "69e8c5c61e94ae6921e6a38c",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-04-22T23:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "宁德时代计划建4000座换电站，多地油价大涨与充电桩悄悄涨价引发关注。"
+      "einzeiler": "宁德时代计划建4000座换电站，多地油价大涨与充电桩悄悄涨价引发关注。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "69e7840f1e94ae6921d18f90",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-04-21T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "苹果换帅、日本地震影响半导体及四川农商行解散等热点资讯。"
+      "einzeiler": "苹果换帅、日本地震影响半导体及四川农商行解散等热点资讯。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69e62ff31e94ae6921ba1b40",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-04-20T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "2026年4月21日每日最新资讯速递"
+      "einzeiler": "2026年4月21日每日最新资讯速递",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69e4d8b81e94ae6921a2302e",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-04-19T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "河南问责整顿形式主义、机器人打破人类纪录及油价有望下调等新闻。"
+      "einzeiler": "河南问责整顿形式主义、机器人打破人类纪录及油价有望下调等新闻。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69e391711e94ae692191e45b",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-04-18T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "2026年4月19日每日最新资讯速递与热点新闻盘点"
+      "einzeiler": "2026年4月19日每日最新资讯速递与热点新闻盘点",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69e22bc91e94ae69218099c1",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-04-17T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "2026年4月18日新闻速递：粉蓝莓营销、A股调研、广州爆燃事故及最低工资标准。"
+      "einzeiler": "2026年4月18日新闻速递：粉蓝莓营销、A股调研、广州爆燃事故及最低工资标准。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69e10403b977fb2c47232452",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-04-16T23:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "法国通过归还中国文物法案及广交会无人机受热捧等新闻速递"
+      "einzeiler": "法国通过归还中国文物法案及广交会无人机受热捧等新闻速递",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69dfa31ab977fb2c47090dcf",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-04-15T21:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "今日最新资讯速递，涵盖科技、国际热点与财经动态。"
+      "einzeiler": "今日最新资讯速递，涵盖科技、国际热点与财经动态。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69de3d24b977fb2c47ede6bd",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-04-14T21:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "2026年4月15日最新资讯速递"
+      "einzeiler": "2026年4月15日最新资讯速递",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69dce791b977fb2c47d5adc5",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-04-13T21:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "每日最新资讯速递：光伏板块大涨、AI流量引擎发布及新能源汽车闪充吐槽"
+      "einzeiler": "每日最新资讯速递：光伏板块大涨、AI流量引擎发布及新能源汽车闪充吐槽",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

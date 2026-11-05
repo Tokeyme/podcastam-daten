@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "晚安故事盒子",
   "apple_collection_id": "1485824154",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_550849345",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2022-07-10T15:58:47+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "害羞的小象妮妮在妈妈的鼓励下，学会了勇敢表达自己的心里话。"
+      "einzeiler": "害羞的小象妮妮在妈妈的鼓励下，学会了勇敢表达自己的心里话。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "中文串烧DJ音乐｜2025精选合集",
   "apple_collection_id": "1837887312",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_928612102",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-11-24T05:07:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Arsen studio中文单曲WYDW音乐作品分享。"
+      "einzeiler": "Arsen studio中文单曲WYDW音乐作品分享。",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
     }
   ]
 }

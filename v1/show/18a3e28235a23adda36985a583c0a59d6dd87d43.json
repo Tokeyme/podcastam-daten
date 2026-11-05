@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Cindy’s 時間遊戲",
   "apple_collection_id": "1625060815",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "cmqxj7r2q02mf01x421a814os",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-06-28T08:57:30+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "时间魔法师Cindy宣布节目重大转型，回顾七年历程并打造全新网站与系统。"
+      "einzeiler": "时间魔法师Cindy宣布节目重大转型，回顾七年历程并打造全新网站与系统。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "cma9vu64u1tk401vb2z1l0fyo",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2025-05-04T16:55:31+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "時間藝術曆行星狗與光譜蛇之月時空週期解析"
+      "einzeiler": "時間藝術曆行星狗與光譜蛇之月時空週期解析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "cm8yo5kvf01ib01y1czj85wh8",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-04-01T15:45:13+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "時間藝術曆韻律藍風暴年第九個月太陽豹之月主題解析"
+      "einzeiler": "時間藝術曆韻律藍風暴年第九個月太陽豹之月主題解析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "cm7rub7xt000001un2hv71ufy",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-03-02T16:23:33+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "時間藝術曆銀河星系鷹之月的主題與時空週期解析"
+      "einzeiler": "時間藝術曆銀河星系鷹之月的主題與時空週期解析",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "cm685c6wo003501tah1z64u3n",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-01-22T16:58:29+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "時間藝術曆韻律藍風暴年共鳴猴之月解析"
+      "einzeiler": "時間藝術曆韻律藍風暴年共鳴猴之月解析",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

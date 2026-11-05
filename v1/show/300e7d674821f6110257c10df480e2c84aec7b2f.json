@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "旅行咖啡馆",
   "apple_collection_id": "1552336518",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/e172-audiofreehighqps/41/14/CKwRIJED0tKUABAAAAB6v-mT.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2021-01-12T02:56:16+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "诗人树才畅谈朴素旅行的体验，在行走与语言中寻找真实的自我。"
+      "einzeiler": "诗人树才畅谈朴素旅行的体验，在行走与语言中寻找真实的自我。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/94c9-audiofreehighqps/C6/3A/CKwRIDoDxwcRABAAAAB3oujF.mp3",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2021-01-03T04:13:05+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "摄影师朱英豪讲述伊朗、瑞士和津巴布韦的农业旅行经历"
+      "einzeiler": "摄影师朱英豪讲述伊朗、瑞士和津巴布韦的农业旅行经历",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/bd2a-audiofreehighqps/24/66/CKwRIJEDxvZtABAAAAB3niMS.mp3",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2021-01-03T03:01:58+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "世界小姐张梓琳分享公益旅行经历与感悟"
+      "einzeiler": "世界小姐张梓琳分享公益旅行经历与感悟",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/1eab-audiofreehighqps/C3/65/CKwRIDoDxkgaABAAAAB3inRY.mp3",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2021-01-02T14:39:08+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "建筑师何哲谈城市精神与建筑体验"
+      "einzeiler": "建筑师何哲谈城市精神与建筑体验",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/695d-audiofreehighqps/2C/B4/CKwRIJEDxhIEABAAAAB3cpFg.mp3",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2021-01-02T10:47:08+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话诗人小海：探讨心灵世界如何决定世界的大小与精神游牧。"
+      "einzeiler": "对话诗人小海：探讨心灵世界如何决定世界的大小与精神游牧。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/5fec-audiofreehighqps/C8/18/CKwRIJEDxgSTABAAAAB3bnTT.mp3",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2021-01-02T09:50:26+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "音乐DJ有待分享世界游牧公民的旅行理念与体验"
+      "einzeiler": "音乐DJ有待分享世界游牧公民的旅行理念与体验",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

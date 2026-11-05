@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "科技朋克Roy｜听电子发烧友聊干货",
   "apple_collection_id": "1795225344",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_992130037",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-06-22T00:28:04+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "芯片人与AI专家探讨AI系统的终局、Agent OS的架构设计及日常应用。"
+      "einzeiler": "芯片人与AI专家探讨AI系统的终局、Agent OS的架构设计及日常应用。",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_956614831",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-02-12T10:08:32+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "一位芯片行业资深专家的40年从业经验与行业视角分享"
+      "einzeiler": "一位芯片行业资深专家的40年从业经验与行业视角分享",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_807754531",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-02-22T06:40:50+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨车载操作系统、汽车功能安全与大数据在自动驾驶中的应用。"
+      "einzeiler": "探讨车载操作系统、汽车功能安全与大数据在自动驾驶中的应用。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_805711788",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-02-15T11:17:11+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Roy与资深汽车人探讨汽车芯片与智能驾驶的技术发展。"
+      "einzeiler": "Roy与资深汽车人探讨汽车芯片与智能驾驶的技术发展。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_803666353",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-02-08T16:18:56+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨智能手表与汽车的跨界联动关系。"
+      "einzeiler": "探讨智能手表与汽车的跨界联动关系。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/3baf-audiofreehighqps/84/D2/CMCoOSIDB1mxAFsyyQBJlHlv.mp3",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2020-08-10T18:49:22+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "华强北高仿Airpods Pro体验与山寨无线耳机行业观察"
+      "einzeiler": "华强北高仿Airpods Pro体验与山寨无线耳机行业观察",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

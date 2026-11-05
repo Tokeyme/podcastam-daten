@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "畅饮香水对谈",
   "apple_collection_id": "1575552539",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_563627070",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2022-08-24T12:00:40+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨馥奇香型与芳香香型的区别及气味轮的局限性"
+      "einzeiler": "探讨馥奇香型与芳香香型的区别及气味轮的局限性",
+      "clips_anzahl": 3,
+      "clips_art": "aac"
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/0792-audiofreehighqps/66/04/CKwRIasE2Z5UAITTUQDQE-gG-aacv2-48K.m4a",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2021-07-30T10:57:58+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨当我们说香水显老时具体在讨论哪些气味特质"
+      "einzeiler": "探讨当我们说香水显老时具体在讨论哪些气味特质",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/99d7-audiofreehighqps/0D/02/CKwRIMAEzKYmAGVc8gDLJj7L.m4a",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2021-07-20T14:51:59+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨300元以下值得尝试的各类香水选择。"
+      "einzeiler": "探讨300元以下值得尝试的各类香水选择。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/storages/0b66-audiofreehighqps/AE/BA/CKwRIMAExJwCAGBz-QDH9qC3.m4a",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2021-07-14T12:26:20+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨售价在300元以下的平价香水选择。"
+      "einzeiler": "探讨售价在300元以下的平价香水选择。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

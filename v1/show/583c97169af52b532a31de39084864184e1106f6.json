@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Are You A Charlotte?",
   "apple_collection_id": "1784946892",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "c3afa901-9a43-4368-b966-b4ba006bca6b",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-03T11:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Revisiting Sex and the City season five with guest Sean Palmer"
+      "einzeiler": "Revisiting Sex and the City season five with guest Sean Palmer",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "d7d73f7f-b681-4436-8a07-b4ac010ff7ac",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-20T16:34:47+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Kristen Johnston talks about her iconic role as Lexi on Sex and the City."
+      "einzeiler": "Kristen Johnston talks about her iconic role as Lexi on Sex and the City.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     }
   ]
 }

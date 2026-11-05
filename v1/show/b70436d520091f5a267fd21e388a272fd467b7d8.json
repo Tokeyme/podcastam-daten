@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Sober Cast: An (unofficial) Alcoholics Anonymous Podcast AA",
   "apple_collection_id": "1231248537",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "sobercast.podbean.com/1624e331-ee13-3d5d-ae71-94e0374552ee",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-05T05:00:00-07:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Three women share their experiences on recovery, motherhood, and finding connection in AA."
+      "einzeiler": "Three women share their experiences on recovery, motherhood, and finding connection in AA.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
     }
   ]
 }

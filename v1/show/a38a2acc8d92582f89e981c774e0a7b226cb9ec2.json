@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "忠武路特派|电影,韩影,泛文化",
   "apple_collection_id": "1795297435",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6a9450ebf03e74ee6b023ea0",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-30T15:53:30+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨韩国电影《希望》及导演罗宏镇的创作"
+      "einzeiler": "探讨韩国电影《希望》及导演罗宏镇的创作",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a300bec4233e62bc54a5f92",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-06-15T14:34:49+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "深度解析韩国僵尸片《群体》，探讨高概念设定与类型片创作利弊。"
+      "einzeiler": "深度解析韩国僵尸片《群体》，探讨高概念设定与类型片创作利弊。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6a0015fe1b7bd50295d704ca",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-05-10T05:27:46+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "专访导演张律，探讨电影《春树》的创作背景与相关内容。"
+      "einzeiler": "专访导演张律，探讨电影《春树》的创作背景与相关内容。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69edbe6b1d989496e78875a5",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-04-26T07:45:11+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "在韩国做演员是怎样的体验？对话演员张锐分享幕后经历。"
+      "einzeiler": "在韩国做演员是怎样的体验？对话演员张锐分享幕后经历。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69c29c0714d40a135825d51e",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-03-24T14:19:30+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨韩国历史电影及其背后的真实朝鲜王朝故事。"
+      "einzeiler": "探讨韩国历史电影及其背后的真实朝鲜王朝故事。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69a5563266e2c30377fc6445",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-03-02T09:32:21+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "韩国电影及部分日本中国台湾取景地打卡经验"
+      "einzeiler": "韩国电影及部分日本中国台湾取景地打卡经验",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6958aae814db1df9ef1e9eab",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-01-04T03:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾2025年新片并展望未来播客规划"
+      "einzeiler": "回顾2025年新片并展望未来播客规划",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "693ed76437f52a644ee875e1",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-12-21T03:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论韩国电影《我讨厌韩国》及移民议题"
+      "einzeiler": "讨论韩国电影《我讨厌韩国》及移民议题",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

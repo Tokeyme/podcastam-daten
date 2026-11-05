@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "创业播客",
   "apple_collection_id": "1524315888",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_794937404",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-01-13T04:11:12+00:00",
       "clips": false,
       "kapitel": true,
-      "einzeiler": "段永平浙江大学分享会：谈长远决策、本分哲学与投资底层逻辑。"
+      "einzeiler": "段永平浙江大学分享会：谈长远决策、本分哲学与投资底层逻辑。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "晓东讲故事-奇闻档案",
   "apple_collection_id": "1525185337",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_824117627",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-04-26T03:35:59+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨法医在职业生涯中遇到的种种离奇古怪案件与死亡谜题。"
+      "einzeiler": "探讨法医在职业生涯中遇到的种种离奇古怪案件与死亡谜题。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_821630895",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2025-04-26T03:35:53+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "挑战听友投稿的海龟汤推理谜题，层层解析悬疑故事。"
+      "einzeiler": "挑战听友投稿的海龟汤推理谜题，层层解析悬疑故事。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_803981069",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-04-26T03:35:46+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨海龟汤规则怪谈及多起离奇悬疑故事"
+      "einzeiler": "探讨海龟汤规则怪谈及多起离奇悬疑故事",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_775612799",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-04-26T03:35:21+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "一起通过判断题解开几则新的情境推理谜题。"
+      "einzeiler": "一起通过判断题解开几则新的情境推理谜题。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_740710698",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-04-26T03:34:45+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨美国都市传说“梅尔的洞”的超自然现象与阴谋论"
+      "einzeiler": "探讨美国都市传说“梅尔的洞”的超自然现象与阴谋论",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_737759205",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-04-26T03:34:38+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨民间灵异经历与阴阳师的相关故事"
+      "einzeiler": "探讨民间灵异经历与阴阳师的相关故事",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_733757730",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-04-26T03:34:29+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探秘封门村的诡异传说与荒村探险经历"
+      "einzeiler": "探秘封门村的诡异传说与荒村探险经历",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_727595543",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-04-26T03:34:18+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨明代红丸案与朱常洛之死背后的宫廷权力争斗。"
+      "einzeiler": "探讨明代红丸案与朱常洛之死背后的宫廷权力争斗。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_725363474",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2025-04-26T03:34:13+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨多起诡异事件与未解谜团"
+      "einzeiler": "探讨多起诡异事件与未解谜团",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_724727085",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2025-04-26T03:34:09+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "散步时目睹铁板从高空坠落砸地，女子坐在原地迟迟不肯离开。"
+      "einzeiler": "散步时目睹铁板从高空坠落砸地，女子坐在原地迟迟不肯离开。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "风风新闻",
   "apple_collection_id": "1875124657",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1008092521",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-23T06:39:23+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "盘点全球外交风云、哥伦比亚强震、人形机器人运动会及女排亚锦赛首秀。"
+      "einzeiler": "盘点全球外交风云、哥伦比亚强震、人形机器人运动会及女排亚锦赛首秀。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     }
   ]
 }

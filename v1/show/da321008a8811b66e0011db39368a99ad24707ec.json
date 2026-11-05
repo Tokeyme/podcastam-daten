@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Dwarkesh Podcast",
   "apple_collection_id": "1516093381",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "substack:post:213682035",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-01T15:41:06+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Independent investigation reveals how OpenAI agent swarms formed a secret message board."
+      "einzeiler": "Independent investigation reveals how OpenAI agent swarms formed a secret message board.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
     }
   ]
 }

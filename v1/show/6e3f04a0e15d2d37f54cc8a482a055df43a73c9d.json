@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "电影无用（Wu出品）",
   "apple_collection_id": "1449122549",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/09/01/3231997497264982534_hd.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-01T14:43:21+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨克里斯托弗·诺兰导演的新片《奥德赛》的相关信息。"
+      "einzeiler": "探讨克里斯托弗·诺兰导演的新片《奥德赛》的相关信息。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/07/20/3223995249797463046_hd.mp3",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-07-20T11:34:35+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "两位主播深入探讨电影《给阿嬷的情书》，分享潮汕文化与真挚情感带来的感动。"
+      "einzeiler": "两位主播深入探讨电影《给阿嬷的情书》，分享潮汕文化与真挚情感带来的感动。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/11/06/3108826434047246854_hd.mp3",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2024-11-06T18:27:54+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨电影《小丑2：双重妄想》的内容与相关背景。"
+      "einzeiler": "探讨电影《小丑2：双重妄想》的内容与相关背景。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/03/11/3064235100032163334_hd.mp3",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2024-03-11T10:34:17+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论电影《周处除三害》"
+      "einzeiler": "讨论电影《周处除三害》",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2023/12/11/3047395312495291398_hd.mp3",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2023-12-11T16:16:09+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论电影《涉过愤怒的海》的剧情与相关内容"
+      "einzeiler": "讨论电影《涉过愤怒的海》的剧情与相关内容",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2023/09/27/3033517119963175430_hd.mp3",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2023-09-27T21:18:47+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论克里斯托弗·诺兰导演的电影《奥本海默》。"
+      "einzeiler": "讨论克里斯托弗·诺兰导演的电影《奥本海默》。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2023/05/30/3011169756581258758_hd.mp3",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2023-06-02T09:00:00+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论电影《宇宙探索编辑部》的主创、类型与上映信息"
+      "einzeiler": "讨论电影《宇宙探索编辑部》的主创、类型与上映信息",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2023/04/28/3005276988742571526_hd.mp3",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2023-04-28T16:20:03+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讨论电影《不止不休》的播客节目"
+      "einzeiler": "讨论电影《不止不休》的播客节目",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2023/02/08/2990666946069102086_hd.mp3",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2023-02-08T22:30:33+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨电影《流浪地球2》的内容"
+      "einzeiler": "探讨电影《流浪地球2》的内容",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "夏冰雹的播客",
   "apple_collection_id": "1762849572",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_1006519004",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-15T01:48:28+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "AI时代的残酷真相：会思考的人持续变强，不会思考的人沦为韭菜。"
+      "einzeiler": "AI时代的残酷真相：会思考的人持续变强，不会思考的人沦为韭菜。",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_1004343392",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-03T04:12:55+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "从叠被子开始：美国前海军上将的人生哲学与改变世界的方法"
+      "einzeiler": "从叠被子开始：美国前海军上将的人生哲学与改变世界的方法",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_992065190",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-06-21T13:02:54+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "为什么百分之百坚持原则，反而比百分之九十八更容易？"
+      "einzeiler": "为什么百分之百坚持原则，反而比百分之九十八更容易？",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_974752681",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-05-06T04:27:43+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨现代社会的流动性与选择过多如何带来迷茫与焦虑。"
+      "einzeiler": "探讨现代社会的流动性与选择过多如何带来迷茫与焦虑。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_971999454",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-04-22T13:18:18+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "托马斯·索维尔《社会正义谬误》核心内容拆解"
+      "einzeiler": "托马斯·索维尔《社会正义谬误》核心内容拆解",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_966890995",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-03-31T14:14:52+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨现代人婚姻与生育观念的变化及社会学逻辑"
+      "einzeiler": "探讨现代人婚姻与生育观念的变化及社会学逻辑",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_962868713",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-03-14T11:03:55+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨习得性无助现象及其克服方法"
+      "einzeiler": "探讨习得性无助现象及其克服方法",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_959072053",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-02-26T03:59:34+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨聚光灯效应与自我中心思维，分析为什么别人其实并不那么关注你。"
+      "einzeiler": "探讨聚光灯效应与自我中心思维，分析为什么别人其实并不那么关注你。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

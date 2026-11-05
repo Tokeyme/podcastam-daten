@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "我的生命中只剩下钢琴",
   "apple_collection_id": "1168917319",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group23/M08/0A/2B/wKgJL1gT7LWAC45XAFUJ1wk-b2I973.m4a",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2016-10-29T00:26:30+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "播放勃拉姆斯d小调第一钢琴协奏曲第三乐章。作品编号Op.15。"
+      "einzeiler": "播放勃拉姆斯d小调第一钢琴协奏曲第三乐章。作品编号Op.15。",
+      "clips_anzahl": 3,
+      "clips_art": "aac"
     }
   ]
 }

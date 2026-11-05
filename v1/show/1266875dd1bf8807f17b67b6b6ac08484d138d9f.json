@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Our Town",
   "apple_collection_id": "1802010242",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "f54431e7-dba5-46d1-9dc4-b4b4014789d4",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-31T07:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Gainesboro's small-town life clashes with a growing Christian nationalist community."
+      "einzeiler": "Gainesboro's small-town life clashes with a growing Christian nationalist community.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "31ec39a8-e884-4069-a5a5-b4af010ce1b3",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-24T07:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "How the controversial model of Moscow, Idaho, inspires Christian nationalist projects."
+      "einzeiler": "How the controversial model of Moscow, Idaho, inspires Christian nationalist projects.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     }
   ]
 }

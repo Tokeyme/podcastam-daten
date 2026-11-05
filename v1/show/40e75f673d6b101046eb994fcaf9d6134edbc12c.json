@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "心理这点事儿",
   "apple_collection_id": "1747118108",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6a15ae63ff7b9a8c0a5b9ce4",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-05-27T04:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨为什么真正的改变如此艰难，以及艺术与身体如何帮助我们应对成长。"
+      "einzeiler": "探讨为什么真正的改变如此艰难，以及艺术与身体如何帮助我们应对成长。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "6a15ac9b13abca418579f976",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-05-27T03:59:29+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨为什么真正的改变总是如此困难以及如何面对人生转折点"
+      "einzeiler": "探讨为什么真正的改变总是如此困难以及如何面对人生转折点",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a034e9b1b7bd5029505730b",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-05-13T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨为什么被夸奖时总觉得不够好以及如何建立内在认可"
+      "einzeiler": "探讨为什么被夸奖时总觉得不够好以及如何建立内在认可",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "6a035124e1eb34a939463189",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-05-13T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨为何获得外部赞 却内心自我怀疑并寻找内在认同"
+      "einzeiler": "探讨为何获得外部赞 却内心自我怀疑并寻找内在认同",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69ef812164c9c68759f1ebb2",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-04-28T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨如何摆脱父母的情感控制与内疚感"
+      "einzeiler": "探讨如何摆脱父母的情感控制与内疚感",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69ef81be64c9c68759f1f0d2",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-04-28T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨如何从父母“都是为你好”的情感束缚中挣脱。"
+      "einzeiler": "探讨如何从父母“都是为你好”的情感束缚中挣脱。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69de62e7e2c8be315537a8ea",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-04-15T04:31:09+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨如何面对母亲的批评以及内化批评声音的心理困境"
+      "einzeiler": "探讨如何面对母亲的批评以及内化批评声音的心理困境",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69de631fb977fb2c47f18e67",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-04-15T04:30:56+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "面对母亲的不断否定，如何通过表达性艺术治疗寻找内在中心"
+      "einzeiler": "面对母亲的不断否定，如何通过表达性艺术治疗寻找内在中心",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69d528b4e2c8be31559dd582",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-04-08T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨为什么越长大越难感受到发自心底的快乐。"
+      "einzeiler": "探讨为什么越长大越难感受到发自心底的快乐。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "69d533f8b977fb2c47588957",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-04-08T04:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨为什么随着年龄增长，感受真正的快乐变得愈发困难。"
+      "einzeiler": "探讨为什么随着年龄增长，感受真正的快乐变得愈发困难。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

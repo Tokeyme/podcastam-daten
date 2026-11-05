@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "TBPN",
   "apple_collection_id": "1772360235",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "6cba9def-8dc5-4694-8e44-ee9ef52b1728",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-04T19:04:08-07:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Astra GPT-6 release, September jobs report beat, and updates from top tech founders."
+      "einzeiler": "Astra GPT-6 release, September jobs report beat, and updates from top tech founders.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
     },
     {
       "guid": "2634a96f-71c6-4abe-8b8e-40ab44485480",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-14T19:12:42-07:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Tesla's flying Roadster plans, Anthropic's leadership scrutiny, and the Lion King…"
+      "einzeiler": "Tesla's flying Roadster plans, Anthropic's leadership scrutiny, and the Lion King…",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
     }
   ]
 }

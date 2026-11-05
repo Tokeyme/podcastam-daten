@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Wild Wild Web - Geschichten aus dem Internet",
   "apple_collection_id": "1574676417",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "8fc6c703-384d-48c8-b3ff-1f30f157d712",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-04T00:01:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Wie Palantir-Software die moderne Kriegsführung in Konflikten verändert"
+      "einzeiler": "Wie Palantir-Software die moderne Kriegsführung in Konflikten verändert",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "a82b4cc6-4f68-4013-9643-f56e0387fc56",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-28T00:01:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Einblicke in die Funktionsweise von Palantir und die Software-Nutzung in Deutschland."
+      "einzeiler": "Einblicke in die Funktionsweise von Palantir und die Software-Nutzung in Deutschland.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "fb607578-46f2-4b40-8198-a5f53394fbe0",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-08-21T00:01:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Alex Karps Wandel vom Trump-Gegner zum Unterstützer und die Geschichte von Palantir"
+      "einzeiler": "Alex Karps Wandel vom Trump-Gegner zum Unterstützer und die Geschichte von Palantir",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "1493b8eb-8411-4999-854a-11270e5b7f0f",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-08-14T00:01:00+02:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Wie Palantirs Software bei US-Massenabschiebungen durch die Einwanderungsbehörde ICE…"
+      "einzeiler": "Wie Palantirs Software bei US-Massenabschiebungen durch die Einwanderungsbehörde ICE…",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
     },
     {
       "guid": "3d95a0a6-c7b8-4e96-ae3c-35095cdb1006",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-08-07T00:01:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Die Geschichte des umstrittenen Software-Unternehmens Palantir und seines CEOs Alex Karp."
+      "einzeiler": "Die Geschichte des umstrittenen Software-Unternehmens Palantir und seines CEOs Alex Karp.",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "8d412843-d9b2-4173-af46-a1d8ffcbcd54",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-07-10T07:00:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Der Beschluss der Stadt Limburg zum Vorgehen gegen Tauben und der Einsatz von Malte…"
+      "einzeiler": "Der Beschluss der Stadt Limburg zum Vorgehen gegen Tauben und der Einsatz von Malte…",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "5af210cb-3072-4f46-ad70-cf866de70f4c",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-07-03T07:00:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Ein Blick auf Open Source Maintainer und die Herausforderungen ihrer Arbeit"
+      "einzeiler": "Ein Blick auf Open Source Maintainer und die Herausforderungen ihrer Arbeit",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "27c3b9ac-a8dc-49a8-a73a-f7e12966082a",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-06-26T07:00:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Peter Thiel, Elon Musk und ihr Weg an die politische Macht"
+      "einzeiler": "Peter Thiel, Elon Musk und ihr Weg an die politische Macht",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "73aa0819-e885-4ea1-a57d-2799021bcf4c",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2025-06-19T07:00:00+02:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "Elon Musk, Peter Thiel und ihr Weg an die Macht"
+      "einzeiler": "Elon Musk, Peter Thiel und ihr Weg an die Macht",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

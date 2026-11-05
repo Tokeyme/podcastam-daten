@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "喜乐运动会｜体育资讯新闻 世界杯 体育赛事体坛趣闻",
   "apple_collection_id": "1606004133",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_602944029",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2023-01-09T01:42:09+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "梅西获评美国体育新闻网年度最佳运动员并跻身GOAT行列"
+      "einzeiler": "梅西获评美国体育新闻网年度最佳运动员并跻身GOAT行列",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_599694251",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2022-12-26T14:42:27+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨37岁足球运动员C罗的高度自律及其生活状态"
+      "einzeiler": "探讨37岁足球运动员C罗的高度自律及其生活状态",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_599644063",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2022-12-26T11:05:04+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "梅西效应席卷全球，球衣售罄且夺冠动态创纪录"
+      "einzeiler": "梅西效应席卷全球，球衣售罄且夺冠动态创纪录",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_599441059",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2022-12-25T13:05:59+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "卡塔尔世界杯结束后足坛身价榜单更新情况"
+      "einzeiler": "卡塔尔世界杯结束后足坛身价榜单更新情况",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_599417513",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2022-12-25T11:19:33+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "隋文静和韩聪在北京冬奥会上夺得花样滑冰双人滑金牌。"
+      "einzeiler": "隋文静和韩聪在北京冬奥会上夺得花样滑冰双人滑金牌。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_599181887",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2022-12-24T09:52:09+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "中国体坛13天内多达8人被禁赛的原因探讨"
+      "einzeiler": "中国体坛13天内多达8人被禁赛的原因探讨",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

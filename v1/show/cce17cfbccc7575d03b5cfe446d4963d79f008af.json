@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Data Center Infrastructure Podcast",
   "apple_collection_id": "6799820255",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "469bfe22-4aa4-4b63-9007-7d265379a232",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-08-31T13:00:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Texas data centers face new hurdles with SB6, Batch Zero, and water regulations."
+      "einzeiler": "Texas data centers face new hurdles with SB6, Batch Zero, and water regulations.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     }
   ]
 }

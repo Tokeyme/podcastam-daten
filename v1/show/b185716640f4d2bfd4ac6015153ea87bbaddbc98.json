@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Hotel Matze",
   "apple_collection_id": "1168045239",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "c7ac101bc1ecd6fe1d8a13174afc3da8",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-10-28T16:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Stefanie Kloß über die Silbermond-Pause, alte Band-Geheimnisse und das Älterwerden."
+      "einzeiler": "Stefanie Kloß über die Silbermond-Pause, alte Band-Geheimnisse und das Älterwerden.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "1d4e89bcc913ea3a872e4ea4fbe76ea4",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-10-21T15:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Warum wir so hart zu uns sind und wie wir in Krisen handlungsfähig bleiben"
+      "einzeiler": "Warum wir so hart zu uns sind und wie wir in Krisen handlungsfähig bleiben",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "f438e186a5b1e97e35cf66c902222413",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-10-18T04:00:00+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Acht Jahre gemeinsames Tagebuch in einer Excel-Liste werden nun zu einer App."
+      "einzeiler": "Acht Jahre gemeinsames Tagebuch in einer Excel-Liste werden nun zu einer App.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
     },
     {
       "guid": "2f4c8913d2ce5b49994b3ba26c1d3011",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-10-16T07:09:16+00:00",
       "clips": true,
       "kapitel": false,
-      "einzeiler": "Christian Schertz über Mediengesetz, den Schutz der Persönlichkeit und Mandate."
+      "einzeiler": "Christian Schertz über Mediengesetz, den Schutz der Persönlichkeit und Mandate.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "少数派播客 SSPAI Podcast",
   "apple_collection_id": "1483157529",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://sspai.typlog.io/episodes/tim-and-nike",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-06-16T03:09:31+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨 Apple、Nike 与 Tim Cook 之间若隐若现的商业三角关系。"
+      "einzeiler": "探讨 Apple、Nike 与 Tim Cook 之间若隐若现的商业三角关系。",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep142",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2025-08-18T06:56:31+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "独立应用《专注飞机》开发者的产品灵感与经历分享"
+      "einzeiler": "独立应用《专注飞机》开发者的产品灵感与经历分享",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep141",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2025-07-02T06:33:52+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "甲骨文研究者李右溪做客，聊聊商代生活与科普创作"
+      "einzeiler": "甲骨文研究者李右溪做客，聊聊商代生活与科普创作",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep140",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2025-06-26T16:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "回顾播客二十年历程与个人经历"
+      "einzeiler": "回顾播客二十年历程与个人经历",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep139",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2025-06-09T10:03:17+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨独立作品《小猫补光灯》的开发历程与AI工具应用"
+      "einzeiler": "探讨独立作品《小猫补光灯》的开发历程与AI工具应用",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep138",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2025-04-17T14:56:13+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨 AI 辅助写作的工具选择、使用方法与伦理"
+      "einzeiler": "探讨 AI 辅助写作的工具选择、使用方法与伦理",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep137",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2025-01-22T03:00:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "2024 年终盘点：产品、品牌与好内容"
+      "einzeiler": "2024 年终盘点：产品、品牌与好内容",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep136",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2025-01-19T16:00:59+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "从打工小妹到创业者的经历"
+      "einzeiler": "从打工小妹到创业者的经历",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep135",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2025-01-06T08:16:45+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "唯电团队分享从内容创业到硬件创业的经历与挑战"
+      "einzeiler": "唯电团队分享从内容创业到硬件创业的经历与挑战",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://sspai.typlog.io/episodes/ep134",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2024-11-22T16:00:01+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "对话设计师 Toby，探讨一加 13 手机壳共创项目的设计过程"
+      "einzeiler": "对话设计师 Toby，探讨一加 13 手机壳共创项目的设计过程",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "故事FM",
   "apple_collection_id": "1256399960",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "4eea69dc-d811-4f89-b5d8-08e14b250a21",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-10-22T14:12:56+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "工科男老王回忆了自己担任五年人民陪审员的经历，探讨了司法实践与理想的差距。"
+      "einzeiler": "工科男老王回忆了自己担任五年人民陪审员的经历，探讨了司法实践与理想的差距。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4747",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-09-17T20:27:12+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "讲述中国人在菲律宾被移民局逮捕并关押 41 天的经历"
+      "einzeiler": "讲述中国人在菲律宾被移民局逮捕并关押 41 天的经历",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4741",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2026-09-10T16:48:07+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨残障与健全人身份反转的原创戏剧创作"
+      "einzeiler": "探讨残障与健全人身份反转的原创戏剧创作",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4737",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2026-09-03T17:00:45+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "55岁阿地与27岁仔仔在新疆相遇后的情感故事"
+      "einzeiler": "55岁阿地与27岁仔仔在新疆相遇后的情感故事",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4733",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2026-09-02T19:31:43+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "ICU护士包包分享如何在责任与爱好中寻找自由与热爱。"
+      "einzeiler": "ICU护士包包分享如何在责任与爱好中寻找自由与热爱。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4720",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2026-08-31T18:13:47+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨如何把小众需求做成养活自己的事业的成都故事开放麦。"
+      "einzeiler": "探讨如何把小众需求做成养活自己的事业的成都故事开放麦。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4715",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2026-08-25T16:39:03+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "走进东德史塔西内部，前情报官讲述冷战时期的间谍生涯与两德统一后的命运。"
+      "einzeiler": "走进东德史塔西内部，前情报官讲述冷战时期的间谍生涯与两德统一后的命运。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4711",
@@ -82,7 +96,9 @@
       "veroeffentlicht": "2026-08-21T20:42:55+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨两德统一后史塔西档案的解密、社会转型正义及持续存在的东西部心理隔阂。"
+      "einzeiler": "探讨两德统一后史塔西档案的解密、社会转型正义及持续存在的东西部心理隔阂。",
+      "clips_anzahl": 3,
+      "clips_art": "mp3"
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4707",
@@ -92,7 +108,9 @@
       "veroeffentlicht": "2026-08-19T17:47:51+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨东德史塔西的心理操纵与系统性摧毁个人的手段。"
+      "einzeiler": "探讨东德史塔西的心理操纵与系统性摧毁个人的手段。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4702",
@@ -102,7 +120,9 @@
       "veroeffentlicht": "2026-08-17T21:50:26+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "东德青年彼得·科伊普因试图离境被捕，多年后通过史塔西档案寻找真相。"
+      "einzeiler": "东德青年彼得·科伊普因试图离境被捕，多年后通过史塔西档案寻找真相。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://hosting.wavpub.cn/storyfm/?p=4698",
@@ -112,7 +132,9 @@
       "veroeffentlicht": "2026-08-15T19:14:15+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探寻东德史塔西的秘密警察监控与无形之墙。"
+      "einzeiler": "探寻东德史塔西的秘密警察监控与无形之墙。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

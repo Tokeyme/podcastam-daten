@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "极简主义我决定简单的生活",
   "apple_collection_id": "1234834992",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_939284591",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2025-12-11T02:28:38+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨物质极简后的精神内耗，以及如何用AI时代重读大卫霍金斯的方法清理大脑。"
+      "einzeiler": "探讨物质极简后的精神内耗，以及如何用AI时代重读大卫霍金斯的方法清理大脑。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     },
     {
       "guid": "xmly_track_743651116",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2024-07-24T23:31:13+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "一个36岁单身编辑转向极简主义的故事。"
+      "einzeiler": "一个36岁单身编辑转向极简主义的故事。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_743420434",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2024-07-23T23:20:00+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探索极简主义的奥秘，通过减少物品重塑生活方式。"
+      "einzeiler": "探索极简主义的奥秘，通过减少物品重塑生活方式。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group29/M01/13/AB/wKgJWVkcXpjxUu-_ACj_98qFls0873-aacv2-48K.m4a",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2017-05-17T14:30:41+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨如何通过极简主义减少物欲影响、购物犹豫和空想时间来拥有更多时间。"
+      "einzeiler": "探讨如何通过极简主义减少物欲影响、购物犹豫和空想时间来拥有更多时间。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group27/M03/CA/6D/wKgJR1kZwByjgbkCADCCCsuwR8A966-aacv2-48K.m4a",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2017-05-15T14:49:56+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "关于极简主义的四个重要说明与精神戒律"
+      "einzeiler": "关于极简主义的四个重要说明与精神戒律",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

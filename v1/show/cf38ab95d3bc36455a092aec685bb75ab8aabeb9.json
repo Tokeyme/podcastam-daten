@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "小凤直播室 访谈录",
   "apple_collection_id": "1559144306",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/10/31/3107704324141778950_hd.mp3",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2024-10-31T17:10:33+08:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "著名作曲家瞿小松做客节目，畅谈老庄哲学、经典电影及个人音乐创作历程。"
+      "einzeiler": "著名作曲家瞿小松做客节目，畅谈老庄哲学、经典电影及个人音乐创作历程。",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101967586023271942_hd.mp3",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2024-09-30T19:07:51+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "颜峻的艺术转型与实验音乐实践口述史"
+      "einzeiler": "颜峻的艺术转型与实验音乐实践口述史",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101967590317455366_hd.mp3",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2024-09-30T19:04:43+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "音乐评论人与实验艺术家颜峻的口述历史"
+      "einzeiler": "音乐评论人与实验艺术家颜峻的口述历史",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/09/30/3101967590011338758_hd.mp3",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2024-09-30T19:02:46+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "颜峻的口述史访谈，探讨实验音乐与生活方式"
+      "einzeiler": "颜峻的口述史访谈，探讨实验音乐与生活方式",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/09/04/3097095458874565638_hd.mp3",
@@ -52,7 +60,9 @@
       "veroeffentlicht": "2024-09-04T12:53:53+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "走近导演、作家尹丽川的人文口述史，回顾其早期创作与人生经历。"
+      "einzeiler": "走近导演、作家尹丽川的人文口述史，回顾其早期创作与人生经历。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/08/30/3096207779329325062_hd.mp3",
@@ -62,7 +72,9 @@
       "veroeffentlicht": "2024-08-30T18:02:17+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "尹丽川口述史下半期：谈论书籍、电影与音乐偏好"
+      "einzeiler": "尹丽川口述史下半期：谈论书籍、电影与音乐偏好",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "http://cdn.lizhi.fm/audio/2024/08/12/3092872859630515718_hd.mp3",
@@ -72,7 +84,9 @@
       "veroeffentlicht": "2024-08-12T18:40:47+08:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "在奥运闭幕夜重新阅读法国经典童话《小王子》。"
+      "einzeiler": "在奥运闭幕夜重新阅读法国经典童话《小王子》。",
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

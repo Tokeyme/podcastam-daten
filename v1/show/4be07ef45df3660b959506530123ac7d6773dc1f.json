@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "女皇野史|上下五千年|单播|历史故事|武则天",
   "apple_collection_id": "1697175896",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "xmly_track_611866329",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2023-02-17T12:14:05+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "武则天的传奇一生与历史功绩"
+      "einzeiler": "武则天的传奇一生与历史功绩",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "xmly_track_611699400",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2023-02-16T15:48:28+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "讲述武则天之父武士约从底层商人到大唐开国功臣的发迹史。"
+      "einzeiler": "讲述武则天之父武士约从底层商人到大唐开国功臣的发迹史。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
     }
   ]
 }

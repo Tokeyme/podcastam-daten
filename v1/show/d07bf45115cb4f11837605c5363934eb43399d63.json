@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "极简生活+轻断食",
   "apple_collection_id": "1181806602",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group28/M0A/C6/5D/wKgJSFk6ku7h6HsKACBP-irQEXQ929-aacv2-48K.m4a",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2017-06-09T16:00:02+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "通过整理收纳书籍获得人生启迪与极简生活习惯"
+      "einzeiler": "通过整理收纳书籍获得人生启迪与极简生活习惯",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group28/M06/94/0F/wKgJSFk3c1XhCjB1ACezUlf8BeA125-aacv2-48K.m4a",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2017-06-07T03:30:50+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "探讨整理收纳经典书籍与极简生活方式。"
+      "einzeiler": "探讨整理收纳经典书籍与极简生活方式。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group29/M05/64/63/wKgJWVk0qDyRnC9CAC6MpBxFBIk972-aacv2-48K.m4a",
@@ -32,7 +36,9 @@
       "veroeffentlicht": "2017-06-05T00:41:48+00:00",
       "clips": false,
       "kapitel": false,
-      "einzeiler": "通过重新阅读整理收纳经典书籍来极简化生活习惯。"
+      "einzeiler": "通过重新阅读整理收纳经典书籍来极简化生活习惯。",
+      "clips_anzahl": 0,
+      "clips_art": null
     },
     {
       "guid": "https://aod.cos.tx.xmcdn.com/group27/M03/6C/D8/wKgJW1jSFpuDXLnrAI4CVHObpNg916-aacv2-48K.m4a",
@@ -42,7 +48,9 @@
       "veroeffentlicht": "2017-03-22T15:59:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "探讨极简主义生活方式，如何通过减少无用物品和杂事来找回生活中真正重要的事情。"
+      "einzeiler": "探讨极简主义生活方式，如何通过减少无用物品和杂事来找回生活中真正重要的事情。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
     }
   ]
 }

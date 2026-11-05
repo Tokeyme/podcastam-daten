@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Das Wissen | SWR",
   "apple_collection_id": "104913043",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "d554b363-dae6-4014-afb8-5c06883d3690",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-10-27T08:30:00+01:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Massive Proteste in Albanien gegen Korruption, Vetternwirtschaft und Jared Kushner"
+      "einzeiler": "Massive Proteste in Albanien gegen Korruption, Vetternwirtschaft und Jared Kushner",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
     }
   ]
 }

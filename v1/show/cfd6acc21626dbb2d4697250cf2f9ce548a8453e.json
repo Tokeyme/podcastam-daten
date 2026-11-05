@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Bankless",
   "apple_collection_id": "1499409058",
-  "erzeugt_am": "2026-11-04T17:52:23+00:00",
+  "erzeugt_am": "2026-11-05T07:58:01+00:00",
   "folgen": [
     {
       "guid": "flightcast:01M1NRYPADQ77QQEZTD1E9FW5J",
@@ -12,7 +12,9 @@
       "veroeffentlicht": "2026-09-04T10:30:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Crypto market rallies on Fed rate cut hopes while Robinhood chain booms with meme coins."
+      "einzeiler": "Crypto market rallies on Fed rate cut hopes while Robinhood chain booms with meme coins.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
     },
     {
       "guid": "flightcast:01M0GSBGR85QKK504HPGJJVZ43",
@@ -22,7 +24,9 @@
       "veroeffentlicht": "2026-08-21T10:30:00+00:00",
       "clips": true,
       "kapitel": true,
-      "einzeiler": "Crypto markets surge on Treasury QE, White House buzz, and massive short liquidations."
+      "einzeiler": "Crypto markets surge on Treasury QE, White House buzz, and massive short liquidations.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
     }
   ]
 }
