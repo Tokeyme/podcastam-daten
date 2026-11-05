@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Pivot",
   "apple_collection_id": "1073226719",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "1f4f9e4a-d47d-11f0-95d3-87087648c4c4",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7046786915.mp3",
+      "pfad": "/v1/episode/76e13b779070a15647f2d1913c5097ad64a44d39.json",
+      "titel": "Michigan Midterm Drama, Crypto Heist, and Guest Hillary Clinton",
+      "veroeffentlicht": "2026-11-03T16:30:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Live from New York, analyzing the midterms, crypto heists, and welcoming Hillary Clinton.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "1edcfa66-d47d-11f0-95d3-438b11f6620a",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8917444075.mp3",

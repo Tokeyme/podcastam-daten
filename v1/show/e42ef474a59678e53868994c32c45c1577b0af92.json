@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Up First from NPR",
   "apple_collection_id": "1222114325",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "dbc80c94-cef1-4257-9b03-9b6b5c60ace9",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/64f8bc44-95b7-4de7-a7e4-6d26c2809e53/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=64f8bc44-95b7-4de7-a7e4-6d26c2809e53&feed=HMwRVgVt&t=podcast&e=nx-s1-6028632&p=510318&d=752&size=12036433",
+      "pfad": "/v1/episode/87773c7f7bffc1fa47dd79250a11fb113301be7d.json",
+      "titel": "Democrats' Midterm Blowout, Trump Blames Candidates For Losses, Democratic Agenda",
+      "veroeffentlicht": "2026-11-04T10:42:43+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Democrats secure a historic midterm landslide, flipping both chambers of Congress.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "cb483913-60d0-4a3e-9467-da2e5f3f8d55",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/1931e62a-810c-4b35-b334-bac9e3c8bdf9/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=1931e62a-810c-4b35-b334-bac9e3c8bdf9&feed=HMwRVgVt&t=podcast&e=nx-s1-6027249&p=510318&d=775&size=12416357",

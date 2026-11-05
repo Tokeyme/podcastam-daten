@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
   "apple_collection_id": "1352434240",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "73988af7c0f71173a055a246ca2429d8",
+      "audio_url": "https://audio.podigee-cdn.net/2628972-m-c7e5161b1dd29faaa28fa7f82e195eab.mp3?source=feed",
+      "pfad": "/v1/episode/83975de0c302982672c692de8bcf3bd1071334d0.json",
+      "titel": "USA: So sind die Midterms gelaufen / Auto: BMW kappt Prognose – schon wieder",
+      "veroeffentlicht": "2026-11-04T05:01:53+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Rückschläge für Trump bei den US-Midterms und Gewinnwarnung beim Autobauer BMW",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "739021ab1ebbc77a6f974b45c8bf1641",
       "audio_url": "https://audio.podigee-cdn.net/2628971-m-8098bc0170a4a9e69155c743486c64d2.mp3?source=feed",

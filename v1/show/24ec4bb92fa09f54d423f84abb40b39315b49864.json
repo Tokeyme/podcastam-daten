@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Kaulitz Hills - Senf aus Hollywood",
   "apple_collection_id": "1694338196",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "fe41e576-d7b1-11f1-a507-8fec617639c7",
+      "audio_url": "https://traffic.megaphone.fm/GLT1899397556.mp3",
+      "pfad": "/v1/episode/df75bc8d970351f3117c9469e23ed7b1924f48f9.json",
+      "titel": "Achtung: Salty",
+      "veroeffentlicht": "2026-11-03T23:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Unterwegs in Hamburg, Kaffeecocktails und der Blick auf schräge Tourerlebnisse",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "eccef350-d212-11f1-958d-a7a22a089e27",
       "audio_url": "https://traffic.megaphone.fm/GLT2845478156.mp3",

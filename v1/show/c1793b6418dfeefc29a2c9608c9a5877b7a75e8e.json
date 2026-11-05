@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Streitkräfte und Strategien",
   "apple_collection_id": "252792204",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "C5947160D79511F17CE5D4F5EF86AF40",
+      "audio_url": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1103/AU-20261103-1440-4700.mp3",
+      "pfad": "/v1/episode/f551e4d2a3aa5a42726a65dece293e0b5ec48159.json",
+      "titel": "Greift Trump wieder den Iran an? (mit Klemens Fischer)",
+      "veroeffentlicht": "2026-11-03T15:29:00+01:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Wie wahrscheinlich ist ein neuer US-Angriff auf den Iran?",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
+    },
     {
       "guid": "573628D0CEE911F17447D4F5EF86AF40",
       "audio_url": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1023/AU-20261023-1433-3200.mp3",

@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "fdac966d-236d-4f35-afb9-4eb8f3f8a303",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/58d4b75a-ce15-4da5-b1b7-bc351c227983/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=58d4b75a-ce15-4da5-b1b7-bc351c227983&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/8370e708509cf0cfb2fe2d5d48794f3910fdadff.json",
+      "titel": "A Landslide Victory for Democrats",
+      "veroeffentlicht": "2026-11-04T10:51:38+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Democrats secure sweeping victories in the House and Senate during the midterm elections.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "a9967447-c034-486f-a8f4-a95d65b1bae8",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7269d6cb-724a-4375-8898-e4be357e5108/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=7269d6cb-724a-4375-8898-e4be357e5108&feed=Sl5CSM3S",

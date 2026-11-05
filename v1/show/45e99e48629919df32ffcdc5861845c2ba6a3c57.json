@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "6aea086197726cd4675c51a5",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aea086197726cd4675c51a5/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/liWaTwiwsRXegOQiFQC5en493_2P.m4a",
+      "pfad": "/v1/episode/ec40d426382029cd81d23f893d344bafa7c8db11.json",
+      "titel": "1104 佳能明年或全线涨价、沙特亚洲杯推迟举行、美国开启中期选举投票、英国男子徒步环游世界28年回家",
+      "veroeffentlicht": "2026-11-03T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "佳能明年或全线涨价、沙特亚洲杯延期、美国中期选举投票、男子徒步环游世界28年",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ae8affe97726cd4675bba66",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6ae8affe97726cd4675bba66/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lpzs3aU6BsJBFU6U5NXv_P-x-HBv.m4a",

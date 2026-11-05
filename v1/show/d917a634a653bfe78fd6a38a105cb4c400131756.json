@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "半拿铁·周刊",
   "apple_collection_id": "1815654713",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "6ae967cec96c8942ec167f82",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/682c566cc7c5f17595635a2c/6ae967cec96c8942ec167f82/media.xyzcdn.net/682c566cc7c5f17595635a2c/lkoNCf4-V8FcuNem50MowIGN1RbQ.m4a",
+      "pfad": "/v1/episode/d84e667b56be04adb53b1c8dd68b611415b877da.json",
+      "titel": "No.53 电摩出海闯远方、车险价格为何涨、老干妈辟谣忙、AI 电影票房凉、红果时长掀风浪",
+      "veroeffentlicht": "2026-11-03T12:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "中国电动两轮车海外走俏，新能源车险普遍亏损，老干妈AI质检引发热议",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ae084d2c96c8942ec1317e2",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/682c566cc7c5f17595635a2c/6ae084d2c96c8942ec1317e2/media.xyzcdn.net/682c566cc7c5f17595635a2c/lmdGXEDDaDpm2jTjIXRqin0Zl1N0.m4a",

@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "入夜电波",
   "apple_collection_id": "1784214454",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "6ae94ba397726cd4675bdfce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61b9d6a9f51ca5411e7eaf5b/6ae94ba397726cd4675bdfce/media.xyzcdn.net/61b9d6a9f51ca5411e7eaf5b/ltugjtZZnCt6lbjRWdVJvLpLElOA.m4a",
+      "pfad": "/v1/episode/adbd5d0728fcb49b90fe1fb8fea1d01c7e9ef43b.json",
+      "titel": "063.要想发大财，先把佛塔拆，华池特大文物盗窃走私案",
+      "veroeffentlicht": "2026-11-03T16:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "甘肃华池发生罕见特大文物盗窃案，八百多年历史的宋代石塔竟被盗贼分块搬走。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ad75471d421cc807733786f",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61b9d6a9f51ca5411e7eaf5b/6ad75471d421cc807733786f/media.xyzcdn.net/61b9d6a9f51ca5411e7eaf5b/lnjh0ui6Cxw2R8baZUmE7kuO-tRI.m4a",

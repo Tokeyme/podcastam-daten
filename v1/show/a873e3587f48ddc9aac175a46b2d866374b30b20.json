@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Bill Simmons Podcast",
   "apple_collection_id": "1043699613",
-  "erzeugt_am": "2026-11-05T18:39:40+00:00",
+  "erzeugt_am": "2026-11-05T20:29:59+00:00",
   "folgen": [
+    {
+      "guid": "1f42585c-cd83-11f1-a984-1b3dde0d4516",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5441570267.mp3",
+      "pfad": "/v1/episode/aa90b5756e238ec027ac4d8f37c49b704bc3776b.json",
+      "titel": "Luka’s MVP Run, Curry’s Revival, NBA Roster Regrets, and a Bears Super Bowl Run With Kirk Goldsberry and Tom Pelissero",
+      "veroeffentlicht": "2026-11-03T23:26:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Bill Simmons and guests discuss early NBA trends, MVP favorites, and NFL trade deadlines.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "c7a031d6-ce4b-11f1-87c8-a3c5e69791f5",
       "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4997860343.mp3",
