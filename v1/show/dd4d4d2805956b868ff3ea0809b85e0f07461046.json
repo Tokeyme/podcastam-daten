@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
   "apple_collection_id": "1623077169",
-  "erzeugt_am": "2026-11-05T21:23:41+00:00",
+  "erzeugt_am": "2026-11-06T15:28:36+00:00",
   "folgen": [
+    {
+      "guid": "878f4d76-d7e1-11f1-8dda-27f5c8a5cf90",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH2028696341.mp3",
+      "pfad": "/v1/episode/2cae94fb6ab40f93b4597c2e6f6b48a21ab89219.json",
+      "titel": "#349 - Wir verlieren das, worauf wir stolz waren (Ex-Rennfahrer)",
+      "veroeffentlicht": "2026-11-04T17:00:00+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "Daniel Abt über Familie, Motorsport, den Wandel der Autoindustrie und Politik",
+      "clips_anzahl": 0,
+      "clips_art": null
+    },
     {
       "guid": "81622996-d47b-11f1-8616-43f5b9625c63",
       "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH3158918299.mp3",

@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "你，静不下来",
   "apple_collection_id": "1809736974",
-  "erzeugt_am": "2026-11-05T21:23:41+00:00",
+  "erzeugt_am": "2026-11-06T15:28:36+00:00",
   "folgen": [
+    {
+      "guid": "6aeadb8797726cd4675c9b16",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6aeadb8797726cd4675c9b16/media.xyzcdn.net/67b6e9f7c58770a6e0030003/ljxtjwn941weoBGAY76_8T0snDmG.m4a",
+      "pfad": "/v1/episode/090d1dccf5ba13f4e99976c3f6e89b98ba8367b3.json",
+      "titel": "北京听友会：谢谢你来赴这场不正经的约会！",
+      "veroeffentlicht": "2026-11-04T16:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "听友会现场直击：老友与听众卸下包袱，畅聊中年危机与亲子关系。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ad863dcb381c0fcba19781f",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67b6e9f7c58770a6e0030003/6ad863dcb381c0fcba19781f/media.xyzcdn.net/67b6e9f7c58770a6e0030003/liOlpt_VlTNsehNqIWjduJM0iJGF.m4a",

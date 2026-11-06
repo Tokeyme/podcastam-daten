@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Mordlust",
   "apple_collection_id": "1413425371",
-  "erzeugt_am": "2026-11-05T21:23:41+00:00",
+  "erzeugt_am": "2026-11-06T15:28:36+00:00",
   "folgen": [
+    {
+      "guid": "623dbe6437f2e21641e9c86e5d16ee2a",
+      "audio_url": "https://audio.podigee-cdn.net/2640030-m-682672f13657f128626d4be31f9d445a.mp3?source=feed",
+      "pfad": "/v1/episode/e967315d9408d3d8e32c41e5e7bff5dea72afe79.json",
+      "titel": "#258 Im Staatsdienst",
+      "veroeffentlicht": "2026-11-04T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Ein 31-jähriger Staatsanwalt wird im Gerichtssaal von einem Angeklagten erschossen.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "9f5154419082549ea35b66f34beb3e3f",
       "audio_url": "https://audio.podigee-cdn.net/2630418-m-f875e0dd6acd94c5757d6e18b671afd2.mp3?source=feed",

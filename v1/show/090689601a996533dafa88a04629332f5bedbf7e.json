@@ -2,8 +2,32 @@
   "schema_version": 1,
   "show": "Handelsblatt Morning Briefing - News aus Wirtschaft, Politik und Finanzen",
   "apple_collection_id": "1352434240",
-  "erzeugt_am": "2026-11-05T21:23:41+00:00",
+  "erzeugt_am": "2026-11-06T15:28:36+00:00",
   "folgen": [
+    {
+      "guid": "3e6783545aa5b9413d3bfaff40e4987f",
+      "audio_url": "https://audio.podigee-cdn.net/2628974-m-54f8cb90c8a7fc4e49ab6082acdf94e4.mp3?source=feed",
+      "pfad": "/v1/episode/285aac1c7c81ba2db5ffc17cd40217e399bfd108.json",
+      "titel": "Börse: Tech-Werte brechen ein / Rüstung: Der Bund wird Panzerbauer",
+      "veroeffentlicht": "2026-11-06T04:53:48+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Börsenturbulenzen bei Tech-Werten und neue Rüstungspläne der Bundesregierung",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
+    {
+      "guid": "6b2d6640c55a387980aec4987a5b6c77",
+      "audio_url": "https://audio.podigee-cdn.net/2628973-m-61e2dbfd9a5ae60ec8b327d8796f8ab9.mp3?source=feed",
+      "pfad": "/v1/episode/101284d6e6aa8a475619580b3ac079da2a66070f.json",
+      "titel": "Midterms: Mega-Thema Bezahlbarkeit / Bundesregierung: Kapitalrente wird verschoben",
+      "veroeffentlicht": "2026-11-05T04:48:56+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Midterms-Nachbeben zur Bezahlbarkeit und verschobene Pläne bei der Kapitalrente",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "73988af7c0f71173a055a246ca2429d8",
       "audio_url": "https://audio.podigee-cdn.net/2628972-m-c7e5161b1dd29faaa28fa7f82e195eab.mp3?source=feed",
