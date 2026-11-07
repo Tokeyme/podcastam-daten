@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-11-06T17:30:46+00:00",
+  "erzeugt_am": "2026-11-07T06:53:14+00:00",
   "folgen": [
+    {
+      "guid": "cd45ce01-263b-4532-95cd-e5a38934e848",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/44a3253d-0a16-48ac-ba4e-261e51ef0353/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=44a3253d-0a16-48ac-ba4e-261e51ef0353&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/9cc28637e5854ce60bec2e407febfb608b88cf50.json",
+      "titel": "Chuck Schumer on Governing With (Or Without) Trump",
+      "veroeffentlicht": "2026-11-06T10:45:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Chuck Schumer on the Democratic midterm sweep and governing with a Senate majority.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "b2ed9bcf-8ff7-467d-88f1-5642db42cc85",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60627ca2-a3fc-41c5-a85e-673e60593e30/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60627ca2-a3fc-41c5-a85e-673e60593e30&feed=Sl5CSM3S",

@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Gemischtes Hack",
   "apple_collection_id": "1292709842",
-  "erzeugt_am": "2026-11-06T17:30:46+00:00",
+  "erzeugt_am": "2026-11-07T06:53:14+00:00",
   "folgen": [
+    {
+      "guid": "070f5196-d7be-11f1-bb76-87c8c4e19fdb",
+      "audio_url": "https://traffic.megaphone.fm/GLT9388873992.mp3",
+      "pfad": "/v1/episode/a47fbdd21966954bd079aec65a9b24bfa4b4f445.json",
+      "titel": "#369 MOMO",
+      "veroeffentlicht": "2026-11-03T22:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Felix Lobrecht und Tommi Schmitt sprechen über Saufeskapaden, TV-Anekdoten und…",
+      "clips_anzahl": 1,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "a0e42d58-d243-11f1-9c21-7beeba435a0f",
       "audio_url": "https://traffic.megaphone.fm/GLT3546089539.mp3",
