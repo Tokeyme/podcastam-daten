@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-11-07T07:31:50+00:00",
+  "erzeugt_am": "2026-11-07T17:38:28+00:00",
   "folgen": [
+    {
+      "guid": "6aeca5265b7c4709bfe1b95c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aeca5265b7c4709bfe1b95c/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lhx0vW5m37zbEwt3vydSHghXWoYd.m4a",
+      "pfad": "/v1/episode/2593b0528483d2340a0c34cdf9bf086aaad01dd9.json",
+      "titel": "1106 2027年放假安排出炉、多地学校延迟上学时间、丰田设立机器人部门、法国血液机构遭网络攻击",
+      "veroeffentlicht": "2026-11-05T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "2027年春节放假安排出炉，多地学校延迟上学，丰田进军机器人领域",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
+    },
     {
       "guid": "6aeb51fcc96c8942ec176e37",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aeb51fcc96c8942ec176e37/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/ltVLE15XawknsQt1bncWTtamb9T_.m4a",

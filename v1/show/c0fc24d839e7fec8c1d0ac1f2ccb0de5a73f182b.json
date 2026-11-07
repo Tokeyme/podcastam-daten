@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Joe Rogan Experience",
   "apple_collection_id": "360084272",
-  "erzeugt_am": "2026-11-07T07:31:50+00:00",
+  "erzeugt_am": "2026-11-07T17:38:28+00:00",
   "folgen": [
+    {
+      "guid": "9a21b2c6-d99e-11f1-9c2f-e7736191fbbd",
+      "audio_url": "https://traffic.megaphone.fm/GLT2681832801.mp3",
+      "pfad": "/v1/episode/c21e2e84d50acedecc750127985c01cac5c70efd.json",
+      "titel": "#2578 - Calley Means",
+      "veroeffentlicht": "2026-11-06T18:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Why a former White House advisor resigned over hidden corruption and lobbying in D.C.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "6a6c6c02-d907-11f1-ab03-1beaa1609dd6",
       "audio_url": "https://traffic.megaphone.fm/GLT6183630462.mp3",

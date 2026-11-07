@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "TRUE CRIME 187",
   "apple_collection_id": "1837481313",
-  "erzeugt_am": "2026-11-07T07:31:50+00:00",
+  "erzeugt_am": "2026-11-07T17:38:28+00:00",
   "folgen": [
+    {
+      "guid": "1b5191e0-d828-11f1-833a-6bf022f0ecb4",
+      "audio_url": "https://traffic.megaphone.fm/TC8080076623.mp3",
+      "pfad": "/v1/episode/d8d11f25f03c92bff41b0c1a15ec25b89cbcf16c.json",
+      "titel": "#56 Der Magier und die verschwundene Frau",
+      "veroeffentlicht": "2026-11-06T07:42:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Eine Frau aus der Schweiz reist nach Pakistan und wird von einem Hochstapler ermordet.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "8267d5a2-d2d2-11f1-bb00-b755945ae817",
       "audio_url": "https://traffic.megaphone.fm/TC5749597675.mp3",

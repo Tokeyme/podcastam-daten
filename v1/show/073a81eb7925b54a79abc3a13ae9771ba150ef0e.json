@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "落日之后",
   "apple_collection_id": "1697309319",
-  "erzeugt_am": "2026-11-07T07:31:50+00:00",
+  "erzeugt_am": "2026-11-07T17:38:28+00:00",
   "folgen": [
+    {
+      "guid": "6aeb3e7f97726cd4675cd560",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/639941b31a64e08e10d9ea1e/6aeb3e7f97726cd4675cd560/media.xyzcdn.net/639941b31a64e08e10d9ea1e/lh2l8M9uSMwC88UpCdmpX2QjxEEd.m4a",
+      "pfad": "/v1/episode/b5ecb7f2526f70bc6a8bf9d8c33571d2e917cd4a.json",
+      "titel": "138.催芽之果甜也苦：台湾南投县诡笑四尸案",
+      "veroeffentlicht": "2026-11-04T14:29:04+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "台湾南投县发生了一起因情感纠葛引发的葡萄催芽剂中毒四尸命案。",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ad8c4e5b381c0fcba19b227",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/639941b31a64e08e10d9ea1e/6ad8c4e5b381c0fcba19b227/media.xyzcdn.net/639941b31a64e08e10d9ea1e/lpyAKFRkNqMCLoXar0cTZRwnNCJz.m4a",

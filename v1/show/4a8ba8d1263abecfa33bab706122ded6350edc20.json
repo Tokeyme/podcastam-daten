@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "摸鱼早报",
   "apple_collection_id": "1846847443",
-  "erzeugt_am": "2026-11-07T07:31:50+00:00",
+  "erzeugt_am": "2026-11-07T17:38:28+00:00",
   "folgen": [
+    {
+      "guid": "6aec864b6381f0f964c45e4c",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6aec864b6381f0f964c45e4c/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lqZsBSN0zD91N56TVZpDCk5EHd3J.m4a",
+      "pfad": "/v1/episode/1bfb44470a04c70673329ba586d12fb57d6ff39f.json",
+      "titel": "338-“双十一”猫粮越买越贵吗/金饰卖不动但金条受追捧/OpenAI 自曝其旗舰模型会“摸鱼”",
+      "veroeffentlicht": "2026-11-05T20:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "双十一猫粮价格上涨，百胜中国客单价下降，美发行业面临洗牌。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6aeb4123c96c8942ec176654",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6aeb4123c96c8942ec176654/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lpMG8upvG9crqeZsxqHTXJEUmImP.m4a",

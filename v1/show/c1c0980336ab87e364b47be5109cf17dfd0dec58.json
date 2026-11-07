@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-11-07T07:31:50+00:00",
+  "erzeugt_am": "2026-11-07T17:38:28+00:00",
   "folgen": [
+    {
+      "guid": "48a79f99537a5f0e8bf69c83d04bb453",
+      "audio_url": "https://audio.podigee-cdn.net/2641403-m-014dc5c8cc2b72b366258531920bc303.mp3?source=feed",
+      "pfad": "/v1/episode/68bf7e0d2cda9698ab66c39dd673f4b7cd6106c3.json",
+      "titel": "Presseklub:Game over für Trump?",
+      "veroeffentlicht": "2026-11-07T04:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Der Presseclub analysiert die historischen Midterms und Trumps schwere Niederlage in den…",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "0604551863b31dad4fc96ee8c90d071a",
       "audio_url": "https://audio.podigee-cdn.net/2641398-m-2e8d7e860ce05809f26a5f6392213173.mp3?source=feed",
