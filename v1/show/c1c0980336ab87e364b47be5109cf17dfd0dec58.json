@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-11-08T21:25:05+00:00",
+  "erzeugt_am": "2026-11-08T22:32:09+00:00",
   "folgen": [
+    {
+      "guid": "c9656b6c08e81431c3f947448e7c3028",
+      "audio_url": "https://audio.podigee-cdn.net/2641405-m-fbe3cc1ecebf3db9261058cafbe64d2a.mp3?source=feed",
+      "pfad": "/v1/episode/705f840d33198cc8c425bcc1f17d4ec7e498f5a9.json",
+      "titel": "Heimspiel: Der Wahlkampf 2028 beginnt jetzt (mit Rieke Havertz)",
+      "veroeffentlicht": "2026-11-08T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Rieke Havertz analysiert die US-Zwischenwahlen und den Beginn des Wahlkampfs 2028.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "48a79f99537a5f0e8bf69c83d04bb453",
       "audio_url": "https://audio.podigee-cdn.net/2641403-m-014dc5c8cc2b72b366258531920bc303.mp3?source=feed",

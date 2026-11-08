@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "忽左忽右",
   "apple_collection_id": "1493503146",
-  "erzeugt_am": "2026-11-08T21:25:05+00:00",
+  "erzeugt_am": "2026-11-08T22:32:09+00:00",
   "folgen": [
+    {
+      "guid": "6aed77635b7c4709bfe1fb28",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709bfe1fb28/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljdUNiCAdo0t3eSRmj5aL0OlPBp1.m4a",
+      "pfad": "/v1/episode/8195ea51d8c06d73bd5dfffe10ccaf38bc75fd09.json",
+      "titel": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+      "veroeffentlicht": "2026-11-06T08:58:13+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "从十字军、朝圣之路到铁路与汽车，回溯人类交通与旅行方式的千年变迁史。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ae9a8d3c96c8942ec16aeb7",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae9a8d3c96c8942ec16aeb7/media.xyzcdn.net/5e4ee557418a84a0466737b7/lvyohbNAkaa_iOP9nIRokKKJMhqS.m4a",

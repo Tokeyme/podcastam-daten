@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "ARD Crime Time – Der True Crime Podcast",
   "apple_collection_id": "1472201014",
-  "erzeugt_am": "2026-11-08T21:25:05+00:00",
+  "erzeugt_am": "2026-11-08T22:32:09+00:00",
   "folgen": [
+    {
+      "guid": "mdrde-2805af34-a073-49ae-91f6-f6a3d632143b",
+      "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2026/11/06/mdrde-2805af34-a073-49ae-91f6-f6a3d632143b.mp3128.mp3",
+      "pfad": "/v1/episode/b68f673490ba8c7bbbb24f624ffe919e7e2ad605.json",
+      "titel": "Der Fall Josephine R. – Eine Familie am Abgrund",
+      "veroeffentlicht": "2026-11-07T08:00:00+01:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Wie eine junge Frau mit falschen Missbrauchsvorwürfen ihre Familie ins Gefängnis brachte.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
+    },
     {
       "guid": "mdrde-b826c442-9f3d-4a56-9a6a-bba30dfff3f1",
       "audio_url": "https://ondemand.unified.mdr.de/mdr/audio/weltweit/2026/10/14/mdrde-b826c442-9f3d-4a56-9a6a-bba30dfff3f1.mp3128.mp3",

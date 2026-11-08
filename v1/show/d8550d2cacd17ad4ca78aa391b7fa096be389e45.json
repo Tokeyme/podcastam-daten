@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-11-08T21:25:05+00:00",
+  "erzeugt_am": "2026-11-08T22:32:09+00:00",
   "folgen": [
+    {
+      "guid": "d645162a-edc0-4d5d-b552-5eceb0ffb948",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/5bfad71c-a83f-4cff-b62e-14705dc2253e/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=5bfad71c-a83f-4cff-b62e-14705dc2253e&feed=Xtqjn37O",
+      "pfad": "/v1/episode/5c97ddc105df266b844e401bb083a6f7c4e55d2f.json",
+      "titel": "Was Sie jetzt über Ilse Aigner wissen müssen",
+      "veroeffentlicht": "2026-11-08T04:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Hintergründe zur designierten Bundespräsidentin Ilse Aigner und das Ende der UN-Mission…",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "f2403c24-42da-4dfd-8eba-a1fd3f1ca20d",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/46ac57c2-8284-4130-aceb-8d3795669df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=46ac57c2-8284-4130-aceb-8d3795669df2&feed=Xtqjn37O",

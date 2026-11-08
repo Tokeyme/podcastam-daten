@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Fest & Flauschig",
   "apple_collection_id": "1765742605",
-  "erzeugt_am": "2026-11-08T21:25:05+00:00",
+  "erzeugt_am": "2026-11-08T22:32:09+00:00",
   "folgen": [
+    {
+      "guid": "a537cc8c-d9fc-11f1-b20a-ffc2a8106ae5",
+      "audio_url": "https://traffic.megaphone.fm/GLT6780771203.mp3",
+      "pfad": "/v1/episode/7b395da7f8e77cf61e4b1f0b9763b9f553b7cea9.json",
+      "titel": "Auf einen Blunt mit Selenskyj",
+      "veroeffentlicht": "2026-11-07T22:50:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Jan Böhmermann berichtet von seinem exklusiven Interview mit dem ukrainischen Präsidenten",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "dd42c96a-d3d0-11f1-8959-87e6ce59a241",
       "audio_url": "https://traffic.megaphone.fm/GLT1093280570.mp3",
