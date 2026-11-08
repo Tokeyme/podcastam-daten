@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Der Sophie Passmann Podcast",
+  "apple_collection_id": "1802900641",
+  "erzeugt_am": "2026-11-08T14:11:21+00:00",
+  "folgen": [
+    {
+      "guid": "eb7f7da48a3986efe49685f004937430",
+      "audio_url": "https://audio.podigee-cdn.net/2612871-m-85cff915e6df3f9cdd4437082e62e2f7.mp3?source=feed",
+      "pfad": "/v1/episode/753dea3a1ae9dccbe3259440c3c1cae5f1d367f1.json",
+      "titel": "Trend-Report live aus Los Angeles (inkl. You Can See Everything)",
+      "veroeffentlicht": "2026-11-06T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Ein unterhaltsamer Trend-Report direkt aus Los Angeles über skurrile Alltagsbeobachtungen.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

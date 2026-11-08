@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Alles gesagt?",
   "apple_collection_id": "1374777021",
-  "erzeugt_am": "2026-11-08T02:29:27+00:00",
+  "erzeugt_am": "2026-11-08T14:11:21+00:00",
   "folgen": [
+    {
+      "guid": "4150edd0-9999-413a-ba75-cd755d7ec4b5",
+      "audio_url": "https://zeitonline.simplecastaudio.com/01b8f64d-b315-4918-bacd-dbcfa0b0069f/episodes/6bd89d1b-e78d-4d33-90bb-57e6e84dbeb2/audio/128/default.mp3?aid=rss_feed&awCollectionId=01b8f64d-b315-4918-bacd-dbcfa0b0069f&awEpisodeId=6bd89d1b-e78d-4d33-90bb-57e6e84dbeb2&feed=Y_bRXaw2",
+      "pfad": "/v1/episode/32874366d7133cc346d2004443aa6269cd85fb9a.json",
+      "titel": "Sandra Richter, warum ist Rilke ein Popstar?",
+      "veroeffentlicht": "2026-11-06T04:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Sandra Richter über Rilke als Popstar, Literatur als Archiv und die Macht von Texten.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "9bdf22e2-31f8-4898-92db-0b2a451e27d5",
       "audio_url": "https://zeitonline.simplecastaudio.com/01b8f64d-b315-4918-bacd-dbcfa0b0069f/episodes/a5b331ed-8678-42bf-921f-4bb5c20c94c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=01b8f64d-b315-4918-bacd-dbcfa0b0069f&awEpisodeId=a5b331ed-8678-42bf-921f-4bb5c20c94c5&feed=Y_bRXaw2",
