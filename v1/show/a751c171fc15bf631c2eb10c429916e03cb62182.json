@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "黑猫侦探社",
   "apple_collection_id": "1596363758",
-  "erzeugt_am": "2026-11-07T18:45:54+00:00",
+  "erzeugt_am": "2026-11-08T01:20:58+00:00",
   "folgen": [
+    {
+      "guid": "a66a7f32-376d-4c89-afef-ac4f622d47d1",
+      "audio_url": "https://tk.wavpub.com/WPTK_teKjkqp52nspEAPM.m4a",
+      "pfad": "/v1/episode/95c7bd816b761ede0a2b4d0934e2e33a9a84d5bf.json",
+      "titel": "番外 | 合法吃药，然后死去。（S4E24）",
+      "veroeffentlicht": "2026-11-05T18:50:24+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨马修·派瑞离世背后的美国合法处方药滥用现象与隐秘利益链条",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "https://hosting.wavpub.cn/heymeowfm/?p=1964",
       "audio_url": "https://tk.wavpub.com/WPTK_mMZSzeHkMwC78PJa.m4a",

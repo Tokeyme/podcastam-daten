@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Bulwark Daily",
   "apple_collection_id": "1447684472",
-  "erzeugt_am": "2026-11-07T18:45:54+00:00",
+  "erzeugt_am": "2026-11-08T01:20:58+00:00",
   "folgen": [
+    {
+      "guid": "audioboom-01a1b28f-fe2c-7003-8f34-c589b737a843",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8974371.mp3?modified=1793997250&sid=5114286&source=rss",
+      "pfad": "/v1/episode/1ffa066f11a0fdd41c3018e2071dfec7d5c5ce3c.json",
+      "titel": "Michael Steele: A Total and Complete Schlonging",
+      "veroeffentlicht": "2026-11-06T20:32:23+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Michael Steele breaks down the massive anti-Trump election wave and the future of the GOP.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "audioboom-01a1ad8b-bb8c-7b78-8d80-3c2ad1d746c0",
       "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8973856.mp3?modified=1793913096&sid=5114286&source=rss",

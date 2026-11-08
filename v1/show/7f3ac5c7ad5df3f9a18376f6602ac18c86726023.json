@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "二的三次方",
   "apple_collection_id": "1708188846",
-  "erzeugt_am": "2026-11-07T18:45:54+00:00",
+  "erzeugt_am": "2026-11-08T01:20:58+00:00",
   "folgen": [
+    {
+      "guid": "6aec57855b7c4709bfe193a4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64bf965274d8c90965c62fff/6aec57855b7c4709bfe193a4/media.xyzcdn.net/64bf965274d8c90965c62fff/lpnwz5TMzJQ58BdgnIjDdnAZe4Tv.m4a",
+      "pfad": "/v1/episode/b32f65b8d8631f35dd89a095dee2afda9c06f07b.json",
+      "titel": "vol:165 我不要你觉得，我要我觉得！——聊聊偏见",
+      "veroeffentlicht": "2026-11-05T16:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "几位喜剧演员畅聊生活中的偏见，从外貌误解、家乡刻板印象到网吧秘事和奇葩经历。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ad0bed30e4e410a05bd6966",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64bf965274d8c90965c62fff/6ad0bed30e4e410a05bd6966/media.xyzcdn.net/64bf965274d8c90965c62fff/lsT5A7KJUlCVaHsquhwHTnaTEmcD.m4a",
