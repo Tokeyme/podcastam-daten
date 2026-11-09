@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Casefile True Crime",
+  "apple_collection_id": "998568017",
+  "erzeugt_am": "2026-11-09T13:42:55+00:00",
+  "folgen": [
+    {
+      "guid": "6ad3473381b4808e33bc4b7c",
+      "audio_url": "https://sphinx.acast.com/p/open/s/679acff465f74095106abfaa/e/6ad3473381b4808e33bc4b7c/media.mp3",
+      "pfad": "/v1/episode/34be118c59e5ea260d25b2e9829f3568171ef5c0.json",
+      "titel": "Case 356: Lesley Howell & Trevor Buchanan",
+      "veroeffentlicht": "2026-11-07T07:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A dentist and his lover murdered their spouses in 1991, staging it as a double suicide.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}
