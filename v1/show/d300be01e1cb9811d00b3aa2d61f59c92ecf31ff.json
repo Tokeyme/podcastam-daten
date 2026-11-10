@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "MORD AUF EX",
   "apple_collection_id": "1486608425",
-  "erzeugt_am": "2026-11-09T13:42:55+00:00",
+  "erzeugt_am": "2026-11-10T09:38:45+00:00",
   "folgen": [
+    {
+      "guid": "bd8beede83947ef971856af5f5d0f78d",
+      "audio_url": "https://audio.podigee-cdn.net/2630517-m-bbe411f737787c720677b4d629cbc5ef.mp3?source=feed",
+      "pfad": "/v1/episode/b996938a6ec571af160a78a48ed7be9a20902e1e.json",
+      "titel": "Mein Ex, der Mörder",
+      "veroeffentlicht": "2026-11-08T23:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Eine Frau googelt jahrelang nach der Trennung ihren Ex und findet eine Mordschlagzeile",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "92b7fdac0d0aaac4f06754fe46778bc8",
       "audio_url": "https://audio.podigee-cdn.net/2623902-m-ceed169fe609112561f73c4ba4a59068.mp3?source=feed",

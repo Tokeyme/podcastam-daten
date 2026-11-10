@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "RONZHEIMER.",
   "apple_collection_id": "1700432142",
-  "erzeugt_am": "2026-11-09T13:42:55+00:00",
+  "erzeugt_am": "2026-11-10T09:38:45+00:00",
   "folgen": [
+    {
+      "guid": "4af83a149cfbd67400ab7e79ccc3e3ce",
+      "audio_url": "https://audio.podigee-cdn.net/2645396-m-f825fecba5fc3edc5a41d8ec7ab362e0.mp3?source=feed",
+      "pfad": "/v1/episode/7ce74af0e05b324bf2ce5daed7dd02fe9b7e7e69.json",
+      "titel": "Merz' seltsame Geschichte / Schlacht um Trump-Nachfolge",
+      "veroeffentlicht": "2026-11-09T03:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Hinter Ilse Aigners Kanzler-Nominierung steckt ein Machtkampf.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "1dfb7012d7ee3a0b04428a7249080648",
       "audio_url": "https://audio.podigee-cdn.net/2643660-m-6b9e55daca5a803bef984a621e2c39d3.mp3?source=feed",

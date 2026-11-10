@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-11-09T13:42:55+00:00",
+  "erzeugt_am": "2026-11-10T09:38:45+00:00",
   "folgen": [
+    {
+      "guid": "a58ac1d1-91d4-4181-91cc-42a5e9335aef",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/8d48d203-062c-4792-9df3-a86740fefcb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=8d48d203-062c-4792-9df3-a86740fefcb8&feed=Xtqjn37O",
+      "pfad": "/v1/episode/e9a5748cd4601cb05927e5d38dadf670f341473d.json",
+      "titel": "Türkei oder Australien – Hauptsache Klimakonferenz",
+      "veroeffentlicht": "2026-11-09T04:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "In Antalya beginnt die Weltklimakonferenz und in Israel soll Gadi Eisenkot regieren.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "d645162a-edc0-4d5d-b552-5eceb0ffb948",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/5bfad71c-a83f-4cff-b62e-14705dc2253e/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=5bfad71c-a83f-4cff-b62e-14705dc2253e&feed=Xtqjn37O",

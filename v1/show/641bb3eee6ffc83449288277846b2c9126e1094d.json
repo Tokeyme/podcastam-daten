@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "野史下酒｜有趣的历史故事",
   "apple_collection_id": "877607820",
-  "erzeugt_am": "2026-11-09T13:42:55+00:00",
+  "erzeugt_am": "2026-11-10T09:38:45+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1029914047",
+      "audio_url": "https://tk.wavpub.com/WPTK_hFd9uxzGaaJ5taTA.m4a",
+      "pfad": "/v1/episode/e0929c8782fd848e032b6ff31dc3c94d487f674d.json",
+      "titel": "《南明残局》剃发易服为什么要用生命捍卫",
+      "veroeffentlicht": "2026-11-03T11:45:43+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "剖析南明灭亡时局与剃发易服引发的反抗及身份认同危机。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "xmly_track_1025952785",
       "audio_url": "https://tk.wavpub.com/WPTK_zmjufIoJ5zt8Bl31.m4a",
