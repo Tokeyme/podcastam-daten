@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Late Show Pod Show with Stephen Colbert",
+  "apple_collection_id": "1586197367",
+  "erzeugt_am": "2026-11-11T20:22:35+00:00",
+  "folgen": [
+    {
+      "guid": "883163ca-3f40-11f1-8041-f3621d66ed22",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8348723/8348723_2026-04-29-194823.192.mp3?rssID=6251",
+      "pfad": "/v1/episode/22a41c7612cac6c9f920fc66bedfe8a5705d6e0c.json",
+      "titel": "Paul McCartney | Hello, Goodbye!",
+      "veroeffentlicht": "2026-05-22T03:59:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Stephen Colbert looks back at 11 years of the Late Show and welcomes Paul McCartney.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

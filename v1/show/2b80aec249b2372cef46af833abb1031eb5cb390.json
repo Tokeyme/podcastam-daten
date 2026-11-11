@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Mad About Movies",
+  "apple_collection_id": "600020121",
+  "erzeugt_am": "2026-11-11T20:22:35+00:00",
+  "folgen": [
+    {
+      "guid": "abbe5f7c-7792-4302-b02b-2cee6469321b",
+      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/67de74c0-0e63-4304-934c-c5c86846d80e/episodes/a82f4c2c-c643-4534-9198-16cde8563441/audio/128/default.mp3?aid=rss_feed&awCollectionId=67de74c0-0e63-4304-934c-c5c86846d80e&awEpisodeId=a82f4c2c-c643-4534-9198-16cde8563441&feed=ODPcSCN7",
+      "pfad": "/v1/episode/354aaa1f9e06ef22cca028a812c0f0b14fbbead3.json",
+      "titel": "Zoolander (2001)",
+      "veroeffentlicht": "2026-09-04T12:37:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Looking back at Zoolander, Ben Stiller and the comedy that defined a generation.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

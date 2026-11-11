@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Up First from NPR",
   "apple_collection_id": "1222114325",
-  "erzeugt_am": "2026-11-11T05:59:33+00:00",
+  "erzeugt_am": "2026-11-11T20:22:35+00:00",
   "folgen": [
+    {
+      "guid": "f1c04853-699a-4441-8ea6-be56a0bc4a41",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/ff267242-74c6-4d7d-8c1e-9a99ebf4c5c5/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=ff267242-74c6-4d7d-8c1e-9a99ebf4c5c5&feed=HMwRVgVt&t=podcast&e=nx-s1-6034314&p=510318&d=791&size=12662954",
+      "pfad": "/v1/episode/5c3e121e02c5b67fec8bb4db9a56a1bf2b845d06.json",
+      "titel": "Trump's Post-Midterm Changes, Lame-Duck Congress, Nvidia Huang Investigation",
+      "veroeffentlicht": "2026-11-09T10:42:37+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Trump picks Stephen Miller as chief of staff, Congress faces a lame-duck session, and…",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "6815f690-35a6-49a4-aa7a-db6a0e1e5c9a",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/319e445d-659e-45ed-ba4c-9f6061188dd2/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=319e445d-659e-45ed-ba4c-9f6061188dd2&feed=HMwRVgVt&t=podcast&e=nx-s1-6032739&p=510318&d=1550&size=24800949",
