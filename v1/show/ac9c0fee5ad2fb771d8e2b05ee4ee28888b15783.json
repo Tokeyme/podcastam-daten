@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "天真不天真",
   "apple_collection_id": "1731784296",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "6af1ce25b4a4e20202f7417b",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6af1ce25b4a4e20202f7417b/media.xyzcdn.net/65cef9e3cace72dff8d98de3/ljf7QgB2CkOQL1Xo5BKcqq6pgCiN.m4a",
+      "pfad": "/v1/episode/399f0489a7abfb8947ecfa5a6941dac1e67c7e51.json",
+      "titel": "vol.58 有问必答｜从1到0：如何放弃，却不否定自己？",
+      "veroeffentlicht": "2026-11-10T00:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "敢于清零与主动放弃，是实现人生新可能与找回自我的另一面。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ad63f95285041df1c7358c9",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65cef9e3cace72dff8d98de3/6ad63f95285041df1c7358c9/media.xyzcdn.net/65cef9e3cace72dff8d98de3/lujrbxDhQr5-HRqMYJ746W6uAP5_.m4a",

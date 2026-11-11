@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "1ca5cebf-09b2-4441-995c-ccefdfb9a0cc",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/a8b79791-5360-453e-8c34-56078d376d5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=a8b79791-5360-453e-8c34-56078d376d5f&feed=Xtqjn37O",
+      "pfad": "/v1/episode/49f9b0424c9ddbbbffcb7a9a04725425c6ca1b45.json",
+      "titel": "Friedensverhandlungen: Donald Trump probiert es wieder",
+      "veroeffentlicht": "2026-11-10T04:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Trilaterale Gespräche über den Ukraine-Krieg und Spionagevorwürfe gegen Nvidia-Chef",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "a58ac1d1-91d4-4181-91cc-42a5e9335aef",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/8d48d203-062c-4792-9df3-a86740fefcb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=8d48d203-062c-4792-9df3-a86740fefcb8&feed=Xtqjn37O",

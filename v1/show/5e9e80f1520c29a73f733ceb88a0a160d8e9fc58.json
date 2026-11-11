@@ -2,7 +2,7 @@
   "schema_version": 1,
   "show": "Huberman Lab",
   "apple_collection_id": "1545953110",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
     {
       "guid": "5e716144-a74a-11f1-9b49-9bef3cb4a30a",
@@ -10,11 +10,11 @@
       "pfad": "/v1/episode/87353e29dc00f21a81837488352da959d55dc950.json",
       "titel": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
       "veroeffentlicht": "2026-09-03T08:00:00+00:00",
-      "clips": true,
+      "clips": false,
       "kapitel": false,
       "einzeiler": "How sleep stages, growth hormone, and memory consolidation drive health and learning.",
-      "clips_anzahl": 4,
-      "clips_art": "mp3_suche"
+      "clips_anzahl": 0,
+      "clips_art": null
     }
   ]
 }

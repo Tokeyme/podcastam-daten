@@ -2,8 +2,32 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "6af1de6b5b7c4709bfe3992d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6af1de6b5b7c4709bfe3992d/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lhBRV3wzaFfUnzdZp_TYwEIfFsgy.m4a",
+      "pfad": "/v1/episode/3059d7d7a8715254d12c99ed076a385195080bc4.json",
+      "titel": "1110 多所高校开展科研论文自查工作、王健林再任万达商管董事长、成都蓉城董事长总经理主教练全部离职",
+      "veroeffentlicht": "2026-11-09T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "多所高校开展科研论文自查、王健林再任万达商管董事长、成都蓉城管理层变动",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
+    },
+    {
+      "guid": "6af09a1bb4a4e20202f6b777",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6af09a1bb4a4e20202f6b777/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/ltWM5ki7EJ6-H3i7HyWfm7naYzzV.m4a",
+      "pfad": "/v1/episode/22b208c7c0986a2d4f2fa1aaf6ad475a2b1084fa.json",
+      "titel": "1109 中国平安｜多地降温、大连英博中超夺冠、国内首个冷门绝学学院成立、蓝莓价格比去年降一半",
+      "veroeffentlicht": "2026-11-08T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "涵盖全国寒潮降温、城市存款排名及大连英博中超夺冠等近期资讯。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6aeca5265b7c4709bfe1b95c",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6aeca5265b7c4709bfe1b95c/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lhx0vW5m37zbEwt3vydSHghXWoYd.m4a",

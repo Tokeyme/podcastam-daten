@@ -2,8 +2,32 @@
   "schema_version": 1,
   "show": "摸鱼早报",
   "apple_collection_id": "1846847443",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "6af1d8f85b7c4709bfe395cb",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6af1d8f85b7c4709bfe395cb/media.xyzcdn.net/66dddbf6bfd7110df42ba906/ltT2VXpy8jeyhPikvFRvhrMOktDg.m4a",
+      "pfad": "/v1/episode/7e34431fcc26a6cfe7510ab313ce063e22cfd24f.json",
+      "titel": "341-电动自行车遭遇“买车容易上牌难”/特斯拉Cybertruck计划停产/白榴莲有望年底国内上市",
+      "veroeffentlicht": "2026-11-09T20:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "电动自行车上牌受阻、特斯拉计划停产Cybertruck及进博会前沿趋势",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
+    },
+    {
+      "guid": "6af08f7db4a4e20202f6b2fc",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6af08f7db4a4e20202f6b2fc/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lm2uSPPF46anK6RIJ7TESLAEUHhL.m4a",
+      "pfad": "/v1/episode/b8276ef275cc3e51b01c8ef9b58d1a16679c7deb.json",
+      "titel": "340-全国首个冷门绝学学院成立/家电行业集体过冬/多平台下架“推不倒戒指”",
+      "veroeffentlicht": "2026-11-08T20:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "冷门绝学学院成立，家电行业集体过冬，多平台下架“推不倒戒指”",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6aedf5865b7c4709bfe238eb",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6aedf5865b7c4709bfe238eb/media.xyzcdn.net/66dddbf6bfd7110df42ba906/llpW1GPpihM2qs2hjZ3zThmzHJ7_.m4a",

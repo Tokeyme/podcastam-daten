@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Fareed Zakaria GPS",
   "apple_collection_id": "377785090",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "90cac32c-b5a8-11f0-b45b-b7977932d2e7",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2341122628.mp3",
+      "pfad": "/v1/episode/b7378154ec78729aaf555d92c3266cafbcc38f7e.json",
+      "titel": "Democrats’ Stunning Midterms Performance and the Future of the MAGA Movement",
+      "veroeffentlicht": "2026-11-08T17:24:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Democrats score a landslide midterm victory as voters reject Donald Trump's agenda.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "8e9fdeb6-b5a8-11f0-b45b-1759ae76f1c1",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7288132413.mp3",

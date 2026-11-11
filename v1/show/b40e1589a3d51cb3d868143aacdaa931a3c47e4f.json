@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "怡楽播客",
   "apple_collection_id": "1523249117",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "http://cdn.lizhi.fm/audio/2026/11/01/3243377794799896070_hd.mp3",
+      "audio_url": "https://tk.wavpub.com/WPTK_HGiLfTOX660OFNt4.mp3",
+      "pfad": "/v1/episode/d230499e7688e3a16c7ab3cdfff6b27a7c6987f6.json",
+      "titel": "980.放学以后",
+      "veroeffentlicht": "2026-11-02T00:00:01+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "几位主播一起回忆中小学放学后的各种趣事与青春记忆。",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
+    },
     {
       "guid": "http://cdn.lizhi.fm/audio/2026/10/28/3242581074071049734_hd.mp3",
       "audio_url": "https://tk.wavpub.com/WPTK_HCYsUjowJrTOYUVv.mp3",

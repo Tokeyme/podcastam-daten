@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Sword and Scale",
   "apple_collection_id": "790487079",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/76161956",
+      "audio_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76161956/sas375.mp3",
+      "pfad": "/v1/episode/1961ef009e1401d90d8568205b365eceb1b943c5.json",
+      "titel": "Episode 375",
+      "veroeffentlicht": "2026-11-08T21:00:02+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A dentist plotted to murder his wife with poisons while hiding affairs and debt.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "https://api.spreaker.com/episode/74076589",
       "audio_url": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74076589/sas366.mp3",

@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Mel Robbins Podcast",
   "apple_collection_id": "1646101002",
-  "erzeugt_am": "2026-11-10T09:38:45+00:00",
+  "erzeugt_am": "2026-11-11T05:59:33+00:00",
   "folgen": [
+    {
+      "guid": "1ec1c268-cc61-46be-8e96-73a7d9e8e9c9",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pdrl.fm/123755/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/5ffb35ec-8013-4885-8551-c0e1f0bd3c11/audio/128/default.mp3?aid=rss_feed&awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&awEpisodeId=5ffb35ec-8013-4885-8551-c0e1f0bd3c11&feed=UCwaTX1J",
+      "pfad": "/v1/episode/dd8b4db628ed92d8cbc583f38c2aea987739f887.json",
+      "titel": "Don’t Waste Your Life: An 89-Year-Old’s Best Life Advice For You",
+      "veroeffentlicht": "2026-11-09T05:05:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "An 89-year-old shares her bold plans to backpack across Europe and start a new chapter.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "cd980bf4-0909-4e8b-abfc-4012d7cffc31",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/89fab9ed-b4b4-4199-90f1-8ede0fb57d1c/audio/128/default.mp3?aid=rss_feed&awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&awEpisodeId=89fab9ed-b4b4-4199-90f1-8ede0fb57d1c&feed=UCwaTX1J",
