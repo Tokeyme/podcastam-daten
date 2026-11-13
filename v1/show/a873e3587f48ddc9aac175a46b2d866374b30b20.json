@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Bill Simmons Podcast",
   "apple_collection_id": "1043699613",
-  "erzeugt_am": "2026-11-11T20:22:35+00:00",
+  "erzeugt_am": "2026-11-12T20:01:01+00:00",
   "folgen": [
+    {
+      "guid": "205e3f76-cd83-11f1-a984-37b6c8499c30",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4573292153.mp3",
+      "pfad": "/v1/episode/124c55ffd84dc700b0d69bb3ef6d0d3bbd3c03e9.json",
+      "titel": "An Icy Tatum-Brown Reunion, Plus Most Screwed NBA Teams With Rob Mahoney",
+      "veroeffentlicht": "2026-11-11T05:58:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Discussing the Celtics-Sixers showdown, NFL trades, and the NBA's most troubled teams",
+      "clips_anzahl": 0,
+      "clips_art": null
+    },
     {
       "guid": "c7e8bfdc-ce4b-11f1-87c8-3feb4127689d",
       "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1234060628.mp3",

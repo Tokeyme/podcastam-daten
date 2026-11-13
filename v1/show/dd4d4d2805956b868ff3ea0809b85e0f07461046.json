@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
   "apple_collection_id": "1623077169",
-  "erzeugt_am": "2026-11-11T20:22:35+00:00",
+  "erzeugt_am": "2026-11-12T20:01:01+00:00",
   "folgen": [
+    {
+      "guid": "e2c7cdf0-dcfd-11f1-84a7-9be9a6baf379",
+      "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH3217716174.mp3",
+      "pfad": "/v1/episode/145565a5bf92b8ba0b41863d3d817d9c7c479b6b.json",
+      "titel": "#351 - “Ich habe gesehen, was auf Deutschland zurollt\" (Polizist)",
+      "veroeffentlicht": "2026-11-11T17:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Polizist Manuel Ostermann über Migration, Polizeialltag und massive Bedrohungen.",
+      "clips_anzahl": 0,
+      "clips_art": null
+    },
     {
       "guid": "1a9a18f2-d9e6-11f1-bdf7-830e1485c440",
       "audio_url": "https://traffic.megaphone.fm/UNGESKRIPTETMEDIAGMBH4441411523.mp3",
@@ -13,7 +25,7 @@
       "clips": true,
       "kapitel": false,
       "einzeiler": "Julian Reichelt über Medienmacht, Corona, Islamismus und den Zustand des Landes.",
-      "clips_anzahl": 3,
+      "clips_anzahl": 2,
       "clips_art": "mp3_suche"
     },
     {

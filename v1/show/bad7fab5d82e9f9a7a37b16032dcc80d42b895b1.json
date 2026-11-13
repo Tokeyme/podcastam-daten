@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "忽左忽右",
   "apple_collection_id": "1493503146",
-  "erzeugt_am": "2026-11-11T20:22:35+00:00",
+  "erzeugt_am": "2026-11-12T20:01:01+00:00",
   "folgen": [
+    {
+      "guid": "6af2df3ab4a4e20202f7ae55",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af2df3ab4a4e20202f7ae55/media.xyzcdn.net/5e4ee557418a84a0466737b7/lgrIc01Z9_3p6bVhcQwpxK8bS-nm.m4a",
+      "pfad": "/v1/episode/bf3dcdc1906718745131e7a6cfac19c31e4d0f0c.json",
+      "titel": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+      "veroeffentlicht": "2026-11-10T09:21:41+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨波兰电影大师安杰伊·瓦伊达的生平及其在世界电影史中的公共性表达。",
+      "clips_anzahl": 3,
+      "clips_art": "aac"
+    },
     {
       "guid": "6aed77635b7c4709bfe1fb28",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709bfe1fb28/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljdUNiCAdo0t3eSRmj5aL0OlPBp1.m4a",

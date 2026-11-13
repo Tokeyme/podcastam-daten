@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "半拿铁 | 商业沉浮录",
   "apple_collection_id": "1615939013",
-  "erzeugt_am": "2026-11-11T20:22:35+00:00",
+  "erzeugt_am": "2026-11-12T20:01:01+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1031865947",
+      "audio_url": "https://tk.wavpub.com/WPTK_Cq7Vhv8ixsdEqR1R.m4a",
+      "pfad": "/v1/episode/4db472b38205c778af5c264c16de3b087d8b710b.json",
+      "titel": "No.226 文曲星的三十年往事",
+      "veroeffentlicht": "2026-11-11T20:00:00+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "回顾文曲星三十年沉浮，它如何从电子词典成为一代人的童年记忆。",
+      "clips_anzahl": 2,
+      "clips_art": "aac"
+    },
     {
       "guid": "xmly_track_1030187062",
       "audio_url": "https://tk.wavpub.com/WPTK_4zPVAaX3PDmU32i8.m4a",
