@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "摸鱼早报",
   "apple_collection_id": "1846847443",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "6af45ccb14d01a26f8a865c7",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6af45ccb14d01a26f8a865c7/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lhsPdRZnwRvGlpP32lxEm1tbw7Ib.m4a",
+      "pfad": "/v1/episode/3e30155a8b0219249c066864a77ea1e8f7a621c4.json",
+      "titel": "343-京东内测短剧小程序/火车上充电越充越掉电吗/灵光2.0上线两周托管事务量破300万",
+      "veroeffentlicht": "2026-11-11T20:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "京东内测短剧福利社，上海调整道路停车收费新规",
+      "clips_anzahl": 3,
+      "clips_art": "aac"
+    },
     {
       "guid": "6af1d8f85b7c4709bfe395cb",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6af1d8f85b7c4709bfe395cb/media.xyzcdn.net/66dddbf6bfd7110df42ba906/ltT2VXpy8jeyhPikvFRvhrMOktDg.m4a",

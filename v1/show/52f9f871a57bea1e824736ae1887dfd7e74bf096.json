@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "得体广播站",
   "apple_collection_id": "1845527581",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "6af204e3b4a4e20202f7575e",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6af204e3b4a4e20202f7575e/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lqw4Xu9RjvVNF74fU5ZNLzVSs8sD.m4a",
+      "pfad": "/v1/episode/a57206cb86ddfdd9e0d4fcde6426254c5d694678.json",
+      "titel": "Ep57.小心点，别踩到我的童年阴影了。",
+      "veroeffentlicht": "2026-11-10T15:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "主播和嘉宾们分享了各自童年时期的各种阴影经历与奇葩遭遇。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6ae8c1f097726cd4675bbf64",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/68c4f6d6a5335c4565c0c526/6ae8c1f097726cd4675bbf64/media.xyzcdn.net/68c4f6d6a5335c4565c0c526/lsJ0dTPercnpAEEMhqvXeH-5x7G2.m4a",

@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Was jetzt?",
   "apple_collection_id": "1279335230",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "9afd9377-f9de-4768-bbba-922bb88ea9b7",
+      "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/623ada3f-057c-46aa-9dc9-8c92628eef55/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=623ada3f-057c-46aa-9dc9-8c92628eef55&feed=Xtqjn37O",
+      "pfad": "/v1/episode/ebffd221e2f543b835b3340ecd74cc6a00fd75b6.json",
+      "titel": "Nvidia war Jensen Huang – was wird Nvidia jetzt?",
+      "veroeffentlicht": "2026-11-13T04:55:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Nvidias Aufstieg und Fall nach Jensen Huangs Rücktritt und der AfD-Migrationsstreit",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "f59a22be-b884-4890-876d-d94c428dcd43",
       "audio_url": "https://zeitonline.simplecastaudio.com/b4b9795f-4b37-4d4f-bbfe-62b735703af8/episodes/926b2a83-56ad-4c17-97b9-e5e0108c2610/audio/128/default.mp3?aid=rss_feed&awCollectionId=b4b9795f-4b37-4d4f-bbfe-62b735703af8&awEpisodeId=926b2a83-56ad-4c17-97b9-e5e0108c2610&feed=Xtqjn37O",

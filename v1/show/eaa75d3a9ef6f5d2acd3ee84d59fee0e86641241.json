@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "正经叭叭",
   "apple_collection_id": "1575323064",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "6af1c6acb4a4e20202f73d06",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6af1c6acb4a4e20202f73d06/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrjvjqgewOnzrzrC2lcl3E4lLw-J.m4a",
+      "pfad": "/v1/episode/b4b38407b3c774cf5125802d3f0892bc190bdf26.json",
+      "titel": "vol.276叭叭KTV民谣季",
+      "veroeffentlicht": "2026-11-09T15:59:23+00:00",
+      "clips": false,
+      "kapitel": true,
+      "einzeiler": "一场临时起意的民谣KTV专场，主播与嘉宾们齐聚一堂爆笑开唱。",
+      "clips_anzahl": 0,
+      "clips_art": null
+    },
     {
       "guid": "6ae898d797726cd4675bae29",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ae898d797726cd4675bae29/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsgSYPsQsqmkvnS0lNVKiIfP1ViA.m4a",

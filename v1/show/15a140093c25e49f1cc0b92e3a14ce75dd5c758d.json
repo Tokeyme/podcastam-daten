@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Morbid",
   "apple_collection_id": "1379959217",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "0eb502fa-e0ac-4101-a6e1-85c531cc6eee",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/384ad7a2-384d-4618-8c86-8de134d28687/audio/128/default.mp3?aid=rss_feed&awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&awEpisodeId=384ad7a2-384d-4618-8c86-8de134d28687&feed=ohmVlJZQ",
+      "pfad": "/v1/episode/f26239f398e0cba22233d4b2a07477cf047e64e5.json",
+      "titel": "The Ghosts of Summerwind",
+      "veroeffentlicht": "2026-11-12T08:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "The terrifying history of Summerwind, a haunted Wisconsin mansion destroyed by fire.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "f2529163-b9c6-47b9-8715-963a00485e37",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/fbf30525-8a3c-41f4-9bd8-2d4c4ecc2d44/audio/128/default.mp3?aid=rss_feed&awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&awEpisodeId=fbf30525-8a3c-41f4-9bd8-2d4c4ecc2d44&feed=ohmVlJZQ",

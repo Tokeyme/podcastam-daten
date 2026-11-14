@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Baywatch Berlin",
   "apple_collection_id": "1488376434",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "85d6343cb3469f1c366c5a5cc8a0f2c9",
+      "audio_url": "https://audio.podigee-cdn.net/2641989-m-00d090bba56f401bcdedfa654a8a6532.mp3?source=feed",
+      "pfad": "/v1/episode/a9c852db26e94719b0223e1ef5e6dc591c6fd606.json",
+      "titel": "Invasion der Knackarsch-Aliens",
+      "veroeffentlicht": "2026-11-12T23:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Skurrile Alltagsgeschichten, Alarmanlagen-Zuschläge und Begegnungen der U-Faktor-Art",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "4d3f8e30d5372fc99a2ae0bb3682cd78",
       "audio_url": "https://audio.podigee-cdn.net/2630497-m-c4f613b8bf8363653972fc8d20b68830.mp3?source=feed",

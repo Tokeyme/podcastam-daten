@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Good Hang with Amy Poehler",
   "apple_collection_id": "1795483480",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "3be7c346-a585-11f1-b239-cf35a1cf2a61",
+      "audio_url": "https://traffic.megaphone.fm/GLT7375204565.mp3",
+      "pfad": "/v1/episode/dc30f59acce1cd8d79b2df65d5d5742b4d7249de.json",
+      "titel": "Robyn",
+      "veroeffentlicht": "2026-11-10T11:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Pop icon Robyn on her career, dancing, and single motherhood",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "3bcc4e04-a585-11f1-b239-c3e62fa0d61e",
       "audio_url": "https://traffic.megaphone.fm/GLT5266429675.mp3",

@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "OMR Podcast",
   "apple_collection_id": "1056312052",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "436dfa5086126bbe83a553e2cef56fc9",
+      "audio_url": "https://audio.podigee-cdn.net/2647167-m-edae0a8e0cee675f90c52ea7c0f43916.mp3?source=feed",
+      "pfad": "/v1/episode/d08ad3bb3dcc26b2d9a922c9d5fdbdfeb7ae286e.json",
+      "titel": "Früher Nike-Manager, heute Jürgen Klopps rechte Hand: Marc Kosicke (#957)",
+      "veroeffentlicht": "2026-11-11T02:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Vom Nike-Manager und Jürgen Klopps engsten Vertrauten zum Strippenzieher beim DFB",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "3c3cd48d1779ce0ddf3841dfd5a95cee",
       "audio_url": "https://audio.podigee-cdn.net/2638516-m-feccbb1b33ed6382438340db7c16e017.mp3?source=feed",

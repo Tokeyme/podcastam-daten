@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "c453fe7c7f18bba0986e4925d7ad7c2e",
+      "audio_url": "https://audio.podigee-cdn.net/2646367-m-0410ac6c1b13678481ed4f219328b7ab.mp3?source=feed",
+      "pfad": "/v1/episode/191f4eabd8836e8e516da932fc1b2288ba1d46f3.json",
+      "titel": "État-à-Tête  (mit Sara Sievert)",
+      "veroeffentlicht": "2026-11-13T04:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Sara Sievert analysiert mit Cornelius Pollmer aktuelle Krisen in Politik und Medien",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "368346e32ef20a0a25cf198b4d7f7920",
       "audio_url": "https://audio.podigee-cdn.net/2646366-m-cf073960caf9b0da7dabf6f59fc2fafe.mp3?source=feed",

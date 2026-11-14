@@ -2,8 +2,32 @@
   "schema_version": 1,
   "show": "The Daily",
   "apple_collection_id": "1200361736",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "ad86d2d8-f34a-4bca-85fd-658952e77c90",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/154b87b0-da48-48d3-860b-13fa569ecbec/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=154b87b0-da48-48d3-860b-13fa569ecbec&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/de8169b20d6523b83730c91d6e812459d03a1bee.json",
+      "titel": "Can Israel’s Opposition Unseat Netanyahu?",
+      "veroeffentlicht": "2026-11-13T10:45:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Gadi Eisenkot is trying to form an Israeli government, but every coalition path is…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
+    {
+      "guid": "acb73150-dba0-437a-ac37-55ed1e31aacd",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/81baedea-f263-4b69-9789-fef913b31bee/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=81baedea-f263-4b69-9789-fef913b31bee&feed=Sl5CSM3S",
+      "pfad": "/v1/episode/4192f29dbbdfb43bcf5561ee0232c829769f3e68.json",
+      "titel": "What Jensen Huang’s Resignation Will Mean for A.I.",
+      "veroeffentlicht": "2026-11-12T10:52:06+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Nvidia CEO Jensen Huang resigns after misconduct reports involving an employee and a spy.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "cf0bdec7-bfc7-494d-a687-ea6cbc82a627",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/99e149de-75d1-4f1c-8a8c-e26e47dcb648/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=99e149de-75d1-4f1c-8a8c-e26e47dcb648&feed=Sl5CSM3S",

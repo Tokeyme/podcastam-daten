@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "The Megyn Kelly Show",
   "apple_collection_id": "1532976305",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "13aff15a-4dc9-43fd-b986-0cd5fe6caf69",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/6221c0ba-f85e-49f6-aaaa-aeeb2604ae76/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=6221c0ba-f85e-49f6-aaaa-aeeb2604ae76&feed=RV1USAfC",
+      "pfad": "/v1/episode/453b046b671dee35003c2930a3b7e27c5ba4c20a.json",
+      "titel": "White House Warns Democrats, Biden Revisits 2024, Baby Buried Alive Rescued: AM Update 11/12",
+      "veroeffentlicht": "2026-11-12T10:30:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "White House warns Democrats over Trump investigations, Biden discusses health and 2024…",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "93902e16-2c15-45cb-959c-bbddbfca3f0e",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/101/arttrk.com/p/24FDE/claritaspod.com/measure/sxm.simplecastaudio.com/853ccd10-364f-4b0b-831e-c2bed24d85e7/episodes/8340668b-ddcd-40d7-8a49-dfb090b2e549/audio/128/default.mp3?aid=rss_feed&awCollectionId=853ccd10-364f-4b0b-831e-c2bed24d85e7&awEpisodeId=8340668b-ddcd-40d7-8a49-dfb090b2e549&feed=RV1USAfC",

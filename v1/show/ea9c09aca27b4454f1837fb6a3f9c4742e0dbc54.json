@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Geschichten aus der Geschichte",
   "apple_collection_id": "1044844618",
-  "erzeugt_am": "2026-11-12T20:01:01+00:00",
+  "erzeugt_am": "2026-11-14T09:58:17+00:00",
   "folgen": [
+    {
+      "guid": "44c3dd6970e1e5a1936778e514c957a2",
+      "audio_url": "https://audio.podigee-cdn.net/2641413-m-39280506d565e1b045535db691df7b85.mp3?source=feed",
+      "pfad": "/v1/episode/825d3581b226404858a634af70e4b88edac58212.json",
+      "titel": "GAG581: Mutterkornfelder und das Fleisch der Götter",
+      "veroeffentlicht": "2026-11-11T05:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Eine Geschichte über die Entdeckung von LSD, Psilocybin und die Rolle des Mutterkorns",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "019b0649c61aab9d9c12bd16fa66163f",
       "audio_url": "https://audio.podigee-cdn.net/2630465-m-23051223248538aa956ac2eb9c4196fa.mp3?source=feed",
