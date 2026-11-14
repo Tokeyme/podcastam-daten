@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "知行小酒馆",
   "apple_collection_id": "1559695855",
-  "erzeugt_am": "2026-11-14T09:58:17+00:00",
+  "erzeugt_am": "2026-11-14T18:24:08+00:00",
   "folgen": [
+    {
+      "guid": "6af6b7ca14d01a26f8a94459",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26f8a94459/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmB4VjRQeKLl_DHzaFF4gJTbEWGN.m4a",
+      "pfad": "/v1/episode/603684ae6e5c647f28edaf6fa3682ef78162d732.json",
+      "titel": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
+      "veroeffentlicht": "2026-11-13T12:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨五位听友纠结是否购买心仪物品的故事，揭示藏在购物欲背后的真实心路历程。",
+      "clips_anzahl": 4,
+      "clips_art": "aac"
+    },
     {
       "guid": "6aed7b615b7c4709bfe1fe12",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aed7b615b7c4709bfe1fe12/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgvsXBt7TSTJ2vHXUpCRxnrf3g4V.m4a",

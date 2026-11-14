@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Apokalypse & Filterkaffee",
   "apple_collection_id": "1505993848",
-  "erzeugt_am": "2026-11-14T09:58:17+00:00",
+  "erzeugt_am": "2026-11-14T18:24:08+00:00",
   "folgen": [
+    {
+      "guid": "f5cf2a3e323bd8907a64b15c25c729ca",
+      "audio_url": "https://audio.podigee-cdn.net/2646369-m-6b01a6bc3710b13c2a46960ceb071d0a.mp3?source=feed",
+      "pfad": "/v1/episode/d7af2f8e6a6f12d229d1949a37e3b6dd53a7d790.json",
+      "titel": "Presseklub: Antisemitismus bei der Linken, Problem oder Kampagne?",
+      "veroeffentlicht": "2026-11-14T04:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Der Berliner Wahlerfolg der Linken und die Debatte um Antisemitismus.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "c453fe7c7f18bba0986e4925d7ad7c2e",
       "audio_url": "https://audio.podigee-cdn.net/2646367-m-0410ac6c1b13678481ed4f219328b7ab.mp3?source=feed",

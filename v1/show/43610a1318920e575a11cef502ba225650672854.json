@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "TRUE CRIME 187",
   "apple_collection_id": "1837481313",
-  "erzeugt_am": "2026-11-14T09:58:17+00:00",
+  "erzeugt_am": "2026-11-14T18:24:08+00:00",
   "folgen": [
+    {
+      "guid": "3f4da1f8-de8e-11f1-ae2c-5f5704a69182",
+      "audio_url": "https://traffic.megaphone.fm/TC3401691425.mp3",
+      "pfad": "/v1/episode/94140e08f77733c3fd809bc61dd82d63c132c361.json",
+      "titel": "#57 “Papa, du musst erst an mir vorbei!”",
+      "veroeffentlicht": "2026-11-12T23:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Ein extremer Kontrollwahn eskaliert in einer brutalen Bluttat auf einem Spielplatz.",
+      "clips_anzahl": 0,
+      "clips_art": null
+    },
     {
       "guid": "1b5191e0-d828-11f1-833a-6bf022f0ecb4",
       "audio_url": "https://traffic.megaphone.fm/TC8080076623.mp3",

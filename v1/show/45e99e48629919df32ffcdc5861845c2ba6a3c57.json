@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "资讯早7点",
   "apple_collection_id": "1794422481",
-  "erzeugt_am": "2026-11-14T09:58:17+00:00",
+  "erzeugt_am": "2026-11-14T18:24:08+00:00",
   "folgen": [
+    {
+      "guid": "6af5dbf514d01a26f8a8ff4d",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6af5dbf514d01a26f8a8ff4d/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lohxtjxtgYlqicvf9Zb5oPETS-EV.m4a",
+      "pfad": "/v1/episode/0bd65dd5e4761405ba74a95c175fe81317913575.json",
+      "titel": "1113 京东入局短剧、中国首款口服GLP-1减肥药获批、广东佛山鼓励商家设预付费7天冷静期、",
+      "veroeffentlicht": "2026-11-12T23:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "京东入局短剧、中国首款口服GLP-1减肥药获批、佛山设预付费7天冷静期",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6af47c773caef3b52f545347",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/67891a429407dcd1bfbfcfcb/6af47c773caef3b52f545347/media.xyzcdn.net/67891a429407dcd1bfbfcfcb/lsy4QJu2GtsY3NespRYfBgJH4BG6.m4a",

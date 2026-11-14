@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "摸鱼早报",
   "apple_collection_id": "1846847443",
-  "erzeugt_am": "2026-11-14T09:58:17+00:00",
+  "erzeugt_am": "2026-11-14T18:24:08+00:00",
   "folgen": [
+    {
+      "guid": "6af5eef43caef3b52f54e7a9",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6af5eef43caef3b52f54e7a9/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lmmbPJBfyAv1x6fAXo6FqNt2slOx.m4a",
+      "pfad": "/v1/episode/b3b63f445ebc15ae2407dad3ddf840eb3922defe.json",
+      "titel": "344-赵丽颖起诉红果短剧/中国首款口服GLP-1减肥药获批/英伟达宣布黄仁勋辞职",
+      "veroeffentlicht": "2026-11-12T21:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨AI短剧领域面孔与声音高度同质化背后的成本结构与行业逻辑",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6af45ccb14d01a26f8a865c7",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/66dddbf6bfd7110df42ba906/6af45ccb14d01a26f8a865c7/media.xyzcdn.net/66dddbf6bfd7110df42ba906/lhsPdRZnwRvGlpP32lxEm1tbw7Ib.m4a",

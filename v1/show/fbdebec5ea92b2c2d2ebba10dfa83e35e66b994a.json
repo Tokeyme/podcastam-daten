@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Eine Stunde History - Deutschlandfunk Nova",
   "apple_collection_id": "1111594074",
-  "erzeugt_am": "2026-11-14T09:58:17+00:00",
+  "erzeugt_am": "2026-11-14T18:24:08+00:00",
   "folgen": [
+    {
+      "guid": "DRadio-Wissen-3e791381",
+      "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/11/13/deutschlandfunknova_1095_der_erste_kreuzzug_20261113_3e791381.mp3",
+      "pfad": "/v1/episode/12c961f28ff2dd978eb5357be09545fdfbe841df.json",
+      "titel": "1095 - Der Erste Kreuzzug",
+      "veroeffentlicht": "2026-11-13T15:00:00+01:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Der erste Kreuzzug von 1095 und seine vielfältigen Ursachen, Motive und Folgen.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    },
     {
       "guid": "DRadio-Wissen-ba5bd356",
       "audio_url": "https://podcast-mp3.dradio.de/podcast/2026/11/06/deutschlandfunknova_1066_der_normanne_wilhelm_20261106_ba5bd356.mp3",
