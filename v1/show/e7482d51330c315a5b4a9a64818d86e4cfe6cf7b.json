@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Pivot",
   "apple_collection_id": "1073226719",
-  "erzeugt_am": "2026-11-14T18:24:08+00:00",
+  "erzeugt_am": "2026-11-15T02:44:53+00:00",
   "folgen": [
+    {
+      "guid": "1fae2370-d47d-11f0-95d3-370b1889aa08",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9100922179.mp3",
+      "pfad": "/v1/episode/ef2b4944fa3b8878c5de13ce960aad5659775e11.json",
+      "titel": "Jensen Huang Is Out: Nvidia’s Spy Scandal Rocks Silicon Valley",
+      "veroeffentlicht": "2026-11-13T11:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Nvidia CEO Jensen Huang resigns over spy scandal, shaking Silicon Valley and national…",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    },
     {
       "guid": "1f62dd02-d47d-11f0-95d3-d797e512eb6d",
       "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9197492096.mp3",
