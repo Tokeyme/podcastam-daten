@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "独树不成林",
   "apple_collection_id": "1711052890",
-  "erzeugt_am": "2026-11-15T22:33:04+00:00",
+  "erzeugt_am": "2026-11-16T19:07:38+00:00",
   "folgen": [
+    {
+      "guid": "6af8cc9a14d01a26f8a9e2ce",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64acd33c7a3d479103fbd32d/6af8cc9a14d01a26f8a9e2ce/media.xyzcdn.net/64acd33c7a3d479103fbd32d/lp2zYDRD_nXVGlWFOjHF443I_WWa.m4a",
+      "pfad": "/v1/episode/e76141077d67ed1309f8b64273f610d703aabf7a.json",
+      "titel": "378-歌德如何看待通用人工智能",
+      "veroeffentlicht": "2026-11-14T21:09:44+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨歌德作品对通用人工智能与技术发展的深刻启示",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6af6a0ca14d01a26f8a937ef",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64acd33c7a3d479103fbd32d/6af6a0ca14d01a26f8a937ef/media.xyzcdn.net/64acd33c7a3d479103fbd32d/liEutdHFPHKBJBRHBjhjnzivmfgz.m4a",

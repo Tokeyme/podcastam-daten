@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "超级游文化",
   "apple_collection_id": "1478366349",
-  "erzeugt_am": "2026-11-15T22:33:04+00:00",
+  "erzeugt_am": "2026-11-16T19:07:38+00:00",
   "folgen": [
+    {
+      "guid": "xmly_track_1032483790",
+      "audio_url": "https://tk.wavpub.com/WPTK_sNjLLWYhRJZQCrny.m4a",
+      "pfad": "/v1/episode/ad8325f01904bc4b431022a3d1d0db7b5655aab1.json",
+      "titel": "《影之刃》组织说江湖得有规矩？我呸！",
+      "veroeffentlicht": "2026-11-14T06:00:00+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨动作游戏《影之刃零》的独特设计、战斗体验以及中二且错综复杂的江湖故事。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "xmly_track_1027001034",
       "audio_url": "https://tk.wavpub.com/WPTK_JiiLljb8Kr1mkNW2.m4a",

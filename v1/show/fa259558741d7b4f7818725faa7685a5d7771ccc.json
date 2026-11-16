@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "时雨集",
   "apple_collection_id": "1885855012",
-  "erzeugt_am": "2026-11-15T22:33:04+00:00",
+  "erzeugt_am": "2026-11-16T19:07:38+00:00",
   "folgen": [
+    {
+      "guid": "6af1b8a9b4a4e20202f73529",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/697d89b181f5d59286969451/6af1b8a9b4a4e20202f73529/media.xyzcdn.net/697d89b181f5d59286969451/lr5BbE1u9KsjUSdM3y3z2XVw7cpR.m4a",
+      "pfad": "/v1/episode/af22b68ce1277dacdef9fe37c6896485e5372984.json",
+      "titel": "答听友问：远方无数的人们，都和我们有关",
+      "veroeffentlicht": "2026-11-09T12:26:26+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "播客“时语集”首次听友问答，聊聊名字由来、选题标准与对世界的观察。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6adb6df9c96c8942ec1143b7",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/697d89b181f5d59286969451/6adb6df9c96c8942ec1143b7/media.xyzcdn.net/697d89b181f5d59286969451/ltjsj7S83vih7Wc9pqDHeu8gLWhb.m4a",

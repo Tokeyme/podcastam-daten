@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Popcast With Knox and Jamie",
+  "apple_collection_id": "712316884",
+  "erzeugt_am": "2026-11-16T19:07:38+00:00",
+  "folgen": [
+    {
+      "guid": "6a90eaaf248eff970bbfdc5a",
+      "audio_url": "https://sphinx.acast.com/p/open/s/655bba4578d7ac0011fb4649/e/6a90eaaf248eff970bbfdc5a/media.mp3",
+      "pfad": "/v1/episode/da69d335e5f47c530563c6b3aab9578b2eebcd34.json",
+      "titel": "674: Dolly Parton Explained",
+      "veroeffentlicht": "2026-09-02T06:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A deep dive into the life, career, and enduring cultural legacy of Dolly Parton.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Now Playing - The Movie Review Podcast",
+  "apple_collection_id": "259617791",
+  "erzeugt_am": "2026-11-16T19:07:38+00:00",
+  "folgen": [
+    {
+      "guid": "nowplayingpodcast.podbean.com/02fd0453-7971-3f44-90fe-5fea0338aa9a",
+      "audio_url": "https://mcdn.podbean.com/mf/web/kuhmxux7dmjqve9e/NPP1657-RedFactionOrigins.mp3",
+      "pfad": "/v1/episode/5aa11aaa34720c175f4e7173092c830ced53c4a8.json",
+      "titel": "Red Faction: Origins Movie Review",
+      "veroeffentlicht": "2026-09-01T22:50:00-06:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A review of the 2011 sci-fi channel video game adaptation Red Faction Origins.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
