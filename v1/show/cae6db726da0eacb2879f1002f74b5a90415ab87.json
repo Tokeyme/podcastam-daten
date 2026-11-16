@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "Mit den Waffeln einer Frau",
   "apple_collection_id": "1481054140",
-  "erzeugt_am": "2026-11-15T02:44:53+00:00",
+  "erzeugt_am": "2026-11-15T22:33:04+00:00",
   "folgen": [
+    {
+      "guid": "913399dafd2a914ee43cde4ee29ea08d",
+      "audio_url": "https://audio.podigee-cdn.net/2641528-m-1d856725473537fc0d4315f4f796e91d.mp3?source=feed",
+      "pfad": "/v1/episode/47d654f7663c72ad39f5b4b636492ff9c3129a24.json",
+      "titel": "Jasmin Wagner",
+      "veroeffentlicht": "2026-11-13T05:00:00+00:00",
+      "clips": false,
+      "kapitel": false,
+      "einzeiler": "Jasmin Wagner alias Blümchen spricht über dreißig Jahre Karriere und ihr neues Leben als…",
+      "clips_anzahl": 0,
+      "clips_art": null
+    },
     {
       "guid": "37dd149ee56712f215bfd83a4c25ff1f",
       "audio_url": "https://audio.podigee-cdn.net/2629377-m-955b5d5025307777d128ca87a81f32ab.mp3?source=feed",

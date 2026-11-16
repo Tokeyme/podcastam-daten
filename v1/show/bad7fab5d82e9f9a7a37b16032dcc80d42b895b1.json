@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "忽左忽右",
   "apple_collection_id": "1493503146",
-  "erzeugt_am": "2026-11-15T02:44:53+00:00",
+  "erzeugt_am": "2026-11-15T22:33:04+00:00",
   "folgen": [
+    {
+      "guid": "6af6e5b03caef3b52f5543d4",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a",
+      "pfad": "/v1/episode/67032e978b6c8397fcaa441188c1f7e1261b896e.json",
+      "titel": "516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮",
+      "veroeffentlicht": "2026-11-13T10:39:59+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "探讨马克·布洛赫生平、年鉴学派及法国先贤祠机制与当代社会思潮的联系。",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "6af2df3ab4a4e20202f7ae55",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af2df3ab4a4e20202f7ae55/media.xyzcdn.net/5e4ee557418a84a0466737b7/lgrIc01Z9_3p6bVhcQwpxK8bS-nm.m4a",

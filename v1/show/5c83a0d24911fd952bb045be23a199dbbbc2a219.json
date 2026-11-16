@@ -2,8 +2,20 @@
   "schema_version": 1,
   "show": "故事FM",
   "apple_collection_id": "1256399960",
-  "erzeugt_am": "2026-11-15T02:44:53+00:00",
+  "erzeugt_am": "2026-11-15T22:33:04+00:00",
   "folgen": [
+    {
+      "guid": "7f65777d-c4a0-4420-9ac5-5eb723e90638",
+      "audio_url": "https://tk.wavpub.com/WPTK_vvbDy13gA7pQlO1C-48a40130f223.m4a",
+      "pfad": "/v1/episode/661dbda2003769912688c196532e5c9a6334b0f8.json",
+      "titel": "一个母亲，不必一个人",
+      "veroeffentlicht": "2026-11-12T17:52:16+08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "一个母亲在独自抚养孩子的过程中，如何走过心理困境与重建人生？",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    },
     {
       "guid": "d7352f18-013c-4003-b3ae-8f4349b10810",
       "audio_url": "https://tk.wavpub.com/WPTK_hZ3Ov5XWafTt6dvT.m4a",
