@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Green Lanterns Podcast",
+  "apple_collection_id": "1659241262",
+  "erzeugt_am": "2026-11-17T23:10:05+00:00",
+  "folgen": [
+    {
+      "guid": "84be7b60-213a-479a-97ff-8109b3b71f6b",
+      "audio_url": "https://api.riverside.com/hosting-analytics/media/41512f4cf1193fb0fb87c18140f00cf2b614ca55c35456b7489dee3442b40a92/eyJlcGlzb2RlSWQiOiI4NGJlN2I2MC0yMTNhLTQ3OWEtOTdmZi04MTA5YjNiNzFmNmIiLCJwb2RjYXN0SWQiOiI1OTgzMzBjNC1hZmYxLTRkZjUtYjkwNy1jYmY0OWNlZDI0NmMiLCJhY2NvdW50SWQiOiI2ODYxYzVhZmY4NTY0OWNiOGQ1ZGUwN2IiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE5NGZlMmY5Nzc3YWE0Nzg2NDc5NWZlL2ZlbGxvd3NoaXAtb2YtZmFucy1jb21wb3Nlci0yMDI2LTgtMzFfXzYtOC0xNS5tcDMifQ==.mp3",
+      "pfad": "/v1/episode/8024f20fca79e6ed3b9ffab37b8000f5de2dc1e9.json",
+      "titel": "Lanterns | Season 1 | Episode 3 | 'OutKast' | Reaction",
+      "veroeffentlicht": "2026-09-03T08:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep dive and fan reaction to the third episode of Lanterns, titled 'OutKast'.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

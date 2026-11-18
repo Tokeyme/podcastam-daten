@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Rebel Force Radio: Star Wars Podcast",
+  "apple_collection_id": "593355728",
+  "erzeugt_am": "2026-11-17T23:10:05+00:00",
+  "folgen": [
+    {
+      "guid": "245553fc-3731-4207-9003-383774ed6215",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/secure/rebelforceradio/RFR_090326_StarWarsPodcast.mp3?dest-id=125372",
+      "pfad": "/v1/episode/de5f1c8ed7f8d42ffba9b18782ed6524db78f864.json",
+      "titel": "Celebrating 20 Years of Star Wars Podcasting",
+      "veroeffentlicht": "2026-09-04T23:22:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Reflecting on two decades of Star Wars podcasting with live callers and old memories.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

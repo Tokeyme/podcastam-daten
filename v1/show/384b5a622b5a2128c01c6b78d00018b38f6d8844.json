@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Tiny Desk Concerts - Audio",
+  "apple_collection_id": "657476401",
+  "erzeugt_am": "2026-11-17T23:10:05+00:00",
+  "folgen": [
+    {
+      "guid": "72fcd2fb-25d6-4bd1-ab1d-8ad92d8b40d5",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510306/npr.simplecastaudio.com/f8340005-ecd2-40a1-92fc-780f71f71359/episodes/b3b5156c-ff2c-4519-ac41-cdf5227e73ea/audio/256/default.mp3?awCollectionId=f8340005-ecd2-40a1-92fc-780f71f71359&awEpisodeId=b3b5156c-ff2c-4519-ac41-cdf5227e73ea&t=podcast&e=1090096546&p=510306&d=908&size=29075000",
+      "pfad": "/v1/episode/82fffc4ca9bddf47c23d65d15bd3b70a4c467116.json",
+      "titel": "J Balvin: Tiny Desk (Home) Concert",
+      "veroeffentlicht": "2022-04-14T09:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "J Balvin performs a vibrant set for the Tiny Desk Home Concert series.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

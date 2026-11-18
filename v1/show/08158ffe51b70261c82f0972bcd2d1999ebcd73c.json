@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Wires from the Deep - A Silo Podcast",
+  "apple_collection_id": "1685749237",
+  "erzeugt_am": "2026-11-17T23:10:05+00:00",
+  "folgen": [
+    {
+      "guid": "479b4157-8f03-45cf-a4ee-13e3fba5e050",
+      "audio_url": "https://media.transistor.fm/e2c7154c/07be08ec.mp3",
+      "pfad": "/v1/episode/18f23d5e3e5d6c283a25d78136fb82a3d763e486.json",
+      "titel": "Silo S3 E9: Daniel and the Chocolate Factory",
+      "veroeffentlicht": "2026-08-31T09:37:37-03:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Detailed breakdown of Silo Season 3 Episode 9, covering Bernard, Jules, and the past.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
+    }
+  ]
+}

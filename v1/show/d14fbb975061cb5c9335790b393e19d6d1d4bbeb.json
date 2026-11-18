@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "A History of Rock Music in 500 Songs",
+  "apple_collection_id": "1437402802",
+  "erzeugt_am": "2026-11-17T23:10:05+00:00",
+  "folgen": [
+    {
+      "guid": "6ec28d94-1ac2-578c-8bc2-3de6c50d3b8b",
+      "audio_url": "https://500songs.com/wp-content/uploads/2026/09/186-frownland.mp3",
+      "pfad": "/v1/episode/b4a0f8c56ecb781578a113f634081b00815ba729.json",
+      "titel": "Song 186: “Frownland” by Captain Beefheart and His Magic Band",
+      "veroeffentlicht": "2026-09-03T10:46:07+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The turbulent history of Captain Beefheart and the creation of Trout Mask Replica.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
+    }
+  ]
+}

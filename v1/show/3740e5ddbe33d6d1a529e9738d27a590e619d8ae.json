@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Horror Movie Club",
+  "apple_collection_id": "1394669923",
+  "erzeugt_am": "2026-11-17T23:10:05+00:00",
+  "folgen": [
+    {
+      "guid": "5aa2aa305417fc8e6adca1a1:5ab58a5f1ae6cf2ed3acd565:6a9716f9ecbf3b34f51c7922",
+      "audio_url": "http://media.blubrry.com/horrormovieclub/static1.squarespace.com/static/5aa2aa305417fc8e6adca1a1/t/6a977a50054d1b19dca0beb6/1788312230235/WesCravensNewNightmare.mp3",
+      "pfad": "/v1/episode/4b7548208a7fb9247c8347a255d9f8b2a25c6e72.json",
+      "titel": "Wes Craven's New Nightmare (1994)",
+      "veroeffentlicht": "2026-09-02T09:15:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep dive into Wes Craven's 1994 meta-horror masterpiece, Wes Craven's New Nightmare.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
