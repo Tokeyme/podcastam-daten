@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Classical Performance",
+  "apple_collection_id": "147511169",
+  "erzeugt_am": "2026-11-18T19:40:46+00:00",
+  "folgen": [
+    {
+      "guid": "https://www.podtrac.com/pts/redirect.mp3/file.audio.wgbh.org/classical-performance/pod180610-Schumann-and-Romance.mp3",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/163/7c593312-5597-4cba-8a64-d231b27e6a54/pod180610_Schumann_and_Romance.mp3",
+      "pfad": "/v1/episode/beb9a4f665531b6495bcb366bde3171b63f02f1c.json",
+      "titel": "Schumann and Romance",
+      "veroeffentlicht": "2018-06-10T04:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Celebrating Robert Schumann with his song-cycle Frauenliebe und Leben and Three Romances.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3"
+    }
+  ]
+}

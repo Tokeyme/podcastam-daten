@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Your Favorite Band Sucks",
+  "apple_collection_id": "1322283290",
+  "erzeugt_am": "2026-11-18T19:40:46+00:00",
+  "folgen": [
+    {
+      "guid": "d4fbbdf3-670d-4603-8f29-f3818ec76d96",
+      "audio_url": "https://traffic.megaphone.fm/APO1964273536.mp3",
+      "pfad": "/v1/episode/625ff6da6102119fec5866bcdab1775b2b9f0974.json",
+      "titel": "Frank Zappa Sucks",
+      "veroeffentlicht": "2024-12-13T00:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Frank Zappa and his massive, over-hyped body of work examined and thoroughly dismissed.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

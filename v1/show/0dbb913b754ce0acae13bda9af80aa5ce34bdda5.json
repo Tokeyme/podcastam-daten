@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Hit Parade | Music History and Music Trivia",
+  "apple_collection_id": "1291058235",
+  "erzeugt_am": "2026-11-18T19:40:46+00:00",
+  "folgen": [
+    {
+      "guid": "1000787221662",
+      "audio_url": "https://sphinx.acast.com/p/open/s/695d4ed8d1ba84fb8f043f94/e/6a97010c66efea21e006f8eb/media.mp3",
+      "pfad": "/v1/episode/30568f35071d64da157936ccd9f57b4bdd03cf11.json",
+      "titel": "Decoder Ring: Why Do Actors Act Like They Can Sing?",
+      "veroeffentlicht": "2026-09-04T07:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Why actors almost always do their own singing on screen, whether they should or not.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Great Composers Podcast - a classical music podcast",
+  "apple_collection_id": "1125785164",
+  "erzeugt_am": "2026-11-18T19:40:46+00:00",
+  "folgen": [
+    {
+      "guid": "da8e7adb-c882-4e94-8ce1-03a63d8273e5",
+      "audio_url": "https://traffic.libsyn.com/secure/thegcp/Ep._50b_Tokens_of_Friendship.mp3?dest-id=1144268",
+      "pfad": "/v1/episode/177294768534ed54daf50da68a1903b653e3a2e1.json",
+      "titel": "50(b) - Johannes Brahms pt. 15b \"Tokens of Friendship\" a classical music podcast",
+      "veroeffentlicht": "2024-05-12T21:15:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Johannes Brahms navigates friendships, the Fourth Symphony, and a great musical rivalry.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
+    }
+  ]
+}

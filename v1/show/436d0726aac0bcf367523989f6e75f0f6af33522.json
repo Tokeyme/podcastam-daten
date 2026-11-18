@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Strong Songs",
+  "apple_collection_id": "1443417194",
+  "erzeugt_am": "2026-11-18T19:40:46+00:00",
+  "folgen": [
+    {
+      "guid": "4a433bb9-dfb2-4064-98b9-e2331d53900b",
+      "audio_url": "https://feeds.strongsongspodcast.com/link/22773/17424876/128_default_tc.mp3",
+      "pfad": "/v1/episode/c96fc25a8c3d3b78220cdb70ac389938c25a1791.json",
+      "titel": "\"Song for the Dead\" by Queens of the Stone Age",
+      "veroeffentlicht": "2026-08-21T04:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep musical breakdown of Queens of the Stone Age's iconic track Song for the Dead.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Music Student 101",
+  "apple_collection_id": "1135311532",
+  "erzeugt_am": "2026-11-18T19:40:46+00:00",
+  "folgen": [
+    {
+      "guid": "62293fa3-88b8-4c6a-bf20-33768a7aa5d4",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/musicstudent101/159-Intro_To_20th_Century_Music.mp3?dest-id=400265",
+      "pfad": "/v1/episode/106839b3e05fbd1ce0ea688a092604fc44480fbc.json",
+      "titel": "159-Intro To 20th Century Music",
+      "veroeffentlicht": "2026-08-30T21:47:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A preview of advanced theory topics and stylistic shifts in 20th-century music",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

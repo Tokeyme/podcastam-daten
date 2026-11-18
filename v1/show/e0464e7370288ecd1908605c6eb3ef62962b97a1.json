@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Irish & Celtic Music Podcast",
+  "apple_collection_id": "77407482",
+  "erzeugt_am": "2026-11-18T19:40:46+00:00",
+  "folgen": [
+    {
+      "guid": "673649c3-1279-45d6-b5d5-fd272f99d6cb",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-773.mp3?dest-id=17757",
+      "pfad": "/v1/episode/550e9c6e19a21632fb9b0aa2d3c60ca0e2ccc0dc.json",
+      "titel": "The Wizard of Donegal Bay #773",
+      "veroeffentlicht": "2026-09-03T08:30:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Celebrating Celtic culture with music, community updates, and independent artists.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
