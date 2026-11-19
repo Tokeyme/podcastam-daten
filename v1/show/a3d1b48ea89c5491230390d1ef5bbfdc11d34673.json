@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Rolling Stone Music Now",
+  "apple_collection_id": "1855128495",
+  "erzeugt_am": "2026-11-19T10:24:49+00:00",
+  "folgen": [
+    {
+      "guid": "d484e8fe-8924-11f1-9375-ff1076a1ce16",
+      "audio_url": "https://pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/1468/traffic.megaphone.fm/IMP6500398610.mp3",
+      "pfad": "/v1/episode/5618ae5438a2f60fd524abd6d0e729695f60ad83.json",
+      "titel": "Bob Dylan, U2, Neil Young: Daniel Lanois Looks Back at His Life in Music",
+      "veroeffentlicht": "2026-07-26T19:30:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Daniel Lanois looks back at his legendary career working with Bob Dylan, U2 and Neil…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

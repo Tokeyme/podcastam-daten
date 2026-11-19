@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "One Life One Chance with Toby Morse",
+  "apple_collection_id": "1449669906",
+  "erzeugt_am": "2026-11-19T10:24:49+00:00",
+  "folgen": [
+    {
+      "guid": "954ec46b-d19e-4357-a5c6-c8c9ef5da683",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/tobymorseonelifeonechance/HOPPUS2-MAX2.mp3?dest-id=1000931",
+      "pfad": "/v1/episode/4b5d36b3d25c757f28ca7aa8f28648ae5f851622.json",
+      "titel": "Episode 412- Mark Hoppus interviews Toby!",
+      "veroeffentlicht": "2026-08-31T08:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Mark Hoppus interviews Toby Morse about punk rock, life in H2O, and fatherhood.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

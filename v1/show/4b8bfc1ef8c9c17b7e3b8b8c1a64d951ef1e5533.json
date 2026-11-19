@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "NPR's Book of the Day",
+  "apple_collection_id": "1587369865",
+  "erzeugt_am": "2026-11-19T10:24:49+00:00",
+  "folgen": [
+    {
+      "guid": "ba4ed15b-18f0-499f-9140-f5179ada4a7b",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510364/npr.simplecastaudio.com/c3f326c7-02ae-4df0-b95a-b35e58973e1a/episodes/abf180bd-afc2-4512-a034-831331aa6a67/audio/128/default.mp3?awCollectionId=c3f326c7-02ae-4df0-b95a-b35e58973e1a&awEpisodeId=abf180bd-afc2-4512-a034-831331aa6a67&feed=tZrJMl4P&t=podcast&e=nx-s1-5955768&p=510364&d=1039&size=16632729",
+      "pfad": "/v1/episode/a3bb690b607ccbb4f47dacdc2ecfd10b021151ca.json",
+      "titel": "New music books take on Paul Simon's 'Graceland' and the history of music and prison",
+      "veroeffentlicht": "2026-09-04T07:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "New books examine the making of Paul Simon's Graceland and the history of prison in music.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

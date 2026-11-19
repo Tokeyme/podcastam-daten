@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Play Guitar Podcast",
+  "apple_collection_id": "1341900209",
+  "erzeugt_am": "2026-11-19T10:24:49+00:00",
+  "folgen": [
+    {
+      "guid": "69a62126-5ff1-40fa-ba73-e3ba5429c4ae",
+      "audio_url": "https://traffic.libsyn.com/secure/playguitarpodcast/481-pgp-090226.mp3?dest-id=143959",
+      "pfad": "/v1/episode/88fdf6e6d6daa2b2b664fc3e523111c21b583ea7.json",
+      "titel": "How to Find the Notes on Your Guitar Fretboard - 481",
+      "veroeffentlicht": "2026-09-02T13:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A simple formula using the major scale helps you find natural notes on the guitar.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
+    }
+  ]
+}

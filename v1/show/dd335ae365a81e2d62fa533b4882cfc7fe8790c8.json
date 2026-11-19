@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "1000 Years of Classical Music",
+  "apple_collection_id": "1095849704",
+  "erzeugt_am": "2026-11-19T10:24:49+00:00",
+  "folgen": [
+    {
+      "guid": "tag:soundcloud,2010:tracks/305850704",
+      "audio_url": "https://feeds.soundcloud.com/stream/305850704-1000yearsofclassicalmusic-keys-to-music-tchaikovskys-symphony-no5.mp3",
+      "pfad": "/v1/episode/fb544d9badfe0fb938f22d1f04955d051dbdfd07.json",
+      "titel": "Keys to Music: Tchaikovsky's Symphony No.5",
+      "veroeffentlicht": "2017-02-03T00:01:45+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep dive into Tchaikovsky's Fifth Symphony, its themes, structure, and emotional…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "NPR's Mountain Stage",
+  "apple_collection_id": "357520844",
+  "erzeugt_am": "2026-11-19T10:24:49+00:00",
+  "folgen": [
+    {
+      "guid": "9123b280-36da-42d6-b8c9-4966276874e1",
+      "audio_url": "https://feedpress.me/link/13907/17366111/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2Fbfc3ec5b-79cc-8cab-b904-0878bfd9f84c.mp3",
+      "pfad": "/v1/episode/c9d0190990bf3bce28c08c4749d2801fc34881a3.json",
+      "titel": "1,081 - Paul Thorn, Ray Benson, Sunny Sweeney, Andy Friedman",
+      "veroeffentlicht": "2026-06-23T17:15:48+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Live performances and stories from Paul Thorne, Ray Benson, Sunny Sweeney, and Andy…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

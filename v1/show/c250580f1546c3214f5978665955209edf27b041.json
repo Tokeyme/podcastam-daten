@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Classical Fix",
+  "apple_collection_id": "1479986426",
+  "erzeugt_am": "2026-11-19T10:24:49+00:00",
+  "folgen": [
+    {
+      "guid": "urn:bbc:podcast:m001xds1",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hlmzpw.mp3",
+      "pfad": "/v1/episode/4ec109cdc19268db7ff63436b4275a326645a790.json",
+      "titel": "Cherry Healey",
+      "veroeffentlicht": "2024-03-25T01:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Broadcaster Cherry Healy explores classical music and reflects on her early oboe days.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
