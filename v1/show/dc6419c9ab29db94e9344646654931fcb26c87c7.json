@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Books I Make My Husband Read",
+  "apple_collection_id": "1760855341",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "1749f6f7-03a1-4620-a476-8db2f71e522b",
+      "audio_url": "https://media.transistor.fm/16edb675/cfdfb893.mp3",
+      "pfad": "/v1/episode/e24ba42532e78e09229e1d3c182b5028791baac5.json",
+      "titel": "S5.E4 - Kin by Tayari Jones",
+      "veroeffentlicht": "2026-08-25T00:15:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep dive into Tayari Jones's historical fiction novel Kin.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

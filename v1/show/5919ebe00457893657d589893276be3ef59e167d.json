@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Book Club Review",
+  "apple_collection_id": "1215730246",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "gid://art19-episode-locator/V0/ZpaYKgrGaen7GhGfstNTzMLbGhmKd3bqMkhd1JZArEI",
+      "audio_url": "https://rss.art19.com/episodes/48edd71a-e50f-461b-b441-0122ad00b570.mp3?rss_browser=BAhJIg9Qb2RjYXN0c0FNBjoGRVQ%3D--c9d0f227393eba43755ba678b9790bd53109b948",
+      "pfad": "/v1/episode/7f6fe9988c8b35a2cb0acd6e522825c539e2a0e4.json",
+      "titel": "Summer Reading: The Debrief, with Kate and Laura",
+      "veroeffentlicht": "2026-09-01T12:15:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Looking back at summer reading highs, lows, and book club favorites",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

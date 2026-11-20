@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Meg's Reading Room",
+  "apple_collection_id": "1761060886",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "fa6a4a08-ebe1-4ade-93b8-6a96fb2b0205",
+      "audio_url": "https://audio4.redcircle.com/episodes/0cb26700-4057-434b-ae5c-49bbeca362e1/stream.mp3",
+      "pfad": "/v1/episode/66ccc4365ce9711130c062bf665ded162b19f99c.json",
+      "titel": "Ep 140: Elizabeth Wellington Rollins (THE THREE GRACES OF PEARL STREET)",
+      "veroeffentlicht": "2026-09-02T07:00:02+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Author Elizabeth Wellington Rollins discusses her debut novel and lifelong reading habits.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

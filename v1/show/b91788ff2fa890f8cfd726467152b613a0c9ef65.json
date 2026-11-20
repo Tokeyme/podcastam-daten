@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Daily Short Stories - Mystery & Suspense",
+  "apple_collection_id": "1586561491",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/59407243",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/59407243/the_black_bag_left_on_a_doorstep.mp3",
+      "pfad": "/v1/episode/8d989a671634f4e78acbb6395f71795581ef84b2.json",
+      "titel": "The Black Bag Left on a Doorstep",
+      "veroeffentlicht": "2026-09-05T09:00:02+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A female detective connects a mysterious abandoned bag to a country house jewel theft.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Great Crime & Mystery Books",
+  "apple_collection_id": "1615272368",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "4c70bd46-d256-4f37-a0a8-f73f4286d61b",
+      "audio_url": "https://audio3.redcircle.com/episodes/bbc36302-31d1-4f93-8979-ce79bf039c6d/stream.mp3",
+      "pfad": "/v1/episode/25e71f94a9e8081307a897e1aa6fc6b7163cf05f.json",
+      "titel": "Graustark, by George Barr McCutcheon. Part VII.",
+      "veroeffentlicht": "2026-08-27T06:42:46+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Princess Yetive faces the forced partition of her kingdom and a desperate race to save…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

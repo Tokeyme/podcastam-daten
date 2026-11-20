@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Read Well Podcast",
+  "apple_collection_id": "1693275525",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "Buzzsprout-19385213",
+      "audio_url": "https://www.buzzsprout.com/2302656/episodes/19385213-learn-to-saunter-through-your-books-ep128.mp3",
+      "pfad": "/v1/episode/4e761864cd7b3bd2999b8fc5ab3deaa62b24850d.json",
+      "titel": "Learn to Saunter Through Your Books | EP128",
+      "veroeffentlicht": "2026-06-22T11:00:00-06:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Compare reading to walking: from speed-reading to Thoreau's art of sauntering.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
+    }
+  ]
+}

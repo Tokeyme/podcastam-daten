@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Literary Life Podcast",
+  "apple_collection_id": "1460580357",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "d58eb695-26d2-4b60-8d9b-8bcc21996a39",
+      "audio_url": "https://traffic.libsyn.com/secure/theliterarylife/TLL_ep344final.mp3?dest-id=1228634",
+      "pfad": "/v1/episode/425016864c1af9c920528cfa548864bd6348d3a2.json",
+      "titel": "Episode 344: Watership Down by Richard Adams, Ch. 41-50",
+      "veroeffentlicht": "2026-09-01T05:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A deep literary discussion on the ending and themes of Richard Adams' Watership Down.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

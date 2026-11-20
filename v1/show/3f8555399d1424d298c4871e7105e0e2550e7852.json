@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Never Enough Novels",
+  "apple_collection_id": "1815291848",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "6899f452dbbf82a7fe788306",
+      "audio_url": "https://sphinx.acast.com/p/open/s/682b47c0ee813e8be203bc90/e/6899f452dbbf82a7fe788306/media.mp3",
+      "pfad": "/v1/episode/e9afb58c51a1621143b9b0a26b60e4b5696fa543.json",
+      "titel": "August New Book Releases",
+      "veroeffentlicht": "2025-08-12T18:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A curated preview of the most anticipated book releases arriving in August.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

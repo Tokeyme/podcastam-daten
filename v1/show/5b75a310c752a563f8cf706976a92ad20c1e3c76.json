@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Books, Beach, & Beyond",
+  "apple_collection_id": "1688425643",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "Buzzsprout-19682289",
+      "audio_url": "https://www.buzzsprout.com/2182618/episodes/19682289-harlan-coben.mp3",
+      "pfad": "/v1/episode/19c2a64fd5e649442036acd5801fb4be7887c4af.json",
+      "titel": "Harlan Coben",
+      "veroeffentlicht": "2026-08-25T19:00:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Bestselling author Harlan Coben discusses his writing process, plot twists and new memoir.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
+    }
+  ]
+}

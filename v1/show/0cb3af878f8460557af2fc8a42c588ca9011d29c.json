@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Classic Audiobook Collection",
+  "apple_collection_id": "1632083097",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "9acb27cc-765a-11f1-946f-07db6aaa918a",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/CLR5767395437.mp3",
+      "pfad": "/v1/episode/d89135657eb85e19d092ea8b6f50c76d2821b852.json",
+      "titel": "A Fair Barbarian by Frances Hodgson Burnett ~ Full Audiobook [romance]",
+      "veroeffentlicht": "2026-07-04T13:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "An American heiress upsets a traditional English village with her style and freedom.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

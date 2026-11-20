@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Book Club",
+  "apple_collection_id": "1876049295",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "4fee133a-a2cf-11f1-b9b3-eb51cb4e01bd",
+      "audio_url": "https://traffic.megaphone.fm/GLT8531626018.mp3",
+      "pfad": "/v1/episode/569acb11b17cad054ba1c0d91bf9a43bb7450184.json",
+      "titel": "30. Lolita: Nabokov’s Twisted Masterpiece?",
+      "veroeffentlicht": "2026-08-31T23:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A deep dive into Vladimir Nabokov’s controversial 1955 masterpiece, Lolita.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

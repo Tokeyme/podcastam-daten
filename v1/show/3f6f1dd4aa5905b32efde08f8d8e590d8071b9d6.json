@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Currently Reading Podcast",
+  "apple_collection_id": "1435363675",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "7b917353-ea06-4223-bc04-b3fc104c68ea",
+      "audio_url": "https://traffic.libsyn.com/secure/currentlyreadingpodcast/Season_9_episode_5.mp3?dest-id=789821",
+      "pfad": "/v1/episode/8fb9c89a8ac2fbbbd7dc5847946f90a3b628e503.json",
+      "titel": "400 Episodes Of Currently Reading: Lessons We've Learned (S9E5)",
+      "veroeffentlicht": "2026-08-31T08:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Celebrating 400 episodes with personal lessons learned from nine years of podcasting.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

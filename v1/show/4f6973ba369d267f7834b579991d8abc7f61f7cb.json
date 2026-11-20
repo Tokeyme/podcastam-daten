@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Book Talk, etc.",
+  "apple_collection_id": "1568866573",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "Buzzsprout-19730701",
+      "audio_url": "https://www.buzzsprout.com/1749254/episodes/19730701-mood-reading-our-hearts-away-an-ask-us-anything.mp3",
+      "pfad": "/v1/episode/ceb5f5ed50bd365ee00c24397c6aa05abc2be12b.json",
+      "titel": "Mood Reading Our Hearts Away & An Ask Us Anything!",
+      "veroeffentlicht": "2026-09-01T05:00:00-05:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Mood readers discuss favorite recent reads and answer listener questions.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

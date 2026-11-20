@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The New Yorker: Fiction",
+  "apple_collection_id": "256945396",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "a158002a-7974-11f1-9c32-dbae3fc49c88",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE2458451137.mp3",
+      "pfad": "/v1/episode/f9cf4237f98fa8ec6988390bd3fbf31d330db889.json",
+      "titel": "Min Jin Lee Reads Wendi Kaufman",
+      "veroeffentlicht": "2026-09-01T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Min Jin Lee joins Deborah Treisman to discuss Wendy Kaufman's story Helen on 86th Street.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Books With Your Besties",
+  "apple_collection_id": "1767685025",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "Buzzsprout-19694797",
+      "audio_url": "https://www.buzzsprout.com/2360330/episodes/19694797-drowning-in-paper-flowers.mp3",
+      "pfad": "/v1/episode/6f949db49ad67a62a6f8ee0379040eefdc82e035.json",
+      "titel": "Drowning In Paper Flowers",
+      "veroeffentlicht": "2026-08-24T14:00:00-07:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "An author discusses Drowning In Paper Flowers, writing processes, and dark themes.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

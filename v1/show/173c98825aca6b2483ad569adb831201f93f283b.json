@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Odyssey",
+  "apple_collection_id": "1693172484",
+  "erzeugt_am": "2026-11-20T08:59:58+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/54487954",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/54487954/the_odyssey_book_i_01.mp3",
+      "pfad": "/v1/episode/cb853cb166bdd33d135ca3d8bc67467cc438a225.json",
+      "titel": "The Odyssey - Book I",
+      "veroeffentlicht": "2023-06-18T07:23:52+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "The gods plot Ulysses' return while Minerva inspires Telemachus to challenge the suitors.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}
