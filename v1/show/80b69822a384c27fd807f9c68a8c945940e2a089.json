@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Totally Booked with Zibby",
+  "apple_collection_id": "1366633318",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "6a85b2a4a835875d37a3d6b0",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/moms-dont-have-time-to-read-books/e/6a85b2a4a835875d37a3d6b0/media.mp3",
+      "pfad": "/v1/episode/a6b906846b3ae51b803bea44e15cc5314a5e891a.json",
+      "titel": "Sarah Addison Allen, PAPER GHOSTS, on Grief",
+      "veroeffentlicht": "2026-09-04T08:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Sarah Addison Allen discusses her novel Paper Ghosts, grief, and generational trauma.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

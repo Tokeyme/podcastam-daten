@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Podcast – Cory Doctorow's craphound.com",
+  "apple_collection_id": "81294582",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "https://craphound.com/?p=12684",
+      "audio_url": "https://archive.org/download/Cory_Doctorow_Podcast_522/Cory_Doctorow_Podcast_522_Why_businesses_lie_about_AI.mp3",
+      "pfad": "/v1/episode/dc46fc4a73f2d07b8d43ca32ef3d60f5b8eb3a38.json",
+      "titel": "Why businesses lie about AI",
+      "veroeffentlicht": "2026-08-09T04:12:27-08:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Why corporate leadership is trapped in a religious mania of lying about artificial…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

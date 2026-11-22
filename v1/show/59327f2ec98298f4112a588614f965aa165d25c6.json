@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Fantasy Books",
+  "apple_collection_id": "1681484776",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "86e76930-8653-486e-82a4-ee7c40132ef9",
+      "audio_url": "https://audio3.redcircle.com/episodes/a2cfcfa5-a5d0-4240-be06-bbefd633914d/stream.mp3",
+      "pfad": "/v1/episode/86a51b7d7a2145427698e41829b602e21f6e84d6.json",
+      "titel": "Peter Pan, by J. M. Barrie. Part VII.",
+      "veroeffentlicht": "2023-04-13T19:57:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The children return to the nursery, Wendy grows up, and Peter continues his visits.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The New Yorker: Poetry",
+  "apple_collection_id": "784600888",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "711a64b6-7974-11f1-a010-9b628340af4f",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE8655247488.mp3",
+      "pfad": "/v1/episode/c3c83ce0d8f516a4c0776448f29a960653906c1d.json",
+      "titel": "Mark Wunderlich Reads Spencer Reece",
+      "veroeffentlicht": "2026-08-26T18:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Poet Mark Wunderlich discusses Spencer Reese and reads his own work.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

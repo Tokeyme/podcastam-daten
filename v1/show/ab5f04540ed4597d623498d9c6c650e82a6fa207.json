@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Close Reads Podcast",
+  "apple_collection_id": "1191909632",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "substack:post:214169743",
+      "audio_url": "https://api.substack.com/feed/podcast/214169743/a83fc38b1266aed30f4fd85a03874ce2.mp3",
+      "pfad": "/v1/episode/9223526e46c865e5ae006a10d4befebb7347381e.json",
+      "titel": "Remembering Wendell Berry With Those Who Know Him",
+      "veroeffentlicht": "2026-09-04T15:08:47+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Remembering the life and literary legacy of Wendell Berry with those who knew him.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

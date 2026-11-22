@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Traditional Catholic Audiobooks",
+  "apple_collection_id": "1569037446",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "8904e218-4670-45bf-b38e-e2bfdd82f295",
+      "audio_url": "https://anchor.fm/s/5c5ed5d8/podcast/play/52649277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F5c5ed5d8%2F52649277%2F06e97fa7289d0c08381735c5e2281dab.m4a",
+      "pfad": "/v1/episode/421ba132adb83964ef4dd37f9b18aa4a43c80bbe.json",
+      "titel": "Tertullian - On Shows and On Patience",
+      "veroeffentlicht": "2022-06-01T12:47:15+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Tertullian outlines why Christians must avoid public shows and practice divine patience.",
+      "clips_anzahl": 1,
+      "clips_art": "aac"
+    }
+  ]
+}

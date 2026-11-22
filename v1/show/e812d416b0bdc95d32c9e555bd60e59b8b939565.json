@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Hello Crawlers - A Dungeon Crawler Carl Podcast",
+  "apple_collection_id": "1809423411",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "8b09f6f1-4c34-48ce-94c5-da9f33b42211",
+      "audio_url": "https://traffic.megaphone.fm/APO8017143430.mp3",
+      "pfad": "/v1/episode/9dd8b43b53a7fa275b9d17609277d1582b13b98c.json",
+      "titel": "Ep 61: A PARADE OF HORRIBLES | Ch 22 - 26",
+      "veroeffentlicht": "2026-09-04T12:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Discussing Dungeon Crawler Carl chapters 22 through 26 of A Parade of Horribles.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

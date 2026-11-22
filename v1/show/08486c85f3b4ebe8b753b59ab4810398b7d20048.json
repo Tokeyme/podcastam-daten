@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Fantasy FanReads",
+  "apple_collection_id": "1886548258",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "6a91f7910911a56197383cdf",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69b86dc04266c9b1c78fea99/e/6a91f7910911a56197383cdf/media.mp3",
+      "pfad": "/v1/episode/2c2b047d7fc688626ac3c9b3ee275d14558eb349.json",
+      "titel": "Penn Cole",
+      "veroeffentlicht": "2026-09-01T07:05:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Author Penn Cole discusses the final book in The Kindred's Curse Saga and series lore.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

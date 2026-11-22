@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Relish Top-Rated Audiobooks on Any Device",
+  "apple_collection_id": "6799616068",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "https://booksreader.space/abl/321546",
+      "audio_url": "https://samples.audible.com/bk/rhsp/007198/bk_rhsp_007198_sample.mp3",
+      "pfad": "/v1/episode/ebff64c6ae6f6c8c04a77e8525877dc8d5938a59.json",
+      "titel": "Superviviendo | Paulina Greenham, Anamar Orihuela - prólogo",
+      "veroeffentlicht": "2025-09-11T09:34:55+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Reconnecting with true emotions and breaking free from societal expectations.",
+      "clips_anzahl": 2,
+      "clips_art": "mp3"
+    }
+  ]
+}

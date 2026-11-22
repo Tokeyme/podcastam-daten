@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Dave’s First Crawl - a Dungeon Crawler Carl Podcast",
+  "apple_collection_id": "1815079919",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "28aca212-ce2d-48be-9f1d-0198597f59b7",
+      "audio_url": "https://feeds.alitu.com/26979983/28aca212-ce2d-48be-9f1d-0198597f59b7.mp3?t=1788145325000",
+      "pfad": "/v1/episode/33f0291d9fe860422b225cd31e7278691859a5a9.json",
+      "titel": "Carl vs. God: Piglet’s Worst Idea Yet | DCC Book 3, Ch. 32–34",
+      "veroeffentlicht": "2026-08-31T03:02:04+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Dave and Emmy wrap up Book 3 of Dungeon Crawler Carl, covering chapters 32 to 34.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

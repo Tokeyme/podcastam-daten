@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Get Thousands of Digital Audiobooks In High-Definition Audio",
+  "apple_collection_id": "6800312845",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "https://booksreader.space/abk/159364",
+      "audio_url": "https://booksreader.space/9780310325925.mp3",
+      "pfad": "/v1/episode/683aaf0637c100a6418c17436c1ffd4a4a781c61.json",
+      "titel": "Audiobook: The Mormon Mirage: A Former Member Looks at the Mormon Church Today by Latayne C. Scott",
+      "veroeffentlicht": "2009-09-01T12:53:25+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A former member looks at the history, changes, and internal divisions of the Mormon…",
+      "clips_anzahl": 1,
+      "clips_art": "mp3"
+    }
+  ]
+}

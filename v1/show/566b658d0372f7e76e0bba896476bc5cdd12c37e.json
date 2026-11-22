@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Jane Austen Bedtime Stories",
+  "apple_collection_id": "1570727604",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "7caa0900-918f-4f9a-baba-e16d40f731cb",
+      "audio_url": "https://traffic.megaphone.fm/APO3997956368.mp3",
+      "pfad": "/v1/episode/2596dc6be452c487b3f506c31db1ff16e06b77ba.json",
+      "titel": "Friday Favorites: Emma - Jane Fairfax's Rainy Walk to the Post Office",
+      "veroeffentlicht": "2026-09-04T20:00:01+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A bedtime reading of Jane Austen's Emma focusing on Jane Fairfax's rainy post office walk",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

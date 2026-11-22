@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Jane Austen Audiobooks",
+  "apple_collection_id": "1794421690",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "https://api.spreaker.com/episode/74856790",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74856790/jane_austen_anatomy_of_a_novel.mp3",
+      "pfad": "/v1/episode/6bb7a14c63b99583b94a7774e9d9d6c4d272f735.json",
+      "titel": "Jane Austen - Anatomy of a Novel",
+      "veroeffentlicht": "2026-10-29T09:00:02+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "An exploration of Jane Austen's life, her timeless novels, and her unique literary style",
+      "clips_anzahl": 3,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

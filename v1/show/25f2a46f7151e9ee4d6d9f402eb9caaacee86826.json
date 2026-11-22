@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "America’s Book Club",
+  "apple_collection_id": "1835731322",
+  "erzeugt_am": "2026-11-22T15:08:16+00:00",
+  "folgen": [
+    {
+      "guid": "0d867bca-8d0f-11f1-88ec-d7ea7e276151",
+      "audio_url": "https://traffic.megaphone.fm/CSPAN6008276822.mp3",
+      "pfad": "/v1/episode/8dcd9420ebeb95c4add43f3e27f44b6b5507ef67.json",
+      "titel": "Andrea Wulf on \"The Invention of Nature\"",
+      "veroeffentlicht": "2026-08-02T22:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Bestselling author Andrea Wulf discusses her historical biographies and research process.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}
