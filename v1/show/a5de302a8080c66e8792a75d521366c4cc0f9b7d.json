@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Bend the Knee: A Song of Ice and Fire Podcast",
+  "apple_collection_id": "1273613024",
+  "erzeugt_am": "2026-11-22T21:18:56+00:00",
+  "folgen": [
+    {
+      "guid": "92880e4c-edaa-414b-b65c-fa4eb4cd4b06",
+      "audio_url": "https://audio4.redcircle.com/episodes/edd73af9-0d1d-462c-8cfb-94d0db830fff/stream.mp3",
+      "pfad": "/v1/episode/151a687a86ce525c562639dd5afdfdc08e544f81.json",
+      "titel": "Ep. 227: - Boiled Leather Part 1 | AFFC & ADWD Prologues",
+      "veroeffentlicht": "2026-09-06T00:47:46+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Analyzing the prologues of A Feast for Crows and A Dance with Dragons using Boiled…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

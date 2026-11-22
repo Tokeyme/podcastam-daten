@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Librivox Audiobooks",
+  "apple_collection_id": "1680031836",
+  "erzeugt_am": "2026-11-22T21:18:56+00:00",
+  "folgen": [
+    {
+      "guid": "301d5d02-fd5b-4cbe-903f-d9776d232340",
+      "audio_url": "https://anchor.fm/s/c2f1f370/podcast/play/124275565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2F0a8bffe0-0f63-0e50-77f6-7e21a17565fe.mp3",
+      "pfad": "/v1/episode/54ce744261b8ddbec6eeb3eff1e672a708b8e15f.json",
+      "titel": "Emma (French Version) Pt.2",
+      "veroeffentlicht": "2026-09-05T14:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Emma Woodhouse navigates matchmaking, secrets, and misunderstandings before finding true…",
+      "clips_anzahl": 3,
+      "clips_art": "mp3"
+    }
+  ]
+}
