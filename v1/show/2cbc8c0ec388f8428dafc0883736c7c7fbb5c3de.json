@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "That Triathlon Life Podcast",
+  "apple_collection_id": "1606000644",
+  "erzeugt_am": "2026-11-23T12:19:48+00:00",
+  "folgen": [
+    {
+      "guid": "Buzzsprout-19744622",
+      "audio_url": "https://www.buzzsprout.com/1922707/episodes/19744622-should-there-be-an-age-group-finish-tape-at-pro-races-triathlon-training-euphoria-and-more.mp3",
+      "pfad": "/v1/episode/214f0186699cbea64f48a8d1a7020322b712ed1f.json",
+      "titel": "Should there be an age group finish tape at pro races, triathlon training euphoria, and more!",
+      "veroeffentlicht": "2026-09-03T00:00:00-07:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Pro triathletes discuss race finish tapes, training euphoria, and run forms.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

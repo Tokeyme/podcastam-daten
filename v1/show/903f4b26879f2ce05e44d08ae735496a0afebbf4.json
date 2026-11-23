@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Quanta Podcast",
+  "apple_collection_id": "1021340531",
+  "erzeugt_am": "2026-11-23T12:19:48+00:00",
+  "folgen": [
+    {
+      "guid": "prx_11709_0a183f0b-7e58-4f96-9a37-4ed2705a9445",
+      "audio_url": "https://tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dts.podtrac.com/redirect.mp3/dovetail.prxu.org/11709/0a183f0b-7e58-4f96-9a37-4ed2705a9445/Quanta_Ep66_FINAL.mp3",
+      "pfad": "/v1/episode/0ee7b01bf7107b881e608442511f9ca1fb6f118d.json",
+      "titel": "How the Brain Compresses Our Noisy World",
+      "veroeffentlicht": "2026-09-01T10:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "How the brain categorizes our noisy world through prediction and body context.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}
