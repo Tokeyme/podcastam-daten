@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "My Life of Crime with Erin Moriarty",
+  "apple_collection_id": "1479871899",
+  "erzeugt_am": "2026-11-24T11:24:24+00:00",
+  "folgen": [
+    {
+      "guid": "gid://art19-episode-locator/V0/6N47Z1zd6VTTiw1p18l_SHGGl4D77wMc0LVYvOzD5UE",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8249574/8249574_2026-04-14-080414.192.mp3?rssID=5966",
+      "pfad": "/v1/episode/139d768da8af1e028455499e1e3ee0cb2a6e7b31.json",
+      "titel": "Fight for the Truth Part 2",
+      "veroeffentlicht": "2023-12-20T08:01:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Investigative reporting helps overturn a wrongful conviction after two decades.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

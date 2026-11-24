@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Secret Life of Books",
+  "apple_collection_id": "1755803199",
+  "erzeugt_am": "2026-11-24T11:24:24+00:00",
+  "folgen": [
+    {
+      "guid": "6a9680c1b0faeccb23a64871",
+      "audio_url": "https://sphinx.acast.com/p/open/s/679c3267811ecd43a9f19b7a/e/6a9680c1b0faeccb23a64871/media.mp3",
+      "pfad": "/v1/episode/6fb0ca18e476090fe9479f841063e89fa7ec6046.json",
+      "titel": "Secret Life of Edinburgh",
+      "veroeffentlicht": "2026-09-01T09:24:49+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A literary walking tour through the secret history and hidden streets of Edinburgh.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

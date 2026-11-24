@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Outdoor Life Podcast",
+  "apple_collection_id": "1560573207",
+  "erzeugt_am": "2026-11-24T11:24:24+00:00",
+  "folgen": [
+    {
+      "guid": "c16bc85c-9075-11f1-8c50-93964a917c5e",
+      "audio_url": "https://traffic.megaphone.fm/RECU6113205867.mp3",
+      "pfad": "/v1/episode/b905b2d6498db14638dd0999039e3308a2975628.json",
+      "titel": "Are New Hunting Rifles Really Better Than the Old Ones?",
+      "veroeffentlicht": "2026-09-02T08:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Testing modern precision hunting rifles against classic woodstock models in the field",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

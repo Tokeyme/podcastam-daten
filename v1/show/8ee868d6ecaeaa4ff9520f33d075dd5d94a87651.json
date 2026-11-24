@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Neuroscience: Amateur Hour",
+  "apple_collection_id": "1601870665",
+  "erzeugt_am": "2026-11-24T11:24:24+00:00",
+  "folgen": [
+    {
+      "guid": "Buzzsprout-15285815",
+      "audio_url": "https://www.buzzsprout.com/1905790/episodes/15285815-episode-32-the-neuroscience-of-parkinson-s-disease.mp3",
+      "pfad": "/v1/episode/309f630d823f35bc5a5f8d5a4035f3613c7b4947.json",
+      "titel": "Episode 32: The Neuroscience of Parkinson's Disease",
+      "veroeffentlicht": "2024-06-20T13:00:00-07:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "The neuroscience of Parkinson's disease, its brain pathways, and treatments.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
