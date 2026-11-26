@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Healthy Eating Podcast",
+  "apple_collection_id": "1458144806",
+  "erzeugt_am": "2026-11-25T13:30:27+00:00",
+  "folgen": [
+    {
+      "guid": "211d6cdb-4adc-c4e5-82c7-a06c6e140e33",
+      "audio_url": "https://anchor.fm/s/99e6c78/podcast/play/2684959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-15%2Fe3a3d660ef7904672a4ebf40ed519f5b.m4a",
+      "pfad": "/v1/episode/c3b9bf4a169281e5ae141c6ce035fffc42da0aee.json",
+      "titel": "Is Dried Fruit as Good as you Think it is?",
+      "veroeffentlicht": "2019-03-25T22:33:13+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Weighing the health benefits, sugar content, and costs of dried versus fresh fruit.",
+      "clips_anzahl": 5,
+      "clips_art": "aac"
+    }
+  ]
+}

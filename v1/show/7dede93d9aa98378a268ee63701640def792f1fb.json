@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Approved",
+  "apple_collection_id": "1873356046",
+  "erzeugt_am": "2026-11-25T13:30:27+00:00",
+  "folgen": [
+    {
+      "guid": "a03b27ea-734b-401a-8c71-154227c25d6b",
+      "audio_url": "https://op3.dev/e/media.transistor.fm/e40e5879/0d010454.mp3",
+      "pfad": "/v1/episode/898db92b6646576b6ea808952cde2d86ada66268.json",
+      "titel": "Blueprint Medicines: Chasing Gleevec to a $9B Allergy Drug",
+      "veroeffentlicht": "2026-08-04T09:48:51+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "How Blueprint Medicines built a $9B allergy drug empire from cancer research.",
+      "clips_anzahl": 3,
+      "clips_art": "mp3"
+    }
+  ]
+}

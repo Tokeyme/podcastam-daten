@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Balance365 Life Radio",
+  "apple_collection_id": "1254305718",
+  "erzeugt_am": "2026-11-25T13:30:27+00:00",
+  "folgen": [
+    {
+      "guid": "15e41fca-fb7c-456b-9d71-fd145ccede7c",
+      "audio_url": "https://traffic.libsyn.com/secure/balance365liferadio/Episode_444_Final.mp3?dest-id=1051409",
+      "pfad": "/v1/episode/cbcff531b37b8d0ddbf47eba44e271a840c6f2bb.json",
+      "titel": "Episode 444: You Tried a GLP-1 And It Didn't Work. Now What?",
+      "veroeffentlicht": "2026-09-02T04:15:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Navigating your next steps when a GLP-1 weight-loss medication doesn't work out",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

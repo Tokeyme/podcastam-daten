@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Fast Life Podcast",
+  "apple_collection_id": "1336384602",
+  "erzeugt_am": "2026-11-25T13:30:27+00:00",
+  "folgen": [
+    {
+      "guid": "b6242945-3cb0-4615-a792-22ed47e7f40e",
+      "audio_url": "https://traffic.libsyn.com/secure/thefastlifepodcast/KICKNTWIST474_final.mp3?dest-id=640264",
+      "pfad": "/v1/episode/9656714bb51566c824f8bf6501f474db6b7ab64f.json",
+      "titel": "Kick 'n' Twist Chopper Show #474",
+      "veroeffentlicht": "2026-09-04T14:55:15+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Inside the new grassroots Kick 'n' Twist Chopper Show in Arkansas with Jason Ochoa and…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

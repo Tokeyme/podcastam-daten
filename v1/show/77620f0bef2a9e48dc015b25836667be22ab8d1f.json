@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Life On Books Podcast",
+  "apple_collection_id": "1713607230",
+  "erzeugt_am": "2026-11-25T13:30:27+00:00",
+  "folgen": [
+    {
+      "guid": "3aea3ac0-7c55-4e4e-8cef-705847819f97",
+      "audio_url": "https://traffic.megaphone.fm/APO2348842532.mp3",
+      "pfad": "/v1/episode/44ea18949c6a8084561946d09d91f53ebe4e77a9.json",
+      "titel": "These are our favorite books...written by women in translation",
+      "veroeffentlicht": "2026-09-04T12:45:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A personal selection of favorite books written by women in translation.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

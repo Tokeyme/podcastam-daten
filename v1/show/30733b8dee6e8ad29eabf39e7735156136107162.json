@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Dr. Drew Podcast",
+  "apple_collection_id": "592284993",
+  "erzeugt_am": "2026-11-25T13:30:27+00:00",
+  "folgen": [
+    {
+      "guid": "23e83ded-7ce1-4927-944f-f06ad186b22b",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/356bed25-babd-4c08-92fb-e1dc93e4818a.mp3?rss_browser=BAhJIg9GZWVkQnVybmVyBjoGRVQ%3D--1349f61597e261c82b72aa63507666dd2bce579d",
+      "pfad": "/v1/episode/09ef4bbf2191966f3f1d636110bc17fc7543ac0c.json",
+      "titel": "OCD, Comedy, and Cannabis with Mike Glazer",
+      "veroeffentlicht": "2024-10-30T08:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Comedian Mike Glazer discusses his battle with OCD, bipolar symptoms, and cannabis.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
