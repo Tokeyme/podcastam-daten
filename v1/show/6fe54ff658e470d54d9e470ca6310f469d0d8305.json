@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Boring Books for Bedtime Readings to Help You Sleep",
+  "apple_collection_id": "1438351534",
+  "erzeugt_am": "2026-11-26T15:09:13+00:00",
+  "folgen": [
+    {
+      "guid": "17bda044-f512-493a-8467-e1afc09097c9",
+      "audio_url": "https://traffic.libsyn.com/secure/boringbooksforbedtime/The_Republic_of_Plato_4.mp3?dest-id=810167",
+      "pfad": "/v1/episode/ea253753abf7e869e0494dbc9424340194659efd.json",
+      "titel": "The Republic of Plato with Introduction and Analysis, by Benjamin Jowett (Part 4)",
+      "veroeffentlicht": "2026-08-31T11:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A soothing bedtime reading of Benjamin Jowett's analysis of Plato's Republic, Books 3…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Nick Bare Podcast",
+  "apple_collection_id": "1469466722",
+  "erzeugt_am": "2026-11-26T15:09:13+00:00",
+  "folgen": [
+    {
+      "guid": "4850d781-ec83-402f-84f0-3c67d2e194cb",
+      "audio_url": "https://anchor.fm/s/88a9008c/podcast/play/124766615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430585788-44100-2-1c2684f889b55.mp3",
+      "pfad": "/v1/episode/4359476c64e434f0ba01e884ba7f3dbbc3a0e553.json",
+      "titel": "189: How I Eat and Train While Traveling",
+      "veroeffentlicht": "2026-08-31T08:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Practical strategies for maintaining nutrition and fitness routines during travel.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Just Sleep - Bedtime Stories for Adults",
+  "apple_collection_id": "1555756767",
+  "erzeugt_am": "2026-11-26T15:09:13+00:00",
+  "folgen": [
+    {
+      "guid": "6a99e809809ae7c2f473f39e",
+      "audio_url": "https://sphinx.acast.com/p/open/s/6267be622846c00016bf0c51/e/6a99e809809ae7c2f473f39e/media.mp3",
+      "pfad": "/v1/episode/8490dee35f369d09ea4cc68714c95f090bc9ff7a.json",
+      "titel": "Sleepy Story: Robin Hood Aids a Sorrowful Knight",
+      "veroeffentlicht": "2026-09-03T21:35:05+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Robin Hood helps a distressed knight and encounters the Bishop of Hereford.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Daily Meditation Podcast",
+  "apple_collection_id": "1545805204",
+  "erzeugt_am": "2026-11-26T15:09:13+00:00",
+  "folgen": [
+    {
+      "guid": "8621c2fb-020b-4632-8d18-118fbca15883",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/dailymeditation/2026-07-31--feeling-stuck-15min.mp3?dest-id=2531102",
+      "pfad": "/v1/episode/67aaed5916beded505f5e5da0d5a71d07577121d.json",
+      "titel": "When You Feel Stuck | 15 Minute Guided Meditation",
+      "veroeffentlicht": "2026-08-06T12:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "A guided meditation to help you step out of mental spinning when feeling stuck.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
