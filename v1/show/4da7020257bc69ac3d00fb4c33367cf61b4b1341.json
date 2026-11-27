@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Discovery",
+  "apple_collection_id": "284012446",
+  "erzeugt_am": "2026-11-27T12:15:56+00:00",
+  "folgen": [
+    {
+      "guid": "urn:bbc:podcast:w3ct8jsv",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p661rp.mp3",
+      "pfad": "/v1/episode/672576485c2c600e062f045eb0cbdf728c9d54f6.json",
+      "titel": "Women not included: Artificial Intelligence",
+      "veroeffentlicht": "2026-08-31T20:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "How artificial intelligence reveals, reinforces, and amplifies hidden gender biases.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

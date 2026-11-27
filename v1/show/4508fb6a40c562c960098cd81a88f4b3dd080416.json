@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Mel Robbins's podcast",
+  "apple_collection_id": "6795513781",
+  "erzeugt_am": "2026-11-27T12:15:56+00:00",
+  "folgen": [
+    {
+      "guid": "6a7869cbb5c73bab7c955aba",
+      "audio_url": "https://sphinx.acast.com/p/open/s/6a6890e3ad2617d1d5eb269c/e/6a7869cbb5c73bab7c955aba/media.mp3",
+      "pfad": "/v1/episode/d1b59278b9aa6943d3de43352833928862b47cdb.json",
+      "titel": "Boost Your Charisma With These Hacks Even If You Arent In The Same Room - Mel Robbins Podcast",
+      "veroeffentlicht": "2026-08-10T00:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Master charisma and influence in virtual meetings and emails with science-backed cues.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Overheard at National Geographic",
+  "apple_collection_id": "1466697207",
+  "erzeugt_am": "2026-11-27T12:15:56+00:00",
+  "folgen": [
+    {
+      "guid": "a864ce9a-48d4-11ed-a177-5b9c22487965",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2045690710.mp3?updated=1686232457",
+      "pfad": "/v1/episode/f3fb8ffa698021130ae9ac5cae1d5e1801c5c23f.json",
+      "titel": "Trapped in the icy waters of the Northwest Passage",
+      "veroeffentlicht": "2023-07-11T09:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Following in the wake of a doomed polar expedition, explorers risk the Arctic ice.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

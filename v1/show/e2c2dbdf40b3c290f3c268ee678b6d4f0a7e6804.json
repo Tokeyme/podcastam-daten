@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "NASA's Curious Universe",
+  "apple_collection_id": "1505624059",
+  "erzeugt_am": "2026-11-27T12:15:56+00:00",
+  "folgen": [
+    {
+      "guid": "d17e5ecc-a861-11f1-9dca-dba20020be9e",
+      "audio_url": "https://chrt.fm/track/477F33/traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8243891295.mp3",
+      "pfad": "/v1/episode/48a39dd61dcb474891f6be49967bdfdd4564ab97.json",
+      "titel": "Roman Series: Liftoff!",
+      "veroeffentlicht": "2026-09-05T12:36:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Behind the scenes of the launch and emotional journey of NASA's Roman Space Telescope.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

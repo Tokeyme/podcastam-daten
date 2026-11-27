@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Science Magazine Podcast",
+  "apple_collection_id": "120329020",
+  "erzeugt_am": "2026-11-27T12:15:56+00:00",
+  "folgen": [
+    {
+      "guid": "39965cba-a6de-11f1-a70a-e350ad9f310c",
+      "audio_url": "https://traffic.megaphone.fm/AAAS5031216704.mp3",
+      "pfad": "/v1/episode/da96eb39b5746eb947b27ac3103203d99dd4a0ea.json",
+      "titel": "Sex-reversing frogs, and Europe’s rising rates of a deadly tick-borne disease",
+      "veroeffentlicht": "2026-09-03T18:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "How climate change drives deadly tick-borne viruses and sex-reversing frogs in Europe",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Nature Podcast",
+  "apple_collection_id": "81934659",
+  "erzeugt_am": "2026-11-27T12:15:56+00:00",
+  "folgen": [
+    {
+      "guid": "6a9ad28affe0e274914ba5d5",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a9ad28affe0e274914ba5d5/media.mp3",
+      "pfad": "/v1/episode/80178fbb86336ad63854b7c6382092de200c5f3d.json",
+      "titel": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+      "veroeffentlicht": "2026-09-04T14:15:38+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Exploring 2026 Ig Nobel winners and a mysterious particle flash hinting at dark matter.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

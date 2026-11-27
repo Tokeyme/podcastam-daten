@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Science of Everything Podcast",
+  "apple_collection_id": "385427377",
+  "erzeugt_am": "2026-11-27T12:15:56+00:00",
+  "folgen": [
+    {
+      "guid": "fods12.podbean.com/a53f26c6-bf2c-30ec-95c6-ea41174b4b45",
+      "audio_url": "https://mcdn.podbean.com/mf/web/t2umwcczet99y5ba/Episode_164_-_Gauge_Theory_and_the_Higgs_Boson6olsa.mp3",
+      "pfad": "/v1/episode/2ecfa0673b6f0aeadc134b5055b1feec8ea56489.json",
+      "titel": "Episode 164: Gauge Theory and the Higgs Boson",
+      "veroeffentlicht": "2026-08-30T10:31:59+10:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Exploring gauge theory, symmetries, and how the Higgs mechanism generates mass.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
