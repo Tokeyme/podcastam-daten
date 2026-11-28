@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Curiosity Weekly",
+  "apple_collection_id": "1262100467",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "6a959298cb03bea43d5eef4a",
+      "audio_url": "https://prefix.up.audio/s/sphinx.acast.com/p/open/s/64f1f67000d9130011234429/e/6a959298cb03bea43d5eef4a/media.mp3",
+      "pfad": "/v1/episode/ccae66fd88a0e5c93d18a4576265af8ba48d4884.json",
+      "titel": "Awareness in a Vegetative State",
+      "veroeffentlicht": "2026-09-02T07:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Unlocking hidden consciousness in unresponsive patients and hacking sleep in the lab",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

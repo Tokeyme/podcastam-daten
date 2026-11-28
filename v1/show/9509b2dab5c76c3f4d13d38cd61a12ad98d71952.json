@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Dr. Gabrielle Lyon Show",
+  "apple_collection_id": "1622316426",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "5ec2b35d-d9ef-4626-808c-214e5dd4de99",
+      "audio_url": "https://pscrb.fm/rss/p/episodes.captivate.fm/episode/5ec2b35d-d9ef-4626-808c-214e5dd4de99.mp3",
+      "pfad": "/v1/episode/8cb09518fabe39e2eca6b05fa4b7d3ef266871c2.json",
+      "titel": "5 Protein Myths Your Doctor Is Still Repeating In The Exam Room",
+      "veroeffentlicht": "2026-09-03T09:00:00-04:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Uncovering five common protein myths and what the evidence actually says about muscle…",
+      "clips_anzahl": 4,
+      "clips_art": "mp3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Houston We Have a Podcast",
+  "apple_collection_id": "1262594123",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "e1c5437e-a170-11f1-91dc-63283e05ebb5",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7649878096.mp3",
+      "pfad": "/v1/episode/96c2c82e9f9630fa3d122d999f2ffd27d6ef506d.json",
+      "titel": "National Lab 15",
+      "veroeffentlicht": "2026-08-28T13:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Celebrating 15 years of managing research and commercial projects on the space station.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Leviathan Chronicles",
+  "apple_collection_id": "304481704",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "6d8c51e8-37fb-11f1-a802-dbc234051383",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/495/pscrb.fm/rss/p/traffic.megaphone.fm/SBP9537112308.mp3?updated=1776169456",
+      "pfad": "/v1/episode/748d85ad82024d429ed45c28133dc809f2afe348.json",
+      "titel": "A Quick Update from the Leviathan Team",
+      "veroeffentlicht": "2026-04-14T12:22:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A brief update on the upcoming content and future plans for the podcast feed.",
+      "clips_anzahl": 1,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

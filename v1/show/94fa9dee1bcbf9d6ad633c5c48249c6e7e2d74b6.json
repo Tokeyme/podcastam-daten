@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Professor Brian Cox Live Q and A Podcast",
+  "apple_collection_id": "1207023461",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "http://feeds.soundcloud.com/stream/308550622-cosmicshambles-do-you-believe-in-quarks-episode-1-professor-brian-cox-live-q-a.mp3",
+      "audio_url": "http://feeds.soundcloud.com/stream/308550622-cosmicshambles-do-you-believe-in-quarks-episode-1-professor-brian-cox-live-q-a.mp3",
+      "pfad": "/v1/episode/17eb021540de0231de21750126a034fefcf3f051.json",
+      "titel": "Do You Believe in Quarks?",
+      "veroeffentlicht": "2017-02-20T12:00:00+01:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Professor Brian Cox answers audience questions on physics, black holes, and the cosmos.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

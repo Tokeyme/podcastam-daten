@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Alien Encounters",
+  "apple_collection_id": "1640555666",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "706dc0e4-ce56-4d28-8381-64a301bdea4e",
+      "audio_url": "https://sphinx.acast.com/p/open/s/64e689c55dfc5d0011072273/e/706dc0e4-ce56-4d28-8381-64a301bdea4e/media.mp3",
+      "pfad": "/v1/episode/c9f22e22449e037373fd6d453f4b9f16d6673bb4.json",
+      "titel": "Ep.10: The Time Machine",
+      "veroeffentlicht": "2022-11-11T08:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "A destroyed quantum computer and advanced virtual reality spark a race against a cosmic…",
+      "clips_anzahl": 5,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

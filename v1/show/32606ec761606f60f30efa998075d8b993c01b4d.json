@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Astrum Space",
+  "apple_collection_id": "1709972584",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "47302c3e-c1dc-4865-ab45-c9656475ef14",
+      "audio_url": "https://traffic.megaphone.fm/APO6693222548.mp3",
+      "pfad": "/v1/episode/954c2a58b94a58c5e080691f7268126971e48a6c.json",
+      "titel": "We Found Something on Mercury That No One Expected",
+      "veroeffentlicht": "2026-09-05T09:00:00+00:00",
+      "clips": true,
+      "kapitel": false,
+      "einzeiler": "Recent findings from the BepiColombo mission reveal unexpected secrets about Mercury.",
+      "clips_anzahl": 4,
+      "clips_art": "mp3_suche"
+    }
+  ]
+}

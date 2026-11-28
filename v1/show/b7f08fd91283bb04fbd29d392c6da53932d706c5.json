@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "The Infinite Monkey Cage",
+  "apple_collection_id": "343580439",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "urn:bbc:podcast:m002kjvk",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mp40k1.mp3",
+      "pfad": "/v1/episode/be23b8e834335f0db8f60f19c7d86f9850f2f77c.json",
+      "titel": "The North Pole Unwrapped - Russell Kane, Felicity Aston and Lloyd Peck",
+      "veroeffentlicht": "2025-12-24T07:00:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Exploring the science, exploration challenges, and unique ecosystems of the North Pole.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}

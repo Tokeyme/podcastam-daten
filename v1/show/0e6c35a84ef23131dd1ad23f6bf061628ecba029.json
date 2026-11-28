@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "show": "Latent Space: The AI Engineer Podcast",
+  "apple_collection_id": "1674008350",
+  "erzeugt_am": "2026-11-28T15:03:10+00:00",
+  "folgen": [
+    {
+      "guid": "substack:post:212802973",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a15fdf-8a36-7a71-8729-41e1021687ed/01a15fdf-8aea-7a8e-9868-ad5032b5c4e2.mp3",
+      "pfad": "/v1/episode/274aa0eb3315fdcb63979c66ccc2ab6aec243c0a.json",
+      "titel": "🔬 “We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
+      "veroeffentlicht": "2026-08-26T15:15:00+00:00",
+      "clips": true,
+      "kapitel": true,
+      "einzeiler": "Anima Anandkumar on neural operators, physics-informed AI, and climate modeling.",
+      "clips_anzahl": 5,
+      "clips_art": "mp3"
+    }
+  ]
+}
